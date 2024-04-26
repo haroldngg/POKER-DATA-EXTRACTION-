@@ -1,0 +1,2384 @@
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 1 - HandId: #3220176331748672043-1-1706731226 - Holdem no limit (12/50/100) - 2024/01/31 20:00:26 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #4 is the button
+Seat 1: Kepler452b (20000)
+Seat 2: P1xel7 (20000)
+Seat 3: KISSCOOLL (20000)
+Seat 4: GTOQPAKCDQ76 (20000)
+Seat 5: maanonu51 (20000)
+Seat 6: -Bamio- (20000)
+*** ANTE/BLINDS ***
+maanonu51 posts ante 12
+-Bamio- posts ante 12
+Kepler452b posts ante 12
+P1xel7 posts ante 12
+KISSCOOLL posts ante 12
+GTOQPAKCDQ76 posts ante 12
+maanonu51 posts small blind 50
+-Bamio- posts big blind 100
+Dealt to P1xel7 [Kd As]
+*** PRE-FLOP *** 
+Kepler452b folds
+P1xel7 raises 200 to 300
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+maanonu51 folds
+-Bamio- folds
+P1xel7 collected 522 from pot
+*** SUMMARY ***
+Total pot 522 | No rake
+Seat 2: P1xel7 won 522
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 2 - HandId: #3220176331748672043-2-1706731473 - Holdem no limit (14/60/120) - 2024/01/31 20:04:33 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #5 is the button
+Seat 1: Kepler452b (19988)
+Seat 2: P1xel7 (20210)
+Seat 3: KISSCOOLL (19988)
+Seat 4: GTOQPAKCDQ76 (19988)
+Seat 5: maanonu51 (19938)
+Seat 6: -Bamio- (19888)
+*** ANTE/BLINDS ***
+-Bamio- posts ante 14
+Kepler452b posts ante 14
+P1xel7 posts ante 14
+KISSCOOLL posts ante 14
+GTOQPAKCDQ76 posts ante 14
+maanonu51 posts ante 14
+-Bamio- posts small blind 60
+Kepler452b posts big blind 120
+Dealt to P1xel7 [Jd 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+maanonu51 raises 240 to 360
+-Bamio- folds
+Kepler452b raises 720 to 1080
+maanonu51 calls 720
+*** FLOP *** [3d Qc 4h]
+Kepler452b checks
+maanonu51 bets 1498
+Kepler452b calls 1498
+*** TURN *** [3d Qc 4h][Qs]
+Kepler452b checks
+maanonu51 bets 3445
+Kepler452b raises 13951 to 17396 and is all-in
+maanonu51 calls 13901 and is all-in
+*** RIVER *** [3d Qc 4h Qs][Ah]
+*** SHOW DOWN ***
+maanonu51 shows [7d 7s] (Two pairs : Queens and 7)
+Kepler452b shows [6h Ac] (Two pairs : Aces and Queens)
+Kepler452b collected 40042 from pot
+*** SUMMARY ***
+Total pot 40042 | No rake
+Board: [3d Qc 4h Qs Ah]
+Seat 1: Kepler452b (big blind) showed [6h Ac] and won 40042 with Two pairs : Aces and Queens
+Seat 5: maanonu51 (button) showed [7d 7s] and lost with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 2 - HandId: #3220176331748672043-3-1706731551 - Holdem no limit (14/60/120) - 2024/01/31 20:05:51 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #6 is the button
+Seat 1: Kepler452b (40042)
+Seat 2: P1xel7 (20196)
+Seat 3: KISSCOOLL (19974)
+Seat 4: GTOQPAKCDQ76 (19974)
+Seat 6: -Bamio- (19814)
+*** ANTE/BLINDS ***
+Kepler452b posts ante 14
+P1xel7 posts ante 14
+KISSCOOLL posts ante 14
+GTOQPAKCDQ76 posts ante 14
+-Bamio- posts ante 14
+Kepler452b posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [7s 8h]
+*** PRE-FLOP *** 
+KISSCOOLL raises 240 to 360
+GTOQPAKCDQ76 folds
+-Bamio- folds
+Kepler452b calls 300
+P1xel7 folds
+*** FLOP *** [9h 9s As]
+Kepler452b checks
+KISSCOOLL checks
+*** TURN *** [9h 9s As][8s]
+Kepler452b checks
+KISSCOOLL checks
+*** RIVER *** [9h 9s As 8s][5c]
+Kepler452b bets 120
+KISSCOOLL calls 120
+*** SHOW DOWN ***
+KISSCOOLL shows [Kd Qs] (One pair : 9)
+Kepler452b shows [4d 5h] (Two pairs : 9 and 5)
+Kepler452b collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Board: [9h 9s As 8s 5c]
+Seat 1: Kepler452b (small blind) showed [4d 5h] and won 1150 with Two pairs : 9 and 5
+Seat 3: KISSCOOLL showed [Kd Qs] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 2 - HandId: #3220176331748672043-4-1706731617 - Holdem no limit (14/60/120) - 2024/01/31 20:06:57 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #1 is the button
+Seat 1: Kepler452b (40698)
+Seat 2: P1xel7 (20062)
+Seat 3: KISSCOOLL (19480)
+Seat 4: GTOQPAKCDQ76 (19960)
+Seat 6: -Bamio- (19800)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 14
+KISSCOOLL posts ante 14
+Kepler452b posts ante 14
+GTOQPAKCDQ76 posts ante 14
+-Bamio- posts ante 14
+P1xel7 posts small blind 60
+KISSCOOLL posts big blind 120
+Dealt to P1xel7 [4h Jc]
+*** PRE-FLOP *** 
+GTOQPAKCDQ76 folds
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+KISSCOOLL collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 3: KISSCOOLL (big blind) won 250
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 2 - HandId: #3220176331748672043-5-1706731638 - Holdem no limit (14/60/120) - 2024/01/31 20:07:18 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #2 is the button
+Seat 1: Kepler452b (40684)
+Seat 2: P1xel7 (19988)
+Seat 3: KISSCOOLL (19596)
+Seat 4: GTOQPAKCDQ76 (19946)
+Seat 5: punky3232 (20000)
+Seat 6: -Bamio- (19786)
+*** ANTE/BLINDS ***
+KISSCOOLL posts ante 14
+GTOQPAKCDQ76 posts ante 14
+Kepler452b posts ante 14
+P1xel7 posts ante 14
+punky3232 posts ante 14
+-Bamio- posts ante 14
+KISSCOOLL posts small blind 60
+GTOQPAKCDQ76 posts big blind 120
+Dealt to P1xel7 [4d Ac]
+*** PRE-FLOP *** 
+punky3232 raises 150 to 270
+-Bamio- folds
+Kepler452b raises 540 to 810
+P1xel7 folds
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+punky3232 calls 540
+*** FLOP *** [3h Qd 6d]
+punky3232 checks
+Kepler452b bets 659
+punky3232 calls 659
+*** TURN *** [3h Qd 6d][Jd]
+punky3232 bets 1601
+Kepler452b calls 1601
+*** RIVER *** [3h Qd 6d Jd][8c]
+punky3232 checks
+Kepler452b bets 4163
+punky3232 folds
+Kepler452b collected 10567 from pot
+*** SUMMARY ***
+Total pot 10567 | No rake
+Board: [3h Qd 6d Jd 8c]
+Seat 1: Kepler452b won 10567
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 2 - HandId: #3220176331748672043-6-1706731692 - Holdem no limit (14/60/120) - 2024/01/31 20:08:12 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #3 is the button
+Seat 1: Kepler452b (44004)
+Seat 2: P1xel7 (19974)
+Seat 3: KISSCOOLL (19522)
+Seat 4: GTOQPAKCDQ76 (19812)
+Seat 5: punky3232 (16916)
+Seat 6: -Bamio- (19772)
+*** ANTE/BLINDS ***
+GTOQPAKCDQ76 posts ante 14
+punky3232 posts ante 14
+Kepler452b posts ante 14
+P1xel7 posts ante 14
+KISSCOOLL posts ante 14
+-Bamio- posts ante 14
+GTOQPAKCDQ76 posts small blind 60
+punky3232 posts big blind 120
+Dealt to P1xel7 [Jc 7s]
+*** PRE-FLOP *** 
+-Bamio- folds
+Kepler452b calls 120
+P1xel7 folds
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+punky3232 checks
+*** FLOP *** [Kc Kh As]
+punky3232 checks
+Kepler452b bets 120
+punky3232 folds
+Kepler452b collected 504 from pot
+*** SUMMARY ***
+Total pot 504 | No rake
+Board: [Kc Kh As]
+Seat 1: Kepler452b won 504
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176331748672043-7-1706731716 - Holdem no limit (16/70/140) - 2024/01/31 20:08:36 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #4 is the button
+Seat 1: Kepler452b (44254)
+Seat 2: P1xel7 (19960)
+Seat 3: KISSCOOLL (19508)
+Seat 4: GTOQPAKCDQ76 (19738)
+Seat 5: punky3232 (16782)
+Seat 6: -Bamio- (19758)
+*** ANTE/BLINDS ***
+punky3232 posts ante 16
+-Bamio- posts ante 16
+Kepler452b posts ante 16
+P1xel7 posts ante 16
+KISSCOOLL posts ante 16
+GTOQPAKCDQ76 posts ante 16
+punky3232 posts small blind 70
+-Bamio- posts big blind 140
+Dealt to P1xel7 [6s 5s]
+*** PRE-FLOP *** 
+Kepler452b raises 140 to 280
+P1xel7 folds
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b collected 586 from pot
+*** SUMMARY ***
+Total pot 586 | No rake
+Seat 1: Kepler452b won 586
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176331748672043-8-1706731730 - Holdem no limit (16/70/140) - 2024/01/31 20:08:50 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #5 is the button
+Seat 1: Kepler452b (44544)
+Seat 2: P1xel7 (19944)
+Seat 3: KISSCOOLL (19492)
+Seat 4: GTOQPAKCDQ76 (19722)
+Seat 5: punky3232 (16696)
+Seat 6: -Bamio- (19602)
+*** ANTE/BLINDS ***
+-Bamio- posts ante 16
+Kepler452b posts ante 16
+P1xel7 posts ante 16
+KISSCOOLL posts ante 16
+GTOQPAKCDQ76 posts ante 16
+punky3232 posts ante 16
+-Bamio- posts small blind 70
+Kepler452b posts big blind 140
+Dealt to P1xel7 [2d Ah]
+*** PRE-FLOP *** 
+P1xel7 folds
+KISSCOOLL calls 140
+GTOQPAKCDQ76 folds
+punky3232 calls 140
+-Bamio- folds
+Kepler452b checks
+*** FLOP *** [Kd 5s 9h]
+Kepler452b checks
+KISSCOOLL checks
+punky3232 checks
+*** TURN *** [Kd 5s 9h][3s]
+Kepler452b checks
+KISSCOOLL checks
+punky3232 checks
+*** RIVER *** [Kd 5s 9h 3s][9d]
+Kepler452b checks
+KISSCOOLL checks
+punky3232 checks
+*** SHOW DOWN ***
+KISSCOOLL shows [Jc 4c] (One pair : 9)
+Kepler452b shows [Jd 7c] (One pair : 9)
+punky3232 shows [7d Jh] (One pair : 9)
+punky3232 collected 293 from pot
+Kepler452b collected 293 from pot
+*** SUMMARY ***
+Total pot 586 | No rake
+Board: [Kd 5s 9h 3s 9d]
+Seat 1: Kepler452b (big blind) showed [Jd 7c] and won 293 with One pair : 9
+Seat 3: KISSCOOLL showed [Jc 4c] and lost with One pair : 9
+Seat 5: punky3232 (button) showed [7d Jh] and won 293 with One pair : 9
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176331748672043-9-1706731805 - Holdem no limit (16/70/140) - 2024/01/31 20:10:05 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #6 is the button
+Seat 1: Kepler452b (44681)
+Seat 2: P1xel7 (19928)
+Seat 3: KISSCOOLL (19336)
+Seat 4: GTOQPAKCDQ76 (19706)
+Seat 5: punky3232 (16833)
+Seat 6: -Bamio- (19516)
+*** ANTE/BLINDS ***
+Kepler452b posts ante 16
+P1xel7 posts ante 16
+KISSCOOLL posts ante 16
+GTOQPAKCDQ76 posts ante 16
+punky3232 posts ante 16
+-Bamio- posts ante 16
+Kepler452b posts small blind 70
+P1xel7 posts big blind 140
+Dealt to P1xel7 [6d 8d]
+*** PRE-FLOP *** 
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+punky3232 raises 175 to 315
+-Bamio- folds
+Kepler452b folds
+P1xel7 calls 175
+*** FLOP *** [Qs 2d Jh]
+P1xel7 checks
+punky3232 bets 279
+P1xel7 folds
+punky3232 collected 1075 from pot
+*** SUMMARY ***
+Total pot 1075 | No rake
+Board: [Qs 2d Jh]
+Seat 5: punky3232 won 1075
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176331748672043-10-1706731826 - Holdem no limit (16/70/140) - 2024/01/31 20:10:26 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #1 is the button
+Seat 1: Kepler452b (44595)
+Seat 2: P1xel7 (19597)
+Seat 3: KISSCOOLL (19320)
+Seat 4: GTOQPAKCDQ76 (19690)
+Seat 5: punky3232 (17298)
+Seat 6: -Bamio- (19500)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 16
+KISSCOOLL posts ante 16
+Kepler452b posts ante 16
+GTOQPAKCDQ76 posts ante 16
+punky3232 posts ante 16
+-Bamio- posts ante 16
+P1xel7 posts small blind 70
+KISSCOOLL posts big blind 140
+Dealt to P1xel7 [Ac Tc]
+*** PRE-FLOP *** 
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b folds
+P1xel7 raises 168 to 308
+KISSCOOLL folds
+P1xel7 collected 544 from pot
+*** SUMMARY ***
+Total pot 544 | No rake
+Seat 2: P1xel7 (small blind) won 544
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176331748672043-11-1706731849 - Holdem no limit (16/70/140) - 2024/01/31 20:10:49 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #2 is the button
+Seat 1: Kepler452b (44579)
+Seat 2: P1xel7 (19817)
+Seat 3: KISSCOOLL (19164)
+Seat 4: GTOQPAKCDQ76 (19674)
+Seat 5: punky3232 (17282)
+Seat 6: -Bamio- (19484)
+*** ANTE/BLINDS ***
+KISSCOOLL posts ante 16
+GTOQPAKCDQ76 posts ante 16
+Kepler452b posts ante 16
+P1xel7 posts ante 16
+punky3232 posts ante 16
+-Bamio- posts ante 16
+KISSCOOLL posts small blind 70
+GTOQPAKCDQ76 posts big blind 140
+Dealt to P1xel7 [Td 6d]
+*** PRE-FLOP *** 
+punky3232 folds
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+KISSCOOLL raises 140 to 280
+GTOQPAKCDQ76 folds
+KISSCOOLL collected 516 from pot
+*** SUMMARY ***
+Total pot 516 | No rake
+Seat 3: KISSCOOLL (small blind) won 516
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176331748672043-12-1706731890 - Holdem no limit (16/70/140) - 2024/01/31 20:11:30 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #3 is the button
+Seat 1: Kepler452b (44563)
+Seat 2: P1xel7 (19801)
+Seat 3: KISSCOOLL (19384)
+Seat 4: GTOQPAKCDQ76 (19518)
+Seat 5: punky3232 (17266)
+Seat 6: -Bamio- (19468)
+*** ANTE/BLINDS ***
+GTOQPAKCDQ76 posts ante 16
+punky3232 posts ante 16
+Kepler452b posts ante 16
+P1xel7 posts ante 16
+KISSCOOLL posts ante 16
+-Bamio- posts ante 16
+GTOQPAKCDQ76 posts small blind 70
+punky3232 posts big blind 140
+Dealt to P1xel7 [4d 7h]
+*** PRE-FLOP *** 
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+KISSCOOLL calls 140
+GTOQPAKCDQ76 folds
+punky3232 checks
+*** FLOP *** [Qd Qs 6s]
+punky3232 checks
+KISSCOOLL bets 290
+punky3232 folds
+KISSCOOLL collected 736 from pot
+*** SUMMARY ***
+Total pot 736 | No rake
+Board: [Qd Qs 6s]
+Seat 3: KISSCOOLL (button) won 736
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176331748672043-13-1706731916 - Holdem no limit (16/70/140) - 2024/01/31 20:11:56 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #4 is the button
+Seat 1: Kepler452b (44547)
+Seat 2: P1xel7 (19785)
+Seat 3: KISSCOOLL (19674)
+Seat 4: GTOQPAKCDQ76 (19432)
+Seat 5: punky3232 (17110)
+Seat 6: -Bamio- (19452)
+*** ANTE/BLINDS ***
+punky3232 posts ante 16
+-Bamio- posts ante 16
+Kepler452b posts ante 16
+P1xel7 posts ante 16
+KISSCOOLL posts ante 16
+GTOQPAKCDQ76 posts ante 16
+punky3232 posts small blind 70
+-Bamio- posts big blind 140
+Dealt to P1xel7 [7h Td]
+*** PRE-FLOP *** 
+Kepler452b raises 140 to 280
+P1xel7 folds
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b collected 586 from pot
+*** SUMMARY ***
+Total pot 586 | No rake
+Seat 1: Kepler452b won 586
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176331748672043-14-1706731938 - Holdem no limit (16/70/140) - 2024/01/31 20:12:18 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #5 is the button
+Seat 1: Kepler452b (44837)
+Seat 2: P1xel7 (19769)
+Seat 3: KISSCOOLL (19658)
+Seat 4: GTOQPAKCDQ76 (19416)
+Seat 5: punky3232 (17024)
+Seat 6: -Bamio- (19296)
+*** ANTE/BLINDS ***
+-Bamio- posts ante 16
+Kepler452b posts ante 16
+P1xel7 posts ante 16
+KISSCOOLL posts ante 16
+GTOQPAKCDQ76 posts ante 16
+punky3232 posts ante 16
+-Bamio- posts small blind 70
+Kepler452b posts big blind 140
+Dealt to P1xel7 [7h 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+KISSCOOLL calls 140
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b checks
+*** FLOP *** [5d Js 5h]
+Kepler452b checks
+KISSCOOLL bets 357
+Kepler452b calls 357
+*** TURN *** [5d Js 5h][Kh]
+Kepler452b checks
+KISSCOOLL checks
+*** RIVER *** [5d Js 5h Kh][Ac]
+Kepler452b checks
+KISSCOOLL bets 928
+Kepler452b raises 3016 to 3944
+KISSCOOLL folds
+Kepler452b collected 6032 from pot
+*** SUMMARY ***
+Total pot 6032 | No rake
+Board: [5d Js 5h Kh Ac]
+Seat 1: Kepler452b (big blind) won 6032
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 4 - HandId: #3220176331748672043-15-1706732015 - Holdem no limit (20/80/160) - 2024/01/31 20:13:35 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #6 is the button
+Seat 1: Kepler452b (46412)
+Seat 2: P1xel7 (19753)
+Seat 3: KISSCOOLL (18217)
+Seat 4: GTOQPAKCDQ76 (19400)
+Seat 5: punky3232 (17008)
+Seat 6: -Bamio- (19210)
+*** ANTE/BLINDS ***
+Kepler452b posts ante 20
+P1xel7 posts ante 20
+KISSCOOLL posts ante 20
+GTOQPAKCDQ76 posts ante 20
+punky3232 posts ante 20
+-Bamio- posts ante 20
+Kepler452b posts small blind 80
+P1xel7 posts big blind 160
+Dealt to P1xel7 [7h Kc]
+*** PRE-FLOP *** 
+KISSCOOLL calls 160
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b calls 80
+P1xel7 checks
+*** FLOP *** [9s 7c Kh]
+Kepler452b checks
+P1xel7 checks
+KISSCOOLL checks
+*** TURN *** [9s 7c Kh][4c]
+Kepler452b bets 210
+P1xel7 calls 210
+KISSCOOLL calls 210
+*** RIVER *** [9s 7c Kh 4c][Kd]
+Kepler452b checks
+P1xel7 bets 615
+KISSCOOLL calls 615
+Kepler452b folds
+*** SHOW DOWN ***
+KISSCOOLL shows [8s 8h] (Two pairs : Kings and 8)
+P1xel7 shows [7h Kc] (Full of Kings and 7)
+P1xel7 collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [9s 7c Kh 4c Kd]
+Seat 2: P1xel7 (big blind) showed [7h Kc] and won 2460 with Full of Kings and 7
+Seat 3: KISSCOOLL showed [8s 8h] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 4 - HandId: #3220176331748672043-16-1706732053 - Holdem no limit (20/80/160) - 2024/01/31 20:14:13 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #1 is the button
+Seat 1: Kepler452b (46022)
+Seat 2: P1xel7 (21208)
+Seat 3: KISSCOOLL (17212)
+Seat 4: GTOQPAKCDQ76 (19380)
+Seat 5: punky3232 (16988)
+Seat 6: -Bamio- (19190)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 20
+KISSCOOLL posts ante 20
+Kepler452b posts ante 20
+GTOQPAKCDQ76 posts ante 20
+punky3232 posts ante 20
+-Bamio- posts ante 20
+P1xel7 posts small blind 80
+KISSCOOLL posts big blind 160
+Dealt to P1xel7 [Ts 6c]
+*** PRE-FLOP *** 
+GTOQPAKCDQ76 folds
+punky3232 raises 200 to 360
+-Bamio- folds
+Kepler452b calls 360
+P1xel7 folds
+KISSCOOLL calls 200
+*** FLOP *** [9s 5s 7h]
+KISSCOOLL checks
+punky3232 bets 448
+Kepler452b calls 448
+KISSCOOLL folds
+*** TURN *** [9s 5s 7h][Kd]
+punky3232 checks
+Kepler452b bets 762
+punky3232 calls 762
+*** RIVER *** [9s 5s 7h Kd][5h]
+punky3232 bets 1850
+Kepler452b folds
+punky3232 collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Board: [9s 5s 7h Kd 5h]
+Seat 5: punky3232 won 5550
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 4 - HandId: #3220176331748672043-17-1706732122 - Holdem no limit (20/80/160) - 2024/01/31 20:15:22 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #2 is the button
+Seat 1: Kepler452b (44432)
+Seat 2: P1xel7 (21108)
+Seat 3: KISSCOOLL (16832)
+Seat 4: GTOQPAKCDQ76 (19360)
+Seat 5: punky3232 (19098)
+Seat 6: -Bamio- (19170)
+*** ANTE/BLINDS ***
+KISSCOOLL posts ante 20
+GTOQPAKCDQ76 posts ante 20
+Kepler452b posts ante 20
+P1xel7 posts ante 20
+punky3232 posts ante 20
+-Bamio- posts ante 20
+KISSCOOLL posts small blind 80
+GTOQPAKCDQ76 posts big blind 160
+Dealt to P1xel7 [3c Ad]
+*** PRE-FLOP *** 
+punky3232 raises 200 to 360
+-Bamio- folds
+Kepler452b calls 360
+P1xel7 folds
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+*** FLOP *** [4d 3s Td]
+punky3232 checks
+Kepler452b bets 378
+punky3232 folds
+Kepler452b collected 1458 from pot
+*** SUMMARY ***
+Total pot 1458 | No rake
+Board: [4d 3s Td]
+Seat 1: Kepler452b won 1458
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 4 - HandId: #3220176331748672043-18-1706732165 - Holdem no limit (20/80/160) - 2024/01/31 20:16:05 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #3 is the button
+Seat 1: Kepler452b (45132)
+Seat 2: P1xel7 (21088)
+Seat 3: KISSCOOLL (16732)
+Seat 4: GTOQPAKCDQ76 (19180)
+Seat 5: punky3232 (18718)
+Seat 6: -Bamio- (19150)
+*** ANTE/BLINDS ***
+GTOQPAKCDQ76 posts ante 20
+punky3232 posts ante 20
+Kepler452b posts ante 20
+P1xel7 posts ante 20
+KISSCOOLL posts ante 20
+-Bamio- posts ante 20
+GTOQPAKCDQ76 posts small blind 80
+punky3232 posts big blind 160
+Dealt to P1xel7 [Kc Js]
+*** PRE-FLOP *** 
+-Bamio- folds
+Kepler452b folds
+P1xel7 raises 240 to 400
+KISSCOOLL calls 400
+GTOQPAKCDQ76 folds
+punky3232 calls 240
+*** FLOP *** [As Ah 9s]
+punky3232 bets 490
+P1xel7 folds
+KISSCOOLL folds
+punky3232 collected 1890 from pot
+*** SUMMARY ***
+Total pot 1890 | No rake
+Board: [As Ah 9s]
+Seat 5: punky3232 (big blind) won 1890
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176331748672043-19-1706732189 - Holdem no limit (25/100/200) - 2024/01/31 20:16:29 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #4 is the button
+Seat 1: Kepler452b (45112)
+Seat 2: P1xel7 (20668)
+Seat 3: KISSCOOLL (16312)
+Seat 4: GTOQPAKCDQ76 (19080)
+Seat 5: punky3232 (19698)
+Seat 6: -Bamio- (19130)
+*** ANTE/BLINDS ***
+punky3232 posts ante 25
+-Bamio- posts ante 25
+Kepler452b posts ante 25
+P1xel7 posts ante 25
+KISSCOOLL posts ante 25
+GTOQPAKCDQ76 posts ante 25
+punky3232 posts small blind 100
+-Bamio- posts big blind 200
+Dealt to P1xel7 [Jh 6c]
+*** PRE-FLOP *** 
+Kepler452b folds
+P1xel7 folds
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+punky3232 raises 200 to 400
+-Bamio- folds
+punky3232 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 5: punky3232 (small blind) won 750
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176331748672043-20-1706732215 - Holdem no limit (25/100/200) - 2024/01/31 20:16:55 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #5 is the button
+Seat 1: Kepler452b (45087)
+Seat 2: P1xel7 (20643)
+Seat 3: KISSCOOLL (16287)
+Seat 4: GTOQPAKCDQ76 (19055)
+Seat 5: punky3232 (20023)
+Seat 6: -Bamio- (18905)
+*** ANTE/BLINDS ***
+-Bamio- posts ante 25
+Kepler452b posts ante 25
+P1xel7 posts ante 25
+KISSCOOLL posts ante 25
+GTOQPAKCDQ76 posts ante 25
+punky3232 posts ante 25
+-Bamio- posts small blind 100
+Kepler452b posts big blind 200
+Dealt to P1xel7 [3c 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+KISSCOOLL raises 650 to 850
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b calls 650
+*** FLOP *** [Qc 7s 4h]
+Kepler452b checks
+KISSCOOLL checks
+*** TURN *** [Qc 7s 4h][2h]
+Kepler452b bets 683
+KISSCOOLL calls 683
+*** RIVER *** [Qc 7s 4h 2h][8d]
+Kepler452b checks
+KISSCOOLL checks
+*** SHOW DOWN ***
+KISSCOOLL shows [Ac Kc] (High card : Ace)
+Kepler452b shows [6c 4c] (One pair : 4)
+Kepler452b collected 3316 from pot
+*** SUMMARY ***
+Total pot 3316 | No rake
+Board: [Qc 7s 4h 2h 8d]
+Seat 1: Kepler452b (big blind) showed [6c 4c] and won 3316 with One pair : 4
+Seat 3: KISSCOOLL showed [Ac Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176331748672043-21-1706732256 - Holdem no limit (25/100/200) - 2024/01/31 20:17:36 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #6 is the button
+Seat 1: Kepler452b (46845)
+Seat 2: P1xel7 (20618)
+Seat 3: KISSCOOLL (14729)
+Seat 4: GTOQPAKCDQ76 (19030)
+Seat 5: punky3232 (19998)
+Seat 6: -Bamio- (18780)
+*** ANTE/BLINDS ***
+Kepler452b posts ante 25
+P1xel7 posts ante 25
+KISSCOOLL posts ante 25
+GTOQPAKCDQ76 posts ante 25
+punky3232 posts ante 25
+-Bamio- posts ante 25
+Kepler452b posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [2h 9d]
+*** PRE-FLOP *** 
+KISSCOOLL calls 200
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b calls 100
+P1xel7 checks
+*** FLOP *** [Qs Kc 4c]
+Kepler452b checks
+P1xel7 checks
+KISSCOOLL bets 375
+Kepler452b calls 375
+P1xel7 folds
+*** TURN *** [Qs Kc 4c][Kh]
+Kepler452b checks
+KISSCOOLL checks
+*** RIVER *** [Qs Kc 4c Kh][4h]
+Kepler452b checks
+KISSCOOLL bets 975
+Kepler452b raises 3450 to 4425
+KISSCOOLL folds
+Kepler452b collected 6900 from pot
+*** SUMMARY ***
+Total pot 6900 | No rake
+Board: [Qs Kc 4c Kh 4h]
+Seat 1: Kepler452b (small blind) won 6900
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176331748672043-22-1706732306 - Holdem no limit (25/100/200) - 2024/01/31 20:18:26 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #1 is the button
+Seat 1: Kepler452b (48720)
+Seat 2: P1xel7 (20393)
+Seat 3: KISSCOOLL (13154)
+Seat 4: GTOQPAKCDQ76 (19005)
+Seat 5: punky3232 (19973)
+Seat 6: -Bamio- (18755)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+KISSCOOLL posts ante 25
+Kepler452b posts ante 25
+GTOQPAKCDQ76 posts ante 25
+punky3232 posts ante 25
+-Bamio- posts ante 25
+P1xel7 posts small blind 100
+KISSCOOLL posts big blind 200
+Dealt to P1xel7 [Kd 9h]
+*** PRE-FLOP *** 
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b raises 200 to 400
+P1xel7 calls 300
+KISSCOOLL calls 200
+*** FLOP *** [4d 7d 9c]
+P1xel7 checks
+KISSCOOLL checks
+Kepler452b bets 878
+P1xel7 raises 1114 to 1992
+KISSCOOLL folds
+Kepler452b calls 1114
+*** TURN *** [4d 7d 9c][9d]
+P1xel7 checks
+Kepler452b checks
+*** RIVER *** [4d 7d 9c 9d][Kc]
+P1xel7 bets 1867
+Kepler452b calls 1867
+*** SHOW DOWN ***
+Kepler452b shows [Jh 9s] (Trips of 9)
+P1xel7 shows [Kd 9h] (Full of 9 and Kings)
+P1xel7 collected 9068 from pot
+*** SUMMARY ***
+Total pot 9068 | No rake
+Board: [4d 7d 9c 9d Kc]
+Seat 1: Kepler452b (button) showed [Jh 9s] and lost with Trips of 9
+Seat 2: P1xel7 (small blind) showed [Kd 9h] and won 9068 with Full of 9 and Kings
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176331748672043-23-1706732372 - Holdem no limit (25/100/200) - 2024/01/31 20:19:32 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #2 is the button
+Seat 1: Kepler452b (44436)
+Seat 2: P1xel7 (25177)
+Seat 3: KISSCOOLL (12729)
+Seat 4: GTOQPAKCDQ76 (18980)
+Seat 5: punky3232 (19948)
+Seat 6: -Bamio- (18730)
+*** ANTE/BLINDS ***
+KISSCOOLL posts ante 25
+GTOQPAKCDQ76 posts ante 25
+Kepler452b posts ante 25
+P1xel7 posts ante 25
+punky3232 posts ante 25
+-Bamio- posts ante 25
+KISSCOOLL posts small blind 100
+GTOQPAKCDQ76 posts big blind 200
+Dealt to P1xel7 [6h Jd]
+*** PRE-FLOP *** 
+punky3232 raises 250 to 450
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+KISSCOOLL raises 1250 to 1700
+GTOQPAKCDQ76 folds
+punky3232 calls 1250
+*** FLOP *** [5d 2h 8c]
+KISSCOOLL bets 11004 and is all-in
+punky3232 folds
+KISSCOOLL collected 14754 from pot
+*** SUMMARY ***
+Total pot 14754 | No rake
+Board: [5d 2h 8c]
+Seat 3: KISSCOOLL (small blind) won 14754
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176331748672043-24-1706732396 - Holdem no limit (25/100/200) - 2024/01/31 20:19:56 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #3 is the button
+Seat 1: Kepler452b (44411)
+Seat 2: P1xel7 (25152)
+Seat 3: KISSCOOLL (14754)
+Seat 4: GTOQPAKCDQ76 (18755)
+Seat 5: punky3232 (18223)
+Seat 6: -Bamio- (18705)
+*** ANTE/BLINDS ***
+GTOQPAKCDQ76 posts ante 25
+punky3232 posts ante 25
+Kepler452b posts ante 25
+P1xel7 posts ante 25
+KISSCOOLL posts ante 25
+-Bamio- posts ante 25
+GTOQPAKCDQ76 posts small blind 100
+punky3232 posts big blind 200
+Dealt to P1xel7 [Ts Qh]
+*** PRE-FLOP *** 
+-Bamio- folds
+Kepler452b calls 200
+P1xel7 raises 800 to 1000
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+punky3232 folds
+Kepler452b calls 800
+*** FLOP *** [3s 4d 5c]
+Kepler452b checks
+P1xel7 bets 1593
+Kepler452b folds
+P1xel7 collected 4043 from pot
+*** SUMMARY ***
+Total pot 4043 | No rake
+Board: [3s 4d 5c]
+Seat 2: P1xel7 won 4043
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176331748672043-25-1706732452 - Holdem no limit (30/125/250) - 2024/01/31 20:20:52 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #4 is the button
+Seat 1: Kepler452b (43386)
+Seat 2: P1xel7 (26577)
+Seat 3: KISSCOOLL (14729)
+Seat 4: GTOQPAKCDQ76 (18630)
+Seat 5: punky3232 (17998)
+Seat 6: -Bamio- (18680)
+*** ANTE/BLINDS ***
+punky3232 posts ante 30
+-Bamio- posts ante 30
+Kepler452b posts ante 30
+P1xel7 posts ante 30
+KISSCOOLL posts ante 30
+GTOQPAKCDQ76 posts ante 30
+punky3232 posts small blind 125
+-Bamio- posts big blind 250
+Dealt to P1xel7 [8d As]
+*** PRE-FLOP *** 
+Kepler452b raises 375 to 625
+P1xel7 folds
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+punky3232 calls 500
+-Bamio- folds
+*** FLOP *** [2d Jd 4s]
+punky3232 checks
+Kepler452b bets 588
+punky3232 folds
+Kepler452b collected 2268 from pot
+*** SUMMARY ***
+Total pot 2268 | No rake
+Board: [2d Jd 4s]
+Seat 1: Kepler452b won 2268
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176331748672043-26-1706732488 - Holdem no limit (30/125/250) - 2024/01/31 20:21:28 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #5 is the button
+Seat 1: Kepler452b (44411)
+Seat 2: P1xel7 (26547)
+Seat 3: KISSCOOLL (14699)
+Seat 4: GTOQPAKCDQ76 (18600)
+Seat 5: punky3232 (17343)
+Seat 6: -Bamio- (18400)
+*** ANTE/BLINDS ***
+-Bamio- posts ante 30
+Kepler452b posts ante 30
+P1xel7 posts ante 30
+KISSCOOLL posts ante 30
+GTOQPAKCDQ76 posts ante 30
+punky3232 posts ante 30
+-Bamio- posts small blind 125
+Kepler452b posts big blind 250
+Dealt to P1xel7 [Jd 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+KISSCOOLL calls 250
+GTOQPAKCDQ76 folds
+punky3232 calls 250
+-Bamio- folds
+Kepler452b checks
+*** FLOP *** [8c Qc 4s]
+Kepler452b checks
+KISSCOOLL checks
+punky3232 checks
+*** TURN *** [8c Qc 4s][9c]
+Kepler452b bets 369
+KISSCOOLL folds
+punky3232 raises 1036 to 1405
+Kepler452b calls 1036
+*** RIVER *** [8c Qc 4s 9c][3d]
+Kepler452b checks
+punky3232 bets 2512
+Kepler452b folds
+punky3232 collected 6377 from pot
+*** SUMMARY ***
+Total pot 6377 | No rake
+Board: [8c Qc 4s 9c 3d]
+Seat 5: punky3232 (button) won 6377
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176331748672043-27-1706732569 - Holdem no limit (30/125/250) - 2024/01/31 20:22:49 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #6 is the button
+Seat 1: Kepler452b (42726)
+Seat 2: P1xel7 (26517)
+Seat 3: KISSCOOLL (14419)
+Seat 4: GTOQPAKCDQ76 (18570)
+Seat 5: punky3232 (19523)
+Seat 6: -Bamio- (18245)
+*** ANTE/BLINDS ***
+Kepler452b posts ante 30
+P1xel7 posts ante 30
+KISSCOOLL posts ante 30
+GTOQPAKCDQ76 posts ante 30
+punky3232 posts ante 30
+-Bamio- posts ante 30
+Kepler452b posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [3d 7c]
+*** PRE-FLOP *** 
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+punky3232 raises 313 to 563
+-Bamio- folds
+Kepler452b calls 438
+P1xel7 folds
+*** FLOP *** [Js 2c Ad]
+Kepler452b checks
+punky3232 checks
+*** TURN *** [Js 2c Ad][Ts]
+Kepler452b checks
+punky3232 checks
+*** RIVER *** [Js 2c Ad Ts][2s]
+Kepler452b checks
+punky3232 checks
+*** SHOW DOWN ***
+punky3232 shows [8h 7s] (One pair : 2)
+Kepler452b shows [Qc 9c] (One pair : 2)
+Kepler452b collected 1556 from pot
+*** SUMMARY ***
+Total pot 1556 | No rake
+Board: [Js 2c Ad Ts 2s]
+Seat 1: Kepler452b (small blind) showed [Qc 9c] and won 1556 with One pair : 2
+Seat 5: punky3232 showed [8h 7s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176331748672043-28-1706732605 - Holdem no limit (30/125/250) - 2024/01/31 20:23:25 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #1 is the button
+Seat 1: Kepler452b (43689)
+Seat 2: P1xel7 (26237)
+Seat 3: KISSCOOLL (14389)
+Seat 4: GTOQPAKCDQ76 (18540)
+Seat 5: punky3232 (18930)
+Seat 6: -Bamio- (18215)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+KISSCOOLL posts ante 30
+Kepler452b posts ante 30
+GTOQPAKCDQ76 posts ante 30
+punky3232 posts ante 30
+-Bamio- posts ante 30
+P1xel7 posts small blind 125
+KISSCOOLL posts big blind 250
+Dealt to P1xel7 [7d 7c]
+*** PRE-FLOP *** 
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b raises 250 to 500
+P1xel7 raises 1375 to 1875
+KISSCOOLL folds
+Kepler452b calls 1375
+*** FLOP *** [3s Ks 7h]
+P1xel7 bets 1045
+Kepler452b calls 1045
+*** TURN *** [3s Ks 7h][8h]
+P1xel7 checks
+Kepler452b checks
+*** RIVER *** [3s Ks 7h 8h][8c]
+P1xel7 bets 2195
+Kepler452b raises 10660 to 12855
+P1xel7 raises 10432 to 23287 and is all-in
+Kepler452b folds
+P1xel7 collected 42412 from pot
+*** SUMMARY ***
+Total pot 42412 | No rake
+Board: [3s Ks 7h 8h 8c]
+Seat 2: P1xel7 (small blind) won 42412
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176331748672043-29-1706732665 - Holdem no limit (35/150/300) - 2024/01/31 20:24:25 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #2 is the button
+Seat 1: Kepler452b (27884)
+Seat 2: P1xel7 (42412)
+Seat 3: KISSCOOLL (14109)
+Seat 4: GTOQPAKCDQ76 (18510)
+Seat 5: punky3232 (18900)
+Seat 6: -Bamio- (18185)
+*** ANTE/BLINDS ***
+KISSCOOLL posts ante 35
+GTOQPAKCDQ76 posts ante 35
+Kepler452b posts ante 35
+P1xel7 posts ante 35
+punky3232 posts ante 35
+-Bamio- posts ante 35
+KISSCOOLL posts small blind 150
+GTOQPAKCDQ76 posts big blind 300
+Dealt to P1xel7 [4d 8d]
+*** PRE-FLOP *** 
+punky3232 folds
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+KISSCOOLL calls 150
+GTOQPAKCDQ76 folds
+KISSCOOLL collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Seat 3: KISSCOOLL (small blind) won 810
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176331748672043-30-1706732675 - Holdem no limit (35/150/300) - 2024/01/31 20:24:35 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #3 is the button
+Seat 1: Kepler452b (27849)
+Seat 2: P1xel7 (42377)
+Seat 3: KISSCOOLL (14584)
+Seat 4: GTOQPAKCDQ76 (18175)
+Seat 5: punky3232 (18865)
+Seat 6: -Bamio- (18150)
+*** ANTE/BLINDS ***
+GTOQPAKCDQ76 posts ante 35
+punky3232 posts ante 35
+Kepler452b posts ante 35
+P1xel7 posts ante 35
+KISSCOOLL posts ante 35
+-Bamio- posts ante 35
+GTOQPAKCDQ76 posts small blind 150
+punky3232 posts big blind 300
+Dealt to P1xel7 [5h 9h]
+*** PRE-FLOP *** 
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+KISSCOOLL calls 300
+GTOQPAKCDQ76 folds
+punky3232 checks
+*** FLOP *** [Ks 3s Tc]
+punky3232 checks
+KISSCOOLL checks
+*** TURN *** [Ks 3s Tc][Jh]
+punky3232 checks
+KISSCOOLL bets 624
+punky3232 folds
+KISSCOOLL collected 1584 from pot
+*** SUMMARY ***
+Total pot 1584 | No rake
+Board: [Ks 3s Tc Jh]
+Seat 3: KISSCOOLL (button) won 1584
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176331748672043-31-1706732741 - Holdem no limit (35/150/300) - 2024/01/31 20:25:41 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #4 is the button
+Seat 1: Kepler452b (27814)
+Seat 2: P1xel7 (42342)
+Seat 3: KISSCOOLL (15209)
+Seat 4: GTOQPAKCDQ76 (17990)
+Seat 5: punky3232 (18530)
+Seat 6: -Bamio- (18115)
+*** ANTE/BLINDS ***
+punky3232 posts ante 35
+-Bamio- posts ante 35
+Kepler452b posts ante 35
+P1xel7 posts ante 35
+KISSCOOLL posts ante 35
+GTOQPAKCDQ76 posts ante 35
+punky3232 posts small blind 150
+-Bamio- posts big blind 300
+Dealt to P1xel7 [4s Jd]
+*** PRE-FLOP *** 
+Kepler452b folds
+P1xel7 folds
+KISSCOOLL folds
+GTOQPAKCDQ76 folds
+punky3232 raises 300 to 600
+-Bamio- folds
+punky3232 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 5: punky3232 (small blind) won 1110
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176331748672043-32-1706732767 - Holdem no limit (35/150/300) - 2024/01/31 20:26:07 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #5 is the button
+Seat 1: Kepler452b (27779)
+Seat 2: P1xel7 (42307)
+Seat 3: KISSCOOLL (15174)
+Seat 4: GTOQPAKCDQ76 (17955)
+Seat 5: punky3232 (19005)
+Seat 6: -Bamio- (17780)
+*** ANTE/BLINDS ***
+-Bamio- posts ante 35
+Kepler452b posts ante 35
+P1xel7 posts ante 35
+KISSCOOLL posts ante 35
+GTOQPAKCDQ76 posts ante 35
+punky3232 posts ante 35
+-Bamio- posts small blind 150
+Kepler452b posts big blind 300
+Dealt to P1xel7 [3c 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+KISSCOOLL calls 300
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b checks
+*** FLOP *** [Qs 4d Kd]
+Kepler452b checks
+KISSCOOLL checks
+*** TURN *** [Qs 4d Kd][6c]
+Kepler452b checks
+KISSCOOLL checks
+*** RIVER *** [Qs 4d Kd 6c][Ks]
+Kepler452b bets 960
+KISSCOOLL folds
+Kepler452b collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Board: [Qs 4d Kd 6c Ks]
+Seat 1: Kepler452b (big blind) won 1920
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176331748672043-33-1706732810 - Holdem no limit (35/150/300) - 2024/01/31 20:26:50 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #6 is the button
+Seat 1: Kepler452b (28404)
+Seat 2: P1xel7 (42272)
+Seat 3: KISSCOOLL (14839)
+Seat 4: GTOQPAKCDQ76 (17920)
+Seat 5: punky3232 (18970)
+Seat 6: -Bamio- (17595)
+*** ANTE/BLINDS ***
+Kepler452b posts ante 35
+P1xel7 posts ante 35
+KISSCOOLL posts ante 35
+GTOQPAKCDQ76 posts ante 35
+punky3232 posts ante 35
+-Bamio- posts ante 35
+Kepler452b posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [5c 4d]
+*** PRE-FLOP *** 
+KISSCOOLL raises 300 to 600
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b calls 450
+P1xel7 folds
+*** FLOP *** [9s Qh Js]
+Kepler452b checks
+KISSCOOLL bets 855
+Kepler452b folds
+KISSCOOLL collected 2565 from pot
+*** SUMMARY ***
+Total pot 2565 | No rake
+Board: [9s Qh Js]
+Seat 3: KISSCOOLL won 2565
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176331748672043-34-1706732827 - Holdem no limit (35/150/300) - 2024/01/31 20:27:07 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #1 is the button
+Seat 1: Kepler452b (27769)
+Seat 2: P1xel7 (41937)
+Seat 3: KISSCOOLL (15914)
+Seat 4: GTOQPAKCDQ76 (17885)
+Seat 5: punky3232 (18935)
+Seat 6: -Bamio- (17560)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+KISSCOOLL posts ante 35
+Kepler452b posts ante 35
+GTOQPAKCDQ76 posts ante 35
+punky3232 posts ante 35
+-Bamio- posts ante 35
+P1xel7 posts small blind 150
+KISSCOOLL posts big blind 300
+Dealt to P1xel7 [Td As]
+*** PRE-FLOP *** 
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b raises 600 to 900
+P1xel7 calls 750
+KISSCOOLL calls 600
+*** FLOP *** [7h 9d 5d]
+P1xel7 checks
+KISSCOOLL bets 2328
+Kepler452b folds
+P1xel7 folds
+KISSCOOLL collected 5238 from pot
+*** SUMMARY ***
+Total pot 5238 | No rake
+Board: [7h 9d 5d]
+Seat 3: KISSCOOLL (big blind) won 5238
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176331748672043-35-1706732871 - Holdem no limit (35/150/300) - 2024/01/31 20:27:51 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #2 is the button
+Seat 1: Kepler452b (26834)
+Seat 2: P1xel7 (41002)
+Seat 3: KISSCOOLL (17889)
+Seat 4: GTOQPAKCDQ76 (17850)
+Seat 5: punky3232 (18900)
+Seat 6: -Bamio- (17525)
+*** ANTE/BLINDS ***
+KISSCOOLL posts ante 35
+GTOQPAKCDQ76 posts ante 35
+Kepler452b posts ante 35
+P1xel7 posts ante 35
+punky3232 posts ante 35
+-Bamio- posts ante 35
+KISSCOOLL posts small blind 150
+GTOQPAKCDQ76 posts big blind 300
+Dealt to P1xel7 [6h Qs]
+*** PRE-FLOP *** 
+punky3232 folds
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+KISSCOOLL raises 300 to 600
+GTOQPAKCDQ76 folds
+KISSCOOLL collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 3: KISSCOOLL (small blind) won 1110
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176331748672043-36-1706732883 - Holdem no limit (35/150/300) - 2024/01/31 20:28:03 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #3 is the button
+Seat 1: Kepler452b (26799)
+Seat 2: P1xel7 (40967)
+Seat 3: KISSCOOLL (18364)
+Seat 4: GTOQPAKCDQ76 (17515)
+Seat 5: punky3232 (18865)
+Seat 6: -Bamio- (17490)
+*** ANTE/BLINDS ***
+GTOQPAKCDQ76 posts ante 35
+punky3232 posts ante 35
+Kepler452b posts ante 35
+P1xel7 posts ante 35
+KISSCOOLL posts ante 35
+-Bamio- posts ante 35
+GTOQPAKCDQ76 posts small blind 150
+punky3232 posts big blind 300
+Dealt to P1xel7 [Ac Jc]
+*** PRE-FLOP *** 
+-Bamio- folds
+Kepler452b folds
+P1xel7 raises 450 to 750
+KISSCOOLL raises 17579 to 18329 and is all-in
+GTOQPAKCDQ76 folds
+punky3232 raises 501 to 18830 and is all-in
+P1xel7 folds
+*** FLOP *** [Js Td 8s]
+*** TURN *** [Js Td 8s][8c]
+*** RIVER *** [Js Td 8s 8c][8d]
+*** SHOW DOWN ***
+KISSCOOLL shows [Kc As] (Trips of 8)
+punky3232 shows [Qc Qh] (Full of 8 and Queens)
+punky3232 collected 38269 from pot
+*** SUMMARY ***
+Total pot 38269 | No rake
+Board: [Js Td 8s 8c 8d]
+Seat 3: KISSCOOLL (button) showed [Kc As] and lost with Trips of 8
+Seat 5: punky3232 (big blind) showed [Qc Qh] and won 38269 with Full of 8 and Queens
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176331748672043-37-1706732938 - Holdem no limit (40/175/350) - 2024/01/31 20:28:58 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #4 is the button
+Seat 1: Kepler452b (26764)
+Seat 2: P1xel7 (40182)
+Seat 4: GTOQPAKCDQ76 (17330)
+Seat 5: punky3232 (38269)
+Seat 6: -Bamio- (17455)
+*** ANTE/BLINDS ***
+punky3232 posts ante 40
+-Bamio- posts ante 40
+Kepler452b posts ante 40
+P1xel7 posts ante 40
+GTOQPAKCDQ76 posts ante 40
+punky3232 posts small blind 175
+-Bamio- posts big blind 350
+Dealt to P1xel7 [Ks Js]
+*** PRE-FLOP *** 
+Kepler452b folds
+P1xel7 raises 525 to 875
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+P1xel7 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Seat 2: P1xel7 won 1600
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176331748672043-38-1706732952 - Holdem no limit (40/175/350) - 2024/01/31 20:29:12 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #5 is the button
+Seat 1: Kepler452b (26724)
+Seat 2: P1xel7 (40867)
+Seat 4: GTOQPAKCDQ76 (17290)
+Seat 5: punky3232 (38054)
+Seat 6: -Bamio- (17065)
+*** ANTE/BLINDS ***
+-Bamio- posts ante 40
+Kepler452b posts ante 40
+P1xel7 posts ante 40
+GTOQPAKCDQ76 posts ante 40
+punky3232 posts ante 40
+-Bamio- posts small blind 175
+Kepler452b posts big blind 350
+Dealt to P1xel7 [Js Qs]
+*** PRE-FLOP *** 
+P1xel7 raises 420 to 770
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b calls 420
+*** FLOP *** [3h Ks Jh]
+Kepler452b checks
+P1xel7 bets 479
+Kepler452b raises 1700 to 2179
+P1xel7 calls 1700
+*** TURN *** [3h Ks Jh][Qc]
+Kepler452b bets 4077
+P1xel7 calls 4077
+*** RIVER *** [3h Ks Jh Qc][6s]
+Kepler452b bets 19658 and is all-in
+P1xel7 calls 19658
+*** SHOW DOWN ***
+P1xel7 shows [Js Qs] (Two pairs : Queens and Jacks)
+Kepler452b shows [3d Kh] (Two pairs : Kings and 3)
+Kepler452b collected 53743 from pot
+*** SUMMARY ***
+Total pot 53743 | No rake
+Board: [3h Ks Jh Qc 6s]
+Seat 1: Kepler452b (big blind) showed [3d Kh] and won 53743 with Two pairs : Kings and 3
+Seat 2: P1xel7 showed [Js Qs] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176331748672043-39-1706732988 - Holdem no limit (40/175/350) - 2024/01/31 20:29:48 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #6 is the button
+Seat 1: Kepler452b (53743)
+Seat 2: P1xel7 (14143)
+Seat 3: biscrok77 (28626)
+Seat 4: GTOQPAKCDQ76 (17250)
+Seat 5: punky3232 (38014)
+Seat 6: -Bamio- (16850)
+*** ANTE/BLINDS ***
+Kepler452b posts ante 40
+P1xel7 posts ante 40
+biscrok77 posts ante 40
+GTOQPAKCDQ76 posts ante 40
+punky3232 posts ante 40
+-Bamio- posts ante 40
+Kepler452b posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Jd 5d]
+*** PRE-FLOP *** 
+biscrok77 calls 350
+GTOQPAKCDQ76 folds
+punky3232 calls 350
+-Bamio- folds
+Kepler452b calls 175
+P1xel7 checks
+*** FLOP *** [Ac Td Kc]
+Kepler452b checks
+P1xel7 checks
+biscrok77 bets 700
+punky3232 folds
+Kepler452b calls 700
+P1xel7 folds
+*** TURN *** [Ac Td Kc][4d]
+Kepler452b checks
+biscrok77 bets 1064
+Kepler452b folds
+biscrok77 collected 4104 from pot
+*** SUMMARY ***
+Total pot 4104 | No rake
+Board: [Ac Td Kc 4d]
+Seat 3: biscrok77 won 4104
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176331748672043-40-1706733034 - Holdem no limit (40/175/350) - 2024/01/31 20:30:34 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #1 is the button
+Seat 1: Kepler452b (52653)
+Seat 2: P1xel7 (13753)
+Seat 3: biscrok77 (30576)
+Seat 4: GTOQPAKCDQ76 (17210)
+Seat 5: punky3232 (37624)
+Seat 6: -Bamio- (16810)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+biscrok77 posts ante 40
+Kepler452b posts ante 40
+GTOQPAKCDQ76 posts ante 40
+punky3232 posts ante 40
+-Bamio- posts ante 40
+P1xel7 posts small blind 175
+biscrok77 posts big blind 350
+Dealt to P1xel7 [5s Tc]
+*** PRE-FLOP *** 
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+biscrok77 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 3: biscrok77 (big blind) won 765
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176331748672043-41-1706733043 - Holdem no limit (40/175/350) - 2024/01/31 20:30:43 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #2 is the button
+Seat 1: Kepler452b (52613)
+Seat 2: P1xel7 (13538)
+Seat 3: biscrok77 (30951)
+Seat 4: GTOQPAKCDQ76 (17170)
+Seat 5: punky3232 (37584)
+Seat 6: -Bamio- (16770)
+*** ANTE/BLINDS ***
+biscrok77 posts ante 40
+GTOQPAKCDQ76 posts ante 40
+Kepler452b posts ante 40
+P1xel7 posts ante 40
+punky3232 posts ante 40
+-Bamio- posts ante 40
+biscrok77 posts small blind 175
+GTOQPAKCDQ76 posts big blind 350
+Dealt to P1xel7 [Ks 6h]
+*** PRE-FLOP *** 
+punky3232 folds
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+biscrok77 raises 525 to 875
+GTOQPAKCDQ76 folds
+biscrok77 collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Seat 3: biscrok77 (small blind) won 1465
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176331748672043-42-1706733056 - Holdem no limit (40/175/350) - 2024/01/31 20:30:56 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #3 is the button
+Seat 1: Kepler452b (52573)
+Seat 2: P1xel7 (13498)
+Seat 3: biscrok77 (31501)
+Seat 4: GTOQPAKCDQ76 (16780)
+Seat 5: punky3232 (37544)
+Seat 6: -Bamio- (16730)
+*** ANTE/BLINDS ***
+GTOQPAKCDQ76 posts ante 40
+punky3232 posts ante 40
+Kepler452b posts ante 40
+P1xel7 posts ante 40
+biscrok77 posts ante 40
+-Bamio- posts ante 40
+GTOQPAKCDQ76 posts small blind 175
+punky3232 posts big blind 350
+Dealt to P1xel7 [Ks 7d]
+*** PRE-FLOP *** 
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+biscrok77 folds
+GTOQPAKCDQ76 folds
+punky3232 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 5: punky3232 (big blind) won 765
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176331748672043-43-1706733065 - Holdem no limit (40/175/350) - 2024/01/31 20:31:05 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #4 is the button
+Seat 1: Kepler452b (52533)
+Seat 2: P1xel7 (13458)
+Seat 3: biscrok77 (31461)
+Seat 4: GTOQPAKCDQ76 (16565)
+Seat 5: punky3232 (37919)
+Seat 6: -Bamio- (16690)
+*** ANTE/BLINDS ***
+punky3232 posts ante 40
+-Bamio- posts ante 40
+Kepler452b posts ante 40
+P1xel7 posts ante 40
+biscrok77 posts ante 40
+GTOQPAKCDQ76 posts ante 40
+punky3232 posts small blind 175
+-Bamio- posts big blind 350
+Dealt to P1xel7 [Jh Th]
+*** PRE-FLOP *** 
+Kepler452b folds
+P1xel7 raises 350 to 700
+biscrok77 folds
+GTOQPAKCDQ76 folds
+punky3232 calls 525
+-Bamio- folds
+*** FLOP *** [6d 5h 3d]
+punky3232 checks
+P1xel7 checks
+*** TURN *** [6d 5h 3d][6s]
+punky3232 bets 498
+P1xel7 folds
+punky3232 collected 2488 from pot
+*** SUMMARY ***
+Total pot 2488 | No rake
+Board: [6d 5h 3d 6s]
+Seat 5: punky3232 (small blind) won 2488
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176331748672043-44-1706733102 - Holdem no limit (40/175/350) - 2024/01/31 20:31:42 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #5 is the button
+Seat 1: Kepler452b (52493)
+Seat 2: P1xel7 (12718)
+Seat 3: biscrok77 (31421)
+Seat 4: GTOQPAKCDQ76 (16525)
+Seat 5: punky3232 (39169)
+Seat 6: -Bamio- (16300)
+*** ANTE/BLINDS ***
+-Bamio- posts ante 40
+Kepler452b posts ante 40
+P1xel7 posts ante 40
+biscrok77 posts ante 40
+GTOQPAKCDQ76 posts ante 40
+punky3232 posts ante 40
+-Bamio- posts small blind 175
+Kepler452b posts big blind 350
+Dealt to P1xel7 [6d Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+biscrok77 folds
+GTOQPAKCDQ76 folds
+punky3232 raises 438 to 788
+-Bamio- folds
+Kepler452b folds
+punky3232 collected 1553 from pot
+*** SUMMARY ***
+Total pot 1553 | No rake
+Seat 5: punky3232 (button) won 1553
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176331748672043-45-1706733123 - Holdem no limit (40/175/350) - 2024/01/31 20:32:03 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #6 is the button
+Seat 1: Kepler452b (52103)
+Seat 2: P1xel7 (12678)
+Seat 3: biscrok77 (31381)
+Seat 4: GTOQPAKCDQ76 (16485)
+Seat 5: punky3232 (39894)
+Seat 6: -Bamio- (16085)
+*** ANTE/BLINDS ***
+Kepler452b posts ante 40
+P1xel7 posts ante 40
+biscrok77 posts ante 40
+GTOQPAKCDQ76 posts ante 40
+punky3232 posts ante 40
+-Bamio- posts ante 40
+Kepler452b posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [2c 3h]
+*** PRE-FLOP *** 
+biscrok77 folds
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b raises 350 to 700
+P1xel7 calls 350
+*** FLOP *** [3s 4d Th]
+Kepler452b checks
+P1xel7 bets 820
+Kepler452b calls 820
+*** TURN *** [3s 4d Th][Jc]
+Kepler452b checks
+P1xel7 bets 1640
+Kepler452b folds
+P1xel7 collected 4920 from pot
+*** SUMMARY ***
+Total pot 4920 | No rake
+Board: [3s 4d Th Jc]
+Seat 2: P1xel7 (big blind) won 4920
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176331748672043-46-1706733152 - Holdem no limit (50/200/400) - 2024/01/31 20:32:32 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #1 is the button
+Seat 1: Kepler452b (50543)
+Seat 2: P1xel7 (14398)
+Seat 3: biscrok77 (31341)
+Seat 4: GTOQPAKCDQ76 (16445)
+Seat 5: punky3232 (39854)
+Seat 6: -Bamio- (16045)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+biscrok77 posts ante 50
+Kepler452b posts ante 50
+GTOQPAKCDQ76 posts ante 50
+punky3232 posts ante 50
+-Bamio- posts ante 50
+P1xel7 posts small blind 200
+biscrok77 posts big blind 400
+Dealt to P1xel7 [8h Ah]
+*** PRE-FLOP *** 
+GTOQPAKCDQ76 folds
+punky3232 raises 500 to 900
+-Bamio- folds
+Kepler452b folds
+P1xel7 calls 700
+biscrok77 calls 500
+*** FLOP *** [Th 8d 6c]
+P1xel7 checks
+biscrok77 checks
+punky3232 bets 1050
+P1xel7 raises 2230 to 3280
+biscrok77 calls 3280
+punky3232 calls 2230
+*** TURN *** [Th 8d 6c][7d]
+P1xel7 checks
+biscrok77 checks
+punky3232 bets 6420
+P1xel7 folds
+biscrok77 folds
+punky3232 collected 19260 from pot
+*** SUMMARY ***
+Total pot 19260 | No rake
+Board: [Th 8d 6c 7d]
+Seat 5: punky3232 won 19260
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176331748672043-47-1706733242 - Holdem no limit (50/200/400) - 2024/01/31 20:34:02 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #2 is the button
+Seat 1: Kepler452b (50493)
+Seat 2: P1xel7 (10168)
+Seat 3: biscrok77 (27111)
+Seat 4: GTOQPAKCDQ76 (16395)
+Seat 5: punky3232 (48464)
+Seat 6: -Bamio- (15995)
+*** ANTE/BLINDS ***
+biscrok77 posts ante 50
+GTOQPAKCDQ76 posts ante 50
+Kepler452b posts ante 50
+P1xel7 posts ante 50
+punky3232 posts ante 50
+-Bamio- posts ante 50
+biscrok77 posts small blind 200
+GTOQPAKCDQ76 posts big blind 400
+Dealt to P1xel7 [3s 7c]
+*** PRE-FLOP *** 
+punky3232 raises 500 to 900
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+biscrok77 folds
+GTOQPAKCDQ76 folds
+punky3232 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 5: punky3232 won 1800
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176331748672043-48-1706733269 - Holdem no limit (50/200/400) - 2024/01/31 20:34:29 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #3 is the button
+Seat 1: Kepler452b (50443)
+Seat 2: P1xel7 (10118)
+Seat 3: biscrok77 (26861)
+Seat 4: GTOQPAKCDQ76 (15945)
+Seat 5: punky3232 (49314)
+Seat 6: -Bamio- (15945)
+*** ANTE/BLINDS ***
+GTOQPAKCDQ76 posts ante 50
+punky3232 posts ante 50
+Kepler452b posts ante 50
+P1xel7 posts ante 50
+biscrok77 posts ante 50
+-Bamio- posts ante 50
+GTOQPAKCDQ76 posts small blind 200
+punky3232 posts big blind 400
+Dealt to P1xel7 [Qs 2s]
+*** PRE-FLOP *** 
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+biscrok77 folds
+GTOQPAKCDQ76 folds
+punky3232 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: punky3232 (big blind) won 900
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176331748672043-49-1706733292 - Holdem no limit (50/200/400) - 2024/01/31 20:34:52 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #4 is the button
+Seat 1: Kepler452b (50393)
+Seat 2: P1xel7 (10068)
+Seat 3: biscrok77 (26811)
+Seat 4: GTOQPAKCDQ76 (15695)
+Seat 5: punky3232 (49764)
+Seat 6: -Bamio- (15895)
+*** ANTE/BLINDS ***
+punky3232 posts ante 50
+-Bamio- posts ante 50
+Kepler452b posts ante 50
+P1xel7 posts ante 50
+biscrok77 posts ante 50
+GTOQPAKCDQ76 posts ante 50
+punky3232 posts small blind 200
+-Bamio- posts big blind 400
+Dealt to P1xel7 [Kh 9h]
+*** PRE-FLOP *** 
+Kepler452b folds
+P1xel7 raises 480 to 880
+biscrok77 calls 880
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+*** FLOP *** [2c 7h 3s]
+P1xel7 checks
+biscrok77 checks
+*** TURN *** [2c 7h 3s][2h]
+P1xel7 checks
+biscrok77 checks
+*** RIVER *** [2c 7h 3s 2h][8s]
+P1xel7 bets 665
+biscrok77 folds
+P1xel7 collected 3325 from pot
+*** SUMMARY ***
+Total pot 3325 | No rake
+Board: [2c 7h 3s 2h 8s]
+Seat 2: P1xel7 won 3325
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176331748672043-50-1706733329 - Holdem no limit (50/200/400) - 2024/01/31 20:35:29 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #5 is the button
+Seat 1: Kepler452b (50343)
+Seat 2: P1xel7 (11798)
+Seat 3: biscrok77 (25881)
+Seat 4: GTOQPAKCDQ76 (15645)
+Seat 5: punky3232 (49514)
+Seat 6: -Bamio- (15445)
+*** ANTE/BLINDS ***
+-Bamio- posts ante 50
+Kepler452b posts ante 50
+P1xel7 posts ante 50
+biscrok77 posts ante 50
+GTOQPAKCDQ76 posts ante 50
+punky3232 posts ante 50
+-Bamio- posts small blind 200
+Kepler452b posts big blind 400
+Dealt to P1xel7 [3d 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+biscrok77 raises 500 to 900
+GTOQPAKCDQ76 folds
+punky3232 folds
+-Bamio- folds
+Kepler452b calls 500
+*** FLOP *** [5c As 8h]
+Kepler452b checks
+biscrok77 bets 805
+Kepler452b calls 805
+*** TURN *** [5c As 8h][Ah]
+Kepler452b checks
+biscrok77 bets 1369
+Kepler452b raises 3842 to 5211
+biscrok77 calls 3842
+*** RIVER *** [5c As 8h Ah][Kd]
+Kepler452b checks
+biscrok77 checks
+*** SHOW DOWN ***
+Kepler452b shows [Jc Tc] (One pair : Aces)
+biscrok77 shows [Th Td] (Two pairs : Aces and Tens)
+biscrok77 collected 14332 from pot
+*** SUMMARY ***
+Total pot 14332 | No rake
+Board: [5c As 8h Ah Kd]
+Seat 1: Kepler452b (big blind) showed [Jc Tc] and lost with One pair : Aces
+Seat 3: biscrok77 showed [Th Td] and won 14332 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176331748672043-51-1706733376 - Holdem no limit (50/200/400) - 2024/01/31 20:36:16 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #6 is the button
+Seat 1: Kepler452b (43377)
+Seat 2: P1xel7 (11748)
+Seat 3: biscrok77 (33247)
+Seat 4: GTOQPAKCDQ76 (15595)
+Seat 5: punky3232 (49464)
+Seat 6: -Bamio- (15195)
+*** ANTE/BLINDS ***
+Kepler452b posts ante 50
+P1xel7 posts ante 50
+biscrok77 posts ante 50
+GTOQPAKCDQ76 posts ante 50
+punky3232 posts ante 50
+-Bamio- posts ante 50
+Kepler452b posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [2h 7h]
+*** PRE-FLOP *** 
+biscrok77 folds
+GTOQPAKCDQ76 folds
+punky3232 raises 500 to 900
+-Bamio- folds
+Kepler452b calls 700
+P1xel7 folds
+*** FLOP *** [Ad 2d 2c]
+Kepler452b checks
+punky3232 bets 875
+Kepler452b folds
+punky3232 collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [Ad 2d 2c]
+Seat 5: punky3232 won 3375
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 10 - HandId: #3220176331748672043-52-1706733400 - Holdem no limit (60/250/500) - 2024/01/31 20:36:40 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #1 is the button
+Seat 1: Kepler452b (42427)
+Seat 2: P1xel7 (11298)
+Seat 3: biscrok77 (33197)
+Seat 4: GTOQPAKCDQ76 (15545)
+Seat 5: punky3232 (51014)
+Seat 6: -Bamio- (15145)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+biscrok77 posts ante 60
+Kepler452b posts ante 60
+GTOQPAKCDQ76 posts ante 60
+punky3232 posts ante 60
+-Bamio- posts ante 60
+P1xel7 posts small blind 250
+biscrok77 posts big blind 500
+Dealt to P1xel7 [3c Kd]
+*** PRE-FLOP *** 
+GTOQPAKCDQ76 folds
+punky3232 raises 625 to 1125
+-Bamio- folds
+Kepler452b folds
+P1xel7 folds
+biscrok77 calls 625
+*** FLOP *** [Ks 6h Ts]
+biscrok77 checks
+punky3232 checks
+*** TURN *** [Ks 6h Ts][7d]
+biscrok77 bets 1000
+punky3232 folds
+biscrok77 collected 3860 from pot
+*** SUMMARY ***
+Total pot 3860 | No rake
+Board: [Ks 6h Ts 7d]
+Seat 3: biscrok77 (big blind) won 3860
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 10 - HandId: #3220176331748672043-53-1706733441 - Holdem no limit (60/250/500) - 2024/01/31 20:37:21 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #2 is the button
+Seat 1: Kepler452b (42367)
+Seat 2: P1xel7 (10988)
+Seat 3: biscrok77 (34872)
+Seat 4: GTOQPAKCDQ76 (15485)
+Seat 5: punky3232 (49829)
+Seat 6: -Bamio- (15085)
+*** ANTE/BLINDS ***
+biscrok77 posts ante 60
+GTOQPAKCDQ76 posts ante 60
+Kepler452b posts ante 60
+P1xel7 posts ante 60
+punky3232 posts ante 60
+-Bamio- posts ante 60
+biscrok77 posts small blind 250
+GTOQPAKCDQ76 posts big blind 500
+Dealt to P1xel7 [8s Kd]
+*** PRE-FLOP *** 
+punky3232 raises 625 to 1125
+-Bamio- folds
+Kepler452b raises 2250 to 3375
+P1xel7 folds
+biscrok77 calls 3125
+GTOQPAKCDQ76 folds
+punky3232 calls 2250
+*** FLOP *** [9c Qh 6c]
+biscrok77 checks
+punky3232 checks
+Kepler452b checks
+*** TURN *** [9c Qh 6c][Tc]
+biscrok77 checks
+punky3232 checks
+Kepler452b bets 3845
+biscrok77 folds
+punky3232 folds
+Kepler452b collected 14830 from pot
+*** SUMMARY ***
+Total pot 14830 | No rake
+Board: [9c Qh 6c Tc]
+Seat 1: Kepler452b won 14830
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 10 - HandId: #3220176331748672043-54-1706733487 - Holdem no limit (60/250/500) - 2024/01/31 20:38:07 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #3 is the button
+Seat 1: Kepler452b (49917)
+Seat 2: P1xel7 (10928)
+Seat 3: biscrok77 (31437)
+Seat 4: GTOQPAKCDQ76 (14925)
+Seat 5: punky3232 (46394)
+Seat 6: -Bamio- (15025)
+*** ANTE/BLINDS ***
+GTOQPAKCDQ76 posts ante 60
+punky3232 posts ante 60
+Kepler452b posts ante 60
+P1xel7 posts ante 60
+biscrok77 posts ante 60
+-Bamio- posts ante 60
+GTOQPAKCDQ76 posts small blind 250
+punky3232 posts big blind 500
+Dealt to P1xel7 [2c 5c]
+*** PRE-FLOP *** 
+-Bamio- folds
+Kepler452b raises 500 to 1000
+P1xel7 folds
+biscrok77 folds
+GTOQPAKCDQ76 folds
+punky3232 calls 500
+*** FLOP *** [Ac Qd 7d]
+punky3232 checks
+Kepler452b bets 913
+punky3232 folds
+Kepler452b collected 3523 from pot
+*** SUMMARY ***
+Total pot 3523 | No rake
+Board: [Ac Qd 7d]
+Seat 1: Kepler452b won 3523
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 10 - HandId: #3220176331748672043-55-1706733511 - Holdem no limit (60/250/500) - 2024/01/31 20:38:31 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0554' 6-max (real money) Seat #4 is the button
+Seat 1: Kepler452b (51467)
+Seat 2: P1xel7 (10868)
+Seat 3: biscrok77 (31377)
+Seat 4: GTOQPAKCDQ76 (14615)
+Seat 5: punky3232 (45334)
+Seat 6: -Bamio- (14965)
+*** ANTE/BLINDS ***
+punky3232 posts ante 60
+-Bamio- posts ante 60
+Kepler452b posts ante 60
+P1xel7 posts ante 60
+biscrok77 posts ante 60
+GTOQPAKCDQ76 posts ante 60
+punky3232 posts small blind 250
+-Bamio- posts big blind 500
+Dealt to P1xel7 [Jh 2c]
+*** PRE-FLOP *** 
+Kepler452b calls 500
+P1xel7 folds
+biscrok77 folds
+GTOQPAKCDQ76 folds
+punky3232 calls 250
+-Bamio- folds
+*** FLOP *** [Js 2s 4c]
+punky3232 checks
+Kepler452b checks
+*** TURN *** [Js 2s 4c][Ts]
+punky3232 checks
+Kepler452b checks
+*** RIVER *** [Js 2s 4c Ts][2d]
+punky3232 checks
+Kepler452b checks
+*** SHOW DOWN ***
+Kepler452b shows [9c 8h] (One pair : 2)
+punky3232 shows [5c Ah] (One pair : 2)
+punky3232 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [Js 2s 4c Ts 2d]
+Seat 1: Kepler452b showed [9c 8h] and lost with One pair : 2
+Seat 5: punky3232 (small blind) showed [5c Ah] and won 1860 with One pair : 2
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176331748671576-44-1706733641 - Holdem no limit (70/300/600) - 2024/01/31 20:40:41 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0087' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (10808)
+Seat 2: KutBil (45285)
+Seat 3: miacle (15229)
+Seat 4: InYourDreams (35720)
+Seat 5: Jerems8131 (21138)
+Seat 6: zinou07 (64604)
+*** ANTE/BLINDS ***
+miacle posts ante 70
+InYourDreams posts ante 70
+P1xel7 posts ante 70
+KutBil posts ante 70
+Jerems8131 posts ante 70
+zinou07 posts ante 70
+miacle posts small blind 300
+InYourDreams posts big blind 600
+Dealt to P1xel7 [4s Js]
+*** PRE-FLOP *** 
+Jerems8131 raises 1920 to 2520
+zinou07 calls 2520
+P1xel7 folds
+KutBil calls 2520
+miacle folds
+InYourDreams folds
+*** FLOP *** [Ks 8s 6h]
+Jerems8131 checks
+zinou07 checks
+KutBil bets 5772
+Jerems8131 raises 12776 to 18548 and is all-in
+zinou07 folds
+KutBil calls 12776
+*** TURN *** [Ks 8s 6h][7c]
+*** RIVER *** [Ks 8s 6h 7c][6s]
+*** SHOW DOWN ***
+KutBil shows [9h Kh] (Two pairs : Kings and 6)
+Jerems8131 shows [Kc Kd] (Full of Kings and 6)
+Jerems8131 collected 45976 from pot
+*** SUMMARY ***
+Total pot 45976 | No rake
+Board: [Ks 8s 6h 7c 6s]
+Seat 2: KutBil (button) showed [9h Kh] and lost with Two pairs : Kings and 6
+Seat 5: Jerems8131 showed [Kc Kd] and won 45976 with Full of Kings and 6
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176331748671576-45-1706733727 - Holdem no limit (70/300/600) - 2024/01/31 20:42:07 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0087' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (10738)
+Seat 2: KutBil (24147)
+Seat 3: miacle (14859)
+Seat 4: InYourDreams (35050)
+Seat 5: Jerems8131 (45976)
+Seat 6: zinou07 (62014)
+*** ANTE/BLINDS ***
+InYourDreams posts ante 70
+Jerems8131 posts ante 70
+P1xel7 posts ante 70
+KutBil posts ante 70
+miacle posts ante 70
+zinou07 posts ante 70
+InYourDreams posts small blind 300
+Jerems8131 posts big blind 600
+Dealt to P1xel7 [7h 6c]
+*** PRE-FLOP *** 
+zinou07 calls 600
+P1xel7 folds
+KutBil raises 1200 to 1800
+miacle folds
+InYourDreams raises 5400 to 7200
+Jerems8131 folds
+zinou07 folds
+KutBil calls 5400
+*** FLOP *** [8d 5h Ad]
+InYourDreams bets 5607
+KutBil folds
+InYourDreams collected 21627 from pot
+*** SUMMARY ***
+Total pot 21627 | No rake
+Board: [8d 5h Ad]
+Seat 4: InYourDreams (small blind) won 21627
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176331748671576-46-1706733766 - Holdem no limit (70/300/600) - 2024/01/31 20:42:46 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0087' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (10668)
+Seat 2: KutBil (16877)
+Seat 3: miacle (14789)
+Seat 4: InYourDreams (43800)
+Seat 5: Jerems8131 (45306)
+Seat 6: zinou07 (61344)
+*** ANTE/BLINDS ***
+Jerems8131 posts ante 70
+zinou07 posts ante 70
+P1xel7 posts ante 70
+KutBil posts ante 70
+miacle posts ante 70
+InYourDreams posts ante 70
+Jerems8131 posts small blind 300
+zinou07 posts big blind 600
+Dealt to P1xel7 [Js 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+KutBil raises 1200 to 1800
+miacle folds
+InYourDreams folds
+Jerems8131 calls 1500
+zinou07 folds
+*** FLOP *** [Kh 9s Qh]
+Jerems8131 checks
+KutBil bets 3003
+Jerems8131 folds
+KutBil collected 7623 from pot
+*** SUMMARY ***
+Total pot 7623 | No rake
+Board: [Kh 9s Qh]
+Seat 2: KutBil won 7623
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176331748671576-47-1706733808 - Holdem no limit (70/300/600) - 2024/01/31 20:43:28 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0087' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (10598)
+Seat 2: KutBil (19627)
+Seat 3: miacle (14719)
+Seat 4: InYourDreams (43730)
+Seat 5: Jerems8131 (43436)
+Seat 6: zinou07 (60674)
+*** ANTE/BLINDS ***
+zinou07 posts ante 70
+P1xel7 posts ante 70
+KutBil posts ante 70
+miacle posts ante 70
+InYourDreams posts ante 70
+Jerems8131 posts ante 70
+zinou07 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [7h Ts]
+*** PRE-FLOP *** 
+KutBil raises 1200 to 1800
+miacle folds
+InYourDreams folds
+Jerems8131 folds
+zinou07 raises 58804 to 60604 and is all-in
+P1xel7 folds
+KutBil calls 17757 and is all-in
+*** FLOP *** [5s 5d Ah]
+*** TURN *** [5s 5d Ah][6s]
+*** RIVER *** [5s 5d Ah 6s][9d]
+*** SHOW DOWN ***
+KutBil shows [3c 3d] (Two pairs : 5 and 3)
+zinou07 shows [9h Ks] (Two pairs : 9 and 5)
+zinou07 collected 81181 from pot
+*** SUMMARY ***
+Total pot 81181 | No rake
+Board: [5s 5d Ah 6s 9d]
+Seat 2: KutBil showed [3c 3d] and lost with Two pairs : 5 and 3
+Seat 6: zinou07 (small blind) showed [9h Ks] and won 81181 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176331748671576-48-1706733828 - Holdem no limit (70/300/600) - 2024/01/31 20:43:48 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0087' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (9928)
+Seat 3: miacle (14649)
+Seat 4: InYourDreams (43660)
+Seat 5: Jerems8131 (43366)
+Seat 6: zinou07 (81181)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+miacle posts ante 70
+InYourDreams posts ante 70
+Jerems8131 posts ante 70
+zinou07 posts ante 70
+P1xel7 posts small blind 300
+miacle posts big blind 600
+Dealt to P1xel7 [9s Kh]
+*** PRE-FLOP *** 
+InYourDreams folds
+Jerems8131 raises 1200 to 1800
+zinou07 raises 79311 to 81111 and is all-in
+P1xel7 folds
+miacle folds
+Jerems8131 calls 41496 and is all-in
+*** FLOP *** [9h Jd 7s]
+*** TURN *** [9h Jd 7s][Kc]
+*** RIVER *** [9h Jd 7s Kc][9d]
+*** SHOW DOWN ***
+Jerems8131 shows [Kd Ah] (Two pairs : Kings and 9)
+zinou07 shows [Jh Th] (Two pairs : Jacks and 9)
+zinou07 collected 37815 from side pot 1
+Jerems8131 collected 87842 from main pot
+*** SUMMARY ***
+Total pot 125657 | No rake
+Board: [9h Jd 7s Kc 9d]
+Seat 5: Jerems8131 showed [Kd Ah] and won 87842 with Two pairs : Kings and 9
+Seat 6: zinou07 (button) showed [Jh Th] and won 37815 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176331748671576-49-1706733846 - Holdem no limit (70/300/600) - 2024/01/31 20:44:06 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0087' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (9558)
+Seat 3: miacle (13979)
+Seat 4: InYourDreams (43590)
+Seat 5: Jerems8131 (87842)
+Seat 6: zinou07 (37815)
+*** ANTE/BLINDS ***
+miacle posts ante 70
+InYourDreams posts ante 70
+P1xel7 posts ante 70
+Jerems8131 posts ante 70
+zinou07 posts ante 70
+miacle posts small blind 300
+InYourDreams posts big blind 600
+Dealt to P1xel7 [Th 6d]
+*** PRE-FLOP *** 
+Jerems8131 folds
+zinou07 raises 37145 to 37745 and is all-in
+P1xel7 folds
+miacle folds
+InYourDreams folds
+zinou07 collected 38995 from pot
+*** SUMMARY ***
+Total pot 38995 | No rake
+Seat 6: zinou07 won 38995
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176331748671576-50-1706733857 - Holdem no limit (70/300/600) - 2024/01/31 20:44:17 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0087' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (9488)
+Seat 3: miacle (13609)
+Seat 4: InYourDreams (42920)
+Seat 5: Jerems8131 (87772)
+Seat 6: zinou07 (38995)
+*** ANTE/BLINDS ***
+InYourDreams posts ante 70
+Jerems8131 posts ante 70
+P1xel7 posts ante 70
+miacle posts ante 70
+zinou07 posts ante 70
+InYourDreams posts small blind 300
+Jerems8131 posts big blind 600
+Dealt to P1xel7 [9d 7h]
+*** PRE-FLOP *** 
+zinou07 raises 38325 to 38925 and is all-in
+P1xel7 folds
+miacle folds
+InYourDreams folds
+Jerems8131 folds
+zinou07 collected 40175 from pot
+*** SUMMARY ***
+Total pot 40175 | No rake
+Seat 6: zinou07 won 40175
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 12 - HandId: #3220176331748671576-51-1706733888 - Holdem no limit (80/350/700) - 2024/01/31 20:44:48 UTC
+Table: 'POKER SOCIETY FREEROLL(749755728)#0087' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (9418)
+Seat 3: miacle (13539)
+Seat 4: InYourDreams (42550)
+Seat 5: Jerems8131 (87102)
+Seat 6: zinou07 (40175)
+*** ANTE/BLINDS ***
+Jerems8131 posts ante 80
+zinou07 posts ante 80
+P1xel7 posts ante 80
+miacle posts ante 80
+InYourDreams posts ante 80
+Jerems8131 posts small blind 350
+zinou07 posts big blind 700
+Dealt to P1xel7 [Th Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 8638 to 9338 and is all-in
+miacle folds
+InYourDreams calls 9338
+Jerems8131 folds
+zinou07 calls 8638
+*** FLOP *** [8h Qd As]
+zinou07 checks
+InYourDreams checks
+*** TURN *** [8h Qd As][Jh]
+zinou07 checks
+InYourDreams bets 18697
+zinou07 folds
+*** RIVER *** [8h Qd As Jh][Jd]
+*** SHOW DOWN ***
+P1xel7 shows [Th Ks] (Straight Ace high)
+InYourDreams shows [Qc Jc] (Full of Jacks and Queens)
+InYourDreams collected 47461 from pot
+*** SUMMARY ***
+Total pot 47461 | No rake
+Board: [8h Qd As Jh Jd]
+Seat 1: P1xel7 showed [Th Ks] and lost with Straight Ace high
+Seat 4: InYourDreams (button) showed [Qc Jc] and won 47461 with Full of Jacks and Queens
+
+

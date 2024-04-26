@@ -1,0 +1,1256 @@
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3108531384193384470-27-1703358413 - Holdem no limit (35/150/300) - 2023/12/23 19:06:53 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #3 is the button
+Seat 1: Coatl36 (23717, 0.90€ bounty)
+Seat 2: toto dupopo (51586, 1.35€ bounty)
+Seat 3: idrdem (18445, 0.90€ bounty)
+Seat 4: Ipacura (19442, 0.90€ bounty)
+Seat 5: P1xel7 (20000, 0.90€ bounty)
+Seat 6: Tolywins4.0 (19580, 0.90€ bounty)
+Seat 7: Cy Press In1 (37722, 1.35€ bounty)
+Seat 8: AAirdrop (18080, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Ipacura posts ante 35
+P1xel7 posts ante 35
+Coatl36 posts ante 35
+toto dupopo posts ante 35
+idrdem posts ante 35
+Tolywins4.0 posts ante 35
+Cy Press In1 posts ante 35
+AAirdrop posts ante 35
+Ipacura posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Jc 9h]
+*** PRE-FLOP *** 
+Tolywins4.0 folds
+Cy Press In1 calls 300
+AAirdrop folds
+Coatl36 raises 1500 to 1800
+toto dupopo folds
+idrdem folds
+Ipacura folds
+P1xel7 folds
+Cy Press In1 calls 1500
+*** FLOP *** [2d 7d 8s]
+Cy Press In1 checks
+Coatl36 checks
+*** TURN *** [2d 7d 8s][8c]
+Cy Press In1 bets 2315
+Coatl36 folds
+Cy Press In1 collected 6645 from pot
+*** SUMMARY ***
+Total pot 6645 | No rake
+Board: [2d 7d 8s 8c]
+Seat 7: Cy Press In1 won 6645
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3108531384193384470-28-1703358466 - Holdem no limit (35/150/300) - 2023/12/23 19:07:46 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #4 is the button
+Seat 1: Coatl36 (21882, 0.90€ bounty)
+Seat 2: toto dupopo (51551, 1.35€ bounty)
+Seat 3: idrdem (18410, 0.90€ bounty)
+Seat 4: Ipacura (19257, 0.90€ bounty)
+Seat 5: P1xel7 (19665, 0.90€ bounty)
+Seat 6: Tolywins4.0 (19545, 0.90€ bounty)
+Seat 7: Cy Press In1 (40217, 1.35€ bounty)
+Seat 8: AAirdrop (18045, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Tolywins4.0 posts ante 35
+Coatl36 posts ante 35
+toto dupopo posts ante 35
+idrdem posts ante 35
+Ipacura posts ante 35
+Cy Press In1 posts ante 35
+AAirdrop posts ante 35
+P1xel7 posts small blind 150
+Tolywins4.0 posts big blind 300
+Dealt to P1xel7 [8d 3c]
+*** PRE-FLOP *** 
+Cy Press In1 calls 300
+AAirdrop folds
+Coatl36 folds
+toto dupopo folds
+idrdem folds
+Ipacura raises 900 to 1200
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 calls 900
+*** FLOP *** [9c Jd Kd]
+Cy Press In1 checks
+Ipacura bets 1096
+Cy Press In1 folds
+Ipacura collected 4226 from pot
+*** SUMMARY ***
+Total pot 4226 | No rake
+Board: [9c Jd Kd]
+Seat 4: Ipacura (button) won 4226
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3108531384193384470-29-1703358545 - Holdem no limit (35/150/300) - 2023/12/23 19:09:05 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #5 is the button
+Seat 1: Coatl36 (21847, 0.90€ bounty)
+Seat 2: toto dupopo (51516, 1.35€ bounty)
+Seat 3: idrdem (18375, 0.90€ bounty)
+Seat 4: Ipacura (21152, 0.90€ bounty)
+Seat 5: P1xel7 (19480, 0.90€ bounty)
+Seat 6: Tolywins4.0 (19210, 0.90€ bounty)
+Seat 7: Cy Press In1 (38982, 1.35€ bounty)
+Seat 8: AAirdrop (18010, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Tolywins4.0 posts ante 35
+Cy Press In1 posts ante 35
+Coatl36 posts ante 35
+toto dupopo posts ante 35
+idrdem posts ante 35
+Ipacura posts ante 35
+P1xel7 posts ante 35
+AAirdrop posts ante 35
+Tolywins4.0 posts small blind 150
+Cy Press In1 posts big blind 300
+Dealt to P1xel7 [3s 2c]
+*** PRE-FLOP *** 
+AAirdrop folds
+Coatl36 folds
+toto dupopo calls 300
+idrdem folds
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 calls 150
+Cy Press In1 checks
+*** FLOP *** [Ts 5h Kh]
+Tolywins4.0 checks
+Cy Press In1 checks
+toto dupopo bets 413
+Tolywins4.0 folds
+Cy Press In1 calls 413
+*** TURN *** [Ts 5h Kh][8h]
+Cy Press In1 checks
+toto dupopo bets 702
+Cy Press In1 calls 702
+*** RIVER *** [Ts 5h Kh 8h][6c]
+Cy Press In1 checks
+toto dupopo bets 1194
+Cy Press In1 folds
+toto dupopo collected 4604 from pot
+*** SUMMARY ***
+Total pot 4604 | No rake
+Board: [Ts 5h Kh 8h 6c]
+Seat 2: toto dupopo won 4604
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3108531384193384470-30-1703358585 - Holdem no limit (35/150/300) - 2023/12/23 19:09:45 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #6 is the button
+Seat 2: toto dupopo (53476, 1.35€ bounty)
+Seat 3: idrdem (18340, 0.90€ bounty)
+Seat 4: Ipacura (21117, 0.90€ bounty)
+Seat 5: P1xel7 (19445, 0.90€ bounty)
+Seat 6: Tolywins4.0 (18875, 0.90€ bounty)
+Seat 7: Cy Press In1 (37532, 1.35€ bounty)
+Seat 8: AAirdrop (17975, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Cy Press In1 posts ante 35
+AAirdrop posts ante 35
+toto dupopo posts ante 35
+idrdem posts ante 35
+Ipacura posts ante 35
+P1xel7 posts ante 35
+Tolywins4.0 posts ante 35
+Cy Press In1 posts small blind 150
+AAirdrop posts big blind 300
+Dealt to P1xel7 [4h 9s]
+*** PRE-FLOP *** 
+toto dupopo folds
+idrdem folds
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 folds
+AAirdrop collected 695 from pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Seat 8: AAirdrop (big blind) won 695
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3108531384193384470-31-1703358633 - Holdem no limit (35/150/300) - 2023/12/23 19:10:33 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #7 is the button
+Seat 2: toto dupopo (53441, 1.35€ bounty)
+Seat 3: idrdem (18305, 0.90€ bounty)
+Seat 4: Ipacura (21082, 0.90€ bounty)
+Seat 5: P1xel7 (19410, 0.90€ bounty)
+Seat 6: Tolywins4.0 (18840, 0.90€ bounty)
+Seat 7: Cy Press In1 (37347, 1.35€ bounty)
+Seat 8: AAirdrop (18335, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AAirdrop posts ante 35
+toto dupopo posts ante 35
+idrdem posts ante 35
+Ipacura posts ante 35
+P1xel7 posts ante 35
+Tolywins4.0 posts ante 35
+Cy Press In1 posts ante 35
+AAirdrop posts small blind 150
+toto dupopo posts big blind 300
+Dealt to P1xel7 [5h Qh]
+*** PRE-FLOP *** 
+idrdem calls 300
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 folds
+AAirdrop folds
+toto dupopo checks
+*** FLOP *** [Qs 8h Kd]
+toto dupopo checks
+idrdem checks
+*** TURN *** [Qs 8h Kd][5d]
+toto dupopo bets 300
+idrdem calls 300
+*** RIVER *** [Qs 8h Kd 5d][3d]
+toto dupopo checks
+idrdem checks
+*** SHOW DOWN ***
+toto dupopo shows [2c 9d] (High card : King)
+idrdem shows [Jd As] (High card : Ace)
+idrdem collected 1595 from pot
+*** SUMMARY ***
+Total pot 1595 | No rake
+Board: [Qs 8h Kd 5d 3d]
+Seat 2: toto dupopo (big blind) showed [2c 9d] and lost with High card : King
+Seat 3: idrdem showed [Jd As] and won 1595 with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3108531384193384470-32-1703358690 - Holdem no limit (40/175/350) - 2023/12/23 19:11:30 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #8 is the button
+Seat 2: toto dupopo (52806, 1.35€ bounty)
+Seat 3: idrdem (19265, 0.90€ bounty)
+Seat 4: Ipacura (21047, 0.90€ bounty)
+Seat 5: P1xel7 (19375, 0.90€ bounty)
+Seat 6: Tolywins4.0 (18805, 0.90€ bounty)
+Seat 7: Cy Press In1 (37312, 1.35€ bounty)
+Seat 8: AAirdrop (18150, 0.90€ bounty)
+*** ANTE/BLINDS ***
+toto dupopo posts ante 40
+idrdem posts ante 40
+Ipacura posts ante 40
+P1xel7 posts ante 40
+Tolywins4.0 posts ante 40
+Cy Press In1 posts ante 40
+AAirdrop posts ante 40
+toto dupopo posts small blind 175
+idrdem posts big blind 350
+Dealt to P1xel7 [4h Ad]
+*** PRE-FLOP *** 
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 folds
+AAirdrop folds
+toto dupopo folds
+idrdem collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Seat 3: idrdem (big blind) won 805
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3108531384193384470-33-1703358726 - Holdem no limit (40/175/350) - 2023/12/23 19:12:06 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #2 is the button
+Seat 2: toto dupopo (52591, 1.35€ bounty)
+Seat 3: idrdem (19680, 0.90€ bounty)
+Seat 4: Ipacura (21007, 0.90€ bounty)
+Seat 5: P1xel7 (19335, 0.90€ bounty)
+Seat 6: Tolywins4.0 (18765, 0.90€ bounty)
+Seat 7: Cy Press In1 (37272, 1.35€ bounty)
+Seat 8: AAirdrop (18110, 0.90€ bounty)
+*** ANTE/BLINDS ***
+idrdem posts ante 40
+Ipacura posts ante 40
+toto dupopo posts ante 40
+P1xel7 posts ante 40
+Tolywins4.0 posts ante 40
+Cy Press In1 posts ante 40
+AAirdrop posts ante 40
+idrdem posts small blind 175
+Ipacura posts big blind 350
+Dealt to P1xel7 [3d 3c]
+*** PRE-FLOP *** 
+P1xel7 raises 700 to 1050
+Tolywins4.0 folds
+Cy Press In1 folds
+AAirdrop folds
+toto dupopo folds
+idrdem folds
+Ipacura folds
+P1xel7 collected 1855 from pot
+*** SUMMARY ***
+Total pot 1855 | No rake
+Seat 5: P1xel7 won 1855
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3108531384193384470-34-1703358759 - Holdem no limit (40/175/350) - 2023/12/23 19:12:39 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #3 is the button
+Seat 1: call me god (20000, 0.90€ bounty)
+Seat 2: toto dupopo (52551, 1.35€ bounty)
+Seat 3: idrdem (19465, 0.90€ bounty)
+Seat 4: Ipacura (20617, 0.90€ bounty)
+Seat 5: P1xel7 (20100, 0.90€ bounty)
+Seat 6: Tolywins4.0 (18725, 0.90€ bounty)
+Seat 7: Cy Press In1 (37232, 1.35€ bounty)
+Seat 8: AAirdrop (18070, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Ipacura posts ante 40
+P1xel7 posts ante 40
+call me god posts ante 40
+toto dupopo posts ante 40
+idrdem posts ante 40
+Tolywins4.0 posts ante 40
+Cy Press In1 posts ante 40
+AAirdrop posts ante 40
+Ipacura posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [5s Td]
+*** PRE-FLOP *** 
+Tolywins4.0 folds
+Cy Press In1 folds
+AAirdrop raises 525 to 875
+call me god folds
+toto dupopo raises 525 to 1400
+idrdem folds
+Ipacura folds
+P1xel7 folds
+AAirdrop calls 525
+*** FLOP *** [3c 8s 5h]
+AAirdrop checks
+toto dupopo bets 1276
+AAirdrop folds
+toto dupopo collected 4921 from pot
+*** SUMMARY ***
+Total pot 4921 | No rake
+Board: [3c 8s 5h]
+Seat 2: toto dupopo won 4921
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3108531384193384470-35-1703358837 - Holdem no limit (40/175/350) - 2023/12/23 19:13:57 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #4 is the button
+Seat 1: call me god (19960, 0.90€ bounty)
+Seat 2: toto dupopo (54756, 1.35€ bounty)
+Seat 3: idrdem (19425, 0.90€ bounty)
+Seat 4: Ipacura (20402, 0.90€ bounty)
+Seat 5: P1xel7 (19710, 0.90€ bounty)
+Seat 6: Tolywins4.0 (18685, 0.90€ bounty)
+Seat 7: Cy Press In1 (37192, 1.35€ bounty)
+Seat 8: AAirdrop (16630, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Tolywins4.0 posts ante 40
+call me god posts ante 40
+toto dupopo posts ante 40
+idrdem posts ante 40
+Ipacura posts ante 40
+Cy Press In1 posts ante 40
+AAirdrop posts ante 40
+P1xel7 posts small blind 175
+Tolywins4.0 posts big blind 350
+Dealt to P1xel7 [7h 2c]
+*** PRE-FLOP *** 
+Cy Press In1 folds
+AAirdrop raises 525 to 875
+call me god raises 1313 to 2188
+toto dupopo folds
+idrdem folds
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 folds
+AAirdrop raises 14402 to 16590 and is all-in
+call me god raises 3330 to 19920 and is all-in
+*** FLOP *** [Qd 7c 5h]
+*** TURN *** [Qd 7c 5h][Ad]
+*** RIVER *** [Qd 7c 5h Ad][3d]
+*** SHOW DOWN ***
+call me god shows [Ks Kd] (One pair : Kings)
+AAirdrop shows [Kc Kh] (One pair : Kings)
+AAirdrop collected 17013 from main pot
+call me god collected 20342 from side pot 1
+*** SUMMARY ***
+Total pot 37355 | No rake
+Board: [Qd 7c 5h Ad 3d]
+Seat 1: call me god showed [Ks Kd] and won 20342 with One pair : Kings
+Seat 8: AAirdrop showed [Kc Kh] and won 17013 with One pair : Kings
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3108531384193384470-36-1703358912 - Holdem no limit (40/175/350) - 2023/12/23 19:15:12 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #5 is the button
+Seat 1: call me god (20342, 0.90€ bounty)
+Seat 2: toto dupopo (54716, 1.35€ bounty)
+Seat 3: idrdem (19385, 0.90€ bounty)
+Seat 4: Ipacura (20362, 0.90€ bounty)
+Seat 5: P1xel7 (19495, 0.90€ bounty)
+Seat 6: Tolywins4.0 (18295, 0.90€ bounty)
+Seat 7: Cy Press In1 (37152, 1.35€ bounty)
+Seat 8: AAirdrop (17013, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Tolywins4.0 posts ante 40
+Cy Press In1 posts ante 40
+call me god posts ante 40
+toto dupopo posts ante 40
+idrdem posts ante 40
+Ipacura posts ante 40
+P1xel7 posts ante 40
+AAirdrop posts ante 40
+Tolywins4.0 posts small blind 175
+Cy Press In1 posts big blind 350
+Dealt to P1xel7 [3s 3c]
+*** PRE-FLOP *** 
+AAirdrop raises 525 to 875
+call me god calls 875
+toto dupopo calls 875
+idrdem folds
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 folds
+*** FLOP *** [Th 8s 7d]
+AAirdrop checks
+call me god checks
+toto dupopo bets 1215
+AAirdrop raises 1625 to 2840
+call me god folds
+toto dupopo calls 1625
+*** TURN *** [Th 8s 7d][2s]
+AAirdrop checks
+toto dupopo bets 3203
+AAirdrop calls 3203
+*** RIVER *** [Th 8s 7d 2s][4d]
+AAirdrop checks
+toto dupopo checks
+*** SHOW DOWN ***
+toto dupopo shows [Ah Ks] (High card : Ace)
+AAirdrop shows [9s 9h] (One pair : 9)
+AAirdrop collected 15556 from pot
+*** SUMMARY ***
+Total pot 15556 | No rake
+Board: [Th 8s 7d 2s 4d]
+Seat 2: toto dupopo showed [Ah Ks] and lost with High card : Ace
+Seat 8: AAirdrop showed [9s 9h] and won 15556 with One pair : 9
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3108531384193384470-37-1703358996 - Holdem no limit (50/200/400) - 2023/12/23 19:16:36 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #6 is the button
+Seat 1: call me god (19427, 0.90€ bounty)
+Seat 2: toto dupopo (47758, 1.35€ bounty)
+Seat 3: idrdem (19345, 0.90€ bounty)
+Seat 4: Ipacura (20322, 0.90€ bounty)
+Seat 5: P1xel7 (19455, 0.90€ bounty)
+Seat 6: Tolywins4.0 (18080, 0.90€ bounty)
+Seat 7: Cy Press In1 (36762, 1.35€ bounty)
+Seat 8: AAirdrop (25611, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Cy Press In1 posts ante 50
+AAirdrop posts ante 50
+call me god posts ante 50
+toto dupopo posts ante 50
+idrdem posts ante 50
+Ipacura posts ante 50
+P1xel7 posts ante 50
+Tolywins4.0 posts ante 50
+Cy Press In1 posts small blind 200
+AAirdrop posts big blind 400
+Dealt to P1xel7 [2d 4s]
+*** PRE-FLOP *** 
+call me god folds
+toto dupopo folds
+idrdem folds
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 folds
+AAirdrop collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Seat 8: AAirdrop (big blind) won 1000
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3108531384193384470-38-1703359026 - Holdem no limit (50/200/400) - 2023/12/23 19:17:06 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #7 is the button
+Seat 1: call me god (19377, 0.90€ bounty)
+Seat 2: toto dupopo (47708, 1.35€ bounty)
+Seat 3: idrdem (19295, 0.90€ bounty)
+Seat 4: Ipacura (20272, 0.90€ bounty)
+Seat 5: P1xel7 (19405, 0.90€ bounty)
+Seat 6: Tolywins4.0 (18030, 0.90€ bounty)
+Seat 7: Cy Press In1 (36512, 1.35€ bounty)
+Seat 8: AAirdrop (26161, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AAirdrop posts ante 50
+call me god posts ante 50
+toto dupopo posts ante 50
+idrdem posts ante 50
+Ipacura posts ante 50
+P1xel7 posts ante 50
+Tolywins4.0 posts ante 50
+Cy Press In1 posts ante 50
+AAirdrop posts small blind 200
+call me god posts big blind 400
+Dealt to P1xel7 [9d 8h]
+*** PRE-FLOP *** 
+toto dupopo folds
+idrdem raises 1400 to 1800
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 calls 1800
+AAirdrop folds
+call me god folds
+*** FLOP *** [7s Qc 5d]
+idrdem bets 1610
+Cy Press In1 folds
+idrdem collected 6210 from pot
+*** SUMMARY ***
+Total pot 6210 | No rake
+Board: [7s Qc 5d]
+Seat 3: idrdem won 6210
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3108531384193384470-39-1703359067 - Holdem no limit (50/200/400) - 2023/12/23 19:17:47 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #8 is the button
+Seat 1: call me god (18927, 0.90€ bounty)
+Seat 2: toto dupopo (47658, 1.35€ bounty)
+Seat 3: idrdem (22045, 0.90€ bounty)
+Seat 4: Ipacura (20222, 0.90€ bounty)
+Seat 5: P1xel7 (19355, 0.90€ bounty)
+Seat 6: Tolywins4.0 (17980, 0.90€ bounty)
+Seat 7: Cy Press In1 (34662, 1.35€ bounty)
+Seat 8: AAirdrop (25911, 0.90€ bounty)
+*** ANTE/BLINDS ***
+call me god posts ante 50
+toto dupopo posts ante 50
+idrdem posts ante 50
+Ipacura posts ante 50
+P1xel7 posts ante 50
+Tolywins4.0 posts ante 50
+Cy Press In1 posts ante 50
+AAirdrop posts ante 50
+call me god posts small blind 200
+toto dupopo posts big blind 400
+Dealt to P1xel7 [3d Ah]
+*** PRE-FLOP *** 
+idrdem raises 1400 to 1800
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 raises 32812 to 34612 and is all-in
+AAirdrop folds
+call me god folds
+toto dupopo folds
+idrdem calls 20195 and is all-in
+*** FLOP *** [3h Td Ks]
+*** TURN *** [3h Td Ks][8s]
+*** RIVER *** [3h Td Ks 8s][5d]
+*** SHOW DOWN ***
+idrdem shows [Ad Qs] (High card : Ace)
+Cy Press In1 shows [6d 6s] (One pair : 6)
+Cy Press In1 collected 57607 from pot
+*** SUMMARY ***
+Total pot 57607 | No rake
+Board: [3h Td Ks 8s 5d]
+Seat 3: idrdem showed [Ad Qs] and lost with High card : Ace
+Seat 7: Cy Press In1 showed [6d 6s] and won 57607 with One pair : 6
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3108531384193384470-40-1703359102 - Holdem no limit (50/200/400) - 2023/12/23 19:18:22 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #1 is the button
+Seat 1: call me god (18677, 0.90€ bounty)
+Seat 2: toto dupopo (47208, 1.35€ bounty)
+Seat 4: Ipacura (20172, 0.90€ bounty)
+Seat 5: P1xel7 (19305, 0.90€ bounty)
+Seat 6: Tolywins4.0 (17930, 0.90€ bounty)
+Seat 7: Cy Press In1 (57607, 1.80€ bounty)
+Seat 8: AAirdrop (25861, 0.90€ bounty)
+*** ANTE/BLINDS ***
+toto dupopo posts ante 50
+Ipacura posts ante 50
+call me god posts ante 50
+P1xel7 posts ante 50
+Tolywins4.0 posts ante 50
+Cy Press In1 posts ante 50
+AAirdrop posts ante 50
+toto dupopo posts small blind 200
+Ipacura posts big blind 400
+Dealt to P1xel7 [8c 8s]
+*** PRE-FLOP *** 
+P1xel7 raises 800 to 1200
+Tolywins4.0 folds
+Cy Press In1 raises 56357 to 57557 and is all-in
+AAirdrop calls 25811 and is all-in
+call me god folds
+toto dupopo folds
+Ipacura folds
+P1xel7 folds
+*** FLOP *** [Qc 6h Jd]
+*** TURN *** [Qc 6h Jd][7h]
+*** RIVER *** [Qc 6h Jd 7h][7c]
+*** SHOW DOWN ***
+AAirdrop shows [Kd Ac] (One pair : 7)
+Cy Press In1 shows [Ah Qh] (Two pairs : Queens and 7)
+Cy Press In1 collected 85518 from pot
+*** SUMMARY ***
+Total pot 85518 | No rake
+Board: [Qc 6h Jd 7h 7c]
+Seat 7: Cy Press In1 showed [Ah Qh] and won 85518 with Two pairs : Queens and 7
+Seat 8: AAirdrop showed [Kd Ac] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3108531384193384470-41-1703359144 - Holdem no limit (50/200/400) - 2023/12/23 19:19:04 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #2 is the button
+Seat 1: call me god (18627, 0.90€ bounty)
+Seat 2: toto dupopo (46958, 1.35€ bounty)
+Seat 3: El Sorcier (20000, 0.90€ bounty)
+Seat 4: Ipacura (19722, 0.90€ bounty)
+Seat 5: P1xel7 (18055, 0.90€ bounty)
+Seat 6: Tolywins4.0 (17880, 0.90€ bounty)
+Seat 7: Cy Press In1 (85518, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Ipacura posts ante 50
+P1xel7 posts ante 50
+call me god posts ante 50
+toto dupopo posts ante 50
+Tolywins4.0 posts ante 50
+Cy Press In1 posts ante 50
+Ipacura posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [4h Ac]
+*** PRE-FLOP *** 
+Tolywins4.0 folds
+Cy Press In1 folds
+call me god folds
+toto dupopo raises 400 to 800
+Ipacura folds
+P1xel7 calls 400
+*** FLOP *** [9c Ad 6h]
+P1xel7 checks
+toto dupopo bets 735
+P1xel7 calls 735
+*** TURN *** [9c Ad 6h][5h]
+P1xel7 checks
+toto dupopo bets 1250
+P1xel7 calls 1250
+*** RIVER *** [9c Ad 6h 5h][8h]
+P1xel7 bets 2125
+toto dupopo raises 12131 to 14256
+P1xel7 folds
+toto dupopo collected 22451 from pot
+*** SUMMARY ***
+Total pot 22451 | No rake
+Board: [9c Ad 6h 5h 8h]
+Seat 2: toto dupopo (button) won 22451
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3108531384193384470-42-1703359254 - Holdem no limit (50/200/400) - 2023/12/23 19:20:54 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #4 is the button
+Seat 1: call me god (18577, 0.90€ bounty)
+Seat 2: toto dupopo (52318, 1.35€ bounty)
+Seat 3: El Sorcier (20000, 0.90€ bounty)
+Seat 4: Ipacura (19472, 0.90€ bounty)
+Seat 5: P1xel7 (13095, 0.90€ bounty)
+Seat 6: Tolywins4.0 (17830, 0.90€ bounty)
+Seat 7: Cy Press In1 (85468, 2.25€ bounty)
+Seat 8: granitwang12 (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+Tolywins4.0 posts ante 50
+call me god posts ante 50
+toto dupopo posts ante 50
+El Sorcier posts ante 50
+Ipacura posts ante 50
+Cy Press In1 posts ante 50
+granitwang12 posts ante 50
+P1xel7 posts small blind 200
+Tolywins4.0 posts big blind 400
+Dealt to P1xel7 [7d Qd]
+*** PRE-FLOP *** 
+Cy Press In1 calls 400
+granitwang12 folds
+call me god folds
+toto dupopo folds
+El Sorcier folds
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 checks
+*** FLOP *** [8d Js Jh]
+Tolywins4.0 bets 400
+Cy Press In1 folds
+Tolywins4.0 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [8d Js Jh]
+Seat 6: Tolywins4.0 (big blind) won 1800
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3108531384193384470-43-1703359307 - Holdem no limit (60/250/500) - 2023/12/23 19:21:47 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #5 is the button
+Seat 1: call me god (18527, 0.90€ bounty)
+Seat 2: toto dupopo (52268, 1.35€ bounty)
+Seat 3: El Sorcier (19950, 0.90€ bounty)
+Seat 4: Ipacura (19422, 0.90€ bounty)
+Seat 5: P1xel7 (12845, 0.90€ bounty)
+Seat 6: Tolywins4.0 (18780, 0.90€ bounty)
+Seat 7: Cy Press In1 (85018, 2.25€ bounty)
+Seat 8: granitwang12 (19950, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Tolywins4.0 posts ante 60
+Cy Press In1 posts ante 60
+call me god posts ante 60
+toto dupopo posts ante 60
+El Sorcier posts ante 60
+Ipacura posts ante 60
+P1xel7 posts ante 60
+granitwang12 posts ante 60
+Tolywins4.0 posts small blind 250
+Cy Press In1 posts big blind 500
+Dealt to P1xel7 [As 3d]
+*** PRE-FLOP *** 
+granitwang12 folds
+call me god calls 500
+toto dupopo raises 500 to 1000
+El Sorcier raises 1750 to 2750
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 calls 2500
+Cy Press In1 folds
+call me god calls 2250
+toto dupopo calls 1750
+*** FLOP *** [9c 7h 4s]
+Tolywins4.0 checks
+call me god checks
+toto dupopo checks
+El Sorcier bets 7787
+Tolywins4.0 folds
+call me god folds
+toto dupopo folds
+El Sorcier collected 19767 from pot
+*** SUMMARY ***
+Total pot 19767 | No rake
+Board: [9c 7h 4s]
+Seat 3: El Sorcier won 19767
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3108531384193384470-44-1703359375 - Holdem no limit (60/250/500) - 2023/12/23 19:22:55 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #6 is the button
+Seat 1: call me god (15717, 0.90€ bounty)
+Seat 2: toto dupopo (49458, 1.35€ bounty)
+Seat 3: El Sorcier (29120, 0.90€ bounty)
+Seat 4: Ipacura (19362, 0.90€ bounty)
+Seat 5: P1xel7 (12785, 0.90€ bounty)
+Seat 6: Tolywins4.0 (15970, 0.90€ bounty)
+Seat 7: Cy Press In1 (84458, 2.25€ bounty)
+Seat 8: granitwang12 (19890, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Cy Press In1 posts ante 60
+granitwang12 posts ante 60
+call me god posts ante 60
+toto dupopo posts ante 60
+El Sorcier posts ante 60
+Ipacura posts ante 60
+P1xel7 posts ante 60
+Tolywins4.0 posts ante 60
+Cy Press In1 posts small blind 250
+granitwang12 posts big blind 500
+Dealt to P1xel7 [7h 3s]
+*** PRE-FLOP *** 
+call me god folds
+toto dupopo calls 500
+El Sorcier folds
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 calls 250
+granitwang12 checks
+*** FLOP *** [5s 8c 8h]
+Cy Press In1 checks
+granitwang12 checks
+toto dupopo checks
+*** TURN *** [5s 8c 8h][6d]
+Cy Press In1 checks
+granitwang12 checks
+toto dupopo bets 500
+Cy Press In1 folds
+granitwang12 calls 500
+*** RIVER *** [5s 8c 8h 6d][6c]
+granitwang12 checks
+toto dupopo bets 1043
+granitwang12 folds
+toto dupopo collected 4023 from pot
+*** SUMMARY ***
+Total pot 4023 | No rake
+Board: [5s 8c 8h 6d 6c]
+Seat 2: toto dupopo won 4023
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3108531384193384470-45-1703359462 - Holdem no limit (60/250/500) - 2023/12/23 19:24:22 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #7 is the button
+Seat 1: call me god (15657, 0.90€ bounty)
+Seat 2: toto dupopo (51378, 1.35€ bounty)
+Seat 3: El Sorcier (29060, 0.90€ bounty)
+Seat 4: Ipacura (19302, 0.90€ bounty)
+Seat 5: P1xel7 (12725, 0.90€ bounty)
+Seat 6: Tolywins4.0 (15910, 0.90€ bounty)
+Seat 7: Cy Press In1 (83898, 2.25€ bounty)
+Seat 8: granitwang12 (18830, 0.90€ bounty)
+*** ANTE/BLINDS ***
+granitwang12 posts ante 60
+call me god posts ante 60
+toto dupopo posts ante 60
+El Sorcier posts ante 60
+Ipacura posts ante 60
+P1xel7 posts ante 60
+Tolywins4.0 posts ante 60
+Cy Press In1 posts ante 60
+granitwang12 posts small blind 250
+call me god posts big blind 500
+Dealt to P1xel7 [Qh Td]
+*** PRE-FLOP *** 
+toto dupopo folds
+El Sorcier folds
+Ipacura folds
+P1xel7 folds
+Tolywins4.0 raises 500 to 1000
+Cy Press In1 calls 1000
+granitwang12 folds
+call me god folds
+*** FLOP *** [3s Tc Ks]
+Tolywins4.0 bets 1250
+Cy Press In1 calls 1250
+*** TURN *** [3s Tc Ks][9h]
+Tolywins4.0 bets 1500
+Cy Press In1 folds
+Tolywins4.0 collected 7230 from pot
+*** SUMMARY ***
+Total pot 7230 | No rake
+Board: [3s Tc Ks 9h]
+Seat 6: Tolywins4.0 won 7230
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3108531384193384470-46-1703359542 - Holdem no limit (60/250/500) - 2023/12/23 19:25:42 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #8 is the button
+Seat 1: call me god (15097, 0.90€ bounty)
+Seat 2: toto dupopo (51318, 1.35€ bounty)
+Seat 3: El Sorcier (29000, 0.90€ bounty)
+Seat 4: Ipacura (19242, 0.90€ bounty)
+Seat 5: P1xel7 (12665, 0.90€ bounty)
+Seat 6: Tolywins4.0 (19330, 0.90€ bounty)
+Seat 7: Cy Press In1 (81588, 2.25€ bounty)
+Seat 8: granitwang12 (18520, 0.90€ bounty)
+*** ANTE/BLINDS ***
+call me god posts ante 60
+toto dupopo posts ante 60
+El Sorcier posts ante 60
+Ipacura posts ante 60
+P1xel7 posts ante 60
+Tolywins4.0 posts ante 60
+Cy Press In1 posts ante 60
+granitwang12 posts ante 60
+call me god posts small blind 250
+toto dupopo posts big blind 500
+Dealt to P1xel7 [6h 9h]
+*** PRE-FLOP *** 
+El Sorcier raises 750 to 1250
+Ipacura calls 1250
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 folds
+granitwang12 folds
+call me god calls 1000
+toto dupopo folds
+*** FLOP *** [2c 3h 4c]
+call me god checks
+El Sorcier checks
+Ipacura bets 1183
+call me god folds
+El Sorcier calls 1183
+*** TURN *** [2c 3h 4c][As]
+El Sorcier checks
+Ipacura bets 3548
+El Sorcier calls 3548
+*** RIVER *** [2c 3h 4c As][6s]
+El Sorcier checks
+Ipacura bets 13201 and is all-in
+El Sorcier folds
+Ipacura collected 27393 from pot
+*** SUMMARY ***
+Total pot 27393 | No rake
+Board: [2c 3h 4c As 6s]
+Seat 4: Ipacura won 27393
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3108531384193384470-47-1703359636 - Holdem no limit (70/300/600) - 2023/12/23 19:27:16 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #1 is the button
+Seat 1: call me god (13787, 0.90€ bounty)
+Seat 2: toto dupopo (50758, 1.35€ bounty)
+Seat 3: El Sorcier (22959, 0.90€ bounty)
+Seat 4: Ipacura (27393, 0.90€ bounty)
+Seat 5: P1xel7 (12605, 0.90€ bounty)
+Seat 6: Tolywins4.0 (19270, 0.90€ bounty)
+Seat 7: Cy Press In1 (81528, 2.25€ bounty)
+Seat 8: granitwang12 (18460, 0.90€ bounty)
+*** ANTE/BLINDS ***
+toto dupopo posts ante 70
+El Sorcier posts ante 70
+call me god posts ante 70
+Ipacura posts ante 70
+P1xel7 posts ante 70
+Tolywins4.0 posts ante 70
+Cy Press In1 posts ante 70
+granitwang12 posts ante 70
+toto dupopo posts small blind 300
+El Sorcier posts big blind 600
+Dealt to P1xel7 [Js 9s]
+*** PRE-FLOP *** 
+Ipacura raises 750 to 1350
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 folds
+granitwang12 calls 1350
+call me god folds
+toto dupopo folds
+El Sorcier calls 750
+*** FLOP *** [Jc Jd 4c]
+El Sorcier checks
+Ipacura checks
+granitwang12 checks
+*** TURN *** [Jc Jd 4c][2s]
+El Sorcier bets 1719
+Ipacura folds
+granitwang12 calls 1719
+*** RIVER *** [Jc Jd 4c 2s][Td]
+El Sorcier bets 4174
+granitwang12 folds
+El Sorcier collected 12522 from pot
+*** SUMMARY ***
+Total pot 12522 | No rake
+Board: [Jc Jd 4c 2s Td]
+Seat 3: El Sorcier (big blind) won 12522
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3108531384193384470-48-1703359725 - Holdem no limit (70/300/600) - 2023/12/23 19:28:45 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #2 is the button
+Seat 1: call me god (13717, 0.90€ bounty)
+Seat 2: toto dupopo (50388, 1.35€ bounty)
+Seat 3: El Sorcier (28168, 0.90€ bounty)
+Seat 4: Ipacura (25973, 0.90€ bounty)
+Seat 5: P1xel7 (12535, 0.90€ bounty)
+Seat 6: Tolywins4.0 (19200, 0.90€ bounty)
+Seat 7: Cy Press In1 (81458, 2.25€ bounty)
+Seat 8: granitwang12 (15321, 0.90€ bounty)
+*** ANTE/BLINDS ***
+El Sorcier posts ante 70
+Ipacura posts ante 70
+call me god posts ante 70
+toto dupopo posts ante 70
+P1xel7 posts ante 70
+Tolywins4.0 posts ante 70
+Cy Press In1 posts ante 70
+granitwang12 posts ante 70
+El Sorcier posts small blind 300
+Ipacura posts big blind 600
+Dealt to P1xel7 [3c 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Tolywins4.0 folds
+Cy Press In1 folds
+granitwang12 folds
+call me god raises 13047 to 13647 and is all-in
+toto dupopo folds
+El Sorcier folds
+Ipacura folds
+call me god collected 15107 from pot
+*** SUMMARY ***
+Total pot 15107 | No rake
+Seat 1: call me god won 15107
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3108531384193384470-49-1703359786 - Holdem no limit (70/300/600) - 2023/12/23 19:29:46 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #3 is the button
+Seat 1: call me god (15107, 0.90€ bounty)
+Seat 2: toto dupopo (50318, 1.35€ bounty)
+Seat 3: El Sorcier (27798, 0.90€ bounty)
+Seat 4: Ipacura (25303, 0.90€ bounty)
+Seat 5: P1xel7 (12465, 0.90€ bounty)
+Seat 7: Cy Press In1 (81388, 2.25€ bounty)
+Seat 8: granitwang12 (15251, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Ipacura posts ante 70
+P1xel7 posts ante 70
+call me god posts ante 70
+toto dupopo posts ante 70
+El Sorcier posts ante 70
+Cy Press In1 posts ante 70
+granitwang12 posts ante 70
+Ipacura posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [6s Th]
+*** PRE-FLOP *** 
+Cy Press In1 folds
+granitwang12 raises 600 to 1200
+call me god calls 1200
+toto dupopo folds
+El Sorcier calls 1200
+Ipacura folds
+P1xel7 folds
+*** FLOP *** [2s 7d 2c]
+granitwang12 checks
+call me god checks
+El Sorcier checks
+*** TURN *** [2s 7d 2c][5h]
+granitwang12 checks
+call me god checks
+El Sorcier checks
+*** RIVER *** [2s 7d 2c 5h][9d]
+granitwang12 checks
+call me god checks
+El Sorcier checks
+*** SHOW DOWN ***
+call me god shows [6c Kc] (One pair : 2)
+granitwang12 shows [Js Qh] (One pair : 2)
+El Sorcier shows [Ah 6d] (One pair : 2)
+El Sorcier collected 4990 from pot
+*** SUMMARY ***
+Total pot 4990 | No rake
+Board: [2s 7d 2c 5h 9d]
+Seat 1: call me god showed [6c Kc] and lost with One pair : 2
+Seat 3: El Sorcier (button) showed [Ah 6d] and won 4990 with One pair : 2
+Seat 8: granitwang12 showed [Js Qh] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3108531384193384470-50-1703359901 - Holdem no limit (80/350/700) - 2023/12/23 19:31:41 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #4 is the button
+Seat 1: call me god (13837, 0.90€ bounty)
+Seat 2: toto dupopo (50248, 1.35€ bounty)
+Seat 3: El Sorcier (31518, 0.90€ bounty)
+Seat 4: Ipacura (24933, 0.90€ bounty)
+Seat 5: P1xel7 (11795, 0.90€ bounty)
+Seat 7: Cy Press In1 (81318, 2.25€ bounty)
+Seat 8: granitwang12 (13981, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Cy Press In1 posts ante 80
+call me god posts ante 80
+toto dupopo posts ante 80
+El Sorcier posts ante 80
+Ipacura posts ante 80
+granitwang12 posts ante 80
+P1xel7 posts small blind 350
+Cy Press In1 posts big blind 700
+Dealt to P1xel7 [2c 7s]
+*** PRE-FLOP *** 
+granitwang12 raises 700 to 1400
+call me god raises 12357 to 13757 and is all-in
+toto dupopo folds
+El Sorcier folds
+Ipacura folds
+P1xel7 folds
+Cy Press In1 folds
+granitwang12 calls 12357
+*** FLOP *** [5h 9c 6s]
+*** TURN *** [5h 9c 6s][7d]
+*** RIVER *** [5h 9c 6s 7d][Ks]
+*** SHOW DOWN ***
+granitwang12 shows [4c Ac] (High card : Ace)
+call me god shows [Qh Qc] (One pair : Queens)
+call me god collected 29124 from pot
+*** SUMMARY ***
+Total pot 29124 | No rake
+Board: [5h 9c 6s 7d Ks]
+Seat 1: call me god showed [Qh Qc] and won 29124 with One pair : Queens
+Seat 8: granitwang12 showed [4c Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3108531384193384470-51-1703359926 - Holdem no limit (80/350/700) - 2023/12/23 19:32:06 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #5 is the button
+Seat 1: call me god (29124, 0.90€ bounty)
+Seat 2: toto dupopo (50168, 1.35€ bounty)
+Seat 3: El Sorcier (31438, 0.90€ bounty)
+Seat 4: Ipacura (24853, 0.90€ bounty)
+Seat 5: P1xel7 (11365, 0.90€ bounty)
+Seat 7: Cy Press In1 (80538, 2.25€ bounty)
+Seat 8: granitwang12 (144, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Cy Press In1 posts ante 80
+granitwang12 posts ante 80
+call me god posts ante 80
+toto dupopo posts ante 80
+El Sorcier posts ante 80
+Ipacura posts ante 80
+P1xel7 posts ante 80
+Cy Press In1 posts small blind 350
+granitwang12 posts big blind 64 and is all-in
+Dealt to P1xel7 [Td 9s]
+*** PRE-FLOP *** 
+call me god raises 28694 to 29044 and is all-in
+toto dupopo folds
+El Sorcier raises 2314 to 31358 and is all-in
+Ipacura calls 24773 and is all-in
+P1xel7 folds
+Cy Press In1 folds
+*** FLOP *** [9h Jh 7h]
+*** TURN *** [9h Jh 7h][Kh]
+*** RIVER *** [9h Jh 7h Kh][7c]
+*** SHOW DOWN ***
+call me god shows [Qs 9d] (Two pairs : 9 and 7)
+Ipacura shows [As Qc] (One pair : 7)
+granitwang12 shows [6c Ts] (One pair : 7)
+El Sorcier shows [Ah Kd] (Flush Ace high)
+El Sorcier collected 86149 from pot
+*** SUMMARY ***
+Total pot 86149 | No rake
+Board: [9h Jh 7h Kh 7c]
+Seat 1: call me god showed [Qs 9d] and lost with Two pairs : 9 and 7
+Seat 3: El Sorcier showed [Ah Kd] and won 86149 with Flush Ace high
+Seat 4: Ipacura showed [As Qc] and lost with One pair : 7
+Seat 8: granitwang12 (big blind) showed [6c Ts] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3108531384193384470-52-1703359972 - Holdem no limit (80/350/700) - 2023/12/23 19:32:52 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #7 is the button
+Seat 2: toto dupopo (50088, 1.35€ bounty)
+Seat 3: El Sorcier (86149, 2.25€ bounty)
+Seat 5: P1xel7 (11285, 0.90€ bounty)
+Seat 7: Cy Press In1 (80108, 2.25€ bounty)
+*** ANTE/BLINDS ***
+toto dupopo posts ante 80
+El Sorcier posts ante 80
+P1xel7 posts ante 80
+Cy Press In1 posts ante 80
+toto dupopo posts big blind 700
+Dealt to P1xel7 [5c 7d]
+*** PRE-FLOP *** 
+El Sorcier folds
+P1xel7 folds
+Cy Press In1 calls 700
+toto dupopo checks
+*** FLOP *** [4c 2h Qd]
+toto dupopo checks
+Cy Press In1 checks
+*** TURN *** [4c 2h Qd][8c]
+toto dupopo bets 700
+Cy Press In1 calls 700
+*** RIVER *** [4c 2h Qd 8c][6h]
+toto dupopo bets 700
+Cy Press In1 calls 700
+*** SHOW DOWN ***
+toto dupopo shows [Jd 6s] (One pair : 6)
+Cy Press In1 shows [Js 8s] (One pair : 8)
+Cy Press In1 collected 4520 from pot
+*** SUMMARY ***
+Total pot 4520 | No rake
+Board: [4c 2h Qd 8c 6h]
+Seat 2: toto dupopo (big blind) showed [Jd 6s] and lost with One pair : 6
+Seat 7: Cy Press In1 (button) showed [Js 8s] and won 4520 with One pair : 8
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3108531384193384470-53-1703360004 - Holdem no limit (80/350/700) - 2023/12/23 19:33:24 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #8 is the button
+Seat 2: toto dupopo (47908, 1.35€ bounty)
+Seat 3: El Sorcier (86069, 2.25€ bounty)
+Seat 5: P1xel7 (11205, 0.90€ bounty)
+Seat 7: Cy Press In1 (82448, 2.25€ bounty)
+*** ANTE/BLINDS ***
+toto dupopo posts ante 80
+El Sorcier posts ante 80
+P1xel7 posts ante 80
+Cy Press In1 posts ante 80
+toto dupopo posts small blind 350
+El Sorcier posts big blind 700
+Dealt to P1xel7 [9c 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Cy Press In1 folds
+toto dupopo calls 350
+El Sorcier checks
+*** FLOP *** [Kd 4h 3c]
+toto dupopo bets 700
+El Sorcier folds
+toto dupopo collected 2420 from pot
+*** SUMMARY ***
+Total pot 2420 | No rake
+Board: [Kd 4h 3c]
+Seat 2: toto dupopo (small blind) won 2420
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3108531384193384470-54-1703360029 - Holdem no limit (80/350/700) - 2023/12/23 19:33:49 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #2 is the button
+Seat 2: toto dupopo (48848, 1.35€ bounty)
+Seat 3: El Sorcier (85289, 2.25€ bounty)
+Seat 4: Benidzer (53116, 1.57€ bounty)
+Seat 5: P1xel7 (11125, 0.90€ bounty)
+Seat 6: manarii (33600, 1.35€ bounty)
+Seat 7: Cy Press In1 (82368, 2.25€ bounty)
+Seat 8: JePeuX (81210, 2.25€ bounty)
+*** ANTE/BLINDS ***
+El Sorcier posts ante 80
+Benidzer posts ante 80
+toto dupopo posts ante 80
+P1xel7 posts ante 80
+manarii posts ante 80
+Cy Press In1 posts ante 80
+JePeuX posts ante 80
+El Sorcier posts small blind 350
+Benidzer posts big blind 700
+Dealt to P1xel7 [Tc Qc]
+*** PRE-FLOP *** 
+P1xel7 folds
+manarii folds
+Cy Press In1 raises 2310 to 3010
+JePeuX folds
+toto dupopo folds
+El Sorcier folds
+Benidzer folds
+Cy Press In1 collected 4620 from pot
+*** SUMMARY ***
+Total pot 4620 | No rake
+Seat 7: Cy Press In1 won 4620
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3108531384193384470-55-1703360075 - Holdem no limit (80/350/700) - 2023/12/23 19:34:35 UTC
+Table: 'SPARTACUS(723761363)#0021' 8-max (real money) Seat #3 is the button
+Seat 2: toto dupopo (48768, 1.35€ bounty)
+Seat 3: El Sorcier (84859, 2.25€ bounty)
+Seat 4: Benidzer (52336, 1.57€ bounty)
+Seat 5: P1xel7 (11045, 0.90€ bounty)
+Seat 6: manarii (33520, 1.35€ bounty)
+Seat 7: Cy Press In1 (83898, 2.25€ bounty)
+Seat 8: JePeuX (81130, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Benidzer posts ante 80
+P1xel7 posts ante 80
+toto dupopo posts ante 80
+El Sorcier posts ante 80
+manarii posts ante 80
+Cy Press In1 posts ante 80
+JePeuX posts ante 80
+Benidzer posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [Tc Qh]
+*** PRE-FLOP *** 
+manarii folds
+Cy Press In1 folds
+JePeuX folds
+toto dupopo folds
+El Sorcier folds
+Benidzer raises 1400 to 2100
+P1xel7 calls 1400
+*** FLOP *** [8c 5d Ts]
+Benidzer bets 2380
+P1xel7 raises 6485 to 8865 and is all-in
+Benidzer calls 6485
+*** TURN *** [8c 5d Ts][9c]
+*** RIVER *** [8c 5d Ts 9c][Qc]
+*** SHOW DOWN ***
+P1xel7 shows [Tc Qh] (Two pairs : Queens and Tens)
+Benidzer shows [6h 7h] (Straight Ten high)
+Benidzer collected 22490 from pot
+*** SUMMARY ***
+Total pot 22490 | No rake
+Board: [8c 5d Ts 9c Qc]
+Seat 4: Benidzer (small blind) showed [6h 7h] and won 22490 with Straight Ten high
+Seat 5: P1xel7 (big blind) showed [Tc Qh] and lost with Two pairs : Queens and Tens
+
+

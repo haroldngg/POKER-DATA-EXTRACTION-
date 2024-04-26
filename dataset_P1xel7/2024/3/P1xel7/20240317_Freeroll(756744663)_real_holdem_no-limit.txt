@@ -1,0 +1,3793 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-1-1710702925 - Holdem no limit (25/100/200) - 2024/03/17 19:15:25 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: Glorybox99 (20000)
+Seat 2: Smashead (20000)
+Seat 3: Torress (20000)
+Seat 4: bebe69x (20000)
+Seat 5: GF Warrior82 (20000)
+Seat 6: soliderone (20000)
+Seat 7: P1xel7 (20000)
+Seat 8: SucePets (20000)
+*** ANTE/BLINDS ***
+SucePets posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+Torress posts ante 25
+bebe69x posts ante 25
+GF Warrior82 posts ante 25
+soliderone posts ante 25
+P1xel7 posts ante 25
+SucePets posts small blind 100
+Glorybox99 posts big blind 200
+Dealt to P1xel7 [3h 9d]
+*** PRE-FLOP *** 
+Smashead folds
+Torress folds
+bebe69x raises 19775 to 19975 and is all-in
+GF Warrior82 folds
+soliderone folds
+P1xel7 folds
+SucePets folds
+Glorybox99 folds
+bebe69x collected 20475 from pot
+*** SUMMARY ***
+Total pot 20475 | No rake
+Seat 4: bebe69x won 20475
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-2-1710703042 - Holdem no limit (25/100/200) - 2024/03/17 19:17:22 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: Glorybox99 (19775)
+Seat 2: Smashead (19975)
+Seat 4: bebe69x (20475)
+Seat 5: GF Warrior82 (19975)
+Seat 6: soliderone (19975)
+Seat 7: P1xel7 (19975)
+Seat 8: SucePets (19875)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 25
+Smashead posts ante 25
+bebe69x posts ante 25
+GF Warrior82 posts ante 25
+soliderone posts ante 25
+P1xel7 posts ante 25
+SucePets posts ante 25
+Glorybox99 posts small blind 100
+Smashead posts big blind 200
+Dealt to P1xel7 [5s Ts]
+*** PRE-FLOP *** 
+bebe69x folds
+GF Warrior82 folds
+soliderone calls 200
+P1xel7 folds
+SucePets calls 200
+Glorybox99 folds
+Smashead checks
+*** FLOP *** [4h 8d 9d]
+Smashead bets 569
+soliderone calls 569
+SucePets folds
+*** TURN *** [4h 8d 9d][5c]
+Smashead bets 2551
+soliderone folds
+Smashead collected 4564 from pot
+*** SUMMARY ***
+Total pot 4564 | No rake
+Board: [4h 8d 9d 5c]
+Seat 2: Smashead (big blind) won 4564
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-3-1710703100 - Holdem no limit (25/100/200) - 2024/03/17 19:18:20 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: Glorybox99 (19650)
+Seat 2: Smashead (21194)
+Seat 3: .invisible. (20000)
+Seat 4: bebe69x (20450)
+Seat 5: GF Warrior82 (19950)
+Seat 6: soliderone (19181)
+Seat 7: P1xel7 (19950)
+Seat 8: SucePets (19650)
+*** ANTE/BLINDS ***
+Smashead posts ante 25
+.invisible. posts ante 25
+Glorybox99 posts ante 25
+bebe69x posts ante 25
+GF Warrior82 posts ante 25
+soliderone posts ante 25
+P1xel7 posts ante 25
+SucePets posts ante 25
+Smashead posts small blind 100
+.invisible. posts big blind 200
+Dealt to P1xel7 [Kd Jh]
+*** PRE-FLOP *** 
+bebe69x folds
+GF Warrior82 calls 200
+soliderone calls 200
+P1xel7 calls 200
+SucePets calls 200
+Glorybox99 folds
+Smashead folds
+.invisible. raises 19775 to 19975 and is all-in
+GF Warrior82 calls 19725 and is all-in
+soliderone folds
+P1xel7 folds
+SucePets folds
+*** FLOP *** [9s Kh 5c]
+*** TURN *** [9s Kh 5c][5h]
+*** RIVER *** [9s Kh 5c 5h][9c]
+*** SHOW DOWN ***
+GF Warrior82 shows [2c Ac] (Two pairs : 9 and 5)
+.invisible. shows [Jc Js] (Two pairs : Jacks and 9)
+.invisible. collected 40800 from pot
+*** SUMMARY ***
+Total pot 40800 | No rake
+Board: [9s Kh 5c 5h 9c]
+Seat 3: .invisible. (big blind) showed [Jc Js] and won 40800 with Two pairs : Jacks and 9
+Seat 5: GF Warrior82 showed [2c Ac] and lost with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-4-1710703143 - Holdem no limit (25/100/200) - 2024/03/17 19:19:03 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: Glorybox99 (19625)
+Seat 2: Smashead (21069)
+Seat 3: .invisible. (40800)
+Seat 4: bebe69x (20425)
+Seat 6: soliderone (18956)
+Seat 7: P1xel7 (19725)
+Seat 8: SucePets (19425)
+*** ANTE/BLINDS ***
+.invisible. posts ante 25
+bebe69x posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+soliderone posts ante 25
+P1xel7 posts ante 25
+SucePets posts ante 25
+.invisible. posts small blind 100
+bebe69x posts big blind 200
+Dealt to P1xel7 [6s 7h]
+*** PRE-FLOP *** 
+soliderone folds
+P1xel7 folds
+SucePets calls 200
+Glorybox99 folds
+Smashead folds
+.invisible. calls 100
+bebe69x checks
+*** FLOP *** [As 7d Th]
+.invisible. checks
+bebe69x checks
+SucePets bets 775
+.invisible. folds
+bebe69x folds
+SucePets collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [As 7d Th]
+Seat 8: SucePets won 1550
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-5-1710703175 - Holdem no limit (25/100/200) - 2024/03/17 19:19:35 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: Glorybox99 (19600)
+Seat 2: Smashead (21044)
+Seat 3: .invisible. (40575)
+Seat 4: bebe69x (20200)
+Seat 5: Falliyo111 (20000)
+Seat 6: soliderone (18931)
+Seat 7: P1xel7 (19700)
+Seat 8: SucePets (19975)
+*** ANTE/BLINDS ***
+bebe69x posts ante 25
+Falliyo111 posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+.invisible. posts ante 25
+soliderone posts ante 25
+P1xel7 posts ante 25
+SucePets posts ante 25
+bebe69x posts small blind 100
+Falliyo111 posts big blind 200
+Dealt to P1xel7 [8c 2h]
+*** PRE-FLOP *** 
+soliderone folds
+P1xel7 folds
+SucePets calls 200
+Glorybox99 folds
+Smashead folds
+.invisible. calls 200
+bebe69x folds
+Falliyo111 checks
+*** FLOP *** [8h Jh 8d]
+Falliyo111 checks
+SucePets checks
+.invisible. checks
+*** TURN *** [8h Jh 8d][As]
+Falliyo111 checks
+SucePets bets 900
+.invisible. folds
+Falliyo111 folds
+SucePets collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [8h Jh 8d As]
+Seat 8: SucePets won 1800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-6-1710703233 - Holdem no limit (25/100/200) - 2024/03/17 19:20:33 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: Glorybox99 (19575)
+Seat 2: Smashead (21019)
+Seat 3: .invisible. (40350)
+Seat 4: bebe69x (20075)
+Seat 5: Falliyo111 (19775)
+Seat 6: soliderone (18906)
+Seat 7: P1xel7 (19675)
+Seat 8: SucePets (20650)
+*** ANTE/BLINDS ***
+Falliyo111 posts ante 25
+soliderone posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+.invisible. posts ante 25
+bebe69x posts ante 25
+P1xel7 posts ante 25
+SucePets posts ante 25
+Falliyo111 posts small blind 100
+soliderone posts big blind 200
+Dealt to P1xel7 [2s Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+SucePets calls 200
+Glorybox99 folds
+Smashead folds
+.invisible. calls 200
+bebe69x folds
+Falliyo111 raises 1000 to 1200
+soliderone folds
+SucePets calls 1000
+.invisible. calls 1000
+*** FLOP *** [Qh Kc 2d]
+Falliyo111 bets 4000
+SucePets folds
+.invisible. folds
+Falliyo111 collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | No rake
+Board: [Qh Kc 2d]
+Seat 5: Falliyo111 (small blind) won 8000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-7-1710703269 - Holdem no limit (25/100/200) - 2024/03/17 19:21:09 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: Glorybox99 (19550)
+Seat 2: Smashead (20994)
+Seat 3: .invisible. (39125)
+Seat 4: bebe69x (20050)
+Seat 5: Falliyo111 (22550)
+Seat 6: soliderone (18681)
+Seat 7: P1xel7 (19650)
+Seat 8: SucePets (19425)
+*** ANTE/BLINDS ***
+soliderone posts ante 25
+P1xel7 posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+.invisible. posts ante 25
+bebe69x posts ante 25
+Falliyo111 posts ante 25
+SucePets posts ante 25
+soliderone posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Ad Ac]
+*** PRE-FLOP *** 
+SucePets calls 200
+Glorybox99 folds
+Smashead folds
+.invisible. raises 7701 to 7901
+bebe69x folds
+Falliyo111 raises 14624 to 22525 and is all-in
+soliderone folds
+P1xel7 calls 19425 and is all-in
+SucePets folds
+.invisible. calls 14624
+*** FLOP *** [5s 8s 5c]
+*** TURN *** [5s 8s 5c][2h]
+*** RIVER *** [5s 8s 5c 2h][7c]
+*** SHOW DOWN ***
+Falliyo111 shows [Ts As] (One pair : 5)
+.invisible. shows [Kc Kd] (Two pairs : Kings and 5)
+P1xel7 shows [Ad Ac] (Two pairs : Aces and 5)
+P1xel7 collected 59375 from main pot
+.invisible. collected 5800 from side pot 1
+*** SUMMARY ***
+Total pot 65175 | No rake
+Board: [5s 8s 5c 2h 7c]
+Seat 3: .invisible. showed [Kc Kd] and won 5800 with Two pairs : Kings and 5
+Seat 5: Falliyo111 (button) showed [Ts As] and lost with One pair : 5
+Seat 7: P1xel7 (big blind) showed [Ad Ac] and won 59375 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-8-1710703309 - Holdem no limit (25/100/200) - 2024/03/17 19:21:49 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #6 is the button
+Seat 1: Glorybox99 (19525)
+Seat 2: Smashead (20969)
+Seat 3: .invisible. (22375)
+Seat 4: bebe69x (20025)
+Seat 6: soliderone (18556)
+Seat 7: P1xel7 (59375)
+Seat 8: SucePets (19200)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+SucePets posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+.invisible. posts ante 25
+bebe69x posts ante 25
+soliderone posts ante 25
+P1xel7 posts small blind 100
+SucePets posts big blind 200
+Dealt to P1xel7 [5d Kh]
+*** PRE-FLOP *** 
+Glorybox99 folds
+Smashead folds
+.invisible. calls 200
+bebe69x folds
+soliderone folds
+P1xel7 folds
+SucePets checks
+*** FLOP *** [5c 8h Js]
+SucePets checks
+.invisible. bets 22150 and is all-in
+SucePets folds
+.invisible. collected 22825 from pot
+*** SUMMARY ***
+Total pot 22825 | No rake
+Board: [5c 8h Js]
+Seat 3: .invisible. won 22825
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-9-1710703340 - Holdem no limit (25/100/200) - 2024/03/17 19:22:20 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: Glorybox99 (19500)
+Seat 2: Smashead (20944)
+Seat 3: .invisible. (22825)
+Seat 4: bebe69x (20000)
+Seat 5: JLJR62 (20000)
+Seat 6: soliderone (18531)
+Seat 7: P1xel7 (59250)
+Seat 8: SucePets (18975)
+*** ANTE/BLINDS ***
+SucePets posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+.invisible. posts ante 25
+bebe69x posts ante 25
+JLJR62 posts ante 25
+soliderone posts ante 25
+P1xel7 posts ante 25
+SucePets posts small blind 100
+Glorybox99 posts big blind 200
+Dealt to P1xel7 [8s Kh]
+*** PRE-FLOP *** 
+Smashead folds
+.invisible. raises 9611 to 9811
+bebe69x folds
+JLJR62 folds
+soliderone folds
+P1xel7 folds
+SucePets folds
+Glorybox99 folds
+.invisible. collected 10311 from pot
+*** SUMMARY ***
+Total pot 10311 | No rake
+Seat 3: .invisible. won 10311
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-10-1710703367 - Holdem no limit (25/100/200) - 2024/03/17 19:22:47 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: Glorybox99 (19275)
+Seat 2: Smashead (20919)
+Seat 3: .invisible. (23300)
+Seat 4: bebe69x (19975)
+Seat 5: JLJR62 (19975)
+Seat 6: soliderone (18506)
+Seat 7: P1xel7 (59225)
+Seat 8: SucePets (18850)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 25
+Smashead posts ante 25
+.invisible. posts ante 25
+bebe69x posts ante 25
+JLJR62 posts ante 25
+soliderone posts ante 25
+P1xel7 posts ante 25
+SucePets posts ante 25
+Glorybox99 posts small blind 100
+Smashead posts big blind 200
+Dealt to P1xel7 [3c 5c]
+*** PRE-FLOP *** 
+.invisible. calls 200
+bebe69x folds
+JLJR62 folds
+soliderone folds
+P1xel7 folds
+SucePets raises 900 to 1100
+Glorybox99 folds
+Smashead folds
+.invisible. raises 22175 to 23275 and is all-in
+SucePets calls 17725 and is all-in
+*** FLOP *** [As Jh 8c]
+*** TURN *** [As Jh 8c][9h]
+*** RIVER *** [As Jh 8c 9h][Qh]
+*** SHOW DOWN ***
+.invisible. shows [2c 2h] (One pair : 2)
+SucePets shows [Kd Ah] (One pair : Aces)
+SucePets collected 38150 from main pot
+.invisible. collected 4450 from side pot 1
+*** SUMMARY ***
+Total pot 42600 | No rake
+Board: [As Jh 8c 9h Qh]
+Seat 3: .invisible. showed [2c 2h] and won 4450 with One pair : 2
+Seat 8: SucePets (button) showed [Kd Ah] and won 38150 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-11-1710703409 - Holdem no limit (25/100/200) - 2024/03/17 19:23:29 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: Glorybox99 (19150)
+Seat 2: Smashead (20694)
+Seat 3: .invisible. (4450)
+Seat 4: bebe69x (19950)
+Seat 5: JLJR62 (19950)
+Seat 6: soliderone (18481)
+Seat 7: P1xel7 (59200)
+Seat 8: SucePets (38150)
+*** ANTE/BLINDS ***
+Smashead posts ante 25
+.invisible. posts ante 25
+Glorybox99 posts ante 25
+bebe69x posts ante 25
+JLJR62 posts ante 25
+soliderone posts ante 25
+P1xel7 posts ante 25
+SucePets posts ante 25
+Smashead posts small blind 100
+.invisible. posts big blind 200
+Dealt to P1xel7 [Jd 3h]
+*** PRE-FLOP *** 
+bebe69x folds
+JLJR62 calls 200
+soliderone folds
+P1xel7 folds
+SucePets folds
+Glorybox99 folds
+Smashead calls 100
+.invisible. raises 4225 to 4425 and is all-in
+JLJR62 calls 4225
+Smashead folds
+*** FLOP *** [Th Ac 8s]
+*** TURN *** [Th Ac 8s][7c]
+*** RIVER *** [Th Ac 8s 7c][Td]
+*** SHOW DOWN ***
+JLJR62 shows [Kh 7h] (Two pairs : Tens and 7)
+.invisible. shows [Ad Qs] (Two pairs : Aces and Tens)
+.invisible. collected 9250 from pot
+*** SUMMARY ***
+Total pot 9250 | No rake
+Board: [Th Ac 8s 7c Td]
+Seat 3: .invisible. (big blind) showed [Ad Qs] and won 9250 with Two pairs : Aces and Tens
+Seat 5: JLJR62 showed [Kh 7h] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-12-1710703454 - Holdem no limit (25/100/200) - 2024/03/17 19:24:14 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: Glorybox99 (19125)
+Seat 2: Smashead (20469)
+Seat 3: .invisible. (9250)
+Seat 4: bebe69x (19925)
+Seat 5: JLJR62 (15500)
+Seat 6: soliderone (18456)
+Seat 7: P1xel7 (59175)
+Seat 8: SucePets (38125)
+*** ANTE/BLINDS ***
+.invisible. posts ante 25
+bebe69x posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+JLJR62 posts ante 25
+soliderone posts ante 25
+P1xel7 posts ante 25
+SucePets posts ante 25
+.invisible. posts small blind 100
+bebe69x posts big blind 200
+Dealt to P1xel7 [6d Qh]
+*** PRE-FLOP *** 
+JLJR62 raises 700 to 900
+soliderone folds
+P1xel7 folds
+SucePets calls 900
+Glorybox99 folds
+Smashead folds
+.invisible. folds
+bebe69x raises 19000 to 19900 and is all-in
+JLJR62 calls 14575 and is all-in
+SucePets folds
+*** FLOP *** [9c 8d 8c]
+*** TURN *** [9c 8d 8c][Qs]
+*** RIVER *** [9c 8d 8c Qs][Kh]
+*** SHOW DOWN ***
+bebe69x shows [Td Ah] (One pair : 8)
+JLJR62 shows [Ad Kd] (Two pairs : Kings and 8)
+JLJR62 collected 32150 from main pot
+bebe69x collected 4425 from side pot 1
+*** SUMMARY ***
+Total pot 36575 | No rake
+Board: [9c 8d 8c Qs Kh]
+Seat 4: bebe69x (big blind) showed [Td Ah] and won 4425 with One pair : 8
+Seat 5: JLJR62 showed [Ad Kd] and won 32150 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-13-1710703493 - Holdem no limit (25/100/200) - 2024/03/17 19:24:53 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: Glorybox99 (19100)
+Seat 2: Smashead (20444)
+Seat 3: .invisible. (9125)
+Seat 4: bebe69x (4425)
+Seat 5: JLJR62 (32150)
+Seat 7: P1xel7 (59150)
+Seat 8: SucePets (37200)
+*** ANTE/BLINDS ***
+bebe69x posts ante 25
+JLJR62 posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+.invisible. posts ante 25
+P1xel7 posts ante 25
+SucePets posts ante 25
+bebe69x posts small blind 100
+JLJR62 posts big blind 200
+Dealt to P1xel7 [6s 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+SucePets raises 675 to 875
+Glorybox99 folds
+Smashead folds
+.invisible. raises 2225 to 3100
+bebe69x raises 1300 to 4400 and is all-in
+JLJR62 folds
+SucePets raises 2225 to 6625
+.invisible. raises 2225 to 8850
+SucePets raises 2225 to 11075
+.invisible. calls 250 and is all-in
+*** FLOP *** [Qc 5h 5s]
+*** TURN *** [Qc 5h 5s][Ad]
+*** RIVER *** [Qc 5h 5s Ad][2s]
+*** SHOW DOWN ***
+.invisible. shows [6h Kh] (One pair : 5)
+bebe69x shows [Ah Ts] (Two pairs : Aces and 5)
+SucePets shows [Tc Jh] (One pair : 5)
+SucePets collected 1975 from side pot 2
+bebe69x collected 13575 from main pot
+.invisible. collected 9400 from side pot 1
+*** SUMMARY ***
+Total pot 24950 | No rake
+Board: [Qc 5h 5s Ad 2s]
+Seat 3: .invisible. (button) showed [6h Kh] and won 9400 with One pair : 5
+Seat 4: bebe69x (small blind) showed [Ah Ts] and won 13575 with Two pairs : Aces and 5
+Seat 8: SucePets showed [Tc Jh] and won 1975 with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-14-1710703534 - Holdem no limit (25/100/200) - 2024/03/17 19:25:34 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: Glorybox99 (19075)
+Seat 2: Smashead (20419)
+Seat 3: .invisible. (9400)
+Seat 4: bebe69x (13575)
+Seat 5: JLJR62 (31925)
+Seat 6: Wysteria (20000)
+Seat 7: P1xel7 (59125)
+Seat 8: SucePets (28075)
+*** ANTE/BLINDS ***
+JLJR62 posts ante 25
+Wysteria posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+.invisible. posts ante 25
+bebe69x posts ante 25
+P1xel7 posts ante 25
+SucePets posts ante 25
+JLJR62 posts small blind 100
+Wysteria posts big blind 200
+Dealt to P1xel7 [Ah 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+SucePets calls 200
+Glorybox99 folds
+Smashead raises 300 to 500
+.invisible. calls 500
+bebe69x folds
+JLJR62 calls 400
+Wysteria folds
+SucePets calls 300
+*** FLOP *** [Ac 4d 5h]
+JLJR62 checks
+SucePets bets 200
+Smashead raises 1750 to 1950
+.invisible. folds
+JLJR62 folds
+SucePets calls 1750
+*** TURN *** [Ac 4d 5h][5c]
+SucePets checks
+Smashead checks
+*** RIVER *** [Ac 4d 5h 5c][6d]
+SucePets bets 25600 and is all-in
+Smashead folds
+SucePets collected 31900 from pot
+*** SUMMARY ***
+Total pot 31900 | No rake
+Board: [Ac 4d 5h 5c 6d]
+Seat 8: SucePets won 31900
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-15-1710703587 - Holdem no limit (25/100/200) - 2024/03/17 19:26:27 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: Glorybox99 (19050)
+Seat 2: Smashead (17944)
+Seat 3: .invisible. (8875)
+Seat 4: bebe69x (13550)
+Seat 5: JLJR62 (31400)
+Seat 6: Wysteria (19775)
+Seat 7: P1xel7 (59100)
+Seat 8: SucePets (31900)
+*** ANTE/BLINDS ***
+Wysteria posts ante 25
+P1xel7 posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+.invisible. posts ante 25
+bebe69x posts ante 25
+JLJR62 posts ante 25
+SucePets posts ante 25
+Wysteria posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [8d Js]
+*** PRE-FLOP *** 
+SucePets calls 200
+Glorybox99 folds
+Smashead folds
+.invisible. folds
+bebe69x folds
+JLJR62 raises 900 to 1100
+Wysteria folds
+P1xel7 folds
+SucePets calls 900
+*** FLOP *** [Ks 3d Ad]
+SucePets checks
+JLJR62 checks
+*** TURN *** [Ks 3d Ad][6d]
+SucePets bets 2700
+JLJR62 raises 2700 to 5400
+SucePets raises 25375 to 30775 and is all-in
+JLJR62 calls 24875 and is all-in
+*** RIVER *** [Ks 3d Ad 6d][4d]
+*** SHOW DOWN ***
+JLJR62 shows [Ac Kc] (Two pairs : Aces and Kings)
+SucePets shows [6s 3s] (Two pairs : 6 and 3)
+SucePets collected 500 from side pot 1
+JLJR62 collected 63250 from main pot
+*** SUMMARY ***
+Total pot 63750 | No rake
+Board: [Ks 3d Ad 6d 4d]
+Seat 5: JLJR62 (button) showed [Ac Kc] and won 63250 with Two pairs : Aces and Kings
+Seat 8: SucePets showed [6s 3s] and won 500 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3250193579007541328-16-1710703643 - Holdem no limit (25/100/200) - 2024/03/17 19:27:23 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #6 is the button
+Seat 1: Glorybox99 (19025)
+Seat 2: Smashead (17919)
+Seat 3: .invisible. (8850)
+Seat 4: bebe69x (13525)
+Seat 5: JLJR62 (63250)
+Seat 6: Wysteria (19650)
+Seat 7: P1xel7 (58875)
+Seat 8: SucePets (500)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+SucePets posts ante 25
+Glorybox99 posts ante 25
+Smashead posts ante 25
+.invisible. posts ante 25
+bebe69x posts ante 25
+JLJR62 posts ante 25
+Wysteria posts ante 25
+P1xel7 posts small blind 100
+SucePets posts big blind 200
+Dealt to P1xel7 [4d 3d]
+*** PRE-FLOP *** 
+Glorybox99 folds
+Smashead folds
+.invisible. calls 200
+bebe69x folds
+JLJR62 calls 200
+Wysteria calls 200
+P1xel7 folds
+SucePets raises 275 to 475 and is all-in
+.invisible. calls 275
+JLJR62 calls 275
+Wysteria calls 275
+*** FLOP *** [2d 6h 7h]
+.invisible. checks
+JLJR62 bets 200
+Wysteria calls 200
+.invisible. folds
+*** TURN *** [2d 6h 7h][Ts]
+JLJR62 bets 200
+Wysteria calls 200
+*** RIVER *** [2d 6h 7h Ts][8s]
+JLJR62 bets 200
+Wysteria calls 200
+*** SHOW DOWN ***
+JLJR62 shows [7s Kc] (One pair : 7)
+Wysteria shows [7d As] (One pair : 7)
+SucePets shows [9c 8h] (Straight Ten high)
+SucePets collected 2200 from main pot
+Wysteria collected 1200 from side pot 1
+*** SUMMARY ***
+Total pot 3400 | No rake
+Board: [2d 6h 7h Ts 8s]
+Seat 5: JLJR62 showed [7s Kc] and lost with One pair : 7
+Seat 6: Wysteria (button) showed [7d As] and won 1200 with One pair : 7
+Seat 8: SucePets (big blind) showed [9c 8h] and won 2200 with Straight Ten high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3250193579007541328-17-1710703713 - Holdem no limit (30/125/250) - 2024/03/17 19:28:33 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: Glorybox99 (19000)
+Seat 2: Smashead (17894)
+Seat 3: .invisible. (8350)
+Seat 4: bebe69x (13500)
+Seat 5: JLJR62 (62150)
+Seat 6: Wysteria (19750)
+Seat 7: P1xel7 (58750)
+Seat 8: SucePets (2200)
+*** ANTE/BLINDS ***
+SucePets posts ante 30
+Glorybox99 posts ante 30
+Smashead posts ante 30
+.invisible. posts ante 30
+bebe69x posts ante 30
+JLJR62 posts ante 30
+Wysteria posts ante 30
+P1xel7 posts ante 30
+SucePets posts small blind 125
+Glorybox99 posts big blind 250
+Dealt to P1xel7 [As Kh]
+*** PRE-FLOP *** 
+Smashead folds
+.invisible. calls 250
+bebe69x folds
+JLJR62 folds
+Wysteria calls 250
+P1xel7 raises 2250 to 2500
+SucePets folds
+Glorybox99 folds
+.invisible. calls 2250
+Wysteria calls 2250
+*** FLOP *** [7d Qd Ad]
+.invisible. checks
+Wysteria checks
+P1xel7 bets 5275
+.invisible. calls 5275
+Wysteria folds
+*** TURN *** [7d Qd Ad][4c]
+.invisible. checks
+P1xel7 bets 750
+.invisible. calls 545 and is all-in
+*** RIVER *** [7d Qd Ad 4c][9c]
+*** SHOW DOWN ***
+.invisible. shows [5d Ks] (High card : Ace)
+P1xel7 shows [As Kh] (One pair : Aces)
+P1xel7 collected 19960 from pot
+*** SUMMARY ***
+Total pot 19960 | No rake
+Board: [7d Qd Ad 4c 9c]
+Seat 3: .invisible. showed [5d Ks] and lost with High card : Ace
+Seat 7: P1xel7 (button) showed [As Kh] and won 19960 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3250193579007541328-18-1710703777 - Holdem no limit (30/125/250) - 2024/03/17 19:29:37 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: Glorybox99 (18720)
+Seat 2: Smashead (17864)
+Seat 4: bebe69x (13470)
+Seat 5: JLJR62 (62120)
+Seat 6: Wysteria (17220)
+Seat 7: P1xel7 (70155)
+Seat 8: SucePets (2045)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 30
+Smashead posts ante 30
+bebe69x posts ante 30
+JLJR62 posts ante 30
+Wysteria posts ante 30
+P1xel7 posts ante 30
+SucePets posts ante 30
+Glorybox99 posts small blind 125
+Smashead posts big blind 250
+Dealt to P1xel7 [6c Td]
+*** PRE-FLOP *** 
+bebe69x folds
+JLJR62 calls 250
+Wysteria folds
+P1xel7 folds
+SucePets raises 1765 to 2015 and is all-in
+Glorybox99 folds
+Smashead folds
+JLJR62 folds
+SucePets collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Seat 8: SucePets (button) won 2850
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3250193579007541328-19-1710703864 - Holdem no limit (35/150/300) - 2024/03/17 19:31:04 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: Glorybox99 (18565)
+Seat 2: Smashead (17584)
+Seat 3: DGT (20000)
+Seat 4: bebe69x (13440)
+Seat 5: JLJR62 (61840)
+Seat 6: Wysteria (17190)
+Seat 7: P1xel7 (70125)
+Seat 8: SucePets (2850)
+*** ANTE/BLINDS ***
+Smashead posts ante 35
+DGT posts ante 35
+Glorybox99 posts ante 35
+bebe69x posts ante 35
+JLJR62 posts ante 35
+Wysteria posts ante 35
+P1xel7 posts ante 35
+SucePets posts ante 35
+Smashead posts small blind 150
+DGT posts big blind 300
+Dealt to P1xel7 [3d 4c]
+*** PRE-FLOP *** 
+bebe69x folds
+JLJR62 calls 300
+Wysteria folds
+P1xel7 folds
+SucePets calls 300
+Glorybox99 folds
+Smashead folds
+DGT checks
+*** FLOP *** [Ks 9s 2d]
+DGT checks
+JLJR62 checks
+SucePets bets 300
+DGT folds
+JLJR62 folds
+SucePets collected 1630 from pot
+*** SUMMARY ***
+Total pot 1630 | No rake
+Board: [Ks 9s 2d]
+Seat 8: SucePets won 1630
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3250193579007541328-20-1710703896 - Holdem no limit (35/150/300) - 2024/03/17 19:31:36 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: Glorybox99 (18530)
+Seat 2: Smashead (17399)
+Seat 3: DGT (19665)
+Seat 4: bebe69x (13405)
+Seat 5: JLJR62 (61505)
+Seat 6: Wysteria (17155)
+Seat 7: P1xel7 (70090)
+Seat 8: SucePets (3845)
+*** ANTE/BLINDS ***
+DGT posts ante 35
+bebe69x posts ante 35
+Glorybox99 posts ante 35
+Smashead posts ante 35
+JLJR62 posts ante 35
+Wysteria posts ante 35
+P1xel7 posts ante 35
+SucePets posts ante 35
+DGT posts small blind 150
+bebe69x posts big blind 300
+Dealt to P1xel7 [6s Ad]
+*** PRE-FLOP *** 
+JLJR62 folds
+Wysteria folds
+P1xel7 raises 600 to 900
+SucePets raises 2910 to 3810 and is all-in
+Glorybox99 folds
+Smashead folds
+DGT folds
+bebe69x folds
+P1xel7 calls 2910
+*** FLOP *** [5c 2d Js]
+*** TURN *** [5c 2d Js][Ts]
+*** RIVER *** [5c 2d Js Ts][Qc]
+*** SHOW DOWN ***
+P1xel7 shows [6s Ad] (High card : Ace)
+SucePets shows [9s As] (High card : Ace)
+SucePets collected 8350 from pot
+*** SUMMARY ***
+Total pot 8350 | No rake
+Board: [5c 2d Js Ts Qc]
+Seat 7: P1xel7 showed [6s Ad] and lost with High card : Ace
+Seat 8: SucePets showed [9s As] and won 8350 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3250193579007541328-21-1710703933 - Holdem no limit (35/150/300) - 2024/03/17 19:32:13 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: Glorybox99 (18495)
+Seat 2: Smashead (17364)
+Seat 3: DGT (19480)
+Seat 4: bebe69x (13070)
+Seat 5: JLJR62 (61470)
+Seat 6: Wysteria (17120)
+Seat 7: P1xel7 (66245)
+Seat 8: SucePets (8350)
+*** ANTE/BLINDS ***
+bebe69x posts ante 35
+JLJR62 posts ante 35
+Glorybox99 posts ante 35
+Smashead posts ante 35
+DGT posts ante 35
+Wysteria posts ante 35
+P1xel7 posts ante 35
+SucePets posts ante 35
+bebe69x posts small blind 150
+JLJR62 posts big blind 300
+Dealt to P1xel7 [5h 7d]
+*** PRE-FLOP *** 
+Wysteria calls 300
+P1xel7 folds
+SucePets calls 300
+Glorybox99 folds
+Smashead folds
+DGT raises 19145 to 19445 and is all-in
+bebe69x folds
+JLJR62 calls 19145
+Wysteria calls 16785 and is all-in
+SucePets folds
+*** FLOP *** [4h 3c 8d]
+*** TURN *** [4h 3c 8d][Kh]
+*** RIVER *** [4h 3c 8d Kh][9s]
+*** SHOW DOWN ***
+JLJR62 shows [Qh Ah] (High card : Ace)
+Wysteria shows [8c Ac] (One pair : 8)
+DGT shows [Tc Td] (One pair : Tens)
+DGT collected 56705 from pot
+*** SUMMARY ***
+Total pot 56705 | No rake
+Board: [4h 3c 8d Kh 9s]
+Seat 3: DGT (button) showed [Tc Td] and won 56705 with One pair : Tens
+Seat 5: JLJR62 (big blind) showed [Qh Ah] and lost with High card : Ace
+Seat 6: Wysteria showed [8c Ac] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3250193579007541328-22-1710703965 - Holdem no limit (35/150/300) - 2024/03/17 19:32:45 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: Glorybox99 (18460)
+Seat 2: Smashead (17329)
+Seat 3: DGT (56705)
+Seat 4: bebe69x (12885)
+Seat 5: JLJR62 (41990)
+Seat 7: P1xel7 (66210)
+Seat 8: SucePets (8015)
+*** ANTE/BLINDS ***
+JLJR62 posts ante 35
+P1xel7 posts ante 35
+Glorybox99 posts ante 35
+Smashead posts ante 35
+DGT posts ante 35
+bebe69x posts ante 35
+SucePets posts ante 35
+JLJR62 posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Ac Js]
+*** PRE-FLOP *** 
+SucePets calls 300
+Glorybox99 folds
+Smashead folds
+DGT raises 56370 to 56670 and is all-in
+bebe69x folds
+JLJR62 folds
+P1xel7 folds
+SucePets folds
+DGT collected 57665 from pot
+*** SUMMARY ***
+Total pot 57665 | No rake
+Seat 3: DGT won 57665
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3250193579007541328-23-1710703989 - Holdem no limit (35/150/300) - 2024/03/17 19:33:09 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: Glorybox99 (18425)
+Seat 2: Smashead (17294)
+Seat 3: DGT (57665)
+Seat 4: bebe69x (12850)
+Seat 5: JLJR62 (41805)
+Seat 6: _Offishal_ (20000)
+Seat 7: P1xel7 (65875)
+Seat 8: SucePets (7680)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+SucePets posts ante 35
+Glorybox99 posts ante 35
+Smashead posts ante 35
+DGT posts ante 35
+bebe69x posts ante 35
+JLJR62 posts ante 35
+P1xel7 posts small blind 150
+SucePets posts big blind 300
+Dealt to P1xel7 [Td Jd]
+*** PRE-FLOP *** 
+Glorybox99 folds
+Smashead folds
+DGT calls 300
+bebe69x folds
+JLJR62 folds
+P1xel7 raises 1200 to 1500
+SucePets calls 1200
+DGT folds
+*** FLOP *** [7h Kd 3h]
+P1xel7 bets 1241
+SucePets folds
+P1xel7 collected 4786 from pot
+*** SUMMARY ***
+Total pot 4786 | No rake
+Board: [7h Kd 3h]
+Seat 7: P1xel7 (small blind) won 4786
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3250193579007541328-24-1710704014 - Holdem no limit (40/175/350) - 2024/03/17 19:33:34 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: Glorybox99 (18390)
+Seat 2: Smashead (17259)
+Seat 3: DGT (57330)
+Seat 4: bebe69x (12815)
+Seat 5: JLJR62 (41770)
+Seat 6: _Offishal_ (20000)
+Seat 7: P1xel7 (67885)
+Seat 8: SucePets (6145)
+*** ANTE/BLINDS ***
+SucePets posts ante 40
+Glorybox99 posts ante 40
+Smashead posts ante 40
+DGT posts ante 40
+bebe69x posts ante 40
+JLJR62 posts ante 40
+_Offishal_ posts ante 40
+P1xel7 posts ante 40
+SucePets posts small blind 175
+Glorybox99 posts big blind 350
+Dealt to P1xel7 [7c Kd]
+*** PRE-FLOP *** 
+Smashead raises 350 to 700
+DGT folds
+bebe69x folds
+JLJR62 calls 700
+_Offishal_ folds
+P1xel7 folds
+SucePets calls 525
+Glorybox99 folds
+*** FLOP *** [Jh 7h Ad]
+SucePets bets 350
+Smashead raises 2133 to 2483
+JLJR62 raises 2133 to 4616
+SucePets folds
+Smashead raises 11903 to 16519 and is all-in
+JLJR62 raises 11903 to 28422
+*** TURN *** [Jh 7h Ad][Qc]
+*** RIVER *** [Jh 7h Ad Qc][Jd]
+*** SHOW DOWN ***
+Smashead shows [Ac Jc] (Full of Jacks and Aces)
+JLJR62 shows [As 8d] (Two pairs : Aces and Jacks)
+JLJR62 collected 11903 from side pot 1
+Smashead collected 36158 from main pot
+*** SUMMARY ***
+Total pot 48061 | No rake
+Board: [Jh 7h Ad Qc Jd]
+Seat 2: Smashead showed [Ac Jc] and won 36158 with Full of Jacks and Aces
+Seat 5: JLJR62 showed [As 8d] and won 11903 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3250193579007541328-25-1710704059 - Holdem no limit (40/175/350) - 2024/03/17 19:34:19 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: Glorybox99 (18000)
+Seat 2: Smashead (36158)
+Seat 3: DGT (57290)
+Seat 4: bebe69x (12775)
+Seat 5: JLJR62 (24511)
+Seat 6: _Offishal_ (19960)
+Seat 7: P1xel7 (67845)
+Seat 8: SucePets (5055)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 40
+Smashead posts ante 40
+DGT posts ante 40
+bebe69x posts ante 40
+JLJR62 posts ante 40
+_Offishal_ posts ante 40
+P1xel7 posts ante 40
+SucePets posts ante 40
+Glorybox99 posts small blind 175
+Smashead posts big blind 350
+Dealt to P1xel7 [Jh 4c]
+*** PRE-FLOP *** 
+DGT folds
+bebe69x folds
+JLJR62 raises 24121 to 24471 and is all-in
+_Offishal_ folds
+P1xel7 folds
+SucePets calls 5015 and is all-in
+Glorybox99 folds
+Smashead folds
+*** FLOP *** [9h 5d 4s]
+*** TURN *** [9h 5d 4s][3h]
+*** RIVER *** [9h 5d 4s 3h][Kh]
+*** SHOW DOWN ***
+SucePets shows [Td Js] (High card : King)
+JLJR62 shows [Kc 2h] (One pair : Kings)
+JLJR62 collected 30331 from pot
+*** SUMMARY ***
+Total pot 30331 | No rake
+Board: [9h 5d 4s 3h Kh]
+Seat 5: JLJR62 showed [Kc 2h] and won 30331 with One pair : Kings
+Seat 8: SucePets (button) showed [Td Js] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3250193579007541328-26-1710704096 - Holdem no limit (40/175/350) - 2024/03/17 19:34:56 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: Glorybox99 (17785)
+Seat 2: Smashead (35768)
+Seat 3: DGT (57250)
+Seat 4: bebe69x (12735)
+Seat 5: JLJR62 (30331)
+Seat 6: _Offishal_ (19920)
+Seat 7: P1xel7 (67805)
+*** ANTE/BLINDS ***
+Smashead posts ante 40
+DGT posts ante 40
+Glorybox99 posts ante 40
+bebe69x posts ante 40
+JLJR62 posts ante 40
+_Offishal_ posts ante 40
+P1xel7 posts ante 40
+Smashead posts small blind 175
+DGT posts big blind 350
+Dealt to P1xel7 [9h Jh]
+*** PRE-FLOP *** 
+bebe69x raises 12345 to 12695 and is all-in
+JLJR62 folds
+_Offishal_ folds
+P1xel7 folds
+Glorybox99 folds
+Smashead folds
+DGT folds
+bebe69x collected 13500 from pot
+*** SUMMARY ***
+Total pot 13500 | No rake
+Seat 4: bebe69x won 13500
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3250193579007541328-27-1710704115 - Holdem no limit (40/175/350) - 2024/03/17 19:35:15 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: Glorybox99 (17745)
+Seat 2: Smashead (35553)
+Seat 3: DGT (56860)
+Seat 4: bebe69x (13500)
+Seat 5: JLJR62 (30291)
+Seat 6: _Offishal_ (19880)
+Seat 7: P1xel7 (67765)
+Seat 8: Alba-Tar (20000)
+*** ANTE/BLINDS ***
+DGT posts ante 40
+bebe69x posts ante 40
+Glorybox99 posts ante 40
+Smashead posts ante 40
+JLJR62 posts ante 40
+_Offishal_ posts ante 40
+P1xel7 posts ante 40
+Alba-Tar posts ante 40
+DGT posts small blind 175
+bebe69x posts big blind 350
+Dealt to P1xel7 [5h Ts]
+*** PRE-FLOP *** 
+JLJR62 folds
+_Offishal_ folds
+P1xel7 folds
+Alba-Tar folds
+Glorybox99 folds
+Smashead folds
+DGT calls 175
+bebe69x raises 13110 to 13460 and is all-in
+DGT folds
+bebe69x collected 14130 from pot
+*** SUMMARY ***
+Total pot 14130 | No rake
+Seat 4: bebe69x (big blind) won 14130
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3250193579007541328-28-1710704147 - Holdem no limit (40/175/350) - 2024/03/17 19:35:47 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: Glorybox99 (17705)
+Seat 2: Smashead (35513)
+Seat 3: DGT (56470)
+Seat 4: bebe69x (14130)
+Seat 5: JLJR62 (30251)
+Seat 6: _Offishal_ (19840)
+Seat 7: P1xel7 (67725)
+Seat 8: Alba-Tar (19960)
+*** ANTE/BLINDS ***
+bebe69x posts ante 40
+JLJR62 posts ante 40
+Glorybox99 posts ante 40
+Smashead posts ante 40
+DGT posts ante 40
+_Offishal_ posts ante 40
+P1xel7 posts ante 40
+Alba-Tar posts ante 40
+bebe69x posts small blind 175
+JLJR62 posts big blind 350
+Dealt to P1xel7 [As 2d]
+*** PRE-FLOP *** 
+_Offishal_ folds
+P1xel7 folds
+Alba-Tar folds
+Glorybox99 folds
+Smashead folds
+DGT folds
+bebe69x folds
+JLJR62 collected 845 from pot
+*** SUMMARY ***
+Total pot 845 | No rake
+Seat 5: JLJR62 (big blind) won 845
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3250193579007541328-29-1710704166 - Holdem no limit (50/200/400) - 2024/03/17 19:36:06 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: Glorybox99 (17665)
+Seat 2: Smashead (35473)
+Seat 3: DGT (56430)
+Seat 4: bebe69x (13915)
+Seat 5: JLJR62 (30706)
+Seat 6: _Offishal_ (19800)
+Seat 7: P1xel7 (67685)
+Seat 8: Alba-Tar (19920)
+*** ANTE/BLINDS ***
+JLJR62 posts ante 50
+_Offishal_ posts ante 50
+Glorybox99 posts ante 50
+Smashead posts ante 50
+DGT posts ante 50
+bebe69x posts ante 50
+P1xel7 posts ante 50
+Alba-Tar posts ante 50
+JLJR62 posts small blind 200
+_Offishal_ posts big blind 400
+Dealt to P1xel7 [9c 9d]
+*** PRE-FLOP *** 
+P1xel7 raises 800 to 1200
+Alba-Tar folds
+Glorybox99 folds
+Smashead folds
+DGT folds
+bebe69x calls 1200
+JLJR62 folds
+_Offishal_ folds
+*** FLOP *** [Kc Js 9s]
+P1xel7 bets 1700
+bebe69x calls 1700
+*** TURN *** [Kc Js 9s][4c]
+P1xel7 bets 4420
+bebe69x raises 6545 to 10965 and is all-in
+P1xel7 calls 6545
+*** RIVER *** [Kc Js 9s 4c][6s]
+*** SHOW DOWN ***
+bebe69x shows [Kd Jc] (Two pairs : Kings and Jacks)
+P1xel7 shows [9c 9d] (Trips of 9)
+P1xel7 collected 28730 from pot
+*** SUMMARY ***
+Total pot 28730 | No rake
+Board: [Kc Js 9s 4c 6s]
+Seat 4: bebe69x (button) showed [Kd Jc] and lost with Two pairs : Kings and Jacks
+Seat 7: P1xel7 showed [9c 9d] and won 28730 with Trips of 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3250193579007541328-30-1710704246 - Holdem no limit (50/200/400) - 2024/03/17 19:37:26 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: Glorybox99 (17615)
+Seat 2: Smashead (35423)
+Seat 3: DGT (56380)
+Seat 5: JLJR62 (30456)
+Seat 6: _Offishal_ (19350)
+Seat 7: P1xel7 (82500)
+Seat 8: Alba-Tar (19870)
+*** ANTE/BLINDS ***
+_Offishal_ posts ante 50
+P1xel7 posts ante 50
+Glorybox99 posts ante 50
+Smashead posts ante 50
+DGT posts ante 50
+JLJR62 posts ante 50
+Alba-Tar posts ante 50
+_Offishal_ posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Jh 5d]
+*** PRE-FLOP *** 
+Alba-Tar raises 400 to 800
+Glorybox99 folds
+Smashead raises 34573 to 35373 and is all-in
+DGT folds
+JLJR62 folds
+_Offishal_ folds
+P1xel7 folds
+Alba-Tar folds
+Smashead collected 37123 from pot
+*** SUMMARY ***
+Total pot 37123 | No rake
+Seat 2: Smashead won 37123
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3250193579007541328-31-1710704287 - Holdem no limit (50/200/400) - 2024/03/17 19:38:07 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #6 is the button
+Seat 1: Glorybox99 (17565)
+Seat 2: Smashead (37123)
+Seat 3: DGT (56330)
+Seat 4: titimoire (20000)
+Seat 5: JLJR62 (30406)
+Seat 6: _Offishal_ (19100)
+Seat 7: P1xel7 (82050)
+Seat 8: Alba-Tar (19020)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+Alba-Tar posts ante 50
+Glorybox99 posts ante 50
+Smashead posts ante 50
+DGT posts ante 50
+titimoire posts ante 50
+JLJR62 posts ante 50
+_Offishal_ posts ante 50
+P1xel7 posts small blind 200
+Alba-Tar posts big blind 400
+Dealt to P1xel7 [Kd 8d]
+*** PRE-FLOP *** 
+Glorybox99 folds
+Smashead folds
+DGT folds
+titimoire folds
+JLJR62 folds
+_Offishal_ folds
+P1xel7 folds
+Alba-Tar collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Seat 8: Alba-Tar (big blind) won 1000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3250193579007541328-32-1710704305 - Holdem no limit (60/250/500) - 2024/03/17 19:38:25 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: Glorybox99 (17515)
+Seat 2: Smashead (37073)
+Seat 3: DGT (56280)
+Seat 4: titimoire (19950)
+Seat 5: JLJR62 (30356)
+Seat 6: _Offishal_ (19050)
+Seat 7: P1xel7 (81800)
+Seat 8: Alba-Tar (19570)
+*** ANTE/BLINDS ***
+Alba-Tar posts ante 60
+Glorybox99 posts ante 60
+Smashead posts ante 60
+DGT posts ante 60
+titimoire posts ante 60
+JLJR62 posts ante 60
+_Offishal_ posts ante 60
+P1xel7 posts ante 60
+Alba-Tar posts small blind 250
+Glorybox99 posts big blind 500
+Dealt to P1xel7 [7s 4h]
+*** PRE-FLOP *** 
+Smashead folds
+DGT folds
+titimoire raises 19390 to 19890 and is all-in
+JLJR62 calls 19890
+_Offishal_ folds
+P1xel7 folds
+Alba-Tar folds
+Glorybox99 folds
+*** FLOP *** [5s 9s Ac]
+*** TURN *** [5s 9s Ac][Qh]
+*** RIVER *** [5s 9s Ac Qh][Qd]
+*** SHOW DOWN ***
+JLJR62 shows [Jd Ks] (One pair : Queens)
+titimoire shows [Qs As] (Full of Queens and Aces)
+titimoire collected 41010 from pot
+*** SUMMARY ***
+Total pot 41010 | No rake
+Board: [5s 9s Ac Qh Qd]
+Seat 4: titimoire showed [Qs As] and won 41010 with Full of Queens and Aces
+Seat 5: JLJR62 showed [Jd Ks] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3250193579007541328-33-1710704333 - Holdem no limit (60/250/500) - 2024/03/17 19:38:53 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: Glorybox99 (16955)
+Seat 2: Smashead (37013)
+Seat 3: DGT (56220)
+Seat 4: titimoire (41010)
+Seat 5: JLJR62 (10406)
+Seat 6: _Offishal_ (18990)
+Seat 7: P1xel7 (81740)
+Seat 8: Alba-Tar (19260)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 60
+Smashead posts ante 60
+DGT posts ante 60
+titimoire posts ante 60
+JLJR62 posts ante 60
+_Offishal_ posts ante 60
+P1xel7 posts ante 60
+Alba-Tar posts ante 60
+Glorybox99 posts small blind 250
+Smashead posts big blind 500
+Dealt to P1xel7 [5s Qd]
+*** PRE-FLOP *** 
+DGT raises 55660 to 56160 and is all-in
+titimoire calls 40950 and is all-in
+JLJR62 calls 10346 and is all-in
+_Offishal_ calls 18930 and is all-in
+P1xel7 folds
+Alba-Tar folds
+Glorybox99 folds
+Smashead folds
+*** FLOP *** [9s Ks Qs]
+*** TURN *** [9s Ks Qs][4s]
+*** RIVER *** [9s Ks Qs 4s][7d]
+*** SHOW DOWN ***
+JLJR62 shows [Qc Th] (One pair : Queens)
+_Offishal_ shows [Jh Jc] (One pair : Jacks)
+DGT shows [7h Ad] (One pair : 7)
+titimoire shows [As Qh] (Flush Ace high)
+titimoire collected 112406 from main pot
+DGT collected 15210 from side pot 1
+*** SUMMARY ***
+Total pot 127616 | No rake
+Board: [9s Ks Qs 4s 7d]
+Seat 3: DGT showed [7h Ad] and won 15210 with One pair : 7
+Seat 4: titimoire showed [As Qh] and won 112406 with Flush Ace high
+Seat 5: JLJR62 showed [Qc Th] and lost with One pair : Queens
+Seat 6: _Offishal_ showed [Jh Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3250193579007541328-34-1710704365 - Holdem no limit (60/250/500) - 2024/03/17 19:39:25 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: Glorybox99 (16645)
+Seat 2: Smashead (36453)
+Seat 3: DGT (15210)
+Seat 4: titimoire (112406)
+Seat 7: P1xel7 (81680)
+Seat 8: Alba-Tar (19200)
+*** ANTE/BLINDS ***
+Smashead posts ante 60
+DGT posts ante 60
+Glorybox99 posts ante 60
+titimoire posts ante 60
+P1xel7 posts ante 60
+Alba-Tar posts ante 60
+Smashead posts small blind 250
+DGT posts big blind 500
+Dealt to P1xel7 [Kh Jh]
+*** PRE-FLOP *** 
+titimoire folds
+P1xel7 raises 750 to 1250
+Alba-Tar folds
+Glorybox99 folds
+Smashead calls 1000
+DGT folds
+*** FLOP *** [9d 8s Ts]
+Smashead checks
+P1xel7 bets 1750
+Smashead folds
+P1xel7 collected 5110 from pot
+*** SUMMARY ***
+Total pot 5110 | No rake
+Board: [9d 8s Ts]
+Seat 7: P1xel7 won 5110
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3250193579007541328-35-1710704392 - Holdem no limit (60/250/500) - 2024/03/17 19:39:52 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: Glorybox99 (16585)
+Seat 2: Smashead (35143)
+Seat 3: DGT (14650)
+Seat 4: titimoire (112346)
+Seat 6: ghost6220 (20000)
+Seat 7: P1xel7 (83730)
+Seat 8: Alba-Tar (19140)
+*** ANTE/BLINDS ***
+DGT posts ante 60
+titimoire posts ante 60
+Glorybox99 posts ante 60
+Smashead posts ante 60
+ghost6220 posts ante 60
+P1xel7 posts ante 60
+Alba-Tar posts ante 60
+DGT posts small blind 250
+titimoire posts big blind 500
+Dealt to P1xel7 [3s Ts]
+*** PRE-FLOP *** 
+ghost6220 folds
+P1xel7 folds
+Alba-Tar raises 500 to 1000
+Glorybox99 folds
+Smashead folds
+DGT calls 750
+titimoire folds
+*** FLOP *** [8s 2c 4h]
+DGT checks
+Alba-Tar checks
+*** TURN *** [8s 2c 4h][Jc]
+DGT checks
+Alba-Tar bets 964
+DGT calls 964
+*** RIVER *** [8s 2c 4h Jc][Tc]
+DGT checks
+Alba-Tar checks
+*** SHOW DOWN ***
+Alba-Tar shows [6d 6s] (One pair : 6)
+DGT shows [9c Th] (One pair : Tens)
+DGT collected 4848 from pot
+*** SUMMARY ***
+Total pot 4848 | No rake
+Board: [8s 2c 4h Jc Tc]
+Seat 3: DGT (small blind) showed [9c Th] and won 4848 with One pair : Tens
+Seat 8: Alba-Tar showed [6d 6s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3250193579007541328-36-1710704437 - Holdem no limit (60/250/500) - 2024/03/17 19:40:37 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: Glorybox99 (16525)
+Seat 2: Smashead (35083)
+Seat 3: DGT (17474)
+Seat 4: titimoire (111786)
+Seat 5: pappypatoche (35372)
+Seat 6: ghost6220 (19940)
+Seat 7: P1xel7 (83670)
+Seat 8: Alba-Tar (17116)
+*** ANTE/BLINDS ***
+titimoire posts ante 60
+pappypatoche posts ante 60
+Glorybox99 posts ante 60
+Smashead posts ante 60
+DGT posts ante 60
+ghost6220 posts ante 60
+P1xel7 posts ante 60
+Alba-Tar posts ante 60
+titimoire posts small blind 250
+pappypatoche posts big blind 500
+Dealt to P1xel7 [8s 3d]
+*** PRE-FLOP *** 
+ghost6220 raises 1000 to 1500
+P1xel7 folds
+Alba-Tar folds
+Glorybox99 folds
+Smashead folds
+DGT folds
+titimoire folds
+pappypatoche folds
+ghost6220 collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Seat 6: ghost6220 won 2730
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3250193579007541328-37-1710704452 - Holdem no limit (60/250/500) - 2024/03/17 19:40:52 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: Glorybox99 (16465)
+Seat 2: Smashead (35023)
+Seat 3: DGT (17414)
+Seat 4: titimoire (111476)
+Seat 5: pappypatoche (34812)
+Seat 6: ghost6220 (21110)
+Seat 7: P1xel7 (83610)
+Seat 8: Alba-Tar (17056)
+*** ANTE/BLINDS ***
+pappypatoche posts ante 60
+ghost6220 posts ante 60
+Glorybox99 posts ante 60
+Smashead posts ante 60
+DGT posts ante 60
+titimoire posts ante 60
+P1xel7 posts ante 60
+Alba-Tar posts ante 60
+pappypatoche posts small blind 250
+ghost6220 posts big blind 500
+Dealt to P1xel7 [6d 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Alba-Tar folds
+Glorybox99 folds
+Smashead folds
+DGT folds
+titimoire raises 1000 to 1500
+pappypatoche calls 1250
+ghost6220 calls 1000
+*** FLOP *** [Qs 7s 5s]
+pappypatoche checks
+ghost6220 checks
+titimoire bets 3237
+pappypatoche raises 30015 to 33252 and is all-in
+ghost6220 folds
+titimoire calls 30015
+*** TURN *** [Qs 7s 5s][2c]
+*** RIVER *** [Qs 7s 5s 2c][Kh]
+*** SHOW DOWN ***
+titimoire shows [6s 9s] (Flush Queen high)
+pappypatoche shows [Ks Ts] (Flush King high)
+pappypatoche collected 71484 from pot
+*** SUMMARY ***
+Total pot 71484 | No rake
+Board: [Qs 7s 5s 2c Kh]
+Seat 4: titimoire (button) showed [6s 9s] and lost with Flush Queen high
+Seat 5: pappypatoche (small blind) showed [Ks Ts] and won 71484 with Flush King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3250193579007541328-38-1710704482 - Holdem no limit (70/300/600) - 2024/03/17 19:41:22 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: Glorybox99 (16405)
+Seat 2: Smashead (34963)
+Seat 3: DGT (17354)
+Seat 4: titimoire (76664)
+Seat 5: pappypatoche (71484)
+Seat 6: ghost6220 (19550)
+Seat 7: P1xel7 (83550)
+Seat 8: Alba-Tar (16996)
+*** ANTE/BLINDS ***
+ghost6220 posts ante 70
+P1xel7 posts ante 70
+Glorybox99 posts ante 70
+Smashead posts ante 70
+DGT posts ante 70
+titimoire posts ante 70
+pappypatoche posts ante 70
+Alba-Tar posts ante 70
+ghost6220 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [5s 5d]
+*** PRE-FLOP *** 
+Alba-Tar folds
+Glorybox99 folds
+Smashead folds
+DGT raises 16684 to 17284 and is all-in
+titimoire folds
+pappypatoche calls 17284
+ghost6220 folds
+P1xel7 folds
+*** FLOP *** [4c Kd 4d]
+*** TURN *** [4c Kd 4d][4s]
+*** RIVER *** [4c Kd 4d 4s][Jh]
+*** SHOW DOWN ***
+DGT shows [Js Qd] (Full of 4 and Jacks)
+pappypatoche shows [Ks Kc] (Full of Kings and 4)
+pappypatoche collected 36028 from pot
+*** SUMMARY ***
+Total pot 36028 | No rake
+Board: [4c Kd 4d 4s Jh]
+Seat 3: DGT showed [Js Qd] and lost with Full of 4 and Jacks
+Seat 5: pappypatoche (button) showed [Ks Kc] and won 36028 with Full of Kings and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3250193579007541328-39-1710704503 - Holdem no limit (70/300/600) - 2024/03/17 19:41:43 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #6 is the button
+Seat 1: Glorybox99 (16335)
+Seat 2: Smashead (34893)
+Seat 4: titimoire (76594)
+Seat 5: pappypatoche (90158)
+Seat 6: ghost6220 (19180)
+Seat 7: P1xel7 (82880)
+Seat 8: Alba-Tar (16926)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Alba-Tar posts ante 70
+Glorybox99 posts ante 70
+Smashead posts ante 70
+titimoire posts ante 70
+pappypatoche posts ante 70
+ghost6220 posts ante 70
+P1xel7 posts small blind 300
+Alba-Tar posts big blind 600
+Dealt to P1xel7 [8d 7d]
+*** PRE-FLOP *** 
+Glorybox99 folds
+Smashead folds
+titimoire folds
+pappypatoche folds
+ghost6220 folds
+P1xel7 raises 900 to 1500
+Alba-Tar raises 3750 to 5250
+P1xel7 folds
+Alba-Tar collected 7240 from pot
+*** SUMMARY ***
+Total pot 7240 | No rake
+Seat 8: Alba-Tar (big blind) won 7240
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3250193579007541328-40-1710704524 - Holdem no limit (70/300/600) - 2024/03/17 19:42:04 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: Glorybox99 (16265)
+Seat 2: Smashead (34823)
+Seat 3: Sylvie94120 (20000)
+Seat 4: titimoire (76524)
+Seat 5: pappypatoche (90088)
+Seat 6: ghost6220 (19110)
+Seat 7: P1xel7 (81310)
+Seat 8: Alba-Tar (18846)
+*** ANTE/BLINDS ***
+Alba-Tar posts ante 70
+Glorybox99 posts ante 70
+Smashead posts ante 70
+Sylvie94120 posts ante 70
+titimoire posts ante 70
+pappypatoche posts ante 70
+ghost6220 posts ante 70
+P1xel7 posts ante 70
+Alba-Tar posts small blind 300
+Glorybox99 posts big blind 600
+Dealt to P1xel7 [3d 7h]
+*** PRE-FLOP *** 
+Smashead folds
+Sylvie94120 calls 600
+titimoire folds
+pappypatoche folds
+ghost6220 raises 18440 to 19040 and is all-in
+P1xel7 folds
+Alba-Tar calls 18476 and is all-in
+Glorybox99 folds
+Sylvie94120 raises 890 to 19930 and is all-in
+*** FLOP *** [2d 5h 4d]
+*** TURN *** [2d 5h 4d][6h]
+*** RIVER *** [2d 5h 4d 6h][Ac]
+*** SHOW DOWN ***
+Alba-Tar shows [Jc Jh] (One pair : Jacks)
+Sylvie94120 shows [Ad Jd] (One pair : Aces)
+ghost6220 shows [Ks As] (One pair : Aces)
+ghost6220 collected 58016 from main pot
+Sylvie94120 collected 890 from side pot 1
+*** SUMMARY ***
+Total pot 58906 | No rake
+Board: [2d 5h 4d 6h Ac]
+Seat 3: Sylvie94120 showed [Ad Jd] and won 890 with One pair : Aces
+Seat 6: ghost6220 showed [Ks As] and won 58016 with One pair : Aces
+Seat 8: Alba-Tar (small blind) showed [Jc Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3250193579007541328-41-1710704553 - Holdem no limit (70/300/600) - 2024/03/17 19:42:33 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: Glorybox99 (15595)
+Seat 2: Smashead (34753)
+Seat 3: Sylvie94120 (890)
+Seat 4: titimoire (76454)
+Seat 5: pappypatoche (90018)
+Seat 6: ghost6220 (58016)
+Seat 7: P1xel7 (81240)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 70
+Smashead posts ante 70
+Sylvie94120 posts ante 70
+titimoire posts ante 70
+pappypatoche posts ante 70
+ghost6220 posts ante 70
+P1xel7 posts ante 70
+Glorybox99 posts small blind 300
+Smashead posts big blind 600
+Dealt to P1xel7 [As 7d]
+*** PRE-FLOP *** 
+Sylvie94120 raises 220 to 820 and is all-in
+titimoire raises 75564 to 76384 and is all-in
+pappypatoche folds
+ghost6220 folds
+P1xel7 folds
+Glorybox99 folds
+Smashead folds
+*** FLOP *** [3h Kh 9h]
+*** TURN *** [3h Kh 9h][6d]
+*** RIVER *** [3h Kh 9h 6d][Jh]
+*** SHOW DOWN ***
+Sylvie94120 shows [Jd 6s] (Two pairs : Jacks and 6)
+titimoire shows [Js Ts] (One pair : Jacks)
+titimoire collected 75564 from side pot 1
+Sylvie94120 collected 3030 from main pot
+*** SUMMARY ***
+Total pot 78594 | No rake
+Board: [3h Kh 9h 6d Jh]
+Seat 3: Sylvie94120 showed [Jd 6s] and won 3030 with Two pairs : Jacks and 6
+Seat 4: titimoire showed [Js Ts] and won 75564 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3250193579007541328-42-1710704574 - Holdem no limit (70/300/600) - 2024/03/17 19:42:54 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: Glorybox99 (15225)
+Seat 2: Smashead (34083)
+Seat 3: Sylvie94120 (3030)
+Seat 4: titimoire (75564)
+Seat 5: pappypatoche (89948)
+Seat 6: ghost6220 (57946)
+Seat 7: P1xel7 (81170)
+*** ANTE/BLINDS ***
+Smashead posts ante 70
+Sylvie94120 posts ante 70
+Glorybox99 posts ante 70
+titimoire posts ante 70
+pappypatoche posts ante 70
+ghost6220 posts ante 70
+P1xel7 posts ante 70
+Smashead posts small blind 300
+Sylvie94120 posts big blind 600
+Dealt to P1xel7 [Ts 6c]
+*** PRE-FLOP *** 
+titimoire folds
+pappypatoche folds
+ghost6220 folds
+P1xel7 folds
+Glorybox99 folds
+Smashead raises 33413 to 34013 and is all-in
+Sylvie94120 calls 2360 and is all-in
+*** FLOP *** [9h 9d Qd]
+*** TURN *** [9h 9d Qd][7s]
+*** RIVER *** [9h 9d Qd 7s][9s]
+*** SHOW DOWN ***
+Smashead shows [Js Td] (Trips of 9)
+Sylvie94120 shows [Th As] (Trips of 9)
+Sylvie94120 collected 6410 from main pot
+Smashead collected 31053 from side pot 1
+*** SUMMARY ***
+Total pot 37463 | No rake
+Board: [9h 9d Qd 7s 9s]
+Seat 2: Smashead (small blind) showed [Js Td] and won 31053 with Trips of 9
+Seat 3: Sylvie94120 (big blind) showed [Th As] and won 6410 with Trips of 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3250193579007541328-43-1710704594 - Holdem no limit (70/300/600) - 2024/03/17 19:43:14 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: Glorybox99 (15155)
+Seat 2: Smashead (31053)
+Seat 3: Sylvie94120 (6410)
+Seat 4: titimoire (75494)
+Seat 5: pappypatoche (89878)
+Seat 6: ghost6220 (57876)
+Seat 7: P1xel7 (81100)
+*** ANTE/BLINDS ***
+Sylvie94120 posts ante 70
+titimoire posts ante 70
+Glorybox99 posts ante 70
+Smashead posts ante 70
+pappypatoche posts ante 70
+ghost6220 posts ante 70
+P1xel7 posts ante 70
+Sylvie94120 posts small blind 300
+titimoire posts big blind 600
+Dealt to P1xel7 [Kd 9c]
+*** PRE-FLOP *** 
+pappypatoche folds
+ghost6220 raises 1200 to 1800
+P1xel7 folds
+Glorybox99 folds
+Smashead folds
+Sylvie94120 folds
+titimoire raises 73624 to 75424 and is all-in
+ghost6220 calls 56006 and is all-in
+*** FLOP *** [3c 6d 4d]
+*** TURN *** [3c 6d 4d][6c]
+*** RIVER *** [3c 6d 4d 6c][Js]
+*** SHOW DOWN ***
+ghost6220 shows [Qs Ah] (One pair : 6)
+titimoire shows [8c 8d] (Two pairs : 8 and 6)
+titimoire collected 134020 from pot
+*** SUMMARY ***
+Total pot 134020 | No rake
+Board: [3c 6d 4d 6c Js]
+Seat 4: titimoire (big blind) showed [8c 8d] and won 134020 with Two pairs : 8 and 6
+Seat 6: ghost6220 showed [Qs Ah] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3250193579007541328-44-1710704617 - Holdem no limit (80/350/700) - 2024/03/17 19:43:37 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: Glorybox99 (15085)
+Seat 2: Smashead (30983)
+Seat 3: Sylvie94120 (6040)
+Seat 4: titimoire (134020)
+Seat 5: pappypatoche (89808)
+Seat 7: P1xel7 (81030)
+Seat 8: Zip - Zip (20000)
+*** ANTE/BLINDS ***
+titimoire posts ante 80
+pappypatoche posts ante 80
+Glorybox99 posts ante 80
+Smashead posts ante 80
+Sylvie94120 posts ante 80
+P1xel7 posts ante 80
+Zip - Zip posts ante 80
+titimoire posts small blind 350
+pappypatoche posts big blind 700
+Dealt to P1xel7 [Qs 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Zip - Zip raises 1400 to 2100
+Glorybox99 folds
+Smashead raises 4200 to 6300
+Sylvie94120 folds
+titimoire folds
+pappypatoche folds
+Zip - Zip folds
+Smashead collected 10010 from pot
+*** SUMMARY ***
+Total pot 10010 | No rake
+Seat 2: Smashead won 10010
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3250193579007541328-45-1710704643 - Holdem no limit (80/350/700) - 2024/03/17 19:44:03 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: Glorybox99 (15005)
+Seat 2: Smashead (34613)
+Seat 3: Sylvie94120 (5960)
+Seat 4: titimoire (133590)
+Seat 5: pappypatoche (89028)
+Seat 7: P1xel7 (80950)
+Seat 8: Zip - Zip (17820)
+*** ANTE/BLINDS ***
+pappypatoche posts ante 80
+P1xel7 posts ante 80
+Glorybox99 posts ante 80
+Smashead posts ante 80
+Sylvie94120 posts ante 80
+titimoire posts ante 80
+Zip - Zip posts ante 80
+pappypatoche posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [9d Kc]
+*** PRE-FLOP *** 
+Zip - Zip folds
+Glorybox99 folds
+Smashead folds
+Sylvie94120 raises 5180 to 5880 and is all-in
+titimoire folds
+pappypatoche calls 5530
+P1xel7 calls 5180
+*** FLOP *** [5d Js 7d]
+pappypatoche checks
+P1xel7 checks
+*** TURN *** [5d Js 7d][5s]
+pappypatoche checks
+P1xel7 checks
+*** RIVER *** [5d Js 7d 5s][8s]
+pappypatoche checks
+P1xel7 checks
+*** SHOW DOWN ***
+Sylvie94120 shows [4h As] (One pair : 5)
+P1xel7 shows [9d Kc] (One pair : 5)
+pappypatoche shows [3c 3h] (Two pairs : 5 and 3)
+pappypatoche collected 18200 from pot
+*** SUMMARY ***
+Total pot 18200 | No rake
+Board: [5d Js 7d 5s 8s]
+Seat 3: Sylvie94120 showed [4h As] and lost with One pair : 5
+Seat 5: pappypatoche (small blind) showed [3c 3h] and won 18200 with Two pairs : 5 and 3
+Seat 7: P1xel7 (big blind) showed [9d Kc] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3250193579007541328-46-1710704711 - Holdem no limit (80/350/700) - 2024/03/17 19:45:11 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: Glorybox99 (14925)
+Seat 2: Smashead (34533)
+Seat 4: titimoire (133510)
+Seat 5: pappypatoche (101268)
+Seat 6: TEKKEN33 (20000)
+Seat 7: P1xel7 (74990)
+Seat 8: Zip - Zip (17740)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Zip - Zip posts ante 80
+Glorybox99 posts ante 80
+Smashead posts ante 80
+titimoire posts ante 80
+pappypatoche posts ante 80
+P1xel7 posts small blind 350
+Zip - Zip posts big blind 700
+Dealt to P1xel7 [Ts 6c]
+*** PRE-FLOP *** 
+Glorybox99 folds
+Smashead folds
+titimoire raises 2230 to 2930
+pappypatoche folds
+P1xel7 folds
+Zip - Zip folds
+titimoire collected 4460 from pot
+*** SUMMARY ***
+Total pot 4460 | No rake
+Seat 4: titimoire won 4460
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3250193579007541328-47-1710704749 - Holdem no limit (80/350/700) - 2024/03/17 19:45:49 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: Glorybox99 (14845)
+Seat 2: Smashead (34453)
+Seat 3: riche7000631 (20000)
+Seat 4: titimoire (134960)
+Seat 5: pappypatoche (101188)
+Seat 6: TEKKEN33 (20000)
+Seat 7: P1xel7 (74560)
+Seat 8: Zip - Zip (16960)
+*** ANTE/BLINDS ***
+Zip - Zip posts ante 80
+Glorybox99 posts ante 80
+Smashead posts ante 80
+riche7000631 posts ante 80
+titimoire posts ante 80
+pappypatoche posts ante 80
+TEKKEN33 posts ante 80
+P1xel7 posts ante 80
+Zip - Zip posts small blind 350
+Glorybox99 posts big blind 700
+Dealt to P1xel7 [5d 4h]
+*** PRE-FLOP *** 
+Smashead folds
+riche7000631 folds
+titimoire calls 700
+pappypatoche folds
+TEKKEN33 raises 19220 to 19920 and is all-in
+P1xel7 folds
+Zip - Zip folds
+Glorybox99 folds
+titimoire folds
+TEKKEN33 collected 22310 from pot
+*** SUMMARY ***
+Total pot 22310 | No rake
+Seat 6: TEKKEN33 won 22310
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3250193579007541328-48-1710704789 - Holdem no limit (100/400/800) - 2024/03/17 19:46:29 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: Glorybox99 (14065)
+Seat 2: Smashead (34373)
+Seat 3: riche7000631 (19920)
+Seat 4: titimoire (134180)
+Seat 5: pappypatoche (101108)
+Seat 6: TEKKEN33 (22310)
+Seat 7: P1xel7 (74480)
+Seat 8: Zip - Zip (16530)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 100
+Smashead posts ante 100
+riche7000631 posts ante 100
+titimoire posts ante 100
+pappypatoche posts ante 100
+TEKKEN33 posts ante 100
+P1xel7 posts ante 100
+Zip - Zip posts ante 100
+Glorybox99 posts small blind 400
+Smashead posts big blind 800
+Dealt to P1xel7 [7d 9d]
+*** PRE-FLOP *** 
+riche7000631 calls 800
+titimoire raises 133280 to 134080 and is all-in
+pappypatoche calls 101008 and is all-in
+TEKKEN33 calls 22210 and is all-in
+P1xel7 folds
+Zip - Zip folds
+Glorybox99 folds
+Smashead folds
+riche7000631 folds
+*** FLOP *** [4c Kd 7s]
+*** TURN *** [4c Kd 7s][6s]
+*** RIVER *** [4c Kd 7s 6s][7c]
+*** SHOW DOWN ***
+TEKKEN33 shows [Qc 3h] (One pair : 7)
+titimoire shows [Jc Jh] (Two pairs : Jacks and 7)
+pappypatoche shows [Kh As] (Two pairs : Kings and 7)
+pappypatoche collected 227026 from main pot
+titimoire collected 33072 from side pot 1
+*** SUMMARY ***
+Total pot 260098 | No rake
+Board: [4c Kd 7s 6s 7c]
+Seat 4: titimoire showed [Jc Jh] and won 33072 with Two pairs : Jacks and 7
+Seat 5: pappypatoche showed [Kh As] and won 227026 with Two pairs : Kings and 7
+Seat 6: TEKKEN33 showed [Qc 3h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3250193579007541328-49-1710704822 - Holdem no limit (100/400/800) - 2024/03/17 19:47:02 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: Glorybox99 (13565)
+Seat 2: Smashead (33473)
+Seat 3: riche7000631 (19020)
+Seat 4: titimoire (33072)
+Seat 5: pappypatoche (227026)
+Seat 7: P1xel7 (74380)
+Seat 8: Zip - Zip (16430)
+*** ANTE/BLINDS ***
+Smashead posts ante 100
+riche7000631 posts ante 100
+Glorybox99 posts ante 100
+titimoire posts ante 100
+pappypatoche posts ante 100
+P1xel7 posts ante 100
+Zip - Zip posts ante 100
+Smashead posts small blind 400
+riche7000631 posts big blind 800
+Dealt to P1xel7 [9d Ks]
+*** PRE-FLOP *** 
+titimoire folds
+pappypatoche raises 800 to 1600
+P1xel7 folds
+Zip - Zip folds
+Glorybox99 folds
+Smashead folds
+riche7000631 raises 800 to 2400
+pappypatoche raises 224526 to 226926 and is all-in
+riche7000631 calls 16520 and is all-in
+*** FLOP *** [Ac Kc 8s]
+*** TURN *** [Ac Kc 8s][3s]
+*** RIVER *** [Ac Kc 8s 3s][Kd]
+*** SHOW DOWN ***
+riche7000631 shows [4h 4s] (Two pairs : Kings and 4)
+pappypatoche shows [Ts Th] (Two pairs : Kings and Tens)
+pappypatoche collected 246946 from pot
+*** SUMMARY ***
+Total pot 246946 | No rake
+Board: [Ac Kc 8s 3s Kd]
+Seat 3: riche7000631 (big blind) showed [4h 4s] and lost with Two pairs : Kings and 4
+Seat 5: pappypatoche showed [Ts Th] and won 246946 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3250193579007541328-50-1710704885 - Holdem no limit (100/400/800) - 2024/03/17 19:48:05 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: Glorybox99 (13465)
+Seat 2: Smashead (32973)
+Seat 4: titimoire (32972)
+Seat 5: pappypatoche (246946)
+Seat 6: OLive666666 (20000)
+Seat 7: P1xel7 (74280)
+Seat 8: Zip - Zip (16330)
+*** ANTE/BLINDS ***
+titimoire posts ante 100
+Glorybox99 posts ante 100
+Smashead posts ante 100
+pappypatoche posts ante 100
+OLive666666 posts ante 100
+P1xel7 posts ante 100
+Zip - Zip posts ante 100
+titimoire posts big blind 800
+Dealt to P1xel7 [5h 5c]
+*** PRE-FLOP *** 
+pappypatoche raises 800 to 1600
+OLive666666 folds
+P1xel7 calls 1600
+Zip - Zip folds
+Glorybox99 folds
+Smashead folds
+titimoire folds
+*** FLOP *** [7h 9s 4c]
+pappypatoche checks
+P1xel7 bets 3055
+pappypatoche calls 3055
+*** TURN *** [7h 9s 4c][2h]
+pappypatoche checks
+P1xel7 bets 5405
+pappypatoche folds
+P1xel7 collected 16215 from pot
+*** SUMMARY ***
+Total pot 16215 | No rake
+Board: [7h 9s 4c 2h]
+Seat 7: P1xel7 won 16215
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3250193579007541328-51-1710704920 - Holdem no limit (120/500/1000) - 2024/03/17 19:48:40 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: Glorybox99 (13365)
+Seat 2: Smashead (32873)
+Seat 3: Bingojojo41 (20000)
+Seat 4: titimoire (32072)
+Seat 5: pappypatoche (242191)
+Seat 6: OLive666666 (19900)
+Seat 7: P1xel7 (80335)
+Seat 8: Zip - Zip (16230)
+*** ANTE/BLINDS ***
+titimoire posts ante 120
+pappypatoche posts ante 120
+Glorybox99 posts ante 120
+Smashead posts ante 120
+OLive666666 posts ante 120
+P1xel7 posts ante 120
+Zip - Zip posts ante 120
+titimoire posts small blind 500
+pappypatoche posts big blind 1000
+Dealt to P1xel7 [2s Ac]
+*** PRE-FLOP *** 
+OLive666666 raises 18780 to 19780 and is all-in
+P1xel7 folds
+Zip - Zip folds
+Glorybox99 folds
+Smashead folds
+titimoire folds
+pappypatoche folds
+OLive666666 collected 22120 from pot
+*** SUMMARY ***
+Total pot 22120 | No rake
+Seat 6: OLive666666 won 22120
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3250193579007541328-52-1710704931 - Holdem no limit (120/500/1000) - 2024/03/17 19:48:51 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: Glorybox99 (13245)
+Seat 2: Smashead (32753)
+Seat 3: Bingojojo41 (20000)
+Seat 4: titimoire (31452)
+Seat 5: pappypatoche (241071)
+Seat 6: OLive666666 (22120)
+Seat 7: P1xel7 (80215)
+Seat 8: Zip - Zip (16110)
+*** ANTE/BLINDS ***
+pappypatoche posts ante 120
+OLive666666 posts ante 120
+Glorybox99 posts ante 120
+Smashead posts ante 120
+Bingojojo41 posts ante 120
+titimoire posts ante 120
+P1xel7 posts ante 120
+Zip - Zip posts ante 120
+pappypatoche posts small blind 500
+OLive666666 posts big blind 1000
+Dealt to P1xel7 [3d 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Zip - Zip folds
+Glorybox99 folds
+Smashead folds
+Bingojojo41 raises 2000 to 3000
+titimoire calls 3000
+pappypatoche folds
+OLive666666 folds
+*** FLOP *** [5s 9c 6d]
+Bingojojo41 bets 5499
+titimoire folds
+Bingojojo41 collected 13959 from pot
+*** SUMMARY ***
+Total pot 13959 | No rake
+Board: [5s 9c 6d]
+Seat 3: Bingojojo41 won 13959
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3250193579007541328-53-1710704958 - Holdem no limit (120/500/1000) - 2024/03/17 19:49:18 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: Glorybox99 (13125)
+Seat 2: Smashead (32633)
+Seat 3: Bingojojo41 (25340)
+Seat 4: titimoire (28332)
+Seat 5: pappypatoche (240451)
+Seat 6: OLive666666 (21000)
+Seat 7: P1xel7 (80095)
+Seat 8: Zip - Zip (15990)
+*** ANTE/BLINDS ***
+OLive666666 posts ante 120
+P1xel7 posts ante 120
+Glorybox99 posts ante 120
+Smashead posts ante 120
+Bingojojo41 posts ante 120
+titimoire posts ante 120
+pappypatoche posts ante 120
+Zip - Zip posts ante 120
+OLive666666 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [3d 7d]
+*** PRE-FLOP *** 
+Zip - Zip folds
+Glorybox99 folds
+Smashead folds
+Bingojojo41 folds
+titimoire folds
+pappypatoche folds
+OLive666666 folds
+P1xel7 collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Seat 7: P1xel7 (big blind) won 2460
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3250193579007541328-54-1710704970 - Holdem no limit (120/500/1000) - 2024/03/17 19:49:30 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #6 is the button
+Seat 1: Glorybox99 (13005)
+Seat 2: Smashead (32513)
+Seat 3: Bingojojo41 (25220)
+Seat 4: titimoire (28212)
+Seat 5: pappypatoche (240331)
+Seat 6: OLive666666 (20380)
+Seat 7: P1xel7 (81435)
+Seat 8: Zip - Zip (15870)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Zip - Zip posts ante 120
+Glorybox99 posts ante 120
+Smashead posts ante 120
+Bingojojo41 posts ante 120
+titimoire posts ante 120
+pappypatoche posts ante 120
+OLive666666 posts ante 120
+P1xel7 posts small blind 500
+Zip - Zip posts big blind 1000
+Dealt to P1xel7 [Qh 8c]
+*** PRE-FLOP *** 
+Glorybox99 folds
+Smashead folds
+Bingojojo41 folds
+titimoire raises 1500 to 2500
+pappypatoche folds
+OLive666666 folds
+P1xel7 folds
+Zip - Zip calls 1500
+*** FLOP *** [Qd 2d Ts]
+Zip - Zip checks
+titimoire checks
+*** TURN *** [Qd 2d Ts][9c]
+Zip - Zip checks
+titimoire bets 4199
+Zip - Zip folds
+titimoire collected 10659 from pot
+*** SUMMARY ***
+Total pot 10659 | No rake
+Board: [Qd 2d Ts 9c]
+Seat 4: titimoire won 10659
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3250193579007541328-55-1710705014 - Holdem no limit (120/500/1000) - 2024/03/17 19:50:14 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: Glorybox99 (12885)
+Seat 2: Smashead (32393)
+Seat 3: Bingojojo41 (25100)
+Seat 4: titimoire (32052)
+Seat 5: pappypatoche (240211)
+Seat 6: OLive666666 (20260)
+Seat 7: P1xel7 (80815)
+Seat 8: Zip - Zip (13250)
+*** ANTE/BLINDS ***
+Zip - Zip posts ante 120
+Glorybox99 posts ante 120
+Smashead posts ante 120
+Bingojojo41 posts ante 120
+titimoire posts ante 120
+pappypatoche posts ante 120
+OLive666666 posts ante 120
+P1xel7 posts ante 120
+Zip - Zip posts small blind 500
+Glorybox99 posts big blind 1000
+Dealt to P1xel7 [Jc 2c]
+*** PRE-FLOP *** 
+Smashead folds
+Bingojojo41 calls 1000
+titimoire folds
+pappypatoche folds
+OLive666666 folds
+P1xel7 folds
+Zip - Zip calls 500
+Glorybox99 folds
+*** FLOP *** [9d 4c Kd]
+Zip - Zip checks
+Bingojojo41 checks
+*** TURN *** [9d 4c Kd][As]
+Zip - Zip checks
+Bingojojo41 checks
+*** RIVER *** [9d 4c Kd As][3h]
+Zip - Zip bets 2000
+Bingojojo41 folds
+Zip - Zip collected 5960 from pot
+*** SUMMARY ***
+Total pot 5960 | No rake
+Board: [9d 4c Kd As 3h]
+Seat 8: Zip - Zip (small blind) won 5960
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3250193579007541328-56-1710705062 - Holdem no limit (140/600/1200) - 2024/03/17 19:51:02 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: Glorybox99 (11765)
+Seat 2: Smashead (32273)
+Seat 3: Bingojojo41 (23980)
+Seat 4: titimoire (31932)
+Seat 5: pappypatoche (240091)
+Seat 6: OLive666666 (20140)
+Seat 7: P1xel7 (80695)
+Seat 8: Zip - Zip (16090)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 140
+Smashead posts ante 140
+Bingojojo41 posts ante 140
+titimoire posts ante 140
+pappypatoche posts ante 140
+OLive666666 posts ante 140
+P1xel7 posts ante 140
+Zip - Zip posts ante 140
+Glorybox99 posts small blind 600
+Smashead posts big blind 1200
+Dealt to P1xel7 [3h 9h]
+*** PRE-FLOP *** 
+Bingojojo41 folds
+titimoire folds
+pappypatoche folds
+OLive666666 folds
+P1xel7 folds
+Zip - Zip raises 1800 to 3000
+Glorybox99 folds
+Smashead folds
+Zip - Zip collected 5920 from pot
+*** SUMMARY ***
+Total pot 5920 | No rake
+Seat 8: Zip - Zip (button) won 5920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3250193579007541328-57-1710705102 - Holdem no limit (140/600/1200) - 2024/03/17 19:51:42 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: Glorybox99 (11025)
+Seat 2: Smashead (30933)
+Seat 3: Bingojojo41 (23840)
+Seat 4: titimoire (31792)
+Seat 5: pappypatoche (239951)
+Seat 6: OLive666666 (20000)
+Seat 7: P1xel7 (80555)
+Seat 8: Zip - Zip (18870)
+*** ANTE/BLINDS ***
+Smashead posts ante 140
+Bingojojo41 posts ante 140
+Glorybox99 posts ante 140
+titimoire posts ante 140
+pappypatoche posts ante 140
+OLive666666 posts ante 140
+P1xel7 posts ante 140
+Zip - Zip posts ante 140
+Smashead posts small blind 600
+Bingojojo41 posts big blind 1200
+Dealt to P1xel7 [Jc 9d]
+*** PRE-FLOP *** 
+titimoire folds
+pappypatoche folds
+OLive666666 folds
+P1xel7 folds
+Zip - Zip raises 1800 to 3000
+Glorybox99 folds
+Smashead raises 27793 to 30793 and is all-in
+Bingojojo41 folds
+Zip - Zip folds
+Smashead collected 36113 from pot
+*** SUMMARY ***
+Total pot 36113 | No rake
+Seat 2: Smashead (small blind) won 36113
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3250193579007541328-58-1710705133 - Holdem no limit (140/600/1200) - 2024/03/17 19:52:13 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: Glorybox99 (10885)
+Seat 2: Smashead (36113)
+Seat 3: Bingojojo41 (22500)
+Seat 4: titimoire (31652)
+Seat 5: pappypatoche (239811)
+Seat 6: OLive666666 (19860)
+Seat 7: P1xel7 (80415)
+Seat 8: Zip - Zip (15730)
+*** ANTE/BLINDS ***
+Bingojojo41 posts ante 140
+titimoire posts ante 140
+Glorybox99 posts ante 140
+Smashead posts ante 140
+pappypatoche posts ante 140
+OLive666666 posts ante 140
+P1xel7 posts ante 140
+Zip - Zip posts ante 140
+Bingojojo41 posts small blind 600
+titimoire posts big blind 1200
+Dealt to P1xel7 [6h 8d]
+*** PRE-FLOP *** 
+pappypatoche folds
+OLive666666 folds
+P1xel7 folds
+Zip - Zip folds
+Glorybox99 folds
+Smashead raises 1200 to 2400
+Bingojojo41 calls 1800
+titimoire folds
+*** FLOP *** [8c 2c 3c]
+Bingojojo41 checks
+Smashead bets 2492
+Bingojojo41 calls 2492
+*** TURN *** [8c 2c 3c][7d]
+Bingojojo41 checks
+Smashead bets 6052
+Bingojojo41 calls 6052
+*** RIVER *** [8c 2c 3c 7d][4c]
+Bingojojo41 checks
+Smashead bets 25029 and is all-in
+Bingojojo41 calls 11416 and is all-in
+*** SHOW DOWN ***
+Smashead shows [9c Ah] (Flush 9 high)
+Bingojojo41 shows [Ac 2d] (Flush Ace high)
+Bingojojo41 collected 47040 from main pot
+Smashead collected 13613 from side pot 1
+*** SUMMARY ***
+Total pot 60653 | No rake
+Board: [8c 2c 3c 7d 4c]
+Seat 2: Smashead (button) showed [9c Ah] and won 13613 with Flush 9 high
+Seat 3: Bingojojo41 (small blind) showed [Ac 2d] and won 47040 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3250193579007541328-59-1710705197 - Holdem no limit (140/600/1200) - 2024/03/17 19:53:17 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: Glorybox99 (10745)
+Seat 2: Smashead (13613)
+Seat 3: Bingojojo41 (47040)
+Seat 4: titimoire (30312)
+Seat 5: pappypatoche (239671)
+Seat 6: OLive666666 (19720)
+Seat 7: P1xel7 (80275)
+Seat 8: Zip - Zip (15590)
+*** ANTE/BLINDS ***
+titimoire posts ante 140
+pappypatoche posts ante 140
+Glorybox99 posts ante 140
+Smashead posts ante 140
+Bingojojo41 posts ante 140
+OLive666666 posts ante 140
+P1xel7 posts ante 140
+Zip - Zip posts ante 140
+titimoire posts small blind 600
+pappypatoche posts big blind 1200
+Dealt to P1xel7 [6s 3s]
+*** PRE-FLOP *** 
+OLive666666 folds
+P1xel7 folds
+Zip - Zip folds
+Glorybox99 folds
+Smashead folds
+Bingojojo41 calls 1200
+titimoire folds
+pappypatoche checks
+*** FLOP *** [5c Jd Qd]
+pappypatoche checks
+Bingojojo41 bets 1200
+pappypatoche folds
+Bingojojo41 collected 5320 from pot
+*** SUMMARY ***
+Total pot 5320 | No rake
+Board: [5c Jd Qd]
+Seat 3: Bingojojo41 (button) won 5320
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3250193579007541328-60-1710705282 - Holdem no limit (160/700/1400) - 2024/03/17 19:54:42 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: Glorybox99 (10605)
+Seat 2: Smashead (13473)
+Seat 3: Bingojojo41 (49820)
+Seat 4: titimoire (29572)
+Seat 5: pappypatoche (238331)
+Seat 6: OLive666666 (19580)
+Seat 7: P1xel7 (80135)
+Seat 8: Zip - Zip (15450)
+*** ANTE/BLINDS ***
+pappypatoche posts ante 160
+OLive666666 posts ante 160
+Glorybox99 posts ante 160
+Smashead posts ante 160
+Bingojojo41 posts ante 160
+titimoire posts ante 160
+P1xel7 posts ante 160
+Zip - Zip posts ante 160
+pappypatoche posts small blind 700
+OLive666666 posts big blind 1400
+Dealt to P1xel7 [Kd 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Zip - Zip folds
+Glorybox99 folds
+Smashead folds
+Bingojojo41 calls 1400
+titimoire calls 1400
+pappypatoche folds
+OLive666666 checks
+*** FLOP *** [Jc 5h 6d]
+OLive666666 bets 18020 and is all-in
+Bingojojo41 folds
+titimoire folds
+OLive666666 collected 24200 from pot
+*** SUMMARY ***
+Total pot 24200 | No rake
+Board: [Jc 5h 6d]
+Seat 6: OLive666666 (big blind) won 24200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3250193579007541328-61-1710705661 - Holdem no limit (160/700/1400) - 2024/03/17 20:01:01 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: Glorybox99 (10445)
+Seat 2: Smashead (13313)
+Seat 3: Bingojojo41 (48260)
+Seat 4: titimoire (28012)
+Seat 5: pappypatoche (237471)
+Seat 6: OLive666666 (24200)
+Seat 7: P1xel7 (79975)
+Seat 8: Zip - Zip (15290)
+*** ANTE/BLINDS ***
+OLive666666 posts ante 160
+P1xel7 posts ante 160
+Glorybox99 posts ante 160
+Smashead posts ante 160
+Bingojojo41 posts ante 160
+titimoire posts ante 160
+pappypatoche posts ante 160
+Zip - Zip posts ante 160
+OLive666666 posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [5s Jc]
+*** PRE-FLOP *** 
+Zip - Zip folds
+Glorybox99 folds
+Smashead folds
+Bingojojo41 calls 1400
+titimoire folds
+pappypatoche calls 1400
+OLive666666 folds
+P1xel7 checks
+*** FLOP *** [2d 3d 8s]
+P1xel7 checks
+Bingojojo41 checks
+pappypatoche checks
+*** TURN *** [2d 3d 8s][Jh]
+P1xel7 bets 4017
+Bingojojo41 folds
+pappypatoche folds
+P1xel7 collected 10197 from pot
+*** SUMMARY ***
+Total pot 10197 | No rake
+Board: [2d 3d 8s Jh]
+Seat 7: P1xel7 (big blind) won 10197
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3250193579007541328-62-1710705716 - Holdem no limit (200/800/1600) - 2024/03/17 20:01:56 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #6 is the button
+Seat 1: Glorybox99 (10285)
+Seat 2: Smashead (13153)
+Seat 3: Bingojojo41 (46700)
+Seat 4: titimoire (27852)
+Seat 5: pappypatoche (235911)
+Seat 6: OLive666666 (23340)
+Seat 7: P1xel7 (84595)
+Seat 8: Zip - Zip (15130)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Zip - Zip posts ante 200
+Glorybox99 posts ante 200
+Smashead posts ante 200
+Bingojojo41 posts ante 200
+titimoire posts ante 200
+pappypatoche posts ante 200
+OLive666666 posts ante 200
+P1xel7 posts small blind 800
+Zip - Zip posts big blind 1600
+Dealt to P1xel7 [Ad Jh]
+*** PRE-FLOP *** 
+Glorybox99 folds
+Smashead folds
+Bingojojo41 folds
+titimoire folds
+pappypatoche folds
+OLive666666 folds
+P1xel7 raises 82795 to 84395 and is all-in
+Zip - Zip calls 13330 and is all-in
+*** FLOP *** [6c 3s 3c]
+*** TURN *** [6c 3s 3c][5s]
+*** RIVER *** [6c 3s 3c 5s][4s]
+*** SHOW DOWN ***
+Zip - Zip shows [Qh Kh] (One pair : 3)
+P1xel7 shows [Ad Jh] (One pair : 3)
+P1xel7 collected 100925 from pot
+*** SUMMARY ***
+Total pot 100925 | No rake
+Board: [6c 3s 3c 5s 4s]
+Seat 7: P1xel7 (small blind) showed [Ad Jh] and won 100925 with One pair : 3
+Seat 8: Zip - Zip (big blind) showed [Qh Kh] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3250193579007541328-63-1710705785 - Holdem no limit (200/800/1600) - 2024/03/17 20:03:05 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: Glorybox99 (10085)
+Seat 2: Smashead (12953)
+Seat 3: Bingojojo41 (46500)
+Seat 4: titimoire (27652)
+Seat 5: pappypatoche (235711)
+Seat 6: OLive666666 (23140)
+Seat 7: P1xel7 (100925)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 200
+Smashead posts ante 200
+Bingojojo41 posts ante 200
+titimoire posts ante 200
+pappypatoche posts ante 200
+OLive666666 posts ante 200
+P1xel7 posts ante 200
+Glorybox99 posts big blind 1600
+Dealt to P1xel7 [9s 8c]
+*** PRE-FLOP *** 
+Smashead folds
+Bingojojo41 folds
+titimoire raises 2400 to 4000
+pappypatoche folds
+OLive666666 folds
+P1xel7 calls 4000
+Glorybox99 folds
+*** FLOP *** [5h Kd Kc]
+titimoire checks
+P1xel7 bets 5600
+titimoire raises 17852 to 23452 and is all-in
+P1xel7 folds
+titimoire collected 40052 from pot
+*** SUMMARY ***
+Total pot 40052 | No rake
+Board: [5h Kd Kc]
+Seat 4: titimoire won 40052
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3250193579007541328-64-1710705843 - Holdem no limit (200/800/1600) - 2024/03/17 20:04:03 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: Glorybox99 (8285)
+Seat 2: Smashead (12753)
+Seat 3: Bingojojo41 (46300)
+Seat 4: titimoire (40052)
+Seat 5: pappypatoche (235511)
+Seat 6: OLive666666 (22940)
+Seat 7: P1xel7 (91125)
+Seat 8: Papayot (18680)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 200
+Smashead posts ante 200
+Bingojojo41 posts ante 200
+titimoire posts ante 200
+pappypatoche posts ante 200
+OLive666666 posts ante 200
+P1xel7 posts ante 200
+Glorybox99 posts small blind 800
+Smashead posts big blind 1600
+Dealt to P1xel7 [Ah Tc]
+*** PRE-FLOP *** 
+Bingojojo41 folds
+titimoire folds
+pappypatoche folds
+OLive666666 folds
+P1xel7 raises 89325 to 90925 and is all-in
+Glorybox99 folds
+Smashead calls 10953 and is all-in
+*** FLOP *** [Jh 8c 6h]
+*** TURN *** [Jh 8c 6h][7c]
+*** RIVER *** [Jh 8c 6h 7c][Kc]
+*** SHOW DOWN ***
+Smashead shows [9s 9d] (One pair : 9)
+P1xel7 shows [Ah Tc] (High card : Ace)
+P1xel7 collected 78372 from side pot 1
+Smashead collected 27306 from main pot
+*** SUMMARY ***
+Total pot 105678 | No rake
+Board: [Jh 8c 6h 7c Kc]
+Seat 2: Smashead (big blind) showed [9s 9d] and won 27306 with One pair : 9
+Seat 7: P1xel7 showed [Ah Tc] and won 78372 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3250193579007541328-65-1710705870 - Holdem no limit (250/1000/2000) - 2024/03/17 20:04:30 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: Glorybox99 (7285)
+Seat 2: Smashead (27306)
+Seat 3: Bingojojo41 (46100)
+Seat 4: titimoire (39852)
+Seat 5: pappypatoche (235311)
+Seat 6: OLive666666 (22740)
+Seat 7: P1xel7 (78372)
+Seat 8: Papayot (18680)
+*** ANTE/BLINDS ***
+Smashead posts ante 250
+Bingojojo41 posts ante 250
+Glorybox99 posts ante 250
+titimoire posts ante 250
+pappypatoche posts ante 250
+OLive666666 posts ante 250
+P1xel7 posts ante 250
+Papayot posts ante 250
+Smashead posts small blind 1000
+Bingojojo41 posts big blind 2000
+Dealt to P1xel7 [5s 4d]
+*** PRE-FLOP *** 
+titimoire folds
+pappypatoche calls 2000
+OLive666666 raises 20490 to 22490 and is all-in
+P1xel7 folds
+Papayot calls 18430 and is all-in
+Glorybox99 folds
+Smashead folds
+Bingojojo41 folds
+pappypatoche calls 20490
+*** FLOP *** [Qd As 3s]
+*** TURN *** [Qd As 3s][6d]
+*** RIVER *** [Qd As 3s 6d][8c]
+*** SHOW DOWN ***
+pappypatoche shows [Kd 9d] (High card : Ace)
+OLive666666 shows [Ac 9h] (One pair : Aces)
+Papayot shows [Ad 8s] (Two pairs : Aces and 8)
+Papayot collected 60290 from main pot
+OLive666666 collected 8120 from side pot 1
+*** SUMMARY ***
+Total pot 68410 | No rake
+Board: [Qd As 3s 6d 8c]
+Seat 5: pappypatoche showed [Kd 9d] and lost with High card : Ace
+Seat 6: OLive666666 showed [Ac 9h] and won 8120 with One pair : Aces
+Seat 8: Papayot showed [Ad 8s] and won 60290 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3250193579007541328-66-1710705909 - Holdem no limit (250/1000/2000) - 2024/03/17 20:05:09 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: Glorybox99 (7035)
+Seat 2: Smashead (26056)
+Seat 3: Bingojojo41 (43850)
+Seat 4: titimoire (39602)
+Seat 5: pappypatoche (212571)
+Seat 6: OLive666666 (8120)
+Seat 7: P1xel7 (78122)
+Seat 8: Papayot (60290)
+*** ANTE/BLINDS ***
+Bingojojo41 posts ante 250
+titimoire posts ante 250
+Glorybox99 posts ante 250
+Smashead posts ante 250
+pappypatoche posts ante 250
+OLive666666 posts ante 250
+P1xel7 posts ante 250
+Papayot posts ante 250
+Bingojojo41 posts small blind 1000
+titimoire posts big blind 2000
+Dealt to P1xel7 [Tc 8c]
+*** PRE-FLOP *** 
+pappypatoche folds
+OLive666666 raises 5870 to 7870 and is all-in
+P1xel7 folds
+Papayot folds
+Glorybox99 folds
+Smashead folds
+Bingojojo41 calls 6870
+titimoire folds
+*** FLOP *** [7c 4c Qh]
+*** TURN *** [7c 4c Qh][4h]
+*** RIVER *** [7c 4c Qh 4h][5h]
+*** SHOW DOWN ***
+OLive666666 shows [Ad 9c] (One pair : 4)
+Bingojojo41 shows [Qc Ks] (Two pairs : Queens and 4)
+Bingojojo41 collected 19740 from pot
+*** SUMMARY ***
+Total pot 19740 | No rake
+Board: [7c 4c Qh 4h 5h]
+Seat 3: Bingojojo41 (small blind) showed [Qc Ks] and won 19740 with Two pairs : Queens and 4
+Seat 6: OLive666666 showed [Ad 9c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3250193579007541328-67-1710705940 - Holdem no limit (250/1000/2000) - 2024/03/17 20:05:40 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: Glorybox99 (6785)
+Seat 2: Smashead (25806)
+Seat 3: Bingojojo41 (55470)
+Seat 4: titimoire (37352)
+Seat 5: pappypatoche (212321)
+Seat 7: P1xel7 (77872)
+Seat 8: Papayot (60040)
+*** ANTE/BLINDS ***
+titimoire posts ante 250
+pappypatoche posts ante 250
+Glorybox99 posts ante 250
+Smashead posts ante 250
+Bingojojo41 posts ante 250
+P1xel7 posts ante 250
+Papayot posts ante 250
+titimoire posts small blind 1000
+pappypatoche posts big blind 2000
+Dealt to P1xel7 [6h Ad]
+*** PRE-FLOP *** 
+P1xel7 folds
+Papayot folds
+Glorybox99 folds
+Smashead folds
+Bingojojo41 folds
+titimoire calls 1000
+pappypatoche checks
+*** FLOP *** [Kh Ts 3h]
+titimoire bets 2012
+pappypatoche folds
+titimoire collected 7762 from pot
+*** SUMMARY ***
+Total pot 7762 | No rake
+Board: [Kh Ts 3h]
+Seat 4: titimoire (small blind) won 7762
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3250193579007541328-68-1710705974 - Holdem no limit (250/1000/2000) - 2024/03/17 20:06:14 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: Glorybox99 (6535)
+Seat 2: Smashead (25556)
+Seat 3: Bingojojo41 (55220)
+Seat 4: titimoire (40852)
+Seat 5: pappypatoche (210071)
+Seat 6: Mikus0609 (92962)
+Seat 7: P1xel7 (77622)
+Seat 8: Papayot (59790)
+*** ANTE/BLINDS ***
+pappypatoche posts ante 250
+Mikus0609 posts ante 250
+Glorybox99 posts ante 250
+Smashead posts ante 250
+Bingojojo41 posts ante 250
+titimoire posts ante 250
+P1xel7 posts ante 250
+Papayot posts ante 250
+pappypatoche posts small blind 1000
+Mikus0609 posts big blind 2000
+Dealt to P1xel7 [9h Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+Papayot calls 2000
+Glorybox99 folds
+Smashead folds
+Bingojojo41 calls 2000
+titimoire folds
+pappypatoche folds
+Mikus0609 checks
+*** FLOP *** [8s Qd 6s]
+Mikus0609 checks
+Papayot checks
+Bingojojo41 checks
+*** TURN *** [8s Qd 6s][2h]
+Mikus0609 checks
+Papayot checks
+Bingojojo41 checks
+*** RIVER *** [8s Qd 6s 2h][5s]
+Mikus0609 checks
+Papayot checks
+Bingojojo41 checks
+*** SHOW DOWN ***
+Mikus0609 shows [Kc 7h] (High card : King)
+Papayot shows [7s Ad] (High card : Ace)
+Bingojojo41 shows [5h Kh] (One pair : 5)
+Bingojojo41 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Board: [8s Qd 6s 2h 5s]
+Seat 3: Bingojojo41 showed [5h Kh] and won 9000 with One pair : 5
+Seat 6: Mikus0609 (big blind) showed [Kc 7h] and lost with High card : King
+Seat 8: Papayot showed [7s Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3250193579007541328-69-1710706067 - Holdem no limit (300/1250/2500) - 2024/03/17 20:07:47 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: Glorybox99 (6285)
+Seat 2: Smashead (25306)
+Seat 3: Bingojojo41 (61970)
+Seat 4: titimoire (40602)
+Seat 5: pappypatoche (208821)
+Seat 6: Mikus0609 (90712)
+Seat 7: P1xel7 (77372)
+Seat 8: Papayot (57540)
+*** ANTE/BLINDS ***
+Mikus0609 posts ante 300
+P1xel7 posts ante 300
+Glorybox99 posts ante 300
+Smashead posts ante 300
+Bingojojo41 posts ante 300
+titimoire posts ante 300
+pappypatoche posts ante 300
+Papayot posts ante 300
+Mikus0609 posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [5h Qc]
+*** PRE-FLOP *** 
+Papayot raises 54740 to 57240 and is all-in
+Glorybox99 folds
+Smashead calls 25006 and is all-in
+Bingojojo41 folds
+titimoire folds
+pappypatoche folds
+Mikus0609 folds
+P1xel7 folds
+*** FLOP *** [4d Kd 2h]
+*** TURN *** [4d Kd 2h][2s]
+*** RIVER *** [4d Kd 2h 2s][Ks]
+*** SHOW DOWN ***
+Smashead shows [Kh Ac] (Full of Kings and 2)
+Papayot shows [Qs Jc] (Two pairs : Kings and 2)
+Papayot collected 32234 from side pot 1
+Smashead collected 56162 from main pot
+*** SUMMARY ***
+Total pot 88396 | No rake
+Board: [4d Kd 2h 2s Ks]
+Seat 2: Smashead showed [Kh Ac] and won 56162 with Full of Kings and 2
+Seat 8: Papayot showed [Qs Jc] and won 32234 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3250193579007541328-70-1710706097 - Holdem no limit (300/1250/2500) - 2024/03/17 20:08:17 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #6 is the button
+Seat 1: Glorybox99 (5985)
+Seat 2: Smashead (56162)
+Seat 3: Bingojojo41 (61670)
+Seat 4: titimoire (40302)
+Seat 5: pappypatoche (208521)
+Seat 6: Mikus0609 (89162)
+Seat 7: P1xel7 (74572)
+Seat 8: Papayot (32234)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+Papayot posts ante 300
+Glorybox99 posts ante 300
+Smashead posts ante 300
+Bingojojo41 posts ante 300
+titimoire posts ante 300
+pappypatoche posts ante 300
+Mikus0609 posts ante 300
+P1xel7 posts small blind 1250
+Papayot posts big blind 2500
+Dealt to P1xel7 [7c Ts]
+*** PRE-FLOP *** 
+Glorybox99 folds
+Smashead folds
+Bingojojo41 folds
+titimoire folds
+pappypatoche folds
+Mikus0609 folds
+P1xel7 folds
+Papayot collected 6150 from pot
+*** SUMMARY ***
+Total pot 6150 | No rake
+Seat 8: Papayot (big blind) won 6150
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3250193579007541328-71-1710706112 - Holdem no limit (300/1250/2500) - 2024/03/17 20:08:32 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: Glorybox99 (5685)
+Seat 2: Smashead (55862)
+Seat 3: Bingojojo41 (61370)
+Seat 4: titimoire (40002)
+Seat 5: pappypatoche (208221)
+Seat 6: Mikus0609 (88862)
+Seat 7: P1xel7 (73022)
+Seat 8: Papayot (35584)
+*** ANTE/BLINDS ***
+Papayot posts ante 300
+Glorybox99 posts ante 300
+Smashead posts ante 300
+Bingojojo41 posts ante 300
+titimoire posts ante 300
+pappypatoche posts ante 300
+Mikus0609 posts ante 300
+P1xel7 posts ante 300
+Papayot posts small blind 1250
+Glorybox99 posts big blind 2500
+Dealt to P1xel7 [6h Td]
+*** PRE-FLOP *** 
+Smashead folds
+Bingojojo41 folds
+titimoire raises 37202 to 39702 and is all-in
+pappypatoche calls 39702
+Mikus0609 folds
+P1xel7 folds
+Papayot calls 34034 and is all-in
+Glorybox99 folds
+*** FLOP *** [Qc 8c 9c]
+*** TURN *** [Qc 8c 9c][2d]
+*** RIVER *** [Qc 8c 9c 2d][8s]
+*** SHOW DOWN ***
+Papayot shows [5d 7s] (One pair : 8)
+titimoire shows [Ac Js] (One pair : 8)
+pappypatoche shows [Ad Jd] (One pair : 8)
+pappypatoche collected 59794 from pot
+titimoire collected 59794 from pot
+*** SUMMARY ***
+Total pot 119588 | No rake
+Board: [Qc 8c 9c 2d 8s]
+Seat 4: titimoire showed [Ac Js] and won 59794 with One pair : 8
+Seat 5: pappypatoche showed [Ad Jd] and won 59794 with One pair : 8
+Seat 8: Papayot (small blind) showed [5d 7s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3250193579007541328-72-1710706152 - Holdem no limit (300/1250/2500) - 2024/03/17 20:09:12 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: Glorybox99 (2885)
+Seat 2: Smashead (55562)
+Seat 3: Bingojojo41 (61070)
+Seat 4: titimoire (59794)
+Seat 5: pappypatoche (228013)
+Seat 6: Mikus0609 (88562)
+Seat 7: P1xel7 (72722)
+*** ANTE/BLINDS ***
+Glorybox99 posts ante 300
+Smashead posts ante 300
+Bingojojo41 posts ante 300
+titimoire posts ante 300
+pappypatoche posts ante 300
+Mikus0609 posts ante 300
+P1xel7 posts ante 300
+Glorybox99 posts small blind 1250
+Smashead posts big blind 2500
+Dealt to P1xel7 [Qh Kh]
+*** PRE-FLOP *** 
+Bingojojo41 folds
+titimoire folds
+pappypatoche folds
+Mikus0609 calls 2500
+P1xel7 raises 7500 to 10000
+Glorybox99 folds
+Smashead folds
+Mikus0609 calls 7500
+*** FLOP *** [8s 4d Kc]
+Mikus0609 checks
+P1xel7 bets 16803
+Mikus0609 folds
+P1xel7 collected 42653 from pot
+*** SUMMARY ***
+Total pot 42653 | No rake
+Board: [8s 4d Kc]
+Seat 7: P1xel7 won 42653
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3250193579007541328-73-1710706187 - Holdem no limit (350/1500/3000) - 2024/03/17 20:09:47 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: Glorybox99 (1335)
+Seat 2: Smashead (52762)
+Seat 3: Bingojojo41 (60770)
+Seat 4: titimoire (59494)
+Seat 5: pappypatoche (227713)
+Seat 6: Mikus0609 (78262)
+Seat 7: P1xel7 (88272)
+*** ANTE/BLINDS ***
+Smashead posts ante 350
+Bingojojo41 posts ante 350
+Glorybox99 posts ante 350
+titimoire posts ante 350
+pappypatoche posts ante 350
+Mikus0609 posts ante 350
+P1xel7 posts ante 350
+Smashead posts small blind 1500
+Bingojojo41 posts big blind 3000
+Dealt to P1xel7 [Ks 4s]
+*** PRE-FLOP *** 
+titimoire raises 56144 to 59144 and is all-in
+pappypatoche folds
+Mikus0609 folds
+P1xel7 folds
+Glorybox99 folds
+Smashead folds
+Bingojojo41 folds
+titimoire collected 66094 from pot
+*** SUMMARY ***
+Total pot 66094 | No rake
+Seat 4: titimoire won 66094
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3250193579007541328-74-1710706202 - Holdem no limit (350/1500/3000) - 2024/03/17 20:10:02 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: Glorybox99 (985)
+Seat 2: Smashead (50912)
+Seat 3: Bingojojo41 (57420)
+Seat 4: titimoire (66094)
+Seat 5: pappypatoche (227363)
+Seat 6: Mikus0609 (77912)
+Seat 7: P1xel7 (87922)
+*** ANTE/BLINDS ***
+Bingojojo41 posts ante 350
+titimoire posts ante 350
+Glorybox99 posts ante 350
+Smashead posts ante 350
+pappypatoche posts ante 350
+Mikus0609 posts ante 350
+P1xel7 posts ante 350
+Bingojojo41 posts small blind 1500
+titimoire posts big blind 3000
+Dealt to P1xel7 [9c Jc]
+*** PRE-FLOP *** 
+pappypatoche folds
+Mikus0609 folds
+P1xel7 raises 3000 to 6000
+Glorybox99 folds
+Smashead folds
+Bingojojo41 folds
+titimoire folds
+P1xel7 collected 12950 from pot
+*** SUMMARY ***
+Total pot 12950 | No rake
+Seat 7: P1xel7 won 12950
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3250193579007541328-75-1710706217 - Holdem no limit (350/1500/3000) - 2024/03/17 20:10:17 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: Glorybox99 (635)
+Seat 2: Smashead (50562)
+Seat 3: Bingojojo41 (55570)
+Seat 4: titimoire (62744)
+Seat 5: pappypatoche (227013)
+Seat 6: Mikus0609 (77562)
+Seat 7: P1xel7 (94522)
+*** ANTE/BLINDS ***
+titimoire posts ante 350
+pappypatoche posts ante 350
+Glorybox99 posts ante 350
+Smashead posts ante 350
+Bingojojo41 posts ante 350
+Mikus0609 posts ante 350
+P1xel7 posts ante 350
+titimoire posts small blind 1500
+pappypatoche posts big blind 3000
+Dealt to P1xel7 [9h 5c]
+*** PRE-FLOP *** 
+Mikus0609 folds
+P1xel7 folds
+Glorybox99 folds
+Smashead raises 3000 to 6000
+Bingojojo41 calls 6000
+titimoire folds
+pappypatoche calls 3000
+*** FLOP *** [3c Td Th]
+pappypatoche checks
+Smashead checks
+Bingojojo41 checks
+*** TURN *** [3c Td Th][9s]
+pappypatoche checks
+Smashead checks
+Bingojojo41 checks
+*** RIVER *** [3c Td Th 9s][6h]
+pappypatoche checks
+Smashead checks
+Bingojojo41 checks
+*** SHOW DOWN ***
+Smashead shows [Kd Qh] (One pair : Tens)
+Bingojojo41 shows [8d Ad] (One pair : Tens)
+pappypatoche shows [9c Kh] (Two pairs : Tens and 9)
+pappypatoche collected 21950 from pot
+*** SUMMARY ***
+Total pot 21950 | No rake
+Board: [3c Td Th 9s 6h]
+Seat 2: Smashead showed [Kd Qh] and lost with One pair : Tens
+Seat 3: Bingojojo41 (button) showed [8d Ad] and lost with One pair : Tens
+Seat 5: pappypatoche (big blind) showed [9c Kh] and won 21950 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3250193579007541328-76-1710706262 - Holdem no limit (350/1500/3000) - 2024/03/17 20:11:02 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: Glorybox99 (285)
+Seat 2: Smashead (44212)
+Seat 3: Bingojojo41 (49220)
+Seat 4: titimoire (60894)
+Seat 5: pappypatoche (242613)
+Seat 6: Mikus0609 (77212)
+Seat 7: P1xel7 (94172)
+Seat 8: Bobbylou62 (10430)
+*** ANTE/BLINDS ***
+pappypatoche posts ante 350
+Mikus0609 posts ante 350
+Glorybox99 posts ante 285 and is all-in
+Smashead posts ante 350
+Bingojojo41 posts ante 350
+titimoire posts ante 350
+P1xel7 posts ante 350
+Bobbylou62 posts ante 350
+pappypatoche posts small blind 1500
+Mikus0609 posts big blind 3000
+Dealt to P1xel7 [4c 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Bobbylou62 folds
+Smashead folds
+Bingojojo41 calls 3000
+titimoire folds
+pappypatoche calls 1500
+Mikus0609 raises 73862 to 76862 and is all-in
+Bingojojo41 folds
+pappypatoche folds
+*** FLOP *** [Ah 5h 2h]
+*** TURN *** [Ah 5h 2h][6s]
+*** RIVER *** [Ah 5h 2h 6s][6h]
+*** SHOW DOWN ***
+Glorybox99 shows [9c 4s] (One pair : 6)
+Mikus0609 shows [Ad Qh] (Flush Ace high)
+Mikus0609 collected 85597 from pot
+*** SUMMARY ***
+Total pot 85597 | No rake
+Board: [Ah 5h 2h 6s 6h]
+Seat 1: Glorybox99 showed [9c 4s] and lost with One pair : 6
+Seat 6: Mikus0609 (big blind) showed [Ad Qh] and won 85597 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3250193579007541328-77-1710706299 - Holdem no limit (350/1500/3000) - 2024/03/17 20:11:39 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 2: Smashead (43862)
+Seat 3: Bingojojo41 (45870)
+Seat 4: titimoire (60544)
+Seat 5: pappypatoche (239263)
+Seat 6: Mikus0609 (85597)
+Seat 7: P1xel7 (93822)
+Seat 8: Bobbylou62 (10080)
+*** ANTE/BLINDS ***
+Mikus0609 posts ante 350
+P1xel7 posts ante 350
+Smashead posts ante 350
+Bingojojo41 posts ante 350
+titimoire posts ante 350
+pappypatoche posts ante 350
+Bobbylou62 posts ante 350
+Mikus0609 posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [Qs 3d]
+*** PRE-FLOP *** 
+Bobbylou62 folds
+Smashead folds
+Bingojojo41 folds
+titimoire folds
+pappypatoche folds
+Mikus0609 raises 4500 to 7500
+P1xel7 folds
+Mikus0609 collected 12950 from pot
+*** SUMMARY ***
+Total pot 12950 | No rake
+Seat 6: Mikus0609 (small blind) won 12950
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3250193579007541328-78-1710706316 - Holdem no limit (400/1750/3500) - 2024/03/17 20:11:56 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #6 is the button
+Seat 1: cocomignon (59520)
+Seat 2: Smashead (43512)
+Seat 3: Bingojojo41 (45520)
+Seat 4: titimoire (60194)
+Seat 5: pappypatoche (238913)
+Seat 6: Mikus0609 (90697)
+Seat 7: P1xel7 (90472)
+Seat 8: Bobbylou62 (9730)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+Bobbylou62 posts ante 400
+cocomignon posts ante 400
+Smashead posts ante 400
+Bingojojo41 posts ante 400
+titimoire posts ante 400
+pappypatoche posts ante 400
+Mikus0609 posts ante 400
+P1xel7 posts small blind 1750
+Bobbylou62 posts big blind 3500
+Dealt to P1xel7 [Qd 6s]
+*** PRE-FLOP *** 
+cocomignon folds
+Smashead folds
+Bingojojo41 raises 7000 to 10500
+titimoire folds
+pappypatoche folds
+Mikus0609 folds
+P1xel7 folds
+Bobbylou62 folds
+Bingojojo41 collected 18950 from pot
+*** SUMMARY ***
+Total pot 18950 | No rake
+Seat 3: Bingojojo41 won 18950
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3250193579007541328-79-1710706350 - Holdem no limit (400/1750/3500) - 2024/03/17 20:12:30 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: cocomignon (59120)
+Seat 2: Smashead (43112)
+Seat 3: Bingojojo41 (53570)
+Seat 4: titimoire (59794)
+Seat 5: pappypatoche (238513)
+Seat 6: Mikus0609 (90297)
+Seat 7: P1xel7 (88322)
+Seat 8: Bobbylou62 (5830)
+*** ANTE/BLINDS ***
+Bobbylou62 posts ante 400
+cocomignon posts ante 400
+Smashead posts ante 400
+Bingojojo41 posts ante 400
+titimoire posts ante 400
+pappypatoche posts ante 400
+Mikus0609 posts ante 400
+P1xel7 posts ante 400
+Bobbylou62 posts small blind 1750
+cocomignon posts big blind 3500
+Dealt to P1xel7 [7h 8s]
+*** PRE-FLOP *** 
+Smashead folds
+Bingojojo41 calls 3500
+titimoire raises 55894 to 59394 and is all-in
+pappypatoche folds
+Mikus0609 folds
+P1xel7 folds
+Bobbylou62 folds
+cocomignon folds
+Bingojojo41 calls 49670 and is all-in
+*** FLOP *** [As 4s 9d]
+*** TURN *** [As 4s 9d][6h]
+*** RIVER *** [As 4s 9d 6h][3d]
+*** SHOW DOWN ***
+Bingojojo41 shows [Qh Js] (High card : Ace)
+titimoire shows [Qd Ah] (One pair : Aces)
+titimoire collected 121014 from pot
+*** SUMMARY ***
+Total pot 121014 | No rake
+Board: [As 4s 9d 6h 3d]
+Seat 3: Bingojojo41 showed [Qh Js] and lost with High card : Ace
+Seat 4: titimoire showed [Qd Ah] and won 121014 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3250193579007541328-80-1710706412 - Holdem no limit (400/1750/3500) - 2024/03/17 20:13:32 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: cocomignon (55220)
+Seat 2: Smashead (42712)
+Seat 4: titimoire (121014)
+Seat 5: pappypatoche (238113)
+Seat 6: Mikus0609 (89897)
+Seat 7: P1xel7 (87922)
+Seat 8: Bobbylou62 (3680)
+*** ANTE/BLINDS ***
+cocomignon posts ante 400
+Smashead posts ante 400
+titimoire posts ante 400
+pappypatoche posts ante 400
+Mikus0609 posts ante 400
+P1xel7 posts ante 400
+Bobbylou62 posts ante 400
+cocomignon posts small blind 1750
+Smashead posts big blind 3500
+Dealt to P1xel7 [Ac 5h]
+*** PRE-FLOP *** 
+titimoire calls 3500
+pappypatoche folds
+Mikus0609 folds
+P1xel7 folds
+Bobbylou62 folds
+cocomignon raises 51320 to 54820 and is all-in
+Smashead folds
+titimoire folds
+cocomignon collected 64620 from pot
+*** SUMMARY ***
+Total pot 64620 | No rake
+Seat 1: cocomignon (small blind) won 64620
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3250193579007541328-81-1710706442 - Holdem no limit (400/1750/3500) - 2024/03/17 20:14:02 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: cocomignon (64620)
+Seat 2: Smashead (38812)
+Seat 4: titimoire (117114)
+Seat 5: pappypatoche (237713)
+Seat 6: Mikus0609 (89497)
+Seat 7: P1xel7 (87522)
+Seat 8: Bobbylou62 (3280)
+*** ANTE/BLINDS ***
+Smashead posts ante 400
+titimoire posts ante 400
+cocomignon posts ante 400
+pappypatoche posts ante 400
+Mikus0609 posts ante 400
+P1xel7 posts ante 400
+Bobbylou62 posts ante 400
+Smashead posts small blind 1750
+titimoire posts big blind 3500
+Dealt to P1xel7 [5c Kd]
+*** PRE-FLOP *** 
+pappypatoche folds
+Mikus0609 folds
+P1xel7 folds
+Bobbylou62 folds
+cocomignon raises 60720 to 64220 and is all-in
+Smashead folds
+titimoire folds
+cocomignon collected 72270 from pot
+*** SUMMARY ***
+Total pot 72270 | No rake
+Seat 1: cocomignon (button) won 72270
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3250193579007541328-82-1710706489 - Holdem no limit (500/2000/4000) - 2024/03/17 20:14:49 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: cocomignon (72270)
+Seat 2: Smashead (36662)
+Seat 3: Michto91 (171090)
+Seat 4: titimoire (113214)
+Seat 5: pappypatoche (237313)
+Seat 6: Mikus0609 (89097)
+Seat 7: P1xel7 (87122)
+Seat 8: Bobbylou62 (2880)
+*** ANTE/BLINDS ***
+titimoire posts ante 500
+pappypatoche posts ante 500
+cocomignon posts ante 500
+Smashead posts ante 500
+Mikus0609 posts ante 500
+P1xel7 posts ante 500
+Bobbylou62 posts ante 500
+titimoire posts small blind 2000
+pappypatoche posts big blind 4000
+Dealt to P1xel7 [As 6h]
+*** PRE-FLOP *** 
+Mikus0609 folds
+P1xel7 folds
+Bobbylou62 folds
+cocomignon folds
+Smashead raises 32162 to 36162 and is all-in
+titimoire folds
+pappypatoche folds
+Smashead collected 45662 from pot
+*** SUMMARY ***
+Total pot 45662 | No rake
+Seat 2: Smashead (button) won 45662
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3250193579007541328-83-1710706531 - Holdem no limit (500/2000/4000) - 2024/03/17 20:15:31 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: cocomignon (71770)
+Seat 2: Smashead (45662)
+Seat 3: Michto91 (171090)
+Seat 4: titimoire (110714)
+Seat 5: pappypatoche (232813)
+Seat 6: Mikus0609 (88597)
+Seat 7: P1xel7 (86622)
+Seat 8: Bobbylou62 (2380)
+*** ANTE/BLINDS ***
+pappypatoche posts ante 500
+Mikus0609 posts ante 500
+cocomignon posts ante 500
+Smashead posts ante 500
+Michto91 posts ante 500
+titimoire posts ante 500
+P1xel7 posts ante 500
+Bobbylou62 posts ante 500
+pappypatoche posts small blind 2000
+Mikus0609 posts big blind 4000
+Dealt to P1xel7 [7s Td]
+*** PRE-FLOP *** 
+P1xel7 folds
+Bobbylou62 folds
+cocomignon folds
+Smashead raises 41162 to 45162 and is all-in
+Michto91 folds
+titimoire folds
+pappypatoche folds
+Mikus0609 folds
+Smashead collected 55162 from pot
+*** SUMMARY ***
+Total pot 55162 | No rake
+Seat 2: Smashead won 55162
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3250193579007541328-84-1710706576 - Holdem no limit (500/2000/4000) - 2024/03/17 20:16:16 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: cocomignon (71270)
+Seat 2: Smashead (55162)
+Seat 3: Michto91 (170590)
+Seat 4: titimoire (110214)
+Seat 5: pappypatoche (230313)
+Seat 6: Mikus0609 (84097)
+Seat 7: P1xel7 (86122)
+Seat 8: Bobbylou62 (1880)
+*** ANTE/BLINDS ***
+Mikus0609 posts ante 500
+P1xel7 posts ante 500
+cocomignon posts ante 500
+Smashead posts ante 500
+Michto91 posts ante 500
+titimoire posts ante 500
+pappypatoche posts ante 500
+Bobbylou62 posts ante 500
+Mikus0609 posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [Jc 5h]
+*** PRE-FLOP *** 
+Bobbylou62 folds
+cocomignon folds
+Smashead folds
+Michto91 folds
+titimoire raises 6000 to 10000
+pappypatoche folds
+Mikus0609 calls 8000
+P1xel7 calls 6000
+*** FLOP *** [Qs 2h 3c]
+Mikus0609 checks
+P1xel7 checks
+titimoire bets 22100
+Mikus0609 folds
+P1xel7 folds
+titimoire collected 56100 from pot
+*** SUMMARY ***
+Total pot 56100 | No rake
+Board: [Qs 2h 3c]
+Seat 4: titimoire won 56100
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3250193579007541328-85-1710706635 - Holdem no limit (600/2500/5000) - 2024/03/17 20:17:15 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #6 is the button
+Seat 1: cocomignon (70770)
+Seat 2: Smashead (54662)
+Seat 3: Michto91 (170090)
+Seat 4: titimoire (133714)
+Seat 5: pappypatoche (229813)
+Seat 6: Mikus0609 (73597)
+Seat 7: P1xel7 (75622)
+Seat 8: Bobbylou62 (1380)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 600
+Bobbylou62 posts ante 600
+cocomignon posts ante 600
+Smashead posts ante 600
+Michto91 posts ante 600
+titimoire posts ante 600
+pappypatoche posts ante 600
+Mikus0609 posts ante 600
+P1xel7 posts small blind 2500
+Bobbylou62 posts big blind 780 and is all-in
+Dealt to P1xel7 [Ts Qd]
+*** PRE-FLOP *** 
+cocomignon folds
+Smashead folds
+Michto91 folds
+titimoire calls 5000
+pappypatoche folds
+Mikus0609 folds
+P1xel7 calls 2500
+*** FLOP *** [6c 6d 3c]
+P1xel7 checks
+titimoire checks
+*** TURN *** [6c 6d 3c][3h]
+P1xel7 bets 7500
+titimoire calls 7500
+*** RIVER *** [6c 6d 3c 3h][3d]
+P1xel7 bets 20000
+titimoire calls 20000
+*** SHOW DOWN ***
+titimoire shows [7c Tc] (Full of 3 and 6)
+P1xel7 shows [Ts Qd] (Full of 3 and 6)
+Bobbylou62 shows [Qh 7s] (Full of 3 and 6)
+Bobbylou62 collected 2380 from main pot
+P1xel7 collected 34100 from side pot 1
+titimoire collected 34100 from side pot 1
+*** SUMMARY ***
+Total pot 70580 | No rake
+Board: [6c 6d 3c 3h 3d]
+Seat 4: titimoire showed [7c Tc] and won 34100 with Full of 3 and 6
+Seat 7: P1xel7 (small blind) showed [Ts Qd] and won 34100 with Full of 3 and 6
+Seat 8: Bobbylou62 (big blind) showed [Qh 7s] and won 2380 with Full of 3 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3250193579007541328-86-1710706694 - Holdem no limit (600/2500/5000) - 2024/03/17 20:18:14 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: cocomignon (70170)
+Seat 2: Smashead (54062)
+Seat 3: Michto91 (169490)
+Seat 4: titimoire (134714)
+Seat 5: pappypatoche (229213)
+Seat 6: Mikus0609 (72997)
+Seat 7: P1xel7 (76622)
+Seat 8: Bobbylou62 (2380)
+*** ANTE/BLINDS ***
+Bobbylou62 posts ante 600
+cocomignon posts ante 600
+Smashead posts ante 600
+Michto91 posts ante 600
+titimoire posts ante 600
+pappypatoche posts ante 600
+Mikus0609 posts ante 600
+P1xel7 posts ante 600
+Bobbylou62 posts small blind 1780 and is all-in
+cocomignon posts big blind 5000
+Dealt to P1xel7 [8d 4h]
+*** PRE-FLOP *** 
+Smashead folds
+Michto91 folds
+titimoire raises 129114 to 134114 and is all-in
+pappypatoche folds
+Mikus0609 folds
+P1xel7 folds
+cocomignon folds
+*** FLOP *** [Qh Kc 8c]
+*** TURN *** [Qh Kc 8c][9s]
+*** RIVER *** [Qh Kc 8c 9s][Tc]
+*** SHOW DOWN ***
+Bobbylou62 shows [3s 4d] (High card : King)
+titimoire shows [As Js] (Straight Ace high)
+titimoire collected 145694 from pot
+*** SUMMARY ***
+Total pot 145694 | No rake
+Board: [Qh Kc 8c 9s Tc]
+Seat 4: titimoire showed [As Js] and won 145694 with Straight Ace high
+Seat 8: Bobbylou62 (small blind) showed [3s 4d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3250193579007541328-87-1710706732 - Holdem no limit (600/2500/5000) - 2024/03/17 20:18:52 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: cocomignon (64570)
+Seat 2: Smashead (53462)
+Seat 3: Michto91 (168890)
+Seat 4: titimoire (145694)
+Seat 5: pappypatoche (228613)
+Seat 6: Mikus0609 (72397)
+Seat 7: P1xel7 (76022)
+*** ANTE/BLINDS ***
+cocomignon posts ante 600
+Smashead posts ante 600
+Michto91 posts ante 600
+titimoire posts ante 600
+pappypatoche posts ante 600
+Mikus0609 posts ante 600
+P1xel7 posts ante 600
+cocomignon posts small blind 2500
+Smashead posts big blind 5000
+Dealt to P1xel7 [7c 7s]
+*** PRE-FLOP *** 
+Michto91 folds
+titimoire calls 5000
+pappypatoche folds
+Mikus0609 raises 66797 to 71797 and is all-in
+P1xel7 raises 3625 to 75422 and is all-in
+cocomignon folds
+Smashead folds
+titimoire folds
+*** FLOP *** [2h Kd Ts]
+*** TURN *** [2h Kd Ts][3s]
+*** RIVER *** [2h Kd Ts 3s][6c]
+*** SHOW DOWN ***
+Mikus0609 shows [3c 3h] (Trips of 3)
+P1xel7 shows [7c 7s] (One pair : 7)
+P1xel7 collected 3625 from side pot 1
+Mikus0609 collected 160294 from main pot
+*** SUMMARY ***
+Total pot 163919 | No rake
+Board: [2h Kd Ts 3s 6c]
+Seat 6: Mikus0609 showed [3c 3h] and won 160294 with Trips of 3
+Seat 7: P1xel7 showed [7c 7s] and won 3625 with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 20 - HandId: #3250193579007541328-88-1710706789 - Holdem no limit (700/3000/6000) - 2024/03/17 20:19:49 UTC
+Table: 'Freeroll(756744663)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: cocomignon (61470)
+Seat 2: Smashead (47862)
+Seat 3: Michto91 (168290)
+Seat 4: titimoire (140094)
+Seat 5: pappypatoche (228013)
+Seat 6: Mikus0609 (160294)
+Seat 7: P1xel7 (3625)
+*** ANTE/BLINDS ***
+Smashead posts ante 700
+Michto91 posts ante 700
+cocomignon posts ante 700
+titimoire posts ante 700
+pappypatoche posts ante 700
+Mikus0609 posts ante 700
+P1xel7 posts ante 700
+Smashead posts small blind 3000
+Michto91 posts big blind 6000
+Dealt to P1xel7 [6d 5d]
+*** PRE-FLOP *** 
+titimoire folds
+pappypatoche folds
+Mikus0609 calls 6000
+P1xel7 calls 2925 and is all-in
+cocomignon folds
+Smashead raises 41162 to 47162 and is all-in
+Michto91 folds
+Mikus0609 folds
+*** FLOP *** [5c 8c Qc]
+*** TURN *** [5c 8c Qc][Kc]
+*** RIVER *** [5c 8c Qc Kc][Kd]
+*** SHOW DOWN ***
+P1xel7 shows [6d 5d] (Two pairs : Kings and 5)
+Smashead shows [Js Qs] (Two pairs : Kings and Queens)
+Smashead collected 66987 from pot
+*** SUMMARY ***
+Total pot 66987 | No rake
+Board: [5c 8c Qc Kc Kd]
+Seat 2: Smashead (small blind) showed [Js Qs] and won 66987 with Two pairs : Kings and Queens
+Seat 7: P1xel7 showed [6d 5d] and lost with Two pairs : Kings and 5
+
+

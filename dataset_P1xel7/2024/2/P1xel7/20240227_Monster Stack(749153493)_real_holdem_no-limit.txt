@@ -1,0 +1,2528 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3217589752119164937-3-1709061289 - Holdem no limit (200/800/1600) - 2024/02/27 19:14:49 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #1 is the button
+Seat 1: Taranguire (94496)
+Seat 2: Rob2Lockslay (114309)
+Seat 3: PatrickLED (251279)
+Seat 4: Fish Bristol (86094)
+Seat 5: oxicianuro (98873)
+Seat 6: P1xel7 (100000)
+Seat 8: CHeWbAKKA74 (101280)
+*** ANTE/BLINDS ***
+Rob2Lockslay posts ante 200
+PatrickLED posts ante 200
+Taranguire posts ante 200
+Fish Bristol posts ante 200
+oxicianuro posts ante 200
+P1xel7 posts ante 200
+CHeWbAKKA74 posts ante 200
+Rob2Lockslay posts small blind 800
+PatrickLED posts big blind 1600
+Dealt to P1xel7 [2h Js]
+*** PRE-FLOP *** 
+Fish Bristol raises 2080 to 3680
+oxicianuro folds
+P1xel7 folds
+CHeWbAKKA74 folds
+Taranguire calls 3680
+Rob2Lockslay calls 2880
+PatrickLED folds
+*** FLOP *** [Jc Td 4d]
+Rob2Lockslay bets 7020
+Fish Bristol folds
+Taranguire folds
+Rob2Lockslay collected 21060 from pot
+*** SUMMARY ***
+Total pot 21060 | No rake
+Board: [Jc Td 4d]
+Seat 2: Rob2Lockslay (small blind) won 21060
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3217589752119164937-4-1709061345 - Holdem no limit (200/800/1600) - 2024/02/27 19:15:45 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #2 is the button
+Seat 1: Taranguire (90616)
+Seat 2: Rob2Lockslay (124469)
+Seat 3: PatrickLED (249479)
+Seat 4: Fish Bristol (82214)
+Seat 5: oxicianuro (98673)
+Seat 6: P1xel7 (99800)
+Seat 8: CHeWbAKKA74 (101080)
+*** ANTE/BLINDS ***
+PatrickLED posts ante 200
+Fish Bristol posts ante 200
+Taranguire posts ante 200
+Rob2Lockslay posts ante 200
+oxicianuro posts ante 200
+P1xel7 posts ante 200
+CHeWbAKKA74 posts ante 200
+PatrickLED posts small blind 800
+Fish Bristol posts big blind 1600
+Dealt to P1xel7 [Qc 2c]
+*** PRE-FLOP *** 
+oxicianuro raises 2000 to 3600
+P1xel7 folds
+CHeWbAKKA74 folds
+Taranguire folds
+Rob2Lockslay folds
+PatrickLED folds
+Fish Bristol folds
+oxicianuro collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | No rake
+Seat 5: oxicianuro won 7400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3217589752119164937-5-1709061368 - Holdem no limit (200/800/1600) - 2024/02/27 19:16:08 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #3 is the button
+Seat 1: Taranguire (90416)
+Seat 2: Rob2Lockslay (124269)
+Seat 3: PatrickLED (248479)
+Seat 4: Fish Bristol (80414)
+Seat 5: oxicianuro (102273)
+Seat 6: P1xel7 (99600)
+Seat 8: CHeWbAKKA74 (100880)
+*** ANTE/BLINDS ***
+Fish Bristol posts ante 200
+oxicianuro posts ante 200
+Taranguire posts ante 200
+Rob2Lockslay posts ante 200
+PatrickLED posts ante 200
+P1xel7 posts ante 200
+CHeWbAKKA74 posts ante 200
+Fish Bristol posts small blind 800
+oxicianuro posts big blind 1600
+Dealt to P1xel7 [Kd 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+CHeWbAKKA74 raises 2000 to 3600
+Taranguire folds
+Rob2Lockslay folds
+PatrickLED folds
+Fish Bristol folds
+oxicianuro raises 8800 to 12400
+CHeWbAKKA74 folds
+oxicianuro collected 18200 from pot
+*** SUMMARY ***
+Total pot 18200 | No rake
+Seat 5: oxicianuro (big blind) won 18200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3217589752119164937-6-1709061410 - Holdem no limit (200/800/1600) - 2024/02/27 19:16:50 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #4 is the button
+Seat 1: Taranguire (90216)
+Seat 2: Rob2Lockslay (124069)
+Seat 3: PatrickLED (248279)
+Seat 4: Fish Bristol (79414)
+Seat 5: oxicianuro (107873)
+Seat 6: P1xel7 (99400)
+Seat 8: CHeWbAKKA74 (97080)
+*** ANTE/BLINDS ***
+oxicianuro posts ante 200
+P1xel7 posts ante 200
+Taranguire posts ante 200
+Rob2Lockslay posts ante 200
+PatrickLED posts ante 200
+Fish Bristol posts ante 200
+CHeWbAKKA74 posts ante 200
+oxicianuro posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [Jh Jd]
+*** PRE-FLOP *** 
+CHeWbAKKA74 folds
+Taranguire folds
+Rob2Lockslay folds
+PatrickLED folds
+Fish Bristol folds
+oxicianuro folds
+P1xel7 collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Seat 6: P1xel7 (big blind) won 3800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3217589752119164937-7-1709061439 - Holdem no limit (250/1000/2000) - 2024/02/27 19:17:19 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #5 is the button
+Seat 1: Taranguire (90016)
+Seat 2: Rob2Lockslay (123869)
+Seat 3: PatrickLED (248079)
+Seat 4: Fish Bristol (79214)
+Seat 5: oxicianuro (106873)
+Seat 6: P1xel7 (101400)
+Seat 8: CHeWbAKKA74 (96880)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+CHeWbAKKA74 posts ante 250
+Taranguire posts ante 250
+Rob2Lockslay posts ante 250
+PatrickLED posts ante 250
+Fish Bristol posts ante 250
+oxicianuro posts ante 250
+P1xel7 posts small blind 1000
+CHeWbAKKA74 posts big blind 2000
+Dealt to P1xel7 [Tc Qc]
+*** PRE-FLOP *** 
+Taranguire raises 2380 to 4380
+Rob2Lockslay folds
+PatrickLED folds
+Fish Bristol folds
+oxicianuro folds
+P1xel7 calls 3380
+CHeWbAKKA74 calls 2380
+*** FLOP *** [Ad 3h 6c]
+P1xel7 checks
+CHeWbAKKA74 checks
+Taranguire bets 7445
+P1xel7 folds
+CHeWbAKKA74 folds
+Taranguire collected 22335 from pot
+*** SUMMARY ***
+Total pot 22335 | No rake
+Board: [Ad 3h 6c]
+Seat 1: Taranguire won 22335
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3217589752119164937-8-1709061495 - Holdem no limit (250/1000/2000) - 2024/02/27 19:18:15 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #6 is the button
+Seat 1: Taranguire (100276)
+Seat 2: Rob2Lockslay (123619)
+Seat 3: PatrickLED (247829)
+Seat 4: Fish Bristol (78964)
+Seat 5: oxicianuro (106623)
+Seat 6: P1xel7 (96770)
+Seat 8: CHeWbAKKA74 (92250)
+*** ANTE/BLINDS ***
+CHeWbAKKA74 posts ante 250
+Taranguire posts ante 250
+Rob2Lockslay posts ante 250
+PatrickLED posts ante 250
+Fish Bristol posts ante 250
+oxicianuro posts ante 250
+P1xel7 posts ante 250
+CHeWbAKKA74 posts small blind 1000
+Taranguire posts big blind 2000
+Dealt to P1xel7 [3h Ks]
+*** PRE-FLOP *** 
+Rob2Lockslay folds
+PatrickLED folds
+Fish Bristol folds
+oxicianuro raises 2500 to 4500
+P1xel7 folds
+CHeWbAKKA74 calls 3500
+Taranguire calls 2500
+*** FLOP *** [6d 2c 4h]
+CHeWbAKKA74 bets 3813
+Taranguire calls 3813
+oxicianuro folds
+*** TURN *** [6d 2c 4h][2d]
+CHeWbAKKA74 checks
+Taranguire bets 11438
+CHeWbAKKA74 raises 11438 to 22876
+Taranguire folds
+CHeWbAKKA74 collected 57190 from pot
+*** SUMMARY ***
+Total pot 57190 | No rake
+Board: [6d 2c 4h 2d]
+Seat 8: CHeWbAKKA74 (small blind) won 57190
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3217589752119164937-9-1709061590 - Holdem no limit (250/1000/2000) - 2024/02/27 19:19:50 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #8 is the button
+Seat 1: Taranguire (80275)
+Seat 2: Rob2Lockslay (123369)
+Seat 3: PatrickLED (247579)
+Seat 4: Fish Bristol (78714)
+Seat 5: oxicianuro (101873)
+Seat 6: P1xel7 (96520)
+Seat 8: CHeWbAKKA74 (118001)
+*** ANTE/BLINDS ***
+Taranguire posts ante 250
+Rob2Lockslay posts ante 250
+PatrickLED posts ante 250
+Fish Bristol posts ante 250
+oxicianuro posts ante 250
+P1xel7 posts ante 250
+CHeWbAKKA74 posts ante 250
+Taranguire posts small blind 1000
+Rob2Lockslay posts big blind 2000
+Dealt to P1xel7 [7h Jd]
+*** PRE-FLOP *** 
+PatrickLED folds
+Fish Bristol folds
+oxicianuro raises 2500 to 4500
+P1xel7 folds
+CHeWbAKKA74 folds
+Taranguire calls 3500
+Rob2Lockslay calls 2500
+*** FLOP *** [Ac 3s Kd]
+Taranguire checks
+Rob2Lockslay checks
+oxicianuro bets 3813
+Taranguire calls 3813
+Rob2Lockslay folds
+*** TURN *** [Ac 3s Kd][Kh]
+Taranguire checks
+oxicianuro checks
+*** RIVER *** [Ac 3s Kd Kh][Td]
+Taranguire checks
+oxicianuro checks
+*** SHOW DOWN ***
+Taranguire shows [Qs Th] (Two pairs : Kings and Tens)
+oxicianuro shows [As Js] (Two pairs : Aces and Kings)
+oxicianuro collected 22876 from pot
+*** SUMMARY ***
+Total pot 22876 | No rake
+Board: [Ac 3s Kd Kh Td]
+Seat 1: Taranguire (small blind) showed [Qs Th] and lost with Two pairs : Kings and Tens
+Seat 5: oxicianuro showed [As Js] and won 22876 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3217589752119164937-10-1709061679 - Holdem no limit (250/1000/2000) - 2024/02/27 19:21:19 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #1 is the button
+Seat 1: Taranguire (71712)
+Seat 2: Rob2Lockslay (118619)
+Seat 3: PatrickLED (247329)
+Seat 4: Fish Bristol (78464)
+Seat 5: oxicianuro (116186)
+Seat 6: P1xel7 (96270)
+Seat 7: versailles (100000)
+Seat 8: CHeWbAKKA74 (117751)
+*** ANTE/BLINDS ***
+Rob2Lockslay posts ante 250
+PatrickLED posts ante 250
+Taranguire posts ante 250
+Fish Bristol posts ante 250
+oxicianuro posts ante 250
+P1xel7 posts ante 250
+versailles posts ante 250
+CHeWbAKKA74 posts ante 250
+Rob2Lockslay posts small blind 1000
+PatrickLED posts big blind 2000
+Dealt to P1xel7 [2c As]
+*** PRE-FLOP *** 
+Fish Bristol folds
+oxicianuro folds
+P1xel7 folds
+versailles folds
+CHeWbAKKA74 folds
+Taranguire raises 2380 to 4380
+Rob2Lockslay folds
+PatrickLED calls 2380
+*** FLOP *** [6h 4s 2s]
+PatrickLED checks
+Taranguire checks
+*** TURN *** [6h 4s 2s][Qs]
+PatrickLED checks
+Taranguire bets 5880
+PatrickLED folds
+Taranguire collected 17640 from pot
+*** SUMMARY ***
+Total pot 17640 | No rake
+Board: [6h 4s 2s Qs]
+Seat 1: Taranguire (button) won 17640
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3217589752119164937-11-1709061768 - Holdem no limit (250/1000/2000) - 2024/02/27 19:22:48 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #2 is the button
+Seat 1: Taranguire (78842)
+Seat 2: Rob2Lockslay (117369)
+Seat 3: PatrickLED (242699)
+Seat 4: Fish Bristol (78214)
+Seat 5: oxicianuro (115936)
+Seat 6: P1xel7 (96020)
+Seat 7: versailles (99750)
+Seat 8: CHeWbAKKA74 (117501)
+*** ANTE/BLINDS ***
+PatrickLED posts ante 250
+Fish Bristol posts ante 250
+Taranguire posts ante 250
+Rob2Lockslay posts ante 250
+oxicianuro posts ante 250
+P1xel7 posts ante 250
+versailles posts ante 250
+CHeWbAKKA74 posts ante 250
+PatrickLED posts small blind 1000
+Fish Bristol posts big blind 2000
+Dealt to P1xel7 [Td 5s]
+*** PRE-FLOP *** 
+oxicianuro folds
+P1xel7 folds
+versailles raises 7000 to 9000
+CHeWbAKKA74 folds
+Taranguire folds
+Rob2Lockslay folds
+PatrickLED folds
+Fish Bristol folds
+versailles collected 14000 from pot
+*** SUMMARY ***
+Total pot 14000 | No rake
+Seat 7: versailles won 14000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3217589752119164938-3-1709061868 - Holdem no limit (300/1250/2500) - 2024/02/27 19:24:28 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #4 is the button
+Seat 1: BIG asturcan (99825)
+Seat 2: P1xel7 (95770)
+Seat 3: v4talion (140750)
+Seat 4: jeyjey03PPT (81095)
+Seat 5: velka moklo (97200)
+Seat 7: _Fat0vVV (127414)
+Seat 8: VIVI-07 (195250)
+*** ANTE/BLINDS ***
+velka moklo posts ante 300
+_Fat0vVV posts ante 300
+BIG asturcan posts ante 300
+P1xel7 posts ante 300
+v4talion posts ante 300
+jeyjey03PPT posts ante 300
+VIVI-07 posts ante 300
+velka moklo posts small blind 1250
+_Fat0vVV posts big blind 2500
+Dealt to P1xel7 [5d 2c]
+*** PRE-FLOP *** 
+VIVI-07 folds
+BIG asturcan calls 2500
+P1xel7 folds
+v4talion calls 2500
+jeyjey03PPT folds
+velka moklo folds
+_Fat0vVV checks
+*** FLOP *** [5s 9c 8c]
+_Fat0vVV checks
+BIG asturcan checks
+v4talion bets 3798
+_Fat0vVV folds
+BIG asturcan folds
+v4talion collected 14648 from pot
+*** SUMMARY ***
+Total pot 14648 | No rake
+Board: [5s 9c 8c]
+Seat 3: v4talion won 14648
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3217589752119164938-4-1709061949 - Holdem no limit (300/1250/2500) - 2024/02/27 19:25:49 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #5 is the button
+Seat 1: BIG asturcan (97025)
+Seat 2: P1xel7 (95470)
+Seat 3: v4talion (148800)
+Seat 4: jeyjey03PPT (80795)
+Seat 5: velka moklo (95650)
+Seat 6: Detooxiic (100000)
+Seat 7: _Fat0vVV (124614)
+Seat 8: VIVI-07 (194950)
+*** ANTE/BLINDS ***
+_Fat0vVV posts ante 300
+VIVI-07 posts ante 300
+BIG asturcan posts ante 300
+P1xel7 posts ante 300
+v4talion posts ante 300
+jeyjey03PPT posts ante 300
+velka moklo posts ante 300
+_Fat0vVV posts small blind 1250
+VIVI-07 posts big blind 2500
+Dealt to P1xel7 [6s Th]
+*** PRE-FLOP *** 
+BIG asturcan folds
+P1xel7 folds
+v4talion folds
+jeyjey03PPT raises 3000 to 5500
+velka moklo folds
+_Fat0vVV folds
+VIVI-07 folds
+jeyjey03PPT collected 11350 from pot
+*** SUMMARY ***
+Total pot 11350 | No rake
+Seat 4: jeyjey03PPT won 11350
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3217589752119164938-5-1709061988 - Holdem no limit (300/1250/2500) - 2024/02/27 19:26:28 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #7 is the button
+Seat 1: BIG asturcan (96725)
+Seat 2: P1xel7 (95170)
+Seat 3: v4talion (148500)
+Seat 4: jeyjey03PPT (86345)
+Seat 5: velka moklo (95350)
+Seat 6: Detooxiic (100000)
+Seat 7: _Fat0vVV (123064)
+Seat 8: VIVI-07 (192150)
+*** ANTE/BLINDS ***
+VIVI-07 posts ante 300
+BIG asturcan posts ante 300
+P1xel7 posts ante 300
+v4talion posts ante 300
+jeyjey03PPT posts ante 300
+velka moklo posts ante 300
+Detooxiic posts ante 300
+_Fat0vVV posts ante 300
+VIVI-07 posts small blind 1250
+BIG asturcan posts big blind 2500
+Dealt to P1xel7 [9s Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+v4talion folds
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan collected 6150 from pot
+*** SUMMARY ***
+Total pot 6150 | No rake
+Seat 1: BIG asturcan (big blind) won 6150
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3217589752119164938-6-1709062030 - Holdem no limit (300/1250/2500) - 2024/02/27 19:27:10 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #8 is the button
+Seat 1: BIG asturcan (100075)
+Seat 2: P1xel7 (94870)
+Seat 3: v4talion (148200)
+Seat 4: jeyjey03PPT (86045)
+Seat 5: velka moklo (95050)
+Seat 6: Detooxiic (99700)
+Seat 7: _Fat0vVV (122764)
+Seat 8: VIVI-07 (190600)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 300
+P1xel7 posts ante 300
+v4talion posts ante 300
+jeyjey03PPT posts ante 300
+velka moklo posts ante 300
+Detooxiic posts ante 300
+_Fat0vVV posts ante 300
+VIVI-07 posts ante 300
+BIG asturcan posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [8d 9d]
+*** PRE-FLOP *** 
+v4talion folds
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan calls 1250
+P1xel7 checks
+*** FLOP *** [9c 8c 4c]
+BIG asturcan checks
+P1xel7 bets 3750
+BIG asturcan raises 9305 to 13055
+P1xel7 calls 9305
+*** TURN *** [9c 8c 4c][6s]
+BIG asturcan bets 84220 and is all-in
+P1xel7 folds
+BIG asturcan collected 117730 from pot
+*** SUMMARY ***
+Total pot 117730 | No rake
+Board: [9c 8c 4c 6s]
+Seat 1: BIG asturcan (small blind) won 117730
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3217589752119164938-7-1709062103 - Holdem no limit (300/1250/2500) - 2024/02/27 19:28:23 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #1 is the button
+Seat 1: BIG asturcan (117730)
+Seat 2: P1xel7 (79015)
+Seat 3: v4talion (147900)
+Seat 4: jeyjey03PPT (85745)
+Seat 5: velka moklo (94750)
+Seat 6: Detooxiic (99400)
+Seat 7: _Fat0vVV (122464)
+Seat 8: VIVI-07 (190300)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+v4talion posts ante 300
+BIG asturcan posts ante 300
+jeyjey03PPT posts ante 300
+velka moklo posts ante 300
+Detooxiic posts ante 300
+_Fat0vVV posts ante 300
+VIVI-07 posts ante 300
+P1xel7 posts small blind 1250
+v4talion posts big blind 2500
+Dealt to P1xel7 [Td 5h]
+*** PRE-FLOP *** 
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV raises 2750 to 5250
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+v4talion folds
+_Fat0vVV collected 11400 from pot
+*** SUMMARY ***
+Total pot 11400 | No rake
+Seat 7: _Fat0vVV won 11400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3217589752119164938-8-1709062134 - Holdem no limit (300/1250/2500) - 2024/02/27 19:28:54 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #2 is the button
+Seat 1: BIG asturcan (117430)
+Seat 2: P1xel7 (77465)
+Seat 3: v4talion (145100)
+Seat 4: jeyjey03PPT (85445)
+Seat 5: velka moklo (94450)
+Seat 6: Detooxiic (99100)
+Seat 7: _Fat0vVV (128314)
+Seat 8: VIVI-07 (190000)
+*** ANTE/BLINDS ***
+v4talion posts ante 300
+jeyjey03PPT posts ante 300
+BIG asturcan posts ante 300
+P1xel7 posts ante 300
+velka moklo posts ante 300
+Detooxiic posts ante 300
+_Fat0vVV posts ante 300
+VIVI-07 posts ante 300
+v4talion posts small blind 1250
+jeyjey03PPT posts big blind 2500
+Dealt to P1xel7 [7d Kh]
+*** PRE-FLOP *** 
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 raises 5000 to 7500
+v4talion folds
+jeyjey03PPT folds
+P1xel7 collected 13650 from pot
+*** SUMMARY ***
+Total pot 13650 | No rake
+Seat 2: P1xel7 (button) won 13650
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3217589752119164938-9-1709062193 - Holdem no limit (300/1250/2500) - 2024/02/27 19:29:53 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #3 is the button
+Seat 1: BIG asturcan (117130)
+Seat 2: P1xel7 (83315)
+Seat 3: v4talion (143550)
+Seat 4: jeyjey03PPT (82645)
+Seat 5: velka moklo (94150)
+Seat 6: Detooxiic (98800)
+Seat 7: _Fat0vVV (128014)
+Seat 8: VIVI-07 (189700)
+*** ANTE/BLINDS ***
+jeyjey03PPT posts ante 300
+velka moklo posts ante 300
+BIG asturcan posts ante 300
+P1xel7 posts ante 300
+v4talion posts ante 300
+Detooxiic posts ante 300
+_Fat0vVV posts ante 300
+VIVI-07 posts ante 300
+jeyjey03PPT posts small blind 1250
+velka moklo posts big blind 2500
+Dealt to P1xel7 [7c 8d]
+*** PRE-FLOP *** 
+Detooxiic raises 3125 to 5625
+_Fat0vVV folds
+VIVI-07 raises 183775 to 189400 and is all-in
+BIG asturcan folds
+P1xel7 folds
+v4talion folds
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+VIVI-07 collected 201175 from pot
+*** SUMMARY ***
+Total pot 201175 | No rake
+Seat 8: VIVI-07 won 201175
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3217589752119164938-10-1709062278 - Holdem no limit (350/1500/3000) - 2024/02/27 19:31:18 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #4 is the button
+Seat 1: BIG asturcan (116830)
+Seat 2: P1xel7 (83015)
+Seat 3: v4talion (143250)
+Seat 4: jeyjey03PPT (81095)
+Seat 5: velka moklo (91350)
+Seat 6: Detooxiic (92875)
+Seat 7: _Fat0vVV (127714)
+Seat 8: VIVI-07 (201175)
+*** ANTE/BLINDS ***
+velka moklo posts ante 350
+Detooxiic posts ante 350
+BIG asturcan posts ante 350
+P1xel7 posts ante 350
+v4talion posts ante 350
+jeyjey03PPT posts ante 350
+_Fat0vVV posts ante 350
+VIVI-07 posts ante 350
+velka moklo posts small blind 1500
+Detooxiic posts big blind 3000
+Dealt to P1xel7 [7s 4d]
+*** PRE-FLOP *** 
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+v4talion folds
+jeyjey03PPT folds
+velka moklo calls 1500
+Detooxiic checks
+*** FLOP *** [5s 3s 6c]
+velka moklo checks
+Detooxiic checks
+*** TURN *** [5s 3s 6c][6h]
+velka moklo checks
+Detooxiic checks
+*** RIVER *** [5s 3s 6c 6h][Tc]
+velka moklo checks
+Detooxiic bets 7040
+velka moklo folds
+Detooxiic collected 15840 from pot
+*** SUMMARY ***
+Total pot 15840 | No rake
+Board: [5s 3s 6c 6h Tc]
+Seat 6: Detooxiic (big blind) won 15840
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3217589752119164938-11-1709062402 - Holdem no limit (350/1500/3000) - 2024/02/27 19:33:22 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #5 is the button
+Seat 1: BIG asturcan (116480)
+Seat 2: P1xel7 (82665)
+Seat 3: v4talion (142900)
+Seat 4: jeyjey03PPT (80745)
+Seat 5: velka moklo (88000)
+Seat 6: Detooxiic (98325)
+Seat 7: _Fat0vVV (127364)
+Seat 8: VIVI-07 (200825)
+*** ANTE/BLINDS ***
+Detooxiic posts ante 350
+_Fat0vVV posts ante 350
+BIG asturcan posts ante 350
+P1xel7 posts ante 350
+v4talion posts ante 350
+jeyjey03PPT posts ante 350
+velka moklo posts ante 350
+VIVI-07 posts ante 350
+Detooxiic posts small blind 1500
+_Fat0vVV posts big blind 3000
+Dealt to P1xel7 [5h 7d]
+*** PRE-FLOP *** 
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+v4talion folds
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic calls 1500
+_Fat0vVV checks
+*** FLOP *** [6h 9d 3h]
+Detooxiic bets 4400
+_Fat0vVV folds
+Detooxiic collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | No rake
+Board: [6h 9d 3h]
+Seat 6: Detooxiic (small blind) won 13200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3217589752119164938-12-1709062450 - Holdem no limit (350/1500/3000) - 2024/02/27 19:34:10 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #6 is the button
+Seat 1: BIG asturcan (116130)
+Seat 2: P1xel7 (82315)
+Seat 3: v4talion (142550)
+Seat 4: jeyjey03PPT (80395)
+Seat 5: velka moklo (87650)
+Seat 6: Detooxiic (103775)
+Seat 7: _Fat0vVV (124014)
+Seat 8: VIVI-07 (200475)
+*** ANTE/BLINDS ***
+_Fat0vVV posts ante 350
+VIVI-07 posts ante 350
+BIG asturcan posts ante 350
+P1xel7 posts ante 350
+v4talion posts ante 350
+jeyjey03PPT posts ante 350
+velka moklo posts ante 350
+Detooxiic posts ante 350
+_Fat0vVV posts small blind 1500
+VIVI-07 posts big blind 3000
+Dealt to P1xel7 [Qd Qc]
+*** PRE-FLOP *** 
+BIG asturcan folds
+P1xel7 raises 6000 to 9000
+v4talion raises 27000 to 36000
+jeyjey03PPT folds
+velka moklo raises 51300 to 87300 and is all-in
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+P1xel7 folds
+v4talion calls 51300
+*** FLOP *** [9s 7s 6h]
+*** TURN *** [9s 7s 6h][9h]
+*** RIVER *** [9s 7s 6h 9h][5c]
+*** SHOW DOWN ***
+v4talion shows [Kc Kh] (Two pairs : Kings and 9)
+velka moklo shows [As Ad] (Two pairs : Aces and 9)
+velka moklo collected 190900 from pot
+*** SUMMARY ***
+Total pot 190900 | No rake
+Board: [9s 7s 6h 9h 5c]
+Seat 3: v4talion showed [Kc Kh] and lost with Two pairs : Kings and 9
+Seat 5: velka moklo showed [As Ad] and won 190900 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3217589752119164938-13-1709062530 - Holdem no limit (350/1500/3000) - 2024/02/27 19:35:30 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #7 is the button
+Seat 1: BIG asturcan (115780)
+Seat 2: P1xel7 (72965)
+Seat 3: v4talion (54900)
+Seat 4: jeyjey03PPT (80045)
+Seat 5: velka moklo (190900)
+Seat 6: Detooxiic (103425)
+Seat 7: _Fat0vVV (122164)
+Seat 8: VIVI-07 (197125)
+*** ANTE/BLINDS ***
+VIVI-07 posts ante 350
+BIG asturcan posts ante 350
+P1xel7 posts ante 350
+v4talion posts ante 350
+jeyjey03PPT posts ante 350
+velka moklo posts ante 350
+Detooxiic posts ante 350
+_Fat0vVV posts ante 350
+VIVI-07 posts small blind 1500
+BIG asturcan posts big blind 3000
+Dealt to P1xel7 [3h Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+v4talion folds
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic raises 3750 to 6750
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+Detooxiic collected 14050 from pot
+*** SUMMARY ***
+Total pot 14050 | No rake
+Seat 6: Detooxiic won 14050
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3217589752119164938-14-1709062594 - Holdem no limit (350/1500/3000) - 2024/02/27 19:36:34 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #8 is the button
+Seat 1: BIG asturcan (112430)
+Seat 2: P1xel7 (72615)
+Seat 4: jeyjey03PPT (79695)
+Seat 5: velka moklo (190550)
+Seat 6: Detooxiic (110375)
+Seat 7: _Fat0vVV (121814)
+Seat 8: VIVI-07 (195275)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 350
+P1xel7 posts ante 350
+jeyjey03PPT posts ante 350
+velka moklo posts ante 350
+Detooxiic posts ante 350
+_Fat0vVV posts ante 350
+VIVI-07 posts ante 350
+BIG asturcan posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [3s 6h]
+*** PRE-FLOP *** 
+jeyjey03PPT folds
+velka moklo raises 3000 to 6000
+Detooxiic folds
+_Fat0vVV raises 12000 to 18000
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+velka moklo folds
+_Fat0vVV collected 30950 from pot
+*** SUMMARY ***
+Total pot 30950 | No rake
+Seat 7: _Fat0vVV won 30950
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3217589752119164938-15-1709062647 - Holdem no limit (350/1500/3000) - 2024/02/27 19:37:27 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #1 is the button
+Seat 1: BIG asturcan (110580)
+Seat 2: P1xel7 (69265)
+Seat 4: jeyjey03PPT (79345)
+Seat 5: velka moklo (184200)
+Seat 6: Detooxiic (110025)
+Seat 7: _Fat0vVV (134414)
+Seat 8: VIVI-07 (194925)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+jeyjey03PPT posts ante 350
+BIG asturcan posts ante 350
+velka moklo posts ante 350
+Detooxiic posts ante 350
+_Fat0vVV posts ante 350
+VIVI-07 posts ante 350
+P1xel7 posts small blind 1500
+jeyjey03PPT posts big blind 3000
+Dealt to P1xel7 [7s Qh]
+*** PRE-FLOP *** 
+velka moklo folds
+Detooxiic folds
+_Fat0vVV raises 3000 to 6000
+VIVI-07 calls 6000
+BIG asturcan folds
+P1xel7 folds
+jeyjey03PPT calls 3000
+*** FLOP *** [7d 8d Th]
+jeyjey03PPT checks
+_Fat0vVV checks
+VIVI-07 checks
+*** TURN *** [7d 8d Th][Kd]
+jeyjey03PPT checks
+_Fat0vVV checks
+VIVI-07 bets 10975
+jeyjey03PPT folds
+_Fat0vVV folds
+VIVI-07 collected 32925 from pot
+*** SUMMARY ***
+Total pot 32925 | No rake
+Board: [7d 8d Th Kd]
+Seat 8: VIVI-07 won 32925
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3217589752119164938-16-1709062742 - Holdem no limit (400/1750/3500) - 2024/02/27 19:39:02 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #2 is the button
+Seat 1: BIG asturcan (110230)
+Seat 2: P1xel7 (67415)
+Seat 3: LALI-67 (100000)
+Seat 4: jeyjey03PPT (72995)
+Seat 5: velka moklo (183850)
+Seat 6: Detooxiic (109675)
+Seat 7: _Fat0vVV (128064)
+Seat 8: VIVI-07 (210525)
+*** ANTE/BLINDS ***
+jeyjey03PPT posts ante 400
+velka moklo posts ante 400
+BIG asturcan posts ante 400
+P1xel7 posts ante 400
+Detooxiic posts ante 400
+_Fat0vVV posts ante 400
+VIVI-07 posts ante 400
+jeyjey03PPT posts small blind 1750
+velka moklo posts big blind 3500
+Dealt to P1xel7 [2h 9d]
+*** PRE-FLOP *** 
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan raises 14000 to 17500
+P1xel7 folds
+jeyjey03PPT folds
+velka moklo folds
+BIG asturcan collected 25550 from pot
+*** SUMMARY ***
+Total pot 25550 | No rake
+Seat 1: BIG asturcan won 25550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3217589752119164938-17-1709062785 - Holdem no limit (400/1750/3500) - 2024/02/27 19:39:45 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #4 is the button
+Seat 1: BIG asturcan (117880)
+Seat 2: P1xel7 (67015)
+Seat 3: LALI-67 (100000)
+Seat 4: jeyjey03PPT (70845)
+Seat 5: velka moklo (179950)
+Seat 6: Detooxiic (109275)
+Seat 7: _Fat0vVV (127664)
+Seat 8: VIVI-07 (210125)
+*** ANTE/BLINDS ***
+velka moklo posts ante 400
+Detooxiic posts ante 400
+BIG asturcan posts ante 400
+P1xel7 posts ante 400
+LALI-67 posts ante 400
+jeyjey03PPT posts ante 400
+_Fat0vVV posts ante 400
+VIVI-07 posts ante 400
+velka moklo posts small blind 1750
+Detooxiic posts big blind 3500
+Dealt to P1xel7 [3h 9d]
+*** PRE-FLOP *** 
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+LALI-67 folds
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic collected 8450 from pot
+*** SUMMARY ***
+Total pot 8450 | No rake
+Seat 6: Detooxiic (big blind) won 8450
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3217589752119164938-18-1709062806 - Holdem no limit (400/1750/3500) - 2024/02/27 19:40:06 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #5 is the button
+Seat 1: BIG asturcan (117480)
+Seat 2: P1xel7 (66615)
+Seat 3: LALI-67 (99600)
+Seat 4: jeyjey03PPT (70445)
+Seat 5: velka moklo (177800)
+Seat 6: Detooxiic (113825)
+Seat 7: _Fat0vVV (127264)
+Seat 8: VIVI-07 (209725)
+*** ANTE/BLINDS ***
+Detooxiic posts ante 400
+_Fat0vVV posts ante 400
+BIG asturcan posts ante 400
+P1xel7 posts ante 400
+LALI-67 posts ante 400
+jeyjey03PPT posts ante 400
+velka moklo posts ante 400
+VIVI-07 posts ante 400
+Detooxiic posts small blind 1750
+_Fat0vVV posts big blind 3500
+Dealt to P1xel7 [Ks 4h]
+*** PRE-FLOP *** 
+VIVI-07 folds
+BIG asturcan calls 3500
+P1xel7 folds
+LALI-67 folds
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV checks
+*** FLOP *** [Jc 2d Tc]
+_Fat0vVV checks
+BIG asturcan checks
+*** TURN *** [Jc 2d Tc][5s]
+_Fat0vVV checks
+BIG asturcan checks
+*** RIVER *** [Jc 2d Tc 5s][Kc]
+_Fat0vVV checks
+BIG asturcan checks
+*** SHOW DOWN ***
+_Fat0vVV shows [6h 4s] (High card : King)
+BIG asturcan shows [Ad 7d] (High card : Ace)
+BIG asturcan collected 11950 from pot
+*** SUMMARY ***
+Total pot 11950 | No rake
+Board: [Jc 2d Tc 5s Kc]
+Seat 1: BIG asturcan showed [Ad 7d] and won 11950 with High card : Ace
+Seat 7: _Fat0vVV (big blind) showed [6h 4s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3217589752119164938-19-1709062865 - Holdem no limit (400/1750/3500) - 2024/02/27 19:41:05 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #6 is the button
+Seat 1: BIG asturcan (125530)
+Seat 2: P1xel7 (66215)
+Seat 3: LALI-67 (99200)
+Seat 4: jeyjey03PPT (70045)
+Seat 5: velka moklo (177400)
+Seat 6: Detooxiic (111675)
+Seat 7: _Fat0vVV (123364)
+Seat 8: VIVI-07 (209325)
+*** ANTE/BLINDS ***
+_Fat0vVV posts ante 400
+VIVI-07 posts ante 400
+BIG asturcan posts ante 400
+P1xel7 posts ante 400
+LALI-67 posts ante 400
+jeyjey03PPT posts ante 400
+velka moklo posts ante 400
+Detooxiic posts ante 400
+_Fat0vVV posts small blind 1750
+VIVI-07 posts big blind 3500
+Dealt to P1xel7 [6d 9s]
+*** PRE-FLOP *** 
+BIG asturcan folds
+P1xel7 folds
+LALI-67 raises 5250 to 8750
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV calls 7000
+VIVI-07 calls 5250
+*** FLOP *** [6c 3h Jc]
+_Fat0vVV checks
+VIVI-07 checks
+LALI-67 bets 10500
+_Fat0vVV calls 10500
+VIVI-07 calls 10500
+*** TURN *** [6c 3h Jc][5h]
+_Fat0vVV checks
+VIVI-07 checks
+LALI-67 bets 21000
+_Fat0vVV folds
+VIVI-07 calls 21000
+*** RIVER *** [6c 3h Jc 5h][6h]
+VIVI-07 checks
+LALI-67 checks
+*** SHOW DOWN ***
+VIVI-07 shows [Qc Ac] (One pair : 6)
+LALI-67 shows [Kc Kh] (Two pairs : Kings and 6)
+LALI-67 collected 102950 from pot
+*** SUMMARY ***
+Total pot 102950 | No rake
+Board: [6c 3h Jc 5h 6h]
+Seat 3: LALI-67 showed [Kc Kh] and won 102950 with Two pairs : Kings and 6
+Seat 8: VIVI-07 (big blind) showed [Qc Ac] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3217589752119164938-20-1709062964 - Holdem no limit (400/1750/3500) - 2024/02/27 19:42:44 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #7 is the button
+Seat 1: BIG asturcan (125130)
+Seat 2: P1xel7 (65815)
+Seat 3: LALI-67 (161500)
+Seat 4: jeyjey03PPT (69645)
+Seat 5: velka moklo (177000)
+Seat 6: Detooxiic (111275)
+Seat 7: _Fat0vVV (103714)
+Seat 8: VIVI-07 (168675)
+*** ANTE/BLINDS ***
+VIVI-07 posts ante 400
+BIG asturcan posts ante 400
+P1xel7 posts ante 400
+LALI-67 posts ante 400
+jeyjey03PPT posts ante 400
+velka moklo posts ante 400
+Detooxiic posts ante 400
+_Fat0vVV posts ante 400
+VIVI-07 posts small blind 1750
+BIG asturcan posts big blind 3500
+Dealt to P1xel7 [3h Ac]
+*** PRE-FLOP *** 
+P1xel7 folds
+LALI-67 folds
+jeyjey03PPT raises 4200 to 7700
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+jeyjey03PPT collected 16150 from pot
+*** SUMMARY ***
+Total pot 16150 | No rake
+Seat 4: jeyjey03PPT won 16150
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3217589752119164938-21-1709063001 - Holdem no limit (400/1750/3500) - 2024/02/27 19:43:21 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #8 is the button
+Seat 1: BIG asturcan (121230)
+Seat 2: P1xel7 (65415)
+Seat 4: jeyjey03PPT (77695)
+Seat 5: velka moklo (176600)
+Seat 6: Detooxiic (110875)
+Seat 7: _Fat0vVV (103314)
+Seat 8: VIVI-07 (166525)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 400
+P1xel7 posts ante 400
+jeyjey03PPT posts ante 400
+velka moklo posts ante 400
+Detooxiic posts ante 400
+_Fat0vVV posts ante 400
+VIVI-07 posts ante 400
+BIG asturcan posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [3d Kh]
+*** PRE-FLOP *** 
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan calls 1750
+P1xel7 raises 61515 to 65015 and is all-in
+BIG asturcan folds
+P1xel7 collected 71315 from pot
+*** SUMMARY ***
+Total pot 71315 | No rake
+Seat 2: P1xel7 (big blind) won 71315
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3217589752119164938-22-1709063039 - Holdem no limit (400/1750/3500) - 2024/02/27 19:43:59 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #1 is the button
+Seat 1: BIG asturcan (117330)
+Seat 2: P1xel7 (71315)
+Seat 3: M1ll3R (100000)
+Seat 4: jeyjey03PPT (77295)
+Seat 5: velka moklo (176200)
+Seat 6: Detooxiic (110475)
+Seat 7: _Fat0vVV (102914)
+Seat 8: VIVI-07 (166125)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+M1ll3R posts ante 400
+BIG asturcan posts ante 400
+jeyjey03PPT posts ante 400
+velka moklo posts ante 400
+Detooxiic posts ante 400
+_Fat0vVV posts ante 400
+VIVI-07 posts ante 400
+P1xel7 posts small blind 1750
+M1ll3R posts big blind 3500
+Dealt to P1xel7 [Jh 5h]
+*** PRE-FLOP *** 
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 calls 3500
+BIG asturcan raises 113430 to 116930 and is all-in
+P1xel7 folds
+M1ll3R folds
+VIVI-07 folds
+BIG asturcan collected 128880 from pot
+*** SUMMARY ***
+Total pot 128880 | No rake
+Seat 1: BIG asturcan (button) won 128880
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3217589752119164938-23-1709063074 - Holdem no limit (400/1750/3500) - 2024/02/27 19:44:34 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #2 is the button
+Seat 1: BIG asturcan (128880)
+Seat 2: P1xel7 (69165)
+Seat 3: M1ll3R (96100)
+Seat 4: jeyjey03PPT (76895)
+Seat 5: velka moklo (175800)
+Seat 6: Detooxiic (110075)
+Seat 7: _Fat0vVV (102514)
+Seat 8: VIVI-07 (162225)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 400
+jeyjey03PPT posts ante 400
+BIG asturcan posts ante 400
+P1xel7 posts ante 400
+velka moklo posts ante 400
+Detooxiic posts ante 400
+_Fat0vVV posts ante 400
+VIVI-07 posts ante 400
+M1ll3R posts small blind 1750
+jeyjey03PPT posts big blind 3500
+Dealt to P1xel7 [Th 7s]
+*** PRE-FLOP *** 
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+M1ll3R calls 1750
+jeyjey03PPT checks
+*** FLOP *** [8s 2h 3h]
+M1ll3R bets 3500
+jeyjey03PPT folds
+M1ll3R collected 13700 from pot
+*** SUMMARY ***
+Total pot 13700 | No rake
+Board: [8s 2h 3h]
+Seat 3: M1ll3R (small blind) won 13700
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3217589752119164938-24-1709063138 - Holdem no limit (500/2000/4000) - 2024/02/27 19:45:38 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #3 is the button
+Seat 1: BIG asturcan (128480)
+Seat 2: P1xel7 (68765)
+Seat 3: M1ll3R (102400)
+Seat 4: jeyjey03PPT (72995)
+Seat 5: velka moklo (175400)
+Seat 6: Detooxiic (109675)
+Seat 7: _Fat0vVV (102114)
+Seat 8: VIVI-07 (161825)
+*** ANTE/BLINDS ***
+jeyjey03PPT posts ante 500
+velka moklo posts ante 500
+BIG asturcan posts ante 500
+P1xel7 posts ante 500
+M1ll3R posts ante 500
+Detooxiic posts ante 500
+_Fat0vVV posts ante 500
+VIVI-07 posts ante 500
+jeyjey03PPT posts small blind 2000
+velka moklo posts big blind 4000
+Dealt to P1xel7 [7d 2d]
+*** PRE-FLOP *** 
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+M1ll3R folds
+jeyjey03PPT raises 68495 to 72495 and is all-in
+velka moklo folds
+jeyjey03PPT collected 80495 from pot
+*** SUMMARY ***
+Total pot 80495 | No rake
+Seat 4: jeyjey03PPT (small blind) won 80495
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3217589752119164938-25-1709063224 - Holdem no limit (500/2000/4000) - 2024/02/27 19:47:04 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #4 is the button
+Seat 1: BIG asturcan (127980)
+Seat 2: P1xel7 (68265)
+Seat 3: M1ll3R (101900)
+Seat 4: jeyjey03PPT (80495)
+Seat 5: velka moklo (170900)
+Seat 6: Detooxiic (109175)
+Seat 7: _Fat0vVV (101614)
+Seat 8: VIVI-07 (161325)
+*** ANTE/BLINDS ***
+velka moklo posts ante 500
+Detooxiic posts ante 500
+BIG asturcan posts ante 500
+P1xel7 posts ante 500
+M1ll3R posts ante 500
+jeyjey03PPT posts ante 500
+_Fat0vVV posts ante 500
+VIVI-07 posts ante 500
+velka moklo posts small blind 2000
+Detooxiic posts big blind 4000
+Dealt to P1xel7 [Qs 5d]
+*** PRE-FLOP *** 
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+M1ll3R folds
+jeyjey03PPT folds
+velka moklo calls 2000
+Detooxiic checks
+*** FLOP *** [5h 3h 7h]
+velka moklo bets 4000
+Detooxiic calls 4000
+*** TURN *** [5h 3h 7h][4c]
+velka moklo bets 7000
+Detooxiic calls 7000
+*** RIVER *** [5h 3h 7h 4c][Ah]
+velka moklo checks
+Detooxiic checks
+*** SHOW DOWN ***
+Detooxiic shows [3d Ad] (Two pairs : Aces and 3)
+velka moklo shows [Td Kh] (Flush Ace high)
+velka moklo collected 34000 from pot
+*** SUMMARY ***
+Total pot 34000 | No rake
+Board: [5h 3h 7h 4c Ah]
+Seat 5: velka moklo (small blind) showed [Td Kh] and won 34000 with Flush Ace high
+Seat 6: Detooxiic (big blind) showed [3d Ad] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3217589752119164938-26-1709063309 - Holdem no limit (500/2000/4000) - 2024/02/27 19:48:29 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #5 is the button
+Seat 1: BIG asturcan (127480)
+Seat 2: P1xel7 (67765)
+Seat 3: M1ll3R (101400)
+Seat 4: jeyjey03PPT (79995)
+Seat 5: velka moklo (189400)
+Seat 6: Detooxiic (93675)
+Seat 7: _Fat0vVV (101114)
+Seat 8: VIVI-07 (160825)
+*** ANTE/BLINDS ***
+Detooxiic posts ante 500
+_Fat0vVV posts ante 500
+BIG asturcan posts ante 500
+P1xel7 posts ante 500
+M1ll3R posts ante 500
+jeyjey03PPT posts ante 500
+velka moklo posts ante 500
+VIVI-07 posts ante 500
+Detooxiic posts small blind 2000
+_Fat0vVV posts big blind 4000
+Dealt to P1xel7 [7d 2h]
+*** PRE-FLOP *** 
+VIVI-07 raises 5000 to 9000
+BIG asturcan calls 9000
+P1xel7 folds
+M1ll3R folds
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+*** FLOP *** [Kh 2s 5d]
+VIVI-07 bets 9800
+BIG asturcan calls 9800
+*** TURN *** [Kh 2s 5d][Ac]
+VIVI-07 checks
+BIG asturcan checks
+*** RIVER *** [Kh 2s 5d Ac][4c]
+VIVI-07 checks
+BIG asturcan checks
+*** SHOW DOWN ***
+VIVI-07 shows [6d 6s] (One pair : 6)
+BIG asturcan shows [Qh Ks] (One pair : Kings)
+BIG asturcan collected 47600 from pot
+*** SUMMARY ***
+Total pot 47600 | No rake
+Board: [Kh 2s 5d Ac 4c]
+Seat 1: BIG asturcan showed [Qh Ks] and won 47600 with One pair : Kings
+Seat 8: VIVI-07 showed [6d 6s] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3217589752119164938-27-1709063388 - Holdem no limit (500/2000/4000) - 2024/02/27 19:49:48 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #6 is the button
+Seat 1: BIG asturcan (155780)
+Seat 2: P1xel7 (67265)
+Seat 3: M1ll3R (100900)
+Seat 4: jeyjey03PPT (79495)
+Seat 5: velka moklo (188900)
+Seat 6: Detooxiic (91175)
+Seat 7: _Fat0vVV (96614)
+Seat 8: VIVI-07 (141525)
+*** ANTE/BLINDS ***
+_Fat0vVV posts ante 500
+VIVI-07 posts ante 500
+BIG asturcan posts ante 500
+P1xel7 posts ante 500
+M1ll3R posts ante 500
+jeyjey03PPT posts ante 500
+velka moklo posts ante 500
+Detooxiic posts ante 500
+_Fat0vVV posts small blind 2000
+VIVI-07 posts big blind 4000
+Dealt to P1xel7 [3d Ah]
+*** PRE-FLOP *** 
+BIG asturcan raises 16000 to 20000
+P1xel7 folds
+M1ll3R folds
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan collected 30000 from pot
+*** SUMMARY ***
+Total pot 30000 | No rake
+Seat 1: BIG asturcan won 30000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3217589752119164938-28-1709063431 - Holdem no limit (500/2000/4000) - 2024/02/27 19:50:31 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #7 is the button
+Seat 1: BIG asturcan (165280)
+Seat 2: P1xel7 (66765)
+Seat 3: M1ll3R (100400)
+Seat 4: jeyjey03PPT (78995)
+Seat 5: velka moklo (188400)
+Seat 6: Detooxiic (90675)
+Seat 7: _Fat0vVV (94114)
+Seat 8: VIVI-07 (137025)
+*** ANTE/BLINDS ***
+VIVI-07 posts ante 500
+BIG asturcan posts ante 500
+P1xel7 posts ante 500
+M1ll3R posts ante 500
+jeyjey03PPT posts ante 500
+velka moklo posts ante 500
+Detooxiic posts ante 500
+_Fat0vVV posts ante 500
+VIVI-07 posts small blind 2000
+BIG asturcan posts big blind 4000
+Dealt to P1xel7 [Qh Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+M1ll3R folds
+jeyjey03PPT folds
+velka moklo raises 4000 to 8000
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan calls 4000
+*** FLOP *** [8s Qc 9s]
+BIG asturcan checks
+velka moklo checks
+*** TURN *** [8s Qc 9s][Qd]
+BIG asturcan checks
+velka moklo bets 7700
+BIG asturcan folds
+velka moklo collected 29700 from pot
+*** SUMMARY ***
+Total pot 29700 | No rake
+Board: [8s Qc 9s Qd]
+Seat 5: velka moklo won 29700
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3217589752119164938-29-1709063487 - Holdem no limit (500/2000/4000) - 2024/02/27 19:51:27 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #8 is the button
+Seat 1: BIG asturcan (156780)
+Seat 2: P1xel7 (66265)
+Seat 3: M1ll3R (99900)
+Seat 4: jeyjey03PPT (78495)
+Seat 5: velka moklo (201900)
+Seat 6: Detooxiic (90175)
+Seat 7: _Fat0vVV (93614)
+Seat 8: VIVI-07 (134525)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 500
+P1xel7 posts ante 500
+M1ll3R posts ante 500
+jeyjey03PPT posts ante 500
+velka moklo posts ante 500
+Detooxiic posts ante 500
+_Fat0vVV posts ante 500
+VIVI-07 posts ante 500
+BIG asturcan posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [Js As]
+*** PRE-FLOP *** 
+M1ll3R folds
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 calls 4000
+BIG asturcan calls 2000
+P1xel7 raises 61765 to 65765 and is all-in
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 collected 77765 from pot
+*** SUMMARY ***
+Total pot 77765 | No rake
+Seat 2: P1xel7 (big blind) won 77765
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3217589752119164938-30-1709063558 - Holdem no limit (600/2500/5000) - 2024/02/27 19:52:38 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #1 is the button
+Seat 1: BIG asturcan (152280)
+Seat 2: P1xel7 (77765)
+Seat 3: M1ll3R (99400)
+Seat 4: jeyjey03PPT (77995)
+Seat 5: velka moklo (201400)
+Seat 6: Detooxiic (89675)
+Seat 7: _Fat0vVV (93114)
+Seat 8: VIVI-07 (130025)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 600
+M1ll3R posts ante 600
+BIG asturcan posts ante 600
+jeyjey03PPT posts ante 600
+velka moklo posts ante 600
+Detooxiic posts ante 600
+_Fat0vVV posts ante 600
+VIVI-07 posts ante 600
+P1xel7 posts small blind 2500
+M1ll3R posts big blind 5000
+Dealt to P1xel7 [3h 5s]
+*** PRE-FLOP *** 
+jeyjey03PPT folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 raises 7500 to 12500
+BIG asturcan calls 12500
+P1xel7 folds
+M1ll3R folds
+*** FLOP *** [6d 4s 2d]
+VIVI-07 checks
+BIG asturcan bets 5000
+VIVI-07 calls 5000
+*** TURN *** [6d 4s 2d][7s]
+VIVI-07 checks
+BIG asturcan checks
+*** RIVER *** [6d 4s 2d 7s][8h]
+VIVI-07 checks
+BIG asturcan checks
+*** SHOW DOWN ***
+BIG asturcan shows [Ad 9d] (High card : Ace)
+VIVI-07 shows [Ac Qd] (High card : Ace)
+VIVI-07 collected 47300 from pot
+*** SUMMARY ***
+Total pot 47300 | No rake
+Board: [6d 4s 2d 7s 8h]
+Seat 1: BIG asturcan (button) showed [Ad 9d] and lost with High card : Ace
+Seat 8: VIVI-07 showed [Ac Qd] and won 47300 with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3217589752119164938-31-1709063614 - Holdem no limit (600/2500/5000) - 2024/02/27 19:53:34 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #2 is the button
+Seat 1: BIG asturcan (134180)
+Seat 2: P1xel7 (74665)
+Seat 3: M1ll3R (93800)
+Seat 4: jeyjey03PPT (77395)
+Seat 5: velka moklo (200800)
+Seat 6: Detooxiic (89075)
+Seat 7: _Fat0vVV (92514)
+Seat 8: VIVI-07 (159225)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 600
+jeyjey03PPT posts ante 600
+BIG asturcan posts ante 600
+P1xel7 posts ante 600
+velka moklo posts ante 600
+Detooxiic posts ante 600
+_Fat0vVV posts ante 600
+VIVI-07 posts ante 600
+M1ll3R posts small blind 2500
+jeyjey03PPT posts big blind 5000
+Dealt to P1xel7 [Jh 9c]
+*** PRE-FLOP *** 
+velka moklo folds
+Detooxiic folds
+_Fat0vVV raises 86914 to 91914 and is all-in
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+M1ll3R folds
+jeyjey03PPT folds
+_Fat0vVV collected 104214 from pot
+*** SUMMARY ***
+Total pot 104214 | No rake
+Seat 7: _Fat0vVV won 104214
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3217589752119164938-32-1709063665 - Holdem no limit (600/2500/5000) - 2024/02/27 19:54:25 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #3 is the button
+Seat 1: BIG asturcan (133580)
+Seat 2: P1xel7 (74065)
+Seat 3: M1ll3R (90700)
+Seat 4: jeyjey03PPT (71795)
+Seat 5: velka moklo (200200)
+Seat 6: Detooxiic (88475)
+Seat 7: _Fat0vVV (104214)
+Seat 8: VIVI-07 (158625)
+*** ANTE/BLINDS ***
+jeyjey03PPT posts ante 600
+velka moklo posts ante 600
+BIG asturcan posts ante 600
+P1xel7 posts ante 600
+M1ll3R posts ante 600
+Detooxiic posts ante 600
+_Fat0vVV posts ante 600
+VIVI-07 posts ante 600
+jeyjey03PPT posts small blind 2500
+velka moklo posts big blind 5000
+Dealt to P1xel7 [Ts Ac]
+*** PRE-FLOP *** 
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 raises 68465 to 73465 and is all-in
+M1ll3R folds
+jeyjey03PPT folds
+velka moklo folds
+P1xel7 collected 85765 from pot
+*** SUMMARY ***
+Total pot 85765 | No rake
+Seat 2: P1xel7 won 85765
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3217589752119164938-33-1709063692 - Holdem no limit (600/2500/5000) - 2024/02/27 19:54:52 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #4 is the button
+Seat 1: BIG asturcan (132980)
+Seat 2: P1xel7 (85765)
+Seat 3: M1ll3R (90100)
+Seat 4: jeyjey03PPT (68695)
+Seat 5: velka moklo (194600)
+Seat 6: Detooxiic (87875)
+Seat 7: _Fat0vVV (103614)
+Seat 8: VIVI-07 (158025)
+*** ANTE/BLINDS ***
+velka moklo posts ante 600
+Detooxiic posts ante 600
+BIG asturcan posts ante 600
+P1xel7 posts ante 600
+M1ll3R posts ante 600
+jeyjey03PPT posts ante 600
+_Fat0vVV posts ante 600
+VIVI-07 posts ante 600
+velka moklo posts small blind 2500
+Detooxiic posts big blind 5000
+Dealt to P1xel7 [2c Qs]
+*** PRE-FLOP *** 
+_Fat0vVV folds
+VIVI-07 raises 6250 to 11250
+BIG asturcan calls 11250
+P1xel7 folds
+M1ll3R folds
+jeyjey03PPT raises 56845 to 68095 and is all-in
+velka moklo folds
+Detooxiic folds
+VIVI-07 folds
+BIG asturcan calls 56845
+*** FLOP *** [9h 4h 8h]
+*** TURN *** [9h 4h 8h][4s]
+*** RIVER *** [9h 4h 8h 4s][9c]
+*** SHOW DOWN ***
+jeyjey03PPT shows [Tc Th] (Two pairs : Tens and 9)
+BIG asturcan shows [Ac Ah] (Two pairs : Aces and 9)
+BIG asturcan collected 159740 from pot
+*** SUMMARY ***
+Total pot 159740 | No rake
+Board: [9h 4h 8h 4s 9c]
+Seat 1: BIG asturcan showed [Ac Ah] and won 159740 with Two pairs : Aces and 9
+Seat 4: jeyjey03PPT (button) showed [Tc Th] and lost with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3217589752119164938-34-1709064060 - Holdem no limit (600/2500/5000) - 2024/02/27 20:01:00 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #5 is the button
+Seat 1: BIG asturcan (224025)
+Seat 2: P1xel7 (85165)
+Seat 3: M1ll3R (89500)
+Seat 4: Kevinshark59 (100000)
+Seat 5: velka moklo (191500)
+Seat 6: Detooxiic (82275)
+Seat 7: _Fat0vVV (103014)
+Seat 8: VIVI-07 (146175)
+*** ANTE/BLINDS ***
+Detooxiic posts ante 600
+_Fat0vVV posts ante 600
+BIG asturcan posts ante 600
+P1xel7 posts ante 600
+M1ll3R posts ante 600
+Kevinshark59 posts ante 600
+velka moklo posts ante 600
+VIVI-07 posts ante 600
+Detooxiic posts small blind 2500
+_Fat0vVV posts big blind 5000
+Dealt to P1xel7 [5d 6s]
+*** PRE-FLOP *** 
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+M1ll3R folds
+Kevinshark59 folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV collected 12300 from pot
+*** SUMMARY ***
+Total pot 12300 | No rake
+Seat 7: _Fat0vVV (big blind) won 12300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3217589752119164938-35-1709064112 - Holdem no limit (600/2500/5000) - 2024/02/27 20:01:52 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #6 is the button
+Seat 1: BIG asturcan (223425)
+Seat 2: P1xel7 (84565)
+Seat 3: M1ll3R (88900)
+Seat 4: Kevinshark59 (99400)
+Seat 5: velka moklo (190900)
+Seat 6: Detooxiic (79175)
+Seat 7: _Fat0vVV (109714)
+Seat 8: VIVI-07 (145575)
+*** ANTE/BLINDS ***
+_Fat0vVV posts ante 600
+VIVI-07 posts ante 600
+BIG asturcan posts ante 600
+P1xel7 posts ante 600
+M1ll3R posts ante 600
+Kevinshark59 posts ante 600
+velka moklo posts ante 600
+Detooxiic posts ante 600
+_Fat0vVV posts small blind 2500
+VIVI-07 posts big blind 5000
+Dealt to P1xel7 [Jh 5h]
+*** PRE-FLOP *** 
+BIG asturcan folds
+P1xel7 folds
+M1ll3R raises 5000 to 10000
+Kevinshark59 folds
+velka moklo calls 10000
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+*** FLOP *** [9s 9d Td]
+M1ll3R bets 20000
+velka moklo calls 20000
+*** TURN *** [9s 9d Td][8d]
+M1ll3R checks
+velka moklo checks
+*** RIVER *** [9s 9d Td 8d][Qd]
+M1ll3R checks
+velka moklo bets 5000
+M1ll3R calls 5000
+*** SHOW DOWN ***
+M1ll3R shows [Ts Ks] (Two pairs : Tens and 9)
+velka moklo shows [9c 9h] (Quads of 9)
+velka moklo collected 82300 from pot
+*** SUMMARY ***
+Total pot 82300 | No rake
+Board: [9s 9d Td 8d Qd]
+Seat 3: M1ll3R showed [Ts Ks] and lost with Two pairs : Tens and 9
+Seat 5: velka moklo showed [9c 9h] and won 82300 with Quads of 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3217589752119164938-36-1709064218 - Holdem no limit (600/2500/5000) - 2024/02/27 20:03:38 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #7 is the button
+Seat 1: BIG asturcan (222825)
+Seat 2: P1xel7 (83965)
+Seat 3: M1ll3R (53300)
+Seat 4: Kevinshark59 (98800)
+Seat 5: velka moklo (237600)
+Seat 6: Detooxiic (78575)
+Seat 7: _Fat0vVV (106614)
+Seat 8: VIVI-07 (139975)
+*** ANTE/BLINDS ***
+VIVI-07 posts ante 600
+BIG asturcan posts ante 600
+P1xel7 posts ante 600
+M1ll3R posts ante 600
+Kevinshark59 posts ante 600
+velka moklo posts ante 600
+Detooxiic posts ante 600
+_Fat0vVV posts ante 600
+VIVI-07 posts small blind 2500
+BIG asturcan posts big blind 5000
+Dealt to P1xel7 [Qd 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+M1ll3R raises 47700 to 52700 and is all-in
+Kevinshark59 folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+M1ll3R collected 65000 from pot
+*** SUMMARY ***
+Total pot 65000 | No rake
+Seat 3: M1ll3R won 65000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3217589752119164938-37-1709064254 - Holdem no limit (600/2500/5000) - 2024/02/27 20:04:14 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #8 is the button
+Seat 1: BIG asturcan (217225)
+Seat 2: P1xel7 (83365)
+Seat 3: M1ll3R (65000)
+Seat 4: Kevinshark59 (98200)
+Seat 5: velka moklo (237000)
+Seat 6: Detooxiic (77975)
+Seat 7: _Fat0vVV (106014)
+Seat 8: VIVI-07 (136875)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 600
+P1xel7 posts ante 600
+M1ll3R posts ante 600
+Kevinshark59 posts ante 600
+velka moklo posts ante 600
+Detooxiic posts ante 600
+_Fat0vVV posts ante 600
+VIVI-07 posts ante 600
+BIG asturcan posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [3h 8h]
+*** PRE-FLOP *** 
+M1ll3R folds
+Kevinshark59 raises 7500 to 12500
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 calls 7500
+*** FLOP *** [Ad Qs Ks]
+P1xel7 checks
+Kevinshark59 bets 11305
+P1xel7 folds
+Kevinshark59 collected 43605 from pot
+*** SUMMARY ***
+Total pot 43605 | No rake
+Board: [Ad Qs Ks]
+Seat 4: Kevinshark59 won 43605
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3217589752119164938-38-1709064300 - Holdem no limit (700/3000/6000) - 2024/02/27 20:05:00 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #1 is the button
+Seat 1: BIG asturcan (214125)
+Seat 2: P1xel7 (70265)
+Seat 3: M1ll3R (64400)
+Seat 4: Kevinshark59 (117400)
+Seat 5: velka moklo (236400)
+Seat 6: Detooxiic (77375)
+Seat 7: _Fat0vVV (105414)
+Seat 8: VIVI-07 (136275)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 700
+M1ll3R posts ante 700
+BIG asturcan posts ante 700
+Kevinshark59 posts ante 700
+velka moklo posts ante 700
+Detooxiic posts ante 700
+_Fat0vVV posts ante 700
+VIVI-07 posts ante 700
+P1xel7 posts small blind 3000
+M1ll3R posts big blind 6000
+Dealt to P1xel7 [7s 8h]
+*** PRE-FLOP *** 
+Kevinshark59 folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 calls 3000
+M1ll3R raises 57700 to 63700 and is all-in
+P1xel7 folds
+M1ll3R collected 75300 from pot
+*** SUMMARY ***
+Total pot 75300 | No rake
+Seat 3: M1ll3R (big blind) won 75300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3217589752119164938-39-1709064343 - Holdem no limit (700/3000/6000) - 2024/02/27 20:05:43 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #2 is the button
+Seat 1: BIG asturcan (213425)
+Seat 2: P1xel7 (63565)
+Seat 3: M1ll3R (75300)
+Seat 4: Kevinshark59 (116700)
+Seat 5: velka moklo (235700)
+Seat 6: Detooxiic (76675)
+Seat 7: _Fat0vVV (104714)
+Seat 8: VIVI-07 (135575)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 700
+Kevinshark59 posts ante 700
+BIG asturcan posts ante 700
+P1xel7 posts ante 700
+velka moklo posts ante 700
+Detooxiic posts ante 700
+_Fat0vVV posts ante 700
+VIVI-07 posts ante 700
+M1ll3R posts small blind 3000
+Kevinshark59 posts big blind 6000
+Dealt to P1xel7 [3s 2s]
+*** PRE-FLOP *** 
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan calls 6000
+P1xel7 folds
+M1ll3R calls 3000
+Kevinshark59 checks
+*** FLOP *** [6c Ac 5d]
+M1ll3R checks
+Kevinshark59 checks
+BIG asturcan checks
+*** TURN *** [6c Ac 5d][As]
+M1ll3R checks
+Kevinshark59 checks
+BIG asturcan checks
+*** RIVER *** [6c Ac 5d As][8c]
+M1ll3R checks
+Kevinshark59 checks
+BIG asturcan checks
+*** SHOW DOWN ***
+BIG asturcan shows [Ks Th] (One pair : Aces)
+Kevinshark59 shows [6h Js] (Two pairs : Aces and 6)
+M1ll3R shows [6s 8d] (Two pairs : Aces and 8)
+M1ll3R collected 23600 from pot
+*** SUMMARY ***
+Total pot 23600 | No rake
+Board: [6c Ac 5d As 8c]
+Seat 1: BIG asturcan showed [Ks Th] and lost with One pair : Aces
+Seat 3: M1ll3R (small blind) showed [6s 8d] and won 23600 with Two pairs : Aces and 8
+Seat 4: Kevinshark59 (big blind) showed [6h Js] and lost with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3217589752119164938-40-1709064444 - Holdem no limit (700/3000/6000) - 2024/02/27 20:07:24 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #3 is the button
+Seat 1: BIG asturcan (206725)
+Seat 2: P1xel7 (62865)
+Seat 3: M1ll3R (92200)
+Seat 4: Kevinshark59 (110000)
+Seat 5: velka moklo (235000)
+Seat 6: Detooxiic (75975)
+Seat 7: _Fat0vVV (104014)
+Seat 8: VIVI-07 (134875)
+*** ANTE/BLINDS ***
+Kevinshark59 posts ante 700
+velka moklo posts ante 700
+BIG asturcan posts ante 700
+P1xel7 posts ante 700
+M1ll3R posts ante 700
+Detooxiic posts ante 700
+_Fat0vVV posts ante 700
+VIVI-07 posts ante 700
+Kevinshark59 posts small blind 3000
+velka moklo posts big blind 6000
+Dealt to P1xel7 [Qh 6c]
+*** PRE-FLOP *** 
+Detooxiic folds
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+M1ll3R raises 85500 to 91500 and is all-in
+Kevinshark59 folds
+velka moklo folds
+M1ll3R collected 106100 from pot
+*** SUMMARY ***
+Total pot 106100 | No rake
+Seat 3: M1ll3R (button) won 106100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3217589752119164938-41-1709064473 - Holdem no limit (700/3000/6000) - 2024/02/27 20:07:53 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #4 is the button
+Seat 1: BIG asturcan (206025)
+Seat 2: P1xel7 (62165)
+Seat 3: M1ll3R (106100)
+Seat 4: Kevinshark59 (106300)
+Seat 5: velka moklo (228300)
+Seat 6: Detooxiic (75275)
+Seat 7: _Fat0vVV (103314)
+Seat 8: VIVI-07 (134175)
+*** ANTE/BLINDS ***
+velka moklo posts ante 700
+Detooxiic posts ante 700
+BIG asturcan posts ante 700
+P1xel7 posts ante 700
+M1ll3R posts ante 700
+Kevinshark59 posts ante 700
+_Fat0vVV posts ante 700
+VIVI-07 posts ante 700
+velka moklo posts small blind 3000
+Detooxiic posts big blind 6000
+Dealt to P1xel7 [Jc 8s]
+*** PRE-FLOP *** 
+_Fat0vVV folds
+VIVI-07 folds
+BIG asturcan calls 6000
+P1xel7 folds
+M1ll3R folds
+Kevinshark59 folds
+velka moklo folds
+Detooxiic checks
+*** FLOP *** [Qd 5d Js]
+Detooxiic checks
+BIG asturcan bets 6000
+Detooxiic calls 6000
+*** TURN *** [Qd 5d Js][7d]
+Detooxiic checks
+BIG asturcan checks
+*** RIVER *** [Qd 5d Js 7d][6s]
+Detooxiic bets 21190
+BIG asturcan folds
+Detooxiic collected 53790 from pot
+*** SUMMARY ***
+Total pot 53790 | No rake
+Board: [Qd 5d Js 7d 6s]
+Seat 6: Detooxiic (big blind) won 53790
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3217589752119164938-42-1709064533 - Holdem no limit (700/3000/6000) - 2024/02/27 20:08:53 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #5 is the button
+Seat 1: BIG asturcan (193325)
+Seat 2: P1xel7 (61465)
+Seat 3: M1ll3R (105400)
+Seat 4: Kevinshark59 (105600)
+Seat 5: velka moklo (224600)
+Seat 6: Detooxiic (95175)
+Seat 7: _Fat0vVV (102614)
+Seat 8: VIVI-07 (133475)
+*** ANTE/BLINDS ***
+Detooxiic posts ante 700
+_Fat0vVV posts ante 700
+BIG asturcan posts ante 700
+P1xel7 posts ante 700
+M1ll3R posts ante 700
+Kevinshark59 posts ante 700
+velka moklo posts ante 700
+VIVI-07 posts ante 700
+Detooxiic posts small blind 3000
+_Fat0vVV posts big blind 6000
+Dealt to P1xel7 [Kh Tc]
+*** PRE-FLOP *** 
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 raises 54765 to 60765 and is all-in
+M1ll3R folds
+Kevinshark59 folds
+velka moklo folds
+Detooxiic folds
+_Fat0vVV folds
+P1xel7 collected 75365 from pot
+*** SUMMARY ***
+Total pot 75365 | No rake
+Seat 2: P1xel7 won 75365
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3217589752119164938-43-1709064595 - Holdem no limit (700/3000/6000) - 2024/02/27 20:09:55 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #6 is the button
+Seat 1: BIG asturcan (192625)
+Seat 2: P1xel7 (75365)
+Seat 3: M1ll3R (104700)
+Seat 4: Kevinshark59 (104900)
+Seat 5: velka moklo (223900)
+Seat 6: Detooxiic (91475)
+Seat 7: _Fat0vVV (95914)
+Seat 8: VIVI-07 (132775)
+*** ANTE/BLINDS ***
+_Fat0vVV posts ante 700
+VIVI-07 posts ante 700
+BIG asturcan posts ante 700
+P1xel7 posts ante 700
+M1ll3R posts ante 700
+Kevinshark59 posts ante 700
+velka moklo posts ante 700
+Detooxiic posts ante 700
+_Fat0vVV posts small blind 3000
+VIVI-07 posts big blind 6000
+Dealt to P1xel7 [4s Qd]
+*** PRE-FLOP *** 
+BIG asturcan folds
+P1xel7 folds
+M1ll3R folds
+Kevinshark59 calls 6000
+velka moklo folds
+Detooxiic folds
+_Fat0vVV raises 89214 to 95214 and is all-in
+VIVI-07 folds
+Kevinshark59 calls 89214
+*** FLOP *** [Kc Jd 9d]
+*** TURN *** [Kc Jd 9d][4c]
+*** RIVER *** [Kc Jd 9d 4c][Jh]
+*** SHOW DOWN ***
+_Fat0vVV shows [Ad 7h] (One pair : Jacks)
+Kevinshark59 shows [3h 3s] (Two pairs : Jacks and 3)
+Kevinshark59 collected 202028 from pot
+*** SUMMARY ***
+Total pot 202028 | No rake
+Board: [Kc Jd 9d 4c Jh]
+Seat 4: Kevinshark59 showed [3h 3s] and won 202028 with Two pairs : Jacks and 3
+Seat 7: _Fat0vVV (small blind) showed [Ad 7h] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3217589752119164938-44-1709064665 - Holdem no limit (700/3000/6000) - 2024/02/27 20:11:05 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #7 is the button
+Seat 1: BIG asturcan (191925)
+Seat 2: P1xel7 (74665)
+Seat 3: M1ll3R (104000)
+Seat 4: Kevinshark59 (211014)
+Seat 5: velka moklo (223200)
+Seat 6: Detooxiic (90775)
+Seat 8: VIVI-07 (126075)
+*** ANTE/BLINDS ***
+VIVI-07 posts ante 700
+BIG asturcan posts ante 700
+P1xel7 posts ante 700
+M1ll3R posts ante 700
+Kevinshark59 posts ante 700
+velka moklo posts ante 700
+Detooxiic posts ante 700
+VIVI-07 posts small blind 3000
+BIG asturcan posts big blind 6000
+Dealt to P1xel7 [4h 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+M1ll3R folds
+Kevinshark59 raises 9000 to 15000
+velka moklo folds
+Detooxiic folds
+VIVI-07 calls 12000
+BIG asturcan calls 9000
+*** FLOP *** [Tc Qd 4s]
+VIVI-07 checks
+BIG asturcan checks
+Kevinshark59 checks
+*** TURN *** [Tc Qd 4s][4d]
+VIVI-07 checks
+BIG asturcan bets 6000
+Kevinshark59 folds
+VIVI-07 calls 6000
+*** RIVER *** [Tc Qd 4s 4d][Ts]
+VIVI-07 checks
+BIG asturcan bets 21665
+VIVI-07 folds
+BIG asturcan collected 83565 from pot
+*** SUMMARY ***
+Total pot 83565 | No rake
+Board: [Tc Qd 4s 4d Ts]
+Seat 1: BIG asturcan (big blind) won 83565
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3217589752119164938-45-1709064754 - Holdem no limit (800/3500/7000) - 2024/02/27 20:12:34 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #8 is the button
+Seat 1: BIG asturcan (232125)
+Seat 2: P1xel7 (73965)
+Seat 3: M1ll3R (103300)
+Seat 4: Kevinshark59 (195314)
+Seat 5: velka moklo (222500)
+Seat 6: Detooxiic (90075)
+Seat 7: Rieur.691231 (29635)
+Seat 8: VIVI-07 (104375)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 800
+P1xel7 posts ante 800
+M1ll3R posts ante 800
+Kevinshark59 posts ante 800
+velka moklo posts ante 800
+Detooxiic posts ante 800
+Rieur.691231 posts ante 800
+VIVI-07 posts ante 800
+BIG asturcan posts small blind 3500
+P1xel7 posts big blind 7000
+Dealt to P1xel7 [3c 5s]
+*** PRE-FLOP *** 
+M1ll3R folds
+Kevinshark59 folds
+velka moklo folds
+Detooxiic folds
+Rieur.691231 calls 7000
+VIVI-07 calls 7000
+BIG asturcan calls 3500
+P1xel7 checks
+*** FLOP *** [6c Qs Tc]
+BIG asturcan checks
+P1xel7 checks
+Rieur.691231 checks
+VIVI-07 checks
+*** TURN *** [6c Qs Tc][8s]
+BIG asturcan checks
+P1xel7 checks
+Rieur.691231 checks
+VIVI-07 checks
+*** RIVER *** [6c Qs Tc 8s][6s]
+BIG asturcan checks
+P1xel7 checks
+Rieur.691231 bets 12040
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+Rieur.691231 collected 46440 from pot
+*** SUMMARY ***
+Total pot 46440 | No rake
+Board: [6c Qs Tc 8s 6s]
+Seat 7: Rieur.691231 won 46440
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3217589752119164938-46-1709064828 - Holdem no limit (800/3500/7000) - 2024/02/27 20:13:48 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #1 is the button
+Seat 1: BIG asturcan (224325)
+Seat 2: P1xel7 (66165)
+Seat 3: M1ll3R (102500)
+Seat 4: Kevinshark59 (194514)
+Seat 5: velka moklo (221700)
+Seat 6: Detooxiic (89275)
+Seat 7: Rieur.691231 (56235)
+Seat 8: VIVI-07 (96575)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 800
+M1ll3R posts ante 800
+BIG asturcan posts ante 800
+Kevinshark59 posts ante 800
+velka moklo posts ante 800
+Detooxiic posts ante 800
+Rieur.691231 posts ante 800
+VIVI-07 posts ante 800
+P1xel7 posts small blind 3500
+M1ll3R posts big blind 7000
+Dealt to P1xel7 [Js Kd]
+*** PRE-FLOP *** 
+Kevinshark59 folds
+velka moklo folds
+Detooxiic folds
+Rieur.691231 calls 7000
+VIVI-07 folds
+BIG asturcan calls 7000
+P1xel7 raises 10500 to 17500
+M1ll3R folds
+Rieur.691231 calls 10500
+BIG asturcan calls 10500
+*** FLOP *** [2h 8c Kh]
+P1xel7 bets 47865 and is all-in
+Rieur.691231 folds
+BIG asturcan folds
+P1xel7 collected 113765 from pot
+*** SUMMARY ***
+Total pot 113765 | No rake
+Board: [2h 8c Kh]
+Seat 2: P1xel7 (small blind) won 113765
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3217589752119164938-47-1709064900 - Holdem no limit (800/3500/7000) - 2024/02/27 20:15:00 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #2 is the button
+Seat 1: BIG asturcan (206025)
+Seat 2: P1xel7 (113765)
+Seat 3: M1ll3R (94700)
+Seat 4: Kevinshark59 (193714)
+Seat 5: velka moklo (220900)
+Seat 6: Detooxiic (88475)
+Seat 7: Rieur.691231 (37935)
+Seat 8: VIVI-07 (95775)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 800
+Kevinshark59 posts ante 800
+BIG asturcan posts ante 800
+P1xel7 posts ante 800
+velka moklo posts ante 800
+Detooxiic posts ante 800
+Rieur.691231 posts ante 800
+VIVI-07 posts ante 800
+M1ll3R posts small blind 3500
+Kevinshark59 posts big blind 7000
+Dealt to P1xel7 [3s 7c]
+*** PRE-FLOP *** 
+velka moklo folds
+Detooxiic folds
+Rieur.691231 calls 7000
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+M1ll3R folds
+Kevinshark59 checks
+*** FLOP *** [Jd 3h Qd]
+Kevinshark59 checks
+Rieur.691231 checks
+*** TURN *** [Jd 3h Qd][6s]
+Kevinshark59 checks
+Rieur.691231 checks
+*** RIVER *** [Jd 3h Qd 6s][9d]
+Kevinshark59 checks
+Rieur.691231 checks
+*** SHOW DOWN ***
+Rieur.691231 shows [8s 7s] (High card : Queen)
+Kevinshark59 shows [2d Js] (One pair : Jacks)
+Kevinshark59 collected 23900 from pot
+*** SUMMARY ***
+Total pot 23900 | No rake
+Board: [Jd 3h Qd 6s 9d]
+Seat 4: Kevinshark59 (big blind) showed [2d Js] and won 23900 with One pair : Jacks
+Seat 7: Rieur.691231 showed [8s 7s] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3217589752119164938-48-1709064961 - Holdem no limit (800/3500/7000) - 2024/02/27 20:16:01 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #3 is the button
+Seat 1: BIG asturcan (205225)
+Seat 2: P1xel7 (112965)
+Seat 3: M1ll3R (90400)
+Seat 4: Kevinshark59 (209814)
+Seat 5: velka moklo (220100)
+Seat 6: Detooxiic (87675)
+Seat 7: Rieur.691231 (30135)
+Seat 8: VIVI-07 (94975)
+*** ANTE/BLINDS ***
+Kevinshark59 posts ante 800
+velka moklo posts ante 800
+BIG asturcan posts ante 800
+P1xel7 posts ante 800
+M1ll3R posts ante 800
+Detooxiic posts ante 800
+Rieur.691231 posts ante 800
+VIVI-07 posts ante 800
+Kevinshark59 posts small blind 3500
+velka moklo posts big blind 7000
+Dealt to P1xel7 [Jd Ts]
+*** PRE-FLOP *** 
+Detooxiic folds
+Rieur.691231 folds
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 raises 10500 to 17500
+M1ll3R folds
+Kevinshark59 folds
+velka moklo folds
+P1xel7 collected 34400 from pot
+*** SUMMARY ***
+Total pot 34400 | No rake
+Seat 2: P1xel7 won 34400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3217589752119164938-49-1709065026 - Holdem no limit (800/3500/7000) - 2024/02/27 20:17:06 UTC
+Table: 'Monster Stack(749153493)#009' 8-max (real money) Seat #4 is the button
+Seat 1: BIG asturcan (204425)
+Seat 2: P1xel7 (129065)
+Seat 3: M1ll3R (89600)
+Seat 4: Kevinshark59 (205514)
+Seat 5: velka moklo (212300)
+Seat 6: Detooxiic (86875)
+Seat 7: Rieur.691231 (29335)
+Seat 8: VIVI-07 (94175)
+*** ANTE/BLINDS ***
+velka moklo posts ante 800
+Detooxiic posts ante 800
+BIG asturcan posts ante 800
+P1xel7 posts ante 800
+M1ll3R posts ante 800
+Kevinshark59 posts ante 800
+Rieur.691231 posts ante 800
+VIVI-07 posts ante 800
+velka moklo posts small blind 3500
+Detooxiic posts big blind 7000
+Dealt to P1xel7 [Qd 9h]
+*** PRE-FLOP *** 
+Rieur.691231 calls 7000
+VIVI-07 folds
+BIG asturcan folds
+P1xel7 folds
+M1ll3R folds
+Kevinshark59 raises 197714 to 204714 and is all-in
+velka moklo folds
+Detooxiic folds
+Rieur.691231 calls 21535 and is all-in
+*** FLOP *** [4d 6h 3s]
+*** TURN *** [4d 6h 3s][6s]
+*** RIVER *** [4d 6h 3s 6s][As]
+*** SHOW DOWN ***
+Rieur.691231 shows [Jh 7d] (One pair : 6)
+Kevinshark59 shows [Ad Qh] (Two pairs : Aces and 6)
+Kevinshark59 collected 250149 from pot
+*** SUMMARY ***
+Total pot 250149 | No rake
+Board: [4d 6h 3s 6s As]
+Seat 4: Kevinshark59 (button) showed [Ad Qh] and won 250149 with Two pairs : Aces and 6
+Seat 7: Rieur.691231 showed [Jh 7d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3217589752119164937-56-1709065090 - Holdem no limit (800/3500/7000) - 2024/02/27 20:18:10 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #2 is the button
+Seat 1: LaTruffe1995 (217248)
+Seat 2: MasterClassX (105300)
+Seat 3: PatrickLED (193118)
+Seat 4: jdeepenshort (159300)
+Seat 5: oxicianuro (275886)
+Seat 6: P1xel7 (128265)
+Seat 7: versailles (280885)
+Seat 8: CHeWbAKKA74 (124898)
+*** ANTE/BLINDS ***
+PatrickLED posts ante 800
+jdeepenshort posts ante 800
+LaTruffe1995 posts ante 800
+MasterClassX posts ante 800
+oxicianuro posts ante 800
+P1xel7 posts ante 800
+versailles posts ante 800
+CHeWbAKKA74 posts ante 800
+PatrickLED posts small blind 3500
+jdeepenshort posts big blind 7000
+Dealt to P1xel7 [As Jd]
+*** PRE-FLOP *** 
+oxicianuro folds
+P1xel7 raises 10500 to 17500
+versailles folds
+CHeWbAKKA74 folds
+LaTruffe1995 calls 17500
+MasterClassX folds
+PatrickLED folds
+jdeepenshort folds
+*** FLOP *** [4c 6h 6s]
+P1xel7 bets 18165
+LaTruffe1995 calls 18165
+*** TURN *** [4c 6h 6s][9s]
+P1xel7 checks
+LaTruffe1995 bets 30881
+P1xel7 folds
+LaTruffe1995 collected 119111 from pot
+*** SUMMARY ***
+Total pot 119111 | No rake
+Board: [4c 6h 6s 9s]
+Seat 1: LaTruffe1995 won 119111
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3217589752119164937-57-1709065154 - Holdem no limit (1000/4000/8000) - 2024/02/27 20:19:14 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #3 is the button
+Seat 1: LaTruffe1995 (269013)
+Seat 2: MasterClassX (104500)
+Seat 3: PatrickLED (188818)
+Seat 4: jdeepenshort (151500)
+Seat 5: oxicianuro (275086)
+Seat 6: P1xel7 (91800)
+Seat 7: versailles (280085)
+Seat 8: CHeWbAKKA74 (124098)
+*** ANTE/BLINDS ***
+jdeepenshort posts ante 1000
+oxicianuro posts ante 1000
+LaTruffe1995 posts ante 1000
+MasterClassX posts ante 1000
+PatrickLED posts ante 1000
+P1xel7 posts ante 1000
+versailles posts ante 1000
+CHeWbAKKA74 posts ante 1000
+jdeepenshort posts small blind 4000
+oxicianuro posts big blind 8000
+Dealt to P1xel7 [Ah 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+versailles folds
+CHeWbAKKA74 raises 8000 to 16000
+LaTruffe1995 folds
+MasterClassX folds
+PatrickLED folds
+jdeepenshort folds
+oxicianuro calls 8000
+*** FLOP *** [7c 9c 5d]
+oxicianuro checks
+CHeWbAKKA74 bets 15400
+oxicianuro calls 15400
+*** TURN *** [7c 9c 5d][Ac]
+oxicianuro checks
+CHeWbAKKA74 checks
+*** RIVER *** [7c 9c 5d Ac][3c]
+oxicianuro checks
+CHeWbAKKA74 checks
+*** SHOW DOWN ***
+oxicianuro shows [2s 5s] (One pair : 5)
+CHeWbAKKA74 shows [9s Ks] (One pair : 9)
+CHeWbAKKA74 collected 74800 from pot
+*** SUMMARY ***
+Total pot 74800 | No rake
+Board: [7c 9c 5d Ac 3c]
+Seat 5: oxicianuro (big blind) showed [2s 5s] and lost with One pair : 5
+Seat 8: CHeWbAKKA74 showed [9s Ks] and won 74800 with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3217589752119164937-58-1709065211 - Holdem no limit (1000/4000/8000) - 2024/02/27 20:20:11 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #4 is the button
+Seat 1: LaTruffe1995 (268013)
+Seat 2: MasterClassX (103500)
+Seat 3: PatrickLED (187818)
+Seat 4: jdeepenshort (146500)
+Seat 5: oxicianuro (242686)
+Seat 6: P1xel7 (90800)
+Seat 8: CHeWbAKKA74 (166498)
+*** ANTE/BLINDS ***
+oxicianuro posts ante 1000
+P1xel7 posts ante 1000
+LaTruffe1995 posts ante 1000
+MasterClassX posts ante 1000
+PatrickLED posts ante 1000
+jdeepenshort posts ante 1000
+CHeWbAKKA74 posts ante 1000
+oxicianuro posts small blind 4000
+P1xel7 posts big blind 8000
+Dealt to P1xel7 [5s 3c]
+*** PRE-FLOP *** 
+CHeWbAKKA74 folds
+LaTruffe1995 folds
+MasterClassX folds
+PatrickLED folds
+jdeepenshort folds
+oxicianuro folds
+P1xel7 collected 19000 from pot
+*** SUMMARY ***
+Total pot 19000 | No rake
+Seat 6: P1xel7 (big blind) won 19000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3217589752119164937-59-1709065252 - Holdem no limit (1000/4000/8000) - 2024/02/27 20:20:52 UTC
+Table: 'Monster Stack(749153493)#008' 8-max (real money) Seat #5 is the button
+Seat 1: LaTruffe1995 (267013)
+Seat 2: MasterClassX (102500)
+Seat 3: PatrickLED (186818)
+Seat 4: jdeepenshort (145500)
+Seat 5: oxicianuro (237686)
+Seat 6: P1xel7 (100800)
+Seat 8: CHeWbAKKA74 (165498)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1000
+CHeWbAKKA74 posts ante 1000
+LaTruffe1995 posts ante 1000
+MasterClassX posts ante 1000
+PatrickLED posts ante 1000
+jdeepenshort posts ante 1000
+oxicianuro posts ante 1000
+P1xel7 posts small blind 4000
+CHeWbAKKA74 posts big blind 8000
+Dealt to P1xel7 [As Jc]
+*** PRE-FLOP *** 
+LaTruffe1995 folds
+MasterClassX folds
+PatrickLED folds
+jdeepenshort folds
+oxicianuro raises 10000 to 18000
+P1xel7 raises 81800 to 99800 and is all-in
+CHeWbAKKA74 folds
+oxicianuro calls 81800
+*** FLOP *** [Ad 2c 8h]
+*** TURN *** [Ad 2c 8h][Th]
+*** RIVER *** [Ad 2c 8h Th][5s]
+*** SHOW DOWN ***
+P1xel7 shows [As Jc] (One pair : Aces)
+oxicianuro shows [Ah Ks] (One pair : Aces)
+oxicianuro collected 214600 from pot
+*** SUMMARY ***
+Total pot 214600 | No rake
+Board: [Ad 2c 8h Th 5s]
+Seat 5: oxicianuro (button) showed [Ah Ks] and won 214600 with One pair : Aces
+Seat 6: P1xel7 (small blind) showed [As Jc] and lost with One pair : Aces
+
+

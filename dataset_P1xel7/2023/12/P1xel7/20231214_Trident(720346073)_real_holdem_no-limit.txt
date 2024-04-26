@@ -1,0 +1,2182 @@
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862825337028636-1-1702570503 - Holdem no limit (3/10/20) - 2023/12/14 16:15:03 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Katsuni 67 (500, 0.90€ bounty)
+Seat 2: P1xel7 (500, 0.90€ bounty)
+Seat 3: GP-Bilou (500, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Katsuni 67 posts ante 3
+P1xel7 posts ante 3
+GP-Bilou posts ante 3
+Katsuni 67 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [6c 3s]
+*** PRE-FLOP *** 
+GP-Bilou calls 20
+Katsuni 67 calls 10
+P1xel7 checks
+*** FLOP *** [Ah 7h 8h]
+Katsuni 67 checks
+P1xel7 checks
+GP-Bilou bets 30
+Katsuni 67 folds
+P1xel7 folds
+GP-Bilou collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [Ah 7h 8h]
+Seat 3: GP-Bilou (button) won 99
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862825337028636-2-1702570560 - Holdem no limit (3/10/20) - 2023/12/14 16:16:00 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Katsuni 67 (477, 0.90€ bounty)
+Seat 2: P1xel7 (477, 0.90€ bounty)
+Seat 3: GP-Bilou (546, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 3
+GP-Bilou posts ante 3
+Katsuni 67 posts ante 3
+P1xel7 posts small blind 10
+GP-Bilou posts big blind 20
+Dealt to P1xel7 [Jc Kh]
+*** PRE-FLOP *** 
+Katsuni 67 calls 20
+P1xel7 raises 30 to 50
+GP-Bilou folds
+Katsuni 67 calls 30
+*** FLOP *** [8h 2d 8c]
+P1xel7 checks
+Katsuni 67 bets 84
+P1xel7 folds
+Katsuni 67 collected 213 from pot
+*** SUMMARY ***
+Total pot 213 | No rake
+Board: [8h 2d 8c]
+Seat 1: Katsuni 67 (button) won 213
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862825337028636-3-1702570598 - Holdem no limit (3/10/20) - 2023/12/14 16:16:38 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Katsuni 67 (553, 0.90€ bounty)
+Seat 2: P1xel7 (424, 0.90€ bounty)
+Seat 3: GP-Bilou (523, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 3
+Katsuni 67 posts ante 3
+P1xel7 posts ante 3
+GP-Bilou posts small blind 10
+Katsuni 67 posts big blind 20
+Dealt to P1xel7 [5h 8c]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou folds
+Katsuni 67 collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Seat 1: Katsuni 67 (big blind) won 39
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862825337028636-4-1702570606 - Holdem no limit (3/10/20) - 2023/12/14 16:16:46 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Katsuni 67 (569, 0.90€ bounty)
+Seat 2: P1xel7 (421, 0.90€ bounty)
+Seat 3: GP-Bilou (510, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Katsuni 67 posts ante 3
+P1xel7 posts ante 3
+GP-Bilou posts ante 3
+Katsuni 67 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8s 6c]
+*** PRE-FLOP *** 
+GP-Bilou folds
+Katsuni 67 folds
+P1xel7 collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Seat 2: P1xel7 (big blind) won 39
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862825337028636-5-1702570613 - Holdem no limit (3/10/20) - 2023/12/14 16:16:53 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Katsuni 67 (556, 0.90€ bounty)
+Seat 2: P1xel7 (437, 0.90€ bounty)
+Seat 3: GP-Bilou (507, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 3
+GP-Bilou posts ante 3
+Katsuni 67 posts ante 3
+P1xel7 posts small blind 10
+GP-Bilou posts big blind 20
+Dealt to P1xel7 [3s Th]
+*** PRE-FLOP *** 
+Katsuni 67 calls 20
+P1xel7 folds
+GP-Bilou checks
+*** FLOP *** [4d 4h Js]
+GP-Bilou checks
+Katsuni 67 bets 59
+GP-Bilou folds
+Katsuni 67 collected 118 from pot
+*** SUMMARY ***
+Total pot 118 | No rake
+Board: [4d 4h Js]
+Seat 1: Katsuni 67 (button) won 118
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862825337028636-6-1702570642 - Holdem no limit (3/10/20) - 2023/12/14 16:17:22 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Katsuni 67 (592, 0.90€ bounty)
+Seat 2: P1xel7 (424, 0.90€ bounty)
+Seat 3: GP-Bilou (484, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 3
+Katsuni 67 posts ante 3
+P1xel7 posts ante 3
+GP-Bilou posts small blind 10
+Katsuni 67 posts big blind 20
+Dealt to P1xel7 [3s 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou raises 20 to 40
+Katsuni 67 folds
+GP-Bilou collected 69 from pot
+*** SUMMARY ***
+Total pot 69 | No rake
+Seat 3: GP-Bilou (small blind) won 69
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862825337028636-7-1702570697 - Holdem no limit (3/12/25) - 2023/12/14 16:18:17 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Katsuni 67 (569, 0.90€ bounty)
+Seat 2: P1xel7 (421, 0.90€ bounty)
+Seat 3: GP-Bilou (510, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Katsuni 67 posts ante 3
+P1xel7 posts ante 3
+GP-Bilou posts ante 3
+Katsuni 67 posts small blind 12
+P1xel7 posts big blind 25
+Dealt to P1xel7 [6h Ks]
+*** PRE-FLOP *** 
+GP-Bilou folds
+Katsuni 67 calls 13
+P1xel7 checks
+*** FLOP *** [9h 9s Qd]
+Katsuni 67 checks
+P1xel7 checks
+*** TURN *** [9h 9s Qd][9c]
+Katsuni 67 bets 38
+P1xel7 calls 38
+*** RIVER *** [9h 9s Qd 9c][5h]
+Katsuni 67 bets 47
+P1xel7 calls 47
+*** SHOW DOWN ***
+P1xel7 shows [6h Ks] (Trips of 9)
+Katsuni 67 shows [Ad 4d] (Trips of 9)
+Katsuni 67 collected 229 from pot
+*** SUMMARY ***
+Total pot 229 | No rake
+Board: [9h 9s Qd 9c 5h]
+Seat 1: Katsuni 67 (small blind) showed [Ad 4d] and won 229 with Trips of 9
+Seat 2: P1xel7 (big blind) showed [6h Ks] and lost with Trips of 9
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862825337028636-8-1702570740 - Holdem no limit (3/12/25) - 2023/12/14 16:19:00 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Katsuni 67 (685, 0.90€ bounty)
+Seat 2: P1xel7 (308, 0.90€ bounty)
+Seat 3: GP-Bilou (507, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 3
+GP-Bilou posts ante 3
+Katsuni 67 posts ante 3
+P1xel7 posts small blind 12
+GP-Bilou posts big blind 25
+Dealt to P1xel7 [Jc 3d]
+*** PRE-FLOP *** 
+Katsuni 67 folds
+P1xel7 folds
+GP-Bilou collected 46 from pot
+*** SUMMARY ***
+Total pot 46 | No rake
+Seat 3: GP-Bilou (big blind) won 46
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862825337028636-9-1702570748 - Holdem no limit (3/12/25) - 2023/12/14 16:19:08 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Katsuni 67 (682, 0.90€ bounty)
+Seat 2: P1xel7 (293, 0.90€ bounty)
+Seat 3: GP-Bilou (525, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 3
+Katsuni 67 posts ante 3
+P1xel7 posts ante 3
+GP-Bilou posts small blind 12
+Katsuni 67 posts big blind 25
+Dealt to P1xel7 [2h Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou folds
+Katsuni 67 collected 46 from pot
+*** SUMMARY ***
+Total pot 46 | No rake
+Seat 1: Katsuni 67 (big blind) won 46
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862825337028636-10-1702570753 - Holdem no limit (3/12/25) - 2023/12/14 16:19:13 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Katsuni 67 (700, 0.90€ bounty)
+Seat 2: P1xel7 (290, 0.90€ bounty)
+Seat 3: GP-Bilou (510, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Katsuni 67 posts ante 3
+P1xel7 posts ante 3
+GP-Bilou posts ante 3
+Katsuni 67 posts small blind 12
+P1xel7 posts big blind 25
+Dealt to P1xel7 [Qs 4d]
+*** PRE-FLOP *** 
+GP-Bilou folds
+Katsuni 67 folds
+P1xel7 collected 46 from pot
+*** SUMMARY ***
+Total pot 46 | No rake
+Seat 2: P1xel7 (big blind) won 46
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862825337028636-11-1702570760 - Holdem no limit (3/12/25) - 2023/12/14 16:19:20 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Katsuni 67 (685, 0.90€ bounty)
+Seat 2: P1xel7 (308, 0.90€ bounty)
+Seat 3: GP-Bilou (507, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 3
+GP-Bilou posts ante 3
+Katsuni 67 posts ante 3
+P1xel7 posts small blind 12
+GP-Bilou posts big blind 25
+Dealt to P1xel7 [Ks 5s]
+*** PRE-FLOP *** 
+Katsuni 67 calls 25
+P1xel7 calls 13
+GP-Bilou checks
+*** FLOP *** [Kh 9d 8d]
+P1xel7 checks
+GP-Bilou checks
+Katsuni 67 bets 84
+P1xel7 raises 196 to 280 and is all-in
+GP-Bilou folds
+Katsuni 67 raises 377 to 657 and is all-in
+*** TURN *** [Kh 9d 8d][4h]
+*** RIVER *** [Kh 9d 8d 4h][Ah]
+*** SHOW DOWN ***
+Katsuni 67 shows [9c Td] (One pair : 9)
+P1xel7 shows [Ks 5s] (One pair : Kings)
+P1xel7 collected 644 from main pot
+Katsuni 67 collected 377 from side pot 1
+*** SUMMARY ***
+Total pot 1021 | No rake
+Board: [Kh 9d 8d 4h Ah]
+Seat 1: Katsuni 67 (button) showed [9c Td] and won 377 with One pair : 9
+Seat 2: P1xel7 (small blind) showed [Ks 5s] and won 644 with One pair : Kings
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862825337028636-12-1702570793 - Holdem no limit (3/12/25) - 2023/12/14 16:19:53 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Katsuni 67 (377, 0.90€ bounty)
+Seat 2: P1xel7 (644, 0.90€ bounty)
+Seat 3: GP-Bilou (479, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 3
+Katsuni 67 posts ante 3
+P1xel7 posts ante 3
+GP-Bilou posts small blind 12
+Katsuni 67 posts big blind 25
+Dealt to P1xel7 [3d Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou folds
+Katsuni 67 collected 46 from pot
+*** SUMMARY ***
+Total pot 46 | No rake
+Seat 1: Katsuni 67 (big blind) won 46
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862825337028636-13-1702570799 - Holdem no limit (3/12/25) - 2023/12/14 16:19:59 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Katsuni 67 (395, 0.90€ bounty)
+Seat 2: P1xel7 (641, 0.90€ bounty)
+Seat 3: GP-Bilou (464, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Katsuni 67 posts ante 3
+P1xel7 posts ante 3
+GP-Bilou posts ante 3
+Katsuni 67 posts small blind 12
+P1xel7 posts big blind 25
+Dealt to P1xel7 [6h 7c]
+*** PRE-FLOP *** 
+GP-Bilou folds
+Katsuni 67 raises 59 to 84
+P1xel7 folds
+Katsuni 67 collected 118 from pot
+*** SUMMARY ***
+Total pot 118 | No rake
+Seat 1: Katsuni 67 (small blind) won 118
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3093862825337028636-14-1702570806 - Holdem no limit (4/15/30) - 2023/12/14 16:20:06 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Katsuni 67 (426, 0.90€ bounty)
+Seat 2: P1xel7 (613, 0.90€ bounty)
+Seat 3: GP-Bilou (461, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+Katsuni 67 posts ante 4
+P1xel7 posts small blind 15
+GP-Bilou posts big blind 30
+Dealt to P1xel7 [2h 5d]
+*** PRE-FLOP *** 
+Katsuni 67 raises 87 to 117
+P1xel7 folds
+GP-Bilou calls 87
+*** FLOP *** [5c 2c 8d]
+GP-Bilou checks
+Katsuni 67 bets 305 and is all-in
+GP-Bilou folds
+Katsuni 67 collected 566 from pot
+*** SUMMARY ***
+Total pot 566 | No rake
+Board: [5c 2c 8d]
+Seat 1: Katsuni 67 (button) won 566
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3093862825337028636-15-1702570828 - Holdem no limit (4/15/30) - 2023/12/14 16:20:28 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Katsuni 67 (566, 0.90€ bounty)
+Seat 2: P1xel7 (594, 0.90€ bounty)
+Seat 3: GP-Bilou (340, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 4
+Katsuni 67 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts small blind 15
+Katsuni 67 posts big blind 30
+Dealt to P1xel7 [9c 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou raises 306 to 336 and is all-in
+Katsuni 67 raises 226 to 562 and is all-in
+*** FLOP *** [8h 8c 7s]
+*** TURN *** [8h 8c 7s][4c]
+*** RIVER *** [8h 8c 7s 4c][3d]
+*** SHOW DOWN ***
+Katsuni 67 shows [6c Ah] (One pair : 8)
+GP-Bilou shows [6h 6d] (Two pairs : 8 and 6)
+GP-Bilou collected 684 from main pot
+Katsuni 67 collected 226 from side pot 1
+*** SUMMARY ***
+Total pot 910 | No rake
+Board: [8h 8c 7s 4c 3d]
+Seat 1: Katsuni 67 (big blind) showed [6c Ah] and won 226 with One pair : 8
+Seat 3: GP-Bilou (small blind) showed [6h 6d] and won 684 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3093862825337028636-16-1702570849 - Holdem no limit (4/15/30) - 2023/12/14 16:20:49 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Katsuni 67 (226, 0.90€ bounty)
+Seat 2: P1xel7 (590, 0.90€ bounty)
+Seat 3: GP-Bilou (684, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Katsuni 67 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+Katsuni 67 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Ah 6h]
+*** PRE-FLOP *** 
+GP-Bilou calls 30
+Katsuni 67 folds
+P1xel7 checks
+*** FLOP *** [7c 3d As]
+P1xel7 checks
+GP-Bilou checks
+*** TURN *** [7c 3d As][8c]
+P1xel7 bets 44
+GP-Bilou calls 44
+*** RIVER *** [7c 3d As 8c][2d]
+P1xel7 bets 88
+GP-Bilou calls 88
+*** SHOW DOWN ***
+GP-Bilou shows [9s 8s] (One pair : 8)
+P1xel7 shows [Ah 6h] (One pair : Aces)
+P1xel7 collected 351 from pot
+*** SUMMARY ***
+Total pot 351 | No rake
+Board: [7c 3d As 8c 2d]
+Seat 2: P1xel7 (big blind) showed [Ah 6h] and won 351 with One pair : Aces
+Seat 3: GP-Bilou (button) showed [9s 8s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3093862825337028636-17-1702570883 - Holdem no limit (4/15/30) - 2023/12/14 16:21:23 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Katsuni 67 (207, 0.90€ bounty)
+Seat 2: P1xel7 (775, 0.90€ bounty)
+Seat 3: GP-Bilou (518, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+Katsuni 67 posts ante 4
+P1xel7 posts small blind 15
+GP-Bilou posts big blind 30
+Dealt to P1xel7 [6h Jc]
+*** PRE-FLOP *** 
+Katsuni 67 raises 173 to 203 and is all-in
+P1xel7 folds
+GP-Bilou folds
+Katsuni 67 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 1: Katsuni 67 (button) won 260
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3093862825337028636-18-1702570889 - Holdem no limit (4/15/30) - 2023/12/14 16:21:29 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Katsuni 67 (260, 0.90€ bounty)
+Seat 2: P1xel7 (756, 0.90€ bounty)
+Seat 3: GP-Bilou (484, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 4
+Katsuni 67 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts small blind 15
+Katsuni 67 posts big blind 30
+Dealt to P1xel7 [Ks 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou raises 45 to 75
+Katsuni 67 calls 45
+*** FLOP *** [5h 4h Kh]
+GP-Bilou bets 60
+Katsuni 67 calls 60
+*** TURN *** [5h 4h Kh][2c]
+GP-Bilou checks
+Katsuni 67 bets 121 and is all-in
+GP-Bilou calls 121
+*** RIVER *** [5h 4h Kh 2c][Td]
+*** SHOW DOWN ***
+GP-Bilou shows [Jd Ah] (High card : Ace)
+Katsuni 67 shows [3c Ad] (Straight 5 high)
+Katsuni 67 collected 524 from pot
+*** SUMMARY ***
+Total pot 524 | No rake
+Board: [5h 4h Kh 2c Td]
+Seat 1: Katsuni 67 (big blind) showed [3c Ad] and won 524 with Straight 5 high
+Seat 3: GP-Bilou (small blind) showed [Jd Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3093862825337028636-19-1702570919 - Holdem no limit (4/15/30) - 2023/12/14 16:21:59 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Katsuni 67 (524, 0.90€ bounty)
+Seat 2: P1xel7 (752, 0.90€ bounty)
+Seat 3: GP-Bilou (224, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Katsuni 67 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+Katsuni 67 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [6d 2s]
+*** PRE-FLOP *** 
+GP-Bilou folds
+Katsuni 67 folds
+P1xel7 collected 57 from pot
+*** SUMMARY ***
+Total pot 57 | No rake
+Seat 2: P1xel7 (big blind) won 57
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3093862825337028636-20-1702570931 - Holdem no limit (4/15/30) - 2023/12/14 16:22:11 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Katsuni 67 (505, 0.90€ bounty)
+Seat 2: P1xel7 (775, 0.90€ bounty)
+Seat 3: GP-Bilou (220, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+Katsuni 67 posts ante 4
+P1xel7 posts small blind 15
+GP-Bilou posts big blind 30
+Dealt to P1xel7 [3c 6c]
+*** PRE-FLOP *** 
+Katsuni 67 raises 87 to 117
+P1xel7 folds
+GP-Bilou folds
+Katsuni 67 collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | No rake
+Seat 1: Katsuni 67 (button) won 174
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3093862825337028636-21-1702570938 - Holdem no limit (4/15/30) - 2023/12/14 16:22:18 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Katsuni 67 (558, 0.90€ bounty)
+Seat 2: P1xel7 (756, 0.90€ bounty)
+Seat 3: GP-Bilou (186, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 4
+Katsuni 67 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts small blind 15
+Katsuni 67 posts big blind 30
+Dealt to P1xel7 [4d Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou raises 152 to 182 and is all-in
+Katsuni 67 folds
+GP-Bilou collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | No rake
+Seat 3: GP-Bilou (small blind) won 224
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3093862825337028636-22-1702570950 - Holdem no limit (4/15/30) - 2023/12/14 16:22:30 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Katsuni 67 (524, 0.90€ bounty)
+Seat 2: P1xel7 (752, 0.90€ bounty)
+Seat 3: GP-Bilou (224, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Katsuni 67 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+Katsuni 67 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [7s 8c]
+*** PRE-FLOP *** 
+GP-Bilou raises 190 to 220 and is all-in
+Katsuni 67 raises 300 to 520 and is all-in
+P1xel7 folds
+*** FLOP *** [2d 7c Qh]
+*** TURN *** [2d 7c Qh][Ts]
+*** RIVER *** [2d 7c Qh Ts][Kh]
+*** SHOW DOWN ***
+Katsuni 67 shows [Ah 6s] (High card : Ace)
+GP-Bilou shows [8d 8h] (One pair : 8)
+GP-Bilou collected 482 from main pot
+Katsuni 67 collected 300 from side pot 1
+*** SUMMARY ***
+Total pot 782 | No rake
+Board: [2d 7c Qh Ts Kh]
+Seat 1: Katsuni 67 (small blind) showed [Ah 6s] and won 300 with High card : Ace
+Seat 3: GP-Bilou (button) showed [8d 8h] and won 482 with One pair : 8
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3093862825337028636-23-1702570972 - Holdem no limit (4/17/35) - 2023/12/14 16:22:52 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Katsuni 67 (300, 0.90€ bounty)
+Seat 2: P1xel7 (718, 0.90€ bounty)
+Seat 3: GP-Bilou (482, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+Katsuni 67 posts ante 4
+P1xel7 posts small blind 17
+GP-Bilou posts big blind 35
+Dealt to P1xel7 [3h 5s]
+*** PRE-FLOP *** 
+Katsuni 67 calls 35
+P1xel7 folds
+GP-Bilou checks
+*** FLOP *** [2h Js Kh]
+GP-Bilou checks
+Katsuni 67 checks
+*** TURN *** [2h Js Kh][3s]
+GP-Bilou checks
+Katsuni 67 bets 99
+GP-Bilou folds
+Katsuni 67 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [2h Js Kh 3s]
+Seat 1: Katsuni 67 (button) won 198
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3093862825337028636-24-1702571014 - Holdem no limit (4/17/35) - 2023/12/14 16:23:34 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Katsuni 67 (360, 0.90€ bounty)
+Seat 2: P1xel7 (697, 0.90€ bounty)
+Seat 3: GP-Bilou (443, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 4
+Katsuni 67 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts small blind 17
+Katsuni 67 posts big blind 35
+Dealt to P1xel7 [Th Ts]
+*** PRE-FLOP *** 
+P1xel7 raises 35 to 70
+GP-Bilou folds
+Katsuni 67 folds
+P1xel7 collected 134 from pot
+*** SUMMARY ***
+Total pot 134 | No rake
+Seat 2: P1xel7 (button) won 134
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3093862825337028636-25-1702571028 - Holdem no limit (4/17/35) - 2023/12/14 16:23:48 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Katsuni 67 (321, 0.90€ bounty)
+Seat 2: P1xel7 (757, 0.90€ bounty)
+Seat 3: GP-Bilou (422, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Katsuni 67 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+Katsuni 67 posts small blind 17
+P1xel7 posts big blind 35
+Dealt to P1xel7 [Qs Tc]
+*** PRE-FLOP *** 
+GP-Bilou folds
+Katsuni 67 calls 18
+P1xel7 raises 718 to 753 and is all-in
+Katsuni 67 calls 282 and is all-in
+*** FLOP *** [Kh 4d 9h]
+*** TURN *** [Kh 4d 9h][5h]
+*** RIVER *** [Kh 4d 9h 5h][Ts]
+*** SHOW DOWN ***
+Katsuni 67 shows [4c Jc] (One pair : 4)
+P1xel7 shows [Qs Tc] (One pair : Tens)
+P1xel7 collected 1082 from pot
+*** SUMMARY ***
+Total pot 1082 | No rake
+Board: [Kh 4d 9h 5h Ts]
+Seat 1: Katsuni 67 (small blind) showed [4c Jc] and lost with One pair : 4
+Seat 2: P1xel7 (big blind) showed [Qs Tc] and won 1082 with One pair : Tens
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3093862825337028636-26-1702571051 - Holdem no limit (4/17/35) - 2023/12/14 16:24:11 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (1082, 1.35€ bounty)
+Seat 3: GP-Bilou (418, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+P1xel7 posts small blind 17
+GP-Bilou posts big blind 35
+Dealt to P1xel7 [Js Qc]
+*** PRE-FLOP *** 
+P1xel7 raises 35 to 70
+GP-Bilou folds
+P1xel7 collected 113 from pot
+*** SUMMARY ***
+Total pot 113 | No rake
+Seat 2: P1xel7 (small blind) (button) won 113
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3093862825337028636-27-1702571059 - Holdem no limit (4/17/35) - 2023/12/14 16:24:19 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: elcapi93 (500, 0.90€ bounty)
+Seat 2: P1xel7 (1121, 1.35€ bounty)
+Seat 3: GP-Bilou (379, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 4
+elcapi93 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts small blind 17
+elcapi93 posts big blind 35
+Dealt to P1xel7 [6d 6s]
+*** PRE-FLOP *** 
+P1xel7 raises 35 to 70
+GP-Bilou folds
+elcapi93 folds
+P1xel7 collected 134 from pot
+*** SUMMARY ***
+Total pot 134 | No rake
+Seat 2: P1xel7 (button) won 134
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3093862825337028636-28-1702571067 - Holdem no limit (4/17/35) - 2023/12/14 16:24:27 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: elcapi93 (461, 0.90€ bounty)
+Seat 2: P1xel7 (1181, 1.35€ bounty)
+Seat 3: GP-Bilou (358, 0.90€ bounty)
+*** ANTE/BLINDS ***
+elcapi93 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+elcapi93 posts small blind 17
+P1xel7 posts big blind 35
+Dealt to P1xel7 [7c As]
+*** PRE-FLOP *** 
+GP-Bilou raises 319 to 354 and is all-in
+elcapi93 folds
+P1xel7 calls 319
+*** FLOP *** [Jc 9c Td]
+*** TURN *** [Jc 9c Td][9h]
+*** RIVER *** [Jc 9c Td 9h][5d]
+*** SHOW DOWN ***
+P1xel7 shows [7c As] (One pair : 9)
+GP-Bilou shows [Ad Qs] (One pair : 9)
+GP-Bilou collected 737 from pot
+*** SUMMARY ***
+Total pot 737 | No rake
+Board: [Jc 9c Td 9h 5d]
+Seat 2: P1xel7 (big blind) showed [7c As] and lost with One pair : 9
+Seat 3: GP-Bilou (button) showed [Ad Qs] and won 737 with One pair : 9
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3093862825337028636-29-1702571082 - Holdem no limit (4/17/35) - 2023/12/14 16:24:42 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: elcapi93 (440, 0.90€ bounty)
+Seat 2: P1xel7 (823, 1.35€ bounty)
+Seat 3: GP-Bilou (737, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+elcapi93 posts ante 4
+P1xel7 posts small blind 17
+GP-Bilou posts big blind 35
+Dealt to P1xel7 [8c 2s]
+*** PRE-FLOP *** 
+elcapi93 folds
+P1xel7 folds
+GP-Bilou collected 64 from pot
+*** SUMMARY ***
+Total pot 64 | No rake
+Seat 3: GP-Bilou (big blind) won 64
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3093862825337028636-30-1702571086 - Holdem no limit (4/17/35) - 2023/12/14 16:24:46 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: elcapi93 (436, 0.90€ bounty)
+Seat 2: P1xel7 (802, 1.35€ bounty)
+Seat 3: GP-Bilou (762, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 4
+elcapi93 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts small blind 17
+elcapi93 posts big blind 35
+Dealt to P1xel7 [4h 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou folds
+elcapi93 collected 64 from pot
+*** SUMMARY ***
+Total pot 64 | No rake
+Seat 1: elcapi93 (big blind) won 64
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3093862825337028636-31-1702571092 - Holdem no limit (4/17/35) - 2023/12/14 16:24:52 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: elcapi93 (461, 0.90€ bounty)
+Seat 2: P1xel7 (798, 1.35€ bounty)
+Seat 3: GP-Bilou (741, 0.90€ bounty)
+*** ANTE/BLINDS ***
+elcapi93 posts ante 4
+P1xel7 posts ante 4
+GP-Bilou posts ante 4
+elcapi93 posts small blind 17
+P1xel7 posts big blind 35
+Dealt to P1xel7 [Jc Jd]
+*** PRE-FLOP *** 
+GP-Bilou calls 35
+elcapi93 folds
+P1xel7 raises 53 to 88
+GP-Bilou calls 53
+*** FLOP *** [8s Ts 6s]
+P1xel7 bets 103
+GP-Bilou calls 103
+*** TURN *** [8s Ts 6s][2h]
+P1xel7 bets 329
+GP-Bilou folds
+P1xel7 collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [8s Ts 6s 2h]
+Seat 2: P1xel7 (big blind) won 740
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-32-1702571121 - Holdem no limit (5/20/40) - 2023/12/14 16:25:21 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: elcapi93 (440, 0.90€ bounty)
+Seat 2: P1xel7 (1014, 1.35€ bounty)
+Seat 3: GP-Bilou (546, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+GP-Bilou posts ante 5
+elcapi93 posts ante 5
+P1xel7 posts small blind 20
+GP-Bilou posts big blind 40
+Dealt to P1xel7 [5d 3h]
+*** PRE-FLOP *** 
+elcapi93 folds
+P1xel7 folds
+GP-Bilou collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 3: GP-Bilou (big blind) won 75
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-33-1702571127 - Holdem no limit (5/20/40) - 2023/12/14 16:25:27 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: elcapi93 (435, 0.90€ bounty)
+Seat 2: P1xel7 (989, 1.35€ bounty)
+Seat 3: GP-Bilou (576, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 5
+elcapi93 posts ante 5
+P1xel7 posts ante 5
+GP-Bilou posts small blind 20
+elcapi93 posts big blind 40
+Dealt to P1xel7 [3d 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou folds
+elcapi93 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 1: elcapi93 (big blind) won 75
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-34-1702571132 - Holdem no limit (5/20/40) - 2023/12/14 16:25:32 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: elcapi93 (465, 0.90€ bounty)
+Seat 2: P1xel7 (984, 1.35€ bounty)
+Seat 3: GP-Bilou (551, 0.90€ bounty)
+*** ANTE/BLINDS ***
+elcapi93 posts ante 5
+P1xel7 posts ante 5
+GP-Bilou posts ante 5
+elcapi93 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [6h 4c]
+*** PRE-FLOP *** 
+GP-Bilou raises 506 to 546 and is all-in
+elcapi93 folds
+P1xel7 folds
+GP-Bilou collected 621 from pot
+*** SUMMARY ***
+Total pot 621 | No rake
+Seat 3: GP-Bilou (button) won 621
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-35-1702571142 - Holdem no limit (5/20/40) - 2023/12/14 16:25:42 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: elcapi93 (440, 0.90€ bounty)
+Seat 2: P1xel7 (939, 1.35€ bounty)
+Seat 3: GP-Bilou (621, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+GP-Bilou posts ante 5
+elcapi93 posts ante 5
+P1xel7 posts small blind 20
+GP-Bilou posts big blind 40
+Dealt to P1xel7 [9s Qs]
+*** PRE-FLOP *** 
+elcapi93 folds
+P1xel7 raises 48 to 88
+GP-Bilou folds
+P1xel7 collected 143 from pot
+*** SUMMARY ***
+Total pot 143 | No rake
+Seat 2: P1xel7 (small blind) won 143
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-36-1702571151 - Holdem no limit (5/20/40) - 2023/12/14 16:25:51 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: elcapi93 (435, 0.90€ bounty)
+Seat 2: P1xel7 (989, 1.35€ bounty)
+Seat 3: GP-Bilou (576, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 5
+elcapi93 posts ante 5
+P1xel7 posts ante 5
+GP-Bilou posts small blind 20
+elcapi93 posts big blind 40
+Dealt to P1xel7 [6d 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou calls 20
+elcapi93 checks
+*** FLOP *** [3d Jd Th]
+GP-Bilou checks
+elcapi93 bets 40
+GP-Bilou calls 40
+*** TURN *** [3d Jd Th][Tc]
+GP-Bilou checks
+elcapi93 checks
+*** RIVER *** [3d Jd Th Tc][6h]
+GP-Bilou checks
+elcapi93 checks
+*** SHOW DOWN ***
+GP-Bilou shows [7h Kh] (One pair : Tens)
+elcapi93 shows [4c 3s] (Two pairs : Tens and 3)
+elcapi93 collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | No rake
+Board: [3d Jd Th Tc 6h]
+Seat 1: elcapi93 (big blind) showed [4c 3s] and won 175 with Two pairs : Tens and 3
+Seat 3: GP-Bilou (small blind) showed [7h Kh] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-37-1702571176 - Holdem no limit (5/20/40) - 2023/12/14 16:26:16 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: elcapi93 (525, 0.90€ bounty)
+Seat 2: P1xel7 (984, 1.35€ bounty)
+Seat 3: GP-Bilou (491, 0.90€ bounty)
+*** ANTE/BLINDS ***
+elcapi93 posts ante 5
+P1xel7 posts ante 5
+GP-Bilou posts ante 5
+elcapi93 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Ac Ts]
+*** PRE-FLOP *** 
+GP-Bilou folds
+elcapi93 calls 20
+P1xel7 raises 939 to 979 and is all-in
+elcapi93 folds
+P1xel7 collected 1034 from pot
+*** SUMMARY ***
+Total pot 1034 | No rake
+Seat 2: P1xel7 (big blind) won 1034
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-38-1702571188 - Holdem no limit (5/20/40) - 2023/12/14 16:26:28 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: elcapi93 (480, 0.90€ bounty)
+Seat 2: P1xel7 (1034, 1.35€ bounty)
+Seat 3: GP-Bilou (486, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+GP-Bilou posts ante 5
+elcapi93 posts ante 5
+P1xel7 posts small blind 20
+GP-Bilou posts big blind 40
+Dealt to P1xel7 [2d Qs]
+*** PRE-FLOP *** 
+elcapi93 folds
+P1xel7 raises 40 to 80
+GP-Bilou folds
+P1xel7 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 2: P1xel7 (small blind) won 135
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-39-1702571196 - Holdem no limit (5/20/40) - 2023/12/14 16:26:36 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: elcapi93 (475, 0.90€ bounty)
+Seat 2: P1xel7 (1084, 1.35€ bounty)
+Seat 3: GP-Bilou (441, 0.90€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 5
+elcapi93 posts ante 5
+P1xel7 posts ante 5
+GP-Bilou posts small blind 20
+elcapi93 posts big blind 40
+Dealt to P1xel7 [9d 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou raises 396 to 436 and is all-in
+elcapi93 folds
+GP-Bilou collected 491 from pot
+*** SUMMARY ***
+Total pot 491 | No rake
+Seat 3: GP-Bilou (small blind) won 491
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-40-1702571204 - Holdem no limit (5/20/40) - 2023/12/14 16:26:44 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: elcapi93 (430, 0.90€ bounty)
+Seat 2: P1xel7 (1079, 1.35€ bounty)
+Seat 3: GP-Bilou (491, 0.90€ bounty)
+*** ANTE/BLINDS ***
+elcapi93 posts ante 5
+P1xel7 posts ante 5
+GP-Bilou posts ante 5
+elcapi93 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Kh 4c]
+*** PRE-FLOP *** 
+GP-Bilou folds
+elcapi93 folds
+P1xel7 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 2: P1xel7 (big blind) won 75
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-41-1702571210 - Holdem no limit (5/20/40) - 2023/12/14 16:26:50 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: elcapi93 (405, 0.90€ bounty)
+Seat 2: P1xel7 (1109, 1.35€ bounty)
+Seat 3: GP-Bilou (486, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+GP-Bilou posts ante 5
+elcapi93 posts ante 5
+P1xel7 posts small blind 20
+GP-Bilou posts big blind 40
+Dealt to P1xel7 [Ts Qs]
+*** PRE-FLOP *** 
+elcapi93 raises 40 to 80
+P1xel7 calls 60
+GP-Bilou raises 401 to 481 and is all-in
+elcapi93 calls 320 and is all-in
+P1xel7 calls 401
+*** FLOP *** [9s 7h 2d]
+*** TURN *** [9s 7h 2d][As]
+*** RIVER *** [9s 7h 2d As][Ad]
+*** SHOW DOWN ***
+elcapi93 shows [Kc Js] (One pair : Aces)
+P1xel7 shows [Ts Qs] (One pair : Aces)
+GP-Bilou shows [Ac 7s] (Full of Aces and 7)
+GP-Bilou collected 1377 from pot
+*** SUMMARY ***
+Total pot 1377 | No rake
+Board: [9s 7h 2d As Ad]
+Seat 1: elcapi93 (button) showed [Kc Js] and lost with One pair : Aces
+Seat 2: P1xel7 (small blind) showed [Ts Qs] and lost with One pair : Aces
+Seat 3: GP-Bilou (big blind) showed [Ac 7s] and won 1377 with Full of Aces and 7
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862825337028636-42-1702571246 - Holdem no limit (5/20/40) - 2023/12/14 16:27:26 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (623, 1.35€ bounty)
+Seat 3: GP-Bilou (1377, 1.35€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 5
+P1xel7 posts ante 5
+GP-Bilou posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [4d 7c]
+*** PRE-FLOP *** 
+GP-Bilou folds
+P1xel7 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 2: P1xel7 (big blind) won 70
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862825337028636-43-1702571252 - Holdem no limit (6/25/50) - 2023/12/14 16:27:32 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: XxEpiloguexX (500, 0.90€ bounty)
+Seat 2: P1xel7 (648, 1.35€ bounty)
+Seat 3: GP-Bilou (1352, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+GP-Bilou posts ante 6
+P1xel7 posts small blind 25
+GP-Bilou posts big blind 50
+Dealt to P1xel7 [Kh As]
+*** PRE-FLOP *** 
+P1xel7 raises 50 to 100
+GP-Bilou calls 50
+*** FLOP *** [7d 4d 3s]
+GP-Bilou checks
+P1xel7 bets 138
+GP-Bilou calls 138
+*** TURN *** [7d 4d 3s][8c]
+GP-Bilou checks
+P1xel7 bets 404 and is all-in
+GP-Bilou folds
+P1xel7 collected 892 from pot
+*** SUMMARY ***
+Total pot 892 | No rake
+Board: [7d 4d 3s 8c]
+Seat 2: P1xel7 (small blind) (button) won 892
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862825337028636-44-1702571278 - Holdem no limit (6/25/50) - 2023/12/14 16:27:58 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: XxEpiloguexX (500, 0.90€ bounty)
+Seat 2: P1xel7 (892, 1.35€ bounty)
+Seat 3: GP-Bilou (1108, 1.35€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 6
+XxEpiloguexX posts ante 6
+P1xel7 posts ante 6
+GP-Bilou posts small blind 25
+XxEpiloguexX posts big blind 50
+Dealt to P1xel7 [Ts Jh]
+*** PRE-FLOP *** 
+P1xel7 raises 50 to 100
+GP-Bilou folds
+XxEpiloguexX folds
+P1xel7 collected 193 from pot
+*** SUMMARY ***
+Total pot 193 | No rake
+Seat 2: P1xel7 (button) won 193
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862825337028636-45-1702571288 - Holdem no limit (6/25/50) - 2023/12/14 16:28:08 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: XxEpiloguexX (444, 0.90€ bounty)
+Seat 2: P1xel7 (979, 1.35€ bounty)
+Seat 3: GP-Bilou (1077, 1.35€ bounty)
+*** ANTE/BLINDS ***
+XxEpiloguexX posts ante 6
+P1xel7 posts ante 6
+GP-Bilou posts ante 6
+XxEpiloguexX posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [3d 5h]
+*** PRE-FLOP *** 
+GP-Bilou folds
+XxEpiloguexX raises 388 to 438 and is all-in
+P1xel7 folds
+XxEpiloguexX collected 506 from pot
+*** SUMMARY ***
+Total pot 506 | No rake
+Seat 1: XxEpiloguexX (small blind) won 506
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862825337028636-46-1702571296 - Holdem no limit (6/25/50) - 2023/12/14 16:28:16 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: XxEpiloguexX (506, 0.90€ bounty)
+Seat 2: P1xel7 (923, 1.35€ bounty)
+Seat 3: GP-Bilou (1071, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+GP-Bilou posts ante 6
+XxEpiloguexX posts ante 6
+P1xel7 posts small blind 25
+GP-Bilou posts big blind 50
+Dealt to P1xel7 [Ks 4h]
+*** PRE-FLOP *** 
+XxEpiloguexX folds
+P1xel7 folds
+GP-Bilou collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | No rake
+Seat 3: GP-Bilou (big blind) won 93
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862825337028636-47-1702571301 - Holdem no limit (6/25/50) - 2023/12/14 16:28:21 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: XxEpiloguexX (500, 0.90€ bounty)
+Seat 2: P1xel7 (892, 1.35€ bounty)
+Seat 3: GP-Bilou (1108, 1.35€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 6
+XxEpiloguexX posts ante 6
+P1xel7 posts ante 6
+GP-Bilou posts small blind 25
+XxEpiloguexX posts big blind 50
+Dealt to P1xel7 [2d 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou folds
+XxEpiloguexX collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | No rake
+Seat 1: XxEpiloguexX (big blind) won 93
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862825337028636-48-1702571306 - Holdem no limit (6/25/50) - 2023/12/14 16:28:26 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: XxEpiloguexX (537, 0.90€ bounty)
+Seat 2: P1xel7 (886, 1.35€ bounty)
+Seat 3: GP-Bilou (1077, 1.35€ bounty)
+*** ANTE/BLINDS ***
+XxEpiloguexX posts ante 6
+P1xel7 posts ante 6
+GP-Bilou posts ante 6
+XxEpiloguexX posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [8s 3s]
+*** PRE-FLOP *** 
+GP-Bilou raises 50 to 100
+XxEpiloguexX folds
+P1xel7 calls 50
+*** FLOP *** [Kd 7c 9c]
+P1xel7 checks
+GP-Bilou checks
+*** TURN *** [Kd 7c 9c][3h]
+P1xel7 checks
+GP-Bilou checks
+*** RIVER *** [Kd 7c 9c 3h][5c]
+P1xel7 bets 61
+GP-Bilou folds
+P1xel7 collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Board: [Kd 7c 9c 3h 5c]
+Seat 2: P1xel7 (big blind) won 304
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862825337028636-49-1702571334 - Holdem no limit (6/25/50) - 2023/12/14 16:28:54 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: XxEpiloguexX (506, 0.90€ bounty)
+Seat 2: P1xel7 (1023, 1.35€ bounty)
+Seat 3: GP-Bilou (971, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+GP-Bilou posts ante 6
+XxEpiloguexX posts ante 6
+P1xel7 posts small blind 25
+GP-Bilou posts big blind 50
+Dealt to P1xel7 [6d 7s]
+*** PRE-FLOP *** 
+XxEpiloguexX raises 75 to 125
+P1xel7 folds
+GP-Bilou folds
+XxEpiloguexX collected 218 from pot
+*** SUMMARY ***
+Total pot 218 | No rake
+Seat 1: XxEpiloguexX (button) won 218
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862825337028636-50-1702571348 - Holdem no limit (6/25/50) - 2023/12/14 16:29:08 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: XxEpiloguexX (593, 0.90€ bounty)
+Seat 2: P1xel7 (992, 1.35€ bounty)
+Seat 3: GP-Bilou (915, 1.35€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 6
+XxEpiloguexX posts ante 6
+P1xel7 posts ante 6
+GP-Bilou posts small blind 25
+XxEpiloguexX posts big blind 50
+Dealt to P1xel7 [Kd Kh]
+*** PRE-FLOP *** 
+P1xel7 raises 75 to 125
+GP-Bilou folds
+XxEpiloguexX folds
+P1xel7 collected 218 from pot
+*** SUMMARY ***
+Total pot 218 | No rake
+Seat 2: P1xel7 (button) won 218
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862825337028636-51-1702571357 - Holdem no limit (6/25/50) - 2023/12/14 16:29:17 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: XxEpiloguexX (537, 0.90€ bounty)
+Seat 2: P1xel7 (1079, 1.35€ bounty)
+Seat 3: GP-Bilou (884, 1.35€ bounty)
+*** ANTE/BLINDS ***
+XxEpiloguexX posts ante 6
+P1xel7 posts ante 6
+GP-Bilou posts ante 6
+XxEpiloguexX posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [7h 7s]
+*** PRE-FLOP *** 
+GP-Bilou raises 50 to 100
+XxEpiloguexX folds
+P1xel7 calls 50
+*** FLOP *** [Kd 6d 8d]
+P1xel7 checks
+GP-Bilou checks
+*** TURN *** [Kd 6d 8d][Kc]
+P1xel7 checks
+GP-Bilou bets 75
+P1xel7 calls 75
+*** RIVER *** [Kd 6d 8d Kc][8c]
+P1xel7 checks
+GP-Bilou checks
+*** SHOW DOWN ***
+P1xel7 shows [7h 7s] (Two pairs : Kings and 8)
+GP-Bilou shows [Ts Jc] (Two pairs : Kings and 8)
+GP-Bilou collected 393 from pot
+*** SUMMARY ***
+Total pot 393 | No rake
+Board: [Kd 6d 8d Kc 8c]
+Seat 2: P1xel7 (big blind) showed [7h 7s] and lost with Two pairs : Kings and 8
+Seat 3: GP-Bilou (button) showed [Ts Jc] and won 393 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862825337028636-52-1702571388 - Holdem no limit (6/25/50) - 2023/12/14 16:29:48 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: XxEpiloguexX (506, 0.90€ bounty)
+Seat 2: P1xel7 (898, 1.35€ bounty)
+Seat 3: GP-Bilou (1096, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+GP-Bilou posts ante 6
+XxEpiloguexX posts ante 6
+P1xel7 posts small blind 25
+GP-Bilou posts big blind 50
+Dealt to P1xel7 [4s 8c]
+*** PRE-FLOP *** 
+XxEpiloguexX raises 75 to 125
+P1xel7 folds
+GP-Bilou raises 965 to 1090 and is all-in
+XxEpiloguexX calls 375 and is all-in
+*** FLOP *** [2c 9c 6d]
+*** TURN *** [2c 9c 6d][7h]
+*** RIVER *** [2c 9c 6d 7h][Qd]
+*** SHOW DOWN ***
+XxEpiloguexX shows [7c As] (One pair : 7)
+GP-Bilou shows [7d 7s] (Trips of 7)
+GP-Bilou collected 1633 from pot
+*** SUMMARY ***
+Total pot 1633 | No rake
+Board: [2c 9c 6d 7h Qd]
+Seat 1: XxEpiloguexX (button) showed [7c As] and lost with One pair : 7
+Seat 3: GP-Bilou (big blind) showed [7d 7s] and won 1633 with Trips of 7
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862825337028636-53-1702571405 - Holdem no limit (7/30/60) - 2023/12/14 16:30:05 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (867, 1.35€ bounty)
+Seat 3: GP-Bilou (1633, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 7
+P1xel7 posts ante 7
+GP-Bilou posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Ad Ac]
+*** PRE-FLOP *** 
+GP-Bilou raises 60 to 120
+P1xel7 calls 60
+*** FLOP *** [Jd 9h 9c]
+P1xel7 checks
+GP-Bilou bets 90
+P1xel7 raises 251 to 341
+GP-Bilou folds
+P1xel7 collected 685 from pot
+*** SUMMARY ***
+Total pot 685 | No rake
+Board: [Jd 9h 9c]
+Seat 2: P1xel7 (big blind) won 685
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862825337028636-54-1702571434 - Holdem no limit (7/30/60) - 2023/12/14 16:30:34 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (1084, 1.35€ bounty)
+Seat 3: GP-Bilou (1416, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+GP-Bilou posts ante 7
+P1xel7 posts small blind 30
+GP-Bilou posts big blind 60
+Dealt to P1xel7 [5d Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Seat 3: GP-Bilou (big blind) won 104
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862825337028636-55-1702571438 - Holdem no limit (7/30/60) - 2023/12/14 16:30:38 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (1047, 1.35€ bounty)
+Seat 3: GP-Bilou (1453, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 7
+P1xel7 posts ante 7
+GP-Bilou posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [5h 5c]
+*** PRE-FLOP *** 
+GP-Bilou raises 60 to 120
+P1xel7 calls 60
+*** FLOP *** [3d 2h Kc]
+P1xel7 checks
+GP-Bilou checks
+*** TURN *** [3d 2h Kc][As]
+P1xel7 bets 64
+GP-Bilou raises 124 to 188
+P1xel7 folds
+GP-Bilou collected 506 from pot
+*** SUMMARY ***
+Total pot 506 | No rake
+Board: [3d 2h Kc As]
+Seat 3: GP-Bilou (small blind) (button) won 506
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862825337028636-56-1702571463 - Holdem no limit (7/30/60) - 2023/12/14 16:31:03 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: SEBAS MALEC (500, 0.90€ bounty)
+Seat 2: P1xel7 (856, 1.35€ bounty)
+Seat 3: GP-Bilou (1644, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+GP-Bilou posts ante 7
+P1xel7 posts small blind 30
+GP-Bilou posts big blind 60
+Dealt to P1xel7 [9d 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Seat 3: GP-Bilou (big blind) won 104
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862825337028636-57-1702571468 - Holdem no limit (7/30/60) - 2023/12/14 16:31:08 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: SEBAS MALEC (500, 0.90€ bounty)
+Seat 2: P1xel7 (819, 1.35€ bounty)
+Seat 3: GP-Bilou (1681, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 7
+SEBAS MALEC posts ante 7
+P1xel7 posts ante 7
+GP-Bilou posts small blind 30
+SEBAS MALEC posts big blind 60
+Dealt to P1xel7 [3c Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 120
+GP-Bilou folds
+SEBAS MALEC folds
+P1xel7 collected 231 from pot
+*** SUMMARY ***
+Total pot 231 | No rake
+Seat 2: P1xel7 (button) won 231
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862825337028636-58-1702571480 - Holdem no limit (7/30/60) - 2023/12/14 16:31:20 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: SEBAS MALEC (433, 0.90€ bounty)
+Seat 2: P1xel7 (923, 1.35€ bounty)
+Seat 3: GP-Bilou (1644, 1.80€ bounty)
+*** ANTE/BLINDS ***
+SEBAS MALEC posts ante 7
+P1xel7 posts ante 7
+GP-Bilou posts ante 7
+SEBAS MALEC posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [2c 9h]
+*** PRE-FLOP *** 
+GP-Bilou raises 90 to 150
+SEBAS MALEC folds
+P1xel7 folds
+GP-Bilou collected 261 from pot
+*** SUMMARY ***
+Total pot 261 | No rake
+Seat 3: GP-Bilou (button) won 261
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862825337028636-59-1702571490 - Holdem no limit (7/30/60) - 2023/12/14 16:31:30 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: SEBAS MALEC (396, 0.90€ bounty)
+Seat 2: P1xel7 (856, 1.35€ bounty)
+Seat 3: GP-Bilou (1748, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+GP-Bilou posts ante 7
+SEBAS MALEC posts ante 7
+P1xel7 posts small blind 30
+GP-Bilou posts big blind 60
+Dealt to P1xel7 [5d 9s]
+*** PRE-FLOP *** 
+SEBAS MALEC folds
+P1xel7 folds
+GP-Bilou collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | No rake
+Seat 3: GP-Bilou (big blind) won 111
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862825337028636-60-1702571498 - Holdem no limit (7/30/60) - 2023/12/14 16:31:38 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: SEBAS MALEC (389, 0.90€ bounty)
+Seat 2: P1xel7 (819, 1.35€ bounty)
+Seat 3: GP-Bilou (1792, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 7
+SEBAS MALEC posts ante 7
+P1xel7 posts ante 7
+GP-Bilou posts small blind 30
+SEBAS MALEC posts big blind 60
+Dealt to P1xel7 [Kc 9d]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 120
+GP-Bilou calls 90
+SEBAS MALEC calls 60
+*** FLOP *** [2h 6d As]
+GP-Bilou checks
+SEBAS MALEC checks
+P1xel7 bets 191
+GP-Bilou folds
+SEBAS MALEC folds
+P1xel7 collected 572 from pot
+*** SUMMARY ***
+Total pot 572 | No rake
+Board: [2h 6d As]
+Seat 2: P1xel7 (button) won 572
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862825337028636-61-1702571526 - Holdem no limit (7/30/60) - 2023/12/14 16:32:06 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: SEBAS MALEC (262, 0.90€ bounty)
+Seat 2: P1xel7 (1073, 1.35€ bounty)
+Seat 3: GP-Bilou (1665, 1.80€ bounty)
+*** ANTE/BLINDS ***
+SEBAS MALEC posts ante 7
+P1xel7 posts ante 7
+GP-Bilou posts ante 7
+SEBAS MALEC posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Th Jc]
+*** PRE-FLOP *** 
+GP-Bilou calls 60
+SEBAS MALEC folds
+P1xel7 checks
+*** FLOP *** [5c 5h 2c]
+P1xel7 checks
+GP-Bilou bets 60
+P1xel7 folds
+GP-Bilou collected 231 from pot
+*** SUMMARY ***
+Total pot 231 | No rake
+Board: [5c 5h 2c]
+Seat 3: GP-Bilou (button) won 231
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862825337028636-62-1702571545 - Holdem no limit (7/30/60) - 2023/12/14 16:32:25 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: SEBAS MALEC (225, 0.90€ bounty)
+Seat 2: P1xel7 (1006, 1.35€ bounty)
+Seat 3: GP-Bilou (1769, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+GP-Bilou posts ante 7
+SEBAS MALEC posts ante 7
+P1xel7 posts small blind 30
+GP-Bilou posts big blind 60
+Dealt to P1xel7 [7h 2c]
+*** PRE-FLOP *** 
+SEBAS MALEC raises 60 to 120
+P1xel7 folds
+GP-Bilou calls 60
+*** FLOP *** [Kd 4d As]
+GP-Bilou checks
+SEBAS MALEC bets 98 and is all-in
+GP-Bilou folds
+SEBAS MALEC collected 389 from pot
+*** SUMMARY ***
+Total pot 389 | No rake
+Board: [Kd 4d As]
+Seat 1: SEBAS MALEC (button) won 389
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3093862825337028636-63-1702571565 - Holdem no limit (8/35/70) - 2023/12/14 16:32:45 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: SEBAS MALEC (389, 0.90€ bounty)
+Seat 2: P1xel7 (969, 1.35€ bounty)
+Seat 3: GP-Bilou (1642, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 8
+SEBAS MALEC posts ante 8
+P1xel7 posts ante 8
+GP-Bilou posts small blind 35
+SEBAS MALEC posts big blind 70
+Dealt to P1xel7 [Js 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou calls 35
+SEBAS MALEC checks
+*** FLOP *** [3d Td 2d]
+GP-Bilou checks
+SEBAS MALEC checks
+*** TURN *** [3d Td 2d][8d]
+GP-Bilou bets 70
+SEBAS MALEC folds
+GP-Bilou collected 234 from pot
+*** SUMMARY ***
+Total pot 234 | No rake
+Board: [3d Td 2d 8d]
+Seat 3: GP-Bilou (small blind) won 234
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3093862825337028636-64-1702571580 - Holdem no limit (8/35/70) - 2023/12/14 16:33:00 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: SEBAS MALEC (311, 0.90€ bounty)
+Seat 2: P1xel7 (961, 1.35€ bounty)
+Seat 3: GP-Bilou (1728, 1.80€ bounty)
+*** ANTE/BLINDS ***
+SEBAS MALEC posts ante 8
+P1xel7 posts ante 8
+GP-Bilou posts ante 8
+SEBAS MALEC posts small blind 35
+P1xel7 posts big blind 70
+Dealt to P1xel7 [3h 6d]
+*** PRE-FLOP *** 
+GP-Bilou folds
+SEBAS MALEC raises 233 to 303 and is all-in
+P1xel7 calls 233
+*** FLOP *** [6c 2d 4c]
+*** TURN *** [6c 2d 4c][3s]
+*** RIVER *** [6c 2d 4c 3s][2s]
+*** SHOW DOWN ***
+SEBAS MALEC shows [8s Ah] (One pair : 2)
+P1xel7 shows [3h 6d] (Two pairs : 6 and 3)
+P1xel7 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [6c 2d 4c 3s 2s]
+Seat 1: SEBAS MALEC (small blind) showed [8s Ah] and lost with One pair : 2
+Seat 2: P1xel7 (big blind) showed [3h 6d] and won 630 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3093862825337028636-65-1702571609 - Holdem no limit (8/35/70) - 2023/12/14 16:33:29 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (1280, 1.80€ bounty)
+Seat 3: GP-Bilou (1720, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 8
+GP-Bilou posts ante 8
+P1xel7 posts small blind 35
+GP-Bilou posts big blind 70
+Dealt to P1xel7 [3d 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou collected 121 from pot
+*** SUMMARY ***
+Total pot 121 | No rake
+Seat 3: GP-Bilou (big blind) won 121
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3093862825337028636-66-1702571613 - Holdem no limit (8/35/70) - 2023/12/14 16:33:33 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (1237, 1.80€ bounty)
+Seat 3: GP-Bilou (1763, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 8
+P1xel7 posts ante 8
+GP-Bilou posts small blind 35
+P1xel7 posts big blind 70
+Dealt to P1xel7 [2c 5c]
+*** PRE-FLOP *** 
+GP-Bilou folds
+P1xel7 collected 121 from pot
+*** SUMMARY ***
+Total pot 121 | No rake
+Seat 2: P1xel7 (big blind) won 121
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3093862825337028636-67-1702571618 - Holdem no limit (8/35/70) - 2023/12/14 16:33:38 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: AaronWinfiel (747, 0.90€ bounty)
+Seat 2: P1xel7 (1280, 1.80€ bounty)
+Seat 3: GP-Bilou (1720, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 8
+GP-Bilou posts ante 8
+P1xel7 posts small blind 35
+GP-Bilou posts big blind 70
+Dealt to P1xel7 [3s As]
+*** PRE-FLOP *** 
+P1xel7 raises 70 to 140
+GP-Bilou calls 70
+*** FLOP *** [Kd Ah Ac]
+GP-Bilou checks
+P1xel7 bets 74
+GP-Bilou folds
+P1xel7 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Board: [Kd Ah Ac]
+Seat 2: P1xel7 (small blind) (button) won 370
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3093862825337028636-68-1702571638 - Holdem no limit (8/35/70) - 2023/12/14 16:33:58 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: AaronWinfiel (747, 0.90€ bounty)
+Seat 2: P1xel7 (1428, 1.80€ bounty)
+Seat 3: GP-Bilou (1572, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 8
+AaronWinfiel posts ante 8
+P1xel7 posts ante 8
+GP-Bilou posts small blind 35
+AaronWinfiel posts big blind 70
+Dealt to P1xel7 [Jh 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou folds
+AaronWinfiel collected 129 from pot
+*** SUMMARY ***
+Total pot 129 | No rake
+Seat 1: AaronWinfiel (big blind) won 129
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3093862825337028636-69-1702571644 - Holdem no limit (8/35/70) - 2023/12/14 16:34:04 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: AaronWinfiel (798, 0.90€ bounty)
+Seat 2: P1xel7 (1420, 1.80€ bounty)
+Seat 3: GP-Bilou (1529, 1.80€ bounty)
+*** ANTE/BLINDS ***
+AaronWinfiel posts ante 8
+P1xel7 posts ante 8
+GP-Bilou posts ante 8
+AaronWinfiel posts small blind 35
+P1xel7 posts big blind 70
+Dealt to P1xel7 [Ad 7d]
+*** PRE-FLOP *** 
+GP-Bilou folds
+AaronWinfiel calls 35
+P1xel7 checks
+*** FLOP *** [2s 2d Qs]
+AaronWinfiel checks
+P1xel7 checks
+*** TURN *** [2s 2d Qs][6c]
+AaronWinfiel checks
+P1xel7 bets 82
+AaronWinfiel calls 82
+*** RIVER *** [2s 2d Qs 6c][5h]
+AaronWinfiel bets 213
+P1xel7 folds
+AaronWinfiel collected 541 from pot
+*** SUMMARY ***
+Total pot 541 | No rake
+Board: [2s 2d Qs 6c 5h]
+Seat 1: AaronWinfiel (small blind) won 541
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3093862825337028636-70-1702571681 - Holdem no limit (8/35/70) - 2023/12/14 16:34:41 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: AaronWinfiel (966, 0.90€ bounty)
+Seat 2: P1xel7 (1260, 1.80€ bounty)
+Seat 3: GP-Bilou (1521, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 8
+GP-Bilou posts ante 8
+AaronWinfiel posts ante 8
+P1xel7 posts small blind 35
+GP-Bilou posts big blind 70
+Dealt to P1xel7 [2s 5h]
+*** PRE-FLOP *** 
+AaronWinfiel folds
+P1xel7 folds
+GP-Bilou collected 129 from pot
+*** SUMMARY ***
+Total pot 129 | No rake
+Seat 3: GP-Bilou (big blind) won 129
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3093862825337028636-71-1702571685 - Holdem no limit (8/35/70) - 2023/12/14 16:34:45 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: AaronWinfiel (958, 0.90€ bounty)
+Seat 2: P1xel7 (1217, 1.80€ bounty)
+Seat 3: GP-Bilou (1572, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 8
+AaronWinfiel posts ante 8
+P1xel7 posts ante 8
+GP-Bilou posts small blind 35
+AaronWinfiel posts big blind 70
+Dealt to P1xel7 [3d 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou calls 35
+AaronWinfiel checks
+*** FLOP *** [6h Js 4c]
+GP-Bilou bets 70
+AaronWinfiel folds
+GP-Bilou collected 234 from pot
+*** SUMMARY ***
+Total pot 234 | No rake
+Board: [6h Js 4c]
+Seat 3: GP-Bilou (small blind) won 234
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3093862825337028636-72-1702571698 - Holdem no limit (8/35/70) - 2023/12/14 16:34:58 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: AaronWinfiel (880, 0.90€ bounty)
+Seat 2: P1xel7 (1209, 1.80€ bounty)
+Seat 3: GP-Bilou (1658, 1.80€ bounty)
+*** ANTE/BLINDS ***
+AaronWinfiel posts ante 8
+P1xel7 posts ante 8
+GP-Bilou posts ante 8
+AaronWinfiel posts small blind 35
+P1xel7 posts big blind 70
+Dealt to P1xel7 [7c 4d]
+*** PRE-FLOP *** 
+GP-Bilou folds
+AaronWinfiel calls 35
+P1xel7 checks
+*** FLOP *** [8h 3c 4c]
+AaronWinfiel checks
+P1xel7 bets 82
+AaronWinfiel calls 82
+*** TURN *** [8h 3c 4c][Jc]
+AaronWinfiel checks
+P1xel7 bets 1049 and is all-in
+AaronWinfiel folds
+P1xel7 collected 1377 from pot
+*** SUMMARY ***
+Total pot 1377 | No rake
+Board: [8h 3c 4c Jc]
+Seat 2: P1xel7 (big blind) won 1377
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3093862825337028636-73-1702571724 - Holdem no limit (10/40/80) - 2023/12/14 16:35:24 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: AaronWinfiel (720, 0.90€ bounty)
+Seat 2: P1xel7 (1377, 1.80€ bounty)
+Seat 3: GP-Bilou (1650, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+GP-Bilou posts ante 10
+AaronWinfiel posts ante 10
+P1xel7 posts small blind 40
+GP-Bilou posts big blind 80
+Dealt to P1xel7 [5d 6c]
+*** PRE-FLOP *** 
+AaronWinfiel folds
+P1xel7 folds
+GP-Bilou collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: GP-Bilou (big blind) won 150
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3093862825337028636-74-1702571729 - Holdem no limit (10/40/80) - 2023/12/14 16:35:29 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: AaronWinfiel (710, 0.90€ bounty)
+Seat 2: P1xel7 (1327, 1.80€ bounty)
+Seat 3: GP-Bilou (1710, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 10
+AaronWinfiel posts ante 10
+P1xel7 posts ante 10
+GP-Bilou posts small blind 40
+AaronWinfiel posts big blind 80
+Dealt to P1xel7 [6c 6d]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 200
+GP-Bilou folds
+AaronWinfiel calls 120
+*** FLOP *** [Tc Jc Kc]
+AaronWinfiel checks
+P1xel7 bets 80
+AaronWinfiel calls 80
+*** TURN *** [Tc Jc Kc][3h]
+AaronWinfiel checks
+P1xel7 checks
+*** RIVER *** [Tc Jc Kc 3h][Ts]
+AaronWinfiel checks
+P1xel7 checks
+*** SHOW DOWN ***
+AaronWinfiel shows [5s Ah] (One pair : Tens)
+P1xel7 shows [6c 6d] (Two pairs : Tens and 6)
+P1xel7 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [Tc Jc Kc 3h Ts]
+Seat 1: AaronWinfiel (big blind) showed [5s Ah] and lost with One pair : Tens
+Seat 2: P1xel7 (button) showed [6c 6d] and won 630 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3093862825337028636-75-1702571757 - Holdem no limit (10/40/80) - 2023/12/14 16:35:57 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: AaronWinfiel (420, 0.90€ bounty)
+Seat 2: P1xel7 (1667, 1.80€ bounty)
+Seat 3: GP-Bilou (1660, 1.80€ bounty)
+*** ANTE/BLINDS ***
+AaronWinfiel posts ante 10
+P1xel7 posts ante 10
+GP-Bilou posts ante 10
+AaronWinfiel posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [4h Td]
+*** PRE-FLOP *** 
+GP-Bilou folds
+AaronWinfiel folds
+P1xel7 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 2: P1xel7 (big blind) won 150
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3093862825337028636-76-1702571764 - Holdem no limit (10/40/80) - 2023/12/14 16:36:04 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: AaronWinfiel (370, 0.90€ bounty)
+Seat 2: P1xel7 (1727, 1.80€ bounty)
+Seat 3: GP-Bilou (1650, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+GP-Bilou posts ante 10
+AaronWinfiel posts ante 10
+P1xel7 posts small blind 40
+GP-Bilou posts big blind 80
+Dealt to P1xel7 [Ac 3c]
+*** PRE-FLOP *** 
+AaronWinfiel raises 280 to 360 and is all-in
+P1xel7 calls 320
+GP-Bilou folds
+*** FLOP *** [8h 3h 7s]
+*** TURN *** [8h 3h 7s][Ad]
+*** RIVER *** [8h 3h 7s Ad][9s]
+*** SHOW DOWN ***
+AaronWinfiel shows [Tc Kc] (High card : Ace)
+P1xel7 shows [Ac 3c] (Two pairs : Aces and 3)
+P1xel7 collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Board: [8h 3h 7s Ad 9s]
+Seat 1: AaronWinfiel (button) showed [Tc Kc] and lost with High card : Ace
+Seat 2: P1xel7 (small blind) showed [Ac 3c] and won 830 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3093862825337028636-77-1702571781 - Holdem no limit (10/40/80) - 2023/12/14 16:36:21 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (2187, 2.25€ bounty)
+Seat 3: GP-Bilou (1560, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 10
+P1xel7 posts ante 10
+GP-Bilou posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Td 6c]
+*** PRE-FLOP *** 
+GP-Bilou calls 40
+P1xel7 checks
+*** FLOP *** [Jc 4d 9d]
+P1xel7 checks
+GP-Bilou checks
+*** TURN *** [Jc 4d 9d][6h]
+P1xel7 checks
+GP-Bilou bets 120
+P1xel7 calls 120
+*** RIVER *** [Jc 4d 9d 6h][Jd]
+P1xel7 checks
+GP-Bilou checks
+*** SHOW DOWN ***
+GP-Bilou shows [5h Kc] (One pair : Jacks)
+P1xel7 shows [Td 6c] (Two pairs : Jacks and 6)
+P1xel7 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [Jc 4d 9d 6h Jd]
+Seat 2: P1xel7 (big blind) showed [Td 6c] and won 420 with Two pairs : Jacks and 6
+Seat 3: GP-Bilou (small blind) (button) showed [5h Kc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3093862825337028636-78-1702571810 - Holdem no limit (10/40/80) - 2023/12/14 16:36:50 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (2397, 2.25€ bounty)
+Seat 3: GP-Bilou (1350, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+GP-Bilou posts ante 10
+P1xel7 posts small blind 40
+GP-Bilou posts big blind 80
+Dealt to P1xel7 [2d 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 3: GP-Bilou (big blind) won 140
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3093862825337028636-79-1702571814 - Holdem no limit (10/40/80) - 2023/12/14 16:36:54 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (2347, 2.25€ bounty)
+Seat 3: GP-Bilou (1400, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 10
+P1xel7 posts ante 10
+GP-Bilou posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Ah 2s]
+*** PRE-FLOP *** 
+GP-Bilou folds
+P1xel7 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 2: P1xel7 (big blind) won 140
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3093862825337028636-80-1702571819 - Holdem no limit (10/40/80) - 2023/12/14 16:36:59 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (2397, 2.25€ bounty)
+Seat 3: GP-Bilou (1350, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+GP-Bilou posts ante 10
+P1xel7 posts small blind 40
+GP-Bilou posts big blind 80
+Dealt to P1xel7 [Jh 8h]
+*** PRE-FLOP *** 
+P1xel7 raises 80 to 160
+GP-Bilou calls 80
+*** FLOP *** [4d 9s 8c]
+GP-Bilou checks
+P1xel7 bets 119
+GP-Bilou calls 119
+*** TURN *** [4d 9s 8c][Tc]
+GP-Bilou checks
+P1xel7 bets 289
+GP-Bilou raises 772 to 1061 and is all-in
+P1xel7 calls 772
+*** RIVER *** [4d 9s 8c Tc][9c]
+*** SHOW DOWN ***
+P1xel7 shows [Jh 8h] (Two pairs : 9 and 8)
+GP-Bilou shows [Js Ts] (Two pairs : Tens and 9)
+GP-Bilou collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [4d 9s 8c Tc 9c]
+Seat 2: P1xel7 (small blind) (button) showed [Jh 8h] and lost with Two pairs : 9 and 8
+Seat 3: GP-Bilou (big blind) showed [Js Ts] and won 2700 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3093862825337028636-81-1702571854 - Holdem no limit (12/50/100) - 2023/12/14 16:37:34 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: BackToBlack (500, 0.90€ bounty)
+Seat 2: P1xel7 (1047, 2.25€ bounty)
+Seat 3: GP-Bilou (2700, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 12
+BackToBlack posts ante 12
+P1xel7 posts ante 12
+GP-Bilou posts small blind 50
+BackToBlack posts big blind 100
+Dealt to P1xel7 [Jc Js]
+*** PRE-FLOP *** 
+P1xel7 raises 935 to 1035 and is all-in
+GP-Bilou calls 985
+BackToBlack folds
+*** FLOP *** [3c 7s 5h]
+*** TURN *** [3c 7s 5h][8d]
+*** RIVER *** [3c 7s 5h 8d][6s]
+*** SHOW DOWN ***
+GP-Bilou shows [Qh Ad] (High card : Ace)
+P1xel7 shows [Jc Js] (One pair : Jacks)
+P1xel7 collected 2206 from pot
+*** SUMMARY ***
+Total pot 2206 | No rake
+Board: [3c 7s 5h 8d 6s]
+Seat 2: P1xel7 (button) showed [Jc Js] and won 2206 with One pair : Jacks
+Seat 3: GP-Bilou (small blind) showed [Qh Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3093862825337028636-82-1702571877 - Holdem no limit (12/50/100) - 2023/12/14 16:37:57 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: BackToBlack (388, 0.90€ bounty)
+Seat 2: P1xel7 (2206, 2.25€ bounty)
+Seat 3: GP-Bilou (1653, 1.80€ bounty)
+*** ANTE/BLINDS ***
+BackToBlack posts ante 12
+P1xel7 posts ante 12
+GP-Bilou posts ante 12
+BackToBlack posts small blind 50
+P1xel7 posts big blind 100
+Dealt to P1xel7 [Ah Kh]
+*** PRE-FLOP *** 
+GP-Bilou raises 100 to 200
+BackToBlack raises 176 to 376 and is all-in
+P1xel7 raises 1818 to 2194 and is all-in
+GP-Bilou calls 1441 and is all-in
+*** FLOP *** [Kd Qh Ts]
+*** TURN *** [Kd Qh Ts][As]
+*** RIVER *** [Kd Qh Ts As][3d]
+*** SHOW DOWN ***
+BackToBlack shows [2h 2c] (One pair : 2)
+P1xel7 shows [Ah Kh] (Two pairs : Aces and Kings)
+GP-Bilou shows [Jd Qs] (Straight Ace high)
+GP-Bilou collected 3694 from main pot
+P1xel7 collected 553 from side pot 1
+*** SUMMARY ***
+Total pot 4247 | No rake
+Board: [Kd Qh Ts As 3d]
+Seat 1: BackToBlack (small blind) showed [2h 2c] and lost with One pair : 2
+Seat 2: P1xel7 (big blind) showed [Ah Kh] and won 553 with Two pairs : Aces and Kings
+Seat 3: GP-Bilou (button) showed [Jd Qs] and won 3694 with Straight Ace high
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3093862825337028636-83-1702571902 - Holdem no limit (12/50/100) - 2023/12/14 16:38:22 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (553, 2.25€ bounty)
+Seat 3: GP-Bilou (3694, 2.25€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 12
+GP-Bilou posts ante 12
+P1xel7 posts small blind 50
+GP-Bilou posts big blind 100
+Dealt to P1xel7 [5h Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | No rake
+Seat 3: GP-Bilou (big blind) won 174
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3093862825337028636-84-1702571908 - Holdem no limit (12/50/100) - 2023/12/14 16:38:28 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (491, 2.25€ bounty)
+Seat 3: GP-Bilou (3756, 2.25€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 12
+P1xel7 posts ante 12
+GP-Bilou posts small blind 50
+P1xel7 posts big blind 100
+Dealt to P1xel7 [6h Ts]
+*** PRE-FLOP *** 
+GP-Bilou calls 50
+P1xel7 checks
+*** FLOP *** [9s 2s 4s]
+P1xel7 checks
+GP-Bilou bets 100
+P1xel7 folds
+GP-Bilou collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [9s 2s 4s]
+Seat 3: GP-Bilou (small blind) (button) won 324
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3093862825337028636-85-1702571922 - Holdem no limit (12/50/100) - 2023/12/14 16:38:42 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: mataberrant (500, 0.90€ bounty)
+Seat 2: P1xel7 (379, 2.25€ bounty)
+Seat 3: GP-Bilou (3868, 2.25€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 12
+GP-Bilou posts ante 12
+P1xel7 posts small blind 50
+GP-Bilou posts big blind 100
+Dealt to P1xel7 [5d Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+GP-Bilou collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | No rake
+Seat 3: GP-Bilou (big blind) won 174
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3093862825337028636-86-1702571926 - Holdem no limit (12/50/100) - 2023/12/14 16:38:46 UTC
+Table: 'Trident(720346073)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: mataberrant (500, 0.90€ bounty)
+Seat 2: P1xel7 (317, 2.25€ bounty)
+Seat 3: GP-Bilou (3930, 2.25€ bounty)
+*** ANTE/BLINDS ***
+GP-Bilou posts ante 12
+mataberrant posts ante 12
+P1xel7 posts ante 12
+GP-Bilou posts small blind 50
+mataberrant posts big blind 100
+Dealt to P1xel7 [Ad 8d]
+*** PRE-FLOP *** 
+P1xel7 raises 205 to 305 and is all-in
+GP-Bilou calls 255
+mataberrant raises 183 to 488 and is all-in
+GP-Bilou calls 183
+*** FLOP *** [4h 8s Qd]
+*** TURN *** [4h 8s Qd][3h]
+*** RIVER *** [4h 8s Qd 3h][Th]
+*** SHOW DOWN ***
+P1xel7 shows [Ad 8d] (One pair : 8)
+GP-Bilou shows [Qs 7d] (One pair : Queens)
+mataberrant shows [9h Jh] (Flush Jack high)
+mataberrant collected 1317 from pot
+*** SUMMARY ***
+Total pot 1317 | No rake
+Board: [4h 8s Qd 3h Th]
+Seat 1: mataberrant (big blind) showed [9h Jh] and won 1317 with Flush Jack high
+Seat 2: P1xel7 (button) showed [Ad 8d] and lost with One pair : 8
+Seat 3: GP-Bilou (small blind) showed [Qs 7d] and lost with One pair : Queens
+
+

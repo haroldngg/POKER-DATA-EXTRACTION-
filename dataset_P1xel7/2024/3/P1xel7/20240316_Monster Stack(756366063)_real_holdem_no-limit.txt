@@ -1,0 +1,2049 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248567504389275660-26-1710606310 - Holdem no limit (160/700/1400) - 2024/03/16 16:25:10 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #4 is the button
+Seat 1: Tou-9 (100307)
+Seat 2: Ludovic D_ (185510)
+Seat 3: P1xel7 (100000)
+Seat 4: la grive 1 (85479)
+Seat 5: TDCall4bet (240096)
+Seat 6: Saur_5005207 (111004)
+*** ANTE/BLINDS ***
+TDCall4bet posts ante 160
+Saur_5005207 posts ante 160
+Tou-9 posts ante 160
+Ludovic D_ posts ante 160
+P1xel7 posts ante 160
+la grive 1 posts ante 160
+TDCall4bet posts small blind 700
+Saur_5005207 posts big blind 1400
+Dealt to P1xel7 [Js Ah]
+*** PRE-FLOP *** 
+Tou-9 folds
+Ludovic D_ folds
+P1xel7 raises 2100 to 3500
+la grive 1 folds
+TDCall4bet calls 2800
+Saur_5005207 calls 2100
+*** FLOP *** [5c 4c 3h]
+TDCall4bet checks
+Saur_5005207 bets 7449
+P1xel7 folds
+TDCall4bet folds
+Saur_5005207 collected 18909 from pot
+*** SUMMARY ***
+Total pot 18909 | No rake
+Board: [5c 4c 3h]
+Seat 6: Saur_5005207 (big blind) won 18909
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248567504389275660-27-1710606368 - Holdem no limit (160/700/1400) - 2024/03/16 16:26:08 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #5 is the button
+Seat 1: Tou-9 (100147)
+Seat 2: Ludovic D_ (185350)
+Seat 3: P1xel7 (96340)
+Seat 4: la grive 1 (85319)
+Seat 5: TDCall4bet (236436)
+Seat 6: Saur_5005207 (118804)
+*** ANTE/BLINDS ***
+Saur_5005207 posts ante 160
+Tou-9 posts ante 160
+Ludovic D_ posts ante 160
+P1xel7 posts ante 160
+la grive 1 posts ante 160
+TDCall4bet posts ante 160
+Saur_5005207 posts small blind 700
+Tou-9 posts big blind 1400
+Dealt to P1xel7 [5h 4s]
+*** PRE-FLOP *** 
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet folds
+Saur_5005207 calls 700
+Tou-9 raises 3500 to 4900
+Saur_5005207 calls 3500
+*** FLOP *** [Qc As 3c]
+Saur_5005207 checks
+Tou-9 checks
+*** TURN *** [Qc As 3c][Jd]
+Saur_5005207 bets 1400
+Tou-9 calls 1400
+*** RIVER *** [Qc As 3c Jd][3d]
+Saur_5005207 checks
+Tou-9 checks
+*** SHOW DOWN ***
+Tou-9 shows [8s Jc] (Two pairs : Jacks and 3)
+Saur_5005207 shows [Qd 2d] (Two pairs : Queens and 3)
+Saur_5005207 collected 13560 from pot
+*** SUMMARY ***
+Total pot 13560 | No rake
+Board: [Qc As 3c Jd 3d]
+Seat 1: Tou-9 (big blind) showed [8s Jc] and lost with Two pairs : Jacks and 3
+Seat 6: Saur_5005207 (small blind) showed [Qd 2d] and won 13560 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248567504389275660-28-1710606443 - Holdem no limit (160/700/1400) - 2024/03/16 16:27:23 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #6 is the button
+Seat 1: Tou-9 (93687)
+Seat 2: Ludovic D_ (185190)
+Seat 3: P1xel7 (96180)
+Seat 4: la grive 1 (85159)
+Seat 5: TDCall4bet (236276)
+Seat 6: Saur_5005207 (125904)
+*** ANTE/BLINDS ***
+Tou-9 posts ante 160
+Ludovic D_ posts ante 160
+P1xel7 posts ante 160
+la grive 1 posts ante 160
+TDCall4bet posts ante 160
+Saur_5005207 posts ante 160
+Tou-9 posts small blind 700
+Ludovic D_ posts big blind 1400
+Dealt to P1xel7 [Ks Kc]
+*** PRE-FLOP *** 
+P1xel7 raises 2100 to 3500
+la grive 1 folds
+TDCall4bet folds
+Saur_5005207 calls 3500
+Tou-9 calls 2800
+Ludovic D_ folds
+*** FLOP *** [Qh 3d 3c]
+Tou-9 checks
+P1xel7 bets 6430
+Saur_5005207 folds
+Tou-9 folds
+P1xel7 collected 19290 from pot
+*** SUMMARY ***
+Total pot 19290 | No rake
+Board: [Qh 3d 3c]
+Seat 3: P1xel7 won 19290
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248567504389275660-29-1710606507 - Holdem no limit (160/700/1400) - 2024/03/16 16:28:27 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #1 is the button
+Seat 1: Tou-9 (90027)
+Seat 2: Ludovic D_ (183630)
+Seat 3: P1xel7 (105380)
+Seat 4: la grive 1 (84999)
+Seat 5: TDCall4bet (236116)
+Seat 6: Saur_5005207 (122244)
+*** ANTE/BLINDS ***
+Ludovic D_ posts ante 160
+P1xel7 posts ante 160
+Tou-9 posts ante 160
+la grive 1 posts ante 160
+TDCall4bet posts ante 160
+Saur_5005207 posts ante 160
+Ludovic D_ posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [3d Ts]
+*** PRE-FLOP *** 
+la grive 1 folds
+TDCall4bet calls 1400
+Saur_5005207 folds
+Tou-9 calls 1400
+Ludovic D_ calls 700
+P1xel7 checks
+*** FLOP *** [Ks 5c Ah]
+Ludovic D_ checks
+P1xel7 checks
+TDCall4bet checks
+Tou-9 checks
+*** TURN *** [Ks 5c Ah][Qh]
+Ludovic D_ checks
+P1xel7 checks
+TDCall4bet bets 6560
+Tou-9 calls 6560
+Ludovic D_ folds
+P1xel7 folds
+*** RIVER *** [Ks 5c Ah Qh][6s]
+TDCall4bet bets 9840
+Tou-9 calls 9840
+*** SHOW DOWN ***
+Tou-9 shows [7d As] (One pair : Aces)
+TDCall4bet shows [Tc Jd] (Straight Ace high)
+TDCall4bet collected 39360 from pot
+*** SUMMARY ***
+Total pot 39360 | No rake
+Board: [Ks 5c Ah Qh 6s]
+Seat 1: Tou-9 (button) showed [7d As] and lost with One pair : Aces
+Seat 5: TDCall4bet showed [Tc Jd] and won 39360 with Straight Ace high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248567504389275660-30-1710606590 - Holdem no limit (160/700/1400) - 2024/03/16 16:29:50 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #2 is the button
+Seat 1: Tou-9 (72067)
+Seat 2: Ludovic D_ (182070)
+Seat 3: P1xel7 (103820)
+Seat 4: la grive 1 (84839)
+Seat 5: TDCall4bet (257516)
+Seat 6: Saur_5005207 (122084)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+la grive 1 posts ante 160
+Tou-9 posts ante 160
+Ludovic D_ posts ante 160
+TDCall4bet posts ante 160
+Saur_5005207 posts ante 160
+P1xel7 posts small blind 700
+la grive 1 posts big blind 1400
+Dealt to P1xel7 [5d 3s]
+*** PRE-FLOP *** 
+TDCall4bet raises 1750 to 3150
+Saur_5005207 folds
+Tou-9 calls 3150
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+*** FLOP *** [4s Qh 8d]
+TDCall4bet checks
+Tou-9 checks
+*** TURN *** [4s Qh 8d][As]
+TDCall4bet bets 2340
+Tou-9 folds
+TDCall4bet collected 11700 from pot
+*** SUMMARY ***
+Total pot 11700 | No rake
+Board: [4s Qh 8d As]
+Seat 5: TDCall4bet won 11700
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248567504389275660-31-1710606628 - Holdem no limit (160/700/1400) - 2024/03/16 16:30:28 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #3 is the button
+Seat 1: Tou-9 (68757)
+Seat 2: Ludovic D_ (181910)
+Seat 3: P1xel7 (102960)
+Seat 4: la grive 1 (83279)
+Seat 5: TDCall4bet (263566)
+Seat 6: Saur_5005207 (121924)
+*** ANTE/BLINDS ***
+la grive 1 posts ante 160
+TDCall4bet posts ante 160
+Tou-9 posts ante 160
+Ludovic D_ posts ante 160
+P1xel7 posts ante 160
+Saur_5005207 posts ante 160
+la grive 1 posts small blind 700
+TDCall4bet posts big blind 1400
+Dealt to P1xel7 [Kh 9h]
+*** PRE-FLOP *** 
+Saur_5005207 folds
+Tou-9 folds
+Ludovic D_ folds
+P1xel7 raises 1680 to 3080
+la grive 1 folds
+TDCall4bet calls 1680
+*** FLOP *** [2d 2h 7h]
+TDCall4bet bets 3910
+P1xel7 calls 3910
+*** TURN *** [2d 2h 7h][3h]
+TDCall4bet bets 5474
+P1xel7 calls 5474
+*** RIVER *** [2d 2h 7h 3h][8h]
+TDCall4bet bets 9306
+P1xel7 raises 26123 to 35429
+TDCall4bet folds
+P1xel7 collected 71323 from pot
+*** SUMMARY ***
+Total pot 71323 | No rake
+Board: [2d 2h 7h 3h 8h]
+Seat 3: P1xel7 (button) won 71323
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248567504389275660-32-1710606684 - Holdem no limit (160/700/1400) - 2024/03/16 16:31:24 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #4 is the button
+Seat 1: Tou-9 (68597)
+Seat 2: Ludovic D_ (181750)
+Seat 3: P1xel7 (126230)
+Seat 4: la grive 1 (82419)
+Seat 5: TDCall4bet (241636)
+Seat 6: Saur_5005207 (121764)
+*** ANTE/BLINDS ***
+TDCall4bet posts ante 160
+Saur_5005207 posts ante 160
+Tou-9 posts ante 160
+Ludovic D_ posts ante 160
+P1xel7 posts ante 160
+la grive 1 posts ante 160
+TDCall4bet posts small blind 700
+Saur_5005207 posts big blind 1400
+Dealt to P1xel7 [Th 6h]
+*** PRE-FLOP *** 
+Tou-9 folds
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet folds
+Saur_5005207 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 6: Saur_5005207 (big blind) won 3060
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248567504389275660-33-1710606713 - Holdem no limit (160/700/1400) - 2024/03/16 16:31:53 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #5 is the button
+Seat 1: Tou-9 (68437)
+Seat 2: Ludovic D_ (181590)
+Seat 3: P1xel7 (126070)
+Seat 4: la grive 1 (82259)
+Seat 5: TDCall4bet (240776)
+Seat 6: Saur_5005207 (123264)
+*** ANTE/BLINDS ***
+Saur_5005207 posts ante 160
+Tou-9 posts ante 160
+Ludovic D_ posts ante 160
+P1xel7 posts ante 160
+la grive 1 posts ante 160
+TDCall4bet posts ante 160
+Saur_5005207 posts small blind 700
+Tou-9 posts big blind 1400
+Dealt to P1xel7 [5d 3c]
+*** PRE-FLOP *** 
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet raises 1750 to 3150
+Saur_5005207 calls 2450
+Tou-9 folds
+*** FLOP *** [7d 9h 8s]
+Saur_5005207 checks
+TDCall4bet bets 4330
+Saur_5005207 folds
+TDCall4bet collected 12990 from pot
+*** SUMMARY ***
+Total pot 12990 | No rake
+Board: [7d 9h 8s]
+Seat 5: TDCall4bet (button) won 12990
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248567504389275660-34-1710606751 - Holdem no limit (200/800/1600) - 2024/03/16 16:32:31 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #6 is the button
+Seat 1: Tou-9 (66877)
+Seat 2: Ludovic D_ (181430)
+Seat 3: P1xel7 (125910)
+Seat 4: la grive 1 (82099)
+Seat 5: TDCall4bet (246126)
+Seat 6: Saur_5005207 (119954)
+*** ANTE/BLINDS ***
+Tou-9 posts ante 200
+Ludovic D_ posts ante 200
+P1xel7 posts ante 200
+la grive 1 posts ante 200
+TDCall4bet posts ante 200
+Saur_5005207 posts ante 200
+Tou-9 posts small blind 800
+Ludovic D_ posts big blind 1600
+Dealt to P1xel7 [6d Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+la grive 1 calls 1600
+TDCall4bet folds
+Saur_5005207 folds
+Tou-9 calls 800
+Ludovic D_ checks
+*** FLOP *** [Ts 7s 8d]
+Tou-9 checks
+Ludovic D_ checks
+la grive 1 checks
+*** TURN *** [Ts 7s 8d][7d]
+Tou-9 bets 3000
+Ludovic D_ calls 3000
+la grive 1 calls 3000
+*** RIVER *** [Ts 7s 8d 7d][9d]
+Tou-9 bets 11250
+Ludovic D_ folds
+la grive 1 calls 11250
+*** SHOW DOWN ***
+Tou-9 shows [Jh Qc] (Straight Queen high)
+la grive 1 shows [Qd 5d] (Flush Queen high)
+la grive 1 collected 37500 from pot
+*** SUMMARY ***
+Total pot 37500 | No rake
+Board: [Ts 7s 8d 7d 9d]
+Seat 1: Tou-9 (small blind) showed [Jh Qc] and lost with Straight Queen high
+Seat 4: la grive 1 showed [Qd 5d] and won 37500 with Flush Queen high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248567504389275660-35-1710606816 - Holdem no limit (200/800/1600) - 2024/03/16 16:33:36 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #1 is the button
+Seat 1: Tou-9 (50827)
+Seat 2: Ludovic D_ (176630)
+Seat 3: P1xel7 (125710)
+Seat 4: la grive 1 (103549)
+Seat 5: TDCall4bet (245926)
+Seat 6: Saur_5005207 (119754)
+*** ANTE/BLINDS ***
+Ludovic D_ posts ante 200
+P1xel7 posts ante 200
+Tou-9 posts ante 200
+la grive 1 posts ante 200
+TDCall4bet posts ante 200
+Saur_5005207 posts ante 200
+Ludovic D_ posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [7h 9s]
+*** PRE-FLOP *** 
+la grive 1 folds
+TDCall4bet folds
+Saur_5005207 calls 1600
+Tou-9 folds
+Ludovic D_ calls 800
+P1xel7 checks
+*** FLOP *** [Ad 8h 4d]
+Ludovic D_ checks
+P1xel7 checks
+Saur_5005207 bets 6000
+Ludovic D_ calls 6000
+P1xel7 folds
+*** TURN *** [Ad 8h 4d][Qs]
+Ludovic D_ checks
+Saur_5005207 bets 11700
+Ludovic D_ calls 11700
+*** RIVER *** [Ad 8h 4d Qs][Kc]
+Ludovic D_ checks
+Saur_5005207 checks
+*** SHOW DOWN ***
+Saur_5005207 shows [5d Ah] (One pair : Aces)
+Ludovic D_ shows [4h 8s] (Two pairs : 8 and 4)
+Ludovic D_ collected 41400 from pot
+*** SUMMARY ***
+Total pot 41400 | No rake
+Board: [Ad 8h 4d Qs Kc]
+Seat 2: Ludovic D_ (small blind) showed [4h 8s] and won 41400 with Two pairs : 8 and 4
+Seat 6: Saur_5005207 showed [5d Ah] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248567504389275660-36-1710606875 - Holdem no limit (200/800/1600) - 2024/03/16 16:34:35 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #2 is the button
+Seat 1: Tou-9 (50627)
+Seat 2: Ludovic D_ (198530)
+Seat 3: P1xel7 (123910)
+Seat 4: la grive 1 (103349)
+Seat 5: TDCall4bet (245726)
+Seat 6: Saur_5005207 (100254)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+la grive 1 posts ante 200
+Tou-9 posts ante 200
+Ludovic D_ posts ante 200
+TDCall4bet posts ante 200
+Saur_5005207 posts ante 200
+P1xel7 posts small blind 800
+la grive 1 posts big blind 1600
+Dealt to P1xel7 [3h 2c]
+*** PRE-FLOP *** 
+TDCall4bet folds
+Saur_5005207 raises 5200 to 6800
+Tou-9 folds
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+Saur_5005207 collected 10400 from pot
+*** SUMMARY ***
+Total pot 10400 | No rake
+Seat 6: Saur_5005207 won 10400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248567504389275660-37-1710606895 - Holdem no limit (200/800/1600) - 2024/03/16 16:34:55 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #3 is the button
+Seat 1: Tou-9 (50427)
+Seat 2: Ludovic D_ (198330)
+Seat 3: P1xel7 (122910)
+Seat 4: la grive 1 (101549)
+Seat 5: TDCall4bet (245526)
+Seat 6: Saur_5005207 (103654)
+*** ANTE/BLINDS ***
+la grive 1 posts ante 200
+TDCall4bet posts ante 200
+Tou-9 posts ante 200
+Ludovic D_ posts ante 200
+P1xel7 posts ante 200
+Saur_5005207 posts ante 200
+la grive 1 posts small blind 800
+TDCall4bet posts big blind 1600
+Dealt to P1xel7 [7c 8d]
+*** PRE-FLOP *** 
+Saur_5005207 calls 1600
+Tou-9 folds
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 calls 800
+TDCall4bet checks
+*** FLOP *** [6h 9h 3d]
+la grive 1 checks
+TDCall4bet bets 3000
+Saur_5005207 calls 3000
+la grive 1 folds
+*** TURN *** [6h 9h 3d][Qs]
+TDCall4bet checks
+Saur_5005207 bets 4200
+TDCall4bet calls 4200
+*** RIVER *** [6h 9h 3d Qs][6d]
+TDCall4bet checks
+Saur_5005207 bets 13260
+TDCall4bet folds
+Saur_5005207 collected 33660 from pot
+*** SUMMARY ***
+Total pot 33660 | No rake
+Board: [6h 9h 3d Qs 6d]
+Seat 6: Saur_5005207 won 33660
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248567504389275660-38-1710606961 - Holdem no limit (200/800/1600) - 2024/03/16 16:36:01 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #4 is the button
+Seat 1: Tou-9 (50227)
+Seat 2: Ludovic D_ (198130)
+Seat 3: P1xel7 (122710)
+Seat 4: la grive 1 (99749)
+Seat 5: TDCall4bet (236526)
+Seat 6: Saur_5005207 (115054)
+*** ANTE/BLINDS ***
+TDCall4bet posts ante 200
+Saur_5005207 posts ante 200
+Tou-9 posts ante 200
+Ludovic D_ posts ante 200
+P1xel7 posts ante 200
+la grive 1 posts ante 200
+TDCall4bet posts small blind 800
+Saur_5005207 posts big blind 1600
+Dealt to P1xel7 [Jc 4h]
+*** PRE-FLOP *** 
+Tou-9 raises 2400 to 4000
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet folds
+Saur_5005207 calls 2400
+*** FLOP *** [2s 8h Tc]
+Saur_5005207 checks
+Tou-9 checks
+*** TURN *** [2s 8h Tc][Ad]
+Saur_5005207 bets 3500
+Tou-9 calls 3500
+*** RIVER *** [2s 8h Tc Ad][6c]
+Saur_5005207 bets 5950
+Tou-9 raises 36577 to 42527 and is all-in
+Saur_5005207 folds
+Tou-9 collected 65477 from pot
+*** SUMMARY ***
+Total pot 65477 | No rake
+Board: [2s 8h Tc Ad 6c]
+Seat 1: Tou-9 won 65477
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248567504389275660-39-1710607032 - Holdem no limit (200/800/1600) - 2024/03/16 16:37:12 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #5 is the button
+Seat 1: Tou-9 (65477)
+Seat 2: Ludovic D_ (197930)
+Seat 3: P1xel7 (122510)
+Seat 4: la grive 1 (99549)
+Seat 5: TDCall4bet (235526)
+Seat 6: Saur_5005207 (101404)
+*** ANTE/BLINDS ***
+Saur_5005207 posts ante 200
+Tou-9 posts ante 200
+Ludovic D_ posts ante 200
+P1xel7 posts ante 200
+la grive 1 posts ante 200
+TDCall4bet posts ante 200
+Saur_5005207 posts small blind 800
+Tou-9 posts big blind 1600
+Dealt to P1xel7 [8c Ks]
+*** PRE-FLOP *** 
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet folds
+Saur_5005207 raises 2400 to 4000
+Tou-9 calls 2400
+*** FLOP *** [Kd 5h Kh]
+Saur_5005207 bets 5980
+Tou-9 calls 5980
+*** TURN *** [Kd 5h Kh][6h]
+Saur_5005207 bets 13754
+Tou-9 calls 13754
+*** RIVER *** [Kd 5h Kh 6h][3s]
+Saur_5005207 bets 31634
+Tou-9 calls 31634
+*** SHOW DOWN ***
+Saur_5005207 shows [4d 4c] (Two pairs : Kings and 4)
+Tou-9 shows [Kc 9c] (Trips of Kings)
+Tou-9 collected 111936 from pot
+*** SUMMARY ***
+Total pot 111936 | No rake
+Board: [Kd 5h Kh 6h 3s]
+Seat 1: Tou-9 (big blind) showed [Kc 9c] and won 111936 with Trips of Kings
+Seat 6: Saur_5005207 (small blind) showed [4d 4c] and lost with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248567504389275660-40-1710607085 - Holdem no limit (200/800/1600) - 2024/03/16 16:38:05 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #6 is the button
+Seat 1: Tou-9 (121845)
+Seat 2: Ludovic D_ (197730)
+Seat 3: P1xel7 (122310)
+Seat 4: la grive 1 (99349)
+Seat 5: TDCall4bet (235326)
+Seat 6: Saur_5005207 (45836)
+*** ANTE/BLINDS ***
+Tou-9 posts ante 200
+Ludovic D_ posts ante 200
+P1xel7 posts ante 200
+la grive 1 posts ante 200
+TDCall4bet posts ante 200
+Saur_5005207 posts ante 200
+Tou-9 posts small blind 800
+Ludovic D_ posts big blind 1600
+Dealt to P1xel7 [7d 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+la grive 1 folds
+TDCall4bet raises 2000 to 3600
+Saur_5005207 folds
+Tou-9 folds
+Ludovic D_ folds
+TDCall4bet collected 7200 from pot
+*** SUMMARY ***
+Total pot 7200 | No rake
+Seat 5: TDCall4bet won 7200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248567504389275660-41-1710607107 - Holdem no limit (200/800/1600) - 2024/03/16 16:38:27 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #1 is the button
+Seat 1: Tou-9 (120845)
+Seat 2: Ludovic D_ (195930)
+Seat 3: P1xel7 (122110)
+Seat 4: la grive 1 (99149)
+Seat 5: TDCall4bet (238726)
+Seat 6: Saur_5005207 (45636)
+*** ANTE/BLINDS ***
+Ludovic D_ posts ante 200
+P1xel7 posts ante 200
+Tou-9 posts ante 200
+la grive 1 posts ante 200
+TDCall4bet posts ante 200
+Saur_5005207 posts ante 200
+Ludovic D_ posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [2h Js]
+*** PRE-FLOP *** 
+la grive 1 folds
+TDCall4bet folds
+Saur_5005207 folds
+Tou-9 raises 2400 to 4000
+Ludovic D_ folds
+P1xel7 folds
+Tou-9 collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Seat 1: Tou-9 (button) won 7600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248567504389275660-42-1710607137 - Holdem no limit (200/800/1600) - 2024/03/16 16:38:57 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #2 is the button
+Seat 1: Tou-9 (124245)
+Seat 2: Ludovic D_ (194930)
+Seat 3: P1xel7 (120310)
+Seat 4: la grive 1 (98949)
+Seat 5: TDCall4bet (238526)
+Seat 6: Saur_5005207 (45436)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+la grive 1 posts ante 200
+Tou-9 posts ante 200
+Ludovic D_ posts ante 200
+TDCall4bet posts ante 200
+Saur_5005207 posts ante 200
+P1xel7 posts small blind 800
+la grive 1 posts big blind 1600
+Dealt to P1xel7 [9h 5h]
+*** PRE-FLOP *** 
+TDCall4bet calls 1600
+Saur_5005207 folds
+Tou-9 raises 6800 to 8400
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet folds
+Tou-9 collected 13600 from pot
+*** SUMMARY ***
+Total pot 13600 | No rake
+Seat 1: Tou-9 won 13600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248567504389275660-43-1710607176 - Holdem no limit (200/800/1600) - 2024/03/16 16:39:36 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #3 is the button
+Seat 1: Tou-9 (129245)
+Seat 2: Ludovic D_ (194730)
+Seat 3: P1xel7 (119310)
+Seat 4: la grive 1 (97149)
+Seat 5: TDCall4bet (236726)
+Seat 6: Saur_5005207 (45236)
+*** ANTE/BLINDS ***
+la grive 1 posts ante 200
+TDCall4bet posts ante 200
+Tou-9 posts ante 200
+Ludovic D_ posts ante 200
+P1xel7 posts ante 200
+Saur_5005207 posts ante 200
+la grive 1 posts small blind 800
+TDCall4bet posts big blind 1600
+Dealt to P1xel7 [4d 7d]
+*** PRE-FLOP *** 
+Saur_5005207 folds
+Tou-9 folds
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 calls 800
+TDCall4bet checks
+*** FLOP *** [2h Kh 6h]
+la grive 1 checks
+TDCall4bet bets 4400
+la grive 1 folds
+TDCall4bet collected 8800 from pot
+*** SUMMARY ***
+Total pot 8800 | No rake
+Board: [2h Kh 6h]
+Seat 5: TDCall4bet (big blind) won 8800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-44-1710607212 - Holdem no limit (250/1000/2000) - 2024/03/16 16:40:12 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #4 is the button
+Seat 1: Tou-9 (129045)
+Seat 2: Ludovic D_ (194530)
+Seat 3: P1xel7 (119110)
+Seat 4: la grive 1 (95349)
+Seat 5: TDCall4bet (239326)
+Seat 6: Saur_5005207 (45036)
+*** ANTE/BLINDS ***
+TDCall4bet posts ante 250
+Saur_5005207 posts ante 250
+Tou-9 posts ante 250
+Ludovic D_ posts ante 250
+P1xel7 posts ante 250
+la grive 1 posts ante 250
+TDCall4bet posts small blind 1000
+Saur_5005207 posts big blind 2000
+Dealt to P1xel7 [2d 6d]
+*** PRE-FLOP *** 
+Tou-9 raises 3000 to 5000
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet folds
+Saur_5005207 calls 3000
+*** FLOP *** [3d Qd Qs]
+Saur_5005207 bets 39786 and is all-in
+Tou-9 folds
+Saur_5005207 collected 52286 from pot
+*** SUMMARY ***
+Total pot 52286 | No rake
+Board: [3d Qd Qs]
+Seat 6: Saur_5005207 (big blind) won 52286
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-45-1710607258 - Holdem no limit (250/1000/2000) - 2024/03/16 16:40:58 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #5 is the button
+Seat 1: Tou-9 (123795)
+Seat 2: Ludovic D_ (194280)
+Seat 3: P1xel7 (118860)
+Seat 4: la grive 1 (95099)
+Seat 5: TDCall4bet (238076)
+Seat 6: Saur_5005207 (52286)
+*** ANTE/BLINDS ***
+Saur_5005207 posts ante 250
+Tou-9 posts ante 250
+Ludovic D_ posts ante 250
+P1xel7 posts ante 250
+la grive 1 posts ante 250
+TDCall4bet posts ante 250
+Saur_5005207 posts small blind 1000
+Tou-9 posts big blind 2000
+Dealt to P1xel7 [Ac 4c]
+*** PRE-FLOP *** 
+Ludovic D_ folds
+P1xel7 raises 3000 to 5000
+la grive 1 folds
+TDCall4bet folds
+Saur_5005207 raises 47036 to 52036 and is all-in
+Tou-9 folds
+P1xel7 folds
+Saur_5005207 collected 60536 from pot
+*** SUMMARY ***
+Total pot 60536 | No rake
+Seat 6: Saur_5005207 (small blind) won 60536
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-46-1710607295 - Holdem no limit (250/1000/2000) - 2024/03/16 16:41:35 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #6 is the button
+Seat 1: Tou-9 (121545)
+Seat 2: Ludovic D_ (194030)
+Seat 3: P1xel7 (113610)
+Seat 4: la grive 1 (94849)
+Seat 5: TDCall4bet (237826)
+Seat 6: Saur_5005207 (60536)
+*** ANTE/BLINDS ***
+Tou-9 posts ante 250
+Ludovic D_ posts ante 250
+P1xel7 posts ante 250
+la grive 1 posts ante 250
+TDCall4bet posts ante 250
+Saur_5005207 posts ante 250
+Tou-9 posts small blind 1000
+Ludovic D_ posts big blind 2000
+Dealt to P1xel7 [Ad 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+la grive 1 folds
+TDCall4bet raises 2500 to 4500
+Saur_5005207 calls 4500
+Tou-9 folds
+Ludovic D_ folds
+*** FLOP *** [Ah Kh 4h]
+TDCall4bet checks
+Saur_5005207 bets 55786 and is all-in
+TDCall4bet folds
+Saur_5005207 collected 69286 from pot
+*** SUMMARY ***
+Total pot 69286 | No rake
+Board: [Ah Kh 4h]
+Seat 6: Saur_5005207 (button) won 69286
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-47-1710607332 - Holdem no limit (250/1000/2000) - 2024/03/16 16:42:12 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #1 is the button
+Seat 1: Tou-9 (120295)
+Seat 2: Ludovic D_ (191780)
+Seat 3: P1xel7 (113360)
+Seat 4: la grive 1 (94599)
+Seat 5: TDCall4bet (233076)
+Seat 6: Saur_5005207 (69286)
+*** ANTE/BLINDS ***
+Ludovic D_ posts ante 250
+P1xel7 posts ante 250
+Tou-9 posts ante 250
+la grive 1 posts ante 250
+TDCall4bet posts ante 250
+Saur_5005207 posts ante 250
+Ludovic D_ posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [7c Td]
+*** PRE-FLOP *** 
+la grive 1 calls 2000
+TDCall4bet folds
+Saur_5005207 raises 67036 to 69036 and is all-in
+Tou-9 folds
+Ludovic D_ calls 68036
+P1xel7 folds
+la grive 1 folds
+*** FLOP *** [6s 7h 3c]
+*** TURN *** [6s 7h 3c][8h]
+*** RIVER *** [6s 7h 3c 8h][4d]
+*** SHOW DOWN ***
+Saur_5005207 shows [Jh Jd] (One pair : Jacks)
+Ludovic D_ shows [Kd Kc] (One pair : Kings)
+Ludovic D_ collected 143572 from pot
+*** SUMMARY ***
+Total pot 143572 | No rake
+Board: [6s 7h 3c 8h 4d]
+Seat 2: Ludovic D_ (small blind) showed [Kd Kc] and won 143572 with One pair : Kings
+Seat 6: Saur_5005207 showed [Jh Jd] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-48-1710607362 - Holdem no limit (250/1000/2000) - 2024/03/16 16:42:42 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #2 is the button
+Seat 1: Tou-9 (120045)
+Seat 2: Ludovic D_ (266066)
+Seat 3: P1xel7 (111110)
+Seat 4: la grive 1 (92349)
+Seat 5: TDCall4bet (232826)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+la grive 1 posts ante 250
+Tou-9 posts ante 250
+Ludovic D_ posts ante 250
+TDCall4bet posts ante 250
+P1xel7 posts small blind 1000
+la grive 1 posts big blind 2000
+Dealt to P1xel7 [Qh 4s]
+*** PRE-FLOP *** 
+TDCall4bet folds
+Tou-9 folds
+Ludovic D_ folds
+P1xel7 raises 4000 to 6000
+la grive 1 folds
+P1xel7 collected 9250 from pot
+*** SUMMARY ***
+Total pot 9250 | No rake
+Seat 3: P1xel7 (small blind) won 9250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-49-1710607383 - Holdem no limit (250/1000/2000) - 2024/03/16 16:43:03 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #3 is the button
+Seat 1: Tou-9 (119795)
+Seat 2: Ludovic D_ (265816)
+Seat 3: P1xel7 (114110)
+Seat 4: la grive 1 (90099)
+Seat 5: TDCall4bet (232576)
+*** ANTE/BLINDS ***
+la grive 1 posts ante 250
+TDCall4bet posts ante 250
+Tou-9 posts ante 250
+Ludovic D_ posts ante 250
+P1xel7 posts ante 250
+la grive 1 posts small blind 1000
+TDCall4bet posts big blind 2000
+Dealt to P1xel7 [Qh Ks]
+*** PRE-FLOP *** 
+Tou-9 folds
+Ludovic D_ folds
+P1xel7 raises 3000 to 5000
+la grive 1 raises 84849 to 89849 and is all-in
+TDCall4bet folds
+P1xel7 folds
+la grive 1 collected 98099 from pot
+*** SUMMARY ***
+Total pot 98099 | No rake
+Seat 4: la grive 1 (small blind) won 98099
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-50-1710607403 - Holdem no limit (250/1000/2000) - 2024/03/16 16:43:23 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #4 is the button
+Seat 1: Tou-9 (119545)
+Seat 2: Ludovic D_ (265566)
+Seat 3: P1xel7 (108860)
+Seat 4: la grive 1 (98099)
+Seat 5: TDCall4bet (230326)
+*** ANTE/BLINDS ***
+TDCall4bet posts ante 250
+Tou-9 posts ante 250
+Ludovic D_ posts ante 250
+P1xel7 posts ante 250
+la grive 1 posts ante 250
+TDCall4bet posts small blind 1000
+Tou-9 posts big blind 2000
+Dealt to P1xel7 [7s 5c]
+*** PRE-FLOP *** 
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 calls 2000
+TDCall4bet calls 1000
+Tou-9 checks
+*** FLOP *** [9d Th Qd]
+TDCall4bet bets 7250
+Tou-9 calls 7250
+la grive 1 folds
+*** TURN *** [9d Th Qd][5d]
+TDCall4bet checks
+Tou-9 checks
+*** RIVER *** [9d Th Qd 5d][9c]
+TDCall4bet bets 7612
+Tou-9 folds
+TDCall4bet collected 29362 from pot
+*** SUMMARY ***
+Total pot 29362 | No rake
+Board: [9d Th Qd 5d 9c]
+Seat 5: TDCall4bet (small blind) won 29362
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-51-1710607460 - Holdem no limit (250/1000/2000) - 2024/03/16 16:44:20 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #5 is the button
+Seat 1: Tou-9 (110045)
+Seat 2: Ludovic D_ (265316)
+Seat 3: P1xel7 (108610)
+Seat 4: la grive 1 (95849)
+Seat 5: TDCall4bet (242576)
+*** ANTE/BLINDS ***
+Tou-9 posts ante 250
+Ludovic D_ posts ante 250
+P1xel7 posts ante 250
+la grive 1 posts ante 250
+TDCall4bet posts ante 250
+Tou-9 posts small blind 1000
+Ludovic D_ posts big blind 2000
+Dealt to P1xel7 [2h Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+la grive 1 calls 2000
+TDCall4bet folds
+Tou-9 folds
+Ludovic D_ checks
+*** FLOP *** [2s 7c As]
+Ludovic D_ checks
+la grive 1 bets 4063
+Ludovic D_ folds
+la grive 1 collected 10313 from pot
+*** SUMMARY ***
+Total pot 10313 | No rake
+Board: [2s 7c As]
+Seat 4: la grive 1 won 10313
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-52-1710607494 - Holdem no limit (250/1000/2000) - 2024/03/16 16:44:54 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #1 is the button
+Seat 1: Tou-9 (108795)
+Seat 2: Ludovic D_ (263066)
+Seat 3: P1xel7 (108360)
+Seat 4: la grive 1 (99849)
+Seat 5: TDCall4bet (242326)
+Seat 6: TOMAFAROLAZO (100000)
+*** ANTE/BLINDS ***
+Ludovic D_ posts ante 250
+P1xel7 posts ante 250
+Tou-9 posts ante 250
+la grive 1 posts ante 250
+TDCall4bet posts ante 250
+TOMAFAROLAZO posts ante 250
+Ludovic D_ posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [Tc 3c]
+*** PRE-FLOP *** 
+la grive 1 folds
+TDCall4bet folds
+TOMAFAROLAZO folds
+Tou-9 folds
+Ludovic D_ calls 1000
+P1xel7 checks
+*** FLOP *** [9s 5h 2h]
+Ludovic D_ checks
+P1xel7 bets 2750
+Ludovic D_ folds
+P1xel7 collected 8250 from pot
+*** SUMMARY ***
+Total pot 8250 | No rake
+Board: [9s 5h 2h]
+Seat 3: P1xel7 (big blind) won 8250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-53-1710607584 - Holdem no limit (250/1000/2000) - 2024/03/16 16:46:24 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #2 is the button
+Seat 1: Tou-9 (108545)
+Seat 2: Ludovic D_ (260816)
+Seat 3: P1xel7 (111610)
+Seat 4: la grive 1 (99599)
+Seat 5: TDCall4bet (242076)
+Seat 6: TOMAFAROLAZO (99750)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+la grive 1 posts ante 250
+Tou-9 posts ante 250
+Ludovic D_ posts ante 250
+TDCall4bet posts ante 250
+TOMAFAROLAZO posts ante 250
+P1xel7 posts small blind 1000
+la grive 1 posts big blind 2000
+Dealt to P1xel7 [Ts 4c]
+*** PRE-FLOP *** 
+TDCall4bet folds
+TOMAFAROLAZO folds
+Tou-9 raises 3000 to 5000
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+Tou-9 collected 9500 from pot
+*** SUMMARY ***
+Total pot 9500 | No rake
+Seat 1: Tou-9 won 9500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-54-1710607611 - Holdem no limit (250/1000/2000) - 2024/03/16 16:46:51 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #3 is the button
+Seat 1: Tou-9 (112795)
+Seat 2: Ludovic D_ (260566)
+Seat 3: P1xel7 (110360)
+Seat 4: la grive 1 (97349)
+Seat 5: TDCall4bet (241826)
+Seat 6: TOMAFAROLAZO (99500)
+*** ANTE/BLINDS ***
+la grive 1 posts ante 250
+TDCall4bet posts ante 250
+Tou-9 posts ante 250
+Ludovic D_ posts ante 250
+P1xel7 posts ante 250
+TOMAFAROLAZO posts ante 250
+la grive 1 posts small blind 1000
+TDCall4bet posts big blind 2000
+Dealt to P1xel7 [Td Jd]
+*** PRE-FLOP *** 
+TOMAFAROLAZO folds
+Tou-9 raises 3000 to 5000
+Ludovic D_ folds
+P1xel7 calls 5000
+la grive 1 folds
+TDCall4bet calls 3000
+*** FLOP *** [9s 5d Tc]
+TDCall4bet checks
+Tou-9 checks
+P1xel7 bets 9750
+TDCall4bet folds
+Tou-9 folds
+P1xel7 collected 27250 from pot
+*** SUMMARY ***
+Total pot 27250 | No rake
+Board: [9s 5d Tc]
+Seat 3: P1xel7 (button) won 27250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248567504389275660-55-1710607666 - Holdem no limit (250/1000/2000) - 2024/03/16 16:47:46 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #4 is the button
+Seat 1: Tou-9 (107545)
+Seat 2: Ludovic D_ (260316)
+Seat 3: P1xel7 (122610)
+Seat 4: la grive 1 (96099)
+Seat 5: TDCall4bet (236576)
+Seat 6: TOMAFAROLAZO (99250)
+*** ANTE/BLINDS ***
+TDCall4bet posts ante 250
+TOMAFAROLAZO posts ante 250
+Tou-9 posts ante 250
+Ludovic D_ posts ante 250
+P1xel7 posts ante 250
+la grive 1 posts ante 250
+TDCall4bet posts small blind 1000
+TOMAFAROLAZO posts big blind 2000
+Dealt to P1xel7 [Kd 2c]
+*** PRE-FLOP *** 
+Tou-9 folds
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 calls 2000
+TDCall4bet folds
+TOMAFAROLAZO checks
+*** FLOP *** [8h Qs Qh]
+TOMAFAROLAZO checks
+la grive 1 bets 2000
+TOMAFAROLAZO folds
+la grive 1 collected 8500 from pot
+*** SUMMARY ***
+Total pot 8500 | No rake
+Board: [8h Qs Qh]
+Seat 4: la grive 1 (button) won 8500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-56-1710607695 - Holdem no limit (300/1250/2500) - 2024/03/16 16:48:15 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #5 is the button
+Seat 1: Tou-9 (107295)
+Seat 2: Ludovic D_ (260066)
+Seat 3: P1xel7 (122360)
+Seat 4: la grive 1 (100349)
+Seat 5: TDCall4bet (235326)
+Seat 6: TOMAFAROLAZO (97000)
+*** ANTE/BLINDS ***
+TOMAFAROLAZO posts ante 300
+Tou-9 posts ante 300
+Ludovic D_ posts ante 300
+P1xel7 posts ante 300
+la grive 1 posts ante 300
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts small blind 1250
+Tou-9 posts big blind 2500
+Dealt to P1xel7 [Ks 7c]
+*** PRE-FLOP *** 
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet raises 3125 to 5625
+TOMAFAROLAZO folds
+Tou-9 raises 11250 to 16875
+TDCall4bet folds
+Tou-9 collected 25550 from pot
+*** SUMMARY ***
+Total pot 25550 | No rake
+Seat 1: Tou-9 (big blind) won 25550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-57-1710607728 - Holdem no limit (300/1250/2500) - 2024/03/16 16:48:48 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #6 is the button
+Seat 1: Tou-9 (115670)
+Seat 2: Ludovic D_ (259766)
+Seat 3: P1xel7 (122060)
+Seat 4: la grive 1 (100049)
+Seat 5: TDCall4bet (229401)
+Seat 6: TOMAFAROLAZO (95450)
+*** ANTE/BLINDS ***
+Tou-9 posts ante 300
+Ludovic D_ posts ante 300
+P1xel7 posts ante 300
+la grive 1 posts ante 300
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts ante 300
+Tou-9 posts small blind 1250
+Ludovic D_ posts big blind 2500
+Dealt to P1xel7 [8h 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+la grive 1 calls 2500
+TDCall4bet folds
+TOMAFAROLAZO folds
+Tou-9 folds
+Ludovic D_ checks
+*** FLOP *** [2d 2c 7h]
+Ludovic D_ checks
+la grive 1 checks
+*** TURN *** [2d 2c 7h][7d]
+Ludovic D_ bets 2500
+la grive 1 calls 2500
+*** RIVER *** [2d 2c 7h 7d][9h]
+Ludovic D_ checks
+la grive 1 checks
+*** SHOW DOWN ***
+la grive 1 shows [Ts Qd] (Two pairs : 7 and 2)
+Ludovic D_ shows [Ac Qc] (Two pairs : 7 and 2)
+Ludovic D_ collected 13050 from pot
+*** SUMMARY ***
+Total pot 13050 | No rake
+Board: [2d 2c 7h 7d 9h]
+Seat 2: Ludovic D_ (big blind) showed [Ac Qc] and won 13050 with Two pairs : 7 and 2
+Seat 4: la grive 1 showed [Ts Qd] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-58-1710607773 - Holdem no limit (300/1250/2500) - 2024/03/16 16:49:33 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #1 is the button
+Seat 1: Tou-9 (114120)
+Seat 2: Ludovic D_ (267516)
+Seat 3: P1xel7 (121760)
+Seat 4: la grive 1 (94749)
+Seat 5: TDCall4bet (229101)
+Seat 6: TOMAFAROLAZO (95150)
+*** ANTE/BLINDS ***
+Ludovic D_ posts ante 300
+P1xel7 posts ante 300
+Tou-9 posts ante 300
+la grive 1 posts ante 300
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts ante 300
+Ludovic D_ posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Jc 5s]
+*** PRE-FLOP *** 
+la grive 1 raises 2500 to 5000
+TDCall4bet calls 5000
+TOMAFAROLAZO folds
+Tou-9 calls 5000
+Ludovic D_ folds
+P1xel7 folds
+*** FLOP *** [Kc Qs Ks]
+la grive 1 checks
+TDCall4bet checks
+Tou-9 bets 7193
+la grive 1 folds
+TDCall4bet folds
+Tou-9 collected 27743 from pot
+*** SUMMARY ***
+Total pot 27743 | No rake
+Board: [Kc Qs Ks]
+Seat 1: Tou-9 (button) won 27743
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-59-1710607833 - Holdem no limit (300/1250/2500) - 2024/03/16 16:50:33 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #2 is the button
+Seat 1: Tou-9 (129370)
+Seat 2: Ludovic D_ (265966)
+Seat 3: P1xel7 (118960)
+Seat 4: la grive 1 (89449)
+Seat 5: TDCall4bet (223801)
+Seat 6: TOMAFAROLAZO (94850)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+la grive 1 posts ante 300
+Tou-9 posts ante 300
+Ludovic D_ posts ante 300
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts ante 300
+P1xel7 posts small blind 1250
+la grive 1 posts big blind 2500
+Dealt to P1xel7 [7d Ts]
+*** PRE-FLOP *** 
+TDCall4bet folds
+TOMAFAROLAZO folds
+Tou-9 folds
+Ludovic D_ raises 2500 to 5000
+P1xel7 folds
+la grive 1 folds
+Ludovic D_ collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Seat 2: Ludovic D_ (button) won 10550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-60-1710607851 - Holdem no limit (300/1250/2500) - 2024/03/16 16:50:51 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #3 is the button
+Seat 1: Tou-9 (129070)
+Seat 2: Ludovic D_ (271216)
+Seat 3: P1xel7 (117410)
+Seat 4: la grive 1 (86649)
+Seat 5: TDCall4bet (223501)
+Seat 6: TOMAFAROLAZO (94550)
+*** ANTE/BLINDS ***
+la grive 1 posts ante 300
+TDCall4bet posts ante 300
+Tou-9 posts ante 300
+Ludovic D_ posts ante 300
+P1xel7 posts ante 300
+TOMAFAROLAZO posts ante 300
+la grive 1 posts small blind 1250
+TDCall4bet posts big blind 2500
+Dealt to P1xel7 [5h Qc]
+*** PRE-FLOP *** 
+TOMAFAROLAZO folds
+Tou-9 raises 3750 to 6250
+Ludovic D_ folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet calls 3750
+*** FLOP *** [5c 4s Ts]
+TDCall4bet bets 5443
+Tou-9 calls 5443
+*** TURN *** [5c 4s Ts][7h]
+TDCall4bet checks
+Tou-9 checks
+*** RIVER *** [5c 4s Ts 7h][2h]
+TDCall4bet bets 9253
+Tou-9 folds
+TDCall4bet collected 35689 from pot
+*** SUMMARY ***
+Total pot 35689 | No rake
+Board: [5c 4s Ts 7h 2h]
+Seat 5: TDCall4bet (big blind) won 35689
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-61-1710607907 - Holdem no limit (300/1250/2500) - 2024/03/16 16:51:47 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #4 is the button
+Seat 1: Tou-9 (117077)
+Seat 2: Ludovic D_ (270916)
+Seat 3: P1xel7 (117110)
+Seat 4: la grive 1 (85099)
+Seat 5: TDCall4bet (237944)
+Seat 6: TOMAFAROLAZO (94250)
+*** ANTE/BLINDS ***
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts ante 300
+Tou-9 posts ante 300
+Ludovic D_ posts ante 300
+P1xel7 posts ante 300
+la grive 1 posts ante 300
+TDCall4bet posts small blind 1250
+TOMAFAROLAZO posts big blind 2500
+Dealt to P1xel7 [3h 3d]
+*** PRE-FLOP *** 
+Tou-9 folds
+Ludovic D_ folds
+P1xel7 raises 3750 to 6250
+la grive 1 folds
+TDCall4bet folds
+TOMAFAROLAZO folds
+P1xel7 collected 11800 from pot
+*** SUMMARY ***
+Total pot 11800 | No rake
+Seat 3: P1xel7 won 11800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-62-1710607924 - Holdem no limit (300/1250/2500) - 2024/03/16 16:52:04 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #5 is the button
+Seat 1: Tou-9 (116777)
+Seat 3: P1xel7 (122360)
+Seat 4: la grive 1 (84799)
+Seat 5: TDCall4bet (236394)
+Seat 6: TOMAFAROLAZO (91450)
+*** ANTE/BLINDS ***
+TOMAFAROLAZO posts ante 300
+Tou-9 posts ante 300
+P1xel7 posts ante 300
+la grive 1 posts ante 300
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts small blind 1250
+Tou-9 posts big blind 2500
+Dealt to P1xel7 [Jh Ts]
+*** PRE-FLOP *** 
+P1xel7 raises 2500 to 5000
+la grive 1 calls 5000
+TDCall4bet folds
+TOMAFAROLAZO folds
+Tou-9 calls 2500
+*** FLOP *** [Js 8d 2c]
+Tou-9 checks
+P1xel7 bets 8875
+la grive 1 calls 8875
+Tou-9 calls 8875
+*** TURN *** [Js 8d 2c][Tc]
+Tou-9 bets 35500
+P1xel7 raises 72685 to 108185 and is all-in
+la grive 1 calls 70624 and is all-in
+Tou-9 calls 67102 and is all-in
+*** RIVER *** [Js 8d 2c Tc][7s]
+*** SHOW DOWN ***
+Tou-9 shows [Jd Td] (Two pairs : Jacks and Tens)
+P1xel7 shows [Jh Ts] (Two pairs : Jacks and Tens)
+la grive 1 shows [2h 2d] (Trips of 2)
+la grive 1 collected 256247 from main pot
+P1xel7 collected 37561 from side pot 2
+Tou-9 collected 31978 from side pot 1
+*** SUMMARY ***
+Total pot 325786 | No rake
+Board: [Js 8d 2c Tc 7s]
+Seat 1: Tou-9 (big blind) showed [Jd Td] and won 31978 with Two pairs : Jacks and Tens
+Seat 3: P1xel7 showed [Jh Ts] and won 37561 with Two pairs : Jacks and Tens
+Seat 4: la grive 1 showed [2h 2d] and won 256247 with Trips of 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-63-1710607970 - Holdem no limit (300/1250/2500) - 2024/03/16 16:52:50 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #6 is the button
+Seat 1: Tou-9 (31978)
+Seat 3: P1xel7 (37561)
+Seat 4: la grive 1 (256247)
+Seat 5: TDCall4bet (236094)
+Seat 6: TOMAFAROLAZO (89900)
+*** ANTE/BLINDS ***
+Tou-9 posts ante 300
+P1xel7 posts ante 300
+la grive 1 posts ante 300
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts ante 300
+Tou-9 posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Qd 9c]
+*** PRE-FLOP *** 
+la grive 1 folds
+TDCall4bet raises 3125 to 5625
+TOMAFAROLAZO folds
+Tou-9 folds
+P1xel7 calls 3125
+*** FLOP *** [Jh 4d 7h]
+P1xel7 checks
+TDCall4bet bets 4900
+P1xel7 folds
+TDCall4bet collected 18900 from pot
+*** SUMMARY ***
+Total pot 18900 | No rake
+Board: [Jh 4d 7h]
+Seat 5: TDCall4bet won 18900
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-64-1710608020 - Holdem no limit (300/1250/2500) - 2024/03/16 16:53:40 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #1 is the button
+Seat 1: Tou-9 (30428)
+Seat 3: P1xel7 (31636)
+Seat 4: la grive 1 (255947)
+Seat 5: TDCall4bet (244169)
+Seat 6: TOMAFAROLAZO (89600)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+la grive 1 posts ante 300
+Tou-9 posts ante 300
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts ante 300
+P1xel7 posts small blind 1250
+la grive 1 posts big blind 2500
+Dealt to P1xel7 [Ac 4h]
+*** PRE-FLOP *** 
+TDCall4bet calls 2500
+TOMAFAROLAZO folds
+Tou-9 raises 27628 to 30128 and is all-in
+P1xel7 folds
+la grive 1 folds
+TDCall4bet folds
+Tou-9 collected 37878 from pot
+*** SUMMARY ***
+Total pot 37878 | No rake
+Seat 1: Tou-9 (button) won 37878
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-65-1710608046 - Holdem no limit (300/1250/2500) - 2024/03/16 16:54:06 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #3 is the button
+Seat 1: Tou-9 (37878)
+Seat 3: P1xel7 (30086)
+Seat 4: la grive 1 (253147)
+Seat 5: TDCall4bet (241369)
+Seat 6: TOMAFAROLAZO (89300)
+*** ANTE/BLINDS ***
+la grive 1 posts ante 300
+TDCall4bet posts ante 300
+Tou-9 posts ante 300
+P1xel7 posts ante 300
+TOMAFAROLAZO posts ante 300
+la grive 1 posts small blind 1250
+TDCall4bet posts big blind 2500
+Dealt to P1xel7 [Jc 4h]
+*** PRE-FLOP *** 
+TOMAFAROLAZO folds
+Tou-9 folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet collected 5250 from pot
+*** SUMMARY ***
+Total pot 5250 | No rake
+Seat 5: TDCall4bet (big blind) won 5250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-66-1710608063 - Holdem no limit (300/1250/2500) - 2024/03/16 16:54:23 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #4 is the button
+Seat 1: Tou-9 (37578)
+Seat 3: P1xel7 (29786)
+Seat 4: la grive 1 (251597)
+Seat 5: TDCall4bet (243819)
+Seat 6: TOMAFAROLAZO (89000)
+*** ANTE/BLINDS ***
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts ante 300
+Tou-9 posts ante 300
+P1xel7 posts ante 300
+la grive 1 posts ante 300
+TDCall4bet posts small blind 1250
+TOMAFAROLAZO posts big blind 2500
+Dealt to P1xel7 [9c 3d]
+*** PRE-FLOP *** 
+Tou-9 raises 34778 to 37278 and is all-in
+P1xel7 folds
+la grive 1 calls 37278
+TDCall4bet folds
+TOMAFAROLAZO folds
+*** FLOP *** [8s Qc Jd]
+*** TURN *** [8s Qc Jd][Ks]
+*** RIVER *** [8s Qc Jd Ks][3s]
+*** SHOW DOWN ***
+Tou-9 shows [4h 4c] (One pair : 4)
+la grive 1 shows [Td Ts] (One pair : Tens)
+la grive 1 collected 79806 from pot
+*** SUMMARY ***
+Total pot 79806 | No rake
+Board: [8s Qc Jd Ks 3s]
+Seat 1: Tou-9 showed [4h 4c] and lost with One pair : 4
+Seat 4: la grive 1 (button) showed [Td Ts] and won 79806 with One pair : Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-67-1710608095 - Holdem no limit (300/1250/2500) - 2024/03/16 16:54:55 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #5 is the button
+Seat 2: hercule65 (100000)
+Seat 3: P1xel7 (29486)
+Seat 4: la grive 1 (293825)
+Seat 5: TDCall4bet (242269)
+Seat 6: TOMAFAROLAZO (86200)
+*** ANTE/BLINDS ***
+TOMAFAROLAZO posts ante 300
+hercule65 posts ante 300
+P1xel7 posts ante 300
+la grive 1 posts ante 300
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts small blind 1250
+hercule65 posts big blind 2500
+Dealt to P1xel7 [9h Ad]
+*** PRE-FLOP *** 
+P1xel7 raises 26686 to 29186 and is all-in
+la grive 1 folds
+TDCall4bet folds
+TOMAFAROLAZO folds
+hercule65 folds
+P1xel7 collected 34436 from pot
+*** SUMMARY ***
+Total pot 34436 | No rake
+Seat 3: P1xel7 won 34436
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248567504389275660-68-1710608461 - Holdem no limit (300/1250/2500) - 2024/03/16 17:01:01 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #6 is the button
+Seat 1: Donlatruf (100000)
+Seat 2: hercule65 (97200)
+Seat 3: P1xel7 (34436)
+Seat 4: la grive 1 (293525)
+Seat 5: TDCall4bet (241969)
+Seat 6: TOMAFAROLAZO (84650)
+*** ANTE/BLINDS ***
+hercule65 posts ante 300
+P1xel7 posts ante 300
+la grive 1 posts ante 300
+TDCall4bet posts ante 300
+TOMAFAROLAZO posts ante 300
+hercule65 posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Ad 2c]
+*** PRE-FLOP *** 
+la grive 1 folds
+TDCall4bet raises 3125 to 5625
+TOMAFAROLAZO folds
+hercule65 calls 4375
+P1xel7 calls 3125
+*** FLOP *** [Th 9h 9d]
+hercule65 checks
+P1xel7 checks
+TDCall4bet bets 6431
+hercule65 calls 6431
+P1xel7 folds
+*** TURN *** [Th 9h 9d][Kd]
+hercule65 checks
+TDCall4bet bets 15619
+hercule65 folds
+TDCall4bet collected 46856 from pot
+*** SUMMARY ***
+Total pot 46856 | No rake
+Board: [Th 9h 9d Kd]
+Seat 5: TDCall4bet won 46856
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-69-1710608533 - Holdem no limit (350/1500/3000) - 2024/03/16 17:02:13 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #2 is the button
+Seat 1: Donlatruf (100000)
+Seat 2: hercule65 (84844)
+Seat 3: P1xel7 (28511)
+Seat 4: la grive 1 (293225)
+Seat 5: TDCall4bet (260850)
+Seat 6: TOMAFAROLAZO (84350)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+la grive 1 posts ante 350
+Donlatruf posts ante 350
+hercule65 posts ante 350
+TDCall4bet posts ante 350
+TOMAFAROLAZO posts ante 350
+P1xel7 posts small blind 1500
+la grive 1 posts big blind 3000
+Dealt to P1xel7 [9c Th]
+*** PRE-FLOP *** 
+TDCall4bet folds
+TOMAFAROLAZO folds
+Donlatruf raises 6000 to 9000
+hercule65 folds
+P1xel7 folds
+la grive 1 folds
+Donlatruf collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | No rake
+Seat 1: Donlatruf won 15600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-70-1710608562 - Holdem no limit (350/1500/3000) - 2024/03/16 17:02:42 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #3 is the button
+Seat 1: Donlatruf (106250)
+Seat 2: hercule65 (84494)
+Seat 3: P1xel7 (26661)
+Seat 4: la grive 1 (289875)
+Seat 5: TDCall4bet (260500)
+Seat 6: TOMAFAROLAZO (84000)
+*** ANTE/BLINDS ***
+la grive 1 posts ante 350
+TDCall4bet posts ante 350
+Donlatruf posts ante 350
+hercule65 posts ante 350
+P1xel7 posts ante 350
+TOMAFAROLAZO posts ante 350
+la grive 1 posts small blind 1500
+TDCall4bet posts big blind 3000
+Dealt to P1xel7 [Qh 3d]
+*** PRE-FLOP *** 
+TOMAFAROLAZO folds
+Donlatruf folds
+hercule65 folds
+P1xel7 folds
+la grive 1 calls 1500
+TDCall4bet checks
+*** FLOP *** [Ac 8d 9d]
+la grive 1 checks
+TDCall4bet checks
+*** TURN *** [Ac 8d 9d][2c]
+la grive 1 checks
+TDCall4bet bets 3000
+la grive 1 calls 3000
+*** RIVER *** [Ac 8d 9d 2c][Td]
+la grive 1 checks
+TDCall4bet bets 7050
+la grive 1 folds
+TDCall4bet collected 21150 from pot
+*** SUMMARY ***
+Total pot 21150 | No rake
+Board: [Ac 8d 9d 2c Td]
+Seat 5: TDCall4bet (big blind) won 21150
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-71-1710608626 - Holdem no limit (350/1500/3000) - 2024/03/16 17:03:46 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #4 is the button
+Seat 1: Donlatruf (105900)
+Seat 2: hercule65 (84144)
+Seat 3: P1xel7 (26311)
+Seat 4: la grive 1 (283525)
+Seat 5: TDCall4bet (268250)
+Seat 6: TOMAFAROLAZO (83650)
+*** ANTE/BLINDS ***
+TDCall4bet posts ante 350
+TOMAFAROLAZO posts ante 350
+Donlatruf posts ante 350
+hercule65 posts ante 350
+P1xel7 posts ante 350
+la grive 1 posts ante 350
+TDCall4bet posts small blind 1500
+TOMAFAROLAZO posts big blind 3000
+Dealt to P1xel7 [Ad 8d]
+*** PRE-FLOP *** 
+Donlatruf calls 3000
+hercule65 raises 3000 to 6000
+P1xel7 folds
+la grive 1 calls 6000
+TDCall4bet folds
+TOMAFAROLAZO folds
+Donlatruf calls 3000
+*** FLOP *** [3c 2c Jd]
+Donlatruf bets 3000
+hercule65 calls 3000
+la grive 1 calls 3000
+*** TURN *** [3c 2c Jd][7c]
+Donlatruf bets 33600
+hercule65 folds
+la grive 1 folds
+Donlatruf collected 67200 from pot
+*** SUMMARY ***
+Total pot 67200 | No rake
+Board: [3c 2c Jd 7c]
+Seat 1: Donlatruf won 67200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-72-1710608676 - Holdem no limit (350/1500/3000) - 2024/03/16 17:04:36 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #5 is the button
+Seat 1: Donlatruf (130150)
+Seat 2: hercule65 (74794)
+Seat 3: P1xel7 (25961)
+Seat 4: la grive 1 (274175)
+Seat 5: TDCall4bet (266400)
+Seat 6: TOMAFAROLAZO (80300)
+*** ANTE/BLINDS ***
+TOMAFAROLAZO posts ante 350
+Donlatruf posts ante 350
+hercule65 posts ante 350
+P1xel7 posts ante 350
+la grive 1 posts ante 350
+TDCall4bet posts ante 350
+TOMAFAROLAZO posts small blind 1500
+Donlatruf posts big blind 3000
+Dealt to P1xel7 [Tc 4c]
+*** PRE-FLOP *** 
+hercule65 calls 3000
+P1xel7 folds
+la grive 1 calls 3000
+TDCall4bet folds
+TOMAFAROLAZO folds
+Donlatruf checks
+*** FLOP *** [Qd 3h Qs]
+Donlatruf checks
+hercule65 bets 3000
+la grive 1 folds
+Donlatruf folds
+hercule65 collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | No rake
+Board: [Qd 3h Qs]
+Seat 2: hercule65 won 15600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-73-1710608703 - Holdem no limit (350/1500/3000) - 2024/03/16 17:05:03 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #6 is the button
+Seat 1: Donlatruf (126800)
+Seat 2: hercule65 (84044)
+Seat 3: P1xel7 (25611)
+Seat 4: la grive 1 (270825)
+Seat 5: TDCall4bet (266050)
+Seat 6: TOMAFAROLAZO (78450)
+*** ANTE/BLINDS ***
+Donlatruf posts ante 350
+hercule65 posts ante 350
+P1xel7 posts ante 350
+la grive 1 posts ante 350
+TDCall4bet posts ante 350
+TOMAFAROLAZO posts ante 350
+Donlatruf posts small blind 1500
+hercule65 posts big blind 3000
+Dealt to P1xel7 [8h 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+la grive 1 folds
+TDCall4bet folds
+TOMAFAROLAZO folds
+Donlatruf calls 1500
+hercule65 checks
+*** FLOP *** [Ts 6c 5c]
+Donlatruf checks
+hercule65 checks
+*** TURN *** [Ts 6c 5c][5s]
+Donlatruf bets 3000
+hercule65 calls 3000
+*** RIVER *** [Ts 6c 5c 5s][9s]
+Donlatruf bets 3000
+hercule65 calls 3000
+*** SHOW DOWN ***
+hercule65 shows [7d 7s] (Two pairs : 7 and 5)
+Donlatruf shows [Kh 5d] (Trips of 5)
+Donlatruf collected 20100 from pot
+*** SUMMARY ***
+Total pot 20100 | No rake
+Board: [Ts 6c 5c 5s 9s]
+Seat 1: Donlatruf (small blind) showed [Kh 5d] and won 20100 with Trips of 5
+Seat 2: hercule65 (big blind) showed [7d 7s] and lost with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-74-1710608736 - Holdem no limit (350/1500/3000) - 2024/03/16 17:05:36 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #1 is the button
+Seat 1: Donlatruf (137550)
+Seat 2: hercule65 (74694)
+Seat 3: P1xel7 (25261)
+Seat 4: la grive 1 (270475)
+Seat 5: TDCall4bet (265700)
+Seat 6: TOMAFAROLAZO (78100)
+*** ANTE/BLINDS ***
+hercule65 posts ante 350
+P1xel7 posts ante 350
+Donlatruf posts ante 350
+la grive 1 posts ante 350
+TDCall4bet posts ante 350
+TOMAFAROLAZO posts ante 350
+hercule65 posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [8s 4s]
+*** PRE-FLOP *** 
+la grive 1 folds
+TDCall4bet calls 3000
+TOMAFAROLAZO folds
+Donlatruf raises 4500 to 7500
+hercule65 folds
+P1xel7 folds
+TDCall4bet calls 4500
+*** FLOP *** [9h 5s 6d]
+TDCall4bet checks
+Donlatruf bets 21600
+TDCall4bet folds
+Donlatruf shows [7s 7h] (One pair : 7)
+Donlatruf collected 43200 from pot
+*** SUMMARY ***
+Total pot 43200 | No rake
+Board: [9h 5s 6d]
+Seat 1: Donlatruf (button) showed [7s 7h] and won 43200 with One pair : 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-75-1710608776 - Holdem no limit (350/1500/3000) - 2024/03/16 17:06:16 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #2 is the button
+Seat 1: Donlatruf (151300)
+Seat 2: hercule65 (72844)
+Seat 3: P1xel7 (21911)
+Seat 4: la grive 1 (270125)
+Seat 5: TDCall4bet (257850)
+Seat 6: TOMAFAROLAZO (77750)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+la grive 1 posts ante 350
+Donlatruf posts ante 350
+hercule65 posts ante 350
+TDCall4bet posts ante 350
+TOMAFAROLAZO posts ante 350
+P1xel7 posts small blind 1500
+la grive 1 posts big blind 3000
+Dealt to P1xel7 [As Kc]
+*** PRE-FLOP *** 
+TDCall4bet folds
+TOMAFAROLAZO folds
+Donlatruf folds
+hercule65 folds
+P1xel7 raises 18561 to 21561 and is all-in
+la grive 1 folds
+P1xel7 collected 26661 from pot
+*** SUMMARY ***
+Total pot 26661 | No rake
+Seat 3: P1xel7 (small blind) won 26661
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-76-1710608807 - Holdem no limit (350/1500/3000) - 2024/03/16 17:06:47 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #3 is the button
+Seat 1: Donlatruf (150950)
+Seat 2: hercule65 (72494)
+Seat 3: P1xel7 (26661)
+Seat 4: la grive 1 (266775)
+Seat 5: TDCall4bet (257500)
+Seat 6: TOMAFAROLAZO (77400)
+*** ANTE/BLINDS ***
+la grive 1 posts ante 350
+TDCall4bet posts ante 350
+Donlatruf posts ante 350
+hercule65 posts ante 350
+P1xel7 posts ante 350
+TOMAFAROLAZO posts ante 350
+la grive 1 posts small blind 1500
+TDCall4bet posts big blind 3000
+Dealt to P1xel7 [Ad 3h]
+*** PRE-FLOP *** 
+TOMAFAROLAZO folds
+Donlatruf calls 3000
+hercule65 calls 3000
+P1xel7 folds
+la grive 1 folds
+TDCall4bet checks
+*** FLOP *** [3c 9h 7h]
+TDCall4bet checks
+Donlatruf bets 8190
+hercule65 raises 8190 to 16380
+TDCall4bet folds
+Donlatruf calls 8190
+*** TURN *** [3c 9h 7h][Kc]
+Donlatruf checks
+hercule65 checks
+*** RIVER *** [3c 9h 7h Kc][Kh]
+Donlatruf bets 3000
+hercule65 calls 3000
+*** SHOW DOWN ***
+hercule65 shows [5h 5c] (Two pairs : Kings and 5)
+Donlatruf shows [9s Qc] (Two pairs : Kings and 9)
+Donlatruf collected 51360 from pot
+*** SUMMARY ***
+Total pot 51360 | No rake
+Board: [3c 9h 7h Kc Kh]
+Seat 1: Donlatruf showed [9s Qc] and won 51360 with Two pairs : Kings and 9
+Seat 2: hercule65 showed [5h 5c] and lost with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-77-1710608865 - Holdem no limit (350/1500/3000) - 2024/03/16 17:07:45 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #4 is the button
+Seat 1: Donlatruf (179580)
+Seat 2: hercule65 (49764)
+Seat 3: P1xel7 (26311)
+Seat 4: la grive 1 (264925)
+Seat 5: TDCall4bet (254150)
+Seat 6: TOMAFAROLAZO (77050)
+*** ANTE/BLINDS ***
+TDCall4bet posts ante 350
+TOMAFAROLAZO posts ante 350
+Donlatruf posts ante 350
+hercule65 posts ante 350
+P1xel7 posts ante 350
+la grive 1 posts ante 350
+TDCall4bet posts small blind 1500
+TOMAFAROLAZO posts big blind 3000
+Dealt to P1xel7 [5c Td]
+*** PRE-FLOP *** 
+Donlatruf folds
+hercule65 folds
+P1xel7 folds
+la grive 1 folds
+TDCall4bet raises 3000 to 6000
+TOMAFAROLAZO folds
+TDCall4bet collected 11100 from pot
+*** SUMMARY ***
+Total pot 11100 | No rake
+Seat 5: TDCall4bet (small blind) won 11100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-78-1710608885 - Holdem no limit (350/1500/3000) - 2024/03/16 17:08:05 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #5 is the button
+Seat 1: Donlatruf (179230)
+Seat 2: hercule65 (49414)
+Seat 3: P1xel7 (25961)
+Seat 4: la grive 1 (264575)
+Seat 5: TDCall4bet (258900)
+Seat 6: TOMAFAROLAZO (73700)
+*** ANTE/BLINDS ***
+TOMAFAROLAZO posts ante 350
+Donlatruf posts ante 350
+hercule65 posts ante 350
+P1xel7 posts ante 350
+la grive 1 posts ante 350
+TDCall4bet posts ante 350
+TOMAFAROLAZO posts small blind 1500
+Donlatruf posts big blind 3000
+Dealt to P1xel7 [Js Ah]
+*** PRE-FLOP *** 
+hercule65 folds
+P1xel7 raises 22611 to 25611 and is all-in
+la grive 1 folds
+TDCall4bet folds
+TOMAFAROLAZO folds
+Donlatruf folds
+P1xel7 collected 32211 from pot
+*** SUMMARY ***
+Total pot 32211 | No rake
+Seat 3: P1xel7 won 32211
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248567504389275660-79-1710608932 - Holdem no limit (350/1500/3000) - 2024/03/16 17:08:52 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #6 is the button
+Seat 1: Donlatruf (175880)
+Seat 2: hercule65 (49064)
+Seat 3: P1xel7 (32211)
+Seat 4: la grive 1 (264225)
+Seat 5: TDCall4bet (258550)
+Seat 6: TOMAFAROLAZO (71850)
+*** ANTE/BLINDS ***
+Donlatruf posts ante 350
+hercule65 posts ante 350
+P1xel7 posts ante 350
+la grive 1 posts ante 350
+TDCall4bet posts ante 350
+TOMAFAROLAZO posts ante 350
+Donlatruf posts small blind 1500
+hercule65 posts big blind 3000
+Dealt to P1xel7 [Jc 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+la grive 1 calls 3000
+TDCall4bet folds
+TOMAFAROLAZO folds
+Donlatruf calls 1500
+hercule65 checks
+*** FLOP *** [Qs Jd Ks]
+Donlatruf checks
+hercule65 checks
+la grive 1 checks
+*** TURN *** [Qs Jd Ks][3d]
+Donlatruf checks
+hercule65 checks
+la grive 1 checks
+*** RIVER *** [Qs Jd Ks 3d][9h]
+Donlatruf checks
+hercule65 checks
+la grive 1 bets 3885
+Donlatruf folds
+hercule65 calls 3885
+*** SHOW DOWN ***
+la grive 1 shows [Js As] (One pair : Jacks)
+hercule65 shows [Qd 7d] (One pair : Queens)
+hercule65 collected 18870 from pot
+*** SUMMARY ***
+Total pot 18870 | No rake
+Board: [Qs Jd Ks 3d 9h]
+Seat 2: hercule65 (big blind) showed [Qd 7d] and won 18870 with One pair : Queens
+Seat 4: la grive 1 showed [Js As] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3248567504389275660-80-1710609004 - Holdem no limit (400/1750/3500) - 2024/03/16 17:10:04 UTC
+Table: 'Monster Stack(756366063)#0011' 6-max (real money) Seat #1 is the button
+Seat 1: Donlatruf (172530)
+Seat 2: hercule65 (60699)
+Seat 3: P1xel7 (31861)
+Seat 4: la grive 1 (256990)
+Seat 5: TDCall4bet (258200)
+Seat 6: TOMAFAROLAZO (71500)
+*** ANTE/BLINDS ***
+hercule65 posts ante 400
+P1xel7 posts ante 400
+Donlatruf posts ante 400
+la grive 1 posts ante 400
+TDCall4bet posts ante 400
+TOMAFAROLAZO posts ante 400
+hercule65 posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [4s 4h]
+*** PRE-FLOP *** 
+la grive 1 folds
+TDCall4bet raises 4375 to 7875
+TOMAFAROLAZO folds
+Donlatruf calls 7875
+hercule65 folds
+P1xel7 calls 4375
+*** FLOP *** [6c 3h 7d]
+P1xel7 bets 23586 and is all-in
+TDCall4bet calls 23586
+Donlatruf calls 23586
+*** TURN *** [6c 3h 7d][Ks]
+TDCall4bet bets 64046
+Donlatruf folds
+*** RIVER *** [6c 3h 7d Ks][Kc]
+*** SHOW DOWN ***
+P1xel7 shows [4s 4h] (Two pairs : Kings and 4)
+TDCall4bet shows [Kh Ah] (Trips of Kings)
+TDCall4bet collected 162579 from pot
+*** SUMMARY ***
+Total pot 162579 | No rake
+Board: [6c 3h 7d Ks Kc]
+Seat 3: P1xel7 (big blind) showed [4s 4h] and lost with Two pairs : Kings and 4
+Seat 5: TDCall4bet showed [Kh Ah] and won 162579 with Trips of Kings
+
+

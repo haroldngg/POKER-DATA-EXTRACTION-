@@ -1,0 +1,144 @@
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3196838548909064832-18-1707851976 - Holdem no limit (20/40) - 2024/02/13 19:19:36 UTC
+Table: 'Tremplin Paris(744321977)#0639' 8-max (real money) Seat #5 is the button
+Seat 1: Archinike (6390)
+Seat 2: lecoyotteb (2460)
+Seat 3: K1mahr1 (6141)
+Seat 4: ACCrack48336 (9289)
+Seat 5: Lucas._ (2955)
+Seat 6: WalixT60 (2757)
+Seat 7: franck131415 (2923)
+Seat 8: P1xel7 (3000)
+*** ANTE/BLINDS ***
+WalixT60 posts small blind 20
+franck131415 posts big blind 40
+Dealt to P1xel7 [5s 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Archinike calls 40
+lecoyotteb folds
+K1mahr1 folds
+ACCrack48336 calls 40
+WalixT60 folds
+franck131415 raises 2883 to 2923 and is all-in
+Archinike folds
+ACCrack48336 folds
+franck131415 collected 3023 from pot
+*** SUMMARY ***
+Total pot 3023 | No rake
+Seat 7: franck131415 (big blind) won 3023
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3196838548909064832-19-1707852029 - Holdem no limit (20/40) - 2024/02/13 19:20:29 UTC
+Table: 'Tremplin Paris(744321977)#0639' 8-max (real money) Seat #6 is the button
+Seat 1: Archinike (6350)
+Seat 2: lecoyotteb (2460)
+Seat 3: K1mahr1 (6141)
+Seat 4: ACCrack48336 (9249)
+Seat 5: Lucas._ (2955)
+Seat 6: WalixT60 (2737)
+Seat 7: franck131415 (3023)
+Seat 8: P1xel7 (3000)
+*** ANTE/BLINDS ***
+franck131415 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Qs 3c]
+*** PRE-FLOP *** 
+Archinike folds
+lecoyotteb raises 220 to 260
+K1mahr1 calls 260
+ACCrack48336 folds
+Lucas._ folds
+WalixT60 raises 840 to 1100
+franck131415 folds
+P1xel7 folds
+lecoyotteb calls 840
+K1mahr1 folds
+*** FLOP *** [3s 2c 4s]
+lecoyotteb bets 1360 and is all-in
+WalixT60 calls 1360
+*** TURN *** [3s 2c 4s][Jd]
+*** RIVER *** [3s 2c 4s Jd][4c]
+*** SHOW DOWN ***
+lecoyotteb shows [7c 7s] (Two pairs : 7 and 4)
+WalixT60 shows [As Ad] (Two pairs : Aces and 4)
+WalixT60 collected 5240 from pot
+*** SUMMARY ***
+Total pot 5240 | No rake
+Board: [3s 2c 4s Jd 4c]
+Seat 2: lecoyotteb showed [7c 7s] and lost with Two pairs : 7 and 4
+Seat 6: WalixT60 (button) showed [As Ad] and won 5240 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3196838548909064832-20-1707852089 - Holdem no limit (20/40) - 2024/02/13 19:21:29 UTC
+Table: 'Tremplin Paris(744321977)#0639' 8-max (real money) Seat #7 is the button
+Seat 1: Archinike (6350)
+Seat 3: K1mahr1 (5881)
+Seat 4: ACCrack48336 (9249)
+Seat 5: Lucas._ (2955)
+Seat 6: WalixT60 (5517)
+Seat 7: franck131415 (3003)
+Seat 8: P1xel7 (2960)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Archinike posts big blind 40
+Dealt to P1xel7 [Qc Qd]
+*** PRE-FLOP *** 
+K1mahr1 folds
+ACCrack48336 raises 60 to 100
+Lucas._ folds
+WalixT60 folds
+franck131415 calls 100
+P1xel7 raises 300 to 400
+Archinike folds
+ACCrack48336 folds
+franck131415 calls 300
+*** FLOP *** [2h 5h 3h]
+P1xel7 bets 329
+franck131415 calls 329
+*** TURN *** [2h 5h 3h][Qh]
+P1xel7 bets 559
+franck131415 raises 1715 to 2274 and is all-in
+P1xel7 folds
+franck131415 collected 4431 from pot
+*** SUMMARY ***
+Total pot 4431 | No rake
+Board: [2h 5h 3h Qh]
+Seat 7: franck131415 (button) won 4431
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3196838548909064832-21-1707852191 - Holdem no limit (20/40) - 2024/02/13 19:23:11 UTC
+Table: 'Tremplin Paris(744321977)#0639' 8-max (real money) Seat #8 is the button
+Seat 1: Archinike (6310)
+Seat 3: K1mahr1 (5881)
+Seat 4: ACCrack48336 (9149)
+Seat 5: Lucas._ (2955)
+Seat 6: WalixT60 (5517)
+Seat 7: franck131415 (4431)
+Seat 8: P1xel7 (1672)
+*** ANTE/BLINDS ***
+Archinike posts small blind 20
+K1mahr1 posts big blind 40
+Dealt to P1xel7 [Jc Ad]
+*** PRE-FLOP *** 
+ACCrack48336 folds
+Lucas._ folds
+WalixT60 folds
+franck131415 folds
+P1xel7 raises 48 to 88
+Archinike folds
+K1mahr1 raises 5793 to 5881 and is all-in
+P1xel7 calls 1584 and is all-in
+*** FLOP *** [Kh 3c Kd]
+*** TURN *** [Kh 3c Kd][4d]
+*** RIVER *** [Kh 3c Kd 4d][8c]
+*** SHOW DOWN ***
+P1xel7 shows [Jc Ad] (One pair : Kings)
+K1mahr1 shows [Qs Kc] (Trips of Kings)
+K1mahr1 collected 7573 from pot
+*** SUMMARY ***
+Total pot 7573 | No rake
+Board: [Kh 3c Kd 4d 8c]
+Seat 3: K1mahr1 (big blind) showed [Qs Kc] and won 7573 with Trips of Kings
+Seat 8: P1xel7 (button) showed [Jc Ad] and lost with One pair : Kings
+
+

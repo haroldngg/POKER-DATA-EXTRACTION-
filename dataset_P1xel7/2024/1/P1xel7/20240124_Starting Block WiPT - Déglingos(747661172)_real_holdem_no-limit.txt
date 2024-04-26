@@ -1,0 +1,39 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3211180282229030913-1-1706123827 - Holdem no limit (10/20) - 2024/01/24 19:17:07 UTC
+Table: 'Starting Block WiPT - Déglingos(747661172)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Nicept (500)
+Seat 2: jhonjhon55 (500)
+Seat 3: P1xel7 (500)
+Seat 4: Mister ASBAN (500)
+Seat 5: ChecKK8 (500)
+Seat 6: yaguera (500)
+*** ANTE/BLINDS ***
+jhonjhon55 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Qd As]
+*** PRE-FLOP *** 
+Mister ASBAN folds
+ChecKK8 raises 50 to 70
+yaguera calls 70
+Nicept raises 430 to 500 and is all-in
+jhonjhon55 folds
+P1xel7 calls 480 and is all-in
+ChecKK8 calls 430 and is all-in
+yaguera calls 430 and is all-in
+*** FLOP *** [2s 5s 4c]
+*** TURN *** [2s 5s 4c][Tc]
+*** RIVER *** [2s 5s 4c Tc][2c]
+*** SHOW DOWN ***
+Nicept shows [Ad Jh] (One pair : 2)
+P1xel7 shows [Qd As] (One pair : 2)
+yaguera shows [5d 9s] (Two pairs : 5 and 2)
+ChecKK8 shows [7c 9c] (Flush Ten high)
+ChecKK8 collected 2010 from pot
+*** SUMMARY ***
+Total pot 2010 | No rake
+Board: [2s 5s 4c Tc 2c]
+Seat 1: Nicept (button) showed [Ad Jh] and lost with One pair : 2
+Seat 3: P1xel7 (big blind) showed [Qd As] and lost with One pair : 2
+Seat 5: ChecKK8 showed [7c 9c] and won 2010 with Flush Ten high
+Seat 6: yaguera showed [5d 9s] and lost with Two pairs : 5 and 2
+
+

@@ -1,0 +1,225 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3263411310796210177-1-1708798626 - Holdem no limit (10/20) - 2024/02/24 18:17:06 UTC
+Table: 'Starting Block WiPT - Déglingos(759822156)#0' 6-max (real money) Seat #6 is the button
+Seat 1: mkkykykenzo (500)
+Seat 2: Boulebig (500)
+Seat 3: Adrian909 (500)
+Seat 4: cejiblou (500)
+Seat 5: Kino 75 (500)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+mkkykykenzo posts small blind 10
+Boulebig posts big blind 20
+Dealt to P1xel7 [6d 3d]
+*** PRE-FLOP *** 
+Adrian909 calls 20
+cejiblou raises 480 to 500 and is all-in
+Kino 75 folds
+P1xel7 folds
+mkkykykenzo calls 490 and is all-in
+Boulebig calls 480 and is all-in
+Adrian909 folds
+*** FLOP *** [8h 4h 8s]
+*** TURN *** [8h 4h 8s][9d]
+*** RIVER *** [8h 4h 8s 9d][3c]
+*** SHOW DOWN ***
+mkkykykenzo shows [6h 7s] (One pair : 8)
+Boulebig shows [Kh Td] (One pair : 8)
+cejiblou shows [Qs Ks] (One pair : 8)
+cejiblou collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [8h 4h 8s 9d 3c]
+Seat 1: mkkykykenzo (small blind) showed [6h 7s] and lost with One pair : 8
+Seat 2: Boulebig (big blind) showed [Kh Td] and lost with One pair : 8
+Seat 4: cejiblou showed [Qs Ks] and won 1520 with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3263411310796210177-2-1708798657 - Holdem no limit (10/20) - 2024/02/24 18:17:37 UTC
+Table: 'Starting Block WiPT - Déglingos(759822156)#0' 6-max (real money) Seat #1 is the button
+Seat 3: Adrian909 (480)
+Seat 4: cejiblou (1520)
+Seat 5: Kino 75 (500)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+Adrian909 posts big blind 20
+Dealt to P1xel7 [9s 9h]
+*** PRE-FLOP *** 
+cejiblou folds
+Kino 75 calls 20
+P1xel7 raises 60 to 80
+Adrian909 folds
+Kino 75 calls 60
+*** FLOP *** [Jh 2d 4s]
+Kino 75 checks
+P1xel7 bets 110
+Kino 75 folds
+P1xel7 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Board: [Jh 2d 4s]
+Seat 6: P1xel7 won 290
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263411310796210177-3-1708798716 - Holdem no limit (15/30) - 2024/02/24 18:18:36 UTC
+Table: 'Starting Block WiPT - Déglingos(759822156)#0' 6-max (real money) Seat #2 is the button
+Seat 3: Adrian909 (460)
+Seat 4: cejiblou (1520)
+Seat 5: Kino 75 (420)
+Seat 6: P1xel7 (600)
+*** ANTE/BLINDS ***
+Adrian909 posts small blind 15
+cejiblou posts big blind 30
+Dealt to P1xel7 [7d 6h]
+*** PRE-FLOP *** 
+Kino 75 folds
+P1xel7 folds
+Adrian909 calls 15
+cejiblou checks
+*** FLOP *** [Jd 7h 9h]
+Adrian909 checks
+cejiblou checks
+*** TURN *** [Jd 7h 9h][6c]
+Adrian909 checks
+cejiblou checks
+*** RIVER *** [Jd 7h 9h 6c][8s]
+Adrian909 bets 30
+cejiblou calls 30
+*** SHOW DOWN ***
+cejiblou shows [4c 8d] (One pair : 8)
+Adrian909 shows [5h Kc] (Straight 9 high)
+Adrian909 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jd 7h 9h 6c 8s]
+Seat 3: Adrian909 (small blind) showed [5h Kc] and won 120 with Straight 9 high
+Seat 4: cejiblou (big blind) showed [4c 8d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263411310796210177-4-1708798767 - Holdem no limit (15/30) - 2024/02/24 18:19:27 UTC
+Table: 'Starting Block WiPT - Déglingos(759822156)#0' 6-max (real money) Seat #3 is the button
+Seat 3: Adrian909 (520)
+Seat 4: cejiblou (1460)
+Seat 5: Kino 75 (420)
+Seat 6: P1xel7 (600)
+*** ANTE/BLINDS ***
+cejiblou posts small blind 15
+Kino 75 posts big blind 30
+Dealt to P1xel7 [Td Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Adrian909 raises 30 to 60
+cejiblou calls 45
+Kino 75 folds
+*** FLOP *** [2h As Qd]
+cejiblou bets 1400 and is all-in
+Adrian909 folds
+cejiblou collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [2h As Qd]
+Seat 4: cejiblou (small blind) won 1550
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3263411310796210177-5-1708798840 - Holdem no limit (20/40) - 2024/02/24 18:20:40 UTC
+Table: 'Starting Block WiPT - Déglingos(759822156)#0' 6-max (real money) Seat #4 is the button
+Seat 3: Adrian909 (460)
+Seat 4: cejiblou (1550)
+Seat 5: Kino 75 (390)
+Seat 6: P1xel7 (600)
+*** ANTE/BLINDS ***
+Kino 75 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [6h 4c]
+*** PRE-FLOP *** 
+Adrian909 folds
+cejiblou raises 1510 to 1550 and is all-in
+Kino 75 folds
+P1xel7 folds
+cejiblou collected 1610 from pot
+*** SUMMARY ***
+Total pot 1610 | No rake
+Seat 4: cejiblou (button) won 1610
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3263411310796210177-6-1708798853 - Holdem no limit (20/40) - 2024/02/24 18:20:53 UTC
+Table: 'Starting Block WiPT - Déglingos(759822156)#0' 6-max (real money) Seat #5 is the button
+Seat 3: Adrian909 (460)
+Seat 4: cejiblou (1610)
+Seat 5: Kino 75 (370)
+Seat 6: P1xel7 (560)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Adrian909 posts big blind 40
+Dealt to P1xel7 [Th 9c]
+*** PRE-FLOP *** 
+cejiblou raises 1570 to 1610 and is all-in
+Kino 75 folds
+P1xel7 folds
+Adrian909 folds
+cejiblou collected 1670 from pot
+*** SUMMARY ***
+Total pot 1670 | No rake
+Seat 4: cejiblou won 1670
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3263411310796210177-7-1708798871 - Holdem no limit (20/40) - 2024/02/24 18:21:11 UTC
+Table: 'Starting Block WiPT - Déglingos(759822156)#0' 6-max (real money) Seat #6 is the button
+Seat 3: Adrian909 (420)
+Seat 4: cejiblou (1670)
+Seat 5: Kino 75 (370)
+Seat 6: P1xel7 (540)
+*** ANTE/BLINDS ***
+Adrian909 posts small blind 20
+cejiblou posts big blind 40
+Dealt to P1xel7 [6c 3d]
+*** PRE-FLOP *** 
+Kino 75 raises 40 to 80
+P1xel7 folds
+Adrian909 calls 60
+cejiblou raises 1590 to 1670 and is all-in
+Kino 75 calls 290 and is all-in
+Adrian909 folds
+*** FLOP *** [7s 6d 6h]
+*** TURN *** [7s 6d 6h][9h]
+*** RIVER *** [7s 6d 6h 9h][Td]
+*** SHOW DOWN ***
+cejiblou shows [7d Ac] (Two pairs : 7 and 6)
+Kino 75 shows [8d 8h] (Straight Ten high)
+Kino 75 collected 820 from main pot
+cejiblou collected 1300 from side pot 1
+*** SUMMARY ***
+Total pot 2120 | No rake
+Board: [7s 6d 6h 9h Td]
+Seat 4: cejiblou (big blind) showed [7d Ac] and won 1300 with Two pairs : 7 and 6
+Seat 5: Kino 75 showed [8d 8h] and won 820 with Straight Ten high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3263411310796210177-8-1708798901 - Holdem no limit (30/60) - 2024/02/24 18:21:41 UTC
+Table: 'Starting Block WiPT - Déglingos(759822156)#0' 6-max (real money) Seat #3 is the button
+Seat 3: Adrian909 (340)
+Seat 4: cejiblou (1300)
+Seat 5: Kino 75 (820)
+Seat 6: P1xel7 (540)
+*** ANTE/BLINDS ***
+cejiblou posts small blind 30
+Kino 75 posts big blind 60
+Dealt to P1xel7 [Ad Ts]
+*** PRE-FLOP *** 
+P1xel7 raises 480 to 540 and is all-in
+Adrian909 folds
+cejiblou raises 760 to 1300 and is all-in
+Kino 75 folds
+*** FLOP *** [9s Qc 2c]
+*** TURN *** [9s Qc 2c][3s]
+*** RIVER *** [9s Qc 2c 3s][4d]
+*** SHOW DOWN ***
+P1xel7 shows [Ad Ts] (High card : Ace)
+cejiblou shows [Ah Kd] (High card : Ace)
+cejiblou collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [9s Qc 2c 3s 4d]
+Seat 4: cejiblou (small blind) showed [Ah Kd] and won 1900 with High card : Ace
+Seat 6: P1xel7 showed [Ad Ts] and lost with High card : Ace
+
+

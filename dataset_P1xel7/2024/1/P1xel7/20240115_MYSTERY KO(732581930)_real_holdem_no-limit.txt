@@ -1,0 +1,1704 @@
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3146415430990561474-65-1705349270 - Holdem no limit (100/400/800) - 2024/01/15 20:07:50 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (49577)
+Seat 2: TYMAN0 (55530)
+Seat 3: lappranti (14070)
+Seat 4: GUETNA 96 (26020)
+Seat 5: Dolido (59019)
+Seat 6: HOLIMITCH (46772)
+*** ANTE/BLINDS ***
+GUETNA 96 posts ante 100
+Dolido posts ante 100
+P1xel7 posts ante 100
+TYMAN0 posts ante 100
+lappranti posts ante 100
+HOLIMITCH posts ante 100
+GUETNA 96 posts small blind 400
+Dolido posts big blind 800
+Dealt to P1xel7 [3s 7h]
+*** PRE-FLOP *** 
+HOLIMITCH raises 1200 to 2000
+P1xel7 folds
+TYMAN0 calls 2000
+lappranti folds
+GUETNA 96 calls 1600
+Dolido folds
+*** FLOP *** [Qh Ah 4s]
+GUETNA 96 checks
+HOLIMITCH bets 4810
+TYMAN0 calls 4810
+GUETNA 96 folds
+*** TURN *** [Qh Ah 4s][5s]
+HOLIMITCH checks
+TYMAN0 checks
+*** RIVER *** [Qh Ah 4s 5s][7d]
+HOLIMITCH checks
+TYMAN0 checks
+*** SHOW DOWN ***
+TYMAN0 shows [8h 9h] (High card : Ace)
+HOLIMITCH shows [Jh Jc] (One pair : Jacks)
+HOLIMITCH collected 17020 from pot
+*** SUMMARY ***
+Total pot 17020 | No rake
+Board: [Qh Ah 4s 5s 7d]
+Seat 2: TYMAN0 showed [8h 9h] and lost with High card : Ace
+Seat 6: HOLIMITCH showed [Jh Jc] and won 17020 with One pair : Jacks
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3146415430990561474-66-1705349360 - Holdem no limit (100/400/800) - 2024/01/15 20:09:20 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (49477)
+Seat 2: TYMAN0 (48620)
+Seat 3: lappranti (13970)
+Seat 4: GUETNA 96 (23920)
+Seat 5: Dolido (58119)
+Seat 6: HOLIMITCH (56882)
+*** ANTE/BLINDS ***
+Dolido posts ante 100
+HOLIMITCH posts ante 100
+P1xel7 posts ante 100
+TYMAN0 posts ante 100
+lappranti posts ante 100
+GUETNA 96 posts ante 100
+Dolido posts small blind 400
+HOLIMITCH posts big blind 800
+Dealt to P1xel7 [6h Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+TYMAN0 raises 1200 to 2000
+lappranti folds
+GUETNA 96 calls 2000
+Dolido calls 1600
+HOLIMITCH folds
+*** FLOP *** [9h 2d 8c]
+Dolido bets 4810
+TYMAN0 folds
+GUETNA 96 calls 4810
+*** TURN *** [9h 2d 8c][Kc]
+Dolido bets 51209 and is all-in
+GUETNA 96 folds
+Dolido collected 68229 from pot
+*** SUMMARY ***
+Total pot 68229 | No rake
+Board: [9h 2d 8c Kc]
+Seat 5: Dolido (small blind) won 68229
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3146415430990561474-67-1705349440 - Holdem no limit (100/400/800) - 2024/01/15 20:10:40 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (49377)
+Seat 2: TYMAN0 (46520)
+Seat 3: lappranti (13870)
+Seat 4: GUETNA 96 (17010)
+Seat 5: Dolido (68229)
+Seat 6: HOLIMITCH (55982)
+*** ANTE/BLINDS ***
+HOLIMITCH posts ante 100
+P1xel7 posts ante 100
+TYMAN0 posts ante 100
+lappranti posts ante 100
+GUETNA 96 posts ante 100
+Dolido posts ante 100
+HOLIMITCH posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [Jc 5h]
+*** PRE-FLOP *** 
+TYMAN0 raises 1600 to 2400
+lappranti folds
+GUETNA 96 folds
+Dolido folds
+HOLIMITCH folds
+P1xel7 folds
+TYMAN0 collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Seat 2: TYMAN0 won 4200
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3146415430990561474-68-1705349472 - Holdem no limit (100/400/800) - 2024/01/15 20:11:12 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (48477)
+Seat 2: TYMAN0 (48220)
+Seat 3: lappranti (13770)
+Seat 4: GUETNA 96 (16910)
+Seat 5: Dolido (68129)
+Seat 6: HOLIMITCH (55482)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+TYMAN0 posts ante 100
+lappranti posts ante 100
+GUETNA 96 posts ante 100
+Dolido posts ante 100
+HOLIMITCH posts ante 100
+P1xel7 posts small blind 400
+TYMAN0 posts big blind 800
+Dealt to P1xel7 [Qc Ks]
+*** PRE-FLOP *** 
+lappranti folds
+GUETNA 96 folds
+Dolido folds
+HOLIMITCH folds
+P1xel7 raises 1200 to 2000
+TYMAN0 calls 1200
+*** FLOP *** [Th 5d Ah]
+P1xel7 bets 2300
+TYMAN0 calls 2300
+*** TURN *** [Th 5d Ah][2c]
+P1xel7 bets 3220
+TYMAN0 calls 3220
+*** RIVER *** [Th 5d Ah 2c][Tc]
+P1xel7 checks
+TYMAN0 bets 8800
+P1xel7 folds
+TYMAN0 collected 24440 from pot
+*** SUMMARY ***
+Total pot 24440 | No rake
+Board: [Th 5d Ah 2c Tc]
+Seat 2: TYMAN0 (big blind) won 24440
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3146415430990561474-69-1705349550 - Holdem no limit (100/400/800) - 2024/01/15 20:12:30 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (40857)
+Seat 2: TYMAN0 (56240)
+Seat 3: lappranti (13670)
+Seat 4: GUETNA 96 (16810)
+Seat 5: Dolido (68029)
+Seat 6: HOLIMITCH (55382)
+*** ANTE/BLINDS ***
+TYMAN0 posts ante 100
+lappranti posts ante 100
+P1xel7 posts ante 100
+GUETNA 96 posts ante 100
+Dolido posts ante 100
+HOLIMITCH posts ante 100
+TYMAN0 posts small blind 400
+lappranti posts big blind 800
+Dealt to P1xel7 [5s 9c]
+*** PRE-FLOP *** 
+GUETNA 96 raises 2600 to 3400
+Dolido folds
+HOLIMITCH folds
+P1xel7 folds
+TYMAN0 folds
+lappranti raises 2600 to 6000
+GUETNA 96 raises 10710 to 16710 and is all-in
+lappranti folds
+GUETNA 96 collected 23710 from pot
+*** SUMMARY ***
+Total pot 23710 | No rake
+Seat 4: GUETNA 96 won 23710
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3146415430990561474-70-1705349598 - Holdem no limit (100/400/800) - 2024/01/15 20:13:18 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (40757)
+Seat 2: TYMAN0 (55740)
+Seat 3: lappranti (7570)
+Seat 4: GUETNA 96 (23710)
+Seat 5: Dolido (67929)
+Seat 6: HOLIMITCH (55282)
+*** ANTE/BLINDS ***
+lappranti posts ante 100
+GUETNA 96 posts ante 100
+P1xel7 posts ante 100
+TYMAN0 posts ante 100
+Dolido posts ante 100
+HOLIMITCH posts ante 100
+lappranti posts small blind 400
+GUETNA 96 posts big blind 800
+Dealt to P1xel7 [Ad 9c]
+*** PRE-FLOP *** 
+Dolido folds
+HOLIMITCH folds
+P1xel7 raises 1600 to 2400
+TYMAN0 calls 2400
+lappranti raises 5070 to 7470 and is all-in
+GUETNA 96 folds
+P1xel7 calls 5070
+TYMAN0 calls 5070
+*** FLOP *** [Js 5s 3c]
+P1xel7 checks
+TYMAN0 bets 4000
+P1xel7 calls 4000
+*** TURN *** [Js 5s 3c][8d]
+P1xel7 checks
+TYMAN0 bets 5200
+P1xel7 folds
+*** RIVER *** [Js 5s 3c 8d][9s]
+*** SHOW DOWN ***
+TYMAN0 shows [6h Ah] (High card : Ace)
+lappranti shows [Ac Qc] (High card : Ace)
+lappranti collected 23810 from main pot
+TYMAN0 collected 13200 from side pot 1
+*** SUMMARY ***
+Total pot 37010 | No rake
+Board: [Js 5s 3c 8d 9s]
+Seat 2: TYMAN0 (button) showed [6h Ah] and won 13200 with High card : Ace
+Seat 3: lappranti (small blind) showed [Ac Qc] and won 23810 with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3146415430990561474-71-1705349657 - Holdem no limit (120/500/1000) - 2024/01/15 20:14:17 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (29187)
+Seat 2: TYMAN0 (52170)
+Seat 3: lappranti (23810)
+Seat 4: GUETNA 96 (22810)
+Seat 5: Dolido (67829)
+Seat 6: HOLIMITCH (55182)
+*** ANTE/BLINDS ***
+GUETNA 96 posts ante 120
+Dolido posts ante 120
+P1xel7 posts ante 120
+TYMAN0 posts ante 120
+lappranti posts ante 120
+HOLIMITCH posts ante 120
+GUETNA 96 posts small blind 500
+Dolido posts big blind 1000
+Dealt to P1xel7 [4c Ks]
+*** PRE-FLOP *** 
+HOLIMITCH folds
+P1xel7 folds
+TYMAN0 folds
+lappranti raises 1000 to 2000
+GUETNA 96 calls 1500
+Dolido calls 1000
+*** FLOP *** [Qs Qd 7d]
+GUETNA 96 bets 1000
+Dolido folds
+lappranti calls 1000
+*** TURN *** [Qs Qd 7d][4h]
+GUETNA 96 bets 1500
+lappranti folds
+GUETNA 96 collected 10220 from pot
+*** SUMMARY ***
+Total pot 10220 | No rake
+Board: [Qs Qd 7d 4h]
+Seat 4: GUETNA 96 (small blind) won 10220
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3146415430990561474-72-1705349721 - Holdem no limit (120/500/1000) - 2024/01/15 20:15:21 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (29067)
+Seat 2: TYMAN0 (52050)
+Seat 3: lappranti (20690)
+Seat 4: GUETNA 96 (28410)
+Seat 5: Dolido (65709)
+Seat 6: HOLIMITCH (55062)
+*** ANTE/BLINDS ***
+Dolido posts ante 120
+HOLIMITCH posts ante 120
+P1xel7 posts ante 120
+TYMAN0 posts ante 120
+lappranti posts ante 120
+GUETNA 96 posts ante 120
+Dolido posts small blind 500
+HOLIMITCH posts big blind 1000
+Dealt to P1xel7 [8d Ac]
+*** PRE-FLOP *** 
+P1xel7 folds
+TYMAN0 folds
+lappranti folds
+GUETNA 96 folds
+Dolido calls 500
+HOLIMITCH checks
+*** FLOP *** [9d Ts 7s]
+Dolido checks
+HOLIMITCH checks
+*** TURN *** [9d Ts 7s][5s]
+Dolido bets 1768
+HOLIMITCH folds
+Dolido collected 4488 from pot
+*** SUMMARY ***
+Total pot 4488 | No rake
+Board: [9d Ts 7s 5s]
+Seat 5: Dolido (small blind) won 4488
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3146415430990561474-73-1705349786 - Holdem no limit (120/500/1000) - 2024/01/15 20:16:26 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (28947)
+Seat 2: TYMAN0 (51930)
+Seat 3: lappranti (20570)
+Seat 4: GUETNA 96 (28290)
+Seat 5: Dolido (67309)
+Seat 6: HOLIMITCH (53942)
+*** ANTE/BLINDS ***
+HOLIMITCH posts ante 120
+P1xel7 posts ante 120
+TYMAN0 posts ante 120
+lappranti posts ante 120
+GUETNA 96 posts ante 120
+Dolido posts ante 120
+HOLIMITCH posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Kh 5c]
+*** PRE-FLOP *** 
+TYMAN0 raises 2000 to 3000
+lappranti folds
+GUETNA 96 folds
+Dolido folds
+HOLIMITCH folds
+P1xel7 folds
+TYMAN0 collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Seat 2: TYMAN0 won 5220
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3146415430990561474-74-1705349818 - Holdem no limit (120/500/1000) - 2024/01/15 20:16:58 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (27827)
+Seat 2: TYMAN0 (54030)
+Seat 3: lappranti (20450)
+Seat 4: GUETNA 96 (28170)
+Seat 5: Dolido (67189)
+Seat 6: HOLIMITCH (53322)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+TYMAN0 posts ante 120
+lappranti posts ante 120
+GUETNA 96 posts ante 120
+Dolido posts ante 120
+HOLIMITCH posts ante 120
+P1xel7 posts small blind 500
+TYMAN0 posts big blind 1000
+Dealt to P1xel7 [Ks 5c]
+*** PRE-FLOP *** 
+lappranti folds
+GUETNA 96 calls 1000
+Dolido folds
+HOLIMITCH calls 1000
+P1xel7 folds
+TYMAN0 checks
+*** FLOP *** [2h Qc 3c]
+TYMAN0 checks
+GUETNA 96 bets 1000
+HOLIMITCH calls 1000
+TYMAN0 calls 1000
+*** TURN *** [2h Qc 3c][Jc]
+TYMAN0 checks
+GUETNA 96 checks
+HOLIMITCH checks
+*** RIVER *** [2h Qc 3c Jc][9s]
+TYMAN0 checks
+GUETNA 96 bets 26050 and is all-in
+HOLIMITCH folds
+TYMAN0 folds
+GUETNA 96 collected 33270 from pot
+*** SUMMARY ***
+Total pot 33270 | No rake
+Board: [2h Qc 3c Jc 9s]
+Seat 4: GUETNA 96 won 33270
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3146415430990561474-75-1705349914 - Holdem no limit (120/500/1000) - 2024/01/15 20:18:34 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (27207)
+Seat 2: TYMAN0 (51910)
+Seat 3: lappranti (20330)
+Seat 4: GUETNA 96 (33270)
+Seat 5: Dolido (67069)
+Seat 6: HOLIMITCH (51202)
+*** ANTE/BLINDS ***
+TYMAN0 posts ante 120
+lappranti posts ante 120
+P1xel7 posts ante 120
+GUETNA 96 posts ante 120
+Dolido posts ante 120
+HOLIMITCH posts ante 120
+TYMAN0 posts small blind 500
+lappranti posts big blind 1000
+Dealt to P1xel7 [9h 4d]
+*** PRE-FLOP *** 
+GUETNA 96 raises 1000 to 2000
+Dolido folds
+HOLIMITCH folds
+P1xel7 folds
+TYMAN0 calls 1500
+lappranti calls 1000
+*** FLOP *** [8s 7c 2h]
+TYMAN0 checks
+lappranti bets 2352
+GUETNA 96 calls 2352
+TYMAN0 calls 2352
+*** TURN *** [8s 7c 2h][Kh]
+TYMAN0 checks
+lappranti checks
+GUETNA 96 checks
+*** RIVER *** [8s 7c 2h Kh][Jd]
+TYMAN0 bets 10000
+lappranti raises 5858 to 15858 and is all-in
+GUETNA 96 folds
+TYMAN0 calls 5858
+*** SHOW DOWN ***
+lappranti shows [7h 7s] (Trips of 7)
+TYMAN0 shows [9d Th] (Straight Jack high)
+TYMAN0 collected 45492 from pot
+*** SUMMARY ***
+Total pot 45492 | No rake
+Board: [8s 7c 2h Kh Jd]
+Seat 2: TYMAN0 (small blind) showed [9d Th] and won 45492 with Straight Jack high
+Seat 3: lappranti (big blind) showed [7h 7s] and lost with Trips of 7
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3146415430990561474-76-1705350047 - Holdem no limit (140/600/1200) - 2024/01/15 20:20:47 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (27087)
+Seat 2: TYMAN0 (77072)
+Seat 4: GUETNA 96 (28798)
+Seat 5: Dolido (66949)
+Seat 6: HOLIMITCH (51082)
+*** ANTE/BLINDS ***
+GUETNA 96 posts ante 140
+P1xel7 posts ante 140
+TYMAN0 posts ante 140
+Dolido posts ante 140
+HOLIMITCH posts ante 140
+GUETNA 96 posts big blind 1200
+Dealt to P1xel7 [Ad 4s]
+*** PRE-FLOP *** 
+Dolido folds
+HOLIMITCH folds
+P1xel7 folds
+TYMAN0 raises 2400 to 3600
+GUETNA 96 folds
+TYMAN0 collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Seat 2: TYMAN0 (button) won 5500
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3146415430990561474-77-1705350079 - Holdem no limit (140/600/1200) - 2024/01/15 20:21:19 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (26947)
+Seat 2: TYMAN0 (78832)
+Seat 3: monkey money (56090)
+Seat 4: GUETNA 96 (27458)
+Seat 5: Dolido (66809)
+Seat 6: HOLIMITCH (50942)
+*** ANTE/BLINDS ***
+GUETNA 96 posts ante 140
+Dolido posts ante 140
+P1xel7 posts ante 140
+TYMAN0 posts ante 140
+HOLIMITCH posts ante 140
+GUETNA 96 posts small blind 600
+Dolido posts big blind 1200
+Dealt to P1xel7 [Qs Ah]
+*** PRE-FLOP *** 
+HOLIMITCH folds
+P1xel7 raises 1800 to 3000
+TYMAN0 folds
+GUETNA 96 folds
+Dolido calls 1800
+*** FLOP *** [7d 4s Td]
+Dolido checks
+P1xel7 bets 2555
+Dolido raises 61114 to 63669 and is all-in
+P1xel7 folds
+Dolido collected 73524 from pot
+*** SUMMARY ***
+Total pot 73524 | No rake
+Board: [7d 4s Td]
+Seat 5: Dolido (big blind) won 73524
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3146415430990561474-78-1705350120 - Holdem no limit (140/600/1200) - 2024/01/15 20:22:00 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (21252)
+Seat 2: TYMAN0 (78692)
+Seat 3: monkey money (56090)
+Seat 4: GUETNA 96 (26718)
+Seat 5: Dolido (73524)
+Seat 6: HOLIMITCH (50802)
+*** ANTE/BLINDS ***
+Dolido posts ante 140
+HOLIMITCH posts ante 140
+P1xel7 posts ante 140
+TYMAN0 posts ante 140
+monkey money posts ante 140
+GUETNA 96 posts ante 140
+Dolido posts small blind 600
+HOLIMITCH posts big blind 1200
+Dealt to P1xel7 [Qd Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 1440 to 2640
+TYMAN0 folds
+monkey money folds
+GUETNA 96 calls 2640
+Dolido folds
+HOLIMITCH calls 1440
+*** FLOP *** [Td Kc As]
+HOLIMITCH bets 4680
+P1xel7 calls 4680
+GUETNA 96 raises 19258 to 23938 and is all-in
+HOLIMITCH calls 19258
+P1xel7 folds
+*** TURN *** [Td Kc As][5c]
+*** RIVER *** [Td Kc As 5c][2d]
+*** SHOW DOWN ***
+HOLIMITCH shows [Ad Ts] (Two pairs : Aces and Tens)
+GUETNA 96 shows [Jd Qs] (Straight Ace high)
+GUETNA 96 collected 61916 from pot
+*** SUMMARY ***
+Total pot 61916 | No rake
+Board: [Td Kc As 5c 2d]
+Seat 4: GUETNA 96 (button) showed [Jd Qs] and won 61916 with Straight Ace high
+Seat 6: HOLIMITCH (big blind) showed [Ad Ts] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3146415430990561474-79-1705350185 - Holdem no limit (140/600/1200) - 2024/01/15 20:23:05 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (13792)
+Seat 2: TYMAN0 (78552)
+Seat 3: monkey money (55950)
+Seat 4: GUETNA 96 (61916)
+Seat 5: Dolido (72784)
+Seat 6: HOLIMITCH (24084)
+*** ANTE/BLINDS ***
+HOLIMITCH posts ante 140
+P1xel7 posts ante 140
+TYMAN0 posts ante 140
+monkey money posts ante 140
+GUETNA 96 posts ante 140
+Dolido posts ante 140
+HOLIMITCH posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [7s Th]
+*** PRE-FLOP *** 
+TYMAN0 folds
+monkey money folds
+GUETNA 96 calls 1200
+Dolido raises 5040 to 6240
+HOLIMITCH folds
+P1xel7 folds
+GUETNA 96 folds
+Dolido collected 10080 from pot
+*** SUMMARY ***
+Total pot 10080 | No rake
+Seat 5: Dolido (button) won 10080
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3146415430990561474-80-1705350212 - Holdem no limit (140/600/1200) - 2024/01/15 20:23:32 UTC
+Table: 'MYSTERY KO(732581930)#0193' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (12452)
+Seat 2: TYMAN0 (78412)
+Seat 3: monkey money (55810)
+Seat 4: GUETNA 96 (60576)
+Seat 5: Dolido (76484)
+Seat 6: HOLIMITCH (23344)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+TYMAN0 posts ante 140
+monkey money posts ante 140
+GUETNA 96 posts ante 140
+Dolido posts ante 140
+HOLIMITCH posts ante 140
+P1xel7 posts small blind 600
+TYMAN0 posts big blind 1200
+Dealt to P1xel7 [Js Ac]
+*** PRE-FLOP *** 
+monkey money folds
+GUETNA 96 folds
+Dolido calls 1200
+HOLIMITCH calls 1200
+P1xel7 raises 11112 to 12312 and is all-in
+TYMAN0 folds
+Dolido calls 11112
+HOLIMITCH calls 11112
+*** FLOP *** [4c 9h 5c]
+Dolido bets 64032 and is all-in
+HOLIMITCH calls 10892 and is all-in
+*** TURN *** [4c 9h 5c][7c]
+*** RIVER *** [4c 9h 5c 7c][2c]
+*** SHOW DOWN ***
+HOLIMITCH shows [As 3s] (Straight 5 high)
+P1xel7 shows [Js Ac] (Flush Ace high)
+Dolido shows [8c Ad] (Flush 8 high)
+Dolido collected 74924 from side pot 1
+P1xel7 collected 38976 from main pot
+*** SUMMARY ***
+Total pot 113900 | No rake
+Board: [4c 9h 5c 7c 2c]
+Seat 1: P1xel7 (small blind) showed [Js Ac] and won 38976 with Flush Ace high
+Seat 5: Dolido showed [8c Ad] and won 74924 with Flush 8 high
+Seat 6: HOLIMITCH (button) showed [As 3s] and lost with Straight 5 high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3146415430990561288-122-1705350304 - Holdem no limit (140/600/1200) - 2024/01/15 20:25:04 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (38976)
+Seat 2: Guiro_ (115643)
+Seat 3: Plaiyah (116066)
+Seat 4: Silvercrow95 (34689)
+Seat 5: GauloisPSG (81890)
+Seat 6: Stinky-pussy (57092)
+*** ANTE/BLINDS ***
+Plaiyah posts ante 140
+Silvercrow95 posts ante 140
+P1xel7 posts ante 140
+Guiro_ posts ante 140
+GauloisPSG posts ante 140
+Stinky-pussy posts ante 140
+Plaiyah posts small blind 600
+Silvercrow95 posts big blind 1200
+Dealt to P1xel7 [Kc 6c]
+*** PRE-FLOP *** 
+GauloisPSG folds
+Stinky-pussy folds
+P1xel7 folds
+Guiro_ calls 1200
+Plaiyah calls 600
+Silvercrow95 checks
+*** FLOP *** [Td 8c 2d]
+Plaiyah checks
+Silvercrow95 checks
+Guiro_ bets 3552
+Plaiyah calls 3552
+Silvercrow95 folds
+*** TURN *** [Td 8c 2d][Js]
+Plaiyah checks
+Guiro_ bets 5772
+Plaiyah calls 5772
+*** RIVER *** [Td 8c 2d Js][3s]
+Plaiyah bets 15007
+Guiro_ calls 15007
+*** SHOW DOWN ***
+Guiro_ shows [Tc Qd] (One pair : Tens)
+Plaiyah shows [Jh 8h] (Two pairs : Jacks and 8)
+Plaiyah collected 53102 from pot
+*** SUMMARY ***
+Total pot 53102 | No rake
+Board: [Td 8c 2d Js 3s]
+Seat 2: Guiro_ (button) showed [Tc Qd] and lost with One pair : Tens
+Seat 3: Plaiyah (small blind) showed [Jh 8h] and won 53102 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3146415430990561288-123-1705350392 - Holdem no limit (140/600/1200) - 2024/01/15 20:26:32 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (38836)
+Seat 2: Guiro_ (89972)
+Seat 3: Plaiyah (143497)
+Seat 4: Silvercrow95 (33349)
+Seat 5: GauloisPSG (81750)
+Seat 6: Stinky-pussy (56952)
+*** ANTE/BLINDS ***
+Silvercrow95 posts ante 140
+GauloisPSG posts ante 140
+P1xel7 posts ante 140
+Guiro_ posts ante 140
+Plaiyah posts ante 140
+Stinky-pussy posts ante 140
+Silvercrow95 posts small blind 600
+GauloisPSG posts big blind 1200
+Dealt to P1xel7 [2s Jh]
+*** PRE-FLOP *** 
+Stinky-pussy folds
+P1xel7 folds
+Guiro_ folds
+Plaiyah raises 1800 to 3000
+Silvercrow95 calls 2400
+GauloisPSG calls 1800
+*** FLOP *** [Jd 3s 8c]
+Silvercrow95 checks
+GauloisPSG bets 3444
+Plaiyah calls 3444
+Silvercrow95 folds
+*** TURN *** [Jd 3s 8c][7d]
+GauloisPSG bets 7200
+Plaiyah folds
+GauloisPSG collected 23928 from pot
+*** SUMMARY ***
+Total pot 23928 | No rake
+Board: [Jd 3s 8c 7d]
+Seat 5: GauloisPSG (big blind) won 23928
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3146415430990561288-124-1705350487 - Holdem no limit (160/700/1400) - 2024/01/15 20:28:07 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (38696)
+Seat 2: Guiro_ (89832)
+Seat 3: Plaiyah (136913)
+Seat 4: Silvercrow95 (30209)
+Seat 5: GauloisPSG (91894)
+Seat 6: Stinky-pussy (56812)
+*** ANTE/BLINDS ***
+GauloisPSG posts ante 160
+Stinky-pussy posts ante 160
+P1xel7 posts ante 160
+Guiro_ posts ante 160
+Plaiyah posts ante 160
+Silvercrow95 posts ante 160
+GauloisPSG posts small blind 700
+Stinky-pussy posts big blind 1400
+Dealt to P1xel7 [4s Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Guiro_ raises 4460 to 5860
+Plaiyah folds
+Silvercrow95 folds
+GauloisPSG folds
+Stinky-pussy folds
+Guiro_ collected 8920 from pot
+*** SUMMARY ***
+Total pot 8920 | No rake
+Seat 2: Guiro_ won 8920
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3146415430990561288-125-1705350534 - Holdem no limit (160/700/1400) - 2024/01/15 20:28:54 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (38536)
+Seat 2: Guiro_ (92732)
+Seat 3: Plaiyah (136753)
+Seat 4: Silvercrow95 (30049)
+Seat 5: GauloisPSG (91034)
+Seat 6: Stinky-pussy (55252)
+*** ANTE/BLINDS ***
+Stinky-pussy posts ante 160
+P1xel7 posts ante 160
+Guiro_ posts ante 160
+Plaiyah posts ante 160
+Silvercrow95 posts ante 160
+GauloisPSG posts ante 160
+Stinky-pussy posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [Ts 2c]
+*** PRE-FLOP *** 
+Guiro_ calls 1400
+Plaiyah calls 1400
+Silvercrow95 folds
+GauloisPSG folds
+Stinky-pussy calls 700
+P1xel7 checks
+*** FLOP *** [Tc 3h Kc]
+Stinky-pussy checks
+P1xel7 checks
+Guiro_ checks
+Plaiyah bets 4264
+Stinky-pussy folds
+P1xel7 folds
+Guiro_ folds
+Plaiyah collected 10824 from pot
+*** SUMMARY ***
+Total pot 10824 | No rake
+Board: [Tc 3h Kc]
+Seat 3: Plaiyah won 10824
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3146415430990561288-126-1705350595 - Holdem no limit (160/700/1400) - 2024/01/15 20:29:55 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (36976)
+Seat 2: Guiro_ (91172)
+Seat 3: Plaiyah (141753)
+Seat 4: Silvercrow95 (29889)
+Seat 5: GauloisPSG (90874)
+Seat 6: Stinky-pussy (53692)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+Guiro_ posts ante 160
+Plaiyah posts ante 160
+Silvercrow95 posts ante 160
+GauloisPSG posts ante 160
+Stinky-pussy posts ante 160
+P1xel7 posts small blind 700
+Guiro_ posts big blind 1400
+Dealt to P1xel7 [6d Ts]
+*** PRE-FLOP *** 
+Plaiyah folds
+Silvercrow95 calls 1400
+GauloisPSG folds
+Stinky-pussy folds
+P1xel7 folds
+Guiro_ checks
+*** FLOP *** [4c 3s Jd]
+Guiro_ checks
+Silvercrow95 checks
+*** TURN *** [4c 3s Jd][9d]
+Guiro_ bets 1561
+Silvercrow95 folds
+Guiro_ collected 6021 from pot
+*** SUMMARY ***
+Total pot 6021 | No rake
+Board: [4c 3s Jd 9d]
+Seat 2: Guiro_ (big blind) won 6021
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3146415430990561288-127-1705350647 - Holdem no limit (160/700/1400) - 2024/01/15 20:30:47 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (36116)
+Seat 2: Guiro_ (94072)
+Seat 3: Plaiyah (141593)
+Seat 4: Silvercrow95 (28329)
+Seat 5: GauloisPSG (90714)
+Seat 6: Stinky-pussy (53532)
+*** ANTE/BLINDS ***
+Guiro_ posts ante 160
+Plaiyah posts ante 160
+P1xel7 posts ante 160
+Silvercrow95 posts ante 160
+GauloisPSG posts ante 160
+Stinky-pussy posts ante 160
+Guiro_ posts small blind 700
+Plaiyah posts big blind 1400
+Dealt to P1xel7 [2s 8h]
+*** PRE-FLOP *** 
+Silvercrow95 folds
+GauloisPSG raises 2100 to 3500
+Stinky-pussy folds
+P1xel7 folds
+Guiro_ folds
+Plaiyah folds
+GauloisPSG collected 6560 from pot
+*** SUMMARY ***
+Total pot 6560 | No rake
+Seat 5: GauloisPSG won 6560
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3146415430990561288-128-1705350682 - Holdem no limit (160/700/1400) - 2024/01/15 20:31:22 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (35956)
+Seat 2: Guiro_ (93212)
+Seat 3: Plaiyah (140033)
+Seat 4: Silvercrow95 (28169)
+Seat 5: GauloisPSG (93614)
+Seat 6: Stinky-pussy (53372)
+*** ANTE/BLINDS ***
+Plaiyah posts ante 160
+Silvercrow95 posts ante 160
+P1xel7 posts ante 160
+Guiro_ posts ante 160
+GauloisPSG posts ante 160
+Stinky-pussy posts ante 160
+Plaiyah posts small blind 700
+Silvercrow95 posts big blind 1400
+Dealt to P1xel7 [4c 8c]
+*** PRE-FLOP *** 
+GauloisPSG folds
+Stinky-pussy folds
+P1xel7 folds
+Guiro_ folds
+Plaiyah calls 700
+Silvercrow95 checks
+*** FLOP *** [4h 5d 7d]
+Plaiyah bets 2444
+Silvercrow95 folds
+Plaiyah collected 6204 from pot
+*** SUMMARY ***
+Total pot 6204 | No rake
+Board: [4h 5d 7d]
+Seat 3: Plaiyah (small blind) won 6204
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3146415430990561288-129-1705350731 - Holdem no limit (160/700/1400) - 2024/01/15 20:32:11 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (35796)
+Seat 2: Guiro_ (93052)
+Seat 3: Plaiyah (142233)
+Seat 4: Silvercrow95 (26609)
+Seat 5: GauloisPSG (93454)
+Seat 6: Stinky-pussy (53212)
+*** ANTE/BLINDS ***
+Silvercrow95 posts ante 160
+GauloisPSG posts ante 160
+P1xel7 posts ante 160
+Guiro_ posts ante 160
+Plaiyah posts ante 160
+Stinky-pussy posts ante 160
+Silvercrow95 posts small blind 700
+GauloisPSG posts big blind 1400
+Dealt to P1xel7 [4c 3c]
+*** PRE-FLOP *** 
+Stinky-pussy folds
+P1xel7 folds
+Guiro_ folds
+Plaiyah folds
+Silvercrow95 folds
+GauloisPSG collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 5: GauloisPSG (big blind) won 3060
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3146415430990561288-130-1705350755 - Holdem no limit (160/700/1400) - 2024/01/15 20:32:35 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (35636)
+Seat 2: Guiro_ (92892)
+Seat 3: Plaiyah (142073)
+Seat 4: Silvercrow95 (25749)
+Seat 5: GauloisPSG (94954)
+Seat 6: Stinky-pussy (53052)
+*** ANTE/BLINDS ***
+GauloisPSG posts ante 160
+Stinky-pussy posts ante 160
+P1xel7 posts ante 160
+Guiro_ posts ante 160
+Plaiyah posts ante 160
+Silvercrow95 posts ante 160
+GauloisPSG posts small blind 700
+Stinky-pussy posts big blind 1400
+Dealt to P1xel7 [3c 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Guiro_ folds
+Plaiyah raises 2100 to 3500
+Silvercrow95 folds
+GauloisPSG folds
+Stinky-pussy calls 2100
+*** FLOP *** [Qs 6h 6d]
+Stinky-pussy checks
+Plaiyah bets 5629
+Stinky-pussy calls 5629
+*** TURN *** [Qs 6h 6d][As]
+Stinky-pussy checks
+Plaiyah bets 12947
+Stinky-pussy folds
+Plaiyah collected 32865 from pot
+*** SUMMARY ***
+Total pot 32865 | No rake
+Board: [Qs 6h 6d As]
+Seat 3: Plaiyah won 32865
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3146415430990561288-131-1705350823 - Holdem no limit (160/700/1400) - 2024/01/15 20:33:43 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (35476)
+Seat 2: Guiro_ (92732)
+Seat 3: Plaiyah (152702)
+Seat 4: Silvercrow95 (25589)
+Seat 5: GauloisPSG (94094)
+Seat 6: Stinky-pussy (43763)
+*** ANTE/BLINDS ***
+Stinky-pussy posts ante 160
+P1xel7 posts ante 160
+Guiro_ posts ante 160
+Plaiyah posts ante 160
+Silvercrow95 posts ante 160
+GauloisPSG posts ante 160
+Stinky-pussy posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [5s 9c]
+*** PRE-FLOP *** 
+Guiro_ calls 1400
+Plaiyah calls 1400
+Silvercrow95 folds
+GauloisPSG folds
+Stinky-pussy folds
+P1xel7 checks
+*** FLOP *** [8c 3s 5d]
+P1xel7 checks
+Guiro_ checks
+Plaiyah bets 3809
+P1xel7 calls 3809
+Guiro_ folds
+*** TURN *** [8c 3s 5d][Kc]
+P1xel7 checks
+Plaiyah bets 13478
+P1xel7 calls 13478
+*** RIVER *** [8c 3s 5d Kc][Qc]
+P1xel7 checks
+Plaiyah checks
+*** SHOW DOWN ***
+Plaiyah shows [Ad Jc] (High card : Ace)
+P1xel7 shows [5s 9c] (One pair : 5)
+P1xel7 collected 40434 from pot
+*** SUMMARY ***
+Total pot 40434 | No rake
+Board: [8c 3s 5d Kc Qc]
+Seat 1: P1xel7 (big blind) showed [5s 9c] and won 40434 with One pair : 5
+Seat 3: Plaiyah showed [Ad Jc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3146415430990561288-132-1705350879 - Holdem no limit (200/800/1600) - 2024/01/15 20:34:39 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (57063)
+Seat 2: Guiro_ (91172)
+Seat 3: Plaiyah (133855)
+Seat 4: Silvercrow95 (25429)
+Seat 5: GauloisPSG (93934)
+Seat 6: Stinky-pussy (42903)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Guiro_ posts ante 200
+Plaiyah posts ante 200
+Silvercrow95 posts ante 200
+GauloisPSG posts ante 200
+Stinky-pussy posts ante 200
+P1xel7 posts small blind 800
+Guiro_ posts big blind 1600
+Dealt to P1xel7 [Qh Qc]
+*** PRE-FLOP *** 
+Plaiyah folds
+Silvercrow95 folds
+GauloisPSG folds
+Stinky-pussy raises 1600 to 3200
+P1xel7 raises 8800 to 12000
+Guiro_ folds
+Stinky-pussy raises 30703 to 42703 and is all-in
+P1xel7 calls 30703
+*** FLOP *** [3h Jc 2s]
+*** TURN *** [3h Jc 2s][2h]
+*** RIVER *** [3h Jc 2s 2h][6d]
+*** SHOW DOWN ***
+Stinky-pussy shows [7d 7s] (Two pairs : 7 and 2)
+P1xel7 shows [Qh Qc] (Two pairs : Queens and 2)
+P1xel7 collected 88206 from pot
+*** SUMMARY ***
+Total pot 88206 | No rake
+Board: [3h Jc 2s 2h 6d]
+Seat 1: P1xel7 (small blind) showed [Qh Qc] and won 88206 with Two pairs : Queens and 2
+Seat 6: Stinky-pussy (button) showed [7d 7s] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3146415430990561288-133-1705350930 - Holdem no limit (200/800/1600) - 2024/01/15 20:35:30 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (102366)
+Seat 2: Guiro_ (89372)
+Seat 3: Plaiyah (133655)
+Seat 4: Silvercrow95 (25229)
+Seat 5: GauloisPSG (93734)
+*** ANTE/BLINDS ***
+Guiro_ posts ante 200
+Plaiyah posts ante 200
+P1xel7 posts ante 200
+Silvercrow95 posts ante 200
+GauloisPSG posts ante 200
+Guiro_ posts small blind 800
+Plaiyah posts big blind 1600
+Dealt to P1xel7 [Ts Qs]
+*** PRE-FLOP *** 
+Silvercrow95 folds
+GauloisPSG folds
+P1xel7 raises 3200 to 4800
+Guiro_ folds
+Plaiyah folds
+P1xel7 collected 8200 from pot
+*** SUMMARY ***
+Total pot 8200 | No rake
+Seat 1: P1xel7 (button) won 8200
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3146415430990561288-134-1705350972 - Holdem no limit (200/800/1600) - 2024/01/15 20:36:12 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (105566)
+Seat 2: Guiro_ (88372)
+Seat 3: Plaiyah (131855)
+Seat 4: Silvercrow95 (25029)
+Seat 5: GauloisPSG (93534)
+Seat 6: Mr.Xraise007 (78288)
+*** ANTE/BLINDS ***
+Plaiyah posts ante 200
+Silvercrow95 posts ante 200
+P1xel7 posts ante 200
+Guiro_ posts ante 200
+GauloisPSG posts ante 200
+Mr.Xraise007 posts ante 200
+Plaiyah posts small blind 800
+Silvercrow95 posts big blind 1600
+Dealt to P1xel7 [Jd 8c]
+*** PRE-FLOP *** 
+GauloisPSG folds
+Mr.Xraise007 raises 1600 to 3200
+P1xel7 folds
+Guiro_ calls 3200
+Plaiyah folds
+Silvercrow95 folds
+*** FLOP *** [5h 3h 7s]
+Mr.Xraise007 checks
+Guiro_ bets 3500
+Mr.Xraise007 folds
+Guiro_ collected 13500 from pot
+*** SUMMARY ***
+Total pot 13500 | No rake
+Board: [5h 3h 7s]
+Seat 2: Guiro_ (button) won 13500
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3146415430990561288-135-1705351074 - Holdem no limit (200/800/1600) - 2024/01/15 20:37:54 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (105366)
+Seat 2: Guiro_ (94972)
+Seat 3: Plaiyah (130855)
+Seat 4: Silvercrow95 (23229)
+Seat 5: GauloisPSG (93334)
+Seat 6: Mr.Xraise007 (74888)
+*** ANTE/BLINDS ***
+Silvercrow95 posts ante 200
+GauloisPSG posts ante 200
+P1xel7 posts ante 200
+Guiro_ posts ante 200
+Plaiyah posts ante 200
+Mr.Xraise007 posts ante 200
+Silvercrow95 posts small blind 800
+GauloisPSG posts big blind 1600
+Dealt to P1xel7 [Ts Kh]
+*** PRE-FLOP *** 
+Mr.Xraise007 folds
+P1xel7 raises 2400 to 4000
+Guiro_ folds
+Plaiyah folds
+Silvercrow95 raises 19029 to 23029 and is all-in
+GauloisPSG folds
+P1xel7 folds
+Silvercrow95 collected 29829 from pot
+*** SUMMARY ***
+Total pot 29829 | No rake
+Seat 4: Silvercrow95 (small blind) won 29829
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3146415430990561288-136-1705351119 - Holdem no limit (200/800/1600) - 2024/01/15 20:38:39 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (101166)
+Seat 2: Guiro_ (94772)
+Seat 3: Plaiyah (130655)
+Seat 4: Silvercrow95 (29829)
+Seat 5: GauloisPSG (91534)
+Seat 6: Mr.Xraise007 (74688)
+*** ANTE/BLINDS ***
+GauloisPSG posts ante 200
+Mr.Xraise007 posts ante 200
+P1xel7 posts ante 200
+Guiro_ posts ante 200
+Plaiyah posts ante 200
+Silvercrow95 posts ante 200
+GauloisPSG posts small blind 800
+Mr.Xraise007 posts big blind 1600
+Dealt to P1xel7 [Ts 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Guiro_ folds
+Plaiyah folds
+Silvercrow95 folds
+GauloisPSG folds
+Mr.Xraise007 collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 6: Mr.Xraise007 (big blind) won 3600
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3146415430990561288-137-1705351149 - Holdem no limit (200/800/1600) - 2024/01/15 20:39:09 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (100966)
+Seat 2: Guiro_ (94572)
+Seat 3: Plaiyah (130455)
+Seat 4: Silvercrow95 (29629)
+Seat 5: GauloisPSG (90534)
+Seat 6: Mr.Xraise007 (76488)
+*** ANTE/BLINDS ***
+Mr.Xraise007 posts ante 200
+P1xel7 posts ante 200
+Guiro_ posts ante 200
+Plaiyah posts ante 200
+Silvercrow95 posts ante 200
+GauloisPSG posts ante 200
+Mr.Xraise007 posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [3d 8h]
+*** PRE-FLOP *** 
+Guiro_ folds
+Plaiyah folds
+Silvercrow95 folds
+GauloisPSG folds
+Mr.Xraise007 calls 800
+P1xel7 checks
+*** FLOP *** [9s 7s 5d]
+Mr.Xraise007 bets 1600
+P1xel7 calls 1600
+*** TURN *** [9s 7s 5d][7c]
+Mr.Xraise007 checks
+P1xel7 bets 6080
+Mr.Xraise007 folds
+P1xel7 collected 13680 from pot
+*** SUMMARY ***
+Total pot 13680 | No rake
+Board: [9s 7s 5d 7c]
+Seat 1: P1xel7 (big blind) won 13680
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3146415430990561288-138-1705351251 - Holdem no limit (200/800/1600) - 2024/01/15 20:40:51 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (105166)
+Seat 2: Guiro_ (94372)
+Seat 3: Plaiyah (130255)
+Seat 4: Silvercrow95 (29429)
+Seat 5: GauloisPSG (90334)
+Seat 6: Mr.Xraise007 (73088)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Guiro_ posts ante 200
+Plaiyah posts ante 200
+Silvercrow95 posts ante 200
+GauloisPSG posts ante 200
+Mr.Xraise007 posts ante 200
+P1xel7 posts small blind 800
+Guiro_ posts big blind 1600
+Dealt to P1xel7 [7s 7h]
+*** PRE-FLOP *** 
+Plaiyah folds
+Silvercrow95 folds
+GauloisPSG folds
+Mr.Xraise007 calls 1600
+P1xel7 raises 6400 to 8000
+Guiro_ folds
+Mr.Xraise007 calls 6400
+*** FLOP *** [4h 3h Td]
+P1xel7 bets 6580
+Mr.Xraise007 calls 6580
+*** TURN *** [4h 3h Td][4s]
+P1xel7 bets 11186
+Mr.Xraise007 calls 11186
+*** RIVER *** [4h 3h Td 4s][5h]
+P1xel7 checks
+Mr.Xraise007 bets 13583
+P1xel7 calls 13583
+*** SHOW DOWN ***
+P1xel7 shows [7s 7h] (Two pairs : 7 and 4)
+Mr.Xraise007 shows [6h 9h] (Flush 9 high)
+Mr.Xraise007 collected 81498 from pot
+*** SUMMARY ***
+Total pot 81498 | No rake
+Board: [4h 3h Td 4s 5h]
+Seat 1: P1xel7 (small blind) showed [7s 7h] and lost with Two pairs : 7 and 4
+Seat 6: Mr.Xraise007 (button) showed [6h 9h] and won 81498 with Flush 9 high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #3146415430990561288-139-1705351378 - Holdem no limit (250/1000/2000) - 2024/01/15 20:42:58 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (65617)
+Seat 2: Guiro_ (92572)
+Seat 3: Plaiyah (130055)
+Seat 4: Silvercrow95 (29229)
+Seat 5: GauloisPSG (90134)
+Seat 6: Mr.Xraise007 (115037)
+*** ANTE/BLINDS ***
+Guiro_ posts ante 250
+Plaiyah posts ante 250
+P1xel7 posts ante 250
+Silvercrow95 posts ante 250
+GauloisPSG posts ante 250
+Mr.Xraise007 posts ante 250
+Guiro_ posts small blind 1000
+Plaiyah posts big blind 2000
+Dealt to P1xel7 [5d 3c]
+*** PRE-FLOP *** 
+Silvercrow95 folds
+GauloisPSG folds
+Mr.Xraise007 raises 2000 to 4000
+P1xel7 folds
+Guiro_ folds
+Plaiyah calls 2000
+*** FLOP *** [Jh 9c 7d]
+Plaiyah checks
+Mr.Xraise007 checks
+*** TURN *** [Jh 9c 7d][Kd]
+Plaiyah bets 10500
+Mr.Xraise007 folds
+Plaiyah collected 21000 from pot
+*** SUMMARY ***
+Total pot 21000 | No rake
+Board: [Jh 9c 7d Kd]
+Seat 3: Plaiyah (big blind) won 21000
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #3146415430990561288-140-1705351432 - Holdem no limit (250/1000/2000) - 2024/01/15 20:43:52 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (65367)
+Seat 2: Guiro_ (91322)
+Seat 3: Plaiyah (136305)
+Seat 4: Silvercrow95 (28979)
+Seat 5: GauloisPSG (89884)
+Seat 6: Mr.Xraise007 (110787)
+*** ANTE/BLINDS ***
+Plaiyah posts ante 250
+Silvercrow95 posts ante 250
+P1xel7 posts ante 250
+Guiro_ posts ante 250
+GauloisPSG posts ante 250
+Mr.Xraise007 posts ante 250
+Plaiyah posts small blind 1000
+Silvercrow95 posts big blind 2000
+Dealt to P1xel7 [9c Qs]
+*** PRE-FLOP *** 
+GauloisPSG raises 2000 to 4000
+Mr.Xraise007 calls 4000
+P1xel7 folds
+Guiro_ folds
+Plaiyah folds
+Silvercrow95 folds
+*** FLOP *** [5d 9s Jh]
+GauloisPSG bets 4375
+Mr.Xraise007 calls 4375
+*** TURN *** [5d 9s Jh][4s]
+GauloisPSG checks
+Mr.Xraise007 checks
+*** RIVER *** [5d 9s Jh 4s][Ah]
+GauloisPSG checks
+Mr.Xraise007 bets 7013
+GauloisPSG folds
+Mr.Xraise007 collected 28263 from pot
+*** SUMMARY ***
+Total pot 28263 | No rake
+Board: [5d 9s Jh 4s Ah]
+Seat 6: Mr.Xraise007 won 28263
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #3146415430990561288-141-1705351536 - Holdem no limit (250/1000/2000) - 2024/01/15 20:45:36 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (65117)
+Seat 2: Guiro_ (91072)
+Seat 3: Plaiyah (135055)
+Seat 4: Silvercrow95 (26729)
+Seat 5: GauloisPSG (81259)
+Seat 6: Mr.Xraise007 (123412)
+*** ANTE/BLINDS ***
+Silvercrow95 posts ante 250
+GauloisPSG posts ante 250
+P1xel7 posts ante 250
+Guiro_ posts ante 250
+Plaiyah posts ante 250
+Mr.Xraise007 posts ante 250
+Silvercrow95 posts small blind 1000
+GauloisPSG posts big blind 2000
+Dealt to P1xel7 [9c 5d]
+*** PRE-FLOP *** 
+Mr.Xraise007 folds
+P1xel7 folds
+Guiro_ folds
+Plaiyah calls 2000
+Silvercrow95 folds
+GauloisPSG checks
+*** FLOP *** [3d 4c 7d]
+GauloisPSG checks
+Plaiyah bets 4225
+GauloisPSG folds
+Plaiyah collected 10725 from pot
+*** SUMMARY ***
+Total pot 10725 | No rake
+Board: [3d 4c 7d]
+Seat 3: Plaiyah (button) won 10725
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #3146415430990561288-142-1705351631 - Holdem no limit (250/1000/2000) - 2024/01/15 20:47:11 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (64867)
+Seat 2: Guiro_ (90822)
+Seat 3: Plaiyah (139305)
+Seat 4: Silvercrow95 (25479)
+Seat 5: GauloisPSG (79009)
+Seat 6: Mr.Xraise007 (123162)
+*** ANTE/BLINDS ***
+GauloisPSG posts ante 250
+Mr.Xraise007 posts ante 250
+P1xel7 posts ante 250
+Guiro_ posts ante 250
+Plaiyah posts ante 250
+Silvercrow95 posts ante 250
+GauloisPSG posts small blind 1000
+Mr.Xraise007 posts big blind 2000
+Dealt to P1xel7 [2s 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Guiro_ folds
+Plaiyah folds
+Silvercrow95 folds
+GauloisPSG raises 4000 to 6000
+Mr.Xraise007 calls 4000
+*** FLOP *** [Ah Ac 8s]
+GauloisPSG checks
+Mr.Xraise007 checks
+*** TURN *** [Ah Ac 8s][6c]
+GauloisPSG checks
+Mr.Xraise007 checks
+*** RIVER *** [Ah Ac 8s 6c][6h]
+GauloisPSG bets 4725
+Mr.Xraise007 folds
+GauloisPSG collected 18225 from pot
+*** SUMMARY ***
+Total pot 18225 | No rake
+Board: [Ah Ac 8s 6c 6h]
+Seat 5: GauloisPSG (small blind) won 18225
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3146415430990561288-143-1705351734 - Holdem no limit (300/1250/2500) - 2024/01/15 20:48:54 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (64617)
+Seat 2: Guiro_ (90572)
+Seat 3: Plaiyah (139055)
+Seat 4: Silvercrow95 (25229)
+Seat 5: GauloisPSG (86259)
+Seat 6: Mr.Xraise007 (116912)
+*** ANTE/BLINDS ***
+Mr.Xraise007 posts ante 300
+P1xel7 posts ante 300
+Guiro_ posts ante 300
+Plaiyah posts ante 300
+Silvercrow95 posts ante 300
+GauloisPSG posts ante 300
+Mr.Xraise007 posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [6s Kd]
+*** PRE-FLOP *** 
+Guiro_ folds
+Plaiyah folds
+Silvercrow95 folds
+GauloisPSG folds
+Mr.Xraise007 folds
+P1xel7 collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Seat 1: P1xel7 (big blind) won 5550
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3146415430990561288-144-1705351798 - Holdem no limit (300/1250/2500) - 2024/01/15 20:49:58 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (67367)
+Seat 2: Guiro_ (90272)
+Seat 3: Plaiyah (138755)
+Seat 4: Silvercrow95 (24929)
+Seat 5: GauloisPSG (85959)
+Seat 6: Mr.Xraise007 (115362)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+Guiro_ posts ante 300
+Plaiyah posts ante 300
+Silvercrow95 posts ante 300
+GauloisPSG posts ante 300
+Mr.Xraise007 posts ante 300
+P1xel7 posts small blind 1250
+Guiro_ posts big blind 2500
+Dealt to P1xel7 [2s Qs]
+*** PRE-FLOP *** 
+Plaiyah raises 3750 to 6250
+Silvercrow95 folds
+GauloisPSG folds
+Mr.Xraise007 folds
+P1xel7 folds
+Guiro_ folds
+Plaiyah collected 11800 from pot
+*** SUMMARY ***
+Total pot 11800 | No rake
+Seat 3: Plaiyah won 11800
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3146415430990561288-145-1705351856 - Holdem no limit (300/1250/2500) - 2024/01/15 20:50:56 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (65817)
+Seat 2: Guiro_ (87472)
+Seat 3: Plaiyah (144005)
+Seat 4: Silvercrow95 (24629)
+Seat 5: GauloisPSG (85659)
+Seat 6: Mr.Xraise007 (115062)
+*** ANTE/BLINDS ***
+Guiro_ posts ante 300
+Plaiyah posts ante 300
+P1xel7 posts ante 300
+Silvercrow95 posts ante 300
+GauloisPSG posts ante 300
+Mr.Xraise007 posts ante 300
+Guiro_ posts small blind 1250
+Plaiyah posts big blind 2500
+Dealt to P1xel7 [9h Qh]
+*** PRE-FLOP *** 
+Silvercrow95 folds
+GauloisPSG folds
+Mr.Xraise007 folds
+P1xel7 raises 3750 to 6250
+Guiro_ calls 5000
+Plaiyah calls 3750
+*** FLOP *** [Jc 8h Kh]
+Guiro_ checks
+Plaiyah checks
+P1xel7 bets 5138
+Guiro_ calls 5138
+Plaiyah calls 5138
+*** TURN *** [Jc 8h Kh][6d]
+Guiro_ checks
+Plaiyah checks
+P1xel7 checks
+*** RIVER *** [Jc 8h Kh 6d][6s]
+Guiro_ bets 17982
+Plaiyah folds
+P1xel7 folds
+Guiro_ collected 53946 from pot
+*** SUMMARY ***
+Total pot 53946 | No rake
+Board: [Jc 8h Kh 6d 6s]
+Seat 2: Guiro_ (small blind) won 53946
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3146415430990561288-146-1705351957 - Holdem no limit (300/1250/2500) - 2024/01/15 20:52:37 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (54129)
+Seat 2: Guiro_ (111748)
+Seat 3: Plaiyah (132317)
+Seat 4: Silvercrow95 (24329)
+Seat 5: GauloisPSG (85359)
+Seat 6: Mr.Xraise007 (114762)
+*** ANTE/BLINDS ***
+Plaiyah posts ante 300
+Silvercrow95 posts ante 300
+P1xel7 posts ante 300
+Guiro_ posts ante 300
+GauloisPSG posts ante 300
+Mr.Xraise007 posts ante 300
+Plaiyah posts small blind 1250
+Silvercrow95 posts big blind 2500
+Dealt to P1xel7 [8d 4s]
+*** PRE-FLOP *** 
+GauloisPSG folds
+Mr.Xraise007 folds
+P1xel7 folds
+Guiro_ folds
+Plaiyah raises 129517 to 132017 and is all-in
+Silvercrow95 folds
+Plaiyah collected 136317 from pot
+*** SUMMARY ***
+Total pot 136317 | No rake
+Seat 3: Plaiyah (small blind) won 136317
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3146415430990561288-147-1705352001 - Holdem no limit (300/1250/2500) - 2024/01/15 20:53:21 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (53829)
+Seat 2: Guiro_ (111448)
+Seat 3: Plaiyah (136317)
+Seat 4: Silvercrow95 (21529)
+Seat 5: GauloisPSG (85059)
+Seat 6: Mr.Xraise007 (114462)
+*** ANTE/BLINDS ***
+Silvercrow95 posts ante 300
+GauloisPSG posts ante 300
+P1xel7 posts ante 300
+Guiro_ posts ante 300
+Plaiyah posts ante 300
+Mr.Xraise007 posts ante 300
+Silvercrow95 posts small blind 1250
+GauloisPSG posts big blind 2500
+Dealt to P1xel7 [Ac 3h]
+*** PRE-FLOP *** 
+Mr.Xraise007 folds
+P1xel7 folds
+Guiro_ raises 3750 to 6250
+Plaiyah calls 6250
+Silvercrow95 folds
+GauloisPSG calls 3750
+*** FLOP *** [4c 2h 8h]
+GauloisPSG checks
+Guiro_ checks
+Plaiyah bets 14170
+GauloisPSG folds
+Guiro_ folds
+Plaiyah collected 35970 from pot
+*** SUMMARY ***
+Total pot 35970 | No rake
+Board: [4c 2h 8h]
+Seat 3: Plaiyah (button) won 35970
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3146415430990561288-148-1705352088 - Holdem no limit (300/1250/2500) - 2024/01/15 20:54:48 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (53529)
+Seat 2: Guiro_ (104898)
+Seat 3: Plaiyah (151567)
+Seat 4: Silvercrow95 (19979)
+Seat 5: GauloisPSG (78509)
+Seat 6: Mr.Xraise007 (114162)
+*** ANTE/BLINDS ***
+GauloisPSG posts ante 300
+Mr.Xraise007 posts ante 300
+P1xel7 posts ante 300
+Guiro_ posts ante 300
+Plaiyah posts ante 300
+Silvercrow95 posts ante 300
+GauloisPSG posts small blind 1250
+Mr.Xraise007 posts big blind 2500
+Dealt to P1xel7 [Kh Jd]
+*** PRE-FLOP *** 
+P1xel7 raises 2500 to 5000
+Guiro_ folds
+Plaiyah folds
+Silvercrow95 folds
+GauloisPSG folds
+Mr.Xraise007 calls 2500
+*** FLOP *** [Qh Kc 5d]
+Mr.Xraise007 checks
+P1xel7 bets 4568
+Mr.Xraise007 folds
+P1xel7 collected 17618 from pot
+*** SUMMARY ***
+Total pot 17618 | No rake
+Board: [Qh Kc 5d]
+Seat 1: P1xel7 won 17618
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3146415430990561288-149-1705352460 - Holdem no limit (300/1250/2500) - 2024/01/15 21:01:00 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (61279)
+Seat 2: Guiro_ (104598)
+Seat 3: Plaiyah (151267)
+Seat 4: Silvercrow95 (19679)
+Seat 5: GauloisPSG (76959)
+Seat 6: Mr.Xraise007 (108862)
+*** ANTE/BLINDS ***
+Mr.Xraise007 posts ante 300
+P1xel7 posts ante 300
+Guiro_ posts ante 300
+Plaiyah posts ante 300
+Silvercrow95 posts ante 300
+GauloisPSG posts ante 300
+Mr.Xraise007 posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [4s Js]
+*** PRE-FLOP *** 
+Guiro_ folds
+Plaiyah folds
+Silvercrow95 folds
+GauloisPSG folds
+Mr.Xraise007 raises 6250 to 8750
+P1xel7 folds
+Mr.Xraise007 collected 13050 from pot
+*** SUMMARY ***
+Total pot 13050 | No rake
+Seat 6: Mr.Xraise007 (small blind) won 13050
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #3146415430990561288-150-1705352518 - Holdem no limit (350/1500/3000) - 2024/01/15 21:01:58 UTC
+Table: 'MYSTERY KO(732581930)#0007' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (58479)
+Seat 2: Guiro_ (104298)
+Seat 3: Plaiyah (150967)
+Seat 4: Silvercrow95 (19379)
+Seat 5: GauloisPSG (76659)
+Seat 6: Mr.Xraise007 (112862)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+Guiro_ posts ante 350
+Plaiyah posts ante 350
+Silvercrow95 posts ante 350
+GauloisPSG posts ante 350
+Mr.Xraise007 posts ante 350
+P1xel7 posts small blind 1500
+Guiro_ posts big blind 3000
+Dealt to P1xel7 [2d Ad]
+*** PRE-FLOP *** 
+Plaiyah raises 6000 to 9000
+Silvercrow95 folds
+GauloisPSG folds
+Mr.Xraise007 folds
+P1xel7 raises 49129 to 58129 and is all-in
+Guiro_ folds
+Plaiyah calls 49129
+*** FLOP *** [6h 9d Jh]
+*** TURN *** [6h 9d Jh][6c]
+*** RIVER *** [6h 9d Jh 6c][7h]
+*** SHOW DOWN ***
+P1xel7 shows [2d Ad] (One pair : 6)
+Plaiyah shows [Jd Js] (Full of Jacks and 6)
+Plaiyah collected 121358 from pot
+*** SUMMARY ***
+Total pot 121358 | No rake
+Board: [6h 9d Jh 6c 7h]
+Seat 1: P1xel7 (small blind) showed [2d Ad] and lost with One pair : 6
+Seat 3: Plaiyah showed [Jd Js] and won 121358 with Full of Jacks and 6
+
+

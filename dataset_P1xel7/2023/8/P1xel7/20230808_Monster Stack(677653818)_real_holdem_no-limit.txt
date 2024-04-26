@@ -1,0 +1,2712 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-25-1691517788 - Holdem no limit (120/500/1000) - 2023/08/08 18:03:08 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (100000)
+Seat 2: K-maille (72182)
+Seat 3: Torgam10 (157651)
+Seat 5: RDV TF (100889)
+Seat 6: kou2hache78 (134498)
+*** ANTE/BLINDS ***
+Torgam10 posts ante 120
+RDV TF posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+kou2hache78 posts ante 120
+Torgam10 posts small blind 500
+RDV TF posts big blind 1000
+Dealt to P1xel7 [4c Tc]
+*** PRE-FLOP *** 
+kou2hache78 folds
+P1xel7 folds
+K-maille raises 1000 to 2000
+Torgam10 folds
+RDV TF calls 1000
+*** FLOP *** [2c 9d 5c]
+RDV TF checks
+K-maille checks
+*** TURN *** [2c 9d 5c][As]
+RDV TF checks
+K-maille checks
+*** RIVER *** [2c 9d 5c As][3s]
+RDV TF checks
+K-maille checks
+*** SHOW DOWN ***
+K-maille shows [Jh Kc] (High card : Ace)
+RDV TF shows [9s 8c] (One pair : 9)
+RDV TF collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Board: [2c 9d 5c As 3s]
+Seat 2: K-maille (button) showed [Jh Kc] and lost with High card : Ace
+Seat 5: RDV TF (big blind) showed [9s 8c] and won 5100 with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-26-1691517823 - Holdem no limit (120/500/1000) - 2023/08/08 18:03:43 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (99880)
+Seat 2: K-maille (70062)
+Seat 3: Torgam10 (157031)
+Seat 5: RDV TF (103869)
+Seat 6: kou2hache78 (134378)
+*** ANTE/BLINDS ***
+RDV TF posts ante 120
+kou2hache78 posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+Torgam10 posts ante 120
+RDV TF posts small blind 500
+kou2hache78 posts big blind 1000
+Dealt to P1xel7 [Ah Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+K-maille raises 1000 to 2000
+Torgam10 folds
+RDV TF folds
+kou2hache78 calls 1000
+*** FLOP *** [6c 6h 5s]
+kou2hache78 checks
+K-maille checks
+*** TURN *** [6c 6h 5s][Jd]
+kou2hache78 bets 3315
+K-maille folds
+kou2hache78 collected 8415 from pot
+*** SUMMARY ***
+Total pot 8415 | No rake
+Board: [6c 6h 5s Jd]
+Seat 6: kou2hache78 (big blind) won 8415
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-27-1691517865 - Holdem no limit (120/500/1000) - 2023/08/08 18:04:25 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (99760)
+Seat 2: K-maille (67942)
+Seat 3: Torgam10 (156911)
+Seat 5: RDV TF (103249)
+Seat 6: kou2hache78 (137358)
+*** ANTE/BLINDS ***
+kou2hache78 posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+Torgam10 posts ante 120
+RDV TF posts ante 120
+kou2hache78 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [3c 4d]
+*** PRE-FLOP *** 
+K-maille folds
+Torgam10 raises 1000 to 2000
+RDV TF folds
+kou2hache78 calls 1500
+P1xel7 folds
+*** FLOP *** [7d Ah 7h]
+kou2hache78 checks
+Torgam10 bets 1848
+kou2hache78 folds
+Torgam10 collected 7448 from pot
+*** SUMMARY ***
+Total pot 7448 | No rake
+Board: [7d Ah 7h]
+Seat 3: Torgam10 won 7448
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-28-1691517914 - Holdem no limit (120/500/1000) - 2023/08/08 18:05:14 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (98640)
+Seat 2: K-maille (67822)
+Seat 3: Torgam10 (160391)
+Seat 4: Aaasskip (100000)
+Seat 5: RDV TF (103129)
+Seat 6: kou2hache78 (135238)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+K-maille posts ante 120
+Torgam10 posts ante 120
+Aaasskip posts ante 120
+RDV TF posts ante 120
+kou2hache78 posts ante 120
+P1xel7 posts small blind 500
+K-maille posts big blind 1000
+Dealt to P1xel7 [4d 9d]
+*** PRE-FLOP *** 
+Torgam10 folds
+Aaasskip folds
+RDV TF folds
+kou2hache78 folds
+P1xel7 folds
+K-maille collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 2: K-maille (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-29-1691517931 - Holdem no limit (120/500/1000) - 2023/08/08 18:05:31 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (98020)
+Seat 2: K-maille (68922)
+Seat 3: Torgam10 (160271)
+Seat 4: Aaasskip (99880)
+Seat 5: RDV TF (103009)
+Seat 6: kou2hache78 (135118)
+*** ANTE/BLINDS ***
+K-maille posts ante 120
+Torgam10 posts ante 120
+P1xel7 posts ante 120
+Aaasskip posts ante 120
+RDV TF posts ante 120
+kou2hache78 posts ante 120
+K-maille posts small blind 500
+Torgam10 posts big blind 1000
+Dealt to P1xel7 [6s 3c]
+*** PRE-FLOP *** 
+Aaasskip folds
+RDV TF folds
+kou2hache78 raises 2000 to 3000
+P1xel7 folds
+K-maille calls 2500
+Torgam10 folds
+*** FLOP *** [8s As 9h]
+K-maille checks
+kou2hache78 bets 5018
+K-maille folds
+kou2hache78 collected 12738 from pot
+*** SUMMARY ***
+Total pot 12738 | No rake
+Board: [8s As 9h]
+Seat 6: kou2hache78 won 12738
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-30-1691517970 - Holdem no limit (120/500/1000) - 2023/08/08 18:06:10 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (97900)
+Seat 2: K-maille (65802)
+Seat 3: Torgam10 (159151)
+Seat 4: Aaasskip (99760)
+Seat 5: RDV TF (102889)
+Seat 6: kou2hache78 (139718)
+*** ANTE/BLINDS ***
+Torgam10 posts ante 120
+Aaasskip posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+RDV TF posts ante 120
+kou2hache78 posts ante 120
+Torgam10 posts small blind 500
+Aaasskip posts big blind 1000
+Dealt to P1xel7 [3c 4d]
+*** PRE-FLOP *** 
+RDV TF folds
+kou2hache78 folds
+P1xel7 folds
+K-maille raises 1000 to 2000
+Torgam10 folds
+Aaasskip calls 1000
+*** FLOP *** [8c Qs As]
+Aaasskip checks
+K-maille checks
+*** TURN *** [8c Qs As][Th]
+Aaasskip checks
+K-maille checks
+*** RIVER *** [8c Qs As Th][2s]
+Aaasskip checks
+K-maille checks
+*** SHOW DOWN ***
+K-maille shows [7d 7h] (One pair : 7)
+Aaasskip shows [6s 8h] (One pair : 8)
+Aaasskip collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Board: [8c Qs As Th 2s]
+Seat 2: K-maille (button) showed [7d 7h] and lost with One pair : 7
+Seat 4: Aaasskip (big blind) showed [6s 8h] and won 5220 with One pair : 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-31-1691518047 - Holdem no limit (120/500/1000) - 2023/08/08 18:07:27 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (97780)
+Seat 2: K-maille (63682)
+Seat 3: Torgam10 (158531)
+Seat 4: Aaasskip (102860)
+Seat 5: RDV TF (102769)
+Seat 6: kou2hache78 (139598)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 120
+RDV TF posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+Torgam10 posts ante 120
+kou2hache78 posts ante 120
+Aaasskip posts small blind 500
+RDV TF posts big blind 1000
+Dealt to P1xel7 [9h 5h]
+*** PRE-FLOP *** 
+kou2hache78 folds
+P1xel7 folds
+K-maille folds
+Torgam10 folds
+Aaasskip folds
+RDV TF collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 5: RDV TF (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-32-1691518065 - Holdem no limit (120/500/1000) - 2023/08/08 18:07:45 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (97660)
+Seat 2: K-maille (63562)
+Seat 3: Torgam10 (158411)
+Seat 4: Aaasskip (102240)
+Seat 5: RDV TF (103869)
+Seat 6: kou2hache78 (139478)
+*** ANTE/BLINDS ***
+RDV TF posts ante 120
+kou2hache78 posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+Torgam10 posts ante 120
+Aaasskip posts ante 120
+RDV TF posts small blind 500
+kou2hache78 posts big blind 1000
+Dealt to P1xel7 [Qc 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+K-maille folds
+Torgam10 folds
+Aaasskip folds
+RDV TF folds
+kou2hache78 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 6: kou2hache78 (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-33-1691518107 - Holdem no limit (120/500/1000) - 2023/08/08 18:08:27 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (97540)
+Seat 2: K-maille (63442)
+Seat 3: Torgam10 (158291)
+Seat 4: Aaasskip (102120)
+Seat 5: RDV TF (103249)
+Seat 6: kou2hache78 (140578)
+*** ANTE/BLINDS ***
+kou2hache78 posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+Torgam10 posts ante 120
+Aaasskip posts ante 120
+RDV TF posts ante 120
+kou2hache78 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Jd 2c]
+*** PRE-FLOP *** 
+K-maille folds
+Torgam10 folds
+Aaasskip folds
+RDV TF folds
+kou2hache78 calls 500
+P1xel7 checks
+*** FLOP *** [9c 3h 5d]
+kou2hache78 checks
+P1xel7 bets 1360
+kou2hache78 folds
+P1xel7 collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | No rake
+Board: [9c 3h 5d]
+Seat 1: P1xel7 (big blind) won 4080
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-34-1691518130 - Holdem no limit (120/500/1000) - 2023/08/08 18:08:50 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (99140)
+Seat 2: K-maille (63322)
+Seat 4: Aaasskip (102000)
+Seat 5: RDV TF (103129)
+Seat 6: kou2hache78 (139458)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+K-maille posts ante 120
+Aaasskip posts ante 120
+RDV TF posts ante 120
+kou2hache78 posts ante 120
+P1xel7 posts small blind 500
+K-maille posts big blind 1000
+Dealt to P1xel7 [Th 6c]
+*** PRE-FLOP *** 
+Aaasskip folds
+RDV TF raises 1250 to 2250
+kou2hache78 calls 2250
+P1xel7 folds
+K-maille calls 1250
+*** FLOP *** [2s 6h 8c]
+K-maille checks
+RDV TF checks
+kou2hache78 bets 5103
+K-maille calls 5103
+RDV TF folds
+*** TURN *** [2s 6h 8c][3h]
+K-maille checks
+kou2hache78 bets 11736
+K-maille raises 44113 to 55849 and is all-in
+kou2hache78 folds
+K-maille collected 85641 from pot
+*** SUMMARY ***
+Total pot 85641 | No rake
+Board: [2s 6h 8c 3h]
+Seat 2: K-maille (big blind) won 85641
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-35-1691518196 - Holdem no limit (120/500/1000) - 2023/08/08 18:09:56 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (98520)
+Seat 2: K-maille (85641)
+Seat 4: Aaasskip (101880)
+Seat 5: RDV TF (100759)
+Seat 6: kou2hache78 (120249)
+*** ANTE/BLINDS ***
+K-maille posts ante 120
+Aaasskip posts ante 120
+P1xel7 posts ante 120
+RDV TF posts ante 120
+kou2hache78 posts ante 120
+K-maille posts small blind 500
+Aaasskip posts big blind 1000
+Dealt to P1xel7 [Jh Js]
+*** PRE-FLOP *** 
+RDV TF folds
+kou2hache78 calls 1000
+P1xel7 raises 2000 to 3000
+K-maille folds
+Aaasskip calls 2000
+kou2hache78 calls 2000
+*** FLOP *** [Th 4h Tc]
+Aaasskip checks
+kou2hache78 checks
+P1xel7 bets 5050
+Aaasskip folds
+kou2hache78 calls 5050
+*** TURN *** [Th 4h Tc][2d]
+kou2hache78 checks
+P1xel7 checks
+*** RIVER *** [Th 4h Tc 2d][6d]
+kou2hache78 bets 13130
+P1xel7 calls 13130
+*** SHOW DOWN ***
+kou2hache78 shows [3c Ac] (One pair : Tens)
+P1xel7 shows [Jh Js] (Two pairs : Jacks and Tens)
+P1xel7 collected 46460 from pot
+*** SUMMARY ***
+Total pot 46460 | No rake
+Board: [Th 4h Tc 2d 6d]
+Seat 1: P1xel7 (button) showed [Jh Js] and won 46460 with Two pairs : Jacks and Tens
+Seat 6: kou2hache78 showed [3c Ac] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-36-1691518249 - Holdem no limit (120/500/1000) - 2023/08/08 18:10:49 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (123680)
+Seat 2: K-maille (85021)
+Seat 4: Aaasskip (98760)
+Seat 5: RDV TF (100639)
+Seat 6: kou2hache78 (98949)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 120
+RDV TF posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+kou2hache78 posts ante 120
+Aaasskip posts small blind 500
+RDV TF posts big blind 1000
+Dealt to P1xel7 [Qs Ah]
+*** PRE-FLOP *** 
+kou2hache78 calls 1000
+P1xel7 raises 4000 to 5000
+K-maille folds
+Aaasskip folds
+RDV TF folds
+kou2hache78 raises 12100 to 17100
+P1xel7 calls 12100
+*** FLOP *** [Jh Kh Qd]
+kou2hache78 checks
+P1xel7 bets 18150
+kou2hache78 raises 63579 to 81729 and is all-in
+P1xel7 calls 63579
+*** TURN *** [Jh Kh Qd][As]
+*** RIVER *** [Jh Kh Qd As][5c]
+*** SHOW DOWN ***
+P1xel7 shows [Qs Ah] (Two pairs : Aces and Queens)
+kou2hache78 shows [Qh Qc] (Trips of Queens)
+kou2hache78 collected 199758 from pot
+*** SUMMARY ***
+Total pot 199758 | No rake
+Board: [Jh Kh Qd As 5c]
+Seat 1: P1xel7 showed [Qs Ah] and lost with Two pairs : Aces and Queens
+Seat 6: kou2hache78 showed [Qh Qc] and won 199758 with Trips of Queens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-37-1691518284 - Holdem no limit (120/500/1000) - 2023/08/08 18:11:24 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (24731)
+Seat 2: K-maille (84901)
+Seat 4: Aaasskip (98140)
+Seat 5: RDV TF (99519)
+Seat 6: kou2hache78 (199758)
+*** ANTE/BLINDS ***
+RDV TF posts ante 120
+kou2hache78 posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+Aaasskip posts ante 120
+RDV TF posts small blind 500
+kou2hache78 posts big blind 1000
+Dealt to P1xel7 [Ks 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+K-maille folds
+Aaasskip raises 2000 to 3000
+RDV TF folds
+kou2hache78 calls 2000
+*** FLOP *** [9s Td Kd]
+kou2hache78 checks
+Aaasskip checks
+*** TURN *** [9s Td Kd][6s]
+kou2hache78 checks
+Aaasskip checks
+*** RIVER *** [9s Td Kd 6s][8d]
+kou2hache78 checks
+Aaasskip checks
+*** SHOW DOWN ***
+Aaasskip shows [Ac 2h] (High card : Ace)
+kou2hache78 shows [6c 4c] (One pair : 6)
+kou2hache78 collected 7100 from pot
+*** SUMMARY ***
+Total pot 7100 | No rake
+Board: [9s Td Kd 6s 8d]
+Seat 4: Aaasskip (button) showed [Ac 2h] and lost with High card : Ace
+Seat 6: kou2hache78 (big blind) showed [6c 4c] and won 7100 with One pair : 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-38-1691518338 - Holdem no limit (120/500/1000) - 2023/08/08 18:12:18 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (24611)
+Seat 2: K-maille (84781)
+Seat 4: Aaasskip (95020)
+Seat 5: RDV TF (98899)
+Seat 6: kou2hache78 (203738)
+*** ANTE/BLINDS ***
+kou2hache78 posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+Aaasskip posts ante 120
+RDV TF posts ante 120
+kou2hache78 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [7s 2c]
+*** PRE-FLOP *** 
+K-maille folds
+Aaasskip raises 1250 to 2250
+RDV TF calls 2250
+kou2hache78 calls 1750
+P1xel7 folds
+*** FLOP *** [7d 7h Js]
+kou2hache78 checks
+Aaasskip checks
+RDV TF checks
+*** TURN *** [7d 7h Js][2s]
+kou2hache78 checks
+Aaasskip checks
+RDV TF checks
+*** RIVER *** [7d 7h Js 2s][5d]
+kou2hache78 folds
+Aaasskip checks
+RDV TF checks
+*** SHOW DOWN ***
+Aaasskip shows [Ah 8d] (One pair : 7)
+RDV TF shows [Td As] (One pair : 7)
+RDV TF collected 8350 from pot
+*** SUMMARY ***
+Total pot 8350 | No rake
+Board: [7d 7h Js 2s 5d]
+Seat 4: Aaasskip showed [Ah 8d] and lost with One pair : 7
+Seat 5: RDV TF (button) showed [Td As] and won 8350 with One pair : 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-39-1691518396 - Holdem no limit (120/500/1000) - 2023/08/08 18:13:16 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (23491)
+Seat 2: K-maille (84661)
+Seat 4: Aaasskip (92650)
+Seat 5: RDV TF (104879)
+Seat 6: kou2hache78 (201368)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+K-maille posts ante 120
+Aaasskip posts ante 120
+RDV TF posts ante 120
+kou2hache78 posts ante 120
+P1xel7 posts small blind 500
+K-maille posts big blind 1000
+Dealt to P1xel7 [Kc 3h]
+*** PRE-FLOP *** 
+Aaasskip raises 2000 to 3000
+RDV TF calls 3000
+kou2hache78 folds
+P1xel7 folds
+K-maille folds
+*** FLOP *** [3d Ad 6d]
+Aaasskip checks
+RDV TF checks
+*** TURN *** [3d Ad 6d][Kh]
+Aaasskip bets 4500
+RDV TF folds
+Aaasskip collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Board: [3d Ad 6d Kh]
+Seat 4: Aaasskip won 12600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-40-1691518455 - Holdem no limit (120/500/1000) - 2023/08/08 18:14:15 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (22871)
+Seat 2: K-maille (83541)
+Seat 4: Aaasskip (97630)
+Seat 5: RDV TF (101759)
+Seat 6: kou2hache78 (201248)
+*** ANTE/BLINDS ***
+K-maille posts ante 120
+Aaasskip posts ante 120
+P1xel7 posts ante 120
+RDV TF posts ante 120
+kou2hache78 posts ante 120
+K-maille posts small blind 500
+Aaasskip posts big blind 1000
+Dealt to P1xel7 [Ks Kd]
+*** PRE-FLOP *** 
+RDV TF folds
+kou2hache78 calls 1000
+P1xel7 raises 4000 to 5000
+K-maille folds
+Aaasskip folds
+kou2hache78 calls 4000
+*** FLOP *** [6h 7d Qc]
+kou2hache78 checks
+P1xel7 bets 6050
+kou2hache78 calls 6050
+*** TURN *** [6h 7d Qc][5d]
+kou2hache78 checks
+P1xel7 bets 11701 and is all-in
+kou2hache78 calls 11701
+*** RIVER *** [6h 7d Qc 5d][5s]
+*** SHOW DOWN ***
+kou2hache78 shows [3c 9c] (One pair : 5)
+P1xel7 shows [Ks Kd] (Two pairs : Kings and 5)
+P1xel7 collected 47602 from pot
+*** SUMMARY ***
+Total pot 47602 | No rake
+Board: [6h 7d Qc 5d 5s]
+Seat 1: P1xel7 (button) showed [Ks Kd] and won 47602 with Two pairs : Kings and 5
+Seat 6: kou2hache78 showed [3c 9c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #2910500986319536129-41-1691518524 - Holdem no limit (120/500/1000) - 2023/08/08 18:15:24 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (47602)
+Seat 2: K-maille (82921)
+Seat 4: Aaasskip (96510)
+Seat 5: RDV TF (101639)
+Seat 6: kou2hache78 (178377)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 120
+RDV TF posts ante 120
+P1xel7 posts ante 120
+K-maille posts ante 120
+kou2hache78 posts ante 120
+Aaasskip posts small blind 500
+RDV TF posts big blind 1000
+Dealt to P1xel7 [Qh Kc]
+*** PRE-FLOP *** 
+kou2hache78 calls 1000
+P1xel7 raises 3000 to 4000
+K-maille folds
+Aaasskip raises 11000 to 15000
+RDV TF folds
+kou2hache78 calls 14000
+P1xel7 folds
+*** FLOP *** [3h 7s Ks]
+Aaasskip checks
+kou2hache78 bets 23140
+Aaasskip calls 23140
+*** TURN *** [3h 7s Ks][Qd]
+Aaasskip checks
+kou2hache78 bets 53222
+Aaasskip folds
+kou2hache78 collected 135102 from pot
+*** SUMMARY ***
+Total pot 135102 | No rake
+Board: [3h 7s Ks Qd]
+Seat 6: kou2hache78 won 135102
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-42-1691518634 - Holdem no limit (140/600/1200) - 2023/08/08 18:17:14 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (43482)
+Seat 2: K-maille (82801)
+Seat 3: Amoline R. (100000)
+Seat 4: Aaasskip (58250)
+Seat 5: RDV TF (100519)
+*** ANTE/BLINDS ***
+RDV TF posts ante 140
+P1xel7 posts ante 140
+K-maille posts ante 140
+Amoline R. posts ante 140
+Aaasskip posts ante 140
+RDV TF posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [Tc Ac]
+*** PRE-FLOP *** 
+K-maille raises 1200 to 2400
+Amoline R. folds
+Aaasskip folds
+RDV TF folds
+P1xel7 calls 1200
+*** FLOP *** [As Qs Td]
+P1xel7 checks
+K-maille checks
+*** TURN *** [As Qs Td][9c]
+P1xel7 bets 3965
+K-maille folds
+P1xel7 collected 10065 from pot
+*** SUMMARY ***
+Total pot 10065 | No rake
+Board: [As Qs Td 9c]
+Seat 1: P1xel7 (big blind) won 10065
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-43-1691518668 - Holdem no limit (140/600/1200) - 2023/08/08 18:17:48 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (47042)
+Seat 2: K-maille (80261)
+Seat 3: Amoline R. (99860)
+Seat 4: Aaasskip (58110)
+Seat 5: RDV TF (99779)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+K-maille posts ante 140
+Amoline R. posts ante 140
+Aaasskip posts ante 140
+RDV TF posts ante 140
+P1xel7 posts small blind 600
+K-maille posts big blind 1200
+Dealt to P1xel7 [As Jh]
+*** PRE-FLOP *** 
+Amoline R. folds
+Aaasskip raises 1500 to 2700
+RDV TF folds
+P1xel7 calls 2100
+K-maille raises 6750 to 9450
+Aaasskip folds
+P1xel7 calls 6750
+*** FLOP *** [3c Qh 4s]
+P1xel7 checks
+K-maille bets 17840
+P1xel7 folds
+K-maille collected 40140 from pot
+*** SUMMARY ***
+Total pot 40140 | No rake
+Board: [3c Qh 4s]
+Seat 2: K-maille (big blind) won 40140
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-44-1691518710 - Holdem no limit (140/600/1200) - 2023/08/08 18:18:30 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (37452)
+Seat 2: K-maille (92971)
+Seat 3: Amoline R. (99720)
+Seat 4: Aaasskip (55270)
+Seat 5: RDV TF (99639)
+*** ANTE/BLINDS ***
+K-maille posts ante 140
+Amoline R. posts ante 140
+P1xel7 posts ante 140
+Aaasskip posts ante 140
+RDV TF posts ante 140
+K-maille posts small blind 600
+Amoline R. posts big blind 1200
+Dealt to P1xel7 [Jd Kh]
+*** PRE-FLOP *** 
+Aaasskip raises 1500 to 2700
+RDV TF folds
+P1xel7 calls 2700
+K-maille folds
+Amoline R. calls 1500
+*** FLOP *** [8d 7d 2d]
+Amoline R. checks
+Aaasskip checks
+P1xel7 bets 3290
+Amoline R. raises 14053 to 17343
+Aaasskip raises 35087 to 52430 and is all-in
+P1xel7 folds
+Amoline R. calls 35087
+*** TURN *** [8d 7d 2d][7c]
+*** RIVER *** [8d 7d 2d 7c][7s]
+*** SHOW DOWN ***
+Amoline R. shows [9h 9c] (Full of 7 and 9)
+Aaasskip shows [Ad Ah] (Full of 7 and Aces)
+Aaasskip collected 117550 from pot
+*** SUMMARY ***
+Total pot 117550 | No rake
+Board: [8d 7d 2d 7c 7s]
+Seat 3: Amoline R. (big blind) showed [9h 9c] and lost with Full of 7 and 9
+Seat 4: Aaasskip showed [Ad Ah] and won 117550 with Full of 7 and Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-45-1691518759 - Holdem no limit (140/600/1200) - 2023/08/08 18:19:19 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (31322)
+Seat 2: K-maille (92231)
+Seat 3: Amoline R. (44450)
+Seat 4: Aaasskip (117550)
+Seat 5: RDV TF (99499)
+Seat 6: Bilboux (100000)
+*** ANTE/BLINDS ***
+Amoline R. posts ante 140
+Aaasskip posts ante 140
+P1xel7 posts ante 140
+K-maille posts ante 140
+RDV TF posts ante 140
+Bilboux posts ante 140
+Amoline R. posts small blind 600
+Aaasskip posts big blind 1200
+Dealt to P1xel7 [Ad 7s]
+*** PRE-FLOP *** 
+RDV TF raises 1200 to 2400
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Amoline R. folds
+Aaasskip folds
+RDV TF collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | No rake
+Seat 5: RDV TF won 5040
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-46-1691518775 - Holdem no limit (140/600/1200) - 2023/08/08 18:19:35 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (31182)
+Seat 2: K-maille (92091)
+Seat 3: Amoline R. (43710)
+Seat 4: Aaasskip (116210)
+Seat 5: RDV TF (101999)
+Seat 6: Bilboux (99860)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 140
+RDV TF posts ante 140
+P1xel7 posts ante 140
+K-maille posts ante 140
+Amoline R. posts ante 140
+Bilboux posts ante 140
+Aaasskip posts small blind 600
+RDV TF posts big blind 1200
+Dealt to P1xel7 [Kc 3s]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Amoline R. raises 1200 to 2400
+Aaasskip folds
+RDV TF calls 1200
+*** FLOP *** [7c Ad 6c]
+RDV TF checks
+Amoline R. bets 2059
+RDV TF calls 2059
+*** TURN *** [7c Ad 6c][Ah]
+RDV TF checks
+Amoline R. bets 6836
+RDV TF folds
+Amoline R. collected 17194 from pot
+*** SUMMARY ***
+Total pot 17194 | No rake
+Board: [7c Ad 6c Ah]
+Seat 3: Amoline R. (button) won 17194
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-47-1691518863 - Holdem no limit (140/600/1200) - 2023/08/08 18:21:03 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (31042)
+Seat 2: K-maille (91951)
+Seat 3: Amoline R. (49469)
+Seat 4: Aaasskip (115470)
+Seat 5: RDV TF (97400)
+Seat 6: Bilboux (99720)
+*** ANTE/BLINDS ***
+RDV TF posts ante 140
+Bilboux posts ante 140
+P1xel7 posts ante 140
+K-maille posts ante 140
+Amoline R. posts ante 140
+Aaasskip posts ante 140
+RDV TF posts small blind 600
+Bilboux posts big blind 1200
+Dealt to P1xel7 [Kd Qc]
+*** PRE-FLOP *** 
+P1xel7 raises 2400 to 3600
+K-maille folds
+Amoline R. folds
+Aaasskip folds
+RDV TF folds
+Bilboux calls 2400
+*** FLOP *** [6c 7s 3s]
+Bilboux checks
+P1xel7 bets 4320
+Bilboux calls 4320
+*** TURN *** [6c 7s 3s][3h]
+Bilboux checks
+P1xel7 bets 6048
+Bilboux folds
+P1xel7 collected 23328 from pot
+*** SUMMARY ***
+Total pot 23328 | No rake
+Board: [6c 7s 3s 3h]
+Seat 1: P1xel7 won 23328
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-48-1691518916 - Holdem no limit (140/600/1200) - 2023/08/08 18:21:56 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (40262)
+Seat 2: K-maille (91811)
+Seat 3: Amoline R. (49329)
+Seat 4: Aaasskip (115330)
+Seat 5: RDV TF (96660)
+Seat 6: Bilboux (91660)
+*** ANTE/BLINDS ***
+Bilboux posts ante 140
+P1xel7 posts ante 140
+K-maille posts ante 140
+Amoline R. posts ante 140
+Aaasskip posts ante 140
+RDV TF posts ante 140
+Bilboux posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [7s Qh]
+*** PRE-FLOP *** 
+K-maille raises 1200 to 2400
+Amoline R. folds
+Aaasskip folds
+RDV TF raises 4800 to 7200
+Bilboux folds
+P1xel7 folds
+K-maille calls 4800
+*** FLOP *** [Js Qd Kc]
+K-maille checks
+RDV TF bets 8520
+K-maille calls 8520
+*** TURN *** [Js Qd Kc][9s]
+K-maille bets 75951 and is all-in
+RDV TF calls 75951
+*** RIVER *** [Js Qd Kc 9s][Qs]
+*** SHOW DOWN ***
+RDV TF shows [Kh Ah] (Two pairs : Kings and Queens)
+K-maille shows [Td Tc] (Straight King high)
+K-maille collected 185982 from pot
+*** SUMMARY ***
+Total pot 185982 | No rake
+Board: [Js Qd Kc 9s Qs]
+Seat 2: K-maille showed [Td Tc] and won 185982 with Straight King high
+Seat 5: RDV TF (button) showed [Kh Ah] and lost with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-49-1691518958 - Holdem no limit (140/600/1200) - 2023/08/08 18:22:38 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (38922)
+Seat 2: K-maille (185982)
+Seat 3: Amoline R. (49189)
+Seat 4: Aaasskip (115190)
+Seat 5: RDV TF (4849)
+Seat 6: Bilboux (90920)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+K-maille posts ante 140
+Amoline R. posts ante 140
+Aaasskip posts ante 140
+RDV TF posts ante 140
+Bilboux posts ante 140
+P1xel7 posts small blind 600
+K-maille posts big blind 1200
+Dealt to P1xel7 [Qd 7d]
+*** PRE-FLOP *** 
+Amoline R. folds
+Aaasskip raises 1500 to 2700
+RDV TF raises 2009 to 4709 and is all-in
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Aaasskip calls 2009
+*** FLOP *** [5c 4s 2c]
+*** TURN *** [5c 4s 2c][3c]
+*** RIVER *** [5c 4s 2c 3c][Js]
+*** SHOW DOWN ***
+RDV TF shows [Jc 4d] (Two pairs : Jacks and 4)
+Aaasskip shows [6h 5h] (Straight 6 high)
+Aaasskip collected 12058 from pot
+*** SUMMARY ***
+Total pot 12058 | No rake
+Board: [5c 4s 2c 3c Js]
+Seat 4: Aaasskip showed [6h 5h] and won 12058 with Straight 6 high
+Seat 5: RDV TF showed [Jc 4d] and lost with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-50-1691518995 - Holdem no limit (140/600/1200) - 2023/08/08 18:23:15 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (38182)
+Seat 2: K-maille (184642)
+Seat 3: Amoline R. (49049)
+Seat 4: Aaasskip (122399)
+Seat 6: Bilboux (90780)
+*** ANTE/BLINDS ***
+K-maille posts ante 140
+Amoline R. posts ante 140
+P1xel7 posts ante 140
+Aaasskip posts ante 140
+Bilboux posts ante 140
+K-maille posts small blind 600
+Amoline R. posts big blind 1200
+Dealt to P1xel7 [7c Qc]
+*** PRE-FLOP *** 
+Aaasskip folds
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Amoline R. collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Seat 3: Amoline R. (big blind) won 2500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-51-1691519009 - Holdem no limit (140/600/1200) - 2023/08/08 18:23:29 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (38042)
+Seat 2: K-maille (183902)
+Seat 3: Amoline R. (50209)
+Seat 4: Aaasskip (122259)
+Seat 6: Bilboux (90640)
+*** ANTE/BLINDS ***
+Amoline R. posts ante 140
+Aaasskip posts ante 140
+P1xel7 posts ante 140
+K-maille posts ante 140
+Bilboux posts ante 140
+Amoline R. posts small blind 600
+Aaasskip posts big blind 1200
+Dealt to P1xel7 [Jd 9c]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 folds
+K-maille raises 1200 to 2400
+Amoline R. folds
+Aaasskip folds
+K-maille collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | No rake
+Seat 2: K-maille (button) won 4900
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #2910500986319536129-52-1691519035 - Holdem no limit (140/600/1200) - 2023/08/08 18:23:55 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (37902)
+Seat 2: K-maille (186262)
+Seat 3: Amoline R. (49469)
+Seat 4: Aaasskip (120919)
+Seat 6: Bilboux (90500)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 140
+Bilboux posts ante 140
+P1xel7 posts ante 140
+K-maille posts ante 140
+Amoline R. posts ante 140
+Aaasskip posts small blind 600
+Bilboux posts big blind 1200
+Dealt to P1xel7 [2d 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+K-maille folds
+Amoline R. raises 1200 to 2400
+Aaasskip folds
+Bilboux folds
+Amoline R. collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | No rake
+Seat 3: Amoline R. (button) won 4900
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-53-1691519053 - Holdem no limit (160/700/1400) - 2023/08/08 18:24:13 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (37762)
+Seat 2: K-maille (186122)
+Seat 3: Amoline R. (51829)
+Seat 4: Aaasskip (120179)
+Seat 6: Bilboux (89160)
+*** ANTE/BLINDS ***
+Bilboux posts ante 160
+P1xel7 posts ante 160
+K-maille posts ante 160
+Amoline R. posts ante 160
+Aaasskip posts ante 160
+Bilboux posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [8d Qs]
+*** PRE-FLOP *** 
+K-maille raises 1400 to 2800
+Amoline R. folds
+Aaasskip folds
+Bilboux calls 2100
+P1xel7 folds
+*** FLOP *** [As 6c 6h]
+Bilboux checks
+K-maille checks
+*** TURN *** [As 6c 6h][4h]
+Bilboux bets 2730
+K-maille calls 2730
+*** RIVER *** [As 6c 6h 4h][4d]
+Bilboux bets 6300
+K-maille folds
+Bilboux collected 19560 from pot
+*** SUMMARY ***
+Total pot 19560 | No rake
+Board: [As 6c 6h 4h 4d]
+Seat 6: Bilboux (small blind) won 19560
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-54-1691519112 - Holdem no limit (160/700/1400) - 2023/08/08 18:25:12 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (36202)
+Seat 2: K-maille (180432)
+Seat 3: Amoline R. (51669)
+Seat 4: Aaasskip (120019)
+Seat 5: boobajaames7 (100000)
+Seat 6: Bilboux (96730)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+K-maille posts ante 160
+Amoline R. posts ante 160
+Aaasskip posts ante 160
+boobajaames7 posts ante 160
+Bilboux posts ante 160
+P1xel7 posts small blind 700
+K-maille posts big blind 1400
+Dealt to P1xel7 [8c Ks]
+*** PRE-FLOP *** 
+Amoline R. folds
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 2: K-maille (big blind) won 3060
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-55-1691519139 - Holdem no limit (160/700/1400) - 2023/08/08 18:25:39 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (35342)
+Seat 2: K-maille (181932)
+Seat 3: Amoline R. (51509)
+Seat 4: Aaasskip (119859)
+Seat 5: boobajaames7 (99840)
+Seat 6: Bilboux (96570)
+*** ANTE/BLINDS ***
+K-maille posts ante 160
+Amoline R. posts ante 160
+P1xel7 posts ante 160
+Aaasskip posts ante 160
+boobajaames7 posts ante 160
+Bilboux posts ante 160
+K-maille posts small blind 700
+Amoline R. posts big blind 1400
+Dealt to P1xel7 [7c 7h]
+*** PRE-FLOP *** 
+Aaasskip raises 1750 to 3150
+boobajaames7 calls 3150
+Bilboux folds
+P1xel7 raises 32032 to 35182 and is all-in
+K-maille folds
+Amoline R. folds
+Aaasskip folds
+boobajaames7 folds
+P1xel7 collected 44542 from pot
+*** SUMMARY ***
+Total pot 44542 | No rake
+Seat 1: P1xel7 (button) won 44542
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-56-1691519173 - Holdem no limit (160/700/1400) - 2023/08/08 18:26:13 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (44542)
+Seat 2: K-maille (181072)
+Seat 3: Amoline R. (49949)
+Seat 4: Aaasskip (116549)
+Seat 5: boobajaames7 (96530)
+Seat 6: Bilboux (96410)
+*** ANTE/BLINDS ***
+Amoline R. posts ante 160
+Aaasskip posts ante 160
+P1xel7 posts ante 160
+K-maille posts ante 160
+boobajaames7 posts ante 160
+Bilboux posts ante 160
+Amoline R. posts small blind 700
+Aaasskip posts big blind 1400
+Dealt to P1xel7 [9d 3c]
+*** PRE-FLOP *** 
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Amoline R. folds
+Aaasskip collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 4: Aaasskip (big blind) won 3060
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-57-1691519195 - Holdem no limit (160/700/1400) - 2023/08/08 18:26:35 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (44382)
+Seat 2: K-maille (180912)
+Seat 3: Amoline R. (49089)
+Seat 4: Aaasskip (118049)
+Seat 5: boobajaames7 (96370)
+Seat 6: Bilboux (96250)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 160
+boobajaames7 posts ante 160
+P1xel7 posts ante 160
+K-maille posts ante 160
+Amoline R. posts ante 160
+Bilboux posts ante 160
+Aaasskip posts small blind 700
+boobajaames7 posts big blind 1400
+Dealt to P1xel7 [2d 3h]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Amoline R. folds
+Aaasskip folds
+boobajaames7 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 5: boobajaames7 (big blind) won 3060
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-58-1691519208 - Holdem no limit (160/700/1400) - 2023/08/08 18:26:48 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (44222)
+Seat 2: K-maille (180752)
+Seat 3: Amoline R. (48929)
+Seat 4: Aaasskip (117189)
+Seat 5: boobajaames7 (97870)
+Seat 6: Bilboux (96090)
+*** ANTE/BLINDS ***
+boobajaames7 posts ante 160
+Bilboux posts ante 160
+P1xel7 posts ante 160
+K-maille posts ante 160
+Amoline R. posts ante 160
+Aaasskip posts ante 160
+boobajaames7 posts small blind 700
+Bilboux posts big blind 1400
+Dealt to P1xel7 [2s 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+K-maille folds
+Amoline R. folds
+Aaasskip folds
+boobajaames7 raises 1750 to 3150
+Bilboux calls 1750
+*** FLOP *** [2c 3c 5s]
+boobajaames7 bets 5445
+Bilboux calls 5445
+*** TURN *** [2c 3c 5s][Ah]
+boobajaames7 bets 13613
+Bilboux calls 13613
+*** RIVER *** [2c 3c 5s Ah][Ad]
+boobajaames7 bets 34032
+Bilboux calls 34032
+*** SHOW DOWN ***
+boobajaames7 shows [As Kd] (Trips of Aces)
+Bilboux shows [4h Ac] (Straight 5 high)
+Bilboux collected 113440 from pot
+*** SUMMARY ***
+Total pot 113440 | No rake
+Board: [2c 3c 5s Ah Ad]
+Seat 5: boobajaames7 (small blind) showed [As Kd] and lost with Trips of Aces
+Seat 6: Bilboux (big blind) showed [4h Ac] and won 113440 with Straight 5 high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-59-1691519264 - Holdem no limit (160/700/1400) - 2023/08/08 18:27:44 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (44062)
+Seat 2: K-maille (180592)
+Seat 3: Amoline R. (48769)
+Seat 4: Aaasskip (117029)
+Seat 5: boobajaames7 (41470)
+Seat 6: Bilboux (153130)
+*** ANTE/BLINDS ***
+Bilboux posts ante 160
+P1xel7 posts ante 160
+K-maille posts ante 160
+Amoline R. posts ante 160
+Aaasskip posts ante 160
+boobajaames7 posts ante 160
+Bilboux posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [3c Jd]
+*** PRE-FLOP *** 
+K-maille folds
+Amoline R. folds
+Aaasskip raises 1750 to 3150
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+Aaasskip collected 6210 from pot
+*** SUMMARY ***
+Total pot 6210 | No rake
+Seat 4: Aaasskip won 6210
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-60-1691519299 - Holdem no limit (160/700/1400) - 2023/08/08 18:28:19 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (42502)
+Seat 2: K-maille (180432)
+Seat 3: Amoline R. (48609)
+Seat 4: Aaasskip (119929)
+Seat 5: boobajaames7 (41310)
+Seat 6: Bilboux (152270)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+K-maille posts ante 160
+Amoline R. posts ante 160
+Aaasskip posts ante 160
+boobajaames7 posts ante 160
+Bilboux posts ante 160
+P1xel7 posts small blind 700
+K-maille posts big blind 1400
+Dealt to P1xel7 [2c 5c]
+*** PRE-FLOP *** 
+Amoline R. folds
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 2: K-maille (big blind) won 3060
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-61-1691519325 - Holdem no limit (160/700/1400) - 2023/08/08 18:28:45 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (41642)
+Seat 2: K-maille (181932)
+Seat 3: Amoline R. (48449)
+Seat 4: Aaasskip (119769)
+Seat 5: boobajaames7 (41150)
+Seat 6: Bilboux (152110)
+*** ANTE/BLINDS ***
+K-maille posts ante 160
+Amoline R. posts ante 160
+P1xel7 posts ante 160
+Aaasskip posts ante 160
+boobajaames7 posts ante 160
+Bilboux posts ante 160
+K-maille posts small blind 700
+Amoline R. posts big blind 1400
+Dealt to P1xel7 [5d Kh]
+*** PRE-FLOP *** 
+Aaasskip folds
+boobajaames7 raises 1750 to 3150
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Amoline R. folds
+boobajaames7 collected 6210 from pot
+*** SUMMARY ***
+Total pot 6210 | No rake
+Seat 5: boobajaames7 won 6210
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-62-1691519361 - Holdem no limit (160/700/1400) - 2023/08/08 18:29:21 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (41482)
+Seat 2: K-maille (181072)
+Seat 3: Amoline R. (46889)
+Seat 4: Aaasskip (119609)
+Seat 5: boobajaames7 (44050)
+Seat 6: Bilboux (151950)
+*** ANTE/BLINDS ***
+Amoline R. posts ante 160
+Aaasskip posts ante 160
+P1xel7 posts ante 160
+K-maille posts ante 160
+boobajaames7 posts ante 160
+Bilboux posts ante 160
+Amoline R. posts small blind 700
+Aaasskip posts big blind 1400
+Dealt to P1xel7 [9h 6c]
+*** PRE-FLOP *** 
+boobajaames7 raises 1750 to 3150
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Amoline R. calls 2450
+Aaasskip folds
+*** FLOP *** [6d Tc 5c]
+Amoline R. checks
+boobajaames7 bets 4330
+Amoline R. raises 8970 to 13300
+boobajaames7 calls 8970
+*** TURN *** [6d Tc 5c][2c]
+Amoline R. bets 30279 and is all-in
+boobajaames7 calls 27440 and is all-in
+*** RIVER *** [6d Tc 5c 2c][6h]
+*** SHOW DOWN ***
+Amoline R. shows [8d 7d] (One pair : 6)
+boobajaames7 shows [As 8c] (One pair : 6)
+boobajaames7 collected 90140 from main pot
+Amoline R. collected 2839 from side pot 1
+*** SUMMARY ***
+Total pot 92979 | No rake
+Board: [6d Tc 5c 2c 6h]
+Seat 3: Amoline R. (small blind) showed [8d 7d] and won 2839 with One pair : 6
+Seat 5: boobajaames7 showed [As 8c] and won 90140 with One pair : 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-63-1691519428 - Holdem no limit (160/700/1400) - 2023/08/08 18:30:28 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (41322)
+Seat 2: K-maille (180912)
+Seat 3: Amoline R. (2839)
+Seat 4: Aaasskip (118049)
+Seat 5: boobajaames7 (90140)
+Seat 6: Bilboux (151790)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 160
+boobajaames7 posts ante 160
+P1xel7 posts ante 160
+K-maille posts ante 160
+Amoline R. posts ante 160
+Bilboux posts ante 160
+Aaasskip posts small blind 700
+boobajaames7 posts big blind 1400
+Dealt to P1xel7 [4s 9h]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 folds
+K-maille raises 1400 to 2800
+Amoline R. calls 2679 and is all-in
+Aaasskip calls 2100
+boobajaames7 folds
+*** FLOP *** [6c Ks 6h]
+Aaasskip checks
+K-maille checks
+*** TURN *** [6c Ks 6h][3h]
+Aaasskip checks
+K-maille bets 1400
+Aaasskip folds
+*** RIVER *** [6c Ks 6h 3h][7s]
+*** SHOW DOWN ***
+Amoline R. shows [9s 8c] (One pair : 6)
+K-maille shows [Ac Qh] (One pair : 6)
+K-maille collected 12039 from pot
+*** SUMMARY ***
+Total pot 12039 | No rake
+Board: [6c Ks 6h 3h 7s]
+Seat 2: K-maille showed [Ac Qh] and won 12039 with One pair : 6
+Seat 3: Amoline R. (button) showed [9s 8c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #2910500986319536129-64-1691519508 - Holdem no limit (160/700/1400) - 2023/08/08 18:31:48 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (41162)
+Seat 2: K-maille (188591)
+Seat 4: Aaasskip (115089)
+Seat 5: boobajaames7 (88580)
+Seat 6: Bilboux (151630)
+*** ANTE/BLINDS ***
+boobajaames7 posts ante 160
+Bilboux posts ante 160
+P1xel7 posts ante 160
+K-maille posts ante 160
+Aaasskip posts ante 160
+boobajaames7 posts small blind 700
+Bilboux posts big blind 1400
+Dealt to P1xel7 [7c 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+K-maille raises 1400 to 2800
+Aaasskip folds
+boobajaames7 calls 2100
+Bilboux raises 12600 to 15400
+K-maille folds
+boobajaames7 folds
+Bilboux collected 21800 from pot
+*** SUMMARY ***
+Total pot 21800 | No rake
+Seat 6: Bilboux (big blind) won 21800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-65-1691519527 - Holdem no limit (200/800/1600) - 2023/08/08 18:32:07 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (41002)
+Seat 2: K-maille (185631)
+Seat 4: Aaasskip (114929)
+Seat 5: boobajaames7 (85620)
+Seat 6: Bilboux (157870)
+*** ANTE/BLINDS ***
+Bilboux posts ante 200
+P1xel7 posts ante 200
+K-maille posts ante 200
+Aaasskip posts ante 200
+boobajaames7 posts ante 200
+Bilboux posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [Jd 5d]
+*** PRE-FLOP *** 
+K-maille folds
+Aaasskip raises 2000 to 3600
+boobajaames7 raises 81820 to 85420 and is all-in
+Bilboux folds
+P1xel7 folds
+Aaasskip folds
+boobajaames7 collected 92420 from pot
+*** SUMMARY ***
+Total pot 92420 | No rake
+Seat 5: boobajaames7 (button) won 92420
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-66-1691519559 - Holdem no limit (200/800/1600) - 2023/08/08 18:32:39 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (39202)
+Seat 2: K-maille (185431)
+Seat 3: PauloHivert (100000)
+Seat 4: Aaasskip (111129)
+Seat 5: boobajaames7 (92420)
+Seat 6: Bilboux (156870)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+K-maille posts ante 200
+PauloHivert posts ante 200
+Aaasskip posts ante 200
+boobajaames7 posts ante 200
+Bilboux posts ante 200
+P1xel7 posts small blind 800
+K-maille posts big blind 1600
+Dealt to P1xel7 [2c Qc]
+*** PRE-FLOP *** 
+PauloHivert calls 1600
+Aaasskip folds
+boobajaames7 raises 2000 to 3600
+Bilboux folds
+P1xel7 folds
+K-maille calls 2000
+PauloHivert calls 2000
+*** FLOP *** [3s 6s 4c]
+K-maille checks
+PauloHivert checks
+boobajaames7 bets 4480
+K-maille calls 4480
+PauloHivert folds
+*** TURN *** [3s 6s 4c][8h]
+K-maille checks
+boobajaames7 bets 10880
+K-maille folds
+boobajaames7 collected 32640 from pot
+*** SUMMARY ***
+Total pot 32640 | No rake
+Board: [3s 6s 4c 8h]
+Seat 5: boobajaames7 won 32640
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-67-1691519625 - Holdem no limit (200/800/1600) - 2023/08/08 18:33:45 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (38202)
+Seat 2: K-maille (177151)
+Seat 3: PauloHivert (96200)
+Seat 4: Aaasskip (110929)
+Seat 5: boobajaames7 (105900)
+Seat 6: Bilboux (156670)
+*** ANTE/BLINDS ***
+K-maille posts ante 200
+PauloHivert posts ante 200
+P1xel7 posts ante 200
+Aaasskip posts ante 200
+boobajaames7 posts ante 200
+Bilboux posts ante 200
+K-maille posts small blind 800
+PauloHivert posts big blind 1600
+Dealt to P1xel7 [8s 4c]
+*** PRE-FLOP *** 
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille folds
+PauloHivert collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 3: PauloHivert (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-68-1691519646 - Holdem no limit (200/800/1600) - 2023/08/08 18:34:06 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (38002)
+Seat 2: K-maille (176151)
+Seat 3: PauloHivert (98000)
+Seat 4: Aaasskip (110729)
+Seat 5: boobajaames7 (105700)
+Seat 6: Bilboux (156470)
+*** ANTE/BLINDS ***
+PauloHivert posts ante 200
+Aaasskip posts ante 200
+P1xel7 posts ante 200
+K-maille posts ante 200
+boobajaames7 posts ante 200
+Bilboux posts ante 200
+PauloHivert posts small blind 800
+Aaasskip posts big blind 1600
+Dealt to P1xel7 [4s Ad]
+*** PRE-FLOP *** 
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille folds
+PauloHivert folds
+Aaasskip collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 4: Aaasskip (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-69-1691519659 - Holdem no limit (200/800/1600) - 2023/08/08 18:34:19 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (37802)
+Seat 2: K-maille (175951)
+Seat 3: PauloHivert (97000)
+Seat 4: Aaasskip (112529)
+Seat 5: boobajaames7 (105500)
+Seat 6: Bilboux (156270)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 200
+boobajaames7 posts ante 200
+P1xel7 posts ante 200
+K-maille posts ante 200
+PauloHivert posts ante 200
+Bilboux posts ante 200
+Aaasskip posts small blind 800
+boobajaames7 posts big blind 1600
+Dealt to P1xel7 [6s 7d]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 folds
+K-maille folds
+PauloHivert folds
+Aaasskip calls 800
+boobajaames7 checks
+*** FLOP *** [8d 4d 2s]
+Aaasskip bets 1600
+boobajaames7 folds
+Aaasskip collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Board: [8d 4d 2s]
+Seat 4: Aaasskip (small blind) won 6000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-70-1691519701 - Holdem no limit (200/800/1600) - 2023/08/08 18:35:01 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (37602)
+Seat 2: K-maille (175751)
+Seat 3: PauloHivert (96800)
+Seat 4: Aaasskip (115129)
+Seat 5: boobajaames7 (103700)
+Seat 6: Bilboux (156070)
+*** ANTE/BLINDS ***
+boobajaames7 posts ante 200
+Bilboux posts ante 200
+P1xel7 posts ante 200
+K-maille posts ante 200
+PauloHivert posts ante 200
+Aaasskip posts ante 200
+boobajaames7 posts small blind 800
+Bilboux posts big blind 1600
+Dealt to P1xel7 [9c 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+K-maille folds
+PauloHivert folds
+Aaasskip folds
+boobajaames7 calls 800
+Bilboux checks
+*** FLOP *** [8h Kd 5s]
+boobajaames7 checks
+Bilboux checks
+*** TURN *** [8h Kd 5s][2h]
+boobajaames7 checks
+Bilboux checks
+*** RIVER *** [8h Kd 5s 2h][5c]
+boobajaames7 checks
+Bilboux checks
+*** SHOW DOWN ***
+Bilboux shows [4c Ts] (One pair : 5)
+boobajaames7 shows [9d Jc] (One pair : 5)
+boobajaames7 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | No rake
+Board: [8h Kd 5s 2h 5c]
+Seat 5: boobajaames7 (small blind) showed [9d Jc] and won 4400 with One pair : 5
+Seat 6: Bilboux (big blind) showed [4c Ts] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-71-1691519737 - Holdem no limit (200/800/1600) - 2023/08/08 18:35:37 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (37402)
+Seat 2: K-maille (175551)
+Seat 3: PauloHivert (96600)
+Seat 4: Aaasskip (114929)
+Seat 5: boobajaames7 (106300)
+Seat 6: Bilboux (154270)
+*** ANTE/BLINDS ***
+Bilboux posts ante 200
+P1xel7 posts ante 200
+K-maille posts ante 200
+PauloHivert posts ante 200
+Aaasskip posts ante 200
+boobajaames7 posts ante 200
+Bilboux posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [2d 8c]
+*** PRE-FLOP *** 
+K-maille folds
+PauloHivert folds
+Aaasskip folds
+boobajaames7 raises 2000 to 3600
+Bilboux folds
+P1xel7 folds
+boobajaames7 collected 7200 from pot
+*** SUMMARY ***
+Total pot 7200 | No rake
+Seat 5: boobajaames7 (button) won 7200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-72-1691519762 - Holdem no limit (200/800/1600) - 2023/08/08 18:36:02 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (35602)
+Seat 2: K-maille (175351)
+Seat 3: PauloHivert (96400)
+Seat 4: Aaasskip (114729)
+Seat 5: boobajaames7 (109700)
+Seat 6: Bilboux (153270)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+K-maille posts ante 200
+PauloHivert posts ante 200
+Aaasskip posts ante 200
+boobajaames7 posts ante 200
+Bilboux posts ante 200
+P1xel7 posts small blind 800
+K-maille posts big blind 1600
+Dealt to P1xel7 [As Td]
+*** PRE-FLOP *** 
+PauloHivert calls 1600
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+P1xel7 raises 3200 to 4800
+K-maille calls 3200
+PauloHivert calls 3200
+*** FLOP *** [5d Jd 3s]
+P1xel7 checks
+K-maille checks
+PauloHivert checks
+*** TURN *** [5d Jd 3s][Ac]
+P1xel7 bets 10140
+K-maille calls 10140
+PauloHivert folds
+*** RIVER *** [5d Jd 3s Ac][3d]
+P1xel7 bets 20462 and is all-in
+K-maille folds
+P1xel7 collected 56342 from pot
+*** SUMMARY ***
+Total pot 56342 | No rake
+Board: [5d Jd 3s Ac 3d]
+Seat 1: P1xel7 (small blind) won 56342
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-73-1691519876 - Holdem no limit (200/800/1600) - 2023/08/08 18:37:56 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (56342)
+Seat 2: K-maille (160211)
+Seat 3: PauloHivert (91400)
+Seat 4: Aaasskip (114529)
+Seat 5: boobajaames7 (109500)
+Seat 6: Bilboux (153070)
+*** ANTE/BLINDS ***
+K-maille posts ante 200
+PauloHivert posts ante 200
+P1xel7 posts ante 200
+Aaasskip posts ante 200
+boobajaames7 posts ante 200
+Bilboux posts ante 200
+K-maille posts small blind 800
+PauloHivert posts big blind 1600
+Dealt to P1xel7 [5h As]
+*** PRE-FLOP *** 
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille raises 1600 to 3200
+PauloHivert folds
+K-maille collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Seat 2: K-maille (small blind) won 6000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-74-1691519892 - Holdem no limit (200/800/1600) - 2023/08/08 18:38:12 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (56142)
+Seat 2: K-maille (162811)
+Seat 3: PauloHivert (89600)
+Seat 4: Aaasskip (114329)
+Seat 5: boobajaames7 (109300)
+Seat 6: Bilboux (152870)
+*** ANTE/BLINDS ***
+PauloHivert posts ante 200
+Aaasskip posts ante 200
+P1xel7 posts ante 200
+K-maille posts ante 200
+boobajaames7 posts ante 200
+Bilboux posts ante 200
+PauloHivert posts small blind 800
+Aaasskip posts big blind 1600
+Dealt to P1xel7 [Jd 8c]
+*** PRE-FLOP *** 
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille folds
+PauloHivert folds
+Aaasskip collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 4: Aaasskip (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-75-1691519913 - Holdem no limit (200/800/1600) - 2023/08/08 18:38:33 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (55942)
+Seat 2: K-maille (162611)
+Seat 3: PauloHivert (88600)
+Seat 4: Aaasskip (116129)
+Seat 5: boobajaames7 (109100)
+Seat 6: Bilboux (152670)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 200
+boobajaames7 posts ante 200
+P1xel7 posts ante 200
+K-maille posts ante 200
+PauloHivert posts ante 200
+Bilboux posts ante 200
+Aaasskip posts small blind 800
+boobajaames7 posts big blind 1600
+Dealt to P1xel7 [Qs Ks]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 raises 3200 to 4800
+K-maille folds
+PauloHivert calls 4800
+Aaasskip folds
+boobajaames7 folds
+*** FLOP *** [8c Ah As]
+P1xel7 bets 8580
+PauloHivert calls 8580
+*** TURN *** [8c Ah As][6d]
+P1xel7 bets 15180
+PauloHivert calls 15180
+*** RIVER *** [8c Ah As 6d][2d]
+P1xel7 checks
+PauloHivert bets 59840 and is all-in
+P1xel7 folds
+PauloHivert collected 120560 from pot
+*** SUMMARY ***
+Total pot 120560 | No rake
+Board: [8c Ah As 6d 2d]
+Seat 3: PauloHivert (button) won 120560
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #2910500986319536129-76-1691519989 - Holdem no limit (200/800/1600) - 2023/08/08 18:39:49 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (27182)
+Seat 2: K-maille (162411)
+Seat 3: PauloHivert (120560)
+Seat 4: Aaasskip (115129)
+Seat 5: boobajaames7 (107300)
+Seat 6: Bilboux (152470)
+*** ANTE/BLINDS ***
+boobajaames7 posts ante 200
+Bilboux posts ante 200
+P1xel7 posts ante 200
+K-maille posts ante 200
+PauloHivert posts ante 200
+Aaasskip posts ante 200
+boobajaames7 posts small blind 800
+Bilboux posts big blind 1600
+Dealt to P1xel7 [Jh 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+K-maille folds
+PauloHivert folds
+Aaasskip folds
+boobajaames7 folds
+Bilboux collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 6: Bilboux (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #2910500986319536129-77-1691520036 - Holdem no limit (250/1000/2000) - 2023/08/08 18:40:36 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (26982)
+Seat 2: K-maille (162211)
+Seat 3: PauloHivert (120360)
+Seat 4: Aaasskip (114929)
+Seat 5: boobajaames7 (106300)
+Seat 6: Bilboux (154270)
+*** ANTE/BLINDS ***
+Bilboux posts ante 250
+P1xel7 posts ante 250
+K-maille posts ante 250
+PauloHivert posts ante 250
+Aaasskip posts ante 250
+boobajaames7 posts ante 250
+Bilboux posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [2h Ah]
+*** PRE-FLOP *** 
+K-maille folds
+PauloHivert folds
+Aaasskip raises 2500 to 4500
+boobajaames7 calls 4500
+Bilboux folds
+P1xel7 raises 22232 to 26732 and is all-in
+Aaasskip folds
+boobajaames7 calls 22232
+*** FLOP *** [9h Ad 4d]
+*** TURN *** [9h Ad 4d][7c]
+*** RIVER *** [9h Ad 4d 7c][7h]
+*** SHOW DOWN ***
+boobajaames7 shows [5d 5s] (Two pairs : 7 and 5)
+P1xel7 shows [2h Ah] (Two pairs : Aces and 7)
+P1xel7 collected 60464 from pot
+*** SUMMARY ***
+Total pot 60464 | No rake
+Board: [9h Ad 4d 7c 7h]
+Seat 1: P1xel7 (big blind) showed [2h Ah] and won 60464 with Two pairs : Aces and 7
+Seat 5: boobajaames7 (button) showed [5d 5s] and lost with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #2910500986319536129-78-1691520101 - Holdem no limit (250/1000/2000) - 2023/08/08 18:41:41 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (60464)
+Seat 2: K-maille (161961)
+Seat 3: PauloHivert (120110)
+Seat 4: Aaasskip (110179)
+Seat 5: boobajaames7 (79318)
+Seat 6: Bilboux (153020)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+K-maille posts ante 250
+PauloHivert posts ante 250
+Aaasskip posts ante 250
+boobajaames7 posts ante 250
+Bilboux posts ante 250
+P1xel7 posts small blind 1000
+K-maille posts big blind 2000
+Dealt to P1xel7 [Ks Tc]
+*** PRE-FLOP *** 
+PauloHivert folds
+Aaasskip raises 2500 to 4500
+boobajaames7 folds
+Bilboux folds
+P1xel7 calls 3500
+K-maille calls 2500
+*** FLOP *** [8d 3s 4c]
+P1xel7 checks
+K-maille checks
+Aaasskip bets 5250
+P1xel7 folds
+K-maille folds
+Aaasskip collected 20250 from pot
+*** SUMMARY ***
+Total pot 20250 | No rake
+Board: [8d 3s 4c]
+Seat 4: Aaasskip won 20250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #2910500986319536129-79-1691520148 - Holdem no limit (250/1000/2000) - 2023/08/08 18:42:28 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (55714)
+Seat 2: K-maille (157211)
+Seat 3: PauloHivert (119860)
+Seat 4: Aaasskip (120429)
+Seat 5: boobajaames7 (79068)
+Seat 6: Bilboux (152770)
+*** ANTE/BLINDS ***
+K-maille posts ante 250
+PauloHivert posts ante 250
+P1xel7 posts ante 250
+Aaasskip posts ante 250
+boobajaames7 posts ante 250
+Bilboux posts ante 250
+K-maille posts small blind 1000
+PauloHivert posts big blind 2000
+Dealt to P1xel7 [4d 2s]
+*** PRE-FLOP *** 
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille raises 2000 to 4000
+PauloHivert folds
+K-maille collected 7500 from pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Seat 2: K-maille (small blind) won 7500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #2910500986319536129-80-1691520174 - Holdem no limit (250/1000/2000) - 2023/08/08 18:42:54 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (55464)
+Seat 2: K-maille (160461)
+Seat 3: PauloHivert (117610)
+Seat 4: Aaasskip (120179)
+Seat 5: boobajaames7 (78818)
+Seat 6: Bilboux (152520)
+*** ANTE/BLINDS ***
+PauloHivert posts ante 250
+Aaasskip posts ante 250
+P1xel7 posts ante 250
+K-maille posts ante 250
+boobajaames7 posts ante 250
+Bilboux posts ante 250
+PauloHivert posts small blind 1000
+Aaasskip posts big blind 2000
+Dealt to P1xel7 [5c Kd]
+*** PRE-FLOP *** 
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille raises 2000 to 4000
+PauloHivert folds
+Aaasskip folds
+K-maille collected 8500 from pot
+*** SUMMARY ***
+Total pot 8500 | No rake
+Seat 2: K-maille (button) won 8500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #2910500986319536129-81-1691520228 - Holdem no limit (250/1000/2000) - 2023/08/08 18:43:48 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (55214)
+Seat 2: K-maille (164711)
+Seat 3: PauloHivert (116360)
+Seat 4: Aaasskip (117929)
+Seat 5: boobajaames7 (78568)
+Seat 6: Bilboux (152270)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 250
+boobajaames7 posts ante 250
+P1xel7 posts ante 250
+K-maille posts ante 250
+PauloHivert posts ante 250
+Bilboux posts ante 250
+Aaasskip posts small blind 1000
+boobajaames7 posts big blind 2000
+Dealt to P1xel7 [2h Td]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 folds
+K-maille folds
+PauloHivert folds
+Aaasskip folds
+boobajaames7 collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 5: boobajaames7 (big blind) won 4500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #2910500986319536129-82-1691520250 - Holdem no limit (250/1000/2000) - 2023/08/08 18:44:10 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (54964)
+Seat 2: K-maille (164461)
+Seat 3: PauloHivert (116110)
+Seat 4: Aaasskip (116679)
+Seat 5: boobajaames7 (80818)
+Seat 6: Bilboux (152020)
+*** ANTE/BLINDS ***
+boobajaames7 posts ante 250
+Bilboux posts ante 250
+P1xel7 posts ante 250
+K-maille posts ante 250
+PauloHivert posts ante 250
+Aaasskip posts ante 250
+boobajaames7 posts small blind 1000
+Bilboux posts big blind 2000
+Dealt to P1xel7 [Ac Qc]
+*** PRE-FLOP *** 
+P1xel7 raises 5000 to 7000
+K-maille folds
+PauloHivert folds
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+P1xel7 collected 11500 from pot
+*** SUMMARY ***
+Total pot 11500 | No rake
+Seat 1: P1xel7 won 11500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #2910500986319536129-83-1691520287 - Holdem no limit (250/1000/2000) - 2023/08/08 18:44:47 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (59214)
+Seat 2: K-maille (164211)
+Seat 3: PauloHivert (115860)
+Seat 4: Aaasskip (116429)
+Seat 5: boobajaames7 (79568)
+Seat 6: Bilboux (149770)
+*** ANTE/BLINDS ***
+Bilboux posts ante 250
+P1xel7 posts ante 250
+K-maille posts ante 250
+PauloHivert posts ante 250
+Aaasskip posts ante 250
+boobajaames7 posts ante 250
+Bilboux posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [2c Th]
+*** PRE-FLOP *** 
+K-maille folds
+PauloHivert calls 2000
+Aaasskip folds
+boobajaames7 raises 4000 to 6000
+Bilboux folds
+P1xel7 folds
+PauloHivert raises 109610 to 115610 and is all-in
+boobajaames7 calls 73318 and is all-in
+*** FLOP *** [5c As 2s]
+*** TURN *** [5c As 2s][6d]
+*** RIVER *** [5c As 2s 6d][5h]
+*** SHOW DOWN ***
+PauloHivert shows [8s 9s] (One pair : 5)
+boobajaames7 shows [Ks Kd] (Two pairs : Kings and 5)
+boobajaames7 collected 163136 from main pot
+PauloHivert collected 36292 from side pot 1
+*** SUMMARY ***
+Total pot 199428 | No rake
+Board: [5c As 2s 6d 5h]
+Seat 3: PauloHivert showed [8s 9s] and won 36292 with One pair : 5
+Seat 5: boobajaames7 (button) showed [Ks Kd] and won 163136 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #2910500986319536129-84-1691520339 - Holdem no limit (250/1000/2000) - 2023/08/08 18:45:39 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (56964)
+Seat 2: K-maille (163961)
+Seat 3: PauloHivert (36292)
+Seat 4: Aaasskip (116179)
+Seat 5: boobajaames7 (163136)
+Seat 6: Bilboux (148520)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+K-maille posts ante 250
+PauloHivert posts ante 250
+Aaasskip posts ante 250
+boobajaames7 posts ante 250
+Bilboux posts ante 250
+P1xel7 posts small blind 1000
+K-maille posts big blind 2000
+Dealt to P1xel7 [Ad 4c]
+*** PRE-FLOP *** 
+PauloHivert raises 34042 to 36042 and is all-in
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille folds
+PauloHivert shows [8d 8s] (One pair : 8)
+PauloHivert collected 40542 from pot
+*** SUMMARY ***
+Total pot 40542 | No rake
+Seat 3: PauloHivert showed [8d 8s] and won 40542 with One pair : 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #2910500986319536129-85-1691520372 - Holdem no limit (250/1000/2000) - 2023/08/08 18:46:12 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (55714)
+Seat 2: K-maille (161711)
+Seat 3: PauloHivert (40542)
+Seat 4: Aaasskip (115929)
+Seat 5: boobajaames7 (162886)
+Seat 6: Bilboux (148270)
+*** ANTE/BLINDS ***
+K-maille posts ante 250
+PauloHivert posts ante 250
+P1xel7 posts ante 250
+Aaasskip posts ante 250
+boobajaames7 posts ante 250
+Bilboux posts ante 250
+K-maille posts small blind 1000
+PauloHivert posts big blind 2000
+Dealt to P1xel7 [Qs Td]
+*** PRE-FLOP *** 
+Aaasskip raises 2500 to 4500
+boobajaames7 folds
+Bilboux raises 15500 to 20000
+P1xel7 folds
+K-maille calls 19000
+PauloHivert raises 20292 to 40292 and is all-in
+Aaasskip folds
+Bilboux raises 107728 to 148020 and is all-in
+K-maille folds
+*** FLOP *** [Qh 5d Kh]
+*** TURN *** [Qh 5d Kh][9h]
+*** RIVER *** [Qh 5d Kh 9h][Tc]
+*** SHOW DOWN ***
+PauloHivert shows [Ah 9d] (One pair : 9)
+Bilboux shows [Jd Jc] (Straight King high)
+Bilboux collected 214312 from pot
+*** SUMMARY ***
+Total pot 214312 | No rake
+Board: [Qh 5d Kh 9h Tc]
+Seat 3: PauloHivert (big blind) showed [Ah 9d] and lost with One pair : 9
+Seat 6: Bilboux showed [Jd Jc] and won 214312 with Straight King high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #2910500986319536129-86-1691520423 - Holdem no limit (250/1000/2000) - 2023/08/08 18:47:03 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (55464)
+Seat 2: K-maille (141461)
+Seat 4: Aaasskip (111179)
+Seat 5: boobajaames7 (162636)
+Seat 6: Bilboux (214312)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 250
+P1xel7 posts ante 250
+K-maille posts ante 250
+boobajaames7 posts ante 250
+Bilboux posts ante 250
+Aaasskip posts big blind 2000
+Dealt to P1xel7 [5d Kc]
+*** PRE-FLOP *** 
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille raises 2000 to 4000
+Aaasskip calls 2000
+*** FLOP *** [4h Td 8s]
+Aaasskip checks
+K-maille checks
+*** TURN *** [4h Td 8s][6d]
+Aaasskip bets 6013
+K-maille calls 6013
+*** RIVER *** [4h Td 8s 6d][6c]
+Aaasskip bets 16000
+K-maille folds
+Aaasskip collected 37276 from pot
+*** SUMMARY ***
+Total pot 37276 | No rake
+Board: [4h Td 8s 6d 6c]
+Seat 4: Aaasskip (big blind) won 37276
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-87-1691520485 - Holdem no limit (300/1250/2500) - 2023/08/08 18:48:05 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (55214)
+Seat 2: K-maille (131198)
+Seat 3: Lauguielm29 (100000)
+Seat 4: Aaasskip (122192)
+Seat 5: boobajaames7 (162386)
+Seat 6: Bilboux (214062)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 300
+boobajaames7 posts ante 300
+P1xel7 posts ante 300
+K-maille posts ante 300
+Bilboux posts ante 300
+Aaasskip posts small blind 1250
+boobajaames7 posts big blind 2500
+Dealt to P1xel7 [8h Ad]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Aaasskip calls 1250
+boobajaames7 raises 159586 to 162086 and is all-in
+Aaasskip folds
+boobajaames7 collected 166086 from pot
+*** SUMMARY ***
+Total pot 166086 | No rake
+Seat 5: boobajaames7 (big blind) won 166086
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-88-1691520503 - Holdem no limit (300/1250/2500) - 2023/08/08 18:48:23 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (54914)
+Seat 2: K-maille (130898)
+Seat 3: Lauguielm29 (100000)
+Seat 4: Aaasskip (119392)
+Seat 5: boobajaames7 (166086)
+Seat 6: Bilboux (213762)
+*** ANTE/BLINDS ***
+boobajaames7 posts ante 300
+Bilboux posts ante 300
+P1xel7 posts ante 300
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+Aaasskip posts ante 300
+boobajaames7 posts small blind 1250
+Bilboux posts big blind 2500
+Dealt to P1xel7 [6c 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+K-maille raises 2500 to 5000
+Lauguielm29 folds
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+K-maille collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Seat 2: K-maille won 10550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-89-1691520525 - Holdem no limit (300/1250/2500) - 2023/08/08 18:48:45 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (54614)
+Seat 2: K-maille (136148)
+Seat 3: Lauguielm29 (99700)
+Seat 4: Aaasskip (119092)
+Seat 5: boobajaames7 (164536)
+Seat 6: Bilboux (210962)
+*** ANTE/BLINDS ***
+Bilboux posts ante 300
+P1xel7 posts ante 300
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+Aaasskip posts ante 300
+boobajaames7 posts ante 300
+Bilboux posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Jc 9s]
+*** PRE-FLOP *** 
+K-maille raises 2500 to 5000
+Lauguielm29 folds
+Aaasskip folds
+boobajaames7 calls 5000
+Bilboux folds
+P1xel7 calls 2500
+*** FLOP *** [Ks 3s 2s]
+P1xel7 checks
+K-maille bets 14440
+boobajaames7 calls 14440
+P1xel7 folds
+*** TURN *** [Ks 3s 2s][2d]
+K-maille bets 11733
+boobajaames7 calls 11733
+*** RIVER *** [Ks 3s 2s 2d][Th]
+K-maille bets 104675 and is all-in
+boobajaames7 folds
+K-maille collected 175071 from pot
+*** SUMMARY ***
+Total pot 175071 | No rake
+Board: [Ks 3s 2s 2d Th]
+Seat 2: K-maille won 175071
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-90-1691520588 - Holdem no limit (300/1250/2500) - 2023/08/08 18:49:48 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (49314)
+Seat 2: K-maille (175071)
+Seat 3: Lauguielm29 (99400)
+Seat 4: Aaasskip (118792)
+Seat 5: boobajaames7 (133063)
+Seat 6: Bilboux (209412)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+Aaasskip posts ante 300
+boobajaames7 posts ante 300
+Bilboux posts ante 300
+P1xel7 posts small blind 1250
+K-maille posts big blind 2500
+Dealt to P1xel7 [2s Ac]
+*** PRE-FLOP *** 
+Lauguielm29 folds
+Aaasskip folds
+boobajaames7 folds
+Bilboux raises 2500 to 5000
+P1xel7 folds
+K-maille folds
+Bilboux collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Seat 6: Bilboux (button) won 10550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-91-1691520598 - Holdem no limit (300/1250/2500) - 2023/08/08 18:49:58 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (47764)
+Seat 2: K-maille (172271)
+Seat 3: Lauguielm29 (99100)
+Seat 4: Aaasskip (118492)
+Seat 5: boobajaames7 (132763)
+Seat 6: Bilboux (214662)
+*** ANTE/BLINDS ***
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+P1xel7 posts ante 300
+Aaasskip posts ante 300
+boobajaames7 posts ante 300
+Bilboux posts ante 300
+K-maille posts small blind 1250
+Lauguielm29 posts big blind 2500
+Dealt to P1xel7 [Qh 2h]
+*** PRE-FLOP *** 
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Lauguielm29 collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Seat 3: Lauguielm29 (big blind) won 5550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-92-1691520619 - Holdem no limit (300/1250/2500) - 2023/08/08 18:50:19 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (47464)
+Seat 2: K-maille (170721)
+Seat 3: Lauguielm29 (101850)
+Seat 4: Aaasskip (118192)
+Seat 5: boobajaames7 (132463)
+Seat 6: Bilboux (214362)
+*** ANTE/BLINDS ***
+Lauguielm29 posts ante 300
+Aaasskip posts ante 300
+P1xel7 posts ante 300
+K-maille posts ante 300
+boobajaames7 posts ante 300
+Bilboux posts ante 300
+Lauguielm29 posts small blind 1250
+Aaasskip posts big blind 2500
+Dealt to P1xel7 [3s Jh]
+*** PRE-FLOP *** 
+boobajaames7 folds
+Bilboux folds
+P1xel7 folds
+K-maille raises 2500 to 5000
+Lauguielm29 folds
+Aaasskip folds
+K-maille collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Seat 2: K-maille (button) won 10550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-93-1691520641 - Holdem no limit (300/1250/2500) - 2023/08/08 18:50:41 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (47164)
+Seat 2: K-maille (175971)
+Seat 3: Lauguielm29 (100300)
+Seat 4: Aaasskip (115392)
+Seat 5: boobajaames7 (132163)
+Seat 6: Bilboux (214062)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 300
+boobajaames7 posts ante 300
+P1xel7 posts ante 300
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+Bilboux posts ante 300
+Aaasskip posts small blind 1250
+boobajaames7 posts big blind 2500
+Dealt to P1xel7 [5d 9s]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Lauguielm29 raises 3750 to 6250
+Aaasskip folds
+boobajaames7 folds
+Lauguielm29 collected 11800 from pot
+*** SUMMARY ***
+Total pot 11800 | No rake
+Seat 3: Lauguielm29 (button) won 11800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-94-1691520668 - Holdem no limit (300/1250/2500) - 2023/08/08 18:51:08 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (46864)
+Seat 2: K-maille (175671)
+Seat 3: Lauguielm29 (105550)
+Seat 4: Aaasskip (113842)
+Seat 5: boobajaames7 (129363)
+Seat 6: Bilboux (213762)
+*** ANTE/BLINDS ***
+boobajaames7 posts ante 300
+Bilboux posts ante 300
+P1xel7 posts ante 300
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+Aaasskip posts ante 300
+boobajaames7 posts small blind 1250
+Bilboux posts big blind 2500
+Dealt to P1xel7 [Ah 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+K-maille folds
+Lauguielm29 folds
+Aaasskip raises 3125 to 5625
+boobajaames7 raises 123438 to 129063 and is all-in
+Bilboux folds
+Aaasskip folds
+boobajaames7 collected 138988 from pot
+*** SUMMARY ***
+Total pot 138988 | No rake
+Seat 5: boobajaames7 (small blind) won 138988
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-95-1691520713 - Holdem no limit (300/1250/2500) - 2023/08/08 18:51:53 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (46564)
+Seat 2: K-maille (175371)
+Seat 3: Lauguielm29 (105250)
+Seat 4: Aaasskip (107917)
+Seat 5: boobajaames7 (138988)
+Seat 6: Bilboux (210962)
+*** ANTE/BLINDS ***
+Bilboux posts ante 300
+P1xel7 posts ante 300
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+Aaasskip posts ante 300
+boobajaames7 posts ante 300
+Bilboux posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Qh Td]
+*** PRE-FLOP *** 
+K-maille folds
+Lauguielm29 folds
+Aaasskip folds
+boobajaames7 raises 3125 to 5625
+Bilboux calls 4375
+P1xel7 calls 3125
+*** FLOP *** [2h 9s 5s]
+Bilboux checks
+P1xel7 checks
+boobajaames7 checks
+*** TURN *** [2h 9s 5s][6s]
+Bilboux checks
+P1xel7 checks
+boobajaames7 checks
+*** RIVER *** [2h 9s 5s 6s][As]
+Bilboux checks
+P1xel7 checks
+boobajaames7 checks
+*** SHOW DOWN ***
+P1xel7 shows [Qh Td] (High card : Ace)
+boobajaames7 shows [Th Kd] (High card : Ace)
+Bilboux shows [Tc Kc] (High card : Ace)
+Bilboux collected 9338 from pot
+boobajaames7 collected 9337 from pot
+*** SUMMARY ***
+Total pot 18675 | No rake
+Board: [2h 9s 5s 6s As]
+Seat 1: P1xel7 (big blind) showed [Qh Td] and lost with High card : Ace
+Seat 5: boobajaames7 (button) showed [Th Kd] and won 9337 with High card : Ace
+Seat 6: Bilboux (small blind) showed [Tc Kc] and won 9338 with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-96-1691520785 - Holdem no limit (300/1250/2500) - 2023/08/08 18:53:05 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (40639)
+Seat 2: K-maille (175071)
+Seat 3: Lauguielm29 (104950)
+Seat 4: Aaasskip (107617)
+Seat 5: boobajaames7 (142400)
+Seat 6: Bilboux (214375)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+Aaasskip posts ante 300
+boobajaames7 posts ante 300
+Bilboux posts ante 300
+P1xel7 posts small blind 1250
+K-maille posts big blind 2500
+Dealt to P1xel7 [Qc Ac]
+*** PRE-FLOP *** 
+Lauguielm29 raises 3750 to 6250
+Aaasskip folds
+boobajaames7 folds
+Bilboux folds
+P1xel7 raises 34089 to 40339 and is all-in
+K-maille folds
+Lauguielm29 folds
+P1xel7 collected 50889 from pot
+*** SUMMARY ***
+Total pot 50889 | No rake
+Seat 1: P1xel7 (small blind) won 50889
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-97-1691520820 - Holdem no limit (300/1250/2500) - 2023/08/08 18:53:40 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (50889)
+Seat 2: K-maille (172271)
+Seat 3: Lauguielm29 (98400)
+Seat 4: Aaasskip (107317)
+Seat 5: boobajaames7 (142100)
+Seat 6: Bilboux (214075)
+*** ANTE/BLINDS ***
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+P1xel7 posts ante 300
+Aaasskip posts ante 300
+boobajaames7 posts ante 300
+Bilboux posts ante 300
+K-maille posts small blind 1250
+Lauguielm29 posts big blind 2500
+Dealt to P1xel7 [Ac 3s]
+*** PRE-FLOP *** 
+Aaasskip raises 3125 to 5625
+boobajaames7 folds
+Bilboux raises 21875 to 27500
+P1xel7 folds
+K-maille folds
+Lauguielm29 folds
+Aaasskip folds
+Bilboux collected 38675 from pot
+*** SUMMARY ***
+Total pot 38675 | No rake
+Seat 6: Bilboux won 38675
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-98-1691520850 - Holdem no limit (300/1250/2500) - 2023/08/08 18:54:10 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (50589)
+Seat 2: K-maille (170721)
+Seat 3: Lauguielm29 (95600)
+Seat 4: Aaasskip (101392)
+Seat 6: Bilboux (224950)
+*** ANTE/BLINDS ***
+Lauguielm29 posts ante 300
+Aaasskip posts ante 300
+P1xel7 posts ante 300
+K-maille posts ante 300
+Bilboux posts ante 300
+Lauguielm29 posts small blind 1250
+Aaasskip posts big blind 2500
+Dealt to P1xel7 [Qh 6s]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 folds
+K-maille folds
+Lauguielm29 folds
+Aaasskip collected 5250 from pot
+*** SUMMARY ***
+Total pot 5250 | No rake
+Seat 4: Aaasskip (big blind) won 5250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-99-1691520872 - Holdem no limit (300/1250/2500) - 2023/08/08 18:54:32 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (50289)
+Seat 2: K-maille (170421)
+Seat 3: Lauguielm29 (94050)
+Seat 4: Aaasskip (103842)
+Seat 5: Snake1jeu. (100000)
+Seat 6: Bilboux (224650)
+*** ANTE/BLINDS ***
+Aaasskip posts ante 300
+Snake1jeu. posts ante 300
+P1xel7 posts ante 300
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+Bilboux posts ante 300
+Aaasskip posts small blind 1250
+Snake1jeu. posts big blind 2500
+Dealt to P1xel7 [Th 4s]
+*** PRE-FLOP *** 
+Bilboux folds
+P1xel7 folds
+K-maille raises 2500 to 5000
+Lauguielm29 folds
+Aaasskip folds
+Snake1jeu. calls 2500
+*** FLOP *** [Qs 8d Kd]
+Snake1jeu. checks
+K-maille checks
+*** TURN *** [Qs 8d Kd][4h]
+Snake1jeu. bets 8483
+K-maille folds
+Snake1jeu. collected 21533 from pot
+*** SUMMARY ***
+Total pot 21533 | No rake
+Board: [Qs 8d Kd 4h]
+Seat 5: Snake1jeu. (big blind) won 21533
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #2910500986319536129-100-1691520897 - Holdem no limit (300/1250/2500) - 2023/08/08 18:54:57 UTC
+Table: 'Monster Stack(677653818)#0000' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (49989)
+Seat 2: K-maille (165121)
+Seat 3: Lauguielm29 (93750)
+Seat 4: Aaasskip (102292)
+Seat 5: Snake1jeu. (107750)
+Seat 6: Bilboux (224350)
+*** ANTE/BLINDS ***
+Snake1jeu. posts ante 300
+Bilboux posts ante 300
+P1xel7 posts ante 300
+K-maille posts ante 300
+Lauguielm29 posts ante 300
+Aaasskip posts ante 300
+Snake1jeu. posts small blind 1250
+Bilboux posts big blind 2500
+Dealt to P1xel7 [Jc Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 47189 to 49689 and is all-in
+K-maille calls 49689
+Lauguielm29 folds
+Aaasskip folds
+Snake1jeu. folds
+Bilboux folds
+*** FLOP *** [3d 6d Js]
+*** TURN *** [3d 6d Js][Th]
+*** RIVER *** [3d 6d Js Th][9c]
+*** SHOW DOWN ***
+P1xel7 shows [Jc Ac] (One pair : Jacks)
+K-maille shows [Qd Kc] (Straight King high)
+K-maille collected 104928 from pot
+*** SUMMARY ***
+Total pot 104928 | No rake
+Board: [3d 6d Js Th 9c]
+Seat 1: P1xel7 showed [Jc Ac] and lost with One pair : Jacks
+Seat 2: K-maille showed [Qd Kc] and won 104928 with Straight King high
+
+

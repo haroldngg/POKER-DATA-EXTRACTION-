@@ -1,0 +1,2041 @@
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2987996644609359922-29-1696704574 - Holdem no limit (25/100/200) - 2023/10/07 18:49:34 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #4 is the button
+Seat 1: KiwiPrune (17919)
+Seat 2: P1xel7 (20000)
+Seat 3: AK-PACINO (99722)
+Seat 4: LunAA-TTiKKa (33733)
+Seat 5: Chinito2410 (23565)
+Seat 6: RoMpOkERR (19325)
+*** ANTE/BLINDS ***
+Chinito2410 posts ante 25
+RoMpOkERR posts ante 25
+KiwiPrune posts ante 25
+P1xel7 posts ante 25
+AK-PACINO posts ante 25
+LunAA-TTiKKa posts ante 25
+Chinito2410 posts small blind 100
+RoMpOkERR posts big blind 200
+Dealt to P1xel7 [4c 6h]
+*** PRE-FLOP *** 
+KiwiPrune folds
+P1xel7 folds
+AK-PACINO folds
+LunAA-TTiKKa raises 300 to 500
+Chinito2410 folds
+RoMpOkERR calls 300
+*** FLOP *** [Ks Qc 8s]
+RoMpOkERR checks
+LunAA-TTiKKa bets 538
+RoMpOkERR calls 538
+*** TURN *** [Ks Qc 8s][Ad]
+RoMpOkERR checks
+LunAA-TTiKKa checks
+*** RIVER *** [Ks Qc 8s Ad][Tc]
+RoMpOkERR checks
+LunAA-TTiKKa checks
+*** SHOW DOWN ***
+RoMpOkERR shows [6s 6d] (One pair : 6)
+LunAA-TTiKKa shows [7h 7c] (One pair : 7)
+LunAA-TTiKKa collected 2326 from pot
+*** SUMMARY ***
+Total pot 2326 | No rake
+Board: [Ks Qc 8s Ad Tc]
+Seat 4: LunAA-TTiKKa (button) showed [7h 7c] and won 2326 with One pair : 7
+Seat 6: RoMpOkERR (big blind) showed [6s 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2987996644609359922-30-1696704632 - Holdem no limit (30/125/250) - 2023/10/07 18:50:32 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #5 is the button
+Seat 1: KiwiPrune (17894)
+Seat 2: P1xel7 (19975)
+Seat 3: AK-PACINO (99697)
+Seat 4: LunAA-TTiKKa (34996)
+Seat 5: Chinito2410 (23440)
+Seat 6: RoMpOkERR (18262)
+*** ANTE/BLINDS ***
+RoMpOkERR posts ante 30
+KiwiPrune posts ante 30
+P1xel7 posts ante 30
+AK-PACINO posts ante 30
+LunAA-TTiKKa posts ante 30
+Chinito2410 posts ante 30
+RoMpOkERR posts small blind 125
+KiwiPrune posts big blind 250
+Dealt to P1xel7 [Th 8c]
+*** PRE-FLOP *** 
+P1xel7 folds
+AK-PACINO calls 250
+LunAA-TTiKKa calls 250
+Chinito2410 folds
+RoMpOkERR folds
+KiwiPrune raises 1055 to 1305
+AK-PACINO calls 1055
+LunAA-TTiKKa calls 1055
+*** FLOP *** [Qc As 5s]
+KiwiPrune bets 2743
+AK-PACINO calls 2743
+LunAA-TTiKKa folds
+*** TURN *** [Qc As 5s][4d]
+KiwiPrune bets 13816 and is all-in
+AK-PACINO calls 13816
+*** RIVER *** [Qc As 5s 4d][5c]
+*** SHOW DOWN ***
+AK-PACINO shows [3c 3h] (Two pairs : 5 and 3)
+KiwiPrune shows [Kc Ad] (Two pairs : Aces and 5)
+KiwiPrune collected 37338 from pot
+*** SUMMARY ***
+Total pot 37338 | No rake
+Board: [Qc As 5s 4d 5c]
+Seat 1: KiwiPrune (big blind) showed [Kc Ad] and won 37338 with Two pairs : Aces and 5
+Seat 3: AK-PACINO showed [3c 3h] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2987996644609359922-31-1696704716 - Holdem no limit (30/125/250) - 2023/10/07 18:51:56 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #6 is the button
+Seat 1: KiwiPrune (37338)
+Seat 2: P1xel7 (19945)
+Seat 3: AK-PACINO (81803)
+Seat 4: LunAA-TTiKKa (33661)
+Seat 5: Chinito2410 (23410)
+Seat 6: RoMpOkERR (18107)
+*** ANTE/BLINDS ***
+KiwiPrune posts ante 30
+P1xel7 posts ante 30
+AK-PACINO posts ante 30
+LunAA-TTiKKa posts ante 30
+Chinito2410 posts ante 30
+RoMpOkERR posts ante 30
+KiwiPrune posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [Js Qd]
+*** PRE-FLOP *** 
+AK-PACINO calls 250
+LunAA-TTiKKa raises 625 to 875
+Chinito2410 folds
+RoMpOkERR calls 875
+KiwiPrune raises 36433 to 37308 and is all-in
+P1xel7 folds
+AK-PACINO calls 37058
+LunAA-TTiKKa calls 32756 and is all-in
+RoMpOkERR folds
+*** FLOP *** [8s 4s 6h]
+*** TURN *** [8s 4s 6h][7d]
+*** RIVER *** [8s 4s 6h 7d][7s]
+*** SHOW DOWN ***
+AK-PACINO shows [5c 5h] (Straight 8 high)
+KiwiPrune shows [Ks As] (Flush Ace high)
+LunAA-TTiKKa shows [7c 7h] (Quads of 7)
+LunAA-TTiKKa collected 102198 from main pot
+KiwiPrune collected 7354 from side pot 1
+*** SUMMARY ***
+Total pot 109552 | No rake
+Board: [8s 4s 6h 7d 7s]
+Seat 1: KiwiPrune (small blind) showed [Ks As] and won 7354 with Flush Ace high
+Seat 3: AK-PACINO showed [5c 5h] and lost with Straight 8 high
+Seat 4: LunAA-TTiKKa showed [7c 7h] and won 102198 with Quads of 7
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2987996644609359922-32-1696704770 - Holdem no limit (30/125/250) - 2023/10/07 18:52:50 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #1 is the button
+Seat 1: KiwiPrune (7354)
+Seat 2: P1xel7 (19665)
+Seat 3: AK-PACINO (44465)
+Seat 4: LunAA-TTiKKa (102198)
+Seat 5: Chinito2410 (23380)
+Seat 6: RoMpOkERR (17202)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+AK-PACINO posts ante 30
+KiwiPrune posts ante 30
+LunAA-TTiKKa posts ante 30
+Chinito2410 posts ante 30
+RoMpOkERR posts ante 30
+P1xel7 posts small blind 125
+AK-PACINO posts big blind 250
+Dealt to P1xel7 [9s 8d]
+*** PRE-FLOP *** 
+LunAA-TTiKKa folds
+Chinito2410 raises 300 to 550
+RoMpOkERR folds
+KiwiPrune folds
+P1xel7 folds
+AK-PACINO folds
+Chinito2410 collected 1105 from pot
+*** SUMMARY ***
+Total pot 1105 | No rake
+Seat 5: Chinito2410 won 1105
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2987996644609359922-33-1696704786 - Holdem no limit (30/125/250) - 2023/10/07 18:53:06 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #2 is the button
+Seat 1: KiwiPrune (7324)
+Seat 2: P1xel7 (19510)
+Seat 3: AK-PACINO (44185)
+Seat 4: LunAA-TTiKKa (102168)
+Seat 5: Chinito2410 (23905)
+Seat 6: RoMpOkERR (17172)
+*** ANTE/BLINDS ***
+AK-PACINO posts ante 30
+LunAA-TTiKKa posts ante 30
+KiwiPrune posts ante 30
+P1xel7 posts ante 30
+Chinito2410 posts ante 30
+RoMpOkERR posts ante 30
+AK-PACINO posts small blind 125
+LunAA-TTiKKa posts big blind 250
+Dealt to P1xel7 [5c Qd]
+*** PRE-FLOP *** 
+Chinito2410 raises 300 to 550
+RoMpOkERR folds
+KiwiPrune raises 6744 to 7294 and is all-in
+P1xel7 folds
+AK-PACINO raises 36861 to 44155 and is all-in
+LunAA-TTiKKa folds
+Chinito2410 folds
+*** FLOP *** [Qs 7h 6s]
+*** TURN *** [Qs 7h 6s][4c]
+*** RIVER *** [Qs 7h 6s 4c][4h]
+*** SHOW DOWN ***
+KiwiPrune shows [2d Ah] (One pair : 4)
+AK-PACINO shows [Jh Kd] (One pair : 4)
+AK-PACINO collected 36861 from side pot 1
+KiwiPrune collected 15568 from main pot
+*** SUMMARY ***
+Total pot 52429 | No rake
+Board: [Qs 7h 6s 4c 4h]
+Seat 1: KiwiPrune showed [2d Ah] and won 15568 with One pair : 4
+Seat 3: AK-PACINO (small blind) showed [Jh Kd] and won 36861 with One pair : 4
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2987996644609359922-34-1696704837 - Holdem no limit (30/125/250) - 2023/10/07 18:53:57 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #3 is the button
+Seat 1: KiwiPrune (15568)
+Seat 2: P1xel7 (19480)
+Seat 3: AK-PACINO (36861)
+Seat 4: LunAA-TTiKKa (101888)
+Seat 5: Chinito2410 (23325)
+Seat 6: RoMpOkERR (17142)
+*** ANTE/BLINDS ***
+LunAA-TTiKKa posts ante 30
+Chinito2410 posts ante 30
+KiwiPrune posts ante 30
+P1xel7 posts ante 30
+AK-PACINO posts ante 30
+RoMpOkERR posts ante 30
+LunAA-TTiKKa posts small blind 125
+Chinito2410 posts big blind 250
+Dealt to P1xel7 [4s 5s]
+*** PRE-FLOP *** 
+RoMpOkERR folds
+KiwiPrune raises 15288 to 15538 and is all-in
+P1xel7 folds
+AK-PACINO raises 21293 to 36831 and is all-in
+LunAA-TTiKKa folds
+Chinito2410 folds
+*** FLOP *** [Kc Jc Js]
+*** TURN *** [Kc Jc Js][As]
+*** RIVER *** [Kc Jc Js As][6d]
+*** SHOW DOWN ***
+KiwiPrune shows [9h Ad] (Two pairs : Aces and Jacks)
+AK-PACINO shows [Kh 6s] (Two pairs : Kings and Jacks)
+AK-PACINO collected 21293 from side pot 1
+KiwiPrune collected 31631 from main pot
+*** SUMMARY ***
+Total pot 52924 | No rake
+Board: [Kc Jc Js As 6d]
+Seat 1: KiwiPrune showed [9h Ad] and won 31631 with Two pairs : Aces and Jacks
+Seat 3: AK-PACINO (button) showed [Kh 6s] and won 21293 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2987996644609359922-35-1696704877 - Holdem no limit (30/125/250) - 2023/10/07 18:54:37 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #4 is the button
+Seat 1: KiwiPrune (31631)
+Seat 2: P1xel7 (19450)
+Seat 3: AK-PACINO (21293)
+Seat 4: LunAA-TTiKKa (101733)
+Seat 5: Chinito2410 (23045)
+Seat 6: RoMpOkERR (17112)
+*** ANTE/BLINDS ***
+Chinito2410 posts ante 30
+RoMpOkERR posts ante 30
+KiwiPrune posts ante 30
+P1xel7 posts ante 30
+AK-PACINO posts ante 30
+LunAA-TTiKKa posts ante 30
+Chinito2410 posts small blind 125
+RoMpOkERR posts big blind 250
+Dealt to P1xel7 [9s 5h]
+*** PRE-FLOP *** 
+KiwiPrune raises 500 to 750
+P1xel7 folds
+AK-PACINO raises 20513 to 21263 and is all-in
+LunAA-TTiKKa folds
+Chinito2410 raises 1752 to 23015 and is all-in
+RoMpOkERR folds
+KiwiPrune calls 22265
+*** FLOP *** [Kd Kh 5c]
+*** TURN *** [Kd Kh 5c][Td]
+*** RIVER *** [Kd Kh 5c Td][3d]
+*** SHOW DOWN ***
+KiwiPrune shows [7c Ac] (One pair : Kings)
+AK-PACINO shows [Js 9d] (One pair : Kings)
+Chinito2410 shows [Jh Ad] (One pair : Kings)
+Chinito2410 collected 67723 from pot
+*** SUMMARY ***
+Total pot 67723 | No rake
+Board: [Kd Kh 5c Td 3d]
+Seat 1: KiwiPrune showed [7c Ac] and lost with One pair : Kings
+Seat 3: AK-PACINO showed [Js 9d] and lost with One pair : Kings
+Seat 5: Chinito2410 (small blind) showed [Jh Ad] and won 67723 with One pair : Kings
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2987996644609359922-36-1696705260 - Holdem no limit (30/125/250) - 2023/10/07 19:01:00 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #5 is the button
+Seat 1: KiwiPrune (8586)
+Seat 2: P1xel7 (19420)
+Seat 3: TAPODUL13270 (20000)
+Seat 4: LunAA-TTiKKa (101703)
+Seat 5: Chinito2410 (67723)
+Seat 6: RoMpOkERR (16832)
+*** ANTE/BLINDS ***
+RoMpOkERR posts ante 30
+KiwiPrune posts ante 30
+P1xel7 posts ante 30
+TAPODUL13270 posts ante 30
+LunAA-TTiKKa posts ante 30
+Chinito2410 posts ante 30
+RoMpOkERR posts small blind 125
+KiwiPrune posts big blind 250
+Dealt to P1xel7 [4s Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+TAPODUL13270 calls 250
+LunAA-TTiKKa folds
+Chinito2410 folds
+RoMpOkERR raises 375 to 625
+KiwiPrune raises 7931 to 8556 and is all-in
+TAPODUL13270 folds
+RoMpOkERR calls 7931
+*** FLOP *** [4d Jh Td]
+*** TURN *** [4d Jh Td][Kh]
+*** RIVER *** [4d Jh Td Kh][7s]
+*** SHOW DOWN ***
+RoMpOkERR shows [Qc Qd] (One pair : Queens)
+KiwiPrune shows [Jd Kd] (Two pairs : Kings and Jacks)
+KiwiPrune collected 17542 from pot
+*** SUMMARY ***
+Total pot 17542 | No rake
+Board: [4d Jh Td Kh 7s]
+Seat 1: KiwiPrune (big blind) showed [Jd Kd] and won 17542 with Two pairs : Kings and Jacks
+Seat 6: RoMpOkERR (small blind) showed [Qc Qd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2987996644609359922-37-1696705327 - Holdem no limit (30/125/250) - 2023/10/07 19:02:07 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #6 is the button
+Seat 1: KiwiPrune (17542)
+Seat 2: P1xel7 (19390)
+Seat 3: TAPODUL13270 (19720)
+Seat 4: LunAA-TTiKKa (101673)
+Seat 5: Chinito2410 (67693)
+Seat 6: RoMpOkERR (8246)
+*** ANTE/BLINDS ***
+KiwiPrune posts ante 30
+P1xel7 posts ante 30
+TAPODUL13270 posts ante 30
+LunAA-TTiKKa posts ante 30
+Chinito2410 posts ante 30
+RoMpOkERR posts ante 30
+KiwiPrune posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [Kh 4h]
+*** PRE-FLOP *** 
+TAPODUL13270 folds
+LunAA-TTiKKa folds
+Chinito2410 raises 300 to 550
+RoMpOkERR calls 550
+KiwiPrune folds
+P1xel7 folds
+*** FLOP *** [3d Ts 7d]
+Chinito2410 checks
+RoMpOkERR bets 1076
+Chinito2410 folds
+RoMpOkERR collected 2731 from pot
+*** SUMMARY ***
+Total pot 2731 | No rake
+Board: [3d Ts 7d]
+Seat 6: RoMpOkERR (button) won 2731
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2987996644609359922-38-1696705360 - Holdem no limit (30/125/250) - 2023/10/07 19:02:40 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #1 is the button
+Seat 1: KiwiPrune (17387)
+Seat 2: P1xel7 (19110)
+Seat 3: TAPODUL13270 (19690)
+Seat 4: LunAA-TTiKKa (101643)
+Seat 5: Chinito2410 (67113)
+Seat 6: RoMpOkERR (9321)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+TAPODUL13270 posts ante 30
+KiwiPrune posts ante 30
+LunAA-TTiKKa posts ante 30
+Chinito2410 posts ante 30
+RoMpOkERR posts ante 30
+P1xel7 posts small blind 125
+TAPODUL13270 posts big blind 250
+Dealt to P1xel7 [8c Kh]
+*** PRE-FLOP *** 
+LunAA-TTiKKa folds
+Chinito2410 folds
+RoMpOkERR calls 250
+KiwiPrune raises 1055 to 1305
+P1xel7 folds
+TAPODUL13270 folds
+RoMpOkERR calls 1055
+*** FLOP *** [4c Jc 3d]
+RoMpOkERR checks
+KiwiPrune checks
+*** TURN *** [4c Jc 3d][9d]
+RoMpOkERR checks
+KiwiPrune bets 1708
+RoMpOkERR raises 6278 to 7986 and is all-in
+KiwiPrune folds
+RoMpOkERR collected 12859 from pot
+*** SUMMARY ***
+Total pot 12859 | No rake
+Board: [4c Jc 3d 9d]
+Seat 6: RoMpOkERR won 12859
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2987996644609359922-39-1696705426 - Holdem no limit (35/150/300) - 2023/10/07 19:03:46 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #2 is the button
+Seat 1: KiwiPrune (14344)
+Seat 2: P1xel7 (18955)
+Seat 3: TAPODUL13270 (19410)
+Seat 4: LunAA-TTiKKa (101613)
+Seat 5: Chinito2410 (67083)
+Seat 6: RoMpOkERR (12859)
+*** ANTE/BLINDS ***
+TAPODUL13270 posts ante 35
+LunAA-TTiKKa posts ante 35
+KiwiPrune posts ante 35
+P1xel7 posts ante 35
+Chinito2410 posts ante 35
+RoMpOkERR posts ante 35
+TAPODUL13270 posts small blind 150
+LunAA-TTiKKa posts big blind 300
+Dealt to P1xel7 [2s 8h]
+*** PRE-FLOP *** 
+Chinito2410 folds
+RoMpOkERR folds
+KiwiPrune folds
+P1xel7 folds
+TAPODUL13270 folds
+LunAA-TTiKKa collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 4: LunAA-TTiKKa (big blind) won 660
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2987996644609359922-40-1696705448 - Holdem no limit (35/150/300) - 2023/10/07 19:04:08 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #3 is the button
+Seat 1: KiwiPrune (14309)
+Seat 2: P1xel7 (18920)
+Seat 3: TAPODUL13270 (19225)
+Seat 4: LunAA-TTiKKa (101938)
+Seat 5: Chinito2410 (67048)
+Seat 6: RoMpOkERR (12824)
+*** ANTE/BLINDS ***
+LunAA-TTiKKa posts ante 35
+Chinito2410 posts ante 35
+KiwiPrune posts ante 35
+P1xel7 posts ante 35
+TAPODUL13270 posts ante 35
+RoMpOkERR posts ante 35
+LunAA-TTiKKa posts small blind 150
+Chinito2410 posts big blind 300
+Dealt to P1xel7 [4s 7d]
+*** PRE-FLOP *** 
+RoMpOkERR folds
+KiwiPrune folds
+P1xel7 folds
+TAPODUL13270 calls 300
+LunAA-TTiKKa calls 150
+Chinito2410 checks
+*** FLOP *** [Td 8c 3d]
+LunAA-TTiKKa checks
+Chinito2410 checks
+TAPODUL13270 bets 1110
+LunAA-TTiKKa folds
+Chinito2410 calls 1110
+*** TURN *** [Td 8c 3d][Qh]
+Chinito2410 checks
+TAPODUL13270 bets 3330
+Chinito2410 folds
+TAPODUL13270 collected 6660 from pot
+*** SUMMARY ***
+Total pot 6660 | No rake
+Board: [Td 8c 3d Qh]
+Seat 3: TAPODUL13270 (button) won 6660
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2987996644609359922-41-1696705510 - Holdem no limit (35/150/300) - 2023/10/07 19:05:10 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #4 is the button
+Seat 1: KiwiPrune (14274)
+Seat 2: P1xel7 (18885)
+Seat 3: TAPODUL13270 (21110)
+Seat 4: LunAA-TTiKKa (101603)
+Seat 5: Chinito2410 (65603)
+Seat 6: RoMpOkERR (12789)
+*** ANTE/BLINDS ***
+Chinito2410 posts ante 35
+RoMpOkERR posts ante 35
+KiwiPrune posts ante 35
+P1xel7 posts ante 35
+TAPODUL13270 posts ante 35
+LunAA-TTiKKa posts ante 35
+Chinito2410 posts small blind 150
+RoMpOkERR posts big blind 300
+Dealt to P1xel7 [8c 6c]
+*** PRE-FLOP *** 
+KiwiPrune raises 600 to 900
+P1xel7 folds
+TAPODUL13270 calls 900
+LunAA-TTiKKa raises 2760 to 3660
+Chinito2410 folds
+RoMpOkERR folds
+KiwiPrune calls 2760
+TAPODUL13270 calls 2760
+*** FLOP *** [3d Js 6s]
+KiwiPrune bets 10579 and is all-in
+TAPODUL13270 folds
+LunAA-TTiKKa calls 10579
+*** TURN *** [3d Js 6s][8s]
+*** RIVER *** [3d Js 6s 8s][4d]
+*** SHOW DOWN ***
+LunAA-TTiKKa shows [Ad Kc] (High card : Ace)
+KiwiPrune shows [Ts 9s] (Flush Jack high)
+KiwiPrune collected 32798 from pot
+*** SUMMARY ***
+Total pot 32798 | No rake
+Board: [3d Js 6s 8s 4d]
+Seat 1: KiwiPrune showed [Ts 9s] and won 32798 with Flush Jack high
+Seat 4: LunAA-TTiKKa (button) showed [Ad Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2987996644609359922-42-1696705592 - Holdem no limit (35/150/300) - 2023/10/07 19:06:32 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #5 is the button
+Seat 1: KiwiPrune (32798)
+Seat 2: P1xel7 (18850)
+Seat 3: TAPODUL13270 (17415)
+Seat 4: LunAA-TTiKKa (87329)
+Seat 5: Chinito2410 (65418)
+Seat 6: RoMpOkERR (12454)
+*** ANTE/BLINDS ***
+RoMpOkERR posts ante 35
+KiwiPrune posts ante 35
+P1xel7 posts ante 35
+TAPODUL13270 posts ante 35
+LunAA-TTiKKa posts ante 35
+Chinito2410 posts ante 35
+RoMpOkERR posts small blind 150
+KiwiPrune posts big blind 300
+Dealt to P1xel7 [8c Ac]
+*** PRE-FLOP *** 
+P1xel7 folds
+TAPODUL13270 calls 300
+LunAA-TTiKKa folds
+Chinito2410 folds
+RoMpOkERR folds
+KiwiPrune checks
+*** FLOP *** [Td 6d 7c]
+KiwiPrune bets 624
+TAPODUL13270 folds
+KiwiPrune collected 1584 from pot
+*** SUMMARY ***
+Total pot 1584 | No rake
+Board: [Td 6d 7c]
+Seat 1: KiwiPrune (big blind) won 1584
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2987996644609359922-43-1696705643 - Holdem no limit (35/150/300) - 2023/10/07 19:07:23 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #6 is the button
+Seat 1: KiwiPrune (33423)
+Seat 2: P1xel7 (18815)
+Seat 3: TAPODUL13270 (17080)
+Seat 4: LunAA-TTiKKa (87294)
+Seat 5: Chinito2410 (65383)
+Seat 6: RoMpOkERR (12269)
+*** ANTE/BLINDS ***
+KiwiPrune posts ante 35
+P1xel7 posts ante 35
+TAPODUL13270 posts ante 35
+LunAA-TTiKKa posts ante 35
+Chinito2410 posts ante 35
+RoMpOkERR posts ante 35
+KiwiPrune posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [As 5c]
+*** PRE-FLOP *** 
+TAPODUL13270 folds
+LunAA-TTiKKa folds
+Chinito2410 folds
+RoMpOkERR folds
+KiwiPrune folds
+P1xel7 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 2: P1xel7 (big blind) won 660
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2987996644609359922-44-1696705664 - Holdem no limit (35/150/300) - 2023/10/07 19:07:44 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #1 is the button
+Seat 1: KiwiPrune (33238)
+Seat 2: P1xel7 (19140)
+Seat 3: TAPODUL13270 (17045)
+Seat 4: LunAA-TTiKKa (87259)
+Seat 5: Chinito2410 (65348)
+Seat 6: RoMpOkERR (12234)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+TAPODUL13270 posts ante 35
+KiwiPrune posts ante 35
+LunAA-TTiKKa posts ante 35
+Chinito2410 posts ante 35
+RoMpOkERR posts ante 35
+P1xel7 posts small blind 150
+TAPODUL13270 posts big blind 300
+Dealt to P1xel7 [8h Qd]
+*** PRE-FLOP *** 
+LunAA-TTiKKa folds
+Chinito2410 folds
+RoMpOkERR folds
+KiwiPrune folds
+P1xel7 raises 450 to 750
+TAPODUL13270 calls 450
+*** FLOP *** [Ac 5h As]
+P1xel7 bets 599
+TAPODUL13270 folds
+P1xel7 collected 2309 from pot
+*** SUMMARY ***
+Total pot 2309 | No rake
+Board: [Ac 5h As]
+Seat 2: P1xel7 (small blind) won 2309
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2987996644609359922-45-1696705699 - Holdem no limit (35/150/300) - 2023/10/07 19:08:19 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #2 is the button
+Seat 1: KiwiPrune (33203)
+Seat 2: P1xel7 (20065)
+Seat 3: TAPODUL13270 (16260)
+Seat 4: LunAA-TTiKKa (87224)
+Seat 5: Chinito2410 (65313)
+Seat 6: RoMpOkERR (12199)
+*** ANTE/BLINDS ***
+TAPODUL13270 posts ante 35
+LunAA-TTiKKa posts ante 35
+KiwiPrune posts ante 35
+P1xel7 posts ante 35
+Chinito2410 posts ante 35
+RoMpOkERR posts ante 35
+TAPODUL13270 posts small blind 150
+LunAA-TTiKKa posts big blind 300
+Dealt to P1xel7 [Kh Kd]
+*** PRE-FLOP *** 
+Chinito2410 raises 360 to 660
+RoMpOkERR folds
+KiwiPrune folds
+P1xel7 raises 1590 to 2250
+TAPODUL13270 calls 2100
+LunAA-TTiKKa folds
+Chinito2410 folds
+*** FLOP *** [3h 2s 8d]
+TAPODUL13270 checks
+P1xel7 bets 1650
+TAPODUL13270 folds
+P1xel7 collected 7320 from pot
+*** SUMMARY ***
+Total pot 7320 | No rake
+Board: [3h 2s 8d]
+Seat 2: P1xel7 (button) won 7320
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2987996644609359922-46-1696705760 - Holdem no limit (35/150/300) - 2023/10/07 19:09:20 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #3 is the button
+Seat 1: KiwiPrune (33168)
+Seat 2: P1xel7 (23450)
+Seat 3: TAPODUL13270 (13975)
+Seat 4: LunAA-TTiKKa (86889)
+Seat 5: Chinito2410 (64618)
+*** ANTE/BLINDS ***
+LunAA-TTiKKa posts ante 35
+Chinito2410 posts ante 35
+KiwiPrune posts ante 35
+P1xel7 posts ante 35
+TAPODUL13270 posts ante 35
+LunAA-TTiKKa posts small blind 150
+Chinito2410 posts big blind 300
+Dealt to P1xel7 [4d 2s]
+*** PRE-FLOP *** 
+KiwiPrune folds
+P1xel7 folds
+TAPODUL13270 calls 300
+LunAA-TTiKKa calls 150
+Chinito2410 checks
+*** FLOP *** [4c 3c Ad]
+LunAA-TTiKKa checks
+Chinito2410 checks
+TAPODUL13270 checks
+*** TURN *** [4c 3c Ad][Kh]
+LunAA-TTiKKa checks
+Chinito2410 checks
+TAPODUL13270 checks
+*** RIVER *** [4c 3c Ad Kh][Ac]
+LunAA-TTiKKa checks
+Chinito2410 checks
+TAPODUL13270 bets 13640 and is all-in
+LunAA-TTiKKa folds
+Chinito2410 folds
+TAPODUL13270 collected 14715 from pot
+*** SUMMARY ***
+Total pot 14715 | No rake
+Board: [4c 3c Ad Kh Ac]
+Seat 3: TAPODUL13270 (button) won 14715
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2987996644609359922-47-1696705836 - Holdem no limit (40/175/350) - 2023/10/07 19:10:36 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #4 is the button
+Seat 1: KiwiPrune (33133)
+Seat 2: P1xel7 (23415)
+Seat 3: TAPODUL13270 (14715)
+Seat 4: LunAA-TTiKKa (86554)
+Seat 5: Chinito2410 (64283)
+*** ANTE/BLINDS ***
+Chinito2410 posts ante 40
+KiwiPrune posts ante 40
+P1xel7 posts ante 40
+TAPODUL13270 posts ante 40
+LunAA-TTiKKa posts ante 40
+Chinito2410 posts small blind 175
+KiwiPrune posts big blind 350
+Dealt to P1xel7 [8s 2h]
+*** PRE-FLOP *** 
+P1xel7 folds
+TAPODUL13270 calls 350
+LunAA-TTiKKa folds
+Chinito2410 raises 420 to 770
+KiwiPrune calls 420
+TAPODUL13270 calls 420
+*** FLOP *** [8c Qh Js]
+Chinito2410 bets 879
+KiwiPrune folds
+TAPODUL13270 calls 879
+*** TURN *** [8c Qh Js][As]
+Chinito2410 bets 1921
+TAPODUL13270 folds
+Chinito2410 collected 6189 from pot
+*** SUMMARY ***
+Total pot 6189 | No rake
+Board: [8c Qh Js As]
+Seat 5: Chinito2410 (small blind) won 6189
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2987996644609359922-48-1696705914 - Holdem no limit (40/175/350) - 2023/10/07 19:11:54 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #5 is the button
+Seat 1: KiwiPrune (32323)
+Seat 2: P1xel7 (23375)
+Seat 3: TAPODUL13270 (13026)
+Seat 4: LunAA-TTiKKa (86514)
+Seat 5: Chinito2410 (66862)
+Seat 6: JoJoBar974 (20000)
+*** ANTE/BLINDS ***
+KiwiPrune posts ante 40
+P1xel7 posts ante 40
+TAPODUL13270 posts ante 40
+LunAA-TTiKKa posts ante 40
+Chinito2410 posts ante 40
+KiwiPrune posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Ac 5c]
+*** PRE-FLOP *** 
+TAPODUL13270 folds
+LunAA-TTiKKa folds
+Chinito2410 raises 420 to 770
+KiwiPrune folds
+P1xel7 folds
+Chinito2410 collected 1495 from pot
+*** SUMMARY ***
+Total pot 1495 | No rake
+Seat 5: Chinito2410 (button) won 1495
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2987996644609359922-49-1696705942 - Holdem no limit (40/175/350) - 2023/10/07 19:12:22 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #1 is the button
+Seat 1: KiwiPrune (32108)
+Seat 2: P1xel7 (22985)
+Seat 3: TAPODUL13270 (12986)
+Seat 4: LunAA-TTiKKa (86474)
+Seat 5: Chinito2410 (67547)
+Seat 6: JoJoBar974 (20000)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+TAPODUL13270 posts ante 40
+KiwiPrune posts ante 40
+LunAA-TTiKKa posts ante 40
+Chinito2410 posts ante 40
+JoJoBar974 posts ante 40
+P1xel7 posts small blind 175
+TAPODUL13270 posts big blind 350
+Dealt to P1xel7 [Qc 5c]
+*** PRE-FLOP *** 
+LunAA-TTiKKa folds
+Chinito2410 folds
+JoJoBar974 folds
+KiwiPrune raises 700 to 1050
+P1xel7 folds
+TAPODUL13270 calls 700
+*** FLOP *** [Jc 7h 7s]
+TAPODUL13270 checks
+KiwiPrune bets 880
+TAPODUL13270 folds
+KiwiPrune collected 3395 from pot
+*** SUMMARY ***
+Total pot 3395 | No rake
+Board: [Jc 7h 7s]
+Seat 1: KiwiPrune (button) won 3395
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2987996644609359922-50-1696705983 - Holdem no limit (40/175/350) - 2023/10/07 19:13:03 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #2 is the button
+Seat 1: KiwiPrune (33533)
+Seat 2: P1xel7 (22770)
+Seat 3: TAPODUL13270 (11896)
+Seat 4: LunAA-TTiKKa (86434)
+Seat 5: Chinito2410 (67507)
+Seat 6: JoJoBar974 (19960)
+*** ANTE/BLINDS ***
+TAPODUL13270 posts ante 40
+LunAA-TTiKKa posts ante 40
+KiwiPrune posts ante 40
+P1xel7 posts ante 40
+Chinito2410 posts ante 40
+JoJoBar974 posts ante 40
+TAPODUL13270 posts small blind 175
+LunAA-TTiKKa posts big blind 350
+Dealt to P1xel7 [Qc 8c]
+*** PRE-FLOP *** 
+Chinito2410 folds
+JoJoBar974 folds
+KiwiPrune folds
+P1xel7 raises 420 to 770
+TAPODUL13270 calls 595
+LunAA-TTiKKa calls 420
+*** FLOP *** [8d Qh 9c]
+TAPODUL13270 checks
+LunAA-TTiKKa checks
+P1xel7 bets 770
+TAPODUL13270 calls 770
+LunAA-TTiKKa folds
+*** TURN *** [8d Qh 9c][Kd]
+TAPODUL13270 checks
+P1xel7 bets 1225
+TAPODUL13270 calls 1225
+*** RIVER *** [8d Qh 9c Kd][4d]
+TAPODUL13270 bets 9091 and is all-in
+P1xel7 calls 9091
+*** SHOW DOWN ***
+P1xel7 shows [Qc 8c] (Two pairs : Queens and 8)
+TAPODUL13270 shows [3d 9d] (Flush King high)
+TAPODUL13270 collected 24722 from pot
+*** SUMMARY ***
+Total pot 24722 | No rake
+Board: [8d Qh 9c Kd 4d]
+Seat 2: P1xel7 (button) showed [Qc 8c] and lost with Two pairs : Queens and 8
+Seat 3: TAPODUL13270 (small blind) showed [3d 9d] and won 24722 with Flush King high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2987996644609359922-51-1696706111 - Holdem no limit (40/175/350) - 2023/10/07 19:15:11 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #3 is the button
+Seat 1: KiwiPrune (33493)
+Seat 2: P1xel7 (10874)
+Seat 3: TAPODUL13270 (24722)
+Seat 4: LunAA-TTiKKa (85624)
+Seat 5: Chinito2410 (67467)
+Seat 6: JoJoBar974 (19920)
+*** ANTE/BLINDS ***
+LunAA-TTiKKa posts ante 40
+Chinito2410 posts ante 40
+KiwiPrune posts ante 40
+P1xel7 posts ante 40
+TAPODUL13270 posts ante 40
+JoJoBar974 posts ante 40
+LunAA-TTiKKa posts small blind 175
+Chinito2410 posts big blind 350
+Dealt to P1xel7 [7h 4h]
+*** PRE-FLOP *** 
+JoJoBar974 folds
+KiwiPrune raises 700 to 1050
+P1xel7 folds
+TAPODUL13270 folds
+LunAA-TTiKKa folds
+Chinito2410 raises 3150 to 4200
+KiwiPrune calls 3150
+*** FLOP *** [Kd 8d 8c]
+Chinito2410 bets 3085
+KiwiPrune raises 5950 to 9035
+Chinito2410 folds
+KiwiPrune collected 20935 from pot
+*** SUMMARY ***
+Total pot 20935 | No rake
+Board: [Kd 8d 8c]
+Seat 1: KiwiPrune won 20935
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2987996644609359922-52-1696706188 - Holdem no limit (40/175/350) - 2023/10/07 19:16:28 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #4 is the button
+Seat 1: KiwiPrune (41153)
+Seat 2: P1xel7 (10834)
+Seat 3: TAPODUL13270 (24682)
+Seat 4: LunAA-TTiKKa (85409)
+Seat 5: Chinito2410 (60142)
+Seat 6: JoJoBar974 (19880)
+*** ANTE/BLINDS ***
+Chinito2410 posts ante 40
+JoJoBar974 posts ante 40
+KiwiPrune posts ante 40
+P1xel7 posts ante 40
+TAPODUL13270 posts ante 40
+LunAA-TTiKKa posts ante 40
+Chinito2410 posts small blind 175
+JoJoBar974 posts big blind 350
+Dealt to P1xel7 [7d 2s]
+*** PRE-FLOP *** 
+KiwiPrune folds
+P1xel7 folds
+TAPODUL13270 folds
+LunAA-TTiKKa raises 525 to 875
+Chinito2410 folds
+JoJoBar974 folds
+LunAA-TTiKKa collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Seat 4: LunAA-TTiKKa (button) won 1640
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2987996644609359922-53-1696706214 - Holdem no limit (40/175/350) - 2023/10/07 19:16:54 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #5 is the button
+Seat 1: KiwiPrune (41113)
+Seat 2: P1xel7 (10794)
+Seat 3: TAPODUL13270 (24642)
+Seat 4: LunAA-TTiKKa (86134)
+Seat 5: Chinito2410 (59927)
+Seat 6: JoJoBar974 (19490)
+*** ANTE/BLINDS ***
+JoJoBar974 posts ante 40
+KiwiPrune posts ante 40
+P1xel7 posts ante 40
+TAPODUL13270 posts ante 40
+LunAA-TTiKKa posts ante 40
+Chinito2410 posts ante 40
+JoJoBar974 posts small blind 175
+KiwiPrune posts big blind 350
+Dealt to P1xel7 [6s Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+TAPODUL13270 calls 350
+LunAA-TTiKKa folds
+Chinito2410 raises 1225 to 1575
+JoJoBar974 folds
+KiwiPrune folds
+TAPODUL13270 calls 1225
+*** FLOP *** [4s Qc Kd]
+TAPODUL13270 checks
+Chinito2410 bets 1370
+TAPODUL13270 folds
+Chinito2410 collected 5285 from pot
+*** SUMMARY ***
+Total pot 5285 | No rake
+Board: [4s Qc Kd]
+Seat 5: Chinito2410 (button) won 5285
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #2987996644609359922-54-1696706280 - Holdem no limit (50/200/400) - 2023/10/07 19:18:00 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #6 is the button
+Seat 1: KiwiPrune (40723)
+Seat 2: P1xel7 (10754)
+Seat 3: TAPODUL13270 (23027)
+Seat 4: LunAA-TTiKKa (86094)
+Seat 5: Chinito2410 (62227)
+Seat 6: JoJoBar974 (19275)
+*** ANTE/BLINDS ***
+KiwiPrune posts ante 50
+P1xel7 posts ante 50
+TAPODUL13270 posts ante 50
+LunAA-TTiKKa posts ante 50
+Chinito2410 posts ante 50
+JoJoBar974 posts ante 50
+KiwiPrune posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [3c Ts]
+*** PRE-FLOP *** 
+TAPODUL13270 folds
+LunAA-TTiKKa folds
+Chinito2410 raises 480 to 880
+JoJoBar974 folds
+KiwiPrune calls 680
+P1xel7 folds
+*** FLOP *** [2d 7d Ah]
+KiwiPrune checks
+Chinito2410 bets 861
+KiwiPrune calls 861
+*** TURN *** [2d 7d Ah][Kd]
+KiwiPrune checks
+Chinito2410 bets 1882
+KiwiPrune calls 1882
+*** RIVER *** [2d 7d Ah Kd][Ac]
+KiwiPrune checks
+Chinito2410 checks
+*** SHOW DOWN ***
+KiwiPrune shows [4d 4c] (Two pairs : Aces and 4)
+Chinito2410 shows [6d Kc] (Two pairs : Aces and Kings)
+Chinito2410 collected 7946 from pot
+*** SUMMARY ***
+Total pot 7946 | No rake
+Board: [2d 7d Ah Kd Ac]
+Seat 1: KiwiPrune (small blind) showed [4d 4c] and lost with Two pairs : Aces and 4
+Seat 5: Chinito2410 showed [6d Kc] and won 7946 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #2987996644609359922-55-1696706344 - Holdem no limit (50/200/400) - 2023/10/07 19:19:04 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #1 is the button
+Seat 1: KiwiPrune (37050)
+Seat 2: P1xel7 (10304)
+Seat 3: TAPODUL13270 (22977)
+Seat 4: LunAA-TTiKKa (86044)
+Seat 5: Chinito2410 (66500)
+Seat 6: JoJoBar974 (19225)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+TAPODUL13270 posts ante 50
+KiwiPrune posts ante 50
+LunAA-TTiKKa posts ante 50
+Chinito2410 posts ante 50
+JoJoBar974 posts ante 50
+P1xel7 posts small blind 200
+TAPODUL13270 posts big blind 400
+Dealt to P1xel7 [5s 8s]
+*** PRE-FLOP *** 
+LunAA-TTiKKa folds
+Chinito2410 raises 480 to 880
+JoJoBar974 calls 880
+KiwiPrune calls 880
+P1xel7 folds
+TAPODUL13270 calls 480
+*** FLOP *** [7s Jd 7c]
+TAPODUL13270 checks
+Chinito2410 checks
+JoJoBar974 checks
+KiwiPrune bets 1200
+TAPODUL13270 calls 1200
+Chinito2410 folds
+JoJoBar974 folds
+*** TURN *** [7s Jd 7c][4d]
+TAPODUL13270 checks
+KiwiPrune bets 4173
+TAPODUL13270 folds
+KiwiPrune collected 10593 from pot
+*** SUMMARY ***
+Total pot 10593 | No rake
+Board: [7s Jd 7c 4d]
+Seat 1: KiwiPrune (button) won 10593
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #2987996644609359922-56-1696706466 - Holdem no limit (50/200/400) - 2023/10/07 19:21:06 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #2 is the button
+Seat 1: KiwiPrune (41340)
+Seat 2: P1xel7 (10054)
+Seat 3: TAPODUL13270 (20847)
+Seat 4: LunAA-TTiKKa (85994)
+Seat 5: Chinito2410 (65570)
+Seat 6: JoJoBar974 (18295)
+*** ANTE/BLINDS ***
+TAPODUL13270 posts ante 50
+LunAA-TTiKKa posts ante 50
+KiwiPrune posts ante 50
+P1xel7 posts ante 50
+Chinito2410 posts ante 50
+JoJoBar974 posts ante 50
+TAPODUL13270 posts small blind 200
+LunAA-TTiKKa posts big blind 400
+Dealt to P1xel7 [7d 9s]
+*** PRE-FLOP *** 
+Chinito2410 folds
+JoJoBar974 folds
+KiwiPrune folds
+P1xel7 folds
+TAPODUL13270 raises 1100 to 1500
+LunAA-TTiKKa folds
+TAPODUL13270 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | No rake
+Seat 3: TAPODUL13270 (small blind) won 2200
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #2987996644609359922-57-1696706500 - Holdem no limit (50/200/400) - 2023/10/07 19:21:40 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #3 is the button
+Seat 1: KiwiPrune (41290)
+Seat 2: P1xel7 (10004)
+Seat 3: TAPODUL13270 (21497)
+Seat 4: LunAA-TTiKKa (85544)
+Seat 5: Chinito2410 (65520)
+Seat 6: JoJoBar974 (18245)
+*** ANTE/BLINDS ***
+LunAA-TTiKKa posts ante 50
+Chinito2410 posts ante 50
+KiwiPrune posts ante 50
+P1xel7 posts ante 50
+TAPODUL13270 posts ante 50
+JoJoBar974 posts ante 50
+LunAA-TTiKKa posts small blind 200
+Chinito2410 posts big blind 400
+Dealt to P1xel7 [Kd 6c]
+*** PRE-FLOP *** 
+JoJoBar974 folds
+KiwiPrune raises 600 to 1000
+P1xel7 folds
+TAPODUL13270 folds
+LunAA-TTiKKa calls 800
+Chinito2410 calls 600
+*** FLOP *** [4d 3s 4h]
+LunAA-TTiKKa checks
+Chinito2410 checks
+KiwiPrune checks
+*** TURN *** [4d 3s 4h][7s]
+LunAA-TTiKKa bets 2145
+Chinito2410 folds
+KiwiPrune raises 4183 to 6328
+LunAA-TTiKKa raises 15956 to 22284
+KiwiPrune calls 15956
+*** RIVER *** [4d 3s 4h 7s][Qs]
+LunAA-TTiKKa bets 23934
+KiwiPrune calls 17956 and is all-in
+*** SHOW DOWN ***
+KiwiPrune shows [4c 5c] (Trips of 4)
+LunAA-TTiKKa shows [9s 9d] (Two pairs : 9 and 4)
+LunAA-TTiKKa collected 5978 from side pot 1
+KiwiPrune collected 83780 from main pot
+*** SUMMARY ***
+Total pot 89758 | No rake
+Board: [4d 3s 4h 7s Qs]
+Seat 1: KiwiPrune showed [4c 5c] and won 83780 with Trips of 4
+Seat 4: LunAA-TTiKKa (small blind) showed [9s 9d] and won 5978 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #2987996644609359922-58-1696706618 - Holdem no limit (50/200/400) - 2023/10/07 19:23:38 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #4 is the button
+Seat 1: KiwiPrune (83780)
+Seat 2: P1xel7 (9954)
+Seat 3: TAPODUL13270 (21447)
+Seat 4: LunAA-TTiKKa (44254)
+Seat 5: Chinito2410 (64470)
+Seat 6: JoJoBar974 (18195)
+*** ANTE/BLINDS ***
+Chinito2410 posts ante 50
+JoJoBar974 posts ante 50
+KiwiPrune posts ante 50
+P1xel7 posts ante 50
+TAPODUL13270 posts ante 50
+LunAA-TTiKKa posts ante 50
+Chinito2410 posts small blind 200
+JoJoBar974 posts big blind 400
+Dealt to P1xel7 [7d 8h]
+*** PRE-FLOP *** 
+KiwiPrune folds
+P1xel7 folds
+TAPODUL13270 calls 400
+LunAA-TTiKKa folds
+Chinito2410 folds
+JoJoBar974 checks
+*** FLOP *** [Kc 4d 7h]
+JoJoBar974 checks
+TAPODUL13270 checks
+*** TURN *** [Kc 4d 7h][Kd]
+JoJoBar974 checks
+TAPODUL13270 checks
+*** RIVER *** [Kc 4d 7h Kd][Ac]
+JoJoBar974 checks
+TAPODUL13270 checks
+*** SHOW DOWN ***
+JoJoBar974 shows [9s 3d] (One pair : Kings)
+TAPODUL13270 shows [Tc Qh] (One pair : Kings)
+TAPODUL13270 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [Kc 4d 7h Kd Ac]
+Seat 3: TAPODUL13270 showed [Tc Qh] and won 1300 with One pair : Kings
+Seat 6: JoJoBar974 (big blind) showed [9s 3d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #2987996644609359922-59-1696706723 - Holdem no limit (60/250/500) - 2023/10/07 19:25:23 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #5 is the button
+Seat 1: KiwiPrune (83730)
+Seat 2: P1xel7 (9904)
+Seat 3: TAPODUL13270 (22297)
+Seat 4: LunAA-TTiKKa (44204)
+Seat 5: Chinito2410 (64220)
+Seat 6: JoJoBar974 (17745)
+*** ANTE/BLINDS ***
+JoJoBar974 posts ante 60
+KiwiPrune posts ante 60
+P1xel7 posts ante 60
+TAPODUL13270 posts ante 60
+LunAA-TTiKKa posts ante 60
+Chinito2410 posts ante 60
+JoJoBar974 posts small blind 250
+KiwiPrune posts big blind 500
+Dealt to P1xel7 [Tc Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+TAPODUL13270 calls 500
+LunAA-TTiKKa folds
+Chinito2410 raises 600 to 1100
+JoJoBar974 folds
+KiwiPrune folds
+TAPODUL13270 calls 600
+*** FLOP *** [Kc Kd 2s]
+TAPODUL13270 checks
+Chinito2410 checks
+*** TURN *** [Kc Kd 2s][Ah]
+TAPODUL13270 checks
+Chinito2410 bets 1159
+TAPODUL13270 calls 1159
+*** RIVER *** [Kc Kd 2s Ah][7c]
+TAPODUL13270 checks
+Chinito2410 checks
+*** SHOW DOWN ***
+Chinito2410 shows [Js Qd] (One pair : Kings)
+TAPODUL13270 shows [5d 5c] (Two pairs : Kings and 5)
+TAPODUL13270 collected 5628 from pot
+*** SUMMARY ***
+Total pot 5628 | No rake
+Board: [Kc Kd 2s Ah 7c]
+Seat 3: TAPODUL13270 showed [5d 5c] and won 5628 with Two pairs : Kings and 5
+Seat 5: Chinito2410 (button) showed [Js Qd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #2987996644609359922-60-1696706814 - Holdem no limit (60/250/500) - 2023/10/07 19:26:54 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #6 is the button
+Seat 1: KiwiPrune (83170)
+Seat 2: P1xel7 (9844)
+Seat 3: TAPODUL13270 (25606)
+Seat 4: LunAA-TTiKKa (44144)
+Seat 5: Chinito2410 (61901)
+Seat 6: JoJoBar974 (17435)
+*** ANTE/BLINDS ***
+KiwiPrune posts ante 60
+P1xel7 posts ante 60
+TAPODUL13270 posts ante 60
+LunAA-TTiKKa posts ante 60
+Chinito2410 posts ante 60
+JoJoBar974 posts ante 60
+KiwiPrune posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [Kd 6c]
+*** PRE-FLOP *** 
+TAPODUL13270 calls 500
+LunAA-TTiKKa folds
+Chinito2410 folds
+JoJoBar974 folds
+KiwiPrune calls 250
+P1xel7 checks
+*** FLOP *** [8c 4h Tc]
+KiwiPrune checks
+P1xel7 checks
+TAPODUL13270 checks
+*** TURN *** [8c 4h Tc][6s]
+KiwiPrune checks
+P1xel7 bets 651
+TAPODUL13270 calls 651
+KiwiPrune calls 651
+*** RIVER *** [8c 4h Tc 6s][9d]
+KiwiPrune checks
+P1xel7 checks
+TAPODUL13270 checks
+*** SHOW DOWN ***
+KiwiPrune shows [5c 2d] (High card : Ten)
+TAPODUL13270 shows [2h 3h] (High card : Ten)
+P1xel7 shows [Kd 6c] (One pair : 6)
+P1xel7 collected 3813 from pot
+*** SUMMARY ***
+Total pot 3813 | No rake
+Board: [8c 4h Tc 6s 9d]
+Seat 1: KiwiPrune (small blind) showed [5c 2d] and lost with High card : Ten
+Seat 2: P1xel7 (big blind) showed [Kd 6c] and won 3813 with One pair : 6
+Seat 3: TAPODUL13270 showed [2h 3h] and lost with High card : Ten
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #2987996644609359922-61-1696706945 - Holdem no limit (60/250/500) - 2023/10/07 19:29:05 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #1 is the button
+Seat 1: KiwiPrune (81959)
+Seat 2: P1xel7 (12446)
+Seat 3: TAPODUL13270 (24395)
+Seat 4: LunAA-TTiKKa (44084)
+Seat 5: Chinito2410 (61841)
+Seat 6: JoJoBar974 (17375)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+TAPODUL13270 posts ante 60
+KiwiPrune posts ante 60
+LunAA-TTiKKa posts ante 60
+Chinito2410 posts ante 60
+JoJoBar974 posts ante 60
+P1xel7 posts small blind 250
+TAPODUL13270 posts big blind 500
+Dealt to P1xel7 [Jd Qs]
+*** PRE-FLOP *** 
+LunAA-TTiKKa folds
+Chinito2410 raises 600 to 1100
+JoJoBar974 calls 1100
+KiwiPrune folds
+P1xel7 calls 850
+TAPODUL13270 calls 600
+*** FLOP *** [Kd 5c 9c]
+P1xel7 checks
+TAPODUL13270 checks
+Chinito2410 checks
+JoJoBar974 bets 500
+P1xel7 calls 500
+TAPODUL13270 calls 500
+Chinito2410 calls 500
+*** TURN *** [Kd 5c 9c][7h]
+P1xel7 checks
+TAPODUL13270 checks
+Chinito2410 checks
+JoJoBar974 bets 2366
+P1xel7 folds
+TAPODUL13270 folds
+Chinito2410 folds
+JoJoBar974 collected 9126 from pot
+*** SUMMARY ***
+Total pot 9126 | No rake
+Board: [Kd 5c 9c 7h]
+Seat 6: JoJoBar974 won 9126
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2987996644609359922-62-1696707074 - Holdem no limit (70/300/600) - 2023/10/07 19:31:14 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #2 is the button
+Seat 1: KiwiPrune (81899)
+Seat 2: P1xel7 (10786)
+Seat 3: TAPODUL13270 (22735)
+Seat 4: LunAA-TTiKKa (44024)
+Seat 5: Chinito2410 (60181)
+Seat 6: JoJoBar974 (22475)
+*** ANTE/BLINDS ***
+TAPODUL13270 posts ante 70
+LunAA-TTiKKa posts ante 70
+KiwiPrune posts ante 70
+P1xel7 posts ante 70
+Chinito2410 posts ante 70
+JoJoBar974 posts ante 70
+TAPODUL13270 posts small blind 300
+LunAA-TTiKKa posts big blind 600
+Dealt to P1xel7 [Qc 9d]
+*** PRE-FLOP *** 
+Chinito2410 folds
+JoJoBar974 folds
+KiwiPrune raises 900 to 1500
+P1xel7 folds
+TAPODUL13270 folds
+LunAA-TTiKKa calls 900
+*** FLOP *** [Ts 7h 9h]
+LunAA-TTiKKa checks
+KiwiPrune bets 1302
+LunAA-TTiKKa raises 2511 to 3813
+KiwiPrune calls 2511
+*** TURN *** [Ts 7h 9h][2h]
+LunAA-TTiKKa bets 5673
+KiwiPrune calls 5673
+*** RIVER *** [Ts 7h 9h 2h][8d]
+LunAA-TTiKKa bets 14750
+KiwiPrune calls 14750
+*** SHOW DOWN ***
+KiwiPrune shows [Kh Js] (Straight Jack high)
+LunAA-TTiKKa shows [8s Jd] (Straight Jack high)
+LunAA-TTiKKa collected 26096 from pot
+KiwiPrune collected 26096 from pot
+*** SUMMARY ***
+Total pot 52192 | No rake
+Board: [Ts 7h 9h 2h 8d]
+Seat 1: KiwiPrune showed [Kh Js] and won 26096 with Straight Jack high
+Seat 4: LunAA-TTiKKa (big blind) showed [8s Jd] and won 26096 with Straight Jack high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2987996644609359922-63-1696707163 - Holdem no limit (70/300/600) - 2023/10/07 19:32:43 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #3 is the button
+Seat 1: KiwiPrune (82189)
+Seat 2: P1xel7 (10716)
+Seat 3: TAPODUL13270 (22365)
+Seat 4: LunAA-TTiKKa (44314)
+Seat 5: Chinito2410 (60111)
+Seat 6: JoJoBar974 (22405)
+*** ANTE/BLINDS ***
+LunAA-TTiKKa posts ante 70
+Chinito2410 posts ante 70
+KiwiPrune posts ante 70
+P1xel7 posts ante 70
+TAPODUL13270 posts ante 70
+JoJoBar974 posts ante 70
+LunAA-TTiKKa posts small blind 300
+Chinito2410 posts big blind 600
+Dealt to P1xel7 [5d As]
+*** PRE-FLOP *** 
+JoJoBar974 folds
+KiwiPrune folds
+P1xel7 raises 10046 to 10646 and is all-in
+TAPODUL13270 raises 11649 to 22295 and is all-in
+LunAA-TTiKKa folds
+Chinito2410 folds
+*** FLOP *** [9s 8h 8c]
+*** TURN *** [9s 8h 8c][3h]
+*** RIVER *** [9s 8h 8c 3h][Ah]
+*** SHOW DOWN ***
+P1xel7 shows [5d As] (Two pairs : Aces and 8)
+TAPODUL13270 shows [Qd Qs] (Two pairs : Queens and 8)
+TAPODUL13270 collected 11649 from side pot 1
+P1xel7 collected 22612 from main pot
+*** SUMMARY ***
+Total pot 34261 | No rake
+Board: [9s 8h 8c 3h Ah]
+Seat 2: P1xel7 showed [5d As] and won 22612 with Two pairs : Aces and 8
+Seat 3: TAPODUL13270 (button) showed [Qd Qs] and won 11649 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2987996644609359922-64-1696707220 - Holdem no limit (70/300/600) - 2023/10/07 19:33:40 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #4 is the button
+Seat 1: KiwiPrune (82119)
+Seat 2: P1xel7 (22612)
+Seat 3: TAPODUL13270 (11649)
+Seat 4: LunAA-TTiKKa (43944)
+Seat 5: Chinito2410 (59441)
+Seat 6: JoJoBar974 (22335)
+*** ANTE/BLINDS ***
+Chinito2410 posts ante 70
+JoJoBar974 posts ante 70
+KiwiPrune posts ante 70
+P1xel7 posts ante 70
+TAPODUL13270 posts ante 70
+LunAA-TTiKKa posts ante 70
+Chinito2410 posts small blind 300
+JoJoBar974 posts big blind 600
+Dealt to P1xel7 [9h 7c]
+*** PRE-FLOP *** 
+KiwiPrune raises 1200 to 1800
+P1xel7 folds
+TAPODUL13270 calls 1800
+LunAA-TTiKKa folds
+Chinito2410 calls 1500
+JoJoBar974 calls 1200
+*** FLOP *** [8d 2s 6c]
+Chinito2410 checks
+JoJoBar974 checks
+KiwiPrune bets 2667
+TAPODUL13270 folds
+Chinito2410 folds
+JoJoBar974 calls 2667
+*** TURN *** [8d 2s 6c][2c]
+JoJoBar974 checks
+KiwiPrune checks
+*** RIVER *** [8d 2s 6c 2c][5s]
+JoJoBar974 bets 4534
+KiwiPrune calls 4534
+*** SHOW DOWN ***
+KiwiPrune shows [Qs Ac] (One pair : 2)
+JoJoBar974 shows [6s 6h] (Full of 6 and 2)
+JoJoBar974 collected 22022 from pot
+*** SUMMARY ***
+Total pot 22022 | No rake
+Board: [8d 2s 6c 2c 5s]
+Seat 1: KiwiPrune showed [Qs Ac] and lost with One pair : 2
+Seat 6: JoJoBar974 (big blind) showed [6s 6h] and won 22022 with Full of 6 and 2
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2987996644609359922-65-1696707308 - Holdem no limit (70/300/600) - 2023/10/07 19:35:08 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #5 is the button
+Seat 1: KiwiPrune (73048)
+Seat 2: P1xel7 (22542)
+Seat 3: TAPODUL13270 (9779)
+Seat 4: LunAA-TTiKKa (43874)
+Seat 5: Chinito2410 (57571)
+Seat 6: JoJoBar974 (35286)
+*** ANTE/BLINDS ***
+JoJoBar974 posts ante 70
+KiwiPrune posts ante 70
+P1xel7 posts ante 70
+TAPODUL13270 posts ante 70
+LunAA-TTiKKa posts ante 70
+Chinito2410 posts ante 70
+JoJoBar974 posts small blind 300
+KiwiPrune posts big blind 600
+Dealt to P1xel7 [Td Tc]
+*** PRE-FLOP *** 
+P1xel7 raises 900 to 1500
+TAPODUL13270 folds
+LunAA-TTiKKa folds
+Chinito2410 raises 2700 to 4200
+JoJoBar974 folds
+KiwiPrune folds
+P1xel7 calls 2700
+*** FLOP *** [3d 3h 2s]
+P1xel7 checks
+Chinito2410 bets 3402
+P1xel7 raises 6561 to 9963
+Chinito2410 folds
+P1xel7 collected 23085 from pot
+*** SUMMARY ***
+Total pot 23085 | No rake
+Board: [3d 3h 2s]
+Seat 2: P1xel7 won 23085
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2987996644609359922-66-1696707392 - Holdem no limit (70/300/600) - 2023/10/07 19:36:32 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #6 is the button
+Seat 1: KiwiPrune (72378)
+Seat 2: P1xel7 (31394)
+Seat 3: TAPODUL13270 (9709)
+Seat 4: LunAA-TTiKKa (43804)
+Seat 5: Chinito2410 (49899)
+Seat 6: JoJoBar974 (34916)
+*** ANTE/BLINDS ***
+KiwiPrune posts ante 70
+P1xel7 posts ante 70
+TAPODUL13270 posts ante 70
+LunAA-TTiKKa posts ante 70
+Chinito2410 posts ante 70
+JoJoBar974 posts ante 70
+KiwiPrune posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [2d 8c]
+*** PRE-FLOP *** 
+TAPODUL13270 calls 600
+LunAA-TTiKKa raises 1500 to 2100
+Chinito2410 folds
+JoJoBar974 folds
+KiwiPrune calls 1800
+P1xel7 folds
+TAPODUL13270 calls 1500
+*** FLOP *** [Th 2c Ts]
+KiwiPrune checks
+TAPODUL13270 bets 7539 and is all-in
+LunAA-TTiKKa calls 7539
+KiwiPrune folds
+*** TURN *** [Th 2c Ts][5h]
+*** RIVER *** [Th 2c Ts 5h][5s]
+*** SHOW DOWN ***
+LunAA-TTiKKa shows [Ah Ac] (Two pairs : Aces and Tens)
+TAPODUL13270 shows [Ks Td] (Full of Tens and 5)
+TAPODUL13270 collected 22398 from pot
+*** SUMMARY ***
+Total pot 22398 | No rake
+Board: [Th 2c Ts 5h 5s]
+Seat 3: TAPODUL13270 showed [Ks Td] and won 22398 with Full of Tens and 5
+Seat 4: LunAA-TTiKKa showed [Ah Ac] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2987996644609359922-67-1696707442 - Holdem no limit (70/300/600) - 2023/10/07 19:37:22 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #1 is the button
+Seat 1: KiwiPrune (70208)
+Seat 2: P1xel7 (30724)
+Seat 3: TAPODUL13270 (22398)
+Seat 4: LunAA-TTiKKa (34095)
+Seat 5: Chinito2410 (49829)
+Seat 6: JoJoBar974 (34846)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+TAPODUL13270 posts ante 70
+KiwiPrune posts ante 70
+LunAA-TTiKKa posts ante 70
+Chinito2410 posts ante 70
+JoJoBar974 posts ante 70
+P1xel7 posts small blind 300
+TAPODUL13270 posts big blind 600
+Dealt to P1xel7 [Kc Ad]
+*** PRE-FLOP *** 
+LunAA-TTiKKa folds
+Chinito2410 folds
+JoJoBar974 folds
+KiwiPrune folds
+P1xel7 raises 900 to 1500
+TAPODUL13270 calls 900
+*** FLOP *** [9s 3h 3s]
+P1xel7 bets 1710
+TAPODUL13270 folds
+P1xel7 collected 5130 from pot
+*** SUMMARY ***
+Total pot 5130 | No rake
+Board: [9s 3h 3s]
+Seat 2: P1xel7 (small blind) won 5130
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #2987996644609359922-68-1696707483 - Holdem no limit (80/350/700) - 2023/10/07 19:38:03 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #2 is the button
+Seat 1: KiwiPrune (70138)
+Seat 2: P1xel7 (32574)
+Seat 3: TAPODUL13270 (20828)
+Seat 4: LunAA-TTiKKa (34025)
+Seat 5: Chinito2410 (49759)
+Seat 6: JoJoBar974 (34776)
+*** ANTE/BLINDS ***
+TAPODUL13270 posts ante 80
+LunAA-TTiKKa posts ante 80
+KiwiPrune posts ante 80
+P1xel7 posts ante 80
+Chinito2410 posts ante 80
+JoJoBar974 posts ante 80
+TAPODUL13270 posts small blind 350
+LunAA-TTiKKa posts big blind 700
+Dealt to P1xel7 [2h Qd]
+*** PRE-FLOP *** 
+Chinito2410 raises 840 to 1540
+JoJoBar974 folds
+KiwiPrune folds
+P1xel7 folds
+TAPODUL13270 calls 1190
+LunAA-TTiKKa folds
+*** FLOP *** [As 3s 6h]
+TAPODUL13270 checks
+Chinito2410 bets 1491
+TAPODUL13270 calls 1491
+*** TURN *** [As 3s 6h][Th]
+TAPODUL13270 checks
+Chinito2410 bets 3259
+TAPODUL13270 calls 3259
+*** RIVER *** [As 3s 6h Th][Ac]
+TAPODUL13270 checks
+Chinito2410 bets 8256
+TAPODUL13270 folds
+Chinito2410 collected 22016 from pot
+*** SUMMARY ***
+Total pot 22016 | No rake
+Board: [As 3s 6h Th Ac]
+Seat 5: Chinito2410 won 22016
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #2987996644609359922-69-1696707611 - Holdem no limit (80/350/700) - 2023/10/07 19:40:11 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #3 is the button
+Seat 1: KiwiPrune (70058)
+Seat 2: P1xel7 (32494)
+Seat 3: TAPODUL13270 (14458)
+Seat 4: LunAA-TTiKKa (33245)
+Seat 5: Chinito2410 (57149)
+Seat 6: JoJoBar974 (34696)
+*** ANTE/BLINDS ***
+LunAA-TTiKKa posts ante 80
+Chinito2410 posts ante 80
+KiwiPrune posts ante 80
+P1xel7 posts ante 80
+TAPODUL13270 posts ante 80
+JoJoBar974 posts ante 80
+LunAA-TTiKKa posts small blind 350
+Chinito2410 posts big blind 700
+Dealt to P1xel7 [6s 9h]
+*** PRE-FLOP *** 
+JoJoBar974 folds
+KiwiPrune raises 1400 to 2100
+P1xel7 folds
+TAPODUL13270 folds
+LunAA-TTiKKa folds
+Chinito2410 calls 1400
+*** FLOP *** [Qc 3d Jd]
+Chinito2410 checks
+KiwiPrune checks
+*** TURN *** [Qc 3d Jd][Td]
+Chinito2410 bets 1761
+KiwiPrune raises 3396 to 5157
+Chinito2410 calls 3396
+*** RIVER *** [Qc 3d Jd Td][3s]
+Chinito2410 checks
+KiwiPrune checks
+*** SHOW DOWN ***
+KiwiPrune shows [Ah 7d] (One pair : 3)
+Chinito2410 shows [Qh 7h] (Two pairs : Queens and 3)
+Chinito2410 collected 15344 from pot
+*** SUMMARY ***
+Total pot 15344 | No rake
+Board: [Qc 3d Jd Td 3s]
+Seat 1: KiwiPrune showed [Ah 7d] and lost with One pair : 3
+Seat 5: Chinito2410 (big blind) showed [Qh 7h] and won 15344 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #2987996644609359922-70-1696707694 - Holdem no limit (80/350/700) - 2023/10/07 19:41:34 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #4 is the button
+Seat 1: KiwiPrune (62721)
+Seat 2: P1xel7 (32414)
+Seat 3: TAPODUL13270 (14378)
+Seat 4: LunAA-TTiKKa (32815)
+Seat 5: Chinito2410 (65156)
+Seat 6: JoJoBar974 (34616)
+*** ANTE/BLINDS ***
+Chinito2410 posts ante 80
+JoJoBar974 posts ante 80
+KiwiPrune posts ante 80
+P1xel7 posts ante 80
+TAPODUL13270 posts ante 80
+LunAA-TTiKKa posts ante 80
+Chinito2410 posts small blind 350
+JoJoBar974 posts big blind 700
+Dealt to P1xel7 [4c 2c]
+*** PRE-FLOP *** 
+KiwiPrune folds
+P1xel7 folds
+TAPODUL13270 calls 700
+LunAA-TTiKKa folds
+Chinito2410 folds
+JoJoBar974 checks
+*** FLOP *** [3d Jc Qh]
+JoJoBar974 checks
+TAPODUL13270 checks
+*** TURN *** [3d Jc Qh][6d]
+JoJoBar974 checks
+TAPODUL13270 checks
+*** RIVER *** [3d Jc Qh 6d][Kh]
+JoJoBar974 checks
+TAPODUL13270 checks
+*** SHOW DOWN ***
+JoJoBar974 shows [8s 3h] (One pair : 3)
+TAPODUL13270 shows [6s 4s] (One pair : 6)
+TAPODUL13270 collected 2230 from pot
+*** SUMMARY ***
+Total pot 2230 | No rake
+Board: [3d Jc Qh 6d Kh]
+Seat 3: TAPODUL13270 showed [6s 4s] and won 2230 with One pair : 6
+Seat 6: JoJoBar974 (big blind) showed [8s 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #2987996644609359922-71-1696707748 - Holdem no limit (80/350/700) - 2023/10/07 19:42:28 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #5 is the button
+Seat 1: KiwiPrune (62641)
+Seat 2: P1xel7 (32334)
+Seat 3: TAPODUL13270 (15828)
+Seat 4: LunAA-TTiKKa (32735)
+Seat 5: Chinito2410 (64726)
+Seat 6: JoJoBar974 (33836)
+*** ANTE/BLINDS ***
+JoJoBar974 posts ante 80
+KiwiPrune posts ante 80
+P1xel7 posts ante 80
+TAPODUL13270 posts ante 80
+LunAA-TTiKKa posts ante 80
+Chinito2410 posts ante 80
+JoJoBar974 posts small blind 350
+KiwiPrune posts big blind 700
+Dealt to P1xel7 [2d 8c]
+*** PRE-FLOP *** 
+P1xel7 folds
+TAPODUL13270 folds
+LunAA-TTiKKa folds
+Chinito2410 folds
+JoJoBar974 folds
+KiwiPrune collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 1: KiwiPrune (big blind) won 1530
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #2987996644609359922-72-1696707769 - Holdem no limit (80/350/700) - 2023/10/07 19:42:49 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #6 is the button
+Seat 1: KiwiPrune (63391)
+Seat 2: P1xel7 (32254)
+Seat 3: TAPODUL13270 (15748)
+Seat 4: LunAA-TTiKKa (32655)
+Seat 5: Chinito2410 (64646)
+Seat 6: JoJoBar974 (33406)
+*** ANTE/BLINDS ***
+KiwiPrune posts ante 80
+P1xel7 posts ante 80
+TAPODUL13270 posts ante 80
+LunAA-TTiKKa posts ante 80
+Chinito2410 posts ante 80
+JoJoBar974 posts ante 80
+KiwiPrune posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [Ks 3s]
+*** PRE-FLOP *** 
+TAPODUL13270 folds
+LunAA-TTiKKa folds
+Chinito2410 folds
+JoJoBar974 folds
+KiwiPrune raises 1750 to 2450
+P1xel7 folds
+KiwiPrune collected 3630 from pot
+*** SUMMARY ***
+Total pot 3630 | No rake
+Seat 1: KiwiPrune (small blind) won 3630
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #2987996644609359922-73-1696707801 - Holdem no limit (80/350/700) - 2023/10/07 19:43:21 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #1 is the button
+Seat 1: KiwiPrune (64491)
+Seat 2: P1xel7 (31474)
+Seat 3: TAPODUL13270 (15668)
+Seat 4: LunAA-TTiKKa (32575)
+Seat 5: Chinito2410 (64566)
+Seat 6: JoJoBar974 (33326)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+TAPODUL13270 posts ante 80
+KiwiPrune posts ante 80
+LunAA-TTiKKa posts ante 80
+Chinito2410 posts ante 80
+JoJoBar974 posts ante 80
+P1xel7 posts small blind 350
+TAPODUL13270 posts big blind 700
+Dealt to P1xel7 [2c 4d]
+*** PRE-FLOP *** 
+LunAA-TTiKKa folds
+Chinito2410 raises 840 to 1540
+JoJoBar974 folds
+KiwiPrune calls 1540
+P1xel7 folds
+TAPODUL13270 calls 840
+*** FLOP *** [Ks 7c 3c]
+TAPODUL13270 checks
+Chinito2410 checks
+KiwiPrune checks
+*** TURN *** [Ks 7c 3c][Tc]
+TAPODUL13270 checks
+Chinito2410 bets 1908
+KiwiPrune calls 1908
+TAPODUL13270 calls 1908
+*** RIVER *** [Ks 7c 3c Tc][Th]
+TAPODUL13270 checks
+Chinito2410 bets 11174
+KiwiPrune folds
+TAPODUL13270 folds
+Chinito2410 collected 22348 from pot
+*** SUMMARY ***
+Total pot 22348 | No rake
+Board: [Ks 7c 3c Tc Th]
+Seat 5: Chinito2410 won 22348
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #2987996644609359922-74-1696707881 - Holdem no limit (80/350/700) - 2023/10/07 19:44:41 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #2 is the button
+Seat 1: KiwiPrune (60963)
+Seat 2: P1xel7 (31044)
+Seat 3: TAPODUL13270 (12140)
+Seat 4: LunAA-TTiKKa (32495)
+Seat 5: Chinito2410 (72212)
+Seat 6: JoJoBar974 (33246)
+*** ANTE/BLINDS ***
+TAPODUL13270 posts ante 80
+LunAA-TTiKKa posts ante 80
+KiwiPrune posts ante 80
+P1xel7 posts ante 80
+Chinito2410 posts ante 80
+JoJoBar974 posts ante 80
+TAPODUL13270 posts small blind 350
+LunAA-TTiKKa posts big blind 700
+Dealt to P1xel7 [Tc Ts]
+*** PRE-FLOP *** 
+Chinito2410 raises 840 to 1540
+JoJoBar974 folds
+KiwiPrune folds
+P1xel7 calls 1540
+TAPODUL13270 calls 1190
+LunAA-TTiKKa folds
+*** FLOP *** [7c 9h 4s]
+TAPODUL13270 checks
+Chinito2410 bets 2030
+P1xel7 raises 7482 to 9512
+TAPODUL13270 raises 1008 to 10520 and is all-in
+Chinito2410 raises 60072 to 70592 and is all-in
+P1xel7 folds
+*** TURN *** [7c 9h 4s][Jh]
+*** RIVER *** [7c 9h 4s Jh][Ac]
+*** SHOW DOWN ***
+TAPODUL13270 shows [Th 7s] (One pair : 7)
+Chinito2410 shows [9c Ad] (Two pairs : Aces and 9)
+Chinito2410 collected 96424 from pot
+*** SUMMARY ***
+Total pot 96424 | No rake
+Board: [7c 9h 4s Jh Ac]
+Seat 3: TAPODUL13270 (small blind) showed [Th 7s] and lost with One pair : 7
+Seat 5: Chinito2410 showed [9c Ad] and won 96424 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #2987996644609359922-75-1696707965 - Holdem no limit (100/400/800) - 2023/10/07 19:46:05 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #3 is the button
+Seat 1: KiwiPrune (60883)
+Seat 2: P1xel7 (19912)
+Seat 4: LunAA-TTiKKa (31715)
+Seat 5: Chinito2410 (96424)
+Seat 6: JoJoBar974 (33166)
+*** ANTE/BLINDS ***
+LunAA-TTiKKa posts ante 100
+Chinito2410 posts ante 100
+KiwiPrune posts ante 100
+P1xel7 posts ante 100
+JoJoBar974 posts ante 100
+LunAA-TTiKKa posts small blind 400
+Chinito2410 posts big blind 800
+Dealt to P1xel7 [Jh 4h]
+*** PRE-FLOP *** 
+JoJoBar974 raises 1200 to 2000
+KiwiPrune folds
+P1xel7 folds
+LunAA-TTiKKa calls 1600
+Chinito2410 folds
+*** FLOP *** [6h 7c 9s]
+LunAA-TTiKKa checks
+JoJoBar974 checks
+*** TURN *** [6h 7c 9s][Qh]
+LunAA-TTiKKa checks
+JoJoBar974 checks
+*** RIVER *** [6h 7c 9s Qh][9h]
+LunAA-TTiKKa checks
+JoJoBar974 checks
+*** SHOW DOWN ***
+LunAA-TTiKKa shows [Js Ks] (One pair : 9)
+JoJoBar974 shows [Kc Ad] (One pair : 9)
+JoJoBar974 collected 5300 from pot
+*** SUMMARY ***
+Total pot 5300 | No rake
+Board: [6h 7c 9s Qh 9h]
+Seat 4: LunAA-TTiKKa (small blind) showed [Js Ks] and lost with One pair : 9
+Seat 6: JoJoBar974 showed [Kc Ad] and won 5300 with One pair : 9
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #2987996644609359922-76-1696708036 - Holdem no limit (100/400/800) - 2023/10/07 19:47:16 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #4 is the button
+Seat 1: KiwiPrune (60783)
+Seat 2: P1xel7 (19812)
+Seat 4: LunAA-TTiKKa (29615)
+Seat 5: Chinito2410 (95524)
+Seat 6: JoJoBar974 (36366)
+*** ANTE/BLINDS ***
+Chinito2410 posts ante 100
+JoJoBar974 posts ante 100
+KiwiPrune posts ante 100
+P1xel7 posts ante 100
+LunAA-TTiKKa posts ante 100
+Chinito2410 posts small blind 400
+JoJoBar974 posts big blind 800
+Dealt to P1xel7 [Jc 2s]
+*** PRE-FLOP *** 
+KiwiPrune folds
+P1xel7 folds
+LunAA-TTiKKa folds
+Chinito2410 raises 2000 to 2800
+JoJoBar974 folds
+Chinito2410 collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | No rake
+Seat 5: Chinito2410 (small blind) won 4100
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #2987996644609359922-77-1696708065 - Holdem no limit (100/400/800) - 2023/10/07 19:47:45 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #5 is the button
+Seat 1: KiwiPrune (60683)
+Seat 2: P1xel7 (19712)
+Seat 4: LunAA-TTiKKa (29515)
+Seat 5: Chinito2410 (96724)
+Seat 6: JoJoBar974 (35466)
+*** ANTE/BLINDS ***
+JoJoBar974 posts ante 100
+KiwiPrune posts ante 100
+P1xel7 posts ante 100
+LunAA-TTiKKa posts ante 100
+Chinito2410 posts ante 100
+JoJoBar974 posts small blind 400
+KiwiPrune posts big blind 800
+Dealt to P1xel7 [7s 7d]
+*** PRE-FLOP *** 
+P1xel7 raises 960 to 1760
+LunAA-TTiKKa folds
+Chinito2410 calls 1760
+JoJoBar974 folds
+KiwiPrune calls 960
+*** FLOP *** [Qh 2s 9c]
+KiwiPrune checks
+P1xel7 bets 3090
+Chinito2410 calls 3090
+KiwiPrune raises 8961 to 12051
+P1xel7 folds
+Chinito2410 folds
+KiwiPrune collected 24411 from pot
+*** SUMMARY ***
+Total pot 24411 | No rake
+Board: [Qh 2s 9c]
+Seat 1: KiwiPrune (big blind) won 24411
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #2987996644609359922-78-1696708156 - Holdem no limit (100/400/800) - 2023/10/07 19:49:16 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #6 is the button
+Seat 1: KiwiPrune (71183)
+Seat 2: P1xel7 (14762)
+Seat 4: LunAA-TTiKKa (29415)
+Seat 5: Chinito2410 (91774)
+Seat 6: JoJoBar974 (34966)
+*** ANTE/BLINDS ***
+KiwiPrune posts ante 100
+P1xel7 posts ante 100
+LunAA-TTiKKa posts ante 100
+Chinito2410 posts ante 100
+JoJoBar974 posts ante 100
+KiwiPrune posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [Qs 2h]
+*** PRE-FLOP *** 
+LunAA-TTiKKa folds
+Chinito2410 raises 960 to 1760
+JoJoBar974 folds
+KiwiPrune raises 6420 to 8180
+P1xel7 folds
+Chinito2410 folds
+KiwiPrune collected 11240 from pot
+*** SUMMARY ***
+Total pot 11240 | No rake
+Seat 1: KiwiPrune (small blind) won 11240
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #2987996644609359922-79-1696708210 - Holdem no limit (100/400/800) - 2023/10/07 19:50:10 UTC
+Table: 'MYSTERY KO(695697182)#0049' 6-max (real money) Seat #1 is the button
+Seat 1: KiwiPrune (74143)
+Seat 2: P1xel7 (13862)
+Seat 3: AsSheitan (20000)
+Seat 4: LunAA-TTiKKa (29315)
+Seat 5: Chinito2410 (89914)
+Seat 6: JoJoBar974 (34866)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+AsSheitan posts ante 100
+KiwiPrune posts ante 100
+LunAA-TTiKKa posts ante 100
+Chinito2410 posts ante 100
+JoJoBar974 posts ante 100
+P1xel7 posts small blind 400
+AsSheitan posts big blind 800
+Dealt to P1xel7 [6c 6d]
+*** PRE-FLOP *** 
+LunAA-TTiKKa folds
+Chinito2410 raises 960 to 1760
+JoJoBar974 folds
+KiwiPrune calls 1760
+P1xel7 raises 12002 to 13762 and is all-in
+AsSheitan folds
+Chinito2410 folds
+KiwiPrune calls 12002
+*** FLOP *** [Kh Kc Tc]
+*** TURN *** [Kh Kc Tc][Ac]
+*** RIVER *** [Kh Kc Tc Ac][2h]
+*** SHOW DOWN ***
+P1xel7 shows [6c 6d] (Two pairs : Kings and 6)
+KiwiPrune shows [Ad 4c] (Two pairs : Aces and Kings)
+KiwiPrune collected 30684 from pot
+*** SUMMARY ***
+Total pot 30684 | No rake
+Board: [Kh Kc Tc Ac 2h]
+Seat 1: KiwiPrune (button) showed [Ad 4c] and won 30684 with Two pairs : Aces and Kings
+Seat 2: P1xel7 (small blind) showed [6c 6d] and lost with Two pairs : Kings and 6
+
+

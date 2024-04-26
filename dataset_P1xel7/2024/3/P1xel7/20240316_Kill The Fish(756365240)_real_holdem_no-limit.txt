@@ -1,0 +1,2325 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3248563969631191058-36-1710606219 - Holdem no limit (35/150/300) - 2024/03/16 16:23:39 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #5 is the button
+Seat 1: nito59250 (50805, 0.67€ bounty)
+Seat 2: AA SalaGaDou (23045, 0.67€ bounty)
+Seat 3: Vodagua (46111, 0.67€ bounty)
+Seat 4: P1xel7 (20000, 0.45€ bounty)
+Seat 6: Louzoe23 (40664, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 35
+nito59250 posts ante 35
+AA SalaGaDou posts ante 35
+Vodagua posts ante 35
+P1xel7 posts ante 35
+Louzoe23 posts small blind 150
+nito59250 posts big blind 300
+Dealt to P1xel7 [8d 2c]
+*** PRE-FLOP *** 
+AA SalaGaDou raises 300 to 600
+Vodagua folds
+P1xel7 folds
+Louzoe23 calls 450
+nito59250 calls 300
+*** FLOP *** [6s Qs 3d]
+Louzoe23 checks
+nito59250 checks
+AA SalaGaDou bets 691
+Louzoe23 calls 691
+nito59250 calls 691
+*** TURN *** [6s Qs 3d][6d]
+Louzoe23 checks
+nito59250 checks
+AA SalaGaDou checks
+*** RIVER *** [6s Qs 3d 6d][Ah]
+Louzoe23 bets 2024
+nito59250 folds
+AA SalaGaDou folds
+Louzoe23 collected 6072 from pot
+*** SUMMARY ***
+Total pot 6072 | No rake
+Board: [6s Qs 3d 6d Ah]
+Seat 6: Louzoe23 (small blind) won 6072
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3248563969631191058-37-1710606270 - Holdem no limit (35/150/300) - 2024/03/16 16:24:30 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 1: nito59250 (49479, 0.67€ bounty)
+Seat 2: AA SalaGaDou (21719, 0.67€ bounty)
+Seat 3: Vodagua (46076, 0.67€ bounty)
+Seat 4: P1xel7 (19965, 0.45€ bounty)
+Seat 6: Louzoe23 (43386, 0.67€ bounty)
+*** ANTE/BLINDS ***
+nito59250 posts ante 35
+AA SalaGaDou posts ante 35
+Vodagua posts ante 35
+P1xel7 posts ante 35
+Louzoe23 posts ante 35
+nito59250 posts small blind 150
+AA SalaGaDou posts big blind 300
+Dealt to P1xel7 [6h 3c]
+*** PRE-FLOP *** 
+Vodagua raises 300 to 600
+P1xel7 folds
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou calls 300
+*** FLOP *** [4s 2c Qc]
+AA SalaGaDou checks
+Vodagua checks
+*** TURN *** [4s 2c Qc][Th]
+AA SalaGaDou bets 534
+Vodagua calls 534
+*** RIVER *** [4s 2c Qc Th][Qd]
+AA SalaGaDou bets 1297
+Vodagua calls 1297
+*** SHOW DOWN ***
+AA SalaGaDou shows [Kh Js] (One pair : Queens)
+Vodagua shows [Jd Ah] (One pair : Queens)
+Vodagua collected 5187 from pot
+*** SUMMARY ***
+Total pot 5187 | No rake
+Board: [4s 2c Qc Th Qd]
+Seat 2: AA SalaGaDou (big blind) showed [Kh Js] and lost with One pair : Queens
+Seat 3: Vodagua showed [Jd Ah] and won 5187 with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3248563969631191058-38-1710606305 - Holdem no limit (35/150/300) - 2024/03/16 16:25:05 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #1 is the button
+Seat 1: nito59250 (49294, 0.67€ bounty)
+Seat 2: AA SalaGaDou (19253, 0.67€ bounty)
+Seat 3: Vodagua (48797, 0.67€ bounty)
+Seat 4: P1xel7 (19930, 0.45€ bounty)
+Seat 6: Louzoe23 (43351, 0.67€ bounty)
+*** ANTE/BLINDS ***
+AA SalaGaDou posts ante 35
+Vodagua posts ante 35
+nito59250 posts ante 35
+P1xel7 posts ante 35
+Louzoe23 posts ante 35
+AA SalaGaDou posts small blind 150
+Vodagua posts big blind 300
+Dealt to P1xel7 [7c Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou raises 300 to 600
+Vodagua calls 300
+*** FLOP *** [Qc 5d 3s]
+AA SalaGaDou bets 688
+Vodagua raises 2063 to 2751
+AA SalaGaDou calls 2063
+*** TURN *** [Qc 5d 3s][4d]
+AA SalaGaDou bets 3439
+Vodagua calls 3439
+*** RIVER *** [Qc 5d 3s 4d][As]
+AA SalaGaDou bets 12428 and is all-in
+Vodagua calls 12428
+*** SHOW DOWN ***
+Vodagua shows [Qs 6s] (One pair : Queens)
+AA SalaGaDou shows [3h 4h] (Two pairs : 4 and 3)
+AA SalaGaDou collected 38611 from pot
+*** SUMMARY ***
+Total pot 38611 | No rake
+Board: [Qc 5d 3s 4d As]
+Seat 2: AA SalaGaDou (small blind) showed [3h 4h] and won 38611 with Two pairs : 4 and 3
+Seat 3: Vodagua (big blind) showed [Qs 6s] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3248563969631191058-39-1710606343 - Holdem no limit (35/150/300) - 2024/03/16 16:25:43 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #2 is the button
+Seat 1: nito59250 (49259, 0.67€ bounty)
+Seat 2: AA SalaGaDou (38611, 0.67€ bounty)
+Seat 3: Vodagua (29544, 0.67€ bounty)
+Seat 4: P1xel7 (19895, 0.45€ bounty)
+Seat 6: Louzoe23 (43316, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vodagua posts ante 35
+P1xel7 posts ante 35
+nito59250 posts ante 35
+AA SalaGaDou posts ante 35
+Louzoe23 posts ante 35
+Vodagua posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [4d Qc]
+*** PRE-FLOP *** 
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou raises 38276 to 38576 and is all-in
+Vodagua folds
+P1xel7 folds
+AA SalaGaDou collected 39201 from pot
+*** SUMMARY ***
+Total pot 39201 | No rake
+Seat 2: AA SalaGaDou (button) won 39201
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3248563969631191058-40-1710606356 - Holdem no limit (35/150/300) - 2024/03/16 16:25:56 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #3 is the button
+Seat 1: nito59250 (49224, 0.67€ bounty)
+Seat 2: AA SalaGaDou (39201, 0.67€ bounty)
+Seat 3: Vodagua (29359, 0.67€ bounty)
+Seat 4: P1xel7 (19560, 0.45€ bounty)
+Seat 6: Louzoe23 (43281, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Louzoe23 posts ante 35
+nito59250 posts ante 35
+AA SalaGaDou posts ante 35
+Vodagua posts ante 35
+P1xel7 posts small blind 150
+Louzoe23 posts big blind 300
+Dealt to P1xel7 [8h Js]
+*** PRE-FLOP *** 
+nito59250 folds
+AA SalaGaDou raises 300 to 600
+Vodagua calls 600
+P1xel7 folds
+Louzoe23 calls 300
+*** FLOP *** [2d 8c 7d]
+Louzoe23 checks
+AA SalaGaDou checks
+Vodagua bets 28724 and is all-in
+Louzoe23 folds
+AA SalaGaDou folds
+Vodagua collected 30849 from pot
+*** SUMMARY ***
+Total pot 30849 | No rake
+Board: [2d 8c 7d]
+Seat 3: Vodagua (button) won 30849
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3248563969631191058-41-1710606389 - Holdem no limit (40/175/350) - 2024/03/16 16:26:29 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #4 is the button
+Seat 1: nito59250 (49189, 0.67€ bounty)
+Seat 2: AA SalaGaDou (38566, 0.67€ bounty)
+Seat 3: Vodagua (30849, 0.67€ bounty)
+Seat 4: P1xel7 (19375, 0.45€ bounty)
+Seat 5: Zyckers80 (20000, 0.45€ bounty)
+Seat 6: Louzoe23 (42646, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 40
+nito59250 posts ante 40
+AA SalaGaDou posts ante 40
+Vodagua posts ante 40
+P1xel7 posts ante 40
+Louzoe23 posts small blind 175
+nito59250 posts big blind 350
+Dealt to P1xel7 [2h Jh]
+*** PRE-FLOP *** 
+AA SalaGaDou folds
+Vodagua folds
+P1xel7 folds
+Louzoe23 calls 175
+nito59250 raises 700 to 1050
+Louzoe23 folds
+nito59250 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Seat 1: nito59250 (big blind) won 1600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3248563969631191058-42-1710606414 - Holdem no limit (40/175/350) - 2024/03/16 16:26:54 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 1: nito59250 (49699, 0.67€ bounty)
+Seat 2: AA SalaGaDou (38526, 0.67€ bounty)
+Seat 3: Vodagua (30809, 0.67€ bounty)
+Seat 4: P1xel7 (19335, 0.45€ bounty)
+Seat 5: Zyckers80 (20000, 0.45€ bounty)
+Seat 6: Louzoe23 (42256, 0.67€ bounty)
+*** ANTE/BLINDS ***
+nito59250 posts ante 40
+AA SalaGaDou posts ante 40
+Vodagua posts ante 40
+P1xel7 posts ante 40
+Zyckers80 posts ante 40
+Louzoe23 posts ante 40
+nito59250 posts small blind 175
+AA SalaGaDou posts big blind 350
+Dealt to P1xel7 [Jh 5c]
+*** PRE-FLOP *** 
+Vodagua calls 350
+P1xel7 folds
+Zyckers80 folds
+Louzoe23 calls 350
+nito59250 calls 175
+AA SalaGaDou checks
+*** FLOP *** [Ac Qc 8h]
+nito59250 checks
+AA SalaGaDou bets 574
+Vodagua folds
+Louzoe23 folds
+nito59250 calls 574
+*** TURN *** [Ac Qc 8h][6c]
+nito59250 checks
+AA SalaGaDou bets 976
+nito59250 calls 976
+*** RIVER *** [Ac Qc 8h 6c][7c]
+nito59250 bets 4740
+AA SalaGaDou folds
+nito59250 collected 9480 from pot
+*** SUMMARY ***
+Total pot 9480 | No rake
+Board: [Ac Qc 8h 6c 7c]
+Seat 1: nito59250 (small blind) won 9480
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3248563969631191058-43-1710606470 - Holdem no limit (40/175/350) - 2024/03/16 16:27:50 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #1 is the button
+Seat 1: nito59250 (52499, 0.67€ bounty)
+Seat 2: AA SalaGaDou (36586, 0.67€ bounty)
+Seat 3: Vodagua (30419, 0.67€ bounty)
+Seat 4: P1xel7 (19295, 0.45€ bounty)
+Seat 5: Zyckers80 (19960, 0.45€ bounty)
+Seat 6: Louzoe23 (41866, 0.67€ bounty)
+*** ANTE/BLINDS ***
+AA SalaGaDou posts ante 40
+Vodagua posts ante 40
+nito59250 posts ante 40
+P1xel7 posts ante 40
+Zyckers80 posts ante 40
+Louzoe23 posts ante 40
+AA SalaGaDou posts small blind 175
+Vodagua posts big blind 350
+Dealt to P1xel7 [8d 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Zyckers80 calls 350
+Louzoe23 calls 350
+nito59250 folds
+AA SalaGaDou raises 36196 to 36546 and is all-in
+Vodagua calls 30029 and is all-in
+Zyckers80 folds
+Louzoe23 folds
+*** FLOP *** [2h 7c Qd]
+*** TURN *** [2h 7c Qd][4d]
+*** RIVER *** [2h 7c Qd 4d][Tc]
+*** SHOW DOWN ***
+Vodagua shows [As Kc] (High card : Ace)
+AA SalaGaDou shows [Qc Qs] (Trips of Queens)
+AA SalaGaDou collected 67865 from pot
+*** SUMMARY ***
+Total pot 67865 | No rake
+Board: [2h 7c Qd 4d Tc]
+Seat 2: AA SalaGaDou (small blind) showed [Qc Qs] and won 67865 with Trips of Queens
+Seat 3: Vodagua (big blind) showed [As Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3248563969631191058-44-1710606493 - Holdem no limit (40/175/350) - 2024/03/16 16:28:13 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #2 is the button
+Seat 1: nito59250 (52459, 0.67€ bounty)
+Seat 2: AA SalaGaDou (67865, 1€ bounty)
+Seat 4: P1xel7 (19255, 0.45€ bounty)
+Seat 5: Zyckers80 (19570, 0.45€ bounty)
+Seat 6: Louzoe23 (41476, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+nito59250 posts ante 40
+AA SalaGaDou posts ante 40
+Zyckers80 posts ante 40
+Louzoe23 posts ante 40
+P1xel7 posts big blind 350
+Dealt to P1xel7 [5h Qh]
+*** PRE-FLOP *** 
+Zyckers80 calls 350
+Louzoe23 raises 525 to 875
+nito59250 calls 875
+AA SalaGaDou folds
+P1xel7 folds
+Zyckers80 calls 525
+*** FLOP *** [7s Ac Jd]
+Zyckers80 checks
+Louzoe23 bets 700
+nito59250 calls 700
+Zyckers80 folds
+*** TURN *** [7s Ac Jd][9c]
+Louzoe23 bets 875
+nito59250 calls 875
+*** RIVER *** [7s Ac Jd 9c][Kd]
+Louzoe23 bets 4111
+nito59250 folds
+Louzoe23 collected 10436 from pot
+*** SUMMARY ***
+Total pot 10436 | No rake
+Board: [7s Ac Jd 9c Kd]
+Seat 6: Louzoe23 won 10436
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3248563969631191058-45-1710606533 - Holdem no limit (40/175/350) - 2024/03/16 16:28:53 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #3 is the button
+Seat 1: nito59250 (49969, 0.67€ bounty)
+Seat 2: AA SalaGaDou (67825, 1€ bounty)
+Seat 3: BigHugz (20000, 0.45€ bounty)
+Seat 4: P1xel7 (18865, 0.45€ bounty)
+Seat 5: Zyckers80 (18655, 0.45€ bounty)
+Seat 6: Louzoe23 (45311, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Zyckers80 posts ante 40
+nito59250 posts ante 40
+AA SalaGaDou posts ante 40
+Louzoe23 posts ante 40
+P1xel7 posts small blind 175
+Zyckers80 posts big blind 350
+Dealt to P1xel7 [5s 3d]
+*** PRE-FLOP *** 
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou raises 350 to 700
+P1xel7 folds
+Zyckers80 calls 350
+*** FLOP *** [9s Ts 6h]
+Zyckers80 checks
+AA SalaGaDou bets 621
+Zyckers80 folds
+AA SalaGaDou collected 2396 from pot
+*** SUMMARY ***
+Total pot 2396 | No rake
+Board: [9s Ts 6h]
+Seat 2: AA SalaGaDou won 2396
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3248563969631191058-46-1710606551 - Holdem no limit (40/175/350) - 2024/03/16 16:29:11 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #4 is the button
+Seat 1: nito59250 (49929, 0.67€ bounty)
+Seat 2: AA SalaGaDou (68860, 1€ bounty)
+Seat 3: BigHugz (20000, 0.45€ bounty)
+Seat 4: P1xel7 (18650, 0.45€ bounty)
+Seat 5: Zyckers80 (17915, 0.45€ bounty)
+Seat 6: Louzoe23 (45271, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Zyckers80 posts ante 40
+Louzoe23 posts ante 40
+nito59250 posts ante 40
+AA SalaGaDou posts ante 40
+BigHugz posts ante 40
+P1xel7 posts ante 40
+Zyckers80 posts small blind 175
+Louzoe23 posts big blind 350
+Dealt to P1xel7 [2h 4h]
+*** PRE-FLOP *** 
+nito59250 calls 350
+AA SalaGaDou calls 350
+BigHugz folds
+P1xel7 folds
+Zyckers80 folds
+Louzoe23 checks
+*** FLOP *** [9c Qs 2c]
+Louzoe23 checks
+nito59250 bets 952
+AA SalaGaDou folds
+Louzoe23 folds
+nito59250 collected 2417 from pot
+*** SUMMARY ***
+Total pot 2417 | No rake
+Board: [9c Qs 2c]
+Seat 1: nito59250 won 2417
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3248563969631191058-47-1710606590 - Holdem no limit (40/175/350) - 2024/03/16 16:29:50 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #5 is the button
+Seat 1: nito59250 (51004, 0.67€ bounty)
+Seat 2: AA SalaGaDou (68470, 1€ bounty)
+Seat 3: BigHugz (19960, 0.45€ bounty)
+Seat 4: P1xel7 (18610, 0.45€ bounty)
+Seat 5: Zyckers80 (17700, 0.45€ bounty)
+Seat 6: Louzoe23 (44881, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 40
+nito59250 posts ante 40
+AA SalaGaDou posts ante 40
+BigHugz posts ante 40
+P1xel7 posts ante 40
+Zyckers80 posts ante 40
+Louzoe23 posts small blind 175
+nito59250 posts big blind 350
+Dealt to P1xel7 [2s Jd]
+*** PRE-FLOP *** 
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Zyckers80 calls 350
+Louzoe23 raises 350 to 700
+nito59250 calls 350
+Zyckers80 calls 350
+*** FLOP *** [Qs Tc As]
+Louzoe23 checks
+nito59250 checks
+Zyckers80 checks
+*** TURN *** [Qs Tc As][9d]
+Louzoe23 bets 1521
+nito59250 folds
+Zyckers80 folds
+Louzoe23 collected 3861 from pot
+*** SUMMARY ***
+Total pot 3861 | No rake
+Board: [Qs Tc As 9d]
+Seat 6: Louzoe23 (small blind) won 3861
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3248563969631191058-48-1710606641 - Holdem no limit (40/175/350) - 2024/03/16 16:30:41 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 1: nito59250 (50264, 0.67€ bounty)
+Seat 2: AA SalaGaDou (68430, 1€ bounty)
+Seat 3: BigHugz (19920, 0.45€ bounty)
+Seat 4: P1xel7 (18570, 0.45€ bounty)
+Seat 5: Zyckers80 (16960, 0.45€ bounty)
+Seat 6: Louzoe23 (46481, 0.67€ bounty)
+*** ANTE/BLINDS ***
+nito59250 posts ante 40
+AA SalaGaDou posts ante 40
+BigHugz posts ante 40
+P1xel7 posts ante 40
+Zyckers80 posts ante 40
+Louzoe23 posts ante 40
+nito59250 posts small blind 175
+AA SalaGaDou posts big blind 350
+Dealt to P1xel7 [6d 4c]
+*** PRE-FLOP *** 
+BigHugz folds
+P1xel7 folds
+Zyckers80 folds
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 2: AA SalaGaDou (big blind) won 765
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3248563969631191058-49-1710606660 - Holdem no limit (40/175/350) - 2024/03/16 16:31:00 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #1 is the button
+Seat 1: nito59250 (50049, 0.67€ bounty)
+Seat 2: AA SalaGaDou (68805, 1€ bounty)
+Seat 3: BigHugz (19880, 0.45€ bounty)
+Seat 4: P1xel7 (18530, 0.45€ bounty)
+Seat 5: Zyckers80 (16920, 0.45€ bounty)
+Seat 6: Louzoe23 (46441, 0.67€ bounty)
+*** ANTE/BLINDS ***
+AA SalaGaDou posts ante 40
+BigHugz posts ante 40
+nito59250 posts ante 40
+P1xel7 posts ante 40
+Zyckers80 posts ante 40
+Louzoe23 posts ante 40
+AA SalaGaDou posts small blind 175
+BigHugz posts big blind 350
+Dealt to P1xel7 [5h 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Zyckers80 raises 1115 to 1465
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou raises 67300 to 68765 and is all-in
+BigHugz folds
+Zyckers80 calls 15415 and is all-in
+*** FLOP *** [6h 3d 9c]
+*** TURN *** [6h 3d 9c][Jc]
+*** RIVER *** [6h 3d 9c Jc][7s]
+*** SHOW DOWN ***
+AA SalaGaDou shows [Qh Qc] (One pair : Queens)
+Zyckers80 shows [Tc 8d] (Straight Jack high)
+Zyckers80 collected 34350 from main pot
+AA SalaGaDou collected 51885 from side pot 1
+*** SUMMARY ***
+Total pot 86235 | No rake
+Board: [6h 3d 9c Jc 7s]
+Seat 2: AA SalaGaDou (small blind) showed [Qh Qc] and won 51885 with One pair : Queens
+Seat 5: Zyckers80 showed [Tc 8d] and won 34350 with Straight Jack high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3248563969631191058-50-1710606680 - Holdem no limit (50/200/400) - 2024/03/16 16:31:20 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #2 is the button
+Seat 1: nito59250 (50009, 0.67€ bounty)
+Seat 2: AA SalaGaDou (51885, 1€ bounty)
+Seat 3: BigHugz (19490, 0.45€ bounty)
+Seat 4: P1xel7 (18490, 0.45€ bounty)
+Seat 5: Zyckers80 (34350, 0.45€ bounty)
+Seat 6: Louzoe23 (46401, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BigHugz posts ante 50
+P1xel7 posts ante 50
+nito59250 posts ante 50
+AA SalaGaDou posts ante 50
+Zyckers80 posts ante 50
+Louzoe23 posts ante 50
+BigHugz posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [3s Ks]
+*** PRE-FLOP *** 
+Zyckers80 folds
+Louzoe23 calls 400
+nito59250 calls 400
+AA SalaGaDou calls 400
+BigHugz folds
+P1xel7 checks
+*** FLOP *** [As 7h 7d]
+P1xel7 checks
+Louzoe23 checks
+nito59250 checks
+AA SalaGaDou bets 1680
+P1xel7 folds
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou collected 3780 from pot
+*** SUMMARY ***
+Total pot 3780 | No rake
+Board: [As 7h 7d]
+Seat 2: AA SalaGaDou (button) won 3780
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3248563969631191058-51-1710606725 - Holdem no limit (50/200/400) - 2024/03/16 16:32:05 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #3 is the button
+Seat 1: nito59250 (49559, 0.67€ bounty)
+Seat 2: AA SalaGaDou (53535, 1€ bounty)
+Seat 3: BigHugz (19240, 0.45€ bounty)
+Seat 4: P1xel7 (18040, 0.45€ bounty)
+Seat 5: Zyckers80 (34300, 0.45€ bounty)
+Seat 6: Louzoe23 (45951, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+Zyckers80 posts ante 50
+nito59250 posts ante 50
+AA SalaGaDou posts ante 50
+BigHugz posts ante 50
+Louzoe23 posts ante 50
+P1xel7 posts small blind 200
+Zyckers80 posts big blind 400
+Dealt to P1xel7 [7c 8d]
+*** PRE-FLOP *** 
+Louzoe23 raises 600 to 1000
+nito59250 folds
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Zyckers80 calls 600
+*** FLOP *** [Qc 2h 5d]
+Zyckers80 checks
+Louzoe23 bets 1625
+Zyckers80 folds
+Louzoe23 collected 4125 from pot
+*** SUMMARY ***
+Total pot 4125 | No rake
+Board: [Qc 2h 5d]
+Seat 6: Louzoe23 won 4125
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3248563969631191058-52-1710606751 - Holdem no limit (50/200/400) - 2024/03/16 16:32:31 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #4 is the button
+Seat 1: nito59250 (49509, 0.67€ bounty)
+Seat 2: AA SalaGaDou (53485, 1€ bounty)
+Seat 3: BigHugz (19190, 0.45€ bounty)
+Seat 4: P1xel7 (17790, 0.45€ bounty)
+Seat 5: Zyckers80 (33250, 0.45€ bounty)
+Seat 6: Louzoe23 (47401, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Zyckers80 posts ante 50
+Louzoe23 posts ante 50
+nito59250 posts ante 50
+AA SalaGaDou posts ante 50
+BigHugz posts ante 50
+P1xel7 posts ante 50
+Zyckers80 posts small blind 200
+Louzoe23 posts big blind 400
+Dealt to P1xel7 [Kd 3s]
+*** PRE-FLOP *** 
+nito59250 folds
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Zyckers80 raises 1100 to 1500
+Louzoe23 calls 1100
+*** FLOP *** [7h Tc Ad]
+Zyckers80 bets 3300
+Louzoe23 folds
+Zyckers80 collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Board: [7h Tc Ad]
+Seat 5: Zyckers80 (small blind) won 6600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3248563969631191058-53-1710606771 - Holdem no limit (50/200/400) - 2024/03/16 16:32:51 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #5 is the button
+Seat 1: nito59250 (49459, 0.67€ bounty)
+Seat 2: AA SalaGaDou (53435, 1€ bounty)
+Seat 3: BigHugz (19140, 0.45€ bounty)
+Seat 4: P1xel7 (17740, 0.45€ bounty)
+Seat 5: Zyckers80 (35000, 0.45€ bounty)
+Seat 6: Louzoe23 (45851, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 50
+nito59250 posts ante 50
+AA SalaGaDou posts ante 50
+BigHugz posts ante 50
+P1xel7 posts ante 50
+Zyckers80 posts ante 50
+Louzoe23 posts small blind 200
+nito59250 posts big blind 400
+Dealt to P1xel7 [5c Kd]
+*** PRE-FLOP *** 
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Zyckers80 calls 400
+Louzoe23 calls 200
+nito59250 checks
+*** FLOP *** [8h 8s 5s]
+Louzoe23 checks
+nito59250 checks
+Zyckers80 bets 1500
+Louzoe23 folds
+nito59250 folds
+Zyckers80 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [8h 8s 5s]
+Seat 5: Zyckers80 (button) won 3000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3248563969631191058-54-1710606805 - Holdem no limit (50/200/400) - 2024/03/16 16:33:25 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 1: nito59250 (49009, 0.67€ bounty)
+Seat 2: AA SalaGaDou (53385, 1€ bounty)
+Seat 3: BigHugz (19090, 0.45€ bounty)
+Seat 4: P1xel7 (17690, 0.45€ bounty)
+Seat 5: Zyckers80 (36050, 0.45€ bounty)
+Seat 6: Louzoe23 (45401, 0.67€ bounty)
+*** ANTE/BLINDS ***
+nito59250 posts ante 50
+AA SalaGaDou posts ante 50
+BigHugz posts ante 50
+P1xel7 posts ante 50
+Zyckers80 posts ante 50
+Louzoe23 posts ante 50
+nito59250 posts small blind 200
+AA SalaGaDou posts big blind 400
+Dealt to P1xel7 [Jd 4h]
+*** PRE-FLOP *** 
+BigHugz folds
+P1xel7 folds
+Zyckers80 calls 400
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou checks
+*** FLOP *** [7s Jh 5h]
+AA SalaGaDou checks
+Zyckers80 bets 1300
+AA SalaGaDou folds
+Zyckers80 collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [7s Jh 5h]
+Seat 5: Zyckers80 won 2600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3248563969631191058-55-1710606823 - Holdem no limit (50/200/400) - 2024/03/16 16:33:43 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #1 is the button
+Seat 1: nito59250 (48759, 0.67€ bounty)
+Seat 2: AA SalaGaDou (52935, 1€ bounty)
+Seat 3: BigHugz (19040, 0.45€ bounty)
+Seat 4: P1xel7 (17640, 0.45€ bounty)
+Seat 5: Zyckers80 (36900, 0.45€ bounty)
+Seat 6: Louzoe23 (45351, 0.67€ bounty)
+*** ANTE/BLINDS ***
+AA SalaGaDou posts ante 50
+BigHugz posts ante 50
+nito59250 posts ante 50
+P1xel7 posts ante 50
+Zyckers80 posts ante 50
+Louzoe23 posts ante 50
+AA SalaGaDou posts small blind 200
+BigHugz posts big blind 400
+Dealt to P1xel7 [8c 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Zyckers80 calls 400
+Louzoe23 folds
+nito59250 calls 400
+AA SalaGaDou calls 200
+BigHugz checks
+*** FLOP *** [Kh 9c 9d]
+AA SalaGaDou checks
+BigHugz checks
+Zyckers80 checks
+nito59250 bets 665
+AA SalaGaDou folds
+BigHugz calls 665
+Zyckers80 folds
+*** TURN *** [Kh 9c 9d][2d]
+BigHugz checks
+nito59250 bets 1131
+BigHugz calls 1131
+*** RIVER *** [Kh 9c 9d 2d][3s]
+BigHugz checks
+nito59250 checks
+*** SHOW DOWN ***
+nito59250 shows [Jc Qd] (One pair : 9)
+BigHugz shows [Kd 4h] (Two pairs : Kings and 9)
+BigHugz collected 5492 from pot
+*** SUMMARY ***
+Total pot 5492 | No rake
+Board: [Kh 9c 9d 2d 3s]
+Seat 1: nito59250 (button) showed [Jc Qd] and lost with One pair : 9
+Seat 3: BigHugz (big blind) showed [Kd 4h] and won 5492 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3248563969631191058-56-1710606895 - Holdem no limit (50/200/400) - 2024/03/16 16:34:55 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #2 is the button
+Seat 1: nito59250 (46513, 0.67€ bounty)
+Seat 2: AA SalaGaDou (52485, 1€ bounty)
+Seat 3: BigHugz (22286, 0.45€ bounty)
+Seat 4: P1xel7 (17590, 0.45€ bounty)
+Seat 5: Zyckers80 (36450, 0.45€ bounty)
+Seat 6: Louzoe23 (45301, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BigHugz posts ante 50
+P1xel7 posts ante 50
+nito59250 posts ante 50
+AA SalaGaDou posts ante 50
+Zyckers80 posts ante 50
+Louzoe23 posts ante 50
+BigHugz posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Tc 8h]
+*** PRE-FLOP *** 
+Zyckers80 raises 400 to 800
+Louzoe23 calls 800
+nito59250 folds
+AA SalaGaDou folds
+BigHugz calls 600
+P1xel7 calls 400
+*** FLOP *** [Kc 9h 9d]
+BigHugz checks
+P1xel7 checks
+Zyckers80 checks
+Louzoe23 bets 600
+BigHugz folds
+P1xel7 folds
+Zyckers80 calls 600
+*** TURN *** [Kc 9h 9d][Ks]
+Zyckers80 checks
+Louzoe23 bets 800
+Zyckers80 folds
+Louzoe23 collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Board: [Kc 9h 9d Ks]
+Seat 6: Louzoe23 won 5500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3248563969631191058-57-1710606950 - Holdem no limit (50/200/400) - 2024/03/16 16:35:50 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #3 is the button
+Seat 1: nito59250 (46463, 0.67€ bounty)
+Seat 2: AA SalaGaDou (52435, 1€ bounty)
+Seat 3: BigHugz (21436, 0.45€ bounty)
+Seat 4: P1xel7 (16740, 0.45€ bounty)
+Seat 5: Zyckers80 (35000, 0.45€ bounty)
+Seat 6: Louzoe23 (48551, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+Zyckers80 posts ante 50
+nito59250 posts ante 50
+AA SalaGaDou posts ante 50
+BigHugz posts ante 50
+Louzoe23 posts ante 50
+P1xel7 posts small blind 200
+Zyckers80 posts big blind 400
+Dealt to P1xel7 [3d 6h]
+*** PRE-FLOP *** 
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou folds
+BigHugz raises 600 to 1000
+P1xel7 folds
+Zyckers80 calls 600
+*** FLOP *** [9s Th 4h]
+Zyckers80 checks
+BigHugz bets 875
+Zyckers80 folds
+BigHugz collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [9s Th 4h]
+Seat 3: BigHugz (button) won 3375
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3248563969631191058-58-1710606978 - Holdem no limit (60/250/500) - 2024/03/16 16:36:18 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #4 is the button
+Seat 1: nito59250 (46413, 0.67€ bounty)
+Seat 2: AA SalaGaDou (52385, 1€ bounty)
+Seat 3: BigHugz (22886, 0.45€ bounty)
+Seat 4: P1xel7 (16490, 0.45€ bounty)
+Seat 5: Zyckers80 (33950, 0.45€ bounty)
+Seat 6: Louzoe23 (48501, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Zyckers80 posts ante 60
+Louzoe23 posts ante 60
+nito59250 posts ante 60
+AA SalaGaDou posts ante 60
+BigHugz posts ante 60
+P1xel7 posts ante 60
+Zyckers80 posts small blind 250
+Louzoe23 posts big blind 500
+Dealt to P1xel7 [9c Td]
+*** PRE-FLOP *** 
+nito59250 raises 750 to 1250
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Zyckers80 calls 1000
+Louzoe23 calls 750
+*** FLOP *** [Ac Kh 7s]
+Zyckers80 checks
+Louzoe23 checks
+nito59250 bets 2672
+Zyckers80 folds
+Louzoe23 folds
+nito59250 collected 6782 from pot
+*** SUMMARY ***
+Total pot 6782 | No rake
+Board: [Ac Kh 7s]
+Seat 1: nito59250 won 6782
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3248563969631191058-59-1710607019 - Holdem no limit (60/250/500) - 2024/03/16 16:36:59 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #5 is the button
+Seat 1: nito59250 (49213, 0.67€ bounty)
+Seat 2: AA SalaGaDou (52325, 1€ bounty)
+Seat 3: BigHugz (22826, 0.45€ bounty)
+Seat 4: P1xel7 (16430, 0.45€ bounty)
+Seat 5: Zyckers80 (32640, 0.45€ bounty)
+Seat 6: Louzoe23 (47191, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 60
+nito59250 posts ante 60
+AA SalaGaDou posts ante 60
+BigHugz posts ante 60
+P1xel7 posts ante 60
+Zyckers80 posts ante 60
+Louzoe23 posts small blind 250
+nito59250 posts big blind 500
+Dealt to P1xel7 [Jh 2h]
+*** PRE-FLOP *** 
+AA SalaGaDou raises 500 to 1000
+BigHugz folds
+P1xel7 folds
+Zyckers80 calls 1000
+Louzoe23 folds
+nito59250 calls 500
+*** FLOP *** [Th 4h 8c]
+nito59250 checks
+AA SalaGaDou bets 2347
+Zyckers80 calls 2347
+nito59250 folds
+*** TURN *** [Th 4h 8c][3c]
+AA SalaGaDou bets 6643
+Zyckers80 calls 6643
+*** RIVER *** [Th 4h 8c 3c][7c]
+AA SalaGaDou bets 42275 and is all-in
+Zyckers80 calls 22590 and is all-in
+*** SHOW DOWN ***
+Zyckers80 shows [Qs 8s] (One pair : 8)
+AA SalaGaDou shows [Qh Td] (One pair : Tens)
+AA SalaGaDou collected 86455 from pot
+*** SUMMARY ***
+Total pot 86455 | No rake
+Board: [Th 4h 8c 3c 7c]
+Seat 2: AA SalaGaDou showed [Qh Td] and won 86455 with One pair : Tens
+Seat 5: Zyckers80 (button) showed [Qs 8s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3248563969631191058-60-1710607052 - Holdem no limit (60/250/500) - 2024/03/16 16:37:32 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 1: nito59250 (48153, 0.67€ bounty)
+Seat 2: AA SalaGaDou (86455, 1.22€ bounty)
+Seat 3: BigHugz (22766, 0.45€ bounty)
+Seat 4: P1xel7 (16370, 0.45€ bounty)
+Seat 6: Louzoe23 (46881, 0.67€ bounty)
+*** ANTE/BLINDS ***
+nito59250 posts ante 60
+AA SalaGaDou posts ante 60
+BigHugz posts ante 60
+P1xel7 posts ante 60
+Louzoe23 posts ante 60
+nito59250 posts small blind 250
+AA SalaGaDou posts big blind 500
+Dealt to P1xel7 [As 7h]
+*** PRE-FLOP *** 
+BigHugz folds
+P1xel7 raises 600 to 1100
+Louzoe23 folds
+nito59250 calls 850
+AA SalaGaDou folds
+*** FLOP *** [6d 2d 8c]
+nito59250 checks
+P1xel7 checks
+*** TURN *** [6d 2d 8c][Ac]
+nito59250 checks
+P1xel7 bets 1950
+nito59250 folds
+P1xel7 collected 4950 from pot
+*** SUMMARY ***
+Total pot 4950 | No rake
+Board: [6d 2d 8c Ac]
+Seat 4: P1xel7 won 4950
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3248563969631191058-61-1710607088 - Holdem no limit (60/250/500) - 2024/03/16 16:38:08 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #1 is the button
+Seat 1: nito59250 (46993, 0.67€ bounty)
+Seat 2: AA SalaGaDou (85895, 1.22€ bounty)
+Seat 3: BigHugz (22706, 0.45€ bounty)
+Seat 4: P1xel7 (18210, 0.45€ bounty)
+Seat 5: Cervantine (20000, 0.45€ bounty)
+Seat 6: Louzoe23 (46821, 0.67€ bounty)
+*** ANTE/BLINDS ***
+AA SalaGaDou posts ante 60
+BigHugz posts ante 60
+nito59250 posts ante 60
+P1xel7 posts ante 60
+Cervantine posts ante 60
+Louzoe23 posts ante 60
+AA SalaGaDou posts small blind 250
+BigHugz posts big blind 500
+Dealt to P1xel7 [5h Ad]
+*** PRE-FLOP *** 
+P1xel7 folds
+Cervantine folds
+Louzoe23 calls 500
+nito59250 folds
+AA SalaGaDou raises 85335 to 85835 and is all-in
+BigHugz folds
+Louzoe23 folds
+AA SalaGaDou collected 87195 from pot
+*** SUMMARY ***
+Total pot 87195 | No rake
+Seat 2: AA SalaGaDou (small blind) won 87195
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3248563969631191058-62-1710607114 - Holdem no limit (60/250/500) - 2024/03/16 16:38:34 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #2 is the button
+Seat 1: nito59250 (46933, 0.67€ bounty)
+Seat 2: AA SalaGaDou (87195, 1.22€ bounty)
+Seat 3: BigHugz (22146, 0.45€ bounty)
+Seat 4: P1xel7 (18150, 0.45€ bounty)
+Seat 5: Cervantine (19940, 0.45€ bounty)
+Seat 6: Louzoe23 (46261, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BigHugz posts ante 60
+P1xel7 posts ante 60
+nito59250 posts ante 60
+AA SalaGaDou posts ante 60
+Cervantine posts ante 60
+Louzoe23 posts ante 60
+BigHugz posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [3c 9c]
+*** PRE-FLOP *** 
+Cervantine folds
+Louzoe23 folds
+nito59250 raises 500 to 1000
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+nito59250 collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 1: nito59250 won 2110
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3248563969631191058-63-1710607136 - Holdem no limit (60/250/500) - 2024/03/16 16:38:56 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #3 is the button
+Seat 1: nito59250 (47983, 0.67€ bounty)
+Seat 2: AA SalaGaDou (87135, 1.22€ bounty)
+Seat 3: BigHugz (21836, 0.45€ bounty)
+Seat 4: P1xel7 (17590, 0.45€ bounty)
+Seat 5: Cervantine (19880, 0.45€ bounty)
+Seat 6: Louzoe23 (46201, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+Cervantine posts ante 60
+nito59250 posts ante 60
+AA SalaGaDou posts ante 60
+BigHugz posts ante 60
+Louzoe23 posts ante 60
+P1xel7 posts small blind 250
+Cervantine posts big blind 500
+Dealt to P1xel7 [Kc 6s]
+*** PRE-FLOP *** 
+Louzoe23 folds
+nito59250 raises 500 to 1000
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Cervantine folds
+nito59250 collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 1: nito59250 won 2110
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3248563969631191058-64-1710607167 - Holdem no limit (60/250/500) - 2024/03/16 16:39:27 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #4 is the button
+Seat 1: nito59250 (49033, 0.67€ bounty)
+Seat 2: AA SalaGaDou (87075, 1.22€ bounty)
+Seat 3: BigHugz (21776, 0.45€ bounty)
+Seat 4: P1xel7 (17280, 0.45€ bounty)
+Seat 5: Cervantine (19320, 0.45€ bounty)
+Seat 6: Louzoe23 (46141, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Cervantine posts ante 60
+Louzoe23 posts ante 60
+nito59250 posts ante 60
+AA SalaGaDou posts ante 60
+BigHugz posts ante 60
+P1xel7 posts ante 60
+Cervantine posts small blind 250
+Louzoe23 posts big blind 500
+Dealt to P1xel7 [As 9d]
+*** PRE-FLOP *** 
+nito59250 calls 500
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 raises 1500 to 2000
+Cervantine raises 5360 to 7360
+Louzoe23 folds
+nito59250 folds
+P1xel7 folds
+Cervantine collected 10720 from pot
+*** SUMMARY ***
+Total pot 10720 | No rake
+Seat 5: Cervantine (small blind) won 10720
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3248563969631191058-65-1710607211 - Holdem no limit (60/250/500) - 2024/03/16 16:40:11 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #5 is the button
+Seat 1: nito59250 (48473, 0.67€ bounty)
+Seat 2: AA SalaGaDou (87015, 1.22€ bounty)
+Seat 3: BigHugz (21716, 0.45€ bounty)
+Seat 4: P1xel7 (15220, 0.45€ bounty)
+Seat 5: Cervantine (22620, 0.45€ bounty)
+Seat 6: Louzoe23 (45581, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 60
+nito59250 posts ante 60
+AA SalaGaDou posts ante 60
+BigHugz posts ante 60
+P1xel7 posts ante 60
+Cervantine posts ante 60
+Louzoe23 posts small blind 250
+nito59250 posts big blind 500
+Dealt to P1xel7 [Ks 2s]
+*** PRE-FLOP *** 
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Cervantine folds
+Louzoe23 calls 250
+nito59250 raises 750 to 1250
+Louzoe23 calls 750
+*** FLOP *** [Kd 9d Kc]
+Louzoe23 checks
+nito59250 bets 1859
+Louzoe23 folds
+nito59250 collected 4719 from pot
+*** SUMMARY ***
+Total pot 4719 | No rake
+Board: [Kd 9d Kc]
+Seat 1: nito59250 (big blind) won 4719
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3248563969631191058-66-1710607258 - Holdem no limit (60/250/500) - 2024/03/16 16:40:58 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 1: nito59250 (50023, 0.67€ bounty)
+Seat 2: AA SalaGaDou (86955, 1.22€ bounty)
+Seat 3: BigHugz (21656, 0.45€ bounty)
+Seat 4: P1xel7 (15160, 0.45€ bounty)
+Seat 5: Cervantine (22560, 0.45€ bounty)
+Seat 6: Louzoe23 (44271, 0.67€ bounty)
+*** ANTE/BLINDS ***
+nito59250 posts ante 60
+AA SalaGaDou posts ante 60
+BigHugz posts ante 60
+P1xel7 posts ante 60
+Cervantine posts ante 60
+Louzoe23 posts ante 60
+nito59250 posts small blind 250
+AA SalaGaDou posts big blind 500
+Dealt to P1xel7 [Js 3c]
+*** PRE-FLOP *** 
+BigHugz folds
+P1xel7 folds
+Cervantine folds
+Louzoe23 raises 500 to 1000
+nito59250 calls 750
+AA SalaGaDou calls 500
+*** FLOP *** [Ac 2s Kd]
+nito59250 checks
+AA SalaGaDou checks
+Louzoe23 bets 1250
+nito59250 folds
+AA SalaGaDou folds
+Louzoe23 collected 4610 from pot
+*** SUMMARY ***
+Total pot 4610 | No rake
+Board: [Ac 2s Kd]
+Seat 6: Louzoe23 (button) won 4610
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3248563969631191058-67-1710607284 - Holdem no limit (70/300/600) - 2024/03/16 16:41:24 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #1 is the button
+Seat 1: nito59250 (48963, 0.67€ bounty)
+Seat 2: AA SalaGaDou (85895, 1.22€ bounty)
+Seat 3: BigHugz (21596, 0.45€ bounty)
+Seat 4: P1xel7 (15100, 0.45€ bounty)
+Seat 5: Cervantine (22500, 0.45€ bounty)
+Seat 6: Louzoe23 (46571, 0.67€ bounty)
+*** ANTE/BLINDS ***
+AA SalaGaDou posts ante 70
+BigHugz posts ante 70
+nito59250 posts ante 70
+P1xel7 posts ante 70
+Cervantine posts ante 70
+Louzoe23 posts ante 70
+AA SalaGaDou posts small blind 300
+BigHugz posts big blind 600
+Dealt to P1xel7 [6c 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Cervantine folds
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou folds
+BigHugz collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Seat 3: BigHugz (big blind) won 1320
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3248563969631191058-68-1710607301 - Holdem no limit (70/300/600) - 2024/03/16 16:41:41 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #2 is the button
+Seat 1: nito59250 (48893, 0.67€ bounty)
+Seat 2: AA SalaGaDou (85525, 1.22€ bounty)
+Seat 3: BigHugz (22246, 0.45€ bounty)
+Seat 4: P1xel7 (15030, 0.45€ bounty)
+Seat 5: Cervantine (22430, 0.45€ bounty)
+Seat 6: Louzoe23 (46501, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BigHugz posts ante 70
+P1xel7 posts ante 70
+nito59250 posts ante 70
+AA SalaGaDou posts ante 70
+Cervantine posts ante 70
+Louzoe23 posts ante 70
+BigHugz posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [Qd 3c]
+*** PRE-FLOP *** 
+Cervantine folds
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou raises 900 to 1500
+BigHugz raises 3300 to 4800
+P1xel7 folds
+AA SalaGaDou folds
+BigHugz collected 7320 from pot
+*** SUMMARY ***
+Total pot 7320 | No rake
+Seat 3: BigHugz (small blind) won 7320
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3248563969631191058-69-1710607342 - Holdem no limit (70/300/600) - 2024/03/16 16:42:22 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #3 is the button
+Seat 1: nito59250 (48823, 0.67€ bounty)
+Seat 2: AA SalaGaDou (83955, 1.22€ bounty)
+Seat 3: BigHugz (24696, 0.45€ bounty)
+Seat 4: P1xel7 (14360, 0.45€ bounty)
+Seat 5: Cervantine (22360, 0.45€ bounty)
+Seat 6: Louzoe23 (46431, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Cervantine posts ante 70
+nito59250 posts ante 70
+AA SalaGaDou posts ante 70
+BigHugz posts ante 70
+Louzoe23 posts ante 70
+P1xel7 posts small blind 300
+Cervantine posts big blind 600
+Dealt to P1xel7 [2d Ad]
+*** PRE-FLOP *** 
+Louzoe23 calls 600
+nito59250 folds
+AA SalaGaDou calls 600
+BigHugz folds
+P1xel7 calls 300
+Cervantine checks
+*** FLOP *** [7s 5c 8c]
+P1xel7 checks
+Cervantine checks
+Louzoe23 checks
+AA SalaGaDou bets 2256
+P1xel7 folds
+Cervantine calls 2256
+Louzoe23 calls 2256
+*** TURN *** [7s 5c 8c][3h]
+Cervantine checks
+Louzoe23 checks
+AA SalaGaDou bets 3356
+Cervantine folds
+Louzoe23 folds
+AA SalaGaDou collected 12944 from pot
+*** SUMMARY ***
+Total pot 12944 | No rake
+Board: [7s 5c 8c 3h]
+Seat 2: AA SalaGaDou won 12944
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3248563969631191058-70-1710607397 - Holdem no limit (70/300/600) - 2024/03/16 16:43:17 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #4 is the button
+Seat 1: nito59250 (48753, 0.67€ bounty)
+Seat 2: AA SalaGaDou (90617, 1.22€ bounty)
+Seat 3: BigHugz (24626, 0.45€ bounty)
+Seat 4: P1xel7 (13690, 0.45€ bounty)
+Seat 5: Cervantine (19434, 0.45€ bounty)
+Seat 6: Louzoe23 (43505, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Cervantine posts ante 70
+Louzoe23 posts ante 70
+nito59250 posts ante 70
+AA SalaGaDou posts ante 70
+BigHugz posts ante 70
+P1xel7 posts ante 70
+Cervantine posts small blind 300
+Louzoe23 posts big blind 600
+Dealt to P1xel7 [6d Jh]
+*** PRE-FLOP *** 
+nito59250 folds
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Cervantine raises 1500 to 2100
+Louzoe23 folds
+Cervantine collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Seat 5: Cervantine (small blind) won 3120
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3248563969631191058-71-1710607455 - Holdem no limit (70/300/600) - 2024/03/16 16:44:15 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #5 is the button
+Seat 1: nito59250 (48683, 0.67€ bounty)
+Seat 2: AA SalaGaDou (90547, 1.22€ bounty)
+Seat 3: BigHugz (24556, 0.45€ bounty)
+Seat 4: P1xel7 (13620, 0.45€ bounty)
+Seat 5: Cervantine (20384, 0.45€ bounty)
+Seat 6: Louzoe23 (42835, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 70
+nito59250 posts ante 70
+AA SalaGaDou posts ante 70
+BigHugz posts ante 70
+P1xel7 posts ante 70
+Cervantine posts ante 70
+Louzoe23 posts small blind 300
+nito59250 posts big blind 600
+Dealt to P1xel7 [4c 5s]
+*** PRE-FLOP *** 
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Cervantine folds
+Louzoe23 calls 300
+nito59250 checks
+*** FLOP *** [Ac 5d Qh]
+Louzoe23 checks
+nito59250 checks
+*** TURN *** [Ac 5d Qh][Jc]
+Louzoe23 checks
+nito59250 checks
+*** RIVER *** [Ac 5d Qh Jc][8c]
+Louzoe23 checks
+nito59250 checks
+*** SHOW DOWN ***
+nito59250 shows [7h 6d] (High card : Ace)
+Louzoe23 shows [Kd Js] (One pair : Jacks)
+Louzoe23 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [Ac 5d Qh Jc 8c]
+Seat 1: nito59250 (big blind) showed [7h 6d] and lost with High card : Ace
+Seat 6: Louzoe23 (small blind) showed [Kd Js] and won 1620 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3248563969631191058-72-1710607478 - Holdem no limit (70/300/600) - 2024/03/16 16:44:38 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 1: nito59250 (48013, 0.67€ bounty)
+Seat 2: AA SalaGaDou (90477, 1.22€ bounty)
+Seat 3: BigHugz (24486, 0.45€ bounty)
+Seat 4: P1xel7 (13550, 0.45€ bounty)
+Seat 5: Cervantine (20314, 0.45€ bounty)
+Seat 6: Louzoe23 (43785, 0.67€ bounty)
+*** ANTE/BLINDS ***
+nito59250 posts ante 70
+AA SalaGaDou posts ante 70
+BigHugz posts ante 70
+P1xel7 posts ante 70
+Cervantine posts ante 70
+Louzoe23 posts ante 70
+nito59250 posts small blind 300
+AA SalaGaDou posts big blind 600
+Dealt to P1xel7 [6h Ac]
+*** PRE-FLOP *** 
+BigHugz folds
+P1xel7 folds
+Cervantine folds
+Louzoe23 folds
+nito59250 raises 900 to 1500
+AA SalaGaDou calls 900
+*** FLOP *** [Ks 5c Ad]
+nito59250 bets 2223
+AA SalaGaDou calls 2223
+*** TURN *** [Ks 5c Ad][5d]
+nito59250 bets 5113
+AA SalaGaDou calls 5113
+*** RIVER *** [Ks 5c Ad 5d][4h]
+nito59250 bets 11760
+AA SalaGaDou folds
+nito59250 collected 29852 from pot
+*** SUMMARY ***
+Total pot 29852 | No rake
+Board: [Ks 5c Ad 5d 4h]
+Seat 1: nito59250 (small blind) won 29852
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3248563969631191058-73-1710607523 - Holdem no limit (70/300/600) - 2024/03/16 16:45:23 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #1 is the button
+Seat 1: nito59250 (57199, 0.67€ bounty)
+Seat 2: AA SalaGaDou (81571, 1.22€ bounty)
+Seat 3: BigHugz (24416, 0.45€ bounty)
+Seat 4: P1xel7 (13480, 0.45€ bounty)
+Seat 5: Cervantine (20244, 0.45€ bounty)
+Seat 6: Louzoe23 (43715, 0.67€ bounty)
+*** ANTE/BLINDS ***
+AA SalaGaDou posts ante 70
+BigHugz posts ante 70
+nito59250 posts ante 70
+P1xel7 posts ante 70
+Cervantine posts ante 70
+Louzoe23 posts ante 70
+AA SalaGaDou posts small blind 300
+BigHugz posts big blind 600
+Dealt to P1xel7 [Kd 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Cervantine folds
+Louzoe23 calls 600
+nito59250 folds
+AA SalaGaDou calls 300
+BigHugz checks
+*** FLOP *** [3h Kc Th]
+AA SalaGaDou checks
+BigHugz checks
+Louzoe23 checks
+*** TURN *** [3h Kc Th][Ts]
+AA SalaGaDou checks
+BigHugz checks
+Louzoe23 checks
+*** RIVER *** [3h Kc Th Ts][Ks]
+AA SalaGaDou checks
+BigHugz checks
+Louzoe23 checks
+*** SHOW DOWN ***
+BigHugz shows [4s 5h] (Two pairs : Kings and Tens)
+Louzoe23 shows [4h 2c] (Two pairs : Kings and Tens)
+AA SalaGaDou shows [5c Qd] (Two pairs : Kings and Tens)
+AA SalaGaDou collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [3h Kc Th Ts Ks]
+Seat 2: AA SalaGaDou (small blind) showed [5c Qd] and won 2220 with Two pairs : Kings and Tens
+Seat 3: BigHugz (big blind) showed [4s 5h] and lost with Two pairs : Kings and Tens
+Seat 6: Louzoe23 showed [4h 2c] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3248563969631191058-74-1710607571 - Holdem no limit (80/350/700) - 2024/03/16 16:46:11 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #2 is the button
+Seat 1: nito59250 (57129, 0.67€ bounty)
+Seat 2: AA SalaGaDou (83121, 1.22€ bounty)
+Seat 3: BigHugz (23746, 0.45€ bounty)
+Seat 4: P1xel7 (13410, 0.45€ bounty)
+Seat 5: Cervantine (20174, 0.45€ bounty)
+Seat 6: Louzoe23 (43045, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BigHugz posts ante 80
+P1xel7 posts ante 80
+nito59250 posts ante 80
+AA SalaGaDou posts ante 80
+Cervantine posts ante 80
+Louzoe23 posts ante 80
+BigHugz posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [Qs 3h]
+*** PRE-FLOP *** 
+Cervantine folds
+Louzoe23 folds
+nito59250 raises 1050 to 1750
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 calls 1050
+*** FLOP *** [8h Ks 9c]
+P1xel7 checks
+nito59250 bets 2815
+P1xel7 folds
+nito59250 collected 7145 from pot
+*** SUMMARY ***
+Total pot 7145 | No rake
+Board: [8h Ks 9c]
+Seat 1: nito59250 won 7145
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3248563969631191058-75-1710607615 - Holdem no limit (80/350/700) - 2024/03/16 16:46:55 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #3 is the button
+Seat 1: nito59250 (59629, 0.67€ bounty)
+Seat 2: AA SalaGaDou (83041, 1.22€ bounty)
+Seat 3: BigHugz (23316, 0.45€ bounty)
+Seat 4: P1xel7 (11580, 0.45€ bounty)
+Seat 5: Cervantine (20094, 0.45€ bounty)
+Seat 6: Louzoe23 (42965, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Cervantine posts ante 80
+nito59250 posts ante 80
+AA SalaGaDou posts ante 80
+BigHugz posts ante 80
+Louzoe23 posts ante 80
+P1xel7 posts small blind 350
+Cervantine posts big blind 700
+Dealt to P1xel7 [9c 3d]
+*** PRE-FLOP *** 
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou folds
+BigHugz raises 770 to 1470
+P1xel7 folds
+Cervantine calls 770
+*** FLOP *** [As Qd 8d]
+Cervantine checks
+BigHugz bets 1670
+Cervantine folds
+BigHugz collected 5440 from pot
+*** SUMMARY ***
+Total pot 5440 | No rake
+Board: [As Qd 8d]
+Seat 3: BigHugz (button) won 5440
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3248563969631191058-76-1710607655 - Holdem no limit (80/350/700) - 2024/03/16 16:47:35 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #4 is the button
+Seat 1: nito59250 (59549, 0.67€ bounty)
+Seat 2: AA SalaGaDou (82961, 1.22€ bounty)
+Seat 3: BigHugz (25536, 0.45€ bounty)
+Seat 4: P1xel7 (11150, 0.45€ bounty)
+Seat 5: Cervantine (18544, 0.45€ bounty)
+Seat 6: Louzoe23 (42885, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Cervantine posts ante 80
+Louzoe23 posts ante 80
+nito59250 posts ante 80
+AA SalaGaDou posts ante 80
+BigHugz posts ante 80
+P1xel7 posts ante 80
+Cervantine posts small blind 350
+Louzoe23 posts big blind 700
+Dealt to P1xel7 [3h 6c]
+*** PRE-FLOP *** 
+nito59250 raises 1050 to 1750
+AA SalaGaDou folds
+BigHugz calls 1750
+P1xel7 folds
+Cervantine calls 1400
+Louzoe23 calls 1050
+*** FLOP *** [3c 6h Qh]
+Cervantine checks
+Louzoe23 checks
+nito59250 checks
+BigHugz bets 2618
+Cervantine raises 14096 to 16714 and is all-in
+Louzoe23 folds
+nito59250 folds
+BigHugz folds
+Cervantine collected 26812 from pot
+*** SUMMARY ***
+Total pot 26812 | No rake
+Board: [3c 6h Qh]
+Seat 5: Cervantine (small blind) won 26812
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3248563969631191058-77-1710607699 - Holdem no limit (80/350/700) - 2024/03/16 16:48:19 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #5 is the button
+Seat 1: nito59250 (57719, 0.67€ bounty)
+Seat 2: AA SalaGaDou (82881, 1.22€ bounty)
+Seat 3: BigHugz (21088, 0.45€ bounty)
+Seat 4: P1xel7 (11070, 0.45€ bounty)
+Seat 5: Cervantine (26812, 0.45€ bounty)
+Seat 6: Louzoe23 (41055, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 80
+nito59250 posts ante 80
+AA SalaGaDou posts ante 80
+BigHugz posts ante 80
+P1xel7 posts ante 80
+Cervantine posts ante 80
+Louzoe23 posts small blind 350
+nito59250 posts big blind 700
+Dealt to P1xel7 [Ks 3s]
+*** PRE-FLOP *** 
+AA SalaGaDou raises 700 to 1400
+BigHugz folds
+P1xel7 folds
+Cervantine folds
+Louzoe23 calls 1050
+nito59250 calls 700
+*** FLOP *** [8c 9h Th]
+Louzoe23 checks
+nito59250 checks
+AA SalaGaDou bets 2340
+Louzoe23 calls 2340
+nito59250 calls 2340
+*** TURN *** [8c 9h Th][Tc]
+Louzoe23 checks
+nito59250 checks
+AA SalaGaDou bets 9360
+Louzoe23 folds
+nito59250 folds
+AA SalaGaDou collected 21060 from pot
+*** SUMMARY ***
+Total pot 21060 | No rake
+Board: [8c 9h Th Tc]
+Seat 2: AA SalaGaDou won 21060
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3248563969631191058-78-1710607744 - Holdem no limit (80/350/700) - 2024/03/16 16:49:04 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 1: nito59250 (53899, 0.67€ bounty)
+Seat 2: AA SalaGaDou (90761, 1.22€ bounty)
+Seat 3: BigHugz (21008, 0.45€ bounty)
+Seat 4: P1xel7 (10990, 0.45€ bounty)
+Seat 5: Cervantine (26732, 0.45€ bounty)
+Seat 6: Louzoe23 (37235, 0.67€ bounty)
+*** ANTE/BLINDS ***
+nito59250 posts ante 80
+AA SalaGaDou posts ante 80
+BigHugz posts ante 80
+P1xel7 posts ante 80
+Cervantine posts ante 80
+Louzoe23 posts ante 80
+nito59250 posts small blind 350
+AA SalaGaDou posts big blind 700
+Dealt to P1xel7 [8h 5s]
+*** PRE-FLOP *** 
+BigHugz folds
+P1xel7 folds
+Cervantine folds
+Louzoe23 calls 700
+nito59250 raises 1400 to 2100
+AA SalaGaDou calls 1400
+Louzoe23 calls 1400
+*** FLOP *** [3c 4h Qd]
+nito59250 bets 4407
+AA SalaGaDou calls 4407
+Louzoe23 folds
+*** TURN *** [3c 4h Qd][Ad]
+nito59250 bets 47312 and is all-in
+AA SalaGaDou raises 36862 to 84174 and is all-in
+*** RIVER *** [3c 4h Qd Ad][Jh]
+*** SHOW DOWN ***
+nito59250 shows [Kh Qs] (One pair : Queens)
+AA SalaGaDou shows [Ac 5h] (One pair : Aces)
+AA SalaGaDou collected 147080 from pot
+*** SUMMARY ***
+Total pot 147080 | No rake
+Board: [3c 4h Qd Ad Jh]
+Seat 1: nito59250 (small blind) showed [Kh Qs] and lost with One pair : Queens
+Seat 2: AA SalaGaDou (big blind) showed [Ac 5h] and won 147080 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3248563969631191058-79-1710607782 - Holdem no limit (80/350/700) - 2024/03/16 16:49:42 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #1 is the button
+Seat 2: AA SalaGaDou (147080, 1.55€ bounty)
+Seat 3: BigHugz (20928, 0.45€ bounty)
+Seat 4: P1xel7 (10910, 0.45€ bounty)
+Seat 5: Cervantine (26652, 0.45€ bounty)
+Seat 6: Louzoe23 (35055, 0.67€ bounty)
+*** ANTE/BLINDS ***
+AA SalaGaDou posts ante 80
+BigHugz posts ante 80
+P1xel7 posts ante 80
+Cervantine posts ante 80
+Louzoe23 posts ante 80
+AA SalaGaDou posts small blind 350
+BigHugz posts big blind 700
+Dealt to P1xel7 [3s Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Cervantine folds
+Louzoe23 raises 1050 to 1750
+AA SalaGaDou folds
+BigHugz calls 1050
+*** FLOP *** [5c 4d 8d]
+BigHugz checks
+Louzoe23 bets 1400
+BigHugz folds
+Louzoe23 collected 5650 from pot
+*** SUMMARY ***
+Total pot 5650 | No rake
+Board: [5c 4d 8d]
+Seat 6: Louzoe23 won 5650
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3248563969631191058-80-1710607822 - Holdem no limit (80/350/700) - 2024/03/16 16:50:22 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #2 is the button
+Seat 1: Blob72 (20000, 0.45€ bounty)
+Seat 2: AA SalaGaDou (146650, 1.55€ bounty)
+Seat 3: BigHugz (19098, 0.45€ bounty)
+Seat 4: P1xel7 (10830, 0.45€ bounty)
+Seat 5: Cervantine (26572, 0.45€ bounty)
+Seat 6: Louzoe23 (37475, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BigHugz posts ante 80
+P1xel7 posts ante 80
+Blob72 posts ante 80
+AA SalaGaDou posts ante 80
+Cervantine posts ante 80
+Louzoe23 posts ante 80
+BigHugz posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [2c 9s]
+*** PRE-FLOP *** 
+Cervantine raises 1750 to 2450
+Louzoe23 folds
+Blob72 folds
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Cervantine collected 3980 from pot
+*** SUMMARY ***
+Total pot 3980 | No rake
+Seat 5: Cervantine won 3980
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3248563969631191058-81-1710607845 - Holdem no limit (80/350/700) - 2024/03/16 16:50:45 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #3 is the button
+Seat 1: Blob72 (19920, 0.45€ bounty)
+Seat 2: AA SalaGaDou (146570, 1.55€ bounty)
+Seat 3: BigHugz (18668, 0.45€ bounty)
+Seat 4: P1xel7 (10050, 0.45€ bounty)
+Seat 5: Cervantine (28022, 0.45€ bounty)
+Seat 6: Louzoe23 (37395, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Cervantine posts ante 80
+Blob72 posts ante 80
+AA SalaGaDou posts ante 80
+BigHugz posts ante 80
+Louzoe23 posts ante 80
+P1xel7 posts small blind 350
+Cervantine posts big blind 700
+Dealt to P1xel7 [9h 5h]
+*** PRE-FLOP *** 
+Louzoe23 calls 700
+Blob72 calls 700
+AA SalaGaDou folds
+BigHugz folds
+P1xel7 folds
+Cervantine checks
+*** FLOP *** [2s 4s 7c]
+Cervantine checks
+Louzoe23 checks
+Blob72 checks
+*** TURN *** [2s 4s 7c][As]
+Cervantine bets 1026
+Louzoe23 calls 1026
+Blob72 folds
+*** RIVER *** [2s 4s 7c As][Jh]
+Cervantine bets 1744
+Louzoe23 calls 1744
+*** SHOW DOWN ***
+Louzoe23 shows [Ts Jc] (One pair : Jacks)
+Cervantine shows [6d Ah] (One pair : Aces)
+Cervantine collected 8470 from pot
+*** SUMMARY ***
+Total pot 8470 | No rake
+Board: [2s 4s 7c As Jh]
+Seat 5: Cervantine (big blind) showed [6d Ah] and won 8470 with One pair : Aces
+Seat 6: Louzoe23 showed [Ts Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3248563969631191058-82-1710607912 - Holdem no limit (100/400/800) - 2024/03/16 16:51:52 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #4 is the button
+Seat 1: Blob72 (19140, 0.45€ bounty)
+Seat 2: AA SalaGaDou (146490, 1.55€ bounty)
+Seat 3: BigHugz (18588, 0.45€ bounty)
+Seat 4: P1xel7 (9620, 0.45€ bounty)
+Seat 5: Cervantine (32942, 0.45€ bounty)
+Seat 6: Louzoe23 (33845, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Cervantine posts ante 100
+Louzoe23 posts ante 100
+Blob72 posts ante 100
+AA SalaGaDou posts ante 100
+BigHugz posts ante 100
+P1xel7 posts ante 100
+Cervantine posts small blind 400
+Louzoe23 posts big blind 800
+Dealt to P1xel7 [Qh 5c]
+*** PRE-FLOP *** 
+Blob72 folds
+AA SalaGaDou raises 800 to 1600
+BigHugz folds
+P1xel7 folds
+Cervantine folds
+Louzoe23 calls 800
+*** FLOP *** [8s Ad Ah]
+Louzoe23 checks
+AA SalaGaDou bets 1470
+Louzoe23 folds
+AA SalaGaDou collected 5670 from pot
+*** SUMMARY ***
+Total pot 5670 | No rake
+Board: [8s Ad Ah]
+Seat 2: AA SalaGaDou won 5670
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3248563969631191058-83-1710607931 - Holdem no limit (100/400/800) - 2024/03/16 16:52:11 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #5 is the button
+Seat 1: Blob72 (19040, 0.45€ bounty)
+Seat 2: AA SalaGaDou (148990, 1.55€ bounty)
+Seat 3: BigHugz (18488, 0.45€ bounty)
+Seat 4: P1xel7 (9520, 0.45€ bounty)
+Seat 5: Cervantine (32442, 0.45€ bounty)
+Seat 6: Louzoe23 (32145, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 100
+Blob72 posts ante 100
+AA SalaGaDou posts ante 100
+BigHugz posts ante 100
+P1xel7 posts ante 100
+Cervantine posts ante 100
+Louzoe23 posts small blind 400
+Blob72 posts big blind 800
+Dealt to P1xel7 [7s Kd]
+*** PRE-FLOP *** 
+AA SalaGaDou raises 1200 to 2000
+BigHugz raises 16388 to 18388 and is all-in
+P1xel7 folds
+Cervantine calls 18388
+Louzoe23 folds
+Blob72 folds
+AA SalaGaDou calls 16388
+*** FLOP *** [7h 8h 9h]
+AA SalaGaDou bets 130502 and is all-in
+Cervantine calls 13954 and is all-in
+*** TURN *** [7h 8h 9h][9c]
+*** RIVER *** [7h 8h 9h 9c][Kh]
+*** SHOW DOWN ***
+BigHugz shows [As Qs] (One pair : 9)
+AA SalaGaDou shows [Td Th] (Flush King high)
+Cervantine shows [Qh Ah] (Flush Ace high)
+Cervantine collected 84872 from main pot
+AA SalaGaDou collected 116548 from side pot 1
+*** SUMMARY ***
+Total pot 201420 | No rake
+Board: [7h 8h 9h 9c Kh]
+Seat 2: AA SalaGaDou showed [Td Th] and won 116548 with Flush King high
+Seat 3: BigHugz showed [As Qs] and lost with One pair : 9
+Seat 5: Cervantine (button) showed [Qh Ah] and won 84872 with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3248563969631191058-84-1710607970 - Holdem no limit (100/400/800) - 2024/03/16 16:52:50 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 1: Blob72 (18140, 0.45€ bounty)
+Seat 2: AA SalaGaDou (116548, 1.55€ bounty)
+Seat 4: P1xel7 (9420, 0.45€ bounty)
+Seat 5: Cervantine (84872, 0.67€ bounty)
+Seat 6: Louzoe23 (31645, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Blob72 posts ante 100
+AA SalaGaDou posts ante 100
+P1xel7 posts ante 100
+Cervantine posts ante 100
+Louzoe23 posts ante 100
+Blob72 posts small blind 400
+AA SalaGaDou posts big blind 800
+Dealt to P1xel7 [9d Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 800 to 1600
+Cervantine folds
+Louzoe23 calls 1600
+Blob72 calls 1200
+AA SalaGaDou calls 800
+*** FLOP *** [4c 8c 2s]
+Blob72 checks
+AA SalaGaDou checks
+P1xel7 checks
+Louzoe23 checks
+*** TURN *** [4c 8c 2s][7d]
+Blob72 checks
+AA SalaGaDou bets 2415
+P1xel7 folds
+Louzoe23 calls 2415
+Blob72 folds
+*** RIVER *** [4c 8c 2s 7d][5s]
+AA SalaGaDou bets 4106
+Louzoe23 raises 7918 to 12024
+AA SalaGaDou folds
+Louzoe23 collected 27860 from pot
+*** SUMMARY ***
+Total pot 27860 | No rake
+Board: [4c 8c 2s 7d 5s]
+Seat 6: Louzoe23 (button) won 27860
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3248563969631191058-85-1710608080 - Holdem no limit (100/400/800) - 2024/03/16 16:54:40 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #1 is the button
+Seat 1: Blob72 (16440, 0.45€ bounty)
+Seat 2: AA SalaGaDou (108327, 1.55€ bounty)
+Seat 3: Coulou78 (20000, 0.45€ bounty)
+Seat 4: P1xel7 (7720, 0.45€ bounty)
+Seat 5: Cervantine (84772, 0.67€ bounty)
+Seat 6: Louzoe23 (43366, 0.67€ bounty)
+*** ANTE/BLINDS ***
+AA SalaGaDou posts ante 100
+Coulou78 posts ante 100
+Blob72 posts ante 100
+P1xel7 posts ante 100
+Cervantine posts ante 100
+Louzoe23 posts ante 100
+AA SalaGaDou posts small blind 400
+Coulou78 posts big blind 800
+Dealt to P1xel7 [Qd 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Cervantine raises 1600 to 2400
+Louzoe23 folds
+Blob72 folds
+AA SalaGaDou folds
+Coulou78 raises 17500 to 19900 and is all-in
+Cervantine calls 17500
+*** FLOP *** [4c 5s Qs]
+*** TURN *** [4c 5s Qs][As]
+*** RIVER *** [4c 5s Qs As][Kh]
+*** SHOW DOWN ***
+Cervantine shows [Th Tc] (One pair : Tens)
+Coulou78 shows [Ah Qh] (Two pairs : Aces and Queens)
+Coulou78 collected 40800 from pot
+*** SUMMARY ***
+Total pot 40800 | No rake
+Board: [4c 5s Qs As Kh]
+Seat 3: Coulou78 (big blind) showed [Ah Qh] and won 40800 with Two pairs : Aces and Queens
+Seat 5: Cervantine showed [Th Tc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3248563969631191058-86-1710608460 - Holdem no limit (100/400/800) - 2024/03/16 17:01:00 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #2 is the button
+Seat 1: Blob72 (16340, 0.45€ bounty)
+Seat 2: AA SalaGaDou (107827, 1.55€ bounty)
+Seat 3: Coulou78 (40800, 0.45€ bounty)
+Seat 4: P1xel7 (7620, 0.45€ bounty)
+Seat 5: Cervantine (64772, 0.67€ bounty)
+Seat 6: Louzoe23 (43266, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Coulou78 posts ante 100
+P1xel7 posts ante 100
+Blob72 posts ante 100
+AA SalaGaDou posts ante 100
+Cervantine posts ante 100
+Louzoe23 posts ante 100
+Coulou78 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [3h 2s]
+*** PRE-FLOP *** 
+Cervantine raises 2000 to 2800
+Louzoe23 folds
+Blob72 folds
+AA SalaGaDou folds
+Coulou78 folds
+P1xel7 folds
+Cervantine collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 5: Cervantine won 4600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3248563969631191058-87-1710608501 - Holdem no limit (100/400/800) - 2024/03/16 17:01:41 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #3 is the button
+Seat 1: Blob72 (16240, 0.45€ bounty)
+Seat 2: AA SalaGaDou (107727, 1.55€ bounty)
+Seat 3: Coulou78 (40300, 0.45€ bounty)
+Seat 4: P1xel7 (6720, 0.45€ bounty)
+Seat 5: Cervantine (66472, 0.67€ bounty)
+Seat 6: Louzoe23 (43166, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+Cervantine posts ante 100
+Blob72 posts ante 100
+AA SalaGaDou posts ante 100
+Coulou78 posts ante 100
+Louzoe23 posts ante 100
+P1xel7 posts small blind 400
+Cervantine posts big blind 800
+Dealt to P1xel7 [5s 5h]
+*** PRE-FLOP *** 
+Louzoe23 folds
+Blob72 calls 800
+AA SalaGaDou calls 800
+Coulou78 folds
+P1xel7 raises 5820 to 6620 and is all-in
+Cervantine folds
+Blob72 folds
+AA SalaGaDou raises 101007 to 107627 and is all-in
+*** FLOP *** [3d Jh 6h]
+*** TURN *** [3d Jh 6h][2h]
+*** RIVER *** [3d Jh 6h 2h][4d]
+*** SHOW DOWN ***
+AA SalaGaDou shows [Ts Kh] (High card : King)
+P1xel7 shows [5s 5h] (Straight 6 high)
+P1xel7 collected 15440 from main pot
+AA SalaGaDou collected 101007 from side pot 1
+*** SUMMARY ***
+Total pot 116447 | No rake
+Board: [3d Jh 6h 2h 4d]
+Seat 2: AA SalaGaDou showed [Ts Kh] and won 101007 with High card : King
+Seat 4: P1xel7 (small blind) showed [5s 5h] and won 15440 with Straight 6 high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3248563969631191058-88-1710608559 - Holdem no limit (120/500/1000) - 2024/03/16 17:02:39 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #4 is the button
+Seat 1: Blob72 (15340, 0.45€ bounty)
+Seat 2: AA SalaGaDou (101007, 1.55€ bounty)
+Seat 3: Coulou78 (40200, 0.45€ bounty)
+Seat 4: P1xel7 (15440, 0.45€ bounty)
+Seat 5: Cervantine (65572, 0.67€ bounty)
+Seat 6: Louzoe23 (43066, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Cervantine posts ante 120
+Louzoe23 posts ante 120
+Blob72 posts ante 120
+AA SalaGaDou posts ante 120
+Coulou78 posts ante 120
+P1xel7 posts ante 120
+Cervantine posts small blind 500
+Louzoe23 posts big blind 1000
+Dealt to P1xel7 [5s 6c]
+*** PRE-FLOP *** 
+Blob72 calls 1000
+AA SalaGaDou folds
+Coulou78 folds
+P1xel7 folds
+Cervantine folds
+Louzoe23 checks
+*** FLOP *** [8h 8d As]
+Louzoe23 checks
+Blob72 bets 2093
+Louzoe23 folds
+Blob72 collected 5313 from pot
+*** SUMMARY ***
+Total pot 5313 | No rake
+Board: [8h 8d As]
+Seat 1: Blob72 won 5313
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3248563969631191058-89-1710608617 - Holdem no limit (120/500/1000) - 2024/03/16 17:03:37 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #5 is the button
+Seat 1: Blob72 (17440, 0.45€ bounty)
+Seat 3: Coulou78 (40080, 0.45€ bounty)
+Seat 4: P1xel7 (15320, 0.45€ bounty)
+Seat 5: Cervantine (64952, 0.67€ bounty)
+Seat 6: Louzoe23 (41946, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 120
+Blob72 posts ante 120
+Coulou78 posts ante 120
+P1xel7 posts ante 120
+Cervantine posts ante 120
+Louzoe23 posts small blind 500
+Blob72 posts big blind 1000
+Dealt to P1xel7 [Qd Ks]
+*** PRE-FLOP *** 
+Coulou78 folds
+P1xel7 raises 1000 to 2000
+Cervantine raises 6100 to 8100
+Louzoe23 folds
+Blob72 calls 7100
+P1xel7 folds
+*** FLOP *** [8h 7d Jd]
+Blob72 bets 6755
+Cervantine calls 6755
+*** TURN *** [8h 7d Jd][5c]
+Blob72 bets 2465 and is all-in
+Cervantine calls 2465
+*** RIVER *** [8h 7d Jd 5c][Kd]
+*** SHOW DOWN ***
+Blob72 shows [Ah 8c] (One pair : 8)
+Cervantine shows [Jh Jc] (Trips of Jacks)
+Cervantine collected 37740 from pot
+*** SUMMARY ***
+Total pot 37740 | No rake
+Board: [8h 7d Jd 5c Kd]
+Seat 1: Blob72 (big blind) showed [Ah 8c] and lost with One pair : 8
+Seat 5: Cervantine (button) showed [Jh Jc] and won 37740 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3248563969631191058-90-1710608660 - Holdem no limit (120/500/1000) - 2024/03/16 17:04:20 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 3: Coulou78 (39960, 0.45€ bounty)
+Seat 4: P1xel7 (13200, 0.45€ bounty)
+Seat 5: Cervantine (85252, 0.89€ bounty)
+Seat 6: Louzoe23 (41326, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Coulou78 posts ante 120
+P1xel7 posts ante 120
+Cervantine posts ante 120
+Louzoe23 posts ante 120
+Coulou78 posts big blind 1000
+Dealt to P1xel7 [4c 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Cervantine folds
+Louzoe23 calls 1000
+Coulou78 checks
+*** FLOP *** [6h Jc 8s]
+Coulou78 checks
+Louzoe23 checks
+*** TURN *** [6h Jc 8s][Ac]
+Coulou78 bets 1612
+Louzoe23 calls 1612
+*** RIVER *** [6h Jc 8s Ac][Jh]
+Coulou78 bets 1996
+Louzoe23 calls 1996
+*** SHOW DOWN ***
+Coulou78 shows [7c 2c] (One pair : Jacks)
+Louzoe23 shows [Jd 9s] (Trips of Jacks)
+Louzoe23 collected 9696 from pot
+*** SUMMARY ***
+Total pot 9696 | No rake
+Board: [6h Jc 8s Ac Jh]
+Seat 3: Coulou78 (big blind) showed [7c 2c] and lost with One pair : Jacks
+Seat 6: Louzoe23 (button) showed [Jd 9s] and won 9696 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3248563969631191058-91-1710608696 - Holdem no limit (120/500/1000) - 2024/03/16 17:04:56 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #1 is the button
+Seat 1: TYZAR (20000, 0.45€ bounty)
+Seat 2: Pol4r10 (28032, 0.89€ bounty)
+Seat 3: Coulou78 (35232, 0.45€ bounty)
+Seat 4: P1xel7 (13080, 0.45€ bounty)
+Seat 5: Cervantine (85132, 0.89€ bounty)
+Seat 6: Louzoe23 (46294, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Coulou78 posts ante 120
+P1xel7 posts ante 120
+Cervantine posts ante 120
+Louzoe23 posts ante 120
+Coulou78 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [4s 5h]
+*** PRE-FLOP *** 
+Cervantine raises 2000 to 3000
+Louzoe23 folds
+Coulou78 folds
+P1xel7 calls 2000
+*** FLOP *** [6c 7c As]
+P1xel7 checks
+Cervantine bets 4537
+P1xel7 calls 4537
+*** TURN *** [6c 7c As][7s]
+P1xel7 checks
+Cervantine bets 10435
+P1xel7 calls 5423 and is all-in
+*** RIVER *** [6c 7c As 7s][3c]
+*** SHOW DOWN ***
+P1xel7 shows [4s 5h] (Straight 7 high)
+Cervantine shows [Ad Js] (Two pairs : Aces and 7)
+Cervantine collected 5012 from side pot 1
+P1xel7 collected 26900 from main pot
+*** SUMMARY ***
+Total pot 31912 | No rake
+Board: [6c 7c As 7s 3c]
+Seat 4: P1xel7 (big blind) showed [4s 5h] and won 26900 with Straight 7 high
+Seat 5: Cervantine showed [Ad Js] and won 5012 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3248563969631191058-92-1710608744 - Holdem no limit (120/500/1000) - 2024/03/16 17:05:44 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #3 is the button
+Seat 1: TYZAR (20000, 0.45€ bounty)
+Seat 2: Pol4r10 (28032, 0.89€ bounty)
+Seat 3: Coulou78 (34612, 0.45€ bounty)
+Seat 4: P1xel7 (26900, 0.45€ bounty)
+Seat 5: Cervantine (72052, 0.89€ bounty)
+Seat 6: Louzoe23 (46174, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Cervantine posts ante 120
+TYZAR posts ante 120
+Pol4r10 posts ante 120
+Coulou78 posts ante 120
+Louzoe23 posts ante 120
+P1xel7 posts small blind 500
+Cervantine posts big blind 1000
+Dealt to P1xel7 [As 3s]
+*** PRE-FLOP *** 
+Louzoe23 folds
+TYZAR raises 1250 to 2250
+Pol4r10 folds
+Coulou78 calls 2250
+P1xel7 folds
+Cervantine folds
+*** FLOP *** [Qs 9h 3d]
+TYZAR checks
+Coulou78 checks
+*** TURN *** [Qs 9h 3d][7c]
+TYZAR bets 2352
+Coulou78 folds
+TYZAR collected 9072 from pot
+*** SUMMARY ***
+Total pot 9072 | No rake
+Board: [Qs 9h 3d 7c]
+Seat 1: TYZAR won 9072
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3248563969631191058-93-1710608784 - Holdem no limit (120/500/1000) - 2024/03/16 17:06:24 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #4 is the button
+Seat 1: TYZAR (24350, 0.45€ bounty)
+Seat 2: Pol4r10 (27912, 0.89€ bounty)
+Seat 3: Coulou78 (32242, 0.45€ bounty)
+Seat 4: P1xel7 (26280, 0.45€ bounty)
+Seat 5: Cervantine (70932, 0.89€ bounty)
+Seat 6: Louzoe23 (46054, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Cervantine posts ante 120
+Louzoe23 posts ante 120
+TYZAR posts ante 120
+Pol4r10 posts ante 120
+Coulou78 posts ante 120
+P1xel7 posts ante 120
+Cervantine posts small blind 500
+Louzoe23 posts big blind 1000
+Dealt to P1xel7 [4d 6c]
+*** PRE-FLOP *** 
+TYZAR raises 1250 to 2250
+Pol4r10 folds
+Coulou78 folds
+P1xel7 folds
+Cervantine calls 1750
+Louzoe23 calls 1250
+*** FLOP *** [8s Kc Jd]
+Cervantine checks
+Louzoe23 checks
+TYZAR checks
+*** TURN *** [8s Kc Jd][2h]
+Cervantine checks
+Louzoe23 checks
+TYZAR checks
+*** RIVER *** [8s Kc Jd 2h][5h]
+Cervantine checks
+Louzoe23 checks
+TYZAR checks
+*** SHOW DOWN ***
+Cervantine shows [Ts Qs] (High card : King)
+Louzoe23 shows [4h Ah] (High card : Ace)
+TYZAR shows [3c 3h] (One pair : 3)
+TYZAR collected 7470 from pot
+*** SUMMARY ***
+Total pot 7470 | No rake
+Board: [8s Kc Jd 2h 5h]
+Seat 1: TYZAR showed [3c 3h] and won 7470 with One pair : 3
+Seat 5: Cervantine (small blind) showed [Ts Qs] and lost with High card : King
+Seat 6: Louzoe23 (big blind) showed [4h Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3248563969631191058-94-1710608828 - Holdem no limit (140/600/1200) - 2024/03/16 17:07:08 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #5 is the button
+Seat 1: TYZAR (29450, 0.45€ bounty)
+Seat 2: Pol4r10 (27792, 0.89€ bounty)
+Seat 3: Coulou78 (32122, 0.45€ bounty)
+Seat 4: P1xel7 (26160, 0.45€ bounty)
+Seat 5: Cervantine (68562, 0.89€ bounty)
+Seat 6: Louzoe23 (43684, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Louzoe23 posts ante 140
+TYZAR posts ante 140
+Pol4r10 posts ante 140
+Coulou78 posts ante 140
+P1xel7 posts ante 140
+Cervantine posts ante 140
+Louzoe23 posts small blind 600
+TYZAR posts big blind 1200
+Dealt to P1xel7 [Js 4s]
+*** PRE-FLOP *** 
+Pol4r10 folds
+Coulou78 folds
+P1xel7 folds
+Cervantine folds
+Louzoe23 calls 600
+TYZAR checks
+*** FLOP *** [2d 9d 9h]
+Louzoe23 checks
+TYZAR checks
+*** TURN *** [2d 9d 9h][5c]
+Louzoe23 bets 1200
+TYZAR folds
+Louzoe23 collected 4440 from pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Board: [2d 9d 9h 5c]
+Seat 6: Louzoe23 (small blind) won 4440
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3248563969631191058-95-1710608866 - Holdem no limit (140/600/1200) - 2024/03/16 17:07:46 UTC
+Table: 'Kill The Fish(756365240)#017' 6-max (real money) Seat #6 is the button
+Seat 1: TYZAR (28110, 0.45€ bounty)
+Seat 2: Pol4r10 (27652, 0.89€ bounty)
+Seat 3: Coulou78 (31982, 0.45€ bounty)
+Seat 4: P1xel7 (26020, 0.45€ bounty)
+Seat 5: Cervantine (68422, 0.89€ bounty)
+Seat 6: Louzoe23 (45584, 0.67€ bounty)
+*** ANTE/BLINDS ***
+TYZAR posts ante 140
+Pol4r10 posts ante 140
+Coulou78 posts ante 140
+P1xel7 posts ante 140
+Cervantine posts ante 140
+Louzoe23 posts ante 140
+TYZAR posts small blind 600
+Pol4r10 posts big blind 1200
+Dealt to P1xel7 [Qs Qd]
+*** PRE-FLOP *** 
+Coulou78 folds
+P1xel7 raises 1200 to 2400
+Cervantine folds
+Louzoe23 folds
+TYZAR calls 1800
+Pol4r10 calls 1200
+*** FLOP *** [8c Th Td]
+TYZAR checks
+Pol4r10 checks
+P1xel7 checks
+*** TURN *** [8c Th Td][7c]
+TYZAR bets 5226
+Pol4r10 folds
+P1xel7 calls 5226
+*** RIVER *** [8c Th Td 7c][Tc]
+TYZAR bets 20344 and is all-in
+P1xel7 calls 18254 and is all-in
+*** SHOW DOWN ***
+P1xel7 shows [Qs Qd] (Full of Tens and Queens)
+TYZAR shows [Jc Ts] (Quads of Tens)
+TYZAR collected 57090 from pot
+*** SUMMARY ***
+Total pot 57090 | No rake
+Board: [8c Th Td 7c Tc]
+Seat 1: TYZAR (small blind) showed [Jc Ts] and won 57090 with Quads of Tens
+Seat 4: P1xel7 showed [Qs Qd] and lost with Full of Tens and Queens
+
+

@@ -1,0 +1,357 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268453486437597185-1-1709060670 - Holdem no limit (10/20) - 2024/02/27 19:04:30 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Nedelec Q. (500)
+Seat 2: ForceNaif560 (500)
+Seat 3: P1xel7 (500)
+Seat 4: Dzshoove (500)
+Seat 5: Trax72 (500)
+Seat 6: Rey.D.Nato (500)
+*** ANTE/BLINDS ***
+ForceNaif560 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [5d 3d]
+*** PRE-FLOP *** 
+Dzshoove raises 480 to 500 and is all-in
+Trax72 calls 500 and is all-in
+Rey.D.Nato folds
+Nedelec Q. folds
+ForceNaif560 calls 490 and is all-in
+P1xel7 folds
+*** FLOP *** [8h 3h 5h]
+*** TURN *** [8h 3h 5h][Kc]
+*** RIVER *** [8h 3h 5h Kc][Ad]
+*** SHOW DOWN ***
+ForceNaif560 shows [4s Ac] (One pair : Aces)
+Dzshoove shows [5c 3s] (Two pairs : 5 and 3)
+Trax72 shows [Ks 8c] (Two pairs : Kings and 8)
+Trax72 collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [8h 3h 5h Kc Ad]
+Seat 2: ForceNaif560 (small blind) showed [4s Ac] and lost with One pair : Aces
+Seat 4: Dzshoove showed [5c 3s] and lost with Two pairs : 5 and 3
+Seat 5: Trax72 showed [Ks 8c] and won 1520 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268453486437597185-2-1709060703 - Holdem no limit (10/20) - 2024/02/27 19:05:03 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Nedelec Q. (500)
+Seat 3: P1xel7 (480)
+Seat 5: Trax72 (1520)
+Seat 6: Rey.D.Nato (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Trax72 posts big blind 20
+Dealt to P1xel7 [6h 3h]
+*** PRE-FLOP *** 
+Rey.D.Nato folds
+Nedelec Q. raises 480 to 500 and is all-in
+P1xel7 folds
+Trax72 raises 1020 to 1520 and is all-in
+*** FLOP *** [8c Ad 9c]
+*** TURN *** [8c Ad 9c][8s]
+*** RIVER *** [8c Ad 9c 8s][Kh]
+*** SHOW DOWN ***
+Nedelec Q. shows [Kd Tc] (Two pairs : Kings and 8)
+Trax72 shows [As 6s] (Two pairs : Aces and 8)
+Trax72 collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Board: [8c Ad 9c 8s Kh]
+Seat 1: Nedelec Q. showed [Kd Tc] and lost with Two pairs : Kings and 8
+Seat 5: Trax72 (big blind) showed [As 6s] and won 2030 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268453486437597185-3-1709060728 - Holdem no limit (10/20) - 2024/02/27 19:05:28 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #3 is the button
+Seat 3: P1xel7 (470)
+Seat 5: Trax72 (2030)
+Seat 6: Rey.D.Nato (500)
+*** ANTE/BLINDS ***
+Trax72 posts small blind 10
+Rey.D.Nato posts big blind 20
+Dealt to P1xel7 [2s 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Trax72 raises 2010 to 2030 and is all-in
+Rey.D.Nato folds
+Trax72 collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | No rake
+Seat 5: Trax72 (small blind) won 2050
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268453486437597185-4-1709060741 - Holdem no limit (10/20) - 2024/02/27 19:05:41 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #5 is the button
+Seat 3: P1xel7 (470)
+Seat 5: Trax72 (2050)
+Seat 6: Rey.D.Nato (480)
+*** ANTE/BLINDS ***
+Rey.D.Nato posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Jc Th]
+*** PRE-FLOP *** 
+Trax72 raises 2030 to 2050 and is all-in
+Rey.D.Nato folds
+P1xel7 folds
+Trax72 collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Seat 5: Trax72 (button) won 2080
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268453486437597185-5-1709060752 - Holdem no limit (10/20) - 2024/02/27 19:05:52 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #6 is the button
+Seat 3: P1xel7 (450)
+Seat 5: Trax72 (2080)
+Seat 6: Rey.D.Nato (470)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Trax72 posts big blind 20
+Dealt to P1xel7 [Ts Js]
+*** PRE-FLOP *** 
+Rey.D.Nato folds
+P1xel7 raises 20 to 40
+Trax72 calls 20
+*** FLOP *** [Jc Qs 5h]
+P1xel7 bets 60
+Trax72 calls 60
+*** TURN *** [Jc Qs 5h][5s]
+P1xel7 bets 60
+Trax72 calls 60
+*** RIVER *** [Jc Qs 5h 5s][7d]
+P1xel7 bets 112
+Trax72 calls 112
+*** SHOW DOWN ***
+P1xel7 shows [Ts Js] (Two pairs : Jacks and 5)
+Trax72 shows [7s Jh] (Two pairs : Jacks and 7)
+Trax72 collected 544 from pot
+*** SUMMARY ***
+Total pot 544 | No rake
+Board: [Jc Qs 5h 5s 7d]
+Seat 3: P1xel7 (small blind) showed [Ts Js] and lost with Two pairs : Jacks and 5
+Seat 5: Trax72 (big blind) showed [7s Jh] and won 544 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268453486437597185-6-1709060786 - Holdem no limit (15/30) - 2024/02/27 19:06:26 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #3 is the button
+Seat 3: P1xel7 (178)
+Seat 5: Trax72 (2352)
+Seat 6: Rey.D.Nato (470)
+*** ANTE/BLINDS ***
+Trax72 posts small blind 15
+Rey.D.Nato posts big blind 30
+Dealt to P1xel7 [9s Ad]
+*** PRE-FLOP *** 
+P1xel7 raises 148 to 178 and is all-in
+Trax72 calls 163
+Rey.D.Nato folds
+*** FLOP *** [Ah Td 7d]
+*** TURN *** [Ah Td 7d][As]
+*** RIVER *** [Ah Td 7d As][8h]
+*** SHOW DOWN ***
+Trax72 shows [Jd Js] (Two pairs : Aces and Jacks)
+P1xel7 shows [9s Ad] (Trips of Aces)
+P1xel7 collected 386 from pot
+*** SUMMARY ***
+Total pot 386 | No rake
+Board: [Ah Td 7d As 8h]
+Seat 3: P1xel7 (button) showed [9s Ad] and won 386 with Trips of Aces
+Seat 5: Trax72 (small blind) showed [Jd Js] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268453486437597185-7-1709060803 - Holdem no limit (15/30) - 2024/02/27 19:06:43 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #5 is the button
+Seat 3: P1xel7 (386)
+Seat 5: Trax72 (2174)
+Seat 6: Rey.D.Nato (440)
+*** ANTE/BLINDS ***
+Rey.D.Nato posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [8s Jc]
+*** PRE-FLOP *** 
+Trax72 calls 30
+Rey.D.Nato folds
+P1xel7 checks
+*** FLOP *** [As 9s Qc]
+P1xel7 checks
+Trax72 bets 75
+P1xel7 folds
+Trax72 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [As 9s Qc]
+Seat 5: Trax72 (button) won 150
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268453486437597185-8-1709060835 - Holdem no limit (15/30) - 2024/02/27 19:07:15 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #6 is the button
+Seat 3: P1xel7 (356)
+Seat 5: Trax72 (2219)
+Seat 6: Rey.D.Nato (425)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Trax72 posts big blind 30
+Dealt to P1xel7 [Ah Jc]
+*** PRE-FLOP *** 
+Rey.D.Nato raises 395 to 425 and is all-in
+P1xel7 calls 341 and is all-in
+Trax72 folds
+*** FLOP *** [7c Jd 7d]
+*** TURN *** [7c Jd 7d][3d]
+*** RIVER *** [7c Jd 7d 3d][Kh]
+*** SHOW DOWN ***
+P1xel7 shows [Ah Jc] (Two pairs : Jacks and 7)
+Rey.D.Nato shows [Qs Ad] (One pair : 7)
+Rey.D.Nato collected 69 from side pot 1
+P1xel7 collected 742 from main pot
+*** SUMMARY ***
+Total pot 811 | No rake
+Board: [7c Jd 7d 3d Kh]
+Seat 3: P1xel7 (small blind) showed [Ah Jc] and won 742 with Two pairs : Jacks and 7
+Seat 6: Rey.D.Nato (button) showed [Qs Ad] and won 69 with One pair : 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453486437597185-9-1709060855 - Holdem no limit (20/40) - 2024/02/27 19:07:35 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #3 is the button
+Seat 3: P1xel7 (742)
+Seat 5: Trax72 (2189)
+Seat 6: Rey.D.Nato (69)
+*** ANTE/BLINDS ***
+Trax72 posts small blind 20
+Rey.D.Nato posts big blind 40
+Dealt to P1xel7 [4s Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Trax72 folds
+Rey.D.Nato collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: Rey.D.Nato (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453486437597185-10-1709060868 - Holdem no limit (20/40) - 2024/02/27 19:07:48 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #5 is the button
+Seat 3: P1xel7 (742)
+Seat 5: Trax72 (2169)
+Seat 6: Rey.D.Nato (89)
+*** ANTE/BLINDS ***
+Rey.D.Nato posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [7h Tc]
+*** PRE-FLOP *** 
+Trax72 folds
+Rey.D.Nato raises 49 to 89 and is all-in
+P1xel7 folds
+Rey.D.Nato collected 129 from pot
+*** SUMMARY ***
+Total pot 129 | No rake
+Seat 6: Rey.D.Nato (small blind) won 129
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453486437597185-11-1709060881 - Holdem no limit (20/40) - 2024/02/27 19:08:01 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #6 is the button
+Seat 3: P1xel7 (702)
+Seat 5: Trax72 (2169)
+Seat 6: Rey.D.Nato (129)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Trax72 posts big blind 40
+Dealt to P1xel7 [6s Kd]
+*** PRE-FLOP *** 
+Rey.D.Nato raises 89 to 129 and is all-in
+P1xel7 folds
+Trax72 calls 89
+*** FLOP *** [9s Qs Ts]
+*** TURN *** [9s Qs Ts][Tc]
+*** RIVER *** [9s Qs Ts Tc][8d]
+*** SHOW DOWN ***
+Trax72 shows [As 3h] (One pair : Tens)
+Rey.D.Nato shows [Ac 3s] (One pair : Tens)
+Rey.D.Nato collected 139 from pot
+Trax72 collected 139 from pot
+*** SUMMARY ***
+Total pot 278 | No rake
+Board: [9s Qs Ts Tc 8d]
+Seat 5: Trax72 (big blind) showed [As 3h] and won 139 with One pair : Tens
+Seat 6: Rey.D.Nato (button) showed [Ac 3s] and won 139 with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453486437597185-12-1709060901 - Holdem no limit (20/40) - 2024/02/27 19:08:21 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #3 is the button
+Seat 3: P1xel7 (682)
+Seat 5: Trax72 (2179)
+Seat 6: Rey.D.Nato (139)
+*** ANTE/BLINDS ***
+Trax72 posts small blind 20
+Rey.D.Nato posts big blind 40
+Dealt to P1xel7 [7h 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Trax72 calls 20
+Rey.D.Nato raises 99 to 139 and is all-in
+Trax72 calls 99
+*** FLOP *** [5d 3h Tc]
+*** TURN *** [5d 3h Tc][9h]
+*** RIVER *** [5d 3h Tc 9h][As]
+*** SHOW DOWN ***
+Trax72 shows [6c 5c] (One pair : 5)
+Rey.D.Nato shows [Ah 4c] (One pair : Aces)
+Rey.D.Nato collected 278 from pot
+*** SUMMARY ***
+Total pot 278 | No rake
+Board: [5d 3h Tc 9h As]
+Seat 5: Trax72 (small blind) showed [6c 5c] and lost with One pair : 5
+Seat 6: Rey.D.Nato (big blind) showed [Ah 4c] and won 278 with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453486437597185-13-1709060921 - Holdem no limit (20/40) - 2024/02/27 19:08:41 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #5 is the button
+Seat 3: P1xel7 (682)
+Seat 5: Trax72 (2040)
+Seat 6: Rey.D.Nato (278)
+*** ANTE/BLINDS ***
+Rey.D.Nato posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [6d Qd]
+*** PRE-FLOP *** 
+Trax72 folds
+Rey.D.Nato raises 238 to 278 and is all-in
+P1xel7 folds
+Rey.D.Nato collected 318 from pot
+*** SUMMARY ***
+Total pot 318 | No rake
+Seat 6: Rey.D.Nato (small blind) won 318
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453486437597185-14-1709060935 - Holdem no limit (20/40) - 2024/02/27 19:08:55 UTC
+Table: 'Starting Block WiPT - Déglingos(760996129)#0' 6-max (real money) Seat #6 is the button
+Seat 3: P1xel7 (642)
+Seat 5: Trax72 (2040)
+Seat 6: Rey.D.Nato (318)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Trax72 posts big blind 40
+Dealt to P1xel7 [3s Ah]
+*** PRE-FLOP *** 
+Rey.D.Nato raises 278 to 318 and is all-in
+P1xel7 calls 298
+Trax72 raises 1722 to 2040 and is all-in
+P1xel7 calls 324 and is all-in
+*** FLOP *** [5c 4d Kc]
+*** TURN *** [5c 4d Kc][Qh]
+*** RIVER *** [5c 4d Kc Qh][4c]
+*** SHOW DOWN ***
+P1xel7 shows [3s Ah] (One pair : 4)
+Trax72 shows [Qs Kd] (Two pairs : Kings and Queens)
+Rey.D.Nato shows [As 4s] (Trips of 4)
+Rey.D.Nato collected 954 from main pot
+Trax72 collected 2046 from side pot 1
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [5c 4d Kc Qh 4c]
+Seat 3: P1xel7 (small blind) showed [3s Ah] and lost with One pair : 4
+Seat 5: Trax72 (big blind) showed [Qs Kd] and won 2046 with Two pairs : Kings and Queens
+Seat 6: Rey.D.Nato (button) showed [As 4s] and won 954 with Trips of 4
+
+

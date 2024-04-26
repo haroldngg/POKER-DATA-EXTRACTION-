@@ -1,0 +1,166 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3135313116624060417-1-1702213685 - Holdem no limit (10/20) - 2023/12/10 13:08:05 UTC
+Table: 'Starting Block WiPT(729996971)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Lord E.K (1500)
+Seat 2: Fidelio6969 (1500)
+Seat 3: NA-Matador89 (1500)
+Seat 4: P1xel7 (1500)
+Seat 5: Absolut04 (1500)
+Seat 6: fisherman792 (1500)
+*** ANTE/BLINDS ***
+Absolut04 posts small blind 10
+fisherman792 posts big blind 20
+Dealt to P1xel7 [9h 5c]
+*** PRE-FLOP *** 
+Lord E.K folds
+Fidelio6969 folds
+NA-Matador89 raises 50 to 70
+P1xel7 folds
+Absolut04 raises 1430 to 1500 and is all-in
+fisherman792 folds
+NA-Matador89 calls 1430 and is all-in
+*** FLOP *** [Ks 6h 4s]
+*** TURN *** [Ks 6h 4s][2c]
+*** RIVER *** [Ks 6h 4s 2c][7h]
+*** SHOW DOWN ***
+NA-Matador89 shows [8d As] (High card : Ace)
+Absolut04 shows [6c Ac] (One pair : 6)
+Absolut04 collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [Ks 6h 4s 2c 7h]
+Seat 3: NA-Matador89 showed [8d As] and lost with High card : Ace
+Seat 5: Absolut04 (small blind) showed [6c Ac] and won 3020 with One pair : 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3135313116624060417-2-1702213721 - Holdem no limit (10/20) - 2023/12/10 13:08:41 UTC
+Table: 'Starting Block WiPT(729996971)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Lord E.K (1500)
+Seat 2: Fidelio6969 (1500)
+Seat 4: P1xel7 (1500)
+Seat 5: Absolut04 (3020)
+Seat 6: fisherman792 (1480)
+*** ANTE/BLINDS ***
+fisherman792 posts small blind 10
+Lord E.K posts big blind 20
+Dealt to P1xel7 [5d As]
+*** PRE-FLOP *** 
+Fidelio6969 folds
+P1xel7 raises 25 to 45
+Absolut04 folds
+fisherman792 calls 35
+Lord E.K raises 1455 to 1500 and is all-in
+P1xel7 folds
+fisherman792 folds
+Lord E.K collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Seat 1: Lord E.K (big blind) won 1590
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3135313116624060417-3-1702213755 - Holdem no limit (10/20) - 2023/12/10 13:09:15 UTC
+Table: 'Starting Block WiPT(729996971)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Lord E.K (1590)
+Seat 2: Fidelio6969 (1500)
+Seat 4: P1xel7 (1455)
+Seat 5: Absolut04 (3020)
+Seat 6: fisherman792 (1435)
+*** ANTE/BLINDS ***
+Lord E.K posts small blind 10
+Fidelio6969 posts big blind 20
+Dealt to P1xel7 [Ac 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Absolut04 folds
+fisherman792 calls 20
+Lord E.K raises 1570 to 1590 and is all-in
+Fidelio6969 folds
+fisherman792 folds
+Lord E.K collected 1630 from pot
+*** SUMMARY ***
+Total pot 1630 | No rake
+Seat 1: Lord E.K (small blind) won 1630
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #3135313116624060417-4-1702213802 - Holdem no limit (15/30) - 2023/12/10 13:10:02 UTC
+Table: 'Starting Block WiPT(729996971)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Lord E.K (1630)
+Seat 2: Fidelio6969 (1480)
+Seat 4: P1xel7 (1455)
+Seat 5: Absolut04 (3020)
+Seat 6: fisherman792 (1415)
+*** ANTE/BLINDS ***
+Fidelio6969 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Th 7h]
+*** PRE-FLOP *** 
+Absolut04 folds
+fisherman792 raises 75 to 105
+Lord E.K folds
+Fidelio6969 folds
+P1xel7 folds
+fisherman792 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 6: fisherman792 won 150
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #3135313116624060417-5-1702213834 - Holdem no limit (15/30) - 2023/12/10 13:10:34 UTC
+Table: 'Starting Block WiPT(729996971)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Lord E.K (1630)
+Seat 2: Fidelio6969 (1465)
+Seat 4: P1xel7 (1425)
+Seat 5: Absolut04 (3020)
+Seat 6: fisherman792 (1460)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Absolut04 posts big blind 30
+Dealt to P1xel7 [3h 8c]
+*** PRE-FLOP *** 
+fisherman792 folds
+Lord E.K folds
+Fidelio6969 folds
+P1xel7 folds
+Absolut04 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 5: Absolut04 (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #3135313116624060417-6-1702213843 - Holdem no limit (15/30) - 2023/12/10 13:10:43 UTC
+Table: 'Starting Block WiPT(729996971)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Lord E.K (1630)
+Seat 2: Fidelio6969 (1465)
+Seat 4: P1xel7 (1410)
+Seat 5: Absolut04 (3035)
+Seat 6: fisherman792 (1460)
+*** ANTE/BLINDS ***
+Absolut04 posts small blind 15
+fisherman792 posts big blind 30
+Dealt to P1xel7 [Td Ts]
+*** PRE-FLOP *** 
+Lord E.K folds
+Fidelio6969 folds
+P1xel7 raises 45 to 75
+Absolut04 calls 60
+fisherman792 calls 45
+*** FLOP *** [3s Kd 4d]
+Absolut04 checks
+fisherman792 bets 225
+P1xel7 calls 225
+Absolut04 folds
+*** TURN *** [3s Kd 4d][Kc]
+fisherman792 bets 439
+P1xel7 raises 671 to 1110 and is all-in
+fisherman792 raises 50 to 1160 and is all-in
+*** RIVER *** [3s Kd 4d Kc][6s]
+*** SHOW DOWN ***
+P1xel7 shows [Td Ts] (Two pairs : Kings and Tens)
+fisherman792 shows [Kh Jc] (Trips of Kings)
+fisherman792 collected 2945 from pot
+*** SUMMARY ***
+Total pot 2945 | No rake
+Board: [3s Kd 4d Kc 6s]
+Seat 4: P1xel7 (button) showed [Td Ts] and lost with Two pairs : Kings and Tens
+Seat 6: fisherman792 (big blind) showed [Kh Jc] and won 2945 with Trips of Kings
+
+

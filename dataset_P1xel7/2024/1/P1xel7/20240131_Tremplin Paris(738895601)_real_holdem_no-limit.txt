@@ -1,0 +1,1042 @@
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3173532441453265460-40-1706729837 - Holdem no limit (40/80) - 2024/01/31 19:37:17 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #6 is the button
+Seat 1: Namo_is_back (2655)
+Seat 2: raikobill21 (3080)
+Seat 3: 149fafane (2976)
+Seat 4: P1xel7 (3000)
+Seat 5: shouf77 (2640)
+Seat 6: Fredhenry (4003)
+Seat 7: alanGo (2645)
+Seat 8: axman II (20285)
+*** ANTE/BLINDS ***
+alanGo posts small blind 40
+axman II posts big blind 80
+Dealt to P1xel7 [Jc Kc]
+*** PRE-FLOP *** 
+Namo_is_back folds
+raikobill21 folds
+149fafane folds
+P1xel7 raises 96 to 176
+shouf77 folds
+Fredhenry calls 176
+alanGo folds
+axman II calls 96
+*** FLOP *** [3s Qc Ts]
+axman II bets 568
+P1xel7 calls 568
+Fredhenry calls 568
+*** TURN *** [3s Qc Ts][2h]
+axman II bets 2272
+P1xel7 folds
+Fredhenry calls 2272
+*** RIVER *** [3s Qc Ts 2h][3c]
+axman II bets 2386
+Fredhenry calls 987 and is all-in
+*** SHOW DOWN ***
+Fredhenry shows [9d Th] (Two pairs : Tens and 3)
+axman II shows [Tc Qd] (Two pairs : Queens and Tens)
+axman II collected 10189 from pot
+*** SUMMARY ***
+Total pot 10189 | No rake
+Board: [3s Qc Ts 2h 3c]
+Seat 6: Fredhenry (button) showed [9d Th] and lost with Two pairs : Tens and 3
+Seat 8: axman II (big blind) showed [Tc Qd] and won 10189 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3173532441453265460-41-1706729900 - Holdem no limit (40/80) - 2024/01/31 19:38:20 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #7 is the button
+Seat 1: Namo_is_back (2655)
+Seat 2: raikobill21 (3080)
+Seat 3: 149fafane (2976)
+Seat 4: P1xel7 (2256)
+Seat 5: shouf77 (2640)
+Seat 7: alanGo (2605)
+Seat 8: axman II (25072)
+*** ANTE/BLINDS ***
+axman II posts small blind 40
+Namo_is_back posts big blind 80
+Dealt to P1xel7 [Td 5d]
+*** PRE-FLOP *** 
+raikobill21 calls 80
+149fafane folds
+P1xel7 folds
+shouf77 folds
+alanGo folds
+axman II calls 40
+Namo_is_back folds
+*** FLOP *** [6s 3d 6h]
+axman II checks
+raikobill21 checks
+*** TURN *** [6s 3d 6h][8h]
+axman II checks
+raikobill21 checks
+*** RIVER *** [6s 3d 6h 8h][Ts]
+axman II checks
+raikobill21 bets 240
+axman II folds
+raikobill21 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6s 3d 6h 8h Ts]
+Seat 2: raikobill21 won 480
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3173532441453265460-42-1706729946 - Holdem no limit (40/80) - 2024/01/31 19:39:06 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #8 is the button
+Seat 1: Namo_is_back (2575)
+Seat 2: raikobill21 (3240)
+Seat 3: 149fafane (2976)
+Seat 4: P1xel7 (2256)
+Seat 5: shouf77 (2640)
+Seat 6: Sensini95 (3000)
+Seat 7: alanGo (2605)
+Seat 8: axman II (24992)
+*** ANTE/BLINDS ***
+Namo_is_back posts small blind 40
+raikobill21 posts big blind 80
+Dealt to P1xel7 [6h Td]
+*** PRE-FLOP *** 
+149fafane folds
+P1xel7 folds
+shouf77 folds
+Sensini95 calls 80
+alanGo folds
+axman II calls 80
+Namo_is_back folds
+raikobill21 checks
+*** FLOP *** [7d 2d Qc]
+raikobill21 checks
+Sensini95 checks
+axman II bets 280
+raikobill21 folds
+Sensini95 folds
+axman II collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [7d 2d Qc]
+Seat 8: axman II (button) won 560
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3173532441453265460-43-1706729990 - Holdem no limit (40/80) - 2024/01/31 19:39:50 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #1 is the button
+Seat 1: Namo_is_back (2535)
+Seat 2: raikobill21 (3160)
+Seat 3: 149fafane (2976)
+Seat 4: P1xel7 (2256)
+Seat 5: shouf77 (2640)
+Seat 6: Sensini95 (2920)
+Seat 7: alanGo (2605)
+Seat 8: axman II (25192)
+*** ANTE/BLINDS ***
+raikobill21 posts small blind 40
+149fafane posts big blind 80
+Dealt to P1xel7 [7h Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+shouf77 folds
+Sensini95 folds
+alanGo folds
+axman II calls 80
+Namo_is_back folds
+raikobill21 calls 40
+149fafane checks
+*** FLOP *** [Qs 7c Kd]
+raikobill21 checks
+149fafane checks
+axman II checks
+*** TURN *** [Qs 7c Kd][6c]
+raikobill21 checks
+149fafane checks
+axman II bets 240
+raikobill21 folds
+149fafane calls 240
+*** RIVER *** [Qs 7c Kd 6c][Js]
+149fafane checks
+axman II checks
+*** SHOW DOWN ***
+149fafane shows [8c 2c] (High card : King)
+axman II shows [4c Tc] (High card : King)
+axman II collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Qs 7c Kd 6c Js]
+Seat 3: 149fafane (big blind) showed [8c 2c] and lost with High card : King
+Seat 8: axman II showed [4c Tc] and won 720 with High card : King
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-44-1706730038 - Holdem no limit (60/120) - 2024/01/31 19:40:38 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #2 is the button
+Seat 1: Namo_is_back (2535)
+Seat 2: raikobill21 (3080)
+Seat 3: 149fafane (2656)
+Seat 4: P1xel7 (2256)
+Seat 5: shouf77 (2640)
+Seat 6: Sensini95 (2920)
+Seat 7: alanGo (2605)
+Seat 8: axman II (25592)
+*** ANTE/BLINDS ***
+149fafane posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [2d Jh]
+*** PRE-FLOP *** 
+shouf77 folds
+Sensini95 calls 120
+alanGo folds
+axman II folds
+Namo_is_back folds
+raikobill21 calls 120
+149fafane calls 60
+P1xel7 checks
+*** FLOP *** [5h 2s 3c]
+149fafane bets 168
+P1xel7 folds
+Sensini95 folds
+raikobill21 folds
+149fafane collected 648 from pot
+*** SUMMARY ***
+Total pot 648 | No rake
+Board: [5h 2s 3c]
+Seat 3: 149fafane (small blind) won 648
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-45-1706730073 - Holdem no limit (60/120) - 2024/01/31 19:41:13 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #3 is the button
+Seat 1: Namo_is_back (2535)
+Seat 2: raikobill21 (2960)
+Seat 3: 149fafane (3016)
+Seat 4: P1xel7 (2136)
+Seat 5: shouf77 (2640)
+Seat 6: Sensini95 (2800)
+Seat 7: alanGo (2605)
+Seat 8: axman II (25592)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+shouf77 posts big blind 120
+Dealt to P1xel7 [Ts 5h]
+*** PRE-FLOP *** 
+Sensini95 folds
+alanGo folds
+axman II raises 120 to 240
+Namo_is_back folds
+raikobill21 folds
+149fafane folds
+P1xel7 folds
+shouf77 folds
+axman II collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 8: axman II won 420
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-46-1706730117 - Holdem no limit (60/120) - 2024/01/31 19:41:57 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #4 is the button
+Seat 1: Namo_is_back (2535)
+Seat 2: raikobill21 (2960)
+Seat 3: 149fafane (3016)
+Seat 4: P1xel7 (2076)
+Seat 5: shouf77 (2520)
+Seat 6: Sensini95 (2800)
+Seat 7: alanGo (2605)
+Seat 8: axman II (25772)
+*** ANTE/BLINDS ***
+shouf77 posts small blind 60
+Sensini95 posts big blind 120
+Dealt to P1xel7 [2c 2s]
+*** PRE-FLOP *** 
+alanGo folds
+axman II folds
+Namo_is_back folds
+raikobill21 folds
+149fafane raises 180 to 300
+P1xel7 calls 300
+shouf77 folds
+Sensini95 calls 180
+*** FLOP *** [Qs 9s 2d]
+Sensini95 checks
+149fafane bets 336
+P1xel7 calls 336
+Sensini95 folds
+*** TURN *** [Qs 9s 2d][8d]
+149fafane checks
+P1xel7 checks
+*** RIVER *** [Qs 9s 2d 8d][8h]
+149fafane bets 571
+P1xel7 raises 869 to 1440 and is all-in
+149fafane calls 869
+*** SHOW DOWN ***
+149fafane shows [9d Ac] (Two pairs : 9 and 8)
+P1xel7 shows [2c 2s] (Full of 2 and 8)
+P1xel7 collected 4512 from pot
+*** SUMMARY ***
+Total pot 4512 | No rake
+Board: [Qs 9s 2d 8d 8h]
+Seat 3: 149fafane showed [9d Ac] and lost with Two pairs : 9 and 8
+Seat 4: P1xel7 (button) showed [2c 2s] and won 4512 with Full of 2 and 8
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-47-1706730186 - Holdem no limit (60/120) - 2024/01/31 19:43:06 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #5 is the button
+Seat 1: Namo_is_back (2535)
+Seat 2: raikobill21 (2960)
+Seat 3: 149fafane (940)
+Seat 4: P1xel7 (4512)
+Seat 5: shouf77 (2460)
+Seat 6: Sensini95 (2500)
+Seat 7: alanGo (2605)
+Seat 8: axman II (25772)
+*** ANTE/BLINDS ***
+Sensini95 posts small blind 60
+alanGo posts big blind 120
+Dealt to P1xel7 [8h 5s]
+*** PRE-FLOP *** 
+axman II raises 120 to 240
+Namo_is_back folds
+raikobill21 folds
+149fafane folds
+P1xel7 folds
+shouf77 folds
+Sensini95 calls 180
+alanGo folds
+*** FLOP *** [2h 6d Td]
+Sensini95 checks
+axman II bets 600
+Sensini95 calls 600
+*** TURN *** [2h 6d Td][4h]
+Sensini95 checks
+axman II bets 1800
+Sensini95 folds
+axman II collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [2h 6d Td 4h]
+Seat 8: axman II won 3600
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-48-1706730234 - Holdem no limit (60/120) - 2024/01/31 19:43:54 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #6 is the button
+Seat 1: Namo_is_back (2535)
+Seat 2: raikobill21 (2960)
+Seat 3: 149fafane (940)
+Seat 4: P1xel7 (4512)
+Seat 5: shouf77 (2460)
+Seat 6: Sensini95 (1660)
+Seat 7: alanGo (2485)
+Seat 8: axman II (26732)
+*** ANTE/BLINDS ***
+alanGo posts small blind 60
+axman II posts big blind 120
+Dealt to P1xel7 [Th Jd]
+*** PRE-FLOP *** 
+Namo_is_back folds
+raikobill21 folds
+149fafane folds
+P1xel7 folds
+shouf77 folds
+Sensini95 raises 1540 to 1660 and is all-in
+alanGo folds
+axman II calls 1540
+*** FLOP *** [2d Qd 6s]
+*** TURN *** [2d Qd 6s][Kh]
+*** RIVER *** [2d Qd 6s Kh][4h]
+*** SHOW DOWN ***
+axman II shows [7s 8s] (High card : King)
+Sensini95 shows [Kc Qs] (Two pairs : Kings and Queens)
+Sensini95 collected 3380 from pot
+*** SUMMARY ***
+Total pot 3380 | No rake
+Board: [2d Qd 6s Kh 4h]
+Seat 6: Sensini95 (button) showed [Kc Qs] and won 3380 with Two pairs : Kings and Queens
+Seat 8: axman II (big blind) showed [7s 8s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-49-1706730275 - Holdem no limit (60/120) - 2024/01/31 19:44:35 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #7 is the button
+Seat 1: Namo_is_back (2535)
+Seat 2: raikobill21 (2960)
+Seat 3: 149fafane (940)
+Seat 4: P1xel7 (4512)
+Seat 5: shouf77 (2460)
+Seat 6: Sensini95 (3380)
+Seat 7: alanGo (2425)
+Seat 8: axman II (25072)
+*** ANTE/BLINDS ***
+axman II posts small blind 60
+Namo_is_back posts big blind 120
+Dealt to P1xel7 [5c 5s]
+*** PRE-FLOP *** 
+raikobill21 calls 120
+149fafane folds
+P1xel7 raises 360 to 480
+shouf77 folds
+Sensini95 folds
+alanGo folds
+axman II folds
+Namo_is_back folds
+raikobill21 calls 360
+*** FLOP *** [4s Td 8c]
+raikobill21 checks
+P1xel7 bets 399
+raikobill21 calls 399
+*** TURN *** [4s Td 8c][Qs]
+raikobill21 checks
+P1xel7 bets 969
+raikobill21 folds
+P1xel7 collected 2907 from pot
+*** SUMMARY ***
+Total pot 2907 | No rake
+Board: [4s Td 8c Qs]
+Seat 4: P1xel7 won 2907
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-50-1706730331 - Holdem no limit (60/120) - 2024/01/31 19:45:31 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #8 is the button
+Seat 1: Namo_is_back (2415)
+Seat 2: raikobill21 (2081)
+Seat 3: 149fafane (940)
+Seat 4: P1xel7 (5571)
+Seat 5: shouf77 (2460)
+Seat 6: Sensini95 (3380)
+Seat 7: alanGo (2425)
+Seat 8: axman II (25012)
+*** ANTE/BLINDS ***
+Namo_is_back posts small blind 60
+raikobill21 posts big blind 120
+Dealt to P1xel7 [8s 5h]
+*** PRE-FLOP *** 
+149fafane folds
+P1xel7 folds
+shouf77 folds
+Sensini95 folds
+alanGo folds
+axman II folds
+Namo_is_back folds
+raikobill21 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: raikobill21 (big blind) won 180
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-51-1706730343 - Holdem no limit (60/120) - 2024/01/31 19:45:43 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #1 is the button
+Seat 1: Namo_is_back (2355)
+Seat 2: raikobill21 (2141)
+Seat 3: 149fafane (940)
+Seat 4: P1xel7 (5571)
+Seat 5: shouf77 (2460)
+Seat 6: Sensini95 (3380)
+Seat 7: alanGo (2425)
+Seat 8: axman II (25012)
+*** ANTE/BLINDS ***
+raikobill21 posts small blind 60
+149fafane posts big blind 120
+Dealt to P1xel7 [4h 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+shouf77 folds
+Sensini95 folds
+alanGo folds
+axman II calls 120
+Namo_is_back folds
+raikobill21 calls 60
+149fafane checks
+*** FLOP *** [7s Qd 9d]
+raikobill21 bets 234
+149fafane folds
+axman II folds
+raikobill21 collected 594 from pot
+*** SUMMARY ***
+Total pot 594 | No rake
+Board: [7s Qd 9d]
+Seat 2: raikobill21 (small blind) won 594
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-52-1706730383 - Holdem no limit (60/120) - 2024/01/31 19:46:23 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #2 is the button
+Seat 1: Namo_is_back (2355)
+Seat 2: raikobill21 (2381)
+Seat 3: 149fafane (820)
+Seat 4: P1xel7 (5571)
+Seat 5: shouf77 (2460)
+Seat 6: Sensini95 (3380)
+Seat 7: alanGo (2425)
+Seat 8: axman II (24892)
+*** ANTE/BLINDS ***
+149fafane posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [2s Ts]
+*** PRE-FLOP *** 
+shouf77 folds
+Sensini95 folds
+alanGo folds
+axman II raises 180 to 300
+Namo_is_back folds
+raikobill21 calls 300
+149fafane folds
+P1xel7 folds
+*** FLOP *** [Qc 8d 6d]
+axman II bets 507
+raikobill21 folds
+axman II collected 1287 from pot
+*** SUMMARY ***
+Total pot 1287 | No rake
+Board: [Qc 8d 6d]
+Seat 8: axman II won 1287
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-53-1706730418 - Holdem no limit (60/120) - 2024/01/31 19:46:58 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #3 is the button
+Seat 1: Namo_is_back (2355)
+Seat 2: raikobill21 (2081)
+Seat 3: 149fafane (760)
+Seat 4: P1xel7 (5451)
+Seat 5: shouf77 (2460)
+Seat 6: Sensini95 (3380)
+Seat 7: alanGo (2425)
+Seat 8: axman II (25372)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+shouf77 posts big blind 120
+Dealt to P1xel7 [Ts 3c]
+*** PRE-FLOP *** 
+Sensini95 calls 120
+alanGo folds
+axman II folds
+Namo_is_back folds
+raikobill21 folds
+149fafane folds
+P1xel7 folds
+shouf77 folds
+Sensini95 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 6: Sensini95 won 300
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-54-1706730439 - Holdem no limit (60/120) - 2024/01/31 19:47:19 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #4 is the button
+Seat 1: Namo_is_back (2355)
+Seat 2: raikobill21 (2081)
+Seat 3: 149fafane (760)
+Seat 4: P1xel7 (5391)
+Seat 5: shouf77 (2340)
+Seat 6: Sensini95 (3560)
+Seat 7: alanGo (2425)
+Seat 8: axman II (25372)
+*** ANTE/BLINDS ***
+shouf77 posts small blind 60
+Sensini95 posts big blind 120
+Dealt to P1xel7 [8d 6s]
+*** PRE-FLOP *** 
+alanGo folds
+axman II calls 120
+Namo_is_back folds
+raikobill21 folds
+149fafane folds
+P1xel7 folds
+shouf77 folds
+Sensini95 checks
+*** FLOP *** [Qs 3s 9s]
+Sensini95 checks
+axman II checks
+*** TURN *** [Qs 3s 9s][Ah]
+Sensini95 checks
+axman II bets 195
+Sensini95 folds
+axman II collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [Qs 3s 9s Ah]
+Seat 8: axman II won 495
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3173532441453265460-55-1706730491 - Holdem no limit (60/120) - 2024/01/31 19:48:11 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #5 is the button
+Seat 1: Namo_is_back (2355)
+Seat 2: raikobill21 (2081)
+Seat 3: 149fafane (760)
+Seat 4: P1xel7 (5391)
+Seat 5: shouf77 (2280)
+Seat 6: Sensini95 (3440)
+Seat 7: alanGo (2425)
+Seat 8: axman II (25552)
+*** ANTE/BLINDS ***
+Sensini95 posts small blind 60
+alanGo posts big blind 120
+Dealt to P1xel7 [2s 7d]
+*** PRE-FLOP *** 
+axman II calls 120
+Namo_is_back folds
+raikobill21 calls 120
+149fafane folds
+P1xel7 folds
+shouf77 folds
+Sensini95 calls 60
+alanGo folds
+*** FLOP *** [5c 7s 9s]
+Sensini95 checks
+axman II checks
+raikobill21 bets 480
+Sensini95 folds
+axman II calls 480
+*** TURN *** [5c 7s 9s][2h]
+axman II checks
+raikobill21 bets 1481 and is all-in
+axman II folds
+raikobill21 collected 2921 from pot
+*** SUMMARY ***
+Total pot 2921 | No rake
+Board: [5c 7s 9s 2h]
+Seat 2: raikobill21 won 2921
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3173532441453265460-56-1706730548 - Holdem no limit (75/150) - 2024/01/31 19:49:08 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #6 is the button
+Seat 1: Namo_is_back (2355)
+Seat 2: raikobill21 (2921)
+Seat 3: 149fafane (760)
+Seat 4: P1xel7 (5391)
+Seat 5: shouf77 (2280)
+Seat 6: Sensini95 (3320)
+Seat 7: alanGo (2305)
+Seat 8: axman II (24952)
+*** ANTE/BLINDS ***
+alanGo posts small blind 75
+axman II posts big blind 150
+Dealt to P1xel7 [Qd Js]
+*** PRE-FLOP *** 
+Namo_is_back folds
+raikobill21 raises 225 to 375
+149fafane folds
+P1xel7 calls 375
+shouf77 folds
+Sensini95 folds
+alanGo folds
+axman II calls 225
+*** FLOP *** [4h Kh 3s]
+axman II checks
+raikobill21 bets 780
+P1xel7 folds
+axman II folds
+raikobill21 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [4h Kh 3s]
+Seat 2: raikobill21 won 1980
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3173532441453265460-57-1706730574 - Holdem no limit (75/150) - 2024/01/31 19:49:34 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #7 is the button
+Seat 1: Namo_is_back (2355)
+Seat 2: raikobill21 (3746)
+Seat 3: 149fafane (760)
+Seat 4: P1xel7 (5016)
+Seat 5: shouf77 (2280)
+Seat 6: Sensini95 (3320)
+Seat 7: alanGo (2230)
+Seat 8: axman II (24577)
+*** ANTE/BLINDS ***
+axman II posts small blind 75
+Namo_is_back posts big blind 150
+Dealt to P1xel7 [Ad 2h]
+*** PRE-FLOP *** 
+raikobill21 folds
+149fafane raises 610 to 760 and is all-in
+P1xel7 folds
+shouf77 folds
+Sensini95 folds
+alanGo folds
+axman II calls 685
+Namo_is_back folds
+*** FLOP *** [7d 9s 8h]
+*** TURN *** [7d 9s 8h][4h]
+*** RIVER *** [7d 9s 8h 4h][Qc]
+*** SHOW DOWN ***
+149fafane shows [Kh Ts] (High card : King)
+axman II shows [Jh 9h] (One pair : 9)
+axman II collected 1670 from pot
+*** SUMMARY ***
+Total pot 1670 | No rake
+Board: [7d 9s 8h 4h Qc]
+Seat 3: 149fafane showed [Kh Ts] and lost with High card : King
+Seat 8: axman II (small blind) showed [Jh 9h] and won 1670 with One pair : 9
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3173532441453265460-58-1706730596 - Holdem no limit (75/150) - 2024/01/31 19:49:56 UTC
+Table: 'Tremplin Paris(738895601)#0563' 8-max (real money) Seat #8 is the button
+Seat 1: Namo_is_back (2205)
+Seat 2: raikobill21 (3746)
+Seat 4: P1xel7 (5016)
+Seat 5: shouf77 (2280)
+Seat 6: Sensini95 (3320)
+Seat 7: alanGo (2230)
+Seat 8: axman II (25487)
+*** ANTE/BLINDS ***
+Namo_is_back posts small blind 75
+raikobill21 posts big blind 150
+Dealt to P1xel7 [4h 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+shouf77 folds
+Sensini95 folds
+alanGo folds
+axman II calls 150
+Namo_is_back calls 75
+raikobill21 checks
+*** FLOP *** [5d Js 5s]
+Namo_is_back checks
+raikobill21 bets 158
+axman II folds
+Namo_is_back folds
+raikobill21 collected 608 from pot
+*** SUMMARY ***
+Total pot 608 | No rake
+Board: [5d Js 5s]
+Seat 2: raikobill21 (big blind) won 608
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3173532441453265332-54-1706730654 - Holdem no limit (75/150) - 2024/01/31 19:50:54 UTC
+Table: 'Tremplin Paris(738895601)#0435' 8-max (real money) Seat #1 is the button
+Seat 1: rodpada (3600)
+Seat 2: -GaSoLiNe- (2295)
+Seat 3: P1xel7 (5016)
+Seat 4: Guta (2715)
+Seat 5: elmonstro666 (4273)
+Seat 6: tituxa (13724)
+Seat 7: Killkowin69 (19674)
+Seat 8: Jordanoss18 (2240)
+*** ANTE/BLINDS ***
+-GaSoLiNe- posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [5h Qc]
+*** PRE-FLOP *** 
+Guta calls 150
+elmonstro666 folds
+tituxa folds
+Killkowin69 folds
+Jordanoss18 folds
+rodpada folds
+-GaSoLiNe- folds
+P1xel7 checks
+*** FLOP *** [Kh 4c Jd]
+P1xel7 checks
+Guta bets 188
+P1xel7 folds
+Guta collected 563 from pot
+*** SUMMARY ***
+Total pot 563 | No rake
+Board: [Kh 4c Jd]
+Seat 4: Guta won 563
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3173532441453265332-55-1706730694 - Holdem no limit (75/150) - 2024/01/31 19:51:34 UTC
+Table: 'Tremplin Paris(738895601)#0435' 8-max (real money) Seat #2 is the button
+Seat 1: rodpada (3600)
+Seat 2: -GaSoLiNe- (2220)
+Seat 3: P1xel7 (4866)
+Seat 4: Guta (2940)
+Seat 5: elmonstro666 (4273)
+Seat 6: tituxa (13724)
+Seat 7: Killkowin69 (19674)
+Seat 8: Jordanoss18 (2240)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 75
+Guta posts big blind 150
+Dealt to P1xel7 [Th Ts]
+*** PRE-FLOP *** 
+elmonstro666 folds
+tituxa folds
+Killkowin69 raises 150 to 300
+Jordanoss18 folds
+rodpada folds
+-GaSoLiNe- folds
+P1xel7 raises 825 to 1125
+Guta folds
+Killkowin69 folds
+P1xel7 collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Seat 3: P1xel7 (small blind) won 1575
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3173532441453265332-56-1706730747 - Holdem no limit (75/150) - 2024/01/31 19:52:27 UTC
+Table: 'Tremplin Paris(738895601)#0435' 8-max (real money) Seat #3 is the button
+Seat 1: rodpada (3600)
+Seat 2: -GaSoLiNe- (2220)
+Seat 3: P1xel7 (5316)
+Seat 4: Guta (2790)
+Seat 5: elmonstro666 (4273)
+Seat 6: tituxa (13724)
+Seat 7: Killkowin69 (19374)
+Seat 8: Jordanoss18 (2240)
+*** ANTE/BLINDS ***
+Guta posts small blind 75
+elmonstro666 posts big blind 150
+Dealt to P1xel7 [8s 7d]
+*** PRE-FLOP *** 
+tituxa folds
+Killkowin69 raises 150 to 300
+Jordanoss18 folds
+rodpada folds
+-GaSoLiNe- folds
+P1xel7 folds
+Guta calls 225
+elmonstro666 folds
+*** FLOP *** [3d 3s Jc]
+Guta checks
+Killkowin69 checks
+*** TURN *** [3d 3s Jc][6c]
+Guta bets 263
+Killkowin69 folds
+Guta collected 1013 from pot
+*** SUMMARY ***
+Total pot 1013 | No rake
+Board: [3d 3s Jc 6c]
+Seat 4: Guta (small blind) won 1013
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3173532441453265332-57-1706730820 - Holdem no limit (75/150) - 2024/01/31 19:53:40 UTC
+Table: 'Tremplin Paris(738895601)#0435' 8-max (real money) Seat #4 is the button
+Seat 1: rodpada (3600)
+Seat 2: -GaSoLiNe- (2220)
+Seat 3: P1xel7 (5316)
+Seat 4: Guta (3240)
+Seat 5: elmonstro666 (4123)
+Seat 6: tituxa (13724)
+Seat 7: Killkowin69 (19074)
+Seat 8: Jordanoss18 (2240)
+*** ANTE/BLINDS ***
+elmonstro666 posts small blind 75
+tituxa posts big blind 150
+Dealt to P1xel7 [Ts Kd]
+*** PRE-FLOP *** 
+Killkowin69 folds
+Jordanoss18 folds
+rodpada raises 225 to 375
+-GaSoLiNe- folds
+P1xel7 calls 375
+Guta folds
+elmonstro666 folds
+tituxa calls 225
+*** FLOP *** [Js 6h 2c]
+tituxa checks
+rodpada bets 1200
+P1xel7 folds
+tituxa folds
+rodpada collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Board: [Js 6h 2c]
+Seat 1: rodpada won 2400
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3173532441453265332-58-1706730885 - Holdem no limit (75/150) - 2024/01/31 19:54:45 UTC
+Table: 'Tremplin Paris(738895601)#0435' 8-max (real money) Seat #5 is the button
+Seat 1: rodpada (4425)
+Seat 2: -GaSoLiNe- (2220)
+Seat 3: P1xel7 (4941)
+Seat 4: Guta (3240)
+Seat 5: elmonstro666 (4048)
+Seat 6: tituxa (13349)
+Seat 7: Killkowin69 (19074)
+Seat 8: Jordanoss18 (2240)
+*** ANTE/BLINDS ***
+tituxa posts small blind 75
+Killkowin69 posts big blind 150
+Dealt to P1xel7 [Ac Td]
+*** PRE-FLOP *** 
+Jordanoss18 folds
+rodpada folds
+-GaSoLiNe- folds
+P1xel7 raises 180 to 330
+Guta calls 330
+elmonstro666 folds
+tituxa folds
+Killkowin69 calls 180
+*** FLOP *** [9s 4h As]
+Killkowin69 checks
+P1xel7 bets 373
+Guta calls 373
+Killkowin69 calls 373
+*** TURN *** [9s 4h As][6c]
+Killkowin69 checks
+P1xel7 bets 900
+Guta raises 1637 to 2537 and is all-in
+Killkowin69 folds
+P1xel7 calls 1637
+*** RIVER *** [9s 4h As 6c][Ks]
+*** SHOW DOWN ***
+P1xel7 shows [Ac Td] (One pair : Aces)
+Guta shows [4c 4d] (Trips of 4)
+Guta collected 7258 from pot
+*** SUMMARY ***
+Total pot 7258 | No rake
+Board: [9s 4h As 6c Ks]
+Seat 3: P1xel7 showed [Ac Td] and lost with One pair : Aces
+Seat 4: Guta showed [4c 4d] and won 7258 with Trips of 4
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3173532441453265332-59-1706731261 - Holdem no limit (75/150) - 2024/01/31 20:01:01 UTC
+Table: 'Tremplin Paris(738895601)#0435' 8-max (real money) Seat #6 is the button
+Seat 1: rodpada (4425)
+Seat 2: -GaSoLiNe- (2220)
+Seat 3: P1xel7 (1701)
+Seat 4: Guta (7258)
+Seat 5: elmonstro666 (4048)
+Seat 6: tituxa (13274)
+Seat 7: Killkowin69 (18371)
+Seat 8: Jordanoss18 (2240)
+*** ANTE/BLINDS ***
+Killkowin69 posts small blind 75
+Jordanoss18 posts big blind 150
+Dealt to P1xel7 [Qs 9d]
+*** PRE-FLOP *** 
+rodpada folds
+-GaSoLiNe- calls 150
+P1xel7 folds
+Guta folds
+elmonstro666 folds
+tituxa calls 150
+Killkowin69 calls 75
+Jordanoss18 folds
+*** FLOP *** [8d As 6d]
+Killkowin69 checks
+-GaSoLiNe- bets 450
+tituxa calls 450
+Killkowin69 folds
+*** TURN *** [8d As 6d][Qd]
+-GaSoLiNe- checks
+tituxa checks
+*** RIVER *** [8d As 6d Qd][3d]
+-GaSoLiNe- bets 525
+tituxa folds
+-GaSoLiNe- collected 2025 from pot
+*** SUMMARY ***
+Total pot 2025 | No rake
+Board: [8d As 6d Qd 3d]
+Seat 2: -GaSoLiNe- won 2025
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3173532441453265332-60-1706731350 - Holdem no limit (15/75/150) - 2024/01/31 20:02:30 UTC
+Table: 'Tremplin Paris(738895601)#0435' 8-max (real money) Seat #7 is the button
+Seat 1: rodpada (4425)
+Seat 2: -GaSoLiNe- (3120)
+Seat 3: P1xel7 (1701)
+Seat 4: Guta (7258)
+Seat 5: elmonstro666 (4048)
+Seat 6: tituxa (12674)
+Seat 7: Killkowin69 (18221)
+Seat 8: Jordanoss18 (2090)
+*** ANTE/BLINDS ***
+Jordanoss18 posts ante 15
+rodpada posts ante 15
+-GaSoLiNe- posts ante 15
+P1xel7 posts ante 15
+Guta posts ante 15
+elmonstro666 posts ante 15
+tituxa posts ante 15
+Killkowin69 posts ante 15
+Jordanoss18 posts small blind 75
+rodpada posts big blind 150
+Dealt to P1xel7 [4d Jh]
+*** PRE-FLOP *** 
+-GaSoLiNe- calls 150
+P1xel7 folds
+Guta folds
+elmonstro666 folds
+tituxa folds
+Killkowin69 raises 300 to 450
+Jordanoss18 folds
+rodpada raises 3960 to 4410 and is all-in
+-GaSoLiNe- folds
+Killkowin69 calls 3960
+*** FLOP *** [4c 8h 9h]
+*** TURN *** [4c 8h 9h][4s]
+*** RIVER *** [4c 8h 9h 4s][6d]
+*** SHOW DOWN ***
+rodpada shows [7d Ac] (One pair : 4)
+Killkowin69 shows [3c 3h] (Two pairs : 4 and 3)
+Killkowin69 collected 9165 from pot
+*** SUMMARY ***
+Total pot 9165 | No rake
+Board: [4c 8h 9h 4s 6d]
+Seat 1: rodpada (big blind) showed [7d Ac] and lost with One pair : 4
+Seat 7: Killkowin69 (button) showed [3c 3h] and won 9165 with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3173532441453265332-61-1706731456 - Holdem no limit (15/75/150) - 2024/01/31 20:04:16 UTC
+Table: 'Tremplin Paris(738895601)#0435' 8-max (real money) Seat #8 is the button
+Seat 2: -GaSoLiNe- (2955)
+Seat 3: P1xel7 (1686)
+Seat 4: Guta (7243)
+Seat 5: elmonstro666 (4033)
+Seat 6: tituxa (12659)
+Seat 7: Killkowin69 (22961)
+Seat 8: Jordanoss18 (2000)
+*** ANTE/BLINDS ***
+-GaSoLiNe- posts ante 15
+P1xel7 posts ante 15
+Guta posts ante 15
+elmonstro666 posts ante 15
+tituxa posts ante 15
+Killkowin69 posts ante 15
+Jordanoss18 posts ante 15
+-GaSoLiNe- posts big blind 150
+Dealt to P1xel7 [2d Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+Guta folds
+elmonstro666 folds
+tituxa folds
+Killkowin69 folds
+Jordanoss18 folds
+-GaSoLiNe- collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 2: -GaSoLiNe- (big blind) won 255
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3173532441453265332-62-1706731471 - Holdem no limit (15/75/150) - 2024/01/31 20:04:31 UTC
+Table: 'Tremplin Paris(738895601)#0435' 8-max (real money) Seat #1 is the button
+Seat 1: Krisproll_75 (2520)
+Seat 2: -GaSoLiNe- (3045)
+Seat 3: P1xel7 (1671)
+Seat 4: Guta (7228)
+Seat 5: elmonstro666 (4018)
+Seat 6: tituxa (12644)
+Seat 7: Killkowin69 (22946)
+Seat 8: Jordanoss18 (1985)
+*** ANTE/BLINDS ***
+-GaSoLiNe- posts ante 15
+P1xel7 posts ante 15
+Guta posts ante 15
+elmonstro666 posts ante 15
+tituxa posts ante 15
+Killkowin69 posts ante 15
+Jordanoss18 posts ante 15
+-GaSoLiNe- posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [3s 3c]
+*** PRE-FLOP *** 
+Guta folds
+elmonstro666 folds
+tituxa raises 150 to 300
+Killkowin69 folds
+Jordanoss18 folds
+-GaSoLiNe- calls 225
+P1xel7 raises 1356 to 1656 and is all-in
+tituxa calls 1356
+-GaSoLiNe- folds
+*** FLOP *** [8h 4s Qs]
+*** TURN *** [8h 4s Qs][9d]
+*** RIVER *** [8h 4s Qs 9d][7c]
+*** SHOW DOWN ***
+P1xel7 shows [3s 3c] (One pair : 3)
+tituxa shows [7h Jh] (One pair : 7)
+tituxa collected 3717 from pot
+*** SUMMARY ***
+Total pot 3717 | No rake
+Board: [8h 4s Qs 9d 7c]
+Seat 3: P1xel7 (big blind) showed [3s 3c] and lost with One pair : 3
+Seat 6: tituxa showed [7h Jh] and won 3717 with One pair : 7
+
+

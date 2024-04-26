@@ -1,0 +1,622 @@
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3109921158300958751-18-1703460172 - Holdem no limit (4/17/35) - 2023/12/24 23:22:52 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (500, 0.90€ bounty)
+Seat 2: Songohan93 (492, 1.35€ bounty)
+Seat 3: AmrutA (955, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AmrutA posts ante 4
+P1xel7 posts ante 4
+Songohan93 posts ante 4
+AmrutA posts small blind 17
+P1xel7 posts big blind 35
+Dealt to P1xel7 [4s 2s]
+*** PRE-FLOP *** 
+Songohan93 raises 52 to 87
+AmrutA calls 70
+P1xel7 folds
+*** FLOP *** [8s 8c 9h]
+AmrutA bets 35
+Songohan93 calls 35
+*** TURN *** [8s 8c 9h][3h]
+AmrutA bets 102
+Songohan93 calls 102
+*** RIVER *** [8s 8c 9h 3h][Kh]
+AmrutA bets 248
+Songohan93 folds
+AmrutA collected 743 from pot
+*** SUMMARY ***
+Total pot 743 | No rake
+Board: [8s 8c 9h 3h Kh]
+Seat 3: AmrutA (small blind) won 743
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3109921158300958751-19-1703460226 - Holdem no limit (4/17/35) - 2023/12/24 23:23:46 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (461, 0.90€ bounty)
+Seat 2: Songohan93 (264, 1.35€ bounty)
+Seat 3: AmrutA (1222, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+Songohan93 posts ante 4
+AmrutA posts ante 4
+P1xel7 posts small blind 17
+Songohan93 posts big blind 35
+Dealt to P1xel7 [9h Ad]
+*** PRE-FLOP *** 
+AmrutA folds
+P1xel7 raises 422 to 457 and is all-in
+Songohan93 folds
+P1xel7 collected 504 from pot
+*** SUMMARY ***
+Total pot 504 | No rake
+Seat 1: P1xel7 (small blind) won 504
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3109921158300958751-20-1703460235 - Holdem no limit (4/17/35) - 2023/12/24 23:23:55 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (504, 0.90€ bounty)
+Seat 2: Songohan93 (225, 1.35€ bounty)
+Seat 3: AmrutA (1218, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Songohan93 posts ante 4
+AmrutA posts ante 4
+P1xel7 posts ante 4
+Songohan93 posts small blind 17
+AmrutA posts big blind 35
+Dealt to P1xel7 [Ks Ad]
+*** PRE-FLOP *** 
+P1xel7 raises 465 to 500 and is all-in
+Songohan93 folds
+AmrutA folds
+P1xel7 collected 564 from pot
+*** SUMMARY ***
+Total pot 564 | No rake
+Seat 1: P1xel7 (button) won 564
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3109921158300958751-21-1703460243 - Holdem no limit (4/17/35) - 2023/12/24 23:24:03 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (564, 0.90€ bounty)
+Seat 2: Songohan93 (204, 1.35€ bounty)
+Seat 3: AmrutA (1179, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AmrutA posts ante 4
+P1xel7 posts ante 4
+Songohan93 posts ante 4
+AmrutA posts small blind 17
+P1xel7 posts big blind 35
+Dealt to P1xel7 [Tc 2h]
+*** PRE-FLOP *** 
+Songohan93 folds
+AmrutA calls 18
+P1xel7 checks
+*** FLOP *** [5c 3d 6h]
+AmrutA bets 82
+P1xel7 folds
+AmrutA collected 164 from pot
+*** SUMMARY ***
+Total pot 164 | No rake
+Board: [5c 3d 6h]
+Seat 3: AmrutA (small blind) won 164
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3109921158300958751-22-1703460257 - Holdem no limit (4/17/35) - 2023/12/24 23:24:17 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (525, 0.90€ bounty)
+Seat 2: Songohan93 (200, 1.35€ bounty)
+Seat 3: AmrutA (1222, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+Songohan93 posts ante 4
+AmrutA posts ante 4
+P1xel7 posts small blind 17
+Songohan93 posts big blind 35
+Dealt to P1xel7 [Qd 7d]
+*** PRE-FLOP *** 
+AmrutA folds
+P1xel7 raises 486 to 521 and is all-in
+Songohan93 calls 161 and is all-in
+*** FLOP *** [6s 8c Ts]
+*** TURN *** [6s 8c Ts][Kc]
+*** RIVER *** [6s 8c Ts Kc][Jc]
+*** SHOW DOWN ***
+P1xel7 shows [Qd 7d] (High card : King)
+Songohan93 shows [Ks 8s] (Two pairs : Kings and 8)
+Songohan93 collected 404 from main pot
+P1xel7 collected 325 from side pot 1
+*** SUMMARY ***
+Total pot 729 | No rake
+Board: [6s 8c Ts Kc Jc]
+Seat 1: P1xel7 (small blind) showed [Qd 7d] and won 325 with High card : King
+Seat 2: Songohan93 (big blind) showed [Ks 8s] and won 404 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3109921158300958751-23-1703460271 - Holdem no limit (4/17/35) - 2023/12/24 23:24:31 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (325, 0.90€ bounty)
+Seat 2: Songohan93 (404, 1.35€ bounty)
+Seat 3: AmrutA (1218, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Songohan93 posts ante 4
+AmrutA posts ante 4
+P1xel7 posts ante 4
+Songohan93 posts small blind 17
+AmrutA posts big blind 35
+Dealt to P1xel7 [3h Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+Songohan93 raises 53 to 88
+AmrutA calls 53
+*** FLOP *** [9h Td Ah]
+Songohan93 checks
+AmrutA checks
+*** TURN *** [9h Td Ah][4d]
+Songohan93 bets 94
+AmrutA calls 94
+*** RIVER *** [9h Td Ah 4d][6s]
+Songohan93 bets 120
+AmrutA folds
+Songohan93 collected 496 from pot
+*** SUMMARY ***
+Total pot 496 | No rake
+Board: [9h Td Ah 4d 6s]
+Seat 2: Songohan93 (small blind) won 496
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3109921158300958751-24-1703460334 - Holdem no limit (5/20/40) - 2023/12/24 23:25:34 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (321, 0.90€ bounty)
+Seat 2: Songohan93 (594, 1.35€ bounty)
+Seat 3: AmrutA (1032, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AmrutA posts ante 5
+P1xel7 posts ante 5
+Songohan93 posts ante 5
+AmrutA posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [7h Js]
+*** PRE-FLOP *** 
+Songohan93 raises 60 to 100
+AmrutA folds
+P1xel7 folds
+Songohan93 collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | No rake
+Seat 2: Songohan93 (button) won 175
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3109921158300958751-25-1703460345 - Holdem no limit (5/20/40) - 2023/12/24 23:25:45 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (276, 0.90€ bounty)
+Seat 2: Songohan93 (664, 1.35€ bounty)
+Seat 3: AmrutA (1007, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+Songohan93 posts ante 5
+AmrutA posts ante 5
+P1xel7 posts small blind 20
+Songohan93 posts big blind 40
+Dealt to P1xel7 [6h 6d]
+*** PRE-FLOP *** 
+AmrutA calls 40
+P1xel7 raises 231 to 271 and is all-in
+Songohan93 calls 231
+AmrutA folds
+*** FLOP *** [6s 4d 7d]
+*** TURN *** [6s 4d 7d][7s]
+*** RIVER *** [6s 4d 7d 7s][3h]
+*** SHOW DOWN ***
+Songohan93 shows [Qc Jh] (One pair : 7)
+P1xel7 shows [6h 6d] (Full of 6 and 7)
+P1xel7 collected 597 from pot
+*** SUMMARY ***
+Total pot 597 | No rake
+Board: [6s 4d 7d 7s 3h]
+Seat 1: P1xel7 (small blind) showed [6h 6d] and won 597 with Full of 6 and 7
+Seat 2: Songohan93 (big blind) showed [Qc Jh] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3109921158300958751-26-1703460374 - Holdem no limit (5/20/40) - 2023/12/24 23:26:14 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (597, 0.90€ bounty)
+Seat 2: Songohan93 (388, 1.35€ bounty)
+Seat 3: AmrutA (962, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Songohan93 posts ante 5
+AmrutA posts ante 5
+P1xel7 posts ante 5
+Songohan93 posts small blind 20
+AmrutA posts big blind 40
+Dealt to P1xel7 [Ah 9d]
+*** PRE-FLOP *** 
+P1xel7 raises 40 to 80
+Songohan93 folds
+AmrutA raises 877 to 957 and is all-in
+P1xel7 folds
+AmrutA collected 1072 from pot
+*** SUMMARY ***
+Total pot 1072 | No rake
+Seat 3: AmrutA (big blind) won 1072
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3109921158300958751-27-1703460400 - Holdem no limit (5/20/40) - 2023/12/24 23:26:40 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (512, 0.90€ bounty)
+Seat 2: Songohan93 (363, 1.35€ bounty)
+Seat 3: AmrutA (1072, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AmrutA posts ante 5
+P1xel7 posts ante 5
+Songohan93 posts ante 5
+AmrutA posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [3c 4h]
+*** PRE-FLOP *** 
+Songohan93 folds
+AmrutA calls 20
+P1xel7 checks
+*** FLOP *** [7h Js 7c]
+AmrutA checks
+P1xel7 bets 48
+AmrutA folds
+P1xel7 collected 143 from pot
+*** SUMMARY ***
+Total pot 143 | No rake
+Board: [7h Js 7c]
+Seat 1: P1xel7 (big blind) won 143
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3109921158300958751-28-1703460419 - Holdem no limit (5/20/40) - 2023/12/24 23:26:59 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (562, 0.90€ bounty)
+Seat 2: Songohan93 (358, 1.35€ bounty)
+Seat 3: AmrutA (1027, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+Songohan93 posts ante 5
+AmrutA posts ante 5
+P1xel7 posts small blind 20
+Songohan93 posts big blind 40
+Dealt to P1xel7 [Ts 7h]
+*** PRE-FLOP *** 
+AmrutA calls 40
+P1xel7 folds
+Songohan93 raises 60 to 100
+AmrutA calls 60
+*** FLOP *** [9d 2d Tc]
+Songohan93 bets 253 and is all-in
+AmrutA calls 253
+*** TURN *** [9d 2d Tc][3s]
+*** RIVER *** [9d 2d Tc 3s][Qc]
+*** SHOW DOWN ***
+AmrutA shows [As 3h] (One pair : 3)
+Songohan93 shows [Kc Qh] (One pair : Queens)
+Songohan93 collected 741 from pot
+*** SUMMARY ***
+Total pot 741 | No rake
+Board: [9d 2d Tc 3s Qc]
+Seat 2: Songohan93 (big blind) showed [Kc Qh] and won 741 with One pair : Queens
+Seat 3: AmrutA (button) showed [As 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3109921158300958751-29-1703460443 - Holdem no limit (5/20/40) - 2023/12/24 23:27:23 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (537, 0.90€ bounty)
+Seat 2: Songohan93 (741, 1.35€ bounty)
+Seat 3: AmrutA (669, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Songohan93 posts ante 5
+AmrutA posts ante 5
+P1xel7 posts ante 5
+Songohan93 posts small blind 20
+AmrutA posts big blind 40
+Dealt to P1xel7 [7h Td]
+*** PRE-FLOP *** 
+P1xel7 folds
+Songohan93 calls 20
+AmrutA checks
+*** FLOP *** [Jc Kh 2c]
+Songohan93 checks
+AmrutA checks
+*** TURN *** [Jc Kh 2c][7s]
+Songohan93 checks
+AmrutA checks
+*** RIVER *** [Jc Kh 2c 7s][Qh]
+Songohan93 checks
+AmrutA checks
+*** SHOW DOWN ***
+AmrutA shows [5h 8d] (High card : King)
+Songohan93 shows [8s 9d] (High card : King)
+Songohan93 collected 95 from pot
+*** SUMMARY ***
+Total pot 95 | No rake
+Board: [Jc Kh 2c 7s Qh]
+Seat 2: Songohan93 (small blind) showed [8s 9d] and won 95 with High card : King
+Seat 3: AmrutA (big blind) showed [5h 8d] and lost with High card : King
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3109921158300958751-30-1703460474 - Holdem no limit (6/25/50) - 2023/12/24 23:27:54 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (532, 0.90€ bounty)
+Seat 2: Songohan93 (791, 1.35€ bounty)
+Seat 3: AmrutA (624, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AmrutA posts ante 6
+P1xel7 posts ante 6
+Songohan93 posts ante 6
+AmrutA posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [8s 3s]
+*** PRE-FLOP *** 
+Songohan93 raises 50 to 100
+AmrutA folds
+P1xel7 folds
+Songohan93 collected 193 from pot
+*** SUMMARY ***
+Total pot 193 | No rake
+Seat 2: Songohan93 (button) won 193
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3109921158300958751-31-1703460483 - Holdem no limit (6/25/50) - 2023/12/24 23:28:03 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (476, 0.90€ bounty)
+Seat 2: Songohan93 (878, 1.35€ bounty)
+Seat 3: AmrutA (593, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+Songohan93 posts ante 6
+AmrutA posts ante 6
+P1xel7 posts small blind 25
+Songohan93 posts big blind 50
+Dealt to P1xel7 [8d Tc]
+*** PRE-FLOP *** 
+AmrutA folds
+P1xel7 raises 50 to 100
+Songohan93 calls 50
+*** FLOP *** [Jd Ts 9c]
+P1xel7 bets 370 and is all-in
+Songohan93 folds
+P1xel7 collected 588 from pot
+*** SUMMARY ***
+Total pot 588 | No rake
+Board: [Jd Ts 9c]
+Seat 1: P1xel7 (small blind) won 588
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3109921158300958751-32-1703460502 - Holdem no limit (6/25/50) - 2023/12/24 23:28:22 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (588, 0.90€ bounty)
+Seat 2: Songohan93 (772, 1.35€ bounty)
+Seat 3: AmrutA (587, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Songohan93 posts ante 6
+AmrutA posts ante 6
+P1xel7 posts ante 6
+Songohan93 posts small blind 25
+AmrutA posts big blind 50
+Dealt to P1xel7 [2c 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Songohan93 calls 25
+AmrutA checks
+*** FLOP *** [6c 2s As]
+Songohan93 checks
+AmrutA bets 50
+Songohan93 calls 50
+*** TURN *** [6c 2s As][Kd]
+Songohan93 checks
+AmrutA checks
+*** RIVER *** [6c 2s As Kd][3s]
+Songohan93 bets 109
+AmrutA folds
+Songohan93 collected 327 from pot
+*** SUMMARY ***
+Total pot 327 | No rake
+Board: [6c 2s As Kd 3s]
+Seat 2: Songohan93 (small blind) won 327
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3109921158300958751-33-1703460531 - Holdem no limit (6/25/50) - 2023/12/24 23:28:51 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (582, 0.90€ bounty)
+Seat 2: Songohan93 (884, 1.35€ bounty)
+Seat 3: AmrutA (481, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AmrutA posts ante 6
+P1xel7 posts ante 6
+Songohan93 posts ante 6
+AmrutA posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [4h 7d]
+*** PRE-FLOP *** 
+Songohan93 folds
+AmrutA calls 25
+P1xel7 checks
+*** FLOP *** [8c Th As]
+AmrutA bets 50
+P1xel7 folds
+AmrutA collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | No rake
+Board: [8c Th As]
+Seat 3: AmrutA (small blind) won 168
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3109921158300958751-34-1703460566 - Holdem no limit (6/25/50) - 2023/12/24 23:29:26 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (526, 0.90€ bounty)
+Seat 2: Songohan93 (878, 1.35€ bounty)
+Seat 3: AmrutA (543, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+Songohan93 posts ante 6
+AmrutA posts ante 6
+P1xel7 posts small blind 25
+Songohan93 posts big blind 50
+Dealt to P1xel7 [2s 5c]
+*** PRE-FLOP *** 
+AmrutA raises 487 to 537 and is all-in
+P1xel7 folds
+Songohan93 folds
+AmrutA collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 3: AmrutA (button) won 630
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3109921158300958751-35-1703460579 - Holdem no limit (6/25/50) - 2023/12/24 23:29:39 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (495, 0.90€ bounty)
+Seat 2: Songohan93 (822, 1.35€ bounty)
+Seat 3: AmrutA (630, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Songohan93 posts ante 6
+AmrutA posts ante 6
+P1xel7 posts ante 6
+Songohan93 posts small blind 25
+AmrutA posts big blind 50
+Dealt to P1xel7 [2s 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Songohan93 folds
+AmrutA collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | No rake
+Seat 3: AmrutA (big blind) won 93
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3109921158300958751-36-1703460584 - Holdem no limit (6/25/50) - 2023/12/24 23:29:44 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (489, 0.90€ bounty)
+Seat 2: Songohan93 (791, 1.35€ bounty)
+Seat 3: AmrutA (667, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AmrutA posts ante 6
+P1xel7 posts ante 6
+Songohan93 posts ante 6
+AmrutA posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [8h Jc]
+*** PRE-FLOP *** 
+Songohan93 folds
+AmrutA calls 25
+P1xel7 raises 433 to 483 and is all-in
+AmrutA folds
+P1xel7 collected 551 from pot
+*** SUMMARY ***
+Total pot 551 | No rake
+Seat 1: P1xel7 (big blind) won 551
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3109921158300958751-37-1703460605 - Holdem no limit (7/30/60) - 2023/12/24 23:30:05 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (551, 0.90€ bounty)
+Seat 2: Songohan93 (785, 1.35€ bounty)
+Seat 3: AmrutA (611, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+Songohan93 posts ante 7
+AmrutA posts ante 7
+P1xel7 posts small blind 30
+Songohan93 posts big blind 60
+Dealt to P1xel7 [6c Qc]
+*** PRE-FLOP *** 
+AmrutA raises 60 to 120
+P1xel7 folds
+Songohan93 calls 60
+*** FLOP *** [8h 8c Ad]
+Songohan93 checks
+AmrutA bets 146
+Songohan93 folds
+AmrutA collected 437 from pot
+*** SUMMARY ***
+Total pot 437 | No rake
+Board: [8h 8c Ad]
+Seat 3: AmrutA (button) won 437
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3109921158300958751-38-1703460633 - Holdem no limit (7/30/60) - 2023/12/24 23:30:33 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (514, 0.90€ bounty)
+Seat 2: Songohan93 (658, 1.35€ bounty)
+Seat 3: AmrutA (775, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Songohan93 posts ante 7
+AmrutA posts ante 7
+P1xel7 posts ante 7
+Songohan93 posts small blind 30
+AmrutA posts big blind 60
+Dealt to P1xel7 [Ad 9c]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 120
+Songohan93 folds
+AmrutA calls 60
+*** FLOP *** [3s 4d 8c]
+AmrutA checks
+P1xel7 bets 73
+AmrutA folds
+P1xel7 collected 364 from pot
+*** SUMMARY ***
+Total pot 364 | No rake
+Board: [3s 4d 8c]
+Seat 1: P1xel7 (button) won 364
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3109921158300958751-39-1703460659 - Holdem no limit (7/30/60) - 2023/12/24 23:30:59 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (678, 0.90€ bounty)
+Seat 2: Songohan93 (621, 1.35€ bounty)
+Seat 3: AmrutA (648, 0.90€ bounty)
+*** ANTE/BLINDS ***
+AmrutA posts ante 7
+P1xel7 posts ante 7
+Songohan93 posts ante 7
+AmrutA posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [3s Js]
+*** PRE-FLOP *** 
+Songohan93 folds
+AmrutA calls 30
+P1xel7 checks
+*** FLOP *** [6d 4c 4s]
+AmrutA checks
+P1xel7 bets 71
+AmrutA raises 71 to 142
+P1xel7 folds
+AmrutA collected 354 from pot
+*** SUMMARY ***
+Total pot 354 | No rake
+Board: [6d 4c 4s]
+Seat 3: AmrutA (small blind) won 354
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3109921158300958751-40-1703460684 - Holdem no limit (7/30/60) - 2023/12/24 23:31:24 UTC
+Table: 'Trident(724084945)#0030' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (540, 0.90€ bounty)
+Seat 2: Songohan93 (614, 1.35€ bounty)
+Seat 3: AmrutA (793, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+Songohan93 posts ante 7
+AmrutA posts ante 7
+P1xel7 posts small blind 30
+Songohan93 posts big blind 60
+Dealt to P1xel7 [Kd Tc]
+*** PRE-FLOP *** 
+AmrutA folds
+P1xel7 raises 473 to 533 and is all-in
+Songohan93 calls 473
+*** FLOP *** [8h 5h 6s]
+*** TURN *** [8h 5h 6s][2h]
+*** RIVER *** [8h 5h 6s 2h][Js]
+*** SHOW DOWN ***
+P1xel7 shows [Kd Tc] (High card : King)
+Songohan93 shows [9c As] (High card : Ace)
+Songohan93 collected 1087 from pot
+*** SUMMARY ***
+Total pot 1087 | No rake
+Board: [8h 5h 6s 2h Js]
+Seat 1: P1xel7 (small blind) showed [Kd Tc] and lost with High card : King
+Seat 2: Songohan93 (big blind) showed [9c As] and won 1087 with High card : Ace
+
+

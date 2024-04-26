@@ -1,0 +1,477 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184090239865978881-1-1704743362 - Holdem no limit (10/20) - 2024/01/08 19:49:22 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (300)
+Seat 2: P1xel7 (300)
+Seat 3: FiB99 (300)
+*** ANTE/BLINDS ***
+FiB99 posts small blind 10
+Msabri69 posts big blind 20
+Dealt to P1xel7 [4s Kd]
+*** PRE-FLOP *** 
+P1xel7 folds
+FiB99 calls 10
+Msabri69 checks
+*** FLOP *** [Qc 9h Kh]
+FiB99 checks
+Msabri69 bets 20
+FiB99 folds
+Msabri69 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Qc 9h Kh]
+Seat 1: Msabri69 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184090239865978881-2-1704743378 - Holdem no limit (10/20) - 2024/01/08 19:49:38 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Msabri69 (320)
+Seat 2: P1xel7 (300)
+Seat 3: FiB99 (280)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8c 5h]
+*** PRE-FLOP *** 
+FiB99 raises 20 to 40
+Msabri69 raises 280 to 320 and is all-in
+P1xel7 folds
+FiB99 calls 240 and is all-in
+*** FLOP *** [9h 5c 9c]
+*** TURN *** [9h 5c 9c][6d]
+*** RIVER *** [9h 5c 9c 6d][8h]
+*** SHOW DOWN ***
+FiB99 shows [Js Qd] (One pair : 9)
+Msabri69 shows [Kh Ah] (One pair : 9)
+Msabri69 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [9h 5c 9c 6d 8h]
+Seat 1: Msabri69 (small blind) showed [Kh Ah] and won 620 with One pair : 9
+Seat 3: FiB99 (button) showed [Js Qd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184090239865978881-3-1704743394 - Holdem no limit (10/20) - 2024/01/08 19:49:54 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (620)
+Seat 2: P1xel7 (280)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Msabri69 posts big blind 20
+Dealt to P1xel7 [3c 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Msabri69 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Msabri69 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184090239865978881-4-1704743398 - Holdem no limit (10/20) - 2024/01/08 19:49:58 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (630)
+Seat 2: P1xel7 (270)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Qd 5d]
+*** PRE-FLOP *** 
+Msabri69 raises 40 to 60
+P1xel7 folds
+Msabri69 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 1: Msabri69 (small blind) (button) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184090239865978881-5-1704743403 - Holdem no limit (10/20) - 2024/01/08 19:50:03 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (650)
+Seat 2: P1xel7 (250)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Msabri69 posts big blind 20
+Dealt to P1xel7 [Ac 8h]
+*** PRE-FLOP *** 
+P1xel7 raises 20 to 40
+Msabri69 raises 610 to 650 and is all-in
+P1xel7 calls 210 and is all-in
+*** FLOP *** [7s Kd 4h]
+*** TURN *** [7s Kd 4h][5c]
+*** RIVER *** [7s Kd 4h 5c][Td]
+*** SHOW DOWN ***
+Msabri69 shows [3h Ad] (High card : Ace)
+P1xel7 shows [Ac 8h] (High card : Ace)
+P1xel7 collected 500 from main pot
+Msabri69 collected 400 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7s Kd 4h 5c Td]
+Seat 1: Msabri69 (big blind) showed [3h Ad] and won 400 with High card : Ace
+Seat 2: P1xel7 (small blind) (button) showed [Ac 8h] and won 500 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184090239865978881-6-1704743417 - Holdem no limit (10/20) - 2024/01/08 19:50:17 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (400)
+Seat 2: P1xel7 (500)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8s 4c]
+*** PRE-FLOP *** 
+Msabri69 calls 10
+P1xel7 raises 40 to 60
+Msabri69 calls 40
+*** FLOP *** [3d 7d Kd]
+P1xel7 bets 42
+Msabri69 calls 42
+*** TURN *** [3d 7d Kd][Kc]
+P1xel7 bets 102
+Msabri69 folds
+P1xel7 collected 306 from pot
+*** SUMMARY ***
+Total pot 306 | No rake
+Board: [3d 7d Kd Kc]
+Seat 2: P1xel7 (big blind) won 306
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184090239865978881-7-1704743440 - Holdem no limit (15/30) - 2024/01/08 19:50:40 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (298)
+Seat 2: P1xel7 (602)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Msabri69 posts big blind 30
+Dealt to P1xel7 [Qc 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Msabri69 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Msabri69 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184090239865978881-8-1704743443 - Holdem no limit (15/30) - 2024/01/08 19:50:43 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (313)
+Seat 2: P1xel7 (587)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Ts 2d]
+*** PRE-FLOP *** 
+Msabri69 raises 283 to 313 and is all-in
+P1xel7 folds
+Msabri69 collected 343 from pot
+*** SUMMARY ***
+Total pot 343 | No rake
+Seat 1: Msabri69 (small blind) (button) won 343
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184090239865978881-9-1704743449 - Holdem no limit (15/30) - 2024/01/08 19:50:49 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (343)
+Seat 2: P1xel7 (557)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Msabri69 posts big blind 30
+Dealt to P1xel7 [Ts 7s]
+*** PRE-FLOP *** 
+P1xel7 raises 30 to 60
+Msabri69 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: P1xel7 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184090239865978881-10-1704743455 - Holdem no limit (15/30) - 2024/01/08 19:50:55 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (313)
+Seat 2: P1xel7 (587)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [6s 6c]
+*** PRE-FLOP *** 
+Msabri69 folds
+P1xel7 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: P1xel7 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184090239865978881-11-1704743459 - Holdem no limit (15/30) - 2024/01/08 19:50:59 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (298)
+Seat 2: P1xel7 (602)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Msabri69 posts big blind 30
+Dealt to P1xel7 [6s 4c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Msabri69 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Msabri69 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184090239865978881-12-1704743463 - Holdem no limit (15/30) - 2024/01/08 19:51:03 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (313)
+Seat 2: P1xel7 (587)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [7h 5c]
+*** PRE-FLOP *** 
+Msabri69 folds
+P1xel7 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: P1xel7 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184090239865978881-13-1704743467 - Holdem no limit (15/30) - 2024/01/08 19:51:07 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (298)
+Seat 2: P1xel7 (602)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Msabri69 posts big blind 30
+Dealt to P1xel7 [3d 8c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Msabri69 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Msabri69 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184090239865978881-14-1704743471 - Holdem no limit (15/30) - 2024/01/08 19:51:11 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (313)
+Seat 2: P1xel7 (587)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Qc 7h]
+*** PRE-FLOP *** 
+Msabri69 calls 15
+P1xel7 raises 557 to 587 and is all-in
+Msabri69 folds
+P1xel7 collected 617 from pot
+*** SUMMARY ***
+Total pot 617 | No rake
+Seat 2: P1xel7 (big blind) won 617
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184090239865978881-15-1704743479 - Holdem no limit (15/30) - 2024/01/08 19:51:19 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (283)
+Seat 2: P1xel7 (617)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Msabri69 posts big blind 30
+Dealt to P1xel7 [7d Th]
+*** PRE-FLOP *** 
+P1xel7 raises 30 to 60
+Msabri69 calls 30
+*** FLOP *** [Kh 7h Ks]
+Msabri69 checks
+P1xel7 bets 42
+Msabri69 calls 42
+*** TURN *** [Kh 7h Ks][4d]
+Msabri69 checks
+P1xel7 bets 515 and is all-in
+Msabri69 calls 181 and is all-in
+*** RIVER *** [Kh 7h Ks 4d][7s]
+*** SHOW DOWN ***
+Msabri69 shows [5h Kd] (Full of Kings and 7)
+P1xel7 shows [7d Th] (Full of 7 and Kings)
+P1xel7 collected 334 from side pot 1
+Msabri69 collected 566 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kh 7h Ks 4d 7s]
+Seat 1: Msabri69 (big blind) showed [5h Kd] and won 566 with Full of Kings and 7
+Seat 2: P1xel7 (small blind) (button) showed [7d Th] and won 334 with Full of 7 and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184090239865978881-16-1704743503 - Holdem no limit (20/40) - 2024/01/08 19:51:43 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (566)
+Seat 2: P1xel7 (334)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Kh Jd]
+*** PRE-FLOP *** 
+Msabri69 raises 80 to 120
+P1xel7 raises 214 to 334 and is all-in
+Msabri69 calls 214
+*** FLOP *** [Qd Tc 7d]
+*** TURN *** [Qd Tc 7d][Td]
+*** RIVER *** [Qd Tc 7d Td][6d]
+*** SHOW DOWN ***
+Msabri69 shows [Ac Ks] (One pair : Tens)
+P1xel7 shows [Kh Jd] (Flush Queen high)
+P1xel7 collected 668 from pot
+*** SUMMARY ***
+Total pot 668 | No rake
+Board: [Qd Tc 7d Td 6d]
+Seat 1: Msabri69 (small blind) (button) showed [Ac Ks] and lost with One pair : Tens
+Seat 2: P1xel7 (big blind) showed [Kh Jd] and won 668 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184090239865978881-17-1704743516 - Holdem no limit (20/40) - 2024/01/08 19:51:56 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (232)
+Seat 2: P1xel7 (668)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Msabri69 posts big blind 40
+Dealt to P1xel7 [7h 4c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Msabri69 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Msabri69 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184090239865978881-18-1704743520 - Holdem no limit (20/40) - 2024/01/08 19:52:00 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (252)
+Seat 2: P1xel7 (648)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [8s Jd]
+*** PRE-FLOP *** 
+Msabri69 calls 20
+P1xel7 raises 608 to 648 and is all-in
+Msabri69 folds
+P1xel7 collected 688 from pot
+*** SUMMARY ***
+Total pot 688 | No rake
+Seat 2: P1xel7 (big blind) won 688
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184090239865978881-19-1704743528 - Holdem no limit (20/40) - 2024/01/08 19:52:08 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (212)
+Seat 2: P1xel7 (688)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Msabri69 posts big blind 40
+Dealt to P1xel7 [7h Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+Msabri69 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Msabri69 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184090239865978881-20-1704743531 - Holdem no limit (20/40) - 2024/01/08 19:52:11 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (232)
+Seat 2: P1xel7 (668)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Th Kc]
+*** PRE-FLOP *** 
+Msabri69 folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: P1xel7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184090239865978881-21-1704743536 - Holdem no limit (20/40) - 2024/01/08 19:52:16 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (212)
+Seat 2: P1xel7 (688)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Msabri69 posts big blind 40
+Dealt to P1xel7 [Qc 9s]
+*** PRE-FLOP *** 
+P1xel7 raises 648 to 688 and is all-in
+Msabri69 calls 172 and is all-in
+*** FLOP *** [6s 7d 9c]
+*** TURN *** [6s 7d 9c][Kd]
+*** RIVER *** [6s 7d 9c Kd][3h]
+*** SHOW DOWN ***
+Msabri69 shows [2c Kc] (One pair : Kings)
+P1xel7 shows [Qc 9s] (One pair : 9)
+P1xel7 collected 476 from side pot 1
+Msabri69 collected 424 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [6s 7d 9c Kd 3h]
+Seat 1: Msabri69 (big blind) showed [2c Kc] and won 424 with One pair : Kings
+Seat 2: P1xel7 (small blind) (button) showed [Qc 9s] and won 476 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #3184090239865978881-22-1704743548 - Holdem no limit (30/60) - 2024/01/08 19:52:28 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (424)
+Seat 2: P1xel7 (476)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [5d 9h]
+*** PRE-FLOP *** 
+Msabri69 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #3184090239865978881-23-1704743552 - Holdem no limit (30/60) - 2024/01/08 19:52:32 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Msabri69 (394)
+Seat 2: P1xel7 (506)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Msabri69 posts big blind 60
+Dealt to P1xel7 [Kd 7s]
+*** PRE-FLOP *** 
+P1xel7 raises 446 to 506 and is all-in
+Msabri69 folds
+P1xel7 collected 566 from pot
+*** SUMMARY ***
+Total pot 566 | No rake
+Seat 2: P1xel7 (small blind) (button) won 566
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 4 - HandId: #3184090239865978881-24-1704743557 - Holdem no limit (30/60) - 2024/01/08 19:52:37 UTC
+Table: 'Expresso Nitro(741353780)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Msabri69 (334)
+Seat 2: P1xel7 (566)
+*** ANTE/BLINDS ***
+Msabri69 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [As 7d]
+*** PRE-FLOP *** 
+Msabri69 raises 274 to 334 and is all-in
+P1xel7 calls 274
+*** FLOP *** [Ah 7c Kd]
+*** TURN *** [Ah 7c Kd][Kh]
+*** RIVER *** [Ah 7c Kd Kh][9h]
+*** SHOW DOWN ***
+Msabri69 shows [6s Js] (One pair : Kings)
+P1xel7 shows [As 7d] (Two pairs : Aces and Kings)
+P1xel7 collected 668 from pot
+*** SUMMARY ***
+Total pot 668 | No rake
+Board: [Ah 7c Kd Kh 9h]
+Seat 1: Msabri69 (small blind) (button) showed [6s Js] and lost with One pair : Kings
+Seat 2: P1xel7 (big blind) showed [As 7d] and won 668 with Two pairs : Aces and Kings
+
+

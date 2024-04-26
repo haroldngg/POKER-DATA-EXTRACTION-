@@ -1,0 +1,456 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3263397064389689345-1-1708798053 - Holdem no limit (10/20) - 2024/02/24 18:07:33 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #1 is the button
+Seat 1: STAS95 (500)
+Seat 2: Dibalounch (500)
+Seat 3: P1xel7 (500)
+Seat 4: touco39 (500)
+Seat 5: Se-balalade (500)
+Seat 6: SupraXevoras (500)
+*** ANTE/BLINDS ***
+Dibalounch posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [3s 8s]
+*** PRE-FLOP *** 
+touco39 raises 480 to 500 and is all-in
+Se-balalade folds
+SupraXevoras folds
+STAS95 calls 500 and is all-in
+Dibalounch calls 490 and is all-in
+P1xel7 folds
+*** FLOP *** [4c Ts 9s]
+*** TURN *** [4c Ts 9s][6s]
+*** RIVER *** [4c Ts 9s 6s][Td]
+*** SHOW DOWN ***
+STAS95 shows [Jd 8c] (One pair : Tens)
+touco39 shows [8d 3h] (One pair : Tens)
+Dibalounch shows [Qc Kh] (One pair : Tens)
+Dibalounch collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [4c Ts 9s 6s Td]
+Seat 1: STAS95 (button) showed [Jd 8c] and lost with One pair : Tens
+Seat 2: Dibalounch (small blind) showed [Qc Kh] and won 1520 with One pair : Tens
+Seat 4: touco39 showed [8d 3h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3263397064389689345-2-1708798090 - Holdem no limit (10/20) - 2024/02/24 18:08:10 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Dibalounch (1520)
+Seat 3: P1xel7 (480)
+Seat 5: Se-balalade (500)
+Seat 6: SupraXevoras (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Se-balalade posts big blind 20
+Dealt to P1xel7 [Qc 2h]
+*** PRE-FLOP *** 
+SupraXevoras calls 20
+Dibalounch folds
+P1xel7 folds
+Se-balalade checks
+*** FLOP *** [5s Qd 9c]
+Se-balalade checks
+SupraXevoras bets 20
+Se-balalade folds
+SupraXevoras collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [5s Qd 9c]
+Seat 6: SupraXevoras won 70
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3263397064389689345-3-1708798113 - Holdem no limit (10/20) - 2024/02/24 18:08:33 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Dibalounch (1520)
+Seat 3: P1xel7 (470)
+Seat 5: Se-balalade (480)
+Seat 6: SupraXevoras (530)
+*** ANTE/BLINDS ***
+Se-balalade posts small blind 10
+SupraXevoras posts big blind 20
+Dealt to P1xel7 [Ks 4s]
+*** PRE-FLOP *** 
+Dibalounch calls 20
+P1xel7 folds
+Se-balalade calls 10
+SupraXevoras raises 40 to 60
+Dibalounch calls 40
+Se-balalade calls 40
+*** FLOP *** [3s 8c Qc]
+Se-balalade checks
+SupraXevoras bets 63
+Dibalounch raises 1397 to 1460 and is all-in
+Se-balalade folds
+SupraXevoras folds
+Dibalounch collected 1703 from pot
+*** SUMMARY ***
+Total pot 1703 | No rake
+Board: [3s 8c Qc]
+Seat 2: Dibalounch won 1703
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263397064389689345-4-1708798149 - Holdem no limit (15/30) - 2024/02/24 18:09:09 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Dibalounch (1703)
+Seat 3: P1xel7 (470)
+Seat 5: Se-balalade (420)
+Seat 6: SupraXevoras (407)
+*** ANTE/BLINDS ***
+SupraXevoras posts small blind 15
+Dibalounch posts big blind 30
+Dealt to P1xel7 [8c Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Se-balalade raises 390 to 420 and is all-in
+SupraXevoras folds
+Dibalounch folds
+Se-balalade collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Seat 5: Se-balalade (button) won 465
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263397064389689345-5-1708798161 - Holdem no limit (15/30) - 2024/02/24 18:09:21 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Dibalounch (1673)
+Seat 3: P1xel7 (470)
+Seat 5: Se-balalade (465)
+Seat 6: SupraXevoras (392)
+*** ANTE/BLINDS ***
+Dibalounch posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [5s 6s]
+*** PRE-FLOP *** 
+Se-balalade folds
+SupraXevoras folds
+Dibalounch raises 1643 to 1673 and is all-in
+P1xel7 folds
+Dibalounch collected 1703 from pot
+*** SUMMARY ***
+Total pot 1703 | No rake
+Seat 2: Dibalounch (small blind) won 1703
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263397064389689345-6-1708798187 - Holdem no limit (15/30) - 2024/02/24 18:09:47 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Dibalounch (1703)
+Seat 3: P1xel7 (440)
+Seat 5: Se-balalade (465)
+Seat 6: SupraXevoras (392)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Se-balalade posts big blind 30
+Dealt to P1xel7 [5d 8c]
+*** PRE-FLOP *** 
+SupraXevoras calls 30
+Dibalounch calls 30
+P1xel7 folds
+Se-balalade checks
+*** FLOP *** [2s 9c 4c]
+Se-balalade checks
+SupraXevoras checks
+Dibalounch checks
+*** TURN *** [2s 9c 4c][6d]
+Se-balalade checks
+SupraXevoras checks
+Dibalounch checks
+*** RIVER *** [2s 9c 4c 6d][6h]
+Se-balalade checks
+SupraXevoras checks
+Dibalounch checks
+*** SHOW DOWN ***
+Se-balalade shows [Qh Td] (One pair : 6)
+SupraXevoras shows [7c 8h] (One pair : 6)
+Dibalounch shows [8d Kd] (One pair : 6)
+Dibalounch collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Board: [2s 9c 4c 6d 6h]
+Seat 2: Dibalounch (button) showed [8d Kd] and won 105 with One pair : 6
+Seat 5: Se-balalade (big blind) showed [Qh Td] and lost with One pair : 6
+Seat 6: SupraXevoras showed [7c 8h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3263397064389689345-7-1708798254 - Holdem no limit (20/40) - 2024/02/24 18:10:54 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Dibalounch (1778)
+Seat 3: P1xel7 (425)
+Seat 5: Se-balalade (435)
+Seat 6: SupraXevoras (362)
+*** ANTE/BLINDS ***
+Se-balalade posts small blind 20
+SupraXevoras posts big blind 40
+Dealt to P1xel7 [Tc 9c]
+*** PRE-FLOP *** 
+Dibalounch folds
+P1xel7 folds
+Se-balalade folds
+SupraXevoras collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: SupraXevoras (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3263397064389689345-8-1708798263 - Holdem no limit (20/40) - 2024/02/24 18:11:03 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Dibalounch (1778)
+Seat 3: P1xel7 (425)
+Seat 5: Se-balalade (415)
+Seat 6: SupraXevoras (382)
+*** ANTE/BLINDS ***
+SupraXevoras posts small blind 20
+Dibalounch posts big blind 40
+Dealt to P1xel7 [Jd Td]
+*** PRE-FLOP *** 
+P1xel7 folds
+Se-balalade raises 40 to 80
+SupraXevoras calls 60
+Dibalounch folds
+*** FLOP *** [5d Jc 7c]
+SupraXevoras checks
+Se-balalade bets 335 and is all-in
+SupraXevoras folds
+Se-balalade collected 535 from pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Board: [5d Jc 7c]
+Seat 5: Se-balalade (button) won 535
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3263397064389689345-9-1708798299 - Holdem no limit (20/40) - 2024/02/24 18:11:39 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Dibalounch (1738)
+Seat 3: P1xel7 (425)
+Seat 5: Se-balalade (535)
+Seat 6: SupraXevoras (302)
+*** ANTE/BLINDS ***
+Dibalounch posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Kd 2c]
+*** PRE-FLOP *** 
+Se-balalade raises 80 to 120
+SupraXevoras folds
+Dibalounch calls 100
+P1xel7 folds
+*** FLOP *** [3h 6s 7d]
+Dibalounch checks
+Se-balalade bets 182
+Dibalounch calls 182
+*** TURN *** [3h 6s 7d][8d]
+Dibalounch checks
+Se-balalade bets 233 and is all-in
+Dibalounch calls 233
+*** RIVER *** [3h 6s 7d 8d][9c]
+*** SHOW DOWN ***
+Se-balalade shows [As 7s] (One pair : 7)
+Dibalounch shows [9h 8h] (Two pairs : 9 and 8)
+Dibalounch collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Board: [3h 6s 7d 8d 9c]
+Seat 2: Dibalounch (small blind) showed [9h 8h] and won 1110 with Two pairs : 9 and 8
+Seat 5: Se-balalade showed [As 7s] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3263397064389689345-10-1708798333 - Holdem no limit (30/60) - 2024/02/24 18:12:13 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Dibalounch (2313)
+Seat 3: P1xel7 (385)
+Seat 6: SupraXevoras (302)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+SupraXevoras posts big blind 60
+Dealt to P1xel7 [2c 4s]
+*** PRE-FLOP *** 
+Dibalounch folds
+P1xel7 folds
+SupraXevoras collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: SupraXevoras (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3263397064389689345-11-1708798347 - Holdem no limit (30/60) - 2024/02/24 18:12:27 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Dibalounch (2313)
+Seat 3: P1xel7 (355)
+Seat 6: SupraXevoras (332)
+*** ANTE/BLINDS ***
+SupraXevoras posts small blind 30
+Dibalounch posts big blind 60
+Dealt to P1xel7 [Td Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+SupraXevoras raises 272 to 332 and is all-in
+Dibalounch folds
+SupraXevoras collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | No rake
+Seat 6: SupraXevoras (small blind) won 392
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3263397064389689345-12-1708798369 - Holdem no limit (30/60) - 2024/02/24 18:12:49 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Dibalounch (2253)
+Seat 3: P1xel7 (355)
+Seat 6: SupraXevoras (392)
+*** ANTE/BLINDS ***
+Dibalounch posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [7c 2h]
+*** PRE-FLOP *** 
+SupraXevoras folds
+Dibalounch raises 2193 to 2253 and is all-in
+P1xel7 folds
+Dibalounch collected 2313 from pot
+*** SUMMARY ***
+Total pot 2313 | No rake
+Seat 2: Dibalounch (small blind) won 2313
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3263397064389689345-13-1708798390 - Holdem no limit (30/60) - 2024/02/24 18:13:10 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Dibalounch (2313)
+Seat 3: P1xel7 (295)
+Seat 6: SupraXevoras (392)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+SupraXevoras posts big blind 60
+Dealt to P1xel7 [8c Td]
+*** PRE-FLOP *** 
+Dibalounch folds
+P1xel7 folds
+SupraXevoras collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: SupraXevoras (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3263397064389689345-14-1708798399 - Holdem no limit (30/60) - 2024/02/24 18:13:19 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Dibalounch (2313)
+Seat 3: P1xel7 (265)
+Seat 6: SupraXevoras (422)
+*** ANTE/BLINDS ***
+SupraXevoras posts small blind 30
+Dibalounch posts big blind 60
+Dealt to P1xel7 [9d Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 205 to 265 and is all-in
+SupraXevoras folds
+Dibalounch calls 205
+*** FLOP *** [7d 5d 4s]
+*** TURN *** [7d 5d 4s][4h]
+*** RIVER *** [7d 5d 4s 4h][4d]
+*** SHOW DOWN ***
+Dibalounch shows [3h Qh] (Trips of 4)
+P1xel7 shows [9d Ks] (Trips of 4)
+P1xel7 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [7d 5d 4s 4h 4d]
+Seat 2: Dibalounch (big blind) showed [3h Qh] and lost with Trips of 4
+Seat 3: P1xel7 (button) showed [9d Ks] and won 560 with Trips of 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3263397064389689345-15-1708798431 - Holdem no limit (40/80) - 2024/02/24 18:13:51 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Dibalounch (2048)
+Seat 3: P1xel7 (560)
+Seat 6: SupraXevoras (392)
+*** ANTE/BLINDS ***
+Dibalounch posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [3d 5c]
+*** PRE-FLOP *** 
+SupraXevoras folds
+Dibalounch raises 1968 to 2048 and is all-in
+P1xel7 folds
+Dibalounch collected 2128 from pot
+*** SUMMARY ***
+Total pot 2128 | No rake
+Seat 2: Dibalounch (small blind) won 2128
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3263397064389689345-16-1708798441 - Holdem no limit (40/80) - 2024/02/24 18:14:01 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Dibalounch (2128)
+Seat 3: P1xel7 (480)
+Seat 6: SupraXevoras (392)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+SupraXevoras posts big blind 80
+Dealt to P1xel7 [6d Qc]
+*** PRE-FLOP *** 
+Dibalounch folds
+P1xel7 raises 400 to 480 and is all-in
+SupraXevoras calls 312 and is all-in
+*** FLOP *** [7d 3s 9h]
+*** TURN *** [7d 3s 9h][Js]
+*** RIVER *** [7d 3s 9h Js][2d]
+*** SHOW DOWN ***
+P1xel7 shows [6d Qc] (High card : Queen)
+SupraXevoras shows [Kd Kc] (One pair : Kings)
+SupraXevoras collected 784 from main pot
+P1xel7 collected 88 from side pot 1
+*** SUMMARY ***
+Total pot 872 | No rake
+Board: [7d 3s 9h Js 2d]
+Seat 3: P1xel7 (small blind) showed [6d Qc] and won 88 with High card : Queen
+Seat 6: SupraXevoras (big blind) showed [Kd Kc] and won 784 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3263397064389689345-17-1708798458 - Holdem no limit (40/80) - 2024/02/24 18:14:18 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Dibalounch (2128)
+Seat 3: P1xel7 (88)
+Seat 6: SupraXevoras (784)
+*** ANTE/BLINDS ***
+SupraXevoras posts small blind 40
+Dibalounch posts big blind 80
+Dealt to P1xel7 [8d 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+SupraXevoras calls 40
+Dibalounch checks
+*** FLOP *** [5h Ks Kc]
+SupraXevoras checks
+Dibalounch bets 120
+SupraXevoras folds
+Dibalounch collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [5h Ks Kc]
+Seat 2: Dibalounch (big blind) won 280
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3263397064389689345-18-1708798489 - Holdem no limit (40/80) - 2024/02/24 18:14:49 UTC
+Table: 'Starting Block WiPT - Déglingos(759818839)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Dibalounch (2208)
+Seat 3: P1xel7 (88)
+Seat 6: SupraXevoras (704)
+*** ANTE/BLINDS ***
+Dibalounch posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [8h 3h]
+*** PRE-FLOP *** 
+SupraXevoras raises 80 to 160
+Dibalounch raises 2048 to 2208 and is all-in
+P1xel7 calls 8 and is all-in
+SupraXevoras calls 544 and is all-in
+*** FLOP *** [Ac Jh Kd]
+*** TURN *** [Ac Jh Kd][Tc]
+*** RIVER *** [Ac Jh Kd Tc][4c]
+*** SHOW DOWN ***
+P1xel7 shows [8h 3h] (High card : Ace)
+SupraXevoras shows [7c 7h] (One pair : 7)
+Dibalounch shows [8d Ah] (One pair : Aces)
+Dibalounch collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Ac Jh Kd Tc 4c]
+Seat 2: Dibalounch (small blind) showed [8d Ah] and won 3000 with One pair : Aces
+Seat 3: P1xel7 (big blind) showed [8h 3h] and lost with High card : Ace
+Seat 6: SupraXevoras (button) showed [7c 7h] and lost with One pair : 7
+
+

@@ -1,0 +1,378 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3223554430901157889-1-1706815559 - Holdem no limit (10/20) - 2024/02/01 19:25:59 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #6 is the button
+Seat 1: LE-_-Flouz (500)
+Seat 2: Zede_DLGF_63 (500)
+Seat 3: P1xel7 (500)
+Seat 4: lucass77140 (500)
+Seat 5: ThonTeriyaki (500)
+Seat 6: bber71 (500)
+*** ANTE/BLINDS ***
+LE-_-Flouz posts small blind 10
+Zede_DLGF_63 posts big blind 20
+Dealt to P1xel7 [Jh 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+lucass77140 calls 20
+ThonTeriyaki raises 480 to 500 and is all-in
+bber71 folds
+LE-_-Flouz calls 490 and is all-in
+Zede_DLGF_63 folds
+lucass77140 calls 480 and is all-in
+*** FLOP *** [Qc Ts 2c]
+*** TURN *** [Qc Ts 2c][2s]
+*** RIVER *** [Qc Ts 2c 2s][8d]
+*** SHOW DOWN ***
+lucass77140 shows [6d 6c] (Two pairs : 6 and 2)
+ThonTeriyaki shows [Jc Ah] (One pair : 2)
+LE-_-Flouz shows [5h Qs] (Two pairs : Queens and 2)
+LE-_-Flouz collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [Qc Ts 2c 2s 8d]
+Seat 1: LE-_-Flouz (small blind) showed [5h Qs] and won 1520 with Two pairs : Queens and 2
+Seat 4: lucass77140 showed [6d 6c] and lost with Two pairs : 6 and 2
+Seat 5: ThonTeriyaki showed [Jc Ah] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3223554430901157889-2-1706815601 - Holdem no limit (10/20) - 2024/02/01 19:26:41 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #1 is the button
+Seat 1: LE-_-Flouz (1520)
+Seat 2: Zede_DLGF_63 (480)
+Seat 3: P1xel7 (500)
+Seat 6: bber71 (500)
+*** ANTE/BLINDS ***
+Zede_DLGF_63 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [6c 7s]
+*** PRE-FLOP *** 
+bber71 folds
+LE-_-Flouz calls 20
+Zede_DLGF_63 calls 10
+P1xel7 checks
+*** FLOP *** [Jh Ts Jd]
+Zede_DLGF_63 checks
+P1xel7 checks
+LE-_-Flouz checks
+*** TURN *** [Jh Ts Jd][6s]
+Zede_DLGF_63 checks
+P1xel7 bets 20
+LE-_-Flouz raises 20 to 40
+Zede_DLGF_63 folds
+P1xel7 calls 20
+*** RIVER *** [Jh Ts Jd 6s][Ac]
+P1xel7 checks
+LE-_-Flouz checks
+*** SHOW DOWN ***
+P1xel7 shows [6c 7s] (Two pairs : Jacks and 6)
+LE-_-Flouz shows [5c Th] (Two pairs : Jacks and Tens)
+LE-_-Flouz collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Board: [Jh Ts Jd 6s Ac]
+Seat 1: LE-_-Flouz (button) showed [5c Th] and won 140 with Two pairs : Jacks and Tens
+Seat 3: P1xel7 (big blind) showed [6c 7s] and lost with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3223554430901157889-3-1706815670 - Holdem no limit (15/30) - 2024/02/01 19:27:50 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #2 is the button
+Seat 1: LE-_-Flouz (1600)
+Seat 2: Zede_DLGF_63 (460)
+Seat 3: P1xel7 (440)
+Seat 6: bber71 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+bber71 posts big blind 30
+Dealt to P1xel7 [Ac 7s]
+*** PRE-FLOP *** 
+LE-_-Flouz calls 30
+Zede_DLGF_63 calls 30
+P1xel7 folds
+bber71 checks
+*** FLOP *** [8s 6h Qd]
+bber71 checks
+LE-_-Flouz bets 68
+Zede_DLGF_63 calls 68
+bber71 folds
+*** TURN *** [8s 6h Qd][Ts]
+LE-_-Flouz bets 157
+Zede_DLGF_63 calls 157
+*** RIVER *** [8s 6h Qd Ts][9c]
+LE-_-Flouz bets 194
+Zede_DLGF_63 raises 11 to 205 and is all-in
+LE-_-Flouz calls 11
+*** SHOW DOWN ***
+LE-_-Flouz shows [5s Qh] (One pair : Queens)
+Zede_DLGF_63 shows [Ks Js] (Straight King high)
+Zede_DLGF_63 collected 965 from pot
+*** SUMMARY ***
+Total pot 965 | No rake
+Board: [8s 6h Qd Ts 9c]
+Seat 1: LE-_-Flouz showed [5s Qh] and lost with One pair : Queens
+Seat 2: Zede_DLGF_63 (button) showed [Ks Js] and won 965 with Straight King high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3223554430901157889-4-1706815730 - Holdem no limit (15/30) - 2024/02/01 19:28:50 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #3 is the button
+Seat 1: LE-_-Flouz (1140)
+Seat 2: Zede_DLGF_63 (965)
+Seat 3: P1xel7 (425)
+Seat 6: bber71 (470)
+*** ANTE/BLINDS ***
+bber71 posts small blind 15
+LE-_-Flouz posts big blind 30
+Dealt to P1xel7 [Th 6d]
+*** PRE-FLOP *** 
+Zede_DLGF_63 folds
+P1xel7 folds
+bber71 folds
+LE-_-Flouz collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: LE-_-Flouz (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3223554430901157889-5-1706815737 - Holdem no limit (20/40) - 2024/02/01 19:28:57 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #6 is the button
+Seat 1: LE-_-Flouz (1155)
+Seat 2: Zede_DLGF_63 (965)
+Seat 3: P1xel7 (425)
+Seat 6: bber71 (455)
+*** ANTE/BLINDS ***
+LE-_-Flouz posts small blind 20
+Zede_DLGF_63 posts big blind 40
+Dealt to P1xel7 [8c 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+bber71 raises 415 to 455 and is all-in
+LE-_-Flouz calls 435
+Zede_DLGF_63 folds
+*** FLOP *** [Qc 2s 9c]
+*** TURN *** [Qc 2s 9c][Jd]
+*** RIVER *** [Qc 2s 9c Jd][Qh]
+*** SHOW DOWN ***
+LE-_-Flouz shows [8d Kh] (One pair : Queens)
+bber71 shows [Ah Jh] (Two pairs : Queens and Jacks)
+bber71 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [Qc 2s 9c Jd Qh]
+Seat 1: LE-_-Flouz (small blind) showed [8d Kh] and lost with One pair : Queens
+Seat 6: bber71 (button) showed [Ah Jh] and won 950 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3223554430901157889-6-1706815766 - Holdem no limit (20/40) - 2024/02/01 19:29:26 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #1 is the button
+Seat 1: LE-_-Flouz (700)
+Seat 2: Zede_DLGF_63 (925)
+Seat 3: P1xel7 (425)
+Seat 6: bber71 (950)
+*** ANTE/BLINDS ***
+Zede_DLGF_63 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Js 8s]
+*** PRE-FLOP *** 
+bber71 folds
+LE-_-Flouz calls 40
+Zede_DLGF_63 calls 20
+P1xel7 checks
+*** FLOP *** [Ad 7h Th]
+Zede_DLGF_63 checks
+P1xel7 checks
+LE-_-Flouz checks
+*** TURN *** [Ad 7h Th][8d]
+Zede_DLGF_63 checks
+P1xel7 bets 40
+LE-_-Flouz calls 40
+Zede_DLGF_63 calls 40
+*** RIVER *** [Ad 7h Th 8d][5d]
+Zede_DLGF_63 checks
+P1xel7 bets 40
+LE-_-Flouz folds
+Zede_DLGF_63 folds
+P1xel7 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [Ad 7h Th 8d 5d]
+Seat 3: P1xel7 (big blind) won 280
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3223554430901157889-7-1706815863 - Holdem no limit (30/60) - 2024/02/01 19:31:03 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #2 is the button
+Seat 1: LE-_-Flouz (620)
+Seat 2: Zede_DLGF_63 (845)
+Seat 3: P1xel7 (585)
+Seat 6: bber71 (950)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+bber71 posts big blind 60
+Dealt to P1xel7 [Jh Kd]
+*** PRE-FLOP *** 
+LE-_-Flouz calls 60
+Zede_DLGF_63 folds
+P1xel7 raises 525 to 585 and is all-in
+bber71 calls 525
+LE-_-Flouz folds
+*** FLOP *** [8c 8h 4s]
+*** TURN *** [8c 8h 4s][6h]
+*** RIVER *** [8c 8h 4s 6h][8d]
+*** SHOW DOWN ***
+bber71 shows [Qc Js] (Trips of 8)
+P1xel7 shows [Jh Kd] (Trips of 8)
+P1xel7 collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | No rake
+Board: [8c 8h 4s 6h 8d]
+Seat 3: P1xel7 (small blind) showed [Jh Kd] and won 1230 with Trips of 8
+Seat 6: bber71 (big blind) showed [Qc Js] and lost with Trips of 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3223554430901157889-8-1706815904 - Holdem no limit (30/60) - 2024/02/01 19:31:44 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #3 is the button
+Seat 1: LE-_-Flouz (560)
+Seat 2: Zede_DLGF_63 (845)
+Seat 3: P1xel7 (1230)
+Seat 6: bber71 (365)
+*** ANTE/BLINDS ***
+bber71 posts small blind 30
+LE-_-Flouz posts big blind 60
+Dealt to P1xel7 [2c Ks]
+*** PRE-FLOP *** 
+Zede_DLGF_63 folds
+P1xel7 folds
+bber71 raises 305 to 365 and is all-in
+LE-_-Flouz folds
+bber71 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | No rake
+Seat 6: bber71 (small blind) won 425
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3223554430901157889-9-1706815934 - Holdem no limit (40/80) - 2024/02/01 19:32:14 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #6 is the button
+Seat 1: LE-_-Flouz (500)
+Seat 2: Zede_DLGF_63 (845)
+Seat 3: P1xel7 (1230)
+Seat 6: bber71 (425)
+*** ANTE/BLINDS ***
+LE-_-Flouz posts small blind 40
+Zede_DLGF_63 posts big blind 80
+Dealt to P1xel7 [3s Ks]
+*** PRE-FLOP *** 
+P1xel7 folds
+bber71 folds
+LE-_-Flouz calls 40
+Zede_DLGF_63 checks
+*** FLOP *** [9c 9d Qh]
+LE-_-Flouz checks
+Zede_DLGF_63 checks
+*** TURN *** [9c 9d Qh][2d]
+LE-_-Flouz checks
+Zede_DLGF_63 checks
+*** RIVER *** [9c 9d Qh 2d][8d]
+LE-_-Flouz bets 104
+Zede_DLGF_63 calls 104
+*** SHOW DOWN ***
+LE-_-Flouz shows [Jc 2c] (Two pairs : 9 and 2)
+Zede_DLGF_63 shows [7h 8c] (Two pairs : 9 and 8)
+Zede_DLGF_63 collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | No rake
+Board: [9c 9d Qh 2d 8d]
+Seat 1: LE-_-Flouz (small blind) showed [Jc 2c] and lost with Two pairs : 9 and 2
+Seat 2: Zede_DLGF_63 (big blind) showed [7h 8c] and won 368 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3223554430901157889-10-1706815994 - Holdem no limit (40/80) - 2024/02/01 19:33:14 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #1 is the button
+Seat 1: LE-_-Flouz (316)
+Seat 2: Zede_DLGF_63 (1029)
+Seat 3: P1xel7 (1230)
+Seat 6: bber71 (425)
+*** ANTE/BLINDS ***
+Zede_DLGF_63 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [9c 3h]
+*** PRE-FLOP *** 
+bber71 folds
+LE-_-Flouz raises 236 to 316 and is all-in
+Zede_DLGF_63 calls 276
+P1xel7 folds
+*** FLOP *** [Qc Jh 3d]
+*** TURN *** [Qc Jh 3d][8h]
+*** RIVER *** [Qc Jh 3d 8h][Ah]
+*** SHOW DOWN ***
+LE-_-Flouz shows [Kd 6h] (High card : Ace)
+Zede_DLGF_63 shows [Qh As] (Two pairs : Aces and Queens)
+Zede_DLGF_63 collected 712 from pot
+*** SUMMARY ***
+Total pot 712 | No rake
+Board: [Qc Jh 3d 8h Ah]
+Seat 1: LE-_-Flouz (button) showed [Kd 6h] and lost with High card : Ace
+Seat 2: Zede_DLGF_63 (small blind) showed [Qh As] and won 712 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3223554430901157889-11-1706816010 - Holdem no limit (60/120) - 2024/02/01 19:33:30 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Zede_DLGF_63 (1425)
+Seat 3: P1xel7 (1150)
+Seat 6: bber71 (425)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+bber71 posts big blind 120
+Dealt to P1xel7 [Ad 3h]
+*** PRE-FLOP *** 
+Zede_DLGF_63 folds
+P1xel7 raises 1030 to 1150 and is all-in
+bber71 folds
+P1xel7 collected 1270 from pot
+*** SUMMARY ***
+Total pot 1270 | No rake
+Seat 3: P1xel7 (small blind) won 1270
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3223554430901157889-12-1706816020 - Holdem no limit (60/120) - 2024/02/01 19:33:40 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Zede_DLGF_63 (1425)
+Seat 3: P1xel7 (1270)
+Seat 6: bber71 (305)
+*** ANTE/BLINDS ***
+bber71 posts small blind 60
+Zede_DLGF_63 posts big blind 120
+Dealt to P1xel7 [5c 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+bber71 folds
+Zede_DLGF_63 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: Zede_DLGF_63 (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3223554430901157889-13-1706816026 - Holdem no limit (60/120) - 2024/02/01 19:33:46 UTC
+Table: 'Starting Block WiPT - Déglingos(750542253)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Zede_DLGF_63 (1485)
+Seat 3: P1xel7 (1270)
+Seat 6: bber71 (245)
+*** ANTE/BLINDS ***
+Zede_DLGF_63 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [Jc 9c]
+*** PRE-FLOP *** 
+bber71 folds
+Zede_DLGF_63 raises 120 to 240
+P1xel7 raises 1030 to 1270 and is all-in
+Zede_DLGF_63 calls 1030
+*** FLOP *** [4s 4d Ks]
+*** TURN *** [4s 4d Ks][As]
+*** RIVER *** [4s 4d Ks As][Js]
+*** SHOW DOWN ***
+P1xel7 shows [Jc 9c] (Two pairs : Jacks and 4)
+Zede_DLGF_63 shows [Qc Ad] (Two pairs : Aces and 4)
+Zede_DLGF_63 collected 2540 from pot
+*** SUMMARY ***
+Total pot 2540 | No rake
+Board: [4s 4d Ks As Js]
+Seat 2: Zede_DLGF_63 (small blind) showed [Qc Ad] and won 2540 with Two pairs : Aces and 4
+Seat 3: P1xel7 (big blind) showed [Jc 9c] and lost with Two pairs : Jacks and 4
+
+

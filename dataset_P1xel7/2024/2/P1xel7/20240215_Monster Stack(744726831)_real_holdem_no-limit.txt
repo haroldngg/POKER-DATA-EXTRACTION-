@@ -1,0 +1,459 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198577383598718986-40-1708026204 - Holdem no limit (400/1750/3500) - 2024/02/15 19:43:24 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #5 is the button
+Seat 1: youki9175 (204040)
+Seat 2: BrankoToma (313614)
+Seat 3: iRaptor (91570)
+Seat 4: JeGagne. (152363)
+Seat 5: walter175 (124744)
+Seat 6: Triz au mic (128095)
+Seat 8: P1xel7 (100000)
+*** ANTE/BLINDS ***
+Triz au mic posts ante 400
+P1xel7 posts ante 400
+youki9175 posts ante 400
+BrankoToma posts ante 400
+iRaptor posts ante 400
+JeGagne. posts ante 400
+walter175 posts ante 400
+Triz au mic posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [8c 6c]
+*** PRE-FLOP *** 
+youki9175 folds
+BrankoToma folds
+iRaptor raises 3500 to 7000
+JeGagne. calls 7000
+walter175 folds
+Triz au mic folds
+P1xel7 calls 3500
+*** FLOP *** [3h Ah Qh]
+P1xel7 checks
+iRaptor bets 7000
+JeGagne. calls 7000
+P1xel7 folds
+*** TURN *** [3h Ah Qh][3d]
+iRaptor checks
+JeGagne. checks
+*** RIVER *** [3h Ah Qh 3d][5s]
+iRaptor bets 7000
+JeGagne. calls 7000
+*** SHOW DOWN ***
+JeGagne. shows [As 9s] (Two pairs : Aces and 3)
+iRaptor shows [5d Ad] (Two pairs : Aces and 5)
+iRaptor collected 53550 from pot
+*** SUMMARY ***
+Total pot 53550 | No rake
+Board: [3h Ah Qh 3d 5s]
+Seat 3: iRaptor showed [5d Ad] and won 53550 with Two pairs : Aces and 5
+Seat 4: JeGagne. showed [As 9s] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198577383598718986-41-1708026318 - Holdem no limit (500/2000/4000) - 2024/02/15 19:45:18 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #6 is the button
+Seat 1: youki9175 (203640)
+Seat 2: BrankoToma (313214)
+Seat 3: iRaptor (123720)
+Seat 4: JeGagne. (130963)
+Seat 5: walter175 (124344)
+Seat 6: Triz au mic (125945)
+Seat 8: P1xel7 (92600)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+youki9175 posts ante 500
+BrankoToma posts ante 500
+iRaptor posts ante 500
+JeGagne. posts ante 500
+walter175 posts ante 500
+Triz au mic posts ante 500
+P1xel7 posts small blind 2000
+youki9175 posts big blind 4000
+Dealt to P1xel7 [5h 8s]
+*** PRE-FLOP *** 
+BrankoToma folds
+iRaptor folds
+JeGagne. folds
+walter175 raises 4000 to 8000
+Triz au mic calls 8000
+P1xel7 folds
+youki9175 calls 4000
+*** FLOP *** [4c Qd 7d]
+youki9175 checks
+walter175 bets 10325
+Triz au mic calls 10325
+youki9175 folds
+*** TURN *** [4c Qd 7d][8d]
+walter175 bets 38000
+Triz au mic calls 38000
+*** RIVER *** [4c Qd 7d 8d][9h]
+walter175 bets 67519 and is all-in
+Triz au mic calls 67519
+*** SHOW DOWN ***
+Triz au mic shows [4s 4h] (Trips of 4)
+walter175 shows [7h 7s] (Trips of 7)
+walter175 collected 261188 from pot
+*** SUMMARY ***
+Total pot 261188 | No rake
+Board: [4c Qd 7d 8d 9h]
+Seat 5: walter175 showed [7h 7s] and won 261188 with Trips of 7
+Seat 6: Triz au mic (button) showed [4s 4h] and lost with Trips of 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198577383598718986-42-1708026440 - Holdem no limit (500/2000/4000) - 2024/02/15 19:47:20 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #8 is the button
+Seat 1: youki9175 (195140)
+Seat 2: BrankoToma (312714)
+Seat 3: iRaptor (123220)
+Seat 4: JeGagne. (130463)
+Seat 5: walter175 (261188)
+Seat 6: Triz au mic (1601)
+Seat 8: P1xel7 (90100)
+*** ANTE/BLINDS ***
+youki9175 posts ante 500
+BrankoToma posts ante 500
+iRaptor posts ante 500
+JeGagne. posts ante 500
+walter175 posts ante 500
+Triz au mic posts ante 500
+P1xel7 posts ante 500
+youki9175 posts small blind 2000
+BrankoToma posts big blind 4000
+Dealt to P1xel7 [4h Qc]
+*** PRE-FLOP *** 
+iRaptor calls 4000
+JeGagne. folds
+walter175 folds
+Triz au mic calls 1101 and is all-in
+P1xel7 folds
+youki9175 folds
+BrankoToma checks
+*** FLOP *** [4s 9c Tc]
+BrankoToma checks
+iRaptor bets 6000
+BrankoToma calls 6000
+*** TURN *** [4s 9c Tc][4c]
+BrankoToma checks
+iRaptor checks
+*** RIVER *** [4s 9c Tc 4c][8c]
+BrankoToma checks
+iRaptor checks
+*** SHOW DOWN ***
+iRaptor shows [7s As] (One pair : 4)
+Triz au mic shows [Qd 9s] (Two pairs : 9 and 4)
+BrankoToma shows [2c 6c] (Flush Ten high)
+BrankoToma collected 26601 from pot
+*** SUMMARY ***
+Total pot 26601 | No rake
+Board: [4s 9c Tc 4c 8c]
+Seat 2: BrankoToma (big blind) showed [2c 6c] and won 26601 with Flush Ten high
+Seat 3: iRaptor showed [7s As] and lost with One pair : 4
+Seat 6: Triz au mic showed [Qd 9s] and lost with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198577383598718986-43-1708026481 - Holdem no limit (500/2000/4000) - 2024/02/15 19:48:01 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #1 is the button
+Seat 1: youki9175 (192640)
+Seat 2: BrankoToma (328815)
+Seat 3: iRaptor (112720)
+Seat 4: JeGagne. (129963)
+Seat 5: walter175 (260688)
+Seat 8: P1xel7 (89600)
+*** ANTE/BLINDS ***
+BrankoToma posts ante 500
+iRaptor posts ante 500
+youki9175 posts ante 500
+JeGagne. posts ante 500
+walter175 posts ante 500
+P1xel7 posts ante 500
+BrankoToma posts small blind 2000
+iRaptor posts big blind 4000
+Dealt to P1xel7 [8s Qs]
+*** PRE-FLOP *** 
+JeGagne. folds
+walter175 folds
+P1xel7 folds
+youki9175 folds
+BrankoToma folds
+iRaptor collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 3: iRaptor (big blind) won 9000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198577383598718986-44-1708026500 - Holdem no limit (500/2000/4000) - 2024/02/15 19:48:20 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #2 is the button
+Seat 1: youki9175 (192140)
+Seat 2: BrankoToma (326315)
+Seat 3: iRaptor (117220)
+Seat 4: JeGagne. (129463)
+Seat 5: walter175 (260188)
+Seat 7: foulozasse (153496)
+Seat 8: P1xel7 (89100)
+*** ANTE/BLINDS ***
+iRaptor posts ante 500
+JeGagne. posts ante 500
+youki9175 posts ante 500
+BrankoToma posts ante 500
+walter175 posts ante 500
+foulozasse posts ante 500
+P1xel7 posts ante 500
+iRaptor posts small blind 2000
+JeGagne. posts big blind 4000
+Dealt to P1xel7 [5s 6d]
+*** PRE-FLOP *** 
+walter175 folds
+foulozasse folds
+P1xel7 folds
+youki9175 folds
+BrankoToma folds
+iRaptor raises 6000 to 10000
+JeGagne. folds
+iRaptor collected 17500 from pot
+*** SUMMARY ***
+Total pot 17500 | No rake
+Seat 3: iRaptor (small blind) won 17500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198577383598718986-45-1708026546 - Holdem no limit (500/2000/4000) - 2024/02/15 19:49:06 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #3 is the button
+Seat 1: youki9175 (191640)
+Seat 2: BrankoToma (325815)
+Seat 3: iRaptor (124220)
+Seat 4: JeGagne. (124963)
+Seat 5: walter175 (259688)
+Seat 7: foulozasse (152996)
+Seat 8: P1xel7 (88600)
+*** ANTE/BLINDS ***
+JeGagne. posts ante 500
+walter175 posts ante 500
+youki9175 posts ante 500
+BrankoToma posts ante 500
+iRaptor posts ante 500
+foulozasse posts ante 500
+P1xel7 posts ante 500
+JeGagne. posts small blind 2000
+walter175 posts big blind 4000
+Dealt to P1xel7 [9s 3h]
+*** PRE-FLOP *** 
+foulozasse raises 13500 to 17500
+P1xel7 folds
+youki9175 folds
+BrankoToma calls 17500
+iRaptor calls 17500
+JeGagne. folds
+walter175 folds
+*** FLOP *** [Ks 2d 3d]
+foulozasse checks
+BrankoToma checks
+iRaptor bets 8000
+foulozasse folds
+BrankoToma calls 8000
+*** TURN *** [Ks 2d 3d][Kd]
+BrankoToma checks
+iRaptor checks
+*** RIVER *** [Ks 2d 3d Kd][6s]
+BrankoToma checks
+iRaptor checks
+*** SHOW DOWN ***
+BrankoToma shows [5d Ah] (One pair : Kings)
+iRaptor shows [4s 5s] (Straight 6 high)
+iRaptor collected 78000 from pot
+*** SUMMARY ***
+Total pot 78000 | No rake
+Board: [Ks 2d 3d Kd 6s]
+Seat 2: BrankoToma showed [5d Ah] and lost with One pair : Kings
+Seat 3: iRaptor (button) showed [4s 5s] and won 78000 with Straight 6 high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198577383598718986-46-1708026629 - Holdem no limit (500/2000/4000) - 2024/02/15 19:50:29 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #4 is the button
+Seat 1: youki9175 (191140)
+Seat 2: BrankoToma (299815)
+Seat 3: iRaptor (176220)
+Seat 4: JeGagne. (122463)
+Seat 5: walter175 (255188)
+Seat 7: foulozasse (134996)
+Seat 8: P1xel7 (88100)
+*** ANTE/BLINDS ***
+walter175 posts ante 500
+foulozasse posts ante 500
+youki9175 posts ante 500
+BrankoToma posts ante 500
+iRaptor posts ante 500
+JeGagne. posts ante 500
+P1xel7 posts ante 500
+walter175 posts small blind 2000
+foulozasse posts big blind 4000
+Dealt to P1xel7 [Ks 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+youki9175 folds
+BrankoToma raises 295315 to 299315 and is all-in
+iRaptor folds
+JeGagne. folds
+walter175 folds
+foulozasse folds
+BrankoToma collected 308815 from pot
+*** SUMMARY ***
+Total pot 308815 | No rake
+Seat 2: BrankoToma won 308815
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198577383598718986-47-1708026664 - Holdem no limit (500/2000/4000) - 2024/02/15 19:51:04 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #5 is the button
+Seat 1: youki9175 (190640)
+Seat 2: BrankoToma (308815)
+Seat 3: iRaptor (175720)
+Seat 4: JeGagne. (121963)
+Seat 5: walter175 (252688)
+Seat 7: foulozasse (130496)
+Seat 8: P1xel7 (87600)
+*** ANTE/BLINDS ***
+foulozasse posts ante 500
+P1xel7 posts ante 500
+youki9175 posts ante 500
+BrankoToma posts ante 500
+iRaptor posts ante 500
+JeGagne. posts ante 500
+walter175 posts ante 500
+foulozasse posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [Qc 9s]
+*** PRE-FLOP *** 
+youki9175 folds
+BrankoToma calls 4000
+iRaptor folds
+JeGagne. folds
+walter175 folds
+foulozasse folds
+P1xel7 checks
+*** FLOP *** [3h Td 4d]
+P1xel7 checks
+BrankoToma checks
+*** TURN *** [3h Td 4d][Kc]
+P1xel7 checks
+BrankoToma checks
+*** RIVER *** [3h Td 4d Kc][7s]
+P1xel7 checks
+BrankoToma checks
+*** SHOW DOWN ***
+P1xel7 shows [Qc 9s] (High card : King)
+BrankoToma shows [Qs Th] (One pair : Tens)
+BrankoToma collected 13500 from pot
+*** SUMMARY ***
+Total pot 13500 | No rake
+Board: [3h Td 4d Kc 7s]
+Seat 2: BrankoToma showed [Qs Th] and won 13500 with One pair : Tens
+Seat 8: P1xel7 (big blind) showed [Qc 9s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198577383598718986-48-1708026718 - Holdem no limit (500/2000/4000) - 2024/02/15 19:51:58 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #7 is the button
+Seat 1: youki9175 (190140)
+Seat 2: BrankoToma (317815)
+Seat 3: iRaptor (175220)
+Seat 4: JeGagne. (121463)
+Seat 5: walter175 (252188)
+Seat 7: foulozasse (127996)
+Seat 8: P1xel7 (83100)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+youki9175 posts ante 500
+BrankoToma posts ante 500
+iRaptor posts ante 500
+JeGagne. posts ante 500
+walter175 posts ante 500
+foulozasse posts ante 500
+P1xel7 posts small blind 2000
+youki9175 posts big blind 4000
+Dealt to P1xel7 [6d 3c]
+*** PRE-FLOP *** 
+BrankoToma folds
+iRaptor folds
+JeGagne. folds
+walter175 folds
+foulozasse folds
+P1xel7 folds
+youki9175 collected 9500 from pot
+*** SUMMARY ***
+Total pot 9500 | No rake
+Seat 1: youki9175 (big blind) won 9500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198577383598718986-49-1708026749 - Holdem no limit (600/2500/5000) - 2024/02/15 19:52:29 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #8 is the button
+Seat 1: youki9175 (195140)
+Seat 2: BrankoToma (317315)
+Seat 3: iRaptor (174720)
+Seat 4: JeGagne. (120963)
+Seat 5: walter175 (251688)
+Seat 7: foulozasse (127496)
+Seat 8: P1xel7 (80600)
+*** ANTE/BLINDS ***
+youki9175 posts ante 600
+BrankoToma posts ante 600
+iRaptor posts ante 600
+JeGagne. posts ante 600
+walter175 posts ante 600
+foulozasse posts ante 600
+P1xel7 posts ante 600
+youki9175 posts small blind 2500
+BrankoToma posts big blind 5000
+Dealt to P1xel7 [Ts 8d]
+*** PRE-FLOP *** 
+iRaptor folds
+JeGagne. folds
+walter175 folds
+foulozasse folds
+P1xel7 folds
+youki9175 calls 2500
+BrankoToma raises 311715 to 316715 and is all-in
+youki9175 folds
+BrankoToma collected 325915 from pot
+*** SUMMARY ***
+Total pot 325915 | No rake
+Seat 2: BrankoToma (big blind) won 325915
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198577383598718986-50-1708026793 - Holdem no limit (600/2500/5000) - 2024/02/15 19:53:13 UTC
+Table: 'Monster Stack(744726831)#009' 8-max (real money) Seat #1 is the button
+Seat 1: youki9175 (189540)
+Seat 2: BrankoToma (325915)
+Seat 3: iRaptor (174120)
+Seat 4: JeGagne. (120363)
+Seat 5: walter175 (251088)
+Seat 7: foulozasse (126896)
+Seat 8: P1xel7 (80000)
+*** ANTE/BLINDS ***
+BrankoToma posts ante 600
+iRaptor posts ante 600
+youki9175 posts ante 600
+JeGagne. posts ante 600
+walter175 posts ante 600
+foulozasse posts ante 600
+P1xel7 posts ante 600
+BrankoToma posts small blind 2500
+iRaptor posts big blind 5000
+Dealt to P1xel7 [Kh Th]
+*** PRE-FLOP *** 
+JeGagne. folds
+walter175 folds
+foulozasse raises 5000 to 10000
+P1xel7 raises 69400 to 79400 and is all-in
+youki9175 folds
+BrankoToma folds
+iRaptor folds
+foulozasse calls 69400
+*** FLOP *** [As 8c Kc]
+*** TURN *** [As 8c Kc][6s]
+*** RIVER *** [As 8c Kc 6s][2s]
+*** SHOW DOWN ***
+P1xel7 shows [Kh Th] (One pair : Kings)
+foulozasse shows [9s Ad] (One pair : Aces)
+foulozasse collected 170500 from pot
+*** SUMMARY ***
+Total pot 170500 | No rake
+Board: [As 8c Kc 6s 2s]
+Seat 7: foulozasse showed [9s Ad] and won 170500 with One pair : Aces
+Seat 8: P1xel7 showed [Kh Th] and lost with One pair : Kings
+
+

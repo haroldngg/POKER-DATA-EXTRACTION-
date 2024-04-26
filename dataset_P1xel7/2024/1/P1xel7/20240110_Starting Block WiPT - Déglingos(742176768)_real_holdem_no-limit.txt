@@ -1,0 +1,450 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187624946410979329-1-1704913999 - Holdem no limit (10/20) - 2024/01/10 19:13:19 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (500)
+Seat 2: bapt.mrj (500)
+Seat 3: _georgio_ (500)
+Seat 4: Oob200 (500)
+Seat 5: BISON-RAVI (500)
+Seat 6: Angelloco89 (500)
+*** ANTE/BLINDS ***
+Angelloco89 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [6c Kh]
+*** PRE-FLOP *** 
+bapt.mrj calls 20
+_georgio_ raises 480 to 500 and is all-in
+Oob200 folds
+BISON-RAVI calls 500 and is all-in
+Angelloco89 folds
+P1xel7 folds
+bapt.mrj folds
+*** FLOP *** [Jc 9h 6d]
+*** TURN *** [Jc 9h 6d][Qh]
+*** RIVER *** [Jc 9h 6d Qh][Js]
+*** SHOW DOWN ***
+BISON-RAVI shows [9s 6h] (Two pairs : Jacks and 9)
+_georgio_ shows [Th Td] (Two pairs : Jacks and Tens)
+_georgio_ collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [Jc 9h 6d Qh Js]
+Seat 3: _georgio_ showed [Th Td] and won 1050 with Two pairs : Jacks and Tens
+Seat 5: BISON-RAVI (button) showed [9s 6h] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187624946410979329-2-1704914018 - Holdem no limit (10/20) - 2024/01/10 19:13:38 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (480)
+Seat 2: bapt.mrj (480)
+Seat 3: _georgio_ (1050)
+Seat 4: Oob200 (500)
+Seat 6: Angelloco89 (490)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+bapt.mrj posts big blind 20
+Dealt to P1xel7 [Kd Th]
+*** PRE-FLOP *** 
+_georgio_ calls 20
+Oob200 folds
+Angelloco89 calls 20
+P1xel7 raises 80 to 100
+bapt.mrj calls 80
+_georgio_ calls 80
+Angelloco89 folds
+*** FLOP *** [Jc 2h Ac]
+P1xel7 bets 112
+bapt.mrj calls 112
+_georgio_ folds
+*** TURN *** [Jc 2h Ac][Ks]
+P1xel7 bets 268 and is all-in
+bapt.mrj calls 268 and is all-in
+*** RIVER *** [Jc 2h Ac Ks][As]
+*** SHOW DOWN ***
+bapt.mrj shows [5d Jd] (Two pairs : Aces and Jacks)
+P1xel7 shows [Kd Th] (Two pairs : Aces and Kings)
+P1xel7 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Jc 2h Ac Ks As]
+Seat 1: P1xel7 (small blind) showed [Kd Th] and won 1080 with Two pairs : Aces and Kings
+Seat 2: bapt.mrj (big blind) showed [5d Jd] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187624946410979329-3-1704914059 - Holdem no limit (10/20) - 2024/01/10 19:14:19 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1080)
+Seat 3: _georgio_ (950)
+Seat 4: Oob200 (500)
+Seat 6: Angelloco89 (470)
+*** ANTE/BLINDS ***
+_georgio_ posts big blind 20
+Dealt to P1xel7 [Kc 6s]
+*** PRE-FLOP *** 
+Oob200 folds
+Angelloco89 calls 20
+P1xel7 folds
+_georgio_ checks
+*** FLOP *** [Ks 5h Jd]
+_georgio_ checks
+Angelloco89 bets 20
+_georgio_ folds
+Angelloco89 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ks 5h Jd]
+Seat 6: Angelloco89 won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187624946410979329-4-1704914078 - Holdem no limit (10/20) - 2024/01/10 19:14:38 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (1080)
+Seat 3: _georgio_ (930)
+Seat 4: Oob200 (500)
+Seat 6: Angelloco89 (490)
+*** ANTE/BLINDS ***
+_georgio_ posts small blind 10
+Oob200 posts big blind 20
+Dealt to P1xel7 [8d 2h]
+*** PRE-FLOP *** 
+Angelloco89 calls 20
+P1xel7 folds
+_georgio_ calls 10
+Oob200 checks
+*** FLOP *** [Qc 8c 7c]
+_georgio_ bets 20
+Oob200 folds
+Angelloco89 folds
+_georgio_ collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Qc 8c 7c]
+Seat 3: _georgio_ (small blind) won 80
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187624946410979329-5-1704914095 - Holdem no limit (15/30) - 2024/01/10 19:14:55 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (1080)
+Seat 3: _georgio_ (970)
+Seat 4: Oob200 (480)
+Seat 6: Angelloco89 (470)
+*** ANTE/BLINDS ***
+Oob200 posts small blind 15
+Angelloco89 posts big blind 30
+Dealt to P1xel7 [Jd 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+_georgio_ calls 30
+Oob200 raises 450 to 480 and is all-in
+Angelloco89 calls 440 and is all-in
+_georgio_ folds
+*** FLOP *** [3d 6c 9c]
+*** TURN *** [3d 6c 9c][4d]
+*** RIVER *** [3d 6c 9c 4d][3s]
+*** SHOW DOWN ***
+Angelloco89 shows [Qh As] (One pair : 3)
+Oob200 shows [8h 8c] (Two pairs : 8 and 3)
+Oob200 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | No rake
+Board: [3d 6c 9c 4d 3s]
+Seat 4: Oob200 (small blind) showed [8h 8c] and won 980 with Two pairs : 8 and 3
+Seat 6: Angelloco89 (big blind) showed [Qh As] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187624946410979329-6-1704914120 - Holdem no limit (15/30) - 2024/01/10 19:15:20 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1080)
+Seat 3: _georgio_ (940)
+Seat 4: Oob200 (980)
+*** ANTE/BLINDS ***
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Js Kh]
+*** PRE-FLOP *** 
+_georgio_ calls 30
+Oob200 folds
+P1xel7 raises 1050 to 1080 and is all-in
+_georgio_ folds
+P1xel7 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 1: P1xel7 (big blind) won 1110
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187624946410979329-7-1704914132 - Holdem no limit (15/30) - 2024/01/10 19:15:32 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (1110)
+Seat 3: _georgio_ (910)
+Seat 4: Oob200 (980)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+_georgio_ posts big blind 30
+Dealt to P1xel7 [Ts 4d]
+*** PRE-FLOP *** 
+Oob200 folds
+P1xel7 folds
+_georgio_ collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _georgio_ (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187624946410979329-8-1704914137 - Holdem no limit (15/30) - 2024/01/10 19:15:37 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1095)
+Seat 3: _georgio_ (925)
+Seat 4: Oob200 (980)
+*** ANTE/BLINDS ***
+_georgio_ posts small blind 15
+Oob200 posts big blind 30
+Dealt to P1xel7 [7c Td]
+*** PRE-FLOP *** 
+P1xel7 folds
+_georgio_ folds
+Oob200 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 4: Oob200 (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187624946410979329-9-1704914143 - Holdem no limit (15/30) - 2024/01/10 19:15:43 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (1095)
+Seat 3: _georgio_ (910)
+Seat 4: Oob200 (995)
+*** ANTE/BLINDS ***
+Oob200 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [8d 6d]
+*** PRE-FLOP *** 
+_georgio_ calls 30
+Oob200 calls 15
+P1xel7 checks
+*** FLOP *** [Jc Th Kc]
+Oob200 bets 31
+P1xel7 folds
+_georgio_ raises 849 to 880 and is all-in
+Oob200 folds
+_georgio_ collected 1001 from pot
+*** SUMMARY ***
+Total pot 1001 | No rake
+Board: [Jc Th Kc]
+Seat 3: _georgio_ (button) won 1001
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187624946410979329-10-1704914156 - Holdem no limit (15/30) - 2024/01/10 19:15:56 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1065)
+Seat 3: _georgio_ (1001)
+Seat 4: Oob200 (934)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+_georgio_ posts big blind 30
+Dealt to P1xel7 [7c Ks]
+*** PRE-FLOP *** 
+Oob200 folds
+P1xel7 folds
+_georgio_ collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: _georgio_ (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187624946410979329-11-1704914163 - Holdem no limit (15/30) - 2024/01/10 19:16:03 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1050)
+Seat 3: _georgio_ (1016)
+Seat 4: Oob200 (934)
+*** ANTE/BLINDS ***
+_georgio_ posts small blind 15
+Oob200 posts big blind 30
+Dealt to P1xel7 [Ks 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+_georgio_ calls 15
+Oob200 checks
+*** FLOP *** [9c 9h 6c]
+_georgio_ bets 30
+Oob200 folds
+_georgio_ collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9c 9h 6c]
+Seat 3: _georgio_ (small blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187624946410979329-12-1704914178 - Holdem no limit (20/40) - 2024/01/10 19:16:18 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (1050)
+Seat 3: _georgio_ (1046)
+Seat 4: Oob200 (904)
+*** ANTE/BLINDS ***
+Oob200 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [3c Kd]
+*** PRE-FLOP *** 
+_georgio_ calls 40
+Oob200 calls 20
+P1xel7 checks
+*** FLOP *** [Jd 5h 3s]
+Oob200 checks
+P1xel7 bets 42
+_georgio_ calls 42
+Oob200 calls 42
+*** TURN *** [Jd 5h 3s][Qc]
+Oob200 checks
+P1xel7 checks
+_georgio_ checks
+*** RIVER *** [Jd 5h 3s Qc][9d]
+Oob200 bets 822 and is all-in
+P1xel7 folds
+_georgio_ folds
+Oob200 collected 1068 from pot
+*** SUMMARY ***
+Total pot 1068 | No rake
+Board: [Jd 5h 3s Qc 9d]
+Seat 4: Oob200 (small blind) won 1068
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187624946410979329-13-1704914223 - Holdem no limit (20/40) - 2024/01/10 19:17:03 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (968)
+Seat 3: _georgio_ (964)
+Seat 4: Oob200 (1068)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+_georgio_ posts big blind 40
+Dealt to P1xel7 [As Qs]
+*** PRE-FLOP *** 
+Oob200 folds
+P1xel7 raises 928 to 968 and is all-in
+_georgio_ folds
+P1xel7 collected 1008 from pot
+*** SUMMARY ***
+Total pot 1008 | No rake
+Seat 1: P1xel7 (small blind) won 1008
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187624946410979329-14-1704914235 - Holdem no limit (20/40) - 2024/01/10 19:17:15 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1008)
+Seat 3: _georgio_ (924)
+Seat 4: Oob200 (1068)
+*** ANTE/BLINDS ***
+_georgio_ posts small blind 20
+Oob200 posts big blind 40
+Dealt to P1xel7 [4d Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 50 to 90
+_georgio_ raises 180 to 270
+Oob200 folds
+P1xel7 calls 180
+*** FLOP *** [Qd 9d 7d]
+_georgio_ bets 377
+P1xel7 raises 361 to 738 and is all-in
+_georgio_ calls 277 and is all-in
+*** TURN *** [Qd 9d 7d][2d]
+*** RIVER *** [Qd 9d 7d 2d][9s]
+*** SHOW DOWN ***
+_georgio_ shows [Qs As] (Two pairs : Queens and 9)
+P1xel7 shows [4d Ah] (Flush Queen high)
+P1xel7 collected 1972 from pot
+*** SUMMARY ***
+Total pot 1972 | No rake
+Board: [Qd 9d 7d 2d 9s]
+Seat 1: P1xel7 (button) showed [4d Ah] and won 1972 with Flush Queen high
+Seat 3: _georgio_ (small blind) showed [Qs As] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3187624946410979329-15-1704914276 - Holdem no limit (30/60) - 2024/01/10 19:17:56 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1972)
+Seat 4: Oob200 (1028)
+*** ANTE/BLINDS ***
+Oob200 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Qs 3d]
+*** PRE-FLOP *** 
+Oob200 raises 968 to 1028 and is all-in
+P1xel7 folds
+Oob200 collected 1088 from pot
+*** SUMMARY ***
+Total pot 1088 | No rake
+Seat 4: Oob200 (small blind) (button) won 1088
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3187624946410979329-16-1704914281 - Holdem no limit (30/60) - 2024/01/10 19:18:01 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1912)
+Seat 4: Oob200 (1088)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Oob200 posts big blind 60
+Dealt to P1xel7 [Tc 9c]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 120
+Oob200 raises 968 to 1088 and is all-in
+P1xel7 folds
+Oob200 collected 1208 from pot
+*** SUMMARY ***
+Total pot 1208 | No rake
+Seat 4: Oob200 (big blind) won 1208
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3187624946410979329-17-1704914289 - Holdem no limit (30/60) - 2024/01/10 19:18:09 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1792)
+Seat 4: Oob200 (1208)
+*** ANTE/BLINDS ***
+Oob200 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [4c 3d]
+*** PRE-FLOP *** 
+Oob200 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3187624946410979329-18-1704914294 - Holdem no limit (30/60) - 2024/01/10 19:18:14 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1822)
+Seat 4: Oob200 (1178)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Oob200 posts big blind 60
+Dealt to P1xel7 [4h Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 1762 to 1822 and is all-in
+Oob200 folds
+P1xel7 collected 1882 from pot
+*** SUMMARY ***
+Total pot 1882 | No rake
+Seat 1: P1xel7 (small blind) (button) won 1882
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3187624946410979329-19-1704914309 - Holdem no limit (30/60) - 2024/01/10 19:18:29 UTC
+Table: 'Starting Block WiPT - Déglingos(742176768)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1882)
+Seat 4: Oob200 (1118)
+*** ANTE/BLINDS ***
+Oob200 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [2c 2d]
+*** PRE-FLOP *** 
+Oob200 raises 1058 to 1118 and is all-in
+P1xel7 calls 1058
+*** FLOP *** [Ks 6h 2h]
+*** TURN *** [Ks 6h 2h][Kd]
+*** RIVER *** [Ks 6h 2h Kd][Qh]
+*** SHOW DOWN ***
+Oob200 shows [As 6d] (Two pairs : Kings and 6)
+P1xel7 shows [2c 2d] (Full of 2 and Kings)
+P1xel7 collected 2236 from pot
+*** SUMMARY ***
+Total pot 2236 | No rake
+Board: [Ks 6h 2h Kd Qh]
+Seat 1: P1xel7 (big blind) showed [2c 2d] and won 2236 with Full of 2 and Kings
+Seat 4: Oob200 (small blind) (button) showed [As 6d] and lost with Two pairs : Kings and 6
+
+

@@ -1,0 +1,475 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244803515310145537-1-1707851556 - Holdem no limit (10/20) - 2024/02/13 19:12:36 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #3 is the button
+Seat 1: mildred1212 (500)
+Seat 2: Cobratix (500)
+Seat 3: punaises (500)
+Seat 4: P1xel7 (500)
+Seat 5: FuCKmoTH-PoK (500)
+Seat 6: Weed7777 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+FuCKmoTH-PoK posts big blind 20
+Dealt to P1xel7 [As Jh]
+*** PRE-FLOP *** 
+Weed7777 raises 480 to 500 and is all-in
+mildred1212 folds
+Cobratix folds
+punaises folds
+P1xel7 calls 490 and is all-in
+FuCKmoTH-PoK folds
+*** FLOP *** [3c Ad Ac]
+*** TURN *** [3c Ad Ac][9h]
+*** RIVER *** [3c Ad Ac 9h][8c]
+*** SHOW DOWN ***
+Weed7777 shows [5s 7c] (One pair : Aces)
+P1xel7 shows [As Jh] (Trips of Aces)
+P1xel7 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [3c Ad Ac 9h 8c]
+Seat 4: P1xel7 (small blind) showed [As Jh] and won 1020 with Trips of Aces
+Seat 6: Weed7777 showed [5s 7c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244803515310145537-2-1707851633 - Holdem no limit (10/20) - 2024/02/13 19:13:53 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #4 is the button
+Seat 1: mildred1212 (500)
+Seat 2: Cobratix (500)
+Seat 3: punaises (500)
+Seat 4: P1xel7 (1020)
+Seat 5: FuCKmoTH-PoK (480)
+*** ANTE/BLINDS ***
+FuCKmoTH-PoK posts small blind 10
+mildred1212 posts big blind 20
+Dealt to P1xel7 [8s 4s]
+*** PRE-FLOP *** 
+Cobratix folds
+punaises folds
+P1xel7 folds
+FuCKmoTH-PoK folds
+mildred1212 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: mildred1212 (big blind) won 30
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244803515310145537-3-1707851671 - Holdem no limit (15/30) - 2024/02/13 19:14:31 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #5 is the button
+Seat 1: mildred1212 (510)
+Seat 2: Cobratix (500)
+Seat 3: punaises (500)
+Seat 4: P1xel7 (1020)
+Seat 5: FuCKmoTH-PoK (470)
+*** ANTE/BLINDS ***
+mildred1212 posts small blind 15
+Cobratix posts big blind 30
+Dealt to P1xel7 [Tc 9s]
+*** PRE-FLOP *** 
+punaises calls 30
+P1xel7 folds
+FuCKmoTH-PoK calls 30
+mildred1212 calls 15
+Cobratix checks
+*** FLOP *** [4s Ts Ac]
+mildred1212 checks
+Cobratix bets 470 and is all-in
+punaises calls 470 and is all-in
+FuCKmoTH-PoK folds
+mildred1212 folds
+*** TURN *** [4s Ts Ac][Ks]
+*** RIVER *** [4s Ts Ac Ks][7c]
+*** SHOW DOWN ***
+punaises shows [3d 3h] (One pair : 3)
+Cobratix shows [As 2h] (One pair : Aces)
+Cobratix collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Board: [4s Ts Ac Ks 7c]
+Seat 2: Cobratix (big blind) showed [As 2h] and won 1060 with One pair : Aces
+Seat 3: punaises showed [3d 3h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244803515310145537-4-1707851749 - Holdem no limit (20/40) - 2024/02/13 19:15:49 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #1 is the button
+Seat 1: mildred1212 (480)
+Seat 2: Cobratix (1060)
+Seat 4: P1xel7 (1020)
+Seat 5: FuCKmoTH-PoK (440)
+*** ANTE/BLINDS ***
+Cobratix posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [4d 3d]
+*** PRE-FLOP *** 
+FuCKmoTH-PoK raises 400 to 440 and is all-in
+mildred1212 folds
+Cobratix folds
+P1xel7 folds
+FuCKmoTH-PoK collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 5: FuCKmoTH-PoK won 500
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244803515310145537-5-1707851782 - Holdem no limit (20/40) - 2024/02/13 19:16:22 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #2 is the button
+Seat 1: mildred1212 (480)
+Seat 2: Cobratix (1040)
+Seat 4: P1xel7 (980)
+Seat 5: FuCKmoTH-PoK (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+FuCKmoTH-PoK posts big blind 40
+Dealt to P1xel7 [3s 7c]
+*** PRE-FLOP *** 
+mildred1212 folds
+Cobratix folds
+P1xel7 folds
+FuCKmoTH-PoK collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 5: FuCKmoTH-PoK (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244803515310145537-6-1707851814 - Holdem no limit (20/40) - 2024/02/13 19:16:54 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #4 is the button
+Seat 1: mildred1212 (480)
+Seat 2: Cobratix (1040)
+Seat 4: P1xel7 (960)
+Seat 5: FuCKmoTH-PoK (520)
+*** ANTE/BLINDS ***
+FuCKmoTH-PoK posts small blind 20
+mildred1212 posts big blind 40
+Dealt to P1xel7 [Qs 2h]
+*** PRE-FLOP *** 
+Cobratix raises 1000 to 1040 and is all-in
+P1xel7 folds
+FuCKmoTH-PoK folds
+mildred1212 calls 440 and is all-in
+*** FLOP *** [8c As 5s]
+*** TURN *** [8c As 5s][3h]
+*** RIVER *** [8c As 5s 3h][Qh]
+*** SHOW DOWN ***
+mildred1212 shows [Kc 5h] (One pair : 5)
+Cobratix shows [Js Jh] (One pair : Jacks)
+Cobratix collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Board: [8c As 5s 3h Qh]
+Seat 1: mildred1212 (big blind) showed [Kc 5h] and lost with One pair : 5
+Seat 2: Cobratix showed [Js Jh] and won 1540 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244803515310145537-7-1707851832 - Holdem no limit (30/60) - 2024/02/13 19:17:12 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Cobratix (1540)
+Seat 4: P1xel7 (960)
+Seat 5: FuCKmoTH-PoK (500)
+*** ANTE/BLINDS ***
+Cobratix posts big blind 60
+Dealt to P1xel7 [8d 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+FuCKmoTH-PoK raises 120 to 180
+Cobratix folds
+FuCKmoTH-PoK collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: FuCKmoTH-PoK (button) won 240
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244803515310145537-8-1707851845 - Holdem no limit (30/60) - 2024/02/13 19:17:25 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #1 is the button
+Seat 2: Cobratix (1480)
+Seat 4: P1xel7 (960)
+Seat 5: FuCKmoTH-PoK (560)
+*** ANTE/BLINDS ***
+Cobratix posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Qc 8d]
+*** PRE-FLOP *** 
+FuCKmoTH-PoK folds
+Cobratix raises 60 to 120
+P1xel7 folds
+Cobratix collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: Cobratix (small blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244803515310145537-9-1707851861 - Holdem no limit (30/60) - 2024/02/13 19:17:41 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Cobratix (1540)
+Seat 4: P1xel7 (900)
+Seat 5: FuCKmoTH-PoK (560)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+FuCKmoTH-PoK posts big blind 60
+Dealt to P1xel7 [6c 2d]
+*** PRE-FLOP *** 
+Cobratix folds
+P1xel7 folds
+FuCKmoTH-PoK collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 5: FuCKmoTH-PoK (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244803515310145537-10-1707851869 - Holdem no limit (30/60) - 2024/02/13 19:17:49 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Cobratix (1540)
+Seat 4: P1xel7 (870)
+Seat 5: FuCKmoTH-PoK (590)
+*** ANTE/BLINDS ***
+FuCKmoTH-PoK posts small blind 30
+Cobratix posts big blind 60
+Dealt to P1xel7 [3d 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+FuCKmoTH-PoK calls 30
+Cobratix checks
+*** FLOP *** [Js 9h Ad]
+FuCKmoTH-PoK checks
+Cobratix checks
+*** TURN *** [Js 9h Ad][Ks]
+FuCKmoTH-PoK bets 60
+Cobratix folds
+FuCKmoTH-PoK collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Js 9h Ad Ks]
+Seat 5: FuCKmoTH-PoK (small blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244803515310145537-11-1707851888 - Holdem no limit (30/60) - 2024/02/13 19:18:08 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Cobratix (1480)
+Seat 4: P1xel7 (870)
+Seat 5: FuCKmoTH-PoK (650)
+*** ANTE/BLINDS ***
+Cobratix posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [3s Ah]
+*** PRE-FLOP *** 
+FuCKmoTH-PoK raises 60 to 120
+Cobratix raises 240 to 360
+P1xel7 folds
+FuCKmoTH-PoK calls 240
+*** FLOP *** [Qd Th Kh]
+Cobratix bets 1120 and is all-in
+FuCKmoTH-PoK folds
+Cobratix collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [Qd Th Kh]
+Seat 2: Cobratix (small blind) won 1900
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3244803515310145537-12-1707851949 - Holdem no limit (40/80) - 2024/02/13 19:19:09 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Cobratix (1900)
+Seat 4: P1xel7 (810)
+Seat 5: FuCKmoTH-PoK (290)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+FuCKmoTH-PoK posts big blind 80
+Dealt to P1xel7 [As 6h]
+*** PRE-FLOP *** 
+Cobratix calls 80
+P1xel7 raises 730 to 810 and is all-in
+FuCKmoTH-PoK calls 210 and is all-in
+Cobratix folds
+*** FLOP *** [7s 4h 9c]
+*** TURN *** [7s 4h 9c][8d]
+*** RIVER *** [7s 4h 9c 8d][6c]
+*** SHOW DOWN ***
+P1xel7 shows [As 6h] (One pair : 6)
+FuCKmoTH-PoK shows [Td Kc] (Straight Ten high)
+FuCKmoTH-PoK collected 660 from main pot
+P1xel7 collected 520 from side pot 1
+*** SUMMARY ***
+Total pot 1180 | No rake
+Board: [7s 4h 9c 8d 6c]
+Seat 4: P1xel7 (small blind) showed [As 6h] and won 520 with One pair : 6
+Seat 5: FuCKmoTH-PoK (big blind) showed [Td Kc] and won 660 with Straight Ten high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3244803515310145537-13-1707851980 - Holdem no limit (40/80) - 2024/02/13 19:19:40 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Cobratix (1820)
+Seat 4: P1xel7 (520)
+Seat 5: FuCKmoTH-PoK (660)
+*** ANTE/BLINDS ***
+FuCKmoTH-PoK posts small blind 40
+Cobratix posts big blind 80
+Dealt to P1xel7 [6d Kd]
+*** PRE-FLOP *** 
+P1xel7 folds
+FuCKmoTH-PoK calls 40
+Cobratix checks
+*** FLOP *** [Ac Kc 6s]
+FuCKmoTH-PoK bets 580 and is all-in
+Cobratix folds
+FuCKmoTH-PoK collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [Ac Kc 6s]
+Seat 5: FuCKmoTH-PoK (small blind) won 740
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3244803515310145537-14-1707852000 - Holdem no limit (40/80) - 2024/02/13 19:20:00 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Cobratix (1740)
+Seat 4: P1xel7 (520)
+Seat 5: FuCKmoTH-PoK (740)
+*** ANTE/BLINDS ***
+Cobratix posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [5s As]
+*** PRE-FLOP *** 
+FuCKmoTH-PoK raises 80 to 160
+Cobratix folds
+P1xel7 raises 360 to 520 and is all-in
+FuCKmoTH-PoK raises 220 to 740 and is all-in
+*** FLOP *** [Kh Qh 9h]
+*** TURN *** [Kh Qh 9h][Tc]
+*** RIVER *** [Kh Qh 9h Tc][Ad]
+*** SHOW DOWN ***
+P1xel7 shows [5s As] (One pair : Aces)
+FuCKmoTH-PoK shows [9s 6s] (One pair : 9)
+FuCKmoTH-PoK collected 220 from side pot 1
+P1xel7 collected 1080 from main pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [Kh Qh 9h Tc Ad]
+Seat 4: P1xel7 (big blind) showed [5s As] and won 1080 with One pair : Aces
+Seat 5: FuCKmoTH-PoK (button) showed [9s 6s] and won 220 with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3244803515310145537-15-1707852027 - Holdem no limit (60/120) - 2024/02/13 19:20:27 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Cobratix (1700)
+Seat 4: P1xel7 (1080)
+Seat 5: FuCKmoTH-PoK (220)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+FuCKmoTH-PoK posts big blind 120
+Dealt to P1xel7 [7s 9c]
+*** PRE-FLOP *** 
+Cobratix folds
+P1xel7 folds
+FuCKmoTH-PoK collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 5: FuCKmoTH-PoK (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3244803515310145537-16-1707852049 - Holdem no limit (60/120) - 2024/02/13 19:20:49 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Cobratix (1700)
+Seat 4: P1xel7 (1020)
+Seat 5: FuCKmoTH-PoK (280)
+*** ANTE/BLINDS ***
+FuCKmoTH-PoK posts small blind 60
+Cobratix posts big blind 120
+Dealt to P1xel7 [Kd 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+FuCKmoTH-PoK folds
+Cobratix collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 2: Cobratix (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3244803515310145537-17-1707852056 - Holdem no limit (60/120) - 2024/02/13 19:20:56 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Cobratix (1760)
+Seat 4: P1xel7 (1020)
+Seat 5: FuCKmoTH-PoK (220)
+*** ANTE/BLINDS ***
+Cobratix posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [2c 3d]
+*** PRE-FLOP *** 
+FuCKmoTH-PoK folds
+Cobratix calls 60
+P1xel7 raises 900 to 1020 and is all-in
+Cobratix folds
+P1xel7 collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | No rake
+Seat 4: P1xel7 (big blind) won 1140
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3244803515310145537-18-1707852076 - Holdem no limit (60/120) - 2024/02/13 19:21:16 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Cobratix (1640)
+Seat 4: P1xel7 (1140)
+Seat 5: FuCKmoTH-PoK (220)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+FuCKmoTH-PoK posts big blind 120
+Dealt to P1xel7 [3s Td]
+*** PRE-FLOP *** 
+Cobratix folds
+P1xel7 raises 120 to 240
+FuCKmoTH-PoK calls 100 and is all-in
+*** FLOP *** [Tc 6h 5c]
+*** TURN *** [Tc 6h 5c][3d]
+*** RIVER *** [Tc 6h 5c 3d][Jh]
+*** SHOW DOWN ***
+FuCKmoTH-PoK shows [Js Qs] (One pair : Jacks)
+P1xel7 shows [3s Td] (Two pairs : Tens and 3)
+P1xel7 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [Tc 6h 5c 3d Jh]
+Seat 4: P1xel7 (small blind) showed [3s Td] and won 460 with Two pairs : Tens and 3
+Seat 5: FuCKmoTH-PoK (big blind) showed [Js Qs] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3244803515310145537-19-1707852090 - Holdem no limit (60/120) - 2024/02/13 19:21:30 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Cobratix (1640)
+Seat 4: P1xel7 (1360)
+*** ANTE/BLINDS ***
+Cobratix posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [Qc 8d]
+*** PRE-FLOP *** 
+Cobratix raises 120 to 240
+P1xel7 folds
+Cobratix collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 2: Cobratix (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3244803515310145537-20-1707852099 - Holdem no limit (10/60/120) - 2024/02/13 19:21:39 UTC
+Table: 'Starting Block WiPT - Déglingos(755489691)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Cobratix (1760)
+Seat 4: P1xel7 (1240)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+Cobratix posts ante 10
+P1xel7 posts small blind 60
+Cobratix posts big blind 120
+Dealt to P1xel7 [Ah Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 240
+Cobratix raises 1510 to 1750 and is all-in
+P1xel7 calls 990 and is all-in
+*** FLOP *** [2d 4d 9c]
+*** TURN *** [2d 4d 9c][7d]
+*** RIVER *** [2d 4d 9c 7d][9s]
+*** SHOW DOWN ***
+P1xel7 shows [Ah Ac] (Two pairs : Aces and 9)
+Cobratix shows [9d 9h] (Quads of 9)
+Cobratix collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [2d 4d 9c 7d 9s]
+Seat 2: Cobratix (big blind) showed [9d 9h] and won 3000 with Quads of 9
+Seat 4: P1xel7 (small blind) (button) showed [Ah Ac] and lost with Two pairs : Aces and 9
+
+

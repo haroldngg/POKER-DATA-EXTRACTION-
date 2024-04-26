@@ -1,0 +1,949 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3265097901503676417-1-1708887499 - Holdem no limit (10/20) - 2024/02/25 18:58:19 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (500)
+Seat 2: LECHATCALL13 (500)
+Seat 3: P1xel7 (500)
+Seat 4: Fl0rek70 (500)
+Seat 5: XavMarcel (500)
+Seat 6: Karrayo (500)
+*** ANTE/BLINDS ***
+Fl0rek70 posts small blind 10
+XavMarcel posts big blind 20
+Dealt to P1xel7 [6c 5c]
+*** PRE-FLOP *** 
+Karrayo folds
+snAA-KKe raises 480 to 500 and is all-in
+LECHATCALL13 calls 500 and is all-in
+P1xel7 folds
+Fl0rek70 folds
+XavMarcel calls 480 and is all-in
+*** FLOP *** [7c 6s 2h]
+*** TURN *** [7c 6s 2h][6d]
+*** RIVER *** [7c 6s 2h 6d][5s]
+*** SHOW DOWN ***
+LECHATCALL13 shows [Ac Kd] (One pair : 6)
+XavMarcel shows [2d 5d] (Two pairs : 6 and 5)
+snAA-KKe shows [Kc Kh] (Two pairs : Kings and 6)
+snAA-KKe collected 1510 from pot
+*** SUMMARY ***
+Total pot 1510 | No rake
+Board: [7c 6s 2h 6d 5s]
+Seat 1: snAA-KKe showed [Kc Kh] and won 1510 with Two pairs : Kings and 6
+Seat 2: LECHATCALL13 showed [Ac Kd] and lost with One pair : 6
+Seat 5: XavMarcel (big blind) showed [2d 5d] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3265097901503676417-2-1708887529 - Holdem no limit (10/20) - 2024/02/25 18:58:49 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #4 is the button
+Seat 1: snAA-KKe (1510)
+Seat 3: P1xel7 (500)
+Seat 4: Fl0rek70 (490)
+Seat 6: Karrayo (500)
+*** ANTE/BLINDS ***
+Karrayo posts big blind 20
+Dealt to P1xel7 [Jd 8d]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 folds
+Fl0rek70 folds
+Karrayo collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | No rake
+Seat 6: Karrayo (big blind) won 20
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3265097901503676417-3-1708887540 - Holdem no limit (10/20) - 2024/02/25 18:59:00 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #5 is the button
+Seat 1: snAA-KKe (1510)
+Seat 3: P1xel7 (500)
+Seat 4: Fl0rek70 (490)
+Seat 6: Karrayo (500)
+*** ANTE/BLINDS ***
+Karrayo posts small blind 10
+snAA-KKe posts big blind 20
+Dealt to P1xel7 [3h 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Fl0rek70 raises 50 to 70
+Karrayo folds
+snAA-KKe folds
+Fl0rek70 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Seat 4: Fl0rek70 won 100
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3265097901503676417-4-1708887562 - Holdem no limit (10/20) - 2024/02/25 18:59:22 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #6 is the button
+Seat 1: snAA-KKe (1490)
+Seat 3: P1xel7 (500)
+Seat 4: Fl0rek70 (520)
+Seat 6: Karrayo (490)
+*** ANTE/BLINDS ***
+snAA-KKe posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [3c Qd]
+*** PRE-FLOP *** 
+Fl0rek70 raises 30 to 50
+Karrayo folds
+snAA-KKe calls 40
+P1xel7 folds
+*** FLOP *** [4h 2s Ts]
+snAA-KKe checks
+Fl0rek70 checks
+*** TURN *** [4h 2s Ts][9s]
+snAA-KKe bets 1440 and is all-in
+Fl0rek70 folds
+snAA-KKe collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [4h 2s Ts 9s]
+Seat 1: snAA-KKe (small blind) won 1560
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3265097901503676417-5-1708887591 - Holdem no limit (15/30) - 2024/02/25 18:59:51 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1560)
+Seat 3: P1xel7 (480)
+Seat 4: Fl0rek70 (470)
+Seat 6: Karrayo (490)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Fl0rek70 posts big blind 30
+Dealt to P1xel7 [8h 6c]
+*** PRE-FLOP *** 
+Karrayo raises 45 to 75
+snAA-KKe folds
+P1xel7 folds
+Fl0rek70 calls 45
+*** FLOP *** [2c Jc Qd]
+Fl0rek70 bets 58
+Karrayo calls 58
+*** TURN *** [2c Jc Qd][9s]
+Fl0rek70 bets 337 and is all-in
+Karrayo folds
+Fl0rek70 collected 618 from pot
+*** SUMMARY ***
+Total pot 618 | No rake
+Board: [2c Jc Qd 9s]
+Seat 4: Fl0rek70 (big blind) won 618
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3265097901503676417-6-1708887622 - Holdem no limit (15/30) - 2024/02/25 19:00:22 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1560)
+Seat 3: P1xel7 (465)
+Seat 4: Fl0rek70 (618)
+Seat 6: Karrayo (357)
+*** ANTE/BLINDS ***
+Fl0rek70 posts small blind 15
+Karrayo posts big blind 30
+Dealt to P1xel7 [Kc 8d]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 folds
+Fl0rek70 calls 15
+Karrayo checks
+*** FLOP *** [5c 6c 6h]
+Fl0rek70 bets 39
+Karrayo calls 39
+*** TURN *** [5c 6c 6h][4d]
+Fl0rek70 bets 48
+Karrayo calls 48
+*** RIVER *** [5c 6c 6h 4d][9d]
+Fl0rek70 bets 152
+Karrayo calls 152
+*** SHOW DOWN ***
+Fl0rek70 shows [4c 2c] (Two pairs : 6 and 4)
+Karrayo shows [Ad 5s] (Two pairs : 6 and 5)
+Karrayo collected 538 from pot
+*** SUMMARY ***
+Total pot 538 | No rake
+Board: [5c 6c 6h 4d 9d]
+Seat 4: Fl0rek70 (small blind) showed [4c 2c] and lost with Two pairs : 6 and 4
+Seat 6: Karrayo (big blind) showed [Ad 5s] and won 538 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3265097901503676417-7-1708887673 - Holdem no limit (15/30) - 2024/02/25 19:01:13 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #4 is the button
+Seat 1: snAA-KKe (1560)
+Seat 3: P1xel7 (465)
+Seat 4: Fl0rek70 (349)
+Seat 6: Karrayo (626)
+*** ANTE/BLINDS ***
+Karrayo posts small blind 15
+snAA-KKe posts big blind 30
+Dealt to P1xel7 [8c 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Fl0rek70 raises 319 to 349 and is all-in
+Karrayo folds
+snAA-KKe calls 319
+*** FLOP *** [Kc Ad 2d]
+*** TURN *** [Kc Ad 2d][2c]
+*** RIVER *** [Kc Ad 2d 2c][4h]
+*** SHOW DOWN ***
+snAA-KKe shows [8d Td] (One pair : 2)
+Fl0rek70 shows [Qd Ac] (Two pairs : Aces and 2)
+Fl0rek70 collected 713 from pot
+*** SUMMARY ***
+Total pot 713 | No rake
+Board: [Kc Ad 2d 2c 4h]
+Seat 1: snAA-KKe (big blind) showed [8d Td] and lost with One pair : 2
+Seat 4: Fl0rek70 (button) showed [Qd Ac] and won 713 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3265097901503676417-8-1708887689 - Holdem no limit (20/40) - 2024/02/25 19:01:29 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #6 is the button
+Seat 1: snAA-KKe (1211)
+Seat 3: P1xel7 (465)
+Seat 4: Fl0rek70 (713)
+Seat 6: Karrayo (611)
+*** ANTE/BLINDS ***
+snAA-KKe posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Tc Jc]
+*** PRE-FLOP *** 
+Fl0rek70 folds
+Karrayo folds
+snAA-KKe raises 1171 to 1211 and is all-in
+P1xel7 folds
+snAA-KKe collected 1251 from pot
+*** SUMMARY ***
+Total pot 1251 | No rake
+Seat 1: snAA-KKe (small blind) won 1251
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3265097901503676417-9-1708887708 - Holdem no limit (20/40) - 2024/02/25 19:01:48 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1251)
+Seat 3: P1xel7 (425)
+Seat 4: Fl0rek70 (713)
+Seat 6: Karrayo (611)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Fl0rek70 posts big blind 40
+Dealt to P1xel7 [Kh Qc]
+*** PRE-FLOP *** 
+Karrayo folds
+snAA-KKe folds
+P1xel7 raises 40 to 80
+Fl0rek70 folds
+P1xel7 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: P1xel7 (small blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3265097901503676417-10-1708887742 - Holdem no limit (20/40) - 2024/02/25 19:02:22 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1251)
+Seat 3: P1xel7 (465)
+Seat 4: Fl0rek70 (673)
+Seat 6: Karrayo (611)
+*** ANTE/BLINDS ***
+Fl0rek70 posts small blind 20
+Karrayo posts big blind 40
+Dealt to P1xel7 [6d Qs]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 folds
+Fl0rek70 calls 20
+Karrayo checks
+*** FLOP *** [Tc Kh Td]
+Fl0rek70 checks
+Karrayo checks
+*** TURN *** [Tc Kh Td][4d]
+Fl0rek70 checks
+Karrayo checks
+*** RIVER *** [Tc Kh Td 4d][5d]
+Fl0rek70 checks
+Karrayo checks
+*** SHOW DOWN ***
+Karrayo shows [6c Js] (One pair : Tens)
+Fl0rek70 shows [8s Jd] (One pair : Tens)
+Fl0rek70 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [Tc Kh Td 4d 5d]
+Seat 4: Fl0rek70 (small blind) showed [8s Jd] and won 80 with One pair : Tens
+Seat 6: Karrayo (big blind) showed [6c Js] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3265097901503676417-11-1708887787 - Holdem no limit (30/60) - 2024/02/25 19:03:07 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #4 is the button
+Seat 1: snAA-KKe (1251)
+Seat 3: P1xel7 (465)
+Seat 4: Fl0rek70 (713)
+Seat 6: Karrayo (571)
+*** ANTE/BLINDS ***
+Karrayo posts small blind 30
+snAA-KKe posts big blind 60
+Dealt to P1xel7 [7h 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Fl0rek70 folds
+Karrayo folds
+snAA-KKe collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: snAA-KKe (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3265097901503676417-12-1708887796 - Holdem no limit (30/60) - 2024/02/25 19:03:16 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #6 is the button
+Seat 1: snAA-KKe (1281)
+Seat 3: P1xel7 (465)
+Seat 4: Fl0rek70 (713)
+Seat 6: Karrayo (541)
+*** ANTE/BLINDS ***
+snAA-KKe posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [5h 8h]
+*** PRE-FLOP *** 
+Fl0rek70 raises 90 to 150
+Karrayo folds
+snAA-KKe folds
+P1xel7 folds
+Fl0rek70 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 4: Fl0rek70 won 240
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3265097901503676417-13-1708887816 - Holdem no limit (30/60) - 2024/02/25 19:03:36 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1251)
+Seat 3: P1xel7 (405)
+Seat 4: Fl0rek70 (803)
+Seat 6: Karrayo (541)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Fl0rek70 posts big blind 60
+Dealt to P1xel7 [Qs Kd]
+*** PRE-FLOP *** 
+Karrayo folds
+snAA-KKe folds
+P1xel7 raises 345 to 405 and is all-in
+Fl0rek70 folds
+P1xel7 collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Seat 3: P1xel7 (small blind) won 465
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3265097901503676417-14-1708887828 - Holdem no limit (30/60) - 2024/02/25 19:03:48 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1251)
+Seat 3: P1xel7 (465)
+Seat 4: Fl0rek70 (743)
+Seat 6: Karrayo (541)
+*** ANTE/BLINDS ***
+Fl0rek70 posts small blind 30
+Karrayo posts big blind 60
+Dealt to P1xel7 [9c Tc]
+*** PRE-FLOP *** 
+snAA-KKe raises 1191 to 1251 and is all-in
+P1xel7 folds
+Fl0rek70 folds
+Karrayo folds
+snAA-KKe collected 1341 from pot
+*** SUMMARY ***
+Total pot 1341 | No rake
+Seat 1: snAA-KKe won 1341
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3265097901503676417-15-1708887850 - Holdem no limit (30/60) - 2024/02/25 19:04:10 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #4 is the button
+Seat 1: snAA-KKe (1341)
+Seat 3: P1xel7 (465)
+Seat 4: Fl0rek70 (713)
+Seat 6: Karrayo (481)
+*** ANTE/BLINDS ***
+Karrayo posts small blind 30
+snAA-KKe posts big blind 60
+Dealt to P1xel7 [3d 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Fl0rek70 folds
+Karrayo raises 421 to 481 and is all-in
+snAA-KKe raises 421 to 902
+*** FLOP *** [Jd Ad 5s]
+*** TURN *** [Jd Ad 5s][9c]
+*** RIVER *** [Jd Ad 5s 9c][6d]
+*** SHOW DOWN ***
+snAA-KKe shows [Ks 3s] (High card : Ace)
+Karrayo shows [As 8h] (One pair : Aces)
+Karrayo collected 962 from main pot
+snAA-KKe collected 421 from side pot 1
+*** SUMMARY ***
+Total pot 1383 | No rake
+Board: [Jd Ad 5s 9c 6d]
+Seat 1: snAA-KKe (big blind) showed [Ks 3s] and won 421 with High card : Ace
+Seat 6: Karrayo (small blind) showed [As 8h] and won 962 with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3265097901503676417-16-1708887879 - Holdem no limit (40/80) - 2024/02/25 19:04:39 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #6 is the button
+Seat 1: snAA-KKe (860)
+Seat 3: P1xel7 (465)
+Seat 4: Fl0rek70 (713)
+Seat 6: Karrayo (962)
+*** ANTE/BLINDS ***
+snAA-KKe posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [2d 2h]
+*** PRE-FLOP *** 
+Fl0rek70 folds
+Karrayo folds
+snAA-KKe folds
+P1xel7 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: P1xel7 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3265097901503676417-17-1708887885 - Holdem no limit (40/80) - 2024/02/25 19:04:45 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (820)
+Seat 3: P1xel7 (505)
+Seat 4: Fl0rek70 (713)
+Seat 6: Karrayo (962)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+Fl0rek70 posts big blind 80
+Dealt to P1xel7 [Ad 4s]
+*** PRE-FLOP *** 
+Karrayo folds
+snAA-KKe raises 740 to 820 and is all-in
+P1xel7 folds
+Fl0rek70 calls 633 and is all-in
+*** FLOP *** [4d Kc 2d]
+*** TURN *** [4d Kc 2d][6d]
+*** RIVER *** [4d Kc 2d 6d][7c]
+*** SHOW DOWN ***
+Fl0rek70 shows [Jd Qs] (High card : King)
+snAA-KKe shows [Th Ah] (High card : Ace)
+snAA-KKe collected 1573 from pot
+*** SUMMARY ***
+Total pot 1573 | No rake
+Board: [4d Kc 2d 6d 7c]
+Seat 1: snAA-KKe (button) showed [Th Ah] and won 1573 with High card : Ace
+Seat 4: Fl0rek70 (big blind) showed [Jd Qs] and lost with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3265097901503676417-18-1708887904 - Holdem no limit (40/80) - 2024/02/25 19:05:04 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1573)
+Seat 3: P1xel7 (465)
+Seat 6: Karrayo (962)
+*** ANTE/BLINDS ***
+Karrayo posts big blind 80
+Dealt to P1xel7 [9c As]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 raises 385 to 465 and is all-in
+Karrayo folds
+P1xel7 collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Seat 3: P1xel7 (button) won 545
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3265097901503676417-19-1708887920 - Holdem no limit (40/80) - 2024/02/25 19:05:20 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #4 is the button
+Seat 1: snAA-KKe (1573)
+Seat 3: P1xel7 (545)
+Seat 6: Karrayo (882)
+*** ANTE/BLINDS ***
+Karrayo posts small blind 40
+snAA-KKe posts big blind 80
+Dealt to P1xel7 [Th 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Karrayo raises 802 to 882 and is all-in
+snAA-KKe folds
+Karrayo collected 962 from pot
+*** SUMMARY ***
+Total pot 962 | No rake
+Seat 6: Karrayo (small blind) won 962
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3265097901503676417-20-1708887936 - Holdem no limit (40/80) - 2024/02/25 19:05:36 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #6 is the button
+Seat 1: snAA-KKe (1493)
+Seat 3: P1xel7 (545)
+Seat 6: Karrayo (962)
+*** ANTE/BLINDS ***
+snAA-KKe posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [2h 8s]
+*** PRE-FLOP *** 
+Karrayo folds
+snAA-KKe calls 40
+P1xel7 checks
+*** FLOP *** [7c Qd As]
+snAA-KKe checks
+P1xel7 bets 120
+snAA-KKe folds
+P1xel7 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [7c Qd As]
+Seat 3: P1xel7 (big blind) won 280
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3265097901503676417-21-1708887962 - Holdem no limit (60/120) - 2024/02/25 19:06:02 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1413)
+Seat 3: P1xel7 (625)
+Seat 6: Karrayo (962)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+Karrayo posts big blind 120
+Dealt to P1xel7 [Kd 8s]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 raises 505 to 625 and is all-in
+Karrayo folds
+P1xel7 collected 745 from pot
+*** SUMMARY ***
+Total pot 745 | No rake
+Seat 3: P1xel7 (small blind) won 745
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3265097901503676417-22-1708887975 - Holdem no limit (60/120) - 2024/02/25 19:06:15 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1413)
+Seat 3: P1xel7 (745)
+Seat 6: Karrayo (842)
+*** ANTE/BLINDS ***
+Karrayo posts small blind 60
+snAA-KKe posts big blind 120
+Dealt to P1xel7 [Qc 2d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Karrayo raises 722 to 842 and is all-in
+snAA-KKe raises 571 to 1413 and is all-in
+*** FLOP *** [5s 3h Ts]
+*** TURN *** [5s 3h Ts][Th]
+*** RIVER *** [5s 3h Ts Th][7s]
+*** SHOW DOWN ***
+Karrayo shows [8d 7d] (Two pairs : Tens and 7)
+snAA-KKe shows [Ks 6s] (Flush King high)
+snAA-KKe collected 2255 from pot
+*** SUMMARY ***
+Total pot 2255 | No rake
+Board: [5s 3h Ts Th 7s]
+Seat 1: snAA-KKe (big blind) showed [Ks 6s] and won 2255 with Flush King high
+Seat 6: Karrayo (small blind) showed [8d 7d] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3265097901503676417-23-1708887996 - Holdem no limit (60/120) - 2024/02/25 19:06:36 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (2255)
+Seat 3: P1xel7 (745)
+*** ANTE/BLINDS ***
+snAA-KKe posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [7s 9c]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: P1xel7 (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3265097901503676417-24-1708888000 - Holdem no limit (60/120) - 2024/02/25 19:06:40 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (2195)
+Seat 3: P1xel7 (805)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+snAA-KKe posts big blind 120
+Dealt to P1xel7 [Qc Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 240
+snAA-KKe calls 120
+*** FLOP *** [8s Kh Kd]
+snAA-KKe checks
+P1xel7 checks
+*** TURN *** [8s Kh Kd][9s]
+snAA-KKe checks
+P1xel7 bets 180
+snAA-KKe folds
+P1xel7 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Board: [8s Kh Kd 9s]
+Seat 3: P1xel7 (small blind) (button) won 660
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3265097901503676417-25-1708888033 - Holdem no limit (60/120) - 2024/02/25 19:07:13 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1955)
+Seat 3: P1xel7 (1045)
+*** ANTE/BLINDS ***
+snAA-KKe posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [6h 2d]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: P1xel7 (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-26-1708888040 - Holdem no limit (10/60/120) - 2024/02/25 19:07:20 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1895)
+Seat 3: P1xel7 (1105)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+snAA-KKe posts ante 10
+P1xel7 posts small blind 60
+snAA-KKe posts big blind 120
+Dealt to P1xel7 [Tc Qs]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 240
+snAA-KKe folds
+P1xel7 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Seat 3: P1xel7 (small blind) (button) won 380
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-27-1708888046 - Holdem no limit (10/60/120) - 2024/02/25 19:07:26 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1765)
+Seat 3: P1xel7 (1235)
+*** ANTE/BLINDS ***
+snAA-KKe posts ante 10
+P1xel7 posts ante 10
+snAA-KKe posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [Qh Js]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 3: P1xel7 (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-28-1708888061 - Holdem no limit (10/60/120) - 2024/02/25 19:07:41 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1695)
+Seat 3: P1xel7 (1305)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+snAA-KKe posts ante 10
+P1xel7 posts small blind 60
+snAA-KKe posts big blind 120
+Dealt to P1xel7 [Qd 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+snAA-KKe collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 1: snAA-KKe (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-29-1708888065 - Holdem no limit (10/60/120) - 2024/02/25 19:07:45 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1765)
+Seat 3: P1xel7 (1235)
+*** ANTE/BLINDS ***
+snAA-KKe posts ante 10
+P1xel7 posts ante 10
+snAA-KKe posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [6d Ks]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 3: P1xel7 (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-30-1708888069 - Holdem no limit (10/60/120) - 2024/02/25 19:07:49 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1695)
+Seat 3: P1xel7 (1305)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+snAA-KKe posts ante 10
+P1xel7 posts small blind 60
+snAA-KKe posts big blind 120
+Dealt to P1xel7 [6c Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+snAA-KKe collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 1: snAA-KKe (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-31-1708888073 - Holdem no limit (10/60/120) - 2024/02/25 19:07:53 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1765)
+Seat 3: P1xel7 (1235)
+*** ANTE/BLINDS ***
+snAA-KKe posts ante 10
+P1xel7 posts ante 10
+snAA-KKe posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [4d 5d]
+*** PRE-FLOP *** 
+snAA-KKe raises 1635 to 1755 and is all-in
+P1xel7 folds
+snAA-KKe collected 1895 from pot
+*** SUMMARY ***
+Total pot 1895 | No rake
+Seat 1: snAA-KKe (small blind) (button) won 1895
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-32-1708888081 - Holdem no limit (10/60/120) - 2024/02/25 19:08:01 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1895)
+Seat 3: P1xel7 (1105)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+snAA-KKe posts ante 10
+P1xel7 posts small blind 60
+snAA-KKe posts big blind 120
+Dealt to P1xel7 [7c Kd]
+*** PRE-FLOP *** 
+P1xel7 folds
+snAA-KKe collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 1: snAA-KKe (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-33-1708888086 - Holdem no limit (10/60/120) - 2024/02/25 19:08:06 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1965)
+Seat 3: P1xel7 (1035)
+*** ANTE/BLINDS ***
+snAA-KKe posts ante 10
+P1xel7 posts ante 10
+snAA-KKe posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [Js 4d]
+*** PRE-FLOP *** 
+snAA-KKe calls 60
+P1xel7 raises 240 to 360
+snAA-KKe folds
+P1xel7 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 3: P1xel7 (big blind) won 500
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-34-1708888097 - Holdem no limit (10/60/120) - 2024/02/25 19:08:17 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1835)
+Seat 3: P1xel7 (1165)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+snAA-KKe posts ante 10
+P1xel7 posts small blind 60
+snAA-KKe posts big blind 120
+Dealt to P1xel7 [8d 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+snAA-KKe collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 1: snAA-KKe (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-35-1708888101 - Holdem no limit (10/60/120) - 2024/02/25 19:08:21 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1905)
+Seat 3: P1xel7 (1095)
+*** ANTE/BLINDS ***
+snAA-KKe posts ante 10
+P1xel7 posts ante 10
+snAA-KKe posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [Jd 4h]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 3: P1xel7 (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-36-1708888105 - Holdem no limit (10/60/120) - 2024/02/25 19:08:25 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1835)
+Seat 3: P1xel7 (1165)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+snAA-KKe posts ante 10
+P1xel7 posts small blind 60
+snAA-KKe posts big blind 120
+Dealt to P1xel7 [4s 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+snAA-KKe collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 1: snAA-KKe (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-37-1708888110 - Holdem no limit (10/60/120) - 2024/02/25 19:08:30 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1905)
+Seat 3: P1xel7 (1095)
+*** ANTE/BLINDS ***
+snAA-KKe posts ante 10
+P1xel7 posts ante 10
+snAA-KKe posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [6c 4d]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 3: P1xel7 (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-38-1708888117 - Holdem no limit (10/60/120) - 2024/02/25 19:08:37 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1835)
+Seat 3: P1xel7 (1165)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+snAA-KKe posts ante 10
+P1xel7 posts small blind 60
+snAA-KKe posts big blind 120
+Dealt to P1xel7 [8c 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+snAA-KKe collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 1: snAA-KKe (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-39-1708888121 - Holdem no limit (10/60/120) - 2024/02/25 19:08:41 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1905)
+Seat 3: P1xel7 (1095)
+*** ANTE/BLINDS ***
+snAA-KKe posts ante 10
+P1xel7 posts ante 10
+snAA-KKe posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [2c Kd]
+*** PRE-FLOP *** 
+snAA-KKe folds
+P1xel7 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 3: P1xel7 (big blind) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 7 - HandId: #3265097901503676417-40-1708888125 - Holdem no limit (10/60/120) - 2024/02/25 19:08:45 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1835)
+Seat 3: P1xel7 (1165)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+snAA-KKe posts ante 10
+P1xel7 posts small blind 60
+snAA-KKe posts big blind 120
+Dealt to P1xel7 [7h Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 180 to 300
+snAA-KKe calls 180
+*** FLOP *** [Ks Kh 4d]
+snAA-KKe checks
+P1xel7 checks
+*** TURN *** [Ks Kh 4d][Ts]
+snAA-KKe checks
+P1xel7 checks
+*** RIVER *** [Ks Kh 4d Ts][3h]
+snAA-KKe checks
+P1xel7 bets 180
+snAA-KKe folds
+P1xel7 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Ks Kh 4d Ts 3h]
+Seat 3: P1xel7 (small blind) (button) won 800
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 8 - HandId: #3265097901503676417-41-1708888184 - Holdem no limit (16/80/160) - 2024/02/25 19:09:44 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1525)
+Seat 3: P1xel7 (1475)
+*** ANTE/BLINDS ***
+snAA-KKe posts ante 16
+P1xel7 posts ante 16
+snAA-KKe posts small blind 80
+P1xel7 posts big blind 160
+Dealt to P1xel7 [Ts 4c]
+*** PRE-FLOP *** 
+snAA-KKe raises 1349 to 1509 and is all-in
+P1xel7 folds
+snAA-KKe collected 1701 from pot
+*** SUMMARY ***
+Total pot 1701 | No rake
+Seat 1: snAA-KKe (small blind) (button) won 1701
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 8 - HandId: #3265097901503676417-42-1708888195 - Holdem no limit (16/80/160) - 2024/02/25 19:09:55 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #3 is the button
+Seat 1: snAA-KKe (1701)
+Seat 3: P1xel7 (1299)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 16
+snAA-KKe posts ante 16
+P1xel7 posts small blind 80
+snAA-KKe posts big blind 160
+Dealt to P1xel7 [8c 8s]
+*** PRE-FLOP *** 
+P1xel7 raises 160 to 320
+snAA-KKe folds
+P1xel7 collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | No rake
+Seat 3: P1xel7 (small blind) (button) won 512
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 8 - HandId: #3265097901503676417-43-1708888201 - Holdem no limit (16/80/160) - 2024/02/25 19:10:01 UTC
+Table: 'Starting Block WiPT - Déglingos(760214846)#0' 6-max (real money) Seat #1 is the button
+Seat 1: snAA-KKe (1525)
+Seat 3: P1xel7 (1475)
+*** ANTE/BLINDS ***
+snAA-KKe posts ante 16
+P1xel7 posts ante 16
+snAA-KKe posts small blind 80
+P1xel7 posts big blind 160
+Dealt to P1xel7 [Qd Kd]
+*** PRE-FLOP *** 
+snAA-KKe raises 1349 to 1509 and is all-in
+P1xel7 calls 1299 and is all-in
+*** FLOP *** [2c 7s 4d]
+*** TURN *** [2c 7s 4d][8c]
+*** RIVER *** [2c 7s 4d 8c][5h]
+*** SHOW DOWN ***
+P1xel7 shows [Qd Kd] (High card : King)
+snAA-KKe shows [Kh 8s] (One pair : 8)
+snAA-KKe collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [2c 7s 4d 8c 5h]
+Seat 1: snAA-KKe (small blind) (button) showed [Kh 8s] and won 3000 with One pair : 8
+Seat 3: P1xel7 (big blind) showed [Qd Kd] and lost with High card : King
+
+

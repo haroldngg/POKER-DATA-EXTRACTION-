@@ -1,0 +1,329 @@
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084880081626071041-1-1699453965 - Holdem no limit (10/20) - 2023/11/08 14:32:45 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: RosiProd (300)
+Seat 2: P1xel7 (300)
+Seat 3: QFlushR62000 (300)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+QFlushR62000 posts big blind 20
+Dealt to P1xel7 [Ac 6s]
+*** PRE-FLOP *** 
+RosiProd raises 40 to 60
+P1xel7 calls 50
+QFlushR62000 folds
+*** FLOP *** [2d Th Ts]
+P1xel7 checks
+RosiProd checks
+*** TURN *** [2d Th Ts][Tc]
+P1xel7 bets 70
+RosiProd calls 70
+*** RIVER *** [2d Th Ts Tc][9s]
+P1xel7 checks
+RosiProd checks
+*** SHOW DOWN ***
+RosiProd shows [Js 7d] (Trips of Tens)
+P1xel7 shows [Ac 6s] (Trips of Tens)
+P1xel7 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [2d Th Ts Tc 9s]
+Seat 1: RosiProd (button) showed [Js 7d] and lost with Trips of Tens
+Seat 2: P1xel7 (small blind) showed [Ac 6s] and won 280 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084880081626071041-2-1699454011 - Holdem no limit (10/20) - 2023/11/08 14:33:31 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: RosiProd (170)
+Seat 2: P1xel7 (450)
+Seat 3: QFlushR62000 (280)
+*** ANTE/BLINDS ***
+QFlushR62000 posts small blind 10
+RosiProd posts big blind 20
+Dealt to P1xel7 [4d 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+QFlushR62000 calls 10
+RosiProd raises 40 to 60
+QFlushR62000 calls 40
+*** FLOP *** [Ac Td 2c]
+QFlushR62000 checks
+RosiProd checks
+*** TURN *** [Ac Td 2c][Ks]
+QFlushR62000 checks
+RosiProd checks
+*** RIVER *** [Ac Td 2c Ks][2s]
+QFlushR62000 bets 78
+RosiProd calls 78
+*** SHOW DOWN ***
+QFlushR62000 shows [4s 7s] (One pair : 2)
+RosiProd shows [6h Jh] (One pair : 2)
+RosiProd collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | No rake
+Board: [Ac Td 2c Ks 2s]
+Seat 1: RosiProd (big blind) showed [6h Jh] and won 276 with One pair : 2
+Seat 3: QFlushR62000 (small blind) showed [4s 7s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3084880081626071041-3-1699454052 - Holdem no limit (15/30) - 2023/11/08 14:34:12 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #3 is the button
+Seat 1: RosiProd (308)
+Seat 2: P1xel7 (450)
+Seat 3: QFlushR62000 (142)
+*** ANTE/BLINDS ***
+RosiProd posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Qd 7d]
+*** PRE-FLOP *** 
+QFlushR62000 raises 112 to 142 and is all-in
+RosiProd raises 166 to 308 and is all-in
+P1xel7 folds
+*** FLOP *** [6c 3s 9c]
+*** TURN *** [6c 3s 9c][3c]
+*** RIVER *** [6c 3s 9c 3c][Qc]
+*** SHOW DOWN ***
+QFlushR62000 shows [7h 3h] (Trips of 3)
+RosiProd shows [As 5c] (Flush Queen high)
+RosiProd collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [6c 3s 9c 3c Qc]
+Seat 1: RosiProd (small blind) showed [As 5c] and won 480 with Flush Queen high
+Seat 3: QFlushR62000 (button) showed [7h 3h] and lost with Trips of 3
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3084880081626071041-4-1699454077 - Holdem no limit (15/30) - 2023/11/08 14:34:37 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: RosiProd (480)
+Seat 2: P1xel7 (420)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+RosiProd posts big blind 30
+Dealt to P1xel7 [5s Ad]
+*** PRE-FLOP *** 
+P1xel7 raises 45 to 75
+RosiProd calls 45
+*** FLOP *** [9c 4c Ts]
+RosiProd checks
+P1xel7 bets 53
+RosiProd calls 53
+*** TURN *** [9c 4c Ts][3d]
+RosiProd bets 352 and is all-in
+P1xel7 folds
+RosiProd collected 608 from pot
+*** SUMMARY ***
+Total pot 608 | No rake
+Board: [9c 4c Ts 3d]
+Seat 1: RosiProd (big blind) won 608
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084880081626071041-5-1699454103 - Holdem no limit (20/40) - 2023/11/08 14:35:03 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: RosiProd (608)
+Seat 2: P1xel7 (292)
+*** ANTE/BLINDS ***
+RosiProd posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [2c Ts]
+*** PRE-FLOP *** 
+RosiProd raises 568 to 608 and is all-in
+P1xel7 folds
+RosiProd collected 648 from pot
+*** SUMMARY ***
+Total pot 648 | No rake
+Seat 1: RosiProd (small blind) (button) won 648
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084880081626071041-6-1699454109 - Holdem no limit (20/40) - 2023/11/08 14:35:09 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: RosiProd (648)
+Seat 2: P1xel7 (252)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+RosiProd posts big blind 40
+Dealt to P1xel7 [4s Qc]
+*** PRE-FLOP *** 
+P1xel7 raises 212 to 252 and is all-in
+RosiProd folds
+P1xel7 collected 292 from pot
+*** SUMMARY ***
+Total pot 292 | No rake
+Seat 2: P1xel7 (small blind) (button) won 292
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084880081626071041-7-1699454115 - Holdem no limit (20/40) - 2023/11/08 14:35:15 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: RosiProd (608)
+Seat 2: P1xel7 (292)
+*** ANTE/BLINDS ***
+RosiProd posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [8c Qh]
+*** PRE-FLOP *** 
+RosiProd raises 568 to 608 and is all-in
+P1xel7 folds
+RosiProd collected 648 from pot
+*** SUMMARY ***
+Total pot 648 | No rake
+Seat 1: RosiProd (small blind) (button) won 648
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084880081626071041-8-1699454127 - Holdem no limit (20/40) - 2023/11/08 14:35:27 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: RosiProd (648)
+Seat 2: P1xel7 (252)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+RosiProd posts big blind 40
+Dealt to P1xel7 [2s 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+RosiProd collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: RosiProd (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084880081626071041-9-1699454132 - Holdem no limit (20/40) - 2023/11/08 14:35:32 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: RosiProd (668)
+Seat 2: P1xel7 (232)
+*** ANTE/BLINDS ***
+RosiProd posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Th Kd]
+*** PRE-FLOP *** 
+RosiProd raises 628 to 668 and is all-in
+P1xel7 calls 192 and is all-in
+*** FLOP *** [8s 4d 6d]
+*** TURN *** [8s 4d 6d][4c]
+*** RIVER *** [8s 4d 6d 4c][Qc]
+*** SHOW DOWN ***
+RosiProd shows [7s Jh] (One pair : 4)
+P1xel7 shows [Th Kd] (One pair : 4)
+P1xel7 collected 464 from main pot
+RosiProd collected 436 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s 4d 6d 4c Qc]
+Seat 1: RosiProd (small blind) (button) showed [7s Jh] and won 436 with One pair : 4
+Seat 2: P1xel7 (big blind) showed [Th Kd] and won 464 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3084880081626071041-10-1699454158 - Holdem no limit (30/60) - 2023/11/08 14:35:58 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: RosiProd (436)
+Seat 2: P1xel7 (464)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+RosiProd posts big blind 60
+Dealt to P1xel7 [4s 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+RosiProd collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: RosiProd (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3084880081626071041-11-1699454163 - Holdem no limit (30/60) - 2023/11/08 14:36:03 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: RosiProd (466)
+Seat 2: P1xel7 (434)
+*** ANTE/BLINDS ***
+RosiProd posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Ah 6d]
+*** PRE-FLOP *** 
+RosiProd raises 406 to 466 and is all-in
+P1xel7 calls 374 and is all-in
+*** FLOP *** [9c Kd Kc]
+*** TURN *** [9c Kd Kc][4c]
+*** RIVER *** [9c Kd Kc 4c][3s]
+*** SHOW DOWN ***
+RosiProd shows [Jd Tc] (One pair : Kings)
+P1xel7 shows [Ah 6d] (One pair : Kings)
+P1xel7 collected 868 from main pot
+RosiProd collected 32 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9c Kd Kc 4c 3s]
+Seat 1: RosiProd (small blind) (button) showed [Jd Tc] and won 32 with One pair : Kings
+Seat 2: P1xel7 (big blind) showed [Ah 6d] and won 868 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3084880081626071041-12-1699454184 - Holdem no limit (30/60) - 2023/11/08 14:36:24 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: RosiProd (32)
+Seat 2: P1xel7 (868)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+RosiProd posts big blind 32 and is all-in
+Dealt to P1xel7 [Jh 7s]
+*** PRE-FLOP *** 
+P1xel7 calls 30
+*** FLOP *** [8d 6d Ah]
+*** TURN *** [8d 6d Ah][9s]
+*** RIVER *** [8d 6d Ah 9s][2d]
+*** SHOW DOWN ***
+RosiProd shows [4h Qs] (High card : Ace)
+P1xel7 shows [Jh 7s] (High card : Ace)
+P1xel7 collected 28 from side pot 1
+RosiProd collected 64 from main pot
+*** SUMMARY ***
+Total pot 92 | No rake
+Board: [8d 6d Ah 9s 2d]
+Seat 1: RosiProd (big blind) showed [4h Qs] and won 64 with High card : Ace
+Seat 2: P1xel7 (small blind) (button) showed [Jh 7s] and won 28 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3084880081626071041-13-1699454194 - Holdem no limit (30/60) - 2023/11/08 14:36:34 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: RosiProd (64)
+Seat 2: P1xel7 (836)
+*** ANTE/BLINDS ***
+RosiProd posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [9c 2c]
+*** PRE-FLOP *** 
+RosiProd raises 4 to 64 and is all-in
+P1xel7 calls 4
+*** FLOP *** [4d 4s Th]
+*** TURN *** [4d 4s Th][6h]
+*** RIVER *** [4d 4s Th 6h][5d]
+*** SHOW DOWN ***
+P1xel7 shows [9c 2c] (One pair : 4)
+RosiProd shows [7d Qd] (One pair : 4)
+RosiProd collected 128 from pot
+*** SUMMARY ***
+Total pot 128 | No rake
+Board: [4d 4s Th 6h 5d]
+Seat 1: RosiProd (small blind) (button) showed [7d Qd] and won 128 with One pair : 4
+Seat 2: P1xel7 (big blind) showed [9c 2c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3084880081626071041-14-1699454213 - Holdem no limit (40/80) - 2023/11/08 14:36:53 UTC
+Table: 'Expresso Nitro Freeroll(718254615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: RosiProd (128)
+Seat 2: P1xel7 (772)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+RosiProd posts big blind 80
+Dealt to P1xel7 [Ad Js]
+*** PRE-FLOP *** 
+P1xel7 raises 160 to 240
+RosiProd calls 48 and is all-in
+*** FLOP *** [7c 3s Th]
+*** TURN *** [7c 3s Th][5s]
+*** RIVER *** [7c 3s Th 5s][9c]
+*** SHOW DOWN ***
+RosiProd shows [2s Kh] (High card : King)
+P1xel7 shows [Ad Js] (High card : Ace)
+P1xel7 collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | No rake
+Board: [7c 3s Th 5s 9c]
+Seat 1: RosiProd (big blind) showed [2s Kh] and lost with High card : King
+Seat 2: P1xel7 (small blind) (button) showed [Ad Js] and won 368 with High card : Ace
+
+

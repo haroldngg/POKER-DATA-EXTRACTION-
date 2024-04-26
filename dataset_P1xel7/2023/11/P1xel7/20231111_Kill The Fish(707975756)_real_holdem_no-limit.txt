@@ -1,0 +1,1012 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3040732718380875830-20-1699723301 - Holdem no limit (60/250/500) - 2023/11/11 17:21:41 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #3 is the button
+Seat 1: PoneyDeBain (24401, 0.16€ bounty)
+Seat 2: P1xel7 (20000, 0.11€ bounty)
+Seat 3: iacoi (44737, 0.11€ bounty)
+Seat 4: SAMI1982 (5922, 0.11€ bounty)
+Seat 5: bn_y (16495, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (70649, 0.16€ bounty)
+*** ANTE/BLINDS ***
+SAMI1982 posts ante 60
+bn_y posts ante 60
+PoneyDeBain posts ante 60
+P1xel7 posts ante 60
+iacoi posts ante 60
+JF_Wolf92111 posts ante 60
+SAMI1982 posts small blind 250
+bn_y posts big blind 500
+Dealt to P1xel7 [4d 3h]
+*** PRE-FLOP *** 
+JF_Wolf92111 calls 500
+PoneyDeBain folds
+P1xel7 folds
+iacoi folds
+SAMI1982 calls 250
+bn_y checks
+*** FLOP *** [Kd 7h Jc]
+SAMI1982 checks
+bn_y checks
+JF_Wolf92111 checks
+*** TURN *** [Kd 7h Jc][5c]
+SAMI1982 checks
+bn_y checks
+JF_Wolf92111 checks
+*** RIVER *** [Kd 7h Jc 5c][5d]
+SAMI1982 bets 500
+bn_y folds
+JF_Wolf92111 folds
+SAMI1982 collected 2360 from pot
+*** SUMMARY ***
+Total pot 2360 | No rake
+Board: [Kd 7h Jc 5c 5d]
+Seat 4: SAMI1982 (small blind) won 2360
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3040732718380875830-21-1699723325 - Holdem no limit (60/250/500) - 2023/11/11 17:22:05 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #4 is the button
+Seat 1: PoneyDeBain (24341, 0.16€ bounty)
+Seat 2: P1xel7 (19940, 0.11€ bounty)
+Seat 3: iacoi (44677, 0.11€ bounty)
+Seat 4: SAMI1982 (7222, 0.11€ bounty)
+Seat 5: bn_y (15935, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (70089, 0.16€ bounty)
+*** ANTE/BLINDS ***
+bn_y posts ante 60
+JF_Wolf92111 posts ante 60
+PoneyDeBain posts ante 60
+P1xel7 posts ante 60
+iacoi posts ante 60
+SAMI1982 posts ante 60
+bn_y posts small blind 250
+JF_Wolf92111 posts big blind 500
+Dealt to P1xel7 [5c 6d]
+*** PRE-FLOP *** 
+PoneyDeBain calls 500
+P1xel7 folds
+iacoi folds
+SAMI1982 folds
+bn_y calls 250
+JF_Wolf92111 checks
+*** FLOP *** [5d 8h 4d]
+bn_y checks
+JF_Wolf92111 checks
+PoneyDeBain checks
+*** TURN *** [5d 8h 4d][9c]
+bn_y checks
+JF_Wolf92111 checks
+PoneyDeBain bets 651
+bn_y calls 651
+JF_Wolf92111 folds
+*** RIVER *** [5d 8h 4d 9c][Jh]
+bn_y checks
+PoneyDeBain bets 2055
+bn_y folds
+PoneyDeBain collected 5217 from pot
+*** SUMMARY ***
+Total pot 5217 | No rake
+Board: [5d 8h 4d 9c Jh]
+Seat 1: PoneyDeBain won 5217
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3040732718380875830-22-1699723377 - Holdem no limit (60/250/500) - 2023/11/11 17:22:57 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #5 is the button
+Seat 1: PoneyDeBain (26292, 0.16€ bounty)
+Seat 2: P1xel7 (19880, 0.11€ bounty)
+Seat 3: iacoi (44617, 0.11€ bounty)
+Seat 4: SAMI1982 (7162, 0.11€ bounty)
+Seat 5: bn_y (14724, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (69529, 0.16€ bounty)
+*** ANTE/BLINDS ***
+JF_Wolf92111 posts ante 60
+PoneyDeBain posts ante 60
+P1xel7 posts ante 60
+iacoi posts ante 60
+SAMI1982 posts ante 60
+bn_y posts ante 60
+JF_Wolf92111 posts small blind 250
+PoneyDeBain posts big blind 500
+Dealt to P1xel7 [Ad 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+iacoi folds
+SAMI1982 folds
+bn_y calls 500
+JF_Wolf92111 folds
+PoneyDeBain checks
+*** FLOP *** [9c 4d 2h]
+PoneyDeBain checks
+bn_y checks
+*** TURN *** [9c 4d 2h][Jc]
+PoneyDeBain checks
+bn_y checks
+*** RIVER *** [9c 4d 2h Jc][6h]
+PoneyDeBain checks
+bn_y bets 500
+PoneyDeBain calls 500
+*** SHOW DOWN ***
+PoneyDeBain shows [As 5h] (High card : Ace)
+bn_y shows [Ks Kc] (One pair : Kings)
+bn_y collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Board: [9c 4d 2h Jc 6h]
+Seat 1: PoneyDeBain (big blind) showed [As 5h] and lost with High card : Ace
+Seat 5: bn_y (button) showed [Ks Kc] and won 2610 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3040732718380875830-23-1699723421 - Holdem no limit (60/250/500) - 2023/11/11 17:23:41 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #6 is the button
+Seat 1: PoneyDeBain (25232, 0.16€ bounty)
+Seat 2: P1xel7 (19820, 0.11€ bounty)
+Seat 3: iacoi (44557, 0.11€ bounty)
+Seat 4: SAMI1982 (7102, 0.11€ bounty)
+Seat 5: bn_y (16274, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (69219, 0.16€ bounty)
+*** ANTE/BLINDS ***
+PoneyDeBain posts ante 60
+P1xel7 posts ante 60
+iacoi posts ante 60
+SAMI1982 posts ante 60
+bn_y posts ante 60
+JF_Wolf92111 posts ante 60
+PoneyDeBain posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [5c Ah]
+*** PRE-FLOP *** 
+iacoi folds
+SAMI1982 calls 500
+bn_y calls 500
+JF_Wolf92111 folds
+PoneyDeBain folds
+P1xel7 raises 2000 to 2500
+SAMI1982 folds
+bn_y folds
+P1xel7 collected 4110 from pot
+*** SUMMARY ***
+Total pot 4110 | No rake
+Seat 2: P1xel7 (big blind) won 4110
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3040732718380875830-24-1699723488 - Holdem no limit (60/250/500) - 2023/11/11 17:24:48 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #1 is the button
+Seat 1: PoneyDeBain (24922, 0.16€ bounty)
+Seat 2: P1xel7 (21370, 0.11€ bounty)
+Seat 3: iacoi (44497, 0.11€ bounty)
+Seat 4: SAMI1982 (6542, 0.11€ bounty)
+Seat 5: bn_y (15714, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (69159, 0.16€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+iacoi posts ante 60
+PoneyDeBain posts ante 60
+SAMI1982 posts ante 60
+bn_y posts ante 60
+JF_Wolf92111 posts ante 60
+P1xel7 posts small blind 250
+iacoi posts big blind 500
+Dealt to P1xel7 [Qh 8s]
+*** PRE-FLOP *** 
+SAMI1982 folds
+bn_y folds
+JF_Wolf92111 calls 500
+PoneyDeBain folds
+P1xel7 folds
+iacoi checks
+*** FLOP *** [9s Tc Qd]
+iacoi bets 1047
+JF_Wolf92111 calls 1047
+*** TURN *** [9s Tc Qd][Ah]
+iacoi checks
+JF_Wolf92111 checks
+*** RIVER *** [9s Tc Qd Ah][8d]
+iacoi bets 5556
+JF_Wolf92111 folds
+iacoi collected 9260 from pot
+*** SUMMARY ***
+Total pot 9260 | No rake
+Board: [9s Tc Qd Ah 8d]
+Seat 3: iacoi (big blind) won 9260
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3040732718380875830-25-1699723545 - Holdem no limit (60/250/500) - 2023/11/11 17:25:45 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #2 is the button
+Seat 1: PoneyDeBain (24862, 0.16€ bounty)
+Seat 2: P1xel7 (21060, 0.11€ bounty)
+Seat 3: iacoi (46594, 0.11€ bounty)
+Seat 4: SAMI1982 (6482, 0.11€ bounty)
+Seat 5: bn_y (15654, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (67552, 0.16€ bounty)
+*** ANTE/BLINDS ***
+iacoi posts ante 60
+SAMI1982 posts ante 60
+PoneyDeBain posts ante 60
+P1xel7 posts ante 60
+bn_y posts ante 60
+JF_Wolf92111 posts ante 60
+iacoi posts small blind 250
+SAMI1982 posts big blind 500
+Dealt to P1xel7 [9c 2c]
+*** PRE-FLOP *** 
+bn_y raises 500 to 1000
+JF_Wolf92111 calls 1000
+PoneyDeBain folds
+P1xel7 folds
+iacoi folds
+SAMI1982 calls 500
+*** FLOP *** [4c 7d Qs]
+SAMI1982 checks
+bn_y checks
+JF_Wolf92111 bets 66492 and is all-in
+SAMI1982 folds
+bn_y folds
+JF_Wolf92111 collected 70102 from pot
+*** SUMMARY ***
+Total pot 70102 | No rake
+Board: [4c 7d Qs]
+Seat 6: JF_Wolf92111 won 70102
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3040732718380875830-26-1699723592 - Holdem no limit (70/300/600) - 2023/11/11 17:26:32 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #3 is the button
+Seat 1: PoneyDeBain (24802, 0.16€ bounty)
+Seat 2: P1xel7 (21000, 0.11€ bounty)
+Seat 3: iacoi (46284, 0.11€ bounty)
+Seat 4: SAMI1982 (5422, 0.11€ bounty)
+Seat 5: bn_y (14594, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (70102, 0.16€ bounty)
+*** ANTE/BLINDS ***
+SAMI1982 posts ante 70
+bn_y posts ante 70
+PoneyDeBain posts ante 70
+P1xel7 posts ante 70
+iacoi posts ante 70
+JF_Wolf92111 posts ante 70
+SAMI1982 posts small blind 300
+bn_y posts big blind 600
+Dealt to P1xel7 [5s 6s]
+*** PRE-FLOP *** 
+JF_Wolf92111 calls 600
+PoneyDeBain folds
+P1xel7 folds
+iacoi calls 600
+SAMI1982 calls 300
+bn_y raises 1200 to 1800
+JF_Wolf92111 calls 1200
+iacoi folds
+SAMI1982 folds
+*** FLOP *** [Ad 2s 6h]
+bn_y bets 1827
+JF_Wolf92111 folds
+bn_y shows [Jc Ac] (One pair : Aces)
+bn_y collected 7047 from pot
+*** SUMMARY ***
+Total pot 7047 | No rake
+Board: [Ad 2s 6h]
+Seat 5: bn_y (big blind) showed [Jc Ac] and won 7047 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3040732718380875830-27-1699723647 - Holdem no limit (70/300/600) - 2023/11/11 17:27:27 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #4 is the button
+Seat 1: PoneyDeBain (24732, 0.16€ bounty)
+Seat 2: P1xel7 (20930, 0.11€ bounty)
+Seat 3: iacoi (45614, 0.11€ bounty)
+Seat 4: SAMI1982 (4752, 0.11€ bounty)
+Seat 5: bn_y (17944, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (68232, 0.16€ bounty)
+*** ANTE/BLINDS ***
+bn_y posts ante 70
+JF_Wolf92111 posts ante 70
+PoneyDeBain posts ante 70
+P1xel7 posts ante 70
+iacoi posts ante 70
+SAMI1982 posts ante 70
+bn_y posts small blind 300
+JF_Wolf92111 posts big blind 600
+Dealt to P1xel7 [3h Qs]
+*** PRE-FLOP *** 
+PoneyDeBain folds
+P1xel7 folds
+iacoi folds
+SAMI1982 folds
+bn_y raises 1200 to 1800
+JF_Wolf92111 folds
+bn_y shows [Td Tc] (One pair : Tens)
+bn_y collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Seat 5: bn_y (small blind) showed [Td Tc] and won 2820 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3040732718380875830-28-1699723672 - Holdem no limit (70/300/600) - 2023/11/11 17:27:52 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #5 is the button
+Seat 1: PoneyDeBain (24662, 0.16€ bounty)
+Seat 2: P1xel7 (20860, 0.11€ bounty)
+Seat 3: iacoi (45544, 0.11€ bounty)
+Seat 4: SAMI1982 (4682, 0.11€ bounty)
+Seat 5: bn_y (18894, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (67562, 0.16€ bounty)
+*** ANTE/BLINDS ***
+JF_Wolf92111 posts ante 70
+PoneyDeBain posts ante 70
+P1xel7 posts ante 70
+iacoi posts ante 70
+SAMI1982 posts ante 70
+bn_y posts ante 70
+JF_Wolf92111 posts small blind 300
+PoneyDeBain posts big blind 600
+Dealt to P1xel7 [7h 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+iacoi folds
+SAMI1982 folds
+bn_y calls 600
+JF_Wolf92111 folds
+PoneyDeBain checks
+*** FLOP *** [4h 7d 2h]
+PoneyDeBain checks
+bn_y checks
+*** TURN *** [4h 7d 2h][Ad]
+PoneyDeBain checks
+bn_y checks
+*** RIVER *** [4h 7d 2h Ad][3c]
+PoneyDeBain checks
+bn_y bets 600
+PoneyDeBain folds
+bn_y shows [4s 4c] (Trips of 4)
+bn_y collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Board: [4h 7d 2h Ad 3c]
+Seat 5: bn_y (button) showed [4s 4c] and won 2520 with Trips of 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3040732718380875830-29-1699723745 - Holdem no limit (70/300/600) - 2023/11/11 17:29:05 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #6 is the button
+Seat 1: PoneyDeBain (23992, 0.16€ bounty)
+Seat 2: P1xel7 (20790, 0.11€ bounty)
+Seat 3: iacoi (45474, 0.11€ bounty)
+Seat 4: SAMI1982 (4612, 0.11€ bounty)
+Seat 5: bn_y (20144, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (67192, 0.16€ bounty)
+*** ANTE/BLINDS ***
+PoneyDeBain posts ante 70
+P1xel7 posts ante 70
+iacoi posts ante 70
+SAMI1982 posts ante 70
+bn_y posts ante 70
+JF_Wolf92111 posts ante 70
+PoneyDeBain posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [4h Th]
+*** PRE-FLOP *** 
+iacoi folds
+SAMI1982 calls 600
+bn_y folds
+JF_Wolf92111 calls 600
+PoneyDeBain folds
+P1xel7 checks
+*** FLOP *** [8d 8s 3c]
+P1xel7 checks
+SAMI1982 checks
+JF_Wolf92111 checks
+*** TURN *** [8d 8s 3c][8c]
+P1xel7 bets 882
+SAMI1982 folds
+JF_Wolf92111 calls 882
+*** RIVER *** [8d 8s 3c 8c][6d]
+P1xel7 checks
+JF_Wolf92111 bets 65640 and is all-in
+P1xel7 folds
+JF_Wolf92111 collected 69924 from pot
+*** SUMMARY ***
+Total pot 69924 | No rake
+Board: [8d 8s 3c 8c 6d]
+Seat 6: JF_Wolf92111 (button) won 69924
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3040732718380875830-30-1699723802 - Holdem no limit (70/300/600) - 2023/11/11 17:30:02 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #1 is the button
+Seat 1: PoneyDeBain (23622, 0.16€ bounty)
+Seat 2: P1xel7 (19238, 0.11€ bounty)
+Seat 3: iacoi (45404, 0.11€ bounty)
+Seat 4: SAMI1982 (3942, 0.11€ bounty)
+Seat 5: bn_y (20074, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (69924, 0.16€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+iacoi posts ante 70
+PoneyDeBain posts ante 70
+SAMI1982 posts ante 70
+bn_y posts ante 70
+JF_Wolf92111 posts ante 70
+P1xel7 posts small blind 300
+iacoi posts big blind 600
+Dealt to P1xel7 [2h Kc]
+*** PRE-FLOP *** 
+SAMI1982 folds
+bn_y raises 900 to 1500
+JF_Wolf92111 calls 1500
+PoneyDeBain folds
+P1xel7 folds
+iacoi folds
+*** FLOP *** [2d Ts 6s]
+bn_y checks
+JF_Wolf92111 checks
+*** TURN *** [2d Ts 6s][Js]
+bn_y checks
+JF_Wolf92111 checks
+*** RIVER *** [2d Ts 6s Js][5c]
+bn_y bets 600
+JF_Wolf92111 raises 67754 to 68354 and is all-in
+bn_y folds
+JF_Wolf92111 collected 73274 from pot
+*** SUMMARY ***
+Total pot 73274 | No rake
+Board: [2d Ts 6s Js 5c]
+Seat 6: JF_Wolf92111 won 73274
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3040732718380875830-31-1699723837 - Holdem no limit (70/300/600) - 2023/11/11 17:30:37 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #2 is the button
+Seat 1: PoneyDeBain (23552, 0.16€ bounty)
+Seat 2: P1xel7 (18868, 0.11€ bounty)
+Seat 3: iacoi (44734, 0.11€ bounty)
+Seat 4: SAMI1982 (3872, 0.11€ bounty)
+Seat 5: bn_y (17904, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (73274, 0.16€ bounty)
+*** ANTE/BLINDS ***
+iacoi posts ante 70
+SAMI1982 posts ante 70
+PoneyDeBain posts ante 70
+P1xel7 posts ante 70
+bn_y posts ante 70
+JF_Wolf92111 posts ante 70
+iacoi posts small blind 300
+SAMI1982 posts big blind 600
+Dealt to P1xel7 [4s 8d]
+*** PRE-FLOP *** 
+bn_y folds
+JF_Wolf92111 folds
+PoneyDeBain folds
+P1xel7 folds
+iacoi raises 44064 to 44664 and is all-in
+SAMI1982 folds
+iacoi collected 45684 from pot
+*** SUMMARY ***
+Total pot 45684 | No rake
+Seat 3: iacoi (small blind) won 45684
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3040732718380875830-32-1699723859 - Holdem no limit (70/300/600) - 2023/11/11 17:30:59 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #3 is the button
+Seat 1: PoneyDeBain (23482, 0.16€ bounty)
+Seat 2: P1xel7 (18798, 0.11€ bounty)
+Seat 3: iacoi (45684, 0.11€ bounty)
+Seat 4: SAMI1982 (3202, 0.11€ bounty)
+Seat 5: bn_y (17834, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (73204, 0.16€ bounty)
+*** ANTE/BLINDS ***
+SAMI1982 posts ante 70
+bn_y posts ante 70
+PoneyDeBain posts ante 70
+P1xel7 posts ante 70
+iacoi posts ante 70
+JF_Wolf92111 posts ante 70
+SAMI1982 posts small blind 300
+bn_y posts big blind 600
+Dealt to P1xel7 [Jh Td]
+*** PRE-FLOP *** 
+JF_Wolf92111 folds
+PoneyDeBain folds
+P1xel7 raises 720 to 1320
+iacoi folds
+SAMI1982 raises 1812 to 3132 and is all-in
+bn_y calls 2532
+P1xel7 calls 1812
+*** FLOP *** [9d Ts Qc]
+bn_y bets 14632 and is all-in
+P1xel7 folds
+*** TURN *** [9d Ts Qc][Ah]
+*** RIVER *** [9d Ts Qc Ah][4c]
+*** SHOW DOWN ***
+SAMI1982 shows [9h 9s] (Trips of 9)
+bn_y shows [2h Qs] (One pair : Queens)
+bn_y collected 14632 from side pot 1
+SAMI1982 collected 9816 from main pot
+*** SUMMARY ***
+Total pot 24448 | No rake
+Board: [9d Ts Qc Ah 4c]
+Seat 4: SAMI1982 (small blind) showed [9h 9s] and won 9816 with Trips of 9
+Seat 5: bn_y (big blind) showed [2h Qs] and won 14632 with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3040732718380875830-33-1699723939 - Holdem no limit (80/350/700) - 2023/11/11 17:32:19 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #4 is the button
+Seat 1: PoneyDeBain (23412, 0.16€ bounty)
+Seat 2: P1xel7 (15596, 0.11€ bounty)
+Seat 3: iacoi (45614, 0.11€ bounty)
+Seat 4: SAMI1982 (9816, 0.11€ bounty)
+Seat 5: bn_y (14632, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (73134, 0.16€ bounty)
+*** ANTE/BLINDS ***
+bn_y posts ante 80
+JF_Wolf92111 posts ante 80
+PoneyDeBain posts ante 80
+P1xel7 posts ante 80
+iacoi posts ante 80
+SAMI1982 posts ante 80
+bn_y posts small blind 350
+JF_Wolf92111 posts big blind 700
+Dealt to P1xel7 [Jd 2h]
+*** PRE-FLOP *** 
+PoneyDeBain folds
+P1xel7 folds
+iacoi folds
+SAMI1982 calls 700
+bn_y raises 1400 to 2100
+JF_Wolf92111 calls 1400
+SAMI1982 raises 1400 to 3500
+bn_y raises 11052 to 14552 and is all-in
+JF_Wolf92111 folds
+SAMI1982 calls 6236 and is all-in
+*** FLOP *** [Ks Ad 6d]
+*** TURN *** [Ks Ad 6d][3d]
+*** RIVER *** [Ks Ad 6d 3d][3h]
+*** SHOW DOWN ***
+SAMI1982 shows [As Ac] (Full of Aces and 3)
+bn_y shows [Qh Qc] (Two pairs : Queens and 3)
+bn_y collected 4816 from side pot 1
+SAMI1982 collected 22052 from main pot
+*** SUMMARY ***
+Total pot 26868 | No rake
+Board: [Ks Ad 6d 3d 3h]
+Seat 4: SAMI1982 (button) showed [As Ac] and won 22052 with Full of Aces and 3
+Seat 5: bn_y (small blind) showed [Qh Qc] and won 4816 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3040732718380875830-34-1699723976 - Holdem no limit (80/350/700) - 2023/11/11 17:32:56 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #5 is the button
+Seat 1: PoneyDeBain (23332, 0.16€ bounty)
+Seat 2: P1xel7 (15516, 0.11€ bounty)
+Seat 3: iacoi (45534, 0.11€ bounty)
+Seat 4: SAMI1982 (22052, 0.11€ bounty)
+Seat 5: bn_y (4816, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (70954, 0.16€ bounty)
+*** ANTE/BLINDS ***
+JF_Wolf92111 posts ante 80
+PoneyDeBain posts ante 80
+P1xel7 posts ante 80
+iacoi posts ante 80
+SAMI1982 posts ante 80
+bn_y posts ante 80
+JF_Wolf92111 posts small blind 350
+PoneyDeBain posts big blind 700
+Dealt to P1xel7 [2s 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+iacoi folds
+SAMI1982 calls 700
+bn_y folds
+JF_Wolf92111 calls 350
+PoneyDeBain checks
+*** FLOP *** [Qh Jd 8d]
+JF_Wolf92111 checks
+PoneyDeBain bets 2580
+SAMI1982 calls 2580
+JF_Wolf92111 calls 2580
+*** TURN *** [Qh Jd 8d][6c]
+JF_Wolf92111 checks
+PoneyDeBain bets 6708
+SAMI1982 folds
+JF_Wolf92111 calls 6708
+*** RIVER *** [Qh Jd 8d 6c][Ah]
+JF_Wolf92111 checks
+PoneyDeBain bets 13264 and is all-in
+JF_Wolf92111 calls 13264
+*** SHOW DOWN ***
+PoneyDeBain shows [Qs 4c] (One pair : Queens)
+JF_Wolf92111 shows [Ks Tc] (Straight Ace high)
+JF_Wolf92111 collected 50264 from pot
+*** SUMMARY ***
+Total pot 50264 | No rake
+Board: [Qh Jd 8d 6c Ah]
+Seat 1: PoneyDeBain (big blind) showed [Qs 4c] and lost with One pair : Queens
+Seat 6: JF_Wolf92111 (small blind) showed [Ks Tc] and won 50264 with Straight Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3040732718380875830-35-1699724048 - Holdem no limit (80/350/700) - 2023/11/11 17:34:08 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #6 is the button
+Seat 2: P1xel7 (15436, 0.11€ bounty)
+Seat 3: iacoi (45454, 0.11€ bounty)
+Seat 4: SAMI1982 (18692, 0.11€ bounty)
+Seat 5: bn_y (4736, 0.11€ bounty)
+Seat 6: JF_Wolf92111 (97886, 0.24€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+iacoi posts ante 80
+SAMI1982 posts ante 80
+bn_y posts ante 80
+JF_Wolf92111 posts ante 80
+P1xel7 posts big blind 700
+Dealt to P1xel7 [8d 2h]
+*** PRE-FLOP *** 
+iacoi folds
+SAMI1982 calls 700
+bn_y calls 700
+JF_Wolf92111 folds
+P1xel7 checks
+*** FLOP *** [Qs 9h 3h]
+P1xel7 checks
+SAMI1982 checks
+bn_y checks
+*** TURN *** [Qs 9h 3h][Ts]
+P1xel7 checks
+SAMI1982 bets 1250
+bn_y raises 2706 to 3956 and is all-in
+P1xel7 folds
+SAMI1982 calls 2706
+*** RIVER *** [Qs 9h 3h Ts][3c]
+*** SHOW DOWN ***
+bn_y shows [Qh 5h] (Two pairs : Queens and 3)
+SAMI1982 shows [9s 9d] (Full of 9 and 3)
+SAMI1982 collected 10412 from pot
+*** SUMMARY ***
+Total pot 10412 | No rake
+Board: [Qs 9h 3h Ts 3c]
+Seat 4: SAMI1982 showed [9s 9d] and won 10412 with Full of 9 and 3
+Seat 5: bn_y showed [Qh 5h] and lost with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3040732718380875830-36-1699724084 - Holdem no limit (80/350/700) - 2023/11/11 17:34:44 UTC
+Table: 'Kill The Fish(707975756)#053' 6-max (real money) Seat #1 is the button
+Seat 2: P1xel7 (14656, 0.11€ bounty)
+Seat 3: iacoi (45374, 0.11€ bounty)
+Seat 4: SAMI1982 (24368, 0.16€ bounty)
+Seat 6: JF_Wolf92111 (97806, 0.24€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+iacoi posts ante 80
+SAMI1982 posts ante 80
+JF_Wolf92111 posts ante 80
+P1xel7 posts small blind 350
+iacoi posts big blind 700
+Dealt to P1xel7 [7d Qh]
+*** PRE-FLOP *** 
+SAMI1982 calls 700
+JF_Wolf92111 calls 700
+P1xel7 folds
+iacoi checks
+*** FLOP *** [Tc 8d 5d]
+iacoi checks
+SAMI1982 checks
+JF_Wolf92111 checks
+*** TURN *** [Tc 8d 5d][5s]
+iacoi bets 969
+SAMI1982 calls 969
+JF_Wolf92111 calls 969
+*** RIVER *** [Tc 8d 5d 5s][Ts]
+iacoi bets 1987
+SAMI1982 calls 1987
+JF_Wolf92111 folds
+*** SHOW DOWN ***
+SAMI1982 shows [6c Ac] (Two pairs : Tens and 5)
+iacoi shows [9h 9c] (Two pairs : Tens and 9)
+iacoi collected 9651 from pot
+*** SUMMARY ***
+Total pot 9651 | No rake
+Board: [Tc 8d 5d 5s Ts]
+Seat 3: iacoi (big blind) showed [9h 9c] and won 9651 with Two pairs : Tens and 9
+Seat 4: SAMI1982 showed [6c Ac] and lost with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3040732718380875794-76-1699724140 - Holdem no limit (80/350/700) - 2023/11/11 17:35:40 UTC
+Table: 'Kill The Fish(707975756)#017' 6-max (real money) Seat #2 is the button
+Seat 1: nandop (124972, 0.48€ bounty)
+Seat 2: CallisDusty (150903, 0.26€ bounty)
+Seat 3: jamel0707 (72683, 0.16€ bounty)
+Seat 4: wmx-irjjf45 (25654, 0.19€ bounty)
+Seat 5: bastien.d72 (20000, 0.11€ bounty)
+Seat 6: P1xel7 (14226, 0.11€ bounty)
+*** ANTE/BLINDS ***
+jamel0707 posts ante 80
+wmx-irjjf45 posts ante 80
+nandop posts ante 80
+CallisDusty posts ante 80
+bastien.d72 posts ante 80
+P1xel7 posts ante 80
+jamel0707 posts small blind 350
+wmx-irjjf45 posts big blind 700
+Dealt to P1xel7 [Jh 7h]
+*** PRE-FLOP *** 
+bastien.d72 calls 700
+P1xel7 folds
+nandop folds
+CallisDusty raises 1400 to 2100
+jamel0707 folds
+wmx-irjjf45 folds
+bastien.d72 folds
+CallisDusty collected 4330 from pot
+*** SUMMARY ***
+Total pot 4330 | No rake
+Seat 2: CallisDusty (button) won 4330
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3040732718380875794-77-1699724191 - Holdem no limit (100/400/800) - 2023/11/11 17:36:31 UTC
+Table: 'Kill The Fish(707975756)#017' 6-max (real money) Seat #3 is the button
+Seat 1: nandop (124892, 0.48€ bounty)
+Seat 2: CallisDusty (153053, 0.26€ bounty)
+Seat 3: jamel0707 (72253, 0.16€ bounty)
+Seat 4: wmx-irjjf45 (24874, 0.19€ bounty)
+Seat 5: bastien.d72 (19220, 0.11€ bounty)
+Seat 6: P1xel7 (14146, 0.11€ bounty)
+*** ANTE/BLINDS ***
+wmx-irjjf45 posts ante 100
+bastien.d72 posts ante 100
+nandop posts ante 100
+CallisDusty posts ante 100
+jamel0707 posts ante 100
+P1xel7 posts ante 100
+wmx-irjjf45 posts small blind 400
+bastien.d72 posts big blind 800
+Dealt to P1xel7 [8s 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+nandop folds
+CallisDusty folds
+jamel0707 calls 800
+wmx-irjjf45 raises 3000 to 3800
+bastien.d72 calls 3000
+jamel0707 calls 3000
+*** FLOP *** [8c Th 4c]
+wmx-irjjf45 bets 20974 and is all-in
+bastien.d72 folds
+jamel0707 calls 20974
+*** TURN *** [8c Th 4c][9d]
+*** RIVER *** [8c Th 4c 9d][5d]
+*** SHOW DOWN ***
+jamel0707 shows [8h 7s] (One pair : 8)
+wmx-irjjf45 shows [Jd Jc] (One pair : Jacks)
+wmx-irjjf45 collected 53948 from pot
+*** SUMMARY ***
+Total pot 53948 | No rake
+Board: [8c Th 4c 9d 5d]
+Seat 3: jamel0707 (button) showed [8h 7s] and lost with One pair : 8
+Seat 4: wmx-irjjf45 (small blind) showed [Jd Jc] and won 53948 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3040732718380875794-78-1699724281 - Holdem no limit (100/400/800) - 2023/11/11 17:38:01 UTC
+Table: 'Kill The Fish(707975756)#017' 6-max (real money) Seat #4 is the button
+Seat 1: nandop (124792, 0.48€ bounty)
+Seat 2: CallisDusty (152953, 0.26€ bounty)
+Seat 3: jamel0707 (47379, 0.16€ bounty)
+Seat 4: wmx-irjjf45 (53948, 0.19€ bounty)
+Seat 5: bastien.d72 (15320, 0.11€ bounty)
+Seat 6: P1xel7 (14046, 0.11€ bounty)
+*** ANTE/BLINDS ***
+bastien.d72 posts ante 100
+P1xel7 posts ante 100
+nandop posts ante 100
+CallisDusty posts ante 100
+jamel0707 posts ante 100
+wmx-irjjf45 posts ante 100
+bastien.d72 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [9s 6h]
+*** PRE-FLOP *** 
+nandop folds
+CallisDusty raises 1000 to 1800
+jamel0707 folds
+wmx-irjjf45 folds
+bastien.d72 calls 1400
+P1xel7 folds
+*** FLOP *** [3c Kd 3d]
+bastien.d72 checks
+CallisDusty bets 1750
+bastien.d72 calls 1750
+*** TURN *** [3c Kd 3d][7d]
+bastien.d72 checks
+CallisDusty bets 2975
+bastien.d72 calls 2975
+*** RIVER *** [3c Kd 3d 7d][4d]
+bastien.d72 bets 8695 and is all-in
+CallisDusty folds
+bastien.d72 collected 23145 from pot
+*** SUMMARY ***
+Total pot 23145 | No rake
+Board: [3c Kd 3d 7d 4d]
+Seat 5: bastien.d72 (small blind) won 23145
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3040732718380875794-79-1699724355 - Holdem no limit (100/400/800) - 2023/11/11 17:39:15 UTC
+Table: 'Kill The Fish(707975756)#017' 6-max (real money) Seat #5 is the button
+Seat 1: nandop (124692, 0.48€ bounty)
+Seat 2: CallisDusty (146328, 0.26€ bounty)
+Seat 3: jamel0707 (47279, 0.16€ bounty)
+Seat 4: wmx-irjjf45 (53848, 0.19€ bounty)
+Seat 5: bastien.d72 (23145, 0.11€ bounty)
+Seat 6: P1xel7 (13146, 0.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+nandop posts ante 100
+CallisDusty posts ante 100
+jamel0707 posts ante 100
+wmx-irjjf45 posts ante 100
+bastien.d72 posts ante 100
+P1xel7 posts small blind 400
+nandop posts big blind 800
+Dealt to P1xel7 [Ks 5c]
+*** PRE-FLOP *** 
+CallisDusty folds
+jamel0707 folds
+wmx-irjjf45 folds
+bastien.d72 raises 800 to 1600
+P1xel7 folds
+nandop calls 800
+*** FLOP *** [6c Jh 3c]
+nandop checks
+bastien.d72 bets 2800
+nandop folds
+bastien.d72 collected 7000 from pot
+*** SUMMARY ***
+Total pot 7000 | No rake
+Board: [6c Jh 3c]
+Seat 5: bastien.d72 (button) won 7000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3040732718380875794-80-1699724391 - Holdem no limit (100/400/800) - 2023/11/11 17:39:51 UTC
+Table: 'Kill The Fish(707975756)#017' 6-max (real money) Seat #6 is the button
+Seat 1: nandop (122992, 0.48€ bounty)
+Seat 2: CallisDusty (146228, 0.26€ bounty)
+Seat 3: jamel0707 (47179, 0.16€ bounty)
+Seat 4: wmx-irjjf45 (53748, 0.19€ bounty)
+Seat 5: bastien.d72 (25645, 0.11€ bounty)
+Seat 6: P1xel7 (12646, 0.11€ bounty)
+*** ANTE/BLINDS ***
+nandop posts ante 100
+CallisDusty posts ante 100
+jamel0707 posts ante 100
+wmx-irjjf45 posts ante 100
+bastien.d72 posts ante 100
+P1xel7 posts ante 100
+nandop posts small blind 400
+CallisDusty posts big blind 800
+Dealt to P1xel7 [8d 4s]
+*** PRE-FLOP *** 
+jamel0707 folds
+wmx-irjjf45 folds
+bastien.d72 raises 800 to 1600
+P1xel7 folds
+nandop calls 1200
+CallisDusty calls 800
+*** FLOP *** [Qh Js 9d]
+nandop checks
+CallisDusty checks
+bastien.d72 bets 2000
+nandop folds
+CallisDusty folds
+bastien.d72 collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | No rake
+Board: [Qh Js 9d]
+Seat 5: bastien.d72 won 7400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3040732718380875794-81-1699724423 - Holdem no limit (100/400/800) - 2023/11/11 17:40:23 UTC
+Table: 'Kill The Fish(707975756)#017' 6-max (real money) Seat #1 is the button
+Seat 1: nandop (121292, 0.48€ bounty)
+Seat 2: CallisDusty (144528, 0.26€ bounty)
+Seat 3: jamel0707 (47079, 0.16€ bounty)
+Seat 4: wmx-irjjf45 (53648, 0.19€ bounty)
+Seat 5: bastien.d72 (29345, 0.11€ bounty)
+Seat 6: P1xel7 (12546, 0.11€ bounty)
+*** ANTE/BLINDS ***
+CallisDusty posts ante 100
+jamel0707 posts ante 100
+nandop posts ante 100
+wmx-irjjf45 posts ante 100
+bastien.d72 posts ante 100
+P1xel7 posts ante 100
+CallisDusty posts small blind 400
+jamel0707 posts big blind 800
+Dealt to P1xel7 [Qc 3c]
+*** PRE-FLOP *** 
+wmx-irjjf45 folds
+bastien.d72 calls 800
+P1xel7 folds
+nandop raises 3400 to 4200
+CallisDusty folds
+jamel0707 calls 3400
+bastien.d72 folds
+*** FLOP *** [Td 7s 5s]
+jamel0707 checks
+nandop bets 10200
+jamel0707 folds
+nandop collected 20400 from pot
+*** SUMMARY ***
+Total pot 20400 | No rake
+Board: [Td 7s 5s]
+Seat 1: nandop (button) won 20400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3040732718380875794-82-1699724452 - Holdem no limit (100/400/800) - 2023/11/11 17:40:52 UTC
+Table: 'Kill The Fish(707975756)#017' 6-max (real money) Seat #2 is the button
+Seat 1: nandop (127192, 0.48€ bounty)
+Seat 2: CallisDusty (144028, 0.26€ bounty)
+Seat 3: jamel0707 (42779, 0.16€ bounty)
+Seat 4: wmx-irjjf45 (53548, 0.19€ bounty)
+Seat 5: bastien.d72 (28445, 0.11€ bounty)
+Seat 6: P1xel7 (12446, 0.11€ bounty)
+*** ANTE/BLINDS ***
+jamel0707 posts ante 100
+wmx-irjjf45 posts ante 100
+nandop posts ante 100
+CallisDusty posts ante 100
+bastien.d72 posts ante 100
+P1xel7 posts ante 100
+jamel0707 posts small blind 400
+wmx-irjjf45 posts big blind 800
+Dealt to P1xel7 [Ks Tc]
+*** PRE-FLOP *** 
+bastien.d72 calls 800
+P1xel7 folds
+nandop folds
+CallisDusty folds
+jamel0707 calls 400
+wmx-irjjf45 checks
+*** FLOP *** [2d 9h Jd]
+jamel0707 checks
+wmx-irjjf45 checks
+bastien.d72 bets 800
+jamel0707 folds
+wmx-irjjf45 folds
+bastien.d72 collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Board: [2d 9h Jd]
+Seat 5: bastien.d72 won 3800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3040732718380875794-83-1699724474 - Holdem no limit (120/500/1000) - 2023/11/11 17:41:14 UTC
+Table: 'Kill The Fish(707975756)#017' 6-max (real money) Seat #3 is the button
+Seat 1: nandop (127092, 0.48€ bounty)
+Seat 2: CallisDusty (143928, 0.26€ bounty)
+Seat 3: jamel0707 (41879, 0.16€ bounty)
+Seat 4: wmx-irjjf45 (52648, 0.19€ bounty)
+Seat 5: bastien.d72 (30545, 0.11€ bounty)
+Seat 6: P1xel7 (12346, 0.11€ bounty)
+*** ANTE/BLINDS ***
+wmx-irjjf45 posts ante 120
+bastien.d72 posts ante 120
+nandop posts ante 120
+CallisDusty posts ante 120
+jamel0707 posts ante 120
+P1xel7 posts ante 120
+wmx-irjjf45 posts small blind 500
+bastien.d72 posts big blind 1000
+Dealt to P1xel7 [Ts Tc]
+*** PRE-FLOP *** 
+P1xel7 raises 11226 to 12226 and is all-in
+nandop calls 12226
+CallisDusty folds
+jamel0707 calls 12226
+wmx-irjjf45 folds
+bastien.d72 folds
+*** FLOP *** [5d 9s 4s]
+nandop bets 38898
+jamel0707 calls 29533 and is all-in
+*** TURN *** [5d 9s 4s][3d]
+*** RIVER *** [5d 9s 4s 3d][Qs]
+*** SHOW DOWN ***
+P1xel7 shows [Ts Tc] (One pair : Tens)
+nandop shows [5c 5h] (Trips of 5)
+jamel0707 shows [3s Js] (Flush Queen high)
+jamel0707 collected 97964 from main pot
+nandop collected 9365 from side pot 1
+*** SUMMARY ***
+Total pot 107329 | No rake
+Board: [5d 9s 4s 3d Qs]
+Seat 1: nandop showed [5c 5h] and won 9365 with Trips of 5
+Seat 3: jamel0707 (button) showed [3s Js] and won 97964 with Flush Queen high
+Seat 6: P1xel7 showed [Ts Tc] and lost with One pair : Tens
+
+

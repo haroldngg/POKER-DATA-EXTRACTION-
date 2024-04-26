@@ -1,0 +1,999 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3114200062419271774-16-1703712860 - Holdem no limit (40/175/350) - 2023/12/27 21:34:20 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (20000)
+Seat 2: linoui (28592)
+Seat 3: WinnerChirve (15725)
+Seat 4: SoJo1 (19350)
+Seat 5: nounoursse51 (77280)
+Seat 6: AngyLaDouce (40906)
+*** ANTE/BLINDS ***
+WinnerChirve posts ante 40
+SoJo1 posts ante 40
+P1xel7 posts ante 40
+linoui posts ante 40
+nounoursse51 posts ante 40
+AngyLaDouce posts ante 40
+WinnerChirve posts small blind 175
+SoJo1 posts big blind 350
+Dealt to P1xel7 [Jd 6s]
+*** PRE-FLOP *** 
+nounoursse51 folds
+AngyLaDouce calls 350
+P1xel7 folds
+linoui folds
+WinnerChirve calls 175
+SoJo1 folds
+*** FLOP *** [7s 9d Ts]
+WinnerChirve checks
+AngyLaDouce checks
+*** TURN *** [7s 9d Ts][5h]
+WinnerChirve checks
+AngyLaDouce checks
+*** RIVER *** [7s 9d Ts 5h][As]
+WinnerChirve checks
+AngyLaDouce bets 1290
+WinnerChirve folds
+AngyLaDouce collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Board: [7s 9d Ts 5h As]
+Seat 6: AngyLaDouce won 2580
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3114200062419271774-17-1703712915 - Holdem no limit (40/175/350) - 2023/12/27 21:35:15 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (19960)
+Seat 2: linoui (28552)
+Seat 3: WinnerChirve (15335)
+Seat 4: SoJo1 (18960)
+Seat 5: nounoursse51 (77240)
+Seat 6: AngyLaDouce (41806)
+*** ANTE/BLINDS ***
+SoJo1 posts ante 40
+nounoursse51 posts ante 40
+P1xel7 posts ante 40
+linoui posts ante 40
+WinnerChirve posts ante 40
+AngyLaDouce posts ante 40
+SoJo1 posts small blind 175
+nounoursse51 posts big blind 350
+Dealt to P1xel7 [9s Qc]
+*** PRE-FLOP *** 
+AngyLaDouce folds
+P1xel7 folds
+linoui folds
+WinnerChirve raises 875 to 1225
+SoJo1 folds
+nounoursse51 calls 875
+*** FLOP *** [8h Jd 7s]
+nounoursse51 checks
+WinnerChirve checks
+*** TURN *** [8h Jd 7s][5d]
+nounoursse51 bets 2292
+WinnerChirve calls 2292
+*** RIVER *** [8h Jd 7s 5d][6h]
+nounoursse51 bets 5959
+WinnerChirve folds
+nounoursse51 collected 13408 from pot
+*** SUMMARY ***
+Total pot 13408 | No rake
+Board: [8h Jd 7s 5d 6h]
+Seat 5: nounoursse51 (big blind) won 13408
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3114200062419271774-18-1703712985 - Holdem no limit (50/200/400) - 2023/12/27 21:36:25 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (19920)
+Seat 2: linoui (28512)
+Seat 3: WinnerChirve (11778)
+Seat 4: SoJo1 (18745)
+Seat 5: nounoursse51 (81132)
+Seat 6: AngyLaDouce (41766)
+*** ANTE/BLINDS ***
+nounoursse51 posts ante 50
+AngyLaDouce posts ante 50
+P1xel7 posts ante 50
+linoui posts ante 50
+WinnerChirve posts ante 50
+SoJo1 posts ante 50
+nounoursse51 posts small blind 200
+AngyLaDouce posts big blind 400
+Dealt to P1xel7 [Ac 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+linoui folds
+WinnerChirve folds
+SoJo1 folds
+nounoursse51 calls 200
+AngyLaDouce checks
+*** FLOP *** [Kh As 8d]
+nounoursse51 bets 400
+AngyLaDouce raises 1900 to 2300
+nounoursse51 folds
+AngyLaDouce collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Board: [Kh As 8d]
+Seat 6: AngyLaDouce (big blind) won 3800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3114200062419271774-19-1703713009 - Holdem no limit (50/200/400) - 2023/12/27 21:36:49 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (19870)
+Seat 2: linoui (28462)
+Seat 3: WinnerChirve (11728)
+Seat 4: SoJo1 (18695)
+Seat 5: nounoursse51 (80282)
+Seat 6: AngyLaDouce (42816)
+*** ANTE/BLINDS ***
+AngyLaDouce posts ante 50
+P1xel7 posts ante 50
+linoui posts ante 50
+WinnerChirve posts ante 50
+SoJo1 posts ante 50
+nounoursse51 posts ante 50
+AngyLaDouce posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [6h Qh]
+*** PRE-FLOP *** 
+linoui calls 400
+WinnerChirve calls 400
+SoJo1 folds
+nounoursse51 folds
+AngyLaDouce calls 200
+P1xel7 checks
+*** FLOP *** [2d 4s Ad]
+AngyLaDouce checks
+P1xel7 checks
+linoui checks
+WinnerChirve checks
+*** TURN *** [2d 4s Ad][7h]
+AngyLaDouce checks
+P1xel7 checks
+linoui checks
+WinnerChirve checks
+*** RIVER *** [2d 4s Ad 7h][Kd]
+AngyLaDouce checks
+P1xel7 checks
+linoui bets 950
+WinnerChirve calls 950
+AngyLaDouce folds
+P1xel7 folds
+*** SHOW DOWN ***
+linoui shows [Td Kh] (One pair : Kings)
+WinnerChirve shows [Kc 2c] (Two pairs : Kings and 2)
+WinnerChirve collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Board: [2d 4s Ad 7h Kd]
+Seat 2: linoui showed [Td Kh] and lost with One pair : Kings
+Seat 3: WinnerChirve showed [Kc 2c] and won 3800 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3114200062419271774-20-1703713053 - Holdem no limit (50/200/400) - 2023/12/27 21:37:33 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (19420)
+Seat 2: linoui (27062)
+Seat 3: WinnerChirve (14128)
+Seat 4: SoJo1 (18645)
+Seat 5: nounoursse51 (80232)
+Seat 6: AngyLaDouce (42366)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+linoui posts ante 50
+WinnerChirve posts ante 50
+SoJo1 posts ante 50
+nounoursse51 posts ante 50
+AngyLaDouce posts ante 50
+P1xel7 posts small blind 200
+linoui posts big blind 400
+Dealt to P1xel7 [2c 4s]
+*** PRE-FLOP *** 
+WinnerChirve folds
+SoJo1 raises 400 to 800
+nounoursse51 folds
+AngyLaDouce folds
+P1xel7 folds
+linoui calls 400
+*** FLOP *** [4c 6d 3c]
+linoui checks
+SoJo1 bets 17795 and is all-in
+linoui calls 17795
+*** TURN *** [4c 6d 3c][Qd]
+*** RIVER *** [4c 6d 3c Qd][4h]
+*** SHOW DOWN ***
+SoJo1 shows [As Ts] (One pair : 4)
+linoui shows [Qh 5s] (Two pairs : Queens and 4)
+linoui collected 37690 from pot
+*** SUMMARY ***
+Total pot 37690 | No rake
+Board: [4c 6d 3c Qd 4h]
+Seat 2: linoui (big blind) showed [Qh 5s] and won 37690 with Two pairs : Queens and 4
+Seat 4: SoJo1 showed [As Ts] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3114200062419271774-21-1703713095 - Holdem no limit (50/200/400) - 2023/12/27 21:38:15 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (19170)
+Seat 2: linoui (46107)
+Seat 3: WinnerChirve (14078)
+Seat 5: nounoursse51 (80182)
+Seat 6: AngyLaDouce (42316)
+*** ANTE/BLINDS ***
+linoui posts ante 50
+WinnerChirve posts ante 50
+P1xel7 posts ante 50
+nounoursse51 posts ante 50
+AngyLaDouce posts ante 50
+linoui posts small blind 200
+WinnerChirve posts big blind 400
+Dealt to P1xel7 [8c 7h]
+*** PRE-FLOP *** 
+nounoursse51 folds
+AngyLaDouce calls 400
+P1xel7 folds
+linoui calls 200
+WinnerChirve checks
+*** FLOP *** [3c 3d 5c]
+linoui checks
+WinnerChirve checks
+AngyLaDouce checks
+*** TURN *** [3c 3d 5c][2h]
+linoui checks
+WinnerChirve bets 1160
+AngyLaDouce folds
+linoui calls 1160
+*** RIVER *** [3c 3d 5c 2h][3s]
+linoui checks
+WinnerChirve bets 829
+linoui calls 829
+*** SHOW DOWN ***
+linoui shows [As Td] (Trips of 3)
+WinnerChirve shows [5h Tc] (Full of 3 and 5)
+WinnerChirve collected 5428 from pot
+*** SUMMARY ***
+Total pot 5428 | No rake
+Board: [3c 3d 5c 2h 3s]
+Seat 2: linoui (small blind) showed [As Td] and lost with Trips of 3
+Seat 3: WinnerChirve (big blind) showed [5h Tc] and won 5428 with Full of 3 and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3114200062419271774-22-1703713166 - Holdem no limit (60/250/500) - 2023/12/27 21:39:26 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (19120)
+Seat 2: linoui (43668)
+Seat 3: WinnerChirve (17067)
+Seat 4: MAGR247 (20000)
+Seat 5: nounoursse51 (80132)
+Seat 6: AngyLaDouce (41866)
+*** ANTE/BLINDS ***
+WinnerChirve posts ante 60
+MAGR247 posts ante 60
+P1xel7 posts ante 60
+linoui posts ante 60
+nounoursse51 posts ante 60
+AngyLaDouce posts ante 60
+WinnerChirve posts small blind 250
+MAGR247 posts big blind 500
+Dealt to P1xel7 [5c 9d]
+*** PRE-FLOP *** 
+nounoursse51 calls 500
+AngyLaDouce folds
+P1xel7 folds
+linoui calls 500
+WinnerChirve folds
+MAGR247 raises 19440 to 19940 and is all-in
+nounoursse51 calls 19440
+linoui folds
+*** FLOP *** [Kd Ts Tc]
+*** TURN *** [Kd Ts Tc][5s]
+*** RIVER *** [Kd Ts Tc 5s][6d]
+*** SHOW DOWN ***
+MAGR247 shows [As 8h] (One pair : Tens)
+nounoursse51 shows [Kh Qh] (Two pairs : Kings and Tens)
+nounoursse51 collected 40990 from pot
+*** SUMMARY ***
+Total pot 40990 | No rake
+Board: [Kd Ts Tc 5s 6d]
+Seat 4: MAGR247 (big blind) showed [As 8h] and lost with One pair : Tens
+Seat 5: nounoursse51 showed [Kh Qh] and won 40990 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3114200062419271774-23-1703713197 - Holdem no limit (60/250/500) - 2023/12/27 21:39:57 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (19060)
+Seat 2: linoui (43108)
+Seat 3: WinnerChirve (16757)
+Seat 5: nounoursse51 (101122)
+Seat 6: AngyLaDouce (41806)
+*** ANTE/BLINDS ***
+nounoursse51 posts ante 60
+P1xel7 posts ante 60
+linoui posts ante 60
+WinnerChirve posts ante 60
+AngyLaDouce posts ante 60
+nounoursse51 posts big blind 500
+Dealt to P1xel7 [5s 5d]
+*** PRE-FLOP *** 
+AngyLaDouce calls 500
+P1xel7 folds
+linoui calls 500
+WinnerChirve folds
+nounoursse51 checks
+*** FLOP *** [4c 3s 4h]
+nounoursse51 bets 1440
+AngyLaDouce folds
+linoui calls 1440
+*** TURN *** [4c 3s 4h][9s]
+nounoursse51 bets 4680
+linoui folds
+nounoursse51 collected 9360 from pot
+*** SUMMARY ***
+Total pot 9360 | No rake
+Board: [4c 3s 4h 9s]
+Seat 5: nounoursse51 (big blind) won 9360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3114200062419271774-24-1703713236 - Holdem no limit (60/250/500) - 2023/12/27 21:40:36 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (19000)
+Seat 2: linoui (41108)
+Seat 3: WinnerChirve (16697)
+Seat 4: sharp971 (20000)
+Seat 5: nounoursse51 (103802)
+Seat 6: AngyLaDouce (41246)
+*** ANTE/BLINDS ***
+nounoursse51 posts ante 60
+AngyLaDouce posts ante 60
+P1xel7 posts ante 60
+linoui posts ante 60
+WinnerChirve posts ante 60
+nounoursse51 posts small blind 250
+AngyLaDouce posts big blind 500
+Dealt to P1xel7 [8s 9s]
+*** PRE-FLOP *** 
+P1xel7 raises 600 to 1100
+linoui folds
+WinnerChirve calls 1100
+nounoursse51 folds
+AngyLaDouce raises 40086 to 41186 and is all-in
+P1xel7 folds
+WinnerChirve folds
+AngyLaDouce collected 43936 from pot
+*** SUMMARY ***
+Total pot 43936 | No rake
+Seat 6: AngyLaDouce (big blind) won 43936
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3114200062419271774-25-1703713278 - Holdem no limit (70/300/600) - 2023/12/27 21:41:18 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (17840)
+Seat 2: linoui (41048)
+Seat 3: WinnerChirve (15537)
+Seat 4: sharp971 (20000)
+Seat 5: nounoursse51 (103492)
+Seat 6: AngyLaDouce (43936)
+*** ANTE/BLINDS ***
+AngyLaDouce posts ante 70
+P1xel7 posts ante 70
+linoui posts ante 70
+WinnerChirve posts ante 70
+sharp971 posts ante 70
+nounoursse51 posts ante 70
+AngyLaDouce posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [Ks 7s]
+*** PRE-FLOP *** 
+linoui calls 600
+WinnerChirve folds
+sharp971 folds
+nounoursse51 folds
+AngyLaDouce calls 300
+P1xel7 checks
+*** FLOP *** [4h Qd As]
+AngyLaDouce checks
+P1xel7 checks
+linoui checks
+*** TURN *** [4h Qd As][9h]
+AngyLaDouce checks
+P1xel7 checks
+linoui checks
+*** RIVER *** [4h Qd As 9h][6d]
+AngyLaDouce checks
+P1xel7 checks
+linoui checks
+*** SHOW DOWN ***
+P1xel7 shows [Ks 7s] (High card : Ace)
+linoui shows [7h 8s] (High card : Ace)
+AngyLaDouce shows [3s 3d] (One pair : 3)
+AngyLaDouce collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [4h Qd As 9h 6d]
+Seat 1: P1xel7 (big blind) showed [Ks 7s] and lost with High card : Ace
+Seat 2: linoui showed [7h 8s] and lost with High card : Ace
+Seat 6: AngyLaDouce (small blind) showed [3s 3d] and won 2220 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3114200062419271774-26-1703713397 - Holdem no limit (70/300/600) - 2023/12/27 21:43:17 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (17170)
+Seat 2: linoui (40378)
+Seat 3: WinnerChirve (15467)
+Seat 4: sharp971 (19930)
+Seat 5: nounoursse51 (103422)
+Seat 6: AngyLaDouce (45486)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+linoui posts ante 70
+WinnerChirve posts ante 70
+sharp971 posts ante 70
+nounoursse51 posts ante 70
+AngyLaDouce posts ante 70
+P1xel7 posts small blind 300
+linoui posts big blind 600
+Dealt to P1xel7 [2d 3h]
+*** PRE-FLOP *** 
+WinnerChirve raises 14797 to 15397 and is all-in
+sharp971 folds
+nounoursse51 folds
+AngyLaDouce calls 15397
+P1xel7 folds
+linoui folds
+*** FLOP *** [6h Kh Td]
+*** TURN *** [6h Kh Td][3c]
+*** RIVER *** [6h Kh Td 3c][Ts]
+*** SHOW DOWN ***
+WinnerChirve shows [8c Qs] (One pair : Tens)
+AngyLaDouce shows [Ac Th] (Trips of Tens)
+AngyLaDouce collected 32114 from pot
+*** SUMMARY ***
+Total pot 32114 | No rake
+Board: [6h Kh Td 3c Ts]
+Seat 3: WinnerChirve showed [8c Qs] and lost with One pair : Tens
+Seat 6: AngyLaDouce (button) showed [Ac Th] and won 32114 with Trips of Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3114200062419271774-27-1703713435 - Holdem no limit (80/350/700) - 2023/12/27 21:43:55 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (16800)
+Seat 2: linoui (39708)
+Seat 4: sharp971 (19860)
+Seat 5: nounoursse51 (103352)
+Seat 6: AngyLaDouce (62133)
+*** ANTE/BLINDS ***
+linoui posts ante 80
+sharp971 posts ante 80
+P1xel7 posts ante 80
+nounoursse51 posts ante 80
+AngyLaDouce posts ante 80
+linoui posts small blind 350
+sharp971 posts big blind 700
+Dealt to P1xel7 [Qs 6d]
+*** PRE-FLOP *** 
+nounoursse51 folds
+AngyLaDouce folds
+P1xel7 folds
+linoui calls 350
+sharp971 checks
+*** FLOP *** [2d Ah Th]
+linoui checks
+sharp971 bets 700
+linoui calls 700
+*** TURN *** [2d Ah Th][2h]
+linoui checks
+sharp971 bets 1120
+linoui calls 1120
+*** RIVER *** [2d Ah Th 2h][3h]
+linoui checks
+sharp971 bets 3536
+linoui folds
+sharp971 collected 8976 from pot
+*** SUMMARY ***
+Total pot 8976 | No rake
+Board: [2d Ah Th 2h 3h]
+Seat 4: sharp971 (big blind) won 8976
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3114200062419271774-28-1703713493 - Holdem no limit (80/350/700) - 2023/12/27 21:44:53 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (16720)
+Seat 2: linoui (37108)
+Seat 3: Younes 31 (20000)
+Seat 4: sharp971 (22700)
+Seat 5: nounoursse51 (103272)
+Seat 6: AngyLaDouce (62053)
+*** ANTE/BLINDS ***
+sharp971 posts ante 80
+nounoursse51 posts ante 80
+P1xel7 posts ante 80
+linoui posts ante 80
+AngyLaDouce posts ante 80
+sharp971 posts small blind 350
+nounoursse51 posts big blind 700
+Dealt to P1xel7 [Qh 5h]
+*** PRE-FLOP *** 
+AngyLaDouce calls 700
+P1xel7 folds
+linoui folds
+sharp971 calls 350
+nounoursse51 raises 102492 to 103192 and is all-in
+AngyLaDouce calls 61273 and is all-in
+sharp971 folds
+*** FLOP *** [6d 8h Jd]
+*** TURN *** [6d 8h Jd][5c]
+*** RIVER *** [6d 8h Jd 5c][8c]
+*** SHOW DOWN ***
+AngyLaDouce shows [Ks Qd] (One pair : 8)
+nounoursse51 shows [Ah Jh] (Two pairs : Jacks and 8)
+nounoursse51 collected 166265 from pot
+*** SUMMARY ***
+Total pot 166265 | No rake
+Board: [6d 8h Jd 5c 8c]
+Seat 5: nounoursse51 (big blind) showed [Ah Jh] and won 166265 with Two pairs : Jacks and 8
+Seat 6: AngyLaDouce showed [Ks Qd] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3114200062419271774-29-1703713524 - Holdem no limit (80/350/700) - 2023/12/27 21:45:24 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (16640)
+Seat 2: linoui (37028)
+Seat 3: Younes 31 (20000)
+Seat 4: sharp971 (21920)
+Seat 5: nounoursse51 (166265)
+*** ANTE/BLINDS ***
+nounoursse51 posts ante 80
+P1xel7 posts ante 80
+linoui posts ante 80
+Younes 31 posts ante 80
+sharp971 posts ante 80
+nounoursse51 posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [4s Ah]
+*** PRE-FLOP *** 
+linoui calls 700
+Younes 31 calls 700
+sharp971 calls 700
+nounoursse51 calls 350
+P1xel7 checks
+*** FLOP *** [4d 2s Jc]
+nounoursse51 checks
+P1xel7 checks
+linoui bets 3900
+Younes 31 folds
+sharp971 folds
+nounoursse51 folds
+P1xel7 folds
+linoui collected 7800 from pot
+*** SUMMARY ***
+Total pot 7800 | No rake
+Board: [4d 2s Jc]
+Seat 2: linoui won 7800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3114200062419271774-30-1703713571 - Holdem no limit (100/400/800) - 2023/12/27 21:46:11 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (15860)
+Seat 2: linoui (40148)
+Seat 3: Younes 31 (19220)
+Seat 4: sharp971 (21140)
+Seat 5: nounoursse51 (165485)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+linoui posts ante 100
+Younes 31 posts ante 100
+sharp971 posts ante 100
+nounoursse51 posts ante 100
+P1xel7 posts small blind 400
+linoui posts big blind 800
+Dealt to P1xel7 [Ks 5c]
+*** PRE-FLOP *** 
+Younes 31 calls 800
+sharp971 raises 3300 to 4100
+nounoursse51 folds
+P1xel7 folds
+linoui calls 3300
+Younes 31 folds
+*** FLOP *** [3h 4c 2c]
+linoui checks
+sharp971 bets 6435
+linoui calls 6435
+*** TURN *** [3h 4c 2c][Ad]
+linoui checks
+sharp971 bets 7969
+linoui raises 7969 to 15938
+sharp971 calls 2536 and is all-in
+*** RIVER *** [3h 4c 2c Ad][Ac]
+*** SHOW DOWN ***
+sharp971 shows [Td Ts] (Two pairs : Aces and Tens)
+linoui shows [6d 5d] (Straight 6 high)
+linoui collected 49213 from pot
+*** SUMMARY ***
+Total pot 49213 | No rake
+Board: [3h 4c 2c Ad Ac]
+Seat 2: linoui (big blind) showed [6d 5d] and won 49213 with Straight 6 high
+Seat 4: sharp971 showed [Td Ts] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3114200062419271774-31-1703713625 - Holdem no limit (100/400/800) - 2023/12/27 21:47:05 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (15360)
+Seat 2: linoui (62788)
+Seat 3: Younes 31 (18320)
+Seat 5: nounoursse51 (165385)
+Seat 6: MonesIBZ (20000)
+*** ANTE/BLINDS ***
+linoui posts ante 100
+Younes 31 posts ante 100
+P1xel7 posts ante 100
+nounoursse51 posts ante 100
+MonesIBZ posts ante 100
+linoui posts small blind 400
+Younes 31 posts big blind 800
+Dealt to P1xel7 [Th 7c]
+*** PRE-FLOP *** 
+nounoursse51 folds
+MonesIBZ calls 800
+P1xel7 folds
+linoui calls 400
+Younes 31 checks
+*** FLOP *** [7s 8c 5h]
+linoui checks
+Younes 31 bets 1015
+MonesIBZ calls 1015
+linoui calls 1015
+*** TURN *** [7s 8c 5h][5d]
+linoui checks
+Younes 31 bets 3864
+MonesIBZ folds
+linoui folds
+Younes 31 collected 9809 from pot
+*** SUMMARY ***
+Total pot 9809 | No rake
+Board: [7s 8c 5h 5d]
+Seat 3: Younes 31 (big blind) won 9809
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3114200062419271774-32-1703713688 - Holdem no limit (100/400/800) - 2023/12/27 21:48:08 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (15260)
+Seat 2: linoui (60873)
+Seat 3: Younes 31 (22350)
+Seat 4: miziomix (20000)
+Seat 5: nounoursse51 (165285)
+Seat 6: MonesIBZ (18085)
+*** ANTE/BLINDS ***
+Younes 31 posts ante 100
+miziomix posts ante 100
+P1xel7 posts ante 100
+linoui posts ante 100
+nounoursse51 posts ante 100
+MonesIBZ posts ante 100
+Younes 31 posts small blind 400
+miziomix posts big blind 800
+Dealt to P1xel7 [Kc Jh]
+*** PRE-FLOP *** 
+nounoursse51 folds
+MonesIBZ folds
+P1xel7 raises 960 to 1760
+linoui folds
+Younes 31 folds
+miziomix folds
+P1xel7 collected 3560 from pot
+*** SUMMARY ***
+Total pot 3560 | No rake
+Seat 1: P1xel7 won 3560
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3114200062419271774-33-1703713731 - Holdem no limit (120/500/1000) - 2023/12/27 21:48:51 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (16960)
+Seat 2: linoui (60773)
+Seat 3: Younes 31 (21850)
+Seat 4: miziomix (19100)
+Seat 5: nounoursse51 (165185)
+Seat 6: MonesIBZ (17985)
+*** ANTE/BLINDS ***
+miziomix posts ante 120
+nounoursse51 posts ante 120
+P1xel7 posts ante 120
+linoui posts ante 120
+Younes 31 posts ante 120
+MonesIBZ posts ante 120
+miziomix posts small blind 500
+nounoursse51 posts big blind 1000
+Dealt to P1xel7 [3s 4c]
+*** PRE-FLOP *** 
+MonesIBZ folds
+P1xel7 folds
+linoui calls 1000
+Younes 31 folds
+miziomix folds
+nounoursse51 checks
+*** FLOP *** [Qc 6s Ks]
+nounoursse51 checks
+linoui bets 1000
+nounoursse51 folds
+linoui collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Board: [Qc 6s Ks]
+Seat 2: linoui won 4220
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3114200062419271774-34-1703713820 - Holdem no limit (120/500/1000) - 2023/12/27 21:50:20 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (16840)
+Seat 2: linoui (62873)
+Seat 3: Younes 31 (21730)
+Seat 4: miziomix (18480)
+Seat 5: nounoursse51 (164065)
+Seat 6: MonesIBZ (17865)
+*** ANTE/BLINDS ***
+nounoursse51 posts ante 120
+MonesIBZ posts ante 120
+P1xel7 posts ante 120
+linoui posts ante 120
+Younes 31 posts ante 120
+miziomix posts ante 120
+nounoursse51 posts small blind 500
+MonesIBZ posts big blind 1000
+Dealt to P1xel7 [3s Ac]
+*** PRE-FLOP *** 
+P1xel7 folds
+linoui folds
+Younes 31 calls 1000
+miziomix folds
+nounoursse51 calls 500
+MonesIBZ raises 2000 to 3000
+Younes 31 calls 2000
+nounoursse51 calls 2000
+*** FLOP *** [2s 4d Qc]
+nounoursse51 checks
+MonesIBZ checks
+Younes 31 bets 18610 and is all-in
+nounoursse51 folds
+MonesIBZ calls 14745 and is all-in
+*** TURN *** [2s 4d Qc][2c]
+*** RIVER *** [2s 4d Qc 2c][8d]
+*** SHOW DOWN ***
+MonesIBZ shows [Ks Ad] (One pair : 2)
+Younes 31 shows [Kc Qs] (Two pairs : Queens and 2)
+Younes 31 collected 43075 from pot
+*** SUMMARY ***
+Total pot 43075 | No rake
+Board: [2s 4d Qc 2c 8d]
+Seat 3: Younes 31 showed [Kc Qs] and won 43075 with Two pairs : Queens and 2
+Seat 6: MonesIBZ (big blind) showed [Ks Ad] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3114200062419271774-35-1703713915 - Holdem no limit (140/600/1200) - 2023/12/27 21:51:55 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (16720)
+Seat 2: linoui (62753)
+Seat 3: Younes 31 (43075)
+Seat 4: miziomix (18360)
+Seat 5: nounoursse51 (160945)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+linoui posts ante 140
+Younes 31 posts ante 140
+miziomix posts ante 140
+nounoursse51 posts ante 140
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [Jc 3h]
+*** PRE-FLOP *** 
+linoui calls 1200
+Younes 31 folds
+miziomix folds
+nounoursse51 folds
+P1xel7 checks
+*** FLOP *** [7c 5s Qc]
+P1xel7 checks
+linoui checks
+*** TURN *** [7c 5s Qc][7s]
+P1xel7 bets 1550
+linoui calls 1550
+*** RIVER *** [7c 5s Qc 7s][9d]
+P1xel7 bets 6200
+linoui folds
+P1xel7 collected 12400 from pot
+*** SUMMARY ***
+Total pot 12400 | No rake
+Board: [7c 5s Qc 7s 9d]
+Seat 1: P1xel7 (big blind) won 12400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3114200062419271774-36-1703713986 - Holdem no limit (140/600/1200) - 2023/12/27 21:53:06 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (20030)
+Seat 2: linoui (59863)
+Seat 3: Younes 31 (42935)
+Seat 4: miziomix (18220)
+Seat 5: nounoursse51 (160805)
+Seat 6: Fightosh (49310)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+linoui posts ante 140
+Younes 31 posts ante 140
+miziomix posts ante 140
+nounoursse51 posts ante 140
+P1xel7 posts small blind 600
+linoui posts big blind 1200
+Dealt to P1xel7 [8d Qs]
+*** PRE-FLOP *** 
+Younes 31 folds
+miziomix folds
+nounoursse51 folds
+P1xel7 folds
+linoui collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Seat 2: linoui (big blind) won 2500
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3114200062419271774-37-1703713999 - Holdem no limit (140/600/1200) - 2023/12/27 21:53:19 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (19290)
+Seat 2: linoui (61023)
+Seat 3: Younes 31 (42795)
+Seat 4: miziomix (18080)
+Seat 5: nounoursse51 (160665)
+Seat 6: Fightosh (49310)
+*** ANTE/BLINDS ***
+linoui posts ante 140
+Younes 31 posts ante 140
+P1xel7 posts ante 140
+miziomix posts ante 140
+nounoursse51 posts ante 140
+Fightosh posts ante 140
+linoui posts small blind 600
+Younes 31 posts big blind 1200
+Dealt to P1xel7 [2h 3d]
+*** PRE-FLOP *** 
+miziomix folds
+nounoursse51 folds
+Fightosh calls 1200
+P1xel7 folds
+linoui calls 600
+Younes 31 checks
+*** FLOP *** [9d 3s Kh]
+linoui checks
+Younes 31 checks
+Fightosh bets 1200
+linoui folds
+Younes 31 folds
+Fightosh collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | No rake
+Board: [9d 3s Kh]
+Seat 6: Fightosh won 5640
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3114200062419271774-38-1703714063 - Holdem no limit (160/700/1400) - 2023/12/27 21:54:23 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (19150)
+Seat 2: linoui (59683)
+Seat 3: Younes 31 (41455)
+Seat 4: miziomix (17940)
+Seat 5: nounoursse51 (160525)
+Seat 6: Fightosh (52410)
+*** ANTE/BLINDS ***
+Younes 31 posts ante 160
+miziomix posts ante 160
+P1xel7 posts ante 160
+linoui posts ante 160
+nounoursse51 posts ante 160
+Fightosh posts ante 160
+Younes 31 posts small blind 700
+miziomix posts big blind 1400
+Dealt to P1xel7 [8h Qd]
+*** PRE-FLOP *** 
+nounoursse51 folds
+Fightosh calls 1400
+P1xel7 folds
+linoui calls 1400
+Younes 31 calls 700
+miziomix checks
+*** FLOP *** [4s 3h 4d]
+Younes 31 checks
+miziomix checks
+Fightosh checks
+linoui checks
+*** TURN *** [4s 3h 4d][6c]
+Younes 31 checks
+miziomix bets 5248
+Fightosh folds
+linoui folds
+Younes 31 folds
+miziomix collected 11808 from pot
+*** SUMMARY ***
+Total pot 11808 | No rake
+Board: [4s 3h 4d 6c]
+Seat 4: miziomix (big blind) won 11808
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3114200062419271774-39-1703714461 - Holdem no limit (160/700/1400) - 2023/12/27 22:01:01 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (18990)
+Seat 2: linoui (58123)
+Seat 3: Younes 31 (39895)
+Seat 4: miziomix (22940)
+Seat 5: nounoursse51 (160365)
+Seat 6: Fightosh (50850)
+*** ANTE/BLINDS ***
+miziomix posts ante 160
+nounoursse51 posts ante 160
+P1xel7 posts ante 160
+linoui posts ante 160
+Younes 31 posts ante 160
+Fightosh posts ante 160
+miziomix posts small blind 700
+nounoursse51 posts big blind 1400
+Dealt to P1xel7 [Tc 5d]
+*** PRE-FLOP *** 
+Fightosh calls 1400
+P1xel7 folds
+linoui calls 1400
+Younes 31 folds
+miziomix raises 21380 to 22780 and is all-in
+nounoursse51 calls 21380
+Fightosh calls 21380
+linoui calls 21380
+*** FLOP *** [5h 3d 2h]
+nounoursse51 bets 137425 and is all-in
+Fightosh folds
+linoui folds
+*** TURN *** [5h 3d 2h][7c]
+*** RIVER *** [5h 3d 2h 7c][Ad]
+*** SHOW DOWN ***
+miziomix shows [As Qd] (One pair : Aces)
+nounoursse51 shows [9d 9c] (One pair : 9)
+nounoursse51 collected 137425 from side pot 1
+miziomix collected 92080 from main pot
+*** SUMMARY ***
+Total pot 229505 | No rake
+Board: [5h 3d 2h 7c Ad]
+Seat 4: miziomix (small blind) showed [As Qd] and won 92080 with One pair : Aces
+Seat 5: nounoursse51 (big blind) showed [9d 9c] and won 137425 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3114200062419271774-40-1703714526 - Holdem no limit (200/800/1600) - 2023/12/27 22:02:06 UTC
+Table: 'Freeroll(725081205)#0093' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (18830)
+Seat 2: linoui (35183)
+Seat 3: Younes 31 (39735)
+Seat 4: miziomix (92080)
+Seat 5: nounoursse51 (137425)
+Seat 6: Fightosh (27910)
+*** ANTE/BLINDS ***
+nounoursse51 posts ante 200
+Fightosh posts ante 200
+P1xel7 posts ante 200
+linoui posts ante 200
+Younes 31 posts ante 200
+miziomix posts ante 200
+nounoursse51 posts small blind 800
+Fightosh posts big blind 1600
+Dealt to P1xel7 [Th Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 17030 to 18630 and is all-in
+linoui calls 18630
+Younes 31 folds
+miziomix folds
+nounoursse51 folds
+Fightosh folds
+*** FLOP *** [Ah Kc 7d]
+*** TURN *** [Ah Kc 7d][7h]
+*** RIVER *** [Ah Kc 7d 7h][9c]
+*** SHOW DOWN ***
+P1xel7 shows [Th Ks] (Two pairs : Kings and 7)
+linoui shows [As 9h] (Two pairs : Aces and 9)
+linoui collected 40860 from pot
+*** SUMMARY ***
+Total pot 40860 | No rake
+Board: [Ah Kc 7d 7h 9c]
+Seat 1: P1xel7 showed [Th Ks] and lost with Two pairs : Kings and 7
+Seat 2: linoui showed [As 9h] and won 40860 with Two pairs : Aces and 9
+
+

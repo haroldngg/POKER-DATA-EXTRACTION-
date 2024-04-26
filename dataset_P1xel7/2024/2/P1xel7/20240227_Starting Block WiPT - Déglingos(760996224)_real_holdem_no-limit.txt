@@ -1,0 +1,629 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268453894459490305-1-1709060678 - Holdem no limit (10/20) - 2024/02/27 19:04:38 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (500)
+Seat 2: KKanit08 (500)
+Seat 3: Poker_Xs3364 (500)
+Seat 4: Negzzz73 (500)
+Seat 5: AJ2730 (500)
+Seat 6: Nedelec Q. (500)
+*** ANTE/BLINDS ***
+Poker_Xs3364 posts small blind 10
+Negzzz73 posts big blind 20
+Dealt to P1xel7 [Tc 3c]
+*** PRE-FLOP *** 
+AJ2730 folds
+Nedelec Q. raises 480 to 500 and is all-in
+P1xel7 folds
+KKanit08 folds
+Poker_Xs3364 calls 490 and is all-in
+Negzzz73 folds
+*** FLOP *** [2s Ts 3d]
+*** TURN *** [2s Ts 3d][6d]
+*** RIVER *** [2s Ts 3d 6d][6s]
+*** SHOW DOWN ***
+Poker_Xs3364 shows [9c 2h] (Two pairs : 6 and 2)
+Nedelec Q. shows [Ah 2d] (Two pairs : 6 and 2)
+Nedelec Q. collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [2s Ts 3d 6d 6s]
+Seat 3: Poker_Xs3364 (small blind) showed [9c 2h] and lost with Two pairs : 6 and 2
+Seat 6: Nedelec Q. showed [Ah 2d] and won 1020 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268453894459490305-2-1709060706 - Holdem no limit (10/20) - 2024/02/27 19:05:06 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (500)
+Seat 2: KKanit08 (500)
+Seat 4: Negzzz73 (480)
+Seat 5: AJ2730 (500)
+Seat 6: Nedelec Q. (1020)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 10
+AJ2730 posts big blind 20
+Dealt to P1xel7 [Qs 4c]
+*** PRE-FLOP *** 
+Nedelec Q. raises 1000 to 1020 and is all-in
+P1xel7 folds
+KKanit08 folds
+Negzzz73 folds
+AJ2730 folds
+Nedelec Q. collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 6: Nedelec Q. won 1050
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268453894459490305-3-1709060717 - Holdem no limit (10/20) - 2024/02/27 19:05:17 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (500)
+Seat 2: KKanit08 (500)
+Seat 4: Negzzz73 (470)
+Seat 5: AJ2730 (480)
+Seat 6: Nedelec Q. (1050)
+*** ANTE/BLINDS ***
+AJ2730 posts small blind 10
+Nedelec Q. posts big blind 20
+Dealt to P1xel7 [2s Qh]
+*** PRE-FLOP *** 
+P1xel7 folds
+KKanit08 folds
+Negzzz73 calls 20
+AJ2730 folds
+Nedelec Q. raises 1030 to 1050 and is all-in
+Negzzz73 calls 450 and is all-in
+*** FLOP *** [Js 8d Ks]
+*** TURN *** [Js 8d Ks][8s]
+*** RIVER *** [Js 8d Ks 8s][6s]
+*** SHOW DOWN ***
+Negzzz73 shows [6c 5c] (Two pairs : 8 and 6)
+Nedelec Q. shows [7d Qd] (One pair : 8)
+Nedelec Q. collected 580 from side pot 1
+Negzzz73 collected 950 from main pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [Js 8d Ks 8s 6s]
+Seat 4: Negzzz73 (button) showed [6c 5c] and won 950 with Two pairs : 8 and 6
+Seat 6: Nedelec Q. (big blind) showed [7d Qd] and won 580 with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268453894459490305-4-1709060740 - Holdem no limit (10/20) - 2024/02/27 19:05:40 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (500)
+Seat 2: KKanit08 (500)
+Seat 4: Negzzz73 (950)
+Seat 5: AJ2730 (470)
+Seat 6: Nedelec Q. (580)
+*** ANTE/BLINDS ***
+Nedelec Q. posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [5d 7s]
+*** PRE-FLOP *** 
+KKanit08 folds
+Negzzz73 raises 50 to 70
+AJ2730 folds
+Nedelec Q. raises 510 to 580 and is all-in
+P1xel7 folds
+Negzzz73 calls 510
+*** FLOP *** [Qh 7h Ac]
+*** TURN *** [Qh 7h Ac][2c]
+*** RIVER *** [Qh 7h Ac 2c][8c]
+*** SHOW DOWN ***
+Nedelec Q. shows [5s Jd] (High card : Ace)
+Negzzz73 shows [Tc Th] (One pair : Tens)
+Negzzz73 collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Board: [Qh 7h Ac 2c 8c]
+Seat 4: Negzzz73 showed [Tc Th] and won 1180 with One pair : Tens
+Seat 6: Nedelec Q. (small blind) showed [5s Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268453894459490305-5-1709060771 - Holdem no limit (15/30) - 2024/02/27 19:06:11 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (480)
+Seat 2: KKanit08 (500)
+Seat 4: Negzzz73 (1550)
+Seat 5: AJ2730 (470)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+KKanit08 posts big blind 30
+Dealt to P1xel7 [4s Js]
+*** PRE-FLOP *** 
+Negzzz73 folds
+AJ2730 folds
+P1xel7 folds
+KKanit08 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: KKanit08 (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268453894459490305-6-1709060780 - Holdem no limit (15/30) - 2024/02/27 19:06:20 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (465)
+Seat 2: KKanit08 (515)
+Seat 4: Negzzz73 (1550)
+Seat 5: AJ2730 (470)
+*** ANTE/BLINDS ***
+KKanit08 posts small blind 15
+Negzzz73 posts big blind 30
+Dealt to P1xel7 [Ah Ac]
+*** PRE-FLOP *** 
+AJ2730 folds
+P1xel7 raises 45 to 75
+KKanit08 folds
+Negzzz73 raises 1475 to 1550 and is all-in
+P1xel7 calls 390 and is all-in
+*** FLOP *** [3c 5h Tc]
+*** TURN *** [3c 5h Tc][6d]
+*** RIVER *** [3c 5h Tc 6d][8h]
+*** SHOW DOWN ***
+P1xel7 shows [Ah Ac] (One pair : Aces)
+Negzzz73 shows [Qs Kc] (High card : King)
+Negzzz73 collected 1085 from side pot 1
+P1xel7 collected 945 from main pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Board: [3c 5h Tc 6d 8h]
+Seat 1: P1xel7 (button) showed [Ah Ac] and won 945 with One pair : Aces
+Seat 4: Negzzz73 (big blind) showed [Qs Kc] and won 1085 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268453894459490305-7-1709060810 - Holdem no limit (15/30) - 2024/02/27 19:06:50 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (945)
+Seat 2: KKanit08 (500)
+Seat 4: Negzzz73 (1085)
+Seat 5: AJ2730 (470)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 15
+AJ2730 posts big blind 30
+Dealt to P1xel7 [4d 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+KKanit08 calls 30
+Negzzz73 raises 90 to 120
+AJ2730 raises 350 to 470 and is all-in
+KKanit08 folds
+Negzzz73 calls 350
+*** FLOP *** [4s Qh 3h]
+*** TURN *** [4s Qh 3h][5c]
+*** RIVER *** [4s Qh 3h 5c][Ks]
+*** SHOW DOWN ***
+AJ2730 shows [2s 2d] (One pair : 2)
+Negzzz73 shows [Kc Kd] (Trips of Kings)
+Negzzz73 collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | No rake
+Board: [4s Qh 3h 5c Ks]
+Seat 4: Negzzz73 (small blind) showed [Kc Kd] and won 970 with Trips of Kings
+Seat 5: AJ2730 (big blind) showed [2s 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268453894459490305-8-1709060844 - Holdem no limit (15/30) - 2024/02/27 19:07:24 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (945)
+Seat 2: KKanit08 (470)
+Seat 4: Negzzz73 (1585)
+*** ANTE/BLINDS ***
+P1xel7 posts big blind 30
+Dealt to P1xel7 [9s Kh]
+*** PRE-FLOP *** 
+KKanit08 calls 30
+Negzzz73 raises 90 to 120
+P1xel7 folds
+KKanit08 calls 90
+*** FLOP *** [3h 6s Ah]
+KKanit08 checks
+Negzzz73 checks
+*** TURN *** [3h 6s Ah][8c]
+KKanit08 checks
+Negzzz73 checks
+*** RIVER *** [3h 6s Ah 8c][Th]
+KKanit08 checks
+Negzzz73 checks
+*** SHOW DOWN ***
+KKanit08 shows [2h 2d] (One pair : 2)
+Negzzz73 shows [Js Jc] (One pair : Jacks)
+Negzzz73 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Board: [3h 6s Ah 8c Th]
+Seat 2: KKanit08 showed [2h 2d] and lost with One pair : 2
+Seat 4: Negzzz73 (button) showed [Js Jc] and won 270 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453894459490305-9-1709060871 - Holdem no limit (20/40) - 2024/02/27 19:07:51 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (915)
+Seat 2: KKanit08 (350)
+Seat 4: Negzzz73 (1735)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+KKanit08 posts big blind 40
+Dealt to P1xel7 [8d Qh]
+*** PRE-FLOP *** 
+Negzzz73 folds
+P1xel7 raises 875 to 915 and is all-in
+KKanit08 calls 310 and is all-in
+*** FLOP *** [8c As 3s]
+*** TURN *** [8c As 3s][Qd]
+*** RIVER *** [8c As 3s Qd][4s]
+*** SHOW DOWN ***
+KKanit08 shows [6s 7c] (High card : Ace)
+P1xel7 shows [8d Qh] (Two pairs : Queens and 8)
+P1xel7 collected 1265 from pot
+*** SUMMARY ***
+Total pot 1265 | No rake
+Board: [8c As 3s Qd 4s]
+Seat 1: P1xel7 (small blind) showed [8d Qh] and won 1265 with Two pairs : Queens and 8
+Seat 2: KKanit08 (big blind) showed [6s 7c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453894459490305-10-1709060898 - Holdem no limit (20/40) - 2024/02/27 19:08:18 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1265)
+Seat 4: Negzzz73 (1735)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [8s Kc]
+*** PRE-FLOP *** 
+Negzzz73 folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: P1xel7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453894459490305-11-1709060903 - Holdem no limit (20/40) - 2024/02/27 19:08:23 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1285)
+Seat 4: Negzzz73 (1715)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Negzzz73 posts big blind 40
+Dealt to P1xel7 [Kc 2c]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 100
+Negzzz73 folds
+P1xel7 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: P1xel7 (small blind) (button) won 140
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453894459490305-12-1709060919 - Holdem no limit (20/40) - 2024/02/27 19:08:39 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1325)
+Seat 4: Negzzz73 (1675)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [8d 6c]
+*** PRE-FLOP *** 
+Negzzz73 raises 80 to 120
+P1xel7 folds
+Negzzz73 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 4: Negzzz73 (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453894459490305-13-1709060924 - Holdem no limit (20/40) - 2024/02/27 19:08:44 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1285)
+Seat 4: Negzzz73 (1715)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Negzzz73 posts big blind 40
+Dealt to P1xel7 [2s 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Negzzz73 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: Negzzz73 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453894459490305-14-1709060929 - Holdem no limit (20/40) - 2024/02/27 19:08:49 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1265)
+Seat 4: Negzzz73 (1735)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Qs Td]
+*** PRE-FLOP *** 
+Negzzz73 folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: P1xel7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453894459490305-15-1709060934 - Holdem no limit (20/40) - 2024/02/27 19:08:54 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1285)
+Seat 4: Negzzz73 (1715)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Negzzz73 posts big blind 40
+Dealt to P1xel7 [Jc 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Negzzz73 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: Negzzz73 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453894459490305-16-1709060939 - Holdem no limit (20/40) - 2024/02/27 19:08:59 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1265)
+Seat 4: Negzzz73 (1735)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [9h 2h]
+*** PRE-FLOP *** 
+Negzzz73 folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: P1xel7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268453894459490305-17-1709060944 - Holdem no limit (20/40) - 2024/02/27 19:09:04 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1285)
+Seat 4: Negzzz73 (1715)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Negzzz73 posts big blind 40
+Dealt to P1xel7 [Ts 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Negzzz73 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: Negzzz73 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-18-1709060960 - Holdem no limit (30/60) - 2024/02/27 19:09:20 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1265)
+Seat 4: Negzzz73 (1735)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [5s Js]
+*** PRE-FLOP *** 
+Negzzz73 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-19-1709060964 - Holdem no limit (30/60) - 2024/02/27 19:09:24 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1295)
+Seat 4: Negzzz73 (1705)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Negzzz73 posts big blind 60
+Dealt to P1xel7 [6h Qh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Negzzz73 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: Negzzz73 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-20-1709060971 - Holdem no limit (30/60) - 2024/02/27 19:09:31 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1265)
+Seat 4: Negzzz73 (1735)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [4d 2h]
+*** PRE-FLOP *** 
+Negzzz73 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-21-1709060975 - Holdem no limit (30/60) - 2024/02/27 19:09:35 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1295)
+Seat 4: Negzzz73 (1705)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Negzzz73 posts big blind 60
+Dealt to P1xel7 [4d Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Negzzz73 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: Negzzz73 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-22-1709060979 - Holdem no limit (30/60) - 2024/02/27 19:09:39 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1265)
+Seat 4: Negzzz73 (1735)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [4h 8d]
+*** PRE-FLOP *** 
+Negzzz73 raises 120 to 180
+P1xel7 folds
+Negzzz73 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 4: Negzzz73 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-23-1709060986 - Holdem no limit (30/60) - 2024/02/27 19:09:46 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1205)
+Seat 4: Negzzz73 (1795)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Negzzz73 posts big blind 60
+Dealt to P1xel7 [Jc 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Negzzz73 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: Negzzz73 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-24-1709060990 - Holdem no limit (30/60) - 2024/02/27 19:09:50 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1175)
+Seat 4: Negzzz73 (1825)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Jh 7s]
+*** PRE-FLOP *** 
+Negzzz73 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-25-1709060995 - Holdem no limit (30/60) - 2024/02/27 19:09:55 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1205)
+Seat 4: Negzzz73 (1795)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Negzzz73 posts big blind 60
+Dealt to P1xel7 [5s 4c]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 120
+Negzzz73 folds
+P1xel7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: P1xel7 (small blind) (button) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-26-1709061013 - Holdem no limit (30/60) - 2024/02/27 19:10:13 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1265)
+Seat 4: Negzzz73 (1735)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [8h Tc]
+*** PRE-FLOP *** 
+Negzzz73 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-27-1709061017 - Holdem no limit (30/60) - 2024/02/27 19:10:17 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1295)
+Seat 4: Negzzz73 (1705)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Negzzz73 posts big blind 60
+Dealt to P1xel7 [5c Qd]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 120
+Negzzz73 calls 60
+*** FLOP *** [Kd Jc 4h]
+Negzzz73 checks
+P1xel7 bets 90
+Negzzz73 folds
+P1xel7 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Kd Jc 4h]
+Seat 1: P1xel7 (small blind) (button) won 330
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3268453894459490305-28-1709061032 - Holdem no limit (30/60) - 2024/02/27 19:10:32 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1415)
+Seat 4: Negzzz73 (1585)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [2h Jc]
+*** PRE-FLOP *** 
+Negzzz73 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3268453894459490305-29-1709061036 - Holdem no limit (40/80) - 2024/02/27 19:10:36 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1445)
+Seat 4: Negzzz73 (1555)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+Negzzz73 posts big blind 80
+Dealt to P1xel7 [Kd Kh]
+*** PRE-FLOP *** 
+P1xel7 raises 80 to 160
+Negzzz73 raises 320 to 480
+P1xel7 raises 965 to 1445 and is all-in
+Negzzz73 calls 965
+*** FLOP *** [2d 5c 8s]
+*** TURN *** [2d 5c 8s][Qh]
+*** RIVER *** [2d 5c 8s Qh][Ks]
+*** SHOW DOWN ***
+Negzzz73 shows [Ah As] (One pair : Aces)
+P1xel7 shows [Kd Kh] (Trips of Kings)
+P1xel7 collected 2890 from pot
+*** SUMMARY ***
+Total pot 2890 | No rake
+Board: [2d 5c 8s Qh Ks]
+Seat 1: P1xel7 (small blind) (button) showed [Kd Kh] and won 2890 with Trips of Kings
+Seat 4: Negzzz73 (big blind) showed [Ah As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3268453894459490305-30-1709061051 - Holdem no limit (40/80) - 2024/02/27 19:10:51 UTC
+Table: 'Starting Block WiPT - Déglingos(760996224)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (2890)
+Seat 4: Negzzz73 (110)
+*** ANTE/BLINDS ***
+Negzzz73 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Tc Jc]
+*** PRE-FLOP *** 
+Negzzz73 raises 30 to 110 and is all-in
+P1xel7 calls 30
+*** FLOP *** [3d Qh 4h]
+*** TURN *** [3d Qh 4h][4d]
+*** RIVER *** [3d Qh 4h 4d][5c]
+*** SHOW DOWN ***
+Negzzz73 shows [9s 8h] (One pair : 4)
+P1xel7 shows [Tc Jc] (One pair : 4)
+P1xel7 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [3d Qh 4h 4d 5c]
+Seat 1: P1xel7 (big blind) showed [Tc Jc] and won 220 with One pair : 4
+Seat 4: Negzzz73 (small blind) (button) showed [9s 8h] and lost with One pair : 4
+
+

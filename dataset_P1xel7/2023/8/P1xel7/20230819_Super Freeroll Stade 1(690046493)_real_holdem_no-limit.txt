@@ -1,0 +1,518 @@
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 1 - HandId: #2963727120154492929-1-1692460907 - Holdem no limit (10/20) - 2023/08/19 16:01:47 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Chewb AKKAA (1500)
+Seat 2: Valtos (1500)
+Seat 3: Saumon pale6 (1500)
+Seat 4: P1xel7 (1500)
+Seat 5: Elzona5 (1500)
+Seat 6: ILHANEMRE (1500)
+*** ANTE/BLINDS ***
+Valtos posts small blind 10
+Saumon pale6 posts big blind 20
+Dealt to P1xel7 [7h Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Elzona5 raises 50 to 70
+ILHANEMRE folds
+Chewb AKKAA folds
+Valtos calls 60
+Saumon pale6 calls 50
+*** FLOP *** [6s Ah 2d]
+Valtos checks
+Saumon pale6 bets 137
+Elzona5 calls 137
+Valtos folds
+*** TURN *** [6s Ah 2d][8c]
+Saumon pale6 bets 315
+Elzona5 folds
+Saumon pale6 collected 799 from pot
+*** SUMMARY ***
+Total pot 799 | No rake
+Board: [6s Ah 2d 8c]
+Seat 3: Saumon pale6 (big blind) won 799
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 1 - HandId: #2963727120154492929-2-1692460946 - Holdem no limit (10/20) - 2023/08/19 16:02:26 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Chewb AKKAA (1500)
+Seat 2: Valtos (1430)
+Seat 3: Saumon pale6 (1777)
+Seat 4: P1xel7 (1500)
+Seat 5: Elzona5 (1293)
+Seat 6: ILHANEMRE (1500)
+*** ANTE/BLINDS ***
+Saumon pale6 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [9h 2d]
+*** PRE-FLOP *** 
+Elzona5 calls 20
+ILHANEMRE folds
+Chewb AKKAA calls 20
+Valtos folds
+Saumon pale6 calls 10
+P1xel7 checks
+*** FLOP *** [9d Qh 5s]
+Saumon pale6 checks
+P1xel7 checks
+Elzona5 bets 52
+Chewb AKKAA folds
+Saumon pale6 folds
+P1xel7 calls 52
+*** TURN *** [9d Qh 5s][Kc]
+P1xel7 checks
+Elzona5 bets 120
+P1xel7 folds
+Elzona5 collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Board: [9d Qh 5s Kc]
+Seat 5: Elzona5 won 304
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 1 - HandId: #2963727120154492929-3-1692460983 - Holdem no limit (10/20) - 2023/08/19 16:03:03 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Chewb AKKAA (1480)
+Seat 2: Valtos (1430)
+Seat 3: Saumon pale6 (1757)
+Seat 4: P1xel7 (1428)
+Seat 5: Elzona5 (1405)
+Seat 6: ILHANEMRE (1500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Elzona5 posts big blind 20
+Dealt to P1xel7 [Th 2d]
+*** PRE-FLOP *** 
+ILHANEMRE raises 40 to 60
+Chewb AKKAA calls 60
+Valtos folds
+Saumon pale6 folds
+P1xel7 folds
+Elzona5 folds
+*** FLOP *** [3s 3c 4d]
+ILHANEMRE checks
+Chewb AKKAA bets 1420 and is all-in
+ILHANEMRE folds
+Chewb AKKAA collected 1570 from pot
+*** SUMMARY ***
+Total pot 1570 | No rake
+Board: [3s 3c 4d]
+Seat 1: Chewb AKKAA won 1570
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 1 - HandId: #2963727120154492929-4-1692461015 - Holdem no limit (10/20) - 2023/08/19 16:03:35 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Chewb AKKAA (1570)
+Seat 2: Valtos (1430)
+Seat 3: Saumon pale6 (1757)
+Seat 4: P1xel7 (1418)
+Seat 5: Elzona5 (1385)
+Seat 6: ILHANEMRE (1440)
+*** ANTE/BLINDS ***
+Elzona5 posts small blind 10
+ILHANEMRE posts big blind 20
+Dealt to P1xel7 [2c 2h]
+*** PRE-FLOP *** 
+Chewb AKKAA calls 20
+Valtos calls 20
+Saumon pale6 folds
+P1xel7 raises 80 to 100
+Elzona5 folds
+ILHANEMRE folds
+Chewb AKKAA calls 80
+Valtos calls 80
+*** FLOP *** [2d Kd Ac]
+Chewb AKKAA bets 330
+Valtos calls 330
+P1xel7 calls 330
+*** TURN *** [2d Kd Ac][5h]
+Chewb AKKAA bets 858
+Valtos raises 142 to 1000 and is all-in
+P1xel7 calls 988 and is all-in
+Chewb AKKAA calls 142
+*** RIVER *** [2d Kd Ac 5h][Ts]
+*** SHOW DOWN ***
+Chewb AKKAA shows [As 7h] (One pair : Aces)
+Valtos shows [Ad Jd] (One pair : Aces)
+P1xel7 shows [2c 2h] (Trips of 2)
+P1xel7 collected 4284 from main pot
+Valtos collected 24 from side pot 1
+*** SUMMARY ***
+Total pot 4308 | No rake
+Board: [2d Kd Ac 5h Ts]
+Seat 1: Chewb AKKAA showed [As 7h] and lost with One pair : Aces
+Seat 2: Valtos showed [Ad Jd] and won 24 with One pair : Aces
+Seat 4: P1xel7 (button) showed [2c 2h] and won 4284 with Trips of 2
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 2 - HandId: #2963727120154492929-5-1692461091 - Holdem no limit (15/30) - 2023/08/19 16:04:51 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Chewb AKKAA (140)
+Seat 2: Valtos (24)
+Seat 3: Saumon pale6 (1757)
+Seat 4: P1xel7 (4284)
+Seat 5: Elzona5 (1375)
+Seat 6: ILHANEMRE (1420)
+*** ANTE/BLINDS ***
+ILHANEMRE posts small blind 15
+Chewb AKKAA posts big blind 30
+Dealt to P1xel7 [Ts 6h]
+*** PRE-FLOP *** 
+Valtos calls 24 and is all-in
+Saumon pale6 folds
+P1xel7 folds
+Elzona5 folds
+ILHANEMRE raises 60 to 90
+Chewb AKKAA folds
+*** FLOP *** [7h Tc Ah]
+*** TURN *** [7h Tc Ah][5s]
+*** RIVER *** [7h Tc Ah 5s][5d]
+*** SHOW DOWN ***
+Valtos shows [6c 9c] (One pair : 5)
+ILHANEMRE shows [8s As] (Two pairs : Aces and 5)
+ILHANEMRE collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | No rake
+Board: [7h Tc Ah 5s 5d]
+Seat 2: Valtos showed [6c 9c] and lost with One pair : 5
+Seat 6: ILHANEMRE (small blind) showed [8s As] and won 144 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 2 - HandId: #2963727120154492929-6-1692461108 - Holdem no limit (15/30) - 2023/08/19 16:05:08 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Chewb AKKAA (110)
+Seat 3: Saumon pale6 (1757)
+Seat 4: P1xel7 (4284)
+Seat 5: Elzona5 (1375)
+Seat 6: ILHANEMRE (1474)
+*** ANTE/BLINDS ***
+Chewb AKKAA posts small blind 15
+Saumon pale6 posts big blind 30
+Dealt to P1xel7 [Ad 2h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Elzona5 folds
+ILHANEMRE raises 1444 to 1474 and is all-in
+Chewb AKKAA calls 95 and is all-in
+Saumon pale6 folds
+*** FLOP *** [9d 2c Th]
+*** TURN *** [9d 2c Th][Qd]
+*** RIVER *** [9d 2c Th Qd][7h]
+*** SHOW DOWN ***
+Chewb AKKAA shows [Td 8d] (One pair : Tens)
+ILHANEMRE shows [6s Ah] (High card : Ace)
+ILHANEMRE collected 1364 from side pot 1
+Chewb AKKAA collected 250 from main pot
+*** SUMMARY ***
+Total pot 1614 | No rake
+Board: [9d 2c Th Qd 7h]
+Seat 1: Chewb AKKAA (small blind) showed [Td 8d] and won 250 with One pair : Tens
+Seat 6: ILHANEMRE (button) showed [6s Ah] and won 1364 with High card : Ace
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 2 - HandId: #2963727120154492929-7-1692461132 - Holdem no limit (15/30) - 2023/08/19 16:05:32 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Chewb AKKAA (250)
+Seat 3: Saumon pale6 (1727)
+Seat 4: P1xel7 (4284)
+Seat 5: Elzona5 (1375)
+Seat 6: ILHANEMRE (1364)
+*** ANTE/BLINDS ***
+Saumon pale6 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [As 8s]
+*** PRE-FLOP *** 
+Elzona5 calls 30
+ILHANEMRE folds
+Chewb AKKAA folds
+Saumon pale6 calls 15
+P1xel7 raises 90 to 120
+Elzona5 calls 90
+Saumon pale6 calls 90
+*** FLOP *** [2c Js 7d]
+Saumon pale6 checks
+P1xel7 bets 120
+Elzona5 calls 120
+Saumon pale6 calls 120
+*** TURN *** [2c Js 7d][2s]
+Saumon pale6 checks
+P1xel7 checks
+Elzona5 bets 720
+Saumon pale6 calls 720
+P1xel7 calls 720
+*** RIVER *** [2c Js 7d 2s][3s]
+Saumon pale6 checks
+P1xel7 bets 780
+Elzona5 calls 415 and is all-in
+Saumon pale6 calls 767 and is all-in
+*** SHOW DOWN ***
+Saumon pale6 shows [Ac 7h] (Two pairs : 7 and 2)
+Elzona5 shows [Ts 9s] (Flush Jack high)
+P1xel7 shows [As 8s] (Flush Ace high)
+P1xel7 collected 4842 from pot
+*** SUMMARY ***
+Total pot 4842 | No rake
+Board: [2c Js 7d 2s 3s]
+Seat 3: Saumon pale6 (small blind) showed [Ac 7h] and lost with Two pairs : 7 and 2
+Seat 4: P1xel7 (big blind) showed [As 8s] and won 4842 with Flush Ace high
+Seat 5: Elzona5 showed [Ts 9s] and lost with Flush Jack high
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 2 - HandId: #2963727120154492929-8-1692461204 - Holdem no limit (15/30) - 2023/08/19 16:06:44 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Chewb AKKAA (250)
+Seat 4: P1xel7 (7386)
+Seat 6: ILHANEMRE (1364)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+ILHANEMRE posts big blind 30
+Dealt to P1xel7 [Ac 8s]
+*** PRE-FLOP *** 
+Chewb AKKAA calls 30
+P1xel7 raises 240 to 270
+ILHANEMRE raises 570 to 840
+Chewb AKKAA calls 220 and is all-in
+P1xel7 folds
+*** FLOP *** [Js Qd 5c]
+*** TURN *** [Js Qd 5c][3s]
+*** RIVER *** [Js Qd 5c 3s][3d]
+*** SHOW DOWN ***
+Chewb AKKAA shows [As Kd] (One pair : 3)
+ILHANEMRE shows [Qh Ks] (Two pairs : Queens and 3)
+ILHANEMRE collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Board: [Js Qd 5c 3s 3d]
+Seat 1: Chewb AKKAA showed [As Kd] and lost with One pair : 3
+Seat 6: ILHANEMRE (big blind) showed [Qh Ks] and won 1360 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 2 - HandId: #2963727120154492929-9-1692461235 - Holdem no limit (15/30) - 2023/08/19 16:07:15 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #6 is the button
+Seat 4: P1xel7 (7116)
+Seat 6: ILHANEMRE (1884)
+*** ANTE/BLINDS ***
+ILHANEMRE posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Kh 7s]
+*** PRE-FLOP *** 
+ILHANEMRE folds
+P1xel7 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 4: P1xel7 (big blind) won 45
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 2 - HandId: #2963727120154492929-10-1692461241 - Holdem no limit (15/30) - 2023/08/19 16:07:21 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #4 is the button
+Seat 4: P1xel7 (7131)
+Seat 6: ILHANEMRE (1869)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+ILHANEMRE posts big blind 30
+Dealt to P1xel7 [Th 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+ILHANEMRE collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 6: ILHANEMRE (big blind) won 45
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 2 - HandId: #2963727120154492929-11-1692461245 - Holdem no limit (15/30) - 2023/08/19 16:07:25 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #6 is the button
+Seat 4: P1xel7 (7116)
+Seat 6: ILHANEMRE (1884)
+*** ANTE/BLINDS ***
+ILHANEMRE posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [2c 6d]
+*** PRE-FLOP *** 
+ILHANEMRE calls 15
+P1xel7 checks
+*** FLOP *** [Tc Kh 8c]
+P1xel7 checks
+ILHANEMRE checks
+*** TURN *** [Tc Kh 8c][9d]
+P1xel7 checks
+ILHANEMRE checks
+*** RIVER *** [Tc Kh 8c 9d][4s]
+P1xel7 checks
+ILHANEMRE checks
+*** SHOW DOWN ***
+P1xel7 shows [2c 6d] (High card : King)
+ILHANEMRE shows [6h 4c] (One pair : 4)
+ILHANEMRE collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Tc Kh 8c 9d 4s]
+Seat 4: P1xel7 (big blind) showed [2c 6d] and lost with High card : King
+Seat 6: ILHANEMRE (small blind) (button) showed [6h 4c] and won 60 with One pair : 4
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 3 - HandId: #2963727120154492929-12-1692461293 - Holdem no limit (20/40) - 2023/08/19 16:08:13 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #4 is the button
+Seat 4: P1xel7 (7086)
+Seat 6: ILHANEMRE (1914)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+ILHANEMRE posts big blind 40
+Dealt to P1xel7 [Qs 7c]
+*** PRE-FLOP *** 
+P1xel7 raises 80 to 120
+ILHANEMRE calls 80
+*** FLOP *** [5h 2d Qc]
+ILHANEMRE bets 40
+P1xel7 calls 40
+*** TURN *** [5h 2d Qc][2h]
+ILHANEMRE bets 40
+P1xel7 calls 40
+*** RIVER *** [5h 2d Qc 2h][5c]
+ILHANEMRE checks
+P1xel7 bets 400
+ILHANEMRE calls 400
+*** SHOW DOWN ***
+ILHANEMRE shows [3c 3s] (Two pairs : 5 and 3)
+P1xel7 shows [Qs 7c] (Two pairs : Queens and 5)
+P1xel7 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [5h 2d Qc 2h 5c]
+Seat 4: P1xel7 (small blind) (button) showed [Qs 7c] and won 1200 with Two pairs : Queens and 5
+Seat 6: ILHANEMRE (big blind) showed [3c 3s] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 3 - HandId: #2963727120154492929-13-1692461327 - Holdem no limit (20/40) - 2023/08/19 16:08:47 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #6 is the button
+Seat 4: P1xel7 (7686)
+Seat 6: ILHANEMRE (1314)
+*** ANTE/BLINDS ***
+ILHANEMRE posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Ah 7s]
+*** PRE-FLOP *** 
+ILHANEMRE calls 20
+P1xel7 raises 160 to 200
+ILHANEMRE calls 160
+*** FLOP *** [5h Ad 2d]
+P1xel7 bets 260
+ILHANEMRE calls 260
+*** TURN *** [5h Ad 2d][Td]
+P1xel7 bets 460
+ILHANEMRE folds
+P1xel7 collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | No rake
+Board: [5h Ad 2d Td]
+Seat 4: P1xel7 (big blind) won 1380
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 3 - HandId: #2963727120154492929-14-1692461410 - Holdem no limit (20/40) - 2023/08/19 16:10:10 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #4 is the button
+Seat 4: P1xel7 (8146)
+Seat 6: ILHANEMRE (854)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+ILHANEMRE posts big blind 40
+Dealt to P1xel7 [3d 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+ILHANEMRE collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: ILHANEMRE (big blind) won 60
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 3 - HandId: #2963727120154492929-15-1692461414 - Holdem no limit (20/40) - 2023/08/19 16:10:14 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #6 is the button
+Seat 4: P1xel7 (8126)
+Seat 6: ILHANEMRE (874)
+*** ANTE/BLINDS ***
+ILHANEMRE posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [6d 7h]
+*** PRE-FLOP *** 
+ILHANEMRE calls 20
+P1xel7 checks
+*** FLOP *** [Ac Qc 6h]
+P1xel7 checks
+ILHANEMRE checks
+*** TURN *** [Ac Qc 6h][Td]
+P1xel7 bets 64
+ILHANEMRE folds
+P1xel7 collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | No rake
+Board: [Ac Qc 6h Td]
+Seat 4: P1xel7 (big blind) won 144
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 3 - HandId: #2963727120154492929-16-1692461431 - Holdem no limit (20/40) - 2023/08/19 16:10:31 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #4 is the button
+Seat 4: P1xel7 (8166)
+Seat 6: ILHANEMRE (834)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+ILHANEMRE posts big blind 40
+Dealt to P1xel7 [6d Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+ILHANEMRE collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: ILHANEMRE (big blind) won 60
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 3 - HandId: #2963727120154492929-17-1692461436 - Holdem no limit (20/40) - 2023/08/19 16:10:36 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #6 is the button
+Seat 4: P1xel7 (8146)
+Seat 6: ILHANEMRE (854)
+*** ANTE/BLINDS ***
+ILHANEMRE posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [6d 9h]
+*** PRE-FLOP *** 
+ILHANEMRE calls 20
+P1xel7 checks
+*** FLOP *** [2d Ks 6s]
+P1xel7 checks
+ILHANEMRE checks
+*** TURN *** [2d Ks 6s][7c]
+P1xel7 bets 40
+ILHANEMRE calls 40
+*** RIVER *** [2d Ks 6s 7c][3c]
+P1xel7 bets 40
+ILHANEMRE folds
+P1xel7 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [2d Ks 6s 7c 3c]
+Seat 4: P1xel7 (big blind) won 200
+
+
+Winamax Poker - Tournament "Super Freeroll Stade 1" buyIn: 0€ + 0€ level: 4 - HandId: #2963727120154492929-18-1692461507 - Holdem no limit (30/60) - 2023/08/19 16:11:47 UTC
+Table: 'Super Freeroll Stade 1(690046493)#0' 6-max (real money) Seat #4 is the button
+Seat 4: P1xel7 (8226)
+Seat 6: ILHANEMRE (774)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+ILHANEMRE posts big blind 60
+Dealt to P1xel7 [Ad Kd]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 180
+ILHANEMRE raises 360 to 540
+P1xel7 raises 7686 to 8226 and is all-in
+ILHANEMRE calls 234 and is all-in
+*** FLOP *** [9h 8s 3h]
+*** TURN *** [9h 8s 3h][Kc]
+*** RIVER *** [9h 8s 3h Kc][Jd]
+*** SHOW DOWN ***
+ILHANEMRE shows [Td As] (High card : Ace)
+P1xel7 shows [Ad Kd] (One pair : Kings)
+P1xel7 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Board: [9h 8s 3h Kc Jd]
+Seat 4: P1xel7 (small blind) (button) showed [Ad Kd] and won 9000 with One pair : Kings
+Seat 6: ILHANEMRE (big blind) showed [Td As] and lost with High card : Ace
+
+

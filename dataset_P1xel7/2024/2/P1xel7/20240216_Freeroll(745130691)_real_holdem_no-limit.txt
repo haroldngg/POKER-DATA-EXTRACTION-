@@ -1,0 +1,1452 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-1-1708111132 - Holdem no limit (25/100/200) - 2024/02/16 19:18:52 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #1 is the button
+Seat 1: ALCrey (20000)
+Seat 2: faph666 (20000)
+Seat 3: P1xel7 (20000)
+Seat 4: Brice40230 (19975)
+Seat 5: Ant06 (19975)
+Seat 6: Rozekmi69 (19975)
+Seat 7: bouf la touf (20000)
+Seat 8: florian79220 (20000)
+*** ANTE/BLINDS ***
+faph666 posts ante 25
+P1xel7 posts ante 25
+ALCrey posts ante 25
+faph666 posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [4h Qd]
+*** PRE-FLOP *** 
+ALCrey raises 575 to 775
+faph666 raises 1825 to 2600
+P1xel7 folds
+ALCrey raises 5200 to 7800
+faph666 calls 5200
+*** FLOP *** [6c Ts Jd]
+faph666 checks
+ALCrey bets 10319
+faph666 raises 1856 to 12175 and is all-in
+ALCrey calls 1856 and is all-in
+*** TURN *** [6c Ts Jd][Qs]
+*** RIVER *** [6c Ts Jd Qs][Ah]
+*** SHOW DOWN ***
+faph666 shows [Tc 4c] (One pair : Tens)
+ALCrey shows [Ks Kd] (Straight Ace high)
+ALCrey collected 40225 from pot
+*** SUMMARY ***
+Total pot 40225 | No rake
+Board: [6c Ts Jd Qs Ah]
+Seat 1: ALCrey (button) showed [Ks Kd] and won 40225 with Straight Ace high
+Seat 2: faph666 (small blind) showed [Tc 4c] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-2-1708111175 - Holdem no limit (25/100/200) - 2024/02/16 19:19:35 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #2 is the button
+Seat 1: ALCrey (40225)
+Seat 3: P1xel7 (19775)
+Seat 4: Brice40230 (19975)
+Seat 5: Ant06 (19975)
+Seat 6: Rozekmi69 (19975)
+Seat 7: bouf la touf (20000)
+Seat 8: florian79220 (20000)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+Brice40230 posts ante 25
+ALCrey posts ante 25
+Ant06 posts ante 25
+Rozekmi69 posts ante 25
+bouf la touf posts ante 25
+florian79220 posts ante 25
+P1xel7 posts small blind 100
+Brice40230 posts big blind 200
+Dealt to P1xel7 [Qd Kh]
+*** PRE-FLOP *** 
+Ant06 calls 200
+Rozekmi69 folds
+bouf la touf folds
+florian79220 raises 200 to 400
+ALCrey calls 400
+P1xel7 calls 300
+Brice40230 calls 200
+Ant06 calls 200
+*** FLOP *** [6d 5h 8d]
+P1xel7 checks
+Brice40230 checks
+Ant06 bets 19550 and is all-in
+florian79220 calls 19550
+ALCrey folds
+P1xel7 folds
+Brice40230 folds
+*** TURN *** [6d 5h 8d][2s]
+*** RIVER *** [6d 5h 8d 2s][3h]
+*** SHOW DOWN ***
+Ant06 shows [7d 2d] (One pair : 2)
+florian79220 shows [Ad As] (One pair : Aces)
+florian79220 collected 41275 from pot
+*** SUMMARY ***
+Total pot 41275 | No rake
+Board: [6d 5h 8d 2s 3h]
+Seat 5: Ant06 showed [7d 2d] and lost with One pair : 2
+Seat 8: florian79220 showed [Ad As] and won 41275 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-3-1708111230 - Holdem no limit (25/100/200) - 2024/02/16 19:20:30 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #3 is the button
+Seat 1: ALCrey (39800)
+Seat 2: mamyadoune (20000)
+Seat 3: P1xel7 (19350)
+Seat 4: Brice40230 (19550)
+Seat 6: Rozekmi69 (19950)
+Seat 7: bouf la touf (19975)
+Seat 8: florian79220 (41300)
+*** ANTE/BLINDS ***
+Brice40230 posts ante 25
+Rozekmi69 posts ante 25
+ALCrey posts ante 25
+mamyadoune posts ante 25
+P1xel7 posts ante 25
+bouf la touf posts ante 25
+florian79220 posts ante 25
+Brice40230 posts small blind 100
+Rozekmi69 posts big blind 200
+Dealt to P1xel7 [Qd As]
+*** PRE-FLOP *** 
+bouf la touf folds
+florian79220 folds
+ALCrey raises 200 to 400
+mamyadoune folds
+P1xel7 raises 18925 to 19325 and is all-in
+Brice40230 folds
+Rozekmi69 folds
+ALCrey folds
+P1xel7 collected 20200 from pot
+*** SUMMARY ***
+Total pot 20200 | No rake
+Seat 3: P1xel7 (button) won 20200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-4-1708111265 - Holdem no limit (25/100/200) - 2024/02/16 19:21:05 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #4 is the button
+Seat 1: ALCrey (39375)
+Seat 2: mamyadoune (19975)
+Seat 3: P1xel7 (20200)
+Seat 4: Brice40230 (19425)
+Seat 5: paymi66 (20000)
+Seat 6: Rozekmi69 (19725)
+Seat 8: florian79220 (41275)
+*** ANTE/BLINDS ***
+Rozekmi69 posts ante 25
+florian79220 posts ante 25
+ALCrey posts ante 25
+mamyadoune posts ante 25
+P1xel7 posts ante 25
+Brice40230 posts ante 25
+Rozekmi69 posts small blind 100
+florian79220 posts big blind 200
+Dealt to P1xel7 [6c 8d]
+*** PRE-FLOP *** 
+ALCrey folds
+mamyadoune raises 200 to 400
+P1xel7 folds
+Brice40230 calls 400
+Rozekmi69 folds
+florian79220 raises 600 to 1000
+mamyadoune calls 600
+Brice40230 calls 600
+*** FLOP *** [2d 6s 6h]
+florian79220 bets 1000
+mamyadoune raises 17950 to 18950 and is all-in
+Brice40230 folds
+florian79220 calls 17950
+*** TURN *** [2d 6s 6h][Jc]
+*** RIVER *** [2d 6s 6h Jc][Kd]
+*** SHOW DOWN ***
+florian79220 shows [Ah 9h] (One pair : 6)
+mamyadoune shows [4d 4s] (Two pairs : 6 and 4)
+mamyadoune collected 41150 from pot
+*** SUMMARY ***
+Total pot 41150 | No rake
+Board: [2d 6s 6h Jc Kd]
+Seat 2: mamyadoune showed [4d 4s] and won 41150 with Two pairs : 6 and 4
+Seat 8: florian79220 (big blind) showed [Ah 9h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-5-1708111316 - Holdem no limit (25/100/200) - 2024/02/16 19:21:56 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #6 is the button
+Seat 1: ALCrey (39350)
+Seat 2: mamyadoune (41150)
+Seat 3: P1xel7 (20175)
+Seat 4: Brice40230 (18400)
+Seat 5: paymi66 (20000)
+Seat 6: Rozekmi69 (19600)
+Seat 7: barbAArians (20000)
+Seat 8: florian79220 (21300)
+*** ANTE/BLINDS ***
+florian79220 posts ante 25
+ALCrey posts ante 25
+mamyadoune posts ante 25
+P1xel7 posts ante 25
+Brice40230 posts ante 25
+paymi66 posts ante 25
+Rozekmi69 posts ante 25
+florian79220 posts small blind 100
+ALCrey posts big blind 200
+Dealt to P1xel7 [Th Td]
+*** PRE-FLOP *** 
+mamyadoune calls 200
+P1xel7 raises 600 to 800
+Brice40230 folds
+paymi66 calls 800
+Rozekmi69 folds
+florian79220 folds
+ALCrey folds
+mamyadoune calls 600
+*** FLOP *** [Js 4h 4c]
+mamyadoune bets 1006
+P1xel7 calls 1006
+paymi66 calls 1006
+*** TURN *** [Js 4h 4c][Qd]
+mamyadoune checks
+P1xel7 checks
+paymi66 checks
+*** RIVER *** [Js 4h 4c Qd][2c]
+mamyadoune checks
+P1xel7 bets 2063
+paymi66 raises 5790 to 7853
+mamyadoune folds
+P1xel7 folds
+paymi66 collected 15809 from pot
+*** SUMMARY ***
+Total pot 15809 | No rake
+Board: [Js 4h 4c Qd 2c]
+Seat 5: paymi66 won 15809
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-6-1708111396 - Holdem no limit (25/100/200) - 2024/02/16 19:23:16 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #8 is the button
+Seat 1: ALCrey (39125)
+Seat 2: mamyadoune (39319)
+Seat 3: P1xel7 (16281)
+Seat 4: Brice40230 (18375)
+Seat 5: paymi66 (26125)
+Seat 6: Rozekmi69 (19575)
+Seat 7: barbAArians (20000)
+Seat 8: florian79220 (21175)
+*** ANTE/BLINDS ***
+ALCrey posts ante 25
+mamyadoune posts ante 25
+P1xel7 posts ante 25
+Brice40230 posts ante 25
+paymi66 posts ante 25
+Rozekmi69 posts ante 25
+barbAArians posts ante 25
+florian79220 posts ante 25
+ALCrey posts small blind 100
+mamyadoune posts big blind 200
+Dealt to P1xel7 [3d 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Brice40230 folds
+paymi66 raises 700 to 900
+Rozekmi69 folds
+barbAArians folds
+florian79220 folds
+ALCrey folds
+mamyadoune raises 38394 to 39294 and is all-in
+paymi66 calls 25200 and is all-in
+*** FLOP *** [Jc 3s 7s]
+*** TURN *** [Jc 3s 7s][7h]
+*** RIVER *** [Jc 3s 7s 7h][Ts]
+*** SHOW DOWN ***
+paymi66 shows [Qc As] (One pair : 7)
+mamyadoune shows [Ad Kd] (One pair : 7)
+mamyadoune collected 65694 from pot
+*** SUMMARY ***
+Total pot 65694 | No rake
+Board: [Jc 3s 7s 7h Ts]
+Seat 2: mamyadoune (big blind) showed [Ad Kd] and won 65694 with One pair : 7
+Seat 5: paymi66 showed [Qc As] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-7-1708111443 - Holdem no limit (25/100/200) - 2024/02/16 19:24:03 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #1 is the button
+Seat 1: ALCrey (39000)
+Seat 2: mamyadoune (65694)
+Seat 3: P1xel7 (16256)
+Seat 4: Brice40230 (18350)
+Seat 6: Rozekmi69 (19550)
+Seat 7: barbAArians (19975)
+Seat 8: florian79220 (21150)
+*** ANTE/BLINDS ***
+mamyadoune posts ante 25
+P1xel7 posts ante 25
+ALCrey posts ante 25
+Brice40230 posts ante 25
+Rozekmi69 posts ante 25
+barbAArians posts ante 25
+florian79220 posts ante 25
+mamyadoune posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Th 8h]
+*** PRE-FLOP *** 
+Brice40230 folds
+Rozekmi69 raises 19325 to 19525 and is all-in
+barbAArians folds
+florian79220 calls 19525
+ALCrey folds
+mamyadoune folds
+P1xel7 folds
+*** FLOP *** [Jd 5d 2c]
+*** TURN *** [Jd 5d 2c][Jc]
+*** RIVER *** [Jd 5d 2c Jc][Ad]
+*** SHOW DOWN ***
+Rozekmi69 shows [9h Jh] (Trips of Jacks)
+florian79220 shows [Kd Td] (Flush Ace high)
+florian79220 collected 39525 from pot
+*** SUMMARY ***
+Total pot 39525 | No rake
+Board: [Jd 5d 2c Jc Ad]
+Seat 6: Rozekmi69 showed [9h Jh] and lost with Trips of Jacks
+Seat 8: florian79220 showed [Kd Td] and won 39525 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-8-1708111478 - Holdem no limit (25/100/200) - 2024/02/16 19:24:38 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #2 is the button
+Seat 1: ALCrey (38975)
+Seat 2: mamyadoune (65569)
+Seat 3: P1xel7 (16031)
+Seat 4: Brice40230 (18325)
+Seat 5: winaFab17 (20000)
+Seat 7: barbAArians (19950)
+Seat 8: florian79220 (41125)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+Brice40230 posts ante 25
+ALCrey posts ante 25
+mamyadoune posts ante 25
+winaFab17 posts ante 25
+barbAArians posts ante 25
+florian79220 posts ante 25
+P1xel7 posts small blind 100
+Brice40230 posts big blind 200
+Dealt to P1xel7 [7s 8h]
+*** PRE-FLOP *** 
+winaFab17 raises 19775 to 19975 and is all-in
+barbAArians calls 19925 and is all-in
+florian79220 calls 19975
+ALCrey folds
+mamyadoune folds
+P1xel7 folds
+Brice40230 folds
+*** FLOP *** [2d 7d 4h]
+*** TURN *** [2d 7d 4h][4c]
+*** RIVER *** [2d 7d 4h 4c][8c]
+*** SHOW DOWN ***
+florian79220 shows [Ks Qh] (One pair : 4)
+winaFab17 shows [Ad Ts] (One pair : 4)
+barbAArians shows [As Jd] (One pair : 4)
+barbAArians collected 60250 from main pot
+winaFab17 collected 100 from side pot 1
+*** SUMMARY ***
+Total pot 60350 | No rake
+Board: [2d 7d 4h 4c 8c]
+Seat 5: winaFab17 showed [Ad Ts] and won 100 with One pair : 4
+Seat 7: barbAArians showed [As Jd] and won 60250 with One pair : 4
+Seat 8: florian79220 showed [Ks Qh] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-9-1708111518 - Holdem no limit (25/100/200) - 2024/02/16 19:25:18 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #3 is the button
+Seat 1: ALCrey (38950)
+Seat 2: mamyadoune (65544)
+Seat 3: P1xel7 (15906)
+Seat 4: Brice40230 (18100)
+Seat 5: winaFab17 (100)
+Seat 6: Perturbad369 (20000)
+Seat 7: barbAArians (60250)
+Seat 8: florian79220 (21125)
+*** ANTE/BLINDS ***
+Brice40230 posts ante 25
+winaFab17 posts ante 25
+ALCrey posts ante 25
+mamyadoune posts ante 25
+P1xel7 posts ante 25
+Perturbad369 posts ante 25
+barbAArians posts ante 25
+florian79220 posts ante 25
+Brice40230 posts small blind 100
+winaFab17 posts big blind 75 and is all-in
+Dealt to P1xel7 [5d Qd]
+*** PRE-FLOP *** 
+Perturbad369 calls 200
+barbAArians folds
+florian79220 folds
+ALCrey folds
+mamyadoune folds
+P1xel7 folds
+Brice40230 raises 200 to 400
+Perturbad369 calls 200
+*** FLOP *** [3h Ac Kd]
+Brice40230 checks
+Perturbad369 checks
+*** TURN *** [3h Ac Kd][8c]
+Brice40230 checks
+Perturbad369 bets 1075
+Brice40230 folds
+*** RIVER *** [3h Ac Kd 8c][4s]
+*** SHOW DOWN ***
+winaFab17 shows [9s 7d] (High card : Ace)
+Perturbad369 shows [Jd As] (One pair : Aces)
+Perturbad369 collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | No rake
+Board: [3h Ac Kd 8c 4s]
+Seat 5: winaFab17 (big blind) showed [9s 7d] and lost with High card : Ace
+Seat 6: Perturbad369 showed [Jd As] and won 2150 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-10-1708111583 - Holdem no limit (25/100/200) - 2024/02/16 19:26:23 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #4 is the button
+Seat 1: ALCrey (38925)
+Seat 2: mamyadoune (65519)
+Seat 3: P1xel7 (15881)
+Seat 4: Brice40230 (17675)
+Seat 6: Perturbad369 (20650)
+Seat 7: barbAArians (60225)
+Seat 8: florian79220 (21100)
+*** ANTE/BLINDS ***
+Perturbad369 posts ante 25
+ALCrey posts ante 25
+mamyadoune posts ante 25
+P1xel7 posts ante 25
+Brice40230 posts ante 25
+barbAArians posts ante 25
+florian79220 posts ante 25
+Perturbad369 posts big blind 200
+Dealt to P1xel7 [2s 5c]
+*** PRE-FLOP *** 
+barbAArians folds
+florian79220 calls 200
+ALCrey calls 200
+mamyadoune folds
+P1xel7 folds
+Brice40230 raises 400 to 600
+Perturbad369 folds
+florian79220 folds
+ALCrey calls 400
+*** FLOP *** [Qh 6h Ts]
+ALCrey checks
+Brice40230 checks
+*** TURN *** [Qh 6h Ts][6d]
+ALCrey checks
+Brice40230 bets 700
+ALCrey folds
+Brice40230 collected 2475 from pot
+*** SUMMARY ***
+Total pot 2475 | No rake
+Board: [Qh 6h Ts 6d]
+Seat 4: Brice40230 (button) won 2475
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-11-1708111664 - Holdem no limit (25/100/200) - 2024/02/16 19:27:44 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #5 is the button
+Seat 1: ALCrey (38300)
+Seat 2: mamyadoune (65494)
+Seat 3: P1xel7 (15856)
+Seat 4: Brice40230 (18825)
+Seat 5: PISCINIER (20000)
+Seat 6: Perturbad369 (20425)
+Seat 7: barbAArians (60200)
+Seat 8: florian79220 (20875)
+*** ANTE/BLINDS ***
+Perturbad369 posts ante 25
+barbAArians posts ante 25
+ALCrey posts ante 25
+mamyadoune posts ante 25
+P1xel7 posts ante 25
+Brice40230 posts ante 25
+florian79220 posts ante 25
+Perturbad369 posts small blind 100
+barbAArians posts big blind 200
+Dealt to P1xel7 [Ts Kh]
+*** PRE-FLOP *** 
+florian79220 raises 675 to 875
+ALCrey folds
+mamyadoune folds
+P1xel7 folds
+Brice40230 folds
+Perturbad369 folds
+barbAArians folds
+florian79220 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Seat 8: florian79220 won 1350
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3200311949090882046-12-1708111683 - Holdem no limit (25/100/200) - 2024/02/16 19:28:03 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #6 is the button
+Seat 1: ALCrey (38275)
+Seat 2: mamyadoune (65469)
+Seat 3: P1xel7 (15831)
+Seat 4: Brice40230 (18800)
+Seat 5: PISCINIER (20000)
+Seat 6: Perturbad369 (20300)
+Seat 7: barbAArians (59975)
+Seat 8: florian79220 (21325)
+*** ANTE/BLINDS ***
+barbAArians posts ante 25
+florian79220 posts ante 25
+ALCrey posts ante 25
+mamyadoune posts ante 25
+P1xel7 posts ante 25
+Brice40230 posts ante 25
+PISCINIER posts ante 25
+Perturbad369 posts ante 25
+barbAArians posts small blind 100
+florian79220 posts big blind 200
+Dealt to P1xel7 [5c Qh]
+*** PRE-FLOP *** 
+ALCrey calls 200
+mamyadoune folds
+P1xel7 folds
+Brice40230 calls 200
+PISCINIER calls 200
+Perturbad369 folds
+barbAArians folds
+florian79220 raises 400 to 600
+ALCrey calls 400
+Brice40230 calls 400
+PISCINIER calls 400
+*** FLOP *** [3d Ts 5s]
+florian79220 bets 20700 and is all-in
+ALCrey calls 20700
+Brice40230 folds
+PISCINIER folds
+*** TURN *** [3d Ts 5s][2c]
+*** RIVER *** [3d Ts 5s 2c][Qd]
+*** SHOW DOWN ***
+ALCrey shows [4s Js] (High card : Queen)
+florian79220 shows [As Qs] (One pair : Queens)
+florian79220 collected 44100 from pot
+*** SUMMARY ***
+Total pot 44100 | No rake
+Board: [3d Ts 5s 2c Qd]
+Seat 1: ALCrey showed [4s Js] and lost with High card : Queen
+Seat 8: florian79220 (big blind) showed [As Qs] and won 44100 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3200311949090882046-13-1708111735 - Holdem no limit (30/125/250) - 2024/02/16 19:28:55 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #7 is the button
+Seat 1: ALCrey (16950)
+Seat 2: mamyadoune (65444)
+Seat 3: P1xel7 (15806)
+Seat 4: Brice40230 (18175)
+Seat 5: PISCINIER (19375)
+Seat 6: Perturbad369 (20275)
+Seat 7: barbAArians (59850)
+Seat 8: florian79220 (44100)
+*** ANTE/BLINDS ***
+florian79220 posts ante 30
+ALCrey posts ante 30
+mamyadoune posts ante 30
+P1xel7 posts ante 30
+Brice40230 posts ante 30
+PISCINIER posts ante 30
+Perturbad369 posts ante 30
+barbAArians posts ante 30
+florian79220 posts small blind 125
+ALCrey posts big blind 250
+Dealt to P1xel7 [8d Qs]
+*** PRE-FLOP *** 
+mamyadoune calls 250
+P1xel7 folds
+Brice40230 calls 250
+PISCINIER folds
+Perturbad369 folds
+barbAArians folds
+florian79220 calls 125
+ALCrey raises 16670 to 16920 and is all-in
+mamyadoune calls 16670
+Brice40230 folds
+florian79220 folds
+*** FLOP *** [Jd Ad 3d]
+*** TURN *** [Jd Ad 3d][2s]
+*** RIVER *** [Jd Ad 3d 2s][Qc]
+*** SHOW DOWN ***
+ALCrey shows [As Kd] (One pair : Aces)
+mamyadoune shows [Kh Th] (Straight Ace high)
+mamyadoune collected 34580 from pot
+*** SUMMARY ***
+Total pot 34580 | No rake
+Board: [Jd Ad 3d 2s Qc]
+Seat 1: ALCrey (big blind) showed [As Kd] and lost with One pair : Aces
+Seat 2: mamyadoune showed [Kh Th] and won 34580 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3200311949090882046-14-1708111805 - Holdem no limit (30/125/250) - 2024/02/16 19:30:05 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #8 is the button
+Seat 2: mamyadoune (83074)
+Seat 3: P1xel7 (15776)
+Seat 4: Brice40230 (17895)
+Seat 5: PISCINIER (19345)
+Seat 6: Perturbad369 (20245)
+Seat 7: barbAArians (59820)
+Seat 8: florian79220 (43820)
+*** ANTE/BLINDS ***
+mamyadoune posts ante 30
+P1xel7 posts ante 30
+Brice40230 posts ante 30
+PISCINIER posts ante 30
+Perturbad369 posts ante 30
+barbAArians posts ante 30
+florian79220 posts ante 30
+mamyadoune posts big blind 250
+Dealt to P1xel7 [5s Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Brice40230 calls 250
+PISCINIER calls 250
+Perturbad369 folds
+barbAArians raises 59540 to 59790 and is all-in
+florian79220 folds
+mamyadoune folds
+Brice40230 folds
+PISCINIER folds
+barbAArians collected 60750 from pot
+*** SUMMARY ***
+Total pot 60750 | No rake
+Seat 7: barbAArians won 60750
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3200311949090882046-15-1708111832 - Holdem no limit (30/125/250) - 2024/02/16 19:30:32 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #1 is the button
+Seat 1: stadeoceane (20000)
+Seat 2: mamyadoune (82794)
+Seat 3: P1xel7 (15746)
+Seat 4: Brice40230 (17615)
+Seat 5: PISCINIER (19065)
+Seat 6: Perturbad369 (20215)
+Seat 7: barbAArians (60750)
+Seat 8: florian79220 (43790)
+*** ANTE/BLINDS ***
+mamyadoune posts ante 30
+P1xel7 posts ante 30
+Brice40230 posts ante 30
+PISCINIER posts ante 30
+Perturbad369 posts ante 30
+barbAArians posts ante 30
+florian79220 posts ante 30
+mamyadoune posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [7d Qh]
+*** PRE-FLOP *** 
+Brice40230 calls 250
+PISCINIER calls 250
+Perturbad369 calls 250
+barbAArians folds
+florian79220 folds
+mamyadoune calls 125
+P1xel7 checks
+*** FLOP *** [Js 4c Qd]
+mamyadoune checks
+P1xel7 bets 511
+Brice40230 folds
+PISCINIER calls 511
+Perturbad369 folds
+mamyadoune folds
+*** TURN *** [Js 4c Qd][Jh]
+P1xel7 bets 869
+PISCINIER calls 869
+*** RIVER *** [Js 4c Qd Jh][Tc]
+P1xel7 bets 1477
+PISCINIER raises 2640 to 4117
+P1xel7 calls 2640
+*** SHOW DOWN ***
+P1xel7 shows [7d Qh] (Two pairs : Queens and Jacks)
+PISCINIER shows [9h 8h] (Straight Queen high)
+PISCINIER collected 12454 from pot
+*** SUMMARY ***
+Total pot 12454 | No rake
+Board: [Js 4c Qd Jh Tc]
+Seat 3: P1xel7 (big blind) showed [7d Qh] and lost with Two pairs : Queens and Jacks
+Seat 5: PISCINIER showed [9h 8h] and won 12454 with Straight Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3200311949090882046-16-1708111908 - Holdem no limit (35/150/300) - 2024/02/16 19:31:48 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #2 is the button
+Seat 1: stadeoceane (20000)
+Seat 2: mamyadoune (82514)
+Seat 3: P1xel7 (9969)
+Seat 4: Brice40230 (17335)
+Seat 5: PISCINIER (25742)
+Seat 6: Perturbad369 (19935)
+Seat 7: barbAArians (60720)
+Seat 8: florian79220 (43760)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Brice40230 posts ante 35
+stadeoceane posts ante 35
+mamyadoune posts ante 35
+PISCINIER posts ante 35
+Perturbad369 posts ante 35
+barbAArians posts ante 35
+florian79220 posts ante 35
+P1xel7 posts small blind 150
+Brice40230 posts big blind 300
+Dealt to P1xel7 [8c 9c]
+*** PRE-FLOP *** 
+PISCINIER folds
+Perturbad369 folds
+barbAArians folds
+florian79220 calls 300
+stadeoceane folds
+mamyadoune calls 300
+P1xel7 calls 150
+Brice40230 checks
+*** FLOP *** [9s 7d Kc]
+P1xel7 checks
+Brice40230 bets 300
+florian79220 calls 300
+mamyadoune folds
+P1xel7 calls 300
+*** TURN *** [9s 7d Kc][8h]
+P1xel7 checks
+Brice40230 checks
+florian79220 bets 1547
+P1xel7 calls 1547
+Brice40230 calls 1547
+*** RIVER *** [9s 7d Kc 8h][2s]
+P1xel7 bets 2457
+Brice40230 folds
+florian79220 folds
+P1xel7 collected 9478 from pot
+*** SUMMARY ***
+Total pot 9478 | No rake
+Board: [9s 7d Kc 8h 2s]
+Seat 3: P1xel7 (small blind) won 9478
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3200311949090882046-17-1708111986 - Holdem no limit (35/150/300) - 2024/02/16 19:33:06 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #3 is the button
+Seat 1: stadeoceane (19965)
+Seat 2: mamyadoune (82179)
+Seat 3: P1xel7 (14808)
+Seat 4: Brice40230 (15153)
+Seat 5: PISCINIER (25707)
+Seat 6: Perturbad369 (19900)
+Seat 7: barbAArians (60685)
+Seat 8: florian79220 (41578)
+*** ANTE/BLINDS ***
+Brice40230 posts ante 35
+PISCINIER posts ante 35
+stadeoceane posts ante 35
+mamyadoune posts ante 35
+P1xel7 posts ante 35
+Perturbad369 posts ante 35
+barbAArians posts ante 35
+florian79220 posts ante 35
+Brice40230 posts small blind 150
+PISCINIER posts big blind 300
+Dealt to P1xel7 [Td 7h]
+*** PRE-FLOP *** 
+Perturbad369 folds
+barbAArians folds
+florian79220 raises 600 to 900
+stadeoceane calls 900
+mamyadoune calls 900
+P1xel7 folds
+Brice40230 folds
+PISCINIER folds
+*** FLOP *** [Qh 5d 9c]
+florian79220 checks
+stadeoceane checks
+mamyadoune bets 1201
+florian79220 folds
+stadeoceane folds
+mamyadoune collected 4631 from pot
+*** SUMMARY ***
+Total pot 4631 | No rake
+Board: [Qh 5d 9c]
+Seat 2: mamyadoune won 4631
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3200311949090882046-18-1708112034 - Holdem no limit (40/175/350) - 2024/02/16 19:33:54 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #4 is the button
+Seat 1: stadeoceane (19030)
+Seat 2: mamyadoune (84674)
+Seat 3: P1xel7 (14773)
+Seat 4: Brice40230 (14968)
+Seat 5: PISCINIER (25372)
+Seat 6: Perturbad369 (19865)
+Seat 7: barbAArians (60650)
+Seat 8: florian79220 (40643)
+*** ANTE/BLINDS ***
+PISCINIER posts ante 40
+Perturbad369 posts ante 40
+stadeoceane posts ante 40
+mamyadoune posts ante 40
+P1xel7 posts ante 40
+Brice40230 posts ante 40
+barbAArians posts ante 40
+florian79220 posts ante 40
+PISCINIER posts small blind 175
+Perturbad369 posts big blind 350
+Dealt to P1xel7 [Qc 2d]
+*** PRE-FLOP *** 
+barbAArians folds
+florian79220 folds
+stadeoceane calls 350
+mamyadoune folds
+P1xel7 folds
+Brice40230 folds
+PISCINIER calls 175
+Perturbad369 raises 19475 to 19825 and is all-in
+stadeoceane calls 18640 and is all-in
+PISCINIER folds
+*** FLOP *** [Jc 3h Qs]
+*** TURN *** [Jc 3h Qs][5h]
+*** RIVER *** [Jc 3h Qs 5h][Qd]
+*** SHOW DOWN ***
+stadeoceane shows [Th Jh] (Two pairs : Queens and Jacks)
+Perturbad369 shows [8c 8s] (Two pairs : Queens and 8)
+Perturbad369 collected 835 from side pot 1
+stadeoceane collected 38650 from main pot
+*** SUMMARY ***
+Total pot 39485 | No rake
+Board: [Jc 3h Qs 5h Qd]
+Seat 1: stadeoceane showed [Th Jh] and won 38650 with Two pairs : Queens and Jacks
+Seat 6: Perturbad369 (big blind) showed [8c 8s] and won 835 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3200311949090882046-19-1708112124 - Holdem no limit (40/175/350) - 2024/02/16 19:35:24 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #5 is the button
+Seat 1: stadeoceane (38650)
+Seat 2: mamyadoune (84634)
+Seat 3: P1xel7 (14733)
+Seat 4: Brice40230 (14928)
+Seat 5: PISCINIER (24982)
+Seat 6: Perturbad369 (835)
+Seat 7: barbAArians (60610)
+Seat 8: florian79220 (40603)
+*** ANTE/BLINDS ***
+Perturbad369 posts ante 40
+barbAArians posts ante 40
+stadeoceane posts ante 40
+mamyadoune posts ante 40
+P1xel7 posts ante 40
+Brice40230 posts ante 40
+PISCINIER posts ante 40
+florian79220 posts ante 40
+Perturbad369 posts small blind 175
+barbAArians posts big blind 350
+Dealt to P1xel7 [7h Ts]
+*** PRE-FLOP *** 
+florian79220 calls 350
+stadeoceane calls 350
+mamyadoune calls 350
+P1xel7 folds
+Brice40230 calls 350
+PISCINIER folds
+Perturbad369 calls 175
+barbAArians checks
+*** FLOP *** [8s 8d Kc]
+Perturbad369 bets 445 and is all-in
+barbAArians folds
+florian79220 folds
+stadeoceane calls 445
+mamyadoune folds
+Brice40230 folds
+*** TURN *** [8s 8d Kc][5h]
+*** RIVER *** [8s 8d Kc 5h][Qc]
+*** SHOW DOWN ***
+Perturbad369 shows [Tc Ac] (One pair : 8)
+stadeoceane shows [6d 6c] (Two pairs : 8 and 6)
+stadeoceane collected 3310 from pot
+*** SUMMARY ***
+Total pot 3310 | No rake
+Board: [8s 8d Kc 5h Qc]
+Seat 1: stadeoceane showed [6d 6c] and won 3310 with Two pairs : 8 and 6
+Seat 6: Perturbad369 (small blind) showed [Tc Ac] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3200311949090882046-20-1708112190 - Holdem no limit (50/200/400) - 2024/02/16 19:36:30 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #6 is the button
+Seat 1: stadeoceane (41125)
+Seat 2: mamyadoune (84244)
+Seat 3: P1xel7 (14693)
+Seat 4: Brice40230 (14538)
+Seat 5: PISCINIER (24942)
+Seat 7: barbAArians (60220)
+Seat 8: florian79220 (40213)
+*** ANTE/BLINDS ***
+barbAArians posts ante 50
+florian79220 posts ante 50
+stadeoceane posts ante 50
+mamyadoune posts ante 50
+P1xel7 posts ante 50
+Brice40230 posts ante 50
+PISCINIER posts ante 50
+barbAArians posts small blind 200
+florian79220 posts big blind 400
+Dealt to P1xel7 [2h 8d]
+*** PRE-FLOP *** 
+stadeoceane calls 400
+mamyadoune folds
+P1xel7 folds
+Brice40230 folds
+PISCINIER calls 400
+barbAArians folds
+florian79220 raises 400 to 800
+stadeoceane calls 400
+PISCINIER calls 400
+*** FLOP *** [8s 5c 3d]
+florian79220 bets 800
+stadeoceane calls 800
+PISCINIER calls 800
+*** TURN *** [8s 5c 3d][Ad]
+florian79220 bets 1872
+stadeoceane raises 37603 to 39475 and is all-in
+PISCINIER folds
+florian79220 folds
+stadeoceane collected 46697 from pot
+*** SUMMARY ***
+Total pot 46697 | No rake
+Board: [8s 5c 3d Ad]
+Seat 1: stadeoceane won 46697
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3200311949090882046-21-1708112241 - Holdem no limit (50/200/400) - 2024/02/16 19:37:21 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #7 is the button
+Seat 1: stadeoceane (46697)
+Seat 2: mamyadoune (84194)
+Seat 3: P1xel7 (14643)
+Seat 4: Brice40230 (14488)
+Seat 5: PISCINIER (23292)
+Seat 6: LASSOSSE (20000)
+Seat 7: barbAArians (59970)
+Seat 8: florian79220 (36691)
+*** ANTE/BLINDS ***
+florian79220 posts ante 50
+stadeoceane posts ante 50
+mamyadoune posts ante 50
+P1xel7 posts ante 50
+Brice40230 posts ante 50
+PISCINIER posts ante 50
+LASSOSSE posts ante 50
+barbAArians posts ante 50
+florian79220 posts small blind 200
+stadeoceane posts big blind 400
+Dealt to P1xel7 [2c 6c]
+*** PRE-FLOP *** 
+mamyadoune folds
+P1xel7 folds
+Brice40230 raises 400 to 800
+PISCINIER folds
+LASSOSSE folds
+barbAArians folds
+florian79220 folds
+stadeoceane calls 400
+*** FLOP *** [Qh 7s 4s]
+stadeoceane checks
+Brice40230 bets 400
+stadeoceane calls 400
+*** TURN *** [Qh 7s 4s][7c]
+stadeoceane checks
+Brice40230 bets 400
+stadeoceane folds
+Brice40230 collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Board: [Qh 7s 4s 7c]
+Seat 4: Brice40230 won 3400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3200311949090882046-22-1708112357 - Holdem no limit (60/250/500) - 2024/02/16 19:39:17 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #8 is the button
+Seat 1: stadeoceane (45447)
+Seat 2: mamyadoune (84144)
+Seat 3: P1xel7 (14593)
+Seat 4: Brice40230 (16238)
+Seat 5: PISCINIER (23242)
+Seat 6: LASSOSSE (19950)
+Seat 7: barbAArians (59920)
+Seat 8: florian79220 (36441)
+*** ANTE/BLINDS ***
+stadeoceane posts ante 60
+mamyadoune posts ante 60
+P1xel7 posts ante 60
+Brice40230 posts ante 60
+PISCINIER posts ante 60
+LASSOSSE posts ante 60
+barbAArians posts ante 60
+florian79220 posts ante 60
+stadeoceane posts small blind 250
+mamyadoune posts big blind 500
+Dealt to P1xel7 [8d Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+Brice40230 raises 15678 to 16178 and is all-in
+PISCINIER folds
+LASSOSSE calls 16178
+barbAArians folds
+florian79220 folds
+stadeoceane folds
+mamyadoune folds
+*** FLOP *** [Ah Td Kc]
+*** TURN *** [Ah Td Kc][5h]
+*** RIVER *** [Ah Td Kc 5h][8c]
+*** SHOW DOWN ***
+Brice40230 shows [4h As] (One pair : Aces)
+LASSOSSE shows [Ad Ks] (Two pairs : Aces and Kings)
+LASSOSSE collected 33586 from pot
+*** SUMMARY ***
+Total pot 33586 | No rake
+Board: [Ah Td Kc 5h 8c]
+Seat 4: Brice40230 showed [4h As] and lost with One pair : Aces
+Seat 6: LASSOSSE showed [Ad Ks] and won 33586 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3200311949090882046-23-1708112386 - Holdem no limit (60/250/500) - 2024/02/16 19:39:46 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #1 is the button
+Seat 1: stadeoceane (45137)
+Seat 2: mamyadoune (83584)
+Seat 3: P1xel7 (14533)
+Seat 5: PISCINIER (23182)
+Seat 6: LASSOSSE (37298)
+Seat 7: barbAArians (59860)
+Seat 8: florian79220 (36381)
+*** ANTE/BLINDS ***
+mamyadoune posts ante 60
+P1xel7 posts ante 60
+stadeoceane posts ante 60
+PISCINIER posts ante 60
+LASSOSSE posts ante 60
+barbAArians posts ante 60
+florian79220 posts ante 60
+mamyadoune posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [9s 5h]
+*** PRE-FLOP *** 
+PISCINIER folds
+LASSOSSE folds
+barbAArians folds
+florian79220 raises 750 to 1250
+stadeoceane raises 43827 to 45077 and is all-in
+mamyadoune calls 44827
+P1xel7 folds
+florian79220 calls 35071 and is all-in
+*** FLOP *** [7h 8d 4s]
+*** TURN *** [7h 8d 4s][4h]
+*** RIVER *** [7h 8d 4s 4h][6s]
+*** SHOW DOWN ***
+stadeoceane shows [Ad Ah] (Two pairs : Aces and 4)
+florian79220 shows [Tc Ts] (Two pairs : Tens and 4)
+mamyadoune shows [7d 7c] (Full of 7 and 4)
+mamyadoune collected 127395 from pot
+*** SUMMARY ***
+Total pot 127395 | No rake
+Board: [7h 8d 4s 4h 6s]
+Seat 1: stadeoceane (button) showed [Ad Ah] and lost with Two pairs : Aces and 4
+Seat 2: mamyadoune (small blind) showed [7d 7c] and won 127395 with Full of 7 and 4
+Seat 8: florian79220 showed [Tc Ts] and lost with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3200311949090882046-24-1708112421 - Holdem no limit (60/250/500) - 2024/02/16 19:40:21 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #2 is the button
+Seat 2: mamyadoune (165842)
+Seat 3: P1xel7 (13973)
+Seat 4: nimzow (20000)
+Seat 5: PISCINIER (23122)
+Seat 6: LASSOSSE (37238)
+Seat 7: barbAArians (59800)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+nimzow posts ante 60
+mamyadoune posts ante 60
+PISCINIER posts ante 60
+LASSOSSE posts ante 60
+barbAArians posts ante 60
+P1xel7 posts small blind 250
+nimzow posts big blind 500
+Dealt to P1xel7 [3d 8h]
+*** PRE-FLOP *** 
+PISCINIER folds
+LASSOSSE calls 500
+barbAArians folds
+mamyadoune raises 2110 to 2610
+P1xel7 folds
+nimzow calls 2110
+LASSOSSE calls 2110
+*** FLOP *** [4s As 2d]
+nimzow checks
+LASSOSSE checks
+mamyadoune bets 2954
+nimzow folds
+LASSOSSE calls 2954
+*** TURN *** [4s As 2d][2s]
+LASSOSSE checks
+mamyadoune checks
+*** RIVER *** [4s As 2d 2s][Th]
+LASSOSSE checks
+mamyadoune checks
+*** SHOW DOWN ***
+LASSOSSE shows [Qh 4h] (Two pairs : 4 and 2)
+mamyadoune shows [Qd Qs] (Two pairs : Queens and 2)
+mamyadoune collected 14348 from pot
+*** SUMMARY ***
+Total pot 14348 | No rake
+Board: [4s As 2d 2s Th]
+Seat 2: mamyadoune (button) showed [Qd Qs] and won 14348 with Two pairs : Queens and 2
+Seat 6: LASSOSSE showed [Qh 4h] and lost with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3200311949090882046-25-1708112470 - Holdem no limit (70/300/600) - 2024/02/16 19:41:10 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #3 is the button
+Seat 1: Nevaa (20000)
+Seat 2: mamyadoune (174566)
+Seat 3: P1xel7 (13663)
+Seat 4: nimzow (17330)
+Seat 5: PISCINIER (23062)
+Seat 6: LASSOSSE (31614)
+Seat 7: barbAArians (59740)
+*** ANTE/BLINDS ***
+nimzow posts ante 70
+PISCINIER posts ante 70
+Nevaa posts ante 70
+mamyadoune posts ante 70
+P1xel7 posts ante 70
+LASSOSSE posts ante 70
+barbAArians posts ante 70
+nimzow posts small blind 300
+PISCINIER posts big blind 600
+Dealt to P1xel7 [4s 3s]
+*** PRE-FLOP *** 
+LASSOSSE calls 600
+barbAArians calls 600
+Nevaa raises 1200 to 1800
+mamyadoune calls 1800
+P1xel7 folds
+nimzow folds
+PISCINIER calls 1200
+LASSOSSE calls 1200
+barbAArians calls 1200
+*** FLOP *** [Td Kh 6s]
+PISCINIER checks
+LASSOSSE checks
+barbAArians checks
+Nevaa bets 9790
+mamyadoune folds
+PISCINIER folds
+LASSOSSE folds
+barbAArians folds
+Nevaa collected 19580 from pot
+*** SUMMARY ***
+Total pot 19580 | No rake
+Board: [Td Kh 6s]
+Seat 1: Nevaa won 19580
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3200311949090882046-26-1708112537 - Holdem no limit (70/300/600) - 2024/02/16 19:42:17 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #4 is the button
+Seat 1: Nevaa (27920)
+Seat 2: mamyadoune (172696)
+Seat 3: P1xel7 (13593)
+Seat 4: nimzow (16960)
+Seat 5: PISCINIER (21192)
+Seat 6: LASSOSSE (29744)
+Seat 7: barbAArians (57870)
+*** ANTE/BLINDS ***
+PISCINIER posts ante 70
+LASSOSSE posts ante 70
+Nevaa posts ante 70
+mamyadoune posts ante 70
+P1xel7 posts ante 70
+nimzow posts ante 70
+barbAArians posts ante 70
+PISCINIER posts small blind 300
+LASSOSSE posts big blind 600
+Dealt to P1xel7 [Jd 3c]
+*** PRE-FLOP *** 
+barbAArians folds
+Nevaa folds
+mamyadoune calls 600
+P1xel7 folds
+nimzow folds
+PISCINIER folds
+LASSOSSE checks
+*** FLOP *** [4h 9d Td]
+LASSOSSE checks
+mamyadoune bets 600
+LASSOSSE calls 600
+*** TURN *** [4h 9d Td][Ts]
+LASSOSSE checks
+mamyadoune checks
+*** RIVER *** [4h 9d Td Ts][6d]
+LASSOSSE checks
+mamyadoune checks
+*** SHOW DOWN ***
+LASSOSSE shows [Ks 3s] (One pair : Tens)
+mamyadoune shows [8c 6c] (Two pairs : Tens and 6)
+mamyadoune collected 3190 from pot
+*** SUMMARY ***
+Total pot 3190 | No rake
+Board: [4h 9d Td Ts 6d]
+Seat 2: mamyadoune showed [8c 6c] and won 3190 with Two pairs : Tens and 6
+Seat 6: LASSOSSE (big blind) showed [Ks 3s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3200311949090882046-27-1708112567 - Holdem no limit (70/300/600) - 2024/02/16 19:42:47 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #5 is the button
+Seat 1: Nevaa (27850)
+Seat 2: mamyadoune (174616)
+Seat 3: P1xel7 (13523)
+Seat 4: nimzow (16890)
+Seat 5: PISCINIER (20822)
+Seat 6: LASSOSSE (28474)
+Seat 7: barbAArians (57800)
+Seat 8: tazmaniack26 (20000)
+*** ANTE/BLINDS ***
+LASSOSSE posts ante 70
+barbAArians posts ante 70
+Nevaa posts ante 70
+mamyadoune posts ante 70
+P1xel7 posts ante 70
+nimzow posts ante 70
+PISCINIER posts ante 70
+tazmaniack26 posts ante 70
+LASSOSSE posts small blind 300
+barbAArians posts big blind 600
+Dealt to P1xel7 [4c 7c]
+*** PRE-FLOP *** 
+tazmaniack26 raises 19330 to 19930 and is all-in
+Nevaa folds
+mamyadoune calls 19930
+P1xel7 folds
+nimzow calls 16820 and is all-in
+PISCINIER folds
+LASSOSSE calls 19630
+barbAArians folds
+*** FLOP *** [6c 9h 7h]
+LASSOSSE bets 8474 and is all-in
+mamyadoune calls 8474
+*** TURN *** [6c 9h 7h][2c]
+*** RIVER *** [6c 9h 7h 2c][Qc]
+*** SHOW DOWN ***
+nimzow shows [5s Ks] (High card : King)
+LASSOSSE shows [4d 4s] (One pair : 4)
+tazmaniack26 shows [Ac 5h] (High card : Ace)
+mamyadoune shows [Qh Kd] (One pair : Queens)
+mamyadoune collected 94718 from pot
+*** SUMMARY ***
+Total pot 94718 | No rake
+Board: [6c 9h 7h 2c Qc]
+Seat 2: mamyadoune showed [Qh Kd] and won 94718 with One pair : Queens
+Seat 4: nimzow showed [5s Ks] and lost with High card : King
+Seat 6: LASSOSSE (small blind) showed [4d 4s] and lost with One pair : 4
+Seat 8: tazmaniack26 showed [Ac 5h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3200311949090882046-28-1708112626 - Holdem no limit (80/350/700) - 2024/02/16 19:43:46 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #6 is the button
+Seat 1: Nevaa (27780)
+Seat 2: mamyadoune (240860)
+Seat 3: P1xel7 (13453)
+Seat 5: PISCINIER (20752)
+Seat 7: barbAArians (57130)
+*** ANTE/BLINDS ***
+barbAArians posts ante 80
+Nevaa posts ante 80
+mamyadoune posts ante 80
+P1xel7 posts ante 80
+PISCINIER posts ante 80
+barbAArians posts small blind 350
+Nevaa posts big blind 700
+Dealt to P1xel7 [7s 5h]
+*** PRE-FLOP *** 
+mamyadoune folds
+P1xel7 folds
+PISCINIER calls 700
+barbAArians folds
+Nevaa checks
+*** FLOP *** [Ks Ts 4c]
+Nevaa checks
+PISCINIER bets 1075
+Nevaa folds
+PISCINIER collected 3225 from pot
+*** SUMMARY ***
+Total pot 3225 | No rake
+Board: [Ks Ts 4c]
+Seat 5: PISCINIER won 3225
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3200311949090882046-29-1708112684 - Holdem no limit (80/350/700) - 2024/02/16 19:44:44 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #7 is the button
+Seat 1: Nevaa (27000)
+Seat 2: mamyadoune (240780)
+Seat 3: P1xel7 (13373)
+Seat 4: Dav42410 (36189)
+Seat 5: PISCINIER (22122)
+Seat 6: Fredc33 (14020)
+Seat 7: barbAArians (56700)
+Seat 8: nextpro77 (20000)
+*** ANTE/BLINDS ***
+Nevaa posts ante 80
+mamyadoune posts ante 80
+P1xel7 posts ante 80
+Dav42410 posts ante 80
+PISCINIER posts ante 80
+Fredc33 posts ante 80
+barbAArians posts ante 80
+Nevaa posts small blind 350
+mamyadoune posts big blind 700
+Dealt to P1xel7 [3c 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Dav42410 calls 700
+PISCINIER raises 21342 to 22042 and is all-in
+Fredc33 folds
+barbAArians folds
+Nevaa folds
+mamyadoune folds
+Dav42410 calls 21342
+*** FLOP *** [Jc Qd Ad]
+*** TURN *** [Jc Qd Ad][4s]
+*** RIVER *** [Jc Qd Ad 4s][8c]
+*** SHOW DOWN ***
+PISCINIER shows [9c 9s] (One pair : 9)
+Dav42410 shows [Ah Kd] (One pair : Aces)
+Dav42410 collected 45694 from pot
+*** SUMMARY ***
+Total pot 45694 | No rake
+Board: [Jc Qd Ad 4s 8c]
+Seat 4: Dav42410 showed [Ah Kd] and won 45694 with One pair : Aces
+Seat 5: PISCINIER showed [9c 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3200311949090882046-30-1708112725 - Holdem no limit (80/350/700) - 2024/02/16 19:45:25 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #1 is the button
+Seat 1: Nevaa (26570)
+Seat 2: mamyadoune (240000)
+Seat 3: P1xel7 (13293)
+Seat 4: Dav42410 (59761)
+Seat 6: Fredc33 (13940)
+Seat 7: barbAArians (56620)
+Seat 8: nextpro77 (20000)
+*** ANTE/BLINDS ***
+mamyadoune posts ante 80
+P1xel7 posts ante 80
+Nevaa posts ante 80
+Dav42410 posts ante 80
+Fredc33 posts ante 80
+barbAArians posts ante 80
+nextpro77 posts ante 80
+mamyadoune posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [5h 4c]
+*** PRE-FLOP *** 
+Dav42410 calls 700
+Fredc33 folds
+barbAArians folds
+nextpro77 folds
+Nevaa calls 700
+mamyadoune folds
+P1xel7 checks
+*** FLOP *** [8s Qd 9h]
+P1xel7 checks
+Dav42410 bets 3010
+Nevaa folds
+P1xel7 folds
+Dav42410 collected 6020 from pot
+*** SUMMARY ***
+Total pot 6020 | No rake
+Board: [8s Qd 9h]
+Seat 4: Dav42410 won 6020
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3200311949090882046-31-1708112753 - Holdem no limit (100/400/800) - 2024/02/16 19:45:53 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #2 is the button
+Seat 1: Nevaa (25790)
+Seat 2: mamyadoune (239570)
+Seat 3: P1xel7 (12513)
+Seat 4: Dav42410 (61991)
+Seat 6: Fredc33 (13860)
+Seat 7: barbAArians (56540)
+Seat 8: nextpro77 (19920)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+Dav42410 posts ante 100
+Nevaa posts ante 100
+mamyadoune posts ante 100
+Fredc33 posts ante 100
+barbAArians posts ante 100
+nextpro77 posts ante 100
+P1xel7 posts small blind 400
+Dav42410 posts big blind 800
+Dealt to P1xel7 [9s 5c]
+*** PRE-FLOP *** 
+Fredc33 folds
+barbAArians folds
+nextpro77 raises 19020 to 19820 and is all-in
+Nevaa folds
+mamyadoune folds
+P1xel7 folds
+Dav42410 calls 19020
+*** FLOP *** [As 8h Kd]
+*** TURN *** [As 8h Kd][4s]
+*** RIVER *** [As 8h Kd 4s][7s]
+*** SHOW DOWN ***
+nextpro77 shows [Qc Ac] (One pair : Aces)
+Dav42410 shows [Kh 4d] (Two pairs : Kings and 4)
+Dav42410 collected 40740 from pot
+*** SUMMARY ***
+Total pot 40740 | No rake
+Board: [As 8h Kd 4s 7s]
+Seat 4: Dav42410 (big blind) showed [Kh 4d] and won 40740 with Two pairs : Kings and 4
+Seat 8: nextpro77 showed [Qc Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3200311949090882046-32-1708112796 - Holdem no limit (100/400/800) - 2024/02/16 19:46:36 UTC
+Table: 'Freeroll(745130691)#0509' 8-max (real money) Seat #3 is the button
+Seat 1: Nevaa (25690)
+Seat 2: mamyadoune (239470)
+Seat 3: P1xel7 (12013)
+Seat 4: Dav42410 (82811)
+Seat 5: Ochandogold (20000)
+Seat 6: Fredc33 (13760)
+Seat 7: barbAArians (56440)
+*** ANTE/BLINDS ***
+Dav42410 posts ante 100
+Ochandogold posts ante 100
+Nevaa posts ante 100
+mamyadoune posts ante 100
+P1xel7 posts ante 100
+Fredc33 posts ante 100
+barbAArians posts ante 100
+Dav42410 posts small blind 400
+Ochandogold posts big blind 800
+Dealt to P1xel7 [Kh Qc]
+*** PRE-FLOP *** 
+Fredc33 folds
+barbAArians raises 1600 to 2400
+Nevaa folds
+mamyadoune calls 2400
+P1xel7 raises 9513 to 11913 and is all-in
+Dav42410 folds
+Ochandogold folds
+barbAArians raises 44427 to 56340 and is all-in
+mamyadoune calls 53940
+*** FLOP *** [9s Tc 9c]
+*** TURN *** [9s Tc 9c][2c]
+*** RIVER *** [9s Tc 9c 2c][4s]
+*** SHOW DOWN ***
+mamyadoune shows [Kd Td] (Two pairs : Tens and 9)
+P1xel7 shows [Kh Qc] (One pair : 9)
+barbAArians shows [Ks Kc] (Two pairs : Kings and 9)
+barbAArians collected 126493 from pot
+*** SUMMARY ***
+Total pot 126493 | No rake
+Board: [9s Tc 9c 2c 4s]
+Seat 2: mamyadoune showed [Kd Td] and lost with Two pairs : Tens and 9
+Seat 3: P1xel7 (button) showed [Kh Qc] and lost with One pair : 9
+Seat 7: barbAArians showed [Ks Kc] and won 126493 with Two pairs : Kings and 9
+
+

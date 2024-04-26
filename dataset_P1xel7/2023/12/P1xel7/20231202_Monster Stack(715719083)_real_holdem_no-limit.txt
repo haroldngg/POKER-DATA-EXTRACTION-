@@ -1,0 +1,2484 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-3-1701536621 - Holdem no limit (120/500/1000) - 2023/12/02 17:03:41 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 1: MrLegenda (102860)
+Seat 2: RICOUDU13015 (99760)
+Seat 3: EmpereurSDF (109886)
+Seat 4: Budd_ha (98260)
+Seat 5: WECatania46 (97760)
+Seat 6: P1xel7 (100000)
+*** ANTE/BLINDS ***
+WECatania46 posts ante 120
+P1xel7 posts ante 120
+MrLegenda posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Budd_ha posts ante 120
+WECatania46 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Jh 6h]
+*** PRE-FLOP *** 
+MrLegenda folds
+RICOUDU13015 folds
+EmpereurSDF folds
+Budd_ha folds
+WECatania46 folds
+P1xel7 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 6: P1xel7 (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-4-1701536633 - Holdem no limit (120/500/1000) - 2023/12/02 17:03:53 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 1: MrLegenda (102740)
+Seat 2: RICOUDU13015 (99640)
+Seat 3: EmpereurSDF (109766)
+Seat 4: Budd_ha (98140)
+Seat 5: WECatania46 (97140)
+Seat 6: P1xel7 (101100)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+MrLegenda posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Budd_ha posts ante 120
+WECatania46 posts ante 120
+P1xel7 posts small blind 500
+MrLegenda posts big blind 1000
+Dealt to P1xel7 [4c 3h]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+EmpereurSDF folds
+Budd_ha folds
+WECatania46 folds
+P1xel7 folds
+MrLegenda collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 1: MrLegenda (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-5-1701536653 - Holdem no limit (120/500/1000) - 2023/12/02 17:04:13 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: MrLegenda (103840)
+Seat 2: RICOUDU13015 (99520)
+Seat 3: EmpereurSDF (109646)
+Seat 4: Budd_ha (98020)
+Seat 5: WECatania46 (97020)
+Seat 6: P1xel7 (100480)
+*** ANTE/BLINDS ***
+MrLegenda posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Budd_ha posts ante 120
+WECatania46 posts ante 120
+P1xel7 posts ante 120
+MrLegenda posts small blind 500
+RICOUDU13015 posts big blind 1000
+Dealt to P1xel7 [3d 7c]
+*** PRE-FLOP *** 
+EmpereurSDF folds
+Budd_ha folds
+WECatania46 calls 1000
+P1xel7 folds
+MrLegenda folds
+RICOUDU13015 checks
+*** FLOP *** [Qs Qd Kh]
+RICOUDU13015 checks
+WECatania46 bets 1000
+RICOUDU13015 folds
+WECatania46 collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Board: [Qs Qd Kh]
+Seat 5: WECatania46 won 4220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-6-1701536673 - Holdem no limit (120/500/1000) - 2023/12/02 17:04:33 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #1 is the button
+Seat 1: MrLegenda (103220)
+Seat 2: RICOUDU13015 (98400)
+Seat 3: EmpereurSDF (109526)
+Seat 4: Budd_ha (97900)
+Seat 5: WECatania46 (99120)
+Seat 6: P1xel7 (100360)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+MrLegenda posts ante 120
+Budd_ha posts ante 120
+WECatania46 posts ante 120
+P1xel7 posts ante 120
+RICOUDU13015 posts small blind 500
+EmpereurSDF posts big blind 1000
+Dealt to P1xel7 [6c 5c]
+*** PRE-FLOP *** 
+Budd_ha raises 2000 to 3000
+WECatania46 calls 3000
+P1xel7 folds
+MrLegenda folds
+RICOUDU13015 folds
+EmpereurSDF calls 2000
+*** FLOP *** [Ks As Jh]
+EmpereurSDF checks
+Budd_ha bets 5110
+WECatania46 folds
+EmpereurSDF raises 11498 to 16608
+Budd_ha calls 11498
+*** TURN *** [Ks As Jh][3d]
+EmpereurSDF checks
+Budd_ha checks
+*** RIVER *** [Ks As Jh 3d][8d]
+EmpereurSDF bets 89798 and is all-in
+Budd_ha folds
+EmpereurSDF collected 133234 from pot
+*** SUMMARY ***
+Total pot 133234 | No rake
+Board: [Ks As Jh 3d 8d]
+Seat 3: EmpereurSDF (big blind) won 133234
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-7-1701536818 - Holdem no limit (120/500/1000) - 2023/12/02 17:06:58 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: MrLegenda (103100)
+Seat 2: RICOUDU13015 (97780)
+Seat 3: EmpereurSDF (133234)
+Seat 4: Budd_ha (78172)
+Seat 6: P1xel7 (100240)
+*** ANTE/BLINDS ***
+EmpereurSDF posts ante 120
+Budd_ha posts ante 120
+MrLegenda posts ante 120
+RICOUDU13015 posts ante 120
+P1xel7 posts ante 120
+EmpereurSDF posts small blind 500
+Budd_ha posts big blind 1000
+Dealt to P1xel7 [5c 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+MrLegenda raises 1000 to 2000
+RICOUDU13015 folds
+EmpereurSDF calls 1500
+Budd_ha folds
+*** FLOP *** [6d Kd Qd]
+EmpereurSDF checks
+MrLegenda checks
+*** TURN *** [6d Kd Qd][4c]
+EmpereurSDF checks
+MrLegenda checks
+*** RIVER *** [6d Kd Qd 4c][As]
+EmpereurSDF checks
+MrLegenda bets 3000
+EmpereurSDF folds
+MrLegenda collected 8600 from pot
+*** SUMMARY ***
+Total pot 8600 | No rake
+Board: [6d Kd Qd 4c As]
+Seat 1: MrLegenda won 8600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-8-1701536852 - Holdem no limit (120/500/1000) - 2023/12/02 17:07:32 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: MrLegenda (106580)
+Seat 2: RICOUDU13015 (97660)
+Seat 3: EmpereurSDF (131114)
+Seat 4: Budd_ha (77052)
+Seat 5: Gris-Prune12 (100000)
+Seat 6: P1xel7 (100120)
+*** ANTE/BLINDS ***
+Budd_ha posts ante 120
+Gris-Prune12 posts ante 120
+MrLegenda posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+P1xel7 posts ante 120
+Budd_ha posts small blind 500
+Gris-Prune12 posts big blind 1000
+Dealt to P1xel7 [8h 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+MrLegenda folds
+RICOUDU13015 folds
+EmpereurSDF folds
+Budd_ha folds
+Gris-Prune12 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 5: Gris-Prune12 (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-9-1701536866 - Holdem no limit (120/500/1000) - 2023/12/02 17:07:46 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 2: RICOUDU13015 (97540)
+Seat 3: EmpereurSDF (130994)
+Seat 4: Budd_ha (76432)
+Seat 5: Gris-Prune12 (101100)
+Seat 6: P1xel7 (100000)
+*** ANTE/BLINDS ***
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Budd_ha posts ante 120
+Gris-Prune12 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Qh 5c]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+EmpereurSDF folds
+Budd_ha folds
+Gris-Prune12 calls 500
+P1xel7 checks
+*** FLOP *** [Ac 4d Jc]
+Gris-Prune12 bets 1000
+P1xel7 folds
+Gris-Prune12 collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [Ac 4d Jc]
+Seat 5: Gris-Prune12 (small blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-10-1701536882 - Holdem no limit (120/500/1000) - 2023/12/02 17:08:02 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 2: RICOUDU13015 (97420)
+Seat 3: EmpereurSDF (130874)
+Seat 4: Budd_ha (76312)
+Seat 5: Gris-Prune12 (102580)
+Seat 6: P1xel7 (98880)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Budd_ha posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts small blind 500
+RICOUDU13015 posts big blind 1000
+Dealt to P1xel7 [5s Kh]
+*** PRE-FLOP *** 
+EmpereurSDF folds
+Budd_ha folds
+Gris-Prune12 calls 1000
+P1xel7 raises 1500 to 2500
+RICOUDU13015 folds
+Gris-Prune12 calls 1500
+*** FLOP *** [Kc 3d 4d]
+P1xel7 bets 2310
+Gris-Prune12 calls 2310
+*** TURN *** [Kc 3d 4d][5c]
+P1xel7 checks
+Gris-Prune12 bets 11220
+P1xel7 calls 11220
+*** RIVER *** [Kc 3d 4d 5c][6s]
+P1xel7 checks
+Gris-Prune12 bets 86430 and is all-in
+P1xel7 folds
+Gris-Prune12 collected 120090 from pot
+*** SUMMARY ***
+Total pot 120090 | No rake
+Board: [Kc 3d 4d 5c 6s]
+Seat 5: Gris-Prune12 (button) won 120090
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-11-1701536924 - Holdem no limit (120/500/1000) - 2023/12/02 17:08:44 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (100000)
+Seat 2: RICOUDU13015 (96300)
+Seat 3: EmpereurSDF (130754)
+Seat 4: Budd_ha (76192)
+Seat 5: Gris-Prune12 (120090)
+Seat 6: P1xel7 (82730)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Budd_ha posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+RICOUDU13015 posts small blind 500
+EmpereurSDF posts big blind 1000
+Dealt to P1xel7 [2d 2c]
+*** PRE-FLOP *** 
+Budd_ha folds
+Gris-Prune12 folds
+P1xel7 raises 1200 to 2200
+RICOUDU13015 folds
+EmpereurSDF folds
+P1xel7 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Seat 6: P1xel7 (button) won 4300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-12-1701536936 - Holdem no limit (120/500/1000) - 2023/12/02 17:08:56 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: glorivan (100000)
+Seat 2: RICOUDU13015 (95680)
+Seat 3: EmpereurSDF (129634)
+Seat 5: Gris-Prune12 (119970)
+Seat 6: P1xel7 (84710)
+*** ANTE/BLINDS ***
+EmpereurSDF posts ante 120
+Gris-Prune12 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+P1xel7 posts ante 120
+EmpereurSDF posts small blind 500
+Gris-Prune12 posts big blind 1000
+Dealt to P1xel7 [8c Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF calls 500
+Gris-Prune12 checks
+*** FLOP *** [9s Td Qs]
+EmpereurSDF bets 1300
+Gris-Prune12 folds
+EmpereurSDF collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Board: [9s Td Qs]
+Seat 3: EmpereurSDF (small blind) won 3900
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-13-1701536956 - Holdem no limit (120/500/1000) - 2023/12/02 17:09:16 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: glorivan (99880)
+Seat 2: RICOUDU13015 (95560)
+Seat 3: EmpereurSDF (131114)
+Seat 5: Gris-Prune12 (118850)
+Seat 6: P1xel7 (84590)
+*** ANTE/BLINDS ***
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Gris-Prune12 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Jh 9c]
+*** PRE-FLOP *** 
+glorivan calls 1000
+RICOUDU13015 folds
+EmpereurSDF calls 1000
+Gris-Prune12 folds
+P1xel7 checks
+*** FLOP *** [2c 2h 3d]
+P1xel7 checks
+glorivan checks
+EmpereurSDF bets 1435
+P1xel7 folds
+glorivan folds
+EmpereurSDF collected 5535 from pot
+*** SUMMARY ***
+Total pot 5535 | No rake
+Board: [2c 2h 3d]
+Seat 3: EmpereurSDF (button) won 5535
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-14-1701536994 - Holdem no limit (120/500/1000) - 2023/12/02 17:09:54 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 1: glorivan (98760)
+Seat 2: RICOUDU13015 (95440)
+Seat 3: EmpereurSDF (134094)
+Seat 5: Gris-Prune12 (118230)
+Seat 6: P1xel7 (83470)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts small blind 500
+glorivan posts big blind 1000
+Dealt to P1xel7 [Js 6s]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+EmpereurSDF folds
+Gris-Prune12 folds
+P1xel7 folds
+glorivan collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 1: glorivan (big blind) won 2100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-15-1701537019 - Holdem no limit (120/500/1000) - 2023/12/02 17:10:19 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (99740)
+Seat 2: RICOUDU13015 (95320)
+Seat 3: EmpereurSDF (133974)
+Seat 5: Gris-Prune12 (118110)
+Seat 6: P1xel7 (82850)
+*** ANTE/BLINDS ***
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts small blind 500
+RICOUDU13015 posts big blind 1000
+Dealt to P1xel7 [8d Tc]
+*** PRE-FLOP *** 
+EmpereurSDF folds
+Gris-Prune12 calls 1000
+P1xel7 folds
+glorivan calls 500
+RICOUDU13015 folds
+*** FLOP *** [5s 7s 6s]
+glorivan bets 1000
+Gris-Prune12 calls 1000
+*** TURN *** [5s 7s 6s][7h]
+glorivan bets 1000
+Gris-Prune12 calls 1000
+*** RIVER *** [5s 7s 6s 7h][Ad]
+glorivan bets 1000
+Gris-Prune12 calls 1000
+*** SHOW DOWN ***
+glorivan shows [Jh 6c] (Two pairs : 7 and 6)
+Gris-Prune12 shows [4d 6h] (Two pairs : 7 and 6)
+Gris-Prune12 collected 4800 from pot
+glorivan collected 4800 from pot
+*** SUMMARY ***
+Total pot 9600 | No rake
+Board: [5s 7s 6s 7h Ad]
+Seat 1: glorivan (small blind) showed [Jh 6c] and won 4800 with Two pairs : 7 and 6
+Seat 5: Gris-Prune12 showed [4d 6h] and won 4800 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-16-1701537060 - Holdem no limit (120/500/1000) - 2023/12/02 17:11:00 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #1 is the button
+Seat 1: glorivan (100420)
+Seat 2: RICOUDU13015 (94200)
+Seat 3: EmpereurSDF (133854)
+Seat 4: Terremoto 14 (100000)
+Seat 5: Gris-Prune12 (118790)
+Seat 6: P1xel7 (82730)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+glorivan posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+RICOUDU13015 posts small blind 500
+EmpereurSDF posts big blind 1000
+Dealt to P1xel7 [7s 6c]
+*** PRE-FLOP *** 
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 folds
+glorivan raises 1000 to 2000
+RICOUDU13015 folds
+EmpereurSDF calls 1000
+*** FLOP *** [6s Td Kd]
+EmpereurSDF checks
+glorivan bets 2610
+EmpereurSDF calls 2610
+*** TURN *** [6s Td Kd][5s]
+EmpereurSDF checks
+glorivan checks
+*** RIVER *** [6s Td Kd 5s][7h]
+EmpereurSDF bets 6786
+glorivan calls 6786
+*** SHOW DOWN ***
+EmpereurSDF shows [Th 4s] (One pair : Tens)
+glorivan shows [9d Tc] (One pair : Tens)
+glorivan collected 24012 from pot
+*** SUMMARY ***
+Total pot 24012 | No rake
+Board: [6s Td Kd 5s 7h]
+Seat 1: glorivan (button) showed [9d Tc] and won 24012 with One pair : Tens
+Seat 3: EmpereurSDF (big blind) showed [Th 4s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-17-1701537103 - Holdem no limit (120/500/1000) - 2023/12/02 17:11:43 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: glorivan (112916)
+Seat 2: RICOUDU13015 (93580)
+Seat 3: EmpereurSDF (122338)
+Seat 4: Terremoto 14 (99880)
+Seat 5: Gris-Prune12 (118670)
+Seat 6: P1xel7 (82610)
+*** ANTE/BLINDS ***
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+EmpereurSDF posts small blind 500
+Terremoto 14 posts big blind 1000
+Dealt to P1xel7 [8c 2h]
+*** PRE-FLOP *** 
+Gris-Prune12 raises 2000 to 3000
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF folds
+Terremoto 14 folds
+Gris-Prune12 collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Seat 5: Gris-Prune12 won 5220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-18-1701537116 - Holdem no limit (120/500/1000) - 2023/12/02 17:11:56 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: glorivan (112796)
+Seat 2: RICOUDU13015 (93460)
+Seat 3: EmpereurSDF (121718)
+Seat 4: Terremoto 14 (98760)
+Seat 5: Gris-Prune12 (120770)
+Seat 6: P1xel7 (82490)
+*** ANTE/BLINDS ***
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+P1xel7 posts ante 120
+Terremoto 14 posts small blind 500
+Gris-Prune12 posts big blind 1000
+Dealt to P1xel7 [6s 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF folds
+Terremoto 14 calls 500
+Gris-Prune12 checks
+*** FLOP *** [Kd 5d 4h]
+Terremoto 14 checks
+Gris-Prune12 bets 1000
+Terremoto 14 calls 1000
+*** TURN *** [Kd 5d 4h][Td]
+Terremoto 14 checks
+Gris-Prune12 bets 3068
+Terremoto 14 calls 3068
+*** RIVER *** [Kd 5d 4h Td][2d]
+Terremoto 14 checks
+Gris-Prune12 checks
+*** SHOW DOWN ***
+Terremoto 14 shows [8s Kc] (One pair : Kings)
+Gris-Prune12 shows [5h Th] (Two pairs : Tens and 5)
+Gris-Prune12 collected 10856 from pot
+*** SUMMARY ***
+Total pot 10856 | No rake
+Board: [Kd 5d 4h Td 2d]
+Seat 4: Terremoto 14 (small blind) showed [8s Kc] and lost with One pair : Kings
+Seat 5: Gris-Prune12 (big blind) showed [5h Th] and won 10856 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-19-1701537174 - Holdem no limit (120/500/1000) - 2023/12/02 17:12:54 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 1: glorivan (112676)
+Seat 2: RICOUDU13015 (93340)
+Seat 3: EmpereurSDF (121598)
+Seat 4: Terremoto 14 (93572)
+Seat 5: Gris-Prune12 (126438)
+Seat 6: P1xel7 (82370)
+*** ANTE/BLINDS ***
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [2h Qd]
+*** PRE-FLOP *** 
+glorivan calls 1000
+RICOUDU13015 folds
+EmpereurSDF raises 3500 to 4500
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 folds
+glorivan calls 3500
+*** FLOP *** [Td 8c 3h]
+glorivan checks
+EmpereurSDF bets 4427
+glorivan calls 4427
+*** TURN *** [Td 8c 3h][Ah]
+glorivan checks
+EmpereurSDF checks
+*** RIVER *** [Td 8c 3h Ah][Kd]
+glorivan bets 7026
+EmpereurSDF calls 7026
+*** SHOW DOWN ***
+EmpereurSDF shows [8s Ks] (Two pairs : Kings and 8)
+glorivan shows [Ts Kc] (Two pairs : Kings and Tens)
+glorivan collected 34126 from pot
+*** SUMMARY ***
+Total pot 34126 | No rake
+Board: [Td 8c 3h Ah Kd]
+Seat 1: glorivan showed [Ts Kc] and won 34126 with Two pairs : Kings and Tens
+Seat 3: EmpereurSDF showed [8s Ks] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-20-1701537228 - Holdem no limit (120/500/1000) - 2023/12/02 17:13:48 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 1: glorivan (130729)
+Seat 2: RICOUDU13015 (93220)
+Seat 3: EmpereurSDF (105525)
+Seat 4: Terremoto 14 (93452)
+Seat 5: Gris-Prune12 (125818)
+Seat 6: P1xel7 (81250)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts small blind 500
+glorivan posts big blind 1000
+Dealt to P1xel7 [3s 5s]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+EmpereurSDF raises 1500 to 2500
+Terremoto 14 calls 2500
+Gris-Prune12 folds
+P1xel7 folds
+glorivan folds
+*** FLOP *** [Td Ac Kc]
+EmpereurSDF bets 2527
+Terremoto 14 calls 2527
+*** TURN *** [Td Ac Kc][2d]
+EmpereurSDF bets 6137
+Terremoto 14 calls 6137
+*** RIVER *** [Td Ac Kc 2d][4h]
+EmpereurSDF bets 12274
+Terremoto 14 folds
+EmpereurSDF collected 36822 from pot
+*** SUMMARY ***
+Total pot 36822 | No rake
+Board: [Td Ac Kc 2d 4h]
+Seat 3: EmpereurSDF won 36822
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-21-1701537302 - Holdem no limit (120/500/1000) - 2023/12/02 17:15:02 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (129609)
+Seat 2: RICOUDU13015 (93100)
+Seat 3: EmpereurSDF (118789)
+Seat 4: Terremoto 14 (82168)
+Seat 5: Gris-Prune12 (125698)
+Seat 6: P1xel7 (80630)
+*** ANTE/BLINDS ***
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts small blind 500
+RICOUDU13015 posts big blind 1000
+Dealt to P1xel7 [2s 5c]
+*** PRE-FLOP *** 
+EmpereurSDF raises 1500 to 2500
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 folds
+glorivan calls 2000
+RICOUDU13015 folds
+*** FLOP *** [6d Qh 6c]
+glorivan checks
+EmpereurSDF bets 2352
+glorivan folds
+EmpereurSDF collected 9072 from pot
+*** SUMMARY ***
+Total pot 9072 | No rake
+Board: [6d Qh 6c]
+Seat 3: EmpereurSDF won 9072
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-22-1701537379 - Holdem no limit (120/500/1000) - 2023/12/02 17:16:19 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #1 is the button
+Seat 1: glorivan (126989)
+Seat 2: RICOUDU13015 (91980)
+Seat 3: EmpereurSDF (122889)
+Seat 4: Terremoto 14 (82048)
+Seat 5: Gris-Prune12 (125578)
+Seat 6: P1xel7 (80510)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+glorivan posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+RICOUDU13015 posts small blind 500
+EmpereurSDF posts big blind 1000
+Dealt to P1xel7 [6d 4h]
+*** PRE-FLOP *** 
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 3: EmpereurSDF (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-23-1701537396 - Holdem no limit (120/500/1000) - 2023/12/02 17:16:36 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: glorivan (126869)
+Seat 2: RICOUDU13015 (91360)
+Seat 3: EmpereurSDF (123989)
+Seat 4: Terremoto 14 (81928)
+Seat 5: Gris-Prune12 (125458)
+Seat 6: P1xel7 (80390)
+*** ANTE/BLINDS ***
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+EmpereurSDF posts small blind 500
+Terremoto 14 posts big blind 1000
+Dealt to P1xel7 [3s Ah]
+*** PRE-FLOP *** 
+Gris-Prune12 folds
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF calls 500
+Terremoto 14 checks
+*** FLOP *** [4h 2c Tc]
+EmpereurSDF checks
+Terremoto 14 checks
+*** TURN *** [4h 2c Tc][Qd]
+EmpereurSDF checks
+Terremoto 14 bets 1000
+EmpereurSDF folds
+Terremoto 14 collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [4h 2c Tc Qd]
+Seat 4: Terremoto 14 (big blind) won 3720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-24-1701537428 - Holdem no limit (120/500/1000) - 2023/12/02 17:17:08 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: glorivan (126749)
+Seat 2: RICOUDU13015 (91240)
+Seat 3: EmpereurSDF (122869)
+Seat 4: Terremoto 14 (83528)
+Seat 5: Gris-Prune12 (125338)
+Seat 6: P1xel7 (80270)
+*** ANTE/BLINDS ***
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+P1xel7 posts ante 120
+Terremoto 14 posts small blind 500
+Gris-Prune12 posts big blind 1000
+Dealt to P1xel7 [Qs Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 1500 to 2500
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF folds
+Terremoto 14 calls 2000
+Gris-Prune12 folds
+*** FLOP *** [2h Kh Qh]
+Terremoto 14 checks
+P1xel7 checks
+*** TURN *** [2h Kh Qh][6s]
+Terremoto 14 checks
+P1xel7 bets 2352
+Terremoto 14 calls 2352
+*** RIVER *** [2h Kh Qh 6s][9s]
+Terremoto 14 checks
+P1xel7 checks
+*** SHOW DOWN ***
+Terremoto 14 shows [Jc 9c] (One pair : 9)
+P1xel7 shows [Qs Ac] (One pair : Queens)
+P1xel7 collected 11424 from pot
+*** SUMMARY ***
+Total pot 11424 | No rake
+Board: [2h Kh Qh 6s 9s]
+Seat 4: Terremoto 14 (small blind) showed [Jc 9c] and lost with One pair : 9
+Seat 6: P1xel7 showed [Qs Ac] and won 11424 with One pair : Queens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-25-1701537484 - Holdem no limit (120/500/1000) - 2023/12/02 17:18:04 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 1: glorivan (126629)
+Seat 2: RICOUDU13015 (91120)
+Seat 3: EmpereurSDF (122749)
+Seat 4: Terremoto 14 (78556)
+Seat 5: Gris-Prune12 (124218)
+Seat 6: P1xel7 (86722)
+*** ANTE/BLINDS ***
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [9h 6d]
+*** PRE-FLOP *** 
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF raises 1500 to 2500
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 folds
+EmpereurSDF collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 3: EmpereurSDF won 4720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-26-1701537559 - Holdem no limit (120/500/1000) - 2023/12/02 17:19:19 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 1: glorivan (126509)
+Seat 2: RICOUDU13015 (91000)
+Seat 3: EmpereurSDF (124849)
+Seat 4: Terremoto 14 (78436)
+Seat 5: Gris-Prune12 (123598)
+Seat 6: P1xel7 (85602)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts small blind 500
+glorivan posts big blind 1000
+Dealt to P1xel7 [5s As]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+EmpereurSDF raises 1500 to 2500
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 calls 2000
+glorivan folds
+*** FLOP *** [Kc 5c 7c]
+P1xel7 checks
+EmpereurSDF bets 2352
+P1xel7 calls 2352
+*** TURN *** [Kc 5c 7c][Qc]
+P1xel7 checks
+EmpereurSDF checks
+*** RIVER *** [Kc 5c 7c Qc][4c]
+P1xel7 bets 3998
+EmpereurSDF folds
+P1xel7 collected 15422 from pot
+*** SUMMARY ***
+Total pot 15422 | No rake
+Board: [Kc 5c 7c Qc 4c]
+Seat 6: P1xel7 (small blind) won 15422
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-27-1701537610 - Holdem no limit (120/500/1000) - 2023/12/02 17:20:10 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (125389)
+Seat 2: RICOUDU13015 (90880)
+Seat 3: EmpereurSDF (119877)
+Seat 4: Terremoto 14 (78316)
+Seat 5: Gris-Prune12 (123478)
+Seat 6: P1xel7 (92054)
+*** ANTE/BLINDS ***
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts small blind 500
+RICOUDU13015 posts big blind 1000
+Dealt to P1xel7 [7h 2s]
+*** PRE-FLOP *** 
+EmpereurSDF folds
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 folds
+glorivan raises 1000 to 2000
+RICOUDU13015 folds
+glorivan collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Seat 1: glorivan (small blind) won 3720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-28-1701537639 - Holdem no limit (120/500/1000) - 2023/12/02 17:20:39 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #1 is the button
+Seat 1: glorivan (126989)
+Seat 2: RICOUDU13015 (89760)
+Seat 3: EmpereurSDF (119757)
+Seat 4: Terremoto 14 (78196)
+Seat 5: Gris-Prune12 (123358)
+Seat 6: P1xel7 (91934)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+glorivan posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+RICOUDU13015 posts small blind 500
+EmpereurSDF posts big blind 1000
+Dealt to P1xel7 [Qd Jc]
+*** PRE-FLOP *** 
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 raises 1500 to 2500
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF folds
+P1xel7 collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 6: P1xel7 won 4720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-29-1701537651 - Holdem no limit (120/500/1000) - 2023/12/02 17:20:51 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: glorivan (126869)
+Seat 2: RICOUDU13015 (89140)
+Seat 3: EmpereurSDF (118637)
+Seat 4: Terremoto 14 (78076)
+Seat 5: Gris-Prune12 (123238)
+Seat 6: P1xel7 (94034)
+*** ANTE/BLINDS ***
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+EmpereurSDF posts small blind 500
+Terremoto 14 posts big blind 1000
+Dealt to P1xel7 [Qc 4h]
+*** PRE-FLOP *** 
+Gris-Prune12 folds
+P1xel7 folds
+glorivan calls 1000
+RICOUDU13015 folds
+EmpereurSDF folds
+Terremoto 14 checks
+*** FLOP *** [7s Qh Ks]
+Terremoto 14 checks
+glorivan checks
+*** TURN *** [7s Qh Ks][Kd]
+Terremoto 14 checks
+glorivan bets 1610
+Terremoto 14 calls 1610
+*** RIVER *** [7s Qh Ks Kd][9h]
+Terremoto 14 bets 2254
+glorivan calls 2254
+*** SHOW DOWN ***
+Terremoto 14 shows [As 2d] (One pair : Kings)
+glorivan shows [6h 6s] (Two pairs : Kings and 6)
+glorivan collected 10948 from pot
+*** SUMMARY ***
+Total pot 10948 | No rake
+Board: [7s Qh Ks Kd 9h]
+Seat 1: glorivan showed [6h 6s] and won 10948 with Two pairs : Kings and 6
+Seat 4: Terremoto 14 (big blind) showed [As 2d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-30-1701537696 - Holdem no limit (120/500/1000) - 2023/12/02 17:21:36 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: glorivan (132833)
+Seat 2: RICOUDU13015 (89020)
+Seat 3: EmpereurSDF (118017)
+Seat 4: Terremoto 14 (73092)
+Seat 5: Gris-Prune12 (123118)
+Seat 6: P1xel7 (93914)
+*** ANTE/BLINDS ***
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+P1xel7 posts ante 120
+Terremoto 14 posts small blind 500
+Gris-Prune12 posts big blind 1000
+Dealt to P1xel7 [Kd Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 1500 to 2500
+glorivan calls 2500
+RICOUDU13015 folds
+EmpereurSDF calls 2500
+Terremoto 14 folds
+Gris-Prune12 calls 1500
+*** FLOP *** [Td 7h 7c]
+Gris-Prune12 bets 7293
+P1xel7 folds
+glorivan folds
+EmpereurSDF folds
+Gris-Prune12 collected 18513 from pot
+*** SUMMARY ***
+Total pot 18513 | No rake
+Board: [Td 7h 7c]
+Seat 5: Gris-Prune12 (big blind) won 18513
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-31-1701537728 - Holdem no limit (120/500/1000) - 2023/12/02 17:22:08 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 1: glorivan (130213)
+Seat 2: RICOUDU13015 (88900)
+Seat 3: EmpereurSDF (115397)
+Seat 4: Terremoto 14 (72472)
+Seat 5: Gris-Prune12 (131718)
+Seat 6: P1xel7 (91294)
+*** ANTE/BLINDS ***
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [4s 8h]
+*** PRE-FLOP *** 
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF folds
+Terremoto 14 calls 1000
+Gris-Prune12 folds
+P1xel7 checks
+*** FLOP *** [Qc 8s 5h]
+P1xel7 checks
+Terremoto 14 checks
+*** TURN *** [Qc 8s 5h][3c]
+P1xel7 bets 1127
+Terremoto 14 folds
+P1xel7 collected 4347 from pot
+*** SUMMARY ***
+Total pot 4347 | No rake
+Board: [Qc 8s 5h 3c]
+Seat 6: P1xel7 (big blind) won 4347
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-32-1701537826 - Holdem no limit (120/500/1000) - 2023/12/02 17:23:46 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 1: glorivan (130093)
+Seat 2: RICOUDU13015 (88780)
+Seat 3: EmpereurSDF (115277)
+Seat 4: Terremoto 14 (71352)
+Seat 5: Gris-Prune12 (131098)
+Seat 6: P1xel7 (93394)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts small blind 500
+glorivan posts big blind 1000
+Dealt to P1xel7 [7c 8s]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+EmpereurSDF raises 1500 to 2500
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 folds
+glorivan calls 1500
+*** FLOP *** [Ac Ad Qh]
+glorivan checks
+EmpereurSDF checks
+*** TURN *** [Ac Ad Qh][2h]
+glorivan bets 2177
+EmpereurSDF folds
+glorivan collected 8397 from pot
+*** SUMMARY ***
+Total pot 8397 | No rake
+Board: [Ac Ad Qh 2h]
+Seat 1: glorivan (big blind) won 8397
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-33-1701537851 - Holdem no limit (120/500/1000) - 2023/12/02 17:24:11 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (133693)
+Seat 2: RICOUDU13015 (88660)
+Seat 3: EmpereurSDF (112657)
+Seat 4: Terremoto 14 (71232)
+Seat 5: Gris-Prune12 (130978)
+Seat 6: P1xel7 (92774)
+*** ANTE/BLINDS ***
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts small blind 500
+RICOUDU13015 posts big blind 1000
+Dealt to P1xel7 [Kh Ac]
+*** PRE-FLOP *** 
+EmpereurSDF folds
+Terremoto 14 folds
+Gris-Prune12 calls 1000
+P1xel7 raises 1500 to 2500
+glorivan calls 2000
+RICOUDU13015 folds
+Gris-Prune12 calls 1500
+*** FLOP *** [Js 7d Qh]
+glorivan checks
+Gris-Prune12 checks
+P1xel7 checks
+*** TURN *** [Js 7d Qh][Qc]
+glorivan checks
+Gris-Prune12 bets 3227
+P1xel7 calls 3227
+glorivan folds
+*** RIVER *** [Js 7d Qh Qc][4c]
+Gris-Prune12 bets 1000
+P1xel7 raises 8337 to 9337
+Gris-Prune12 calls 8337
+*** SHOW DOWN ***
+P1xel7 shows [Kh Ac] (One pair : Queens)
+Gris-Prune12 shows [Kd 7s] (Two pairs : Queens and 7)
+Gris-Prune12 collected 34348 from pot
+*** SUMMARY ***
+Total pot 34348 | No rake
+Board: [Js 7d Qh Qc 4c]
+Seat 5: Gris-Prune12 showed [Kd 7s] and won 34348 with Two pairs : Queens and 7
+Seat 6: P1xel7 (button) showed [Kh Ac] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-34-1701537935 - Holdem no limit (120/500/1000) - 2023/12/02 17:25:35 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #1 is the button
+Seat 1: glorivan (131073)
+Seat 2: RICOUDU13015 (87540)
+Seat 3: EmpereurSDF (112537)
+Seat 4: Terremoto 14 (71112)
+Seat 5: Gris-Prune12 (150142)
+Seat 6: P1xel7 (77590)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+glorivan posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+RICOUDU13015 posts small blind 500
+EmpereurSDF posts big blind 1000
+Dealt to P1xel7 [Qs Jc]
+*** PRE-FLOP *** 
+Terremoto 14 folds
+Gris-Prune12 raises 1000 to 2000
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF folds
+Gris-Prune12 collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Seat 5: Gris-Prune12 won 4220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-35-1701537998 - Holdem no limit (120/500/1000) - 2023/12/02 17:26:38 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: glorivan (130953)
+Seat 2: RICOUDU13015 (86920)
+Seat 3: EmpereurSDF (111417)
+Seat 4: Terremoto 14 (70992)
+Seat 5: Gris-Prune12 (152242)
+Seat 6: P1xel7 (77470)
+*** ANTE/BLINDS ***
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+EmpereurSDF posts small blind 500
+Terremoto 14 posts big blind 1000
+Dealt to P1xel7 [Js 9s]
+*** PRE-FLOP *** 
+Gris-Prune12 folds
+P1xel7 folds
+glorivan calls 1000
+RICOUDU13015 folds
+EmpereurSDF raises 3500 to 4500
+Terremoto 14 folds
+glorivan calls 3500
+*** FLOP *** [Qc 6c 4h]
+EmpereurSDF bets 4252
+glorivan calls 4252
+*** TURN *** [Qc 6c 4h][4s]
+EmpereurSDF bets 9612
+glorivan folds
+EmpereurSDF collected 28836 from pot
+*** SUMMARY ***
+Total pot 28836 | No rake
+Board: [Qc 6c 4h 4s]
+Seat 3: EmpereurSDF (small blind) won 28836
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-36-1701538058 - Holdem no limit (120/500/1000) - 2023/12/02 17:27:38 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: glorivan (122081)
+Seat 2: RICOUDU13015 (86800)
+Seat 3: EmpereurSDF (121769)
+Seat 4: Terremoto 14 (69872)
+Seat 5: Gris-Prune12 (152122)
+Seat 6: P1xel7 (77350)
+*** ANTE/BLINDS ***
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+P1xel7 posts ante 120
+Terremoto 14 posts small blind 500
+Gris-Prune12 posts big blind 1000
+Dealt to P1xel7 [Qh 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF folds
+Terremoto 14 calls 500
+Gris-Prune12 checks
+*** FLOP *** [9h Ts Ah]
+Terremoto 14 checks
+Gris-Prune12 bets 1000
+Terremoto 14 calls 1000
+*** TURN *** [9h Ts Ah][8c]
+Terremoto 14 bets 2360
+Gris-Prune12 calls 2360
+*** RIVER *** [9h Ts Ah 8c][2h]
+Terremoto 14 bets 3304
+Gris-Prune12 calls 3304
+*** SHOW DOWN ***
+Gris-Prune12 shows [9s 7h] (One pair : 9)
+Terremoto 14 shows [Kc Kh] (One pair : Kings)
+Terremoto 14 collected 16048 from pot
+*** SUMMARY ***
+Total pot 16048 | No rake
+Board: [9h Ts Ah 8c 2h]
+Seat 4: Terremoto 14 (small blind) showed [Kc Kh] and won 16048 with One pair : Kings
+Seat 5: Gris-Prune12 (big blind) showed [9s 7h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-37-1701538115 - Holdem no limit (120/500/1000) - 2023/12/02 17:28:35 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 1: glorivan (121961)
+Seat 2: RICOUDU13015 (86680)
+Seat 3: EmpereurSDF (121649)
+Seat 4: Terremoto 14 (78136)
+Seat 5: Gris-Prune12 (144338)
+Seat 6: P1xel7 (77230)
+*** ANTE/BLINDS ***
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [2d 5s]
+*** PRE-FLOP *** 
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF folds
+Terremoto 14 calls 1000
+Gris-Prune12 calls 500
+P1xel7 checks
+*** FLOP *** [6d 9h 2h]
+Gris-Prune12 checks
+P1xel7 checks
+Terremoto 14 checks
+*** TURN *** [6d 9h 2h][6s]
+Gris-Prune12 checks
+P1xel7 checks
+Terremoto 14 checks
+*** RIVER *** [6d 9h 2h 6s][Jh]
+Gris-Prune12 checks
+P1xel7 checks
+Terremoto 14 bets 1860
+Gris-Prune12 folds
+P1xel7 calls 1860
+*** SHOW DOWN ***
+P1xel7 shows [2d 5s] (Two pairs : 6 and 2)
+Terremoto 14 shows [3s 3d] (Two pairs : 6 and 3)
+Terremoto 14 collected 7440 from pot
+*** SUMMARY ***
+Total pot 7440 | No rake
+Board: [6d 9h 2h 6s Jh]
+Seat 4: Terremoto 14 (button) showed [3s 3d] and won 7440 with Two pairs : 6 and 3
+Seat 6: P1xel7 (big blind) showed [2d 5s] and lost with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-38-1701538167 - Holdem no limit (120/500/1000) - 2023/12/02 17:29:27 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 1: glorivan (121841)
+Seat 2: RICOUDU13015 (86560)
+Seat 3: EmpereurSDF (121529)
+Seat 4: Terremoto 14 (82596)
+Seat 5: Gris-Prune12 (143218)
+Seat 6: P1xel7 (74250)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts small blind 500
+glorivan posts big blind 1000
+Dealt to P1xel7 [8h 3c]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+EmpereurSDF raises 1500 to 2500
+Terremoto 14 calls 2500
+Gris-Prune12 calls 2500
+P1xel7 folds
+glorivan calls 1500
+*** FLOP *** [Qh Kd 6c]
+glorivan checks
+EmpereurSDF bets 3305
+Terremoto 14 calls 3305
+Gris-Prune12 calls 3305
+glorivan folds
+*** TURN *** [Qh Kd 6c][Js]
+EmpereurSDF bets 13738
+Terremoto 14 calls 13738
+Gris-Prune12 calls 13738
+*** RIVER *** [Qh Kd 6c Js][8d]
+EmpereurSDF checks
+Terremoto 14 checks
+Gris-Prune12 checks
+*** SHOW DOWN ***
+Terremoto 14 shows [Qd 9d] (One pair : Queens)
+Gris-Prune12 shows [Td Kh] (One pair : Kings)
+EmpereurSDF shows [Ks Qs] (Two pairs : Kings and Queens)
+EmpereurSDF collected 62349 from pot
+*** SUMMARY ***
+Total pot 62349 | No rake
+Board: [Qh Kd 6c Js 8d]
+Seat 3: EmpereurSDF showed [Ks Qs] and won 62349 with Two pairs : Kings and Queens
+Seat 4: Terremoto 14 showed [Qd 9d] and lost with One pair : Queens
+Seat 5: Gris-Prune12 (button) showed [Td Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-39-1701538235 - Holdem no limit (120/500/1000) - 2023/12/02 17:30:35 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (119221)
+Seat 2: RICOUDU13015 (86440)
+Seat 3: EmpereurSDF (164215)
+Seat 4: Terremoto 14 (62933)
+Seat 5: Gris-Prune12 (123555)
+Seat 6: P1xel7 (73630)
+*** ANTE/BLINDS ***
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts small blind 500
+RICOUDU13015 posts big blind 1000
+Dealt to P1xel7 [5d 6h]
+*** PRE-FLOP *** 
+EmpereurSDF folds
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 folds
+glorivan raises 1000 to 2000
+RICOUDU13015 folds
+glorivan collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Seat 1: glorivan (small blind) won 3720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-40-1701538250 - Holdem no limit (120/500/1000) - 2023/12/02 17:30:50 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #1 is the button
+Seat 1: glorivan (120821)
+Seat 2: RICOUDU13015 (85320)
+Seat 3: EmpereurSDF (164095)
+Seat 4: Terremoto 14 (62813)
+Seat 5: Gris-Prune12 (123435)
+Seat 6: P1xel7 (73510)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+glorivan posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+RICOUDU13015 posts small blind 500
+EmpereurSDF posts big blind 1000
+Dealt to P1xel7 [2s As]
+*** PRE-FLOP *** 
+Terremoto 14 folds
+Gris-Prune12 raises 1500 to 2500
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF folds
+Gris-Prune12 collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 5: Gris-Prune12 won 4720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-41-1701538266 - Holdem no limit (120/500/1000) - 2023/12/02 17:31:06 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: glorivan (120701)
+Seat 2: RICOUDU13015 (84700)
+Seat 3: EmpereurSDF (162975)
+Seat 4: Terremoto 14 (62693)
+Seat 5: Gris-Prune12 (125535)
+Seat 6: P1xel7 (73390)
+*** ANTE/BLINDS ***
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+EmpereurSDF posts small blind 500
+Terremoto 14 posts big blind 1000
+Dealt to P1xel7 [4s Ad]
+*** PRE-FLOP *** 
+Gris-Prune12 raises 2000 to 3000
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF calls 2500
+Terremoto 14 folds
+*** FLOP *** [5c Ac Qd]
+EmpereurSDF checks
+Gris-Prune12 bets 2702
+EmpereurSDF folds
+Gris-Prune12 collected 10422 from pot
+*** SUMMARY ***
+Total pot 10422 | No rake
+Board: [5c Ac Qd]
+Seat 5: Gris-Prune12 won 10422
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-42-1701538284 - Holdem no limit (120/500/1000) - 2023/12/02 17:31:24 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: glorivan (120581)
+Seat 2: RICOUDU13015 (84580)
+Seat 3: EmpereurSDF (159855)
+Seat 4: Terremoto 14 (61573)
+Seat 5: Gris-Prune12 (130135)
+Seat 6: P1xel7 (73270)
+*** ANTE/BLINDS ***
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+P1xel7 posts ante 120
+Terremoto 14 posts small blind 500
+Gris-Prune12 posts big blind 1000
+Dealt to P1xel7 [9s Kd]
+*** PRE-FLOP *** 
+P1xel7 folds
+glorivan calls 1000
+RICOUDU13015 folds
+EmpereurSDF folds
+Terremoto 14 calls 500
+Gris-Prune12 checks
+*** FLOP *** [9d Td 3d]
+Terremoto 14 checks
+Gris-Prune12 bets 3720
+glorivan calls 3720
+Terremoto 14 folds
+*** TURN *** [9d Td 3d][Ks]
+Gris-Prune12 checks
+glorivan checks
+*** RIVER *** [9d Td 3d Ks][2h]
+Gris-Prune12 checks
+glorivan checks
+*** SHOW DOWN ***
+glorivan shows [6c Ad] (High card : Ace)
+Gris-Prune12 shows [9h Ts] (Two pairs : Tens and 9)
+Gris-Prune12 collected 11160 from pot
+*** SUMMARY ***
+Total pot 11160 | No rake
+Board: [9d Td 3d Ks 2h]
+Seat 1: glorivan showed [6c Ad] and lost with High card : Ace
+Seat 5: Gris-Prune12 (big blind) showed [9h Ts] and won 11160 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-43-1701538341 - Holdem no limit (120/500/1000) - 2023/12/02 17:32:21 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 1: glorivan (115741)
+Seat 2: RICOUDU13015 (84460)
+Seat 3: EmpereurSDF (159735)
+Seat 4: Terremoto 14 (60453)
+Seat 5: Gris-Prune12 (136455)
+Seat 6: P1xel7 (73150)
+*** ANTE/BLINDS ***
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Ts Qc]
+*** PRE-FLOP *** 
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF raises 1500 to 2500
+Terremoto 14 folds
+Gris-Prune12 calls 2000
+P1xel7 calls 1500
+*** FLOP *** [8d 4h Ad]
+Gris-Prune12 checks
+P1xel7 checks
+EmpereurSDF bets 5343
+Gris-Prune12 calls 5343
+P1xel7 folds
+*** TURN *** [8d 4h Ad][Kd]
+Gris-Prune12 bets 128492 and is all-in
+EmpereurSDF folds
+Gris-Prune12 collected 147398 from pot
+*** SUMMARY ***
+Total pot 147398 | No rake
+Board: [8d 4h Ad Kd]
+Seat 5: Gris-Prune12 (small blind) won 147398
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-44-1701538383 - Holdem no limit (120/500/1000) - 2023/12/02 17:33:03 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 1: glorivan (115621)
+Seat 2: RICOUDU13015 (84340)
+Seat 3: EmpereurSDF (151772)
+Seat 4: Terremoto 14 (60333)
+Seat 5: Gris-Prune12 (147398)
+Seat 6: P1xel7 (70530)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts small blind 500
+glorivan posts big blind 1000
+Dealt to P1xel7 [Ts 6d]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+EmpereurSDF folds
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 folds
+glorivan collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 1: glorivan (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-45-1701538391 - Holdem no limit (120/500/1000) - 2023/12/02 17:33:11 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (116721)
+Seat 2: RICOUDU13015 (84220)
+Seat 3: EmpereurSDF (151652)
+Seat 4: Terremoto 14 (60213)
+Seat 5: Gris-Prune12 (147278)
+Seat 6: P1xel7 (69910)
+*** ANTE/BLINDS ***
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts small blind 500
+RICOUDU13015 posts big blind 1000
+Dealt to P1xel7 [Kd 6h]
+*** PRE-FLOP *** 
+EmpereurSDF folds
+Terremoto 14 folds
+Gris-Prune12 raises 2000 to 3000
+P1xel7 folds
+glorivan calls 2500
+RICOUDU13015 folds
+*** FLOP *** [6s Tc Ah]
+glorivan bets 1000
+Gris-Prune12 calls 1000
+*** TURN *** [6s Tc Ah][Jd]
+glorivan bets 1000
+Gris-Prune12 calls 1000
+*** RIVER *** [6s Tc Ah Jd][8d]
+glorivan bets 7618
+Gris-Prune12 folds
+glorivan collected 19338 from pot
+*** SUMMARY ***
+Total pot 19338 | No rake
+Board: [6s Tc Ah Jd 8d]
+Seat 1: glorivan (small blind) won 19338
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-46-1701538438 - Holdem no limit (120/500/1000) - 2023/12/02 17:33:58 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #1 is the button
+Seat 1: glorivan (123321)
+Seat 2: RICOUDU13015 (83100)
+Seat 3: EmpereurSDF (151532)
+Seat 4: Terremoto 14 (60093)
+Seat 5: Gris-Prune12 (142158)
+Seat 6: P1xel7 (69790)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+glorivan posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+RICOUDU13015 posts small blind 500
+EmpereurSDF posts big blind 1000
+Dealt to P1xel7 [5d 5c]
+*** PRE-FLOP *** 
+Terremoto 14 folds
+Gris-Prune12 calls 1000
+P1xel7 raises 3000 to 4000
+glorivan calls 4000
+RICOUDU13015 folds
+EmpereurSDF folds
+Gris-Prune12 folds
+*** FLOP *** [8d Qd Kh]
+P1xel7 checks
+glorivan checks
+*** TURN *** [8d Qd Kh][Ah]
+P1xel7 checks
+glorivan checks
+*** RIVER *** [8d Qd Kh Ah][Jd]
+P1xel7 checks
+glorivan bets 5610
+P1xel7 folds
+glorivan collected 16830 from pot
+*** SUMMARY ***
+Total pot 16830 | No rake
+Board: [8d Qd Kh Ah Jd]
+Seat 1: glorivan (button) won 16830
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-47-1701538482 - Holdem no limit (120/500/1000) - 2023/12/02 17:34:42 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: glorivan (130421)
+Seat 2: RICOUDU13015 (82480)
+Seat 3: EmpereurSDF (150412)
+Seat 4: Terremoto 14 (59973)
+Seat 5: Gris-Prune12 (141038)
+Seat 6: P1xel7 (65670)
+*** ANTE/BLINDS ***
+EmpereurSDF posts ante 120
+Terremoto 14 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+EmpereurSDF posts small blind 500
+Terremoto 14 posts big blind 1000
+Dealt to P1xel7 [8d 7c]
+*** PRE-FLOP *** 
+Gris-Prune12 raises 3220 to 4220
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+EmpereurSDF raises 8440 to 12660
+Terremoto 14 folds
+Gris-Prune12 raises 128258 to 140918 and is all-in
+EmpereurSDF raises 9374 to 150292 and is all-in
+*** FLOP *** [4d Qh Js]
+*** TURN *** [4d Qh Js][6c]
+*** RIVER *** [4d Qh Js 6c][4h]
+*** SHOW DOWN ***
+EmpereurSDF shows [Ad Ks] (One pair : 4)
+Gris-Prune12 shows [Jh Jd] (Full of Jacks and 4)
+Gris-Prune12 collected 283556 from main pot
+EmpereurSDF collected 9374 from side pot 1
+*** SUMMARY ***
+Total pot 292930 | No rake
+Board: [4d Qh Js 6c 4h]
+Seat 3: EmpereurSDF (small blind) showed [Ad Ks] and won 9374 with One pair : 4
+Seat 5: Gris-Prune12 showed [Jh Jd] and won 283556 with Full of Jacks and 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-48-1701538512 - Holdem no limit (120/500/1000) - 2023/12/02 17:35:12 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: glorivan (130301)
+Seat 2: RICOUDU13015 (82360)
+Seat 3: EmpereurSDF (9374)
+Seat 4: Terremoto 14 (58853)
+Seat 5: Gris-Prune12 (283556)
+Seat 6: P1xel7 (65550)
+*** ANTE/BLINDS ***
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+EmpereurSDF posts ante 120
+P1xel7 posts ante 120
+Terremoto 14 posts small blind 500
+Gris-Prune12 posts big blind 1000
+Dealt to P1xel7 [9d 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+glorivan raises 3220 to 4220
+RICOUDU13015 folds
+EmpereurSDF raises 5034 to 9254 and is all-in
+Terremoto 14 folds
+Gris-Prune12 calls 8254
+glorivan raises 120927 to 130181 and is all-in
+Gris-Prune12 calls 120927
+*** FLOP *** [7d 8d Jh]
+*** TURN *** [7d 8d Jh][2d]
+*** RIVER *** [7d 8d Jh 2d][9h]
+*** SHOW DOWN ***
+EmpereurSDF shows [2c Qs] (One pair : 2)
+Gris-Prune12 shows [Ac 6d] (High card : Ace)
+glorivan shows [Qd Qc] (One pair : Queens)
+glorivan collected 270836 from pot
+*** SUMMARY ***
+Total pot 270836 | No rake
+Board: [7d 8d Jh 2d 9h]
+Seat 1: glorivan showed [Qd Qc] and won 270836 with One pair : Queens
+Seat 3: EmpereurSDF (button) showed [2c Qs] and lost with One pair : 2
+Seat 5: Gris-Prune12 (big blind) showed [Ac 6d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-49-1701538541 - Holdem no limit (120/500/1000) - 2023/12/02 17:35:41 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 1: glorivan (270836)
+Seat 2: RICOUDU13015 (82240)
+Seat 4: Terremoto 14 (58233)
+Seat 5: Gris-Prune12 (153255)
+Seat 6: P1xel7 (65430)
+*** ANTE/BLINDS ***
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [2s Ad]
+*** PRE-FLOP *** 
+glorivan folds
+RICOUDU13015 folds
+Terremoto 14 folds
+Gris-Prune12 calls 500
+P1xel7 checks
+*** FLOP *** [Jh Td Kd]
+Gris-Prune12 bets 1690
+P1xel7 calls 1690
+*** TURN *** [Jh Td Kd][2h]
+Gris-Prune12 bets 1000
+P1xel7 calls 1000
+*** RIVER *** [Jh Td Kd 2h][8h]
+Gris-Prune12 checks
+P1xel7 bets 3990
+Gris-Prune12 calls 3990
+*** SHOW DOWN ***
+P1xel7 shows [2s Ad] (One pair : 2)
+Gris-Prune12 shows [Jc 9h] (One pair : Jacks)
+Gris-Prune12 collected 15960 from pot
+*** SUMMARY ***
+Total pot 15960 | No rake
+Board: [Jh Td Kd 2h 8h]
+Seat 5: Gris-Prune12 (small blind) showed [Jc 9h] and won 15960 with One pair : Jacks
+Seat 6: P1xel7 (big blind) showed [2s Ad] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-50-1701538584 - Holdem no limit (120/500/1000) - 2023/12/02 17:36:24 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 1: glorivan (270716)
+Seat 2: RICOUDU13015 (82120)
+Seat 3: Minelix (100000)
+Seat 4: Terremoto 14 (58113)
+Seat 5: Gris-Prune12 (161415)
+Seat 6: P1xel7 (57630)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Minelix posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts small blind 500
+glorivan posts big blind 1000
+Dealt to P1xel7 [9s 5h]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 folds
+Gris-Prune12 raises 1000 to 2000
+P1xel7 folds
+glorivan calls 1000
+*** FLOP *** [Jc 6d 7c]
+glorivan checks
+Gris-Prune12 bets 1000
+glorivan folds
+Gris-Prune12 collected 6220 from pot
+*** SUMMARY ***
+Total pot 6220 | No rake
+Board: [Jc 6d 7c]
+Seat 5: Gris-Prune12 (button) won 6220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-51-1701538648 - Holdem no limit (120/500/1000) - 2023/12/02 17:37:28 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (268596)
+Seat 2: RICOUDU13015 (82000)
+Seat 3: Minelix (99880)
+Seat 4: Terremoto 14 (57993)
+Seat 5: Gris-Prune12 (164515)
+Seat 6: P1xel7 (57010)
+*** ANTE/BLINDS ***
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Minelix posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+glorivan posts small blind 500
+RICOUDU13015 posts big blind 1000
+Dealt to P1xel7 [5s Tc]
+*** PRE-FLOP *** 
+Minelix folds
+Terremoto 14 folds
+Gris-Prune12 raises 3220 to 4220
+P1xel7 folds
+glorivan calls 3720
+RICOUDU13015 folds
+*** FLOP *** [8c 4s 7c]
+glorivan bets 3556
+Gris-Prune12 calls 3556
+*** TURN *** [8c 4s 7c][Ac]
+glorivan checks
+Gris-Prune12 bets 6045
+glorivan folds
+Gris-Prune12 collected 23317 from pot
+*** SUMMARY ***
+Total pot 23317 | No rake
+Board: [8c 4s 7c Ac]
+Seat 5: Gris-Prune12 won 23317
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-52-1701538678 - Holdem no limit (120/500/1000) - 2023/12/02 17:37:58 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #1 is the button
+Seat 1: glorivan (260700)
+Seat 2: RICOUDU13015 (80880)
+Seat 3: Minelix (99760)
+Seat 4: Terremoto 14 (57873)
+Seat 5: Gris-Prune12 (173891)
+Seat 6: P1xel7 (56890)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 120
+Minelix posts ante 120
+glorivan posts ante 120
+Terremoto 14 posts ante 120
+Gris-Prune12 posts ante 120
+P1xel7 posts ante 120
+RICOUDU13015 posts small blind 500
+Minelix posts big blind 1000
+Dealt to P1xel7 [8s 2d]
+*** PRE-FLOP *** 
+Terremoto 14 folds
+Gris-Prune12 folds
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+Minelix collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 3: Minelix (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-53-1701538687 - Holdem no limit (120/500/1000) - 2023/12/02 17:38:07 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: glorivan (260580)
+Seat 2: RICOUDU13015 (80260)
+Seat 3: Minelix (100860)
+Seat 4: Terremoto 14 (57753)
+Seat 6: P1xel7 (56770)
+*** ANTE/BLINDS ***
+Minelix posts ante 120
+Terremoto 14 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+P1xel7 posts ante 120
+Minelix posts small blind 500
+Terremoto 14 posts big blind 1000
+Dealt to P1xel7 [6h Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 4: Terremoto 14 (big blind) won 2100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-54-1701538714 - Holdem no limit (120/500/1000) - 2023/12/02 17:38:34 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: glorivan (260460)
+Seat 2: RICOUDU13015 (80140)
+Seat 3: Minelix (100240)
+Seat 4: Terremoto 14 (58733)
+Seat 6: P1xel7 (56650)
+*** ANTE/BLINDS ***
+Terremoto 14 posts ante 120
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Minelix posts ante 120
+Terremoto 14 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [2c 8d]
+*** PRE-FLOP *** 
+glorivan folds
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 calls 500
+P1xel7 checks
+*** FLOP *** [Tc 7s 2s]
+Terremoto 14 checks
+P1xel7 checks
+*** TURN *** [Tc 7s 2s][Jc]
+Terremoto 14 checks
+P1xel7 checks
+*** RIVER *** [Tc 7s 2s Jc][Ac]
+Terremoto 14 bets 6186
+P1xel7 folds
+Terremoto 14 collected 8786 from pot
+*** SUMMARY ***
+Total pot 8786 | No rake
+Board: [Tc 7s 2s Jc Ac]
+Seat 4: Terremoto 14 (small blind) won 8786
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-55-1701538775 - Holdem no limit (120/500/1000) - 2023/12/02 17:39:35 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 1: glorivan (260340)
+Seat 2: RICOUDU13015 (80020)
+Seat 3: Minelix (100120)
+Seat 4: Terremoto 14 (60213)
+Seat 5: ScarpiaTDeum (100000)
+Seat 6: P1xel7 (55530)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Minelix posts ante 120
+Terremoto 14 posts ante 120
+P1xel7 posts small blind 500
+glorivan posts big blind 1000
+Dealt to P1xel7 [6s Qh]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 folds
+P1xel7 folds
+glorivan collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 1: glorivan (big blind) won 2100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3073990054608109576-56-1701538783 - Holdem no limit (120/500/1000) - 2023/12/02 17:39:43 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (261320)
+Seat 2: RICOUDU13015 (79900)
+Seat 3: Minelix (100000)
+Seat 4: Terremoto 14 (60093)
+Seat 5: ScarpiaTDeum (100000)
+Seat 6: P1xel7 (54910)
+*** ANTE/BLINDS ***
+glorivan posts ante 120
+RICOUDU13015 posts ante 120
+Minelix posts ante 120
+Terremoto 14 posts ante 120
+ScarpiaTDeum posts ante 120
+P1xel7 posts ante 120
+glorivan posts small blind 500
+RICOUDU13015 posts big blind 1000
+Dealt to P1xel7 [Jc Td]
+*** PRE-FLOP *** 
+Minelix folds
+Terremoto 14 folds
+ScarpiaTDeum folds
+P1xel7 raises 1500 to 2500
+glorivan calls 2000
+RICOUDU13015 folds
+*** FLOP *** [3c 2d 3s]
+glorivan checks
+P1xel7 checks
+*** TURN *** [3c 2d 3s][Qc]
+glorivan checks
+P1xel7 checks
+*** RIVER *** [3c 2d 3s Qc][6c]
+glorivan checks
+P1xel7 checks
+*** SHOW DOWN ***
+P1xel7 shows [Jc Td] (One pair : 3)
+glorivan shows [6h 9d] (Two pairs : 6 and 3)
+glorivan collected 6720 from pot
+*** SUMMARY ***
+Total pot 6720 | No rake
+Board: [3c 2d 3s Qc 6c]
+Seat 1: glorivan (small blind) showed [6h 9d] and won 6720 with Two pairs : 6 and 3
+Seat 6: P1xel7 (button) showed [Jc Td] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3073990054608109576-57-1701538826 - Holdem no limit (140/600/1200) - 2023/12/02 17:40:26 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #1 is the button
+Seat 1: glorivan (265420)
+Seat 2: RICOUDU13015 (78780)
+Seat 3: Minelix (99880)
+Seat 4: Terremoto 14 (59973)
+Seat 5: ScarpiaTDeum (99880)
+Seat 6: P1xel7 (52290)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 140
+Minelix posts ante 140
+glorivan posts ante 140
+Terremoto 14 posts ante 140
+ScarpiaTDeum posts ante 140
+P1xel7 posts ante 140
+RICOUDU13015 posts small blind 600
+Minelix posts big blind 1200
+Dealt to P1xel7 [As 5h]
+*** PRE-FLOP *** 
+Terremoto 14 calls 1200
+ScarpiaTDeum folds
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+Minelix checks
+*** FLOP *** [3c 6s 7c]
+Minelix checks
+Terremoto 14 bets 3072
+Minelix folds
+Terremoto 14 collected 6912 from pot
+*** SUMMARY ***
+Total pot 6912 | No rake
+Board: [3c 6s 7c]
+Seat 4: Terremoto 14 won 6912
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3073990054608109576-58-1701538860 - Holdem no limit (140/600/1200) - 2023/12/02 17:41:00 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: glorivan (265280)
+Seat 2: RICOUDU13015 (78040)
+Seat 3: Minelix (98540)
+Seat 4: Terremoto 14 (62473)
+Seat 5: ScarpiaTDeum (99740)
+Seat 6: P1xel7 (52150)
+*** ANTE/BLINDS ***
+Minelix posts ante 140
+Terremoto 14 posts ante 140
+glorivan posts ante 140
+RICOUDU13015 posts ante 140
+ScarpiaTDeum posts ante 140
+P1xel7 posts ante 140
+Minelix posts small blind 600
+Terremoto 14 posts big blind 1200
+Dealt to P1xel7 [Th 7h]
+*** PRE-FLOP *** 
+ScarpiaTDeum folds
+P1xel7 folds
+glorivan calls 1200
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 checks
+*** FLOP *** [9c 9d Td]
+Terremoto 14 checks
+glorivan checks
+*** TURN *** [9c 9d Td][4s]
+Terremoto 14 checks
+glorivan checks
+*** RIVER *** [9c 9d Td 4s][8h]
+Terremoto 14 bets 12469
+glorivan folds
+Terremoto 14 collected 16309 from pot
+*** SUMMARY ***
+Total pot 16309 | No rake
+Board: [9c 9d Td 4s 8h]
+Seat 4: Terremoto 14 (big blind) won 16309
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3073990054608109576-59-1701538947 - Holdem no limit (140/600/1200) - 2023/12/02 17:42:27 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: glorivan (263940)
+Seat 2: RICOUDU13015 (77900)
+Seat 3: Minelix (97800)
+Seat 4: Terremoto 14 (64973)
+Seat 5: ScarpiaTDeum (99600)
+Seat 6: P1xel7 (52010)
+*** ANTE/BLINDS ***
+Terremoto 14 posts ante 140
+ScarpiaTDeum posts ante 140
+glorivan posts ante 140
+RICOUDU13015 posts ante 140
+Minelix posts ante 140
+P1xel7 posts ante 140
+Terremoto 14 posts small blind 600
+ScarpiaTDeum posts big blind 1200
+Dealt to P1xel7 [2s 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 folds
+ScarpiaTDeum collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 5: ScarpiaTDeum (big blind) won 2640
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3073990054608109576-60-1701538968 - Holdem no limit (140/600/1200) - 2023/12/02 17:42:48 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 1: glorivan (263800)
+Seat 2: RICOUDU13015 (77760)
+Seat 3: Minelix (97660)
+Seat 4: Terremoto 14 (64233)
+Seat 5: ScarpiaTDeum (100900)
+Seat 6: P1xel7 (51870)
+*** ANTE/BLINDS ***
+ScarpiaTDeum posts ante 140
+P1xel7 posts ante 140
+glorivan posts ante 140
+RICOUDU13015 posts ante 140
+Minelix posts ante 140
+Terremoto 14 posts ante 140
+ScarpiaTDeum posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [4c 8c]
+*** PRE-FLOP *** 
+glorivan folds
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 calls 1200
+ScarpiaTDeum raises 4200 to 5400
+P1xel7 folds
+Terremoto 14 folds
+ScarpiaTDeum collected 8640 from pot
+*** SUMMARY ***
+Total pot 8640 | No rake
+Seat 5: ScarpiaTDeum (small blind) won 8640
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3073990054608109576-61-1701539008 - Holdem no limit (140/600/1200) - 2023/12/02 17:43:28 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 1: glorivan (263660)
+Seat 2: RICOUDU13015 (77620)
+Seat 3: Minelix (97520)
+Seat 4: Terremoto 14 (62893)
+Seat 5: ScarpiaTDeum (104000)
+Seat 6: P1xel7 (50530)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+glorivan posts ante 140
+RICOUDU13015 posts ante 140
+Minelix posts ante 140
+Terremoto 14 posts ante 140
+ScarpiaTDeum posts ante 140
+P1xel7 posts small blind 600
+glorivan posts big blind 1200
+Dealt to P1xel7 [9c 4d]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 folds
+ScarpiaTDeum raises 1500 to 2700
+P1xel7 folds
+glorivan calls 1500
+*** FLOP *** [Ad 3d Qs]
+glorivan checks
+ScarpiaTDeum bets 2394
+glorivan calls 2394
+*** TURN *** [Ad 3d Qs][6d]
+glorivan checks
+ScarpiaTDeum checks
+*** RIVER *** [Ad 3d Qs 6d][4h]
+glorivan checks
+ScarpiaTDeum checks
+*** SHOW DOWN ***
+ScarpiaTDeum shows [6s Js] (One pair : 6)
+glorivan shows [Jd Jc] (One pair : Jacks)
+glorivan collected 11628 from pot
+*** SUMMARY ***
+Total pot 11628 | No rake
+Board: [Ad 3d Qs 6d 4h]
+Seat 1: glorivan (big blind) showed [Jd Jc] and won 11628 with One pair : Jacks
+Seat 5: ScarpiaTDeum (button) showed [6s Js] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3073990054608109576-62-1701539086 - Holdem no limit (140/600/1200) - 2023/12/02 17:44:46 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (270054)
+Seat 2: RICOUDU13015 (77480)
+Seat 3: Minelix (97380)
+Seat 4: Terremoto 14 (62753)
+Seat 5: ScarpiaTDeum (98766)
+Seat 6: P1xel7 (49790)
+*** ANTE/BLINDS ***
+glorivan posts ante 140
+RICOUDU13015 posts ante 140
+Minelix posts ante 140
+Terremoto 14 posts ante 140
+ScarpiaTDeum posts ante 140
+P1xel7 posts ante 140
+glorivan posts small blind 600
+RICOUDU13015 posts big blind 1200
+Dealt to P1xel7 [6d 6h]
+*** PRE-FLOP *** 
+Minelix calls 1200
+Terremoto 14 folds
+ScarpiaTDeum folds
+P1xel7 raises 1800 to 3000
+glorivan calls 2400
+RICOUDU13015 folds
+Minelix calls 1800
+*** FLOP *** [9c As Ad]
+glorivan checks
+Minelix bets 94240 and is all-in
+P1xel7 folds
+glorivan folds
+Minelix collected 105280 from pot
+*** SUMMARY ***
+Total pot 105280 | No rake
+Board: [9c As Ad]
+Seat 3: Minelix won 105280
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3073990054608109576-63-1701539114 - Holdem no limit (140/600/1200) - 2023/12/02 17:45:14 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #1 is the button
+Seat 1: glorivan (266914)
+Seat 2: RICOUDU13015 (76140)
+Seat 3: Minelix (105280)
+Seat 4: Terremoto 14 (62613)
+Seat 5: ScarpiaTDeum (98626)
+Seat 6: P1xel7 (46650)
+*** ANTE/BLINDS ***
+RICOUDU13015 posts ante 140
+Minelix posts ante 140
+glorivan posts ante 140
+Terremoto 14 posts ante 140
+ScarpiaTDeum posts ante 140
+P1xel7 posts ante 140
+RICOUDU13015 posts small blind 600
+Minelix posts big blind 1200
+Dealt to P1xel7 [4s Ks]
+*** PRE-FLOP *** 
+Terremoto 14 folds
+ScarpiaTDeum folds
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+Minelix collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 3: Minelix (big blind) won 2640
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3073990054608109576-64-1701539123 - Holdem no limit (140/600/1200) - 2023/12/02 17:45:23 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #2 is the button
+Seat 1: glorivan (266774)
+Seat 2: RICOUDU13015 (75400)
+Seat 3: Minelix (106580)
+Seat 4: Terremoto 14 (62473)
+Seat 5: ScarpiaTDeum (98486)
+Seat 6: P1xel7 (46510)
+*** ANTE/BLINDS ***
+Minelix posts ante 140
+Terremoto 14 posts ante 140
+glorivan posts ante 140
+RICOUDU13015 posts ante 140
+ScarpiaTDeum posts ante 140
+P1xel7 posts ante 140
+Minelix posts small blind 600
+Terremoto 14 posts big blind 1200
+Dealt to P1xel7 [Th 7s]
+*** PRE-FLOP *** 
+ScarpiaTDeum folds
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 4: Terremoto 14 (big blind) won 2640
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3073990054608109576-65-1701539150 - Holdem no limit (140/600/1200) - 2023/12/02 17:45:50 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #3 is the button
+Seat 1: glorivan (266634)
+Seat 2: RICOUDU13015 (75260)
+Seat 3: Minelix (105840)
+Seat 4: Terremoto 14 (63773)
+Seat 5: ScarpiaTDeum (98346)
+Seat 6: P1xel7 (46370)
+*** ANTE/BLINDS ***
+Terremoto 14 posts ante 140
+ScarpiaTDeum posts ante 140
+glorivan posts ante 140
+RICOUDU13015 posts ante 140
+Minelix posts ante 140
+P1xel7 posts ante 140
+Terremoto 14 posts small blind 600
+ScarpiaTDeum posts big blind 1200
+Dealt to P1xel7 [Qs Td]
+*** PRE-FLOP *** 
+P1xel7 folds
+glorivan folds
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 calls 600
+ScarpiaTDeum raises 3000 to 4200
+Terremoto 14 folds
+ScarpiaTDeum collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | No rake
+Seat 5: ScarpiaTDeum (big blind) won 6240
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3073990054608109576-66-1701539175 - Holdem no limit (140/600/1200) - 2023/12/02 17:46:15 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #4 is the button
+Seat 1: glorivan (266494)
+Seat 2: RICOUDU13015 (75120)
+Seat 3: Minelix (105700)
+Seat 4: Terremoto 14 (62433)
+Seat 5: ScarpiaTDeum (100246)
+Seat 6: P1xel7 (46230)
+*** ANTE/BLINDS ***
+ScarpiaTDeum posts ante 140
+P1xel7 posts ante 140
+glorivan posts ante 140
+RICOUDU13015 posts ante 140
+Minelix posts ante 140
+Terremoto 14 posts ante 140
+ScarpiaTDeum posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [9h 6h]
+*** PRE-FLOP *** 
+glorivan raises 1800 to 3000
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 calls 3000
+ScarpiaTDeum folds
+P1xel7 folds
+*** FLOP *** [Kh 3s 8h]
+glorivan bets 3024
+Terremoto 14 calls 3024
+*** TURN *** [Kh 3s 8h][Ah]
+glorivan bets 5141
+Terremoto 14 calls 5141
+*** RIVER *** [Kh 3s 8h Ah][Ks]
+glorivan checks
+Terremoto 14 bets 51128 and is all-in
+glorivan folds
+Terremoto 14 collected 76098 from pot
+*** SUMMARY ***
+Total pot 76098 | No rake
+Board: [Kh 3s 8h Ah Ks]
+Seat 4: Terremoto 14 (button) won 76098
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3073990054608109576-67-1701539289 - Holdem no limit (160/700/1400) - 2023/12/02 17:48:09 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #5 is the button
+Seat 1: glorivan (255189)
+Seat 2: RICOUDU13015 (74980)
+Seat 3: Minelix (105560)
+Seat 4: Terremoto 14 (76098)
+Seat 5: ScarpiaTDeum (99506)
+Seat 6: P1xel7 (44890)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+glorivan posts ante 160
+RICOUDU13015 posts ante 160
+Minelix posts ante 160
+Terremoto 14 posts ante 160
+ScarpiaTDeum posts ante 160
+P1xel7 posts small blind 700
+glorivan posts big blind 1400
+Dealt to P1xel7 [As 8c]
+*** PRE-FLOP *** 
+RICOUDU13015 folds
+Minelix folds
+Terremoto 14 calls 1400
+ScarpiaTDeum folds
+P1xel7 raises 2100 to 3500
+glorivan folds
+Terremoto 14 calls 2100
+*** FLOP *** [9h 7c 3s]
+P1xel7 bets 3276
+Terremoto 14 folds
+P1xel7 collected 12636 from pot
+*** SUMMARY ***
+Total pot 12636 | No rake
+Board: [9h 7c 3s]
+Seat 6: P1xel7 (small blind) won 12636
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3073990054608109576-68-1701539345 - Holdem no limit (160/700/1400) - 2023/12/02 17:49:05 UTC
+Table: 'Monster Stack(715719083)#007' 6-max (real money) Seat #6 is the button
+Seat 1: glorivan (253629)
+Seat 2: RICOUDU13015 (74820)
+Seat 3: Minelix (105400)
+Seat 4: Terremoto 14 (72438)
+Seat 5: ScarpiaTDeum (99346)
+Seat 6: P1xel7 (50590)
+*** ANTE/BLINDS ***
+glorivan posts ante 160
+RICOUDU13015 posts ante 160
+Minelix posts ante 160
+Terremoto 14 posts ante 160
+ScarpiaTDeum posts ante 160
+P1xel7 posts ante 160
+glorivan posts small blind 700
+RICOUDU13015 posts big blind 1400
+Dealt to P1xel7 [Ac Ad]
+*** PRE-FLOP *** 
+Minelix folds
+Terremoto 14 folds
+ScarpiaTDeum folds
+P1xel7 raises 1680 to 3080
+glorivan calls 2380
+RICOUDU13015 folds
+*** FLOP *** [5c 4d 5d]
+glorivan checks
+P1xel7 bets 2982
+glorivan calls 2982
+*** TURN *** [5c 4d 5d][Ks]
+glorivan checks
+P1xel7 bets 5069
+glorivan calls 5069
+*** RIVER *** [5c 4d 5d Ks][3c]
+glorivan bets 242338 and is all-in
+P1xel7 calls 39299 and is all-in
+*** SHOW DOWN ***
+P1xel7 shows [Ac Ad] (Two pairs : Aces and 5)
+glorivan shows [7h 6s] (Straight 7 high)
+glorivan collected 306259 from pot
+*** SUMMARY ***
+Total pot 306259 | No rake
+Board: [5c 4d 5d Ks 3c]
+Seat 1: glorivan (small blind) showed [7h 6s] and won 306259 with Straight 7 high
+Seat 6: P1xel7 (button) showed [Ac Ad] and lost with Two pairs : Aces and 5
+
+

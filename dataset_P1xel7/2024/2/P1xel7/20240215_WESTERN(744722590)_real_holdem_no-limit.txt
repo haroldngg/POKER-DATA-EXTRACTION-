@@ -1,0 +1,5613 @@
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-13-1708027745 - Holdem no limit (25/100/200) - 2024/02/15 20:09:05 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: Dracaufeu. (17254, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18600, 0.45€ bounty)
+Seat 3: RaZyy (19800, 0.45€ bounty)
+Seat 4: P1xel7 (20000, 0.45€ bounty)
+Seat 5: joela974 (21245, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (21861, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 25
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+P1xel7 posts ante 25
+joela974 posts ante 25
+DOBEL-UPAPA posts small blind 100
+Dracaufeu. posts big blind 200
+Dealt to P1xel7 [Ah 5d]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+RaZyy folds
+P1xel7 raises 300 to 500
+joela974 raises 300 to 800
+DOBEL-UPAPA folds
+Dracaufeu. calls 600
+P1xel7 calls 300
+*** FLOP *** [5h 9h 3s]
+Dracaufeu. checks
+P1xel7 bets 928
+joela974 calls 928
+Dracaufeu. raises 2253 to 3181
+P1xel7 folds
+joela974 folds
+Dracaufeu. collected 7687 from pot
+*** SUMMARY ***
+Total pot 7687 | No rake
+Board: [5h 9h 3s]
+Seat 1: Dracaufeu. (big blind) won 7687
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-14-1708027818 - Holdem no limit (25/100/200) - 2024/02/15 20:10:18 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: Dracaufeu. (20935, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18575, 0.45€ bounty)
+Seat 3: RaZyy (19775, 0.45€ bounty)
+Seat 4: P1xel7 (18247, 0.45€ bounty)
+Seat 5: joela974 (19492, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (21736, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+P1xel7 posts ante 25
+joela974 posts ante 25
+DOBEL-UPAPA posts ante 25
+Dracaufeu. posts small blind 100
+JJ-Daniel-s posts big blind 200
+Dealt to P1xel7 [2h 4c]
+*** PRE-FLOP *** 
+RaZyy raises 300 to 500
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. calls 400
+JJ-Daniel-s folds
+*** FLOP *** [Qc 8c As]
+Dracaufeu. checks
+RaZyy checks
+*** TURN *** [Qc 8c As][4h]
+Dracaufeu. checks
+RaZyy bets 446
+Dracaufeu. folds
+RaZyy collected 1796 from pot
+*** SUMMARY ***
+Total pot 1796 | No rake
+Board: [Qc 8c As 4h]
+Seat 3: RaZyy won 1796
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-15-1708027911 - Holdem no limit (25/100/200) - 2024/02/15 20:11:51 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: Dracaufeu. (20410, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18350, 0.45€ bounty)
+Seat 3: RaZyy (20600, 0.45€ bounty)
+Seat 4: P1xel7 (18222, 0.45€ bounty)
+Seat 5: joela974 (19467, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (21711, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+Dracaufeu. posts ante 25
+P1xel7 posts ante 25
+joela974 posts ante 25
+DOBEL-UPAPA posts ante 25
+JJ-Daniel-s posts small blind 100
+RaZyy posts big blind 200
+Dealt to P1xel7 [8h 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 calls 200
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s calls 100
+RaZyy checks
+*** FLOP *** [Ah Jh 4d]
+JJ-Daniel-s checks
+RaZyy checks
+joela974 checks
+*** TURN *** [Ah Jh 4d][4c]
+JJ-Daniel-s bets 488
+RaZyy folds
+joela974 calls 488
+*** RIVER *** [Ah Jh 4d 4c][Ac]
+JJ-Daniel-s checks
+joela974 checks
+*** SHOW DOWN ***
+JJ-Daniel-s shows [Th 2h] (Two pairs : Aces and 4)
+joela974 shows [Kc Qh] (Two pairs : Aces and 4)
+joela974 collected 1726 from pot
+*** SUMMARY ***
+Total pot 1726 | No rake
+Board: [Ah Jh 4d 4c Ac]
+Seat 2: JJ-Daniel-s (small blind) showed [Th 2h] and lost with Two pairs : Aces and 4
+Seat 5: joela974 showed [Kc Qh] and won 1726 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-16-1708028014 - Holdem no limit (25/100/200) - 2024/02/15 20:13:34 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: Dracaufeu. (20385, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (17637, 0.45€ bounty)
+Seat 3: RaZyy (20375, 0.45€ bounty)
+Seat 4: P1xel7 (18197, 0.45€ bounty)
+Seat 5: joela974 (20480, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (21686, 0.45€ bounty)
+*** ANTE/BLINDS ***
+RaZyy posts ante 25
+P1xel7 posts ante 25
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+joela974 posts ante 25
+DOBEL-UPAPA posts ante 25
+RaZyy posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [As 7h]
+*** PRE-FLOP *** 
+joela974 calls 200
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+RaZyy folds
+P1xel7 raises 400 to 600
+joela974 calls 400
+*** FLOP *** [9d Kd 8h]
+P1xel7 bets 508
+joela974 calls 508
+*** TURN *** [9d Kd 8h][6h]
+P1xel7 bets 1233
+joela974 folds
+P1xel7 collected 3699 from pot
+*** SUMMARY ***
+Total pot 3699 | No rake
+Board: [9d Kd 8h 6h]
+Seat 4: P1xel7 (big blind) won 3699
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-17-1708028074 - Holdem no limit (25/100/200) - 2024/02/15 20:14:34 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: Dracaufeu. (20360, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (17612, 0.45€ bounty)
+Seat 3: RaZyy (20250, 0.45€ bounty)
+Seat 4: P1xel7 (19530, 0.45€ bounty)
+Seat 5: joela974 (19347, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (21661, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+joela974 posts ante 25
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+DOBEL-UPAPA posts ante 25
+P1xel7 posts small blind 100
+joela974 posts big blind 200
+Dealt to P1xel7 [7s 9s]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+RaZyy folds
+P1xel7 raises 240 to 440
+joela974 raises 240 to 680
+P1xel7 calls 240
+*** FLOP *** [4s Qs 3d]
+P1xel7 checks
+joela974 bets 200
+P1xel7 calls 200
+*** TURN *** [4s Qs 3d][4c]
+P1xel7 checks
+joela974 bets 200
+P1xel7 calls 200
+*** RIVER *** [4s Qs 3d 4c][Qc]
+P1xel7 checks
+joela974 bets 200
+P1xel7 folds
+joela974 collected 2510 from pot
+*** SUMMARY ***
+Total pot 2510 | No rake
+Board: [4s Qs 3d 4c Qc]
+Seat 5: joela974 (big blind) won 2510
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-18-1708028178 - Holdem no limit (25/100/200) - 2024/02/15 20:16:18 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: Dracaufeu. (20335, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (17587, 0.45€ bounty)
+Seat 3: RaZyy (20225, 0.45€ bounty)
+Seat 4: P1xel7 (18425, 0.45€ bounty)
+Seat 5: joela974 (20552, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (21636, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 25
+DOBEL-UPAPA posts ante 25
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+P1xel7 posts ante 25
+joela974 posts small blind 100
+DOBEL-UPAPA posts big blind 200
+Dealt to P1xel7 [3c 7c]
+*** PRE-FLOP *** 
+Dracaufeu. folds
+JJ-Daniel-s raises 300 to 500
+RaZyy folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+JJ-Daniel-s collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 2: JJ-Daniel-s won 950
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-19-1708028204 - Holdem no limit (25/100/200) - 2024/02/15 20:16:44 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: Dracaufeu. (20310, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18012, 0.45€ bounty)
+Seat 3: RaZyy (20200, 0.45€ bounty)
+Seat 4: P1xel7 (18400, 0.45€ bounty)
+Seat 5: joela974 (20427, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (21411, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 25
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+P1xel7 posts ante 25
+joela974 posts ante 25
+DOBEL-UPAPA posts small blind 100
+Dracaufeu. posts big blind 200
+Dealt to P1xel7 [Qd Jh]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+RaZyy folds
+P1xel7 raises 240 to 440
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. folds
+P1xel7 collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Seat 4: P1xel7 won 890
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-20-1708028226 - Holdem no limit (25/100/200) - 2024/02/15 20:17:06 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: Dracaufeu. (20085, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (17987, 0.45€ bounty)
+Seat 3: RaZyy (20175, 0.45€ bounty)
+Seat 4: P1xel7 (18825, 0.45€ bounty)
+Seat 5: joela974 (20402, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (21286, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+P1xel7 posts ante 25
+joela974 posts ante 25
+DOBEL-UPAPA posts ante 25
+Dracaufeu. posts small blind 100
+JJ-Daniel-s posts big blind 200
+Dealt to P1xel7 [Ks 5s]
+*** PRE-FLOP *** 
+RaZyy folds
+P1xel7 folds
+joela974 calls 200
+DOBEL-UPAPA calls 200
+Dracaufeu. calls 100
+JJ-Daniel-s checks
+*** FLOP *** [6d 8c 4s]
+Dracaufeu. checks
+JJ-Daniel-s bets 618
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s collected 1568 from pot
+*** SUMMARY ***
+Total pot 1568 | No rake
+Board: [6d 8c 4s]
+Seat 2: JJ-Daniel-s (big blind) won 1568
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-21-1708028293 - Holdem no limit (25/100/200) - 2024/02/15 20:18:13 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: Dracaufeu. (19860, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18712, 0.45€ bounty)
+Seat 3: RaZyy (20150, 0.45€ bounty)
+Seat 4: P1xel7 (18800, 0.45€ bounty)
+Seat 5: joela974 (20177, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (21061, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+Dracaufeu. posts ante 25
+P1xel7 posts ante 25
+joela974 posts ante 25
+DOBEL-UPAPA posts ante 25
+JJ-Daniel-s posts small blind 100
+RaZyy posts big blind 200
+Dealt to P1xel7 [5s 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA raises 400 to 600
+Dracaufeu. calls 600
+JJ-Daniel-s folds
+RaZyy folds
+*** FLOP *** [8h 7h 2s]
+DOBEL-UPAPA bets 545
+Dracaufeu. folds
+DOBEL-UPAPA collected 2195 from pot
+*** SUMMARY ***
+Total pot 2195 | No rake
+Board: [8h 7h 2s]
+Seat 6: DOBEL-UPAPA won 2195
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-22-1708028341 - Holdem no limit (25/100/200) - 2024/02/15 20:19:01 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: Dracaufeu. (19235, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18587, 0.45€ bounty)
+Seat 3: RaZyy (19925, 0.45€ bounty)
+Seat 4: P1xel7 (18775, 0.45€ bounty)
+Seat 5: joela974 (20152, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (22086, 0.45€ bounty)
+*** ANTE/BLINDS ***
+RaZyy posts ante 25
+P1xel7 posts ante 25
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+joela974 posts ante 25
+DOBEL-UPAPA posts ante 25
+RaZyy posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [5h 2d]
+*** PRE-FLOP *** 
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s raises 300 to 500
+RaZyy folds
+P1xel7 folds
+JJ-Daniel-s collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 2: JJ-Daniel-s (button) won 950
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-23-1708028366 - Holdem no limit (25/100/200) - 2024/02/15 20:19:26 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: Dracaufeu. (19210, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (19012, 0.45€ bounty)
+Seat 3: RaZyy (19800, 0.45€ bounty)
+Seat 4: P1xel7 (18550, 0.45€ bounty)
+Seat 5: joela974 (20127, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (22061, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+joela974 posts ante 25
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+DOBEL-UPAPA posts ante 25
+P1xel7 posts small blind 100
+joela974 posts big blind 200
+Dealt to P1xel7 [Th 8d]
+*** PRE-FLOP *** 
+DOBEL-UPAPA raises 200 to 400
+Dracaufeu. folds
+JJ-Daniel-s folds
+RaZyy folds
+P1xel7 folds
+joela974 calls 200
+*** FLOP *** [Qh Ac 4d]
+joela974 checks
+DOBEL-UPAPA bets 347
+joela974 folds
+DOBEL-UPAPA collected 1397 from pot
+*** SUMMARY ***
+Total pot 1397 | No rake
+Board: [Qh Ac 4d]
+Seat 6: DOBEL-UPAPA won 1397
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-24-1708028413 - Holdem no limit (25/100/200) - 2024/02/15 20:20:13 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: Dracaufeu. (19185, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18987, 0.45€ bounty)
+Seat 3: RaZyy (19775, 0.45€ bounty)
+Seat 4: P1xel7 (18425, 0.45€ bounty)
+Seat 5: joela974 (19702, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (22686, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 25
+DOBEL-UPAPA posts ante 25
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+P1xel7 posts ante 25
+joela974 posts small blind 100
+DOBEL-UPAPA posts big blind 200
+Dealt to P1xel7 [7h Jd]
+*** PRE-FLOP *** 
+Dracaufeu. folds
+JJ-Daniel-s folds
+RaZyy folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 6: DOBEL-UPAPA (big blind) won 450
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3198559168642416680-25-1708028448 - Holdem no limit (25/100/200) - 2024/02/15 20:20:48 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: Dracaufeu. (19160, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18962, 0.45€ bounty)
+Seat 3: RaZyy (19750, 0.45€ bounty)
+Seat 4: P1xel7 (18400, 0.45€ bounty)
+Seat 5: joela974 (19577, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (22911, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 25
+Dracaufeu. posts ante 25
+JJ-Daniel-s posts ante 25
+RaZyy posts ante 25
+P1xel7 posts ante 25
+joela974 posts ante 25
+DOBEL-UPAPA posts small blind 100
+Dracaufeu. posts big blind 200
+Dealt to P1xel7 [5s 4s]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+RaZyy folds
+P1xel7 raises 240 to 440
+joela974 calls 440
+DOBEL-UPAPA folds
+Dracaufeu. calls 240
+*** FLOP *** [As 8s 6h]
+Dracaufeu. checks
+P1xel7 bets 550
+joela974 calls 550
+Dracaufeu. folds
+*** TURN *** [As 8s 6h][6s]
+P1xel7 checks
+joela974 bets 2670
+P1xel7 raises 4272 to 6942
+joela974 calls 4272
+*** RIVER *** [As 8s 6h 6s][6c]
+P1xel7 checks
+joela974 bets 11620 and is all-in
+P1xel7 folds
+joela974 collected 28174 from pot
+*** SUMMARY ***
+Total pot 28174 | No rake
+Board: [As 8s 6h 6s 6c]
+Seat 5: joela974 (button) won 28174
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3198559168642416680-26-1708028578 - Holdem no limit (30/125/250) - 2024/02/15 20:22:58 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: Dracaufeu. (18695, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18937, 0.45€ bounty)
+Seat 3: RaZyy (19725, 0.45€ bounty)
+Seat 4: P1xel7 (10443, 0.45€ bounty)
+Seat 5: joela974 (28174, 0.45€ bounty)
+Seat 6: DOBEL-UPAPA (22786, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Dracaufeu. posts ante 30
+JJ-Daniel-s posts ante 30
+RaZyy posts ante 30
+P1xel7 posts ante 30
+joela974 posts ante 30
+DOBEL-UPAPA posts ante 30
+Dracaufeu. posts small blind 125
+JJ-Daniel-s posts big blind 250
+Dealt to P1xel7 [Ks 3d]
+*** PRE-FLOP *** 
+RaZyy raises 375 to 625
+P1xel7 folds
+joela974 raises 1805 to 2430
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+RaZyy raises 17265 to 19695 and is all-in
+joela974 calls 17265
+*** FLOP *** [7c Ts 2d]
+*** TURN *** [7c Ts 2d][7s]
+*** RIVER *** [7c Ts 2d 7s][4h]
+*** SHOW DOWN ***
+RaZyy shows [Ah Kc] (One pair : 7)
+joela974 shows [Jd Jc] (Two pairs : Jacks and 7)
+joela974 collected 39945 from pot
+*** SUMMARY ***
+Total pot 39945 | No rake
+Board: [7c Ts 2d 7s 4h]
+Seat 3: RaZyy showed [Ah Kc] and lost with One pair : 7
+Seat 5: joela974 showed [Jd Jc] and won 39945 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3198559168642416680-27-1708028622 - Holdem no limit (30/125/250) - 2024/02/15 20:23:42 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: Dracaufeu. (18540, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18657, 0.45€ bounty)
+Seat 4: P1xel7 (10413, 0.45€ bounty)
+Seat 5: joela974 (48394, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (22756, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 30
+P1xel7 posts ante 30
+Dracaufeu. posts ante 30
+joela974 posts ante 30
+DOBEL-UPAPA posts ante 30
+JJ-Daniel-s posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [Jd Jc]
+*** PRE-FLOP *** 
+joela974 folds
+DOBEL-UPAPA raises 375 to 625
+Dracaufeu. folds
+JJ-Daniel-s folds
+P1xel7 raises 1250 to 1875
+DOBEL-UPAPA calls 1250
+*** FLOP *** [7h Kd Ts]
+P1xel7 bets 1409
+DOBEL-UPAPA folds
+P1xel7 collected 5434 from pot
+*** SUMMARY ***
+Total pot 5434 | No rake
+Board: [7h Kd Ts]
+Seat 4: P1xel7 (big blind) won 5434
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3198559168642416680-28-1708028660 - Holdem no limit (30/125/250) - 2024/02/15 20:24:20 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: Dracaufeu. (18510, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18502, 0.45€ bounty)
+Seat 3: MtRuShmoore (20000, 0.45€ bounty)
+Seat 4: P1xel7 (12533, 0.45€ bounty)
+Seat 5: joela974 (48364, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20851, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+joela974 posts ante 30
+Dracaufeu. posts ante 30
+JJ-Daniel-s posts ante 30
+DOBEL-UPAPA posts ante 30
+P1xel7 posts small blind 125
+joela974 posts big blind 250
+Dealt to P1xel7 [Kh 5d]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+P1xel7 folds
+joela974 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Seat 5: joela974 (big blind) won 525
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3198559168642416680-29-1708028687 - Holdem no limit (30/125/250) - 2024/02/15 20:24:47 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: Dracaufeu. (18480, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18472, 0.45€ bounty)
+Seat 3: MtRuShmoore (20000, 0.45€ bounty)
+Seat 4: P1xel7 (12378, 0.45€ bounty)
+Seat 5: joela974 (48609, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20821, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 30
+DOBEL-UPAPA posts ante 30
+Dracaufeu. posts ante 30
+JJ-Daniel-s posts ante 30
+MtRuShmoore posts ante 30
+P1xel7 posts ante 30
+joela974 posts small blind 125
+DOBEL-UPAPA posts big blind 250
+Dealt to P1xel7 [5s Js]
+*** PRE-FLOP *** 
+Dracaufeu. folds
+JJ-Daniel-s raises 250 to 500
+MtRuShmoore folds
+P1xel7 folds
+joela974 calls 375
+DOBEL-UPAPA calls 250
+*** FLOP *** [Kd Td 9c]
+joela974 checks
+DOBEL-UPAPA checks
+JJ-Daniel-s checks
+*** TURN *** [Kd Td 9c][9s]
+joela974 checks
+DOBEL-UPAPA checks
+JJ-Daniel-s bets 588
+joela974 calls 588
+DOBEL-UPAPA folds
+*** RIVER *** [Kd Td 9c 9s][Jc]
+joela974 bets 2856
+JJ-Daniel-s folds
+joela974 collected 5712 from pot
+*** SUMMARY ***
+Total pot 5712 | No rake
+Board: [Kd Td 9c 9s Jc]
+Seat 5: joela974 (small blind) won 5712
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3198559168642416680-30-1708028789 - Holdem no limit (30/125/250) - 2024/02/15 20:26:29 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: Dracaufeu. (18450, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (17354, 0.45€ bounty)
+Seat 3: MtRuShmoore (19970, 0.45€ bounty)
+Seat 4: P1xel7 (12348, 0.45€ bounty)
+Seat 5: joela974 (50347, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20291, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 30
+Dracaufeu. posts ante 30
+JJ-Daniel-s posts ante 30
+MtRuShmoore posts ante 30
+P1xel7 posts ante 30
+joela974 posts ante 30
+DOBEL-UPAPA posts small blind 125
+Dracaufeu. posts big blind 250
+Dealt to P1xel7 [Ad Tc]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+MtRuShmoore folds
+P1xel7 raises 375 to 625
+joela974 calls 625
+DOBEL-UPAPA folds
+Dracaufeu. calls 375
+*** FLOP *** [9d Qc 9h]
+Dracaufeu. checks
+P1xel7 checks
+joela974 checks
+*** TURN *** [9d Qc 9h][3d]
+Dracaufeu. checks
+P1xel7 checks
+joela974 checks
+*** RIVER *** [9d Qc 9h 3d][Kd]
+Dracaufeu. checks
+P1xel7 checks
+joela974 checks
+*** SHOW DOWN ***
+P1xel7 shows [Ad Tc] (One pair : 9)
+joela974 shows [8c Jd] (One pair : 9)
+Dracaufeu. shows [Kh 3h] (Two pairs : Kings and 9)
+Dracaufeu. collected 2180 from pot
+*** SUMMARY ***
+Total pot 2180 | No rake
+Board: [9d Qc 9h 3d Kd]
+Seat 1: Dracaufeu. (big blind) showed [Kh 3h] and won 2180 with Two pairs : Kings and 9
+Seat 4: P1xel7 showed [Ad Tc] and lost with One pair : 9
+Seat 5: joela974 (button) showed [8c Jd] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198559168642416680-31-1708028847 - Holdem no limit (35/150/300) - 2024/02/15 20:27:27 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: Dracaufeu. (19975, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (17324, 0.45€ bounty)
+Seat 3: MtRuShmoore (19940, 0.45€ bounty)
+Seat 4: P1xel7 (11693, 0.45€ bounty)
+Seat 5: joela974 (49692, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20136, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Dracaufeu. posts ante 35
+JJ-Daniel-s posts ante 35
+MtRuShmoore posts ante 35
+P1xel7 posts ante 35
+joela974 posts ante 35
+DOBEL-UPAPA posts ante 35
+Dracaufeu. posts small blind 150
+JJ-Daniel-s posts big blind 300
+Dealt to P1xel7 [Jc Ah]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+P1xel7 raises 360 to 660
+joela974 calls 660
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+*** FLOP *** [4d 2d 5c]
+P1xel7 checks
+joela974 checks
+*** TURN *** [4d 2d 5c][Qh]
+P1xel7 bets 693
+joela974 folds
+P1xel7 collected 2673 from pot
+*** SUMMARY ***
+Total pot 2673 | No rake
+Board: [4d 2d 5c Qh]
+Seat 4: P1xel7 won 2673
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198559168642416680-32-1708028918 - Holdem no limit (35/150/300) - 2024/02/15 20:28:38 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: Dracaufeu. (19790, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16989, 0.45€ bounty)
+Seat 3: MtRuShmoore (19905, 0.45€ bounty)
+Seat 4: P1xel7 (12978, 0.45€ bounty)
+Seat 5: joela974 (48997, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20101, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 35
+MtRuShmoore posts ante 35
+Dracaufeu. posts ante 35
+P1xel7 posts ante 35
+joela974 posts ante 35
+DOBEL-UPAPA posts ante 35
+JJ-Daniel-s posts small blind 150
+MtRuShmoore posts big blind 300
+Dealt to P1xel7 [Kc Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 raises 300 to 600
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+MtRuShmoore calls 300
+*** FLOP *** [Kd 5h 3s]
+MtRuShmoore checks
+joela974 bets 300
+MtRuShmoore folds
+joela974 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [Kd 5h 3s]
+Seat 5: joela974 won 1860
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198559168642416680-33-1708028960 - Holdem no limit (35/150/300) - 2024/02/15 20:29:20 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: Dracaufeu. (19755, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16804, 0.45€ bounty)
+Seat 3: MtRuShmoore (19270, 0.45€ bounty)
+Seat 4: P1xel7 (12943, 0.45€ bounty)
+Seat 5: joela974 (49922, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20066, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 35
+P1xel7 posts ante 35
+Dracaufeu. posts ante 35
+JJ-Daniel-s posts ante 35
+joela974 posts ante 35
+DOBEL-UPAPA posts ante 35
+MtRuShmoore posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [9c 8c]
+*** PRE-FLOP *** 
+joela974 calls 300
+DOBEL-UPAPA folds
+Dracaufeu. calls 300
+JJ-Daniel-s folds
+MtRuShmoore folds
+P1xel7 checks
+*** FLOP *** [Jc 2h 3h]
+P1xel7 checks
+joela974 checks
+Dracaufeu. checks
+*** TURN *** [Jc 2h 3h][Ts]
+P1xel7 checks
+joela974 checks
+Dracaufeu. bets 819
+P1xel7 calls 819
+joela974 folds
+*** RIVER *** [Jc 2h 3h Ts][Tc]
+P1xel7 checks
+Dracaufeu. bets 2318
+P1xel7 folds
+Dracaufeu. collected 5216 from pot
+*** SUMMARY ***
+Total pot 5216 | No rake
+Board: [Jc 2h 3h Ts Tc]
+Seat 1: Dracaufeu. won 5216
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198559168642416680-34-1708029062 - Holdem no limit (35/150/300) - 2024/02/15 20:31:02 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: Dracaufeu. (21499, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16769, 0.45€ bounty)
+Seat 3: MtRuShmoore (19085, 0.45€ bounty)
+Seat 4: P1xel7 (11789, 0.45€ bounty)
+Seat 5: joela974 (49587, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20031, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+joela974 posts ante 35
+Dracaufeu. posts ante 35
+JJ-Daniel-s posts ante 35
+MtRuShmoore posts ante 35
+DOBEL-UPAPA posts ante 35
+P1xel7 posts small blind 150
+joela974 posts big blind 300
+Dealt to P1xel7 [6s 4d]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+MtRuShmoore folds
+P1xel7 folds
+joela974 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 5: joela974 (big blind) won 660
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198559168642416680-35-1708029083 - Holdem no limit (35/150/300) - 2024/02/15 20:31:23 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: Dracaufeu. (21464, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16734, 0.45€ bounty)
+Seat 3: MtRuShmoore (19050, 0.45€ bounty)
+Seat 4: P1xel7 (11604, 0.45€ bounty)
+Seat 5: joela974 (49912, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (19996, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 35
+DOBEL-UPAPA posts ante 35
+Dracaufeu. posts ante 35
+JJ-Daniel-s posts ante 35
+MtRuShmoore posts ante 35
+P1xel7 posts ante 35
+joela974 posts small blind 150
+DOBEL-UPAPA posts big blind 300
+Dealt to P1xel7 [3h Ts]
+*** PRE-FLOP *** 
+Dracaufeu. folds
+JJ-Daniel-s folds
+MtRuShmoore folds
+P1xel7 folds
+joela974 calls 150
+DOBEL-UPAPA checks
+*** FLOP *** [Jc 7s Th]
+joela974 checks
+DOBEL-UPAPA checks
+*** TURN *** [Jc 7s Th][5c]
+joela974 checks
+DOBEL-UPAPA checks
+*** RIVER *** [Jc 7s Th 5c][4h]
+joela974 bets 300
+DOBEL-UPAPA calls 300
+*** SHOW DOWN ***
+joela974 shows [6h 4d] (One pair : 4)
+DOBEL-UPAPA shows [5d 2h] (One pair : 5)
+DOBEL-UPAPA collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Board: [Jc 7s Th 5c 4h]
+Seat 5: joela974 (small blind) showed [6h 4d] and lost with One pair : 4
+Seat 6: DOBEL-UPAPA (big blind) showed [5d 2h] and won 1410 with One pair : 5
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198559168642416680-36-1708029131 - Holdem no limit (35/150/300) - 2024/02/15 20:32:11 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: Dracaufeu. (21429, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16699, 0.45€ bounty)
+Seat 3: MtRuShmoore (19015, 0.45€ bounty)
+Seat 4: P1xel7 (11569, 0.45€ bounty)
+Seat 5: joela974 (49277, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20771, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 35
+Dracaufeu. posts ante 35
+JJ-Daniel-s posts ante 35
+MtRuShmoore posts ante 35
+P1xel7 posts ante 35
+joela974 posts ante 35
+DOBEL-UPAPA posts small blind 150
+Dracaufeu. posts big blind 300
+Dealt to P1xel7 [Td 9c]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+MtRuShmoore folds
+P1xel7 folds
+joela974 calls 300
+DOBEL-UPAPA folds
+Dracaufeu. checks
+*** FLOP *** [Qd 7d Ad]
+Dracaufeu. checks
+joela974 checks
+*** TURN *** [Qd 7d Ad][6h]
+Dracaufeu. checks
+joela974 checks
+*** RIVER *** [Qd 7d Ad 6h][Jh]
+Dracaufeu. checks
+joela974 bets 300
+Dracaufeu. folds
+joela974 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [Qd 7d Ad 6h Jh]
+Seat 5: joela974 (button) won 1260
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198559168642416680-37-1708029212 - Holdem no limit (40/175/350) - 2024/02/15 20:33:32 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: Dracaufeu. (21094, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16664, 0.45€ bounty)
+Seat 3: MtRuShmoore (18980, 0.45€ bounty)
+Seat 4: P1xel7 (11534, 0.45€ bounty)
+Seat 5: joela974 (49902, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20586, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Dracaufeu. posts ante 40
+JJ-Daniel-s posts ante 40
+MtRuShmoore posts ante 40
+P1xel7 posts ante 40
+joela974 posts ante 40
+DOBEL-UPAPA posts ante 40
+Dracaufeu. posts small blind 175
+JJ-Daniel-s posts big blind 350
+Dealt to P1xel7 [3h Kd]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+P1xel7 folds
+joela974 calls 350
+DOBEL-UPAPA folds
+Dracaufeu. calls 175
+JJ-Daniel-s checks
+*** FLOP *** [4s 7c Jd]
+Dracaufeu. checks
+JJ-Daniel-s bets 839
+joela974 calls 839
+Dracaufeu. calls 839
+*** TURN *** [4s 7c Jd][Qd]
+Dracaufeu. checks
+JJ-Daniel-s checks
+joela974 checks
+*** RIVER *** [4s 7c Jd Qd][Jh]
+Dracaufeu. bets 2475
+JJ-Daniel-s folds
+joela974 folds
+Dracaufeu. collected 6282 from pot
+*** SUMMARY ***
+Total pot 6282 | No rake
+Board: [4s 7c Jd Qd Jh]
+Seat 1: Dracaufeu. (small blind) won 6282
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198559168642416680-38-1708029309 - Holdem no limit (40/175/350) - 2024/02/15 20:35:09 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: Dracaufeu. (23672, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (15435, 0.45€ bounty)
+Seat 3: MtRuShmoore (18940, 0.45€ bounty)
+Seat 4: P1xel7 (11494, 0.45€ bounty)
+Seat 5: joela974 (48673, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20546, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 40
+MtRuShmoore posts ante 40
+Dracaufeu. posts ante 40
+P1xel7 posts ante 40
+joela974 posts ante 40
+DOBEL-UPAPA posts ante 40
+JJ-Daniel-s posts small blind 175
+MtRuShmoore posts big blind 350
+Dealt to P1xel7 [Ac Jd]
+*** PRE-FLOP *** 
+P1xel7 raises 525 to 875
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s calls 700
+MtRuShmoore calls 525
+*** FLOP *** [3c 4s Kh]
+JJ-Daniel-s checks
+MtRuShmoore checks
+P1xel7 bets 1003
+JJ-Daniel-s raises 1003 to 2006
+MtRuShmoore folds
+P1xel7 folds
+JJ-Daniel-s collected 5874 from pot
+*** SUMMARY ***
+Total pot 5874 | No rake
+Board: [3c 4s Kh]
+Seat 2: JJ-Daniel-s (small blind) won 5874
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198559168642416680-39-1708029371 - Holdem no limit (40/175/350) - 2024/02/15 20:36:11 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: Dracaufeu. (23632, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (18388, 0.45€ bounty)
+Seat 3: MtRuShmoore (18025, 0.45€ bounty)
+Seat 4: P1xel7 (9576, 0.45€ bounty)
+Seat 5: joela974 (48633, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20506, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 40
+P1xel7 posts ante 40
+Dracaufeu. posts ante 40
+JJ-Daniel-s posts ante 40
+joela974 posts ante 40
+DOBEL-UPAPA posts ante 40
+MtRuShmoore posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Jh Qh]
+*** PRE-FLOP *** 
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s raises 350 to 700
+MtRuShmoore calls 525
+P1xel7 calls 350
+*** FLOP *** [Js 9h 5d]
+MtRuShmoore checks
+P1xel7 bets 819
+JJ-Daniel-s folds
+MtRuShmoore calls 819
+*** TURN *** [Js 9h 5d][6h]
+MtRuShmoore checks
+P1xel7 bets 1392
+MtRuShmoore calls 1392
+*** RIVER *** [Js 9h 5d 6h][3h]
+MtRuShmoore checks
+P1xel7 bets 2367
+MtRuShmoore folds
+P1xel7 collected 9129 from pot
+*** SUMMARY ***
+Total pot 9129 | No rake
+Board: [Js 9h 5d 6h 3h]
+Seat 4: P1xel7 (big blind) won 9129
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198559168642416680-40-1708029457 - Holdem no limit (40/175/350) - 2024/02/15 20:37:37 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: Dracaufeu. (23592, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (17648, 0.45€ bounty)
+Seat 3: MtRuShmoore (15074, 0.45€ bounty)
+Seat 4: P1xel7 (13387, 0.45€ bounty)
+Seat 5: joela974 (48593, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20466, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+joela974 posts ante 40
+Dracaufeu. posts ante 40
+JJ-Daniel-s posts ante 40
+MtRuShmoore posts ante 40
+DOBEL-UPAPA posts ante 40
+P1xel7 posts small blind 175
+joela974 posts big blind 350
+Dealt to P1xel7 [Qd Jh]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s raises 350 to 700
+MtRuShmoore folds
+P1xel7 calls 525
+joela974 calls 350
+*** FLOP *** [3d 8h 2s]
+P1xel7 checks
+joela974 bets 2340
+JJ-Daniel-s folds
+P1xel7 folds
+joela974 collected 4680 from pot
+*** SUMMARY ***
+Total pot 4680 | No rake
+Board: [3d 8h 2s]
+Seat 5: joela974 (big blind) won 4680
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198559168642416680-41-1708029503 - Holdem no limit (40/175/350) - 2024/02/15 20:38:23 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: Dracaufeu. (23552, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16908, 0.45€ bounty)
+Seat 3: MtRuShmoore (15034, 0.45€ bounty)
+Seat 4: P1xel7 (12647, 0.45€ bounty)
+Seat 5: joela974 (50193, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20426, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 40
+DOBEL-UPAPA posts ante 40
+Dracaufeu. posts ante 40
+JJ-Daniel-s posts ante 40
+MtRuShmoore posts ante 40
+P1xel7 posts ante 40
+joela974 posts small blind 175
+DOBEL-UPAPA posts big blind 350
+Dealt to P1xel7 [4h Ks]
+*** PRE-FLOP *** 
+Dracaufeu. folds
+JJ-Daniel-s folds
+MtRuShmoore folds
+P1xel7 folds
+joela974 calls 175
+DOBEL-UPAPA checks
+*** FLOP *** [7s 7d Ad]
+joela974 checks
+DOBEL-UPAPA checks
+*** TURN *** [7s 7d Ad][8s]
+joela974 bets 350
+DOBEL-UPAPA folds
+joela974 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Board: [7s 7d Ad 8s]
+Seat 5: joela974 (small blind) won 1290
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198559168642416680-42-1708029556 - Holdem no limit (50/200/400) - 2024/02/15 20:39:16 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: Dracaufeu. (23512, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16868, 0.45€ bounty)
+Seat 3: MtRuShmoore (14994, 0.45€ bounty)
+Seat 4: P1xel7 (12607, 0.45€ bounty)
+Seat 5: joela974 (50743, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20036, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 50
+Dracaufeu. posts ante 50
+JJ-Daniel-s posts ante 50
+MtRuShmoore posts ante 50
+P1xel7 posts ante 50
+joela974 posts ante 50
+DOBEL-UPAPA posts small blind 200
+Dracaufeu. posts big blind 400
+Dealt to P1xel7 [Qd 9s]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+MtRuShmoore folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA calls 200
+Dracaufeu. checks
+*** FLOP *** [6s Ac Kd]
+DOBEL-UPAPA bets 400
+Dracaufeu. folds
+DOBEL-UPAPA collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6s Ac Kd]
+Seat 6: DOBEL-UPAPA (small blind) won 1500
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198559168642416680-43-1708029592 - Holdem no limit (50/200/400) - 2024/02/15 20:39:52 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: Dracaufeu. (23062, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16818, 0.45€ bounty)
+Seat 3: MtRuShmoore (14944, 0.45€ bounty)
+Seat 4: P1xel7 (12557, 0.45€ bounty)
+Seat 5: joela974 (50693, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20686, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Dracaufeu. posts ante 50
+JJ-Daniel-s posts ante 50
+MtRuShmoore posts ante 50
+P1xel7 posts ante 50
+joela974 posts ante 50
+DOBEL-UPAPA posts ante 50
+Dracaufeu. posts small blind 200
+JJ-Daniel-s posts big blind 400
+Dealt to P1xel7 [4c Js]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+P1xel7 folds
+joela974 calls 400
+DOBEL-UPAPA calls 400
+Dracaufeu. folds
+JJ-Daniel-s checks
+*** FLOP *** [5s Qs 7h]
+JJ-Daniel-s checks
+joela974 checks
+DOBEL-UPAPA bets 935
+JJ-Daniel-s folds
+joela974 folds
+DOBEL-UPAPA collected 2635 from pot
+*** SUMMARY ***
+Total pot 2635 | No rake
+Board: [5s Qs 7h]
+Seat 6: DOBEL-UPAPA (button) won 2635
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198559168642416680-44-1708029659 - Holdem no limit (50/200/400) - 2024/02/15 20:40:59 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: Dracaufeu. (22812, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16368, 0.45€ bounty)
+Seat 3: MtRuShmoore (14894, 0.45€ bounty)
+Seat 4: P1xel7 (12507, 0.45€ bounty)
+Seat 5: joela974 (50243, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (21936, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 50
+MtRuShmoore posts ante 50
+Dracaufeu. posts ante 50
+P1xel7 posts ante 50
+joela974 posts ante 50
+DOBEL-UPAPA posts ante 50
+JJ-Daniel-s posts small blind 200
+MtRuShmoore posts big blind 400
+Dealt to P1xel7 [Kh Jh]
+*** PRE-FLOP *** 
+P1xel7 raises 480 to 880
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+MtRuShmoore raises 2200 to 3080
+P1xel7 calls 2200
+*** FLOP *** [5h 9h Jd]
+MtRuShmoore bets 4995
+P1xel7 raises 4382 to 9377 and is all-in
+MtRuShmoore calls 4382
+*** TURN *** [5h 9h Jd][5c]
+*** RIVER *** [5h 9h Jd 5c][Qs]
+*** SHOW DOWN ***
+MtRuShmoore shows [Td Ah] (One pair : 5)
+P1xel7 shows [Kh Jh] (Two pairs : Jacks and 5)
+P1xel7 collected 25414 from pot
+*** SUMMARY ***
+Total pot 25414 | No rake
+Board: [5h 9h Jd 5c Qs]
+Seat 3: MtRuShmoore (big blind) showed [Td Ah] and lost with One pair : 5
+Seat 4: P1xel7 showed [Kh Jh] and won 25414 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198559168642416680-45-1708029708 - Holdem no limit (50/200/400) - 2024/02/15 20:41:48 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: Dracaufeu. (22762, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16118, 0.45€ bounty)
+Seat 3: MtRuShmoore (2387, 0.45€ bounty)
+Seat 4: P1xel7 (25414, 0.45€ bounty)
+Seat 5: joela974 (50193, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (21886, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 50
+P1xel7 posts ante 50
+Dracaufeu. posts ante 50
+JJ-Daniel-s posts ante 50
+joela974 posts ante 50
+DOBEL-UPAPA posts ante 50
+MtRuShmoore posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [7s 6d]
+*** PRE-FLOP *** 
+joela974 raises 1300 to 1700
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+MtRuShmoore folds
+P1xel7 folds
+joela974 collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Seat 5: joela974 won 2600
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198559168642416680-46-1708029736 - Holdem no limit (50/200/400) - 2024/02/15 20:42:16 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: Dracaufeu. (22712, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16068, 0.45€ bounty)
+Seat 3: MtRuShmoore (2137, 0.45€ bounty)
+Seat 4: P1xel7 (24964, 0.45€ bounty)
+Seat 5: joela974 (51043, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (21836, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+joela974 posts ante 50
+Dracaufeu. posts ante 50
+JJ-Daniel-s posts ante 50
+MtRuShmoore posts ante 50
+DOBEL-UPAPA posts ante 50
+P1xel7 posts small blind 200
+joela974 posts big blind 400
+Dealt to P1xel7 [6c Ks]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+MtRuShmoore folds
+P1xel7 folds
+joela974 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: joela974 (big blind) won 900
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198559168642416680-47-1708029781 - Holdem no limit (50/200/400) - 2024/02/15 20:43:01 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: Dracaufeu. (22662, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (16018, 0.45€ bounty)
+Seat 3: MtRuShmoore (2087, 0.45€ bounty)
+Seat 4: P1xel7 (24714, 0.45€ bounty)
+Seat 5: joela974 (51493, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (21786, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 50
+DOBEL-UPAPA posts ante 50
+Dracaufeu. posts ante 50
+JJ-Daniel-s posts ante 50
+MtRuShmoore posts ante 50
+P1xel7 posts ante 50
+joela974 posts small blind 200
+DOBEL-UPAPA posts big blind 400
+Dealt to P1xel7 [5c Qd]
+*** PRE-FLOP *** 
+Dracaufeu. folds
+JJ-Daniel-s folds
+MtRuShmoore folds
+P1xel7 folds
+joela974 calls 200
+DOBEL-UPAPA checks
+*** FLOP *** [6h Qh Qs]
+joela974 checks
+DOBEL-UPAPA checks
+*** TURN *** [6h Qh Qs][9h]
+joela974 checks
+DOBEL-UPAPA checks
+*** RIVER *** [6h Qh Qs 9h][9c]
+joela974 checks
+DOBEL-UPAPA checks
+*** SHOW DOWN ***
+DOBEL-UPAPA shows [Th 8c] (Two pairs : Queens and 9)
+joela974 shows [4s Ah] (Two pairs : Queens and 9)
+joela974 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Board: [6h Qh Qs 9h 9c]
+Seat 5: joela974 (small blind) showed [4s Ah] and won 1100 with Two pairs : Queens and 9
+Seat 6: DOBEL-UPAPA (big blind) showed [Th 8c] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198559168642416680-48-1708029853 - Holdem no limit (50/200/400) - 2024/02/15 20:44:13 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: Dracaufeu. (22612, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (15968, 0.45€ bounty)
+Seat 3: MtRuShmoore (2037, 0.45€ bounty)
+Seat 4: P1xel7 (24664, 0.45€ bounty)
+Seat 5: joela974 (52143, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (21336, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 50
+Dracaufeu. posts ante 50
+JJ-Daniel-s posts ante 50
+MtRuShmoore posts ante 50
+P1xel7 posts ante 50
+joela974 posts ante 50
+DOBEL-UPAPA posts small blind 200
+Dracaufeu. posts big blind 400
+Dealt to P1xel7 [5h Kd]
+*** PRE-FLOP *** 
+JJ-Daniel-s raises 400 to 800
+MtRuShmoore folds
+P1xel7 folds
+joela974 calls 800
+DOBEL-UPAPA folds
+Dracaufeu. calls 400
+*** FLOP *** [6s 3h 2d]
+Dracaufeu. checks
+JJ-Daniel-s bets 1885
+joela974 folds
+Dracaufeu. calls 1885
+*** TURN *** [6s 3h 2d][9s]
+Dracaufeu. checks
+JJ-Daniel-s checks
+*** RIVER *** [6s 3h 2d 9s][6h]
+Dracaufeu. checks
+JJ-Daniel-s checks
+*** SHOW DOWN ***
+Dracaufeu. shows [Jd 4d] (One pair : 6)
+JJ-Daniel-s shows [As Th] (One pair : 6)
+JJ-Daniel-s collected 6670 from pot
+*** SUMMARY ***
+Total pot 6670 | No rake
+Board: [6s 3h 2d 9s 6h]
+Seat 1: Dracaufeu. (big blind) showed [Jd 4d] and lost with One pair : 6
+Seat 2: JJ-Daniel-s showed [As Th] and won 6670 with One pair : 6
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198559168642416680-49-1708029927 - Holdem no limit (60/250/500) - 2024/02/15 20:45:27 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: Dracaufeu. (19877, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (19903, 0.45€ bounty)
+Seat 3: MtRuShmoore (1987, 0.45€ bounty)
+Seat 4: P1xel7 (24614, 0.45€ bounty)
+Seat 5: joela974 (51293, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (21086, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Dracaufeu. posts ante 60
+JJ-Daniel-s posts ante 60
+MtRuShmoore posts ante 60
+P1xel7 posts ante 60
+joela974 posts ante 60
+DOBEL-UPAPA posts ante 60
+Dracaufeu. posts small blind 250
+JJ-Daniel-s posts big blind 500
+Dealt to P1xel7 [Ts Qc]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+P1xel7 folds
+joela974 raises 500 to 1000
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s calls 500
+*** FLOP *** [8c 3d Qs]
+JJ-Daniel-s checks
+joela974 checks
+*** TURN *** [8c 3d Qs][Ad]
+JJ-Daniel-s bets 914
+joela974 calls 914
+*** RIVER *** [8c 3d Qs Ad][Jh]
+JJ-Daniel-s bets 2885
+joela974 folds
+JJ-Daniel-s collected 7323 from pot
+*** SUMMARY ***
+Total pot 7323 | No rake
+Board: [8c 3d Qs Ad Jh]
+Seat 2: JJ-Daniel-s (big blind) won 7323
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198559168642416680-50-1708030004 - Holdem no limit (60/250/500) - 2024/02/15 20:46:44 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: Dracaufeu. (19567, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (22367, 0.45€ bounty)
+Seat 3: MtRuShmoore (1927, 0.45€ bounty)
+Seat 4: P1xel7 (24554, 0.45€ bounty)
+Seat 5: joela974 (49319, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (21026, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 60
+MtRuShmoore posts ante 60
+Dracaufeu. posts ante 60
+P1xel7 posts ante 60
+joela974 posts ante 60
+DOBEL-UPAPA posts ante 60
+JJ-Daniel-s posts small blind 250
+MtRuShmoore posts big blind 500
+Dealt to P1xel7 [3c 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 calls 500
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s raises 500 to 1000
+MtRuShmoore raises 867 to 1867 and is all-in
+joela974 calls 1367
+JJ-Daniel-s calls 867
+*** FLOP *** [2d 8s 9h]
+JJ-Daniel-s bets 20440 and is all-in
+joela974 folds
+*** TURN *** [2d 8s 9h][Qc]
+*** RIVER *** [2d 8s 9h Qc][Qs]
+*** SHOW DOWN ***
+MtRuShmoore shows [5d Jd] (One pair : Queens)
+JJ-Daniel-s shows [9s Kc] (Two pairs : Queens and 9)
+JJ-Daniel-s collected 26401 from pot
+*** SUMMARY ***
+Total pot 26401 | No rake
+Board: [2d 8s 9h Qc Qs]
+Seat 2: JJ-Daniel-s (small blind) showed [9s Kc] and won 26401 with Two pairs : Queens and 9
+Seat 3: MtRuShmoore (big blind) showed [5d Jd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198559168642416680-51-1708030062 - Holdem no limit (60/250/500) - 2024/02/15 20:47:42 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: Dracaufeu. (19507, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (26401, 0.67€ bounty)
+Seat 4: P1xel7 (24494, 0.45€ bounty)
+Seat 5: joela974 (47392, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20966, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+Dracaufeu. posts ante 60
+JJ-Daniel-s posts ante 60
+joela974 posts ante 60
+DOBEL-UPAPA posts ante 60
+P1xel7 posts big blind 500
+Dealt to P1xel7 [5s 8c]
+*** PRE-FLOP *** 
+joela974 calls 500
+DOBEL-UPAPA folds
+Dracaufeu. calls 500
+JJ-Daniel-s calls 500
+P1xel7 checks
+*** FLOP *** [Ts 9c Ad]
+P1xel7 checks
+joela974 checks
+Dracaufeu. checks
+JJ-Daniel-s checks
+*** TURN *** [Ts 9c Ad][9h]
+P1xel7 checks
+joela974 checks
+Dracaufeu. checks
+JJ-Daniel-s checks
+*** RIVER *** [Ts 9c Ad 9h][6s]
+P1xel7 checks
+joela974 checks
+Dracaufeu. checks
+JJ-Daniel-s bets 2776
+P1xel7 folds
+joela974 folds
+Dracaufeu. folds
+JJ-Daniel-s collected 5076 from pot
+*** SUMMARY ***
+Total pot 5076 | No rake
+Board: [Ts 9c Ad 9h 6s]
+Seat 2: JJ-Daniel-s (button) won 5076
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198559168642416680-52-1708030186 - Holdem no limit (60/250/500) - 2024/02/15 20:49:46 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: Dracaufeu. (18947, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (28141, 0.67€ bounty)
+Seat 3: Ivan el ruso (20000, 0.45€ bounty)
+Seat 4: P1xel7 (23934, 0.45€ bounty)
+Seat 5: joela974 (46832, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20906, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+joela974 posts ante 60
+Dracaufeu. posts ante 60
+JJ-Daniel-s posts ante 60
+DOBEL-UPAPA posts ante 60
+P1xel7 posts small blind 250
+joela974 posts big blind 500
+Dealt to P1xel7 [6c Qc]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+P1xel7 folds
+joela974 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 5: joela974 (big blind) won 1050
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198559168642416680-53-1708030204 - Holdem no limit (60/250/500) - 2024/02/15 20:50:04 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: Dracaufeu. (18887, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (28081, 0.67€ bounty)
+Seat 3: Ivan el ruso (20000, 0.45€ bounty)
+Seat 4: P1xel7 (23624, 0.45€ bounty)
+Seat 5: joela974 (47322, 0.67€ bounty)
+Seat 6: DOBEL-UPAPA (20846, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 60
+DOBEL-UPAPA posts ante 60
+Dracaufeu. posts ante 60
+JJ-Daniel-s posts ante 60
+Ivan el ruso posts ante 60
+P1xel7 posts ante 60
+joela974 posts small blind 250
+DOBEL-UPAPA posts big blind 500
+Dealt to P1xel7 [Qh 8h]
+*** PRE-FLOP *** 
+Dracaufeu. folds
+JJ-Daniel-s folds
+Ivan el ruso raises 19440 to 19940 and is all-in
+P1xel7 folds
+joela974 calls 19690
+DOBEL-UPAPA folds
+*** FLOP *** [As 4h 8c]
+*** TURN *** [As 4h 8c][3s]
+*** RIVER *** [As 4h 8c 3s][5c]
+*** SHOW DOWN ***
+Ivan el ruso shows [Js 9s] (High card : Ace)
+joela974 shows [Kd Ah] (One pair : Aces)
+joela974 collected 40740 from pot
+*** SUMMARY ***
+Total pot 40740 | No rake
+Board: [As 4h 8c 3s 5c]
+Seat 3: Ivan el ruso showed [Js 9s] and lost with High card : Ace
+Seat 5: joela974 (small blind) showed [Kd Ah] and won 40740 with One pair : Aces
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198559168642416680-54-1708030252 - Holdem no limit (60/250/500) - 2024/02/15 20:50:52 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: Dracaufeu. (18827, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (28021, 0.67€ bounty)
+Seat 4: P1xel7 (23564, 0.45€ bounty)
+Seat 5: joela974 (68062, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (20286, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 60
+Dracaufeu. posts ante 60
+JJ-Daniel-s posts ante 60
+P1xel7 posts ante 60
+joela974 posts ante 60
+DOBEL-UPAPA posts small blind 250
+Dracaufeu. posts big blind 500
+Dealt to P1xel7 [4d 9s]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 1: Dracaufeu. (big blind) won 1050
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198559168642416680-55-1708030268 - Holdem no limit (70/300/600) - 2024/02/15 20:51:08 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: Dracaufeu. (19317, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (27961, 0.67€ bounty)
+Seat 4: P1xel7 (23504, 0.45€ bounty)
+Seat 5: joela974 (68002, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (19976, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Dracaufeu. posts ante 70
+JJ-Daniel-s posts ante 70
+P1xel7 posts ante 70
+joela974 posts ante 70
+DOBEL-UPAPA posts ante 70
+Dracaufeu. posts small blind 300
+JJ-Daniel-s posts big blind 600
+Dealt to P1xel7 [Td Th]
+*** PRE-FLOP *** 
+P1xel7 raises 600 to 1200
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s calls 600
+*** FLOP *** [Ts 2s Ad]
+JJ-Daniel-s checks
+P1xel7 checks
+*** TURN *** [Ts 2s Ad][Jh]
+JJ-Daniel-s checks
+P1xel7 bets 1068
+JJ-Daniel-s calls 1068
+*** RIVER *** [Ts 2s Ad Jh][Ks]
+JJ-Daniel-s checks
+P1xel7 checks
+*** SHOW DOWN ***
+JJ-Daniel-s shows [9h Jd] (One pair : Jacks)
+P1xel7 shows [Td Th] (Trips of Tens)
+P1xel7 collected 5186 from pot
+*** SUMMARY ***
+Total pot 5186 | No rake
+Board: [Ts 2s Ad Jh Ks]
+Seat 2: JJ-Daniel-s (big blind) showed [9h Jd] and lost with One pair : Jacks
+Seat 4: P1xel7 showed [Td Th] and won 5186 with Trips of Tens
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198559168642416680-56-1708030315 - Holdem no limit (70/300/600) - 2024/02/15 20:51:55 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: Dracaufeu. (18947, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (25623, 0.67€ bounty)
+Seat 4: P1xel7 (26352, 0.45€ bounty)
+Seat 5: joela974 (67932, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (19906, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 70
+P1xel7 posts ante 70
+Dracaufeu. posts ante 70
+joela974 posts ante 70
+DOBEL-UPAPA posts ante 70
+JJ-Daniel-s posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [3c Qc]
+*** PRE-FLOP *** 
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. raises 600 to 1200
+JJ-Daniel-s calls 900
+P1xel7 folds
+*** FLOP *** [7c Qs Qh]
+JJ-Daniel-s checks
+Dracaufeu. checks
+*** TURN *** [7c Qs Qh][9c]
+JJ-Daniel-s bets 1173
+Dracaufeu. calls 1173
+*** RIVER *** [7c Qs Qh 9c][2h]
+JJ-Daniel-s bets 1994
+Dracaufeu. calls 1994
+*** SHOW DOWN ***
+Dracaufeu. shows [9d Kd] (Two pairs : Queens and 9)
+JJ-Daniel-s shows [Ks 9s] (Two pairs : Queens and 9)
+JJ-Daniel-s collected 4842 from pot
+Dracaufeu. collected 4842 from pot
+*** SUMMARY ***
+Total pot 9684 | No rake
+Board: [7c Qs Qh 9c 2h]
+Seat 1: Dracaufeu. (button) showed [9d Kd] and won 4842 with Two pairs : Queens and 9
+Seat 2: JJ-Daniel-s (small blind) showed [Ks 9s] and won 4842 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198559168642416680-57-1708030367 - Holdem no limit (70/300/600) - 2024/02/15 20:52:47 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: Dracaufeu. (19352, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (26028, 0.67€ bounty)
+Seat 4: P1xel7 (25682, 0.45€ bounty)
+Seat 5: joela974 (67862, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (19836, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+joela974 posts ante 70
+Dracaufeu. posts ante 70
+JJ-Daniel-s posts ante 70
+DOBEL-UPAPA posts ante 70
+P1xel7 posts small blind 300
+joela974 posts big blind 600
+Dealt to P1xel7 [Kd 8h]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+P1xel7 folds
+joela974 collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | No rake
+Seat 5: joela974 (big blind) won 1250
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198559168642416680-58-1708030382 - Holdem no limit (70/300/600) - 2024/02/15 20:53:02 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: Dracaufeu. (19282, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (25958, 0.67€ bounty)
+Seat 3: cash69100 (20000, 0.45€ bounty)
+Seat 4: P1xel7 (25312, 0.45€ bounty)
+Seat 5: joela974 (68442, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (19766, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 70
+DOBEL-UPAPA posts ante 70
+Dracaufeu. posts ante 70
+JJ-Daniel-s posts ante 70
+cash69100 posts ante 70
+P1xel7 posts ante 70
+joela974 posts small blind 300
+DOBEL-UPAPA posts big blind 600
+Dealt to P1xel7 [8d Jc]
+*** PRE-FLOP *** 
+Dracaufeu. folds
+JJ-Daniel-s folds
+cash69100 folds
+P1xel7 folds
+joela974 calls 300
+DOBEL-UPAPA checks
+*** FLOP *** [3h 9d 2c]
+joela974 checks
+DOBEL-UPAPA bets 891
+joela974 folds
+DOBEL-UPAPA collected 2511 from pot
+*** SUMMARY ***
+Total pot 2511 | No rake
+Board: [3h 9d 2c]
+Seat 6: DOBEL-UPAPA (big blind) won 2511
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198559168642416680-59-1708030427 - Holdem no limit (70/300/600) - 2024/02/15 20:53:47 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: Dracaufeu. (19212, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (25888, 0.67€ bounty)
+Seat 3: cash69100 (19930, 0.45€ bounty)
+Seat 4: P1xel7 (25242, 0.45€ bounty)
+Seat 5: joela974 (67772, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (20716, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 70
+Dracaufeu. posts ante 70
+JJ-Daniel-s posts ante 70
+cash69100 posts ante 70
+P1xel7 posts ante 70
+joela974 posts ante 70
+DOBEL-UPAPA posts small blind 300
+Dracaufeu. posts big blind 600
+Dealt to P1xel7 [Jd 6c]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+cash69100 calls 600
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA calls 300
+Dracaufeu. checks
+*** FLOP *** [Tc 7s As]
+DOBEL-UPAPA checks
+Dracaufeu. checks
+cash69100 checks
+*** TURN *** [Tc 7s As][Qs]
+DOBEL-UPAPA checks
+Dracaufeu. checks
+cash69100 checks
+*** RIVER *** [Tc 7s As Qs][9s]
+DOBEL-UPAPA checks
+Dracaufeu. checks
+cash69100 checks
+*** SHOW DOWN ***
+cash69100 shows [5d 8h] (High card : Ace)
+DOBEL-UPAPA shows [6d 6h] (One pair : 6)
+Dracaufeu. shows [3s 8s] (Flush Ace high)
+Dracaufeu. collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [Tc 7s As Qs 9s]
+Seat 1: Dracaufeu. (big blind) showed [3s 8s] and won 2220 with Flush Ace high
+Seat 3: cash69100 showed [5d 8h] and lost with High card : Ace
+Seat 6: DOBEL-UPAPA (small blind) showed [6d 6h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198559168642416680-60-1708030495 - Holdem no limit (70/300/600) - 2024/02/15 20:54:55 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: Dracaufeu. (20762, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (25818, 0.67€ bounty)
+Seat 3: cash69100 (19260, 0.45€ bounty)
+Seat 4: P1xel7 (25172, 0.45€ bounty)
+Seat 5: joela974 (67702, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (20046, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Dracaufeu. posts ante 70
+JJ-Daniel-s posts ante 70
+cash69100 posts ante 70
+P1xel7 posts ante 70
+joela974 posts ante 70
+DOBEL-UPAPA posts ante 70
+Dracaufeu. posts small blind 300
+JJ-Daniel-s posts big blind 600
+Dealt to P1xel7 [4c Ks]
+*** PRE-FLOP *** 
+cash69100 calls 600
+P1xel7 folds
+joela974 raises 2520 to 3120
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s folds
+cash69100 folds
+joela974 collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | No rake
+Seat 5: joela974 won 5040
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198559168642416680-61-1708030860 - Holdem no limit (70/300/600) - 2024/02/15 21:01:00 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: Dracaufeu. (20392, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (25148, 0.67€ bounty)
+Seat 3: cash69100 (18590, 0.45€ bounty)
+Seat 4: P1xel7 (25102, 0.45€ bounty)
+Seat 5: joela974 (69552, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (19976, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 70
+cash69100 posts ante 70
+Dracaufeu. posts ante 70
+P1xel7 posts ante 70
+joela974 posts ante 70
+DOBEL-UPAPA posts ante 70
+JJ-Daniel-s posts small blind 300
+cash69100 posts big blind 600
+Dealt to P1xel7 [6d 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 calls 600
+DOBEL-UPAPA folds
+Dracaufeu. folds
+JJ-Daniel-s raises 600 to 1200
+cash69100 raises 600 to 1800
+joela974 calls 1200
+JJ-Daniel-s calls 600
+*** FLOP *** [Ac 9s 3c]
+JJ-Daniel-s checks
+cash69100 bets 3783
+joela974 folds
+JJ-Daniel-s folds
+cash69100 collected 9603 from pot
+*** SUMMARY ***
+Total pot 9603 | No rake
+Board: [Ac 9s 3c]
+Seat 3: cash69100 (big blind) won 9603
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198559168642416680-62-1708030942 - Holdem no limit (70/300/600) - 2024/02/15 21:02:22 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: Dracaufeu. (20322, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (23278, 0.67€ bounty)
+Seat 3: cash69100 (22540, 0.45€ bounty)
+Seat 4: P1xel7 (25032, 0.45€ bounty)
+Seat 5: joela974 (67682, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (19906, 0.45€ bounty)
+*** ANTE/BLINDS ***
+cash69100 posts ante 70
+P1xel7 posts ante 70
+Dracaufeu. posts ante 70
+JJ-Daniel-s posts ante 70
+joela974 posts ante 70
+DOBEL-UPAPA posts ante 70
+cash69100 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [Kh Kc]
+*** PRE-FLOP *** 
+joela974 folds
+DOBEL-UPAPA folds
+Dracaufeu. raises 600 to 1200
+JJ-Daniel-s calls 1200
+cash69100 calls 900
+P1xel7 raises 3000 to 4200
+Dracaufeu. raises 16052 to 20252 and is all-in
+JJ-Daniel-s folds
+cash69100 folds
+P1xel7 calls 16052
+*** FLOP *** [6c Qc 3d]
+*** TURN *** [6c Qc 3d][Js]
+*** RIVER *** [6c Qc 3d Js][5h]
+*** SHOW DOWN ***
+Dracaufeu. shows [As Kd] (High card : Ace)
+P1xel7 shows [Kh Kc] (One pair : Kings)
+P1xel7 collected 43324 from pot
+*** SUMMARY ***
+Total pot 43324 | No rake
+Board: [6c Qc 3d Js 5h]
+Seat 1: Dracaufeu. showed [As Kd] and lost with High card : Ace
+Seat 4: P1xel7 (big blind) showed [Kh Kc] and won 43324 with One pair : Kings
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198559168642416680-63-1708030996 - Holdem no limit (80/350/700) - 2024/02/15 21:03:16 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 2: JJ-Daniel-s (22008, 0.67€ bounty)
+Seat 3: cash69100 (21270, 0.45€ bounty)
+Seat 4: P1xel7 (48034, 0.67€ bounty)
+Seat 5: joela974 (67612, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (19836, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+joela974 posts ante 80
+JJ-Daniel-s posts ante 80
+cash69100 posts ante 80
+DOBEL-UPAPA posts ante 80
+P1xel7 posts small blind 350
+joela974 posts big blind 700
+Dealt to P1xel7 [7c 7d]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+JJ-Daniel-s folds
+cash69100 calls 700
+P1xel7 raises 2800 to 3500
+joela974 calls 2800
+cash69100 calls 2800
+*** FLOP *** [4h Ad 6c]
+P1xel7 bets 3815
+joela974 folds
+cash69100 calls 3815
+*** TURN *** [4h Ad 6c][5s]
+P1xel7 bets 6486
+cash69100 raises 7389 to 13875 and is all-in
+P1xel7 calls 7389
+*** RIVER *** [4h Ad 6c 5s][5h]
+*** SHOW DOWN ***
+P1xel7 shows [7c 7d] (Two pairs : 7 and 5)
+cash69100 shows [6d 5d] (Full of 5 and 6)
+cash69100 collected 46280 from pot
+*** SUMMARY ***
+Total pot 46280 | No rake
+Board: [4h Ad 6c 5s 5h]
+Seat 3: cash69100 (button) showed [6d 5d] and won 46280 with Full of 5 and 6
+Seat 4: P1xel7 (small blind) showed [7c 7d] and lost with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198559168642416680-64-1708031041 - Holdem no limit (80/350/700) - 2024/02/15 21:04:01 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 2: JJ-Daniel-s (21928, 0.67€ bounty)
+Seat 3: cash69100 (46280, 0.45€ bounty)
+Seat 4: P1xel7 (26764, 0.67€ bounty)
+Seat 5: joela974 (64032, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (19756, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 80
+DOBEL-UPAPA posts ante 80
+JJ-Daniel-s posts ante 80
+cash69100 posts ante 80
+P1xel7 posts ante 80
+joela974 posts small blind 350
+DOBEL-UPAPA posts big blind 700
+Dealt to P1xel7 [Th 4c]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+cash69100 folds
+P1xel7 folds
+joela974 raises 700 to 1400
+DOBEL-UPAPA calls 700
+*** FLOP *** [2h 6d 7d]
+joela974 bets 700
+DOBEL-UPAPA calls 700
+*** TURN *** [2h 6d 7d][4s]
+joela974 bets 700
+DOBEL-UPAPA raises 2985 to 3685
+joela974 folds
+DOBEL-UPAPA collected 8985 from pot
+*** SUMMARY ***
+Total pot 8985 | No rake
+Board: [2h 6d 7d 4s]
+Seat 6: DOBEL-UPAPA (big blind) won 8985
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198559168642416680-65-1708031083 - Holdem no limit (80/350/700) - 2024/02/15 21:04:43 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 2: JJ-Daniel-s (21848, 0.67€ bounty)
+Seat 3: cash69100 (46200, 0.45€ bounty)
+Seat 4: P1xel7 (26684, 0.67€ bounty)
+Seat 5: joela974 (61152, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (22876, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 80
+JJ-Daniel-s posts ante 80
+cash69100 posts ante 80
+P1xel7 posts ante 80
+joela974 posts ante 80
+DOBEL-UPAPA posts small blind 350
+JJ-Daniel-s posts big blind 700
+Dealt to P1xel7 [Tc 8c]
+*** PRE-FLOP *** 
+cash69100 calls 700
+P1xel7 folds
+joela974 raises 700 to 1400
+DOBEL-UPAPA folds
+JJ-Daniel-s raises 2800 to 4200
+cash69100 calls 3500
+joela974 calls 2800
+*** FLOP *** [Qs 6h Ts]
+JJ-Daniel-s bets 8678
+cash69100 calls 8678
+joela974 folds
+*** TURN *** [Qs 6h Ts][6s]
+JJ-Daniel-s bets 8890 and is all-in
+cash69100 calls 8890
+*** RIVER *** [Qs 6h Ts 6s][6d]
+*** SHOW DOWN ***
+cash69100 shows [5s 9s] (Flush Queen high)
+JJ-Daniel-s shows [Ad Qc] (Full of 6 and Queens)
+JJ-Daniel-s collected 48486 from pot
+*** SUMMARY ***
+Total pot 48486 | No rake
+Board: [Qs 6h Ts 6s 6d]
+Seat 2: JJ-Daniel-s (big blind) showed [Ad Qc] and won 48486 with Full of 6 and Queens
+Seat 3: cash69100 showed [5s 9s] and lost with Flush Queen high
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198559168642416680-66-1708031150 - Holdem no limit (80/350/700) - 2024/02/15 21:05:50 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 2: JJ-Daniel-s (48486, 0.67€ bounty)
+Seat 3: cash69100 (24352, 0.45€ bounty)
+Seat 4: P1xel7 (26604, 0.67€ bounty)
+Seat 5: joela974 (56872, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (22446, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 80
+cash69100 posts ante 80
+P1xel7 posts ante 80
+joela974 posts ante 80
+DOBEL-UPAPA posts ante 80
+JJ-Daniel-s posts small blind 350
+cash69100 posts big blind 700
+Dealt to P1xel7 [Td 8c]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA raises 840 to 1540
+JJ-Daniel-s folds
+cash69100 raises 22732 to 24272 and is all-in
+DOBEL-UPAPA folds
+cash69100 collected 26562 from pot
+*** SUMMARY ***
+Total pot 26562 | No rake
+Seat 3: cash69100 (big blind) won 26562
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198559168642416680-67-1708031180 - Holdem no limit (80/350/700) - 2024/02/15 21:06:20 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 2: JJ-Daniel-s (48056, 0.67€ bounty)
+Seat 3: cash69100 (26562, 0.45€ bounty)
+Seat 4: P1xel7 (26524, 0.67€ bounty)
+Seat 5: joela974 (56792, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (20826, 0.45€ bounty)
+*** ANTE/BLINDS ***
+cash69100 posts ante 80
+P1xel7 posts ante 80
+JJ-Daniel-s posts ante 80
+joela974 posts ante 80
+DOBEL-UPAPA posts ante 80
+cash69100 posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [7c 6d]
+*** PRE-FLOP *** 
+joela974 folds
+DOBEL-UPAPA raises 840 to 1540
+JJ-Daniel-s folds
+cash69100 calls 1190
+P1xel7 calls 840
+*** FLOP *** [Jh 2s 5d]
+cash69100 bets 700
+P1xel7 folds
+DOBEL-UPAPA calls 700
+*** TURN *** [Jh 2s 5d][8d]
+cash69100 checks
+DOBEL-UPAPA checks
+*** RIVER *** [Jh 2s 5d 8d][7s]
+cash69100 checks
+DOBEL-UPAPA checks
+*** SHOW DOWN ***
+cash69100 shows [Qd Th] (High card : Queen)
+DOBEL-UPAPA shows [As 9s] (High card : Ace)
+DOBEL-UPAPA collected 6420 from pot
+*** SUMMARY ***
+Total pot 6420 | No rake
+Board: [Jh 2s 5d 8d 7s]
+Seat 3: cash69100 (small blind) showed [Qd Th] and lost with High card : Queen
+Seat 6: DOBEL-UPAPA showed [As 9s] and won 6420 with High card : Ace
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198559168642416680-68-1708031229 - Holdem no limit (80/350/700) - 2024/02/15 21:07:09 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: WinaVoLegAAl (31117, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (47976, 0.67€ bounty)
+Seat 3: cash69100 (24242, 0.45€ bounty)
+Seat 4: P1xel7 (24904, 0.67€ bounty)
+Seat 5: joela974 (56712, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (24926, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+joela974 posts ante 80
+WinaVoLegAAl posts ante 80
+JJ-Daniel-s posts ante 80
+cash69100 posts ante 80
+DOBEL-UPAPA posts ante 80
+P1xel7 posts small blind 350
+joela974 posts big blind 700
+Dealt to P1xel7 [3c Tc]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+cash69100 raises 23462 to 24162 and is all-in
+P1xel7 folds
+joela974 folds
+cash69100 collected 25692 from pot
+*** SUMMARY ***
+Total pot 25692 | No rake
+Seat 3: cash69100 (button) won 25692
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198559168642416680-69-1708031248 - Holdem no limit (80/350/700) - 2024/02/15 21:07:28 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: WinaVoLegAAl (31037, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (47896, 0.67€ bounty)
+Seat 3: cash69100 (25692, 0.45€ bounty)
+Seat 4: P1xel7 (24474, 0.67€ bounty)
+Seat 5: joela974 (55932, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (24846, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 80
+DOBEL-UPAPA posts ante 80
+WinaVoLegAAl posts ante 80
+JJ-Daniel-s posts ante 80
+cash69100 posts ante 80
+P1xel7 posts ante 80
+joela974 posts small blind 350
+DOBEL-UPAPA posts big blind 700
+Dealt to P1xel7 [6c Js]
+*** PRE-FLOP *** 
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+cash69100 calls 700
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA checks
+*** FLOP *** [Kd Th Ad]
+DOBEL-UPAPA checks
+cash69100 bets 24912 and is all-in
+DOBEL-UPAPA folds
+cash69100 collected 27142 from pot
+*** SUMMARY ***
+Total pot 27142 | No rake
+Board: [Kd Th Ad]
+Seat 3: cash69100 won 27142
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198559168642416680-70-1708031298 - Holdem no limit (80/350/700) - 2024/02/15 21:08:18 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: WinaVoLegAAl (30957, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (47816, 0.67€ bounty)
+Seat 3: cash69100 (27142, 0.45€ bounty)
+Seat 4: P1xel7 (24394, 0.67€ bounty)
+Seat 5: joela974 (55502, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (24066, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 80
+WinaVoLegAAl posts ante 80
+JJ-Daniel-s posts ante 80
+cash69100 posts ante 80
+P1xel7 posts ante 80
+joela974 posts ante 80
+DOBEL-UPAPA posts small blind 350
+WinaVoLegAAl posts big blind 700
+Dealt to P1xel7 [5c 4c]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+cash69100 calls 700
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+WinaVoLegAAl checks
+*** FLOP *** [3s 4d Js]
+WinaVoLegAAl checks
+cash69100 bets 700
+WinaVoLegAAl folds
+cash69100 collected 2930 from pot
+*** SUMMARY ***
+Total pot 2930 | No rake
+Board: [3s 4d Js]
+Seat 3: cash69100 won 2930
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198559168642416680-71-1708031351 - Holdem no limit (100/400/800) - 2024/02/15 21:09:11 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: WinaVoLegAAl (30177, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (47736, 0.67€ bounty)
+Seat 3: cash69100 (28592, 0.45€ bounty)
+Seat 4: P1xel7 (24314, 0.67€ bounty)
+Seat 5: joela974 (55422, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (23636, 0.45€ bounty)
+*** ANTE/BLINDS ***
+WinaVoLegAAl posts ante 100
+JJ-Daniel-s posts ante 100
+cash69100 posts ante 100
+P1xel7 posts ante 100
+joela974 posts ante 100
+DOBEL-UPAPA posts ante 100
+WinaVoLegAAl posts small blind 400
+JJ-Daniel-s posts big blind 800
+Dealt to P1xel7 [Qc 3s]
+*** PRE-FLOP *** 
+cash69100 folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA raises 960 to 1760
+WinaVoLegAAl calls 1360
+JJ-Daniel-s folds
+*** FLOP *** [2d 2c 9c]
+WinaVoLegAAl bets 800
+DOBEL-UPAPA raises 2274 to 3074
+WinaVoLegAAl calls 2274
+*** TURN *** [2d 2c 9c][5s]
+WinaVoLegAAl checks
+DOBEL-UPAPA bets 6087
+WinaVoLegAAl folds
+DOBEL-UPAPA collected 17155 from pot
+*** SUMMARY ***
+Total pot 17155 | No rake
+Board: [2d 2c 9c 5s]
+Seat 6: DOBEL-UPAPA (button) won 17155
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198559168642416680-72-1708031434 - Holdem no limit (100/400/800) - 2024/02/15 21:10:34 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: WinaVoLegAAl (25243, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (46836, 0.67€ bounty)
+Seat 3: cash69100 (28492, 0.45€ bounty)
+Seat 4: P1xel7 (24214, 0.67€ bounty)
+Seat 5: joela974 (55322, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (29770, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 100
+cash69100 posts ante 100
+WinaVoLegAAl posts ante 100
+P1xel7 posts ante 100
+joela974 posts ante 100
+DOBEL-UPAPA posts ante 100
+JJ-Daniel-s posts small blind 400
+cash69100 posts big blind 800
+Dealt to P1xel7 [4c 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 raises 800 to 1600
+DOBEL-UPAPA folds
+WinaVoLegAAl folds
+JJ-Daniel-s calls 1200
+cash69100 calls 800
+*** FLOP *** [4s 6s Jh]
+JJ-Daniel-s bets 3510
+cash69100 folds
+joela974 calls 3510
+*** TURN *** [4s 6s Jh][Jc]
+JJ-Daniel-s checks
+joela974 checks
+*** RIVER *** [4s 6s Jh Jc][9h]
+JJ-Daniel-s bets 4347
+joela974 calls 4347
+*** SHOW DOWN ***
+joela974 shows [Qh Ah] (One pair : Jacks)
+JJ-Daniel-s shows [4d 4h] (Full of 4 and Jacks)
+JJ-Daniel-s collected 21114 from pot
+*** SUMMARY ***
+Total pot 21114 | No rake
+Board: [4s 6s Jh Jc 9h]
+Seat 2: JJ-Daniel-s (small blind) showed [4d 4h] and won 21114 with Full of 4 and Jacks
+Seat 5: joela974 showed [Qh Ah] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198559168642416680-73-1708031495 - Holdem no limit (100/400/800) - 2024/02/15 21:11:35 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: WinaVoLegAAl (25143, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (58393, 0.67€ bounty)
+Seat 3: cash69100 (26792, 0.45€ bounty)
+Seat 4: P1xel7 (24114, 0.67€ bounty)
+Seat 5: joela974 (45765, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (29670, 0.45€ bounty)
+*** ANTE/BLINDS ***
+cash69100 posts ante 100
+P1xel7 posts ante 100
+WinaVoLegAAl posts ante 100
+JJ-Daniel-s posts ante 100
+joela974 posts ante 100
+DOBEL-UPAPA posts ante 100
+cash69100 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [8d 5d]
+*** PRE-FLOP *** 
+joela974 folds
+DOBEL-UPAPA folds
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+cash69100 calls 400
+P1xel7 checks
+*** FLOP *** [Qc 6h Th]
+cash69100 checks
+P1xel7 checks
+*** TURN *** [Qc 6h Th][4d]
+cash69100 checks
+P1xel7 checks
+*** RIVER *** [Qc 6h Th 4d][5c]
+cash69100 checks
+P1xel7 bets 2200
+cash69100 folds
+P1xel7 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | No rake
+Board: [Qc 6h Th 4d 5c]
+Seat 4: P1xel7 (big blind) won 4400
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198559168642416680-74-1708031553 - Holdem no limit (100/400/800) - 2024/02/15 21:12:33 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: WinaVoLegAAl (25043, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (58293, 0.67€ bounty)
+Seat 3: cash69100 (25892, 0.45€ bounty)
+Seat 4: P1xel7 (25414, 0.67€ bounty)
+Seat 5: joela974 (45665, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (29570, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+joela974 posts ante 100
+WinaVoLegAAl posts ante 100
+JJ-Daniel-s posts ante 100
+cash69100 posts ante 100
+DOBEL-UPAPA posts ante 100
+P1xel7 posts small blind 400
+joela974 posts big blind 800
+Dealt to P1xel7 [Js 9h]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+cash69100 folds
+P1xel7 raises 960 to 1760
+joela974 calls 960
+*** FLOP *** [4h Qc Kc]
+P1xel7 bets 1442
+joela974 calls 1442
+*** TURN *** [4h Qc Kc][9c]
+P1xel7 bets 1751
+joela974 raises 40612 to 42363 and is all-in
+P1xel7 folds
+joela974 collected 51118 from pot
+*** SUMMARY ***
+Total pot 51118 | No rake
+Board: [4h Qc Kc 9c]
+Seat 5: joela974 (big blind) won 51118
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198559168642416680-75-1708031600 - Holdem no limit (100/400/800) - 2024/02/15 21:13:20 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: WinaVoLegAAl (24943, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (58193, 0.67€ bounty)
+Seat 3: cash69100 (25792, 0.45€ bounty)
+Seat 4: P1xel7 (20361, 0.67€ bounty)
+Seat 5: joela974 (51118, 0.89€ bounty)
+Seat 6: DOBEL-UPAPA (29470, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 100
+DOBEL-UPAPA posts ante 100
+WinaVoLegAAl posts ante 100
+JJ-Daniel-s posts ante 100
+cash69100 posts ante 100
+P1xel7 posts ante 100
+joela974 posts small blind 400
+DOBEL-UPAPA posts big blind 800
+Dealt to P1xel7 [Jh 5s]
+*** PRE-FLOP *** 
+WinaVoLegAAl calls 800
+JJ-Daniel-s folds
+cash69100 calls 800
+P1xel7 folds
+joela974 raises 50218 to 51018 and is all-in
+DOBEL-UPAPA folds
+WinaVoLegAAl folds
+cash69100 calls 24892 and is all-in
+*** FLOP *** [7c Kd 3d]
+*** TURN *** [7c Kd 3d][2s]
+*** RIVER *** [7c Kd 3d 2s][Qs]
+*** SHOW DOWN ***
+cash69100 shows [2h Ah] (One pair : 2)
+joela974 shows [Qh Qc] (Trips of Queens)
+joela974 collected 78910 from pot
+*** SUMMARY ***
+Total pot 78910 | No rake
+Board: [7c Kd 3d 2s Qs]
+Seat 3: cash69100 showed [2h Ah] and lost with One pair : 2
+Seat 5: joela974 (small blind) showed [Qh Qc] and won 78910 with Trips of Queens
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198559168642416680-76-1708031652 - Holdem no limit (100/400/800) - 2024/02/15 21:14:12 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: WinaVoLegAAl (24043, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (58093, 0.67€ bounty)
+Seat 4: P1xel7 (20261, 0.67€ bounty)
+Seat 5: joela974 (78910, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (28570, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 100
+WinaVoLegAAl posts ante 100
+JJ-Daniel-s posts ante 100
+P1xel7 posts ante 100
+joela974 posts ante 100
+DOBEL-UPAPA posts small blind 400
+WinaVoLegAAl posts big blind 800
+Dealt to P1xel7 [4d Ts]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+WinaVoLegAAl collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 1: WinaVoLegAAl (big blind) won 1700
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198559168642416680-77-1708031667 - Holdem no limit (100/400/800) - 2024/02/15 21:14:27 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: WinaVoLegAAl (24843, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (57993, 0.67€ bounty)
+Seat 4: P1xel7 (20161, 0.67€ bounty)
+Seat 5: joela974 (78810, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (28070, 0.45€ bounty)
+*** ANTE/BLINDS ***
+WinaVoLegAAl posts ante 100
+JJ-Daniel-s posts ante 100
+P1xel7 posts ante 100
+joela974 posts ante 100
+DOBEL-UPAPA posts ante 100
+WinaVoLegAAl posts small blind 400
+JJ-Daniel-s posts big blind 800
+Dealt to P1xel7 [4s Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 calls 800
+DOBEL-UPAPA folds
+WinaVoLegAAl calls 400
+JJ-Daniel-s checks
+*** FLOP *** [7c Kd 9c]
+WinaVoLegAAl checks
+JJ-Daniel-s checks
+joela974 bets 2900
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+joela974 collected 5800 from pot
+*** SUMMARY ***
+Total pot 5800 | No rake
+Board: [7c Kd 9c]
+Seat 5: joela974 won 5800
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198559168642416680-78-1708031745 - Holdem no limit (120/500/1000) - 2024/02/15 21:15:45 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: WinaVoLegAAl (23943, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (57093, 0.67€ bounty)
+Seat 4: P1xel7 (20061, 0.67€ bounty)
+Seat 5: joela974 (80810, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (27970, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 120
+P1xel7 posts ante 120
+WinaVoLegAAl posts ante 120
+joela974 posts ante 120
+DOBEL-UPAPA posts ante 120
+JJ-Daniel-s posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [9h 8s]
+*** PRE-FLOP *** 
+joela974 raises 1000 to 2000
+DOBEL-UPAPA folds
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+P1xel7 calls 1000
+*** FLOP *** [Qc Jh 3s]
+P1xel7 checks
+joela974 bets 1000
+P1xel7 folds
+joela974 collected 6100 from pot
+*** SUMMARY ***
+Total pot 6100 | No rake
+Board: [Qc Jh 3s]
+Seat 5: joela974 won 6100
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198559168642416680-79-1708031782 - Holdem no limit (120/500/1000) - 2024/02/15 21:16:22 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: WinaVoLegAAl (23823, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (56473, 0.67€ bounty)
+Seat 4: P1xel7 (17941, 0.67€ bounty)
+Seat 5: joela974 (83790, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (27850, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+joela974 posts ante 120
+WinaVoLegAAl posts ante 120
+JJ-Daniel-s posts ante 120
+DOBEL-UPAPA posts ante 120
+P1xel7 posts small blind 500
+joela974 posts big blind 1000
+Dealt to P1xel7 [Ks 3c]
+*** PRE-FLOP *** 
+DOBEL-UPAPA raises 1000 to 2000
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+P1xel7 folds
+joela974 raises 1000 to 3000
+DOBEL-UPAPA calls 1000
+*** FLOP *** [Qc 3h Kd]
+joela974 bets 80670 and is all-in
+DOBEL-UPAPA calls 24730 and is all-in
+*** TURN *** [Qc 3h Kd][Ah]
+*** RIVER *** [Qc 3h Kd Ah][2c]
+*** SHOW DOWN ***
+joela974 shows [9d 9h] (One pair : 9)
+DOBEL-UPAPA shows [Kh Jd] (One pair : Kings)
+DOBEL-UPAPA collected 56560 from main pot
+joela974 collected 55940 from side pot 1
+*** SUMMARY ***
+Total pot 112500 | No rake
+Board: [Qc 3h Kd Ah 2c]
+Seat 5: joela974 (big blind) showed [9d 9h] and won 55940 with One pair : 9
+Seat 6: DOBEL-UPAPA showed [Kh Jd] and won 56560 with One pair : Kings
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198559168642416680-80-1708031834 - Holdem no limit (120/500/1000) - 2024/02/15 21:17:14 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: WinaVoLegAAl (23703, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (56353, 0.67€ bounty)
+Seat 3: cAAptainIglo (20000, 0.45€ bounty)
+Seat 4: P1xel7 (17321, 0.67€ bounty)
+Seat 5: joela974 (55940, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (56560, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 120
+DOBEL-UPAPA posts ante 120
+WinaVoLegAAl posts ante 120
+JJ-Daniel-s posts ante 120
+cAAptainIglo posts ante 120
+P1xel7 posts ante 120
+joela974 posts small blind 500
+DOBEL-UPAPA posts big blind 1000
+Dealt to P1xel7 [9h Ks]
+*** PRE-FLOP *** 
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+cAAptainIglo folds
+P1xel7 folds
+joela974 calls 500
+DOBEL-UPAPA checks
+*** FLOP *** [3c Tc Kd]
+joela974 checks
+DOBEL-UPAPA checks
+*** TURN *** [3c Tc Kd][Jd]
+joela974 checks
+DOBEL-UPAPA checks
+*** RIVER *** [3c Tc Kd Jd][5h]
+joela974 checks
+DOBEL-UPAPA checks
+*** SHOW DOWN ***
+DOBEL-UPAPA shows [2c 9s] (High card : King)
+joela974 shows [As 7d] (High card : Ace)
+joela974 collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [3c Tc Kd Jd 5h]
+Seat 5: joela974 (small blind) showed [As 7d] and won 2720 with High card : Ace
+Seat 6: DOBEL-UPAPA (big blind) showed [2c 9s] and lost with High card : King
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198559168642416680-81-1708031893 - Holdem no limit (120/500/1000) - 2024/02/15 21:18:13 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: WinaVoLegAAl (23583, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (56233, 0.67€ bounty)
+Seat 3: cAAptainIglo (19880, 0.45€ bounty)
+Seat 4: P1xel7 (17201, 0.67€ bounty)
+Seat 5: joela974 (57540, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (55440, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 120
+WinaVoLegAAl posts ante 120
+JJ-Daniel-s posts ante 120
+cAAptainIglo posts ante 120
+P1xel7 posts ante 120
+joela974 posts ante 120
+DOBEL-UPAPA posts small blind 500
+WinaVoLegAAl posts big blind 1000
+Dealt to P1xel7 [Ad Kh]
+*** PRE-FLOP *** 
+JJ-Daniel-s raises 1000 to 2000
+cAAptainIglo raises 3000 to 5000
+P1xel7 raises 12081 to 17081 and is all-in
+joela974 folds
+DOBEL-UPAPA folds
+WinaVoLegAAl folds
+JJ-Daniel-s raises 39032 to 56113 and is all-in
+cAAptainIglo calls 14760 and is all-in
+*** FLOP *** [7d 9d 4d]
+*** TURN *** [7d 9d 4d][4s]
+*** RIVER *** [7d 9d 4d 4s][5d]
+*** SHOW DOWN ***
+JJ-Daniel-s shows [Ah Jh] (One pair : 4)
+cAAptainIglo shows [Ks Kd] (Flush King high)
+P1xel7 shows [Ad Kh] (Flush Ace high)
+P1xel7 collected 53463 from main pot
+cAAptainIglo collected 5358 from side pot 1
+JJ-Daniel-s collected 36353 from side pot 2
+*** SUMMARY ***
+Total pot 95174 | No rake
+Board: [7d 9d 4d 4s 5d]
+Seat 2: JJ-Daniel-s showed [Ah Jh] and won 36353 with One pair : 4
+Seat 3: cAAptainIglo showed [Ks Kd] and won 5358 with Flush King high
+Seat 4: P1xel7 showed [Ad Kh] and won 53463 with Flush Ace high
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198559168642416680-82-1708031953 - Holdem no limit (120/500/1000) - 2024/02/15 21:19:13 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: WinaVoLegAAl (22463, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (36353, 0.67€ bounty)
+Seat 3: cAAptainIglo (5358, 0.45€ bounty)
+Seat 4: P1xel7 (53463, 0.67€ bounty)
+Seat 5: joela974 (57420, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (54820, 0.45€ bounty)
+*** ANTE/BLINDS ***
+WinaVoLegAAl posts ante 120
+JJ-Daniel-s posts ante 120
+cAAptainIglo posts ante 120
+P1xel7 posts ante 120
+joela974 posts ante 120
+DOBEL-UPAPA posts ante 120
+WinaVoLegAAl posts small blind 500
+JJ-Daniel-s posts big blind 1000
+Dealt to P1xel7 [6d Ts]
+*** PRE-FLOP *** 
+cAAptainIglo raises 4238 to 5238 and is all-in
+P1xel7 folds
+joela974 calls 5238
+DOBEL-UPAPA folds
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+*** FLOP *** [6s Kh 5h]
+*** TURN *** [6s Kh 5h][5d]
+*** RIVER *** [6s Kh 5h 5d][7d]
+*** SHOW DOWN ***
+joela974 shows [Td Qs] (One pair : 5)
+cAAptainIglo shows [4c 3c] (Straight 7 high)
+cAAptainIglo collected 12696 from pot
+*** SUMMARY ***
+Total pot 12696 | No rake
+Board: [6s Kh 5h 5d 7d]
+Seat 3: cAAptainIglo showed [4c 3c] and won 12696 with Straight 7 high
+Seat 5: joela974 showed [Td Qs] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198559168642416680-83-1708031994 - Holdem no limit (120/500/1000) - 2024/02/15 21:19:54 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: WinaVoLegAAl (21843, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (35233, 0.67€ bounty)
+Seat 3: cAAptainIglo (12696, 0.45€ bounty)
+Seat 4: P1xel7 (53343, 0.67€ bounty)
+Seat 5: joela974 (52062, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (54700, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 120
+cAAptainIglo posts ante 120
+WinaVoLegAAl posts ante 120
+P1xel7 posts ante 120
+joela974 posts ante 120
+DOBEL-UPAPA posts ante 120
+JJ-Daniel-s posts small blind 500
+cAAptainIglo posts big blind 1000
+Dealt to P1xel7 [3d 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+WinaVoLegAAl folds
+JJ-Daniel-s raises 1000 to 2000
+cAAptainIglo raises 10576 to 12576 and is all-in
+JJ-Daniel-s folds
+cAAptainIglo collected 15296 from pot
+*** SUMMARY ***
+Total pot 15296 | No rake
+Seat 3: cAAptainIglo (big blind) won 15296
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198559168642416680-84-1708032022 - Holdem no limit (120/500/1000) - 2024/02/15 21:20:22 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: WinaVoLegAAl (21723, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (33113, 0.67€ bounty)
+Seat 3: cAAptainIglo (15296, 0.45€ bounty)
+Seat 4: P1xel7 (53223, 0.67€ bounty)
+Seat 5: joela974 (51942, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (54580, 0.45€ bounty)
+*** ANTE/BLINDS ***
+cAAptainIglo posts ante 120
+P1xel7 posts ante 120
+WinaVoLegAAl posts ante 120
+JJ-Daniel-s posts ante 120
+joela974 posts ante 120
+DOBEL-UPAPA posts ante 120
+cAAptainIglo posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [5c 8d]
+*** PRE-FLOP *** 
+joela974 folds
+DOBEL-UPAPA folds
+WinaVoLegAAl folds
+JJ-Daniel-s raises 1000 to 2000
+cAAptainIglo raises 13176 to 15176 and is all-in
+P1xel7 folds
+JJ-Daniel-s calls 13176
+*** FLOP *** [Qd Qs 4c]
+*** TURN *** [Qd Qs 4c][As]
+*** RIVER *** [Qd Qs 4c As][6s]
+*** SHOW DOWN ***
+cAAptainIglo shows [7c 8h] (One pair : Queens)
+JJ-Daniel-s shows [Kd 5d] (One pair : Queens)
+JJ-Daniel-s collected 32072 from pot
+*** SUMMARY ***
+Total pot 32072 | No rake
+Board: [Qd Qs 4c As 6s]
+Seat 2: JJ-Daniel-s (button) showed [Kd 5d] and won 32072 with One pair : Queens
+Seat 3: cAAptainIglo (small blind) showed [7c 8h] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198559168642416680-85-1708032052 - Holdem no limit (120/500/1000) - 2024/02/15 21:20:52 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: WinaVoLegAAl (21603, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (49889, 0.89€ bounty)
+Seat 4: P1xel7 (52103, 0.67€ bounty)
+Seat 5: joela974 (51822, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (54460, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+joela974 posts ante 120
+WinaVoLegAAl posts ante 120
+JJ-Daniel-s posts ante 120
+DOBEL-UPAPA posts ante 120
+P1xel7 posts small blind 500
+joela974 posts big blind 1000
+Dealt to P1xel7 [9h 6d]
+*** PRE-FLOP *** 
+DOBEL-UPAPA raises 1200 to 2200
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+P1xel7 folds
+joela974 calls 1200
+*** FLOP *** [Ad Ks 3c]
+joela974 checks
+DOBEL-UPAPA bets 1815
+joela974 calls 1815
+*** TURN *** [Ad Ks 3c][9s]
+joela974 checks
+DOBEL-UPAPA bets 6208
+joela974 calls 6208
+*** RIVER *** [Ad Ks 3c 9s][Qc]
+joela974 checks
+DOBEL-UPAPA bets 14651
+joela974 calls 14651
+*** SHOW DOWN ***
+joela974 shows [Th Kd] (One pair : Kings)
+DOBEL-UPAPA shows [Qd Ah] (Two pairs : Aces and Queens)
+DOBEL-UPAPA collected 50848 from pot
+*** SUMMARY ***
+Total pot 50848 | No rake
+Board: [Ad Ks 3c 9s Qc]
+Seat 5: joela974 (big blind) showed [Th Kd] and lost with One pair : Kings
+Seat 6: DOBEL-UPAPA showed [Qd Ah] and won 50848 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3198559168642416680-86-1708032113 - Holdem no limit (140/600/1200) - 2024/02/15 21:21:53 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: WinaVoLegAAl (21483, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (49769, 0.89€ bounty)
+Seat 3: Luckychance6 (20000, 0.45€ bounty)
+Seat 4: P1xel7 (51483, 0.67€ bounty)
+Seat 5: joela974 (26828, 1.11€ bounty)
+Seat 6: DOBEL-UPAPA (80314, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 140
+DOBEL-UPAPA posts ante 140
+WinaVoLegAAl posts ante 140
+JJ-Daniel-s posts ante 140
+Luckychance6 posts ante 140
+P1xel7 posts ante 140
+joela974 posts small blind 600
+DOBEL-UPAPA posts big blind 1200
+Dealt to P1xel7 [Jc 8c]
+*** PRE-FLOP *** 
+WinaVoLegAAl folds
+JJ-Daniel-s folds
+Luckychance6 calls 1200
+P1xel7 folds
+joela974 raises 25488 to 26688 and is all-in
+DOBEL-UPAPA folds
+Luckychance6 calls 18660 and is all-in
+*** FLOP *** [Kh 9s 4h]
+*** TURN *** [Kh 9s 4h][7c]
+*** RIVER *** [Kh 9s 4h 7c][Ad]
+*** SHOW DOWN ***
+Luckychance6 shows [Ts Kd] (One pair : Kings)
+joela974 shows [As 3c] (One pair : Aces)
+joela974 collected 48588 from pot
+*** SUMMARY ***
+Total pot 48588 | No rake
+Board: [Kh 9s 4h 7c Ad]
+Seat 3: Luckychance6 showed [Ts Kd] and lost with One pair : Kings
+Seat 5: joela974 (small blind) showed [As 3c] and won 48588 with One pair : Aces
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3198559168642416680-87-1708032158 - Holdem no limit (140/600/1200) - 2024/02/15 21:22:38 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: WinaVoLegAAl (21343, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (49629, 0.89€ bounty)
+Seat 4: P1xel7 (51343, 0.67€ bounty)
+Seat 5: joela974 (48588, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (78974, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 140
+WinaVoLegAAl posts ante 140
+JJ-Daniel-s posts ante 140
+P1xel7 posts ante 140
+joela974 posts ante 140
+DOBEL-UPAPA posts small blind 600
+WinaVoLegAAl posts big blind 1200
+Dealt to P1xel7 [Th 8s]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA raises 77634 to 78834 and is all-in
+WinaVoLegAAl folds
+DOBEL-UPAPA collected 80734 from pot
+*** SUMMARY ***
+Total pot 80734 | No rake
+Seat 6: DOBEL-UPAPA (small blind) won 80734
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3198559168642416680-88-1708032173 - Holdem no limit (140/600/1200) - 2024/02/15 21:22:53 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: WinaVoLegAAl (20003, 0.45€ bounty)
+Seat 2: JJ-Daniel-s (49489, 0.89€ bounty)
+Seat 3: ..._M_... (83719, 1.55€ bounty)
+Seat 4: P1xel7 (51203, 0.67€ bounty)
+Seat 5: joela974 (48448, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (80734, 0.45€ bounty)
+*** ANTE/BLINDS ***
+WinaVoLegAAl posts ante 140
+JJ-Daniel-s posts ante 140
+..._M_... posts ante 140
+P1xel7 posts ante 140
+joela974 posts ante 140
+DOBEL-UPAPA posts ante 140
+WinaVoLegAAl posts small blind 600
+JJ-Daniel-s posts big blind 1200
+Dealt to P1xel7 [Qd As]
+*** PRE-FLOP *** 
+..._M_... folds
+P1xel7 raises 1800 to 3000
+joela974 folds
+DOBEL-UPAPA folds
+WinaVoLegAAl raises 16863 to 19863 and is all-in
+JJ-Daniel-s folds
+P1xel7 calls 16863
+*** FLOP *** [7h 3c 4h]
+*** TURN *** [7h 3c 4h][Jc]
+*** RIVER *** [7h 3c 4h Jc][Jd]
+*** SHOW DOWN ***
+WinaVoLegAAl shows [Th Ac] (One pair : Jacks)
+P1xel7 shows [Qd As] (One pair : Jacks)
+P1xel7 collected 41766 from pot
+*** SUMMARY ***
+Total pot 41766 | No rake
+Board: [7h 3c 4h Jc Jd]
+Seat 1: WinaVoLegAAl (small blind) showed [Th Ac] and lost with One pair : Jacks
+Seat 4: P1xel7 showed [Qd As] and won 41766 with One pair : Jacks
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3198559168642416680-89-1708032217 - Holdem no limit (140/600/1200) - 2024/02/15 21:23:37 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 2: JJ-Daniel-s (48149, 0.89€ bounty)
+Seat 3: ..._M_... (83579, 1.55€ bounty)
+Seat 4: P1xel7 (72966, 0.89€ bounty)
+Seat 5: joela974 (48308, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (80594, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 140
+..._M_... posts ante 140
+P1xel7 posts ante 140
+joela974 posts ante 140
+DOBEL-UPAPA posts ante 140
+JJ-Daniel-s posts small blind 600
+..._M_... posts big blind 1200
+Dealt to P1xel7 [2d 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+JJ-Daniel-s calls 600
+..._M_... checks
+*** FLOP *** [6h 7h Jh]
+JJ-Daniel-s checks
+..._M_... checks
+*** TURN *** [6h 7h Jh][Jc]
+JJ-Daniel-s bets 1200
+..._M_... calls 1200
+*** RIVER *** [6h 7h Jh Jc][Ad]
+JJ-Daniel-s bets 1200
+..._M_... calls 1200
+*** SHOW DOWN ***
+JJ-Daniel-s shows [Td 7c] (Two pairs : Jacks and 7)
+..._M_... shows [Ac 5d] (Two pairs : Aces and Jacks)
+..._M_... collected 7900 from pot
+*** SUMMARY ***
+Total pot 7900 | No rake
+Board: [6h 7h Jh Jc Ad]
+Seat 2: JJ-Daniel-s (small blind) showed [Td 7c] and lost with Two pairs : Jacks and 7
+Seat 3: ..._M_... (big blind) showed [Ac 5d] and won 7900 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3198559168642416680-90-1708032260 - Holdem no limit (140/600/1200) - 2024/02/15 21:24:20 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: MasterJR (96147, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (44409, 0.89€ bounty)
+Seat 3: ..._M_... (87739, 1.55€ bounty)
+Seat 4: P1xel7 (72826, 0.89€ bounty)
+Seat 5: joela974 (48168, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (80454, 0.45€ bounty)
+*** ANTE/BLINDS ***
+..._M_... posts ante 140
+P1xel7 posts ante 140
+MasterJR posts ante 140
+JJ-Daniel-s posts ante 140
+joela974 posts ante 140
+DOBEL-UPAPA posts ante 140
+..._M_... posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [9h 5c]
+*** PRE-FLOP *** 
+joela974 folds
+DOBEL-UPAPA folds
+MasterJR folds
+JJ-Daniel-s folds
+..._M_... calls 600
+P1xel7 checks
+*** FLOP *** [Td Qs 3s]
+..._M_... bets 2106
+P1xel7 folds
+..._M_... collected 5346 from pot
+*** SUMMARY ***
+Total pot 5346 | No rake
+Board: [Td Qs 3s]
+Seat 3: ..._M_... (small blind) won 5346
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3198559168642416680-91-1708032296 - Holdem no limit (140/600/1200) - 2024/02/15 21:24:56 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: MasterJR (96007, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (44269, 0.89€ bounty)
+Seat 3: ..._M_... (89639, 1.55€ bounty)
+Seat 4: P1xel7 (71486, 0.89€ bounty)
+Seat 5: joela974 (48028, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (80314, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+joela974 posts ante 140
+MasterJR posts ante 140
+JJ-Daniel-s posts ante 140
+..._M_... posts ante 140
+DOBEL-UPAPA posts ante 140
+P1xel7 posts small blind 600
+joela974 posts big blind 1200
+Dealt to P1xel7 [6h 5d]
+*** PRE-FLOP *** 
+DOBEL-UPAPA folds
+MasterJR folds
+JJ-Daniel-s folds
+..._M_... folds
+P1xel7 folds
+joela974 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 5: joela974 (big blind) won 2640
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3198559168642416680-92-1708032317 - Holdem no limit (140/600/1200) - 2024/02/15 21:25:17 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: MasterJR (95867, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (44129, 0.89€ bounty)
+Seat 3: ..._M_... (89499, 1.55€ bounty)
+Seat 4: P1xel7 (70746, 0.89€ bounty)
+Seat 5: joela974 (49328, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (80174, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 140
+DOBEL-UPAPA posts ante 140
+MasterJR posts ante 140
+JJ-Daniel-s posts ante 140
+..._M_... posts ante 140
+P1xel7 posts ante 140
+joela974 posts small blind 600
+DOBEL-UPAPA posts big blind 1200
+Dealt to P1xel7 [Kc Jd]
+*** PRE-FLOP *** 
+MasterJR raises 1200 to 2400
+JJ-Daniel-s folds
+..._M_... folds
+P1xel7 calls 2400
+joela974 calls 1800
+DOBEL-UPAPA calls 1200
+*** FLOP *** [7h 7d 4h]
+joela974 checks
+DOBEL-UPAPA checks
+MasterJR checks
+P1xel7 checks
+*** TURN *** [7h 7d 4h][Kd]
+joela974 checks
+DOBEL-UPAPA bets 4385
+MasterJR calls 4385
+P1xel7 calls 4385
+joela974 folds
+*** RIVER *** [7h 7d 4h Kd][Qh]
+DOBEL-UPAPA checks
+MasterJR bets 18876
+P1xel7 folds
+DOBEL-UPAPA folds
+MasterJR collected 42471 from pot
+*** SUMMARY ***
+Total pot 42471 | No rake
+Board: [7h 7d 4h Kd Qh]
+Seat 1: MasterJR won 42471
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198559168642416680-93-1708032435 - Holdem no limit (160/700/1400) - 2024/02/15 21:27:15 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: MasterJR (112537, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (43989, 0.89€ bounty)
+Seat 3: ..._M_... (89359, 1.55€ bounty)
+Seat 4: P1xel7 (63821, 0.89€ bounty)
+Seat 5: joela974 (46788, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (73249, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 160
+MasterJR posts ante 160
+JJ-Daniel-s posts ante 160
+..._M_... posts ante 160
+P1xel7 posts ante 160
+joela974 posts ante 160
+DOBEL-UPAPA posts small blind 700
+MasterJR posts big blind 1400
+Dealt to P1xel7 [9s 6d]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+..._M_... folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA calls 700
+MasterJR checks
+*** FLOP *** [6s Ad Ts]
+DOBEL-UPAPA bets 1579
+MasterJR calls 1579
+*** TURN *** [6s Ad Ts][Th]
+DOBEL-UPAPA checks
+MasterJR checks
+*** RIVER *** [6s Ad Ts Th][6c]
+DOBEL-UPAPA checks
+MasterJR checks
+*** SHOW DOWN ***
+DOBEL-UPAPA shows [7d 8d] (Two pairs : Tens and 6)
+MasterJR shows [Ac 5c] (Two pairs : Aces and Tens)
+MasterJR collected 6918 from pot
+*** SUMMARY ***
+Total pot 6918 | No rake
+Board: [6s Ad Ts Th 6c]
+Seat 1: MasterJR (big blind) showed [Ac 5c] and won 6918 with Two pairs : Aces and Tens
+Seat 6: DOBEL-UPAPA (small blind) showed [7d 8d] and lost with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198559168642416680-94-1708032475 - Holdem no limit (160/700/1400) - 2024/02/15 21:27:55 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: MasterJR (116316, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (43829, 0.89€ bounty)
+Seat 3: ..._M_... (89199, 1.55€ bounty)
+Seat 4: P1xel7 (63661, 0.89€ bounty)
+Seat 5: joela974 (46628, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (70110, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MasterJR posts ante 160
+JJ-Daniel-s posts ante 160
+..._M_... posts ante 160
+P1xel7 posts ante 160
+joela974 posts ante 160
+DOBEL-UPAPA posts ante 160
+MasterJR posts small blind 700
+JJ-Daniel-s posts big blind 1400
+Dealt to P1xel7 [8d 2c]
+*** PRE-FLOP *** 
+..._M_... folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA raises 1680 to 3080
+MasterJR calls 2380
+JJ-Daniel-s raises 40589 to 43669 and is all-in
+DOBEL-UPAPA raises 26281 to 69950 and is all-in
+MasterJR folds
+*** FLOP *** [Qs Qd Ac]
+*** TURN *** [Qs Qd Ac][Jh]
+*** RIVER *** [Qs Qd Ac Jh][6c]
+*** SHOW DOWN ***
+JJ-Daniel-s shows [Ad Jc] (Two pairs : Aces and Queens)
+DOBEL-UPAPA shows [Ts Tc] (Two pairs : Queens and Tens)
+DOBEL-UPAPA collected 26281 from side pot 1
+JJ-Daniel-s collected 91378 from main pot
+*** SUMMARY ***
+Total pot 117659 | No rake
+Board: [Qs Qd Ac Jh 6c]
+Seat 2: JJ-Daniel-s (big blind) showed [Ad Jc] and won 91378 with Two pairs : Aces and Queens
+Seat 6: DOBEL-UPAPA (button) showed [Ts Tc] and won 26281 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198559168642416680-95-1708032510 - Holdem no limit (160/700/1400) - 2024/02/15 21:28:30 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: MasterJR (113076, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (91378, 0.89€ bounty)
+Seat 3: ..._M_... (89039, 1.55€ bounty)
+Seat 4: P1xel7 (63501, 0.89€ bounty)
+Seat 5: joela974 (46468, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (26281, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 160
+..._M_... posts ante 160
+MasterJR posts ante 160
+P1xel7 posts ante 160
+joela974 posts ante 160
+DOBEL-UPAPA posts ante 160
+JJ-Daniel-s posts small blind 700
+..._M_... posts big blind 1400
+Dealt to P1xel7 [2d 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+MasterJR folds
+JJ-Daniel-s raises 1400 to 2800
+..._M_... folds
+JJ-Daniel-s collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Seat 2: JJ-Daniel-s (small blind) won 5160
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198559168642416680-96-1708032531 - Holdem no limit (160/700/1400) - 2024/02/15 21:28:51 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: MasterJR (112916, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (93578, 0.89€ bounty)
+Seat 3: ..._M_... (87479, 1.55€ bounty)
+Seat 4: P1xel7 (63341, 0.89€ bounty)
+Seat 5: joela974 (46308, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (26121, 0.45€ bounty)
+*** ANTE/BLINDS ***
+..._M_... posts ante 160
+P1xel7 posts ante 160
+MasterJR posts ante 160
+JJ-Daniel-s posts ante 160
+joela974 posts ante 160
+DOBEL-UPAPA posts ante 160
+..._M_... posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [Ks 5h]
+*** PRE-FLOP *** 
+joela974 raises 1400 to 2800
+DOBEL-UPAPA folds
+MasterJR folds
+JJ-Daniel-s folds
+..._M_... calls 2100
+P1xel7 folds
+*** FLOP *** [5d 3h Ah]
+..._M_... checks
+joela974 bets 1400
+..._M_... calls 1400
+*** TURN *** [5d 3h Ah][Ts]
+..._M_... checks
+joela974 checks
+*** RIVER *** [5d 3h Ah Ts][6c]
+..._M_... checks
+joela974 checks
+*** SHOW DOWN ***
+..._M_... shows [Kh Qh] (High card : Ace)
+joela974 shows [4c 4s] (One pair : 4)
+joela974 collected 10760 from pot
+*** SUMMARY ***
+Total pot 10760 | No rake
+Board: [5d 3h Ah Ts 6c]
+Seat 3: ..._M_... (small blind) showed [Kh Qh] and lost with High card : Ace
+Seat 5: joela974 showed [4c 4s] and won 10760 with One pair : 4
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198559168642416680-97-1708032612 - Holdem no limit (160/700/1400) - 2024/02/15 21:30:12 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #3 is the button
+Seat 1: MasterJR (112756, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (93418, 0.89€ bounty)
+Seat 3: ..._M_... (83119, 1.55€ bounty)
+Seat 4: P1xel7 (61781, 0.89€ bounty)
+Seat 5: joela974 (52708, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (25961, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+joela974 posts ante 160
+MasterJR posts ante 160
+JJ-Daniel-s posts ante 160
+..._M_... posts ante 160
+DOBEL-UPAPA posts ante 160
+P1xel7 posts small blind 700
+joela974 posts big blind 1400
+Dealt to P1xel7 [6s 2h]
+*** PRE-FLOP *** 
+DOBEL-UPAPA raises 1400 to 2800
+MasterJR folds
+JJ-Daniel-s folds
+..._M_... folds
+P1xel7 folds
+joela974 calls 1400
+*** FLOP *** [Ac 4d 6h]
+joela974 checks
+DOBEL-UPAPA bets 3049
+joela974 folds
+DOBEL-UPAPA collected 10309 from pot
+*** SUMMARY ***
+Total pot 10309 | No rake
+Board: [Ac 4d 6h]
+Seat 6: DOBEL-UPAPA won 10309
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198559168642416680-98-1708032641 - Holdem no limit (160/700/1400) - 2024/02/15 21:30:41 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #4 is the button
+Seat 1: MasterJR (112596, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (93258, 0.89€ bounty)
+Seat 3: ..._M_... (82959, 1.55€ bounty)
+Seat 4: P1xel7 (60921, 0.89€ bounty)
+Seat 5: joela974 (49748, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (30261, 0.45€ bounty)
+*** ANTE/BLINDS ***
+joela974 posts ante 160
+DOBEL-UPAPA posts ante 160
+MasterJR posts ante 160
+JJ-Daniel-s posts ante 160
+..._M_... posts ante 160
+P1xel7 posts ante 160
+joela974 posts small blind 700
+DOBEL-UPAPA posts big blind 1400
+Dealt to P1xel7 [4h 7d]
+*** PRE-FLOP *** 
+MasterJR folds
+JJ-Daniel-s folds
+..._M_... folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 6: DOBEL-UPAPA (big blind) won 3060
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198559168642416680-99-1708032658 - Holdem no limit (160/700/1400) - 2024/02/15 21:30:58 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #5 is the button
+Seat 1: MasterJR (112436, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (93098, 0.89€ bounty)
+Seat 3: ..._M_... (82799, 1.55€ bounty)
+Seat 4: P1xel7 (60761, 0.89€ bounty)
+Seat 5: joela974 (48888, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (31761, 0.45€ bounty)
+*** ANTE/BLINDS ***
+DOBEL-UPAPA posts ante 160
+MasterJR posts ante 160
+JJ-Daniel-s posts ante 160
+..._M_... posts ante 160
+P1xel7 posts ante 160
+joela974 posts ante 160
+DOBEL-UPAPA posts small blind 700
+MasterJR posts big blind 1400
+Dealt to P1xel7 [8d Ah]
+*** PRE-FLOP *** 
+JJ-Daniel-s folds
+..._M_... raises 1400 to 2800
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+MasterJR calls 1400
+*** FLOP *** [6d 7h 8h]
+MasterJR checks
+..._M_... bets 4719
+MasterJR folds
+..._M_... collected 11979 from pot
+*** SUMMARY ***
+Total pot 11979 | No rake
+Board: [6d 7h 8h]
+Seat 3: ..._M_... won 11979
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198559168642416680-100-1708032704 - Holdem no limit (160/700/1400) - 2024/02/15 21:31:44 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #6 is the button
+Seat 1: MasterJR (109476, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (92938, 0.89€ bounty)
+Seat 3: ..._M_... (87099, 1.55€ bounty)
+Seat 4: P1xel7 (60601, 0.89€ bounty)
+Seat 5: joela974 (48728, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (30901, 0.45€ bounty)
+*** ANTE/BLINDS ***
+MasterJR posts ante 160
+JJ-Daniel-s posts ante 160
+..._M_... posts ante 160
+P1xel7 posts ante 160
+joela974 posts ante 160
+DOBEL-UPAPA posts ante 160
+MasterJR posts small blind 700
+JJ-Daniel-s posts big blind 1400
+Dealt to P1xel7 [7h 8c]
+*** PRE-FLOP *** 
+..._M_... folds
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+MasterJR folds
+JJ-Daniel-s collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 2: JJ-Daniel-s (big blind) won 3060
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198559168642416680-101-1708032724 - Holdem no limit (160/700/1400) - 2024/02/15 21:32:04 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #1 is the button
+Seat 1: MasterJR (108616, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (94438, 0.89€ bounty)
+Seat 3: ..._M_... (86939, 1.55€ bounty)
+Seat 4: P1xel7 (60441, 0.89€ bounty)
+Seat 5: joela974 (48568, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (30741, 0.45€ bounty)
+*** ANTE/BLINDS ***
+JJ-Daniel-s posts ante 160
+..._M_... posts ante 160
+MasterJR posts ante 160
+P1xel7 posts ante 160
+joela974 posts ante 160
+DOBEL-UPAPA posts ante 160
+JJ-Daniel-s posts small blind 700
+..._M_... posts big blind 1400
+Dealt to P1xel7 [6d 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+joela974 folds
+DOBEL-UPAPA folds
+MasterJR raises 1400 to 2800
+JJ-Daniel-s calls 2100
+..._M_... calls 1400
+*** FLOP *** [3c Kd 2c]
+JJ-Daniel-s checks
+..._M_... checks
+MasterJR bets 3276
+JJ-Daniel-s folds
+..._M_... folds
+MasterJR collected 12636 from pot
+*** SUMMARY ***
+Total pot 12636 | No rake
+Board: [3c Kd 2c]
+Seat 1: MasterJR (button) won 12636
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198559168642416680-102-1708032842 - Holdem no limit (200/800/1600) - 2024/02/15 21:34:02 UTC
+Table: 'WESTERN(744722590)#039' 6-max (real money) Seat #2 is the button
+Seat 1: MasterJR (115016, 1.66€ bounty)
+Seat 2: JJ-Daniel-s (91478, 0.89€ bounty)
+Seat 3: ..._M_... (83979, 1.55€ bounty)
+Seat 4: P1xel7 (60281, 0.89€ bounty)
+Seat 5: joela974 (48408, 1.33€ bounty)
+Seat 6: DOBEL-UPAPA (30581, 0.45€ bounty)
+*** ANTE/BLINDS ***
+..._M_... posts ante 200
+P1xel7 posts ante 200
+MasterJR posts ante 200
+JJ-Daniel-s posts ante 200
+joela974 posts ante 200
+DOBEL-UPAPA posts ante 200
+..._M_... posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [Qc 9h]
+*** PRE-FLOP *** 
+joela974 folds
+DOBEL-UPAPA folds
+MasterJR folds
+JJ-Daniel-s folds
+..._M_... calls 800
+P1xel7 checks
+*** FLOP *** [5d 8d Ks]
+..._M_... bets 1600
+P1xel7 folds
+..._M_... collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Board: [5d 8d Ks]
+Seat 3: ..._M_... (small blind) won 6000
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198559168642416656-141-1708032945 - Holdem no limit (200/800/1600) - 2024/02/15 21:35:45 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: Oli_Tess (13834, 0.45€ bounty)
+Seat 2: Cypselos (36546, 0.78€ bounty)
+Seat 3: P1xel7 (58481, 0.89€ bounty)
+Seat 4: A110TDC139 (39140, 0.67€ bounty)
+Seat 5: Thibaultp75 (22840, 0.45€ bounty)
+Seat 6: Mak_Perfect (147298, 1.44€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 200
+Oli_Tess posts ante 200
+Cypselos posts ante 200
+P1xel7 posts ante 200
+A110TDC139 posts ante 200
+Thibaultp75 posts ante 200
+Mak_Perfect posts small blind 800
+Oli_Tess posts big blind 1600
+Dealt to P1xel7 [Ah Qh]
+*** PRE-FLOP *** 
+Cypselos folds
+P1xel7 raises 1920 to 3520
+A110TDC139 folds
+Thibaultp75 folds
+Mak_Perfect folds
+Oli_Tess folds
+P1xel7 collected 7120 from pot
+*** SUMMARY ***
+Total pot 7120 | No rake
+Seat 3: P1xel7 won 7120
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198559168642416656-142-1708033007 - Holdem no limit (200/800/1600) - 2024/02/15 21:36:47 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: Oli_Tess (12034, 0.45€ bounty)
+Seat 2: Cypselos (36346, 0.78€ bounty)
+Seat 3: P1xel7 (61881, 0.89€ bounty)
+Seat 4: A110TDC139 (38940, 0.67€ bounty)
+Seat 5: Thibaultp75 (22640, 0.45€ bounty)
+Seat 6: Mak_Perfect (146298, 1.44€ bounty)
+*** ANTE/BLINDS ***
+Oli_Tess posts ante 200
+Cypselos posts ante 200
+P1xel7 posts ante 200
+A110TDC139 posts ante 200
+Thibaultp75 posts ante 200
+Mak_Perfect posts ante 200
+Oli_Tess posts small blind 800
+Cypselos posts big blind 1600
+Dealt to P1xel7 [Ad 8c]
+*** PRE-FLOP *** 
+P1xel7 folds
+A110TDC139 folds
+Thibaultp75 raises 20840 to 22440 and is all-in
+Mak_Perfect folds
+Oli_Tess folds
+Cypselos folds
+Thibaultp75 collected 26040 from pot
+*** SUMMARY ***
+Total pot 26040 | No rake
+Seat 5: Thibaultp75 won 26040
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198559168642416656-143-1708033032 - Holdem no limit (200/800/1600) - 2024/02/15 21:37:12 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #1 is the button
+Seat 1: Oli_Tess (11034, 0.45€ bounty)
+Seat 2: Cypselos (34546, 0.78€ bounty)
+Seat 3: P1xel7 (61681, 0.89€ bounty)
+Seat 4: A110TDC139 (38740, 0.67€ bounty)
+Seat 5: Thibaultp75 (26040, 0.45€ bounty)
+Seat 6: Mak_Perfect (146098, 1.44€ bounty)
+*** ANTE/BLINDS ***
+Cypselos posts ante 200
+P1xel7 posts ante 200
+Oli_Tess posts ante 200
+A110TDC139 posts ante 200
+Thibaultp75 posts ante 200
+Mak_Perfect posts ante 200
+Cypselos posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [8s 5h]
+*** PRE-FLOP *** 
+A110TDC139 folds
+Thibaultp75 folds
+Mak_Perfect folds
+Oli_Tess raises 9234 to 10834 and is all-in
+Cypselos raises 23512 to 34346 and is all-in
+P1xel7 folds
+*** FLOP *** [4c 7h 4s]
+*** TURN *** [4c 7h 4s][Kd]
+*** RIVER *** [4c 7h 4s Kd][Qc]
+*** SHOW DOWN ***
+Oli_Tess shows [Qh 8h] (Two pairs : Queens and 4)
+Cypselos shows [Ks Ah] (Two pairs : Kings and 4)
+Cypselos collected 47980 from pot
+*** SUMMARY ***
+Total pot 47980 | No rake
+Board: [4c 7h 4s Kd Qc]
+Seat 1: Oli_Tess (button) showed [Qh 8h] and lost with Two pairs : Queens and 4
+Seat 2: Cypselos (small blind) showed [Ks Ah] and won 47980 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198559168642416656-144-1708033055 - Holdem no limit (200/800/1600) - 2024/02/15 21:37:35 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #2 is the button
+Seat 2: Cypselos (47980, 1€ bounty)
+Seat 3: P1xel7 (59881, 0.89€ bounty)
+Seat 4: A110TDC139 (38540, 0.67€ bounty)
+Seat 5: Thibaultp75 (25840, 0.45€ bounty)
+Seat 6: Mak_Perfect (145898, 1.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+A110TDC139 posts ante 200
+Cypselos posts ante 200
+Thibaultp75 posts ante 200
+Mak_Perfect posts ante 200
+P1xel7 posts small blind 800
+A110TDC139 posts big blind 1600
+Dealt to P1xel7 [9c 9h]
+*** PRE-FLOP *** 
+Thibaultp75 folds
+Mak_Perfect folds
+Cypselos raises 1600 to 3200
+P1xel7 raises 9000 to 12200
+A110TDC139 folds
+Cypselos folds
+P1xel7 collected 18000 from pot
+*** SUMMARY ***
+Total pot 18000 | No rake
+Seat 3: P1xel7 (small blind) won 18000
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198559168642416656-145-1708033090 - Holdem no limit (200/800/1600) - 2024/02/15 21:38:10 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #3 is the button
+Seat 2: Cypselos (44580, 1€ bounty)
+Seat 3: P1xel7 (65481, 0.89€ bounty)
+Seat 4: A110TDC139 (36740, 0.67€ bounty)
+Seat 5: Thibaultp75 (25640, 0.45€ bounty)
+Seat 6: Mak_Perfect (145698, 1.44€ bounty)
+*** ANTE/BLINDS ***
+A110TDC139 posts ante 200
+Thibaultp75 posts ante 200
+Cypselos posts ante 200
+P1xel7 posts ante 200
+Mak_Perfect posts ante 200
+A110TDC139 posts small blind 800
+Thibaultp75 posts big blind 1600
+Dealt to P1xel7 [9d 6c]
+*** PRE-FLOP *** 
+Mak_Perfect folds
+Cypselos folds
+P1xel7 folds
+A110TDC139 raises 2400 to 4000
+Thibaultp75 raises 21440 to 25440 and is all-in
+A110TDC139 calls 21440
+*** FLOP *** [4h 2h 5c]
+*** TURN *** [4h 2h 5c][As]
+*** RIVER *** [4h 2h 5c As][8d]
+*** SHOW DOWN ***
+A110TDC139 shows [Ks Kh] (One pair : Kings)
+Thibaultp75 shows [5s 5h] (Trips of 5)
+Thibaultp75 collected 51880 from pot
+*** SUMMARY ***
+Total pot 51880 | No rake
+Board: [4h 2h 5c As 8d]
+Seat 4: A110TDC139 (small blind) showed [Ks Kh] and lost with One pair : Kings
+Seat 5: Thibaultp75 (big blind) showed [5s 5h] and won 51880 with Trips of 5
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198559168642416656-146-1708033110 - Holdem no limit (200/800/1600) - 2024/02/15 21:38:30 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #4 is the button
+Seat 1: lesnovices (142667, 1.88€ bounty)
+Seat 2: Cypselos (44380, 1€ bounty)
+Seat 3: P1xel7 (65281, 0.89€ bounty)
+Seat 4: A110TDC139 (11100, 0.67€ bounty)
+Seat 5: Thibaultp75 (51880, 0.45€ bounty)
+Seat 6: Mak_Perfect (145498, 1.44€ bounty)
+*** ANTE/BLINDS ***
+Thibaultp75 posts ante 200
+Mak_Perfect posts ante 200
+lesnovices posts ante 200
+Cypselos posts ante 200
+P1xel7 posts ante 200
+A110TDC139 posts ante 200
+Thibaultp75 posts small blind 800
+Mak_Perfect posts big blind 1600
+Dealt to P1xel7 [Tc 5s]
+*** PRE-FLOP *** 
+lesnovices folds
+Cypselos folds
+P1xel7 folds
+A110TDC139 folds
+Thibaultp75 folds
+Mak_Perfect collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 6: Mak_Perfect (big blind) won 3600
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198559168642416656-147-1708033140 - Holdem no limit (200/800/1600) - 2024/02/15 21:39:00 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: lesnovices (142467, 1.88€ bounty)
+Seat 2: Cypselos (44180, 1€ bounty)
+Seat 3: P1xel7 (65081, 0.89€ bounty)
+Seat 4: A110TDC139 (10900, 0.67€ bounty)
+Seat 5: Thibaultp75 (50880, 0.45€ bounty)
+Seat 6: Mak_Perfect (147298, 1.44€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 200
+lesnovices posts ante 200
+Cypselos posts ante 200
+P1xel7 posts ante 200
+A110TDC139 posts ante 200
+Thibaultp75 posts ante 200
+Mak_Perfect posts small blind 800
+lesnovices posts big blind 1600
+Dealt to P1xel7 [6d 7s]
+*** PRE-FLOP *** 
+Cypselos folds
+P1xel7 folds
+A110TDC139 folds
+Thibaultp75 folds
+Mak_Perfect calls 800
+lesnovices checks
+*** FLOP *** [5c Qs Tc]
+Mak_Perfect bets 1600
+lesnovices folds
+Mak_Perfect collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Board: [5c Qs Tc]
+Seat 6: Mak_Perfect (small blind) won 6000
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-148-1708033174 - Holdem no limit (250/1000/2000) - 2024/02/15 21:39:34 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: lesnovices (140667, 1.88€ bounty)
+Seat 2: Cypselos (43980, 1€ bounty)
+Seat 3: P1xel7 (64881, 0.89€ bounty)
+Seat 4: A110TDC139 (10700, 0.67€ bounty)
+Seat 5: Thibaultp75 (50680, 0.45€ bounty)
+Seat 6: Mak_Perfect (149898, 1.44€ bounty)
+*** ANTE/BLINDS ***
+lesnovices posts ante 250
+Cypselos posts ante 250
+P1xel7 posts ante 250
+A110TDC139 posts ante 250
+Thibaultp75 posts ante 250
+Mak_Perfect posts ante 250
+lesnovices posts small blind 1000
+Cypselos posts big blind 2000
+Dealt to P1xel7 [Js Kc]
+*** PRE-FLOP *** 
+P1xel7 raises 2400 to 4400
+A110TDC139 raises 6050 to 10450 and is all-in
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices folds
+Cypselos folds
+P1xel7 calls 6050
+*** FLOP *** [Qs 6c 3h]
+*** TURN *** [Qs 6c 3h][7c]
+*** RIVER *** [Qs 6c 3h 7c][8s]
+*** SHOW DOWN ***
+P1xel7 shows [Js Kc] (High card : King)
+A110TDC139 shows [9s 9d] (One pair : 9)
+A110TDC139 collected 25400 from pot
+*** SUMMARY ***
+Total pot 25400 | No rake
+Board: [Qs 6c 3h 7c 8s]
+Seat 3: P1xel7 showed [Js Kc] and lost with High card : King
+Seat 4: A110TDC139 showed [9s 9d] and won 25400 with One pair : 9
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-149-1708033198 - Holdem no limit (250/1000/2000) - 2024/02/15 21:39:58 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #1 is the button
+Seat 1: lesnovices (139417, 1.88€ bounty)
+Seat 2: Cypselos (41730, 1€ bounty)
+Seat 3: P1xel7 (54181, 0.89€ bounty)
+Seat 4: A110TDC139 (25400, 0.67€ bounty)
+Seat 5: Thibaultp75 (50430, 0.45€ bounty)
+Seat 6: Mak_Perfect (149648, 1.44€ bounty)
+*** ANTE/BLINDS ***
+Cypselos posts ante 250
+P1xel7 posts ante 250
+lesnovices posts ante 250
+A110TDC139 posts ante 250
+Thibaultp75 posts ante 250
+Mak_Perfect posts ante 250
+Cypselos posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [Qc Kd]
+*** PRE-FLOP *** 
+A110TDC139 folds
+Thibaultp75 raises 2000 to 4000
+Mak_Perfect calls 4000
+lesnovices calls 4000
+Cypselos folds
+P1xel7 calls 2000
+*** FLOP *** [2c Ts 3h]
+P1xel7 checks
+Thibaultp75 bets 7000
+Mak_Perfect calls 7000
+lesnovices folds
+P1xel7 folds
+*** TURN *** [2c Ts 3h][2d]
+Thibaultp75 checks
+Mak_Perfect checks
+*** RIVER *** [2c Ts 3h 2d][6c]
+Thibaultp75 checks
+Mak_Perfect checks
+*** SHOW DOWN ***
+Thibaultp75 shows [Qh Jc] (One pair : 2)
+Mak_Perfect shows [4d Ad] (One pair : 2)
+Mak_Perfect collected 32500 from pot
+*** SUMMARY ***
+Total pot 32500 | No rake
+Board: [2c Ts 3h 2d 6c]
+Seat 5: Thibaultp75 showed [Qh Jc] and lost with One pair : 2
+Seat 6: Mak_Perfect showed [4d Ad] and won 32500 with One pair : 2
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-150-1708033252 - Holdem no limit (250/1000/2000) - 2024/02/15 21:40:52 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #2 is the button
+Seat 1: lesnovices (135167, 1.88€ bounty)
+Seat 2: Cypselos (40480, 1€ bounty)
+Seat 3: P1xel7 (49931, 0.89€ bounty)
+Seat 4: A110TDC139 (25150, 0.67€ bounty)
+Seat 5: Thibaultp75 (39180, 0.45€ bounty)
+Seat 6: Mak_Perfect (170898, 1.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+A110TDC139 posts ante 250
+lesnovices posts ante 250
+Cypselos posts ante 250
+Thibaultp75 posts ante 250
+Mak_Perfect posts ante 250
+P1xel7 posts small blind 1000
+A110TDC139 posts big blind 2000
+Dealt to P1xel7 [6s 3c]
+*** PRE-FLOP *** 
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices raises 3000 to 5000
+Cypselos folds
+P1xel7 folds
+A110TDC139 raises 19900 to 24900 and is all-in
+lesnovices calls 19900
+*** FLOP *** [Kh 2s Ad]
+*** TURN *** [Kh 2s Ad][5d]
+*** RIVER *** [Kh 2s Ad 5d][4c]
+*** SHOW DOWN ***
+A110TDC139 shows [9h 9d] (One pair : 9)
+lesnovices shows [Kd Ts] (One pair : Kings)
+lesnovices collected 52300 from pot
+*** SUMMARY ***
+Total pot 52300 | No rake
+Board: [Kh 2s Ad 5d 4c]
+Seat 1: lesnovices showed [Kd Ts] and won 52300 with One pair : Kings
+Seat 4: A110TDC139 (big blind) showed [9h 9d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-151-1708033282 - Holdem no limit (250/1000/2000) - 2024/02/15 21:41:22 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #3 is the button
+Seat 1: lesnovices (162317, 2.21€ bounty)
+Seat 2: Cypselos (40230, 1€ bounty)
+Seat 3: P1xel7 (48681, 0.89€ bounty)
+Seat 5: Thibaultp75 (38930, 0.45€ bounty)
+Seat 6: Mak_Perfect (170648, 1.44€ bounty)
+*** ANTE/BLINDS ***
+Thibaultp75 posts ante 250
+lesnovices posts ante 250
+Cypselos posts ante 250
+P1xel7 posts ante 250
+Mak_Perfect posts ante 250
+Thibaultp75 posts big blind 2000
+Dealt to P1xel7 [8c 5c]
+*** PRE-FLOP *** 
+Mak_Perfect folds
+lesnovices folds
+Cypselos raises 2000 to 4000
+P1xel7 folds
+Thibaultp75 raises 34680 to 38680 and is all-in
+Cypselos folds
+Thibaultp75 collected 43930 from pot
+*** SUMMARY ***
+Total pot 43930 | No rake
+Seat 5: Thibaultp75 (big blind) won 43930
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-152-1708033300 - Holdem no limit (250/1000/2000) - 2024/02/15 21:41:40 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #4 is the button
+Seat 1: lesnovices (162067, 2.21€ bounty)
+Seat 2: Cypselos (35980, 1€ bounty)
+Seat 3: P1xel7 (48431, 0.89€ bounty)
+Seat 5: Thibaultp75 (43930, 0.45€ bounty)
+Seat 6: Mak_Perfect (170398, 1.44€ bounty)
+*** ANTE/BLINDS ***
+Thibaultp75 posts ante 250
+Mak_Perfect posts ante 250
+lesnovices posts ante 250
+Cypselos posts ante 250
+P1xel7 posts ante 250
+Thibaultp75 posts small blind 1000
+Mak_Perfect posts big blind 2000
+Dealt to P1xel7 [Jh 7d]
+*** PRE-FLOP *** 
+lesnovices folds
+Cypselos folds
+P1xel7 folds
+Thibaultp75 raises 3000 to 5000
+Mak_Perfect calls 3000
+*** FLOP *** [Kc Qc Jd]
+Thibaultp75 bets 4000
+Mak_Perfect folds
+Thibaultp75 collected 15250 from pot
+*** SUMMARY ***
+Total pot 15250 | No rake
+Board: [Kc Qc Jd]
+Seat 5: Thibaultp75 (small blind) won 15250
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-153-1708033320 - Holdem no limit (250/1000/2000) - 2024/02/15 21:42:00 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: lesnovices (161817, 2.21€ bounty)
+Seat 2: Cypselos (35730, 1€ bounty)
+Seat 3: P1xel7 (48181, 0.89€ bounty)
+Seat 4: cosmicbikett (131906, 0.89€ bounty)
+Seat 5: Thibaultp75 (49930, 0.45€ bounty)
+Seat 6: Mak_Perfect (165148, 1.44€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 250
+lesnovices posts ante 250
+Cypselos posts ante 250
+P1xel7 posts ante 250
+cosmicbikett posts ante 250
+Thibaultp75 posts ante 250
+Mak_Perfect posts small blind 1000
+lesnovices posts big blind 2000
+Dealt to P1xel7 [3d Ts]
+*** PRE-FLOP *** 
+Cypselos raises 33480 to 35480 and is all-in
+P1xel7 folds
+cosmicbikett folds
+Thibaultp75 folds
+Mak_Perfect raises 129418 to 164898 and is all-in
+lesnovices folds
+*** FLOP *** [6s 3s 3c]
+*** TURN *** [6s 3s 3c][4s]
+*** RIVER *** [6s 3s 3c 4s][8h]
+*** SHOW DOWN ***
+Cypselos shows [Qc Kc] (One pair : 3)
+Mak_Perfect shows [Kd Ah] (One pair : 3)
+Mak_Perfect collected 203878 from pot
+*** SUMMARY ***
+Total pot 203878 | No rake
+Board: [6s 3s 3c 4s 8h]
+Seat 2: Cypselos showed [Qc Kc] and lost with One pair : 3
+Seat 6: Mak_Perfect (small blind) showed [Kd Ah] and won 203878 with One pair : 3
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-154-1708033342 - Holdem no limit (250/1000/2000) - 2024/02/15 21:42:22 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: lesnovices (159567, 2.21€ bounty)
+Seat 3: P1xel7 (47931, 0.89€ bounty)
+Seat 4: cosmicbikett (131656, 0.89€ bounty)
+Seat 5: Thibaultp75 (49680, 0.45€ bounty)
+Seat 6: Mak_Perfect (203878, 1.94€ bounty)
+*** ANTE/BLINDS ***
+lesnovices posts ante 250
+P1xel7 posts ante 250
+cosmicbikett posts ante 250
+Thibaultp75 posts ante 250
+Mak_Perfect posts ante 250
+lesnovices posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [Th Td]
+*** PRE-FLOP *** 
+cosmicbikett raises 2000 to 4000
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices calls 3000
+P1xel7 raises 11000 to 15000
+cosmicbikett folds
+lesnovices folds
+P1xel7 collected 24250 from pot
+*** SUMMARY ***
+Total pot 24250 | No rake
+Seat 3: P1xel7 (big blind) won 24250
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-155-1708033368 - Holdem no limit (250/1000/2000) - 2024/02/15 21:42:48 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #1 is the button
+Seat 1: lesnovices (155317, 2.21€ bounty)
+Seat 2: mdahoma (54916, 0.45€ bounty)
+Seat 3: P1xel7 (56931, 0.89€ bounty)
+Seat 4: cosmicbikett (127406, 0.89€ bounty)
+Seat 5: Thibaultp75 (49430, 0.45€ bounty)
+Seat 6: Mak_Perfect (203628, 1.94€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+cosmicbikett posts ante 250
+lesnovices posts ante 250
+Thibaultp75 posts ante 250
+Mak_Perfect posts ante 250
+P1xel7 posts small blind 1000
+cosmicbikett posts big blind 2000
+Dealt to P1xel7 [Kh 2d]
+*** PRE-FLOP *** 
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices folds
+P1xel7 folds
+cosmicbikett collected 4250 from pot
+*** SUMMARY ***
+Total pot 4250 | No rake
+Seat 4: cosmicbikett (big blind) won 4250
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-156-1708033377 - Holdem no limit (250/1000/2000) - 2024/02/15 21:42:57 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #3 is the button
+Seat 1: lesnovices (155067, 2.21€ bounty)
+Seat 2: mdahoma (54916, 0.45€ bounty)
+Seat 3: P1xel7 (55681, 0.89€ bounty)
+Seat 4: cosmicbikett (129406, 0.89€ bounty)
+Seat 5: Thibaultp75 (49180, 0.45€ bounty)
+Seat 6: Mak_Perfect (203378, 1.94€ bounty)
+*** ANTE/BLINDS ***
+cosmicbikett posts ante 250
+Thibaultp75 posts ante 250
+lesnovices posts ante 250
+mdahoma posts ante 250
+P1xel7 posts ante 250
+Mak_Perfect posts ante 250
+cosmicbikett posts small blind 1000
+Thibaultp75 posts big blind 2000
+Dealt to P1xel7 [5s 2c]
+*** PRE-FLOP *** 
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett calls 1000
+Thibaultp75 raises 6000 to 8000
+cosmicbikett folds
+Thibaultp75 collected 11500 from pot
+*** SUMMARY ***
+Total pot 11500 | No rake
+Seat 5: Thibaultp75 (big blind) won 11500
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-157-1708033421 - Holdem no limit (250/1000/2000) - 2024/02/15 21:43:41 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #4 is the button
+Seat 1: lesnovices (154817, 2.21€ bounty)
+Seat 2: mdahoma (54666, 0.45€ bounty)
+Seat 3: P1xel7 (55431, 0.89€ bounty)
+Seat 4: cosmicbikett (127156, 0.89€ bounty)
+Seat 5: Thibaultp75 (52430, 0.45€ bounty)
+Seat 6: Mak_Perfect (203128, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Thibaultp75 posts ante 250
+Mak_Perfect posts ante 250
+lesnovices posts ante 250
+mdahoma posts ante 250
+P1xel7 posts ante 250
+cosmicbikett posts ante 250
+Thibaultp75 posts small blind 1000
+Mak_Perfect posts big blind 2000
+Dealt to P1xel7 [Kd 2d]
+*** PRE-FLOP *** 
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett raises 2440 to 4440
+Thibaultp75 folds
+Mak_Perfect calls 2440
+*** FLOP *** [7s Qs Qh]
+Mak_Perfect checks
+cosmicbikett checks
+*** TURN *** [7s Qs Qh][3d]
+Mak_Perfect bets 5690
+cosmicbikett folds
+Mak_Perfect collected 17070 from pot
+*** SUMMARY ***
+Total pot 17070 | No rake
+Board: [7s Qs Qh 3d]
+Seat 6: Mak_Perfect (big blind) won 17070
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-158-1708033467 - Holdem no limit (250/1000/2000) - 2024/02/15 21:44:27 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: lesnovices (154567, 2.21€ bounty)
+Seat 2: mdahoma (54416, 0.45€ bounty)
+Seat 3: P1xel7 (55181, 0.89€ bounty)
+Seat 4: cosmicbikett (122466, 0.89€ bounty)
+Seat 5: Thibaultp75 (51180, 0.45€ bounty)
+Seat 6: Mak_Perfect (209818, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 250
+lesnovices posts ante 250
+mdahoma posts ante 250
+P1xel7 posts ante 250
+cosmicbikett posts ante 250
+Thibaultp75 posts ante 250
+Mak_Perfect posts small blind 1000
+lesnovices posts big blind 2000
+Dealt to P1xel7 [2d Kd]
+*** PRE-FLOP *** 
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Thibaultp75 folds
+Mak_Perfect calls 1000
+lesnovices checks
+*** FLOP *** [As 4h Tc]
+Mak_Perfect bets 2000
+lesnovices folds
+Mak_Perfect collected 7500 from pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Board: [As 4h Tc]
+Seat 6: Mak_Perfect (small blind) won 7500
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198559168642416656-159-1708033497 - Holdem no limit (250/1000/2000) - 2024/02/15 21:44:57 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: lesnovices (152317, 2.21€ bounty)
+Seat 2: mdahoma (54166, 0.45€ bounty)
+Seat 3: P1xel7 (54931, 0.89€ bounty)
+Seat 4: cosmicbikett (122216, 0.89€ bounty)
+Seat 5: Thibaultp75 (50930, 0.45€ bounty)
+Seat 6: Mak_Perfect (213068, 1.94€ bounty)
+*** ANTE/BLINDS ***
+lesnovices posts ante 250
+mdahoma posts ante 250
+P1xel7 posts ante 250
+cosmicbikett posts ante 250
+Thibaultp75 posts ante 250
+Mak_Perfect posts ante 250
+lesnovices posts small blind 1000
+mdahoma posts big blind 2000
+Dealt to P1xel7 [7c Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+cosmicbikett folds
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices raises 3000 to 5000
+mdahoma calls 3000
+*** FLOP *** [8c 3s 3d]
+lesnovices checks
+mdahoma checks
+*** TURN *** [8c 3s 3d][2d]
+lesnovices bets 7475
+mdahoma folds
+lesnovices collected 18975 from pot
+*** SUMMARY ***
+Total pot 18975 | No rake
+Board: [8c 3s 3d 2d]
+Seat 1: lesnovices (small blind) won 18975
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198559168642416656-160-1708033550 - Holdem no limit (300/1250/2500) - 2024/02/15 21:45:50 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #1 is the button
+Seat 1: lesnovices (158567, 2.21€ bounty)
+Seat 2: mdahoma (48916, 0.45€ bounty)
+Seat 3: P1xel7 (54681, 0.89€ bounty)
+Seat 4: cosmicbikett (121966, 0.89€ bounty)
+Seat 5: Thibaultp75 (50680, 0.45€ bounty)
+Seat 6: Mak_Perfect (212818, 1.94€ bounty)
+*** ANTE/BLINDS ***
+mdahoma posts ante 300
+P1xel7 posts ante 300
+lesnovices posts ante 300
+cosmicbikett posts ante 300
+Thibaultp75 posts ante 300
+Mak_Perfect posts ante 300
+mdahoma posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [6d 6s]
+*** PRE-FLOP *** 
+cosmicbikett folds
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices folds
+mdahoma raises 2500 to 5000
+P1xel7 raises 10000 to 15000
+mdahoma folds
+P1xel7 collected 21800 from pot
+*** SUMMARY ***
+Total pot 21800 | No rake
+Seat 3: P1xel7 (big blind) won 21800
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198559168642416656-161-1708033588 - Holdem no limit (300/1250/2500) - 2024/02/15 21:46:28 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #2 is the button
+Seat 1: lesnovices (158267, 2.21€ bounty)
+Seat 2: mdahoma (43616, 0.45€ bounty)
+Seat 3: P1xel7 (61181, 0.89€ bounty)
+Seat 4: cosmicbikett (121666, 0.89€ bounty)
+Seat 5: Thibaultp75 (50380, 0.45€ bounty)
+Seat 6: Mak_Perfect (212518, 1.94€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+cosmicbikett posts ante 300
+lesnovices posts ante 300
+mdahoma posts ante 300
+Thibaultp75 posts ante 300
+Mak_Perfect posts ante 300
+P1xel7 posts small blind 1250
+cosmicbikett posts big blind 2500
+Dealt to P1xel7 [6h 6d]
+*** PRE-FLOP *** 
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices folds
+mdahoma raises 2500 to 5000
+P1xel7 raises 55881 to 60881 and is all-in
+cosmicbikett folds
+mdahoma calls 38316 and is all-in
+*** FLOP *** [7h 5c Th]
+*** TURN *** [7h 5c Th][Qd]
+*** RIVER *** [7h 5c Th Qd][4h]
+*** SHOW DOWN ***
+mdahoma shows [Qs Qh] (Trips of Queens)
+P1xel7 shows [6h 6d] (One pair : 6)
+P1xel7 collected 17565 from side pot 1
+mdahoma collected 90932 from main pot
+*** SUMMARY ***
+Total pot 108497 | No rake
+Board: [7h 5c Th Qd 4h]
+Seat 2: mdahoma (button) showed [Qs Qh] and won 90932 with Trips of Queens
+Seat 3: P1xel7 (small blind) showed [6h 6d] and won 17565 with One pair : 6
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198559168642416656-162-1708033647 - Holdem no limit (300/1250/2500) - 2024/02/15 21:47:27 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #3 is the button
+Seat 1: lesnovices (157967, 2.21€ bounty)
+Seat 2: mdahoma (90932, 0.45€ bounty)
+Seat 3: P1xel7 (17565, 0.89€ bounty)
+Seat 4: cosmicbikett (118866, 0.89€ bounty)
+Seat 5: Thibaultp75 (50080, 0.45€ bounty)
+Seat 6: Mak_Perfect (212218, 1.94€ bounty)
+*** ANTE/BLINDS ***
+cosmicbikett posts ante 300
+Thibaultp75 posts ante 300
+lesnovices posts ante 300
+mdahoma posts ante 300
+P1xel7 posts ante 300
+Mak_Perfect posts ante 300
+cosmicbikett posts small blind 1250
+Thibaultp75 posts big blind 2500
+Dealt to P1xel7 [8c Qs]
+*** PRE-FLOP *** 
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett calls 1250
+Thibaultp75 checks
+*** FLOP *** [3h 9s 3c]
+cosmicbikett checks
+Thibaultp75 bets 2500
+cosmicbikett calls 2500
+*** TURN *** [3h 9s 3c][9d]
+cosmicbikett checks
+Thibaultp75 bets 5000
+cosmicbikett folds
+Thibaultp75 collected 16800 from pot
+*** SUMMARY ***
+Total pot 16800 | No rake
+Board: [3h 9s 3c 9d]
+Seat 5: Thibaultp75 (big blind) won 16800
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198559168642416656-163-1708033705 - Holdem no limit (300/1250/2500) - 2024/02/15 21:48:25 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #4 is the button
+Seat 1: lesnovices (157667, 2.21€ bounty)
+Seat 2: mdahoma (90632, 0.45€ bounty)
+Seat 3: P1xel7 (17265, 0.89€ bounty)
+Seat 4: cosmicbikett (113566, 0.89€ bounty)
+Seat 5: Thibaultp75 (56580, 0.45€ bounty)
+Seat 6: Mak_Perfect (211918, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Thibaultp75 posts ante 300
+Mak_Perfect posts ante 300
+lesnovices posts ante 300
+mdahoma posts ante 300
+P1xel7 posts ante 300
+cosmicbikett posts ante 300
+Thibaultp75 posts small blind 1250
+Mak_Perfect posts big blind 2500
+Dealt to P1xel7 [Js 5c]
+*** PRE-FLOP *** 
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Thibaultp75 raises 5000 to 7500
+Mak_Perfect raises 204118 to 211618 and is all-in
+Thibaultp75 folds
+Mak_Perfect collected 220918 from pot
+*** SUMMARY ***
+Total pot 220918 | No rake
+Seat 6: Mak_Perfect (big blind) won 220918
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198559168642416656-164-1708033742 - Holdem no limit (300/1250/2500) - 2024/02/15 21:49:02 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: lesnovices (157367, 2.21€ bounty)
+Seat 2: mdahoma (90332, 0.45€ bounty)
+Seat 3: P1xel7 (16965, 0.89€ bounty)
+Seat 4: cosmicbikett (113266, 0.89€ bounty)
+Seat 5: Thibaultp75 (48780, 0.45€ bounty)
+Seat 6: Mak_Perfect (220918, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 300
+lesnovices posts ante 300
+mdahoma posts ante 300
+P1xel7 posts ante 300
+cosmicbikett posts ante 300
+Thibaultp75 posts ante 300
+Mak_Perfect posts small blind 1250
+lesnovices posts big blind 2500
+Dealt to P1xel7 [Jc Jd]
+*** PRE-FLOP *** 
+mdahoma folds
+P1xel7 raises 14165 to 16665 and is all-in
+cosmicbikett folds
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices calls 14165
+*** FLOP *** [8d 5c Kd]
+*** TURN *** [8d 5c Kd][8c]
+*** RIVER *** [8d 5c Kd 8c][7c]
+*** SHOW DOWN ***
+lesnovices shows [5d 4s] (Two pairs : 8 and 5)
+P1xel7 shows [Jc Jd] (Two pairs : Jacks and 8)
+P1xel7 collected 36380 from pot
+*** SUMMARY ***
+Total pot 36380 | No rake
+Board: [8d 5c Kd 8c 7c]
+Seat 1: lesnovices (big blind) showed [5d 4s] and lost with Two pairs : 8 and 5
+Seat 3: P1xel7 showed [Jc Jd] and won 36380 with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198559168642416656-165-1708033771 - Holdem no limit (300/1250/2500) - 2024/02/15 21:49:31 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: lesnovices (140402, 2.21€ bounty)
+Seat 2: mdahoma (90032, 0.45€ bounty)
+Seat 3: P1xel7 (36380, 0.89€ bounty)
+Seat 4: cosmicbikett (112966, 0.89€ bounty)
+Seat 5: Thibaultp75 (48480, 0.45€ bounty)
+Seat 6: Mak_Perfect (219368, 1.94€ bounty)
+*** ANTE/BLINDS ***
+lesnovices posts ante 300
+mdahoma posts ante 300
+P1xel7 posts ante 300
+cosmicbikett posts ante 300
+Thibaultp75 posts ante 300
+Mak_Perfect posts ante 300
+lesnovices posts small blind 1250
+mdahoma posts big blind 2500
+Dealt to P1xel7 [4s 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+cosmicbikett folds
+Thibaultp75 raises 2500 to 5000
+Mak_Perfect raises 10000 to 15000
+lesnovices folds
+mdahoma folds
+Thibaultp75 folds
+Mak_Perfect collected 25550 from pot
+*** SUMMARY ***
+Total pot 25550 | No rake
+Seat 6: Mak_Perfect (button) won 25550
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198559168642416656-166-1708033808 - Holdem no limit (300/1250/2500) - 2024/02/15 21:50:08 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #1 is the button
+Seat 1: lesnovices (138852, 2.21€ bounty)
+Seat 2: mdahoma (87232, 0.45€ bounty)
+Seat 3: P1xel7 (36080, 0.89€ bounty)
+Seat 4: cosmicbikett (112666, 0.89€ bounty)
+Seat 5: Thibaultp75 (43180, 0.45€ bounty)
+Seat 6: Mak_Perfect (229618, 1.94€ bounty)
+*** ANTE/BLINDS ***
+mdahoma posts ante 300
+P1xel7 posts ante 300
+lesnovices posts ante 300
+cosmicbikett posts ante 300
+Thibaultp75 posts ante 300
+Mak_Perfect posts ante 300
+mdahoma posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Jc 8c]
+*** PRE-FLOP *** 
+cosmicbikett folds
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices raises 3750 to 6250
+mdahoma folds
+P1xel7 calls 3750
+*** FLOP *** [9h Qs Tc]
+P1xel7 checks
+lesnovices checks
+*** TURN *** [9h Qs Tc][5c]
+P1xel7 checks
+lesnovices checks
+*** RIVER *** [9h Qs Tc 5c][3s]
+P1xel7 bets 10108
+lesnovices calls 10108
+*** SHOW DOWN ***
+lesnovices shows [Td 7d] (One pair : Tens)
+P1xel7 shows [Jc 8c] (Straight Queen high)
+P1xel7 collected 35766 from pot
+*** SUMMARY ***
+Total pot 35766 | No rake
+Board: [9h Qs Tc 5c 3s]
+Seat 1: lesnovices (button) showed [Td 7d] and lost with One pair : Tens
+Seat 3: P1xel7 (big blind) showed [Jc 8c] and won 35766 with Straight Queen high
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-167-1708033865 - Holdem no limit (350/1500/3000) - 2024/02/15 21:51:05 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #2 is the button
+Seat 1: lesnovices (122194, 2.21€ bounty)
+Seat 2: mdahoma (85682, 0.45€ bounty)
+Seat 3: P1xel7 (55188, 0.89€ bounty)
+Seat 4: cosmicbikett (112366, 0.89€ bounty)
+Seat 5: Thibaultp75 (42880, 0.45€ bounty)
+Seat 6: Mak_Perfect (229318, 1.94€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+cosmicbikett posts ante 350
+lesnovices posts ante 350
+mdahoma posts ante 350
+Thibaultp75 posts ante 350
+Mak_Perfect posts ante 350
+P1xel7 posts small blind 1500
+cosmicbikett posts big blind 3000
+Dealt to P1xel7 [Kc Tc]
+*** PRE-FLOP *** 
+Thibaultp75 raises 39530 to 42530 and is all-in
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Thibaultp75 collected 49130 from pot
+*** SUMMARY ***
+Total pot 49130 | No rake
+Seat 5: Thibaultp75 won 49130
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-168-1708033890 - Holdem no limit (350/1500/3000) - 2024/02/15 21:51:30 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #3 is the button
+Seat 1: lesnovices (121844, 2.21€ bounty)
+Seat 2: mdahoma (85332, 0.45€ bounty)
+Seat 3: P1xel7 (53338, 0.89€ bounty)
+Seat 4: cosmicbikett (109016, 0.89€ bounty)
+Seat 5: Thibaultp75 (49130, 0.45€ bounty)
+Seat 6: Mak_Perfect (228968, 1.94€ bounty)
+*** ANTE/BLINDS ***
+cosmicbikett posts ante 350
+Thibaultp75 posts ante 350
+lesnovices posts ante 350
+mdahoma posts ante 350
+P1xel7 posts ante 350
+Mak_Perfect posts ante 350
+cosmicbikett posts small blind 1500
+Thibaultp75 posts big blind 3000
+Dealt to P1xel7 [2d 3h]
+*** PRE-FLOP *** 
+Mak_Perfect raises 3000 to 6000
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Thibaultp75 calls 3000
+*** FLOP *** [3c 5c Qd]
+Thibaultp75 checks
+Mak_Perfect bets 4500
+Thibaultp75 raises 38280 to 42780 and is all-in
+Mak_Perfect folds
+Thibaultp75 collected 62880 from pot
+*** SUMMARY ***
+Total pot 62880 | No rake
+Board: [3c 5c Qd]
+Seat 5: Thibaultp75 (big blind) won 62880
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-169-1708033937 - Holdem no limit (350/1500/3000) - 2024/02/15 21:52:17 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #4 is the button
+Seat 1: lesnovices (121494, 2.21€ bounty)
+Seat 2: mdahoma (84982, 0.45€ bounty)
+Seat 3: P1xel7 (52988, 0.89€ bounty)
+Seat 4: cosmicbikett (107166, 0.89€ bounty)
+Seat 5: Thibaultp75 (62880, 0.45€ bounty)
+Seat 6: Mak_Perfect (218118, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Thibaultp75 posts ante 350
+Mak_Perfect posts ante 350
+lesnovices posts ante 350
+mdahoma posts ante 350
+P1xel7 posts ante 350
+cosmicbikett posts ante 350
+Thibaultp75 posts small blind 1500
+Mak_Perfect posts big blind 3000
+Dealt to P1xel7 [7d 5d]
+*** PRE-FLOP *** 
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Thibaultp75 calls 1500
+Mak_Perfect checks
+*** FLOP *** [Th 5h 7h]
+Thibaultp75 bets 3000
+Mak_Perfect calls 3000
+*** TURN *** [Th 5h 7h][6d]
+Thibaultp75 bets 9000
+Mak_Perfect folds
+Thibaultp75 collected 23100 from pot
+*** SUMMARY ***
+Total pot 23100 | No rake
+Board: [Th 5h 7h 6d]
+Seat 5: Thibaultp75 (small blind) won 23100
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-170-1708033983 - Holdem no limit (350/1500/3000) - 2024/02/15 21:53:03 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: lesnovices (121144, 2.21€ bounty)
+Seat 2: mdahoma (84632, 0.45€ bounty)
+Seat 3: P1xel7 (52638, 0.89€ bounty)
+Seat 4: cosmicbikett (106816, 0.89€ bounty)
+Seat 5: Thibaultp75 (70630, 0.45€ bounty)
+Seat 6: Mak_Perfect (211768, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 350
+lesnovices posts ante 350
+mdahoma posts ante 350
+P1xel7 posts ante 350
+cosmicbikett posts ante 350
+Thibaultp75 posts ante 350
+Mak_Perfect posts small blind 1500
+lesnovices posts big blind 3000
+Dealt to P1xel7 [6h Ac]
+*** PRE-FLOP *** 
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Thibaultp75 raises 3000 to 6000
+Mak_Perfect folds
+lesnovices calls 3000
+*** FLOP *** [9h Ks Jh]
+lesnovices checks
+Thibaultp75 checks
+*** TURN *** [9h Ks Jh][9c]
+lesnovices bets 5460
+Thibaultp75 calls 5460
+*** RIVER *** [9h Ks Jh 9c][4h]
+lesnovices bets 17238
+Thibaultp75 folds
+lesnovices collected 43758 from pot
+*** SUMMARY ***
+Total pot 43758 | No rake
+Board: [9h Ks Jh 9c 4h]
+Seat 1: lesnovices (big blind) won 43758
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-171-1708034018 - Holdem no limit (350/1500/3000) - 2024/02/15 21:53:38 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: lesnovices (135854, 2.21€ bounty)
+Seat 2: mdahoma (84282, 0.45€ bounty)
+Seat 3: P1xel7 (52288, 0.89€ bounty)
+Seat 4: cosmicbikett (106466, 0.89€ bounty)
+Seat 5: Thibaultp75 (58820, 0.45€ bounty)
+Seat 6: Mak_Perfect (209918, 1.94€ bounty)
+*** ANTE/BLINDS ***
+lesnovices posts ante 350
+mdahoma posts ante 350
+P1xel7 posts ante 350
+cosmicbikett posts ante 350
+Thibaultp75 posts ante 350
+Mak_Perfect posts ante 350
+lesnovices posts small blind 1500
+mdahoma posts big blind 3000
+Dealt to P1xel7 [Jh 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+cosmicbikett folds
+Thibaultp75 raises 3000 to 6000
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+Thibaultp75 collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Seat 5: Thibaultp75 won 12600
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-172-1708034046 - Holdem no limit (350/1500/3000) - 2024/02/15 21:54:06 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #1 is the button
+Seat 1: lesnovices (134004, 2.21€ bounty)
+Seat 2: mdahoma (80932, 0.45€ bounty)
+Seat 3: P1xel7 (51938, 0.89€ bounty)
+Seat 4: cosmicbikett (106116, 0.89€ bounty)
+Seat 5: Thibaultp75 (65070, 0.45€ bounty)
+Seat 6: Mak_Perfect (209568, 1.94€ bounty)
+*** ANTE/BLINDS ***
+mdahoma posts ante 350
+P1xel7 posts ante 350
+lesnovices posts ante 350
+cosmicbikett posts ante 350
+Thibaultp75 posts ante 350
+Mak_Perfect posts ante 350
+mdahoma posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [6s 2s]
+*** PRE-FLOP *** 
+cosmicbikett folds
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices raises 4500 to 7500
+mdahoma folds
+P1xel7 calls 4500
+*** FLOP *** [Qd 5h 3d]
+P1xel7 checks
+lesnovices bets 6510
+P1xel7 folds
+lesnovices collected 25110 from pot
+*** SUMMARY ***
+Total pot 25110 | No rake
+Board: [Qd 5h 3d]
+Seat 1: lesnovices (button) won 25110
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-173-1708034080 - Holdem no limit (350/1500/3000) - 2024/02/15 21:54:40 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #2 is the button
+Seat 1: lesnovices (144754, 2.21€ bounty)
+Seat 2: mdahoma (79082, 0.45€ bounty)
+Seat 3: P1xel7 (44088, 0.89€ bounty)
+Seat 4: cosmicbikett (105766, 0.89€ bounty)
+Seat 5: Thibaultp75 (64720, 0.45€ bounty)
+Seat 6: Mak_Perfect (209218, 1.94€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+cosmicbikett posts ante 350
+lesnovices posts ante 350
+mdahoma posts ante 350
+Thibaultp75 posts ante 350
+Mak_Perfect posts ante 350
+P1xel7 posts small blind 1500
+cosmicbikett posts big blind 3000
+Dealt to P1xel7 [As 3s]
+*** PRE-FLOP *** 
+Thibaultp75 folds
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+P1xel7 raises 3000 to 6000
+cosmicbikett folds
+P1xel7 collected 11100 from pot
+*** SUMMARY ***
+Total pot 11100 | No rake
+Seat 3: P1xel7 (small blind) won 11100
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-174-1708034460 - Holdem no limit (350/1500/3000) - 2024/02/15 22:01:00 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #3 is the button
+Seat 1: lesnovices (144404, 2.21€ bounty)
+Seat 2: mdahoma (78732, 0.45€ bounty)
+Seat 3: P1xel7 (48838, 0.89€ bounty)
+Seat 4: cosmicbikett (102416, 0.89€ bounty)
+Seat 5: Thibaultp75 (64370, 0.45€ bounty)
+Seat 6: Mak_Perfect (208868, 1.94€ bounty)
+*** ANTE/BLINDS ***
+cosmicbikett posts ante 350
+Thibaultp75 posts ante 350
+lesnovices posts ante 350
+mdahoma posts ante 350
+P1xel7 posts ante 350
+Mak_Perfect posts ante 350
+cosmicbikett posts small blind 1500
+Thibaultp75 posts big blind 3000
+Dealt to P1xel7 [Th Ah]
+*** PRE-FLOP *** 
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+P1xel7 raises 3000 to 6000
+cosmicbikett folds
+Thibaultp75 raises 58020 to 64020 and is all-in
+P1xel7 calls 42488 and is all-in
+*** FLOP *** [Ac 9h 5s]
+*** TURN *** [Ac 9h 5s][Ad]
+*** RIVER *** [Ac 9h 5s Ad][2s]
+*** SHOW DOWN ***
+P1xel7 shows [Th Ah] (Trips of Aces)
+Thibaultp75 shows [9c Kc] (Two pairs : Aces and 9)
+Thibaultp75 collected 15532 from side pot 1
+P1xel7 collected 100576 from main pot
+*** SUMMARY ***
+Total pot 116108 | No rake
+Board: [Ac 9h 5s Ad 2s]
+Seat 3: P1xel7 (button) showed [Th Ah] and won 100576 with Trips of Aces
+Seat 5: Thibaultp75 (big blind) showed [9c Kc] and won 15532 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-175-1708034521 - Holdem no limit (350/1500/3000) - 2024/02/15 22:02:01 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #4 is the button
+Seat 1: lesnovices (144054, 2.21€ bounty)
+Seat 2: mdahoma (78382, 0.45€ bounty)
+Seat 3: P1xel7 (100576, 0.89€ bounty)
+Seat 4: cosmicbikett (100566, 0.89€ bounty)
+Seat 5: Thibaultp75 (15532, 0.45€ bounty)
+Seat 6: Mak_Perfect (208518, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Thibaultp75 posts ante 350
+Mak_Perfect posts ante 350
+lesnovices posts ante 350
+mdahoma posts ante 350
+P1xel7 posts ante 350
+cosmicbikett posts ante 350
+Thibaultp75 posts small blind 1500
+Mak_Perfect posts big blind 3000
+Dealt to P1xel7 [9c 9d]
+*** PRE-FLOP *** 
+lesnovices folds
+mdahoma folds
+P1xel7 raises 3600 to 6600
+cosmicbikett folds
+Thibaultp75 raises 8582 to 15182 and is all-in
+Mak_Perfect folds
+P1xel7 calls 8582
+*** FLOP *** [Kc Ks 5h]
+*** TURN *** [Kc Ks 5h][As]
+*** RIVER *** [Kc Ks 5h As][9s]
+*** SHOW DOWN ***
+Thibaultp75 shows [Ac 6h] (Two pairs : Aces and Kings)
+P1xel7 shows [9c 9d] (Full of 9 and Kings)
+P1xel7 collected 35464 from pot
+*** SUMMARY ***
+Total pot 35464 | No rake
+Board: [Kc Ks 5h As 9s]
+Seat 3: P1xel7 showed [9c 9d] and won 35464 with Full of 9 and Kings
+Seat 5: Thibaultp75 (small blind) showed [Ac 6h] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-176-1708034563 - Holdem no limit (350/1500/3000) - 2024/02/15 22:02:43 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: lesnovices (143704, 2.21€ bounty)
+Seat 2: mdahoma (78032, 0.45€ bounty)
+Seat 3: P1xel7 (120508, 1.11€ bounty)
+Seat 4: cosmicbikett (100216, 0.89€ bounty)
+Seat 6: Mak_Perfect (205168, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 350
+lesnovices posts ante 350
+mdahoma posts ante 350
+P1xel7 posts ante 350
+cosmicbikett posts ante 350
+Mak_Perfect posts small blind 1500
+lesnovices posts big blind 3000
+Dealt to P1xel7 [3c Th]
+*** PRE-FLOP *** 
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Mak_Perfect folds
+lesnovices collected 6250 from pot
+*** SUMMARY ***
+Total pot 6250 | No rake
+Seat 1: lesnovices (big blind) won 6250
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198559168642416656-177-1708034575 - Holdem no limit (350/1500/3000) - 2024/02/15 22:02:55 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: lesnovices (146604, 2.21€ bounty)
+Seat 2: mdahoma (77682, 0.45€ bounty)
+Seat 3: P1xel7 (120158, 1.11€ bounty)
+Seat 4: cosmicbikett (99866, 0.89€ bounty)
+Seat 6: Mak_Perfect (203318, 1.94€ bounty)
+*** ANTE/BLINDS ***
+lesnovices posts ante 350
+mdahoma posts ante 350
+P1xel7 posts ante 350
+cosmicbikett posts ante 350
+Mak_Perfect posts ante 350
+lesnovices posts small blind 1500
+mdahoma posts big blind 3000
+Dealt to P1xel7 [5h 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+cosmicbikett folds
+Mak_Perfect raises 3000 to 6000
+lesnovices folds
+mdahoma raises 9000 to 15000
+Mak_Perfect folds
+mdahoma collected 24250 from pot
+*** SUMMARY ***
+Total pot 24250 | No rake
+Seat 2: mdahoma (big blind) won 24250
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198559168642416656-178-1708034598 - Holdem no limit (400/1750/3500) - 2024/02/15 22:03:18 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #1 is the button
+Seat 1: lesnovices (144754, 2.21€ bounty)
+Seat 2: mdahoma (86582, 0.45€ bounty)
+Seat 3: P1xel7 (119808, 1.11€ bounty)
+Seat 4: cosmicbikett (99516, 0.89€ bounty)
+Seat 5: Brumafr82 (54477, 1€ bounty)
+Seat 6: Mak_Perfect (196968, 1.94€ bounty)
+*** ANTE/BLINDS ***
+mdahoma posts ante 400
+P1xel7 posts ante 400
+lesnovices posts ante 400
+cosmicbikett posts ante 400
+Brumafr82 posts ante 400
+Mak_Perfect posts ante 400
+mdahoma posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [Jh 7d]
+*** PRE-FLOP *** 
+cosmicbikett folds
+Brumafr82 folds
+Mak_Perfect folds
+lesnovices folds
+mdahoma raises 7000 to 10500
+P1xel7 folds
+mdahoma collected 16400 from pot
+*** SUMMARY ***
+Total pot 16400 | No rake
+Seat 2: mdahoma (small blind) won 16400
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198559168642416656-179-1708034629 - Holdem no limit (400/1750/3500) - 2024/02/15 22:03:49 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #2 is the button
+Seat 1: lesnovices (144354, 2.21€ bounty)
+Seat 2: mdahoma (92082, 0.45€ bounty)
+Seat 3: P1xel7 (115908, 1.11€ bounty)
+Seat 4: cosmicbikett (99116, 0.89€ bounty)
+Seat 5: Brumafr82 (54077, 1€ bounty)
+Seat 6: Mak_Perfect (196568, 1.94€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+cosmicbikett posts ante 400
+lesnovices posts ante 400
+mdahoma posts ante 400
+Brumafr82 posts ante 400
+Mak_Perfect posts ante 400
+P1xel7 posts small blind 1750
+cosmicbikett posts big blind 3500
+Dealt to P1xel7 [3h 7h]
+*** PRE-FLOP *** 
+Brumafr82 folds
+Mak_Perfect folds
+lesnovices raises 5250 to 8750
+mdahoma folds
+P1xel7 folds
+cosmicbikett calls 5250
+*** FLOP *** [7s 6s Qd]
+cosmicbikett checks
+lesnovices checks
+*** TURN *** [7s 6s Qd][5s]
+cosmicbikett checks
+lesnovices bets 14073
+cosmicbikett folds
+lesnovices collected 35723 from pot
+*** SUMMARY ***
+Total pot 35723 | No rake
+Board: [7s 6s Qd 5s]
+Seat 1: lesnovices won 35723
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198559168642416656-180-1708034705 - Holdem no limit (400/1750/3500) - 2024/02/15 22:05:05 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #3 is the button
+Seat 1: lesnovices (156854, 2.21€ bounty)
+Seat 2: mdahoma (91682, 0.45€ bounty)
+Seat 3: P1xel7 (113758, 1.11€ bounty)
+Seat 4: cosmicbikett (89966, 0.89€ bounty)
+Seat 5: Brumafr82 (53677, 1€ bounty)
+Seat 6: Mak_Perfect (196168, 1.94€ bounty)
+*** ANTE/BLINDS ***
+cosmicbikett posts ante 400
+Brumafr82 posts ante 400
+lesnovices posts ante 400
+mdahoma posts ante 400
+P1xel7 posts ante 400
+Mak_Perfect posts ante 400
+cosmicbikett posts small blind 1750
+Brumafr82 posts big blind 3500
+Dealt to P1xel7 [Ad 8d]
+*** PRE-FLOP *** 
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+P1xel7 raises 5250 to 8750
+cosmicbikett folds
+Brumafr82 calls 5250
+*** FLOP *** [Qd 4d 3s]
+Brumafr82 bets 3500
+P1xel7 calls 3500
+*** TURN *** [Qd 4d 3s][3c]
+Brumafr82 bets 3500
+P1xel7 calls 3500
+*** RIVER *** [Qd 4d 3s 3c][7s]
+Brumafr82 bets 3500
+P1xel7 raises 42650 to 46150
+Brumafr82 calls 34027 and is all-in
+*** SHOW DOWN ***
+P1xel7 shows [Ad 8d] (One pair : 3)
+Brumafr82 shows [Qh 4h] (Two pairs : Queens and 4)
+Brumafr82 collected 110704 from main pot
+P1xel7 collected 8623 from side pot 1
+*** SUMMARY ***
+Total pot 119327 | No rake
+Board: [Qd 4d 3s 3c 7s]
+Seat 3: P1xel7 (button) showed [Ad 8d] and won 8623 with One pair : 3
+Seat 5: Brumafr82 (big blind) showed [Qh 4h] and won 110704 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198559168642416656-181-1708034775 - Holdem no limit (400/1750/3500) - 2024/02/15 22:06:15 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #4 is the button
+Seat 1: lesnovices (156454, 2.21€ bounty)
+Seat 2: mdahoma (91282, 0.45€ bounty)
+Seat 3: P1xel7 (60081, 1.11€ bounty)
+Seat 4: cosmicbikett (87816, 0.89€ bounty)
+Seat 5: Brumafr82 (110704, 1€ bounty)
+Seat 6: Mak_Perfect (195768, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Brumafr82 posts ante 400
+Mak_Perfect posts ante 400
+lesnovices posts ante 400
+mdahoma posts ante 400
+P1xel7 posts ante 400
+cosmicbikett posts ante 400
+Brumafr82 posts small blind 1750
+Mak_Perfect posts big blind 3500
+Dealt to P1xel7 [4s 2c]
+*** PRE-FLOP *** 
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett raises 83916 to 87416 and is all-in
+Brumafr82 folds
+Mak_Perfect folds
+cosmicbikett collected 95066 from pot
+*** SUMMARY ***
+Total pot 95066 | No rake
+Seat 4: cosmicbikett (button) won 95066
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198559168642416656-182-1708034802 - Holdem no limit (400/1750/3500) - 2024/02/15 22:06:42 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: lesnovices (156054, 2.21€ bounty)
+Seat 2: mdahoma (90882, 0.45€ bounty)
+Seat 3: P1xel7 (59681, 1.11€ bounty)
+Seat 4: cosmicbikett (95066, 0.89€ bounty)
+Seat 5: Brumafr82 (108554, 1€ bounty)
+Seat 6: Mak_Perfect (191868, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 400
+lesnovices posts ante 400
+mdahoma posts ante 400
+P1xel7 posts ante 400
+cosmicbikett posts ante 400
+Brumafr82 posts ante 400
+Mak_Perfect posts small blind 1750
+lesnovices posts big blind 3500
+Dealt to P1xel7 [Jd 4c]
+*** PRE-FLOP *** 
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 calls 3500
+Mak_Perfect raises 12250 to 15750
+lesnovices folds
+Brumafr82 folds
+Mak_Perfect collected 25150 from pot
+*** SUMMARY ***
+Total pot 25150 | No rake
+Seat 6: Mak_Perfect (small blind) won 25150
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198559168642416656-183-1708034859 - Holdem no limit (400/1750/3500) - 2024/02/15 22:07:39 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: lesnovices (152154, 2.21€ bounty)
+Seat 2: mdahoma (90482, 0.45€ bounty)
+Seat 3: P1xel7 (59281, 1.11€ bounty)
+Seat 4: cosmicbikett (94666, 0.89€ bounty)
+Seat 5: Brumafr82 (104654, 1€ bounty)
+Seat 6: Mak_Perfect (200868, 1.94€ bounty)
+*** ANTE/BLINDS ***
+lesnovices posts ante 400
+mdahoma posts ante 400
+P1xel7 posts ante 400
+cosmicbikett posts ante 400
+Brumafr82 posts ante 400
+Mak_Perfect posts ante 400
+lesnovices posts small blind 1750
+mdahoma posts big blind 3500
+Dealt to P1xel7 [8s 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 folds
+Mak_Perfect raises 3500 to 7000
+lesnovices folds
+mdahoma folds
+Mak_Perfect collected 14650 from pot
+*** SUMMARY ***
+Total pot 14650 | No rake
+Seat 6: Mak_Perfect (button) won 14650
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198559168642416656-184-1708034878 - Holdem no limit (400/1750/3500) - 2024/02/15 22:07:58 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #1 is the button
+Seat 1: lesnovices (150004, 2.21€ bounty)
+Seat 2: mdahoma (86582, 0.45€ bounty)
+Seat 3: P1xel7 (58881, 1.11€ bounty)
+Seat 4: cosmicbikett (94266, 0.89€ bounty)
+Seat 5: Brumafr82 (104254, 1€ bounty)
+Seat 6: Mak_Perfect (208118, 1.94€ bounty)
+*** ANTE/BLINDS ***
+mdahoma posts ante 400
+P1xel7 posts ante 400
+lesnovices posts ante 400
+cosmicbikett posts ante 400
+Brumafr82 posts ante 400
+Mak_Perfect posts ante 400
+mdahoma posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [Ts 6c]
+*** PRE-FLOP *** 
+cosmicbikett raises 3500 to 7000
+Brumafr82 folds
+Mak_Perfect folds
+lesnovices raises 10500 to 17500
+mdahoma folds
+P1xel7 folds
+cosmicbikett calls 10500
+*** FLOP *** [9h 8c 9d]
+cosmicbikett checks
+lesnovices bets 14927
+cosmicbikett folds
+lesnovices collected 57577 from pot
+*** SUMMARY ***
+Total pot 57577 | No rake
+Board: [9h 8c 9d]
+Seat 1: lesnovices (button) won 57577
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-185-1708034951 - Holdem no limit (500/2000/4000) - 2024/02/15 22:09:11 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #2 is the button
+Seat 1: lesnovices (174754, 2.21€ bounty)
+Seat 2: mdahoma (84432, 0.45€ bounty)
+Seat 3: P1xel7 (54981, 1.11€ bounty)
+Seat 4: cosmicbikett (76366, 0.89€ bounty)
+Seat 5: Brumafr82 (103854, 1€ bounty)
+Seat 6: Mak_Perfect (207718, 1.94€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+cosmicbikett posts ante 500
+lesnovices posts ante 500
+mdahoma posts ante 500
+Brumafr82 posts ante 500
+Mak_Perfect posts ante 500
+P1xel7 posts small blind 2000
+cosmicbikett posts big blind 4000
+Dealt to P1xel7 [Kh 9h]
+*** PRE-FLOP *** 
+Brumafr82 folds
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+P1xel7 raises 50481 to 54481 and is all-in
+cosmicbikett folds
+P1xel7 collected 61481 from pot
+*** SUMMARY ***
+Total pot 61481 | No rake
+Seat 3: P1xel7 (small blind) won 61481
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-186-1708034984 - Holdem no limit (500/2000/4000) - 2024/02/15 22:09:44 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #3 is the button
+Seat 1: lesnovices (174254, 2.21€ bounty)
+Seat 2: mdahoma (83932, 0.45€ bounty)
+Seat 3: P1xel7 (61481, 1.11€ bounty)
+Seat 4: cosmicbikett (71866, 0.89€ bounty)
+Seat 5: Brumafr82 (103354, 1€ bounty)
+Seat 6: Mak_Perfect (207218, 1.94€ bounty)
+*** ANTE/BLINDS ***
+cosmicbikett posts ante 500
+Brumafr82 posts ante 500
+lesnovices posts ante 500
+mdahoma posts ante 500
+P1xel7 posts ante 500
+Mak_Perfect posts ante 500
+cosmicbikett posts small blind 2000
+Brumafr82 posts big blind 4000
+Dealt to P1xel7 [7h Kh]
+*** PRE-FLOP *** 
+Mak_Perfect folds
+lesnovices folds
+mdahoma raises 79432 to 83432 and is all-in
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 folds
+mdahoma collected 92432 from pot
+*** SUMMARY ***
+Total pot 92432 | No rake
+Seat 2: mdahoma won 92432
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-187-1708035010 - Holdem no limit (500/2000/4000) - 2024/02/15 22:10:10 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #4 is the button
+Seat 1: lesnovices (173754, 2.21€ bounty)
+Seat 2: mdahoma (92432, 0.45€ bounty)
+Seat 3: P1xel7 (60981, 1.11€ bounty)
+Seat 4: cosmicbikett (69366, 0.89€ bounty)
+Seat 5: Brumafr82 (98854, 1€ bounty)
+Seat 6: Mak_Perfect (206718, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Brumafr82 posts ante 500
+Mak_Perfect posts ante 500
+lesnovices posts ante 500
+mdahoma posts ante 500
+P1xel7 posts ante 500
+cosmicbikett posts ante 500
+Brumafr82 posts small blind 2000
+Mak_Perfect posts big blind 4000
+Dealt to P1xel7 [2s Qs]
+*** PRE-FLOP *** 
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 calls 2000
+Mak_Perfect checks
+*** FLOP *** [8s Kd 7c]
+Brumafr82 checks
+Mak_Perfect checks
+*** TURN *** [8s Kd 7c][6s]
+Brumafr82 bets 4000
+Mak_Perfect calls 4000
+*** RIVER *** [8s Kd 7c 6s][5s]
+Brumafr82 bets 4000
+Mak_Perfect calls 4000
+*** SHOW DOWN ***
+Mak_Perfect shows [3h 6h] (One pair : 6)
+Brumafr82 shows [Jd Kh] (One pair : Kings)
+Brumafr82 collected 27000 from pot
+*** SUMMARY ***
+Total pot 27000 | No rake
+Board: [8s Kd 7c 6s 5s]
+Seat 5: Brumafr82 (small blind) showed [Jd Kh] and won 27000 with One pair : Kings
+Seat 6: Mak_Perfect (big blind) showed [3h 6h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-188-1708035051 - Holdem no limit (500/2000/4000) - 2024/02/15 22:10:51 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: lesnovices (173254, 2.21€ bounty)
+Seat 2: mdahoma (91932, 0.45€ bounty)
+Seat 3: P1xel7 (60481, 1.11€ bounty)
+Seat 4: cosmicbikett (68866, 0.89€ bounty)
+Seat 5: Brumafr82 (113354, 1€ bounty)
+Seat 6: Mak_Perfect (194218, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 500
+lesnovices posts ante 500
+mdahoma posts ante 500
+P1xel7 posts ante 500
+cosmicbikett posts ante 500
+Brumafr82 posts ante 500
+Mak_Perfect posts small blind 2000
+lesnovices posts big blind 4000
+Dealt to P1xel7 [7s 4h]
+*** PRE-FLOP *** 
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 calls 4000
+Mak_Perfect folds
+lesnovices checks
+*** FLOP *** [3s 3d 2s]
+lesnovices checks
+Brumafr82 bets 4000
+lesnovices folds
+Brumafr82 collected 17000 from pot
+*** SUMMARY ***
+Total pot 17000 | No rake
+Board: [3s 3d 2s]
+Seat 5: Brumafr82 (button) won 17000
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-189-1708035086 - Holdem no limit (500/2000/4000) - 2024/02/15 22:11:26 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: lesnovices (168754, 2.21€ bounty)
+Seat 2: mdahoma (91432, 0.45€ bounty)
+Seat 3: P1xel7 (59981, 1.11€ bounty)
+Seat 4: cosmicbikett (68366, 0.89€ bounty)
+Seat 5: Brumafr82 (121854, 1€ bounty)
+Seat 6: Mak_Perfect (191718, 1.94€ bounty)
+*** ANTE/BLINDS ***
+lesnovices posts ante 500
+mdahoma posts ante 500
+P1xel7 posts ante 500
+cosmicbikett posts ante 500
+Brumafr82 posts ante 500
+Mak_Perfect posts ante 500
+lesnovices posts small blind 2000
+mdahoma posts big blind 4000
+Dealt to P1xel7 [8h Kd]
+*** PRE-FLOP *** 
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 calls 4000
+Mak_Perfect folds
+lesnovices folds
+mdahoma checks
+*** FLOP *** [Ad Th 6d]
+mdahoma checks
+Brumafr82 checks
+*** TURN *** [Ad Th 6d][Td]
+mdahoma checks
+Brumafr82 bets 4000
+mdahoma folds
+Brumafr82 collected 17000 from pot
+*** SUMMARY ***
+Total pot 17000 | No rake
+Board: [Ad Th 6d Td]
+Seat 5: Brumafr82 won 17000
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-190-1708035126 - Holdem no limit (500/2000/4000) - 2024/02/15 22:12:06 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #1 is the button
+Seat 1: lesnovices (166254, 2.21€ bounty)
+Seat 2: mdahoma (86932, 0.45€ bounty)
+Seat 3: P1xel7 (59481, 1.11€ bounty)
+Seat 4: cosmicbikett (67866, 0.89€ bounty)
+Seat 5: Brumafr82 (130354, 1€ bounty)
+Seat 6: Mak_Perfect (191218, 1.94€ bounty)
+*** ANTE/BLINDS ***
+mdahoma posts ante 500
+P1xel7 posts ante 500
+lesnovices posts ante 500
+cosmicbikett posts ante 500
+Brumafr82 posts ante 500
+Mak_Perfect posts ante 500
+mdahoma posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [9h Ks]
+*** PRE-FLOP *** 
+cosmicbikett raises 63366 to 67366 and is all-in
+Brumafr82 folds
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett collected 76366 from pot
+*** SUMMARY ***
+Total pot 76366 | No rake
+Seat 4: cosmicbikett won 76366
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-191-1708035150 - Holdem no limit (500/2000/4000) - 2024/02/15 22:12:30 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #2 is the button
+Seat 1: lesnovices (165754, 2.21€ bounty)
+Seat 2: mdahoma (84432, 0.45€ bounty)
+Seat 3: P1xel7 (54981, 1.11€ bounty)
+Seat 4: cosmicbikett (76366, 0.89€ bounty)
+Seat 5: Brumafr82 (129854, 1€ bounty)
+Seat 6: Mak_Perfect (190718, 1.94€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+cosmicbikett posts ante 500
+lesnovices posts ante 500
+mdahoma posts ante 500
+Brumafr82 posts ante 500
+Mak_Perfect posts ante 500
+P1xel7 posts small blind 2000
+cosmicbikett posts big blind 4000
+Dealt to P1xel7 [Qs 2s]
+*** PRE-FLOP *** 
+Brumafr82 folds
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 4: cosmicbikett (big blind) won 9000
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-192-1708035172 - Holdem no limit (500/2000/4000) - 2024/02/15 22:12:52 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #3 is the button
+Seat 1: lesnovices (165254, 2.21€ bounty)
+Seat 2: mdahoma (83932, 0.45€ bounty)
+Seat 3: P1xel7 (52481, 1.11€ bounty)
+Seat 4: cosmicbikett (80866, 0.89€ bounty)
+Seat 5: Brumafr82 (129354, 1€ bounty)
+Seat 6: Mak_Perfect (190218, 1.94€ bounty)
+*** ANTE/BLINDS ***
+cosmicbikett posts ante 500
+Brumafr82 posts ante 500
+lesnovices posts ante 500
+mdahoma posts ante 500
+P1xel7 posts ante 500
+Mak_Perfect posts ante 500
+cosmicbikett posts small blind 2000
+Brumafr82 posts big blind 4000
+Dealt to P1xel7 [4s Ks]
+*** PRE-FLOP *** 
+Mak_Perfect folds
+lesnovices folds
+mdahoma raises 79432 to 83432 and is all-in
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 folds
+mdahoma collected 92432 from pot
+*** SUMMARY ***
+Total pot 92432 | No rake
+Seat 2: mdahoma won 92432
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-193-1708035193 - Holdem no limit (500/2000/4000) - 2024/02/15 22:13:13 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #4 is the button
+Seat 1: lesnovices (164754, 2.21€ bounty)
+Seat 2: mdahoma (92432, 0.45€ bounty)
+Seat 3: P1xel7 (51981, 1.11€ bounty)
+Seat 4: cosmicbikett (78366, 0.89€ bounty)
+Seat 5: Brumafr82 (124854, 1€ bounty)
+Seat 6: Mak_Perfect (189718, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Brumafr82 posts ante 500
+Mak_Perfect posts ante 500
+lesnovices posts ante 500
+mdahoma posts ante 500
+P1xel7 posts ante 500
+cosmicbikett posts ante 500
+Brumafr82 posts small blind 2000
+Mak_Perfect posts big blind 4000
+Dealt to P1xel7 [2c 3c]
+*** PRE-FLOP *** 
+lesnovices folds
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 calls 2000
+Mak_Perfect checks
+*** FLOP *** [3s Td 2s]
+Brumafr82 bets 4000
+Mak_Perfect folds
+Brumafr82 collected 15000 from pot
+*** SUMMARY ***
+Total pot 15000 | No rake
+Board: [3s Td 2s]
+Seat 5: Brumafr82 (small blind) won 15000
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-194-1708035219 - Holdem no limit (500/2000/4000) - 2024/02/15 22:13:39 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: lesnovices (164254, 2.21€ bounty)
+Seat 2: mdahoma (91932, 0.45€ bounty)
+Seat 3: P1xel7 (51481, 1.11€ bounty)
+Seat 4: cosmicbikett (77866, 0.89€ bounty)
+Seat 5: Brumafr82 (131354, 1€ bounty)
+Seat 6: Mak_Perfect (185218, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 500
+lesnovices posts ante 500
+mdahoma posts ante 500
+P1xel7 posts ante 500
+cosmicbikett posts ante 500
+Brumafr82 posts ante 500
+Mak_Perfect posts small blind 2000
+lesnovices posts big blind 4000
+Dealt to P1xel7 [Jh 2h]
+*** PRE-FLOP *** 
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 folds
+Mak_Perfect calls 2000
+lesnovices checks
+*** FLOP *** [2c 6h 9d]
+Mak_Perfect checks
+lesnovices checks
+*** TURN *** [2c 6h 9d][7h]
+Mak_Perfect checks
+lesnovices bets 7150
+Mak_Perfect folds
+lesnovices collected 18150 from pot
+*** SUMMARY ***
+Total pot 18150 | No rake
+Board: [2c 6h 9d 7h]
+Seat 1: lesnovices (big blind) won 18150
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198559168642416656-195-1708035254 - Holdem no limit (500/2000/4000) - 2024/02/15 22:14:14 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: lesnovices (170754, 2.21€ bounty)
+Seat 2: mdahoma (91432, 0.45€ bounty)
+Seat 3: P1xel7 (50981, 1.11€ bounty)
+Seat 4: cosmicbikett (77366, 0.89€ bounty)
+Seat 5: Brumafr82 (130854, 1€ bounty)
+Seat 6: Mak_Perfect (180718, 1.94€ bounty)
+*** ANTE/BLINDS ***
+lesnovices posts ante 500
+mdahoma posts ante 500
+P1xel7 posts ante 500
+cosmicbikett posts ante 500
+Brumafr82 posts ante 500
+Mak_Perfect posts ante 500
+lesnovices posts small blind 2000
+mdahoma posts big blind 4000
+Dealt to P1xel7 [7c 7h]
+*** PRE-FLOP *** 
+P1xel7 raises 4000 to 8000
+cosmicbikett folds
+Brumafr82 folds
+Mak_Perfect folds
+lesnovices folds
+mdahoma calls 4000
+*** FLOP *** [Ah 8d 5s]
+mdahoma checks
+P1xel7 bets 7350
+mdahoma folds
+P1xel7 collected 28350 from pot
+*** SUMMARY ***
+Total pot 28350 | No rake
+Board: [Ah 8d 5s]
+Seat 3: P1xel7 won 28350
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198559168642416656-196-1708035313 - Holdem no limit (600/2500/5000) - 2024/02/15 22:15:13 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #1 is the button
+Seat 1: lesnovices (168254, 2.21€ bounty)
+Seat 2: mdahoma (82932, 0.45€ bounty)
+Seat 3: P1xel7 (63481, 1.11€ bounty)
+Seat 4: cosmicbikett (76866, 0.89€ bounty)
+Seat 5: Brumafr82 (130354, 1€ bounty)
+Seat 6: Mak_Perfect (180218, 1.94€ bounty)
+*** ANTE/BLINDS ***
+mdahoma posts ante 600
+P1xel7 posts ante 600
+lesnovices posts ante 600
+cosmicbikett posts ante 600
+Brumafr82 posts ante 600
+Mak_Perfect posts ante 600
+mdahoma posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [Kh 6d]
+*** PRE-FLOP *** 
+cosmicbikett folds
+Brumafr82 folds
+Mak_Perfect folds
+lesnovices folds
+mdahoma raises 5000 to 10000
+P1xel7 folds
+mdahoma collected 18600 from pot
+*** SUMMARY ***
+Total pot 18600 | No rake
+Seat 2: mdahoma (small blind) won 18600
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198559168642416656-197-1708035323 - Holdem no limit (600/2500/5000) - 2024/02/15 22:15:23 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #2 is the button
+Seat 1: lesnovices (167654, 2.21€ bounty)
+Seat 2: mdahoma (90932, 0.45€ bounty)
+Seat 3: P1xel7 (57881, 1.11€ bounty)
+Seat 4: cosmicbikett (76266, 0.89€ bounty)
+Seat 5: Brumafr82 (129754, 1€ bounty)
+Seat 6: Mak_Perfect (179618, 1.94€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 600
+cosmicbikett posts ante 600
+lesnovices posts ante 600
+mdahoma posts ante 600
+Brumafr82 posts ante 600
+Mak_Perfect posts ante 600
+P1xel7 posts small blind 2500
+cosmicbikett posts big blind 5000
+Dealt to P1xel7 [As Qc]
+*** PRE-FLOP *** 
+Brumafr82 folds
+Mak_Perfect folds
+lesnovices folds
+mdahoma folds
+P1xel7 raises 5000 to 10000
+cosmicbikett folds
+P1xel7 collected 18600 from pot
+*** SUMMARY ***
+Total pot 18600 | No rake
+Seat 3: P1xel7 (small blind) won 18600
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198559168642416656-198-1708035358 - Holdem no limit (600/2500/5000) - 2024/02/15 22:15:58 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #3 is the button
+Seat 1: lesnovices (167054, 2.21€ bounty)
+Seat 2: mdahoma (90332, 0.45€ bounty)
+Seat 3: P1xel7 (65881, 1.11€ bounty)
+Seat 4: cosmicbikett (70666, 0.89€ bounty)
+Seat 5: Brumafr82 (129154, 1€ bounty)
+Seat 6: Mak_Perfect (179018, 1.94€ bounty)
+*** ANTE/BLINDS ***
+cosmicbikett posts ante 600
+Brumafr82 posts ante 600
+lesnovices posts ante 600
+mdahoma posts ante 600
+P1xel7 posts ante 600
+Mak_Perfect posts ante 600
+cosmicbikett posts small blind 2500
+Brumafr82 posts big blind 5000
+Dealt to P1xel7 [Kh 7c]
+*** PRE-FLOP *** 
+Mak_Perfect raises 5000 to 10000
+lesnovices calls 10000
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 calls 5000
+*** FLOP *** [Ah Ts Jc]
+Brumafr82 checks
+Mak_Perfect checks
+lesnovices checks
+*** TURN *** [Ah Ts Jc][3c]
+Brumafr82 checks
+Mak_Perfect checks
+lesnovices bets 23465
+Brumafr82 folds
+Mak_Perfect calls 23465
+*** RIVER *** [Ah Ts Jc 3c][Qs]
+Mak_Perfect checks
+lesnovices checks
+*** SHOW DOWN ***
+lesnovices shows [3s 3h] (Trips of 3)
+Mak_Perfect shows [Kd Js] (Straight Ace high)
+Mak_Perfect collected 83030 from pot
+*** SUMMARY ***
+Total pot 83030 | No rake
+Board: [Ah Ts Jc 3c Qs]
+Seat 1: lesnovices showed [3s 3h] and lost with Trips of 3
+Seat 6: Mak_Perfect showed [Kd Js] and won 83030 with Straight Ace high
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198559168642416656-199-1708035405 - Holdem no limit (600/2500/5000) - 2024/02/15 22:16:45 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #4 is the button
+Seat 1: lesnovices (132989, 2.21€ bounty)
+Seat 2: mdahoma (89732, 0.45€ bounty)
+Seat 3: P1xel7 (65281, 1.11€ bounty)
+Seat 4: cosmicbikett (67566, 0.89€ bounty)
+Seat 5: Brumafr82 (118554, 1€ bounty)
+Seat 6: Mak_Perfect (227983, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Brumafr82 posts ante 600
+Mak_Perfect posts ante 600
+lesnovices posts ante 600
+mdahoma posts ante 600
+P1xel7 posts ante 600
+cosmicbikett posts ante 600
+Brumafr82 posts small blind 2500
+Mak_Perfect posts big blind 5000
+Dealt to P1xel7 [Qh Ac]
+*** PRE-FLOP *** 
+lesnovices folds
+mdahoma folds
+P1xel7 raises 59681 to 64681 and is all-in
+cosmicbikett folds
+Brumafr82 folds
+Mak_Perfect folds
+P1xel7 collected 75781 from pot
+*** SUMMARY ***
+Total pot 75781 | No rake
+Seat 3: P1xel7 won 75781
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198559168642416656-200-1708035430 - Holdem no limit (600/2500/5000) - 2024/02/15 22:17:10 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #5 is the button
+Seat 1: lesnovices (132389, 2.21€ bounty)
+Seat 2: mdahoma (89132, 0.45€ bounty)
+Seat 3: P1xel7 (75781, 1.11€ bounty)
+Seat 4: cosmicbikett (66966, 0.89€ bounty)
+Seat 5: Brumafr82 (115454, 1€ bounty)
+Seat 6: Mak_Perfect (222383, 1.94€ bounty)
+*** ANTE/BLINDS ***
+Mak_Perfect posts ante 600
+lesnovices posts ante 600
+mdahoma posts ante 600
+P1xel7 posts ante 600
+cosmicbikett posts ante 600
+Brumafr82 posts ante 600
+Mak_Perfect posts small blind 2500
+lesnovices posts big blind 5000
+Dealt to P1xel7 [3h 9c]
+*** PRE-FLOP *** 
+mdahoma folds
+P1xel7 folds
+cosmicbikett folds
+Brumafr82 folds
+Mak_Perfect raises 9500 to 14500
+lesnovices calls 9500
+*** FLOP *** [Ac 9d Ts]
+Mak_Perfect bets 11410
+lesnovices calls 11410
+*** TURN *** [Ac 9d Ts][9h]
+Mak_Perfect bets 27710
+lesnovices calls 27710
+*** RIVER *** [Ac 9d Ts 9h][8s]
+Mak_Perfect bets 38794
+lesnovices raises 39375 to 78169 and is all-in
+Mak_Perfect calls 39375
+*** SHOW DOWN ***
+Mak_Perfect shows [Qh Ad] (Two pairs : Aces and 9)
+lesnovices shows [Tc Td] (Full of Tens and 9)
+lesnovices collected 267178 from pot
+*** SUMMARY ***
+Total pot 267178 | No rake
+Board: [Ac 9d Ts 9h 8s]
+Seat 1: lesnovices (big blind) showed [Tc Td] and won 267178 with Full of Tens and 9
+Seat 6: Mak_Perfect (small blind) showed [Qh Ad] and lost with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "WESTERN" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198559168642416656-201-1708035497 - Holdem no limit (600/2500/5000) - 2024/02/15 22:18:17 UTC
+Table: 'WESTERN(744722590)#015' 6-max (real money) Seat #6 is the button
+Seat 1: lesnovices (267178, 2.21€ bounty)
+Seat 2: mdahoma (88532, 0.45€ bounty)
+Seat 3: P1xel7 (75181, 1.11€ bounty)
+Seat 4: cosmicbikett (66366, 0.89€ bounty)
+Seat 5: Brumafr82 (114854, 1€ bounty)
+Seat 6: Mak_Perfect (89994, 1.94€ bounty)
+*** ANTE/BLINDS ***
+lesnovices posts ante 600
+mdahoma posts ante 600
+P1xel7 posts ante 600
+cosmicbikett posts ante 600
+Brumafr82 posts ante 600
+Mak_Perfect posts ante 600
+lesnovices posts small blind 2500
+mdahoma posts big blind 5000
+Dealt to P1xel7 [Ad Kh]
+*** PRE-FLOP *** 
+P1xel7 raises 5000 to 10000
+cosmicbikett folds
+Brumafr82 folds
+Mak_Perfect raises 79394 to 89394 and is all-in
+lesnovices folds
+mdahoma folds
+P1xel7 calls 64581 and is all-in
+*** FLOP *** [9s Qc 3d]
+*** TURN *** [9s Qc 3d][8h]
+*** RIVER *** [9s Qc 3d 8h][Th]
+*** SHOW DOWN ***
+P1xel7 shows [Ad Kh] (High card : Ace)
+Mak_Perfect shows [Qh Ac] (One pair : Queens)
+Mak_Perfect collected 175075 from pot
+*** SUMMARY ***
+Total pot 175075 | No rake
+Board: [9s Qc 3d 8h Th]
+Seat 3: P1xel7 showed [Ad Kh] and lost with High card : Ace
+Seat 6: Mak_Perfect (button) showed [Qh Ac] and won 175075 with One pair : Queens
+
+

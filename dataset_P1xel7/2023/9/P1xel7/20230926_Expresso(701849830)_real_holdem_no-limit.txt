@@ -1,0 +1,180 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3014422066553159681-1-1695734502 - Holdem no limit (10/20) - 2023/09/26 13:21:42 UTC
+Table: 'Expresso(701849830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (500)
+Seat 2: Check_Noraiz (500)
+Seat 3: Bob7403 (500)
+*** ANTE/BLINDS ***
+Check_Noraiz posts small blind 10
+Bob7403 posts big blind 20
+Dealt to P1xel7 [Js Th]
+*** PRE-FLOP *** 
+P1xel7 raises 30 to 50
+Check_Noraiz calls 40
+Bob7403 calls 30
+*** FLOP *** [4c 3c Jc]
+Check_Noraiz checks
+Bob7403 checks
+P1xel7 bets 75
+Check_Noraiz folds
+Bob7403 folds
+P1xel7 collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [4c 3c Jc]
+Seat 1: P1xel7 (button) won 225
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3014422066553159681-2-1695734529 - Holdem no limit (10/20) - 2023/09/26 13:22:09 UTC
+Table: 'Expresso(701849830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (600)
+Seat 2: Check_Noraiz (450)
+Seat 3: Bob7403 (450)
+*** ANTE/BLINDS ***
+Bob7403 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Jh Ad]
+*** PRE-FLOP *** 
+Check_Noraiz raises 20 to 40
+Bob7403 raises 20 to 60
+P1xel7 raises 90 to 150
+Check_Noraiz folds
+Bob7403 raises 300 to 450 and is all-in
+P1xel7 calls 300
+*** FLOP *** [6d 4d 7s]
+*** TURN *** [6d 4d 7s][9h]
+*** RIVER *** [6d 4d 7s 9h][Qd]
+*** SHOW DOWN ***
+P1xel7 shows [Jh Ad] (High card : Ace)
+Bob7403 shows [6c 6s] (Trips of 6)
+Bob7403 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | No rake
+Board: [6d 4d 7s 9h Qd]
+Seat 1: P1xel7 (big blind) showed [Jh Ad] and lost with High card : Ace
+Seat 3: Bob7403 (small blind) showed [6c 6s] and won 940 with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3014422066553159681-3-1695734552 - Holdem no limit (10/20) - 2023/09/26 13:22:32 UTC
+Table: 'Expresso(701849830)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (150)
+Seat 2: Check_Noraiz (410)
+Seat 3: Bob7403 (940)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Check_Noraiz posts big blind 20
+Dealt to P1xel7 [5s Ts]
+*** PRE-FLOP *** 
+Bob7403 calls 20
+P1xel7 folds
+Check_Noraiz raises 390 to 410 and is all-in
+Bob7403 folds
+Check_Noraiz collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 2: Check_Noraiz (big blind) won 440
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3014422066553159681-4-1695734561 - Holdem no limit (10/20) - 2023/09/26 13:22:41 UTC
+Table: 'Expresso(701849830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (140)
+Seat 2: Check_Noraiz (440)
+Seat 3: Bob7403 (920)
+*** ANTE/BLINDS ***
+Check_Noraiz posts small blind 10
+Bob7403 posts big blind 20
+Dealt to P1xel7 [8c Qh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Check_Noraiz raises 20 to 40
+Bob7403 raises 80 to 120
+Check_Noraiz calls 80
+*** FLOP *** [8s Kh 8h]
+Check_Noraiz checks
+Bob7403 bets 20
+Check_Noraiz raises 55 to 75
+Bob7403 raises 55 to 130
+Check_Noraiz calls 55
+*** TURN *** [8s Kh 8h][Tc]
+Check_Noraiz checks
+Bob7403 bets 20
+Check_Noraiz calls 20
+*** RIVER *** [8s Kh 8h Tc][Qc]
+Check_Noraiz checks
+Bob7403 bets 20
+Check_Noraiz calls 20
+*** SHOW DOWN ***
+Check_Noraiz shows [Ac 7h] (One pair : 8)
+Bob7403 shows [9h As] (One pair : 8)
+Bob7403 collected 290 from pot
+Check_Noraiz collected 290 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [8s Kh 8h Tc Qc]
+Seat 2: Check_Noraiz (small blind) showed [Ac 7h] and won 290 with One pair : 8
+Seat 3: Bob7403 (big blind) showed [9h As] and won 290 with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3014422066553159681-5-1695734599 - Holdem no limit (15/30) - 2023/09/26 13:23:19 UTC
+Table: 'Expresso(701849830)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (140)
+Seat 2: Check_Noraiz (440)
+Seat 3: Bob7403 (920)
+*** ANTE/BLINDS ***
+Bob7403 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Ac 8s]
+*** PRE-FLOP *** 
+Check_Noraiz folds
+Bob7403 folds
+P1xel7 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: P1xel7 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3014422066553159681-6-1695734604 - Holdem no limit (15/30) - 2023/09/26 13:23:24 UTC
+Table: 'Expresso(701849830)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (155)
+Seat 2: Check_Noraiz (440)
+Seat 3: Bob7403 (905)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Check_Noraiz posts big blind 30
+Dealt to P1xel7 [6c Qd]
+*** PRE-FLOP *** 
+Bob7403 raises 30 to 60
+P1xel7 folds
+Check_Noraiz folds
+Bob7403 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 3: Bob7403 (button) won 105
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3014422066553159681-7-1695734611 - Holdem no limit (15/30) - 2023/09/26 13:23:31 UTC
+Table: 'Expresso(701849830)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (140)
+Seat 2: Check_Noraiz (410)
+Seat 3: Bob7403 (950)
+*** ANTE/BLINDS ***
+Check_Noraiz posts small blind 15
+Bob7403 posts big blind 30
+Dealt to P1xel7 [Qc Td]
+*** PRE-FLOP *** 
+P1xel7 raises 110 to 140 and is all-in
+Check_Noraiz raises 270 to 410 and is all-in
+Bob7403 folds
+*** FLOP *** [5h 7h 2s]
+*** TURN *** [5h 7h 2s][Jc]
+*** RIVER *** [5h 7h 2s Jc][3c]
+*** SHOW DOWN ***
+P1xel7 shows [Qc Td] (High card : Queen)
+Check_Noraiz shows [6d Ah] (High card : Ace)
+Check_Noraiz collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [5h 7h 2s Jc 3c]
+Seat 1: P1xel7 (button) showed [Qc Td] and lost with High card : Queen
+Seat 2: Check_Noraiz (small blind) showed [6d Ah] and won 580 with High card : Ace
+
+

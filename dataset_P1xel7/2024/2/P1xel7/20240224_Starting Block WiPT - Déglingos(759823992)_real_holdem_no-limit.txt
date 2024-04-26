@@ -1,0 +1,149 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3263419196356165633-1-1708798960 - Holdem no limit (10/20) - 2024/02/24 18:22:40 UTC
+Table: 'Starting Block WiPT - Déglingos(759823992)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Sergio15 (500)
+Seat 2: _FishOuMe_ (500)
+Seat 3: Enzo19bis (500)
+Seat 4: Azazel87 (500)
+Seat 5: P1xel7 (500)
+Seat 6: kinoeil02 (500)
+*** ANTE/BLINDS ***
+kinoeil02 posts small blind 10
+Sergio15 posts big blind 20
+Dealt to P1xel7 [4c 2s]
+*** PRE-FLOP *** 
+_FishOuMe_ raises 480 to 500 and is all-in
+Enzo19bis folds
+Azazel87 calls 500 and is all-in
+P1xel7 folds
+kinoeil02 folds
+Sergio15 calls 480 and is all-in
+*** FLOP *** [3c Jd 9c]
+*** TURN *** [3c Jd 9c][Ad]
+*** RIVER *** [3c Jd 9c Ad][6c]
+*** SHOW DOWN ***
+_FishOuMe_ shows [Jc 2d] (One pair : Jacks)
+Azazel87 shows [4s Kd] (High card : Ace)
+Sergio15 shows [3h Ac] (Two pairs : Aces and 3)
+Sergio15 collected 1510 from pot
+*** SUMMARY ***
+Total pot 1510 | No rake
+Board: [3c Jd 9c Ad 6c]
+Seat 1: Sergio15 (big blind) showed [3h Ac] and won 1510 with Two pairs : Aces and 3
+Seat 2: _FishOuMe_ showed [Jc 2d] and lost with One pair : Jacks
+Seat 4: Azazel87 showed [4s Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3263419196356165633-2-1708798988 - Holdem no limit (10/20) - 2024/02/24 18:23:08 UTC
+Table: 'Starting Block WiPT - Déglingos(759823992)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Sergio15 (1510)
+Seat 3: Enzo19bis (500)
+Seat 5: P1xel7 (500)
+Seat 6: kinoeil02 (490)
+*** ANTE/BLINDS ***
+Sergio15 posts small blind 10
+Enzo19bis posts big blind 20
+Dealt to P1xel7 [Qs 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+kinoeil02 calls 20
+Sergio15 calls 10
+Enzo19bis checks
+*** FLOP *** [Ts Kh 8h]
+Sergio15 checks
+Enzo19bis checks
+kinoeil02 checks
+*** TURN *** [Ts Kh 8h][7h]
+Sergio15 checks
+Enzo19bis checks
+kinoeil02 checks
+*** RIVER *** [Ts Kh 8h 7h][Tc]
+Sergio15 checks
+Enzo19bis checks
+kinoeil02 checks
+*** SHOW DOWN ***
+Sergio15 shows [Js 4c] (One pair : Tens)
+Enzo19bis shows [2d 6s] (One pair : Tens)
+kinoeil02 shows [7d Jc] (Two pairs : Tens and 7)
+kinoeil02 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ts Kh 8h 7h Tc]
+Seat 1: Sergio15 (small blind) showed [Js 4c] and lost with One pair : Tens
+Seat 3: Enzo19bis (big blind) showed [2d 6s] and lost with One pair : Tens
+Seat 6: kinoeil02 (button) showed [7d Jc] and won 60 with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263419196356165633-3-1708799052 - Holdem no limit (15/30) - 2024/02/24 18:24:12 UTC
+Table: 'Starting Block WiPT - Déglingos(759823992)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Sergio15 (1490)
+Seat 3: Enzo19bis (480)
+Seat 5: P1xel7 (500)
+Seat 6: kinoeil02 (530)
+*** ANTE/BLINDS ***
+Enzo19bis posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [7c Ts]
+*** PRE-FLOP *** 
+kinoeil02 folds
+Sergio15 folds
+Enzo19bis raises 450 to 480 and is all-in
+P1xel7 folds
+Enzo19bis collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 3: Enzo19bis (small blind) won 510
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263419196356165633-4-1708799068 - Holdem no limit (15/30) - 2024/02/24 18:24:28 UTC
+Table: 'Starting Block WiPT - Déglingos(759823992)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Sergio15 (1490)
+Seat 3: Enzo19bis (510)
+Seat 5: P1xel7 (470)
+Seat 6: kinoeil02 (530)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+kinoeil02 posts big blind 30
+Dealt to P1xel7 [Qh 5d]
+*** PRE-FLOP *** 
+Sergio15 folds
+Enzo19bis raises 480 to 510 and is all-in
+P1xel7 folds
+kinoeil02 folds
+Enzo19bis collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 3: Enzo19bis (button) won 555
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263419196356165633-5-1708799094 - Holdem no limit (15/30) - 2024/02/24 18:24:54 UTC
+Table: 'Starting Block WiPT - Déglingos(759823992)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Sergio15 (1490)
+Seat 3: Enzo19bis (555)
+Seat 5: P1xel7 (455)
+Seat 6: kinoeil02 (500)
+*** ANTE/BLINDS ***
+kinoeil02 posts small blind 15
+Sergio15 posts big blind 30
+Dealt to P1xel7 [Ad 6s]
+*** PRE-FLOP *** 
+Enzo19bis raises 525 to 555 and is all-in
+P1xel7 calls 455 and is all-in
+kinoeil02 calls 485 and is all-in
+Sergio15 folds
+*** FLOP *** [As 8s Ts]
+*** TURN *** [As 8s Ts][Qc]
+*** RIVER *** [As 8s Ts Qc][4h]
+*** SHOW DOWN ***
+P1xel7 shows [Ad 6s] (One pair : Aces)
+Enzo19bis shows [4s Qh] (Two pairs : Queens and 4)
+kinoeil02 shows [Td Ac] (Two pairs : Aces and Tens)
+kinoeil02 collected 1485 from main pot
+Enzo19bis collected 55 from side pot 1
+*** SUMMARY ***
+Total pot 1540 | No rake
+Board: [As 8s Ts Qc 4h]
+Seat 3: Enzo19bis showed [4s Qh] and won 55 with Two pairs : Queens and 4
+Seat 5: P1xel7 (button) showed [Ad 6s] and lost with One pair : Aces
+Seat 6: kinoeil02 (small blind) showed [Td Ac] and won 1485 with Two pairs : Aces and Tens
+
+

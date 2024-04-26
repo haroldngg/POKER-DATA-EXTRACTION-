@@ -1,0 +1,302 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3096266039927767041-1-1700067035 - Holdem no limit (10/20) - 2023/11/15 16:50:35 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (300)
+Seat 2: Jack2188 (300)
+Seat 3: Mr  Golden (300)
+*** ANTE/BLINDS ***
+Jack2188 posts small blind 10
+Mr  Golden posts big blind 20
+Dealt to P1xel7 [Qc 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Jack2188 raises 20 to 40
+Mr  Golden folds
+Jack2188 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Jack2188 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3096266039927767041-2-1700067047 - Holdem no limit (10/20) - 2023/11/15 16:50:47 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (300)
+Seat 2: Jack2188 (320)
+Seat 3: Mr  Golden (280)
+*** ANTE/BLINDS ***
+Mr  Golden posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [2d 7c]
+*** PRE-FLOP *** 
+Jack2188 calls 20
+Mr  Golden folds
+P1xel7 checks
+*** FLOP *** [3d Kc Qc]
+P1xel7 checks
+Jack2188 checks
+*** TURN *** [3d Kc Qc][8d]
+P1xel7 checks
+Jack2188 bets 20
+P1xel7 folds
+Jack2188 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [3d Kc Qc 8d]
+Seat 2: Jack2188 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3096266039927767041-3-1700067068 - Holdem no limit (10/20) - 2023/11/15 16:51:08 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (280)
+Seat 2: Jack2188 (350)
+Seat 3: Mr  Golden (270)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Jack2188 posts big blind 20
+Dealt to P1xel7 [Tc 6s]
+*** PRE-FLOP *** 
+Mr  Golden folds
+P1xel7 folds
+Jack2188 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Jack2188 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3096266039927767041-4-1700067072 - Holdem no limit (10/20) - 2023/11/15 16:51:12 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (270)
+Seat 2: Jack2188 (360)
+Seat 3: Mr  Golden (270)
+*** ANTE/BLINDS ***
+Jack2188 posts small blind 10
+Mr  Golden posts big blind 20
+Dealt to P1xel7 [2s Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+Jack2188 calls 10
+Mr  Golden checks
+*** FLOP *** [7d 8s 3c]
+Jack2188 checks
+Mr  Golden checks
+*** TURN *** [7d 8s 3c][4h]
+Jack2188 bets 20
+Mr  Golden calls 20
+*** RIVER *** [7d 8s 3c 4h][6s]
+Jack2188 bets 80
+Mr  Golden raises 150 to 230 and is all-in
+Jack2188 calls 150
+*** SHOW DOWN ***
+Jack2188 shows [2h 5d] (Straight 8 high)
+Mr  Golden shows [3h 5s] (Straight 8 high)
+Mr  Golden collected 270 from pot
+Jack2188 collected 270 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [7d 8s 3c 4h 6s]
+Seat 2: Jack2188 (small blind) showed [2h 5d] and won 270 with Straight 8 high
+Seat 3: Mr  Golden (big blind) showed [3h 5s] and won 270 with Straight 8 high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3096266039927767041-5-1700067110 - Holdem no limit (15/30) - 2023/11/15 16:51:50 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (270)
+Seat 2: Jack2188 (360)
+Seat 3: Mr  Golden (270)
+*** ANTE/BLINDS ***
+Mr  Golden posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [2d Qs]
+*** PRE-FLOP *** 
+Jack2188 calls 30
+Mr  Golden raises 240 to 270 and is all-in
+P1xel7 folds
+Jack2188 folds
+Mr  Golden collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 3: Mr  Golden (small blind) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3096266039927767041-6-1700067131 - Holdem no limit (15/30) - 2023/11/15 16:52:11 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (240)
+Seat 2: Jack2188 (330)
+Seat 3: Mr  Golden (330)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Jack2188 posts big blind 30
+Dealt to P1xel7 [4c Td]
+*** PRE-FLOP *** 
+Mr  Golden folds
+P1xel7 folds
+Jack2188 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Jack2188 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3096266039927767041-7-1700067139 - Holdem no limit (15/30) - 2023/11/15 16:52:19 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (225)
+Seat 2: Jack2188 (345)
+Seat 3: Mr  Golden (330)
+*** ANTE/BLINDS ***
+Jack2188 posts small blind 15
+Mr  Golden posts big blind 30
+Dealt to P1xel7 [8c 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Jack2188 raises 30 to 60
+Mr  Golden calls 30
+*** FLOP *** [Js Tc 5h]
+Jack2188 bets 30
+Mr  Golden calls 30
+*** TURN *** [Js Tc 5h][Kh]
+Jack2188 checks
+Mr  Golden checks
+*** RIVER *** [Js Tc 5h Kh][Td]
+Jack2188 bets 30
+Mr  Golden folds
+Jack2188 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Js Tc 5h Kh Td]
+Seat 2: Jack2188 (small blind) won 210
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #3096266039927767041-8-1700067167 - Holdem no limit (20/40) - 2023/11/15 16:52:47 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (225)
+Seat 2: Jack2188 (435)
+Seat 3: Mr  Golden (240)
+*** ANTE/BLINDS ***
+Mr  Golden posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [2h Ah]
+*** PRE-FLOP *** 
+Jack2188 calls 40
+Mr  Golden folds
+P1xel7 raises 185 to 225 and is all-in
+Jack2188 calls 185
+*** FLOP *** [4c 6h 6s]
+*** TURN *** [4c 6h 6s][Qs]
+*** RIVER *** [4c 6h 6s Qs][6d]
+*** SHOW DOWN ***
+Jack2188 shows [2d Kd] (Trips of 6)
+P1xel7 shows [2h Ah] (Trips of 6)
+P1xel7 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Board: [4c 6h 6s Qs 6d]
+Seat 1: P1xel7 (big blind) showed [2h Ah] and won 470 with Trips of 6
+Seat 2: Jack2188 (button) showed [2d Kd] and lost with Trips of 6
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #3096266039927767041-9-1700067186 - Holdem no limit (20/40) - 2023/11/15 16:53:06 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (470)
+Seat 2: Jack2188 (210)
+Seat 3: Mr  Golden (220)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Jack2188 posts big blind 40
+Dealt to P1xel7 [Ac Jh]
+*** PRE-FLOP *** 
+Mr  Golden raises 180 to 220 and is all-in
+P1xel7 raises 250 to 470 and is all-in
+Jack2188 folds
+*** FLOP *** [8s Ks Ts]
+*** TURN *** [8s Ks Ts][7s]
+*** RIVER *** [8s Ks Ts 7s][8d]
+*** SHOW DOWN ***
+P1xel7 shows [Ac Jh] (One pair : 8)
+Mr  Golden shows [5d Kd] (Two pairs : Kings and 8)
+Mr  Golden collected 480 from main pot
+P1xel7 collected 250 from side pot 1
+*** SUMMARY ***
+Total pot 730 | No rake
+Board: [8s Ks Ts 7s 8d]
+Seat 1: P1xel7 (small blind) showed [Ac Jh] and won 250 with One pair : 8
+Seat 3: Mr  Golden (button) showed [5d Kd] and won 480 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #3096266039927767041-10-1700067200 - Holdem no limit (20/40) - 2023/11/15 16:53:20 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (250)
+Seat 2: Jack2188 (170)
+Seat 3: Mr  Golden (480)
+*** ANTE/BLINDS ***
+Jack2188 posts small blind 20
+Mr  Golden posts big blind 40
+Dealt to P1xel7 [Jc 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Jack2188 raises 130 to 170 and is all-in
+Mr  Golden calls 130
+*** FLOP *** [Jd 8s 4h]
+*** TURN *** [Jd 8s 4h][6d]
+*** RIVER *** [Jd 8s 4h 6d][4s]
+*** SHOW DOWN ***
+Mr  Golden shows [Kd 6h] (Two pairs : 6 and 4)
+Jack2188 shows [Js Ts] (Two pairs : Jacks and 4)
+Jack2188 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Board: [Jd 8s 4h 6d 4s]
+Seat 2: Jack2188 (small blind) showed [Js Ts] and won 340 with Two pairs : Jacks and 4
+Seat 3: Mr  Golden (big blind) showed [Kd 6h] and lost with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #3096266039927767041-11-1700067215 - Holdem no limit (30/60) - 2023/11/15 16:53:35 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (250)
+Seat 2: Jack2188 (340)
+Seat 3: Mr  Golden (310)
+*** ANTE/BLINDS ***
+Mr  Golden posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [8d 5s]
+*** PRE-FLOP *** 
+Jack2188 calls 60
+Mr  Golden raises 250 to 310 and is all-in
+P1xel7 folds
+Jack2188 calls 250
+*** FLOP *** [7s Kd 4h]
+*** TURN *** [7s Kd 4h][Ks]
+*** RIVER *** [7s Kd 4h Ks][Ah]
+*** SHOW DOWN ***
+Mr  Golden shows [Qh Jc] (One pair : Kings)
+Jack2188 shows [8c 7h] (Two pairs : Kings and 7)
+Jack2188 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [7s Kd 4h Ks Ah]
+Seat 2: Jack2188 (button) showed [8c 7h] and won 680 with Two pairs : Kings and 7
+Seat 3: Mr  Golden (small blind) showed [Qh Jc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #3096266039927767041-12-1700067230 - Holdem no limit (30/60) - 2023/11/15 16:53:50 UTC
+Table: 'Expresso Nitro(720905615)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (190)
+Seat 2: Jack2188 (710)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Jack2188 posts big blind 60
+Dealt to P1xel7 [5d Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 130 to 190 and is all-in
+Jack2188 calls 130
+*** FLOP *** [6h Kd 5c]
+*** TURN *** [6h Kd 5c][4d]
+*** RIVER *** [6h Kd 5c 4d][3d]
+*** SHOW DOWN ***
+P1xel7 shows [5d Ac] (One pair : 5)
+Jack2188 shows [Jh Kh] (One pair : Kings)
+Jack2188 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | No rake
+Board: [6h Kd 5c 4d 3d]
+Seat 1: P1xel7 (small blind) (button) showed [5d Ac] and lost with One pair : 5
+Seat 2: Jack2188 (big blind) showed [Jh Kh] and won 380 with One pair : Kings
+
+

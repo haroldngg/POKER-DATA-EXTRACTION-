@@ -1,0 +1,4255 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-1-1710788672 - Holdem no limit (25/100/200) - 2024/03/18 19:04:32 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #1 is the button
+Seat 1: Jandrix (24635)
+Seat 2: KoRoNaBiRuS (19325)
+Seat 5: P1xel7 (20000)
+*** ANTE/BLINDS ***
+KoRoNaBiRuS posts ante 25
+P1xel7 posts ante 25
+Jandrix posts ante 25
+KoRoNaBiRuS posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [5c 8s]
+*** PRE-FLOP *** 
+Jandrix calls 200
+KoRoNaBiRuS calls 100
+P1xel7 checks
+*** FLOP *** [3s 8d 5d]
+KoRoNaBiRuS checks
+P1xel7 bets 439
+Jandrix folds
+KoRoNaBiRuS calls 439
+*** TURN *** [3s 8d 5d][As]
+KoRoNaBiRuS checks
+P1xel7 bets 1009
+KoRoNaBiRuS folds
+P1xel7 collected 2562 from pot
+*** SUMMARY ***
+Total pot 2562 | No rake
+Board: [3s 8d 5d As]
+Seat 5: P1xel7 (big blind) won 2562
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-2-1710788742 - Holdem no limit (25/100/200) - 2024/03/18 19:05:42 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #2 is the button
+Seat 1: Jandrix (24410)
+Seat 2: KoRoNaBiRuS (18661)
+Seat 4: PokerFire91 (20000)
+Seat 5: P1xel7 (20889)
+Seat 6: kennedy33 (20000)
+Seat 7: M1ll3R (19775)
+Seat 8: Dark Rider (20457)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+kennedy33 posts ante 25
+Jandrix posts ante 25
+KoRoNaBiRuS posts ante 25
+M1ll3R posts ante 25
+Dark Rider posts ante 25
+P1xel7 posts small blind 100
+kennedy33 posts big blind 200
+Dealt to P1xel7 [Kd 6c]
+*** PRE-FLOP *** 
+M1ll3R folds
+Dark Rider folds
+Jandrix calls 200
+KoRoNaBiRuS raises 250 to 450
+P1xel7 folds
+kennedy33 calls 250
+Jandrix calls 250
+*** FLOP *** [6s Js 6h]
+kennedy33 checks
+Jandrix bets 560
+KoRoNaBiRuS calls 560
+kennedy33 folds
+*** TURN *** [6s Js 6h][2d]
+Jandrix bets 952
+KoRoNaBiRuS folds
+Jandrix collected 3672 from pot
+*** SUMMARY ***
+Total pot 3672 | No rake
+Board: [6s Js 6h 2d]
+Seat 1: Jandrix won 3672
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-3-1710788797 - Holdem no limit (25/100/200) - 2024/03/18 19:06:37 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #5 is the button
+Seat 1: Jandrix (26095)
+Seat 2: KoRoNaBiRuS (17626)
+Seat 4: PokerFire91 (20000)
+Seat 5: P1xel7 (20764)
+Seat 6: kennedy33 (19525)
+Seat 7: M1ll3R (19750)
+Seat 8: Dark Rider (20432)
+*** ANTE/BLINDS ***
+kennedy33 posts ante 25
+M1ll3R posts ante 25
+Jandrix posts ante 25
+KoRoNaBiRuS posts ante 25
+PokerFire91 posts ante 25
+P1xel7 posts ante 25
+Dark Rider posts ante 25
+kennedy33 posts small blind 100
+M1ll3R posts big blind 200
+Dealt to P1xel7 [9s 2s]
+*** PRE-FLOP *** 
+Dark Rider calls 200
+Jandrix calls 200
+KoRoNaBiRuS folds
+PokerFire91 raises 1075 to 1275
+P1xel7 folds
+kennedy33 calls 1175
+M1ll3R folds
+Dark Rider folds
+Jandrix calls 1075
+*** FLOP *** [Jc 3c Ts]
+kennedy33 checks
+Jandrix bets 1540
+PokerFire91 calls 1540
+kennedy33 calls 1540
+*** TURN *** [Jc 3c Ts][Qc]
+kennedy33 bets 200
+Jandrix calls 200
+PokerFire91 calls 200
+*** RIVER *** [Jc 3c Ts Qc][6d]
+kennedy33 bets 3367
+Jandrix folds
+PokerFire91 folds
+kennedy33 collected 12987 from pot
+*** SUMMARY ***
+Total pot 12987 | No rake
+Board: [Jc 3c Ts Qc 6d]
+Seat 6: kennedy33 (small blind) won 12987
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-4-1710788918 - Holdem no limit (25/100/200) - 2024/03/18 19:08:38 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #6 is the button
+Seat 1: Jandrix (23055)
+Seat 2: KoRoNaBiRuS (17601)
+Seat 4: PokerFire91 (16960)
+Seat 5: P1xel7 (20739)
+Seat 6: kennedy33 (26105)
+Seat 7: M1ll3R (19525)
+Seat 8: Dark Rider (20207)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 25
+Dark Rider posts ante 25
+Jandrix posts ante 25
+KoRoNaBiRuS posts ante 25
+PokerFire91 posts ante 25
+P1xel7 posts ante 25
+kennedy33 posts ante 25
+M1ll3R posts small blind 100
+Dark Rider posts big blind 200
+Dealt to P1xel7 [Jc As]
+*** PRE-FLOP *** 
+Jandrix folds
+KoRoNaBiRuS raises 250 to 450
+PokerFire91 folds
+P1xel7 raises 950 to 1400
+kennedy33 folds
+M1ll3R folds
+Dark Rider folds
+KoRoNaBiRuS calls 950
+*** FLOP *** [Jd Js 9c]
+KoRoNaBiRuS checks
+P1xel7 bets 1146
+KoRoNaBiRuS calls 1146
+*** TURN *** [Jd Js 9c][7c]
+KoRoNaBiRuS bets 1948
+P1xel7 calls 1948
+*** RIVER *** [Jd Js 9c 7c][Ks]
+KoRoNaBiRuS checks
+P1xel7 bets 4732
+KoRoNaBiRuS calls 4732
+*** SHOW DOWN ***
+KoRoNaBiRuS shows [Kh Qd] (Two pairs : Kings and Jacks)
+P1xel7 shows [Jc As] (Trips of Jacks)
+P1xel7 collected 18927 from pot
+*** SUMMARY ***
+Total pot 18927 | No rake
+Board: [Jd Js 9c 7c Ks]
+Seat 2: KoRoNaBiRuS showed [Kh Qd] and lost with Two pairs : Kings and Jacks
+Seat 5: P1xel7 showed [Jc As] and won 18927 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-5-1710789019 - Holdem no limit (25/100/200) - 2024/03/18 19:10:19 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #7 is the button
+Seat 1: Jandrix (23030)
+Seat 2: KoRoNaBiRuS (8350)
+Seat 4: PokerFire91 (16935)
+Seat 5: P1xel7 (30415)
+Seat 6: kennedy33 (26080)
+Seat 7: M1ll3R (19400)
+Seat 8: Dark Rider (19982)
+*** ANTE/BLINDS ***
+Dark Rider posts ante 25
+Jandrix posts ante 25
+KoRoNaBiRuS posts ante 25
+PokerFire91 posts ante 25
+P1xel7 posts ante 25
+kennedy33 posts ante 25
+M1ll3R posts ante 25
+Dark Rider posts small blind 100
+Jandrix posts big blind 200
+Dealt to P1xel7 [Qc Jd]
+*** PRE-FLOP *** 
+KoRoNaBiRuS raises 250 to 450
+PokerFire91 calls 450
+P1xel7 folds
+kennedy33 calls 450
+M1ll3R calls 450
+Dark Rider folds
+Jandrix folds
+*** FLOP *** [Th Kh Ah]
+KoRoNaBiRuS checks
+PokerFire91 bets 796
+kennedy33 calls 796
+M1ll3R folds
+KoRoNaBiRuS folds
+*** TURN *** [Th Kh Ah][5c]
+PokerFire91 bets 1353
+kennedy33 calls 1353
+*** RIVER *** [Th Kh Ah 5c][Ts]
+PokerFire91 bets 3287
+kennedy33 calls 3287
+*** SHOW DOWN ***
+kennedy33 shows [8c Kc] (Two pairs : Kings and Tens)
+PokerFire91 shows [Td 8d] (Trips of Tens)
+PokerFire91 collected 13147 from pot
+*** SUMMARY ***
+Total pot 13147 | No rake
+Board: [Th Kh Ah 5c Ts]
+Seat 4: PokerFire91 showed [Td 8d] and won 13147 with Trips of Tens
+Seat 6: kennedy33 showed [8c Kc] and lost with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-6-1710789106 - Holdem no limit (25/100/200) - 2024/03/18 19:11:46 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #8 is the button
+Seat 1: Jandrix (22805)
+Seat 2: KoRoNaBiRuS (7875)
+Seat 4: PokerFire91 (24171)
+Seat 5: P1xel7 (30390)
+Seat 6: kennedy33 (20169)
+Seat 7: M1ll3R (18925)
+Seat 8: Dark Rider (19857)
+*** ANTE/BLINDS ***
+Jandrix posts ante 25
+KoRoNaBiRuS posts ante 25
+PokerFire91 posts ante 25
+P1xel7 posts ante 25
+kennedy33 posts ante 25
+M1ll3R posts ante 25
+Dark Rider posts ante 25
+Jandrix posts small blind 100
+KoRoNaBiRuS posts big blind 200
+Dealt to P1xel7 [Kd Ah]
+*** PRE-FLOP *** 
+PokerFire91 folds
+P1xel7 raises 300 to 500
+kennedy33 calls 500
+M1ll3R folds
+Dark Rider calls 500
+Jandrix calls 400
+KoRoNaBiRuS calls 300
+*** FLOP *** [5c 7d 8s]
+Jandrix bets 936
+KoRoNaBiRuS folds
+P1xel7 calls 936
+kennedy33 calls 936
+Dark Rider calls 936
+*** TURN *** [5c 7d 8s][3d]
+Jandrix bets 2247
+P1xel7 folds
+kennedy33 folds
+Dark Rider raises 2247 to 4494
+Jandrix calls 2247
+*** RIVER *** [5c 7d 8s 3d][7s]
+Jandrix checks
+Dark Rider bets 3861
+Jandrix folds
+Dark Rider collected 19268 from pot
+*** SUMMARY ***
+Total pot 19268 | No rake
+Board: [5c 7d 8s 3d 7s]
+Seat 8: Dark Rider (button) won 19268
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-7-1710789185 - Holdem no limit (25/100/200) - 2024/03/18 19:13:05 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #1 is the button
+Seat 1: Jandrix (16850)
+Seat 2: KoRoNaBiRuS (7350)
+Seat 3: KarmaFuck19 (20000)
+Seat 4: PokerFire91 (24146)
+Seat 5: P1xel7 (28929)
+Seat 6: kennedy33 (18708)
+Seat 7: M1ll3R (18900)
+Seat 8: Dark Rider (29309)
+*** ANTE/BLINDS ***
+KoRoNaBiRuS posts ante 25
+KarmaFuck19 posts ante 25
+Jandrix posts ante 25
+PokerFire91 posts ante 25
+P1xel7 posts ante 25
+kennedy33 posts ante 25
+M1ll3R posts ante 25
+Dark Rider posts ante 25
+KoRoNaBiRuS posts small blind 100
+KarmaFuck19 posts big blind 200
+Dealt to P1xel7 [Qc 9s]
+*** PRE-FLOP *** 
+PokerFire91 folds
+P1xel7 folds
+kennedy33 calls 200
+M1ll3R folds
+Dark Rider folds
+Jandrix calls 200
+KoRoNaBiRuS folds
+KarmaFuck19 checks
+*** FLOP *** [Ac Qh 9h]
+KarmaFuck19 checks
+kennedy33 checks
+Jandrix checks
+*** TURN *** [Ac Qh 9h][4c]
+KarmaFuck19 checks
+kennedy33 bets 200
+Jandrix folds
+KarmaFuck19 folds
+kennedy33 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Board: [Ac Qh 9h 4c]
+Seat 6: kennedy33 won 1100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-8-1710789246 - Holdem no limit (25/100/200) - 2024/03/18 19:14:06 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #2 is the button
+Seat 1: Jandrix (16625)
+Seat 2: KoRoNaBiRuS (7225)
+Seat 3: KarmaFuck19 (19775)
+Seat 4: PokerFire91 (24121)
+Seat 5: P1xel7 (28904)
+Seat 6: kennedy33 (19383)
+Seat 7: M1ll3R (18875)
+Seat 8: Dark Rider (29284)
+*** ANTE/BLINDS ***
+KarmaFuck19 posts ante 25
+PokerFire91 posts ante 25
+Jandrix posts ante 25
+KoRoNaBiRuS posts ante 25
+P1xel7 posts ante 25
+kennedy33 posts ante 25
+M1ll3R posts ante 25
+Dark Rider posts ante 25
+KarmaFuck19 posts small blind 100
+PokerFire91 posts big blind 200
+Dealt to P1xel7 [Jc Ad]
+*** PRE-FLOP *** 
+P1xel7 raises 300 to 500
+kennedy33 folds
+M1ll3R folds
+Dark Rider folds
+Jandrix calls 500
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+PokerFire91 calls 300
+*** FLOP *** [3c 5h Jd]
+PokerFire91 bets 630
+P1xel7 calls 630
+Jandrix calls 630
+*** TURN *** [3c 5h Jd][7c]
+PokerFire91 bets 2952
+P1xel7 calls 2952
+Jandrix calls 2952
+*** RIVER *** [3c 5h Jd 7c][8d]
+PokerFire91 bets 10037
+P1xel7 calls 10037
+Jandrix folds
+*** SHOW DOWN ***
+PokerFire91 shows [Jh Kc] (One pair : Jacks)
+P1xel7 shows [Jc Ad] (One pair : Jacks)
+P1xel7 collected 32620 from pot
+*** SUMMARY ***
+Total pot 32620 | No rake
+Board: [3c 5h Jd 7c 8d]
+Seat 4: PokerFire91 (big blind) showed [Jh Kc] and lost with One pair : Jacks
+Seat 5: P1xel7 showed [Jc Ad] and won 32620 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-9-1710789356 - Holdem no limit (25/100/200) - 2024/03/18 19:15:56 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #3 is the button
+Seat 1: Jandrix (12518)
+Seat 2: KoRoNaBiRuS (7200)
+Seat 3: KarmaFuck19 (19650)
+Seat 4: PokerFire91 (9977)
+Seat 5: P1xel7 (47380)
+Seat 7: M1ll3R (18850)
+Seat 8: Dark Rider (29259)
+*** ANTE/BLINDS ***
+PokerFire91 posts ante 25
+P1xel7 posts ante 25
+Jandrix posts ante 25
+KoRoNaBiRuS posts ante 25
+KarmaFuck19 posts ante 25
+M1ll3R posts ante 25
+Dark Rider posts ante 25
+PokerFire91 posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [8d 2s]
+*** PRE-FLOP *** 
+M1ll3R raises 200 to 400
+Dark Rider folds
+Jandrix calls 400
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+*** FLOP *** [7c 4c Jd]
+M1ll3R bets 383
+Jandrix calls 383
+*** TURN *** [7c 4c Jd][9h]
+M1ll3R bets 1327
+Jandrix calls 1327
+*** RIVER *** [7c 4c Jd 9h][8s]
+M1ll3R checks
+Jandrix bets 3052
+M1ll3R folds
+Jandrix collected 7747 from pot
+*** SUMMARY ***
+Total pot 7747 | No rake
+Board: [7c 4c Jd 9h 8s]
+Seat 1: Jandrix won 7747
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-10-1710789468 - Holdem no limit (30/125/250) - 2024/03/18 19:17:48 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #4 is the button
+Seat 1: Jandrix (15078)
+Seat 2: KoRoNaBiRuS (7175)
+Seat 3: KarmaFuck19 (19625)
+Seat 4: PokerFire91 (9852)
+Seat 5: P1xel7 (47155)
+Seat 7: M1ll3R (16715)
+Seat 8: Dark Rider (29234)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+M1ll3R posts ante 30
+Jandrix posts ante 30
+KoRoNaBiRuS posts ante 30
+KarmaFuck19 posts ante 30
+PokerFire91 posts ante 30
+Dark Rider posts ante 30
+P1xel7 posts small blind 125
+M1ll3R posts big blind 250
+Dealt to P1xel7 [Ks Qc]
+*** PRE-FLOP *** 
+Dark Rider folds
+Jandrix folds
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+PokerFire91 raises 250 to 500
+P1xel7 raises 1250 to 1750
+M1ll3R folds
+PokerFire91 folds
+P1xel7 collected 2710 from pot
+*** SUMMARY ***
+Total pot 2710 | No rake
+Seat 5: P1xel7 (small blind) won 2710
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-11-1710789524 - Holdem no limit (30/125/250) - 2024/03/18 19:18:44 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #5 is the button
+Seat 1: Jandrix (15048)
+Seat 2: KoRoNaBiRuS (7145)
+Seat 3: KarmaFuck19 (19595)
+Seat 4: PokerFire91 (9322)
+Seat 5: P1xel7 (48085)
+Seat 7: M1ll3R (16435)
+Seat 8: Dark Rider (29204)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 30
+Dark Rider posts ante 30
+Jandrix posts ante 30
+KoRoNaBiRuS posts ante 30
+KarmaFuck19 posts ante 30
+PokerFire91 posts ante 30
+P1xel7 posts ante 30
+M1ll3R posts small blind 125
+Dark Rider posts big blind 250
+Dealt to P1xel7 [5h Jh]
+*** PRE-FLOP *** 
+Jandrix folds
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+M1ll3R raises 250 to 500
+Dark Rider calls 250
+*** FLOP *** [Jc Kd Ad]
+M1ll3R checks
+Dark Rider bets 250
+M1ll3R folds
+Dark Rider collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Board: [Jc Kd Ad]
+Seat 8: Dark Rider (big blind) won 1460
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-12-1710789587 - Holdem no limit (30/125/250) - 2024/03/18 19:19:47 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #7 is the button
+Seat 1: Jandrix (15018)
+Seat 2: KoRoNaBiRuS (7115)
+Seat 3: KarmaFuck19 (19565)
+Seat 4: PokerFire91 (9292)
+Seat 5: P1xel7 (48055)
+Seat 7: M1ll3R (15905)
+Seat 8: Dark Rider (29884)
+*** ANTE/BLINDS ***
+Dark Rider posts ante 30
+Jandrix posts ante 30
+KoRoNaBiRuS posts ante 30
+KarmaFuck19 posts ante 30
+PokerFire91 posts ante 30
+P1xel7 posts ante 30
+M1ll3R posts ante 30
+Dark Rider posts small blind 125
+Jandrix posts big blind 250
+Dealt to P1xel7 [5s 3d]
+*** PRE-FLOP *** 
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+M1ll3R folds
+Dark Rider calls 125
+Jandrix checks
+*** FLOP *** [3c As 9d]
+Dark Rider checks
+Jandrix checks
+*** TURN *** [3c As 9d][4s]
+Dark Rider checks
+Jandrix bets 462
+Dark Rider folds
+Jandrix collected 1172 from pot
+*** SUMMARY ***
+Total pot 1172 | No rake
+Board: [3c As 9d 4s]
+Seat 1: Jandrix (big blind) won 1172
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3251768071068581892-13-1710789629 - Holdem no limit (30/125/250) - 2024/03/18 19:20:29 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #8 is the button
+Seat 1: Jandrix (15448)
+Seat 2: KoRoNaBiRuS (7085)
+Seat 3: KarmaFuck19 (19535)
+Seat 4: PokerFire91 (9262)
+Seat 5: P1xel7 (48025)
+Seat 7: M1ll3R (15875)
+Seat 8: Dark Rider (29604)
+*** ANTE/BLINDS ***
+Jandrix posts ante 30
+KoRoNaBiRuS posts ante 30
+KarmaFuck19 posts ante 30
+PokerFire91 posts ante 30
+P1xel7 posts ante 30
+M1ll3R posts ante 30
+Dark Rider posts ante 30
+Jandrix posts small blind 125
+KoRoNaBiRuS posts big blind 250
+Dealt to P1xel7 [Jd 8s]
+*** PRE-FLOP *** 
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+M1ll3R folds
+Dark Rider folds
+Jandrix calls 125
+KoRoNaBiRuS checks
+*** FLOP *** [9d 2d 3h]
+Jandrix checks
+KoRoNaBiRuS checks
+*** TURN *** [9d 2d 3h][9h]
+Jandrix bets 462
+KoRoNaBiRuS folds
+Jandrix collected 1172 from pot
+*** SUMMARY ***
+Total pot 1172 | No rake
+Board: [9d 2d 3h 9h]
+Seat 1: Jandrix (small blind) won 1172
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3251768071068581892-14-1710789675 - Holdem no limit (35/150/300) - 2024/03/18 19:21:15 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #1 is the button
+Seat 1: Jandrix (15878)
+Seat 2: KoRoNaBiRuS (6805)
+Seat 3: KarmaFuck19 (19505)
+Seat 4: PokerFire91 (9232)
+Seat 5: P1xel7 (47995)
+Seat 7: M1ll3R (15845)
+Seat 8: Dark Rider (29574)
+*** ANTE/BLINDS ***
+KoRoNaBiRuS posts ante 35
+KarmaFuck19 posts ante 35
+Jandrix posts ante 35
+PokerFire91 posts ante 35
+P1xel7 posts ante 35
+M1ll3R posts ante 35
+Dark Rider posts ante 35
+KoRoNaBiRuS posts small blind 150
+KarmaFuck19 posts big blind 300
+Dealt to P1xel7 [Js 3h]
+*** PRE-FLOP *** 
+PokerFire91 folds
+P1xel7 folds
+M1ll3R folds
+Dark Rider folds
+Jandrix folds
+KoRoNaBiRuS calls 150
+KarmaFuck19 checks
+*** FLOP *** [5h Kd Qs]
+KoRoNaBiRuS checks
+KarmaFuck19 checks
+*** TURN *** [5h Kd Qs][7s]
+KoRoNaBiRuS checks
+KarmaFuck19 checks
+*** RIVER *** [5h Kd Qs 7s][6s]
+KoRoNaBiRuS checks
+KarmaFuck19 checks
+*** SHOW DOWN ***
+KoRoNaBiRuS shows [8h Jd] (High card : King)
+KarmaFuck19 shows [7c Th] (One pair : 7)
+KarmaFuck19 collected 845 from pot
+*** SUMMARY ***
+Total pot 845 | No rake
+Board: [5h Kd Qs 7s 6s]
+Seat 2: KoRoNaBiRuS (small blind) showed [8h Jd] and lost with High card : King
+Seat 3: KarmaFuck19 (big blind) showed [7c Th] and won 845 with One pair : 7
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3251768071068581892-15-1710789731 - Holdem no limit (35/150/300) - 2024/03/18 19:22:11 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #2 is the button
+Seat 1: Jandrix (15843)
+Seat 2: KoRoNaBiRuS (6470)
+Seat 3: KarmaFuck19 (20015)
+Seat 4: PokerFire91 (9197)
+Seat 5: P1xel7 (47960)
+Seat 6: FifiR2 (20000)
+Seat 7: M1ll3R (15810)
+Seat 8: Dark Rider (29539)
+*** ANTE/BLINDS ***
+KarmaFuck19 posts ante 35
+PokerFire91 posts ante 35
+Jandrix posts ante 35
+KoRoNaBiRuS posts ante 35
+P1xel7 posts ante 35
+FifiR2 posts ante 35
+M1ll3R posts ante 35
+Dark Rider posts ante 35
+KarmaFuck19 posts small blind 150
+PokerFire91 posts big blind 300
+Dealt to P1xel7 [9d Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+FifiR2 raises 300 to 600
+M1ll3R folds
+Dark Rider folds
+Jandrix calls 600
+KoRoNaBiRuS calls 600
+KarmaFuck19 calls 450
+PokerFire91 calls 300
+*** FLOP *** [6s 4s 2h]
+KarmaFuck19 checks
+PokerFire91 bets 1640
+FifiR2 folds
+Jandrix folds
+KoRoNaBiRuS calls 1640
+KarmaFuck19 folds
+*** TURN *** [6s 4s 2h][2s]
+PokerFire91 checks
+KoRoNaBiRuS checks
+*** RIVER *** [6s 4s 2h 2s][9h]
+PokerFire91 bets 1640
+KoRoNaBiRuS folds
+PokerFire91 collected 8200 from pot
+*** SUMMARY ***
+Total pot 8200 | No rake
+Board: [6s 4s 2h 2s 9h]
+Seat 4: PokerFire91 (big blind) won 8200
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3251768071068581892-16-1710789844 - Holdem no limit (35/150/300) - 2024/03/18 19:24:04 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #3 is the button
+Seat 1: Jandrix (15208)
+Seat 2: KoRoNaBiRuS (4195)
+Seat 3: KarmaFuck19 (19380)
+Seat 4: PokerFire91 (13482)
+Seat 5: P1xel7 (47925)
+Seat 6: FifiR2 (19365)
+Seat 7: M1ll3R (15775)
+Seat 8: Dark Rider (29504)
+*** ANTE/BLINDS ***
+PokerFire91 posts ante 35
+P1xel7 posts ante 35
+Jandrix posts ante 35
+KoRoNaBiRuS posts ante 35
+KarmaFuck19 posts ante 35
+FifiR2 posts ante 35
+M1ll3R posts ante 35
+Dark Rider posts ante 35
+PokerFire91 posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [8c 8s]
+*** PRE-FLOP *** 
+FifiR2 folds
+M1ll3R folds
+Dark Rider folds
+Jandrix raises 300 to 600
+KoRoNaBiRuS raises 1200 to 1800
+KarmaFuck19 calls 1800
+PokerFire91 folds
+P1xel7 folds
+Jandrix calls 1200
+*** FLOP *** [Kd 9d 6c]
+Jandrix checks
+KoRoNaBiRuS bets 2360 and is all-in
+KarmaFuck19 calls 2360
+Jandrix calls 2360
+*** TURN *** [Kd 9d 6c][Qd]
+Jandrix checks
+KarmaFuck19 checks
+*** RIVER *** [Kd 9d 6c Qd][3d]
+Jandrix bets 4624
+KarmaFuck19 folds
+*** SHOW DOWN ***
+Jandrix shows [As Th] (High card : Ace)
+KoRoNaBiRuS shows [Qc Jd] (Flush King high)
+KoRoNaBiRuS collected 13210 from main pot
+Jandrix collected 4624 from side pot 1
+*** SUMMARY ***
+Total pot 17834 | No rake
+Board: [Kd 9d 6c Qd 3d]
+Seat 1: Jandrix showed [As Th] and won 4624 with High card : Ace
+Seat 2: KoRoNaBiRuS showed [Qc Jd] and won 13210 with Flush King high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3251768071068581892-17-1710789939 - Holdem no limit (35/150/300) - 2024/03/18 19:25:39 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #4 is the button
+Seat 1: Jandrix (11013)
+Seat 2: KoRoNaBiRuS (13210)
+Seat 3: KarmaFuck19 (15185)
+Seat 4: PokerFire91 (13297)
+Seat 5: P1xel7 (47590)
+Seat 6: FifiR2 (19330)
+Seat 7: M1ll3R (15740)
+Seat 8: Dark Rider (29469)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+FifiR2 posts ante 35
+Jandrix posts ante 35
+KoRoNaBiRuS posts ante 35
+KarmaFuck19 posts ante 35
+PokerFire91 posts ante 35
+M1ll3R posts ante 35
+Dark Rider posts ante 35
+P1xel7 posts small blind 150
+FifiR2 posts big blind 300
+Dealt to P1xel7 [7d 2s]
+*** PRE-FLOP *** 
+M1ll3R folds
+Dark Rider folds
+Jandrix folds
+KoRoNaBiRuS raises 450 to 750
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+FifiR2 folds
+KoRoNaBiRuS collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | No rake
+Seat 2: KoRoNaBiRuS won 1480
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3251768071068581892-18-1710789962 - Holdem no limit (40/175/350) - 2024/03/18 19:26:02 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #5 is the button
+Seat 1: Jandrix (10978)
+Seat 2: KoRoNaBiRuS (13905)
+Seat 3: KarmaFuck19 (15150)
+Seat 4: PokerFire91 (13262)
+Seat 5: P1xel7 (47405)
+Seat 6: FifiR2 (18995)
+Seat 7: M1ll3R (15705)
+Seat 8: Dark Rider (29434)
+*** ANTE/BLINDS ***
+FifiR2 posts ante 40
+M1ll3R posts ante 40
+Jandrix posts ante 40
+KoRoNaBiRuS posts ante 40
+KarmaFuck19 posts ante 40
+PokerFire91 posts ante 40
+P1xel7 posts ante 40
+Dark Rider posts ante 40
+FifiR2 posts small blind 175
+M1ll3R posts big blind 350
+Dealt to P1xel7 [2d 3h]
+*** PRE-FLOP *** 
+Dark Rider folds
+Jandrix raises 700 to 1050
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+FifiR2 folds
+M1ll3R folds
+Jandrix collected 1895 from pot
+*** SUMMARY ***
+Total pot 1895 | No rake
+Seat 1: Jandrix won 1895
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3251768071068581892-19-1710790006 - Holdem no limit (40/175/350) - 2024/03/18 19:26:46 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #6 is the button
+Seat 1: Jandrix (11783)
+Seat 2: KoRoNaBiRuS (13865)
+Seat 3: KarmaFuck19 (15110)
+Seat 4: PokerFire91 (13222)
+Seat 5: P1xel7 (47365)
+Seat 6: FifiR2 (18780)
+Seat 7: M1ll3R (15315)
+Seat 8: Dark Rider (29394)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 40
+Dark Rider posts ante 40
+Jandrix posts ante 40
+KoRoNaBiRuS posts ante 40
+KarmaFuck19 posts ante 40
+PokerFire91 posts ante 40
+P1xel7 posts ante 40
+FifiR2 posts ante 40
+M1ll3R posts small blind 175
+Dark Rider posts big blind 350
+Dealt to P1xel7 [7c Qh]
+*** PRE-FLOP *** 
+Jandrix calls 350
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+FifiR2 calls 350
+M1ll3R calls 175
+Dark Rider checks
+*** FLOP *** [Qs 9h 5s]
+M1ll3R checks
+Dark Rider checks
+Jandrix checks
+FifiR2 checks
+*** TURN *** [Qs 9h 5s][7d]
+M1ll3R checks
+Dark Rider checks
+Jandrix bets 1118
+FifiR2 folds
+M1ll3R folds
+Dark Rider folds
+Jandrix collected 2838 from pot
+*** SUMMARY ***
+Total pot 2838 | No rake
+Board: [Qs 9h 5s 7d]
+Seat 1: Jandrix won 2838
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3251768071068581892-20-1710790094 - Holdem no limit (40/175/350) - 2024/03/18 19:28:14 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #7 is the button
+Seat 1: Jandrix (13113)
+Seat 2: KoRoNaBiRuS (13825)
+Seat 3: KarmaFuck19 (15070)
+Seat 4: PokerFire91 (13182)
+Seat 5: P1xel7 (47325)
+Seat 6: FifiR2 (18390)
+Seat 7: M1ll3R (14925)
+Seat 8: Dark Rider (29004)
+*** ANTE/BLINDS ***
+Dark Rider posts ante 40
+Jandrix posts ante 40
+KoRoNaBiRuS posts ante 40
+KarmaFuck19 posts ante 40
+PokerFire91 posts ante 40
+P1xel7 posts ante 40
+FifiR2 posts ante 40
+M1ll3R posts ante 40
+Dark Rider posts small blind 175
+Jandrix posts big blind 350
+Dealt to P1xel7 [3d 6s]
+*** PRE-FLOP *** 
+KoRoNaBiRuS calls 350
+KarmaFuck19 raises 378 to 728
+PokerFire91 folds
+P1xel7 folds
+FifiR2 folds
+M1ll3R calls 728
+Dark Rider folds
+Jandrix calls 378
+KoRoNaBiRuS calls 378
+*** FLOP *** [8d 7c 2c]
+Jandrix checks
+KoRoNaBiRuS checks
+KarmaFuck19 bets 852
+M1ll3R raises 3024 to 3876
+Jandrix folds
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+M1ll3R collected 8135 from pot
+*** SUMMARY ***
+Total pot 8135 | No rake
+Board: [8d 7c 2c]
+Seat 7: M1ll3R (button) won 8135
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3251768071068581892-21-1710790188 - Holdem no limit (40/175/350) - 2024/03/18 19:29:48 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #8 is the button
+Seat 1: Jandrix (12345)
+Seat 2: KoRoNaBiRuS (13057)
+Seat 3: KarmaFuck19 (13450)
+Seat 4: PokerFire91 (13142)
+Seat 5: P1xel7 (47285)
+Seat 6: FifiR2 (18350)
+Seat 7: M1ll3R (18416)
+Seat 8: Dark Rider (28789)
+*** ANTE/BLINDS ***
+Jandrix posts ante 40
+KoRoNaBiRuS posts ante 40
+KarmaFuck19 posts ante 40
+PokerFire91 posts ante 40
+P1xel7 posts ante 40
+FifiR2 posts ante 40
+M1ll3R posts ante 40
+Dark Rider posts ante 40
+Jandrix posts small blind 175
+KoRoNaBiRuS posts big blind 350
+Dealt to P1xel7 [4d 7s]
+*** PRE-FLOP *** 
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+FifiR2 folds
+M1ll3R raises 350 to 700
+Dark Rider raises 350 to 1050
+Jandrix calls 875
+KoRoNaBiRuS folds
+M1ll3R calls 350
+*** FLOP *** [9d Ah Kc]
+Jandrix checks
+M1ll3R checks
+Dark Rider checks
+*** TURN *** [9d Ah Kc][3s]
+Jandrix checks
+M1ll3R bets 1146
+Dark Rider folds
+Jandrix folds
+M1ll3R collected 4966 from pot
+*** SUMMARY ***
+Total pot 4966 | No rake
+Board: [9d Ah Kc 3s]
+Seat 7: M1ll3R won 4966
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3251768071068581892-22-1710790281 - Holdem no limit (50/200/400) - 2024/03/18 19:31:21 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #1 is the button
+Seat 1: Jandrix (11255)
+Seat 2: KoRoNaBiRuS (12667)
+Seat 3: KarmaFuck19 (13410)
+Seat 4: PokerFire91 (13102)
+Seat 5: P1xel7 (47245)
+Seat 6: FifiR2 (18310)
+Seat 7: M1ll3R (21146)
+Seat 8: Dark Rider (27699)
+*** ANTE/BLINDS ***
+KoRoNaBiRuS posts ante 50
+KarmaFuck19 posts ante 50
+Jandrix posts ante 50
+PokerFire91 posts ante 50
+P1xel7 posts ante 50
+FifiR2 posts ante 50
+M1ll3R posts ante 50
+Dark Rider posts ante 50
+KoRoNaBiRuS posts small blind 200
+KarmaFuck19 posts big blind 400
+Dealt to P1xel7 [7s 5h]
+*** PRE-FLOP *** 
+PokerFire91 folds
+P1xel7 folds
+FifiR2 raises 400 to 800
+M1ll3R folds
+Dark Rider folds
+Jandrix folds
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+FifiR2 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 6: FifiR2 won 1800
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3251768071068581892-23-1710790312 - Holdem no limit (50/200/400) - 2024/03/18 19:31:52 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #2 is the button
+Seat 1: Jandrix (11205)
+Seat 2: KoRoNaBiRuS (12417)
+Seat 3: KarmaFuck19 (12960)
+Seat 4: PokerFire91 (13052)
+Seat 5: P1xel7 (47195)
+Seat 6: FifiR2 (19260)
+Seat 7: M1ll3R (21096)
+Seat 8: Dark Rider (27649)
+*** ANTE/BLINDS ***
+KarmaFuck19 posts ante 50
+PokerFire91 posts ante 50
+Jandrix posts ante 50
+KoRoNaBiRuS posts ante 50
+P1xel7 posts ante 50
+FifiR2 posts ante 50
+M1ll3R posts ante 50
+Dark Rider posts ante 50
+KarmaFuck19 posts small blind 200
+PokerFire91 posts big blind 400
+Dealt to P1xel7 [3h 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+FifiR2 folds
+M1ll3R raises 400 to 800
+Dark Rider folds
+Jandrix folds
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+PokerFire91 calls 400
+*** FLOP *** [Jh 9s 4s]
+PokerFire91 checks
+M1ll3R checks
+*** TURN *** [Jh 9s 4s][Th]
+PokerFire91 bets 770
+M1ll3R folds
+PokerFire91 collected 2970 from pot
+*** SUMMARY ***
+Total pot 2970 | No rake
+Board: [Jh 9s 4s Th]
+Seat 4: PokerFire91 (big blind) won 2970
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3251768071068581892-24-1710790378 - Holdem no limit (50/200/400) - 2024/03/18 19:32:58 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #3 is the button
+Seat 1: Jandrix (11155)
+Seat 2: KoRoNaBiRuS (12367)
+Seat 3: KarmaFuck19 (12710)
+Seat 4: PokerFire91 (14402)
+Seat 5: P1xel7 (47145)
+Seat 6: FifiR2 (19210)
+Seat 7: M1ll3R (20246)
+Seat 8: Dark Rider (27599)
+*** ANTE/BLINDS ***
+PokerFire91 posts ante 50
+P1xel7 posts ante 50
+Jandrix posts ante 50
+KoRoNaBiRuS posts ante 50
+KarmaFuck19 posts ante 50
+FifiR2 posts ante 50
+M1ll3R posts ante 50
+Dark Rider posts ante 50
+PokerFire91 posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Qd 2d]
+*** PRE-FLOP *** 
+FifiR2 folds
+M1ll3R folds
+Dark Rider folds
+Jandrix folds
+KoRoNaBiRuS raises 600 to 1000
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+KoRoNaBiRuS collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Seat 2: KoRoNaBiRuS won 2000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3251768071068581892-25-1710790441 - Holdem no limit (50/200/400) - 2024/03/18 19:34:01 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #4 is the button
+Seat 1: Jandrix (11105)
+Seat 2: KoRoNaBiRuS (13317)
+Seat 3: KarmaFuck19 (12660)
+Seat 4: PokerFire91 (14152)
+Seat 5: P1xel7 (46695)
+Seat 6: FifiR2 (19160)
+Seat 8: Dark Rider (27549)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+FifiR2 posts ante 50
+Jandrix posts ante 50
+KoRoNaBiRuS posts ante 50
+KarmaFuck19 posts ante 50
+PokerFire91 posts ante 50
+Dark Rider posts ante 50
+P1xel7 posts small blind 200
+FifiR2 posts big blind 400
+Dealt to P1xel7 [6c 5d]
+*** PRE-FLOP *** 
+Dark Rider calls 400
+Jandrix raises 600 to 1000
+KoRoNaBiRuS calls 1000
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+FifiR2 folds
+Dark Rider raises 600 to 1600
+Jandrix calls 600
+KoRoNaBiRuS calls 600
+*** FLOP *** [4h 9d Jh]
+Dark Rider bets 2450
+Jandrix calls 2450
+KoRoNaBiRuS raises 5325 to 7775
+Dark Rider calls 5325
+Jandrix folds
+*** TURN *** [4h 9d Jh][Jd]
+Dark Rider bets 8110
+KoRoNaBiRuS calls 3892 and is all-in
+*** RIVER *** [4h 9d Jh Jd][6s]
+*** SHOW DOWN ***
+KoRoNaBiRuS shows [9h Ah] (Two pairs : Jacks and 9)
+Dark Rider shows [Ad Kc] (One pair : Jacks)
+Dark Rider collected 4218 from side pot 1
+KoRoNaBiRuS collected 31534 from main pot
+*** SUMMARY ***
+Total pot 35752 | No rake
+Board: [4h 9d Jh Jd 6s]
+Seat 2: KoRoNaBiRuS showed [9h Ah] and won 31534 with Two pairs : Jacks and 9
+Seat 8: Dark Rider showed [Ad Kc] and won 4218 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3251768071068581892-26-1710790530 - Holdem no limit (50/200/400) - 2024/03/18 19:35:30 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #5 is the button
+Seat 1: Jandrix (7005)
+Seat 2: KoRoNaBiRuS (31534)
+Seat 3: KarmaFuck19 (12610)
+Seat 4: PokerFire91 (14102)
+Seat 5: P1xel7 (46445)
+Seat 6: FifiR2 (18710)
+Seat 8: Dark Rider (14232)
+*** ANTE/BLINDS ***
+FifiR2 posts ante 50
+Dark Rider posts ante 50
+Jandrix posts ante 50
+KoRoNaBiRuS posts ante 50
+KarmaFuck19 posts ante 50
+PokerFire91 posts ante 50
+P1xel7 posts ante 50
+FifiR2 posts small blind 200
+Dark Rider posts big blind 400
+Dealt to P1xel7 [Ac 3s]
+*** PRE-FLOP *** 
+Jandrix raises 6555 to 6955 and is all-in
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+FifiR2 folds
+Dark Rider folds
+Jandrix collected 7905 from pot
+*** SUMMARY ***
+Total pot 7905 | No rake
+Seat 1: Jandrix won 7905
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3251768071068581892-27-1710790566 - Holdem no limit (60/250/500) - 2024/03/18 19:36:06 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #6 is the button
+Seat 1: Jandrix (7905)
+Seat 2: KoRoNaBiRuS (31484)
+Seat 3: KarmaFuck19 (12560)
+Seat 4: PokerFire91 (14052)
+Seat 5: P1xel7 (46395)
+Seat 6: FifiR2 (18460)
+Seat 8: Dark Rider (13782)
+*** ANTE/BLINDS ***
+Dark Rider posts ante 60
+Jandrix posts ante 60
+KoRoNaBiRuS posts ante 60
+KarmaFuck19 posts ante 60
+PokerFire91 posts ante 60
+P1xel7 posts ante 60
+FifiR2 posts ante 60
+Dark Rider posts small blind 250
+Jandrix posts big blind 500
+Dealt to P1xel7 [4d 2h]
+*** PRE-FLOP *** 
+KoRoNaBiRuS folds
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 folds
+FifiR2 raises 500 to 1000
+Dark Rider folds
+Jandrix raises 2670 to 3670
+FifiR2 calls 2670
+*** FLOP *** [2c Jd Kh]
+Jandrix bets 4175 and is all-in
+FifiR2 calls 4175
+*** TURN *** [2c Jd Kh][6h]
+*** RIVER *** [2c Jd Kh 6h][Th]
+*** SHOW DOWN ***
+FifiR2 shows [Ks Qd] (One pair : Kings)
+Jandrix shows [Ah Ad] (One pair : Aces)
+Jandrix collected 16360 from pot
+*** SUMMARY ***
+Total pot 16360 | No rake
+Board: [2c Jd Kh 6h Th]
+Seat 1: Jandrix (big blind) showed [Ah Ad] and won 16360 with One pair : Aces
+Seat 6: FifiR2 (button) showed [Ks Qd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3251768071068581892-28-1710790638 - Holdem no limit (60/250/500) - 2024/03/18 19:37:18 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #8 is the button
+Seat 1: Jandrix (16360)
+Seat 3: KarmaFuck19 (12500)
+Seat 4: PokerFire91 (13992)
+Seat 5: P1xel7 (46335)
+Seat 6: FifiR2 (10555)
+Seat 7: Kae-S-Breizh (20000)
+Seat 8: Dark Rider (13472)
+*** ANTE/BLINDS ***
+Jandrix posts ante 60
+KarmaFuck19 posts ante 60
+PokerFire91 posts ante 60
+P1xel7 posts ante 60
+FifiR2 posts ante 60
+Kae-S-Breizh posts ante 60
+Dark Rider posts ante 60
+Jandrix posts small blind 250
+KarmaFuck19 posts big blind 500
+Dealt to P1xel7 [7d 8s]
+*** PRE-FLOP *** 
+PokerFire91 folds
+P1xel7 folds
+FifiR2 folds
+Kae-S-Breizh raises 750 to 1250
+Dark Rider folds
+Jandrix folds
+KarmaFuck19 calls 750
+*** FLOP *** [3c Ts 6c]
+KarmaFuck19 checks
+Kae-S-Breizh bets 1110
+KarmaFuck19 folds
+Kae-S-Breizh collected 4280 from pot
+*** SUMMARY ***
+Total pot 4280 | No rake
+Board: [3c Ts 6c]
+Seat 7: Kae-S-Breizh won 4280
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3251768071068581892-29-1710790680 - Holdem no limit (60/250/500) - 2024/03/18 19:38:00 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #1 is the button
+Seat 1: Jandrix (16050)
+Seat 3: KarmaFuck19 (11190)
+Seat 4: PokerFire91 (13932)
+Seat 5: P1xel7 (46275)
+Seat 6: FifiR2 (10495)
+Seat 7: Kae-S-Breizh (21860)
+Seat 8: Dark Rider (13412)
+*** ANTE/BLINDS ***
+KarmaFuck19 posts ante 60
+PokerFire91 posts ante 60
+Jandrix posts ante 60
+P1xel7 posts ante 60
+FifiR2 posts ante 60
+Kae-S-Breizh posts ante 60
+Dark Rider posts ante 60
+KarmaFuck19 posts small blind 250
+PokerFire91 posts big blind 500
+Dealt to P1xel7 [Jh 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+FifiR2 raises 500 to 1000
+Kae-S-Breizh calls 1000
+Dark Rider folds
+Jandrix calls 1000
+KarmaFuck19 folds
+PokerFire91 folds
+*** FLOP *** [6s Qc 8s]
+FifiR2 checks
+Kae-S-Breizh checks
+Jandrix bets 1460
+FifiR2 folds
+Kae-S-Breizh calls 1460
+*** TURN *** [6s Qc 8s][3s]
+Kae-S-Breizh checks
+Jandrix bets 7090
+Kae-S-Breizh folds
+Jandrix collected 14180 from pot
+*** SUMMARY ***
+Total pot 14180 | No rake
+Board: [6s Qc 8s 3s]
+Seat 1: Jandrix (button) won 14180
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3251768071068581892-30-1710790737 - Holdem no limit (60/250/500) - 2024/03/18 19:38:57 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #3 is the button
+Seat 1: Jandrix (20620)
+Seat 3: KarmaFuck19 (10880)
+Seat 4: PokerFire91 (13372)
+Seat 5: P1xel7 (46215)
+Seat 6: FifiR2 (9435)
+Seat 7: Kae-S-Breizh (19340)
+Seat 8: Dark Rider (13352)
+*** ANTE/BLINDS ***
+PokerFire91 posts ante 60
+P1xel7 posts ante 60
+Jandrix posts ante 60
+KarmaFuck19 posts ante 60
+FifiR2 posts ante 60
+Kae-S-Breizh posts ante 60
+Dark Rider posts ante 60
+PokerFire91 posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [Kd Tc]
+*** PRE-FLOP *** 
+FifiR2 folds
+Kae-S-Breizh folds
+Dark Rider folds
+Jandrix folds
+KarmaFuck19 folds
+PokerFire91 folds
+P1xel7 collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Seat 5: P1xel7 (big blind) won 1170
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3251768071068581892-31-1710790756 - Holdem no limit (60/250/500) - 2024/03/18 19:39:16 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #4 is the button
+Seat 1: Jandrix (20560)
+Seat 3: KarmaFuck19 (10820)
+Seat 4: PokerFire91 (13062)
+Seat 5: P1xel7 (46825)
+Seat 6: FifiR2 (9375)
+Seat 7: Kae-S-Breizh (19280)
+Seat 8: Dark Rider (13292)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+FifiR2 posts ante 60
+Jandrix posts ante 60
+KarmaFuck19 posts ante 60
+PokerFire91 posts ante 60
+Kae-S-Breizh posts ante 60
+Dark Rider posts ante 60
+P1xel7 posts small blind 250
+FifiR2 posts big blind 500
+Dealt to P1xel7 [7s Jh]
+*** PRE-FLOP *** 
+Kae-S-Breizh folds
+Dark Rider folds
+Jandrix calls 500
+KarmaFuck19 calls 500
+PokerFire91 folds
+P1xel7 folds
+FifiR2 checks
+*** FLOP *** [Qc Th 5h]
+FifiR2 checks
+Jandrix bets 760
+KarmaFuck19 calls 760
+FifiR2 folds
+*** TURN *** [Qc Th 5h][Ah]
+Jandrix bets 1292
+KarmaFuck19 calls 1292
+*** RIVER *** [Qc Th 5h Ah][Qh]
+Jandrix checks
+KarmaFuck19 checks
+*** SHOW DOWN ***
+Jandrix shows [9c Kc] (One pair : Queens)
+KarmaFuck19 shows [6d 6h] (Flush Ace high)
+KarmaFuck19 collected 6274 from pot
+*** SUMMARY ***
+Total pot 6274 | No rake
+Board: [Qc Th 5h Ah Qh]
+Seat 1: Jandrix showed [9c Kc] and lost with One pair : Queens
+Seat 3: KarmaFuck19 showed [6d 6h] and won 6274 with Flush Ace high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3251768071068581892-32-1710790804 - Holdem no limit (60/250/500) - 2024/03/18 19:40:04 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #5 is the button
+Seat 1: Jandrix (17948)
+Seat 2: dominixet (20000)
+Seat 3: KarmaFuck19 (14482)
+Seat 4: PokerFire91 (13002)
+Seat 5: P1xel7 (46515)
+Seat 6: FifiR2 (8815)
+Seat 7: Kae-S-Breizh (19220)
+Seat 8: Dark Rider (13232)
+*** ANTE/BLINDS ***
+FifiR2 posts ante 60
+Kae-S-Breizh posts ante 60
+Jandrix posts ante 60
+dominixet posts ante 60
+KarmaFuck19 posts ante 60
+PokerFire91 posts ante 60
+P1xel7 posts ante 60
+Dark Rider posts ante 60
+FifiR2 posts small blind 250
+Kae-S-Breizh posts big blind 500
+Dealt to P1xel7 [Qs 9d]
+*** PRE-FLOP *** 
+Dark Rider folds
+Jandrix folds
+dominixet raises 1730 to 2230
+KarmaFuck19 folds
+PokerFire91 raises 1730 to 3960
+P1xel7 folds
+FifiR2 raises 4795 to 8755 and is all-in
+Kae-S-Breizh folds
+dominixet calls 6525
+PokerFire91 calls 4795
+*** FLOP *** [Td 7c 6c]
+dominixet bets 11185 and is all-in
+PokerFire91 calls 4187 and is all-in
+*** TURN *** [Td 7c 6c][4h]
+*** RIVER *** [Td 7c 6c 4h][5h]
+*** SHOW DOWN ***
+PokerFire91 shows [Qd Ks] (High card : King)
+dominixet shows [As 7d] (One pair : 7)
+FifiR2 shows [Ad Th] (One pair : Tens)
+FifiR2 collected 27245 from main pot
+dominixet collected 15372 from side pot 1
+*** SUMMARY ***
+Total pot 42617 | No rake
+Board: [Td 7c 6c 4h 5h]
+Seat 2: dominixet showed [As 7d] and won 15372 with One pair : 7
+Seat 4: PokerFire91 showed [Qd Ks] and lost with High card : King
+Seat 6: FifiR2 (small blind) showed [Ad Th] and won 27245 with One pair : Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3251768071068581892-33-1710790906 - Holdem no limit (70/300/600) - 2024/03/18 19:41:46 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #6 is the button
+Seat 1: Jandrix (17888)
+Seat 2: dominixet (15372)
+Seat 3: KarmaFuck19 (14422)
+Seat 5: P1xel7 (46455)
+Seat 6: FifiR2 (27245)
+Seat 7: Kae-S-Breizh (18660)
+Seat 8: Dark Rider (13172)
+*** ANTE/BLINDS ***
+Kae-S-Breizh posts ante 70
+Dark Rider posts ante 70
+Jandrix posts ante 70
+dominixet posts ante 70
+KarmaFuck19 posts ante 70
+P1xel7 posts ante 70
+FifiR2 posts ante 70
+Kae-S-Breizh posts small blind 300
+Dark Rider posts big blind 600
+Dealt to P1xel7 [7h Ac]
+*** PRE-FLOP *** 
+Jandrix folds
+dominixet folds
+KarmaFuck19 folds
+P1xel7 folds
+FifiR2 raises 600 to 1200
+Kae-S-Breizh folds
+Dark Rider calls 600
+*** FLOP *** [4s Kh Ts]
+Dark Rider checks
+FifiR2 checks
+*** TURN *** [4s Kh Ts][4d]
+Dark Rider checks
+FifiR2 bets 1595
+Dark Rider raises 10307 to 11902 and is all-in
+FifiR2 folds
+Dark Rider collected 16687 from pot
+*** SUMMARY ***
+Total pot 16687 | No rake
+Board: [4s Kh Ts 4d]
+Seat 8: Dark Rider (big blind) won 16687
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3251768071068581892-34-1710791011 - Holdem no limit (70/300/600) - 2024/03/18 19:43:31 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #7 is the button
+Seat 1: Jandrix (17818)
+Seat 2: dominixet (15302)
+Seat 3: KarmaFuck19 (14352)
+Seat 5: P1xel7 (46385)
+Seat 6: FifiR2 (24380)
+Seat 7: Kae-S-Breizh (18290)
+Seat 8: Dark Rider (16687)
+*** ANTE/BLINDS ***
+Dark Rider posts ante 70
+Jandrix posts ante 70
+dominixet posts ante 70
+KarmaFuck19 posts ante 70
+P1xel7 posts ante 70
+FifiR2 posts ante 70
+Kae-S-Breizh posts ante 70
+Dark Rider posts small blind 300
+Jandrix posts big blind 600
+Dealt to P1xel7 [9h Ac]
+*** PRE-FLOP *** 
+dominixet folds
+KarmaFuck19 raises 648 to 1248
+P1xel7 folds
+FifiR2 calls 1248
+Kae-S-Breizh folds
+Dark Rider folds
+Jandrix calls 648
+*** FLOP *** [Jd 4c Kc]
+Jandrix checks
+KarmaFuck19 checks
+FifiR2 checks
+*** TURN *** [Jd 4c Kc][8d]
+Jandrix bets 1587
+KarmaFuck19 folds
+FifiR2 folds
+Jandrix collected 6121 from pot
+*** SUMMARY ***
+Total pot 6121 | No rake
+Board: [Jd 4c Kc 8d]
+Seat 1: Jandrix (big blind) won 6121
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3251768071068581892-35-1710791083 - Holdem no limit (70/300/600) - 2024/03/18 19:44:43 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #8 is the button
+Seat 1: Jandrix (21034)
+Seat 2: dominixet (15232)
+Seat 3: KarmaFuck19 (13034)
+Seat 5: P1xel7 (46315)
+Seat 6: FifiR2 (23062)
+Seat 7: Kae-S-Breizh (18220)
+Seat 8: Dark Rider (16317)
+*** ANTE/BLINDS ***
+Jandrix posts ante 70
+dominixet posts ante 70
+KarmaFuck19 posts ante 70
+P1xel7 posts ante 70
+FifiR2 posts ante 70
+Kae-S-Breizh posts ante 70
+Dark Rider posts ante 70
+Jandrix posts small blind 300
+dominixet posts big blind 600
+Dealt to P1xel7 [8d Qh]
+*** PRE-FLOP *** 
+KarmaFuck19 folds
+P1xel7 folds
+FifiR2 folds
+Kae-S-Breizh folds
+Dark Rider folds
+Jandrix calls 300
+dominixet raises 1690 to 2290
+Jandrix calls 1690
+*** FLOP *** [4c 5d Tc]
+Jandrix bets 1775
+dominixet raises 1775 to 3550
+Jandrix calls 1775
+*** TURN *** [4c 5d Tc][Ac]
+Jandrix checks
+dominixet bets 9322 and is all-in
+Jandrix folds
+dominixet collected 21492 from pot
+*** SUMMARY ***
+Total pot 21492 | No rake
+Board: [4c 5d Tc Ac]
+Seat 2: dominixet (big blind) won 21492
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3251768071068581892-36-1710791135 - Holdem no limit (70/300/600) - 2024/03/18 19:45:35 UTC
+Table: 'Hold'em(757111253)#003' 8-max (real money) Seat #1 is the button
+Seat 1: Jandrix (15124)
+Seat 2: dominixet (21492)
+Seat 3: KarmaFuck19 (12964)
+Seat 5: P1xel7 (46245)
+Seat 6: FifiR2 (22992)
+Seat 7: Kae-S-Breizh (18150)
+Seat 8: Dark Rider (16247)
+*** ANTE/BLINDS ***
+dominixet posts ante 70
+KarmaFuck19 posts ante 70
+Jandrix posts ante 70
+P1xel7 posts ante 70
+FifiR2 posts ante 70
+Kae-S-Breizh posts ante 70
+Dark Rider posts ante 70
+dominixet posts small blind 300
+KarmaFuck19 posts big blind 600
+Dealt to P1xel7 [9d Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+FifiR2 folds
+Kae-S-Breizh folds
+Dark Rider calls 600
+Jandrix calls 600
+dominixet folds
+KarmaFuck19 raises 12294 to 12894 and is all-in
+Dark Rider calls 12294
+Jandrix folds
+*** FLOP *** [9c 8h 6s]
+*** TURN *** [9c 8h 6s][Ks]
+*** RIVER *** [9c 8h 6s Ks][Ad]
+*** SHOW DOWN ***
+Dark Rider shows [Ts Jh] (High card : Ace)
+KarmaFuck19 shows [5s 5d] (One pair : 5)
+KarmaFuck19 collected 27178 from pot
+*** SUMMARY ***
+Total pot 27178 | No rake
+Board: [9c 8h 6s Ks Ad]
+Seat 3: KarmaFuck19 (big blind) showed [5s 5d] and won 27178 with One pair : 5
+Seat 8: Dark Rider showed [Ts Jh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3251768071068581894-4-1710791258 - Holdem no limit (80/350/700) - 2024/03/18 19:47:38 UTC
+Table: 'Hold'em(757111253)#005' 8-max (real money) Seat #4 is the button
+Seat 1: ORHELLLBOSSS (18955)
+Seat 2: mcbj0826 (20000)
+Seat 3: P1xel7 (46175)
+Seat 4: sylvinho444 (18650)
+Seat 5: Celeste74 (19070)
+Seat 6: pro23300 (19900)
+Seat 7: TitoonYeu (27630)
+Seat 8: James_3126 (45611)
+*** ANTE/BLINDS ***
+Celeste74 posts ante 80
+pro23300 posts ante 80
+ORHELLLBOSSS posts ante 80
+mcbj0826 posts ante 80
+P1xel7 posts ante 80
+sylvinho444 posts ante 80
+TitoonYeu posts ante 80
+James_3126 posts ante 80
+Celeste74 posts small blind 350
+pro23300 posts big blind 700
+Dealt to P1xel7 [Qc 8d]
+*** PRE-FLOP *** 
+TitoonYeu folds
+James_3126 folds
+ORHELLLBOSSS folds
+mcbj0826 folds
+P1xel7 folds
+sylvinho444 folds
+Celeste74 calls 350
+pro23300 checks
+*** FLOP *** [5c 9c Js]
+Celeste74 bets 1326
+pro23300 folds
+Celeste74 collected 3366 from pot
+*** SUMMARY ***
+Total pot 3366 | No rake
+Board: [5c 9c Js]
+Seat 5: Celeste74 (small blind) won 3366
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3251768071068581890-56-1710791388 - Holdem no limit (80/350/700) - 2024/03/18 19:49:48 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #7 is the button
+Seat 1: WishUwereOUT (39381)
+Seat 2: Kurykoko (26340)
+Seat 3: angelina1975 (22967)
+Seat 4: P1xel7 (46095)
+Seat 5: krisnack9459 (20703)
+Seat 6: Samuelo666 (21830)
+Seat 7: bobmasquel (18131)
+Seat 8: Rizvertpomme (23457)
+*** ANTE/BLINDS ***
+Rizvertpomme posts ante 80
+WishUwereOUT posts ante 80
+Kurykoko posts ante 80
+angelina1975 posts ante 80
+P1xel7 posts ante 80
+krisnack9459 posts ante 80
+Samuelo666 posts ante 80
+bobmasquel posts ante 80
+Rizvertpomme posts small blind 350
+WishUwereOUT posts big blind 700
+Dealt to P1xel7 [Ac Jc]
+*** PRE-FLOP *** 
+Kurykoko folds
+angelina1975 folds
+P1xel7 raises 1050 to 1750
+krisnack9459 folds
+Samuelo666 calls 1750
+bobmasquel folds
+Rizvertpomme folds
+WishUwereOUT folds
+*** FLOP *** [5c 6s Jh]
+P1xel7 bets 2595
+Samuelo666 folds
+P1xel7 collected 7785 from pot
+*** SUMMARY ***
+Total pot 7785 | No rake
+Board: [5c 6s Jh]
+Seat 4: P1xel7 won 7785
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3251768071068581890-57-1710791428 - Holdem no limit (80/350/700) - 2024/03/18 19:50:28 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #8 is the button
+Seat 1: WishUwereOUT (38601)
+Seat 2: Kurykoko (26260)
+Seat 3: angelina1975 (22887)
+Seat 4: P1xel7 (49455)
+Seat 5: krisnack9459 (20623)
+Seat 6: Samuelo666 (20000)
+Seat 7: bobmasquel (18051)
+Seat 8: Rizvertpomme (23027)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 80
+Kurykoko posts ante 80
+angelina1975 posts ante 80
+P1xel7 posts ante 80
+krisnack9459 posts ante 80
+Samuelo666 posts ante 80
+bobmasquel posts ante 80
+Rizvertpomme posts ante 80
+WishUwereOUT posts small blind 350
+Kurykoko posts big blind 700
+Dealt to P1xel7 [Ac Js]
+*** PRE-FLOP *** 
+angelina1975 folds
+P1xel7 raises 1050 to 1750
+krisnack9459 calls 1750
+Samuelo666 calls 1750
+bobmasquel folds
+Rizvertpomme folds
+WishUwereOUT folds
+Kurykoko folds
+*** FLOP *** [Qd Kc 4s]
+P1xel7 checks
+krisnack9459 checks
+Samuelo666 bets 700
+P1xel7 calls 700
+krisnack9459 calls 700
+*** TURN *** [Qd Kc 4s][2h]
+P1xel7 checks
+krisnack9459 checks
+Samuelo666 checks
+*** RIVER *** [Qd Kc 4s 2h][8s]
+P1xel7 checks
+krisnack9459 checks
+Samuelo666 bets 700
+P1xel7 calls 700
+krisnack9459 calls 700
+*** SHOW DOWN ***
+P1xel7 shows [Ac Js] (High card : Ace)
+krisnack9459 shows [Qh As] (One pair : Queens)
+Samuelo666 shows [Jd Ks] (One pair : Kings)
+Samuelo666 collected 11140 from pot
+*** SUMMARY ***
+Total pot 11140 | No rake
+Board: [Qd Kc 4s 2h 8s]
+Seat 4: P1xel7 showed [Ac Js] and lost with High card : Ace
+Seat 5: krisnack9459 showed [Qh As] and lost with One pair : Queens
+Seat 6: Samuelo666 showed [Jd Ks] and won 11140 with One pair : Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3251768071068581890-58-1710791548 - Holdem no limit (100/400/800) - 2024/03/18 19:52:28 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #1 is the button
+Seat 1: WishUwereOUT (38171)
+Seat 2: Kurykoko (25480)
+Seat 3: angelina1975 (22807)
+Seat 4: P1xel7 (46225)
+Seat 5: krisnack9459 (17393)
+Seat 6: Samuelo666 (27910)
+Seat 7: bobmasquel (17971)
+Seat 8: Rizvertpomme (22947)
+*** ANTE/BLINDS ***
+Kurykoko posts ante 100
+angelina1975 posts ante 100
+WishUwereOUT posts ante 100
+P1xel7 posts ante 100
+krisnack9459 posts ante 100
+Samuelo666 posts ante 100
+bobmasquel posts ante 100
+Rizvertpomme posts ante 100
+Kurykoko posts small blind 400
+angelina1975 posts big blind 800
+Dealt to P1xel7 [6h 6d]
+*** PRE-FLOP *** 
+P1xel7 raises 1200 to 2000
+krisnack9459 folds
+Samuelo666 folds
+bobmasquel folds
+Rizvertpomme folds
+WishUwereOUT folds
+Kurykoko folds
+angelina1975 folds
+P1xel7 collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | No rake
+Seat 4: P1xel7 won 4000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3251768071068581890-59-1710791580 - Holdem no limit (100/400/800) - 2024/03/18 19:53:00 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #2 is the button
+Seat 1: WishUwereOUT (38071)
+Seat 2: Kurykoko (24980)
+Seat 3: angelina1975 (21907)
+Seat 4: P1xel7 (48125)
+Seat 5: krisnack9459 (17293)
+Seat 6: Samuelo666 (27810)
+Seat 7: bobmasquel (17871)
+Seat 8: Rizvertpomme (22847)
+*** ANTE/BLINDS ***
+angelina1975 posts ante 100
+P1xel7 posts ante 100
+WishUwereOUT posts ante 100
+Kurykoko posts ante 100
+krisnack9459 posts ante 100
+Samuelo666 posts ante 100
+bobmasquel posts ante 100
+Rizvertpomme posts ante 100
+angelina1975 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [As 8c]
+*** PRE-FLOP *** 
+krisnack9459 folds
+Samuelo666 folds
+bobmasquel folds
+Rizvertpomme raises 1600 to 2400
+WishUwereOUT folds
+Kurykoko folds
+angelina1975 folds
+P1xel7 calls 1600
+*** FLOP *** [2d 5d Tc]
+P1xel7 checks
+Rizvertpomme bets 2400
+P1xel7 folds
+Rizvertpomme collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | No rake
+Board: [2d 5d Tc]
+Seat 8: Rizvertpomme won 8400
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3251768071068581890-60-1710791650 - Holdem no limit (100/400/800) - 2024/03/18 19:54:10 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #3 is the button
+Seat 1: WishUwereOUT (37971)
+Seat 2: Kurykoko (24880)
+Seat 3: angelina1975 (21407)
+Seat 4: P1xel7 (45625)
+Seat 5: krisnack9459 (17193)
+Seat 6: Samuelo666 (27710)
+Seat 7: bobmasquel (17771)
+Seat 8: Rizvertpomme (26347)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+krisnack9459 posts ante 100
+WishUwereOUT posts ante 100
+Kurykoko posts ante 100
+angelina1975 posts ante 100
+Samuelo666 posts ante 100
+bobmasquel posts ante 100
+Rizvertpomme posts ante 100
+P1xel7 posts small blind 400
+krisnack9459 posts big blind 800
+Dealt to P1xel7 [4d Kc]
+*** PRE-FLOP *** 
+Samuelo666 folds
+bobmasquel folds
+Rizvertpomme folds
+WishUwereOUT raises 1000 to 1800
+Kurykoko folds
+angelina1975 folds
+P1xel7 folds
+krisnack9459 calls 1000
+*** FLOP *** [2d 3d 3s]
+krisnack9459 checks
+WishUwereOUT bets 1680
+krisnack9459 calls 1680
+*** TURN *** [2d 3d 3s][6h]
+krisnack9459 checks
+WishUwereOUT bets 5304
+krisnack9459 folds
+WishUwereOUT collected 13464 from pot
+*** SUMMARY ***
+Total pot 13464 | No rake
+Board: [2d 3d 3s 6h]
+Seat 1: WishUwereOUT won 13464
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3251768071068581890-61-1710792060 - Holdem no limit (100/400/800) - 2024/03/18 20:01:00 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #4 is the button
+Seat 1: WishUwereOUT (42551)
+Seat 2: Kurykoko (24780)
+Seat 3: angelina1975 (21307)
+Seat 4: P1xel7 (45125)
+Seat 5: krisnack9459 (13613)
+Seat 6: Samuelo666 (27610)
+Seat 7: bobmasquel (17671)
+Seat 8: Rizvertpomme (26247)
+*** ANTE/BLINDS ***
+krisnack9459 posts ante 100
+Samuelo666 posts ante 100
+WishUwereOUT posts ante 100
+Kurykoko posts ante 100
+angelina1975 posts ante 100
+P1xel7 posts ante 100
+bobmasquel posts ante 100
+Rizvertpomme posts ante 100
+krisnack9459 posts small blind 400
+Samuelo666 posts big blind 800
+Dealt to P1xel7 [4h 7c]
+*** PRE-FLOP *** 
+bobmasquel folds
+Rizvertpomme raises 800 to 1600
+WishUwereOUT folds
+Kurykoko folds
+angelina1975 folds
+P1xel7 folds
+krisnack9459 folds
+Samuelo666 raises 800 to 2400
+Rizvertpomme calls 800
+*** FLOP *** [Ac 8h 3s]
+Samuelo666 bets 6000
+Rizvertpomme folds
+Samuelo666 collected 12000 from pot
+*** SUMMARY ***
+Total pot 12000 | No rake
+Board: [Ac 8h 3s]
+Seat 6: Samuelo666 (big blind) won 12000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3251768071068581890-62-1710792149 - Holdem no limit (120/500/1000) - 2024/03/18 20:02:29 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #5 is the button
+Seat 1: WishUwereOUT (42451)
+Seat 2: Kurykoko (24680)
+Seat 3: angelina1975 (21207)
+Seat 4: P1xel7 (45025)
+Seat 5: krisnack9459 (13113)
+Seat 6: Samuelo666 (31110)
+Seat 7: bobmasquel (17571)
+Seat 8: Rizvertpomme (23747)
+*** ANTE/BLINDS ***
+Samuelo666 posts ante 120
+bobmasquel posts ante 120
+WishUwereOUT posts ante 120
+Kurykoko posts ante 120
+angelina1975 posts ante 120
+P1xel7 posts ante 120
+krisnack9459 posts ante 120
+Rizvertpomme posts ante 120
+Samuelo666 posts small blind 500
+bobmasquel posts big blind 1000
+Dealt to P1xel7 [4s Qh]
+*** PRE-FLOP *** 
+Rizvertpomme folds
+WishUwereOUT folds
+Kurykoko folds
+angelina1975 folds
+P1xel7 folds
+krisnack9459 calls 1000
+Samuelo666 calls 500
+bobmasquel checks
+*** FLOP *** [Ad 6h Ks]
+Samuelo666 checks
+bobmasquel checks
+krisnack9459 bets 1386
+Samuelo666 folds
+bobmasquel calls 1386
+*** TURN *** [Ad 6h Ks][Jd]
+bobmasquel checks
+krisnack9459 checks
+*** RIVER *** [Ad 6h Ks Jd][6d]
+bobmasquel checks
+krisnack9459 checks
+*** SHOW DOWN ***
+krisnack9459 shows [Kd 8c] (Two pairs : Kings and 6)
+bobmasquel shows [Ah 2s] (Two pairs : Aces and 6)
+bobmasquel collected 6732 from pot
+*** SUMMARY ***
+Total pot 6732 | No rake
+Board: [Ad 6h Ks Jd 6d]
+Seat 5: krisnack9459 (button) showed [Kd 8c] and lost with Two pairs : Kings and 6
+Seat 7: bobmasquel (big blind) showed [Ah 2s] and won 6732 with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3251768071068581890-63-1710792254 - Holdem no limit (120/500/1000) - 2024/03/18 20:04:14 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #6 is the button
+Seat 1: WishUwereOUT (42331)
+Seat 2: Kurykoko (24560)
+Seat 3: angelina1975 (21087)
+Seat 4: P1xel7 (44905)
+Seat 5: krisnack9459 (10607)
+Seat 6: Samuelo666 (29990)
+Seat 7: bobmasquel (21797)
+Seat 8: Rizvertpomme (23627)
+*** ANTE/BLINDS ***
+bobmasquel posts ante 120
+Rizvertpomme posts ante 120
+WishUwereOUT posts ante 120
+Kurykoko posts ante 120
+angelina1975 posts ante 120
+P1xel7 posts ante 120
+krisnack9459 posts ante 120
+Samuelo666 posts ante 120
+bobmasquel posts small blind 500
+Rizvertpomme posts big blind 1000
+Dealt to P1xel7 [9d 8c]
+*** PRE-FLOP *** 
+WishUwereOUT folds
+Kurykoko folds
+angelina1975 folds
+P1xel7 folds
+krisnack9459 folds
+Samuelo666 calls 1000
+bobmasquel folds
+Rizvertpomme checks
+*** FLOP *** [Jh Ad Ac]
+Rizvertpomme checks
+Samuelo666 bets 1000
+Rizvertpomme folds
+Samuelo666 collected 4460 from pot
+*** SUMMARY ***
+Total pot 4460 | No rake
+Board: [Jh Ad Ac]
+Seat 6: Samuelo666 (button) won 4460
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3251768071068581890-64-1710792311 - Holdem no limit (120/500/1000) - 2024/03/18 20:05:11 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #7 is the button
+Seat 1: WishUwereOUT (42211)
+Seat 3: angelina1975 (20967)
+Seat 4: P1xel7 (44785)
+Seat 5: krisnack9459 (10487)
+Seat 6: Samuelo666 (32330)
+Seat 7: bobmasquel (21177)
+Seat 8: Rizvertpomme (22507)
+*** ANTE/BLINDS ***
+Rizvertpomme posts ante 120
+WishUwereOUT posts ante 120
+angelina1975 posts ante 120
+P1xel7 posts ante 120
+krisnack9459 posts ante 120
+Samuelo666 posts ante 120
+bobmasquel posts ante 120
+Rizvertpomme posts small blind 500
+WishUwereOUT posts big blind 1000
+Dealt to P1xel7 [Ks 8s]
+*** PRE-FLOP *** 
+angelina1975 raises 3340 to 4340
+P1xel7 folds
+krisnack9459 folds
+Samuelo666 calls 4340
+bobmasquel folds
+Rizvertpomme folds
+WishUwereOUT folds
+*** FLOP *** [As Qc 3s]
+angelina1975 bets 7163
+Samuelo666 raises 7163 to 14326
+angelina1975 raises 2181 to 16507 and is all-in
+Samuelo666 calls 2181
+*** TURN *** [As Qc 3s][3d]
+*** RIVER *** [As Qc 3s 3d][3c]
+*** SHOW DOWN ***
+Samuelo666 shows [2h 2d] (Full of 3 and 2)
+angelina1975 shows [Ah Jd] (Full of 3 and Aces)
+angelina1975 collected 44034 from pot
+*** SUMMARY ***
+Total pot 44034 | No rake
+Board: [As Qc 3s 3d 3c]
+Seat 3: angelina1975 showed [Ah Jd] and won 44034 with Full of 3 and Aces
+Seat 6: Samuelo666 showed [2h 2d] and lost with Full of 3 and 2
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3251768071068581890-65-1710792341 - Holdem no limit (120/500/1000) - 2024/03/18 20:05:41 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #8 is the button
+Seat 1: WishUwereOUT (41091)
+Seat 3: angelina1975 (44034)
+Seat 4: P1xel7 (44665)
+Seat 5: krisnack9459 (10367)
+Seat 6: Samuelo666 (11363)
+Seat 7: bobmasquel (21057)
+Seat 8: Rizvertpomme (21887)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 120
+angelina1975 posts ante 120
+P1xel7 posts ante 120
+krisnack9459 posts ante 120
+Samuelo666 posts ante 120
+bobmasquel posts ante 120
+Rizvertpomme posts ante 120
+WishUwereOUT posts small blind 500
+angelina1975 posts big blind 1000
+Dealt to P1xel7 [4s Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+krisnack9459 folds
+Samuelo666 raises 10243 to 11243 and is all-in
+bobmasquel folds
+Rizvertpomme folds
+WishUwereOUT folds
+angelina1975 folds
+Samuelo666 collected 13583 from pot
+*** SUMMARY ***
+Total pot 13583 | No rake
+Seat 6: Samuelo666 won 13583
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3251768071068581890-66-1710792361 - Holdem no limit (120/500/1000) - 2024/03/18 20:06:01 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #1 is the button
+Seat 1: WishUwereOUT (40471)
+Seat 3: angelina1975 (42914)
+Seat 4: P1xel7 (44545)
+Seat 5: krisnack9459 (10247)
+Seat 6: Samuelo666 (13583)
+Seat 7: bobmasquel (20937)
+Seat 8: Rizvertpomme (21767)
+*** ANTE/BLINDS ***
+angelina1975 posts ante 120
+P1xel7 posts ante 120
+WishUwereOUT posts ante 120
+krisnack9459 posts ante 120
+Samuelo666 posts ante 120
+bobmasquel posts ante 120
+Rizvertpomme posts ante 120
+angelina1975 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [As 7h]
+*** PRE-FLOP *** 
+krisnack9459 folds
+Samuelo666 folds
+bobmasquel folds
+Rizvertpomme folds
+WishUwereOUT folds
+angelina1975 folds
+P1xel7 collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Seat 4: P1xel7 (big blind) won 2340
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3251768071068581890-67-1710792373 - Holdem no limit (120/500/1000) - 2024/03/18 20:06:13 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #3 is the button
+Seat 1: WishUwereOUT (40351)
+Seat 3: angelina1975 (42294)
+Seat 4: P1xel7 (45765)
+Seat 5: krisnack9459 (10127)
+Seat 6: Samuelo666 (13463)
+Seat 7: bobmasquel (20817)
+Seat 8: Rizvertpomme (21647)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+krisnack9459 posts ante 120
+WishUwereOUT posts ante 120
+angelina1975 posts ante 120
+Samuelo666 posts ante 120
+bobmasquel posts ante 120
+Rizvertpomme posts ante 120
+P1xel7 posts small blind 500
+krisnack9459 posts big blind 1000
+Dealt to P1xel7 [Ac 2s]
+*** PRE-FLOP *** 
+Samuelo666 calls 1000
+bobmasquel folds
+Rizvertpomme folds
+WishUwereOUT folds
+angelina1975 folds
+P1xel7 folds
+krisnack9459 checks
+*** FLOP *** [5d 2d 4h]
+krisnack9459 checks
+Samuelo666 checks
+*** TURN *** [5d 2d 4h][Qh]
+krisnack9459 checks
+Samuelo666 bets 1169
+krisnack9459 raises 7838 to 9007 and is all-in
+Samuelo666 calls 7838
+*** RIVER *** [5d 2d 4h Qh][As]
+*** SHOW DOWN ***
+Samuelo666 shows [Qd 6h] (One pair : Queens)
+krisnack9459 shows [9s Qc] (One pair : Queens)
+krisnack9459 collected 21354 from pot
+*** SUMMARY ***
+Total pot 21354 | No rake
+Board: [5d 2d 4h Qh As]
+Seat 5: krisnack9459 (big blind) showed [9s Qc] and won 21354 with One pair : Queens
+Seat 6: Samuelo666 showed [Qd 6h] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3251768071068581890-68-1710792426 - Holdem no limit (140/600/1200) - 2024/03/18 20:07:06 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #4 is the button
+Seat 1: WishUwereOUT (40231)
+Seat 2: Archervert24 (20000)
+Seat 3: angelina1975 (42174)
+Seat 4: P1xel7 (45145)
+Seat 5: krisnack9459 (21354)
+Seat 6: Samuelo666 (3336)
+Seat 7: bobmasquel (20697)
+Seat 8: Rizvertpomme (21527)
+*** ANTE/BLINDS ***
+krisnack9459 posts ante 140
+Samuelo666 posts ante 140
+WishUwereOUT posts ante 140
+Archervert24 posts ante 140
+angelina1975 posts ante 140
+P1xel7 posts ante 140
+bobmasquel posts ante 140
+Rizvertpomme posts ante 140
+krisnack9459 posts small blind 600
+Samuelo666 posts big blind 1200
+Dealt to P1xel7 [As 6c]
+*** PRE-FLOP *** 
+bobmasquel folds
+Rizvertpomme raises 2400 to 3600
+WishUwereOUT folds
+Archervert24 calls 3600
+angelina1975 folds
+P1xel7 folds
+krisnack9459 folds
+Samuelo666 calls 1996 and is all-in
+*** FLOP *** [8h Kc 5c]
+Rizvertpomme bets 4200
+Archervert24 calls 4200
+*** TURN *** [8h Kc 5c][Th]
+Rizvertpomme bets 13587 and is all-in
+Archervert24 calls 12060 and is all-in
+*** RIVER *** [8h Kc 5c Th][4h]
+*** SHOW DOWN ***
+Samuelo666 shows [3s Ts] (One pair : Tens)
+Archervert24 shows [Ac Tc] (One pair : Tens)
+Rizvertpomme shows [Ah Jc] (High card : Ace)
+Rizvertpomme collected 1527 from side pot 1
+Archervert24 collected 44636 from main pot
+*** SUMMARY ***
+Total pot 46163 | No rake
+Board: [8h Kc 5c Th 4h]
+Seat 2: Archervert24 showed [Ac Tc] and won 44636 with One pair : Tens
+Seat 6: Samuelo666 (big blind) showed [3s Ts] and lost with One pair : Tens
+Seat 8: Rizvertpomme showed [Ah Jc] and won 1527 with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3251768071068581890-69-1710792463 - Holdem no limit (140/600/1200) - 2024/03/18 20:07:43 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #5 is the button
+Seat 1: WishUwereOUT (40091)
+Seat 2: Archervert24 (44636)
+Seat 3: angelina1975 (42034)
+Seat 4: P1xel7 (45005)
+Seat 5: krisnack9459 (20614)
+Seat 7: bobmasquel (20557)
+Seat 8: Rizvertpomme (1527)
+*** ANTE/BLINDS ***
+bobmasquel posts ante 140
+WishUwereOUT posts ante 140
+Archervert24 posts ante 140
+angelina1975 posts ante 140
+P1xel7 posts ante 140
+krisnack9459 posts ante 140
+Rizvertpomme posts ante 140
+bobmasquel posts big blind 1200
+Dealt to P1xel7 [Ac 3d]
+*** PRE-FLOP *** 
+Rizvertpomme folds
+WishUwereOUT folds
+Archervert24 folds
+angelina1975 folds
+P1xel7 raises 1800 to 3000
+krisnack9459 folds
+bobmasquel folds
+P1xel7 collected 5180 from pot
+*** SUMMARY ***
+Total pot 5180 | No rake
+Seat 4: P1xel7 won 5180
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3251768071068581890-70-1710792514 - Holdem no limit (140/600/1200) - 2024/03/18 20:08:34 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #6 is the button
+Seat 1: WishUwereOUT (39951)
+Seat 2: Archervert24 (44496)
+Seat 3: angelina1975 (41894)
+Seat 4: P1xel7 (47045)
+Seat 5: krisnack9459 (20474)
+Seat 7: bobmasquel (19217)
+Seat 8: Rizvertpomme (1387)
+*** ANTE/BLINDS ***
+bobmasquel posts ante 140
+Rizvertpomme posts ante 140
+WishUwereOUT posts ante 140
+Archervert24 posts ante 140
+angelina1975 posts ante 140
+P1xel7 posts ante 140
+krisnack9459 posts ante 140
+bobmasquel posts small blind 600
+Rizvertpomme posts big blind 1200
+Dealt to P1xel7 [4h 2s]
+*** PRE-FLOP *** 
+WishUwereOUT folds
+Archervert24 folds
+angelina1975 folds
+P1xel7 folds
+krisnack9459 folds
+bobmasquel calls 600
+Rizvertpomme raises 47 to 1247 and is all-in
+bobmasquel calls 47
+*** FLOP *** [5s Th 3s]
+*** TURN *** [5s Th 3s][7s]
+*** RIVER *** [5s Th 3s 7s][3d]
+*** SHOW DOWN ***
+Rizvertpomme shows [Ad 9h] (One pair : 3)
+bobmasquel shows [5c As] (Two pairs : 5 and 3)
+bobmasquel collected 3474 from pot
+*** SUMMARY ***
+Total pot 3474 | No rake
+Board: [5s Th 3s 7s 3d]
+Seat 7: bobmasquel (small blind) showed [5c As] and won 3474 with Two pairs : 5 and 3
+Seat 8: Rizvertpomme (big blind) showed [Ad 9h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3251768071068581890-71-1710792552 - Holdem no limit (140/600/1200) - 2024/03/18 20:09:12 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #7 is the button
+Seat 1: WishUwereOUT (39811)
+Seat 2: Archervert24 (44356)
+Seat 3: angelina1975 (41754)
+Seat 4: P1xel7 (46905)
+Seat 5: krisnack9459 (20334)
+Seat 7: bobmasquel (21304)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 140
+Archervert24 posts ante 140
+angelina1975 posts ante 140
+P1xel7 posts ante 140
+krisnack9459 posts ante 140
+bobmasquel posts ante 140
+WishUwereOUT posts big blind 1200
+Dealt to P1xel7 [2d Ad]
+*** PRE-FLOP *** 
+Archervert24 folds
+angelina1975 folds
+P1xel7 folds
+krisnack9459 folds
+bobmasquel folds
+WishUwereOUT collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Seat 1: WishUwereOUT (big blind) won 2040
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3251768071068581890-72-1710792571 - Holdem no limit (140/600/1200) - 2024/03/18 20:09:31 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #8 is the button
+Seat 1: WishUwereOUT (40511)
+Seat 2: Archervert24 (44216)
+Seat 3: angelina1975 (41614)
+Seat 4: P1xel7 (46765)
+Seat 5: krisnack9459 (20194)
+Seat 7: bobmasquel (21164)
+Seat 8: KoRoNaBiRuS (40316)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 140
+Archervert24 posts ante 140
+angelina1975 posts ante 140
+P1xel7 posts ante 140
+krisnack9459 posts ante 140
+bobmasquel posts ante 140
+WishUwereOUT posts small blind 600
+Archervert24 posts big blind 1200
+Dealt to P1xel7 [9d 4d]
+*** PRE-FLOP *** 
+angelina1975 folds
+P1xel7 folds
+krisnack9459 folds
+bobmasquel folds
+WishUwereOUT folds
+Archervert24 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 2: Archervert24 (big blind) won 2640
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3251768071068581890-73-1710792594 - Holdem no limit (140/600/1200) - 2024/03/18 20:09:54 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #1 is the button
+Seat 1: WishUwereOUT (39771)
+Seat 2: Archervert24 (45516)
+Seat 3: angelina1975 (41474)
+Seat 4: P1xel7 (46625)
+Seat 5: krisnack9459 (20054)
+Seat 7: bobmasquel (21024)
+Seat 8: KoRoNaBiRuS (40316)
+*** ANTE/BLINDS ***
+Archervert24 posts ante 140
+angelina1975 posts ante 140
+WishUwereOUT posts ante 140
+P1xel7 posts ante 140
+krisnack9459 posts ante 140
+bobmasquel posts ante 140
+KoRoNaBiRuS posts ante 140
+Archervert24 posts small blind 600
+angelina1975 posts big blind 1200
+Dealt to P1xel7 [4d Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+krisnack9459 folds
+bobmasquel folds
+KoRoNaBiRuS folds
+WishUwereOUT raises 1500 to 2700
+Archervert24 calls 2100
+angelina1975 folds
+*** FLOP *** [Qs Kh Ks]
+Archervert24 bets 1200
+WishUwereOUT raises 4390 to 5590
+Archervert24 calls 4390
+*** TURN *** [Qs Kh Ks][7s]
+Archervert24 checks
+WishUwereOUT bets 9380
+Archervert24 raises 27706 to 37086 and is all-in
+WishUwereOUT calls 21961 and is all-in
+*** RIVER *** [Qs Kh Ks 7s][Kd]
+*** SHOW DOWN ***
+WishUwereOUT shows [Kc Ad] (Quads of Kings)
+Archervert24 shows [Td Qc] (Full of Kings and Queens)
+Archervert24 collected 5745 from side pot 1
+WishUwereOUT collected 81442 from main pot
+*** SUMMARY ***
+Total pot 87187 | No rake
+Board: [Qs Kh Ks 7s Kd]
+Seat 1: WishUwereOUT (button) showed [Kc Ad] and won 81442 with Quads of Kings
+Seat 2: Archervert24 (small blind) showed [Td Qc] and won 5745 with Full of Kings and Queens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3251768071068581890-74-1710792662 - Holdem no limit (140/600/1200) - 2024/03/18 20:11:02 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #2 is the button
+Seat 1: WishUwereOUT (81442)
+Seat 2: Archervert24 (5745)
+Seat 3: angelina1975 (40134)
+Seat 4: P1xel7 (46485)
+Seat 5: krisnack9459 (19914)
+Seat 7: bobmasquel (20884)
+Seat 8: KoRoNaBiRuS (40176)
+*** ANTE/BLINDS ***
+angelina1975 posts ante 140
+P1xel7 posts ante 140
+WishUwereOUT posts ante 140
+Archervert24 posts ante 140
+krisnack9459 posts ante 140
+bobmasquel posts ante 140
+KoRoNaBiRuS posts ante 140
+angelina1975 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [7d 4s]
+*** PRE-FLOP *** 
+krisnack9459 raises 1200 to 2400
+bobmasquel calls 2400
+KoRoNaBiRuS folds
+WishUwereOUT folds
+Archervert24 folds
+angelina1975 calls 1800
+P1xel7 calls 1200
+*** FLOP *** [Kc Qs 6h]
+angelina1975 checks
+P1xel7 checks
+krisnack9459 checks
+bobmasquel checks
+*** TURN *** [Kc Qs 6h][2d]
+angelina1975 bets 3703
+P1xel7 folds
+krisnack9459 folds
+bobmasquel folds
+angelina1975 collected 14283 from pot
+*** SUMMARY ***
+Total pot 14283 | No rake
+Board: [Kc Qs 6h 2d]
+Seat 3: angelina1975 (small blind) won 14283
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3251768071068581890-75-1710792737 - Holdem no limit (160/700/1400) - 2024/03/18 20:12:17 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #3 is the button
+Seat 1: WishUwereOUT (81302)
+Seat 2: Archervert24 (5605)
+Seat 3: angelina1975 (48174)
+Seat 4: P1xel7 (43945)
+Seat 5: krisnack9459 (17374)
+Seat 7: bobmasquel (18344)
+Seat 8: KoRoNaBiRuS (40036)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+krisnack9459 posts ante 160
+WishUwereOUT posts ante 160
+Archervert24 posts ante 160
+angelina1975 posts ante 160
+bobmasquel posts ante 160
+KoRoNaBiRuS posts ante 160
+P1xel7 posts small blind 700
+krisnack9459 posts big blind 1400
+Dealt to P1xel7 [4d 2s]
+*** PRE-FLOP *** 
+bobmasquel folds
+KoRoNaBiRuS raises 2800 to 4200
+WishUwereOUT folds
+Archervert24 folds
+angelina1975 raises 8400 to 12600
+P1xel7 folds
+krisnack9459 folds
+KoRoNaBiRuS raises 27276 to 39876 and is all-in
+angelina1975 calls 27276
+*** FLOP *** [6d Tc 7d]
+*** TURN *** [6d Tc 7d][Td]
+*** RIVER *** [6d Tc 7d Td][Th]
+*** SHOW DOWN ***
+KoRoNaBiRuS shows [Ac Kh] (Trips of Tens)
+angelina1975 shows [Qd Qs] (Full of Tens and Queens)
+angelina1975 collected 82972 from pot
+*** SUMMARY ***
+Total pot 82972 | No rake
+Board: [6d Tc 7d Td Th]
+Seat 3: angelina1975 (button) showed [Qd Qs] and won 82972 with Full of Tens and Queens
+Seat 8: KoRoNaBiRuS showed [Ac Kh] and lost with Trips of Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3251768071068581890-76-1710792779 - Holdem no limit (160/700/1400) - 2024/03/18 20:12:59 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #4 is the button
+Seat 1: WishUwereOUT (81142)
+Seat 2: Archervert24 (5445)
+Seat 3: angelina1975 (91110)
+Seat 4: P1xel7 (43085)
+Seat 5: krisnack9459 (15814)
+Seat 7: bobmasquel (18184)
+*** ANTE/BLINDS ***
+krisnack9459 posts ante 160
+bobmasquel posts ante 160
+WishUwereOUT posts ante 160
+Archervert24 posts ante 160
+angelina1975 posts ante 160
+P1xel7 posts ante 160
+krisnack9459 posts small blind 700
+bobmasquel posts big blind 1400
+Dealt to P1xel7 [4c Qc]
+*** PRE-FLOP *** 
+WishUwereOUT folds
+Archervert24 raises 3885 to 5285 and is all-in
+angelina1975 folds
+P1xel7 folds
+krisnack9459 folds
+bobmasquel folds
+Archervert24 collected 8345 from pot
+*** SUMMARY ***
+Total pot 8345 | No rake
+Seat 2: Archervert24 won 8345
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3251768071068581890-77-1710792794 - Holdem no limit (160/700/1400) - 2024/03/18 20:13:14 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #5 is the button
+Seat 1: WishUwereOUT (80982)
+Seat 2: Archervert24 (8345)
+Seat 3: angelina1975 (90950)
+Seat 4: P1xel7 (42925)
+Seat 5: krisnack9459 (14954)
+Seat 7: bobmasquel (16624)
+*** ANTE/BLINDS ***
+bobmasquel posts ante 160
+WishUwereOUT posts ante 160
+Archervert24 posts ante 160
+angelina1975 posts ante 160
+P1xel7 posts ante 160
+krisnack9459 posts ante 160
+bobmasquel posts small blind 700
+WishUwereOUT posts big blind 1400
+Dealt to P1xel7 [Jc Th]
+*** PRE-FLOP *** 
+Archervert24 calls 1400
+angelina1975 folds
+P1xel7 folds
+krisnack9459 folds
+bobmasquel calls 700
+WishUwereOUT checks
+*** FLOP *** [7h 4d 7s]
+bobmasquel checks
+WishUwereOUT checks
+Archervert24 checks
+*** TURN *** [7h 4d 7s][Ah]
+bobmasquel checks
+WishUwereOUT checks
+Archervert24 checks
+*** RIVER *** [7h 4d 7s Ah][Tc]
+bobmasquel bets 3354
+WishUwereOUT folds
+Archervert24 folds
+bobmasquel collected 8514 from pot
+*** SUMMARY ***
+Total pot 8514 | No rake
+Board: [7h 4d 7s Ah Tc]
+Seat 7: bobmasquel (small blind) won 8514
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3251768071068581890-78-1710792867 - Holdem no limit (160/700/1400) - 2024/03/18 20:14:27 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #7 is the button
+Seat 1: WishUwereOUT (79422)
+Seat 2: Archervert24 (6785)
+Seat 3: angelina1975 (90790)
+Seat 4: P1xel7 (42765)
+Seat 5: krisnack9459 (14794)
+Seat 6: didistef (16896)
+Seat 7: bobmasquel (20224)
+Seat 8: JtembrAAsss (55750)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 160
+Archervert24 posts ante 160
+angelina1975 posts ante 160
+P1xel7 posts ante 160
+krisnack9459 posts ante 160
+didistef posts ante 160
+bobmasquel posts ante 160
+WishUwereOUT posts small blind 700
+Archervert24 posts big blind 1400
+Dealt to P1xel7 [3s Td]
+*** PRE-FLOP *** 
+angelina1975 folds
+P1xel7 folds
+krisnack9459 raises 1400 to 2800
+didistef calls 2800
+bobmasquel folds
+WishUwereOUT folds
+Archervert24 folds
+*** FLOP *** [Qh 7h 2s]
+krisnack9459 bets 3087
+didistef raises 10849 to 13936 and is all-in
+krisnack9459 folds
+didistef collected 25843 from pot
+*** SUMMARY ***
+Total pot 25843 | No rake
+Board: [Qh 7h 2s]
+Seat 6: didistef won 25843
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3251768071068581890-79-1710792912 - Holdem no limit (160/700/1400) - 2024/03/18 20:15:12 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #1 is the button
+Seat 1: WishUwereOUT (78562)
+Seat 2: Archervert24 (5225)
+Seat 4: P1xel7 (42605)
+Seat 5: krisnack9459 (8747)
+Seat 6: didistef (25843)
+Seat 7: bobmasquel (20064)
+Seat 8: JtembrAAsss (55750)
+*** ANTE/BLINDS ***
+Archervert24 posts ante 160
+P1xel7 posts ante 160
+WishUwereOUT posts ante 160
+krisnack9459 posts ante 160
+didistef posts ante 160
+bobmasquel posts ante 160
+JtembrAAsss posts ante 160
+Archervert24 posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [8c Ks]
+*** PRE-FLOP *** 
+krisnack9459 folds
+didistef folds
+bobmasquel folds
+JtembrAAsss folds
+WishUwereOUT folds
+Archervert24 calls 700
+P1xel7 checks
+*** FLOP *** [Ah 2c Kd]
+Archervert24 checks
+P1xel7 bets 2100
+Archervert24 folds
+P1xel7 collected 6020 from pot
+*** SUMMARY ***
+Total pot 6020 | No rake
+Board: [Ah 2c Kd]
+Seat 4: P1xel7 (big blind) won 6020
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3251768071068581890-80-1710792962 - Holdem no limit (160/700/1400) - 2024/03/18 20:16:02 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #2 is the button
+Seat 1: WishUwereOUT (78402)
+Seat 2: Archervert24 (3665)
+Seat 4: P1xel7 (44965)
+Seat 5: krisnack9459 (8587)
+Seat 6: didistef (25683)
+Seat 7: bobmasquel (19904)
+Seat 8: JtembrAAsss (55590)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+krisnack9459 posts ante 160
+WishUwereOUT posts ante 160
+Archervert24 posts ante 160
+didistef posts ante 160
+bobmasquel posts ante 160
+JtembrAAsss posts ante 160
+P1xel7 posts small blind 700
+krisnack9459 posts big blind 1400
+Dealt to P1xel7 [As 6h]
+*** PRE-FLOP *** 
+didistef folds
+bobmasquel folds
+JtembrAAsss folds
+WishUwereOUT folds
+Archervert24 raises 2105 to 3505 and is all-in
+P1xel7 raises 41300 to 44805 and is all-in
+krisnack9459 calls 7027 and is all-in
+*** FLOP *** [2s Qh 5c]
+*** TURN *** [2s Qh 5c][Qs]
+*** RIVER *** [2s Qh 5c Qs][7h]
+*** SHOW DOWN ***
+Archervert24 shows [9d 7d] (Two pairs : Queens and 7)
+P1xel7 shows [As 6h] (One pair : Queens)
+krisnack9459 shows [Kc Ac] (One pair : Queens)
+krisnack9459 collected 9844 from side pot 1
+P1xel7 collected 36378 from side pot 2
+Archervert24 collected 11635 from main pot
+*** SUMMARY ***
+Total pot 57857 | No rake
+Board: [2s Qh 5c Qs 7h]
+Seat 2: Archervert24 (button) showed [9d 7d] and won 11635 with Two pairs : Queens and 7
+Seat 4: P1xel7 (small blind) showed [As 6h] and won 36378 with One pair : Queens
+Seat 5: krisnack9459 (big blind) showed [Kc Ac] and won 9844 with One pair : Queens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3251768071068581890-81-1710793001 - Holdem no limit (160/700/1400) - 2024/03/18 20:16:41 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #4 is the button
+Seat 1: WishUwereOUT (78242)
+Seat 2: Archervert24 (11635)
+Seat 4: P1xel7 (36378)
+Seat 5: krisnack9459 (9844)
+Seat 6: didistef (25523)
+Seat 7: bobmasquel (19744)
+Seat 8: JtembrAAsss (55430)
+*** ANTE/BLINDS ***
+krisnack9459 posts ante 160
+didistef posts ante 160
+WishUwereOUT posts ante 160
+Archervert24 posts ante 160
+P1xel7 posts ante 160
+bobmasquel posts ante 160
+JtembrAAsss posts ante 160
+krisnack9459 posts small blind 700
+didistef posts big blind 1400
+Dealt to P1xel7 [Kc 4s]
+*** PRE-FLOP *** 
+bobmasquel folds
+JtembrAAsss raises 1680 to 3080
+WishUwereOUT folds
+Archervert24 folds
+P1xel7 folds
+krisnack9459 raises 6604 to 9684 and is all-in
+didistef folds
+JtembrAAsss calls 6604
+*** FLOP *** [6h Ad 5h]
+*** TURN *** [6h Ad 5h][4h]
+*** RIVER *** [6h Ad 5h 4h][7c]
+*** SHOW DOWN ***
+JtembrAAsss shows [Tc Kd] (High card : Ace)
+krisnack9459 shows [Ac Ts] (One pair : Aces)
+krisnack9459 collected 21888 from pot
+*** SUMMARY ***
+Total pot 21888 | No rake
+Board: [6h Ad 5h 4h 7c]
+Seat 5: krisnack9459 (small blind) showed [Ac Ts] and won 21888 with One pair : Aces
+Seat 8: JtembrAAsss showed [Tc Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3251768071068581890-82-1710793042 - Holdem no limit (200/800/1600) - 2024/03/18 20:17:22 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #5 is the button
+Seat 1: WishUwereOUT (78082)
+Seat 2: Archervert24 (11475)
+Seat 4: P1xel7 (36218)
+Seat 5: krisnack9459 (21888)
+Seat 6: didistef (23963)
+Seat 7: bobmasquel (19584)
+Seat 8: JtembrAAsss (45586)
+*** ANTE/BLINDS ***
+didistef posts ante 200
+bobmasquel posts ante 200
+WishUwereOUT posts ante 200
+Archervert24 posts ante 200
+P1xel7 posts ante 200
+krisnack9459 posts ante 200
+JtembrAAsss posts ante 200
+didistef posts small blind 800
+bobmasquel posts big blind 1600
+Dealt to P1xel7 [4d 7d]
+*** PRE-FLOP *** 
+JtembrAAsss raises 2400 to 4000
+WishUwereOUT folds
+Archervert24 calls 4000
+P1xel7 folds
+krisnack9459 folds
+didistef calls 3200
+bobmasquel folds
+*** FLOP *** [4h Kc Ad]
+didistef checks
+JtembrAAsss bets 9750
+Archervert24 calls 7275 and is all-in
+didistef calls 9750
+*** TURN *** [4h Kc Ad][9d]
+didistef bets 10013 and is all-in
+JtembrAAsss calls 10013
+*** RIVER *** [4h Kc Ad 9d][4c]
+*** SHOW DOWN ***
+Archervert24 shows [Kd 6s] (Two pairs : Kings and 4)
+didistef shows [Ks 9s] (Two pairs : Kings and 9)
+JtembrAAsss shows [Js Ac] (Two pairs : Aces and 4)
+JtembrAAsss collected 61801 from pot
+*** SUMMARY ***
+Total pot 61801 | No rake
+Board: [4h Kc Ad 9d 4c]
+Seat 2: Archervert24 showed [Kd 6s] and lost with Two pairs : Kings and 4
+Seat 6: didistef (small blind) showed [Ks 9s] and lost with Two pairs : Kings and 9
+Seat 8: JtembrAAsss showed [Js Ac] and won 61801 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3251768071068581890-83-1710793090 - Holdem no limit (200/800/1600) - 2024/03/18 20:18:10 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #6 is the button
+Seat 1: WishUwereOUT (77882)
+Seat 4: P1xel7 (36018)
+Seat 5: krisnack9459 (21688)
+Seat 7: bobmasquel (17784)
+Seat 8: JtembrAAsss (83424)
+*** ANTE/BLINDS ***
+bobmasquel posts ante 200
+JtembrAAsss posts ante 200
+WishUwereOUT posts ante 200
+P1xel7 posts ante 200
+krisnack9459 posts ante 200
+bobmasquel posts small blind 800
+JtembrAAsss posts big blind 1600
+Dealt to P1xel7 [3c Kh]
+*** PRE-FLOP *** 
+WishUwereOUT folds
+P1xel7 folds
+krisnack9459 folds
+bobmasquel folds
+JtembrAAsss collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Seat 8: JtembrAAsss (big blind) won 3400
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3251768071068581890-84-1710793108 - Holdem no limit (200/800/1600) - 2024/03/18 20:18:28 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #7 is the button
+Seat 1: WishUwereOUT (77682)
+Seat 4: P1xel7 (35818)
+Seat 5: krisnack9459 (21488)
+Seat 7: bobmasquel (16784)
+Seat 8: JtembrAAsss (85024)
+*** ANTE/BLINDS ***
+JtembrAAsss posts ante 200
+WishUwereOUT posts ante 200
+P1xel7 posts ante 200
+krisnack9459 posts ante 200
+bobmasquel posts ante 200
+JtembrAAsss posts small blind 800
+WishUwereOUT posts big blind 1600
+Dealt to P1xel7 [Th 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+krisnack9459 folds
+bobmasquel folds
+JtembrAAsss calls 800
+WishUwereOUT checks
+*** FLOP *** [9c Jc 8c]
+JtembrAAsss checks
+WishUwereOUT checks
+*** TURN *** [9c Jc 8c][7c]
+JtembrAAsss checks
+WishUwereOUT bets 2100
+JtembrAAsss folds
+WishUwereOUT collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [9c Jc 8c 7c]
+Seat 1: WishUwereOUT (big blind) won 6300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3251768071068581890-85-1710793149 - Holdem no limit (200/800/1600) - 2024/03/18 20:19:09 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #8 is the button
+Seat 1: WishUwereOUT (80082)
+Seat 4: P1xel7 (35618)
+Seat 5: krisnack9459 (21288)
+Seat 7: bobmasquel (16584)
+Seat 8: JtembrAAsss (83224)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 200
+P1xel7 posts ante 200
+krisnack9459 posts ante 200
+bobmasquel posts ante 200
+JtembrAAsss posts ante 200
+WishUwereOUT posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [Ah Jh]
+*** PRE-FLOP *** 
+krisnack9459 folds
+bobmasquel folds
+JtembrAAsss folds
+WishUwereOUT calls 800
+P1xel7 raises 33818 to 35418 and is all-in
+WishUwereOUT folds
+P1xel7 collected 38018 from pot
+*** SUMMARY ***
+Total pot 38018 | No rake
+Seat 4: P1xel7 (big blind) won 38018
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3251768071068581890-86-1710793169 - Holdem no limit (200/800/1600) - 2024/03/18 20:19:29 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #1 is the button
+Seat 1: WishUwereOUT (78282)
+Seat 2: lenain43 (29231)
+Seat 3: jdeepenshort (66277)
+Seat 4: P1xel7 (38018)
+Seat 5: krisnack9459 (21088)
+Seat 6: KillTheRiche (67156)
+Seat 7: bobmasquel (16384)
+Seat 8: JtembrAAsss (83024)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+krisnack9459 posts ante 200
+WishUwereOUT posts ante 200
+KillTheRiche posts ante 200
+bobmasquel posts ante 200
+JtembrAAsss posts ante 200
+P1xel7 posts small blind 800
+krisnack9459 posts big blind 1600
+Dealt to P1xel7 [9s Qh]
+*** PRE-FLOP *** 
+KillTheRiche folds
+bobmasquel folds
+JtembrAAsss folds
+WishUwereOUT folds
+P1xel7 raises 36218 to 37818 and is all-in
+krisnack9459 calls 19288 and is all-in
+*** FLOP *** [4d Qd 3h]
+*** TURN *** [4d Qd 3h][9c]
+*** RIVER *** [4d Qd 3h 9c][8c]
+*** SHOW DOWN ***
+krisnack9459 shows [Ad 7h] (High card : Ace)
+P1xel7 shows [9s Qh] (Two pairs : Queens and 9)
+P1xel7 collected 59906 from pot
+*** SUMMARY ***
+Total pot 59906 | No rake
+Board: [4d Qd 3h 9c 8c]
+Seat 4: P1xel7 (small blind) showed [9s Qh] and won 59906 with Two pairs : Queens and 9
+Seat 5: krisnack9459 (big blind) showed [Ad 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3251768071068581890-87-1710793211 - Holdem no limit (200/800/1600) - 2024/03/18 20:20:11 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #4 is the button
+Seat 1: WishUwereOUT (78082)
+Seat 2: lenain43 (29231)
+Seat 3: jdeepenshort (66277)
+Seat 4: P1xel7 (59906)
+Seat 6: KillTheRiche (66956)
+Seat 7: bobmasquel (16184)
+Seat 8: JtembrAAsss (82824)
+*** ANTE/BLINDS ***
+KillTheRiche posts ante 200
+WishUwereOUT posts ante 200
+lenain43 posts ante 200
+jdeepenshort posts ante 200
+P1xel7 posts ante 200
+bobmasquel posts ante 200
+JtembrAAsss posts ante 200
+KillTheRiche posts big blind 1600
+Dealt to P1xel7 [Ac 7h]
+*** PRE-FLOP *** 
+bobmasquel folds
+JtembrAAsss folds
+WishUwereOUT folds
+lenain43 folds
+jdeepenshort raises 1600 to 3200
+P1xel7 folds
+KillTheRiche calls 1600
+*** FLOP *** [3d 4c Qc]
+KillTheRiche checks
+jdeepenshort checks
+*** TURN *** [3d 4c Qc][8c]
+KillTheRiche bets 2400
+jdeepenshort calls 2400
+*** RIVER *** [3d 4c Qc 8c][8h]
+KillTheRiche checks
+jdeepenshort bets 6300
+KillTheRiche calls 6300
+*** SHOW DOWN ***
+KillTheRiche shows [7s 7c] (Two pairs : 8 and 7)
+jdeepenshort shows [Ah 8d] (Trips of 8)
+jdeepenshort collected 25200 from pot
+*** SUMMARY ***
+Total pot 25200 | No rake
+Board: [3d 4c Qc 8c 8h]
+Seat 3: jdeepenshort showed [Ah 8d] and won 25200 with Trips of 8
+Seat 6: KillTheRiche (big blind) showed [7s 7c] and lost with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3251768071068581890-88-1710793286 - Holdem no limit (200/800/1600) - 2024/03/18 20:21:26 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #5 is the button
+Seat 1: WishUwereOUT (77882)
+Seat 2: lenain43 (29031)
+Seat 3: jdeepenshort (79377)
+Seat 4: P1xel7 (59706)
+Seat 6: KillTheRiche (54856)
+Seat 7: bobmasquel (15984)
+Seat 8: JtembrAAsss (82624)
+*** ANTE/BLINDS ***
+KillTheRiche posts ante 200
+bobmasquel posts ante 200
+WishUwereOUT posts ante 200
+lenain43 posts ante 200
+jdeepenshort posts ante 200
+P1xel7 posts ante 200
+JtembrAAsss posts ante 200
+KillTheRiche posts small blind 800
+bobmasquel posts big blind 1600
+Dealt to P1xel7 [Td Tc]
+*** PRE-FLOP *** 
+JtembrAAsss folds
+WishUwereOUT folds
+lenain43 folds
+jdeepenshort folds
+P1xel7 raises 2400 to 4000
+KillTheRiche folds
+bobmasquel folds
+P1xel7 collected 7800 from pot
+*** SUMMARY ***
+Total pot 7800 | No rake
+Seat 4: P1xel7 won 7800
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3251768071068581890-89-1710793315 - Holdem no limit (200/800/1600) - 2024/03/18 20:21:55 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #6 is the button
+Seat 1: WishUwereOUT (77682)
+Seat 2: lenain43 (28831)
+Seat 3: jdeepenshort (79177)
+Seat 4: P1xel7 (63306)
+Seat 6: KillTheRiche (53856)
+Seat 7: bobmasquel (14184)
+Seat 8: JtembrAAsss (82424)
+*** ANTE/BLINDS ***
+bobmasquel posts ante 200
+JtembrAAsss posts ante 200
+WishUwereOUT posts ante 200
+lenain43 posts ante 200
+jdeepenshort posts ante 200
+P1xel7 posts ante 200
+KillTheRiche posts ante 200
+bobmasquel posts small blind 800
+JtembrAAsss posts big blind 1600
+Dealt to P1xel7 [3h 2c]
+*** PRE-FLOP *** 
+WishUwereOUT folds
+lenain43 raises 1600 to 3200
+jdeepenshort folds
+P1xel7 folds
+KillTheRiche folds
+bobmasquel calls 2400
+JtembrAAsss raises 9600 to 12800
+lenain43 folds
+bobmasquel folds
+JtembrAAsss collected 20600 from pot
+*** SUMMARY ***
+Total pot 20600 | No rake
+Seat 8: JtembrAAsss (big blind) won 20600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3251768071068581890-90-1710793365 - Holdem no limit (250/1000/2000) - 2024/03/18 20:22:45 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #7 is the button
+Seat 1: WishUwereOUT (77482)
+Seat 2: lenain43 (25431)
+Seat 3: jdeepenshort (78977)
+Seat 4: P1xel7 (63106)
+Seat 6: KillTheRiche (53656)
+Seat 7: bobmasquel (10784)
+Seat 8: JtembrAAsss (90024)
+*** ANTE/BLINDS ***
+JtembrAAsss posts ante 250
+WishUwereOUT posts ante 250
+lenain43 posts ante 250
+jdeepenshort posts ante 250
+P1xel7 posts ante 250
+KillTheRiche posts ante 250
+bobmasquel posts ante 250
+JtembrAAsss posts small blind 1000
+WishUwereOUT posts big blind 2000
+Dealt to P1xel7 [4s Js]
+*** PRE-FLOP *** 
+lenain43 folds
+jdeepenshort folds
+P1xel7 folds
+KillTheRiche folds
+bobmasquel folds
+JtembrAAsss raises 5000 to 7000
+WishUwereOUT folds
+JtembrAAsss collected 10750 from pot
+*** SUMMARY ***
+Total pot 10750 | No rake
+Seat 8: JtembrAAsss (small blind) won 10750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3251768071068581890-91-1710793403 - Holdem no limit (250/1000/2000) - 2024/03/18 20:23:23 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #8 is the button
+Seat 1: WishUwereOUT (75232)
+Seat 2: lenain43 (25181)
+Seat 3: jdeepenshort (78727)
+Seat 4: P1xel7 (62856)
+Seat 6: KillTheRiche (53406)
+Seat 7: bobmasquel (10534)
+Seat 8: JtembrAAsss (93524)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 250
+lenain43 posts ante 250
+jdeepenshort posts ante 250
+P1xel7 posts ante 250
+KillTheRiche posts ante 250
+bobmasquel posts ante 250
+JtembrAAsss posts ante 250
+WishUwereOUT posts small blind 1000
+lenain43 posts big blind 2000
+Dealt to P1xel7 [3c 7d]
+*** PRE-FLOP *** 
+jdeepenshort folds
+P1xel7 folds
+KillTheRiche folds
+bobmasquel folds
+JtembrAAsss raises 3000 to 5000
+WishUwereOUT calls 4000
+lenain43 folds
+*** FLOP *** [Qd Qs 3s]
+WishUwereOUT checks
+JtembrAAsss bets 8938
+WishUwereOUT folds
+JtembrAAsss collected 22688 from pot
+*** SUMMARY ***
+Total pot 22688 | No rake
+Board: [Qd Qs 3s]
+Seat 8: JtembrAAsss (button) won 22688
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3251768071068581890-92-1710793457 - Holdem no limit (250/1000/2000) - 2024/03/18 20:24:17 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #1 is the button
+Seat 1: WishUwereOUT (69982)
+Seat 2: lenain43 (22931)
+Seat 3: jdeepenshort (78477)
+Seat 4: P1xel7 (62606)
+Seat 6: KillTheRiche (53156)
+Seat 7: bobmasquel (10284)
+Seat 8: JtembrAAsss (102024)
+*** ANTE/BLINDS ***
+lenain43 posts ante 250
+jdeepenshort posts ante 250
+WishUwereOUT posts ante 250
+P1xel7 posts ante 250
+KillTheRiche posts ante 250
+bobmasquel posts ante 250
+JtembrAAsss posts ante 250
+lenain43 posts small blind 1000
+jdeepenshort posts big blind 2000
+Dealt to P1xel7 [2h 2d]
+*** PRE-FLOP *** 
+P1xel7 raises 2400 to 4400
+KillTheRiche folds
+bobmasquel folds
+JtembrAAsss raises 11000 to 15400
+WishUwereOUT folds
+lenain43 folds
+jdeepenshort folds
+P1xel7 folds
+JtembrAAsss collected 24550 from pot
+*** SUMMARY ***
+Total pot 24550 | No rake
+Seat 8: JtembrAAsss won 24550
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3251768071068581890-93-1710793494 - Holdem no limit (250/1000/2000) - 2024/03/18 20:24:54 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #2 is the button
+Seat 1: WishUwereOUT (69732)
+Seat 2: lenain43 (21681)
+Seat 3: jdeepenshort (76227)
+Seat 4: P1xel7 (57956)
+Seat 6: KillTheRiche (52906)
+Seat 7: bobmasquel (10034)
+Seat 8: JtembrAAsss (110924)
+*** ANTE/BLINDS ***
+jdeepenshort posts ante 250
+P1xel7 posts ante 250
+WishUwereOUT posts ante 250
+lenain43 posts ante 250
+KillTheRiche posts ante 250
+bobmasquel posts ante 250
+JtembrAAsss posts ante 250
+jdeepenshort posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [5c Kc]
+*** PRE-FLOP *** 
+KillTheRiche folds
+bobmasquel folds
+JtembrAAsss folds
+WishUwereOUT raises 2500 to 4500
+lenain43 folds
+jdeepenshort folds
+P1xel7 folds
+WishUwereOUT collected 9250 from pot
+*** SUMMARY ***
+Total pot 9250 | No rake
+Seat 1: WishUwereOUT won 9250
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3251768071068581890-94-1710793514 - Holdem no limit (250/1000/2000) - 2024/03/18 20:25:14 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #3 is the button
+Seat 1: WishUwereOUT (74232)
+Seat 2: lenain43 (21431)
+Seat 3: jdeepenshort (74977)
+Seat 4: P1xel7 (55706)
+Seat 6: KillTheRiche (52656)
+Seat 7: bobmasquel (9784)
+Seat 8: JtembrAAsss (110674)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+KillTheRiche posts ante 250
+WishUwereOUT posts ante 250
+lenain43 posts ante 250
+jdeepenshort posts ante 250
+bobmasquel posts ante 250
+JtembrAAsss posts ante 250
+P1xel7 posts small blind 1000
+KillTheRiche posts big blind 2000
+Dealt to P1xel7 [4d 3d]
+*** PRE-FLOP *** 
+bobmasquel folds
+JtembrAAsss folds
+WishUwereOUT folds
+lenain43 folds
+jdeepenshort raises 2000 to 4000
+P1xel7 calls 3000
+KillTheRiche raises 7000 to 11000
+jdeepenshort folds
+P1xel7 folds
+KillTheRiche collected 20750 from pot
+*** SUMMARY ***
+Total pot 20750 | No rake
+Seat 6: KillTheRiche (big blind) won 20750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3251768071068581890-95-1710793563 - Holdem no limit (250/1000/2000) - 2024/03/18 20:26:03 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #4 is the button
+Seat 1: WishUwereOUT (73982)
+Seat 2: lenain43 (21181)
+Seat 3: jdeepenshort (70727)
+Seat 4: P1xel7 (51456)
+Seat 6: KillTheRiche (62156)
+Seat 7: bobmasquel (9534)
+Seat 8: JtembrAAsss (110424)
+*** ANTE/BLINDS ***
+KillTheRiche posts ante 250
+bobmasquel posts ante 250
+WishUwereOUT posts ante 250
+lenain43 posts ante 250
+jdeepenshort posts ante 250
+P1xel7 posts ante 250
+JtembrAAsss posts ante 250
+KillTheRiche posts small blind 1000
+bobmasquel posts big blind 2000
+Dealt to P1xel7 [9h 9d]
+*** PRE-FLOP *** 
+JtembrAAsss folds
+WishUwereOUT folds
+lenain43 calls 2000
+jdeepenshort folds
+P1xel7 raises 8000 to 10000
+KillTheRiche folds
+bobmasquel folds
+lenain43 folds
+P1xel7 collected 16750 from pot
+*** SUMMARY ***
+Total pot 16750 | No rake
+Seat 4: P1xel7 (button) won 16750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3251768071068581890-96-1710793588 - Holdem no limit (250/1000/2000) - 2024/03/18 20:26:28 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #6 is the button
+Seat 1: WishUwereOUT (73732)
+Seat 2: lenain43 (18931)
+Seat 3: jdeepenshort (70477)
+Seat 4: P1xel7 (57956)
+Seat 6: KillTheRiche (60906)
+Seat 7: bobmasquel (7284)
+Seat 8: JtembrAAsss (110174)
+*** ANTE/BLINDS ***
+bobmasquel posts ante 250
+JtembrAAsss posts ante 250
+WishUwereOUT posts ante 250
+lenain43 posts ante 250
+jdeepenshort posts ante 250
+P1xel7 posts ante 250
+KillTheRiche posts ante 250
+bobmasquel posts small blind 1000
+JtembrAAsss posts big blind 2000
+Dealt to P1xel7 [Tc 3s]
+*** PRE-FLOP *** 
+WishUwereOUT folds
+lenain43 folds
+jdeepenshort folds
+P1xel7 folds
+KillTheRiche folds
+bobmasquel folds
+JtembrAAsss collected 4750 from pot
+*** SUMMARY ***
+Total pot 4750 | No rake
+Seat 8: JtembrAAsss (big blind) won 4750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3251768071068581890-97-1710793607 - Holdem no limit (250/1000/2000) - 2024/03/18 20:26:47 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #7 is the button
+Seat 1: WishUwereOUT (73482)
+Seat 2: lenain43 (18681)
+Seat 3: jdeepenshort (70227)
+Seat 4: P1xel7 (57706)
+Seat 6: KillTheRiche (60656)
+Seat 7: bobmasquel (6034)
+Seat 8: JtembrAAsss (112674)
+*** ANTE/BLINDS ***
+JtembrAAsss posts ante 250
+WishUwereOUT posts ante 250
+lenain43 posts ante 250
+jdeepenshort posts ante 250
+P1xel7 posts ante 250
+KillTheRiche posts ante 250
+bobmasquel posts ante 250
+JtembrAAsss posts small blind 1000
+WishUwereOUT posts big blind 2000
+Dealt to P1xel7 [As 4d]
+*** PRE-FLOP *** 
+lenain43 raises 16431 to 18431 and is all-in
+jdeepenshort folds
+P1xel7 folds
+KillTheRiche folds
+bobmasquel folds
+JtembrAAsss folds
+WishUwereOUT folds
+lenain43 collected 23181 from pot
+*** SUMMARY ***
+Total pot 23181 | No rake
+Seat 2: lenain43 won 23181
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3251768071068581890-98-1710793630 - Holdem no limit (300/1250/2500) - 2024/03/18 20:27:10 UTC
+Table: 'Hold'em(757111253)#001' 8-max (real money) Seat #8 is the button
+Seat 1: WishUwereOUT (71232)
+Seat 2: lenain43 (23181)
+Seat 3: jdeepenshort (69977)
+Seat 4: P1xel7 (57456)
+Seat 6: KillTheRiche (60406)
+Seat 7: bobmasquel (5784)
+Seat 8: JtembrAAsss (111424)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 300
+lenain43 posts ante 300
+jdeepenshort posts ante 300
+P1xel7 posts ante 300
+KillTheRiche posts ante 300
+bobmasquel posts ante 300
+JtembrAAsss posts ante 300
+WishUwereOUT posts small blind 1250
+lenain43 posts big blind 2500
+Dealt to P1xel7 [Kh 6d]
+*** PRE-FLOP *** 
+jdeepenshort raises 2500 to 5000
+P1xel7 folds
+KillTheRiche folds
+bobmasquel folds
+JtembrAAsss folds
+WishUwereOUT folds
+lenain43 folds
+jdeepenshort collected 10850 from pot
+*** SUMMARY ***
+Total pot 10850 | No rake
+Seat 3: jdeepenshort won 10850
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3251768071068581891-103-1710793675 - Holdem no limit (300/1250/2500) - 2024/03/18 20:27:55 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #2 is the button
+Seat 1: sylvinho444 (39050)
+Seat 2: KillTheRiche (60106)
+Seat 3: Kae-S-Breizh (9005)
+Seat 4: JtembrAAsss (111124)
+Seat 5: lenain43 (20381)
+Seat 6: Kurykoko (51002)
+Seat 7: Stimulus (23326)
+Seat 8: P1xel7 (57156)
+*** ANTE/BLINDS ***
+Kae-S-Breizh posts ante 300
+JtembrAAsss posts ante 300
+sylvinho444 posts ante 300
+KillTheRiche posts ante 300
+lenain43 posts ante 300
+Kurykoko posts ante 300
+Stimulus posts ante 300
+P1xel7 posts ante 300
+Kae-S-Breizh posts small blind 1250
+JtembrAAsss posts big blind 2500
+Dealt to P1xel7 [3d 8h]
+*** PRE-FLOP *** 
+lenain43 folds
+Kurykoko folds
+Stimulus folds
+P1xel7 folds
+sylvinho444 folds
+KillTheRiche folds
+Kae-S-Breizh folds
+JtembrAAsss collected 6150 from pot
+*** SUMMARY ***
+Total pot 6150 | No rake
+Seat 4: JtembrAAsss (big blind) won 6150
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3251768071068581891-104-1710793691 - Holdem no limit (300/1250/2500) - 2024/03/18 20:28:11 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #3 is the button
+Seat 1: sylvinho444 (38750)
+Seat 2: KillTheRiche (59806)
+Seat 3: Kae-S-Breizh (7455)
+Seat 4: JtembrAAsss (114474)
+Seat 5: lenain43 (20081)
+Seat 6: Kurykoko (50702)
+Seat 7: Stimulus (23026)
+Seat 8: P1xel7 (56856)
+*** ANTE/BLINDS ***
+JtembrAAsss posts ante 300
+lenain43 posts ante 300
+sylvinho444 posts ante 300
+KillTheRiche posts ante 300
+Kae-S-Breizh posts ante 300
+Kurykoko posts ante 300
+Stimulus posts ante 300
+P1xel7 posts ante 300
+JtembrAAsss posts small blind 1250
+lenain43 posts big blind 2500
+Dealt to P1xel7 [7d Ad]
+*** PRE-FLOP *** 
+Kurykoko folds
+Stimulus folds
+P1xel7 folds
+sylvinho444 folds
+KillTheRiche folds
+Kae-S-Breizh folds
+JtembrAAsss raises 18650 to 21150
+lenain43 folds
+JtembrAAsss collected 26050 from pot
+*** SUMMARY ***
+Total pot 26050 | No rake
+Seat 4: JtembrAAsss (small blind) won 26050
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3251768071068581891-105-1710793735 - Holdem no limit (300/1250/2500) - 2024/03/18 20:28:55 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #4 is the button
+Seat 1: sylvinho444 (38450)
+Seat 2: KillTheRiche (59506)
+Seat 3: Kae-S-Breizh (7155)
+Seat 4: JtembrAAsss (119074)
+Seat 5: lenain43 (17281)
+Seat 6: Kurykoko (50402)
+Seat 7: Stimulus (22726)
+Seat 8: P1xel7 (56556)
+*** ANTE/BLINDS ***
+lenain43 posts ante 300
+Kurykoko posts ante 300
+sylvinho444 posts ante 300
+KillTheRiche posts ante 300
+Kae-S-Breizh posts ante 300
+JtembrAAsss posts ante 300
+Stimulus posts ante 300
+P1xel7 posts ante 300
+lenain43 posts small blind 1250
+Kurykoko posts big blind 2500
+Dealt to P1xel7 [Ac 4h]
+*** PRE-FLOP *** 
+Stimulus folds
+P1xel7 folds
+sylvinho444 folds
+KillTheRiche folds
+Kae-S-Breizh folds
+JtembrAAsss folds
+lenain43 folds
+Kurykoko collected 6150 from pot
+*** SUMMARY ***
+Total pot 6150 | No rake
+Seat 6: Kurykoko (big blind) won 6150
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3251768071068581891-106-1710793758 - Holdem no limit (300/1250/2500) - 2024/03/18 20:29:18 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #5 is the button
+Seat 1: sylvinho444 (38150)
+Seat 2: KillTheRiche (59206)
+Seat 3: Kae-S-Breizh (6855)
+Seat 4: JtembrAAsss (118774)
+Seat 5: lenain43 (15731)
+Seat 6: Kurykoko (53752)
+Seat 7: Stimulus (22426)
+Seat 8: P1xel7 (56256)
+*** ANTE/BLINDS ***
+Kurykoko posts ante 300
+Stimulus posts ante 300
+sylvinho444 posts ante 300
+KillTheRiche posts ante 300
+Kae-S-Breizh posts ante 300
+JtembrAAsss posts ante 300
+lenain43 posts ante 300
+P1xel7 posts ante 300
+Kurykoko posts small blind 1250
+Stimulus posts big blind 2500
+Dealt to P1xel7 [6c 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+sylvinho444 folds
+KillTheRiche folds
+Kae-S-Breizh folds
+JtembrAAsss folds
+lenain43 raises 12931 to 15431 and is all-in
+Kurykoko folds
+Stimulus calls 12931
+*** FLOP *** [Ac 7c 7d]
+*** TURN *** [Ac 7c 7d][Qd]
+*** RIVER *** [Ac 7c 7d Qd][Jc]
+*** SHOW DOWN ***
+Stimulus shows [Tc Ts] (Two pairs : Tens and 7)
+lenain43 shows [Ad Jh] (Two pairs : Aces and Jacks)
+lenain43 collected 34512 from pot
+*** SUMMARY ***
+Total pot 34512 | No rake
+Board: [Ac 7c 7d Qd Jc]
+Seat 5: lenain43 (button) showed [Ad Jh] and won 34512 with Two pairs : Aces and Jacks
+Seat 7: Stimulus (big blind) showed [Tc Ts] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3251768071068581891-107-1710793797 - Holdem no limit (300/1250/2500) - 2024/03/18 20:29:57 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #6 is the button
+Seat 1: sylvinho444 (37850)
+Seat 2: KillTheRiche (58906)
+Seat 3: Kae-S-Breizh (6555)
+Seat 4: JtembrAAsss (118474)
+Seat 5: lenain43 (34512)
+Seat 6: Kurykoko (52202)
+Seat 7: Stimulus (6695)
+Seat 8: P1xel7 (55956)
+*** ANTE/BLINDS ***
+Stimulus posts ante 300
+P1xel7 posts ante 300
+sylvinho444 posts ante 300
+KillTheRiche posts ante 300
+Kae-S-Breizh posts ante 300
+JtembrAAsss posts ante 300
+lenain43 posts ante 300
+Kurykoko posts ante 300
+Stimulus posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [8d 5d]
+*** PRE-FLOP *** 
+sylvinho444 folds
+KillTheRiche raises 2500 to 5000
+Kae-S-Breizh folds
+JtembrAAsss folds
+lenain43 folds
+Kurykoko folds
+Stimulus folds
+P1xel7 folds
+KillTheRiche collected 11150 from pot
+*** SUMMARY ***
+Total pot 11150 | No rake
+Seat 2: KillTheRiche won 11150
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3251768071068581891-108-1710793840 - Holdem no limit (300/1250/2500) - 2024/03/18 20:30:40 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #7 is the button
+Seat 1: sylvinho444 (37550)
+Seat 2: KillTheRiche (64756)
+Seat 3: Kae-S-Breizh (6255)
+Seat 4: JtembrAAsss (118174)
+Seat 5: lenain43 (34212)
+Seat 6: Kurykoko (51902)
+Seat 7: Stimulus (5145)
+Seat 8: P1xel7 (53156)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+sylvinho444 posts ante 300
+KillTheRiche posts ante 300
+Kae-S-Breizh posts ante 300
+JtembrAAsss posts ante 300
+lenain43 posts ante 300
+Kurykoko posts ante 300
+Stimulus posts ante 300
+P1xel7 posts small blind 1250
+sylvinho444 posts big blind 2500
+Dealt to P1xel7 [7d Qd]
+*** PRE-FLOP *** 
+KillTheRiche folds
+Kae-S-Breizh folds
+JtembrAAsss folds
+lenain43 folds
+Kurykoko raises 2500 to 5000
+Stimulus calls 4845 and is all-in
+P1xel7 folds
+sylvinho444 folds
+*** FLOP *** [Qc 8s Jd]
+*** TURN *** [Qc 8s Jd][4h]
+*** RIVER *** [Qc 8s Jd 4h][9c]
+*** SHOW DOWN ***
+Stimulus shows [Ad 3d] (High card : Ace)
+Kurykoko shows [Tc Jc] (Straight Queen high)
+Kurykoko collected 15995 from pot
+*** SUMMARY ***
+Total pot 15995 | No rake
+Board: [Qc 8s Jd 4h 9c]
+Seat 6: Kurykoko showed [Tc Jc] and won 15995 with Straight Queen high
+Seat 7: Stimulus (button) showed [Ad 3d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3251768071068581891-109-1710793886 - Holdem no limit (300/1250/2500) - 2024/03/18 20:31:26 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #8 is the button
+Seat 1: sylvinho444 (34750)
+Seat 2: KillTheRiche (64456)
+Seat 3: Kae-S-Breizh (5955)
+Seat 4: JtembrAAsss (117874)
+Seat 5: lenain43 (33912)
+Seat 6: Kurykoko (62597)
+Seat 8: P1xel7 (51606)
+*** ANTE/BLINDS ***
+sylvinho444 posts ante 300
+KillTheRiche posts ante 300
+Kae-S-Breizh posts ante 300
+JtembrAAsss posts ante 300
+lenain43 posts ante 300
+Kurykoko posts ante 300
+P1xel7 posts ante 300
+sylvinho444 posts small blind 1250
+KillTheRiche posts big blind 2500
+Dealt to P1xel7 [2s Ah]
+*** PRE-FLOP *** 
+Kae-S-Breizh folds
+JtembrAAsss folds
+lenain43 folds
+Kurykoko folds
+P1xel7 raises 2500 to 5000
+sylvinho444 raises 29450 to 34450 and is all-in
+KillTheRiche folds
+P1xel7 folds
+sylvinho444 collected 44050 from pot
+*** SUMMARY ***
+Total pot 44050 | No rake
+Seat 1: sylvinho444 (small blind) won 44050
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3251768071068581891-110-1710793920 - Holdem no limit (300/1250/2500) - 2024/03/18 20:32:00 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #1 is the button
+Seat 1: sylvinho444 (44050)
+Seat 2: KillTheRiche (61656)
+Seat 3: Kae-S-Breizh (5655)
+Seat 4: JtembrAAsss (117574)
+Seat 5: lenain43 (33612)
+Seat 6: Kurykoko (62297)
+Seat 8: P1xel7 (46306)
+*** ANTE/BLINDS ***
+KillTheRiche posts ante 300
+Kae-S-Breizh posts ante 300
+sylvinho444 posts ante 300
+JtembrAAsss posts ante 300
+lenain43 posts ante 300
+Kurykoko posts ante 300
+P1xel7 posts ante 300
+KillTheRiche posts small blind 1250
+Kae-S-Breizh posts big blind 2500
+Dealt to P1xel7 [6s Jh]
+*** PRE-FLOP *** 
+JtembrAAsss folds
+lenain43 folds
+Kurykoko folds
+P1xel7 folds
+sylvinho444 folds
+KillTheRiche raises 58856 to 61356 and is all-in
+Kae-S-Breizh calls 2855 and is all-in
+*** FLOP *** [8d 9s 8h]
+*** TURN *** [8d 9s 8h][Ks]
+*** RIVER *** [8d 9s 8h Ks][6h]
+*** SHOW DOWN ***
+Kae-S-Breizh shows [Qh Ad] (One pair : 8)
+KillTheRiche shows [Kh Tc] (Two pairs : Kings and 8)
+KillTheRiche collected 68811 from pot
+*** SUMMARY ***
+Total pot 68811 | No rake
+Board: [8d 9s 8h Ks 6h]
+Seat 2: KillTheRiche (small blind) showed [Kh Tc] and won 68811 with Two pairs : Kings and 8
+Seat 3: Kae-S-Breizh (big blind) showed [Qh Ad] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3251768071068581891-111-1710793955 - Holdem no limit (350/1500/3000) - 2024/03/18 20:32:35 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #2 is the button
+Seat 1: sylvinho444 (43750)
+Seat 2: KillTheRiche (68811)
+Seat 4: JtembrAAsss (117274)
+Seat 5: lenain43 (33312)
+Seat 6: Kurykoko (61997)
+Seat 8: P1xel7 (46006)
+*** ANTE/BLINDS ***
+JtembrAAsss posts ante 350
+sylvinho444 posts ante 350
+KillTheRiche posts ante 350
+lenain43 posts ante 350
+Kurykoko posts ante 350
+P1xel7 posts ante 350
+JtembrAAsss posts big blind 3000
+Dealt to P1xel7 [4d 6s]
+*** PRE-FLOP *** 
+lenain43 folds
+Kurykoko folds
+P1xel7 folds
+sylvinho444 folds
+KillTheRiche raises 3000 to 6000
+JtembrAAsss calls 3000
+*** FLOP *** [Ad 4s As]
+JtembrAAsss checks
+KillTheRiche bets 3000
+JtembrAAsss folds
+KillTheRiche collected 17100 from pot
+*** SUMMARY ***
+Total pot 17100 | No rake
+Board: [Ad 4s As]
+Seat 2: KillTheRiche (button) won 17100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3251768071068581891-112-1710794030 - Holdem no limit (350/1500/3000) - 2024/03/18 20:33:50 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #3 is the button
+Seat 1: sylvinho444 (43400)
+Seat 2: KillTheRiche (76561)
+Seat 4: JtembrAAsss (110924)
+Seat 5: lenain43 (32962)
+Seat 6: Kurykoko (61647)
+Seat 8: P1xel7 (45656)
+*** ANTE/BLINDS ***
+JtembrAAsss posts ante 350
+lenain43 posts ante 350
+sylvinho444 posts ante 350
+KillTheRiche posts ante 350
+Kurykoko posts ante 350
+P1xel7 posts ante 350
+JtembrAAsss posts small blind 1500
+lenain43 posts big blind 3000
+Dealt to P1xel7 [Tc Ac]
+*** PRE-FLOP *** 
+Kurykoko folds
+P1xel7 raises 42306 to 45306 and is all-in
+sylvinho444 folds
+KillTheRiche folds
+JtembrAAsss folds
+lenain43 folds
+P1xel7 collected 51906 from pot
+*** SUMMARY ***
+Total pot 51906 | No rake
+Seat 8: P1xel7 won 51906
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3251768071068581891-113-1710794050 - Holdem no limit (350/1500/3000) - 2024/03/18 20:34:10 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #4 is the button
+Seat 1: sylvinho444 (43050)
+Seat 2: KillTheRiche (76211)
+Seat 4: JtembrAAsss (109074)
+Seat 5: lenain43 (29612)
+Seat 6: Kurykoko (61297)
+Seat 8: P1xel7 (51906)
+*** ANTE/BLINDS ***
+lenain43 posts ante 350
+Kurykoko posts ante 350
+sylvinho444 posts ante 350
+KillTheRiche posts ante 350
+JtembrAAsss posts ante 350
+P1xel7 posts ante 350
+lenain43 posts small blind 1500
+Kurykoko posts big blind 3000
+Dealt to P1xel7 [4h Ac]
+*** PRE-FLOP *** 
+P1xel7 folds
+sylvinho444 raises 39700 to 42700 and is all-in
+KillTheRiche folds
+JtembrAAsss folds
+lenain43 folds
+Kurykoko folds
+sylvinho444 collected 49300 from pot
+*** SUMMARY ***
+Total pot 49300 | No rake
+Seat 1: sylvinho444 won 49300
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3251768071068581891-114-1710794072 - Holdem no limit (350/1500/3000) - 2024/03/18 20:34:32 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #5 is the button
+Seat 1: sylvinho444 (49300)
+Seat 2: KillTheRiche (75861)
+Seat 4: JtembrAAsss (108724)
+Seat 5: lenain43 (27762)
+Seat 6: Kurykoko (57947)
+Seat 8: P1xel7 (51556)
+*** ANTE/BLINDS ***
+Kurykoko posts ante 350
+P1xel7 posts ante 350
+sylvinho444 posts ante 350
+KillTheRiche posts ante 350
+JtembrAAsss posts ante 350
+lenain43 posts ante 350
+Kurykoko posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [Js 8d]
+*** PRE-FLOP *** 
+sylvinho444 folds
+KillTheRiche folds
+JtembrAAsss raises 3600 to 6600
+lenain43 folds
+Kurykoko folds
+P1xel7 folds
+JtembrAAsss collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | No rake
+Seat 4: JtembrAAsss won 13200
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3251768071068581891-115-1710794097 - Holdem no limit (350/1500/3000) - 2024/03/18 20:34:57 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #6 is the button
+Seat 1: sylvinho444 (48950)
+Seat 2: KillTheRiche (75511)
+Seat 4: JtembrAAsss (114974)
+Seat 5: lenain43 (27412)
+Seat 6: Kurykoko (56097)
+Seat 8: P1xel7 (48206)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+sylvinho444 posts ante 350
+KillTheRiche posts ante 350
+JtembrAAsss posts ante 350
+lenain43 posts ante 350
+Kurykoko posts ante 350
+P1xel7 posts small blind 1500
+sylvinho444 posts big blind 3000
+Dealt to P1xel7 [Ks Tc]
+*** PRE-FLOP *** 
+KillTheRiche folds
+JtembrAAsss folds
+lenain43 folds
+Kurykoko folds
+P1xel7 raises 44856 to 47856 and is all-in
+sylvinho444 folds
+P1xel7 collected 52956 from pot
+*** SUMMARY ***
+Total pot 52956 | No rake
+Seat 8: P1xel7 (small blind) won 52956
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3251768071068581891-116-1710794126 - Holdem no limit (350/1500/3000) - 2024/03/18 20:35:26 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #8 is the button
+Seat 1: sylvinho444 (45600)
+Seat 2: KillTheRiche (75161)
+Seat 4: JtembrAAsss (114624)
+Seat 5: lenain43 (27062)
+Seat 6: Kurykoko (55747)
+Seat 8: P1xel7 (52956)
+*** ANTE/BLINDS ***
+sylvinho444 posts ante 350
+KillTheRiche posts ante 350
+JtembrAAsss posts ante 350
+lenain43 posts ante 350
+Kurykoko posts ante 350
+P1xel7 posts ante 350
+sylvinho444 posts small blind 1500
+KillTheRiche posts big blind 3000
+Dealt to P1xel7 [5c 5h]
+*** PRE-FLOP *** 
+JtembrAAsss folds
+lenain43 folds
+Kurykoko folds
+P1xel7 raises 49606 to 52606 and is all-in
+sylvinho444 folds
+KillTheRiche folds
+P1xel7 collected 59206 from pot
+*** SUMMARY ***
+Total pot 59206 | No rake
+Seat 8: P1xel7 (button) won 59206
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3251768071068581891-117-1710794159 - Holdem no limit (350/1500/3000) - 2024/03/18 20:35:59 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #1 is the button
+Seat 1: sylvinho444 (43750)
+Seat 2: KillTheRiche (71811)
+Seat 4: JtembrAAsss (114274)
+Seat 5: lenain43 (26712)
+Seat 6: Kurykoko (55397)
+Seat 8: P1xel7 (59206)
+*** ANTE/BLINDS ***
+KillTheRiche posts ante 350
+JtembrAAsss posts ante 350
+sylvinho444 posts ante 350
+lenain43 posts ante 350
+Kurykoko posts ante 350
+P1xel7 posts ante 350
+KillTheRiche posts small blind 1500
+JtembrAAsss posts big blind 3000
+Dealt to P1xel7 [Js 8d]
+*** PRE-FLOP *** 
+lenain43 folds
+Kurykoko folds
+P1xel7 folds
+sylvinho444 folds
+KillTheRiche folds
+JtembrAAsss collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Seat 4: JtembrAAsss (big blind) won 6600
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3251768071068581891-118-1710794193 - Holdem no limit (350/1500/3000) - 2024/03/18 20:36:33 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #2 is the button
+Seat 1: sylvinho444 (43400)
+Seat 2: KillTheRiche (69961)
+Seat 4: JtembrAAsss (117524)
+Seat 5: lenain43 (26362)
+Seat 6: Kurykoko (55047)
+Seat 8: P1xel7 (58856)
+*** ANTE/BLINDS ***
+JtembrAAsss posts ante 350
+lenain43 posts ante 350
+sylvinho444 posts ante 350
+KillTheRiche posts ante 350
+Kurykoko posts ante 350
+P1xel7 posts ante 350
+JtembrAAsss posts small blind 1500
+lenain43 posts big blind 3000
+Dealt to P1xel7 [Qh Ad]
+*** PRE-FLOP *** 
+Kurykoko folds
+P1xel7 raises 4500 to 7500
+sylvinho444 folds
+KillTheRiche folds
+JtembrAAsss folds
+lenain43 folds
+P1xel7 collected 14100 from pot
+*** SUMMARY ***
+Total pot 14100 | No rake
+Seat 8: P1xel7 won 14100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3251768071068581891-119-1710794214 - Holdem no limit (350/1500/3000) - 2024/03/18 20:36:54 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #4 is the button
+Seat 1: sylvinho444 (43050)
+Seat 2: KillTheRiche (69611)
+Seat 4: JtembrAAsss (115674)
+Seat 5: lenain43 (23012)
+Seat 6: Kurykoko (54697)
+Seat 8: P1xel7 (65106)
+*** ANTE/BLINDS ***
+lenain43 posts ante 350
+Kurykoko posts ante 350
+sylvinho444 posts ante 350
+KillTheRiche posts ante 350
+JtembrAAsss posts ante 350
+P1xel7 posts ante 350
+lenain43 posts small blind 1500
+Kurykoko posts big blind 3000
+Dealt to P1xel7 [3h Ad]
+*** PRE-FLOP *** 
+P1xel7 folds
+sylvinho444 folds
+KillTheRiche folds
+JtembrAAsss raises 3600 to 6600
+lenain43 folds
+Kurykoko calls 3600
+*** FLOP *** [Kh 3d Kc]
+Kurykoko checks
+JtembrAAsss checks
+*** TURN *** [Kh 3d Kc][Qd]
+Kurykoko checks
+JtembrAAsss bets 12600
+Kurykoko folds
+JtembrAAsss collected 29400 from pot
+*** SUMMARY ***
+Total pot 29400 | No rake
+Board: [Kh 3d Kc Qd]
+Seat 4: JtembrAAsss (button) won 29400
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3251768071068581891-120-1710794303 - Holdem no limit (400/1750/3500) - 2024/03/18 20:38:23 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #5 is the button
+Seat 1: sylvinho444 (42700)
+Seat 2: KillTheRiche (69261)
+Seat 4: JtembrAAsss (125524)
+Seat 5: lenain43 (21162)
+Seat 6: Kurykoko (47747)
+Seat 8: P1xel7 (64756)
+*** ANTE/BLINDS ***
+Kurykoko posts ante 400
+P1xel7 posts ante 400
+sylvinho444 posts ante 400
+KillTheRiche posts ante 400
+JtembrAAsss posts ante 400
+lenain43 posts ante 400
+Kurykoko posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [9s 9c]
+*** PRE-FLOP *** 
+sylvinho444 folds
+KillTheRiche folds
+JtembrAAsss folds
+lenain43 folds
+Kurykoko folds
+P1xel7 collected 7650 from pot
+*** SUMMARY ***
+Total pot 7650 | No rake
+Seat 8: P1xel7 (big blind) won 7650
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3251768071068581891-121-1710794326 - Holdem no limit (400/1750/3500) - 2024/03/18 20:38:46 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #6 is the button
+Seat 1: sylvinho444 (42300)
+Seat 2: KillTheRiche (68861)
+Seat 4: JtembrAAsss (125124)
+Seat 5: lenain43 (20762)
+Seat 6: Kurykoko (45597)
+Seat 8: P1xel7 (68506)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+sylvinho444 posts ante 400
+KillTheRiche posts ante 400
+JtembrAAsss posts ante 400
+lenain43 posts ante 400
+Kurykoko posts ante 400
+P1xel7 posts small blind 1750
+sylvinho444 posts big blind 3500
+Dealt to P1xel7 [3d Kh]
+*** PRE-FLOP *** 
+KillTheRiche folds
+JtembrAAsss folds
+lenain43 folds
+Kurykoko folds
+P1xel7 raises 64606 to 68106 and is all-in
+sylvinho444 folds
+P1xel7 collected 74006 from pot
+*** SUMMARY ***
+Total pot 74006 | No rake
+Seat 8: P1xel7 (small blind) won 74006
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3251768071068581891-122-1710794362 - Holdem no limit (400/1750/3500) - 2024/03/18 20:39:22 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #8 is the button
+Seat 1: sylvinho444 (38400)
+Seat 2: KillTheRiche (68461)
+Seat 4: JtembrAAsss (124724)
+Seat 5: lenain43 (20362)
+Seat 6: Kurykoko (45197)
+Seat 8: P1xel7 (74006)
+*** ANTE/BLINDS ***
+sylvinho444 posts ante 400
+KillTheRiche posts ante 400
+JtembrAAsss posts ante 400
+lenain43 posts ante 400
+Kurykoko posts ante 400
+P1xel7 posts ante 400
+sylvinho444 posts small blind 1750
+KillTheRiche posts big blind 3500
+Dealt to P1xel7 [3c Kc]
+*** PRE-FLOP *** 
+JtembrAAsss folds
+lenain43 folds
+Kurykoko raises 41297 to 44797 and is all-in
+P1xel7 folds
+sylvinho444 folds
+KillTheRiche folds
+Kurykoko collected 52447 from pot
+*** SUMMARY ***
+Total pot 52447 | No rake
+Seat 6: Kurykoko won 52447
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3251768071068581891-123-1710794388 - Holdem no limit (400/1750/3500) - 2024/03/18 20:39:48 UTC
+Table: 'Hold'em(757111253)#002' 8-max (real money) Seat #1 is the button
+Seat 1: sylvinho444 (36250)
+Seat 2: KillTheRiche (64561)
+Seat 4: JtembrAAsss (124324)
+Seat 5: lenain43 (19962)
+Seat 6: Kurykoko (52447)
+Seat 8: P1xel7 (73606)
+*** ANTE/BLINDS ***
+KillTheRiche posts ante 400
+JtembrAAsss posts ante 400
+sylvinho444 posts ante 400
+lenain43 posts ante 400
+Kurykoko posts ante 400
+P1xel7 posts ante 400
+KillTheRiche posts small blind 1750
+JtembrAAsss posts big blind 3500
+Dealt to P1xel7 [2h 5c]
+*** PRE-FLOP *** 
+lenain43 raises 16062 to 19562 and is all-in
+Kurykoko folds
+P1xel7 folds
+sylvinho444 folds
+KillTheRiche folds
+JtembrAAsss calls 16062
+*** FLOP *** [7d 8h 4h]
+*** TURN *** [7d 8h 4h][Ah]
+*** RIVER *** [7d 8h 4h Ah][5d]
+*** SHOW DOWN ***
+lenain43 shows [Td 9d] (High card : Ace)
+JtembrAAsss shows [6h Ad] (Straight 8 high)
+JtembrAAsss collected 43274 from pot
+*** SUMMARY ***
+Total pot 43274 | No rake
+Board: [7d 8h 4h Ah 5d]
+Seat 4: JtembrAAsss (big blind) showed [6h Ad] and won 43274 with Straight 8 high
+Seat 5: lenain43 showed [Td 9d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3251768071068581889-111-1710794454 - Holdem no limit (400/1750/3500) - 2024/03/18 20:40:54 UTC
+Table: 'Hold'em(757111253)#000' 8-max (real money) Seat #5 is the button
+Seat 1: FifiR2 (97602)
+Seat 2: KillTheRiche (62411)
+Seat 3: P1xel7 (73206)
+Seat 4: mcbj0826 (17168)
+Seat 5: JtembrAAsss (147636)
+Seat 6: Digne.644662 (162081)
+Seat 7: Kurykoko (52047)
+Seat 8: Bakotsu (64684)
+*** ANTE/BLINDS ***
+Digne.644662 posts ante 400
+Kurykoko posts ante 400
+FifiR2 posts ante 400
+KillTheRiche posts ante 400
+P1xel7 posts ante 400
+mcbj0826 posts ante 400
+JtembrAAsss posts ante 400
+Bakotsu posts ante 400
+Digne.644662 posts small blind 1750
+Kurykoko posts big blind 3500
+Dealt to P1xel7 [Ah 2s]
+*** PRE-FLOP *** 
+Bakotsu folds
+FifiR2 folds
+KillTheRiche folds
+P1xel7 folds
+mcbj0826 raises 13268 to 16768 and is all-in
+JtembrAAsss folds
+Digne.644662 folds
+Kurykoko folds
+mcbj0826 collected 25218 from pot
+*** SUMMARY ***
+Total pot 25218 | No rake
+Seat 4: mcbj0826 won 25218
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3251768071068581889-112-1710794488 - Holdem no limit (400/1750/3500) - 2024/03/18 20:41:28 UTC
+Table: 'Hold'em(757111253)#000' 8-max (real money) Seat #6 is the button
+Seat 1: FifiR2 (97202)
+Seat 2: KillTheRiche (62011)
+Seat 3: P1xel7 (72806)
+Seat 4: mcbj0826 (25218)
+Seat 5: JtembrAAsss (147236)
+Seat 6: Digne.644662 (159931)
+Seat 7: Kurykoko (48147)
+Seat 8: Bakotsu (64284)
+*** ANTE/BLINDS ***
+Kurykoko posts ante 400
+Bakotsu posts ante 400
+FifiR2 posts ante 400
+KillTheRiche posts ante 400
+P1xel7 posts ante 400
+mcbj0826 posts ante 400
+JtembrAAsss posts ante 400
+Digne.644662 posts ante 400
+Kurykoko posts small blind 1750
+Bakotsu posts big blind 3500
+Dealt to P1xel7 [5h 3c]
+*** PRE-FLOP *** 
+FifiR2 folds
+KillTheRiche folds
+P1xel7 folds
+mcbj0826 folds
+JtembrAAsss folds
+Digne.644662 raises 3500 to 7000
+Kurykoko folds
+Bakotsu folds
+Digne.644662 collected 15450 from pot
+*** SUMMARY ***
+Total pot 15450 | No rake
+Seat 6: Digne.644662 (button) won 15450
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3251768071068581889-113-1710794538 - Holdem no limit (500/2000/4000) - 2024/03/18 20:42:18 UTC
+Table: 'Hold'em(757111253)#000' 8-max (real money) Seat #7 is the button
+Seat 1: FifiR2 (96802)
+Seat 2: KillTheRiche (61611)
+Seat 3: P1xel7 (72406)
+Seat 4: mcbj0826 (24818)
+Seat 5: JtembrAAsss (146836)
+Seat 6: Digne.644662 (167981)
+Seat 7: Kurykoko (45997)
+Seat 8: Bakotsu (60384)
+*** ANTE/BLINDS ***
+Bakotsu posts ante 500
+FifiR2 posts ante 500
+KillTheRiche posts ante 500
+P1xel7 posts ante 500
+mcbj0826 posts ante 500
+JtembrAAsss posts ante 500
+Digne.644662 posts ante 500
+Kurykoko posts ante 500
+Bakotsu posts small blind 2000
+FifiR2 posts big blind 4000
+Dealt to P1xel7 [Kh 5d]
+*** PRE-FLOP *** 
+KillTheRiche folds
+P1xel7 folds
+mcbj0826 folds
+JtembrAAsss folds
+Digne.644662 raises 6000 to 10000
+Kurykoko folds
+Bakotsu raises 49884 to 59884 and is all-in
+FifiR2 raises 36418 to 96302 and is all-in
+Digne.644662 folds
+*** FLOP *** [2h Js 5c]
+*** TURN *** [2h Js 5c][3s]
+*** RIVER *** [2h Js 5c 3s][3h]
+*** SHOW DOWN ***
+FifiR2 shows [9c Ac] (One pair : 3)
+Bakotsu shows [Ad Qc] (One pair : 3)
+Bakotsu collected 133768 from main pot
+FifiR2 collected 36418 from side pot 1
+*** SUMMARY ***
+Total pot 170186 | No rake
+Board: [2h Js 5c 3s 3h]
+Seat 1: FifiR2 (big blind) showed [9c Ac] and won 36418 with One pair : 3
+Seat 8: Bakotsu (small blind) showed [Ad Qc] and won 133768 with One pair : 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3251768071068581889-114-1710794579 - Holdem no limit (500/2000/4000) - 2024/03/18 20:42:59 UTC
+Table: 'Hold'em(757111253)#000' 8-max (real money) Seat #8 is the button
+Seat 1: FifiR2 (36418)
+Seat 2: KillTheRiche (61111)
+Seat 3: P1xel7 (71906)
+Seat 4: mcbj0826 (24318)
+Seat 5: JtembrAAsss (146336)
+Seat 6: Digne.644662 (157481)
+Seat 7: Kurykoko (45497)
+Seat 8: Bakotsu (133768)
+*** ANTE/BLINDS ***
+FifiR2 posts ante 500
+KillTheRiche posts ante 500
+P1xel7 posts ante 500
+mcbj0826 posts ante 500
+JtembrAAsss posts ante 500
+Digne.644662 posts ante 500
+Kurykoko posts ante 500
+Bakotsu posts ante 500
+FifiR2 posts small blind 2000
+KillTheRiche posts big blind 4000
+Dealt to P1xel7 [Ac Qh]
+*** PRE-FLOP *** 
+P1xel7 raises 4000 to 8000
+mcbj0826 folds
+JtembrAAsss folds
+Digne.644662 folds
+Kurykoko folds
+Bakotsu raises 12000 to 20000
+FifiR2 folds
+KillTheRiche folds
+P1xel7 calls 12000
+*** FLOP *** [3s Jc 8c]
+P1xel7 checks
+Bakotsu bets 17500
+P1xel7 calls 17500
+*** TURN *** [3s Jc 8c][Jd]
+P1xel7 checks
+Bakotsu bets 29750
+P1xel7 raises 4156 to 33906 and is all-in
+Bakotsu calls 4156
+*** RIVER *** [3s Jc 8c Jd][4h]
+*** SHOW DOWN ***
+P1xel7 shows [Ac Qh] (One pair : Jacks)
+Bakotsu shows [Ad Ah] (Two pairs : Aces and Jacks)
+Bakotsu collected 152812 from pot
+*** SUMMARY ***
+Total pot 152812 | No rake
+Board: [3s Jc 8c Jd 4h]
+Seat 3: P1xel7 showed [Ac Qh] and lost with One pair : Jacks
+Seat 8: Bakotsu (button) showed [Ad Ah] and won 152812 with Two pairs : Aces and Jacks
+
+

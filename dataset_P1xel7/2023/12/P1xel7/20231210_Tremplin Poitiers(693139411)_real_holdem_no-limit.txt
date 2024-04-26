@@ -1,0 +1,6117 @@
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 1 - HandId: #2977011101813703143-7-1702235151 - Holdem no limit (10/20) - 2023/12/10 19:05:51 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #8 is the button
+Seat 1: Ice Julio (2965)
+Seat 2: P1xel7 (3000)
+Seat 3: 3 Bet (6210)
+Seat 4: Mister Floyd (2605)
+Seat 5: Tiger eye 29 (6495)
+Seat 6: robguilbaud3 (2970)
+Seat 7: fishya (2810)
+Seat 8: pacino56 (2900)
+*** ANTE/BLINDS ***
+Ice Julio posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [4c 3d]
+*** PRE-FLOP *** 
+3 Bet calls 20
+Mister Floyd folds
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya calls 20
+pacino56 calls 20
+Ice Julio calls 10
+P1xel7 checks
+*** FLOP *** [5d Jd Kc]
+Ice Julio checks
+P1xel7 checks
+3 Bet bets 100
+fishya calls 100
+pacino56 calls 100
+Ice Julio folds
+P1xel7 folds
+*** TURN *** [5d Jd Kc][9s]
+3 Bet bets 260
+fishya calls 260
+pacino56 calls 260
+*** RIVER *** [5d Jd Kc 9s][3s]
+3 Bet bets 413
+fishya folds
+pacino56 raises 2107 to 2520 and is all-in
+3 Bet folds
+pacino56 collected 4113 from pot
+*** SUMMARY ***
+Total pot 4113 | No rake
+Board: [5d Jd Kc 9s 3s]
+Seat 8: pacino56 (button) won 4113
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 1 - HandId: #2977011101813703143-8-1702235259 - Holdem no limit (10/20) - 2023/12/10 19:07:39 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #1 is the button
+Seat 1: Ice Julio (2945)
+Seat 2: P1xel7 (2980)
+Seat 3: 3 Bet (5417)
+Seat 4: Mister Floyd (2605)
+Seat 5: Tiger eye 29 (6495)
+Seat 6: robguilbaud3 (2970)
+Seat 7: fishya (2430)
+Seat 8: pacino56 (4113)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+3 Bet posts big blind 20
+Dealt to P1xel7 [7h 8d]
+*** PRE-FLOP *** 
+Mister Floyd calls 20
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya folds
+pacino56 calls 20
+Ice Julio raises 2925 to 2945 and is all-in
+P1xel7 folds
+3 Bet folds
+Mister Floyd folds
+pacino56 folds
+Ice Julio collected 3015 from pot
+*** SUMMARY ***
+Total pot 3015 | No rake
+Seat 1: Ice Julio (button) won 3015
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 2 - HandId: #2977011101813703143-9-1702235305 - Holdem no limit (15/30) - 2023/12/10 19:08:25 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #2 is the button
+Seat 1: Ice Julio (3015)
+Seat 2: P1xel7 (2970)
+Seat 3: 3 Bet (5397)
+Seat 4: Mister Floyd (2585)
+Seat 5: Tiger eye 29 (6495)
+Seat 6: robguilbaud3 (2970)
+Seat 7: fishya (2430)
+Seat 8: pacino56 (4093)
+*** ANTE/BLINDS ***
+3 Bet posts small blind 15
+Mister Floyd posts big blind 30
+Dealt to P1xel7 [4c Qh]
+*** PRE-FLOP *** 
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya folds
+pacino56 calls 30
+Ice Julio folds
+P1xel7 folds
+3 Bet folds
+Mister Floyd raises 75 to 105
+pacino56 calls 75
+*** FLOP *** [Td 9c Ks]
+Mister Floyd bets 146
+pacino56 raises 285 to 431
+Mister Floyd calls 285
+*** TURN *** [Td 9c Ks][Qs]
+Mister Floyd checks
+pacino56 bets 707
+Mister Floyd folds
+pacino56 collected 1794 from pot
+*** SUMMARY ***
+Total pot 1794 | No rake
+Board: [Td 9c Ks Qs]
+Seat 8: pacino56 won 1794
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 2 - HandId: #2977011101813703143-10-1702235357 - Holdem no limit (15/30) - 2023/12/10 19:09:17 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #3 is the button
+Seat 1: Ice Julio (3015)
+Seat 2: P1xel7 (2970)
+Seat 3: 3 Bet (5382)
+Seat 4: Mister Floyd (2049)
+Seat 5: Tiger eye 29 (6495)
+Seat 6: robguilbaud3 (2970)
+Seat 7: fishya (2430)
+Seat 8: pacino56 (4644)
+*** ANTE/BLINDS ***
+Mister Floyd posts small blind 15
+Tiger eye 29 posts big blind 30
+Dealt to P1xel7 [Th 8s]
+*** PRE-FLOP *** 
+robguilbaud3 folds
+fishya calls 30
+pacino56 calls 30
+Ice Julio folds
+P1xel7 folds
+3 Bet calls 30
+Mister Floyd calls 15
+Tiger eye 29 checks
+*** FLOP *** [9s 8d Ah]
+Mister Floyd checks
+Tiger eye 29 checks
+fishya checks
+pacino56 bets 98
+3 Bet folds
+Mister Floyd calls 98
+Tiger eye 29 folds
+fishya folds
+*** TURN *** [9s 8d Ah][Jd]
+Mister Floyd bets 225
+pacino56 raises 4291 to 4516 and is all-in
+Mister Floyd calls 1696 and is all-in
+*** RIVER *** [9s 8d Ah Jd][Ks]
+*** SHOW DOWN ***
+Mister Floyd shows [3h As] (One pair : Aces)
+pacino56 shows [Ad 7s] (One pair : Aces)
+pacino56 collected 4689 from side pot 1
+Mister Floyd collected 2094 from main pot
+*** SUMMARY ***
+Total pot 6783 | No rake
+Board: [9s 8d Ah Jd Ks]
+Seat 4: Mister Floyd (small blind) showed [3h As] and won 2094 with One pair : Aces
+Seat 8: pacino56 showed [Ad 7s] and won 4689 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 2 - HandId: #2977011101813703143-11-1702235442 - Holdem no limit (15/30) - 2023/12/10 19:10:42 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #4 is the button
+Seat 1: Ice Julio (3015)
+Seat 2: P1xel7 (2970)
+Seat 3: 3 Bet (5352)
+Seat 4: Mister Floyd (2094)
+Seat 5: Tiger eye 29 (6465)
+Seat 6: robguilbaud3 (2970)
+Seat 7: fishya (2400)
+Seat 8: pacino56 (4689)
+*** ANTE/BLINDS ***
+Tiger eye 29 posts small blind 15
+robguilbaud3 posts big blind 30
+Dealt to P1xel7 [Ks Qc]
+*** PRE-FLOP *** 
+fishya calls 30
+pacino56 folds
+Ice Julio raises 2985 to 3015 and is all-in
+P1xel7 folds
+3 Bet folds
+Mister Floyd folds
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya folds
+Ice Julio collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Seat 1: Ice Julio won 3090
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 2 - HandId: #2977011101813703143-12-1702235474 - Holdem no limit (15/30) - 2023/12/10 19:11:14 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #5 is the button
+Seat 1: Ice Julio (3090)
+Seat 2: P1xel7 (2970)
+Seat 3: 3 Bet (5352)
+Seat 4: Mister Floyd (2094)
+Seat 5: Tiger eye 29 (6450)
+Seat 6: robguilbaud3 (2940)
+Seat 7: fishya (2370)
+Seat 8: pacino56 (4689)
+*** ANTE/BLINDS ***
+robguilbaud3 posts small blind 15
+fishya posts big blind 30
+Dealt to P1xel7 [8c 8s]
+*** PRE-FLOP *** 
+pacino56 folds
+Ice Julio calls 30
+P1xel7 raises 90 to 120
+3 Bet folds
+Mister Floyd folds
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya calls 90
+Ice Julio calls 90
+*** FLOP *** [3s 7c Th]
+fishya checks
+Ice Julio checks
+P1xel7 checks
+*** TURN *** [3s 7c Th][9c]
+fishya checks
+Ice Julio bets 2970 and is all-in
+P1xel7 folds
+fishya folds
+Ice Julio collected 3345 from pot
+*** SUMMARY ***
+Total pot 3345 | No rake
+Board: [3s 7c Th 9c]
+Seat 1: Ice Julio won 3345
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 2 - HandId: #2977011101813703143-13-1702235575 - Holdem no limit (15/30) - 2023/12/10 19:12:55 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #6 is the button
+Seat 1: Ice Julio (3345)
+Seat 2: P1xel7 (2850)
+Seat 3: 3 Bet (5352)
+Seat 4: Mister Floyd (2094)
+Seat 5: Tiger eye 29 (6450)
+Seat 6: robguilbaud3 (2925)
+Seat 7: fishya (2250)
+Seat 8: pacino56 (4689)
+*** ANTE/BLINDS ***
+fishya posts small blind 15
+pacino56 posts big blind 30
+Dealt to P1xel7 [4c 7h]
+*** PRE-FLOP *** 
+Ice Julio raises 75 to 105
+P1xel7 folds
+3 Bet calls 105
+Mister Floyd folds
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya calls 90
+pacino56 raises 75 to 180
+Ice Julio calls 75
+3 Bet calls 75
+fishya calls 75
+*** FLOP *** [8c 3h Ks]
+fishya checks
+pacino56 bets 468
+Ice Julio folds
+3 Bet raises 1656 to 2124
+fishya folds
+pacino56 raises 2385 to 4509 and is all-in
+3 Bet raises 663 to 5172 and is all-in
+*** TURN *** [8c 3h Ks][9d]
+*** RIVER *** [8c 3h Ks 9d][8h]
+*** SHOW DOWN ***
+pacino56 shows [Kh Ts] (Two pairs : Kings and 8)
+3 Bet shows [Kd Jc] (Two pairs : Kings and 8)
+3 Bet collected 10401 from pot
+*** SUMMARY ***
+Total pot 10401 | No rake
+Board: [8c 3h Ks 9d 8h]
+Seat 3: 3 Bet showed [Kd Jc] and won 10401 with Two pairs : Kings and 8
+Seat 8: pacino56 (big blind) showed [Kh Ts] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 2 - HandId: #2977011101813703143-14-1702235657 - Holdem no limit (15/30) - 2023/12/10 19:14:17 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #7 is the button
+Seat 1: Ice Julio (3165)
+Seat 2: P1xel7 (2850)
+Seat 3: 3 Bet (10401)
+Seat 4: Mister Floyd (2094)
+Seat 5: Tiger eye 29 (6450)
+Seat 6: robguilbaud3 (2925)
+Seat 7: fishya (2070)
+*** ANTE/BLINDS ***
+Ice Julio posts big blind 30
+Dealt to P1xel7 [Ad As]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 90
+3 Bet folds
+Mister Floyd calls 90
+Tiger eye 29 calls 90
+robguilbaud3 folds
+fishya calls 90
+Ice Julio calls 60
+*** FLOP *** [3d 7c 5d]
+Ice Julio bets 3075 and is all-in
+P1xel7 calls 2760 and is all-in
+Mister Floyd calls 2004 and is all-in
+Tiger eye 29 folds
+fishya folds
+*** TURN *** [3d 7c 5d][Kd]
+*** RIVER *** [3d 7c 5d Kd][Jd]
+*** SHOW DOWN ***
+Mister Floyd shows [7d 6d] (Flush King high)
+Ice Julio shows [5c 4h] (One pair : 5)
+P1xel7 shows [Ad As] (Flush Ace high)
+P1xel7 collected 7974 from main pot
+Ice Julio collected 315 from side pot 1
+*** SUMMARY ***
+Total pot 8289 | No rake
+Board: [3d 7c 5d Kd Jd]
+Seat 1: Ice Julio (big blind) showed [5c 4h] and won 315 with One pair : 5
+Seat 2: P1xel7 showed [Ad As] and won 7974 with Flush Ace high
+Seat 4: Mister Floyd showed [7d 6d] and lost with Flush King high
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 2 - HandId: #2977011101813703143-15-1702235729 - Holdem no limit (15/30) - 2023/12/10 19:15:29 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #8 is the button
+Seat 1: Ice Julio (315)
+Seat 2: P1xel7 (7974)
+Seat 3: 3 Bet (10401)
+Seat 5: Tiger eye 29 (6360)
+Seat 6: robguilbaud3 (2925)
+Seat 7: fishya (1980)
+*** ANTE/BLINDS ***
+Ice Julio posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Ks 4s]
+*** PRE-FLOP *** 
+3 Bet folds
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya folds
+Ice Julio raises 285 to 315 and is all-in
+P1xel7 calls 285
+*** FLOP *** [4c Js Tc]
+*** TURN *** [4c Js Tc][Kd]
+*** RIVER *** [4c Js Tc Kd][2c]
+*** SHOW DOWN ***
+Ice Julio shows [Kh 6c] (One pair : Kings)
+P1xel7 shows [Ks 4s] (Two pairs : Kings and 4)
+P1xel7 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [4c Js Tc Kd 2c]
+Seat 1: Ice Julio (small blind) showed [Kh 6c] and lost with One pair : Kings
+Seat 2: P1xel7 (big blind) showed [Ks 4s] and won 630 with Two pairs : Kings and 4
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 3 - HandId: #2977011101813703143-16-1702235808 - Holdem no limit (20/40) - 2023/12/10 19:16:48 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #1 is the button
+Seat 2: P1xel7 (8289)
+Seat 3: 3 Bet (10401)
+Seat 4: BeKindRewind (3000)
+Seat 5: Tiger eye 29 (6360)
+Seat 6: robguilbaud3 (2925)
+Seat 7: fishya (1980)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+3 Bet posts big blind 40
+Dealt to P1xel7 [9c 6c]
+*** PRE-FLOP *** 
+BeKindRewind raises 60 to 100
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya folds
+P1xel7 folds
+3 Bet calls 60
+*** FLOP *** [2s Qh 3h]
+3 Bet bets 220
+BeKindRewind folds
+3 Bet collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Board: [2s Qh 3h]
+Seat 3: 3 Bet (big blind) won 440
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 3 - HandId: #2977011101813703143-17-1702235844 - Holdem no limit (20/40) - 2023/12/10 19:17:24 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (8269)
+Seat 3: 3 Bet (10521)
+Seat 4: BeKindRewind (2900)
+Seat 5: Tiger eye 29 (6360)
+Seat 6: robguilbaud3 (2925)
+Seat 7: fishya (1980)
+Seat 8: jose81100 (2955)
+*** ANTE/BLINDS ***
+3 Bet posts small blind 20
+BeKindRewind posts big blind 40
+Dealt to P1xel7 [Ac 4s]
+*** PRE-FLOP *** 
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya folds
+jose81100 folds
+P1xel7 raises 60 to 100
+3 Bet folds
+BeKindRewind folds
+P1xel7 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: P1xel7 (button) won 160
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 3 - HandId: #2977011101813703143-18-1702235879 - Holdem no limit (20/40) - 2023/12/10 19:17:59 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (8329)
+Seat 3: 3 Bet (10501)
+Seat 4: BeKindRewind (2860)
+Seat 5: Tiger eye 29 (6360)
+Seat 6: robguilbaud3 (2925)
+Seat 7: fishya (1980)
+Seat 8: jose81100 (2955)
+*** ANTE/BLINDS ***
+BeKindRewind posts small blind 20
+Tiger eye 29 posts big blind 40
+Dealt to P1xel7 [7d 8c]
+*** PRE-FLOP *** 
+robguilbaud3 calls 40
+fishya folds
+jose81100 folds
+P1xel7 folds
+3 Bet folds
+BeKindRewind folds
+Tiger eye 29 checks
+*** FLOP *** [Qd 4s 4h]
+Tiger eye 29 checks
+robguilbaud3 checks
+*** TURN *** [Qd 4s 4h][Jd]
+Tiger eye 29 bets 65
+robguilbaud3 calls 65
+*** RIVER *** [Qd 4s 4h Jd][Tc]
+Tiger eye 29 bets 230
+robguilbaud3 calls 230
+*** SHOW DOWN ***
+robguilbaud3 shows [9c Jc] (Two pairs : Jacks and 4)
+Tiger eye 29 shows [Kd Qh] (Two pairs : Queens and 4)
+Tiger eye 29 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [Qd 4s 4h Jd Tc]
+Seat 5: Tiger eye 29 (big blind) showed [Kd Qh] and won 690 with Two pairs : Queens and 4
+Seat 6: robguilbaud3 showed [9c Jc] and lost with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 3 - HandId: #2977011101813703143-19-1702235915 - Holdem no limit (20/40) - 2023/12/10 19:18:35 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #4 is the button
+Seat 2: P1xel7 (8329)
+Seat 3: 3 Bet (10501)
+Seat 4: BeKindRewind (2840)
+Seat 5: Tiger eye 29 (6715)
+Seat 6: robguilbaud3 (2590)
+Seat 7: fishya (1980)
+Seat 8: jose81100 (2955)
+*** ANTE/BLINDS ***
+Tiger eye 29 posts small blind 20
+robguilbaud3 posts big blind 40
+Dealt to P1xel7 [3s 8d]
+*** PRE-FLOP *** 
+fishya folds
+jose81100 folds
+P1xel7 folds
+3 Bet folds
+BeKindRewind folds
+Tiger eye 29 folds
+robguilbaud3 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: robguilbaud3 (big blind) won 60
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 3 - HandId: #2977011101813703143-20-1702235942 - Holdem no limit (20/40) - 2023/12/10 19:19:02 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #5 is the button
+Seat 2: P1xel7 (8329)
+Seat 3: 3 Bet (10501)
+Seat 4: BeKindRewind (2840)
+Seat 5: Tiger eye 29 (6695)
+Seat 6: robguilbaud3 (2610)
+Seat 7: fishya (1980)
+Seat 8: jose81100 (2955)
+*** ANTE/BLINDS ***
+robguilbaud3 posts small blind 20
+fishya posts big blind 40
+Dealt to P1xel7 [5s Qh]
+*** PRE-FLOP *** 
+jose81100 folds
+P1xel7 folds
+3 Bet calls 40
+BeKindRewind folds
+Tiger eye 29 calls 40
+robguilbaud3 folds
+fishya checks
+*** FLOP *** [6c 8c 8d]
+fishya checks
+3 Bet bets 140
+Tiger eye 29 folds
+fishya folds
+3 Bet collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [6c 8c 8d]
+Seat 3: 3 Bet won 280
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 3 - HandId: #2977011101813703143-21-1702236016 - Holdem no limit (20/40) - 2023/12/10 19:20:16 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #6 is the button
+Seat 1: ThelastoneBB (2974)
+Seat 2: P1xel7 (8329)
+Seat 3: 3 Bet (10601)
+Seat 4: BeKindRewind (2840)
+Seat 5: Tiger eye 29 (6655)
+Seat 6: robguilbaud3 (2590)
+Seat 7: fishya (1940)
+Seat 8: jose81100 (2955)
+*** ANTE/BLINDS ***
+fishya posts small blind 20
+jose81100 posts big blind 40
+Dealt to P1xel7 [9s 5s]
+*** PRE-FLOP *** 
+ThelastoneBB calls 40
+P1xel7 folds
+3 Bet folds
+BeKindRewind folds
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya folds
+jose81100 checks
+*** FLOP *** [3c 6h Kc]
+jose81100 checks
+ThelastoneBB bets 100
+jose81100 folds
+ThelastoneBB collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [3c 6h Kc]
+Seat 1: ThelastoneBB won 200
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 3 - HandId: #2977011101813703143-22-1702236068 - Holdem no limit (20/40) - 2023/12/10 19:21:08 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #7 is the button
+Seat 1: ThelastoneBB (3034)
+Seat 2: P1xel7 (8329)
+Seat 3: 3 Bet (10601)
+Seat 4: BeKindRewind (2840)
+Seat 5: Tiger eye 29 (6655)
+Seat 6: robguilbaud3 (2590)
+Seat 7: fishya (1920)
+Seat 8: jose81100 (2915)
+*** ANTE/BLINDS ***
+jose81100 posts small blind 20
+ThelastoneBB posts big blind 40
+Dealt to P1xel7 [Jd Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 80 to 120
+3 Bet calls 120
+BeKindRewind folds
+Tiger eye 29 folds
+robguilbaud3 folds
+fishya calls 120
+jose81100 folds
+ThelastoneBB calls 80
+*** FLOP *** [Kh Th 6s]
+ThelastoneBB checks
+P1xel7 checks
+3 Bet bets 500
+fishya folds
+ThelastoneBB folds
+P1xel7 folds
+3 Bet collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Board: [Kh Th 6s]
+Seat 3: 3 Bet won 1000
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 3 - HandId: #2977011101813703143-23-1702236139 - Holdem no limit (20/40) - 2023/12/10 19:22:19 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #8 is the button
+Seat 1: ThelastoneBB (2914)
+Seat 2: P1xel7 (8209)
+Seat 3: 3 Bet (10981)
+Seat 4: BeKindRewind (2840)
+Seat 5: Tiger eye 29 (6655)
+Seat 6: robguilbaud3 (2590)
+Seat 7: fishya (1800)
+Seat 8: jose81100 (2895)
+*** ANTE/BLINDS ***
+ThelastoneBB posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [6h Kd]
+*** PRE-FLOP *** 
+3 Bet folds
+BeKindRewind folds
+Tiger eye 29 folds
+robguilbaud3 calls 40
+fishya calls 40
+jose81100 folds
+ThelastoneBB calls 20
+P1xel7 checks
+*** FLOP *** [Ts Td Jh]
+ThelastoneBB checks
+P1xel7 checks
+robguilbaud3 bets 40
+fishya calls 40
+ThelastoneBB calls 40
+P1xel7 folds
+*** TURN *** [Ts Td Jh][5c]
+ThelastoneBB checks
+robguilbaud3 bets 182
+fishya calls 182
+ThelastoneBB folds
+*** RIVER *** [Ts Td Jh 5c][8c]
+robguilbaud3 bets 1309
+fishya raises 229 to 1538 and is all-in
+robguilbaud3 calls 229
+*** SHOW DOWN ***
+fishya shows [Qs Jc] (Two pairs : Jacks and Tens)
+robguilbaud3 shows [5h 5s] (Full of 5 and Tens)
+robguilbaud3 collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [Ts Td Jh 5c 8c]
+Seat 6: robguilbaud3 showed [5h 5s] and won 3720 with Full of 5 and Tens
+Seat 7: fishya showed [Qs Jc] and lost with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 3 - HandId: #2977011101813703143-24-1702236198 - Holdem no limit (20/40) - 2023/12/10 19:23:18 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #1 is the button
+Seat 1: ThelastoneBB (2834)
+Seat 2: P1xel7 (8169)
+Seat 3: 3 Bet (10981)
+Seat 4: BeKindRewind (2840)
+Seat 5: Tiger eye 29 (6655)
+Seat 6: robguilbaud3 (4510)
+Seat 8: jose81100 (2895)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+3 Bet posts big blind 40
+Dealt to P1xel7 [7h Qh]
+*** PRE-FLOP *** 
+BeKindRewind raises 60 to 100
+Tiger eye 29 folds
+robguilbaud3 folds
+jose81100 folds
+ThelastoneBB calls 100
+P1xel7 folds
+3 Bet calls 60
+*** FLOP *** [8s Ad Qs]
+3 Bet checks
+BeKindRewind bets 106
+ThelastoneBB calls 106
+3 Bet folds
+*** TURN *** [8s Ad Qs][9c]
+BeKindRewind bets 293
+ThelastoneBB folds
+BeKindRewind collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Board: [8s Ad Qs 9c]
+Seat 4: BeKindRewind won 825
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 4 - HandId: #2977011101813703143-25-1702236273 - Holdem no limit (30/60) - 2023/12/10 19:24:33 UTC
+Table: 'Tremplin Poitiers(693139411)#0486' 8-max (real money) Seat #2 is the button
+Seat 1: ThelastoneBB (2628)
+Seat 2: P1xel7 (8149)
+Seat 3: 3 Bet (10881)
+Seat 4: BeKindRewind (3166)
+Seat 5: Tiger eye 29 (6655)
+Seat 6: robguilbaud3 (4510)
+Seat 7: AbraKAdabr (3000)
+Seat 8: jose81100 (2895)
+*** ANTE/BLINDS ***
+3 Bet posts small blind 30
+BeKindRewind posts big blind 60
+Dealt to P1xel7 [3d Ks]
+*** PRE-FLOP *** 
+Tiger eye 29 calls 60
+robguilbaud3 folds
+AbraKAdabr folds
+jose81100 folds
+ThelastoneBB calls 60
+P1xel7 folds
+3 Bet calls 30
+BeKindRewind checks
+*** FLOP *** [9h Th Ad]
+3 Bet checks
+BeKindRewind checks
+Tiger eye 29 checks
+ThelastoneBB bets 156
+3 Bet folds
+BeKindRewind calls 156
+Tiger eye 29 folds
+*** TURN *** [9h Th Ad][2d]
+BeKindRewind checks
+ThelastoneBB checks
+*** RIVER *** [9h Th Ad 2d][7d]
+BeKindRewind checks
+ThelastoneBB checks
+*** SHOW DOWN ***
+BeKindRewind shows [Js 9s] (One pair : 9)
+ThelastoneBB shows [5c Ac] (One pair : Aces)
+ThelastoneBB collected 552 from pot
+*** SUMMARY ***
+Total pot 552 | No rake
+Board: [9h Th Ad 2d 7d]
+Seat 1: ThelastoneBB showed [5c Ac] and won 552 with One pair : Aces
+Seat 4: BeKindRewind (big blind) showed [Js 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 4 - HandId: #2977011101813703022-32-1702236475 - Holdem no limit (30/60) - 2023/12/10 19:27:55 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #5 is the button
+Seat 1: Maeztro (7511)
+Seat 2: Kingsman2018 (5824)
+Seat 3: P1xel7 (8149)
+Seat 4: Pocket Ness (4011)
+Seat 5: toobinU (3975)
+Seat 6: Yuna-katana (4207)
+Seat 7: lolovich72 (3000)
+Seat 8: LOLA_Lord162 (2805)
+*** ANTE/BLINDS ***
+Yuna-katana posts small blind 30
+lolovich72 posts big blind 60
+Dealt to P1xel7 [5d As]
+*** PRE-FLOP *** 
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 calls 60
+P1xel7 folds
+Pocket Ness folds
+toobinU folds
+Yuna-katana calls 30
+lolovich72 checks
+*** FLOP *** [Qs 6c 9h]
+Yuna-katana checks
+lolovich72 checks
+Kingsman2018 bets 60
+Yuna-katana folds
+lolovich72 calls 60
+*** TURN *** [Qs 6c 9h][Qh]
+lolovich72 checks
+Kingsman2018 checks
+*** RIVER *** [Qs 6c 9h Qh][9c]
+lolovich72 bets 105
+Kingsman2018 folds
+lolovich72 collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [Qs 6c 9h Qh 9c]
+Seat 7: lolovich72 (big blind) won 405
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 4 - HandId: #2977011101813703022-33-1702236542 - Holdem no limit (30/60) - 2023/12/10 19:29:02 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #6 is the button
+Seat 1: Maeztro (7511)
+Seat 2: Kingsman2018 (5704)
+Seat 3: P1xel7 (8149)
+Seat 4: Pocket Ness (4011)
+Seat 5: toobinU (3975)
+Seat 6: Yuna-katana (4147)
+Seat 7: lolovich72 (3180)
+Seat 8: LOLA_Lord162 (2805)
+*** ANTE/BLINDS ***
+lolovich72 posts small blind 30
+LOLA_Lord162 posts big blind 60
+Dealt to P1xel7 [6h 4d]
+*** PRE-FLOP *** 
+Maeztro folds
+Kingsman2018 calls 60
+P1xel7 folds
+Pocket Ness folds
+toobinU folds
+Yuna-katana calls 60
+lolovich72 raises 240 to 300
+LOLA_Lord162 folds
+Kingsman2018 calls 240
+Yuna-katana raises 3847 to 4147 and is all-in
+lolovich72 calls 2880 and is all-in
+Kingsman2018 folds
+*** FLOP *** [6d 4c Td]
+*** TURN *** [6d 4c Td][3s]
+*** RIVER *** [6d 4c Td 3s][Tc]
+*** SHOW DOWN ***
+Yuna-katana shows [Ah Kd] (One pair : Tens)
+lolovich72 shows [Jc Jd] (Two pairs : Jacks and Tens)
+lolovich72 collected 6720 from main pot
+Yuna-katana collected 967 from side pot 1
+*** SUMMARY ***
+Total pot 7687 | No rake
+Board: [6d 4c Td 3s Tc]
+Seat 6: Yuna-katana (button) showed [Ah Kd] and won 967 with One pair : Tens
+Seat 7: lolovich72 (small blind) showed [Jc Jd] and won 6720 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 4 - HandId: #2977011101813703022-34-1702236582 - Holdem no limit (30/60) - 2023/12/10 19:29:42 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #7 is the button
+Seat 1: Maeztro (7511)
+Seat 2: Kingsman2018 (5404)
+Seat 3: P1xel7 (8149)
+Seat 4: Pocket Ness (4011)
+Seat 5: toobinU (3975)
+Seat 6: Yuna-katana (967)
+Seat 7: lolovich72 (6720)
+Seat 8: LOLA_Lord162 (2745)
+*** ANTE/BLINDS ***
+LOLA_Lord162 posts small blind 30
+Maeztro posts big blind 60
+Dealt to P1xel7 [Qs Qc]
+*** PRE-FLOP *** 
+Kingsman2018 folds
+P1xel7 raises 120 to 180
+Pocket Ness folds
+toobinU folds
+Yuna-katana raises 787 to 967 and is all-in
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro folds
+P1xel7 calls 787
+*** FLOP *** [6s Td 7s]
+*** TURN *** [6s Td 7s][4h]
+*** RIVER *** [6s Td 7s 4h][3h]
+*** SHOW DOWN ***
+Yuna-katana shows [9d Jh] (High card : Jack)
+P1xel7 shows [Qs Qc] (One pair : Queens)
+P1xel7 collected 2024 from pot
+*** SUMMARY ***
+Total pot 2024 | No rake
+Board: [6s Td 7s 4h 3h]
+Seat 3: P1xel7 showed [Qs Qc] and won 2024 with One pair : Queens
+Seat 6: Yuna-katana showed [9d Jh] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 4 - HandId: #2977011101813703022-35-1702236624 - Holdem no limit (30/60) - 2023/12/10 19:30:24 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #8 is the button
+Seat 1: Maeztro (7451)
+Seat 2: Kingsman2018 (5404)
+Seat 3: P1xel7 (9206)
+Seat 4: Pocket Ness (4011)
+Seat 5: toobinU (3975)
+Seat 7: lolovich72 (6720)
+Seat 8: LOLA_Lord162 (2715)
+*** ANTE/BLINDS ***
+Maeztro posts small blind 30
+Kingsman2018 posts big blind 60
+Dealt to P1xel7 [Kh 4c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Pocket Ness folds
+toobinU raises 60 to 120
+lolovich72 calls 120
+LOLA_Lord162 folds
+Maeztro calls 90
+Kingsman2018 calls 60
+*** FLOP *** [Ac 3c 6d]
+Maeztro checks
+Kingsman2018 bets 312
+toobinU folds
+lolovich72 calls 312
+Maeztro folds
+*** TURN *** [Ac 3c 6d][2h]
+Kingsman2018 bets 1104
+lolovich72 folds
+Kingsman2018 collected 2208 from pot
+*** SUMMARY ***
+Total pot 2208 | No rake
+Board: [Ac 3c 6d 2h]
+Seat 2: Kingsman2018 (big blind) won 2208
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 4 - HandId: #2977011101813703022-36-1702236662 - Holdem no limit (30/60) - 2023/12/10 19:31:02 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #1 is the button
+Seat 1: Maeztro (7331)
+Seat 2: Kingsman2018 (6076)
+Seat 3: P1xel7 (9206)
+Seat 4: Pocket Ness (4011)
+Seat 5: toobinU (3855)
+Seat 6: chris5p (3000)
+Seat 7: lolovich72 (6288)
+Seat 8: LOLA_Lord162 (2715)
+*** ANTE/BLINDS ***
+Kingsman2018 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Kh As]
+*** PRE-FLOP *** 
+Pocket Ness folds
+toobinU folds
+chris5p calls 60
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro calls 60
+Kingsman2018 calls 30
+P1xel7 raises 240 to 300
+chris5p folds
+Maeztro calls 240
+Kingsman2018 folds
+*** FLOP *** [Ad 6h Ac]
+P1xel7 bets 252
+Maeztro calls 252
+*** TURN *** [Ad 6h Ac][Jh]
+P1xel7 bets 612
+Maeztro folds
+P1xel7 collected 1836 from pot
+*** SUMMARY ***
+Total pot 1836 | No rake
+Board: [Ad 6h Ac Jh]
+Seat 3: P1xel7 (big blind) won 1836
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 4 - HandId: #2977011101813703022-37-1702236741 - Holdem no limit (30/60) - 2023/12/10 19:32:21 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #2 is the button
+Seat 1: Maeztro (6779)
+Seat 2: Kingsman2018 (6016)
+Seat 3: P1xel7 (9878)
+Seat 4: Pocket Ness (4011)
+Seat 5: toobinU (3855)
+Seat 6: chris5p (2940)
+Seat 7: lolovich72 (6288)
+Seat 8: LOLA_Lord162 (2715)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Pocket Ness posts big blind 60
+Dealt to P1xel7 [Qd Ah]
+*** PRE-FLOP *** 
+toobinU folds
+chris5p folds
+lolovich72 calls 60
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 calls 60
+P1xel7 raises 240 to 300
+Pocket Ness folds
+lolovich72 calls 240
+Kingsman2018 folds
+*** FLOP *** [Jd 5h 5s]
+P1xel7 bets 252
+lolovich72 folds
+P1xel7 collected 972 from pot
+*** SUMMARY ***
+Total pot 972 | No rake
+Board: [Jd 5h 5s]
+Seat 3: P1xel7 (small blind) won 972
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 5 - HandId: #2977011101813703022-38-1702236794 - Holdem no limit (40/80) - 2023/12/10 19:33:14 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #3 is the button
+Seat 1: Maeztro (6779)
+Seat 2: Kingsman2018 (5956)
+Seat 3: P1xel7 (10298)
+Seat 4: Pocket Ness (3951)
+Seat 5: toobinU (3855)
+Seat 6: chris5p (2940)
+Seat 7: lolovich72 (5988)
+Seat 8: LOLA_Lord162 (2715)
+*** ANTE/BLINDS ***
+Pocket Ness posts small blind 40
+toobinU posts big blind 80
+Dealt to P1xel7 [7h 6d]
+*** PRE-FLOP *** 
+chris5p folds
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro calls 80
+Kingsman2018 calls 80
+P1xel7 folds
+Pocket Ness raises 320 to 400
+toobinU folds
+Maeztro calls 320
+Kingsman2018 calls 320
+*** FLOP *** [3h 7c 6h]
+Pocket Ness bets 1040
+Maeztro folds
+Kingsman2018 folds
+Pocket Ness collected 2320 from pot
+*** SUMMARY ***
+Total pot 2320 | No rake
+Board: [3h 7c 6h]
+Seat 4: Pocket Ness (small blind) won 2320
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 5 - HandId: #2977011101813703022-39-1702236847 - Holdem no limit (40/80) - 2023/12/10 19:34:07 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #4 is the button
+Seat 1: Maeztro (6379)
+Seat 2: Kingsman2018 (5556)
+Seat 3: P1xel7 (10298)
+Seat 4: Pocket Ness (4831)
+Seat 5: toobinU (3775)
+Seat 6: chris5p (2940)
+Seat 7: lolovich72 (5988)
+Seat 8: LOLA_Lord162 (2715)
+*** ANTE/BLINDS ***
+toobinU posts small blind 40
+chris5p posts big blind 80
+Dealt to P1xel7 [As 6s]
+*** PRE-FLOP *** 
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 folds
+P1xel7 raises 160 to 240
+Pocket Ness folds
+toobinU folds
+chris5p folds
+P1xel7 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 3: P1xel7 won 360
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 5 - HandId: #2977011101813703022-40-1702236875 - Holdem no limit (40/80) - 2023/12/10 19:34:35 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #5 is the button
+Seat 1: Maeztro (6379)
+Seat 2: Kingsman2018 (5556)
+Seat 3: P1xel7 (10418)
+Seat 4: Pocket Ness (4831)
+Seat 5: toobinU (3735)
+Seat 6: chris5p (2860)
+Seat 7: lolovich72 (5988)
+Seat 8: LOLA_Lord162 (2715)
+*** ANTE/BLINDS ***
+chris5p posts small blind 40
+lolovich72 posts big blind 80
+Dealt to P1xel7 [Jh Ks]
+*** PRE-FLOP *** 
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 calls 80
+P1xel7 raises 240 to 320
+Pocket Ness calls 320
+toobinU folds
+chris5p folds
+lolovich72 folds
+Kingsman2018 calls 240
+*** FLOP *** [Kc Jd 5h]
+Kingsman2018 bets 702
+P1xel7 calls 702
+Pocket Ness folds
+*** TURN *** [Kc Jd 5h][2c]
+Kingsman2018 checks
+P1xel7 bets 869
+Kingsman2018 folds
+P1xel7 collected 3353 from pot
+*** SUMMARY ***
+Total pot 3353 | No rake
+Board: [Kc Jd 5h 2c]
+Seat 3: P1xel7 won 3353
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 5 - HandId: #2977011101813703022-41-1702236931 - Holdem no limit (40/80) - 2023/12/10 19:35:31 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #6 is the button
+Seat 1: Maeztro (6379)
+Seat 2: Kingsman2018 (4534)
+Seat 3: P1xel7 (11880)
+Seat 4: Pocket Ness (4511)
+Seat 5: toobinU (3735)
+Seat 6: chris5p (2820)
+Seat 7: lolovich72 (5908)
+Seat 8: LOLA_Lord162 (2715)
+*** ANTE/BLINDS ***
+lolovich72 posts small blind 40
+LOLA_Lord162 posts big blind 80
+Dealt to P1xel7 [9h Ad]
+*** PRE-FLOP *** 
+Maeztro calls 80
+Kingsman2018 folds
+P1xel7 raises 200 to 280
+Pocket Ness raises 760 to 1040
+toobinU raises 2695 to 3735 and is all-in
+chris5p folds
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro folds
+P1xel7 folds
+Pocket Ness calls 2695
+*** FLOP *** [Th 4s 9d]
+*** TURN *** [Th 4s 9d][9c]
+*** RIVER *** [Th 4s 9d 9c][Tc]
+*** SHOW DOWN ***
+Pocket Ness shows [Qc Ac] (Two pairs : Tens and 9)
+toobinU shows [Js Jd] (Two pairs : Jacks and Tens)
+toobinU collected 7950 from pot
+*** SUMMARY ***
+Total pot 7950 | No rake
+Board: [Th 4s 9d 9c Tc]
+Seat 4: Pocket Ness showed [Qc Ac] and lost with Two pairs : Tens and 9
+Seat 5: toobinU showed [Js Jd] and won 7950 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 5 - HandId: #2977011101813703022-42-1702236971 - Holdem no limit (40/80) - 2023/12/10 19:36:11 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #7 is the button
+Seat 1: Maeztro (6299)
+Seat 2: Kingsman2018 (4534)
+Seat 3: P1xel7 (11600)
+Seat 4: Pocket Ness (776)
+Seat 5: toobinU (7950)
+Seat 6: chris5p (2820)
+Seat 7: lolovich72 (5868)
+Seat 8: LOLA_Lord162 (2635)
+*** ANTE/BLINDS ***
+LOLA_Lord162 posts small blind 40
+Maeztro posts big blind 80
+Dealt to P1xel7 [8d Kd]
+*** PRE-FLOP *** 
+Kingsman2018 calls 80
+P1xel7 folds
+Pocket Ness raises 696 to 776 and is all-in
+toobinU folds
+chris5p folds
+lolovich72 raises 696 to 1472
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 folds
+*** FLOP *** [7h Td Js]
+*** TURN *** [7h Td Js][8h]
+*** RIVER *** [7h Td Js 8h][4c]
+*** SHOW DOWN ***
+Pocket Ness shows [Jh Qs] (One pair : Jacks)
+lolovich72 shows [Jd Jc] (Trips of Jacks)
+lolovich72 collected 2448 from pot
+*** SUMMARY ***
+Total pot 2448 | No rake
+Board: [7h Td Js 8h 4c]
+Seat 4: Pocket Ness showed [Jh Qs] and lost with One pair : Jacks
+Seat 7: lolovich72 (button) showed [Jd Jc] and won 2448 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 5 - HandId: #2977011101813703022-43-1702237001 - Holdem no limit (40/80) - 2023/12/10 19:36:41 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #8 is the button
+Seat 1: Maeztro (6219)
+Seat 2: Kingsman2018 (4454)
+Seat 3: P1xel7 (11600)
+Seat 5: toobinU (7950)
+Seat 6: chris5p (2820)
+Seat 7: lolovich72 (6844)
+Seat 8: LOLA_Lord162 (2595)
+*** ANTE/BLINDS ***
+Maeztro posts small blind 40
+Kingsman2018 posts big blind 80
+Dealt to P1xel7 [8d Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+toobinU folds
+chris5p folds
+lolovich72 calls 80
+LOLA_Lord162 folds
+Maeztro raises 240 to 320
+Kingsman2018 raises 4134 to 4454 and is all-in
+lolovich72 folds
+Maeztro raises 1765 to 6219 and is all-in
+*** FLOP *** [2c 4d 3s]
+*** TURN *** [2c 4d 3s][Qc]
+*** RIVER *** [2c 4d 3s Qc][9h]
+*** SHOW DOWN ***
+Maeztro shows [Th Ah] (High card : Ace)
+Kingsman2018 shows [Kd As] (High card : Ace)
+Kingsman2018 collected 8988 from main pot
+Maeztro collected 1765 from side pot 1
+*** SUMMARY ***
+Total pot 10753 | No rake
+Board: [2c 4d 3s Qc 9h]
+Seat 1: Maeztro (small blind) showed [Th Ah] and won 1765 with High card : Ace
+Seat 2: Kingsman2018 (big blind) showed [Kd As] and won 8988 with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 5 - HandId: #2977011101813703022-44-1702237058 - Holdem no limit (40/80) - 2023/12/10 19:37:38 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #1 is the button
+Seat 1: Maeztro (1765)
+Seat 2: Kingsman2018 (8988)
+Seat 3: P1xel7 (11600)
+Seat 4: SIROP_TYPHON (3000)
+Seat 5: toobinU (7950)
+Seat 6: chris5p (2820)
+Seat 7: lolovich72 (6764)
+Seat 8: LOLA_Lord162 (2595)
+*** ANTE/BLINDS ***
+Kingsman2018 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [4h 8s]
+*** PRE-FLOP *** 
+SIROP_TYPHON folds
+toobinU folds
+chris5p folds
+lolovich72 raises 80 to 160
+LOLA_Lord162 folds
+Maeztro raises 1605 to 1765 and is all-in
+Kingsman2018 calls 1725
+P1xel7 folds
+lolovich72 calls 1605
+*** FLOP *** [5h Qd 3h]
+Kingsman2018 checks
+lolovich72 checks
+*** TURN *** [5h Qd 3h][5c]
+Kingsman2018 bets 1881
+lolovich72 folds
+*** RIVER *** [5h Qd 3h 5c][4d]
+*** SHOW DOWN ***
+Maeztro shows [9h 9c] (Two pairs : 9 and 5)
+Kingsman2018 shows [Js 3d] (Two pairs : 5 and 3)
+Kingsman2018 collected 1881 from side pot 1
+Maeztro collected 5375 from main pot
+*** SUMMARY ***
+Total pot 7256 | No rake
+Board: [5h Qd 3h 5c 4d]
+Seat 1: Maeztro (button) showed [9h 9c] and won 5375 with Two pairs : 9 and 5
+Seat 2: Kingsman2018 (small blind) showed [Js 3d] and won 1881 with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 5 - HandId: #2977011101813703022-45-1702237095 - Holdem no limit (40/80) - 2023/12/10 19:38:15 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #2 is the button
+Seat 1: Maeztro (5375)
+Seat 2: Kingsman2018 (7223)
+Seat 3: P1xel7 (11520)
+Seat 4: SIROP_TYPHON (3000)
+Seat 5: toobinU (7950)
+Seat 6: chris5p (2820)
+Seat 7: lolovich72 (4999)
+Seat 8: LOLA_Lord162 (2595)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+SIROP_TYPHON posts big blind 80
+Dealt to P1xel7 [Ts Tc]
+*** PRE-FLOP *** 
+toobinU folds
+chris5p folds
+lolovich72 calls 80
+LOLA_Lord162 folds
+Maeztro calls 80
+Kingsman2018 calls 80
+P1xel7 raises 720 to 800
+SIROP_TYPHON folds
+lolovich72 calls 720
+Maeztro folds
+Kingsman2018 calls 720
+*** FLOP *** [8s Jc Ah]
+P1xel7 checks
+lolovich72 checks
+Kingsman2018 bets 80
+P1xel7 calls 80
+lolovich72 folds
+*** TURN *** [8s Jc Ah][3h]
+P1xel7 checks
+Kingsman2018 bets 80
+P1xel7 calls 80
+*** RIVER *** [8s Jc Ah 3h][8h]
+P1xel7 bets 720
+Kingsman2018 calls 720
+*** SHOW DOWN ***
+Kingsman2018 shows [3c Ks] (Two pairs : 8 and 3)
+P1xel7 shows [Ts Tc] (Two pairs : Tens and 8)
+P1xel7 collected 4320 from pot
+*** SUMMARY ***
+Total pot 4320 | No rake
+Board: [8s Jc Ah 3h 8h]
+Seat 2: Kingsman2018 (button) showed [3c Ks] and lost with Two pairs : 8 and 3
+Seat 3: P1xel7 (small blind) showed [Ts Tc] and won 4320 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-46-1702237234 - Holdem no limit (60/120) - 2023/12/10 19:40:34 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #3 is the button
+Seat 1: Maeztro (5295)
+Seat 2: Kingsman2018 (5543)
+Seat 3: P1xel7 (14160)
+Seat 4: SIROP_TYPHON (2920)
+Seat 5: toobinU (7950)
+Seat 6: chris5p (2820)
+Seat 7: lolovich72 (4199)
+Seat 8: LOLA_Lord162 (2595)
+*** ANTE/BLINDS ***
+SIROP_TYPHON posts small blind 60
+toobinU posts big blind 120
+Dealt to P1xel7 [9c Jh]
+*** PRE-FLOP *** 
+chris5p folds
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro calls 120
+Kingsman2018 calls 120
+P1xel7 folds
+SIROP_TYPHON calls 60
+toobinU raises 1080 to 1200
+Maeztro folds
+Kingsman2018 raises 4343 to 5543 and is all-in
+SIROP_TYPHON calls 2800 and is all-in
+toobinU calls 4343
+*** FLOP *** [Kd Kh Tc]
+*** TURN *** [Kd Kh Tc][2s]
+*** RIVER *** [Kd Kh Tc 2s][Ts]
+*** SHOW DOWN ***
+SIROP_TYPHON shows [Ad 7c] (Two pairs : Kings and Tens)
+Kingsman2018 shows [Ks Ac] (Full of Kings and Tens)
+toobinU shows [Ah Kc] (Full of Kings and Tens)
+toobinU collected 7063 from pot
+Kingsman2018 collected 7063 from pot
+*** SUMMARY ***
+Total pot 14126 | No rake
+Board: [Kd Kh Tc 2s Ts]
+Seat 2: Kingsman2018 showed [Ks Ac] and won 7063 with Full of Kings and Tens
+Seat 4: SIROP_TYPHON (small blind) showed [Ad 7c] and lost with Two pairs : Kings and Tens
+Seat 5: toobinU (big blind) showed [Ah Kc] and won 7063 with Full of Kings and Tens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-47-1702237277 - Holdem no limit (60/120) - 2023/12/10 19:41:17 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #4 is the button
+Seat 1: Maeztro (5175)
+Seat 2: Kingsman2018 (7063)
+Seat 3: P1xel7 (14160)
+Seat 5: toobinU (9470)
+Seat 6: chris5p (2820)
+Seat 7: lolovich72 (4199)
+Seat 8: LOLA_Lord162 (2595)
+*** ANTE/BLINDS ***
+toobinU posts small blind 60
+chris5p posts big blind 120
+Dealt to P1xel7 [9d 8h]
+*** PRE-FLOP *** 
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro calls 120
+Kingsman2018 calls 120
+P1xel7 folds
+toobinU folds
+chris5p checks
+*** FLOP *** [3d 3c Qc]
+chris5p checks
+Maeztro bets 336
+Kingsman2018 calls 336
+chris5p folds
+*** TURN *** [3d 3c Qc][7h]
+Maeztro checks
+Kingsman2018 checks
+*** RIVER *** [3d 3c Qc 7h][Js]
+Maeztro bets 1092
+Kingsman2018 folds
+Maeztro collected 2184 from pot
+*** SUMMARY ***
+Total pot 2184 | No rake
+Board: [3d 3c Qc 7h Js]
+Seat 1: Maeztro won 2184
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-48-1702237334 - Holdem no limit (60/120) - 2023/12/10 19:42:14 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #5 is the button
+Seat 1: Maeztro (5811)
+Seat 2: Kingsman2018 (6607)
+Seat 3: P1xel7 (14160)
+Seat 5: toobinU (9410)
+Seat 6: chris5p (2700)
+Seat 7: lolovich72 (4199)
+Seat 8: LOLA_Lord162 (2595)
+*** ANTE/BLINDS ***
+chris5p posts small blind 60
+lolovich72 posts big blind 120
+Dealt to P1xel7 [4d Qc]
+*** PRE-FLOP *** 
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 calls 120
+P1xel7 folds
+toobinU folds
+chris5p calls 60
+lolovich72 checks
+*** FLOP *** [9d 8c Kd]
+chris5p checks
+lolovich72 bets 120
+Kingsman2018 calls 120
+chris5p folds
+*** TURN *** [9d 8c Kd][8d]
+lolovich72 checks
+Kingsman2018 bets 390
+lolovich72 calls 390
+*** RIVER *** [9d 8c Kd 8d][Td]
+lolovich72 checks
+Kingsman2018 bets 483
+lolovich72 calls 483
+*** SHOW DOWN ***
+lolovich72 shows [8h 3h] (Trips of 8)
+Kingsman2018 shows [Jd 9h] (Flush King high)
+Kingsman2018 collected 2346 from pot
+*** SUMMARY ***
+Total pot 2346 | No rake
+Board: [9d 8c Kd 8d Td]
+Seat 2: Kingsman2018 showed [Jd 9h] and won 2346 with Flush King high
+Seat 7: lolovich72 (big blind) showed [8h 3h] and lost with Trips of 8
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-49-1702237414 - Holdem no limit (60/120) - 2023/12/10 19:43:34 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #6 is the button
+Seat 1: Maeztro (5811)
+Seat 2: Kingsman2018 (7840)
+Seat 3: P1xel7 (14160)
+Seat 4: Hugdo69 (3000)
+Seat 5: toobinU (9410)
+Seat 6: chris5p (2580)
+Seat 7: lolovich72 (3086)
+Seat 8: LOLA_Lord162 (2595)
+*** ANTE/BLINDS ***
+lolovich72 posts small blind 60
+LOLA_Lord162 posts big blind 120
+Dealt to P1xel7 [Qs As]
+*** PRE-FLOP *** 
+Maeztro folds
+Kingsman2018 calls 120
+P1xel7 raises 480 to 600
+Hugdo69 raises 2400 to 3000 and is all-in
+toobinU folds
+chris5p folds
+lolovich72 folds
+LOLA_Lord162 folds
+Kingsman2018 folds
+P1xel7 calls 2400
+*** FLOP *** [4h 8c 9s]
+*** TURN *** [4h 8c 9s][Ts]
+*** RIVER *** [4h 8c 9s Ts][5s]
+*** SHOW DOWN ***
+Hugdo69 shows [9c Kh] (One pair : 9)
+P1xel7 shows [Qs As] (Flush Ace high)
+P1xel7 collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Board: [4h 8c 9s Ts 5s]
+Seat 3: P1xel7 showed [Qs As] and won 6300 with Flush Ace high
+Seat 4: Hugdo69 showed [9c Kh] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-50-1702237439 - Holdem no limit (60/120) - 2023/12/10 19:43:59 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #7 is the button
+Seat 1: Maeztro (5811)
+Seat 2: Kingsman2018 (7720)
+Seat 3: P1xel7 (17460)
+Seat 5: toobinU (9410)
+Seat 6: chris5p (2580)
+Seat 7: lolovich72 (3026)
+Seat 8: LOLA_Lord162 (2475)
+*** ANTE/BLINDS ***
+LOLA_Lord162 posts small blind 60
+Maeztro posts big blind 120
+Dealt to P1xel7 [9c 6d]
+*** PRE-FLOP *** 
+Kingsman2018 folds
+P1xel7 folds
+toobinU folds
+chris5p folds
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: Maeztro (big blind) won 180
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-51-1702237456 - Holdem no limit (60/120) - 2023/12/10 19:44:16 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #8 is the button
+Seat 1: Maeztro (5871)
+Seat 2: Kingsman2018 (7720)
+Seat 3: P1xel7 (17460)
+Seat 5: toobinU (9410)
+Seat 6: chris5p (2580)
+Seat 7: lolovich72 (3026)
+Seat 8: LOLA_Lord162 (2415)
+*** ANTE/BLINDS ***
+Maeztro posts small blind 60
+Kingsman2018 posts big blind 120
+Dealt to P1xel7 [Jc 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+toobinU folds
+chris5p folds
+lolovich72 calls 120
+LOLA_Lord162 folds
+Maeztro calls 60
+Kingsman2018 raises 120 to 240
+lolovich72 calls 120
+Maeztro calls 120
+*** FLOP *** [5h 3d Jd]
+Maeztro checks
+Kingsman2018 bets 252
+lolovich72 calls 252
+Maeztro calls 252
+*** TURN *** [5h 3d Jd][2d]
+Maeztro checks
+Kingsman2018 bets 517
+lolovich72 folds
+Maeztro calls 517
+*** RIVER *** [5h 3d Jd 2d][9s]
+Maeztro bets 1255
+Kingsman2018 folds
+Maeztro collected 3765 from pot
+*** SUMMARY ***
+Total pot 3765 | No rake
+Board: [5h 3d Jd 2d 9s]
+Seat 1: Maeztro (small blind) won 3765
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-52-1702237513 - Holdem no limit (60/120) - 2023/12/10 19:45:13 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #1 is the button
+Seat 1: Maeztro (7372)
+Seat 2: Kingsman2018 (6711)
+Seat 3: P1xel7 (17460)
+Seat 5: toobinU (9410)
+Seat 6: chris5p (2580)
+Seat 7: lolovich72 (2534)
+Seat 8: LOLA_Lord162 (2415)
+*** ANTE/BLINDS ***
+Kingsman2018 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [8h Tc]
+*** PRE-FLOP *** 
+toobinU folds
+chris5p folds
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 calls 60
+P1xel7 checks
+*** FLOP *** [4d Kh 7c]
+Kingsman2018 bets 120
+P1xel7 raises 270 to 390
+Kingsman2018 calls 270
+*** TURN *** [4d Kh 7c][5h]
+Kingsman2018 bets 120
+P1xel7 calls 120
+*** RIVER *** [4d Kh 7c 5h][2d]
+Kingsman2018 bets 819
+P1xel7 folds
+Kingsman2018 collected 2079 from pot
+*** SUMMARY ***
+Total pot 2079 | No rake
+Board: [4d Kh 7c 5h 2d]
+Seat 2: Kingsman2018 (small blind) won 2079
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-53-1702237560 - Holdem no limit (60/120) - 2023/12/10 19:46:00 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #2 is the button
+Seat 1: Maeztro (7372)
+Seat 2: Kingsman2018 (7341)
+Seat 3: P1xel7 (16830)
+Seat 4: Clemjomat (2445)
+Seat 5: toobinU (9410)
+Seat 6: chris5p (2580)
+Seat 7: lolovich72 (2534)
+Seat 8: LOLA_Lord162 (2415)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+Clemjomat posts big blind 120
+Dealt to P1xel7 [6d 9s]
+*** PRE-FLOP *** 
+toobinU folds
+chris5p folds
+lolovich72 raises 300 to 420
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 calls 420
+P1xel7 folds
+Clemjomat folds
+*** FLOP *** [Ah 2d 2h]
+lolovich72 bets 2114 and is all-in
+Kingsman2018 folds
+lolovich72 collected 3134 from pot
+*** SUMMARY ***
+Total pot 3134 | No rake
+Board: [Ah 2d 2h]
+Seat 7: lolovich72 won 3134
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-54-1702237582 - Holdem no limit (60/120) - 2023/12/10 19:46:22 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #3 is the button
+Seat 1: Maeztro (7372)
+Seat 2: Kingsman2018 (6921)
+Seat 3: P1xel7 (16770)
+Seat 4: Clemjomat (2325)
+Seat 5: toobinU (9410)
+Seat 6: chris5p (2580)
+Seat 7: lolovich72 (3134)
+Seat 8: LOLA_Lord162 (2415)
+*** ANTE/BLINDS ***
+Clemjomat posts small blind 60
+toobinU posts big blind 120
+Dealt to P1xel7 [2s Ac]
+*** PRE-FLOP *** 
+chris5p folds
+lolovich72 raises 300 to 420
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 calls 420
+P1xel7 folds
+Clemjomat folds
+toobinU folds
+*** FLOP *** [As Jc 5h]
+lolovich72 bets 2714 and is all-in
+Kingsman2018 folds
+lolovich72 collected 3734 from pot
+*** SUMMARY ***
+Total pot 3734 | No rake
+Board: [As Jc 5h]
+Seat 7: lolovich72 won 3734
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-55-1702237628 - Holdem no limit (60/120) - 2023/12/10 19:47:08 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #4 is the button
+Seat 1: Maeztro (7372)
+Seat 2: Kingsman2018 (6501)
+Seat 3: P1xel7 (16770)
+Seat 4: Clemjomat (2265)
+Seat 5: toobinU (9290)
+Seat 6: chris5p (2580)
+Seat 7: lolovich72 (3734)
+Seat 8: LOLA_Lord162 (2415)
+*** ANTE/BLINDS ***
+toobinU posts small blind 60
+chris5p posts big blind 120
+Dealt to P1xel7 [6c Ac]
+*** PRE-FLOP *** 
+lolovich72 calls 120
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 calls 120
+P1xel7 raises 360 to 480
+Clemjomat folds
+toobinU folds
+chris5p folds
+lolovich72 raises 3254 to 3734 and is all-in
+Kingsman2018 folds
+P1xel7 folds
+lolovich72 collected 4514 from pot
+*** SUMMARY ***
+Total pot 4514 | No rake
+Seat 7: lolovich72 won 4514
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 6 - HandId: #2977011101813703022-56-1702237701 - Holdem no limit (60/120) - 2023/12/10 19:48:21 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #5 is the button
+Seat 1: Maeztro (7372)
+Seat 2: Kingsman2018 (6381)
+Seat 3: P1xel7 (16290)
+Seat 4: Clemjomat (2265)
+Seat 5: toobinU (9230)
+Seat 6: chris5p (2460)
+Seat 7: lolovich72 (4514)
+Seat 8: LOLA_Lord162 (2415)
+*** ANTE/BLINDS ***
+chris5p posts small blind 60
+lolovich72 posts big blind 120
+Dealt to P1xel7 [Jc 4h]
+*** PRE-FLOP *** 
+LOLA_Lord162 folds
+Maeztro calls 120
+Kingsman2018 folds
+P1xel7 folds
+Clemjomat folds
+toobinU folds
+chris5p calls 60
+lolovich72 checks
+*** FLOP *** [Qh 9h 2d]
+chris5p checks
+lolovich72 checks
+Maeztro bets 234
+chris5p folds
+lolovich72 calls 234
+*** TURN *** [Qh 9h 2d][3h]
+lolovich72 checks
+Maeztro bets 660
+lolovich72 calls 660
+*** RIVER *** [Qh 9h 2d 3h][6d]
+lolovich72 bets 752
+Maeztro calls 752
+*** SHOW DOWN ***
+lolovich72 shows [4d Ah] (High card : Ace)
+Maeztro shows [8c 9s] (One pair : 9)
+Maeztro collected 3652 from pot
+*** SUMMARY ***
+Total pot 3652 | No rake
+Board: [Qh 9h 2d 3h 6d]
+Seat 1: Maeztro showed [8c 9s] and won 3652 with One pair : 9
+Seat 7: lolovich72 (big blind) showed [4d Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-57-1702237756 - Holdem no limit (75/150) - 2023/12/10 19:49:16 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #6 is the button
+Seat 1: Maeztro (9258)
+Seat 2: Kingsman2018 (6381)
+Seat 3: P1xel7 (16290)
+Seat 4: Clemjomat (2265)
+Seat 5: toobinU (9230)
+Seat 6: chris5p (2340)
+Seat 7: lolovich72 (2748)
+Seat 8: LOLA_Lord162 (2415)
+*** ANTE/BLINDS ***
+lolovich72 posts small blind 75
+LOLA_Lord162 posts big blind 150
+Dealt to P1xel7 [8c 2c]
+*** PRE-FLOP *** 
+Maeztro calls 150
+Kingsman2018 calls 150
+P1xel7 folds
+Clemjomat folds
+toobinU folds
+chris5p folds
+lolovich72 calls 75
+LOLA_Lord162 folds
+*** FLOP *** [Ad 5s 3c]
+lolovich72 checks
+Maeztro checks
+Kingsman2018 bets 6231 and is all-in
+lolovich72 folds
+Maeztro folds
+Kingsman2018 collected 6831 from pot
+*** SUMMARY ***
+Total pot 6831 | No rake
+Board: [Ad 5s 3c]
+Seat 2: Kingsman2018 won 6831
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-58-1702237832 - Holdem no limit (75/150) - 2023/12/10 19:50:32 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #7 is the button
+Seat 1: Maeztro (9108)
+Seat 2: Kingsman2018 (6831)
+Seat 3: P1xel7 (16290)
+Seat 4: Clemjomat (2265)
+Seat 5: toobinU (9230)
+Seat 6: chris5p (2340)
+Seat 7: lolovich72 (2598)
+Seat 8: LOLA_Lord162 (2265)
+*** ANTE/BLINDS ***
+LOLA_Lord162 posts small blind 75
+Maeztro posts big blind 150
+Dealt to P1xel7 [9d Tc]
+*** PRE-FLOP *** 
+Kingsman2018 calls 150
+P1xel7 folds
+Clemjomat folds
+toobinU folds
+chris5p folds
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro checks
+*** FLOP *** [7c 6d Td]
+Maeztro bets 150
+Kingsman2018 calls 150
+*** TURN *** [7c 6d Td][3d]
+Maeztro bets 439
+Kingsman2018 calls 439
+*** RIVER *** [7c 6d Td 3d][6c]
+Maeztro checks
+Kingsman2018 checks
+*** SHOW DOWN ***
+Maeztro shows [2h As] (One pair : 6)
+Kingsman2018 shows [7s 9c] (Two pairs : 7 and 6)
+Kingsman2018 collected 1553 from pot
+*** SUMMARY ***
+Total pot 1553 | No rake
+Board: [7c 6d Td 3d 6c]
+Seat 1: Maeztro (big blind) showed [2h As] and lost with One pair : 6
+Seat 2: Kingsman2018 showed [7s 9c] and won 1553 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-59-1702237880 - Holdem no limit (75/150) - 2023/12/10 19:51:20 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #8 is the button
+Seat 1: Maeztro (8369)
+Seat 2: Kingsman2018 (7645)
+Seat 3: P1xel7 (16290)
+Seat 4: Clemjomat (2265)
+Seat 5: toobinU (9230)
+Seat 6: chris5p (2340)
+Seat 7: lolovich72 (2598)
+Seat 8: LOLA_Lord162 (2190)
+*** ANTE/BLINDS ***
+Maeztro posts small blind 75
+Kingsman2018 posts big blind 150
+Dealt to P1xel7 [6d Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+Clemjomat folds
+toobinU folds
+chris5p folds
+lolovich72 calls 150
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 checks
+*** FLOP *** [7s 4c 9s]
+Kingsman2018 bets 150
+lolovich72 raises 2298 to 2448 and is all-in
+Kingsman2018 folds
+lolovich72 collected 2973 from pot
+*** SUMMARY ***
+Total pot 2973 | No rake
+Board: [7s 4c 9s]
+Seat 7: lolovich72 won 2973
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-60-1702237924 - Holdem no limit (75/150) - 2023/12/10 19:52:04 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #1 is the button
+Seat 1: Maeztro (8294)
+Seat 2: Kingsman2018 (7345)
+Seat 3: P1xel7 (16290)
+Seat 4: Clemjomat (2265)
+Seat 5: toobinU (9230)
+Seat 6: chris5p (2340)
+Seat 7: lolovich72 (2973)
+Seat 8: LOLA_Lord162 (2190)
+*** ANTE/BLINDS ***
+Kingsman2018 posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [9d Qs]
+*** PRE-FLOP *** 
+Clemjomat folds
+toobinU folds
+chris5p folds
+lolovich72 calls 150
+LOLA_Lord162 folds
+Maeztro calls 150
+Kingsman2018 raises 7195 to 7345 and is all-in
+P1xel7 folds
+lolovich72 folds
+Maeztro folds
+Kingsman2018 collected 7795 from pot
+*** SUMMARY ***
+Total pot 7795 | No rake
+Seat 2: Kingsman2018 (small blind) won 7795
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-61-1702237941 - Holdem no limit (75/150) - 2023/12/10 19:52:21 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #2 is the button
+Seat 1: Maeztro (8144)
+Seat 2: Kingsman2018 (7795)
+Seat 3: P1xel7 (16140)
+Seat 4: Clemjomat (2265)
+Seat 5: toobinU (9230)
+Seat 6: chris5p (2340)
+Seat 7: lolovich72 (2823)
+Seat 8: LOLA_Lord162 (2190)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 75
+Clemjomat posts big blind 150
+Dealt to P1xel7 [2s Qc]
+*** PRE-FLOP *** 
+toobinU folds
+chris5p raises 150 to 300
+lolovich72 raises 825 to 1125
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 folds
+P1xel7 folds
+Clemjomat folds
+chris5p raises 1215 to 2340 and is all-in
+lolovich72 raises 483 to 2823 and is all-in
+*** FLOP *** [7d 9c Jc]
+*** TURN *** [7d 9c Jc][8s]
+*** RIVER *** [7d 9c Jc 8s][9d]
+*** SHOW DOWN ***
+chris5p shows [3s 3d] (Two pairs : 9 and 3)
+lolovich72 shows [Ac Kc] (One pair : 9)
+lolovich72 collected 483 from side pot 1
+chris5p collected 4905 from main pot
+*** SUMMARY ***
+Total pot 5388 | No rake
+Board: [7d 9c Jc 8s 9d]
+Seat 6: chris5p showed [3s 3d] and won 4905 with Two pairs : 9 and 3
+Seat 7: lolovich72 showed [Ac Kc] and won 483 with One pair : 9
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-62-1702237972 - Holdem no limit (75/150) - 2023/12/10 19:52:52 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #3 is the button
+Seat 1: Maeztro (8144)
+Seat 2: Kingsman2018 (7795)
+Seat 3: P1xel7 (16065)
+Seat 4: Clemjomat (2115)
+Seat 5: toobinU (9230)
+Seat 6: chris5p (4905)
+Seat 7: lolovich72 (483)
+Seat 8: LOLA_Lord162 (2190)
+*** ANTE/BLINDS ***
+Clemjomat posts small blind 75
+toobinU posts big blind 150
+Dealt to P1xel7 [Qs Qc]
+*** PRE-FLOP *** 
+chris5p folds
+lolovich72 folds
+LOLA_Lord162 folds
+Maeztro raises 150 to 300
+Kingsman2018 calls 300
+P1xel7 raises 15765 to 16065 and is all-in
+Clemjomat folds
+toobinU folds
+Maeztro calls 7844 and is all-in
+Kingsman2018 folds
+*** FLOP *** [6h 3h 5d]
+*** TURN *** [6h 3h 5d][2c]
+*** RIVER *** [6h 3h 5d 2c][9h]
+*** SHOW DOWN ***
+Maeztro shows [Ad Ac] (One pair : Aces)
+P1xel7 shows [Qs Qc] (One pair : Queens)
+P1xel7 collected 7921 from side pot 1
+Maeztro collected 16813 from main pot
+*** SUMMARY ***
+Total pot 24734 | No rake
+Board: [6h 3h 5d 2c 9h]
+Seat 1: Maeztro showed [Ad Ac] and won 16813 with One pair : Aces
+Seat 3: P1xel7 (button) showed [Qs Qc] and won 7921 with One pair : Queens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-63-1702238007 - Holdem no limit (75/150) - 2023/12/10 19:53:27 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #4 is the button
+Seat 1: Maeztro (16813)
+Seat 2: Kingsman2018 (7495)
+Seat 3: P1xel7 (7921)
+Seat 4: Clemjomat (2040)
+Seat 5: toobinU (9080)
+Seat 6: chris5p (4905)
+Seat 7: lolovich72 (483)
+Seat 8: LOLA_Lord162 (2190)
+*** ANTE/BLINDS ***
+toobinU posts small blind 75
+chris5p posts big blind 150
+Dealt to P1xel7 [6c 3c]
+*** PRE-FLOP *** 
+lolovich72 calls 150
+LOLA_Lord162 folds
+Maeztro folds
+Kingsman2018 folds
+P1xel7 folds
+Clemjomat folds
+toobinU folds
+chris5p checks
+*** FLOP *** [Ks Ts 3s]
+chris5p checks
+lolovich72 checks
+*** TURN *** [Ks Ts 3s][Jh]
+chris5p checks
+lolovich72 checks
+*** RIVER *** [Ks Ts 3s Jh][9c]
+chris5p checks
+lolovich72 checks
+*** SHOW DOWN ***
+chris5p shows [4d 6h] (High card : King)
+lolovich72 shows [9d 6d] (One pair : 9)
+lolovich72 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [Ks Ts 3s Jh 9c]
+Seat 6: chris5p (big blind) showed [4d 6h] and lost with High card : King
+Seat 7: lolovich72 showed [9d 6d] and won 375 with One pair : 9
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-64-1702238055 - Holdem no limit (75/150) - 2023/12/10 19:54:15 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #5 is the button
+Seat 1: Maeztro (16813)
+Seat 2: Kingsman2018 (7495)
+Seat 3: P1xel7 (7921)
+Seat 4: Clemjomat (2040)
+Seat 5: toobinU (9005)
+Seat 6: chris5p (4755)
+Seat 7: lolovich72 (708)
+Seat 8: LOLA_Lord162 (2190)
+*** ANTE/BLINDS ***
+chris5p posts small blind 75
+lolovich72 posts big blind 150
+Dealt to P1xel7 [Ah Js]
+*** PRE-FLOP *** 
+LOLA_Lord162 folds
+Maeztro calls 150
+Kingsman2018 calls 150
+P1xel7 raises 975 to 1125
+Clemjomat folds
+toobinU folds
+chris5p folds
+lolovich72 calls 558 and is all-in
+Maeztro calls 975
+Kingsman2018 calls 975
+*** FLOP *** [Qc Qd 9s]
+Maeztro checks
+Kingsman2018 bets 150
+P1xel7 calls 150
+Maeztro raises 300 to 450
+Kingsman2018 calls 300
+P1xel7 calls 300
+*** TURN *** [Qc Qd 9s][2s]
+Maeztro bets 5508
+Kingsman2018 calls 5508
+P1xel7 folds
+*** RIVER *** [Qc Qd 9s 2s][Kd]
+Maeztro bets 9730 and is all-in
+Kingsman2018 calls 412 and is all-in
+*** SHOW DOWN ***
+Kingsman2018 shows [7s Ks] (Two pairs : Kings and Queens)
+lolovich72 shows [6d 5d] (One pair : Queens)
+Maeztro shows [Qs Th] (Trips of Queens)
+Maeztro collected 26666 from pot
+*** SUMMARY ***
+Total pot 26666 | No rake
+Board: [Qc Qd 9s 2s Kd]
+Seat 1: Maeztro showed [Qs Th] and won 26666 with Trips of Queens
+Seat 2: Kingsman2018 showed [7s Ks] and lost with Two pairs : Kings and Queens
+Seat 7: lolovich72 (big blind) showed [6d 5d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-65-1702238461 - Holdem no limit (75/150) - 2023/12/10 20:01:01 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #6 is the button
+Seat 1: Maeztro (26666)
+Seat 2: POTCH25 (3000)
+Seat 3: P1xel7 (6346)
+Seat 4: Clemjomat (2040)
+Seat 5: toobinU (9005)
+Seat 6: chris5p (4680)
+Seat 7: MvTheBool (3000)
+Seat 8: LOLA_Lord162 (2190)
+*** ANTE/BLINDS ***
+LOLA_Lord162 posts big blind 150
+Dealt to P1xel7 [2d 3h]
+*** PRE-FLOP *** 
+Maeztro calls 150
+POTCH25 folds
+P1xel7 folds
+Clemjomat folds
+toobinU folds
+chris5p calls 150
+LOLA_Lord162 folds
+*** FLOP *** [5d 3d Kh]
+Maeztro checks
+chris5p bets 150
+Maeztro raises 150 to 300
+chris5p raises 150 to 450
+Maeztro raises 150 to 600
+chris5p raises 150 to 750
+Maeztro calls 150
+*** TURN *** [5d 3d Kh][2h]
+Maeztro checks
+chris5p bets 975
+Maeztro raises 1125 to 2100
+chris5p raises 1680 to 3780 and is all-in
+Maeztro calls 1680
+*** RIVER *** [5d 3d Kh 2h][Td]
+*** SHOW DOWN ***
+chris5p shows [Js Qh] (High card : King)
+Maeztro shows [5s 5h] (Trips of 5)
+Maeztro collected 9510 from pot
+*** SUMMARY ***
+Total pot 9510 | No rake
+Board: [5d 3d Kh 2h Td]
+Seat 1: Maeztro showed [5s 5h] and won 9510 with Trips of 5
+Seat 6: chris5p (button) showed [Js Qh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-66-1702238519 - Holdem no limit (75/150) - 2023/12/10 20:01:59 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #7 is the button
+Seat 1: Maeztro (31496)
+Seat 2: POTCH25 (3000)
+Seat 3: P1xel7 (6346)
+Seat 4: Clemjomat (2040)
+Seat 5: toobinU (9005)
+Seat 7: MvTheBool (3000)
+Seat 8: LOLA_Lord162 (2040)
+*** ANTE/BLINDS ***
+LOLA_Lord162 posts small blind 75
+Maeztro posts big blind 150
+Dealt to P1xel7 [3s Kd]
+*** PRE-FLOP *** 
+POTCH25 folds
+P1xel7 folds
+Clemjomat folds
+toobinU folds
+LOLA_Lord162 folds
+Maeztro collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 1: Maeztro (big blind) won 225
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 7 - HandId: #2977011101813703022-67-1702238535 - Holdem no limit (75/150) - 2023/12/10 20:02:15 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #8 is the button
+Seat 1: Maeztro (31571)
+Seat 2: POTCH25 (3000)
+Seat 3: P1xel7 (6346)
+Seat 4: Clemjomat (2040)
+Seat 5: toobinU (9005)
+Seat 7: MvTheBool (3000)
+Seat 8: LOLA_Lord162 (1965)
+*** ANTE/BLINDS ***
+Maeztro posts small blind 75
+POTCH25 posts big blind 150
+Dealt to P1xel7 [3s Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Clemjomat folds
+toobinU folds
+MvTheBool raises 150 to 300
+LOLA_Lord162 folds
+Maeztro calls 225
+POTCH25 folds
+*** FLOP *** [Th Ac 4d]
+Maeztro checks
+MvTheBool checks
+*** TURN *** [Th Ac 4d][Kc]
+Maeztro bets 488
+MvTheBool calls 488
+*** RIVER *** [Th Ac 4d Kc][9c]
+Maeztro checks
+MvTheBool bets 2212 and is all-in
+Maeztro folds
+MvTheBool collected 3938 from pot
+*** SUMMARY ***
+Total pot 3938 | No rake
+Board: [Th Ac 4d Kc 9c]
+Seat 7: MvTheBool won 3938
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 8 - HandId: #2977011101813703022-68-1702238710 - Holdem no limit (15/75/150) - 2023/12/10 20:05:10 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #1 is the button
+Seat 1: Maeztro (30783)
+Seat 2: POTCH25 (2850)
+Seat 3: P1xel7 (6346)
+Seat 4: Clemjomat (2040)
+Seat 5: toobinU (9005)
+Seat 6: Mystik 7 (3000)
+Seat 7: MvTheBool (3938)
+Seat 8: LOLA_Lord162 (1965)
+*** ANTE/BLINDS ***
+POTCH25 posts ante 15
+P1xel7 posts ante 15
+Maeztro posts ante 15
+Clemjomat posts ante 15
+toobinU posts ante 15
+Mystik 7 posts ante 15
+MvTheBool posts ante 15
+LOLA_Lord162 posts ante 15
+POTCH25 posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [Js Qc]
+*** PRE-FLOP *** 
+Clemjomat folds
+toobinU folds
+Mystik 7 folds
+MvTheBool folds
+LOLA_Lord162 folds
+Maeztro calls 150
+POTCH25 folds
+P1xel7 checks
+*** FLOP *** [Ks Kh Ts]
+P1xel7 checks
+Maeztro bets 173
+P1xel7 calls 173
+*** TURN *** [Ks Kh Ts][6s]
+P1xel7 checks
+Maeztro checks
+*** RIVER *** [Ks Kh Ts 6s][2c]
+P1xel7 bets 673
+Maeztro folds
+P1xel7 collected 1514 from pot
+*** SUMMARY ***
+Total pot 1514 | No rake
+Board: [Ks Kh Ts 6s 2c]
+Seat 3: P1xel7 (big blind) won 1514
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 8 - HandId: #2977011101813703022-69-1702238747 - Holdem no limit (15/75/150) - 2023/12/10 20:05:47 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #2 is the button
+Seat 1: Maeztro (30445)
+Seat 2: POTCH25 (2760)
+Seat 3: P1xel7 (6849)
+Seat 4: Clemjomat (2025)
+Seat 5: toobinU (8990)
+Seat 6: Mystik 7 (2985)
+Seat 7: MvTheBool (3923)
+Seat 8: LOLA_Lord162 (1950)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 15
+Clemjomat posts ante 15
+Maeztro posts ante 15
+POTCH25 posts ante 15
+toobinU posts ante 15
+Mystik 7 posts ante 15
+MvTheBool posts ante 15
+LOLA_Lord162 posts ante 15
+P1xel7 posts small blind 75
+Clemjomat posts big blind 150
+Dealt to P1xel7 [Jd 7s]
+*** PRE-FLOP *** 
+toobinU folds
+Mystik 7 raises 250 to 400
+MvTheBool raises 3508 to 3908 and is all-in
+LOLA_Lord162 folds
+Maeztro folds
+POTCH25 folds
+P1xel7 folds
+Clemjomat folds
+Mystik 7 folds
+MvTheBool collected 4653 from pot
+*** SUMMARY ***
+Total pot 4653 | No rake
+Seat 7: MvTheBool won 4653
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 8 - HandId: #2977011101813703022-70-1702238774 - Holdem no limit (15/75/150) - 2023/12/10 20:06:14 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #3 is the button
+Seat 1: Maeztro (30430)
+Seat 2: POTCH25 (2745)
+Seat 3: P1xel7 (6759)
+Seat 4: Clemjomat (1860)
+Seat 5: toobinU (8975)
+Seat 6: Mystik 7 (2570)
+Seat 7: MvTheBool (4653)
+Seat 8: LOLA_Lord162 (1935)
+*** ANTE/BLINDS ***
+Clemjomat posts ante 15
+toobinU posts ante 15
+Maeztro posts ante 15
+POTCH25 posts ante 15
+P1xel7 posts ante 15
+Mystik 7 posts ante 15
+MvTheBool posts ante 15
+LOLA_Lord162 posts ante 15
+Clemjomat posts small blind 75
+toobinU posts big blind 150
+Dealt to P1xel7 [2h Jd]
+*** PRE-FLOP *** 
+Mystik 7 raises 250 to 400
+MvTheBool raises 4238 to 4638 and is all-in
+LOLA_Lord162 folds
+Maeztro folds
+POTCH25 folds
+P1xel7 folds
+Clemjomat folds
+toobinU folds
+Mystik 7 calls 2155 and is all-in
+*** FLOP *** [8h 3c Ks]
+*** TURN *** [8h 3c Ks][6d]
+*** RIVER *** [8h 3c Ks 6d][3s]
+*** SHOW DOWN ***
+Mystik 7 shows [Jc Ts] (One pair : 3)
+MvTheBool shows [5h 5d] (Two pairs : 5 and 3)
+MvTheBool collected 7538 from pot
+*** SUMMARY ***
+Total pot 7538 | No rake
+Board: [8h 3c Ks 6d 3s]
+Seat 6: Mystik 7 showed [Jc Ts] and lost with One pair : 3
+Seat 7: MvTheBool showed [5h 5d] and won 7538 with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 8 - HandId: #2977011101813703022-71-1702238803 - Holdem no limit (15/75/150) - 2023/12/10 20:06:43 UTC
+Table: 'Tremplin Poitiers(693139411)#0365' 8-max (real money) Seat #4 is the button
+Seat 1: Maeztro (30415)
+Seat 2: POTCH25 (2730)
+Seat 3: P1xel7 (6744)
+Seat 4: Clemjomat (1770)
+Seat 5: toobinU (8810)
+Seat 7: MvTheBool (7538)
+Seat 8: LOLA_Lord162 (1920)
+*** ANTE/BLINDS ***
+toobinU posts ante 15
+MvTheBool posts ante 15
+Maeztro posts ante 15
+POTCH25 posts ante 15
+P1xel7 posts ante 15
+Clemjomat posts ante 15
+LOLA_Lord162 posts ante 15
+toobinU posts small blind 75
+MvTheBool posts big blind 150
+Dealt to P1xel7 [Qh 4c]
+*** PRE-FLOP *** 
+LOLA_Lord162 folds
+Maeztro folds
+POTCH25 folds
+P1xel7 folds
+Clemjomat folds
+toobinU calls 75
+MvTheBool checks
+*** FLOP *** [As Th 4s]
+toobinU bets 225
+MvTheBool folds
+toobinU collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Board: [As Th 4s]
+Seat 5: toobinU (small blind) won 630
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 8 - HandId: #2977011101813702774-120-1702238897 - Holdem no limit (15/75/150) - 2023/12/10 20:08:17 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #2 is the button
+Seat 1: Samz69190 (1005)
+Seat 2: vicmackey86 (7574)
+Seat 3: JJVAUTOUR (1070)
+Seat 4: oracle745138 (1530)
+Seat 5: ..labER.. (5211)
+Seat 6: Sawyertoms (1085)
+Seat 7: P1xel7 (6729)
+Seat 8: Brend 04 (15058)
+*** ANTE/BLINDS ***
+JJVAUTOUR posts ante 15
+oracle745138 posts ante 15
+Samz69190 posts ante 15
+vicmackey86 posts ante 15
+..labER.. posts ante 15
+Sawyertoms posts ante 15
+P1xel7 posts ante 15
+Brend 04 posts ante 15
+JJVAUTOUR posts small blind 75
+oracle745138 posts big blind 150
+Dealt to P1xel7 [6h Td]
+*** PRE-FLOP *** 
+..labER.. raises 225 to 375
+Sawyertoms folds
+P1xel7 folds
+Brend 04 folds
+Samz69190 folds
+vicmackey86 folds
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 5: ..labER.. won 720
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 8 - HandId: #2977011101813702774-121-1702238926 - Holdem no limit (15/75/150) - 2023/12/10 20:08:46 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #3 is the button
+Seat 1: Samz69190 (990)
+Seat 2: vicmackey86 (7559)
+Seat 3: JJVAUTOUR (980)
+Seat 4: oracle745138 (1365)
+Seat 5: ..labER.. (5541)
+Seat 6: Sawyertoms (1070)
+Seat 7: P1xel7 (6714)
+Seat 8: Brend 04 (15043)
+*** ANTE/BLINDS ***
+oracle745138 posts ante 15
+..labER.. posts ante 15
+Samz69190 posts ante 15
+vicmackey86 posts ante 15
+JJVAUTOUR posts ante 15
+Sawyertoms posts ante 15
+P1xel7 posts ante 15
+Brend 04 posts ante 15
+oracle745138 posts small blind 75
+..labER.. posts big blind 150
+Dealt to P1xel7 [9d 8s]
+*** PRE-FLOP *** 
+Sawyertoms folds
+P1xel7 folds
+Brend 04 calls 150
+Samz69190 folds
+vicmackey86 calls 150
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. checks
+*** FLOP *** [4s Kc 5h]
+..labER.. checks
+Brend 04 bets 226
+vicmackey86 folds
+..labER.. folds
+Brend 04 collected 871 from pot
+*** SUMMARY ***
+Total pot 871 | No rake
+Board: [4s Kc 5h]
+Seat 8: Brend 04 won 871
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 8 - HandId: #2977011101813702774-122-1702238961 - Holdem no limit (15/75/150) - 2023/12/10 20:09:21 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #4 is the button
+Seat 1: Samz69190 (975)
+Seat 2: vicmackey86 (7394)
+Seat 3: JJVAUTOUR (965)
+Seat 4: oracle745138 (1275)
+Seat 5: ..labER.. (5376)
+Seat 6: Sawyertoms (1055)
+Seat 7: P1xel7 (6699)
+Seat 8: Brend 04 (15523)
+*** ANTE/BLINDS ***
+..labER.. posts ante 15
+Sawyertoms posts ante 15
+Samz69190 posts ante 15
+vicmackey86 posts ante 15
+JJVAUTOUR posts ante 15
+oracle745138 posts ante 15
+P1xel7 posts ante 15
+Brend 04 posts ante 15
+..labER.. posts small blind 75
+Sawyertoms posts big blind 150
+Dealt to P1xel7 [2d Ad]
+*** PRE-FLOP *** 
+P1xel7 raises 225 to 375
+Brend 04 calls 375
+Samz69190 folds
+vicmackey86 raises 750 to 1125
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. folds
+Sawyertoms folds
+P1xel7 calls 750
+Brend 04 calls 750
+*** FLOP *** [Js 9s Th]
+P1xel7 checks
+Brend 04 checks
+vicmackey86 checks
+*** TURN *** [Js 9s Th][4d]
+P1xel7 bets 750
+Brend 04 calls 750
+vicmackey86 calls 750
+*** RIVER *** [Js 9s Th 4d][5d]
+P1xel7 checks
+Brend 04 bets 1126
+vicmackey86 calls 1126
+P1xel7 folds
+*** SHOW DOWN ***
+Brend 04 shows [Jc Ah] (One pair : Jacks)
+vicmackey86 shows [Kc Kd] (One pair : Kings)
+vicmackey86 collected 8222 from pot
+*** SUMMARY ***
+Total pot 8222 | No rake
+Board: [Js 9s Th 4d 5d]
+Seat 2: vicmackey86 showed [Kc Kd] and won 8222 with One pair : Kings
+Seat 8: Brend 04 showed [Jc Ah] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-123-1702239074 - Holdem no limit (20/100/200) - 2023/12/10 20:11:14 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #5 is the button
+Seat 1: Samz69190 (960)
+Seat 2: vicmackey86 (12600)
+Seat 3: JJVAUTOUR (950)
+Seat 4: oracle745138 (1260)
+Seat 5: ..labER.. (5286)
+Seat 6: Sawyertoms (890)
+Seat 7: P1xel7 (4809)
+Seat 8: Brend 04 (12507)
+*** ANTE/BLINDS ***
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Brend 04 posts ante 20
+Sawyertoms posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [5d 3s]
+*** PRE-FLOP *** 
+Brend 04 folds
+Samz69190 folds
+vicmackey86 raises 200 to 400
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. folds
+Sawyertoms folds
+P1xel7 folds
+vicmackey86 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Seat 2: vicmackey86 won 860
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-124-1702239095 - Holdem no limit (20/100/200) - 2023/12/10 20:11:35 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #6 is the button
+Seat 1: Samz69190 (940)
+Seat 2: vicmackey86 (13040)
+Seat 3: JJVAUTOUR (930)
+Seat 4: oracle745138 (1240)
+Seat 5: ..labER.. (5266)
+Seat 6: Sawyertoms (770)
+Seat 7: P1xel7 (4589)
+Seat 8: Brend 04 (12487)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 20
+Brend 04 posts ante 20
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts small blind 100
+Brend 04 posts big blind 200
+Dealt to P1xel7 [4h 8c]
+*** PRE-FLOP *** 
+Samz69190 folds
+vicmackey86 raises 200 to 400
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. folds
+Sawyertoms folds
+P1xel7 folds
+Brend 04 folds
+vicmackey86 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Seat 2: vicmackey86 won 860
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-125-1702239112 - Holdem no limit (20/100/200) - 2023/12/10 20:11:52 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #7 is the button
+Seat 1: Samz69190 (920)
+Seat 2: vicmackey86 (13480)
+Seat 3: JJVAUTOUR (910)
+Seat 4: oracle745138 (1220)
+Seat 5: ..labER.. (5246)
+Seat 6: Sawyertoms (750)
+Seat 7: P1xel7 (4469)
+Seat 8: Brend 04 (12267)
+*** ANTE/BLINDS ***
+Brend 04 posts ante 20
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Brend 04 posts small blind 100
+Samz69190 posts big blind 200
+Dealt to P1xel7 [5s 4c]
+*** PRE-FLOP *** 
+vicmackey86 raises 200 to 400
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. calls 400
+Sawyertoms folds
+P1xel7 folds
+Brend 04 calls 300
+Samz69190 folds
+*** FLOP *** [8d 3s 2d]
+Brend 04 checks
+vicmackey86 checks
+..labER.. checks
+*** TURN *** [8d 3s 2d][Kh]
+Brend 04 bets 200
+vicmackey86 folds
+..labER.. calls 200
+*** RIVER *** [8d 3s 2d Kh][Qh]
+Brend 04 bets 200
+..labER.. folds
+Brend 04 collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [8d 3s 2d Kh Qh]
+Seat 8: Brend 04 (small blind) won 2160
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-126-1702239187 - Holdem no limit (20/100/200) - 2023/12/10 20:13:07 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #8 is the button
+Seat 1: Samz69190 (700)
+Seat 2: vicmackey86 (13060)
+Seat 3: JJVAUTOUR (890)
+Seat 4: oracle745138 (1200)
+Seat 5: ..labER.. (4626)
+Seat 6: Sawyertoms (730)
+Seat 7: P1xel7 (4449)
+Seat 8: Brend 04 (13607)
+*** ANTE/BLINDS ***
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Brend 04 posts ante 20
+Samz69190 posts small blind 100
+vicmackey86 posts big blind 200
+Dealt to P1xel7 [5h 2h]
+*** PRE-FLOP *** 
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. folds
+Sawyertoms folds
+P1xel7 folds
+Brend 04 calls 200
+Samz69190 folds
+vicmackey86 checks
+*** FLOP *** [6c 3d 9s]
+vicmackey86 checks
+Brend 04 bets 200
+vicmackey86 calls 200
+*** TURN *** [6c 3d 9s][9c]
+vicmackey86 checks
+Brend 04 bets 200
+vicmackey86 calls 200
+*** RIVER *** [6c 3d 9s 9c][Jc]
+vicmackey86 checks
+Brend 04 bets 949
+vicmackey86 folds
+Brend 04 collected 2409 from pot
+*** SUMMARY ***
+Total pot 2409 | No rake
+Board: [6c 3d 9s 9c Jc]
+Seat 8: Brend 04 (button) won 2409
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-127-1702239219 - Holdem no limit (20/100/200) - 2023/12/10 20:13:39 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #1 is the button
+Seat 1: Samz69190 (580)
+Seat 2: vicmackey86 (12440)
+Seat 3: JJVAUTOUR (870)
+Seat 4: oracle745138 (1180)
+Seat 5: ..labER.. (4606)
+Seat 6: Sawyertoms (710)
+Seat 7: P1xel7 (4429)
+Seat 8: Brend 04 (14447)
+*** ANTE/BLINDS ***
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+Samz69190 posts ante 20
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Brend 04 posts ante 20
+vicmackey86 posts small blind 100
+JJVAUTOUR posts big blind 200
+Dealt to P1xel7 [Js Ac]
+*** PRE-FLOP *** 
+oracle745138 folds
+..labER.. folds
+Sawyertoms folds
+P1xel7 raises 300 to 500
+Brend 04 folds
+Samz69190 folds
+vicmackey86 folds
+JJVAUTOUR folds
+P1xel7 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 7: P1xel7 won 960
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-128-1702239235 - Holdem no limit (20/100/200) - 2023/12/10 20:13:55 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #2 is the button
+Seat 1: Samz69190 (560)
+Seat 2: vicmackey86 (12320)
+Seat 3: JJVAUTOUR (650)
+Seat 4: oracle745138 (1160)
+Seat 5: ..labER.. (4586)
+Seat 6: Sawyertoms (690)
+Seat 7: P1xel7 (4869)
+Seat 8: Brend 04 (14427)
+*** ANTE/BLINDS ***
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Brend 04 posts ante 20
+JJVAUTOUR posts small blind 100
+oracle745138 posts big blind 200
+Dealt to P1xel7 [Ks 4h]
+*** PRE-FLOP *** 
+..labER.. calls 200
+Sawyertoms folds
+P1xel7 folds
+Brend 04 calls 200
+Samz69190 folds
+vicmackey86 folds
+JJVAUTOUR folds
+oracle745138 folds
+*** FLOP *** [Ah 4d 7c]
+..labER.. checks
+Brend 04 bets 200
+..labER.. folds
+Brend 04 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Board: [Ah 4d 7c]
+Seat 8: Brend 04 won 1060
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-129-1702239269 - Holdem no limit (20/100/200) - 2023/12/10 20:14:29 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #3 is the button
+Seat 1: Samz69190 (540)
+Seat 2: vicmackey86 (12300)
+Seat 3: JJVAUTOUR (530)
+Seat 4: oracle745138 (940)
+Seat 5: ..labER.. (4366)
+Seat 6: Sawyertoms (670)
+Seat 7: P1xel7 (4849)
+Seat 8: Brend 04 (15067)
+*** ANTE/BLINDS ***
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Brend 04 posts ante 20
+oracle745138 posts small blind 100
+..labER.. posts big blind 200
+Dealt to P1xel7 [3h 6h]
+*** PRE-FLOP *** 
+Sawyertoms folds
+P1xel7 folds
+Brend 04 calls 200
+Samz69190 folds
+vicmackey86 folds
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. checks
+*** FLOP *** [5s Td Qd]
+..labER.. checks
+Brend 04 bets 200
+..labER.. calls 200
+*** TURN *** [5s Td Qd][5h]
+..labER.. checks
+Brend 04 checks
+*** RIVER *** [5s Td Qd 5h][Ah]
+..labER.. bets 689
+Brend 04 folds
+..labER.. collected 1749 from pot
+*** SUMMARY ***
+Total pot 1749 | No rake
+Board: [5s Td Qd 5h Ah]
+Seat 5: ..labER.. (big blind) won 1749
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-130-1702239314 - Holdem no limit (20/100/200) - 2023/12/10 20:15:14 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #4 is the button
+Seat 1: Samz69190 (520)
+Seat 2: vicmackey86 (12280)
+Seat 3: JJVAUTOUR (510)
+Seat 4: oracle745138 (820)
+Seat 5: ..labER.. (5006)
+Seat 6: Sawyertoms (650)
+Seat 7: P1xel7 (4829)
+Seat 8: Brend 04 (14647)
+*** ANTE/BLINDS ***
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+P1xel7 posts ante 20
+Brend 04 posts ante 20
+..labER.. posts small blind 100
+Sawyertoms posts big blind 200
+Dealt to P1xel7 [Ks 8d]
+*** PRE-FLOP *** 
+P1xel7 raises 300 to 500
+Brend 04 folds
+Samz69190 folds
+vicmackey86 folds
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. folds
+Sawyertoms folds
+P1xel7 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 7: P1xel7 won 960
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-131-1702239341 - Holdem no limit (20/100/200) - 2023/12/10 20:15:41 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #5 is the button
+Seat 1: Samz69190 (500)
+Seat 2: vicmackey86 (12260)
+Seat 3: JJVAUTOUR (490)
+Seat 4: oracle745138 (800)
+Seat 5: ..labER.. (4886)
+Seat 6: Sawyertoms (430)
+Seat 7: P1xel7 (5269)
+Seat 8: Brend 04 (14627)
+*** ANTE/BLINDS ***
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Brend 04 posts ante 20
+Sawyertoms posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Jd Ac]
+*** PRE-FLOP *** 
+Brend 04 calls 200
+Samz69190 folds
+vicmackey86 folds
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. folds
+Sawyertoms folds
+P1xel7 raises 5049 to 5249 and is all-in
+Brend 04 folds
+P1xel7 collected 5709 from pot
+*** SUMMARY ***
+Total pot 5709 | No rake
+Seat 7: P1xel7 (big blind) won 5709
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-132-1702239360 - Holdem no limit (20/100/200) - 2023/12/10 20:16:00 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #6 is the button
+Seat 1: Samz69190 (480)
+Seat 2: vicmackey86 (12240)
+Seat 3: JJVAUTOUR (470)
+Seat 4: oracle745138 (780)
+Seat 5: ..labER.. (4866)
+Seat 6: Sawyertoms (310)
+Seat 7: P1xel7 (5709)
+Seat 8: Brend 04 (14407)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 20
+Brend 04 posts ante 20
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts small blind 100
+Brend 04 posts big blind 200
+Dealt to P1xel7 [9s Th]
+*** PRE-FLOP *** 
+Samz69190 folds
+vicmackey86 raises 200 to 400
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. folds
+Sawyertoms folds
+P1xel7 folds
+Brend 04 calls 200
+*** FLOP *** [6s 2c 4d]
+Brend 04 checks
+vicmackey86 bets 371
+Brend 04 folds
+vicmackey86 collected 1431 from pot
+*** SUMMARY ***
+Total pot 1431 | No rake
+Board: [6s 2c 4d]
+Seat 2: vicmackey86 won 1431
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-133-1702239396 - Holdem no limit (20/100/200) - 2023/12/10 20:16:36 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #7 is the button
+Seat 1: Samz69190 (460)
+Seat 2: vicmackey86 (12880)
+Seat 3: JJVAUTOUR (450)
+Seat 4: oracle745138 (760)
+Seat 5: ..labER.. (4846)
+Seat 6: Sawyertoms (290)
+Seat 7: P1xel7 (5589)
+Seat 8: Brend 04 (13987)
+*** ANTE/BLINDS ***
+Brend 04 posts ante 20
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Brend 04 posts small blind 100
+Samz69190 posts big blind 200
+Dealt to P1xel7 [Qc 2d]
+*** PRE-FLOP *** 
+vicmackey86 folds
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. calls 200
+Sawyertoms folds
+P1xel7 folds
+Brend 04 calls 100
+Samz69190 folds
+*** FLOP *** [5c Js 3s]
+Brend 04 checks
+..labER.. checks
+*** TURN *** [5c Js 3s][5s]
+Brend 04 bets 200
+..labER.. folds
+Brend 04 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [5c Js 3s 5s]
+Seat 8: Brend 04 (small blind) won 960
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-134-1702239433 - Holdem no limit (20/100/200) - 2023/12/10 20:17:13 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #8 is the button
+Seat 1: Samz69190 (240)
+Seat 2: vicmackey86 (12860)
+Seat 3: JJVAUTOUR (430)
+Seat 4: oracle745138 (740)
+Seat 5: ..labER.. (4626)
+Seat 6: Sawyertoms (270)
+Seat 7: P1xel7 (5569)
+Seat 8: Brend 04 (14527)
+*** ANTE/BLINDS ***
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Brend 04 posts ante 20
+Samz69190 posts small blind 100
+vicmackey86 posts big blind 200
+Dealt to P1xel7 [Ad 7s]
+*** PRE-FLOP *** 
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. folds
+Sawyertoms folds
+P1xel7 raises 300 to 500
+Brend 04 folds
+Samz69190 folds
+vicmackey86 calls 300
+*** FLOP *** [As 3d Th]
+vicmackey86 checks
+P1xel7 bets 441
+vicmackey86 folds
+P1xel7 collected 1701 from pot
+*** SUMMARY ***
+Total pot 1701 | No rake
+Board: [As 3d Th]
+Seat 7: P1xel7 won 1701
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-135-1702239464 - Holdem no limit (20/100/200) - 2023/12/10 20:17:44 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #1 is the button
+Seat 1: Samz69190 (120)
+Seat 2: vicmackey86 (12340)
+Seat 3: JJVAUTOUR (410)
+Seat 4: oracle745138 (720)
+Seat 5: ..labER.. (4606)
+Seat 6: Sawyertoms (250)
+Seat 7: P1xel7 (6309)
+Seat 8: Brend 04 (14507)
+*** ANTE/BLINDS ***
+vicmackey86 posts ante 20
+JJVAUTOUR posts ante 20
+Samz69190 posts ante 20
+oracle745138 posts ante 20
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Brend 04 posts ante 20
+vicmackey86 posts small blind 100
+JJVAUTOUR posts big blind 200
+Dealt to P1xel7 [3c Qc]
+*** PRE-FLOP *** 
+oracle745138 folds
+..labER.. folds
+Sawyertoms folds
+P1xel7 raises 240 to 440
+Brend 04 folds
+Samz69190 folds
+vicmackey86 folds
+JJVAUTOUR folds
+P1xel7 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 7: P1xel7 won 900
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 9 - HandId: #2977011101813702774-136-1702239490 - Holdem no limit (20/100/200) - 2023/12/10 20:18:10 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #2 is the button
+Seat 1: Samz69190 (100)
+Seat 2: vicmackey86 (12220)
+Seat 3: JJVAUTOUR (190)
+Seat 4: oracle745138 (700)
+Seat 5: ..labER.. (4586)
+Seat 6: Sawyertoms (230)
+Seat 7: P1xel7 (6749)
+Seat 8: Brend 04 (14487)
+*** ANTE/BLINDS ***
+JJVAUTOUR posts ante 20
+oracle745138 posts ante 20
+Samz69190 posts ante 20
+vicmackey86 posts ante 20
+..labER.. posts ante 20
+Sawyertoms posts ante 20
+P1xel7 posts ante 20
+Brend 04 posts ante 20
+JJVAUTOUR posts small blind 100
+oracle745138 posts big blind 200
+Dealt to P1xel7 [7c 2c]
+*** PRE-FLOP *** 
+..labER.. folds
+Sawyertoms folds
+P1xel7 folds
+Brend 04 folds
+Samz69190 folds
+vicmackey86 raises 200 to 400
+JJVAUTOUR folds
+oracle745138 folds
+vicmackey86 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Seat 2: vicmackey86 (button) won 860
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 10 - HandId: #2977011101813702774-137-1702239534 - Holdem no limit (25/125/250) - 2023/12/10 20:18:54 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #3 is the button
+Seat 1: Samz69190 (80)
+Seat 2: vicmackey86 (12660)
+Seat 3: JJVAUTOUR (70)
+Seat 4: oracle745138 (480)
+Seat 5: ..labER.. (4566)
+Seat 6: Sawyertoms (210)
+Seat 7: P1xel7 (6729)
+Seat 8: Brend 04 (14467)
+*** ANTE/BLINDS ***
+oracle745138 posts ante 25
+..labER.. posts ante 25
+Samz69190 posts ante 25
+vicmackey86 posts ante 25
+JJVAUTOUR posts ante 25
+Sawyertoms posts ante 25
+P1xel7 posts ante 25
+Brend 04 posts ante 25
+oracle745138 posts small blind 125
+..labER.. posts big blind 250
+Dealt to P1xel7 [2s 4s]
+*** PRE-FLOP *** 
+Sawyertoms folds
+P1xel7 folds
+Brend 04 folds
+Samz69190 folds
+vicmackey86 folds
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Seat 5: ..labER.. (big blind) won 575
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 10 - HandId: #2977011101813702774-138-1702239580 - Holdem no limit (25/125/250) - 2023/12/10 20:19:40 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #4 is the button
+Seat 1: Samz69190 (55)
+Seat 2: vicmackey86 (12635)
+Seat 3: JJVAUTOUR (45)
+Seat 4: oracle745138 (330)
+Seat 5: ..labER.. (4866)
+Seat 6: Sawyertoms (185)
+Seat 7: P1xel7 (6704)
+Seat 8: Brend 04 (14442)
+*** ANTE/BLINDS ***
+..labER.. posts ante 25
+Sawyertoms posts ante 25
+Samz69190 posts ante 25
+vicmackey86 posts ante 25
+JJVAUTOUR posts ante 25
+oracle745138 posts ante 25
+P1xel7 posts ante 25
+Brend 04 posts ante 25
+..labER.. posts small blind 125
+Sawyertoms posts big blind 160 and is all-in
+Dealt to P1xel7 [4d 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Brend 04 folds
+Samz69190 folds
+vicmackey86 raises 340 to 500
+JJVAUTOUR folds
+oracle745138 folds
+..labER.. folds
+*** FLOP *** [8h Ts 4s]
+*** TURN *** [8h Ts 4s][Kd]
+*** RIVER *** [8h Ts 4s Kd][8s]
+*** SHOW DOWN ***
+Sawyertoms shows [2c Qh] (One pair : 8)
+vicmackey86 shows [Ah 3d] (One pair : 8)
+vicmackey86 collected 985 from pot
+*** SUMMARY ***
+Total pot 985 | No rake
+Board: [8h Ts 4s Kd 8s]
+Seat 2: vicmackey86 showed [Ah 3d] and won 985 with One pair : 8
+Seat 6: Sawyertoms (big blind) showed [2c Qh] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 10 - HandId: #2977011101813702774-139-1702239607 - Holdem no limit (25/125/250) - 2023/12/10 20:20:07 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #5 is the button
+Seat 1: Samz69190 (30)
+Seat 2: vicmackey86 (13095)
+Seat 3: JJVAUTOUR (20)
+Seat 4: oracle745138 (305)
+Seat 5: ..labER.. (4716)
+Seat 7: P1xel7 (6679)
+Seat 8: Brend 04 (14417)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+Samz69190 posts ante 25
+vicmackey86 posts ante 25
+JJVAUTOUR posts ante 20 and is all-in
+oracle745138 posts ante 25
+..labER.. posts ante 25
+Brend 04 posts ante 25
+P1xel7 posts big blind 250
+Dealt to P1xel7 [Th 5d]
+*** PRE-FLOP *** 
+Brend 04 folds
+Samz69190 folds
+vicmackey86 folds
+oracle745138 folds
+..labER.. raises 375 to 625
+P1xel7 calls 375
+*** FLOP *** [9d Tc 4h]
+P1xel7 checks
+..labER.. bets 923
+P1xel7 calls 923
+*** TURN *** [9d Tc 4h][Jd]
+P1xel7 checks
+..labER.. bets 3143 and is all-in
+P1xel7 folds
+*** RIVER *** [9d Tc 4h Jd][3c]
+*** SHOW DOWN ***
+JJVAUTOUR shows [4d Qh] (One pair : 4)
+..labER.. shows [Ad As] (One pair : Aces)
+..labER.. collected 6409 from pot
+*** SUMMARY ***
+Total pot 6409 | No rake
+Board: [9d Tc 4h Jd 3c]
+Seat 3: JJVAUTOUR showed [4d Qh] and lost with One pair : 4
+Seat 5: ..labER.. (button) showed [Ad As] and won 6409 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 10 - HandId: #2977011101813702774-140-1702239656 - Holdem no limit (25/125/250) - 2023/12/10 20:20:56 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #6 is the button
+Seat 1: Samz69190 (5)
+Seat 2: vicmackey86 (13070)
+Seat 4: oracle745138 (280)
+Seat 5: ..labER.. (6409)
+Seat 6: JED4002 (1277)
+Seat 7: P1xel7 (5106)
+Seat 8: Brend 04 (14392)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+Brend 04 posts ante 25
+Samz69190 posts ante 5 and is all-in
+vicmackey86 posts ante 25
+oracle745138 posts ante 25
+..labER.. posts ante 25
+P1xel7 posts small blind 125
+Brend 04 posts big blind 250
+Dealt to P1xel7 [Jc Kc]
+*** PRE-FLOP *** 
+vicmackey86 raises 250 to 500
+oracle745138 folds
+..labER.. folds
+P1xel7 raises 4581 to 5081 and is all-in
+Brend 04 folds
+vicmackey86 folds
+*** FLOP *** [4s Ac Ad]
+*** TURN *** [4s Ac Ad][Th]
+*** RIVER *** [4s Ac Ad Th][Qh]
+*** SHOW DOWN ***
+Samz69190 shows [4c 9s] (Two pairs : Aces and 4)
+P1xel7 shows [Jc Kc] (Straight Ace high)
+P1xel7 collected 5961 from pot
+*** SUMMARY ***
+Total pot 5961 | No rake
+Board: [4s Ac Ad Th Qh]
+Seat 1: Samz69190 showed [4c 9s] and lost with Two pairs : Aces and 4
+Seat 7: P1xel7 (small blind) showed [Jc Kc] and won 5961 with Straight Ace high
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 10 - HandId: #2977011101813702774-141-1702239690 - Holdem no limit (25/125/250) - 2023/12/10 20:21:30 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #7 is the button
+Seat 2: vicmackey86 (12545)
+Seat 3: spike83 (40871)
+Seat 4: oracle745138 (255)
+Seat 5: ..labER.. (6384)
+Seat 6: JED4002 (1277)
+Seat 7: P1xel7 (5961)
+Seat 8: Brend 04 (14117)
+*** ANTE/BLINDS ***
+Brend 04 posts ante 25
+vicmackey86 posts ante 25
+spike83 posts ante 25
+oracle745138 posts ante 25
+..labER.. posts ante 25
+JED4002 posts ante 25
+P1xel7 posts ante 25
+Brend 04 posts small blind 125
+vicmackey86 posts big blind 250
+Dealt to P1xel7 [8c 4c]
+*** PRE-FLOP *** 
+spike83 folds
+oracle745138 folds
+..labER.. folds
+JED4002 folds
+P1xel7 folds
+Brend 04 calls 125
+vicmackey86 checks
+*** FLOP *** [Ah 4d 7h]
+Brend 04 bets 675
+vicmackey86 folds
+Brend 04 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [Ah 4d 7h]
+Seat 8: Brend 04 (small blind) won 1350
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 10 - HandId: #2977011101813702774-142-1702239721 - Holdem no limit (25/125/250) - 2023/12/10 20:22:01 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #8 is the button
+Seat 2: vicmackey86 (12270)
+Seat 3: spike83 (40846)
+Seat 4: oracle745138 (230)
+Seat 5: ..labER.. (6359)
+Seat 6: JED4002 (1252)
+Seat 7: P1xel7 (5936)
+Seat 8: Brend 04 (14517)
+*** ANTE/BLINDS ***
+vicmackey86 posts ante 25
+spike83 posts ante 25
+oracle745138 posts ante 25
+..labER.. posts ante 25
+JED4002 posts ante 25
+P1xel7 posts ante 25
+Brend 04 posts ante 25
+vicmackey86 posts small blind 125
+spike83 posts big blind 250
+Dealt to P1xel7 [3d 6c]
+*** PRE-FLOP *** 
+oracle745138 folds
+..labER.. raises 375 to 625
+JED4002 raises 602 to 1227 and is all-in
+P1xel7 folds
+Brend 04 folds
+vicmackey86 calls 1102
+spike83 calls 977
+..labER.. calls 602
+*** FLOP *** [6d 2h 7h]
+vicmackey86 bets 1779
+spike83 calls 1779
+..labER.. folds
+*** TURN *** [6d 2h 7h][7c]
+vicmackey86 checks
+spike83 bets 8641
+vicmackey86 folds
+*** RIVER *** [6d 2h 7h 7c][8c]
+*** SHOW DOWN ***
+JED4002 shows [4d 4c] (Two pairs : 7 and 4)
+spike83 shows [4h 8h] (Two pairs : 8 and 7)
+spike83 collected 17282 from pot
+*** SUMMARY ***
+Total pot 17282 | No rake
+Board: [6d 2h 7h 7c 8c]
+Seat 3: spike83 (big blind) showed [4h 8h] and won 17282 with Two pairs : 8 and 7
+Seat 6: JED4002 showed [4d 4c] and lost with Two pairs : 7 and 4
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 10 - HandId: #2977011101813702774-143-1702239804 - Holdem no limit (25/125/250) - 2023/12/10 20:23:24 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #2 is the button
+Seat 1: Mamie Dom (24684)
+Seat 2: vicmackey86 (9239)
+Seat 3: spike83 (46456)
+Seat 4: oracle745138 (205)
+Seat 5: ..labER.. (5107)
+Seat 7: P1xel7 (5911)
+Seat 8: Brend 04 (14492)
+*** ANTE/BLINDS ***
+spike83 posts ante 25
+oracle745138 posts ante 25
+Mamie Dom posts ante 25
+vicmackey86 posts ante 25
+..labER.. posts ante 25
+P1xel7 posts ante 25
+Brend 04 posts ante 25
+spike83 posts small blind 125
+oracle745138 posts big blind 180 and is all-in
+Dealt to P1xel7 [Ad 5s]
+*** PRE-FLOP *** 
+..labER.. folds
+P1xel7 folds
+Brend 04 folds
+Mamie Dom raises 570 to 750
+vicmackey86 folds
+spike83 calls 625
+*** FLOP *** [6h Ah 5h]
+spike83 checks
+Mamie Dom bets 1206
+spike83 folds
+*** TURN *** [6h Ah 5h][Qs]
+*** RIVER *** [6h Ah 5h Qs][Ts]
+*** SHOW DOWN ***
+oracle745138 shows [Qh 9d] (One pair : Queens)
+Mamie Dom shows [Ac Th] (Two pairs : Aces and Tens)
+Mamie Dom collected 3061 from pot
+*** SUMMARY ***
+Total pot 3061 | No rake
+Board: [6h Ah 5h Qs Ts]
+Seat 1: Mamie Dom showed [Ac Th] and won 3061 with Two pairs : Aces and Tens
+Seat 4: oracle745138 (big blind) showed [Qh 9d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 10 - HandId: #2977011101813702774-144-1702239861 - Holdem no limit (25/125/250) - 2023/12/10 20:24:21 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #3 is the button
+Seat 1: Mamie Dom (25764)
+Seat 2: vicmackey86 (9214)
+Seat 3: spike83 (45681)
+Seat 5: ..labER.. (5082)
+Seat 7: P1xel7 (5886)
+Seat 8: Brend 04 (14467)
+*** ANTE/BLINDS ***
+..labER.. posts ante 25
+Mamie Dom posts ante 25
+vicmackey86 posts ante 25
+spike83 posts ante 25
+P1xel7 posts ante 25
+Brend 04 posts ante 25
+..labER.. posts big blind 250
+Dealt to P1xel7 [8d 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 folds
+spike83 calls 250
+..labER.. raises 500 to 750
+spike83 calls 500
+*** FLOP *** [2s Th Jh]
+..labER.. bets 578
+spike83 calls 578
+*** TURN *** [2s Th Jh][3s]
+..labER.. bets 982
+spike83 folds
+..labER.. collected 3788 from pot
+*** SUMMARY ***
+Total pot 3788 | No rake
+Board: [2s Th Jh 3s]
+Seat 5: ..labER.. (big blind) won 3788
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 10 - HandId: #2977011101813702774-145-1702239917 - Holdem no limit (25/125/250) - 2023/12/10 20:25:17 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #4 is the button
+Seat 1: Mamie Dom (25739)
+Seat 2: vicmackey86 (9189)
+Seat 3: spike83 (44328)
+Seat 5: ..labER.. (6535)
+Seat 6: YLStriker581 (4096)
+Seat 7: P1xel7 (5861)
+Seat 8: Brend 04 (14442)
+*** ANTE/BLINDS ***
+..labER.. posts ante 25
+YLStriker581 posts ante 25
+Mamie Dom posts ante 25
+vicmackey86 posts ante 25
+spike83 posts ante 25
+P1xel7 posts ante 25
+Brend 04 posts ante 25
+..labER.. posts small blind 125
+YLStriker581 posts big blind 250
+Dealt to P1xel7 [Th Ts]
+*** PRE-FLOP *** 
+P1xel7 raises 5586 to 5836 and is all-in
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 folds
+spike83 calls 5836
+..labER.. folds
+YLStriker581 folds
+*** FLOP *** [6c 9s Qd]
+*** TURN *** [6c 9s Qd][8h]
+*** RIVER *** [6c 9s Qd 8h][Tc]
+*** SHOW DOWN ***
+spike83 shows [Ad 8s] (One pair : 8)
+P1xel7 shows [Th Ts] (Trips of Tens)
+P1xel7 collected 12222 from pot
+*** SUMMARY ***
+Total pot 12222 | No rake
+Board: [6c 9s Qd 8h Tc]
+Seat 3: spike83 showed [Ad 8s] and lost with One pair : 8
+Seat 7: P1xel7 showed [Th Ts] and won 12222 with Trips of Tens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 10 - HandId: #2977011101813702774-146-1702239956 - Holdem no limit (25/125/250) - 2023/12/10 20:25:56 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #5 is the button
+Seat 1: Mamie Dom (25714)
+Seat 2: vicmackey86 (9164)
+Seat 3: spike83 (38467)
+Seat 4: VamosWin (10300)
+Seat 5: ..labER.. (6385)
+Seat 6: YLStriker581 (3821)
+Seat 7: P1xel7 (12222)
+Seat 8: Brend 04 (14417)
+*** ANTE/BLINDS ***
+YLStriker581 posts ante 25
+P1xel7 posts ante 25
+Mamie Dom posts ante 25
+vicmackey86 posts ante 25
+spike83 posts ante 25
+VamosWin posts ante 25
+..labER.. posts ante 25
+Brend 04 posts ante 25
+YLStriker581 posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [4h Js]
+*** PRE-FLOP *** 
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 raises 250 to 500
+spike83 calls 500
+VamosWin folds
+..labER.. folds
+YLStriker581 folds
+P1xel7 calls 250
+*** FLOP *** [9h As Tc]
+P1xel7 checks
+vicmackey86 bets 639
+spike83 raises 37303 to 37942 and is all-in
+P1xel7 folds
+vicmackey86 folds
+spike83 collected 40406 from pot
+*** SUMMARY ***
+Total pot 40406 | No rake
+Board: [9h As Tc]
+Seat 3: spike83 won 40406
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 11 - HandId: #2977011101813702774-147-1702240005 - Holdem no limit (35/150/300) - 2023/12/10 20:26:45 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #6 is the button
+Seat 1: Mamie Dom (25689)
+Seat 2: vicmackey86 (8000)
+Seat 3: spike83 (40406)
+Seat 4: VamosWin (10275)
+Seat 5: ..labER.. (6360)
+Seat 6: YLStriker581 (3671)
+Seat 7: P1xel7 (11697)
+Seat 8: Brend 04 (14392)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Brend 04 posts ante 35
+Mamie Dom posts ante 35
+vicmackey86 posts ante 35
+spike83 posts ante 35
+VamosWin posts ante 35
+..labER.. posts ante 35
+YLStriker581 posts ante 35
+P1xel7 posts small blind 150
+Brend 04 posts big blind 300
+Dealt to P1xel7 [Jd 2c]
+*** PRE-FLOP *** 
+Mamie Dom folds
+vicmackey86 folds
+spike83 raises 300 to 600
+VamosWin folds
+..labER.. folds
+YLStriker581 folds
+P1xel7 folds
+Brend 04 calls 300
+*** FLOP *** [8d Qc Ad]
+Brend 04 checks
+spike83 bets 300
+Brend 04 calls 300
+*** TURN *** [8d Qc Ad][5d]
+Brend 04 checks
+spike83 bets 300
+Brend 04 calls 300
+*** RIVER *** [8d Qc Ad 5d][Ts]
+Brend 04 checks
+spike83 bets 1840
+Brend 04 folds
+spike83 collected 4670 from pot
+*** SUMMARY ***
+Total pot 4670 | No rake
+Board: [8d Qc Ad 5d Ts]
+Seat 3: spike83 won 4670
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 11 - HandId: #2977011101813702774-148-1702240056 - Holdem no limit (35/150/300) - 2023/12/10 20:27:36 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #7 is the button
+Seat 1: Mamie Dom (25654)
+Seat 2: vicmackey86 (7965)
+Seat 3: spike83 (42001)
+Seat 4: VamosWin (10240)
+Seat 5: ..labER.. (6325)
+Seat 6: YLStriker581 (3636)
+Seat 7: P1xel7 (11512)
+Seat 8: Brend 04 (13157)
+*** ANTE/BLINDS ***
+Brend 04 posts ante 35
+Mamie Dom posts ante 35
+vicmackey86 posts ante 35
+spike83 posts ante 35
+VamosWin posts ante 35
+..labER.. posts ante 35
+YLStriker581 posts ante 35
+P1xel7 posts ante 35
+Brend 04 posts small blind 150
+Mamie Dom posts big blind 300
+Dealt to P1xel7 [7c 6d]
+*** PRE-FLOP *** 
+vicmackey86 raises 300 to 600
+spike83 raises 41366 to 41966 and is all-in
+VamosWin folds
+..labER.. folds
+YLStriker581 folds
+P1xel7 folds
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 folds
+spike83 collected 43296 from pot
+*** SUMMARY ***
+Total pot 43296 | No rake
+Seat 3: spike83 won 43296
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 11 - HandId: #2977011101813702774-149-1702240074 - Holdem no limit (35/150/300) - 2023/12/10 20:27:54 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #8 is the button
+Seat 1: Mamie Dom (25319)
+Seat 2: vicmackey86 (7330)
+Seat 3: spike83 (43296)
+Seat 4: VamosWin (10205)
+Seat 5: ..labER.. (6290)
+Seat 6: YLStriker581 (3601)
+Seat 7: P1xel7 (11477)
+Seat 8: Brend 04 (12972)
+*** ANTE/BLINDS ***
+Mamie Dom posts ante 35
+vicmackey86 posts ante 35
+spike83 posts ante 35
+VamosWin posts ante 35
+..labER.. posts ante 35
+YLStriker581 posts ante 35
+P1xel7 posts ante 35
+Brend 04 posts ante 35
+Mamie Dom posts small blind 150
+vicmackey86 posts big blind 300
+Dealt to P1xel7 [4d Kc]
+*** PRE-FLOP *** 
+spike83 calls 300
+VamosWin raises 300 to 600
+..labER.. folds
+YLStriker581 folds
+P1xel7 folds
+Brend 04 calls 600
+Mamie Dom folds
+vicmackey86 folds
+spike83 calls 300
+*** FLOP *** [9c 6d 9s]
+spike83 checks
+VamosWin bets 633
+Brend 04 calls 633
+spike83 calls 633
+*** TURN *** [9c 6d 9s][8d]
+spike83 checks
+VamosWin checks
+Brend 04 bets 11704 and is all-in
+spike83 folds
+VamosWin folds
+Brend 04 collected 16133 from pot
+*** SUMMARY ***
+Total pot 16133 | No rake
+Board: [9c 6d 9s 8d]
+Seat 8: Brend 04 (button) won 16133
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 11 - HandId: #2977011101813702774-150-1702240166 - Holdem no limit (35/150/300) - 2023/12/10 20:29:26 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #1 is the button
+Seat 1: Mamie Dom (25134)
+Seat 2: vicmackey86 (6995)
+Seat 3: spike83 (42028)
+Seat 4: VamosWin (8937)
+Seat 5: ..labER.. (6255)
+Seat 6: YLStriker581 (3566)
+Seat 7: P1xel7 (11442)
+Seat 8: Brend 04 (16133)
+*** ANTE/BLINDS ***
+vicmackey86 posts ante 35
+spike83 posts ante 35
+Mamie Dom posts ante 35
+VamosWin posts ante 35
+..labER.. posts ante 35
+YLStriker581 posts ante 35
+P1xel7 posts ante 35
+Brend 04 posts ante 35
+vicmackey86 posts small blind 150
+spike83 posts big blind 300
+Dealt to P1xel7 [2d 9s]
+*** PRE-FLOP *** 
+VamosWin folds
+..labER.. folds
+YLStriker581 folds
+P1xel7 folds
+Brend 04 calls 300
+Mamie Dom folds
+vicmackey86 folds
+spike83 checks
+*** FLOP *** [6c Jd Jh]
+spike83 bets 300
+Brend 04 calls 300
+*** TURN *** [6c Jd Jh][4c]
+spike83 bets 300
+Brend 04 calls 300
+*** RIVER *** [6c Jd Jh 4c][Ac]
+spike83 bets 2230
+Brend 04 calls 2230
+*** SHOW DOWN ***
+spike83 shows [8s 9c] (One pair : Jacks)
+Brend 04 shows [Qh As] (Two pairs : Aces and Jacks)
+Brend 04 collected 6690 from pot
+*** SUMMARY ***
+Total pot 6690 | No rake
+Board: [6c Jd Jh 4c Ac]
+Seat 3: spike83 (big blind) showed [8s 9c] and lost with One pair : Jacks
+Seat 8: Brend 04 showed [Qh As] and won 6690 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 11 - HandId: #2977011101813702774-151-1702240192 - Holdem no limit (35/150/300) - 2023/12/10 20:29:52 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #2 is the button
+Seat 1: Mamie Dom (25099)
+Seat 2: vicmackey86 (6810)
+Seat 3: spike83 (38863)
+Seat 4: VamosWin (8902)
+Seat 5: ..labER.. (6220)
+Seat 6: YLStriker581 (3531)
+Seat 7: P1xel7 (11407)
+Seat 8: Brend 04 (19658)
+*** ANTE/BLINDS ***
+spike83 posts ante 35
+VamosWin posts ante 35
+Mamie Dom posts ante 35
+vicmackey86 posts ante 35
+..labER.. posts ante 35
+YLStriker581 posts ante 35
+P1xel7 posts ante 35
+Brend 04 posts ante 35
+spike83 posts small blind 150
+VamosWin posts big blind 300
+Dealt to P1xel7 [2d 3s]
+*** PRE-FLOP *** 
+..labER.. folds
+YLStriker581 calls 300
+P1xel7 folds
+Brend 04 calls 300
+Mamie Dom folds
+vicmackey86 raises 1200 to 1500
+spike83 calls 1350
+VamosWin folds
+YLStriker581 calls 1200
+Brend 04 folds
+*** FLOP *** [Ks 4d 4c]
+spike83 bets 300
+YLStriker581 calls 300
+vicmackey86 calls 300
+*** TURN *** [Ks 4d 4c][Ah]
+spike83 bets 4082
+YLStriker581 folds
+vicmackey86 raises 893 to 4975 and is all-in
+spike83 calls 893
+*** RIVER *** [Ks 4d 4c Ah][5s]
+*** SHOW DOWN ***
+vicmackey86 shows [Ts As] (Two pairs : Aces and 4)
+spike83 shows [7h Ac] (Two pairs : Aces and 4)
+spike83 collected 8115 from pot
+vicmackey86 collected 8115 from pot
+*** SUMMARY ***
+Total pot 16230 | No rake
+Board: [Ks 4d 4c Ah 5s]
+Seat 2: vicmackey86 (button) showed [Ts As] and won 8115 with Two pairs : Aces and 4
+Seat 3: spike83 (small blind) showed [7h Ac] and won 8115 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 11 - HandId: #2977011101813702774-152-1702240246 - Holdem no limit (35/150/300) - 2023/12/10 20:30:46 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #3 is the button
+Seat 1: Mamie Dom (25064)
+Seat 2: vicmackey86 (8115)
+Seat 3: spike83 (40168)
+Seat 4: VamosWin (8567)
+Seat 5: ..labER.. (6185)
+Seat 6: YLStriker581 (1696)
+Seat 7: P1xel7 (11372)
+Seat 8: Brend 04 (19323)
+*** ANTE/BLINDS ***
+VamosWin posts ante 35
+..labER.. posts ante 35
+Mamie Dom posts ante 35
+vicmackey86 posts ante 35
+spike83 posts ante 35
+YLStriker581 posts ante 35
+P1xel7 posts ante 35
+Brend 04 posts ante 35
+VamosWin posts small blind 150
+..labER.. posts big blind 300
+Dealt to P1xel7 [3s Js]
+*** PRE-FLOP *** 
+YLStriker581 calls 300
+P1xel7 folds
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 calls 300
+spike83 calls 300
+VamosWin raises 450 to 750
+..labER.. folds
+YLStriker581 calls 450
+vicmackey86 calls 450
+spike83 calls 450
+*** FLOP *** [Ad Ks 2c]
+VamosWin checks
+YLStriker581 checks
+vicmackey86 checks
+spike83 checks
+*** TURN *** [Ad Ks 2c][Jc]
+VamosWin bets 1340
+YLStriker581 calls 911 and is all-in
+vicmackey86 folds
+spike83 calls 1340
+*** RIVER *** [Ad Ks 2c Jc][Qh]
+VamosWin checks
+spike83 checks
+*** SHOW DOWN ***
+spike83 shows [Jh 9h] (One pair : Jacks)
+YLStriker581 shows [6d Kh] (One pair : Kings)
+VamosWin shows [Qc Ac] (Two pairs : Aces and Queens)
+VamosWin collected 7171 from pot
+*** SUMMARY ***
+Total pot 7171 | No rake
+Board: [Ad Ks 2c Jc Qh]
+Seat 3: spike83 (button) showed [Jh 9h] and lost with One pair : Jacks
+Seat 4: VamosWin (small blind) showed [Qc Ac] and won 7171 with Two pairs : Aces and Queens
+Seat 6: YLStriker581 showed [6d Kh] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 11 - HandId: #2977011101813702774-153-1702240323 - Holdem no limit (35/150/300) - 2023/12/10 20:32:03 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #4 is the button
+Seat 1: Mamie Dom (25029)
+Seat 2: vicmackey86 (7330)
+Seat 3: spike83 (38043)
+Seat 4: VamosWin (13613)
+Seat 5: ..labER.. (5850)
+Seat 7: P1xel7 (11337)
+Seat 8: Brend 04 (19288)
+*** ANTE/BLINDS ***
+..labER.. posts ante 35
+P1xel7 posts ante 35
+Mamie Dom posts ante 35
+vicmackey86 posts ante 35
+spike83 posts ante 35
+VamosWin posts ante 35
+Brend 04 posts ante 35
+..labER.. posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Kc 8c]
+*** PRE-FLOP *** 
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 folds
+spike83 raises 37708 to 38008 and is all-in
+VamosWin folds
+..labER.. calls 5665 and is all-in
+P1xel7 folds
+*** FLOP *** [Th Tc Ks]
+*** TURN *** [Th Tc Ks][6s]
+*** RIVER *** [Th Tc Ks 6s][7s]
+*** SHOW DOWN ***
+spike83 shows [Qs Jd] (One pair : Tens)
+..labER.. shows [5c 5s] (Two pairs : Tens and 5)
+..labER.. collected 12175 from main pot
+spike83 collected 32193 from side pot 1
+*** SUMMARY ***
+Total pot 44368 | No rake
+Board: [Th Tc Ks 6s 7s]
+Seat 3: spike83 showed [Qs Jd] and won 32193 with One pair : Tens
+Seat 5: ..labER.. (small blind) showed [5c 5s] and won 12175 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 11 - HandId: #2977011101813702774-154-1702240349 - Holdem no limit (35/150/300) - 2023/12/10 20:32:29 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #5 is the button
+Seat 1: Mamie Dom (24994)
+Seat 2: vicmackey86 (7295)
+Seat 3: spike83 (32193)
+Seat 4: VamosWin (13578)
+Seat 5: ..labER.. (12175)
+Seat 6: Lalouve13015 (30351)
+Seat 7: P1xel7 (11002)
+Seat 8: Brend 04 (19253)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Brend 04 posts ante 35
+Mamie Dom posts ante 35
+vicmackey86 posts ante 35
+spike83 posts ante 35
+VamosWin posts ante 35
+..labER.. posts ante 35
+P1xel7 posts small blind 150
+Brend 04 posts big blind 300
+Dealt to P1xel7 [Ad 6d]
+*** PRE-FLOP *** 
+Mamie Dom folds
+vicmackey86 folds
+spike83 calls 300
+VamosWin folds
+..labER.. folds
+P1xel7 raises 900 to 1200
+Brend 04 folds
+spike83 calls 900
+*** FLOP *** [7h 3s Qc]
+P1xel7 bets 1350
+spike83 raises 29608 to 30958 and is all-in
+P1xel7 folds
+spike83 collected 35253 from pot
+*** SUMMARY ***
+Total pot 35253 | No rake
+Board: [7h 3s Qc]
+Seat 3: spike83 won 35253
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 11 - HandId: #2977011101813702774-155-1702240406 - Holdem no limit (35/150/300) - 2023/12/10 20:33:26 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #7 is the button
+Seat 1: Mamie Dom (24959)
+Seat 2: vicmackey86 (7260)
+Seat 3: spike83 (35253)
+Seat 4: VamosWin (13543)
+Seat 5: ..labER.. (12140)
+Seat 6: Lalouve13015 (30351)
+Seat 7: P1xel7 (8417)
+Seat 8: Brend 04 (18918)
+*** ANTE/BLINDS ***
+Brend 04 posts ante 35
+Mamie Dom posts ante 35
+vicmackey86 posts ante 35
+spike83 posts ante 35
+VamosWin posts ante 35
+..labER.. posts ante 35
+Lalouve13015 posts ante 35
+P1xel7 posts ante 35
+Brend 04 posts small blind 150
+Mamie Dom posts big blind 300
+Dealt to P1xel7 [6c Kd]
+*** PRE-FLOP *** 
+vicmackey86 folds
+spike83 calls 300
+VamosWin folds
+..labER.. folds
+Lalouve13015 calls 300
+P1xel7 folds
+Brend 04 calls 150
+Mamie Dom checks
+*** FLOP *** [6h 3c Qd]
+Brend 04 bets 300
+Mamie Dom folds
+spike83 calls 300
+Lalouve13015 folds
+*** TURN *** [6h 3c Qd][2h]
+Brend 04 checks
+spike83 checks
+*** RIVER *** [6h 3c Qd 2h][Th]
+Brend 04 bets 1352
+spike83 raises 1352 to 2704
+Brend 04 calls 1352
+*** SHOW DOWN ***
+spike83 shows [Jd Ks] (High card : King)
+Brend 04 shows [Kc Ts] (One pair : Tens)
+Brend 04 collected 7488 from pot
+*** SUMMARY ***
+Total pot 7488 | No rake
+Board: [6h 3c Qd 2h Th]
+Seat 3: spike83 showed [Jd Ks] and lost with High card : King
+Seat 8: Brend 04 (small blind) showed [Kc Ts] and won 7488 with One pair : Tens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 12 - HandId: #2977011101813702774-156-1702240479 - Holdem no limit (40/200/400) - 2023/12/10 20:34:39 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #8 is the button
+Seat 1: Mamie Dom (24624)
+Seat 2: vicmackey86 (7225)
+Seat 3: spike83 (31914)
+Seat 4: VamosWin (13508)
+Seat 5: ..labER.. (12105)
+Seat 6: Lalouve13015 (30016)
+Seat 7: P1xel7 (8382)
+Seat 8: Brend 04 (23067)
+*** ANTE/BLINDS ***
+Mamie Dom posts ante 40
+vicmackey86 posts ante 40
+spike83 posts ante 40
+VamosWin posts ante 40
+..labER.. posts ante 40
+Lalouve13015 posts ante 40
+P1xel7 posts ante 40
+Brend 04 posts ante 40
+Mamie Dom posts small blind 200
+vicmackey86 posts big blind 400
+Dealt to P1xel7 [Tc 6h]
+*** PRE-FLOP *** 
+spike83 calls 400
+VamosWin folds
+..labER.. folds
+Lalouve13015 folds
+P1xel7 folds
+Brend 04 folds
+Mamie Dom raises 1520 to 1920
+vicmackey86 folds
+spike83 calls 1520
+*** FLOP *** [5h Qd 6c]
+Mamie Dom bets 4560
+spike83 folds
+Mamie Dom collected 9120 from pot
+*** SUMMARY ***
+Total pot 9120 | No rake
+Board: [5h Qd 6c]
+Seat 1: Mamie Dom (small blind) won 9120
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 12 - HandId: #2977011101813702774-157-1702240528 - Holdem no limit (40/200/400) - 2023/12/10 20:35:28 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #1 is the button
+Seat 1: Mamie Dom (27224)
+Seat 2: vicmackey86 (6785)
+Seat 3: spike83 (29954)
+Seat 4: VamosWin (13468)
+Seat 5: ..labER.. (12065)
+Seat 6: Lalouve13015 (29976)
+Seat 7: P1xel7 (8342)
+Seat 8: Brend 04 (23027)
+*** ANTE/BLINDS ***
+vicmackey86 posts ante 40
+spike83 posts ante 40
+Mamie Dom posts ante 40
+VamosWin posts ante 40
+..labER.. posts ante 40
+Lalouve13015 posts ante 40
+P1xel7 posts ante 40
+Brend 04 posts ante 40
+vicmackey86 posts small blind 200
+spike83 posts big blind 400
+Dealt to P1xel7 [Ac Th]
+*** PRE-FLOP *** 
+VamosWin folds
+..labER.. folds
+Lalouve13015 folds
+P1xel7 raises 7902 to 8302 and is all-in
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 folds
+spike83 folds
+P1xel7 collected 9222 from pot
+*** SUMMARY ***
+Total pot 9222 | No rake
+Seat 7: P1xel7 won 9222
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 12 - HandId: #2977011101813702774-158-1702240568 - Holdem no limit (40/200/400) - 2023/12/10 20:36:08 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #2 is the button
+Seat 1: Mamie Dom (27184)
+Seat 2: vicmackey86 (6545)
+Seat 3: spike83 (29514)
+Seat 4: VamosWin (13428)
+Seat 5: ..labER.. (12025)
+Seat 6: Lalouve13015 (29936)
+Seat 7: P1xel7 (9222)
+Seat 8: Brend 04 (22987)
+*** ANTE/BLINDS ***
+spike83 posts ante 40
+VamosWin posts ante 40
+Mamie Dom posts ante 40
+vicmackey86 posts ante 40
+..labER.. posts ante 40
+Lalouve13015 posts ante 40
+P1xel7 posts ante 40
+Brend 04 posts ante 40
+spike83 posts small blind 200
+VamosWin posts big blind 400
+Dealt to P1xel7 [Qh Ac]
+*** PRE-FLOP *** 
+..labER.. folds
+Lalouve13015 folds
+P1xel7 raises 600 to 1000
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 folds
+spike83 folds
+VamosWin folds
+P1xel7 collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Seat 7: P1xel7 won 1920
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 12 - HandId: #2977011101813702774-159-1702240608 - Holdem no limit (40/200/400) - 2023/12/10 20:36:48 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #3 is the button
+Seat 1: Mamie Dom (27144)
+Seat 2: vicmackey86 (6505)
+Seat 3: spike83 (29274)
+Seat 4: VamosWin (12988)
+Seat 5: ..labER.. (11985)
+Seat 6: Lalouve13015 (29896)
+Seat 7: P1xel7 (10102)
+Seat 8: Brend 04 (22947)
+*** ANTE/BLINDS ***
+VamosWin posts ante 40
+..labER.. posts ante 40
+Mamie Dom posts ante 40
+vicmackey86 posts ante 40
+spike83 posts ante 40
+Lalouve13015 posts ante 40
+P1xel7 posts ante 40
+Brend 04 posts ante 40
+VamosWin posts small blind 200
+..labER.. posts big blind 400
+Dealt to P1xel7 [8c 3c]
+*** PRE-FLOP *** 
+Lalouve13015 raises 400 to 800
+P1xel7 folds
+Brend 04 folds
+Mamie Dom calls 800
+vicmackey86 folds
+spike83 folds
+VamosWin calls 600
+..labER.. folds
+*** FLOP *** [2c As 5s]
+VamosWin checks
+Lalouve13015 checks
+Mamie Dom bets 2028
+VamosWin folds
+Lalouve13015 folds
+Mamie Dom collected 5148 from pot
+*** SUMMARY ***
+Total pot 5148 | No rake
+Board: [2c As 5s]
+Seat 1: Mamie Dom won 5148
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 12 - HandId: #2977011101813702774-160-1702240695 - Holdem no limit (40/200/400) - 2023/12/10 20:38:15 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #4 is the button
+Seat 1: Mamie Dom (29424)
+Seat 2: vicmackey86 (6465)
+Seat 3: spike83 (29234)
+Seat 4: VamosWin (12148)
+Seat 5: ..labER.. (11545)
+Seat 6: Lalouve13015 (29056)
+Seat 7: P1xel7 (10062)
+Seat 8: Brend 04 (22907)
+*** ANTE/BLINDS ***
+..labER.. posts ante 40
+Lalouve13015 posts ante 40
+Mamie Dom posts ante 40
+vicmackey86 posts ante 40
+spike83 posts ante 40
+VamosWin posts ante 40
+P1xel7 posts ante 40
+Brend 04 posts ante 40
+..labER.. posts small blind 200
+Lalouve13015 posts big blind 400
+Dealt to P1xel7 [3s 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 folds
+spike83 folds
+VamosWin folds
+..labER.. raises 600 to 1000
+Lalouve13015 calls 600
+*** FLOP *** [Ah Kh 4h]
+..labER.. bets 1508
+Lalouve13015 calls 1508
+*** TURN *** [Ah Kh 4h][7s]
+..labER.. bets 1868
+Lalouve13015 calls 1868
+*** RIVER *** [Ah Kh 4h 7s][4d]
+..labER.. bets 7129 and is all-in
+Lalouve13015 folds
+..labER.. collected 16201 from pot
+*** SUMMARY ***
+Total pot 16201 | No rake
+Board: [Ah Kh 4h 7s 4d]
+Seat 5: ..labER.. (small blind) won 16201
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 12 - HandId: #2977011101813702774-161-1702240755 - Holdem no limit (40/200/400) - 2023/12/10 20:39:15 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #5 is the button
+Seat 1: Mamie Dom (29384)
+Seat 2: vicmackey86 (6425)
+Seat 3: spike83 (29194)
+Seat 4: VamosWin (12108)
+Seat 5: ..labER.. (16201)
+Seat 6: Lalouve13015 (24640)
+Seat 7: P1xel7 (10022)
+Seat 8: Brend 04 (22867)
+*** ANTE/BLINDS ***
+Lalouve13015 posts ante 40
+P1xel7 posts ante 40
+Mamie Dom posts ante 40
+vicmackey86 posts ante 40
+spike83 posts ante 40
+VamosWin posts ante 40
+..labER.. posts ante 40
+Brend 04 posts ante 40
+Lalouve13015 posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Ad 9s]
+*** PRE-FLOP *** 
+Brend 04 folds
+Mamie Dom raises 1320 to 1720
+vicmackey86 folds
+spike83 folds
+VamosWin folds
+..labER.. folds
+Lalouve13015 folds
+P1xel7 calls 1320
+*** FLOP *** [9c 8c 4h]
+P1xel7 checks
+Mamie Dom bets 2574
+P1xel7 raises 5688 to 8262 and is all-in
+Mamie Dom calls 5688
+*** TURN *** [9c 8c 4h][Kc]
+*** RIVER *** [9c 8c 4h Kc][Kd]
+*** SHOW DOWN ***
+Mamie Dom shows [Ah 8s] (Two pairs : Kings and 8)
+P1xel7 shows [Ad 9s] (Two pairs : Kings and 9)
+P1xel7 collected 20484 from pot
+*** SUMMARY ***
+Total pot 20484 | No rake
+Board: [9c 8c 4h Kc Kd]
+Seat 1: Mamie Dom showed [Ah 8s] and lost with Two pairs : Kings and 8
+Seat 7: P1xel7 (big blind) showed [Ad 9s] and won 20484 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 12 - HandId: #2977011101813702774-162-1702240812 - Holdem no limit (40/200/400) - 2023/12/10 20:40:12 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #6 is the button
+Seat 1: Mamie Dom (19362)
+Seat 2: vicmackey86 (6385)
+Seat 3: spike83 (29154)
+Seat 4: VamosWin (12068)
+Seat 5: ..labER.. (16161)
+Seat 6: Lalouve13015 (24400)
+Seat 7: P1xel7 (20484)
+Seat 8: Brend 04 (22827)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Brend 04 posts ante 40
+Mamie Dom posts ante 40
+vicmackey86 posts ante 40
+spike83 posts ante 40
+VamosWin posts ante 40
+..labER.. posts ante 40
+Lalouve13015 posts ante 40
+P1xel7 posts small blind 200
+Brend 04 posts big blind 400
+Dealt to P1xel7 [6d 2s]
+*** PRE-FLOP *** 
+Mamie Dom calls 400
+vicmackey86 folds
+spike83 raises 28714 to 29114 and is all-in
+VamosWin folds
+..labER.. folds
+Lalouve13015 folds
+P1xel7 folds
+Brend 04 folds
+Mamie Dom calls 18922 and is all-in
+*** FLOP *** [Ac Qs Ah]
+*** TURN *** [Ac Qs Ah][7d]
+*** RIVER *** [Ac Qs Ah 7d][4s]
+*** SHOW DOWN ***
+Mamie Dom shows [Qc Qh] (Full of Queens and Aces)
+spike83 shows [Kd 9s] (One pair : Aces)
+spike83 collected 9792 from side pot 1
+Mamie Dom collected 39564 from main pot
+*** SUMMARY ***
+Total pot 49356 | No rake
+Board: [Ac Qs Ah 7d 4s]
+Seat 1: Mamie Dom showed [Qc Qh] and won 39564 with Full of Queens and Aces
+Seat 3: spike83 showed [Kd 9s] and won 9792 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 12 - HandId: #2977011101813702774-163-1702240856 - Holdem no limit (40/200/400) - 2023/12/10 20:40:56 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #7 is the button
+Seat 1: Mamie Dom (39564)
+Seat 2: vicmackey86 (6345)
+Seat 3: spike83 (9792)
+Seat 4: VamosWin (12028)
+Seat 5: ..labER.. (16121)
+Seat 6: Lalouve13015 (24360)
+Seat 7: P1xel7 (20244)
+Seat 8: Brend 04 (22387)
+*** ANTE/BLINDS ***
+Brend 04 posts ante 40
+Mamie Dom posts ante 40
+vicmackey86 posts ante 40
+spike83 posts ante 40
+VamosWin posts ante 40
+..labER.. posts ante 40
+Lalouve13015 posts ante 40
+P1xel7 posts ante 40
+Brend 04 posts small blind 200
+Mamie Dom posts big blind 400
+Dealt to P1xel7 [Js 6d]
+*** PRE-FLOP *** 
+vicmackey86 folds
+spike83 raises 9352 to 9752 and is all-in
+VamosWin folds
+..labER.. calls 9752
+Lalouve13015 folds
+P1xel7 folds
+Brend 04 folds
+Mamie Dom folds
+*** FLOP *** [Ks Jh 7s]
+*** TURN *** [Ks Jh 7s][Qd]
+*** RIVER *** [Ks Jh 7s Qd][9d]
+*** SHOW DOWN ***
+..labER.. shows [8d Ad] (High card : Ace)
+spike83 shows [Jc 5c] (One pair : Jacks)
+spike83 collected 20424 from pot
+*** SUMMARY ***
+Total pot 20424 | No rake
+Board: [Ks Jh 7s Qd 9d]
+Seat 3: spike83 showed [Jc 5c] and won 20424 with One pair : Jacks
+Seat 5: ..labER.. showed [8d Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 12 - HandId: #2977011101813702774-164-1702240892 - Holdem no limit (40/200/400) - 2023/12/10 20:41:32 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #8 is the button
+Seat 1: Mamie Dom (39124)
+Seat 2: vicmackey86 (6305)
+Seat 3: spike83 (20424)
+Seat 4: VamosWin (11988)
+Seat 5: ..labER.. (6329)
+Seat 6: Lalouve13015 (24320)
+Seat 7: P1xel7 (20204)
+Seat 8: Brend 04 (22147)
+*** ANTE/BLINDS ***
+Mamie Dom posts ante 40
+vicmackey86 posts ante 40
+spike83 posts ante 40
+VamosWin posts ante 40
+..labER.. posts ante 40
+Lalouve13015 posts ante 40
+P1xel7 posts ante 40
+Brend 04 posts ante 40
+Mamie Dom posts small blind 200
+vicmackey86 posts big blind 400
+Dealt to P1xel7 [Qc 5d]
+*** PRE-FLOP *** 
+spike83 raises 19984 to 20384 and is all-in
+VamosWin folds
+..labER.. folds
+Lalouve13015 folds
+P1xel7 folds
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 folds
+spike83 collected 21304 from pot
+*** SUMMARY ***
+Total pot 21304 | No rake
+Seat 3: spike83 won 21304
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 12 - HandId: #2977011101813702774-165-1702240929 - Holdem no limit (40/200/400) - 2023/12/10 20:42:09 UTC
+Table: 'Tremplin Poitiers(693139411)#0117' 8-max (real money) Seat #1 is the button
+Seat 1: Mamie Dom (38884)
+Seat 2: vicmackey86 (5865)
+Seat 3: spike83 (21304)
+Seat 4: VamosWin (11948)
+Seat 5: ..labER.. (6289)
+Seat 6: Lalouve13015 (24280)
+Seat 7: P1xel7 (20164)
+Seat 8: Brend 04 (22107)
+*** ANTE/BLINDS ***
+vicmackey86 posts ante 40
+spike83 posts ante 40
+Mamie Dom posts ante 40
+VamosWin posts ante 40
+..labER.. posts ante 40
+Lalouve13015 posts ante 40
+P1xel7 posts ante 40
+Brend 04 posts ante 40
+vicmackey86 posts small blind 200
+spike83 posts big blind 400
+Dealt to P1xel7 [Td Ah]
+*** PRE-FLOP *** 
+VamosWin folds
+..labER.. calls 400
+Lalouve13015 calls 400
+P1xel7 raises 1200 to 1600
+Brend 04 folds
+Mamie Dom folds
+vicmackey86 folds
+spike83 raises 19664 to 21264 and is all-in
+..labER.. calls 5849 and is all-in
+Lalouve13015 folds
+P1xel7 folds
+*** FLOP *** [4h 3c Jh]
+*** TURN *** [4h 3c Jh][4c]
+*** RIVER *** [4h 3c Jh 4c][As]
+*** SHOW DOWN ***
+spike83 shows [8s 9d] (One pair : 4)
+..labER.. shows [5s Ad] (Two pairs : Aces and 4)
+..labER.. collected 15018 from main pot
+spike83 collected 15015 from side pot 1
+*** SUMMARY ***
+Total pot 30033 | No rake
+Board: [4h 3c Jh 4c As]
+Seat 3: spike83 (big blind) showed [8s 9d] and won 15015 with One pair : 4
+Seat 5: ..labER.. showed [5s Ad] and won 15018 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 13 - HandId: #2977011101813702748-194-1702241050 - Holdem no limit (50/250/500) - 2023/12/10 20:44:10 UTC
+Table: 'Tremplin Poitiers(693139411)#0091' 8-max (real money) Seat #4 is the button
+Seat 1: BSlethug (10202)
+Seat 2: 10.000_VOLTS (28559)
+Seat 3: ByakuraiPF (120441)
+Seat 4: Smtprod05 (33157)
+Seat 5: Lymino (510)
+Seat 6: ..labER.. (15018)
+Seat 7: Agege17K (60183)
+Seat 8: P1xel7 (18524)
+*** ANTE/BLINDS ***
+Lymino posts ante 50
+..labER.. posts ante 50
+BSlethug posts ante 50
+10.000_VOLTS posts ante 50
+ByakuraiPF posts ante 50
+Smtprod05 posts ante 50
+Agege17K posts ante 50
+P1xel7 posts ante 50
+Lymino posts small blind 250
+..labER.. posts big blind 500
+Dealt to P1xel7 [Tc Jc]
+*** PRE-FLOP *** 
+Agege17K folds
+P1xel7 raises 750 to 1250
+BSlethug folds
+10.000_VOLTS folds
+ByakuraiPF folds
+Smtprod05 folds
+Lymino folds
+..labER.. folds
+P1xel7 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | No rake
+Seat 8: P1xel7 won 2400
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 13 - HandId: #2977011101813702748-195-1702241078 - Holdem no limit (50/250/500) - 2023/12/10 20:44:38 UTC
+Table: 'Tremplin Poitiers(693139411)#0091' 8-max (real money) Seat #5 is the button
+Seat 1: BSlethug (10152)
+Seat 2: 10.000_VOLTS (28509)
+Seat 3: ByakuraiPF (120391)
+Seat 4: Smtprod05 (33107)
+Seat 5: Lymino (210)
+Seat 6: ..labER.. (14468)
+Seat 7: Agege17K (60133)
+Seat 8: P1xel7 (19624)
+*** ANTE/BLINDS ***
+..labER.. posts ante 50
+Agege17K posts ante 50
+BSlethug posts ante 50
+10.000_VOLTS posts ante 50
+ByakuraiPF posts ante 50
+Smtprod05 posts ante 50
+Lymino posts ante 50
+P1xel7 posts ante 50
+..labER.. posts small blind 250
+Agege17K posts big blind 500
+Dealt to P1xel7 [Tc Qc]
+*** PRE-FLOP *** 
+P1xel7 raises 750 to 1250
+BSlethug folds
+10.000_VOLTS folds
+ByakuraiPF calls 1250
+Smtprod05 folds
+Lymino folds
+..labER.. folds
+Agege17K calls 750
+*** FLOP *** [9s 8d Kc]
+Agege17K checks
+P1xel7 bets 1750
+ByakuraiPF folds
+Agege17K calls 1750
+*** TURN *** [9s 8d Kc][Ac]
+Agege17K checks
+P1xel7 checks
+*** RIVER *** [9s 8d Kc Ac][9d]
+Agege17K bets 7900
+P1xel7 folds
+Agege17K collected 15800 from pot
+*** SUMMARY ***
+Total pot 15800 | No rake
+Board: [9s 8d Kc Ac 9d]
+Seat 7: Agege17K (big blind) won 15800
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 13 - HandId: #2977011101813702748-196-1702241163 - Holdem no limit (50/250/500) - 2023/12/10 20:46:03 UTC
+Table: 'Tremplin Poitiers(693139411)#0091' 8-max (real money) Seat #6 is the button
+Seat 1: BSlethug (10102)
+Seat 2: 10.000_VOLTS (28459)
+Seat 3: ByakuraiPF (119091)
+Seat 4: Smtprod05 (33057)
+Seat 5: Lymino (160)
+Seat 6: ..labER.. (14168)
+Seat 7: Agege17K (64983)
+Seat 8: P1xel7 (16574)
+*** ANTE/BLINDS ***
+Agege17K posts ante 50
+P1xel7 posts ante 50
+BSlethug posts ante 50
+10.000_VOLTS posts ante 50
+ByakuraiPF posts ante 50
+Smtprod05 posts ante 50
+Lymino posts ante 50
+..labER.. posts ante 50
+Agege17K posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [9h 4c]
+*** PRE-FLOP *** 
+BSlethug calls 500
+10.000_VOLTS folds
+ByakuraiPF folds
+Smtprod05 folds
+Lymino folds
+..labER.. calls 500
+Agege17K folds
+P1xel7 checks
+*** FLOP *** [5s As Th]
+P1xel7 checks
+BSlethug bets 500
+..labER.. folds
+P1xel7 folds
+BSlethug collected 2650 from pot
+*** SUMMARY ***
+Total pot 2650 | No rake
+Board: [5s As Th]
+Seat 1: BSlethug won 2650
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 13 - HandId: #2977011101813702748-197-1702241203 - Holdem no limit (50/250/500) - 2023/12/10 20:46:43 UTC
+Table: 'Tremplin Poitiers(693139411)#0091' 8-max (real money) Seat #7 is the button
+Seat 1: BSlethug (11702)
+Seat 2: 10.000_VOLTS (28409)
+Seat 3: ByakuraiPF (119041)
+Seat 4: Smtprod05 (33007)
+Seat 5: Lymino (110)
+Seat 6: ..labER.. (13618)
+Seat 7: Agege17K (64683)
+Seat 8: P1xel7 (16024)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+BSlethug posts ante 50
+10.000_VOLTS posts ante 50
+ByakuraiPF posts ante 50
+Smtprod05 posts ante 50
+Lymino posts ante 50
+..labER.. posts ante 50
+Agege17K posts ante 50
+P1xel7 posts small blind 250
+BSlethug posts big blind 500
+Dealt to P1xel7 [6s 4c]
+*** PRE-FLOP *** 
+10.000_VOLTS folds
+ByakuraiPF folds
+Smtprod05 calls 500
+Lymino folds
+..labER.. folds
+Agege17K folds
+P1xel7 folds
+BSlethug checks
+*** FLOP *** [5d As Qs]
+BSlethug checks
+Smtprod05 checks
+*** TURN *** [5d As Qs][3h]
+BSlethug bets 500
+Smtprod05 calls 500
+*** RIVER *** [5d As Qs 3h][3s]
+BSlethug checks
+Smtprod05 checks
+*** SHOW DOWN ***
+BSlethug shows [4h Kc] (One pair : 3)
+Smtprod05 shows [Qc 6c] (Two pairs : Queens and 3)
+Smtprod05 collected 2650 from pot
+*** SUMMARY ***
+Total pot 2650 | No rake
+Board: [5d As Qs 3h 3s]
+Seat 1: BSlethug (big blind) showed [4h Kc] and lost with One pair : 3
+Seat 4: Smtprod05 showed [Qc 6c] and won 2650 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 13 - HandId: #2977011101813702748-198-1702241243 - Holdem no limit (50/250/500) - 2023/12/10 20:47:23 UTC
+Table: 'Tremplin Poitiers(693139411)#0091' 8-max (real money) Seat #8 is the button
+Seat 1: BSlethug (10652)
+Seat 2: 10.000_VOLTS (28359)
+Seat 3: ByakuraiPF (118991)
+Seat 4: Smtprod05 (34607)
+Seat 5: Lymino (60)
+Seat 6: ..labER.. (13568)
+Seat 7: Agege17K (64633)
+Seat 8: P1xel7 (15724)
+*** ANTE/BLINDS ***
+BSlethug posts ante 50
+10.000_VOLTS posts ante 50
+ByakuraiPF posts ante 50
+Smtprod05 posts ante 50
+Lymino posts ante 50
+..labER.. posts ante 50
+Agege17K posts ante 50
+P1xel7 posts ante 50
+BSlethug posts small blind 250
+10.000_VOLTS posts big blind 500
+Dealt to P1xel7 [Tc Ks]
+*** PRE-FLOP *** 
+ByakuraiPF folds
+Smtprod05 folds
+Lymino folds
+..labER.. folds
+Agege17K raises 1650 to 2150
+P1xel7 calls 2150
+BSlethug folds
+10.000_VOLTS calls 1650
+*** FLOP *** [Ac 7c Ts]
+10.000_VOLTS checks
+Agege17K checks
+P1xel7 bets 3550
+10.000_VOLTS folds
+Agege17K calls 3550
+*** TURN *** [Ac 7c Ts][2d]
+Agege17K checks
+P1xel7 bets 9974 and is all-in
+Agege17K folds
+P1xel7 collected 24174 from pot
+*** SUMMARY ***
+Total pot 24174 | No rake
+Board: [Ac 7c Ts 2d]
+Seat 8: P1xel7 (button) won 24174
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 13 - HandId: #2977011101813702748-199-1702241327 - Holdem no limit (50/250/500) - 2023/12/10 20:48:47 UTC
+Table: 'Tremplin Poitiers(693139411)#0091' 8-max (real money) Seat #1 is the button
+Seat 1: BSlethug (10352)
+Seat 2: 10.000_VOLTS (26159)
+Seat 3: ByakuraiPF (118941)
+Seat 4: Smtprod05 (34557)
+Seat 5: Lymino (10)
+Seat 6: ..labER.. (13518)
+Seat 7: Agege17K (58883)
+Seat 8: P1xel7 (24174)
+*** ANTE/BLINDS ***
+10.000_VOLTS posts ante 50
+ByakuraiPF posts ante 50
+BSlethug posts ante 50
+Smtprod05 posts ante 50
+Lymino posts ante 10 and is all-in
+..labER.. posts ante 50
+Agege17K posts ante 50
+P1xel7 posts ante 50
+10.000_VOLTS posts small blind 250
+ByakuraiPF posts big blind 500
+Dealt to P1xel7 [Ac Qh]
+*** PRE-FLOP *** 
+Smtprod05 folds
+..labER.. folds
+Agege17K calls 500
+P1xel7 raises 1500 to 2000
+BSlethug folds
+10.000_VOLTS folds
+ByakuraiPF raises 116891 to 118891 and is all-in
+Agege17K folds
+P1xel7 folds
+*** FLOP *** [7d 8c 6s]
+*** TURN *** [7d 8c 6s][Th]
+*** RIVER *** [7d 8c 6s Th][7s]
+*** SHOW DOWN ***
+Lymino shows [2s 4c] (One pair : 7)
+ByakuraiPF shows [9s 9d] (Straight Ten high)
+ByakuraiPF collected 122001 from pot
+*** SUMMARY ***
+Total pot 122001 | No rake
+Board: [7d 8c 6s Th 7s]
+Seat 3: ByakuraiPF (big blind) showed [9s 9d] and won 122001 with Straight Ten high
+Seat 5: Lymino showed [2s 4c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 13 - HandId: #2977011101813702748-200-1702241391 - Holdem no limit (50/250/500) - 2023/12/10 20:49:51 UTC
+Table: 'Tremplin Poitiers(693139411)#0091' 8-max (real money) Seat #2 is the button
+Seat 1: BSlethug (10302)
+Seat 2: 10.000_VOLTS (25859)
+Seat 3: ByakuraiPF (122001)
+Seat 4: Smtprod05 (34507)
+Seat 6: ..labER.. (13468)
+Seat 7: Agege17K (58333)
+Seat 8: P1xel7 (22124)
+*** ANTE/BLINDS ***
+ByakuraiPF posts ante 50
+Smtprod05 posts ante 50
+BSlethug posts ante 50
+10.000_VOLTS posts ante 50
+..labER.. posts ante 50
+Agege17K posts ante 50
+P1xel7 posts ante 50
+ByakuraiPF posts small blind 250
+Smtprod05 posts big blind 500
+Dealt to P1xel7 [2d 2h]
+*** PRE-FLOP *** 
+..labER.. folds
+Agege17K calls 500
+P1xel7 calls 500
+BSlethug folds
+10.000_VOLTS folds
+ByakuraiPF calls 250
+Smtprod05 checks
+*** FLOP *** [Js 3s 3h]
+ByakuraiPF checks
+Smtprod05 checks
+Agege17K checks
+P1xel7 checks
+*** TURN *** [Js 3s 3h][Td]
+ByakuraiPF checks
+Smtprod05 checks
+Agege17K checks
+P1xel7 checks
+*** RIVER *** [Js 3s 3h Td][Qh]
+ByakuraiPF checks
+Smtprod05 checks
+Agege17K bets 2350
+P1xel7 folds
+ByakuraiPF calls 2350
+Smtprod05 folds
+*** SHOW DOWN ***
+ByakuraiPF shows [5h Jc] (Two pairs : Jacks and 3)
+Agege17K shows [Ac Kd] (Straight Ace high)
+Agege17K collected 7050 from pot
+*** SUMMARY ***
+Total pot 7050 | No rake
+Board: [Js 3s 3h Td Qh]
+Seat 3: ByakuraiPF (small blind) showed [5h Jc] and lost with Two pairs : Jacks and 3
+Seat 7: Agege17K showed [Ac Kd] and won 7050 with Straight Ace high
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 14 - HandId: #2977011101813702748-201-1702241479 - Holdem no limit (70/300/600) - 2023/12/10 20:51:19 UTC
+Table: 'Tremplin Poitiers(693139411)#0091' 8-max (real money) Seat #3 is the button
+Seat 1: BSlethug (10252)
+Seat 2: 10.000_VOLTS (25809)
+Seat 3: ByakuraiPF (119101)
+Seat 4: Smtprod05 (33957)
+Seat 5: Baltasard37 (15887)
+Seat 6: ..labER.. (13418)
+Seat 7: Agege17K (62483)
+Seat 8: P1xel7 (21574)
+*** ANTE/BLINDS ***
+Smtprod05 posts ante 70
+Baltasard37 posts ante 70
+BSlethug posts ante 70
+10.000_VOLTS posts ante 70
+ByakuraiPF posts ante 70
+..labER.. posts ante 70
+Agege17K posts ante 70
+P1xel7 posts ante 70
+Smtprod05 posts small blind 300
+Baltasard37 posts big blind 600
+Dealt to P1xel7 [7c 2s]
+*** PRE-FLOP *** 
+..labER.. folds
+Agege17K folds
+P1xel7 folds
+BSlethug folds
+10.000_VOLTS calls 600
+ByakuraiPF raises 2660 to 3260
+Smtprod05 folds
+Baltasard37 folds
+10.000_VOLTS raises 22479 to 25739 and is all-in
+ByakuraiPF calls 22479
+*** FLOP *** [5c 5s 9d]
+*** TURN *** [5c 5s 9d][Js]
+*** RIVER *** [5c 5s 9d Js][Qd]
+*** SHOW DOWN ***
+10.000_VOLTS shows [Ad 2d] (One pair : 5)
+ByakuraiPF shows [Kc Qh] (Two pairs : Queens and 5)
+ByakuraiPF collected 52938 from pot
+*** SUMMARY ***
+Total pot 52938 | No rake
+Board: [5c 5s 9d Js Qd]
+Seat 2: 10.000_VOLTS showed [Ad 2d] and lost with One pair : 5
+Seat 3: ByakuraiPF (button) showed [Kc Qh] and won 52938 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 14 - HandId: #2977011101813702736-161-1702241562 - Holdem no limit (70/300/600) - 2023/12/10 20:52:42 UTC
+Table: 'Tremplin Poitiers(693139411)#0079' 8-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (21504)
+Seat 2: Diminou21 (14785)
+Seat 3: meschers (7636)
+Seat 4: Piwaxx (4795)
+Seat 5: Hijopeco (5574)
+Seat 6: _moskita_ (21910)
+Seat 7: psycooll (17173)
+Seat 8: JIMLAPAIRE (7602)
+*** ANTE/BLINDS ***
+psycooll posts ante 70
+JIMLAPAIRE posts ante 70
+P1xel7 posts ante 70
+Diminou21 posts ante 70
+meschers posts ante 70
+Piwaxx posts ante 70
+Hijopeco posts ante 70
+_moskita_ posts ante 70
+psycooll posts small blind 300
+JIMLAPAIRE posts big blind 600
+Dealt to P1xel7 [9d Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Diminou21 folds
+meschers calls 600
+Piwaxx folds
+Hijopeco folds
+_moskita_ folds
+psycooll raises 16503 to 17103 and is all-in
+JIMLAPAIRE folds
+meschers folds
+psycooll collected 18863 from pot
+*** SUMMARY ***
+Total pot 18863 | No rake
+Seat 7: psycooll (small blind) won 18863
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 14 - HandId: #2977011101813702736-162-1702241587 - Holdem no limit (70/300/600) - 2023/12/10 20:53:07 UTC
+Table: 'Tremplin Poitiers(693139411)#0079' 8-max (real money) Seat #7 is the button
+Seat 1: P1xel7 (21434)
+Seat 2: Diminou21 (14715)
+Seat 3: meschers (6966)
+Seat 4: Piwaxx (4725)
+Seat 5: Hijopeco (5504)
+Seat 6: _moskita_ (21840)
+Seat 7: psycooll (18863)
+Seat 8: JIMLAPAIRE (6932)
+*** ANTE/BLINDS ***
+JIMLAPAIRE posts ante 70
+P1xel7 posts ante 70
+Diminou21 posts ante 70
+meschers posts ante 70
+Piwaxx posts ante 70
+Hijopeco posts ante 70
+_moskita_ posts ante 70
+psycooll posts ante 70
+JIMLAPAIRE posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [Th Td]
+*** PRE-FLOP *** 
+Diminou21 calls 600
+meschers calls 600
+Piwaxx folds
+Hijopeco folds
+_moskita_ folds
+psycooll folds
+JIMLAPAIRE folds
+P1xel7 raises 20764 to 21364 and is all-in
+Diminou21 folds
+meschers folds
+P1xel7 collected 23424 from pot
+*** SUMMARY ***
+Total pot 23424 | No rake
+Seat 1: P1xel7 (big blind) won 23424
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 14 - HandId: #2977011101813702736-163-1702241624 - Holdem no limit (70/300/600) - 2023/12/10 20:53:44 UTC
+Table: 'Tremplin Poitiers(693139411)#0079' 8-max (real money) Seat #8 is the button
+Seat 1: P1xel7 (23424)
+Seat 2: Diminou21 (14045)
+Seat 3: meschers (6296)
+Seat 4: Piwaxx (4655)
+Seat 5: Hijopeco (5434)
+Seat 6: _moskita_ (21770)
+Seat 7: psycooll (18793)
+Seat 8: JIMLAPAIRE (6562)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Diminou21 posts ante 70
+meschers posts ante 70
+Piwaxx posts ante 70
+Hijopeco posts ante 70
+_moskita_ posts ante 70
+psycooll posts ante 70
+JIMLAPAIRE posts ante 70
+P1xel7 posts small blind 300
+Diminou21 posts big blind 600
+Dealt to P1xel7 [8s 9c]
+*** PRE-FLOP *** 
+meschers folds
+Piwaxx calls 600
+Hijopeco folds
+_moskita_ calls 600
+psycooll calls 600
+JIMLAPAIRE folds
+P1xel7 calls 300
+Diminou21 checks
+*** FLOP *** [Tc 7h Kh]
+P1xel7 checks
+Diminou21 checks
+Piwaxx bets 3985 and is all-in
+_moskita_ folds
+psycooll folds
+P1xel7 calls 3985
+Diminou21 folds
+*** TURN *** [Tc 7h Kh][4h]
+*** RIVER *** [Tc 7h Kh 4h][Kc]
+*** SHOW DOWN ***
+P1xel7 shows [8s 9c] (One pair : Kings)
+Piwaxx shows [Jh Qc] (One pair : Kings)
+Piwaxx collected 11530 from pot
+*** SUMMARY ***
+Total pot 11530 | No rake
+Board: [Tc 7h Kh 4h Kc]
+Seat 1: P1xel7 (small blind) showed [8s 9c] and lost with One pair : Kings
+Seat 4: Piwaxx showed [Jh Qc] and won 11530 with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 14 - HandId: #2977011101813702736-164-1702242061 - Holdem no limit (70/300/600) - 2023/12/10 21:01:01 UTC
+Table: 'Tremplin Poitiers(693139411)#0079' 8-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (18769)
+Seat 2: Diminou21 (13375)
+Seat 3: meschers (6226)
+Seat 4: Piwaxx (11530)
+Seat 5: Hijopeco (5364)
+Seat 6: _moskita_ (21100)
+Seat 7: psycooll (18123)
+Seat 8: JIMLAPAIRE (6492)
+*** ANTE/BLINDS ***
+Diminou21 posts ante 70
+meschers posts ante 70
+P1xel7 posts ante 70
+Piwaxx posts ante 70
+Hijopeco posts ante 70
+_moskita_ posts ante 70
+psycooll posts ante 70
+JIMLAPAIRE posts ante 70
+Diminou21 posts small blind 300
+meschers posts big blind 600
+Dealt to P1xel7 [4c Qd]
+*** PRE-FLOP *** 
+Piwaxx calls 600
+Hijopeco folds
+_moskita_ folds
+psycooll folds
+JIMLAPAIRE folds
+P1xel7 folds
+Diminou21 raises 12705 to 13305 and is all-in
+meschers folds
+Piwaxx folds
+Diminou21 collected 15065 from pot
+*** SUMMARY ***
+Total pot 15065 | No rake
+Seat 2: Diminou21 (small blind) won 15065
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 14 - HandId: #2977011101813702736-165-1702242094 - Holdem no limit (70/300/600) - 2023/12/10 21:01:34 UTC
+Table: 'Tremplin Poitiers(693139411)#0079' 8-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (18699)
+Seat 2: Diminou21 (15065)
+Seat 3: meschers (5556)
+Seat 4: Piwaxx (10860)
+Seat 5: Hijopeco (5294)
+Seat 6: _moskita_ (21030)
+Seat 7: psycooll (18053)
+Seat 8: JIMLAPAIRE (6422)
+*** ANTE/BLINDS ***
+meschers posts ante 70
+Piwaxx posts ante 70
+P1xel7 posts ante 70
+Diminou21 posts ante 70
+Hijopeco posts ante 70
+_moskita_ posts ante 70
+psycooll posts ante 70
+JIMLAPAIRE posts ante 70
+meschers posts small blind 300
+Piwaxx posts big blind 600
+Dealt to P1xel7 [6s Kh]
+*** PRE-FLOP *** 
+Hijopeco folds
+_moskita_ folds
+psycooll folds
+JIMLAPAIRE folds
+P1xel7 folds
+Diminou21 folds
+meschers calls 300
+Piwaxx checks
+*** FLOP *** [4h 4s 3h]
+meschers checks
+Piwaxx checks
+*** TURN *** [4h 4s 3h][2s]
+meschers checks
+Piwaxx checks
+*** RIVER *** [4h 4s 3h 2s][Td]
+meschers checks
+Piwaxx checks
+*** SHOW DOWN ***
+meschers shows [Ad 7c] (One pair : 4)
+Piwaxx shows [Tc Qc] (Two pairs : Tens and 4)
+Piwaxx collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Board: [4h 4s 3h 2s Td]
+Seat 3: meschers (small blind) showed [Ad 7c] and lost with One pair : 4
+Seat 4: Piwaxx (big blind) showed [Tc Qc] and won 1760 with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 14 - HandId: #2977011101813702736-166-1702242139 - Holdem no limit (70/300/600) - 2023/12/10 21:02:19 UTC
+Table: 'Tremplin Poitiers(693139411)#0079' 8-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (18629)
+Seat 2: Diminou21 (14995)
+Seat 3: meschers (4886)
+Seat 4: Piwaxx (11950)
+Seat 5: Hijopeco (5224)
+Seat 6: _moskita_ (20960)
+Seat 7: psycooll (17983)
+Seat 8: JIMLAPAIRE (6352)
+*** ANTE/BLINDS ***
+Piwaxx posts ante 70
+Hijopeco posts ante 70
+P1xel7 posts ante 70
+Diminou21 posts ante 70
+meschers posts ante 70
+_moskita_ posts ante 70
+psycooll posts ante 70
+JIMLAPAIRE posts ante 70
+Piwaxx posts small blind 300
+Hijopeco posts big blind 600
+Dealt to P1xel7 [6d 9c]
+*** PRE-FLOP *** 
+_moskita_ folds
+psycooll folds
+JIMLAPAIRE folds
+P1xel7 folds
+Diminou21 folds
+meschers folds
+Piwaxx calls 300
+Hijopeco raises 4554 to 5154 and is all-in
+Piwaxx folds
+Hijopeco collected 6314 from pot
+*** SUMMARY ***
+Total pot 6314 | No rake
+Seat 5: Hijopeco (big blind) won 6314
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 14 - HandId: #2977011101813702736-167-1702242202 - Holdem no limit (70/300/600) - 2023/12/10 21:03:22 UTC
+Table: 'Tremplin Poitiers(693139411)#0079' 8-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (18559)
+Seat 2: Diminou21 (14925)
+Seat 3: meschers (4816)
+Seat 4: Piwaxx (11280)
+Seat 5: Hijopeco (6314)
+Seat 6: _moskita_ (20890)
+Seat 7: psycooll (17913)
+Seat 8: JIMLAPAIRE (6282)
+*** ANTE/BLINDS ***
+Hijopeco posts ante 70
+_moskita_ posts ante 70
+P1xel7 posts ante 70
+Diminou21 posts ante 70
+meschers posts ante 70
+Piwaxx posts ante 70
+psycooll posts ante 70
+JIMLAPAIRE posts ante 70
+Hijopeco posts small blind 300
+_moskita_ posts big blind 600
+Dealt to P1xel7 [4s 2d]
+*** PRE-FLOP *** 
+psycooll folds
+JIMLAPAIRE folds
+P1xel7 folds
+Diminou21 folds
+meschers folds
+Piwaxx folds
+Hijopeco folds
+_moskita_ collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Seat 6: _moskita_ (big blind) won 1460
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 14 - HandId: #2977011101813702736-168-1702242220 - Holdem no limit (70/300/600) - 2023/12/10 21:03:40 UTC
+Table: 'Tremplin Poitiers(693139411)#0079' 8-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (18489)
+Seat 2: Diminou21 (14855)
+Seat 3: meschers (4746)
+Seat 4: Piwaxx (11210)
+Seat 5: Hijopeco (5944)
+Seat 6: _moskita_ (21680)
+Seat 7: psycooll (17843)
+Seat 8: JIMLAPAIRE (6212)
+*** ANTE/BLINDS ***
+_moskita_ posts ante 70
+psycooll posts ante 70
+P1xel7 posts ante 70
+Diminou21 posts ante 70
+meschers posts ante 70
+Piwaxx posts ante 70
+Hijopeco posts ante 70
+JIMLAPAIRE posts ante 70
+_moskita_ posts small blind 300
+psycooll posts big blind 600
+Dealt to P1xel7 [9h 2s]
+*** PRE-FLOP *** 
+JIMLAPAIRE folds
+P1xel7 folds
+Diminou21 calls 600
+meschers folds
+Piwaxx folds
+Hijopeco folds
+_moskita_ calls 300
+psycooll checks
+*** FLOP *** [Th 5d 2c]
+_moskita_ checks
+psycooll checks
+Diminou21 checks
+*** TURN *** [Th 5d 2c][7c]
+_moskita_ bets 2360
+psycooll folds
+Diminou21 folds
+_moskita_ collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Board: [Th 5d 2c 7c]
+Seat 6: _moskita_ (small blind) won 4720
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-115-1702242307 - Holdem no limit (80/400/800) - 2023/12/10 21:05:07 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #4 is the button
+Seat 1: ElBouillante (38869)
+Seat 2: WhiteFox33 (18251)
+Seat 3: Scoffdon (48762)
+Seat 4: sly_fox (20107)
+Seat 5: phizi34 (36302)
+Seat 6: P1xel7 (18419)
+Seat 7: geo.29 (40343)
+Seat 8: JJMB (40384)
+*** ANTE/BLINDS ***
+phizi34 posts ante 80
+P1xel7 posts ante 80
+ElBouillante posts ante 80
+WhiteFox33 posts ante 80
+Scoffdon posts ante 80
+sly_fox posts ante 80
+geo.29 posts ante 80
+JJMB posts ante 80
+phizi34 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [9s 2s]
+*** PRE-FLOP *** 
+geo.29 folds
+JJMB folds
+ElBouillante raises 37989 to 38789 and is all-in
+WhiteFox33 folds
+Scoffdon raises 9893 to 48682 and is all-in
+sly_fox folds
+phizi34 folds
+P1xel7 folds
+*** FLOP *** [8h Kh Jc]
+*** TURN *** [8h Kh Jc][3c]
+*** RIVER *** [8h Kh Jc 3c][6d]
+*** SHOW DOWN ***
+ElBouillante shows [Qd 2d] (High card : King)
+Scoffdon shows [Qs Qh] (One pair : Queens)
+Scoffdon collected 89311 from pot
+*** SUMMARY ***
+Total pot 89311 | No rake
+Board: [8h Kh Jc 3c 6d]
+Seat 1: ElBouillante showed [Qd 2d] and lost with High card : King
+Seat 3: Scoffdon showed [Qs Qh] and won 89311 with One pair : Queens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-116-1702242338 - Holdem no limit (80/400/800) - 2023/12/10 21:05:38 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #5 is the button
+Seat 2: WhiteFox33 (18171)
+Seat 3: Scoffdon (89311)
+Seat 4: sly_fox (20027)
+Seat 5: phizi34 (35822)
+Seat 6: P1xel7 (17539)
+Seat 7: geo.29 (40263)
+Seat 8: JJMB (40304)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+geo.29 posts ante 80
+WhiteFox33 posts ante 80
+Scoffdon posts ante 80
+sly_fox posts ante 80
+phizi34 posts ante 80
+JJMB posts ante 80
+P1xel7 posts small blind 400
+geo.29 posts big blind 800
+Dealt to P1xel7 [5d 2c]
+*** PRE-FLOP *** 
+JJMB folds
+WhiteFox33 folds
+Scoffdon folds
+sly_fox folds
+phizi34 folds
+P1xel7 folds
+geo.29 collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Seat 7: geo.29 (big blind) won 1760
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-117-1702242359 - Holdem no limit (80/400/800) - 2023/12/10 21:05:59 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #6 is the button
+Seat 2: WhiteFox33 (18091)
+Seat 3: Scoffdon (89231)
+Seat 4: sly_fox (19947)
+Seat 5: phizi34 (35742)
+Seat 6: P1xel7 (17059)
+Seat 7: geo.29 (41143)
+Seat 8: JJMB (40224)
+*** ANTE/BLINDS ***
+geo.29 posts ante 80
+JJMB posts ante 80
+WhiteFox33 posts ante 80
+Scoffdon posts ante 80
+sly_fox posts ante 80
+phizi34 posts ante 80
+P1xel7 posts ante 80
+geo.29 posts small blind 400
+JJMB posts big blind 800
+Dealt to P1xel7 [2c Kh]
+*** PRE-FLOP *** 
+WhiteFox33 raises 17211 to 18011 and is all-in
+Scoffdon folds
+sly_fox folds
+phizi34 folds
+P1xel7 folds
+geo.29 folds
+JJMB folds
+WhiteFox33 collected 19771 from pot
+*** SUMMARY ***
+Total pot 19771 | No rake
+Seat 2: WhiteFox33 won 19771
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-118-1702242377 - Holdem no limit (80/400/800) - 2023/12/10 21:06:17 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #7 is the button
+Seat 1: TsenPasObliG (47803)
+Seat 2: WhiteFox33 (19771)
+Seat 3: Scoffdon (89151)
+Seat 4: sly_fox (19867)
+Seat 5: phizi34 (35662)
+Seat 6: P1xel7 (16979)
+Seat 7: geo.29 (40663)
+Seat 8: JJMB (39344)
+*** ANTE/BLINDS ***
+JJMB posts ante 80
+TsenPasObliG posts ante 80
+WhiteFox33 posts ante 80
+Scoffdon posts ante 80
+sly_fox posts ante 80
+phizi34 posts ante 80
+P1xel7 posts ante 80
+geo.29 posts ante 80
+JJMB posts small blind 400
+TsenPasObliG posts big blind 800
+Dealt to P1xel7 [9c 9h]
+*** PRE-FLOP *** 
+WhiteFox33 folds
+Scoffdon folds
+sly_fox folds
+phizi34 folds
+P1xel7 raises 16099 to 16899 and is all-in
+geo.29 folds
+JJMB folds
+TsenPasObliG folds
+P1xel7 collected 18739 from pot
+*** SUMMARY ***
+Total pot 18739 | No rake
+Seat 6: P1xel7 won 18739
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-119-1702242400 - Holdem no limit (80/400/800) - 2023/12/10 21:06:40 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #8 is the button
+Seat 1: TsenPasObliG (46923)
+Seat 2: WhiteFox33 (19691)
+Seat 3: Scoffdon (89071)
+Seat 4: sly_fox (19787)
+Seat 5: phizi34 (35582)
+Seat 6: P1xel7 (18739)
+Seat 7: geo.29 (40583)
+Seat 8: JJMB (38864)
+*** ANTE/BLINDS ***
+TsenPasObliG posts ante 80
+WhiteFox33 posts ante 80
+Scoffdon posts ante 80
+sly_fox posts ante 80
+phizi34 posts ante 80
+P1xel7 posts ante 80
+geo.29 posts ante 80
+JJMB posts ante 80
+TsenPasObliG posts small blind 400
+WhiteFox33 posts big blind 800
+Dealt to P1xel7 [4s 3s]
+*** PRE-FLOP *** 
+Scoffdon folds
+sly_fox folds
+phizi34 folds
+P1xel7 folds
+geo.29 calls 800
+JJMB folds
+TsenPasObliG raises 2800 to 3600
+WhiteFox33 raises 16011 to 19611 and is all-in
+geo.29 folds
+TsenPasObliG folds
+WhiteFox33 collected 24651 from pot
+*** SUMMARY ***
+Total pot 24651 | No rake
+Seat 2: WhiteFox33 (big blind) won 24651
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-120-1702242445 - Holdem no limit (80/400/800) - 2023/12/10 21:07:25 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #1 is the button
+Seat 1: TsenPasObliG (43243)
+Seat 2: WhiteFox33 (24651)
+Seat 3: Scoffdon (88991)
+Seat 4: sly_fox (19707)
+Seat 5: phizi34 (35502)
+Seat 6: P1xel7 (18659)
+Seat 7: geo.29 (39703)
+Seat 8: JJMB (38784)
+*** ANTE/BLINDS ***
+WhiteFox33 posts ante 80
+Scoffdon posts ante 80
+TsenPasObliG posts ante 80
+sly_fox posts ante 80
+phizi34 posts ante 80
+P1xel7 posts ante 80
+geo.29 posts ante 80
+JJMB posts ante 80
+WhiteFox33 posts small blind 400
+Scoffdon posts big blind 800
+Dealt to P1xel7 [Kc 5c]
+*** PRE-FLOP *** 
+sly_fox folds
+phizi34 calls 800
+P1xel7 folds
+geo.29 folds
+JJMB folds
+TsenPasObliG folds
+WhiteFox33 raises 23771 to 24571 and is all-in
+Scoffdon folds
+phizi34 folds
+WhiteFox33 collected 26811 from pot
+*** SUMMARY ***
+Total pot 26811 | No rake
+Seat 2: WhiteFox33 (small blind) won 26811
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-121-1702242496 - Holdem no limit (80/400/800) - 2023/12/10 21:08:16 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #2 is the button
+Seat 1: TsenPasObliG (43163)
+Seat 2: WhiteFox33 (26811)
+Seat 3: Scoffdon (88111)
+Seat 4: sly_fox (19627)
+Seat 5: phizi34 (34622)
+Seat 6: P1xel7 (18579)
+Seat 7: geo.29 (39623)
+Seat 8: JJMB (38704)
+*** ANTE/BLINDS ***
+Scoffdon posts ante 80
+sly_fox posts ante 80
+TsenPasObliG posts ante 80
+WhiteFox33 posts ante 80
+phizi34 posts ante 80
+P1xel7 posts ante 80
+geo.29 posts ante 80
+JJMB posts ante 80
+Scoffdon posts small blind 400
+sly_fox posts big blind 800
+Dealt to P1xel7 [Kh 5h]
+*** PRE-FLOP *** 
+phizi34 folds
+P1xel7 folds
+geo.29 folds
+JJMB folds
+TsenPasObliG folds
+WhiteFox33 calls 800
+Scoffdon calls 400
+sly_fox checks
+*** FLOP *** [Ts Tc 6h]
+Scoffdon checks
+sly_fox checks
+WhiteFox33 checks
+*** TURN *** [Ts Tc 6h][9h]
+Scoffdon checks
+sly_fox checks
+WhiteFox33 checks
+*** RIVER *** [Ts Tc 6h 9h][Ks]
+Scoffdon bets 3040
+sly_fox folds
+WhiteFox33 folds
+Scoffdon collected 6080 from pot
+*** SUMMARY ***
+Total pot 6080 | No rake
+Board: [Ts Tc 6h 9h Ks]
+Seat 3: Scoffdon (small blind) won 6080
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-122-1702242581 - Holdem no limit (80/400/800) - 2023/12/10 21:09:41 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #3 is the button
+Seat 1: TsenPasObliG (43083)
+Seat 2: WhiteFox33 (25931)
+Seat 3: Scoffdon (90271)
+Seat 4: sly_fox (18747)
+Seat 5: phizi34 (34542)
+Seat 6: P1xel7 (18499)
+Seat 7: geo.29 (39543)
+Seat 8: JJMB (38624)
+*** ANTE/BLINDS ***
+sly_fox posts ante 80
+phizi34 posts ante 80
+TsenPasObliG posts ante 80
+WhiteFox33 posts ante 80
+Scoffdon posts ante 80
+P1xel7 posts ante 80
+geo.29 posts ante 80
+JJMB posts ante 80
+sly_fox posts small blind 400
+phizi34 posts big blind 800
+Dealt to P1xel7 [Js 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+geo.29 folds
+JJMB folds
+TsenPasObliG folds
+WhiteFox33 raises 800 to 1600
+Scoffdon folds
+sly_fox folds
+phizi34 calls 800
+*** FLOP *** [7s 5c 4c]
+phizi34 bets 800
+WhiteFox33 calls 800
+*** TURN *** [7s 5c 4c][Ah]
+phizi34 bets 800
+WhiteFox33 calls 800
+*** RIVER *** [7s 5c 4c Ah][3c]
+phizi34 bets 1007
+WhiteFox33 raises 21644 to 22651 and is all-in
+phizi34 folds
+WhiteFox33 collected 31098 from pot
+*** SUMMARY ***
+Total pot 31098 | No rake
+Board: [7s 5c 4c Ah 3c]
+Seat 2: WhiteFox33 won 31098
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-123-1702242647 - Holdem no limit (80/400/800) - 2023/12/10 21:10:47 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #4 is the button
+Seat 1: TsenPasObliG (43003)
+Seat 2: WhiteFox33 (31098)
+Seat 3: Scoffdon (90191)
+Seat 4: sly_fox (18267)
+Seat 5: phizi34 (30255)
+Seat 6: P1xel7 (18419)
+Seat 7: geo.29 (39463)
+Seat 8: JJMB (38544)
+*** ANTE/BLINDS ***
+phizi34 posts ante 80
+P1xel7 posts ante 80
+TsenPasObliG posts ante 80
+WhiteFox33 posts ante 80
+Scoffdon posts ante 80
+sly_fox posts ante 80
+geo.29 posts ante 80
+JJMB posts ante 80
+phizi34 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [8s 4h]
+*** PRE-FLOP *** 
+geo.29 calls 800
+JJMB folds
+TsenPasObliG folds
+WhiteFox33 raises 8061 to 8861
+Scoffdon folds
+sly_fox folds
+phizi34 folds
+P1xel7 folds
+geo.29 folds
+WhiteFox33 collected 11501 from pot
+*** SUMMARY ***
+Total pot 11501 | No rake
+Seat 2: WhiteFox33 won 11501
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-124-1702242675 - Holdem no limit (80/400/800) - 2023/12/10 21:11:15 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #5 is the button
+Seat 1: TsenPasObliG (42923)
+Seat 2: WhiteFox33 (33658)
+Seat 3: Scoffdon (90111)
+Seat 4: sly_fox (18187)
+Seat 5: phizi34 (29775)
+Seat 6: P1xel7 (17539)
+Seat 7: geo.29 (38583)
+Seat 8: JJMB (38464)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+geo.29 posts ante 80
+TsenPasObliG posts ante 80
+WhiteFox33 posts ante 80
+Scoffdon posts ante 80
+sly_fox posts ante 80
+phizi34 posts ante 80
+JJMB posts ante 80
+P1xel7 posts small blind 400
+geo.29 posts big blind 800
+Dealt to P1xel7 [2c 8d]
+*** PRE-FLOP *** 
+JJMB raises 1200 to 2000
+TsenPasObliG folds
+WhiteFox33 calls 2000
+Scoffdon folds
+sly_fox folds
+phizi34 folds
+P1xel7 folds
+geo.29 folds
+*** FLOP *** [3c 9d 4d]
+JJMB bets 2044
+WhiteFox33 folds
+JJMB collected 7884 from pot
+*** SUMMARY ***
+Total pot 7884 | No rake
+Board: [3c 9d 4d]
+Seat 8: JJMB won 7884
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 15 - HandId: #2977011101813702665-125-1702242729 - Holdem no limit (80/400/800) - 2023/12/10 21:12:09 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #6 is the button
+Seat 1: TsenPasObliG (42843)
+Seat 2: WhiteFox33 (31578)
+Seat 3: Scoffdon (90031)
+Seat 4: sly_fox (18107)
+Seat 5: phizi34 (29695)
+Seat 6: P1xel7 (17059)
+Seat 7: geo.29 (37703)
+Seat 8: JJMB (42224)
+*** ANTE/BLINDS ***
+geo.29 posts ante 80
+JJMB posts ante 80
+TsenPasObliG posts ante 80
+WhiteFox33 posts ante 80
+Scoffdon posts ante 80
+sly_fox posts ante 80
+phizi34 posts ante 80
+P1xel7 posts ante 80
+geo.29 posts small blind 400
+JJMB posts big blind 800
+Dealt to P1xel7 [5c Kh]
+*** PRE-FLOP *** 
+TsenPasObliG folds
+WhiteFox33 calls 800
+Scoffdon folds
+sly_fox folds
+phizi34 calls 800
+P1xel7 folds
+geo.29 calls 400
+JJMB checks
+*** FLOP *** [Jd 3d 2h]
+geo.29 checks
+JJMB checks
+WhiteFox33 checks
+phizi34 checks
+*** TURN *** [Jd 3d 2h][2s]
+geo.29 checks
+JJMB checks
+WhiteFox33 checks
+phizi34 checks
+*** RIVER *** [Jd 3d 2h 2s][Jh]
+geo.29 checks
+JJMB checks
+WhiteFox33 checks
+phizi34 checks
+*** SHOW DOWN ***
+WhiteFox33 shows [8c Kc] (Two pairs : Jacks and 2)
+geo.29 shows [Ks Qs] (Two pairs : Jacks and 2)
+JJMB shows [6h 9d] (Two pairs : Jacks and 2)
+phizi34 shows [Ad 5d] (Two pairs : Jacks and 2)
+phizi34 collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Board: [Jd 3d 2h 2s Jh]
+Seat 2: WhiteFox33 showed [8c Kc] and lost with Two pairs : Jacks and 2
+Seat 5: phizi34 showed [Ad 5d] and won 3840 with Two pairs : Jacks and 2
+Seat 7: geo.29 (small blind) showed [Ks Qs] and lost with Two pairs : Jacks and 2
+Seat 8: JJMB (big blind) showed [6h 9d] and lost with Two pairs : Jacks and 2
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 16 - HandId: #2977011101813702665-126-1702242798 - Holdem no limit (100/500/1000) - 2023/12/10 21:13:18 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #7 is the button
+Seat 1: TsenPasObliG (42763)
+Seat 2: WhiteFox33 (30698)
+Seat 3: Scoffdon (89951)
+Seat 4: sly_fox (18027)
+Seat 5: phizi34 (32655)
+Seat 6: P1xel7 (16979)
+Seat 7: geo.29 (36823)
+Seat 8: JJMB (41344)
+*** ANTE/BLINDS ***
+JJMB posts ante 100
+TsenPasObliG posts ante 100
+WhiteFox33 posts ante 100
+Scoffdon posts ante 100
+sly_fox posts ante 100
+phizi34 posts ante 100
+P1xel7 posts ante 100
+geo.29 posts ante 100
+JJMB posts small blind 500
+TsenPasObliG posts big blind 1000
+Dealt to P1xel7 [9d 4s]
+*** PRE-FLOP *** 
+WhiteFox33 folds
+Scoffdon folds
+sly_fox folds
+phizi34 calls 1000
+P1xel7 folds
+geo.29 folds
+JJMB folds
+TsenPasObliG checks
+*** FLOP *** [7d 5d Tc]
+TsenPasObliG checks
+phizi34 bets 1000
+TsenPasObliG folds
+phizi34 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [7d 5d Tc]
+Seat 5: phizi34 won 4300
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 16 - HandId: #2977011101813702665-127-1702242843 - Holdem no limit (100/500/1000) - 2023/12/10 21:14:03 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #8 is the button
+Seat 1: TsenPasObliG (41663)
+Seat 2: WhiteFox33 (30598)
+Seat 3: Scoffdon (89851)
+Seat 4: sly_fox (17927)
+Seat 5: phizi34 (34855)
+Seat 6: P1xel7 (16879)
+Seat 7: geo.29 (36723)
+Seat 8: JJMB (40744)
+*** ANTE/BLINDS ***
+TsenPasObliG posts ante 100
+WhiteFox33 posts ante 100
+Scoffdon posts ante 100
+sly_fox posts ante 100
+phizi34 posts ante 100
+P1xel7 posts ante 100
+geo.29 posts ante 100
+JJMB posts ante 100
+TsenPasObliG posts small blind 500
+WhiteFox33 posts big blind 1000
+Dealt to P1xel7 [8h 6d]
+*** PRE-FLOP *** 
+Scoffdon folds
+sly_fox folds
+phizi34 calls 1000
+P1xel7 folds
+geo.29 raises 2000 to 3000
+JJMB folds
+TsenPasObliG folds
+WhiteFox33 calls 2000
+phizi34 calls 2000
+*** FLOP *** [9d 5d Th]
+WhiteFox33 checks
+phizi34 checks
+geo.29 bets 6695
+WhiteFox33 folds
+phizi34 calls 6695
+*** TURN *** [9d 5d Th][Jd]
+phizi34 checks
+geo.29 bets 8292
+phizi34 raises 16768 to 25060 and is all-in
+geo.29 calls 16768
+*** RIVER *** [9d 5d Th Jd][Kc]
+*** SHOW DOWN ***
+geo.29 shows [Tc As] (One pair : Tens)
+phizi34 shows [Qd Kd] (Flush King high)
+phizi34 collected 73810 from pot
+*** SUMMARY ***
+Total pot 73810 | No rake
+Board: [9d 5d Th Jd Kc]
+Seat 5: phizi34 showed [Qd Kd] and won 73810 with Flush King high
+Seat 7: geo.29 showed [Tc As] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 16 - HandId: #2977011101813702665-128-1702242923 - Holdem no limit (100/500/1000) - 2023/12/10 21:15:23 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #1 is the button
+Seat 1: TsenPasObliG (41063)
+Seat 2: WhiteFox33 (27498)
+Seat 3: Scoffdon (89751)
+Seat 4: sly_fox (17827)
+Seat 5: phizi34 (73810)
+Seat 6: P1xel7 (16779)
+Seat 7: geo.29 (1868)
+Seat 8: JJMB (40644)
+*** ANTE/BLINDS ***
+WhiteFox33 posts ante 100
+Scoffdon posts ante 100
+TsenPasObliG posts ante 100
+sly_fox posts ante 100
+phizi34 posts ante 100
+P1xel7 posts ante 100
+geo.29 posts ante 100
+JJMB posts ante 100
+WhiteFox33 posts small blind 500
+Scoffdon posts big blind 1000
+Dealt to P1xel7 [6h Jd]
+*** PRE-FLOP *** 
+sly_fox folds
+phizi34 calls 1000
+P1xel7 folds
+geo.29 raises 768 to 1768 and is all-in
+JJMB folds
+TsenPasObliG folds
+WhiteFox33 folds
+Scoffdon calls 768
+phizi34 calls 768
+*** FLOP *** [8s 3c Ah]
+Scoffdon checks
+phizi34 checks
+*** TURN *** [8s 3c Ah][Ad]
+Scoffdon checks
+phizi34 checks
+*** RIVER *** [8s 3c Ah Ad][Td]
+Scoffdon bets 6604
+phizi34 folds
+*** SHOW DOWN ***
+geo.29 shows [5h Qh] (One pair : Aces)
+Scoffdon shows [Th 7d] (Two pairs : Aces and Tens)
+Scoffdon collected 13208 from pot
+*** SUMMARY ***
+Total pot 13208 | No rake
+Board: [8s 3c Ah Ad Td]
+Seat 3: Scoffdon (big blind) showed [Th 7d] and won 13208 with Two pairs : Aces and Tens
+Seat 7: geo.29 showed [5h Qh] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 16 - HandId: #2977011101813702665-129-1702242976 - Holdem no limit (100/500/1000) - 2023/12/10 21:16:16 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #2 is the button
+Seat 1: TsenPasObliG (40963)
+Seat 2: WhiteFox33 (26898)
+Seat 3: Scoffdon (94487)
+Seat 4: sly_fox (17727)
+Seat 5: phizi34 (71942)
+Seat 6: P1xel7 (16679)
+Seat 8: JJMB (40544)
+*** ANTE/BLINDS ***
+Scoffdon posts ante 100
+sly_fox posts ante 100
+TsenPasObliG posts ante 100
+WhiteFox33 posts ante 100
+phizi34 posts ante 100
+P1xel7 posts ante 100
+JJMB posts ante 100
+Scoffdon posts small blind 500
+sly_fox posts big blind 1000
+Dealt to P1xel7 [5s 6h]
+*** PRE-FLOP *** 
+phizi34 calls 1000
+P1xel7 folds
+JJMB folds
+TsenPasObliG folds
+WhiteFox33 raises 1000 to 2000
+Scoffdon raises 92387 to 94387 and is all-in
+sly_fox folds
+phizi34 folds
+WhiteFox33 calls 24798 and is all-in
+*** FLOP *** [4c Kc 2d]
+*** TURN *** [4c Kc 2d][Ah]
+*** RIVER *** [4c Kc 2d Ah][Jh]
+*** SHOW DOWN ***
+WhiteFox33 shows [Ts Jc] (One pair : Jacks)
+Scoffdon shows [Qd Qc] (One pair : Queens)
+Scoffdon collected 123885 from pot
+*** SUMMARY ***
+Total pot 123885 | No rake
+Board: [4c Kc 2d Ah Jh]
+Seat 2: WhiteFox33 (button) showed [Ts Jc] and lost with One pair : Jacks
+Seat 3: Scoffdon (small blind) showed [Qd Qc] and won 123885 with One pair : Queens
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 16 - HandId: #2977011101813702665-130-1702243031 - Holdem no limit (100/500/1000) - 2023/12/10 21:17:11 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #3 is the button
+Seat 1: TsenPasObliG (40863)
+Seat 3: Scoffdon (123885)
+Seat 4: sly_fox (16627)
+Seat 5: phizi34 (70842)
+Seat 6: P1xel7 (16579)
+Seat 8: JJMB (40444)
+*** ANTE/BLINDS ***
+sly_fox posts ante 100
+phizi34 posts ante 100
+TsenPasObliG posts ante 100
+Scoffdon posts ante 100
+P1xel7 posts ante 100
+JJMB posts ante 100
+sly_fox posts small blind 500
+phizi34 posts big blind 1000
+Dealt to P1xel7 [7c 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+JJMB raises 1500 to 2500
+TsenPasObliG folds
+Scoffdon folds
+sly_fox folds
+phizi34 calls 1500
+*** FLOP *** [8c Js 8h]
+phizi34 checks
+JJMB bets 3965
+phizi34 calls 3965
+*** TURN *** [8c Js 8h][4s]
+phizi34 checks
+JJMB bets 4911
+phizi34 raises 4911 to 9822
+JJMB folds
+phizi34 collected 28763 from pot
+*** SUMMARY ***
+Total pot 28763 | No rake
+Board: [8c Js 8h 4s]
+Seat 5: phizi34 (big blind) won 28763
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 16 - HandId: #2977011101813702665-131-1702243076 - Holdem no limit (100/500/1000) - 2023/12/10 21:17:56 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #4 is the button
+Seat 1: TsenPasObliG (40763)
+Seat 2: Dark_River_ (40189)
+Seat 3: Scoffdon (123785)
+Seat 4: sly_fox (16027)
+Seat 5: phizi34 (83218)
+Seat 6: P1xel7 (16479)
+Seat 7: thedevil53 (162864)
+Seat 8: JJMB (28968)
+*** ANTE/BLINDS ***
+phizi34 posts ante 100
+P1xel7 posts ante 100
+TsenPasObliG posts ante 100
+Dark_River_ posts ante 100
+Scoffdon posts ante 100
+sly_fox posts ante 100
+thedevil53 posts ante 100
+JJMB posts ante 100
+phizi34 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [4s 3d]
+*** PRE-FLOP *** 
+thedevil53 folds
+JJMB calls 1000
+TsenPasObliG folds
+Dark_River_ folds
+Scoffdon folds
+sly_fox folds
+phizi34 calls 500
+P1xel7 checks
+*** FLOP *** [Jc Tc 9d]
+phizi34 checks
+P1xel7 checks
+JJMB checks
+*** TURN *** [Jc Tc 9d][9c]
+phizi34 checks
+P1xel7 checks
+JJMB bets 1330
+phizi34 calls 1330
+P1xel7 folds
+*** RIVER *** [Jc Tc 9d 9c][7c]
+phizi34 checks
+JJMB checks
+*** SHOW DOWN ***
+phizi34 shows [6d Kd] (One pair : 9)
+JJMB shows [2d 2h] (Two pairs : 9 and 2)
+JJMB collected 6460 from pot
+*** SUMMARY ***
+Total pot 6460 | No rake
+Board: [Jc Tc 9d 9c 7c]
+Seat 5: phizi34 (small blind) showed [6d Kd] and lost with One pair : 9
+Seat 8: JJMB showed [2d 2h] and won 6460 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 16 - HandId: #2977011101813702665-132-1702243158 - Holdem no limit (100/500/1000) - 2023/12/10 21:19:18 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #5 is the button
+Seat 1: TsenPasObliG (40663)
+Seat 2: Dark_River_ (40089)
+Seat 3: Scoffdon (123685)
+Seat 4: sly_fox (15927)
+Seat 5: phizi34 (80788)
+Seat 6: P1xel7 (15379)
+Seat 7: thedevil53 (162764)
+Seat 8: JJMB (32998)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+thedevil53 posts ante 100
+TsenPasObliG posts ante 100
+Dark_River_ posts ante 100
+Scoffdon posts ante 100
+sly_fox posts ante 100
+phizi34 posts ante 100
+JJMB posts ante 100
+P1xel7 posts small blind 500
+thedevil53 posts big blind 1000
+Dealt to P1xel7 [6c 2h]
+*** PRE-FLOP *** 
+JJMB folds
+TsenPasObliG raises 1200 to 2200
+Dark_River_ folds
+Scoffdon raises 121385 to 123585 and is all-in
+sly_fox folds
+phizi34 folds
+P1xel7 folds
+thedevil53 folds
+TsenPasObliG calls 38363 and is all-in
+*** FLOP *** [Ad 3c 9h]
+*** TURN *** [Ad 3c 9h][Td]
+*** RIVER *** [Ad 3c 9h Td][5d]
+*** SHOW DOWN ***
+TsenPasObliG shows [Ac Kc] (One pair : Aces)
+Scoffdon shows [As Qs] (One pair : Aces)
+Scoffdon collected 83022 from side pot 1
+TsenPasObliG collected 83426 from main pot
+*** SUMMARY ***
+Total pot 166448 | No rake
+Board: [Ad 3c 9h Td 5d]
+Seat 1: TsenPasObliG showed [Ac Kc] and won 83426 with One pair : Aces
+Seat 3: Scoffdon showed [As Qs] and won 83022 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 16 - HandId: #2977011101813702665-133-1702243184 - Holdem no limit (100/500/1000) - 2023/12/10 21:19:44 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #6 is the button
+Seat 1: TsenPasObliG (83426)
+Seat 2: Dark_River_ (39989)
+Seat 3: Scoffdon (83022)
+Seat 4: sly_fox (15827)
+Seat 5: phizi34 (80688)
+Seat 6: P1xel7 (14779)
+Seat 7: thedevil53 (161664)
+Seat 8: JJMB (32898)
+*** ANTE/BLINDS ***
+thedevil53 posts ante 100
+JJMB posts ante 100
+TsenPasObliG posts ante 100
+Dark_River_ posts ante 100
+Scoffdon posts ante 100
+sly_fox posts ante 100
+phizi34 posts ante 100
+P1xel7 posts ante 100
+thedevil53 posts small blind 500
+JJMB posts big blind 1000
+Dealt to P1xel7 [9c Qc]
+*** PRE-FLOP *** 
+TsenPasObliG folds
+Dark_River_ folds
+Scoffdon folds
+sly_fox folds
+phizi34 calls 1000
+P1xel7 raises 13679 to 14679 and is all-in
+thedevil53 folds
+JJMB folds
+phizi34 folds
+P1xel7 collected 17979 from pot
+*** SUMMARY ***
+Total pot 17979 | No rake
+Seat 6: P1xel7 (button) won 17979
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 16 - HandId: #2977011101813702665-134-1702243210 - Holdem no limit (100/500/1000) - 2023/12/10 21:20:10 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #7 is the button
+Seat 1: TsenPasObliG (83326)
+Seat 2: Dark_River_ (39889)
+Seat 3: Scoffdon (82922)
+Seat 4: sly_fox (15727)
+Seat 5: phizi34 (79588)
+Seat 6: P1xel7 (17979)
+Seat 7: thedevil53 (161064)
+Seat 8: JJMB (31798)
+*** ANTE/BLINDS ***
+JJMB posts ante 100
+TsenPasObliG posts ante 100
+Dark_River_ posts ante 100
+Scoffdon posts ante 100
+sly_fox posts ante 100
+phizi34 posts ante 100
+P1xel7 posts ante 100
+thedevil53 posts ante 100
+JJMB posts small blind 500
+TsenPasObliG posts big blind 1000
+Dealt to P1xel7 [4s 5d]
+*** PRE-FLOP *** 
+Dark_River_ folds
+Scoffdon folds
+sly_fox raises 1000 to 2000
+phizi34 folds
+P1xel7 folds
+thedevil53 folds
+JJMB folds
+TsenPasObliG calls 1000
+*** FLOP *** [9d Ks Kh]
+TsenPasObliG checks
+sly_fox bets 2355
+TsenPasObliG folds
+sly_fox collected 7655 from pot
+*** SUMMARY ***
+Total pot 7655 | No rake
+Board: [9d Ks Kh]
+Seat 4: sly_fox won 7655
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 17 - HandId: #2977011101813702665-135-1702243266 - Holdem no limit (135/600/1200) - 2023/12/10 21:21:06 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #8 is the button
+Seat 1: TsenPasObliG (81226)
+Seat 2: Dark_River_ (39789)
+Seat 3: Scoffdon (82822)
+Seat 4: sly_fox (18927)
+Seat 5: phizi34 (79488)
+Seat 6: P1xel7 (17879)
+Seat 7: thedevil53 (160964)
+Seat 8: JJMB (31198)
+*** ANTE/BLINDS ***
+TsenPasObliG posts ante 135
+Dark_River_ posts ante 135
+Scoffdon posts ante 135
+sly_fox posts ante 135
+phizi34 posts ante 135
+P1xel7 posts ante 135
+thedevil53 posts ante 135
+JJMB posts ante 135
+TsenPasObliG posts small blind 600
+Dark_River_ posts big blind 1200
+Dealt to P1xel7 [Ks 7d]
+*** PRE-FLOP *** 
+Scoffdon calls 1200
+sly_fox folds
+phizi34 folds
+P1xel7 folds
+thedevil53 folds
+JJMB folds
+TsenPasObliG folds
+Dark_River_ checks
+*** FLOP *** [6s 7s Th]
+Dark_River_ checks
+Scoffdon checks
+*** TURN *** [6s 7s Th][Jc]
+Dark_River_ checks
+Scoffdon checks
+*** RIVER *** [6s 7s Th Jc][5c]
+Dark_River_ checks
+Scoffdon checks
+*** SHOW DOWN ***
+Dark_River_ shows [3s Ad] (High card : Ace)
+Scoffdon shows [Ac 6d] (One pair : 6)
+Scoffdon collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | No rake
+Board: [6s 7s Th Jc 5c]
+Seat 2: Dark_River_ (big blind) showed [3s Ad] and lost with High card : Ace
+Seat 3: Scoffdon showed [Ac 6d] and won 4080 with One pair : 6
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 17 - HandId: #2977011101813702665-136-1702243305 - Holdem no limit (135/600/1200) - 2023/12/10 21:21:45 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #1 is the button
+Seat 1: TsenPasObliG (80491)
+Seat 2: Dark_River_ (38454)
+Seat 3: Scoffdon (85567)
+Seat 4: sly_fox (18792)
+Seat 5: phizi34 (79353)
+Seat 6: P1xel7 (17744)
+Seat 7: thedevil53 (160829)
+Seat 8: JJMB (31063)
+*** ANTE/BLINDS ***
+Dark_River_ posts ante 135
+Scoffdon posts ante 135
+TsenPasObliG posts ante 135
+sly_fox posts ante 135
+phizi34 posts ante 135
+P1xel7 posts ante 135
+thedevil53 posts ante 135
+JJMB posts ante 135
+Dark_River_ posts small blind 600
+Scoffdon posts big blind 1200
+Dealt to P1xel7 [5d 3h]
+*** PRE-FLOP *** 
+sly_fox folds
+phizi34 calls 1200
+P1xel7 folds
+thedevil53 folds
+JJMB folds
+TsenPasObliG folds
+Dark_River_ calls 600
+Scoffdon checks
+*** FLOP *** [5s 3d 6c]
+Dark_River_ checks
+Scoffdon checks
+phizi34 bets 1200
+Dark_River_ calls 1200
+Scoffdon folds
+*** TURN *** [5s 3d 6c][9d]
+Dark_River_ checks
+phizi34 checks
+*** RIVER *** [5s 3d 6c 9d][8s]
+Dark_River_ bets 4200
+phizi34 folds
+Dark_River_ collected 11280 from pot
+*** SUMMARY ***
+Total pot 11280 | No rake
+Board: [5s 3d 6c 9d 8s]
+Seat 2: Dark_River_ (small blind) won 11280
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 17 - HandId: #2977011101813702665-137-1702243363 - Holdem no limit (135/600/1200) - 2023/12/10 21:22:43 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #2 is the button
+Seat 1: TsenPasObliG (80356)
+Seat 2: Dark_River_ (42999)
+Seat 3: Scoffdon (84232)
+Seat 4: sly_fox (18657)
+Seat 5: phizi34 (76818)
+Seat 6: P1xel7 (17609)
+Seat 7: thedevil53 (160694)
+Seat 8: JJMB (30928)
+*** ANTE/BLINDS ***
+Scoffdon posts ante 135
+sly_fox posts ante 135
+TsenPasObliG posts ante 135
+Dark_River_ posts ante 135
+phizi34 posts ante 135
+P1xel7 posts ante 135
+thedevil53 posts ante 135
+JJMB posts ante 135
+Scoffdon posts small blind 600
+sly_fox posts big blind 1200
+Dealt to P1xel7 [Qc 9h]
+*** PRE-FLOP *** 
+phizi34 folds
+P1xel7 raises 1200 to 2400
+thedevil53 folds
+JJMB folds
+TsenPasObliG raises 8400 to 10800
+Dark_River_ folds
+Scoffdon folds
+sly_fox folds
+P1xel7 folds
+TsenPasObliG collected 16080 from pot
+*** SUMMARY ***
+Total pot 16080 | No rake
+Seat 1: TsenPasObliG won 16080
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 17 - HandId: #2977011101813702665-138-1702243417 - Holdem no limit (135/600/1200) - 2023/12/10 21:23:37 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #3 is the button
+Seat 1: TsenPasObliG (85501)
+Seat 2: Dark_River_ (42864)
+Seat 3: Scoffdon (83497)
+Seat 4: sly_fox (17322)
+Seat 5: phizi34 (76683)
+Seat 6: P1xel7 (15074)
+Seat 7: thedevil53 (160559)
+Seat 8: JJMB (30793)
+*** ANTE/BLINDS ***
+sly_fox posts ante 135
+phizi34 posts ante 135
+TsenPasObliG posts ante 135
+Dark_River_ posts ante 135
+Scoffdon posts ante 135
+P1xel7 posts ante 135
+thedevil53 posts ante 135
+JJMB posts ante 135
+sly_fox posts small blind 600
+phizi34 posts big blind 1200
+Dealt to P1xel7 [7c 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+thedevil53 folds
+JJMB raises 1800 to 3000
+TsenPasObliG folds
+Dark_River_ folds
+Scoffdon folds
+sly_fox folds
+phizi34 calls 1800
+*** FLOP *** [Jh Ks 4h]
+phizi34 checks
+JJMB bets 2688
+phizi34 folds
+JJMB collected 10368 from pot
+*** SUMMARY ***
+Total pot 10368 | No rake
+Board: [Jh Ks 4h]
+Seat 8: JJMB won 10368
+
+
+Winamax Poker - Tournament "Tremplin Poitiers" buyIn: 0€ + 0€ level: 17 - HandId: #2977011101813702665-139-1702243456 - Holdem no limit (135/600/1200) - 2023/12/10 21:24:16 UTC
+Table: 'Tremplin Poitiers(693139411)#0008' 8-max (real money) Seat #4 is the button
+Seat 1: TsenPasObliG (85366)
+Seat 2: Dark_River_ (42729)
+Seat 3: Scoffdon (83362)
+Seat 4: sly_fox (16587)
+Seat 5: phizi34 (73548)
+Seat 6: P1xel7 (14939)
+Seat 7: thedevil53 (160424)
+Seat 8: JJMB (35338)
+*** ANTE/BLINDS ***
+phizi34 posts ante 135
+P1xel7 posts ante 135
+TsenPasObliG posts ante 135
+Dark_River_ posts ante 135
+Scoffdon posts ante 135
+sly_fox posts ante 135
+thedevil53 posts ante 135
+JJMB posts ante 135
+phizi34 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [Ad 2h]
+*** PRE-FLOP *** 
+thedevil53 folds
+JJMB folds
+TsenPasObliG folds
+Dark_River_ folds
+Scoffdon calls 1200
+sly_fox folds
+phizi34 calls 600
+P1xel7 raises 13604 to 14804 and is all-in
+Scoffdon calls 13604
+phizi34 folds
+*** FLOP *** [8d Ah Qh]
+*** TURN *** [8d Ah Qh][7s]
+*** RIVER *** [8d Ah Qh 7s][5s]
+*** SHOW DOWN ***
+P1xel7 shows [Ad 2h] (One pair : Aces)
+Scoffdon shows [7c As] (Two pairs : Aces and 7)
+Scoffdon collected 31888 from pot
+*** SUMMARY ***
+Total pot 31888 | No rake
+Board: [8d Ah Qh 7s 5s]
+Seat 3: Scoffdon showed [7c As] and won 31888 with Two pairs : Aces and 7
+Seat 6: P1xel7 (big blind) showed [Ad 2h] and lost with One pair : Aces
+
+

@@ -1,0 +1,129 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3253004321570160641-1-1708283188 - Holdem no limit (10/20) - 2024/02/18 19:06:28 UTC
+Table: 'Starting Block WiPT - Déglingos(757399090)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Catandeira (500)
+Seat 2: Chichi-83 (500)
+Seat 3: gla004 (500)
+Seat 4: TUGA 61 (500)
+Seat 5: P1xel7 (500)
+Seat 6: lacazette82 (500)
+*** ANTE/BLINDS ***
+Catandeira posts small blind 10
+Chichi-83 posts big blind 20
+Dealt to P1xel7 [6s 4h]
+*** PRE-FLOP *** 
+gla004 folds
+TUGA 61 calls 20
+P1xel7 folds
+lacazette82 calls 20
+Catandeira calls 10
+Chichi-83 raises 20 to 40
+TUGA 61 calls 20
+lacazette82 folds
+Catandeira calls 20
+*** FLOP *** [4c Tc Qc]
+Catandeira bets 91
+Chichi-83 raises 369 to 460 and is all-in
+TUGA 61 folds
+Catandeira calls 369 and is all-in
+*** TURN *** [4c Tc Qc][As]
+*** RIVER *** [4c Tc Qc As][Ts]
+*** SHOW DOWN ***
+Catandeira shows [6c Qs] (Two pairs : Queens and Tens)
+Chichi-83 shows [Qd 8s] (Two pairs : Queens and Tens)
+Chichi-83 collected 530 from pot
+Catandeira collected 530 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Board: [4c Tc Qc As Ts]
+Seat 1: Catandeira (small blind) showed [6c Qs] and won 530 with Two pairs : Queens and Tens
+Seat 2: Chichi-83 (big blind) showed [Qd 8s] and won 530 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3253004321570160641-2-1708283283 - Holdem no limit (15/30) - 2024/02/18 19:08:03 UTC
+Table: 'Starting Block WiPT - Déglingos(757399090)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Catandeira (530)
+Seat 2: Chichi-83 (530)
+Seat 3: gla004 (500)
+Seat 4: TUGA 61 (460)
+Seat 5: P1xel7 (500)
+Seat 6: lacazette82 (480)
+*** ANTE/BLINDS ***
+Chichi-83 posts small blind 15
+gla004 posts big blind 30
+Dealt to P1xel7 [5c Tc]
+*** PRE-FLOP *** 
+TUGA 61 raises 430 to 460 and is all-in
+P1xel7 folds
+lacazette82 folds
+Catandeira folds
+Chichi-83 raises 70 to 530 and is all-in
+gla004 folds
+*** FLOP *** [Td 7c 2d]
+*** TURN *** [Td 7c 2d][6s]
+*** RIVER *** [Td 7c 2d 6s][Ts]
+*** SHOW DOWN ***
+TUGA 61 shows [Ac 8c] (One pair : Tens)
+Chichi-83 shows [6h 6d] (Full of 6 and Tens)
+Chichi-83 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [Td 7c 2d 6s Ts]
+Seat 2: Chichi-83 (small blind) showed [6h 6d] and won 1020 with Full of 6 and Tens
+Seat 4: TUGA 61 showed [Ac 8c] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3253004321570160641-3-1708283322 - Holdem no limit (15/30) - 2024/02/18 19:08:42 UTC
+Table: 'Starting Block WiPT - Déglingos(757399090)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Catandeira (530)
+Seat 2: Chichi-83 (1020)
+Seat 3: gla004 (470)
+Seat 5: P1xel7 (500)
+Seat 6: lacazette82 (480)
+*** ANTE/BLINDS ***
+gla004 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Qc 7h]
+*** PRE-FLOP *** 
+lacazette82 calls 30
+Catandeira folds
+Chichi-83 raises 990 to 1020 and is all-in
+gla004 folds
+P1xel7 folds
+lacazette82 folds
+Chichi-83 collected 1095 from pot
+*** SUMMARY ***
+Total pot 1095 | No rake
+Seat 2: Chichi-83 (button) won 1095
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3253004321570160641-4-1708283349 - Holdem no limit (15/30) - 2024/02/18 19:09:09 UTC
+Table: 'Starting Block WiPT - Déglingos(757399090)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Catandeira (530)
+Seat 2: Chichi-83 (1095)
+Seat 3: gla004 (455)
+Seat 5: P1xel7 (470)
+Seat 6: lacazette82 (450)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+lacazette82 posts big blind 30
+Dealt to P1xel7 [As 4h]
+*** PRE-FLOP *** 
+Catandeira folds
+Chichi-83 raises 1065 to 1095 and is all-in
+gla004 folds
+P1xel7 calls 455 and is all-in
+lacazette82 folds
+*** FLOP *** [Qh Kd 4s]
+*** TURN *** [Qh Kd 4s][7h]
+*** RIVER *** [Qh Kd 4s 7h][3s]
+*** SHOW DOWN ***
+P1xel7 shows [As 4h] (One pair : 4)
+Chichi-83 shows [7d Ad] (One pair : 7)
+Chichi-83 collected 1595 from pot
+*** SUMMARY ***
+Total pot 1595 | No rake
+Board: [Qh Kd 4s 7h 3s]
+Seat 2: Chichi-83 showed [7d Ad] and won 1595 with One pair : 7
+Seat 5: P1xel7 (small blind) showed [As 4h] and lost with One pair : 4
+
+

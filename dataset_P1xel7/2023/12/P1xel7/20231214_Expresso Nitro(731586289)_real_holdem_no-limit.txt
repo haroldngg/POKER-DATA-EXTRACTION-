@@ -1,0 +1,611 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #3142139185457004545-1-1702554138 - Holdem no limit (10/20) - 2023/12/14 11:42:18 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (300)
+Seat 2: Chich_25JN (300)
+Seat 3: dedee08 (300)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Chich_25JN posts big blind 20
+Dealt to P1xel7 [4h Kc]
+*** PRE-FLOP *** 
+dedee08 folds
+P1xel7 raises 20 to 40
+Chich_25JN calls 20
+*** FLOP *** [Jc 2d 6h]
+P1xel7 bets 40
+Chich_25JN folds
+P1xel7 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Jc 2d 6h]
+Seat 1: P1xel7 (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #3142139185457004545-2-1702554155 - Holdem no limit (10/20) - 2023/12/14 11:42:35 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (340)
+Seat 2: Chich_25JN (260)
+Seat 3: dedee08 (300)
+*** ANTE/BLINDS ***
+Chich_25JN posts small blind 10
+dedee08 posts big blind 20
+Dealt to P1xel7 [Tc Th]
+*** PRE-FLOP *** 
+P1xel7 raises 20 to 40
+Chich_25JN folds
+dedee08 calls 20
+*** FLOP *** [Ks Kh 8h]
+dedee08 bets 260 and is all-in
+P1xel7 folds
+dedee08 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [Ks Kh 8h]
+Seat 3: dedee08 (big blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #3142139185457004545-3-1702554168 - Holdem no limit (10/20) - 2023/12/14 11:42:48 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (300)
+Seat 2: Chich_25JN (250)
+Seat 3: dedee08 (350)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Ts 4h]
+*** PRE-FLOP *** 
+Chich_25JN folds
+dedee08 calls 10
+P1xel7 checks
+*** FLOP *** [6d Qd As]
+dedee08 checks
+P1xel7 checks
+*** TURN *** [6d Qd As][5d]
+dedee08 checks
+P1xel7 checks
+*** RIVER *** [6d Qd As 5d][7s]
+dedee08 checks
+P1xel7 bets 32
+dedee08 folds
+P1xel7 collected 72 from pot
+*** SUMMARY ***
+Total pot 72 | No rake
+Board: [6d Qd As 5d 7s]
+Seat 1: P1xel7 (big blind) won 72
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 1 - HandId: #3142139185457004545-4-1702554187 - Holdem no limit (10/20) - 2023/12/14 11:43:07 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (320)
+Seat 2: Chich_25JN (250)
+Seat 3: dedee08 (330)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Chich_25JN posts big blind 20
+Dealt to P1xel7 [6d 2h]
+*** PRE-FLOP *** 
+dedee08 folds
+P1xel7 folds
+Chich_25JN collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Chich_25JN (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #3142139185457004545-5-1702554196 - Holdem no limit (15/30) - 2023/12/14 11:43:16 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (310)
+Seat 2: Chich_25JN (260)
+Seat 3: dedee08 (330)
+*** ANTE/BLINDS ***
+Chich_25JN posts small blind 15
+dedee08 posts big blind 30
+Dealt to P1xel7 [Qc Jd]
+*** PRE-FLOP *** 
+P1xel7 raises 30 to 60
+Chich_25JN calls 45
+dedee08 folds
+*** FLOP *** [3s 7h 9d]
+Chich_25JN bets 200 and is all-in
+P1xel7 folds
+Chich_25JN collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | No rake
+Board: [3s 7h 9d]
+Seat 2: Chich_25JN (small blind) won 350
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #3142139185457004545-6-1702554211 - Holdem no limit (15/30) - 2023/12/14 11:43:31 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (250)
+Seat 2: Chich_25JN (350)
+Seat 3: dedee08 (300)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [4c Ac]
+*** PRE-FLOP *** 
+Chich_25JN folds
+dedee08 calls 15
+P1xel7 raises 220 to 250 and is all-in
+dedee08 folds
+P1xel7 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 1: P1xel7 (big blind) won 280
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #3142139185457004545-7-1702554221 - Holdem no limit (15/30) - 2023/12/14 11:43:41 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (280)
+Seat 2: Chich_25JN (350)
+Seat 3: dedee08 (270)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Chich_25JN posts big blind 30
+Dealt to P1xel7 [Qd 5h]
+*** PRE-FLOP *** 
+dedee08 folds
+P1xel7 folds
+Chich_25JN collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Chich_25JN (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #3142139185457004545-8-1702554229 - Holdem no limit (15/30) - 2023/12/14 11:43:49 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (265)
+Seat 2: Chich_25JN (365)
+Seat 3: dedee08 (270)
+*** ANTE/BLINDS ***
+Chich_25JN posts small blind 15
+dedee08 posts big blind 30
+Dealt to P1xel7 [Jh 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Chich_25JN folds
+dedee08 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: dedee08 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #3142139185457004545-9-1702554234 - Holdem no limit (15/30) - 2023/12/14 11:43:54 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (265)
+Seat 2: Chich_25JN (350)
+Seat 3: dedee08 (285)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [3d Jc]
+*** PRE-FLOP *** 
+Chich_25JN raises 320 to 350 and is all-in
+dedee08 folds
+P1xel7 folds
+Chich_25JN collected 395 from pot
+*** SUMMARY ***
+Total pot 395 | No rake
+Seat 2: Chich_25JN (button) won 395
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #3142139185457004545-10-1702554241 - Holdem no limit (15/30) - 2023/12/14 11:44:01 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (235)
+Seat 2: Chich_25JN (395)
+Seat 3: dedee08 (270)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Chich_25JN posts big blind 30
+Dealt to P1xel7 [Jc 3s]
+*** PRE-FLOP *** 
+dedee08 folds
+P1xel7 folds
+Chich_25JN collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Chich_25JN (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #3142139185457004545-11-1702554247 - Holdem no limit (15/30) - 2023/12/14 11:44:07 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (220)
+Seat 2: Chich_25JN (410)
+Seat 3: dedee08 (270)
+*** ANTE/BLINDS ***
+Chich_25JN posts small blind 15
+dedee08 posts big blind 30
+Dealt to P1xel7 [7d Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Chich_25JN raises 380 to 410 and is all-in
+dedee08 folds
+Chich_25JN collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 2: Chich_25JN (small blind) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 2 - HandId: #3142139185457004545-12-1702554254 - Holdem no limit (15/30) - 2023/12/14 11:44:14 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (220)
+Seat 2: Chich_25JN (440)
+Seat 3: dedee08 (240)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Ks Kc]
+*** PRE-FLOP *** 
+Chich_25JN folds
+dedee08 raises 210 to 240 and is all-in
+P1xel7 calls 190 and is all-in
+*** FLOP *** [3c 2d Ts]
+*** TURN *** [3c 2d Ts][Td]
+*** RIVER *** [3c 2d Ts Td][6s]
+*** SHOW DOWN ***
+P1xel7 shows [Ks Kc] (Two pairs : Kings and Tens)
+dedee08 shows [4h Ac] (One pair : Tens)
+dedee08 collected 20 from side pot 1
+P1xel7 collected 440 from main pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [3c 2d Ts Td 6s]
+Seat 1: P1xel7 (big blind) showed [Ks Kc] and won 440 with Two pairs : Kings and Tens
+Seat 3: dedee08 (small blind) showed [4h Ac] and won 20 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #3142139185457004545-13-1702554267 - Holdem no limit (20/40) - 2023/12/14 11:44:27 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (440)
+Seat 2: Chich_25JN (440)
+Seat 3: dedee08 (20)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Chich_25JN posts big blind 40
+Dealt to P1xel7 [8c 4c]
+*** PRE-FLOP *** 
+dedee08 calls 20 and is all-in
+P1xel7 folds
+*** FLOP *** [8h 7c Ks]
+*** TURN *** [8h 7c Ks][6d]
+*** RIVER *** [8h 7c Ks 6d][Ts]
+*** SHOW DOWN ***
+Chich_25JN shows [5h Js] (High card : King)
+dedee08 shows [Td Tc] (Trips of Tens)
+dedee08 collected 60 from main pot
+Chich_25JN collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [8h 7c Ks 6d Ts]
+Seat 2: Chich_25JN (big blind) showed [5h Js] and won 20 with High card : King
+Seat 3: dedee08 (button) showed [Td Tc] and won 60 with Trips of Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #3142139185457004545-14-1702554279 - Holdem no limit (20/40) - 2023/12/14 11:44:39 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (420)
+Seat 2: Chich_25JN (420)
+Seat 3: dedee08 (60)
+*** ANTE/BLINDS ***
+Chich_25JN posts small blind 20
+dedee08 posts big blind 40
+Dealt to P1xel7 [Jd 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Chich_25JN raises 380 to 420 and is all-in
+dedee08 calls 20 and is all-in
+*** FLOP *** [5s Ts 7s]
+*** TURN *** [5s Ts 7s][2h]
+*** RIVER *** [5s Ts 7s 2h][6s]
+*** SHOW DOWN ***
+Chich_25JN shows [Qh 9d] (High card : Queen)
+dedee08 shows [Ah 3d] (High card : Ace)
+dedee08 collected 120 from main pot
+Chich_25JN collected 360 from side pot 1
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [5s Ts 7s 2h 6s]
+Seat 2: Chich_25JN (small blind) showed [Qh 9d] and won 360 with High card : Queen
+Seat 3: dedee08 (big blind) showed [Ah 3d] and won 120 with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #3142139185457004545-15-1702554291 - Holdem no limit (20/40) - 2023/12/14 11:44:51 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (420)
+Seat 2: Chich_25JN (360)
+Seat 3: dedee08 (120)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Jd 9h]
+*** PRE-FLOP *** 
+Chich_25JN raises 320 to 360 and is all-in
+dedee08 calls 100 and is all-in
+P1xel7 folds
+*** FLOP *** [2d Ah 5d]
+*** TURN *** [2d Ah 5d][4c]
+*** RIVER *** [2d Ah 5d 4c][Js]
+*** SHOW DOWN ***
+Chich_25JN shows [Qs 9s] (High card : Ace)
+dedee08 shows [Ad Kc] (One pair : Aces)
+dedee08 collected 280 from main pot
+Chich_25JN collected 240 from side pot 1
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [2d Ah 5d 4c Js]
+Seat 2: Chich_25JN (button) showed [Qs 9s] and won 240 with High card : Ace
+Seat 3: dedee08 (small blind) showed [Ad Kc] and won 280 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #3142139185457004545-16-1702554303 - Holdem no limit (20/40) - 2023/12/14 11:45:03 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (380)
+Seat 2: Chich_25JN (240)
+Seat 3: dedee08 (280)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Chich_25JN posts big blind 40
+Dealt to P1xel7 [6s Js]
+*** PRE-FLOP *** 
+dedee08 raises 240 to 280 and is all-in
+P1xel7 folds
+Chich_25JN folds
+dedee08 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | No rake
+Seat 3: dedee08 (button) won 340
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 3 - HandId: #3142139185457004545-17-1702554309 - Holdem no limit (20/40) - 2023/12/14 11:45:09 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (360)
+Seat 2: Chich_25JN (200)
+Seat 3: dedee08 (340)
+*** ANTE/BLINDS ***
+Chich_25JN posts small blind 20
+dedee08 posts big blind 40
+Dealt to P1xel7 [Tc 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Chich_25JN calls 20
+dedee08 checks
+*** FLOP *** [5c Kd Jc]
+Chich_25JN checks
+dedee08 checks
+*** TURN *** [5c Kd Jc][9s]
+Chich_25JN bets 40
+dedee08 folds
+Chich_25JN collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [5c Kd Jc 9s]
+Seat 2: Chich_25JN (small blind) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-18-1702554319 - Holdem no limit (30/60) - 2023/12/14 11:45:19 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (360)
+Seat 2: Chich_25JN (240)
+Seat 3: dedee08 (300)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Jh Th]
+*** PRE-FLOP *** 
+Chich_25JN folds
+dedee08 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-19-1702554324 - Holdem no limit (30/60) - 2023/12/14 11:45:24 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (390)
+Seat 2: Chich_25JN (240)
+Seat 3: dedee08 (270)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Chich_25JN posts big blind 60
+Dealt to P1xel7 [2c Js]
+*** PRE-FLOP *** 
+dedee08 folds
+P1xel7 raises 330 to 390 and is all-in
+Chich_25JN folds
+P1xel7 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 1: P1xel7 (small blind) won 450
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-20-1702554333 - Holdem no limit (30/60) - 2023/12/14 11:45:33 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (450)
+Seat 2: Chich_25JN (180)
+Seat 3: dedee08 (270)
+*** ANTE/BLINDS ***
+Chich_25JN posts small blind 30
+dedee08 posts big blind 60
+Dealt to P1xel7 [4s 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Chich_25JN raises 120 to 180 and is all-in
+dedee08 raises 90 to 270 and is all-in
+*** FLOP *** [3c Tc Ac]
+*** TURN *** [3c Tc Ac][5h]
+*** RIVER *** [3c Tc Ac 5h][Kd]
+*** SHOW DOWN ***
+Chich_25JN shows [Qd Ts] (One pair : Tens)
+dedee08 shows [Kh 3s] (Two pairs : Kings and 3)
+dedee08 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [3c Tc Ac 5h Kd]
+Seat 2: Chich_25JN (small blind) showed [Qd Ts] and lost with One pair : Tens
+Seat 3: dedee08 (big blind) showed [Kh 3s] and won 450 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-21-1702554345 - Holdem no limit (30/60) - 2023/12/14 11:45:45 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (450)
+Seat 3: dedee08 (450)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Th Ah]
+*** PRE-FLOP *** 
+dedee08 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-22-1702554348 - Holdem no limit (30/60) - 2023/12/14 11:45:48 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (480)
+Seat 3: dedee08 (420)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+dedee08 posts big blind 60
+Dealt to P1xel7 [6h 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+dedee08 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: dedee08 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-23-1702554353 - Holdem no limit (30/60) - 2023/12/14 11:45:53 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (450)
+Seat 3: dedee08 (450)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Kh 9s]
+*** PRE-FLOP *** 
+dedee08 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-24-1702554357 - Holdem no limit (30/60) - 2023/12/14 11:45:57 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (480)
+Seat 3: dedee08 (420)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+dedee08 posts big blind 60
+Dealt to P1xel7 [Jd 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+dedee08 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: dedee08 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-25-1702554360 - Holdem no limit (30/60) - 2023/12/14 11:46:00 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (450)
+Seat 3: dedee08 (450)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Qs 5h]
+*** PRE-FLOP *** 
+dedee08 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-26-1702554364 - Holdem no limit (30/60) - 2023/12/14 11:46:04 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (480)
+Seat 3: dedee08 (420)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+dedee08 posts big blind 60
+Dealt to P1xel7 [Tc 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+dedee08 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: dedee08 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-27-1702554368 - Holdem no limit (30/60) - 2023/12/14 11:46:08 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (450)
+Seat 3: dedee08 (450)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Ad Jh]
+*** PRE-FLOP *** 
+dedee08 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 4 - HandId: #3142139185457004545-28-1702554372 - Holdem no limit (30/60) - 2023/12/14 11:46:12 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (480)
+Seat 3: dedee08 (420)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+dedee08 posts big blind 60
+Dealt to P1xel7 [Jh Qc]
+*** PRE-FLOP *** 
+P1xel7 raises 420 to 480 and is all-in
+dedee08 calls 360 and is all-in
+*** FLOP *** [Kc 8c Ad]
+*** TURN *** [Kc 8c Ad][6c]
+*** RIVER *** [Kc 8c Ad 6c][8d]
+*** SHOW DOWN ***
+P1xel7 shows [Jh Qc] (One pair : 8)
+dedee08 shows [Ac 7c] (Flush Ace high)
+dedee08 collected 840 from main pot
+P1xel7 collected 60 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Kc 8c Ad 6c 8d]
+Seat 1: P1xel7 (small blind) (button) showed [Jh Qc] and won 60 with One pair : 8
+Seat 3: dedee08 (big blind) showed [Ac 7c] and won 840 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 1.86€ + 0.14€ level: 5 - HandId: #3142139185457004545-29-1702554387 - Holdem no limit (40/80) - 2023/12/14 11:46:27 UTC
+Table: 'Expresso Nitro(731586289)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (60)
+Seat 3: dedee08 (840)
+*** ANTE/BLINDS ***
+dedee08 posts small blind 40
+P1xel7 posts big blind 60 and is all-in
+Dealt to P1xel7 [Ac 5s]
+*** PRE-FLOP *** 
+dedee08 raises 780 to 840 and is all-in
+*** FLOP *** [Qd Tc 9c]
+*** TURN *** [Qd Tc 9c][8c]
+*** RIVER *** [Qd Tc 9c 8c][Kd]
+*** SHOW DOWN ***
+P1xel7 shows [Ac 5s] (High card : Ace)
+dedee08 shows [Qc Jc] (Straight flush Queen)
+dedee08 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Qd Tc 9c 8c Kd]
+Seat 1: P1xel7 (big blind) showed [Ac 5s] and lost with High card : Ace
+Seat 3: dedee08 (small blind) (button) showed [Qc Jc] and won 900 with Straight flush Queen
+
+

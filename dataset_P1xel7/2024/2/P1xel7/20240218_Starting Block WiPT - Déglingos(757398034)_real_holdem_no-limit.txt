@@ -1,0 +1,35 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3252999786084696065-1-1708283010 - Holdem no limit (10/20) - 2024/02/18 19:03:30 UTC
+Table: 'Starting Block WiPT - Déglingos(757398034)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Jujuleman (500)
+Seat 2: clempokerbe (500)
+Seat 3: mAAmie (500)
+Seat 4: Dimitri85jr (500)
+Seat 5: SATLANTIDE (500)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+clempokerbe posts small blind 10
+mAAmie posts big blind 20
+Dealt to P1xel7 [Ah Jh]
+*** PRE-FLOP *** 
+Dimitri85jr raises 480 to 500 and is all-in
+SATLANTIDE folds
+P1xel7 calls 500 and is all-in
+Jujuleman folds
+clempokerbe folds
+mAAmie calls 480 and is all-in
+*** FLOP *** [4c 5c Qs]
+*** TURN *** [4c 5c Qs][Ks]
+*** RIVER *** [4c 5c Qs Ks][8c]
+*** SHOW DOWN ***
+mAAmie shows [3s 3h] (One pair : 3)
+P1xel7 shows [Ah Jh] (High card : Ace)
+Dimitri85jr shows [8h 9c] (One pair : 8)
+Dimitri85jr collected 1510 from pot
+*** SUMMARY ***
+Total pot 1510 | No rake
+Board: [4c 5c Qs Ks 8c]
+Seat 3: mAAmie (big blind) showed [3s 3h] and lost with One pair : 3
+Seat 4: Dimitri85jr showed [8h 9c] and won 1510 with One pair : 8
+Seat 6: P1xel7 showed [Ah Jh] and lost with High card : Ace
+
+

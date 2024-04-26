@@ -1,0 +1,247 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3211159266954051585-1-1706123107 - Holdem no limit (10/20) - 2024/01/24 19:05:07 UTC
+Table: 'Starting Block WiPT - Déglingos(747656279)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Charlie77310 (500)
+Seat 2: Gouli007 (500)
+Seat 3: TNT9516 (500)
+Seat 4: P1xel7 (500)
+Seat 5: Dimi-31 (500)
+Seat 6: VGO35 (500)
+*** ANTE/BLINDS ***
+Dimi-31 posts small blind 10
+VGO35 posts big blind 20
+Dealt to P1xel7 [Qh 4h]
+*** PRE-FLOP *** 
+Charlie77310 raises 480 to 500 and is all-in
+Gouli007 calls 500 and is all-in
+TNT9516 calls 500 and is all-in
+P1xel7 folds
+Dimi-31 folds
+VGO35 folds
+*** FLOP *** [4d 7c Th]
+*** TURN *** [4d 7c Th][9s]
+*** RIVER *** [4d 7c Th 9s][3s]
+*** SHOW DOWN ***
+Gouli007 shows [Ts Qs] (One pair : Tens)
+TNT9516 shows [Ad 8h] (High card : Ace)
+Charlie77310 shows [7s 7d] (Trips of 7)
+Charlie77310 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [4d 7c Th 9s 3s]
+Seat 1: Charlie77310 showed [7s 7d] and won 1530 with Trips of 7
+Seat 2: Gouli007 showed [Ts Qs] and lost with One pair : Tens
+Seat 3: TNT9516 showed [Ad 8h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3211159266954051585-2-1706123128 - Holdem no limit (10/20) - 2024/01/24 19:05:28 UTC
+Table: 'Starting Block WiPT - Déglingos(747656279)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Charlie77310 (1530)
+Seat 4: P1xel7 (500)
+Seat 5: Dimi-31 (490)
+Seat 6: VGO35 (480)
+*** ANTE/BLINDS ***
+VGO35 posts small blind 10
+Charlie77310 posts big blind 20
+Dealt to P1xel7 [Qc 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Dimi-31 folds
+VGO35 raises 460 to 480 and is all-in
+Charlie77310 folds
+VGO35 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 6: VGO35 (small blind) won 500
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3211159266954051585-3-1706123150 - Holdem no limit (10/20) - 2024/01/24 19:05:50 UTC
+Table: 'Starting Block WiPT - Déglingos(747656279)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Charlie77310 (1510)
+Seat 4: P1xel7 (500)
+Seat 5: Dimi-31 (490)
+Seat 6: VGO35 (500)
+*** ANTE/BLINDS ***
+Charlie77310 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [6h 9h]
+*** PRE-FLOP *** 
+Dimi-31 folds
+VGO35 folds
+Charlie77310 raises 20 to 40
+P1xel7 folds
+Charlie77310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Charlie77310 (small blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3211159266954051585-4-1706123179 - Holdem no limit (10/20) - 2024/01/24 19:06:19 UTC
+Table: 'Starting Block WiPT - Déglingos(747656279)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Charlie77310 (1530)
+Seat 4: P1xel7 (480)
+Seat 5: Dimi-31 (490)
+Seat 6: VGO35 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Dimi-31 posts big blind 20
+Dealt to P1xel7 [3h 5c]
+*** PRE-FLOP *** 
+VGO35 folds
+Charlie77310 calls 20
+P1xel7 folds
+Dimi-31 checks
+*** FLOP *** [Th Td 5d]
+Dimi-31 checks
+Charlie77310 bets 50
+Dimi-31 folds
+Charlie77310 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Th Td 5d]
+Seat 1: Charlie77310 (button) won 100
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3211159266954051585-5-1706123244 - Holdem no limit (15/30) - 2024/01/24 19:07:24 UTC
+Table: 'Starting Block WiPT - Déglingos(747656279)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Charlie77310 (1560)
+Seat 4: P1xel7 (470)
+Seat 5: Dimi-31 (470)
+Seat 6: VGO35 (500)
+*** ANTE/BLINDS ***
+Dimi-31 posts small blind 15
+VGO35 posts big blind 30
+Dealt to P1xel7 [8h 4s]
+*** PRE-FLOP *** 
+Charlie77310 raises 1530 to 1560 and is all-in
+P1xel7 folds
+Dimi-31 folds
+VGO35 calls 470 and is all-in
+*** FLOP *** [Kc 2s Tc]
+*** TURN *** [Kc 2s Tc][6h]
+*** RIVER *** [Kc 2s Tc 6h][9c]
+*** SHOW DOWN ***
+Charlie77310 shows [3s 3h] (One pair : 3)
+VGO35 shows [6d 6c] (Trips of 6)
+VGO35 collected 1015 from main pot
+Charlie77310 collected 1060 from side pot 1
+*** SUMMARY ***
+Total pot 2075 | No rake
+Board: [Kc 2s Tc 6h 9c]
+Seat 1: Charlie77310 showed [3s 3h] and won 1060 with One pair : 3
+Seat 6: VGO35 (big blind) showed [6d 6c] and won 1015 with Trips of 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3211159266954051585-6-1706123282 - Holdem no limit (15/30) - 2024/01/24 19:08:02 UTC
+Table: 'Starting Block WiPT - Déglingos(747656279)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Charlie77310 (1060)
+Seat 4: P1xel7 (470)
+Seat 5: Dimi-31 (455)
+Seat 6: VGO35 (1015)
+*** ANTE/BLINDS ***
+VGO35 posts small blind 15
+Charlie77310 posts big blind 30
+Dealt to P1xel7 [9h 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Dimi-31 raises 60 to 90
+VGO35 folds
+Charlie77310 calls 60
+*** FLOP *** [5s 7c Jh]
+Charlie77310 bets 30
+Dimi-31 raises 70 to 100
+Charlie77310 calls 70
+*** TURN *** [5s 7c Jh][Kc]
+Charlie77310 bets 30
+Dimi-31 raises 91 to 121
+Charlie77310 calls 91
+*** RIVER *** [5s 7c Jh Kc][4s]
+Charlie77310 bets 637
+Dimi-31 calls 144 and is all-in
+*** SHOW DOWN ***
+Dimi-31 shows [Kd Kh] (Trips of Kings)
+Charlie77310 shows [6c 8c] (Straight 8 high)
+Charlie77310 collected 1418 from pot
+*** SUMMARY ***
+Total pot 1418 | No rake
+Board: [5s 7c Jh Kc 4s]
+Seat 1: Charlie77310 (big blind) showed [6c 8c] and won 1418 with Straight 8 high
+Seat 5: Dimi-31 (button) showed [Kd Kh] and lost with Trips of Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3211159266954051585-7-1706123341 - Holdem no limit (20/40) - 2024/01/24 19:09:01 UTC
+Table: 'Starting Block WiPT - Déglingos(747656279)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Charlie77310 (1530)
+Seat 4: P1xel7 (470)
+Seat 6: VGO35 (1000)
+*** ANTE/BLINDS ***
+Charlie77310 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [2c 7d]
+*** PRE-FLOP *** 
+VGO35 raises 60 to 100
+Charlie77310 raises 1430 to 1530 and is all-in
+P1xel7 folds
+VGO35 folds
+Charlie77310 collected 1670 from pot
+*** SUMMARY ***
+Total pot 1670 | No rake
+Seat 1: Charlie77310 (small blind) won 1670
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3211159266954051585-8-1706123375 - Holdem no limit (30/60) - 2024/01/24 19:09:35 UTC
+Table: 'Starting Block WiPT - Déglingos(747656279)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Charlie77310 (1670)
+Seat 4: P1xel7 (430)
+Seat 6: VGO35 (900)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+VGO35 posts big blind 60
+Dealt to P1xel7 [3h Kd]
+*** PRE-FLOP *** 
+Charlie77310 calls 60
+P1xel7 folds
+VGO35 checks
+*** FLOP *** [Jc Td Qs]
+VGO35 checks
+Charlie77310 bets 60
+VGO35 calls 60
+*** TURN *** [Jc Td Qs][8h]
+VGO35 checks
+Charlie77310 checks
+*** RIVER *** [Jc Td Qs 8h][8c]
+VGO35 bets 270
+Charlie77310 folds
+VGO35 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [Jc Td Qs 8h 8c]
+Seat 6: VGO35 (big blind) won 540
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3211159266954051585-9-1706123409 - Holdem no limit (30/60) - 2024/01/24 19:10:09 UTC
+Table: 'Starting Block WiPT - Déglingos(747656279)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Charlie77310 (1550)
+Seat 4: P1xel7 (400)
+Seat 6: VGO35 (1050)
+*** ANTE/BLINDS ***
+VGO35 posts small blind 30
+Charlie77310 posts big blind 60
+Dealt to P1xel7 [Ah 4h]
+*** PRE-FLOP *** 
+P1xel7 raises 340 to 400 and is all-in
+VGO35 folds
+Charlie77310 calls 340
+*** FLOP *** [2c 8c Ts]
+*** TURN *** [2c 8c Ts][Qh]
+*** RIVER *** [2c 8c Ts Qh][8h]
+*** SHOW DOWN ***
+P1xel7 shows [Ah 4h] (One pair : 8)
+Charlie77310 shows [9d Tc] (Two pairs : Tens and 8)
+Charlie77310 collected 830 from pot
+*** SUMMARY ***
+Total pot 830 | No rake
+Board: [2c 8c Ts Qh 8h]
+Seat 1: Charlie77310 (big blind) showed [9d Tc] and won 830 with Two pairs : Tens and 8
+Seat 4: P1xel7 (button) showed [Ah 4h] and lost with One pair : 8
+
+

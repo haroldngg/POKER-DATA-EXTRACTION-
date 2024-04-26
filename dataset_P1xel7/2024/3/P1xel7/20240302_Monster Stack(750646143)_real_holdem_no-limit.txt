@@ -1,0 +1,1801 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: -432569215 - HandId: #3224000635053539347-3-1709407760 - Holdem no limit (160/700/1400) - 2024/03/02 19:29:20 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #6 is the button
+Seat 1: bigpat54 (181009)
+Seat 2: P1xel7 (100000)
+Seat 3: Thin Value (98980)
+Seat 4: EV-MAX (117321)
+Seat 5: ultra_modo (31401)
+Seat 6: Labiquettee (532918)
+*** ANTE/BLINDS ***
+bigpat54 posts ante 160
+P1xel7 posts ante 160
+Thin Value posts ante 160
+EV-MAX posts ante 160
+ultra_modo posts ante 160
+Labiquettee posts ante 160
+bigpat54 posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [8c 5s]
+*** PRE-FLOP *** 
+Thin Value folds
+EV-MAX folds
+ultra_modo folds
+Labiquettee raises 1708 to 3108
+bigpat54 calls 2408
+P1xel7 folds
+*** FLOP *** [9c Js 4c]
+bigpat54 checks
+Labiquettee bets 5574
+bigpat54 folds
+Labiquettee collected 14150 from pot
+*** SUMMARY ***
+Total pot 14150 | No rake
+Board: [9c Js 4c]
+Seat 6: Labiquettee (button) won 14150
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: -432569215 - HandId: #3224000635053539347-4-1709407783 - Holdem no limit (160/700/1400) - 2024/03/02 19:29:43 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #1 is the button
+Seat 1: bigpat54 (177741)
+Seat 2: P1xel7 (98440)
+Seat 3: Thin Value (98820)
+Seat 4: EV-MAX (117161)
+Seat 5: ultra_modo (31241)
+Seat 6: Labiquettee (538226)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+Thin Value posts ante 160
+bigpat54 posts ante 160
+EV-MAX posts ante 160
+ultra_modo posts ante 160
+Labiquettee posts ante 160
+P1xel7 posts small blind 700
+Thin Value posts big blind 1400
+Dealt to P1xel7 [5h 6h]
+*** PRE-FLOP *** 
+EV-MAX folds
+ultra_modo folds
+Labiquettee folds
+bigpat54 raises 1400 to 2800
+P1xel7 calls 2100
+Thin Value folds
+*** FLOP *** [Qd Tc Qh]
+P1xel7 checks
+bigpat54 checks
+*** TURN *** [Qd Tc Qh][Jh]
+P1xel7 checks
+bigpat54 checks
+*** RIVER *** [Qd Tc Qh Jh][6s]
+P1xel7 bets 2100
+bigpat54 calls 2100
+*** SHOW DOWN ***
+bigpat54 shows [3s 3d] (Two pairs : Queens and 3)
+P1xel7 shows [5h 6h] (Two pairs : Queens and 6)
+P1xel7 collected 12160 from pot
+*** SUMMARY ***
+Total pot 12160 | No rake
+Board: [Qd Tc Qh Jh 6s]
+Seat 1: bigpat54 (button) showed [3s 3d] and lost with Two pairs : Queens and 3
+Seat 2: P1xel7 (small blind) showed [5h 6h] and won 12160 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: -432569215 - HandId: #3224000635053539347-5-1709407857 - Holdem no limit (160/700/1400) - 2024/03/02 19:30:57 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #2 is the button
+Seat 1: bigpat54 (172681)
+Seat 2: P1xel7 (105540)
+Seat 3: Thin Value (97260)
+Seat 4: EV-MAX (117001)
+Seat 5: ultra_modo (31081)
+Seat 6: Labiquettee (538066)
+*** ANTE/BLINDS ***
+Thin Value posts ante 160
+EV-MAX posts ante 160
+bigpat54 posts ante 160
+P1xel7 posts ante 160
+ultra_modo posts ante 160
+Labiquettee posts ante 160
+Thin Value posts small blind 700
+EV-MAX posts big blind 1400
+Dealt to P1xel7 [4s 3h]
+*** PRE-FLOP *** 
+ultra_modo folds
+Labiquettee folds
+bigpat54 raises 1400 to 2800
+P1xel7 folds
+Thin Value folds
+EV-MAX calls 1400
+*** FLOP *** [5s Js 4h]
+EV-MAX checks
+bigpat54 checks
+*** TURN *** [5s Js 4h][Th]
+EV-MAX checks
+bigpat54 bets 2396
+EV-MAX folds
+bigpat54 collected 9656 from pot
+*** SUMMARY ***
+Total pot 9656 | No rake
+Board: [5s Js 4h Th]
+Seat 1: bigpat54 won 9656
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3224000635053539347-6-1709407932 - Holdem no limit (200/800/1600) - 2024/03/02 19:32:12 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #3 is the button
+Seat 1: bigpat54 (176981)
+Seat 2: P1xel7 (105380)
+Seat 3: Thin Value (96400)
+Seat 4: EV-MAX (114041)
+Seat 5: ultra_modo (30921)
+Seat 6: Labiquettee (537906)
+*** ANTE/BLINDS ***
+EV-MAX posts ante 200
+ultra_modo posts ante 200
+bigpat54 posts ante 200
+P1xel7 posts ante 200
+Thin Value posts ante 200
+Labiquettee posts ante 200
+EV-MAX posts small blind 800
+ultra_modo posts big blind 1600
+Dealt to P1xel7 [Ks Jh]
+*** PRE-FLOP *** 
+Labiquettee raises 2400 to 4000
+bigpat54 folds
+P1xel7 calls 4000
+Thin Value folds
+EV-MAX folds
+ultra_modo calls 2400
+*** FLOP *** [As Jc 5h]
+ultra_modo bets 9100
+Labiquettee folds
+P1xel7 calls 9100
+*** TURN *** [As Jc 5h][9s]
+ultra_modo bets 16100
+P1xel7 folds
+ultra_modo collected 48300 from pot
+*** SUMMARY ***
+Total pot 48300 | No rake
+Board: [As Jc 5h 9s]
+Seat 5: ultra_modo (big blind) won 48300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3224000635053539347-7-1709408003 - Holdem no limit (200/800/1600) - 2024/03/02 19:33:23 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #4 is the button
+Seat 1: bigpat54 (176781)
+Seat 2: P1xel7 (92080)
+Seat 3: Thin Value (96200)
+Seat 4: EV-MAX (113041)
+Seat 5: ultra_modo (49821)
+Seat 6: Labiquettee (533706)
+*** ANTE/BLINDS ***
+ultra_modo posts ante 200
+Labiquettee posts ante 200
+bigpat54 posts ante 200
+P1xel7 posts ante 200
+Thin Value posts ante 200
+EV-MAX posts ante 200
+ultra_modo posts small blind 800
+Labiquettee posts big blind 1600
+Dealt to P1xel7 [Tc 2c]
+*** PRE-FLOP *** 
+bigpat54 calls 1600
+P1xel7 folds
+Thin Value folds
+EV-MAX raises 4800 to 6400
+ultra_modo folds
+Labiquettee folds
+bigpat54 calls 4800
+*** FLOP *** [5d Jh Kh]
+bigpat54 checks
+EV-MAX bets 4100
+bigpat54 folds
+EV-MAX collected 20500 from pot
+*** SUMMARY ***
+Total pot 20500 | No rake
+Board: [5d Jh Kh]
+Seat 4: EV-MAX (button) won 20500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3224000635053539347-8-1709408059 - Holdem no limit (200/800/1600) - 2024/03/02 19:34:19 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #5 is the button
+Seat 1: bigpat54 (170181)
+Seat 2: P1xel7 (91880)
+Seat 3: Thin Value (96000)
+Seat 4: EV-MAX (122841)
+Seat 5: ultra_modo (48821)
+Seat 6: Labiquettee (531906)
+*** ANTE/BLINDS ***
+Labiquettee posts ante 200
+bigpat54 posts ante 200
+P1xel7 posts ante 200
+Thin Value posts ante 200
+EV-MAX posts ante 200
+ultra_modo posts ante 200
+Labiquettee posts small blind 800
+bigpat54 posts big blind 1600
+Dealt to P1xel7 [9c As]
+*** PRE-FLOP *** 
+P1xel7 folds
+Thin Value folds
+EV-MAX folds
+ultra_modo folds
+Labiquettee folds
+bigpat54 collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 1: bigpat54 (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3224000635053539347-9-1709408072 - Holdem no limit (200/800/1600) - 2024/03/02 19:34:32 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #6 is the button
+Seat 1: bigpat54 (171981)
+Seat 2: P1xel7 (91680)
+Seat 3: Thin Value (95800)
+Seat 4: EV-MAX (122641)
+Seat 5: ultra_modo (48621)
+Seat 6: Labiquettee (530906)
+*** ANTE/BLINDS ***
+bigpat54 posts ante 200
+P1xel7 posts ante 200
+Thin Value posts ante 200
+EV-MAX posts ante 200
+ultra_modo posts ante 200
+Labiquettee posts ante 200
+bigpat54 posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [8h 3h]
+*** PRE-FLOP *** 
+Thin Value folds
+EV-MAX folds
+ultra_modo raises 1600 to 3200
+Labiquettee folds
+bigpat54 raises 8320 to 11520
+P1xel7 folds
+ultra_modo calls 8320
+*** FLOP *** [8c Js Th]
+bigpat54 checks
+ultra_modo bets 9044
+bigpat54 calls 9044
+*** TURN *** [8c Js Th][4h]
+bigpat54 checks
+ultra_modo checks
+*** RIVER *** [8c Js Th 4h][Jh]
+bigpat54 bets 21964
+ultra_modo raises 5893 to 27857 and is all-in
+bigpat54 calls 5893
+*** SHOW DOWN ***
+bigpat54 shows [Ac Kc] (One pair : Jacks)
+ultra_modo shows [Kh 7h] (Flush King high)
+ultra_modo collected 99642 from pot
+*** SUMMARY ***
+Total pot 99642 | No rake
+Board: [8c Js Th 4h Jh]
+Seat 1: bigpat54 (small blind) showed [Ac Kc] and lost with One pair : Jacks
+Seat 5: ultra_modo showed [Kh 7h] and won 99642 with Flush King high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3224000635053539347-10-1709408130 - Holdem no limit (200/800/1600) - 2024/03/02 19:35:30 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #1 is the button
+Seat 1: bigpat54 (123360)
+Seat 2: P1xel7 (89880)
+Seat 3: Thin Value (95600)
+Seat 4: EV-MAX (122441)
+Seat 5: ultra_modo (99642)
+Seat 6: Labiquettee (530706)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Thin Value posts ante 200
+bigpat54 posts ante 200
+EV-MAX posts ante 200
+ultra_modo posts ante 200
+Labiquettee posts ante 200
+P1xel7 posts small blind 800
+Thin Value posts big blind 1600
+Dealt to P1xel7 [Tc 7s]
+*** PRE-FLOP *** 
+EV-MAX folds
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+Thin Value collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 3: Thin Value (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3224000635053539347-11-1709408143 - Holdem no limit (200/800/1600) - 2024/03/02 19:35:43 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #2 is the button
+Seat 1: bigpat54 (123160)
+Seat 2: P1xel7 (88880)
+Seat 3: Thin Value (97400)
+Seat 4: EV-MAX (122241)
+Seat 5: ultra_modo (99442)
+Seat 6: Labiquettee (530506)
+*** ANTE/BLINDS ***
+Thin Value posts ante 200
+EV-MAX posts ante 200
+bigpat54 posts ante 200
+P1xel7 posts ante 200
+ultra_modo posts ante 200
+Labiquettee posts ante 200
+Thin Value posts small blind 800
+EV-MAX posts big blind 1600
+Dealt to P1xel7 [6d 6h]
+*** PRE-FLOP *** 
+ultra_modo folds
+Labiquettee folds
+bigpat54 raises 1600 to 3200
+P1xel7 raises 4800 to 8000
+Thin Value folds
+EV-MAX folds
+bigpat54 calls 4800
+*** FLOP *** [Tc As 7c]
+bigpat54 bets 6468
+P1xel7 folds
+bigpat54 collected 26068 from pot
+*** SUMMARY ***
+Total pot 26068 | No rake
+Board: [Tc As 7c]
+Seat 1: bigpat54 won 26068
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3224000635053539347-12-1709408229 - Holdem no limit (200/800/1600) - 2024/03/02 19:37:09 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #3 is the button
+Seat 1: bigpat54 (134560)
+Seat 2: P1xel7 (80680)
+Seat 3: Thin Value (96400)
+Seat 4: EV-MAX (120441)
+Seat 5: ultra_modo (99242)
+Seat 6: Labiquettee (530306)
+*** ANTE/BLINDS ***
+EV-MAX posts ante 200
+ultra_modo posts ante 200
+bigpat54 posts ante 200
+P1xel7 posts ante 200
+Thin Value posts ante 200
+Labiquettee posts ante 200
+EV-MAX posts small blind 800
+ultra_modo posts big blind 1600
+Dealt to P1xel7 [9s 4s]
+*** PRE-FLOP *** 
+Labiquettee folds
+bigpat54 raises 1600 to 3200
+P1xel7 folds
+Thin Value folds
+EV-MAX folds
+ultra_modo raises 8400 to 11600
+bigpat54 calls 8400
+*** FLOP *** [9d Ks Jh]
+ultra_modo bets 12600
+bigpat54 raises 50400 to 63000
+ultra_modo raises 24442 to 87442 and is all-in
+bigpat54 calls 24442
+*** TURN *** [9d Ks Jh][Kd]
+*** RIVER *** [9d Ks Jh Kd][Jc]
+*** SHOW DOWN ***
+bigpat54 shows [Jd Th] (Full of Jacks and Kings)
+ultra_modo shows [As Kc] (Full of Kings and Jacks)
+ultra_modo collected 200084 from pot
+*** SUMMARY ***
+Total pot 200084 | No rake
+Board: [9d Ks Jh Kd Jc]
+Seat 1: bigpat54 showed [Jd Th] and lost with Full of Jacks and Kings
+Seat 5: ultra_modo (big blind) showed [As Kc] and won 200084 with Full of Kings and Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3224000635053539347-13-1709408307 - Holdem no limit (200/800/1600) - 2024/03/02 19:38:27 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #4 is the button
+Seat 1: bigpat54 (35318)
+Seat 2: P1xel7 (80480)
+Seat 3: Thin Value (96200)
+Seat 4: EV-MAX (119441)
+Seat 5: ultra_modo (200084)
+Seat 6: Labiquettee (530106)
+*** ANTE/BLINDS ***
+ultra_modo posts ante 200
+Labiquettee posts ante 200
+bigpat54 posts ante 200
+P1xel7 posts ante 200
+Thin Value posts ante 200
+EV-MAX posts ante 200
+ultra_modo posts small blind 800
+Labiquettee posts big blind 1600
+Dealt to P1xel7 [4d Ks]
+*** PRE-FLOP *** 
+bigpat54 folds
+P1xel7 folds
+Thin Value folds
+EV-MAX folds
+ultra_modo folds
+Labiquettee collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 6: Labiquettee (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3224000635053539347-14-1709408347 - Holdem no limit (200/800/1600) - 2024/03/02 19:39:07 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #5 is the button
+Seat 1: bigpat54 (35118)
+Seat 2: P1xel7 (80280)
+Seat 3: Thin Value (96000)
+Seat 4: EV-MAX (119241)
+Seat 5: ultra_modo (199084)
+Seat 6: Labiquettee (531906)
+*** ANTE/BLINDS ***
+Labiquettee posts ante 200
+bigpat54 posts ante 200
+P1xel7 posts ante 200
+Thin Value posts ante 200
+EV-MAX posts ante 200
+ultra_modo posts ante 200
+Labiquettee posts small blind 800
+bigpat54 posts big blind 1600
+Dealt to P1xel7 [4s 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Thin Value raises 1760 to 3360
+EV-MAX folds
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+Thin Value collected 6960 from pot
+*** SUMMARY ***
+Total pot 6960 | No rake
+Seat 3: Thin Value won 6960
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3224000635053539347-15-1709408365 - Holdem no limit (200/800/1600) - 2024/03/02 19:39:25 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #6 is the button
+Seat 1: bigpat54 (33318)
+Seat 2: P1xel7 (80080)
+Seat 3: Thin Value (99400)
+Seat 4: EV-MAX (119041)
+Seat 5: ultra_modo (198884)
+Seat 6: Labiquettee (530906)
+*** ANTE/BLINDS ***
+bigpat54 posts ante 200
+P1xel7 posts ante 200
+Thin Value posts ante 200
+EV-MAX posts ante 200
+ultra_modo posts ante 200
+Labiquettee posts ante 200
+bigpat54 posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [8c 7s]
+*** PRE-FLOP *** 
+Thin Value folds
+EV-MAX raises 2400 to 4000
+ultra_modo calls 4000
+Labiquettee folds
+bigpat54 folds
+P1xel7 calls 2400
+*** FLOP *** [6c 5h 7d]
+P1xel7 checks
+EV-MAX checks
+ultra_modo checks
+*** TURN *** [6c 5h 7d][As]
+P1xel7 checks
+EV-MAX bets 3500
+ultra_modo folds
+P1xel7 calls 3500
+*** RIVER *** [6c 5h 7d As][Qd]
+P1xel7 checks
+EV-MAX checks
+*** SHOW DOWN ***
+EV-MAX shows [Kh Jd] (High card : Ace)
+P1xel7 shows [8c 7s] (One pair : 7)
+P1xel7 collected 21000 from pot
+*** SUMMARY ***
+Total pot 21000 | No rake
+Board: [6c 5h 7d As Qd]
+Seat 2: P1xel7 (big blind) showed [8c 7s] and won 21000 with One pair : 7
+Seat 4: EV-MAX showed [Kh Jd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-16-1709408436 - Holdem no limit (250/1000/2000) - 2024/03/02 19:40:36 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #1 is the button
+Seat 1: bigpat54 (32318)
+Seat 2: P1xel7 (93380)
+Seat 3: Thin Value (99200)
+Seat 4: EV-MAX (111341)
+Seat 5: ultra_modo (194684)
+Seat 6: Labiquettee (530706)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+Thin Value posts ante 250
+bigpat54 posts ante 250
+EV-MAX posts ante 250
+ultra_modo posts ante 250
+Labiquettee posts ante 250
+P1xel7 posts small blind 1000
+Thin Value posts big blind 2000
+Dealt to P1xel7 [Ts 7h]
+*** PRE-FLOP *** 
+EV-MAX raises 2000 to 4000
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+Thin Value folds
+EV-MAX collected 8500 from pot
+*** SUMMARY ***
+Total pot 8500 | No rake
+Seat 4: EV-MAX won 8500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-17-1709408451 - Holdem no limit (250/1000/2000) - 2024/03/02 19:40:51 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #2 is the button
+Seat 1: bigpat54 (32068)
+Seat 2: P1xel7 (92130)
+Seat 3: Thin Value (96950)
+Seat 4: EV-MAX (115591)
+Seat 5: ultra_modo (194434)
+Seat 6: Labiquettee (530456)
+*** ANTE/BLINDS ***
+Thin Value posts ante 250
+EV-MAX posts ante 250
+bigpat54 posts ante 250
+P1xel7 posts ante 250
+ultra_modo posts ante 250
+Labiquettee posts ante 250
+Thin Value posts small blind 1000
+EV-MAX posts big blind 2000
+Dealt to P1xel7 [4d Jc]
+*** PRE-FLOP *** 
+ultra_modo raises 2000 to 4000
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+Thin Value folds
+EV-MAX calls 2000
+*** FLOP *** [9h 2c 7c]
+EV-MAX checks
+ultra_modo checks
+*** TURN *** [9h 2c 7c][Js]
+EV-MAX checks
+ultra_modo checks
+*** RIVER *** [9h 2c 7c Js][Td]
+EV-MAX checks
+ultra_modo checks
+*** SHOW DOWN ***
+EV-MAX shows [6s Qs] (High card : Queen)
+ultra_modo shows [Kh 6h] (High card : King)
+ultra_modo collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | No rake
+Board: [9h 2c 7c Js Td]
+Seat 4: EV-MAX (big blind) showed [6s Qs] and lost with High card : Queen
+Seat 5: ultra_modo showed [Kh 6h] and won 10500 with High card : King
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-18-1709408501 - Holdem no limit (250/1000/2000) - 2024/03/02 19:41:41 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #3 is the button
+Seat 1: bigpat54 (31818)
+Seat 2: P1xel7 (91880)
+Seat 3: Thin Value (95700)
+Seat 4: EV-MAX (111341)
+Seat 5: ultra_modo (200684)
+Seat 6: Labiquettee (530206)
+*** ANTE/BLINDS ***
+EV-MAX posts ante 250
+ultra_modo posts ante 250
+bigpat54 posts ante 250
+P1xel7 posts ante 250
+Thin Value posts ante 250
+Labiquettee posts ante 250
+EV-MAX posts small blind 1000
+ultra_modo posts big blind 2000
+Dealt to P1xel7 [2s As]
+*** PRE-FLOP *** 
+Labiquettee folds
+bigpat54 folds
+P1xel7 raises 3000 to 5000
+Thin Value folds
+EV-MAX folds
+ultra_modo calls 3000
+*** FLOP *** [9h 6c Kd]
+ultra_modo checks
+P1xel7 bets 7000
+ultra_modo folds
+P1xel7 collected 19500 from pot
+*** SUMMARY ***
+Total pot 19500 | No rake
+Board: [9h 6c Kd]
+Seat 2: P1xel7 won 19500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-19-1709408568 - Holdem no limit (250/1000/2000) - 2024/03/02 19:42:48 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #4 is the button
+Seat 1: bigpat54 (31568)
+Seat 2: P1xel7 (99130)
+Seat 3: Thin Value (95450)
+Seat 4: EV-MAX (110091)
+Seat 5: ultra_modo (195434)
+Seat 6: Labiquettee (529956)
+*** ANTE/BLINDS ***
+ultra_modo posts ante 250
+Labiquettee posts ante 250
+bigpat54 posts ante 250
+P1xel7 posts ante 250
+Thin Value posts ante 250
+EV-MAX posts ante 250
+ultra_modo posts small blind 1000
+Labiquettee posts big blind 2000
+Dealt to P1xel7 [Tc Td]
+*** PRE-FLOP *** 
+bigpat54 folds
+P1xel7 raises 5000 to 7000
+Thin Value folds
+EV-MAX folds
+ultra_modo folds
+Labiquettee calls 5000
+*** FLOP *** [Jc 5h 7s]
+Labiquettee checks
+P1xel7 bets 5775
+Labiquettee folds
+P1xel7 collected 22275 from pot
+*** SUMMARY ***
+Total pot 22275 | No rake
+Board: [Jc 5h 7s]
+Seat 2: P1xel7 won 22275
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-20-1709408613 - Holdem no limit (250/1000/2000) - 2024/03/02 19:43:33 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #5 is the button
+Seat 1: bigpat54 (31318)
+Seat 2: P1xel7 (108380)
+Seat 3: Thin Value (95200)
+Seat 4: EV-MAX (109841)
+Seat 5: ultra_modo (194184)
+Seat 6: Labiquettee (522706)
+*** ANTE/BLINDS ***
+Labiquettee posts ante 250
+bigpat54 posts ante 250
+P1xel7 posts ante 250
+Thin Value posts ante 250
+EV-MAX posts ante 250
+ultra_modo posts ante 250
+Labiquettee posts small blind 1000
+bigpat54 posts big blind 2000
+Dealt to P1xel7 [Kd 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Thin Value folds
+EV-MAX folds
+ultra_modo folds
+Labiquettee raises 2440 to 4440
+bigpat54 folds
+Labiquettee collected 7940 from pot
+*** SUMMARY ***
+Total pot 7940 | No rake
+Seat 6: Labiquettee (small blind) won 7940
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-21-1709408646 - Holdem no limit (250/1000/2000) - 2024/03/02 19:44:06 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #6 is the button
+Seat 1: bigpat54 (29068)
+Seat 2: P1xel7 (108130)
+Seat 3: Thin Value (94950)
+Seat 4: EV-MAX (109591)
+Seat 5: ultra_modo (193934)
+Seat 6: Labiquettee (525956)
+*** ANTE/BLINDS ***
+bigpat54 posts ante 250
+P1xel7 posts ante 250
+Thin Value posts ante 250
+EV-MAX posts ante 250
+ultra_modo posts ante 250
+Labiquettee posts ante 250
+bigpat54 posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [7s Ts]
+*** PRE-FLOP *** 
+Thin Value folds
+EV-MAX folds
+ultra_modo raises 2000 to 4000
+Labiquettee folds
+bigpat54 folds
+P1xel7 calls 2000
+*** FLOP *** [7d 4h 2d]
+P1xel7 checks
+ultra_modo bets 2625
+P1xel7 calls 2625
+*** TURN *** [7d 4h 2d][Tc]
+P1xel7 checks
+ultra_modo checks
+*** RIVER *** [7d 4h 2d Tc][5s]
+P1xel7 bets 7875
+ultra_modo calls 7875
+*** SHOW DOWN ***
+ultra_modo shows [As 5d] (One pair : 5)
+P1xel7 shows [7s Ts] (Two pairs : Tens and 7)
+P1xel7 collected 31500 from pot
+*** SUMMARY ***
+Total pot 31500 | No rake
+Board: [7d 4h 2d Tc 5s]
+Seat 2: P1xel7 (big blind) showed [7s Ts] and won 31500 with Two pairs : Tens and 7
+Seat 5: ultra_modo showed [As 5d] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-22-1709408707 - Holdem no limit (250/1000/2000) - 2024/03/02 19:45:07 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #1 is the button
+Seat 1: bigpat54 (27818)
+Seat 2: P1xel7 (124880)
+Seat 3: Thin Value (94700)
+Seat 4: EV-MAX (109341)
+Seat 5: ultra_modo (179184)
+Seat 6: Labiquettee (525706)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+Thin Value posts ante 250
+bigpat54 posts ante 250
+EV-MAX posts ante 250
+ultra_modo posts ante 250
+Labiquettee posts ante 250
+P1xel7 posts small blind 1000
+Thin Value posts big blind 2000
+Dealt to P1xel7 [Kc 8h]
+*** PRE-FLOP *** 
+EV-MAX folds
+ultra_modo raises 8000 to 10000
+Labiquettee calls 10000
+bigpat54 folds
+P1xel7 folds
+Thin Value folds
+*** FLOP *** [6h 6c 8s]
+ultra_modo checks
+Labiquettee bets 2000
+ultra_modo calls 2000
+*** TURN *** [6h 6c 8s][6d]
+ultra_modo checks
+Labiquettee checks
+*** RIVER *** [6h 6c 8s 6d][Kd]
+ultra_modo checks
+Labiquettee checks
+*** SHOW DOWN ***
+ultra_modo shows [Ad Qs] (Trips of 6)
+Labiquettee shows [Ah 4h] (Trips of 6)
+Labiquettee collected 14250 from pot
+ultra_modo collected 14250 from pot
+*** SUMMARY ***
+Total pot 28500 | No rake
+Board: [6h 6c 8s 6d Kd]
+Seat 5: ultra_modo showed [Ad Qs] and won 14250 with Trips of 6
+Seat 6: Labiquettee showed [Ah 4h] and won 14250 with Trips of 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-23-1709408782 - Holdem no limit (250/1000/2000) - 2024/03/02 19:46:22 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #2 is the button
+Seat 1: bigpat54 (27568)
+Seat 2: P1xel7 (123630)
+Seat 3: Thin Value (92450)
+Seat 4: EV-MAX (109091)
+Seat 5: ultra_modo (181184)
+Seat 6: Labiquettee (527706)
+*** ANTE/BLINDS ***
+Thin Value posts ante 250
+EV-MAX posts ante 250
+bigpat54 posts ante 250
+P1xel7 posts ante 250
+ultra_modo posts ante 250
+Labiquettee posts ante 250
+Thin Value posts small blind 1000
+EV-MAX posts big blind 2000
+Dealt to P1xel7 [2d Qc]
+*** PRE-FLOP *** 
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+Thin Value folds
+EV-MAX collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 4: EV-MAX (big blind) won 4500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-24-1709408795 - Holdem no limit (250/1000/2000) - 2024/03/02 19:46:35 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #3 is the button
+Seat 1: bigpat54 (27318)
+Seat 2: P1xel7 (123380)
+Seat 3: Thin Value (91200)
+Seat 4: EV-MAX (111341)
+Seat 5: ultra_modo (180934)
+Seat 6: Labiquettee (527456)
+*** ANTE/BLINDS ***
+EV-MAX posts ante 250
+ultra_modo posts ante 250
+bigpat54 posts ante 250
+P1xel7 posts ante 250
+Thin Value posts ante 250
+Labiquettee posts ante 250
+EV-MAX posts small blind 1000
+ultra_modo posts big blind 2000
+Dealt to P1xel7 [Ad Kh]
+*** PRE-FLOP *** 
+Labiquettee folds
+bigpat54 folds
+P1xel7 raises 4000 to 6000
+Thin Value folds
+EV-MAX folds
+ultra_modo calls 4000
+*** FLOP *** [Ts 5c 6c]
+ultra_modo checks
+P1xel7 checks
+*** TURN *** [Ts 5c 6c][Jd]
+ultra_modo checks
+P1xel7 bets 5000
+ultra_modo folds
+P1xel7 collected 19500 from pot
+*** SUMMARY ***
+Total pot 19500 | No rake
+Board: [Ts 5c 6c Jd]
+Seat 2: P1xel7 won 19500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-25-1709408829 - Holdem no limit (250/1000/2000) - 2024/03/02 19:47:09 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #4 is the button
+Seat 1: bigpat54 (27068)
+Seat 2: P1xel7 (131630)
+Seat 3: Thin Value (90950)
+Seat 4: EV-MAX (110091)
+Seat 5: ultra_modo (174684)
+Seat 6: Labiquettee (527206)
+*** ANTE/BLINDS ***
+ultra_modo posts ante 250
+Labiquettee posts ante 250
+bigpat54 posts ante 250
+P1xel7 posts ante 250
+Thin Value posts ante 250
+EV-MAX posts ante 250
+ultra_modo posts small blind 1000
+Labiquettee posts big blind 2000
+Dealt to P1xel7 [9d 5d]
+*** PRE-FLOP *** 
+bigpat54 folds
+P1xel7 folds
+Thin Value folds
+EV-MAX folds
+ultra_modo calls 1000
+Labiquettee checks
+*** FLOP *** [7d 3c 9h]
+ultra_modo checks
+Labiquettee checks
+*** TURN *** [7d 3c 9h][8s]
+ultra_modo checks
+Labiquettee checks
+*** RIVER *** [7d 3c 9h 8s][3s]
+ultra_modo checks
+Labiquettee checks
+*** SHOW DOWN ***
+Labiquettee shows [As 2d] (One pair : 3)
+ultra_modo shows [Jh 7s] (Two pairs : 7 and 3)
+ultra_modo collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Board: [7d 3c 9h 8s 3s]
+Seat 5: ultra_modo (small blind) showed [Jh 7s] and won 5500 with Two pairs : 7 and 3
+Seat 6: Labiquettee (big blind) showed [As 2d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3224000635053539347-26-1709408869 - Holdem no limit (250/1000/2000) - 2024/03/02 19:47:49 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #5 is the button
+Seat 1: bigpat54 (26818)
+Seat 2: P1xel7 (131380)
+Seat 3: Thin Value (90700)
+Seat 4: EV-MAX (109841)
+Seat 5: ultra_modo (177934)
+Seat 6: Labiquettee (524956)
+*** ANTE/BLINDS ***
+Labiquettee posts ante 250
+bigpat54 posts ante 250
+P1xel7 posts ante 250
+Thin Value posts ante 250
+EV-MAX posts ante 250
+ultra_modo posts ante 250
+Labiquettee posts small blind 1000
+bigpat54 posts big blind 2000
+Dealt to P1xel7 [Ts 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Thin Value folds
+EV-MAX folds
+ultra_modo folds
+Labiquettee raises 2440 to 4440
+bigpat54 folds
+Labiquettee collected 7940 from pot
+*** SUMMARY ***
+Total pot 7940 | No rake
+Seat 6: Labiquettee (small blind) won 7940
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-27-1709408891 - Holdem no limit (300/1250/2500) - 2024/03/02 19:48:11 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #6 is the button
+Seat 1: bigpat54 (24568)
+Seat 2: P1xel7 (131130)
+Seat 3: Thin Value (90450)
+Seat 4: EV-MAX (109591)
+Seat 5: ultra_modo (177684)
+Seat 6: Labiquettee (528206)
+*** ANTE/BLINDS ***
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+Thin Value posts ante 300
+EV-MAX posts ante 300
+ultra_modo posts ante 300
+Labiquettee posts ante 300
+bigpat54 posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [5h 9s]
+*** PRE-FLOP *** 
+Thin Value folds
+EV-MAX folds
+ultra_modo folds
+Labiquettee raises 3050 to 5550
+bigpat54 folds
+P1xel7 folds
+Labiquettee collected 11100 from pot
+*** SUMMARY ***
+Total pot 11100 | No rake
+Seat 6: Labiquettee (button) won 11100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-28-1709408913 - Holdem no limit (300/1250/2500) - 2024/03/02 19:48:33 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #1 is the button
+Seat 1: bigpat54 (23018)
+Seat 2: P1xel7 (128330)
+Seat 3: Thin Value (90150)
+Seat 4: EV-MAX (109291)
+Seat 5: ultra_modo (177384)
+Seat 6: Labiquettee (533456)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+Thin Value posts ante 300
+bigpat54 posts ante 300
+EV-MAX posts ante 300
+ultra_modo posts ante 300
+Labiquettee posts ante 300
+P1xel7 posts small blind 1250
+Thin Value posts big blind 2500
+Dealt to P1xel7 [Ts 4h]
+*** PRE-FLOP *** 
+EV-MAX folds
+ultra_modo raises 2500 to 5000
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+Thin Value folds
+ultra_modo collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Seat 5: ultra_modo won 10550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-29-1709408925 - Holdem no limit (300/1250/2500) - 2024/03/02 19:48:45 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #2 is the button
+Seat 1: bigpat54 (22718)
+Seat 2: P1xel7 (126780)
+Seat 3: Thin Value (87350)
+Seat 4: EV-MAX (108991)
+Seat 5: ultra_modo (182634)
+Seat 6: Labiquettee (533156)
+*** ANTE/BLINDS ***
+Thin Value posts ante 300
+EV-MAX posts ante 300
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+ultra_modo posts ante 300
+Labiquettee posts ante 300
+Thin Value posts small blind 1250
+EV-MAX posts big blind 2500
+Dealt to P1xel7 [Tc As]
+*** PRE-FLOP *** 
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+P1xel7 raises 5000 to 7500
+Thin Value raises 15000 to 22500
+EV-MAX folds
+P1xel7 calls 15000
+*** FLOP *** [2s 9c 6d]
+Thin Value bets 17255
+P1xel7 folds
+Thin Value collected 66555 from pot
+*** SUMMARY ***
+Total pot 66555 | No rake
+Board: [2s 9c 6d]
+Seat 3: Thin Value (small blind) won 66555
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-30-1709408974 - Holdem no limit (300/1250/2500) - 2024/03/02 19:49:34 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #3 is the button
+Seat 1: bigpat54 (22418)
+Seat 2: P1xel7 (103980)
+Seat 3: Thin Value (113850)
+Seat 4: EV-MAX (106191)
+Seat 5: ultra_modo (182334)
+Seat 6: Labiquettee (532856)
+*** ANTE/BLINDS ***
+EV-MAX posts ante 300
+ultra_modo posts ante 300
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+Thin Value posts ante 300
+Labiquettee posts ante 300
+EV-MAX posts small blind 1250
+ultra_modo posts big blind 2500
+Dealt to P1xel7 [Qd 3c]
+*** PRE-FLOP *** 
+Labiquettee raises 3050 to 5550
+bigpat54 folds
+P1xel7 folds
+Thin Value raises 13875 to 19425
+EV-MAX folds
+ultra_modo folds
+Labiquettee raises 38850 to 58275
+Thin Value raises 55275 to 113550 and is all-in
+Labiquettee calls 55275
+*** FLOP *** [8d 4s 5h]
+*** TURN *** [8d 4s 5h][Js]
+*** RIVER *** [8d 4s 5h Js][2h]
+*** SHOW DOWN ***
+Labiquettee shows [Kh Ks] (One pair : Kings)
+Thin Value shows [Ad Ac] (One pair : Aces)
+Thin Value collected 232650 from pot
+*** SUMMARY ***
+Total pot 232650 | No rake
+Board: [8d 4s 5h Js 2h]
+Seat 3: Thin Value (button) showed [Ad Ac] and won 232650 with One pair : Aces
+Seat 6: Labiquettee showed [Kh Ks] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-31-1709409050 - Holdem no limit (300/1250/2500) - 2024/03/02 19:50:50 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #4 is the button
+Seat 1: bigpat54 (22118)
+Seat 2: P1xel7 (103680)
+Seat 3: Thin Value (232650)
+Seat 4: EV-MAX (104641)
+Seat 5: ultra_modo (179534)
+Seat 6: Labiquettee (419006)
+*** ANTE/BLINDS ***
+ultra_modo posts ante 300
+Labiquettee posts ante 300
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+Thin Value posts ante 300
+EV-MAX posts ante 300
+ultra_modo posts small blind 1250
+Labiquettee posts big blind 2500
+Dealt to P1xel7 [Kc 5h]
+*** PRE-FLOP *** 
+bigpat54 folds
+P1xel7 folds
+Thin Value folds
+EV-MAX raises 2500 to 5000
+ultra_modo folds
+Labiquettee calls 2500
+*** FLOP *** [Qd 7c 6s]
+Labiquettee checks
+EV-MAX checks
+*** TURN *** [Qd 7c 6s][3s]
+Labiquettee checks
+EV-MAX bets 6525
+Labiquettee folds
+EV-MAX collected 19575 from pot
+*** SUMMARY ***
+Total pot 19575 | No rake
+Board: [Qd 7c 6s 3s]
+Seat 4: EV-MAX (button) won 19575
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-32-1709409130 - Holdem no limit (300/1250/2500) - 2024/03/02 19:52:10 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #5 is the button
+Seat 1: bigpat54 (21818)
+Seat 2: P1xel7 (103380)
+Seat 3: Thin Value (232350)
+Seat 4: EV-MAX (112391)
+Seat 5: ultra_modo (177984)
+Seat 6: Labiquettee (413706)
+*** ANTE/BLINDS ***
+Labiquettee posts ante 300
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+Thin Value posts ante 300
+EV-MAX posts ante 300
+ultra_modo posts ante 300
+Labiquettee posts small blind 1250
+bigpat54 posts big blind 2500
+Dealt to P1xel7 [6h Ac]
+*** PRE-FLOP *** 
+P1xel7 folds
+Thin Value folds
+EV-MAX raises 2500 to 5000
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+EV-MAX collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Seat 4: EV-MAX won 10550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-33-1709409153 - Holdem no limit (300/1250/2500) - 2024/03/02 19:52:33 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #6 is the button
+Seat 1: bigpat54 (19018)
+Seat 2: P1xel7 (103080)
+Seat 3: Thin Value (232050)
+Seat 4: EV-MAX (117641)
+Seat 5: ultra_modo (177684)
+Seat 6: Labiquettee (412156)
+*** ANTE/BLINDS ***
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+Thin Value posts ante 300
+EV-MAX posts ante 300
+ultra_modo posts ante 300
+Labiquettee posts ante 300
+bigpat54 posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [6s Th]
+*** PRE-FLOP *** 
+Thin Value folds
+EV-MAX folds
+ultra_modo raises 2500 to 5000
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+ultra_modo collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Seat 5: ultra_modo won 10550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-34-1709409170 - Holdem no limit (300/1250/2500) - 2024/03/02 19:52:50 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #1 is the button
+Seat 1: bigpat54 (17468)
+Seat 2: P1xel7 (100280)
+Seat 3: Thin Value (231750)
+Seat 4: EV-MAX (117341)
+Seat 5: ultra_modo (182934)
+Seat 6: Labiquettee (411856)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+Thin Value posts ante 300
+bigpat54 posts ante 300
+EV-MAX posts ante 300
+ultra_modo posts ante 300
+Labiquettee posts ante 300
+P1xel7 posts small blind 1250
+Thin Value posts big blind 2500
+Dealt to P1xel7 [9h 9d]
+*** PRE-FLOP *** 
+EV-MAX raises 2500 to 5000
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+P1xel7 raises 3750 to 8750
+Thin Value folds
+EV-MAX calls 3750
+*** FLOP *** [7h Ks 4c]
+P1xel7 bets 8750
+EV-MAX calls 8750
+*** TURN *** [7h Ks 4c][8c]
+P1xel7 bets 8750
+EV-MAX calls 8750
+*** RIVER *** [7h Ks 4c 8c][Td]
+P1xel7 checks
+EV-MAX checks
+*** SHOW DOWN ***
+EV-MAX shows [As 4d] (One pair : 4)
+P1xel7 shows [9h 9d] (One pair : 9)
+P1xel7 collected 56800 from pot
+*** SUMMARY ***
+Total pot 56800 | No rake
+Board: [7h Ks 4c 8c Td]
+Seat 2: P1xel7 (small blind) showed [9h 9d] and won 56800 with One pair : 9
+Seat 4: EV-MAX showed [As 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-35-1709409236 - Holdem no limit (300/1250/2500) - 2024/03/02 19:53:56 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #2 is the button
+Seat 1: bigpat54 (17168)
+Seat 2: P1xel7 (130530)
+Seat 3: Thin Value (228950)
+Seat 4: EV-MAX (90791)
+Seat 5: ultra_modo (182634)
+Seat 6: Labiquettee (411556)
+*** ANTE/BLINDS ***
+Thin Value posts ante 300
+EV-MAX posts ante 300
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+ultra_modo posts ante 300
+Labiquettee posts ante 300
+Thin Value posts small blind 1250
+EV-MAX posts big blind 2500
+Dealt to P1xel7 [Qh 6c]
+*** PRE-FLOP *** 
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+Thin Value calls 1250
+EV-MAX checks
+*** FLOP *** [Tc 8d 4c]
+Thin Value checks
+EV-MAX bets 2500
+Thin Value folds
+EV-MAX collected 9300 from pot
+*** SUMMARY ***
+Total pot 9300 | No rake
+Board: [Tc 8d 4c]
+Seat 4: EV-MAX (big blind) won 9300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-36-1709409276 - Holdem no limit (300/1250/2500) - 2024/03/02 19:54:36 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #3 is the button
+Seat 1: bigpat54 (16868)
+Seat 2: P1xel7 (130230)
+Seat 3: Thin Value (226150)
+Seat 4: EV-MAX (94791)
+Seat 5: ultra_modo (182334)
+Seat 6: Labiquettee (411256)
+*** ANTE/BLINDS ***
+EV-MAX posts ante 300
+ultra_modo posts ante 300
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+Thin Value posts ante 300
+Labiquettee posts ante 300
+EV-MAX posts small blind 1250
+ultra_modo posts big blind 2500
+Dealt to P1xel7 [Th 7s]
+*** PRE-FLOP *** 
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+Thin Value folds
+EV-MAX folds
+ultra_modo collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Seat 5: ultra_modo (big blind) won 5550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-37-1709409296 - Holdem no limit (300/1250/2500) - 2024/03/02 19:54:56 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #4 is the button
+Seat 1: bigpat54 (16568)
+Seat 2: P1xel7 (129930)
+Seat 3: Thin Value (225850)
+Seat 4: EV-MAX (93241)
+Seat 5: ultra_modo (185084)
+Seat 6: Labiquettee (410956)
+*** ANTE/BLINDS ***
+ultra_modo posts ante 300
+Labiquettee posts ante 300
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+Thin Value posts ante 300
+EV-MAX posts ante 300
+ultra_modo posts small blind 1250
+Labiquettee posts big blind 2500
+Dealt to P1xel7 [Jh 2s]
+*** PRE-FLOP *** 
+bigpat54 folds
+P1xel7 folds
+Thin Value folds
+EV-MAX folds
+ultra_modo raises 5000 to 7500
+Labiquettee folds
+ultra_modo collected 11800 from pot
+*** SUMMARY ***
+Total pot 11800 | No rake
+Seat 5: ultra_modo (small blind) won 11800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-38-1709409661 - Holdem no limit (300/1250/2500) - 2024/03/02 20:01:01 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #5 is the button
+Seat 1: bigpat54 (16268)
+Seat 2: P1xel7 (129630)
+Seat 3: Thin Value (225550)
+Seat 4: EV-MAX (92941)
+Seat 5: ultra_modo (189084)
+Seat 6: Labiquettee (408156)
+*** ANTE/BLINDS ***
+Labiquettee posts ante 300
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+Thin Value posts ante 300
+EV-MAX posts ante 300
+ultra_modo posts ante 300
+Labiquettee posts small blind 1250
+bigpat54 posts big blind 2500
+Dealt to P1xel7 [4h Ks]
+*** PRE-FLOP *** 
+P1xel7 folds
+Thin Value folds
+EV-MAX folds
+ultra_modo raises 3750 to 6250
+Labiquettee folds
+bigpat54 folds
+ultra_modo collected 11800 from pot
+*** SUMMARY ***
+Total pot 11800 | No rake
+Seat 5: ultra_modo (button) won 11800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3224000635053539347-39-1709409693 - Holdem no limit (300/1250/2500) - 2024/03/02 20:01:33 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #6 is the button
+Seat 1: bigpat54 (13468)
+Seat 2: P1xel7 (129330)
+Seat 4: EV-MAX (92641)
+Seat 5: ultra_modo (194334)
+Seat 6: Labiquettee (406606)
+*** ANTE/BLINDS ***
+bigpat54 posts ante 300
+P1xel7 posts ante 300
+EV-MAX posts ante 300
+ultra_modo posts ante 300
+Labiquettee posts ante 300
+bigpat54 posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [4h 6c]
+*** PRE-FLOP *** 
+EV-MAX folds
+ultra_modo raises 2500 to 5000
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+ultra_modo collected 10250 from pot
+*** SUMMARY ***
+Total pot 10250 | No rake
+Seat 5: ultra_modo won 10250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-40-1709409722 - Holdem no limit (350/1500/3000) - 2024/03/02 20:02:02 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #1 is the button
+Seat 1: bigpat54 (11918)
+Seat 2: P1xel7 (126530)
+Seat 3: Rorro08 (100000)
+Seat 4: EV-MAX (92341)
+Seat 5: ultra_modo (199284)
+Seat 6: Labiquettee (406306)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+Rorro08 posts ante 350
+bigpat54 posts ante 350
+EV-MAX posts ante 350
+ultra_modo posts ante 350
+Labiquettee posts ante 350
+P1xel7 posts small blind 1500
+Rorro08 posts big blind 3000
+Dealt to P1xel7 [Ks Kd]
+*** PRE-FLOP *** 
+EV-MAX folds
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+P1xel7 raises 6000 to 9000
+Rorro08 folds
+P1xel7 collected 14100 from pot
+*** SUMMARY ***
+Total pot 14100 | No rake
+Seat 2: P1xel7 (small blind) won 14100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-41-1709409766 - Holdem no limit (350/1500/3000) - 2024/03/02 20:02:46 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #2 is the button
+Seat 1: bigpat54 (11568)
+Seat 2: P1xel7 (131280)
+Seat 3: Rorro08 (96650)
+Seat 4: EV-MAX (91991)
+Seat 5: ultra_modo (198934)
+Seat 6: Labiquettee (405956)
+*** ANTE/BLINDS ***
+Rorro08 posts ante 350
+EV-MAX posts ante 350
+bigpat54 posts ante 350
+P1xel7 posts ante 350
+ultra_modo posts ante 350
+Labiquettee posts ante 350
+Rorro08 posts small blind 1500
+EV-MAX posts big blind 3000
+Dealt to P1xel7 [7d 9h]
+*** PRE-FLOP *** 
+ultra_modo raises 3000 to 6000
+Labiquettee raises 18000 to 24000
+bigpat54 folds
+P1xel7 folds
+Rorro08 folds
+EV-MAX folds
+ultra_modo calls 18000
+*** FLOP *** [8c Kh 7c]
+ultra_modo checks
+Labiquettee bets 35490
+ultra_modo raises 139094 to 174584 and is all-in
+Labiquettee calls 139094
+*** TURN *** [8c Kh 7c][5d]
+*** RIVER *** [8c Kh 7c 5d][4s]
+*** SHOW DOWN ***
+Labiquettee shows [Ah As] (One pair : Aces)
+ultra_modo shows [8s Ks] (Two pairs : Kings and 8)
+ultra_modo collected 403768 from pot
+*** SUMMARY ***
+Total pot 403768 | No rake
+Board: [8c Kh 7c 5d 4s]
+Seat 5: ultra_modo showed [8s Ks] and won 403768 with Two pairs : Kings and 8
+Seat 6: Labiquettee showed [Ah As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-42-1709409829 - Holdem no limit (350/1500/3000) - 2024/03/02 20:03:49 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #3 is the button
+Seat 1: bigpat54 (11218)
+Seat 2: P1xel7 (130930)
+Seat 3: Rorro08 (94800)
+Seat 4: EV-MAX (88641)
+Seat 5: ultra_modo (403768)
+Seat 6: Labiquettee (207022)
+*** ANTE/BLINDS ***
+EV-MAX posts ante 350
+ultra_modo posts ante 350
+bigpat54 posts ante 350
+P1xel7 posts ante 350
+Rorro08 posts ante 350
+Labiquettee posts ante 350
+EV-MAX posts small blind 1500
+ultra_modo posts big blind 3000
+Dealt to P1xel7 [9h 8h]
+*** PRE-FLOP *** 
+Labiquettee raises 4500 to 7500
+bigpat54 folds
+P1xel7 folds
+Rorro08 folds
+EV-MAX folds
+ultra_modo folds
+Labiquettee collected 14100 from pot
+*** SUMMARY ***
+Total pot 14100 | No rake
+Seat 6: Labiquettee won 14100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-43-1709409865 - Holdem no limit (350/1500/3000) - 2024/03/02 20:04:25 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #4 is the button
+Seat 1: bigpat54 (10868)
+Seat 2: P1xel7 (130580)
+Seat 3: Rorro08 (94450)
+Seat 4: EV-MAX (86791)
+Seat 5: ultra_modo (400418)
+Seat 6: Labiquettee (213272)
+*** ANTE/BLINDS ***
+ultra_modo posts ante 350
+Labiquettee posts ante 350
+bigpat54 posts ante 350
+P1xel7 posts ante 350
+Rorro08 posts ante 350
+EV-MAX posts ante 350
+ultra_modo posts small blind 1500
+Labiquettee posts big blind 3000
+Dealt to P1xel7 [9s 4d]
+*** PRE-FLOP *** 
+bigpat54 folds
+P1xel7 folds
+Rorro08 raises 3000 to 6000
+EV-MAX folds
+ultra_modo calls 4500
+Labiquettee calls 3000
+*** FLOP *** [Ah Ad 2s]
+ultra_modo checks
+Labiquettee checks
+Rorro08 bets 7035
+ultra_modo folds
+Labiquettee folds
+Rorro08 collected 27135 from pot
+*** SUMMARY ***
+Total pot 27135 | No rake
+Board: [Ah Ad 2s]
+Seat 3: Rorro08 won 27135
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-44-1709409935 - Holdem no limit (350/1500/3000) - 2024/03/02 20:05:35 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #5 is the button
+Seat 1: bigpat54 (10518)
+Seat 2: P1xel7 (130230)
+Seat 3: Rorro08 (108200)
+Seat 4: EV-MAX (86441)
+Seat 5: ultra_modo (394068)
+Seat 6: Labiquettee (206922)
+*** ANTE/BLINDS ***
+Labiquettee posts ante 350
+bigpat54 posts ante 350
+P1xel7 posts ante 350
+Rorro08 posts ante 350
+EV-MAX posts ante 350
+ultra_modo posts ante 350
+Labiquettee posts small blind 1500
+bigpat54 posts big blind 3000
+Dealt to P1xel7 [Kh Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 6000 to 9000
+Rorro08 folds
+EV-MAX folds
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+P1xel7 collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | No rake
+Seat 2: P1xel7 won 15600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-45-1709409967 - Holdem no limit (350/1500/3000) - 2024/03/02 20:06:07 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #6 is the button
+Seat 1: bigpat54 (7168)
+Seat 2: P1xel7 (136480)
+Seat 3: Rorro08 (107850)
+Seat 4: EV-MAX (86091)
+Seat 5: ultra_modo (393718)
+Seat 6: Labiquettee (205072)
+*** ANTE/BLINDS ***
+bigpat54 posts ante 350
+P1xel7 posts ante 350
+Rorro08 posts ante 350
+EV-MAX posts ante 350
+ultra_modo posts ante 350
+Labiquettee posts ante 350
+bigpat54 posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [5d Js]
+*** PRE-FLOP *** 
+Rorro08 folds
+EV-MAX raises 3000 to 6000
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+EV-MAX collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Seat 4: EV-MAX won 12600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-46-1709409992 - Holdem no limit (350/1500/3000) - 2024/03/02 20:06:32 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #1 is the button
+Seat 1: bigpat54 (5318)
+Seat 2: P1xel7 (133130)
+Seat 3: Rorro08 (107500)
+Seat 4: EV-MAX (92341)
+Seat 5: ultra_modo (393368)
+Seat 6: Labiquettee (204722)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+Rorro08 posts ante 350
+bigpat54 posts ante 350
+EV-MAX posts ante 350
+ultra_modo posts ante 350
+Labiquettee posts ante 350
+P1xel7 posts small blind 1500
+Rorro08 posts big blind 3000
+Dealt to P1xel7 [Ah 8s]
+*** PRE-FLOP *** 
+EV-MAX folds
+ultra_modo raises 3000 to 6000
+Labiquettee folds
+bigpat54 folds
+P1xel7 calls 4500
+Rorro08 calls 3000
+*** FLOP *** [6d 3d 7h]
+P1xel7 checks
+Rorro08 checks
+ultra_modo bets 3000
+P1xel7 folds
+Rorro08 folds
+ultra_modo collected 23100 from pot
+*** SUMMARY ***
+Total pot 23100 | No rake
+Board: [6d 3d 7h]
+Seat 5: ultra_modo won 23100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-47-1709410049 - Holdem no limit (350/1500/3000) - 2024/03/02 20:07:29 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #2 is the button
+Seat 1: bigpat54 (4968)
+Seat 2: P1xel7 (126780)
+Seat 3: Rorro08 (101150)
+Seat 4: EV-MAX (91991)
+Seat 5: ultra_modo (407118)
+Seat 6: Labiquettee (204372)
+*** ANTE/BLINDS ***
+Rorro08 posts ante 350
+EV-MAX posts ante 350
+bigpat54 posts ante 350
+P1xel7 posts ante 350
+ultra_modo posts ante 350
+Labiquettee posts ante 350
+Rorro08 posts small blind 1500
+EV-MAX posts big blind 3000
+Dealt to P1xel7 [7s 5d]
+*** PRE-FLOP *** 
+ultra_modo folds
+Labiquettee folds
+bigpat54 folds
+P1xel7 folds
+Rorro08 raises 8100 to 11100
+EV-MAX calls 8100
+*** FLOP *** [4h 2s Qs]
+Rorro08 bets 89700 and is all-in
+EV-MAX calls 80541 and is all-in
+*** TURN *** [4h 2s Qs][5c]
+*** RIVER *** [4h 2s Qs 5c][2h]
+*** SHOW DOWN ***
+Rorro08 shows [Jc Ks] (One pair : 2)
+EV-MAX shows [8c 8h] (Two pairs : 8 and 2)
+EV-MAX collected 185382 from main pot
+Rorro08 collected 9159 from side pot 1
+*** SUMMARY ***
+Total pot 194541 | No rake
+Board: [4h 2s Qs 5c 2h]
+Seat 3: Rorro08 (small blind) showed [Jc Ks] and won 9159 with One pair : 2
+Seat 4: EV-MAX (big blind) showed [8c 8h] and won 185382 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-48-1709410094 - Holdem no limit (350/1500/3000) - 2024/03/02 20:08:14 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #3 is the button
+Seat 1: bigpat54 (4618)
+Seat 2: P1xel7 (126430)
+Seat 3: Rorro08 (9159)
+Seat 4: EV-MAX (185382)
+Seat 5: ultra_modo (406768)
+Seat 6: Labiquettee (204022)
+*** ANTE/BLINDS ***
+EV-MAX posts ante 350
+ultra_modo posts ante 350
+bigpat54 posts ante 350
+P1xel7 posts ante 350
+Rorro08 posts ante 350
+Labiquettee posts ante 350
+EV-MAX posts small blind 1500
+ultra_modo posts big blind 3000
+Dealt to P1xel7 [Kc Tc]
+*** PRE-FLOP *** 
+Labiquettee folds
+bigpat54 folds
+P1xel7 raises 4500 to 7500
+Rorro08 folds
+EV-MAX folds
+ultra_modo folds
+P1xel7 collected 14100 from pot
+*** SUMMARY ***
+Total pot 14100 | No rake
+Seat 2: P1xel7 won 14100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-49-1709410124 - Holdem no limit (350/1500/3000) - 2024/03/02 20:08:44 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #4 is the button
+Seat 1: bigpat54 (4268)
+Seat 2: P1xel7 (132680)
+Seat 3: Rorro08 (8809)
+Seat 4: EV-MAX (183532)
+Seat 5: ultra_modo (403418)
+Seat 6: Labiquettee (203672)
+*** ANTE/BLINDS ***
+ultra_modo posts ante 350
+Labiquettee posts ante 350
+bigpat54 posts ante 350
+P1xel7 posts ante 350
+Rorro08 posts ante 350
+EV-MAX posts ante 350
+ultra_modo posts small blind 1500
+Labiquettee posts big blind 3000
+Dealt to P1xel7 [Js 6c]
+*** PRE-FLOP *** 
+bigpat54 folds
+P1xel7 folds
+Rorro08 folds
+EV-MAX raises 3000 to 6000
+ultra_modo folds
+Labiquettee calls 3000
+*** FLOP *** [6s 8c Kh]
+Labiquettee checks
+EV-MAX bets 5460
+Labiquettee calls 5460
+*** TURN *** [6s 8c Kh][Qd]
+Labiquettee checks
+EV-MAX checks
+*** RIVER *** [6s 8c Kh Qd][8h]
+Labiquettee bets 13260
+EV-MAX folds
+Labiquettee collected 39780 from pot
+*** SUMMARY ***
+Total pot 39780 | No rake
+Board: [6s 8c Kh Qd 8h]
+Seat 6: Labiquettee (big blind) won 39780
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3224000635053539347-50-1709410195 - Holdem no limit (350/1500/3000) - 2024/03/02 20:09:55 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #5 is the button
+Seat 1: bigpat54 (3918)
+Seat 2: P1xel7 (132330)
+Seat 3: Rorro08 (8459)
+Seat 4: EV-MAX (171722)
+Seat 5: ultra_modo (401568)
+Seat 6: Labiquettee (218382)
+*** ANTE/BLINDS ***
+Labiquettee posts ante 350
+bigpat54 posts ante 350
+P1xel7 posts ante 350
+Rorro08 posts ante 350
+EV-MAX posts ante 350
+ultra_modo posts ante 350
+Labiquettee posts small blind 1500
+bigpat54 posts big blind 3000
+Dealt to P1xel7 [4s Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Rorro08 folds
+EV-MAX raises 3000 to 6000
+ultra_modo raises 18600 to 24600
+Labiquettee folds
+bigpat54 folds
+EV-MAX raises 146772 to 171372 and is all-in
+ultra_modo raises 229846 to 401218 and is all-in
+*** FLOP *** [5h 8s 9h]
+*** TURN *** [5h 8s 9h][9s]
+*** RIVER *** [5h 8s 9h 9s][5d]
+*** SHOW DOWN ***
+EV-MAX shows [Kc Ks] (Two pairs : Kings and 9)
+ultra_modo shows [Jc Jh] (Two pairs : Jacks and 9)
+ultra_modo collected 229846 from side pot 1
+EV-MAX collected 349344 from main pot
+*** SUMMARY ***
+Total pot 579190 | No rake
+Board: [5h 8s 9h 9s 5d]
+Seat 4: EV-MAX showed [Kc Ks] and won 349344 with Two pairs : Kings and 9
+Seat 5: ultra_modo (button) showed [Jc Jh] and won 229846 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3224000635053539347-51-1709410263 - Holdem no limit (400/1750/3500) - 2024/03/02 20:11:03 UTC
+Table: 'Monster Stack(750646143)#0018' 6-max (real money) Seat #6 is the button
+Seat 1: bigpat54 (568)
+Seat 2: P1xel7 (131980)
+Seat 3: Rorro08 (8109)
+Seat 4: EV-MAX (349344)
+Seat 5: ultra_modo (229846)
+Seat 6: Labiquettee (216532)
+*** ANTE/BLINDS ***
+bigpat54 posts ante 400
+P1xel7 posts ante 400
+Rorro08 posts ante 400
+EV-MAX posts ante 400
+ultra_modo posts ante 400
+Labiquettee posts ante 400
+bigpat54 posts small blind 168 and is all-in
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [Kc Kd]
+*** PRE-FLOP *** 
+Rorro08 raises 4209 to 7709 and is all-in
+EV-MAX folds
+ultra_modo calls 7709
+Labiquettee folds
+P1xel7 raises 25695 to 33404
+ultra_modo calls 25695
+*** FLOP *** [2d 5d Qs]
+P1xel7 bets 38543
+ultra_modo calls 38543
+*** TURN *** [2d 5d Qs][4d]
+P1xel7 bets 59633 and is all-in
+ultra_modo raises 59633 to 119266
+*** RIVER *** [2d 5d Qs 4d][3h]
+*** SHOW DOWN ***
+bigpat54 shows [6c Ts] (Straight 6 high)
+P1xel7 shows [Kc Kd] (One pair : Kings)
+Rorro08 shows [8s Th] (High card : Queen)
+ultra_modo shows [Td 7d] (Flush Ten high)
+ultra_modo collected 333070 from pot
+*** SUMMARY ***
+Total pot 333070 | No rake
+Board: [2d 5d Qs 4d 3h]
+Seat 1: bigpat54 (small blind) showed [6c Ts] and lost with Straight 6 high
+Seat 2: P1xel7 (big blind) showed [Kc Kd] and lost with One pair : Kings
+Seat 3: Rorro08 showed [8s Th] and lost with High card : Queen
+Seat 5: ultra_modo showed [Td 7d] and won 333070 with Flush Ten high
+
+

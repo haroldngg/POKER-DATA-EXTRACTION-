@@ -1,0 +1,1281 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #2932156567908253742-1-1692900366 - Holdem no limit (35/150/300) - 2023/08/24 18:06:06 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (20000, 0.11€ bounty)
+Seat 3: LoloZz67 (14353, 0.11€ bounty)
+Seat 4: goldfinger76 (20945, 0.11€ bounty)
+Seat 5: taxi1234 (37213, 0.16€ bounty)
+Seat 6: Daantje (20000, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Daantje posts ante 35
+P1xel7 posts ante 35
+goldfinger76 posts ante 35
+Daantje posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [4d 6s]
+*** PRE-FLOP *** 
+goldfinger76 raises 600 to 900
+Daantje calls 750
+P1xel7 folds
+*** FLOP *** [Ah Kd 3s]
+Daantje checks
+goldfinger76 bets 1103
+Daantje folds
+goldfinger76 collected 3308 from pot
+*** SUMMARY ***
+Total pot 3308 | No rake
+Board: [Ah Kd 3s]
+Seat 4: goldfinger76 (button) won 3308
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #2932156567908253742-2-1692900431 - Holdem no limit (35/150/300) - 2023/08/24 18:07:11 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (19665, 0.11€ bounty)
+Seat 2: Ana DeBluff (20000, 0.11€ bounty)
+Seat 3: LoloZz67 (14353, 0.11€ bounty)
+Seat 4: goldfinger76 (22215, 0.11€ bounty)
+Seat 5: taxi1234 (37213, 0.16€ bounty)
+Seat 6: Daantje (19065, 0.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Ana DeBluff posts ante 35
+LoloZz67 posts ante 35
+goldfinger76 posts ante 35
+taxi1234 posts ante 35
+Daantje posts ante 35
+P1xel7 posts small blind 150
+Ana DeBluff posts big blind 300
+Dealt to P1xel7 [5s Tc]
+*** PRE-FLOP *** 
+LoloZz67 folds
+goldfinger76 calls 300
+taxi1234 raises 1260 to 1560
+Daantje folds
+P1xel7 folds
+Ana DeBluff calls 1260
+goldfinger76 calls 1260
+*** FLOP *** [9h Jd 7s]
+Ana DeBluff checks
+goldfinger76 bets 300
+taxi1234 raises 3561 to 3861
+Ana DeBluff folds
+goldfinger76 raises 16759 to 20620 and is all-in
+taxi1234 calls 16759
+*** TURN *** [9h Jd 7s][8s]
+*** RIVER *** [9h Jd 7s 8s][3d]
+*** SHOW DOWN ***
+taxi1234 shows [Ah Jc] (One pair : Jacks)
+goldfinger76 shows [Th Ac] (Straight Jack high)
+goldfinger76 collected 46280 from pot
+*** SUMMARY ***
+Total pot 46280 | No rake
+Board: [9h Jd 7s 8s 3d]
+Seat 4: goldfinger76 showed [Th Ac] and won 46280 with Straight Jack high
+Seat 5: taxi1234 showed [Ah Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #2932156567908253742-3-1692900490 - Holdem no limit (35/150/300) - 2023/08/24 18:08:10 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (19480, 0.11€ bounty)
+Seat 2: Ana DeBluff (18405, 0.11€ bounty)
+Seat 3: LoloZz67 (14318, 0.11€ bounty)
+Seat 4: goldfinger76 (46280, 0.11€ bounty)
+Seat 5: taxi1234 (14998, 0.16€ bounty)
+Seat 6: Daantje (19030, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Ana DeBluff posts ante 35
+LoloZz67 posts ante 35
+P1xel7 posts ante 35
+goldfinger76 posts ante 35
+taxi1234 posts ante 35
+Daantje posts ante 35
+Ana DeBluff posts small blind 150
+LoloZz67 posts big blind 300
+Dealt to P1xel7 [Jc 7h]
+*** PRE-FLOP *** 
+goldfinger76 raises 450 to 750
+taxi1234 raises 14213 to 14963 and is all-in
+Daantje calls 14963
+P1xel7 folds
+Ana DeBluff folds
+LoloZz67 folds
+goldfinger76 calls 14213
+*** FLOP *** [Kc 5h Ks]
+goldfinger76 checks
+Daantje checks
+*** TURN *** [Kc 5h Ks][Td]
+goldfinger76 checks
+Daantje checks
+*** RIVER *** [Kc 5h Ks Td][5c]
+goldfinger76 checks
+Daantje checks
+*** SHOW DOWN ***
+taxi1234 shows [3h 6h] (Two pairs : Kings and 5)
+Daantje shows [2s 4s] (Two pairs : Kings and 5)
+goldfinger76 shows [Qh Ah] (Two pairs : Kings and 5)
+goldfinger76 collected 45549 from pot
+*** SUMMARY ***
+Total pot 45549 | No rake
+Board: [Kc 5h Ks Td 5c]
+Seat 4: goldfinger76 showed [Qh Ah] and won 45549 with Two pairs : Kings and 5
+Seat 5: taxi1234 showed [3h 6h] and lost with Two pairs : Kings and 5
+Seat 6: Daantje showed [2s 4s] and lost with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #2932156567908253742-4-1692900556 - Holdem no limit (35/150/300) - 2023/08/24 18:09:16 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (19445, 0.11€ bounty)
+Seat 2: Ana DeBluff (18220, 0.11€ bounty)
+Seat 3: LoloZz67 (13983, 0.11€ bounty)
+Seat 4: goldfinger76 (76831, 0.19€ bounty)
+Seat 6: Daantje (4032, 0.11€ bounty)
+*** ANTE/BLINDS ***
+LoloZz67 posts ante 35
+goldfinger76 posts ante 35
+P1xel7 posts ante 35
+Ana DeBluff posts ante 35
+Daantje posts ante 35
+LoloZz67 posts small blind 150
+goldfinger76 posts big blind 300
+Dealt to P1xel7 [Th 9c]
+*** PRE-FLOP *** 
+Daantje raises 3697 to 3997 and is all-in
+P1xel7 folds
+Ana DeBluff calls 3997
+LoloZz67 folds
+goldfinger76 calls 3697
+*** FLOP *** [Qd Ks 8h]
+goldfinger76 bets 6158
+Ana DeBluff raises 8030 to 14188 and is all-in
+goldfinger76 calls 8030
+*** TURN *** [Qd Ks 8h][8d]
+*** RIVER *** [Qd Ks 8h 8d][Td]
+*** SHOW DOWN ***
+Ana DeBluff shows [5s Kd] (Two pairs : Kings and 8)
+goldfinger76 shows [Kc 5c] (Two pairs : Kings and 8)
+Daantje shows [8s As] (Trips of 8)
+Daantje collected 12316 from main pot
+goldfinger76 collected 14188 from side pot 1
+Ana DeBluff collected 14188 from side pot 1
+*** SUMMARY ***
+Total pot 40692 | No rake
+Board: [Qd Ks 8h 8d Td]
+Seat 2: Ana DeBluff (button) showed [5s Kd] and won 14188 with Two pairs : Kings and 8
+Seat 4: goldfinger76 (big blind) showed [Kc 5c] and won 14188 with Two pairs : Kings and 8
+Seat 6: Daantje showed [8s As] and won 12316 with Trips of 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #2932156567908253742-5-1692900617 - Holdem no limit (35/150/300) - 2023/08/24 18:10:17 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (19410, 0.11€ bounty)
+Seat 2: Ana DeBluff (14188, 0.11€ bounty)
+Seat 3: LoloZz67 (13798, 0.11€ bounty)
+Seat 4: goldfinger76 (72799, 0.19€ bounty)
+Seat 5: KylBac (20000, 0.11€ bounty)
+Seat 6: Daantje (12316, 0.11€ bounty)
+*** ANTE/BLINDS ***
+goldfinger76 posts ante 35
+KylBac posts ante 35
+P1xel7 posts ante 35
+Ana DeBluff posts ante 35
+LoloZz67 posts ante 35
+Daantje posts ante 35
+goldfinger76 posts small blind 150
+KylBac posts big blind 300
+Dealt to P1xel7 [4c 8h]
+*** PRE-FLOP *** 
+Daantje folds
+P1xel7 folds
+Ana DeBluff folds
+LoloZz67 raises 300 to 600
+goldfinger76 calls 450
+KylBac folds
+*** FLOP *** [Jh Ad 5d]
+goldfinger76 checks
+LoloZz67 bets 599
+goldfinger76 calls 599
+*** TURN *** [Jh Ad 5d][9h]
+goldfinger76 bets 1454
+LoloZz67 calls 1454
+*** RIVER *** [Jh Ad 5d 9h][Th]
+goldfinger76 bets 300
+LoloZz67 raises 3058 to 3358
+goldfinger76 calls 3058
+*** SHOW DOWN ***
+LoloZz67 shows [Tc Ks] (One pair : Tens)
+goldfinger76 shows [8s Ac] (One pair : Aces)
+goldfinger76 collected 12532 from pot
+*** SUMMARY ***
+Total pot 12532 | No rake
+Board: [Jh Ad 5d 9h Th]
+Seat 3: LoloZz67 (button) showed [Tc Ks] and lost with One pair : Tens
+Seat 4: goldfinger76 (small blind) showed [8s Ac] and won 12532 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2932156567908253742-6-1692900672 - Holdem no limit (40/175/350) - 2023/08/24 18:11:12 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (19375, 0.11€ bounty)
+Seat 2: Ana DeBluff (14153, 0.11€ bounty)
+Seat 3: LoloZz67 (7752, 0.11€ bounty)
+Seat 4: goldfinger76 (79285, 0.19€ bounty)
+Seat 5: KylBac (19665, 0.11€ bounty)
+Seat 6: Daantje (12281, 0.11€ bounty)
+*** ANTE/BLINDS ***
+KylBac posts ante 40
+Daantje posts ante 40
+P1xel7 posts ante 40
+Ana DeBluff posts ante 40
+LoloZz67 posts ante 40
+goldfinger76 posts ante 40
+KylBac posts small blind 175
+Daantje posts big blind 350
+Dealt to P1xel7 [5s Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+Ana DeBluff raises 1115 to 1465
+LoloZz67 folds
+goldfinger76 folds
+KylBac folds
+Daantje folds
+Ana DeBluff collected 2230 from pot
+*** SUMMARY ***
+Total pot 2230 | No rake
+Seat 2: Ana DeBluff won 2230
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2932156567908253742-7-1692900697 - Holdem no limit (40/175/350) - 2023/08/24 18:11:37 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (19335, 0.11€ bounty)
+Seat 2: Ana DeBluff (14878, 0.11€ bounty)
+Seat 3: LoloZz67 (7712, 0.11€ bounty)
+Seat 4: goldfinger76 (79245, 0.19€ bounty)
+Seat 5: KylBac (19450, 0.11€ bounty)
+Seat 6: Daantje (11891, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Daantje posts ante 40
+P1xel7 posts ante 40
+Ana DeBluff posts ante 40
+LoloZz67 posts ante 40
+goldfinger76 posts ante 40
+KylBac posts ante 40
+Daantje posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [9c 5s]
+*** PRE-FLOP *** 
+Ana DeBluff raises 1115 to 1465
+LoloZz67 raises 6207 to 7672 and is all-in
+goldfinger76 calls 7672
+KylBac raises 11738 to 19410 and is all-in
+Daantje folds
+P1xel7 folds
+Ana DeBluff calls 13373 and is all-in
+goldfinger76 calls 11738
+*** FLOP *** [9h Th 8s]
+*** TURN *** [9h Th 8s][2h]
+*** RIVER *** [9h Th 8s 2h][Kd]
+*** SHOW DOWN ***
+Ana DeBluff shows [Js Tc] (One pair : Tens)
+LoloZz67 shows [Qd 4h] (High card : King)
+KylBac shows [Ad Qc] (High card : Ace)
+goldfinger76 shows [Kh Qh] (Flush King high)
+goldfinger76 collected 62095 from pot
+*** SUMMARY ***
+Total pot 62095 | No rake
+Board: [9h Th 8s 2h Kd]
+Seat 2: Ana DeBluff showed [Js Tc] and lost with One pair : Tens
+Seat 3: LoloZz67 showed [Qd 4h] and lost with High card : King
+Seat 4: goldfinger76 showed [Kh Qh] and won 62095 with Flush King high
+Seat 5: KylBac (button) showed [Ad Qc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2932156567908253742-8-1692900739 - Holdem no limit (40/175/350) - 2023/08/24 18:12:19 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (18945, 0.11€ bounty)
+Seat 4: goldfinger76 (121890, 0.34€ bounty)
+Seat 6: Daantje (11676, 0.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+goldfinger76 posts ante 40
+Daantje posts ante 40
+P1xel7 posts small blind 175
+goldfinger76 posts big blind 350
+Dealt to P1xel7 [2c As]
+*** PRE-FLOP *** 
+Daantje folds
+P1xel7 folds
+goldfinger76 collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | No rake
+Seat 4: goldfinger76 (big blind) won 645
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2932156567908253742-9-1692900748 - Holdem no limit (40/175/350) - 2023/08/24 18:12:28 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (18730, 0.11€ bounty)
+Seat 2: Jairo5 (14510, 0.11€ bounty)
+Seat 3: Vikev (36251, 0.11€ bounty)
+Seat 4: goldfinger76 (122145, 0.34€ bounty)
+Seat 6: Daantje (11636, 0.11€ bounty)
+*** ANTE/BLINDS ***
+goldfinger76 posts ante 40
+Daantje posts ante 40
+P1xel7 posts ante 40
+goldfinger76 posts small blind 175
+Daantje posts big blind 350
+Dealt to P1xel7 [2h 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+goldfinger76 raises 820 to 1170
+Daantje folds
+goldfinger76 collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Seat 4: goldfinger76 (small blind) won 1640
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2932156567908253742-10-1692900784 - Holdem no limit (40/175/350) - 2023/08/24 18:13:04 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (18690, 0.11€ bounty)
+Seat 2: Jairo5 (14510, 0.11€ bounty)
+Seat 3: Vikev (36251, 0.11€ bounty)
+Seat 4: goldfinger76 (122575, 0.34€ bounty)
+Seat 6: Daantje (11246, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Daantje posts ante 40
+P1xel7 posts ante 40
+Jairo5 posts ante 40
+Vikev posts ante 40
+goldfinger76 posts ante 40
+Daantje posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [3c 8h]
+*** PRE-FLOP *** 
+Jairo5 folds
+Vikev folds
+goldfinger76 raises 700 to 1050
+Daantje folds
+P1xel7 folds
+goldfinger76 collected 1775 from pot
+*** SUMMARY ***
+Total pot 1775 | No rake
+Seat 4: goldfinger76 (button) won 1775
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2932156567908253742-11-1692900820 - Holdem no limit (40/175/350) - 2023/08/24 18:13:40 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (18300, 0.11€ bounty)
+Seat 2: Jairo5 (14470, 0.11€ bounty)
+Seat 3: Vikev (36211, 0.11€ bounty)
+Seat 4: goldfinger76 (123260, 0.34€ bounty)
+Seat 5: Msalvatrucha (20000, 0.11€ bounty)
+Seat 6: Daantje (11031, 0.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Jairo5 posts ante 40
+Vikev posts ante 40
+goldfinger76 posts ante 40
+Msalvatrucha posts ante 40
+Daantje posts ante 40
+P1xel7 posts small blind 175
+Jairo5 posts big blind 350
+Dealt to P1xel7 [Td Kh]
+*** PRE-FLOP *** 
+Vikev calls 350
+goldfinger76 calls 350
+Msalvatrucha calls 350
+Daantje folds
+P1xel7 raises 1750 to 2100
+Jairo5 folds
+Vikev folds
+goldfinger76 folds
+Msalvatrucha calls 1750
+*** FLOP *** [5s 6s Qd]
+P1xel7 checks
+Msalvatrucha checks
+*** TURN *** [5s 6s Qd][As]
+P1xel7 checks
+Msalvatrucha bets 350
+P1xel7 calls 350
+*** RIVER *** [5s 6s Qd As][2d]
+P1xel7 checks
+Msalvatrucha checks
+*** SHOW DOWN ***
+Msalvatrucha shows [7s Tc] (High card : Ace)
+P1xel7 shows [Td Kh] (High card : Ace)
+P1xel7 collected 6190 from pot
+*** SUMMARY ***
+Total pot 6190 | No rake
+Board: [5s 6s Qd As 2d]
+Seat 1: P1xel7 (small blind) showed [Td Kh] and won 6190 with High card : Ace
+Seat 5: Msalvatrucha showed [7s Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2932156567908253742-12-1692900917 - Holdem no limit (40/175/350) - 2023/08/24 18:15:17 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (22000, 0.11€ bounty)
+Seat 2: Jairo5 (14080, 0.11€ bounty)
+Seat 3: Vikev (35821, 0.11€ bounty)
+Seat 4: goldfinger76 (122870, 0.34€ bounty)
+Seat 5: Msalvatrucha (17510, 0.11€ bounty)
+Seat 6: Daantje (10991, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Jairo5 posts ante 40
+Vikev posts ante 40
+P1xel7 posts ante 40
+goldfinger76 posts ante 40
+Msalvatrucha posts ante 40
+Daantje posts ante 40
+Jairo5 posts small blind 175
+Vikev posts big blind 350
+Dealt to P1xel7 [2d Jc]
+*** PRE-FLOP *** 
+goldfinger76 calls 350
+Msalvatrucha raises 700 to 1050
+Daantje calls 1050
+P1xel7 folds
+Jairo5 folds
+Vikev folds
+goldfinger76 calls 700
+*** FLOP *** [Th Ac 8s]
+goldfinger76 checks
+Msalvatrucha checks
+Daantje checks
+*** TURN *** [Th Ac 8s][Qc]
+goldfinger76 bets 350
+Msalvatrucha raises 16070 to 16420 and is all-in
+Daantje calls 9901 and is all-in
+goldfinger76 folds
+*** RIVER *** [Th Ac 8s Qc][9d]
+*** SHOW DOWN ***
+Daantje shows [8c 7c] (One pair : 8)
+Msalvatrucha shows [Ks Js] (Straight Ace high)
+Msalvatrucha collected 30586 from pot
+*** SUMMARY ***
+Total pot 30586 | No rake
+Board: [Th Ac 8s Qc 9d]
+Seat 5: Msalvatrucha showed [Ks Js] and won 30586 with Straight Ace high
+Seat 6: Daantje showed [8c 7c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #2932156567908253742-13-1692900992 - Holdem no limit (50/200/400) - 2023/08/24 18:16:32 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (21960, 0.11€ bounty)
+Seat 2: Jairo5 (13865, 0.11€ bounty)
+Seat 3: Vikev (35431, 0.11€ bounty)
+Seat 4: goldfinger76 (121430, 0.34€ bounty)
+Seat 5: Msalvatrucha (30586, 0.16€ bounty)
+*** ANTE/BLINDS ***
+Vikev posts ante 50
+goldfinger76 posts ante 50
+P1xel7 posts ante 50
+Jairo5 posts ante 50
+Msalvatrucha posts ante 50
+Vikev posts small blind 200
+goldfinger76 posts big blind 400
+Dealt to P1xel7 [Tc 3s]
+*** PRE-FLOP *** 
+Msalvatrucha raises 600 to 1000
+P1xel7 folds
+Jairo5 folds
+Vikev raises 1500 to 2500
+goldfinger76 folds
+Msalvatrucha calls 1500
+*** FLOP *** [8d Qd 7d]
+Vikev bets 1977
+Msalvatrucha calls 1977
+*** TURN *** [8d Qd 7d][4d]
+Vikev checks
+Msalvatrucha bets 3361
+Vikev folds
+Msalvatrucha collected 12965 from pot
+*** SUMMARY ***
+Total pot 12965 | No rake
+Board: [8d Qd 7d 4d]
+Seat 5: Msalvatrucha won 12965
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #2932156567908253742-14-1692901037 - Holdem no limit (50/200/400) - 2023/08/24 18:17:17 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (21910, 0.11€ bounty)
+Seat 2: Jairo5 (13815, 0.11€ bounty)
+Seat 3: Vikev (30904, 0.11€ bounty)
+Seat 4: goldfinger76 (120980, 0.34€ bounty)
+Seat 5: Msalvatrucha (35663, 0.16€ bounty)
+Seat 6: lecouleur (20000, 0.11€ bounty)
+*** ANTE/BLINDS ***
+goldfinger76 posts ante 50
+Msalvatrucha posts ante 50
+P1xel7 posts ante 50
+Jairo5 posts ante 50
+Vikev posts ante 50
+lecouleur posts ante 50
+goldfinger76 posts small blind 200
+Msalvatrucha posts big blind 400
+Dealt to P1xel7 [Kc 2h]
+*** PRE-FLOP *** 
+lecouleur folds
+P1xel7 folds
+Jairo5 folds
+Vikev calls 400
+goldfinger76 calls 200
+Msalvatrucha checks
+*** FLOP *** [Jd 7c 8c]
+goldfinger76 checks
+Msalvatrucha checks
+Vikev checks
+*** TURN *** [Jd 7c 8c][Tc]
+goldfinger76 checks
+Msalvatrucha bets 400
+Vikev raises 1355 to 1755
+goldfinger76 folds
+Msalvatrucha folds
+Vikev collected 3655 from pot
+*** SUMMARY ***
+Total pot 3655 | No rake
+Board: [Jd 7c 8c Tc]
+Seat 3: Vikev (button) won 3655
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #2932156567908253742-15-1692901110 - Holdem no limit (50/200/400) - 2023/08/24 18:18:30 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (21860, 0.11€ bounty)
+Seat 2: Jairo5 (13765, 0.11€ bounty)
+Seat 3: Vikev (32354, 0.11€ bounty)
+Seat 4: goldfinger76 (120530, 0.34€ bounty)
+Seat 5: Msalvatrucha (34813, 0.16€ bounty)
+Seat 6: lecouleur (19950, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Msalvatrucha posts ante 50
+lecouleur posts ante 50
+P1xel7 posts ante 50
+Jairo5 posts ante 50
+Vikev posts ante 50
+goldfinger76 posts ante 50
+Msalvatrucha posts small blind 200
+lecouleur posts big blind 400
+Dealt to P1xel7 [Js 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Jairo5 folds
+Vikev folds
+goldfinger76 raises 800 to 1200
+Msalvatrucha calls 1000
+lecouleur calls 800
+*** FLOP *** [Ks Tc 3s]
+Msalvatrucha checks
+lecouleur checks
+goldfinger76 bets 1365
+Msalvatrucha calls 1365
+lecouleur folds
+*** TURN *** [Ks Tc 3s][2c]
+Msalvatrucha checks
+goldfinger76 checks
+*** RIVER *** [Ks Tc 3s 2c][Kh]
+Msalvatrucha checks
+goldfinger76 checks
+*** SHOW DOWN ***
+Msalvatrucha shows [Jh 9s] (One pair : Kings)
+goldfinger76 shows [Ac 6h] (One pair : Kings)
+goldfinger76 collected 6630 from pot
+*** SUMMARY ***
+Total pot 6630 | No rake
+Board: [Ks Tc 3s 2c Kh]
+Seat 4: goldfinger76 (button) showed [Ac 6h] and won 6630 with One pair : Kings
+Seat 5: Msalvatrucha (small blind) showed [Jh 9s] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #2932156567908253742-16-1692901187 - Holdem no limit (50/200/400) - 2023/08/24 18:19:47 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (21810, 0.11€ bounty)
+Seat 2: Jairo5 (13715, 0.11€ bounty)
+Seat 3: Vikev (32304, 0.11€ bounty)
+Seat 4: goldfinger76 (124545, 0.34€ bounty)
+Seat 5: Msalvatrucha (32198, 0.16€ bounty)
+Seat 6: lecouleur (18700, 0.11€ bounty)
+*** ANTE/BLINDS ***
+lecouleur posts ante 50
+P1xel7 posts ante 50
+Jairo5 posts ante 50
+Vikev posts ante 50
+goldfinger76 posts ante 50
+Msalvatrucha posts ante 50
+lecouleur posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [7c 7h]
+*** PRE-FLOP *** 
+Jairo5 folds
+Vikev calls 400
+goldfinger76 folds
+Msalvatrucha calls 400
+lecouleur folds
+P1xel7 raises 1600 to 2000
+Vikev folds
+Msalvatrucha calls 1600
+*** FLOP *** [8h 8d Qd]
+P1xel7 bets 1715
+Msalvatrucha calls 1715
+*** TURN *** [8h 8d Qd][Jd]
+P1xel7 checks
+Msalvatrucha bets 2916
+P1xel7 calls 2916
+*** RIVER *** [8h 8d Qd Jd][Ad]
+P1xel7 checks
+Msalvatrucha checks
+*** SHOW DOWN ***
+P1xel7 shows [7c 7h] (Two pairs : 8 and 7)
+Msalvatrucha shows [Th 9c] (Straight Queen high)
+Msalvatrucha collected 14162 from pot
+*** SUMMARY ***
+Total pot 14162 | No rake
+Board: [8h 8d Qd Jd Ad]
+Seat 1: P1xel7 (big blind) showed [7c 7h] and lost with Two pairs : 8 and 7
+Seat 5: Msalvatrucha (button) showed [Th 9c] and won 14162 with Straight Queen high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #2932156567908253742-17-1692901249 - Holdem no limit (50/200/400) - 2023/08/24 18:20:49 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (15129, 0.11€ bounty)
+Seat 2: Jairo5 (13665, 0.11€ bounty)
+Seat 3: Vikev (31854, 0.11€ bounty)
+Seat 4: goldfinger76 (124495, 0.34€ bounty)
+Seat 5: Msalvatrucha (39679, 0.16€ bounty)
+Seat 6: lecouleur (18450, 0.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+Jairo5 posts ante 50
+Vikev posts ante 50
+goldfinger76 posts ante 50
+Msalvatrucha posts ante 50
+lecouleur posts ante 50
+P1xel7 posts small blind 200
+Jairo5 posts big blind 400
+Dealt to P1xel7 [9s As]
+*** PRE-FLOP *** 
+Vikev folds
+goldfinger76 calls 400
+Msalvatrucha calls 400
+lecouleur calls 400
+P1xel7 raises 2400 to 2800
+Jairo5 folds
+goldfinger76 folds
+Msalvatrucha folds
+lecouleur folds
+P1xel7 collected 4700 from pot
+*** SUMMARY ***
+Total pot 4700 | No rake
+Seat 1: P1xel7 (small blind) won 4700
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2932156567908253742-18-1692901277 - Holdem no limit (60/250/500) - 2023/08/24 18:21:17 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (16979, 0.11€ bounty)
+Seat 2: Jairo5 (13215, 0.11€ bounty)
+Seat 3: Vikev (31804, 0.11€ bounty)
+Seat 4: goldfinger76 (124045, 0.34€ bounty)
+Seat 5: Msalvatrucha (39229, 0.16€ bounty)
+Seat 6: lecouleur (18000, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Jairo5 posts ante 60
+Vikev posts ante 60
+P1xel7 posts ante 60
+goldfinger76 posts ante 60
+Msalvatrucha posts ante 60
+lecouleur posts ante 60
+Jairo5 posts small blind 250
+Vikev posts big blind 500
+Dealt to P1xel7 [Js 8s]
+*** PRE-FLOP *** 
+goldfinger76 folds
+Msalvatrucha calls 500
+lecouleur folds
+P1xel7 folds
+Jairo5 folds
+Vikev checks
+*** FLOP *** [2c 2h 9c]
+Vikev checks
+Msalvatrucha checks
+*** TURN *** [2c 2h 9c][5d]
+Vikev checks
+Msalvatrucha checks
+*** RIVER *** [2c 2h 9c 5d][Jc]
+Vikev checks
+Msalvatrucha checks
+*** SHOW DOWN ***
+Vikev shows [Td 3d] (One pair : 2)
+Msalvatrucha shows [Qs 4d] (One pair : 2)
+Msalvatrucha collected 1610 from pot
+*** SUMMARY ***
+Total pot 1610 | No rake
+Board: [2c 2h 9c 5d Jc]
+Seat 3: Vikev (big blind) showed [Td 3d] and lost with One pair : 2
+Seat 5: Msalvatrucha showed [Qs 4d] and won 1610 with One pair : 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2932156567908253742-19-1692901368 - Holdem no limit (60/250/500) - 2023/08/24 18:22:48 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (16919, 0.11€ bounty)
+Seat 2: Jairo5 (12905, 0.11€ bounty)
+Seat 3: Vikev (31244, 0.11€ bounty)
+Seat 4: goldfinger76 (123985, 0.34€ bounty)
+Seat 5: Msalvatrucha (40279, 0.16€ bounty)
+Seat 6: lecouleur (17940, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Vikev posts ante 60
+goldfinger76 posts ante 60
+P1xel7 posts ante 60
+Jairo5 posts ante 60
+Msalvatrucha posts ante 60
+lecouleur posts ante 60
+Vikev posts small blind 250
+goldfinger76 posts big blind 500
+Dealt to P1xel7 [Jd 8h]
+*** PRE-FLOP *** 
+Msalvatrucha calls 500
+lecouleur calls 500
+P1xel7 folds
+Jairo5 raises 12345 to 12845 and is all-in
+Vikev calls 12595
+goldfinger76 folds
+Msalvatrucha calls 12345
+lecouleur raises 5035 to 17880 and is all-in
+Vikev calls 5035
+Msalvatrucha calls 5035
+*** FLOP *** [Kd 9s Qd]
+Vikev bets 13304 and is all-in
+Msalvatrucha calls 13304
+*** TURN *** [Kd 9s Qd][3s]
+*** RIVER *** [Kd 9s Qd 3s][Kh]
+*** SHOW DOWN ***
+Jairo5 shows [9c Ad] (Two pairs : Kings and 9)
+Vikev shows [4h As] (One pair : Kings)
+lecouleur shows [6h 7h] (One pair : Kings)
+Msalvatrucha shows [5s Ks] (Trips of Kings)
+Msalvatrucha collected 93953 from pot
+*** SUMMARY ***
+Total pot 93953 | No rake
+Board: [Kd 9s Qd 3s Kh]
+Seat 2: Jairo5 (button) showed [9c Ad] and lost with Two pairs : Kings and 9
+Seat 3: Vikev (small blind) showed [4h As] and lost with One pair : Kings
+Seat 5: Msalvatrucha showed [5s Ks] and won 93953 with Trips of Kings
+Seat 6: lecouleur showed [6h 7h] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2932156567908253742-20-1692901419 - Holdem no limit (60/250/500) - 2023/08/24 18:23:39 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (16859, 0.11€ bounty)
+Seat 4: goldfinger76 (123425, 0.34€ bounty)
+Seat 5: Msalvatrucha (102988, 0.31€ bounty)
+*** ANTE/BLINDS ***
+goldfinger76 posts ante 60
+Msalvatrucha posts ante 60
+P1xel7 posts ante 60
+goldfinger76 posts small blind 250
+Msalvatrucha posts big blind 500
+Dealt to P1xel7 [2h 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+goldfinger76 folds
+Msalvatrucha collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Seat 5: Msalvatrucha (big blind) won 930
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2932156567908253742-21-1692901428 - Holdem no limit (60/250/500) - 2023/08/24 18:23:48 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (16799, 0.11€ bounty)
+Seat 4: goldfinger76 (123115, 0.34€ bounty)
+Seat 5: Msalvatrucha (103358, 0.31€ bounty)
+*** ANTE/BLINDS ***
+Msalvatrucha posts ante 60
+P1xel7 posts ante 60
+goldfinger76 posts ante 60
+Msalvatrucha posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [Ac Ah]
+*** PRE-FLOP *** 
+goldfinger76 folds
+Msalvatrucha folds
+P1xel7 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Seat 1: P1xel7 (big blind) won 930
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2932156567908253742-22-1692901436 - Holdem no limit (60/250/500) - 2023/08/24 18:23:56 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (17169, 0.11€ bounty)
+Seat 4: goldfinger76 (123055, 0.34€ bounty)
+Seat 5: Msalvatrucha (103048, 0.31€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+goldfinger76 posts ante 60
+Msalvatrucha posts ante 60
+P1xel7 posts small blind 250
+goldfinger76 posts big blind 500
+Dealt to P1xel7 [6s Kh]
+*** PRE-FLOP *** 
+Msalvatrucha raises 500 to 1000
+P1xel7 folds
+goldfinger76 folds
+Msalvatrucha collected 1930 from pot
+*** SUMMARY ***
+Total pot 1930 | No rake
+Seat 5: Msalvatrucha (button) won 1930
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2932156567908253742-23-1692901448 - Holdem no limit (60/250/500) - 2023/08/24 18:24:08 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (16859, 0.11€ bounty)
+Seat 2: Bartou62 (67728, 0.24€ bounty)
+Seat 3: VP_Joker39 (60307, 0.16€ bounty)
+Seat 4: goldfinger76 (122495, 0.34€ bounty)
+Seat 5: Msalvatrucha (103918, 0.31€ bounty)
+*** ANTE/BLINDS ***
+goldfinger76 posts ante 60
+Msalvatrucha posts ante 60
+P1xel7 posts ante 60
+goldfinger76 posts small blind 250
+Msalvatrucha posts big blind 500
+Dealt to P1xel7 [Kh 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+goldfinger76 raises 1000 to 1500
+Msalvatrucha folds
+goldfinger76 collected 2180 from pot
+*** SUMMARY ***
+Total pot 2180 | No rake
+Seat 4: goldfinger76 (small blind) won 2180
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2932156567908253742-24-1692901460 - Holdem no limit (60/250/500) - 2023/08/24 18:24:20 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (16799, 0.11€ bounty)
+Seat 2: Bartou62 (67728, 0.24€ bounty)
+Seat 3: VP_Joker39 (60307, 0.16€ bounty)
+Seat 4: goldfinger76 (123115, 0.34€ bounty)
+Seat 5: Msalvatrucha (103358, 0.31€ bounty)
+Seat 6: Manolin1472 (20000, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Msalvatrucha posts ante 60
+Manolin1472 posts ante 60
+P1xel7 posts ante 60
+Bartou62 posts ante 60
+VP_Joker39 posts ante 60
+goldfinger76 posts ante 60
+Msalvatrucha posts small blind 250
+Manolin1472 posts big blind 500
+Dealt to P1xel7 [Qh As]
+*** PRE-FLOP *** 
+P1xel7 raises 1000 to 1500
+Bartou62 folds
+VP_Joker39 folds
+goldfinger76 folds
+Msalvatrucha raises 1000 to 2500
+Manolin1472 calls 2000
+P1xel7 raises 14239 to 16739 and is all-in
+Msalvatrucha calls 14239
+Manolin1472 folds
+*** FLOP *** [6c Qd 4s]
+*** TURN *** [6c Qd 4s][5s]
+*** RIVER *** [6c Qd 4s 5s][8c]
+*** SHOW DOWN ***
+Msalvatrucha shows [Ac 6h] (One pair : 6)
+P1xel7 shows [Qh As] (One pair : Queens)
+P1xel7 collected 36338 from pot
+*** SUMMARY ***
+Total pot 36338 | No rake
+Board: [6c Qd 4s 5s 8c]
+Seat 1: P1xel7 showed [Qh As] and won 36338 with One pair : Queens
+Seat 5: Msalvatrucha (small blind) showed [Ac 6h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2932156567908253742-25-1692901501 - Holdem no limit (60/250/500) - 2023/08/24 18:25:01 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (36338, 0.11€ bounty)
+Seat 2: Bartou62 (67668, 0.24€ bounty)
+Seat 3: VP_Joker39 (60247, 0.16€ bounty)
+Seat 4: goldfinger76 (123055, 0.34€ bounty)
+Seat 5: Msalvatrucha (86559, 0.31€ bounty)
+Seat 6: Manolin1472 (17440, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Manolin1472 posts ante 60
+P1xel7 posts ante 60
+Bartou62 posts ante 60
+VP_Joker39 posts ante 60
+goldfinger76 posts ante 60
+Msalvatrucha posts ante 60
+Manolin1472 posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [3c Tc]
+*** PRE-FLOP *** 
+Bartou62 raises 1000 to 1500
+VP_Joker39 folds
+goldfinger76 folds
+Msalvatrucha folds
+Manolin1472 folds
+P1xel7 folds
+Bartou62 collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Seat 2: Bartou62 won 2610
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2932156567908253742-26-1692901530 - Holdem no limit (60/250/500) - 2023/08/24 18:25:30 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (35778, 0.11€ bounty)
+Seat 2: Bartou62 (68718, 0.24€ bounty)
+Seat 3: VP_Joker39 (60187, 0.16€ bounty)
+Seat 4: goldfinger76 (122995, 0.34€ bounty)
+Seat 5: Msalvatrucha (86499, 0.31€ bounty)
+Seat 6: Manolin1472 (17130, 0.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+Bartou62 posts ante 60
+VP_Joker39 posts ante 60
+goldfinger76 posts ante 60
+Msalvatrucha posts ante 60
+Manolin1472 posts ante 60
+P1xel7 posts small blind 250
+Bartou62 posts big blind 500
+Dealt to P1xel7 [4s Tc]
+*** PRE-FLOP *** 
+VP_Joker39 calls 500
+goldfinger76 folds
+Msalvatrucha folds
+Manolin1472 folds
+P1xel7 folds
+Bartou62 checks
+*** FLOP *** [2h Ah 5s]
+Bartou62 checks
+VP_Joker39 checks
+*** TURN *** [2h Ah 5s][Jh]
+Bartou62 bets 500
+VP_Joker39 calls 500
+*** RIVER *** [2h Ah 5s Jh][3h]
+Bartou62 bets 1697
+VP_Joker39 calls 1697
+*** SHOW DOWN ***
+VP_Joker39 shows [2d 2s] (Trips of 2)
+Bartou62 shows [4h Th] (Flush Ace high)
+Bartou62 collected 6004 from pot
+*** SUMMARY ***
+Total pot 6004 | No rake
+Board: [2h Ah 5s Jh 3h]
+Seat 2: Bartou62 (big blind) showed [4h Th] and won 6004 with Flush Ace high
+Seat 3: VP_Joker39 showed [2d 2s] and lost with Trips of 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #2932156567908253742-27-1692901570 - Holdem no limit (70/300/600) - 2023/08/24 18:26:10 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (35468, 0.11€ bounty)
+Seat 2: Bartou62 (71965, 0.24€ bounty)
+Seat 3: VP_Joker39 (57430, 0.16€ bounty)
+Seat 4: goldfinger76 (122935, 0.34€ bounty)
+Seat 5: Msalvatrucha (86439, 0.31€ bounty)
+Seat 6: Manolin1472 (17070, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Bartou62 posts ante 70
+VP_Joker39 posts ante 70
+P1xel7 posts ante 70
+goldfinger76 posts ante 70
+Msalvatrucha posts ante 70
+Manolin1472 posts ante 70
+Bartou62 posts small blind 300
+VP_Joker39 posts big blind 600
+Dealt to P1xel7 [5d 8h]
+*** PRE-FLOP *** 
+goldfinger76 calls 600
+Msalvatrucha folds
+Manolin1472 folds
+P1xel7 folds
+Bartou62 folds
+VP_Joker39 raises 1200 to 1800
+goldfinger76 calls 1200
+*** FLOP *** [Jc 3s 7s]
+VP_Joker39 checks
+goldfinger76 bets 1512
+VP_Joker39 calls 1512
+*** TURN *** [Jc 3s 7s][6s]
+VP_Joker39 checks
+goldfinger76 checks
+*** RIVER *** [Jc 3s 7s 6s][8c]
+VP_Joker39 bets 2870
+goldfinger76 raises 2870 to 5740
+VP_Joker39 calls 2870
+*** SHOW DOWN ***
+VP_Joker39 shows [Qh Jd] (One pair : Jacks)
+goldfinger76 shows [9d Tc] (Straight Jack high)
+goldfinger76 collected 18824 from pot
+*** SUMMARY ***
+Total pot 18824 | No rake
+Board: [Jc 3s 7s 6s 8c]
+Seat 3: VP_Joker39 (big blind) showed [Qh Jd] and lost with One pair : Jacks
+Seat 4: goldfinger76 showed [9d Tc] and won 18824 with Straight Jack high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #2932156567908253742-28-1692901637 - Holdem no limit (70/300/600) - 2023/08/24 18:27:17 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (35398, 0.11€ bounty)
+Seat 2: Bartou62 (71595, 0.24€ bounty)
+Seat 3: VP_Joker39 (48308, 0.16€ bounty)
+Seat 4: goldfinger76 (132637, 0.34€ bounty)
+Seat 5: Msalvatrucha (86369, 0.31€ bounty)
+Seat 6: Manolin1472 (17000, 0.11€ bounty)
+*** ANTE/BLINDS ***
+VP_Joker39 posts ante 70
+goldfinger76 posts ante 70
+P1xel7 posts ante 70
+Bartou62 posts ante 70
+Msalvatrucha posts ante 70
+Manolin1472 posts ante 70
+VP_Joker39 posts small blind 300
+goldfinger76 posts big blind 600
+Dealt to P1xel7 [Ks Tc]
+*** PRE-FLOP *** 
+Msalvatrucha calls 600
+Manolin1472 folds
+P1xel7 raises 1800 to 2400
+Bartou62 folds
+VP_Joker39 folds
+goldfinger76 calls 1800
+Msalvatrucha calls 1800
+*** FLOP *** [4s 2s 4h]
+goldfinger76 checks
+Msalvatrucha checks
+P1xel7 bets 5400
+goldfinger76 folds
+Msalvatrucha folds
+P1xel7 collected 13320 from pot
+*** SUMMARY ***
+Total pot 13320 | No rake
+Board: [4s 2s 4h]
+Seat 1: P1xel7 won 13320
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #2932156567908253742-29-1692901678 - Holdem no limit (70/300/600) - 2023/08/24 18:27:58 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (40848, 0.11€ bounty)
+Seat 2: Bartou62 (71525, 0.24€ bounty)
+Seat 3: VP_Joker39 (47938, 0.16€ bounty)
+Seat 4: goldfinger76 (130167, 0.34€ bounty)
+Seat 5: Msalvatrucha (83899, 0.31€ bounty)
+Seat 6: Manolin1472 (16930, 0.11€ bounty)
+*** ANTE/BLINDS ***
+goldfinger76 posts ante 70
+Msalvatrucha posts ante 70
+P1xel7 posts ante 70
+Bartou62 posts ante 70
+VP_Joker39 posts ante 70
+Manolin1472 posts ante 70
+goldfinger76 posts small blind 300
+Msalvatrucha posts big blind 600
+Dealt to P1xel7 [9d 9h]
+*** PRE-FLOP *** 
+Manolin1472 calls 600
+P1xel7 raises 1800 to 2400
+Bartou62 calls 2400
+VP_Joker39 raises 45468 to 47868 and is all-in
+goldfinger76 folds
+Msalvatrucha folds
+Manolin1472 folds
+P1xel7 folds
+Bartou62 folds
+VP_Joker39 collected 54588 from pot
+*** SUMMARY ***
+Total pot 54588 | No rake
+Seat 3: VP_Joker39 (button) won 54588
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #2932156567908253742-30-1692901725 - Holdem no limit (70/300/600) - 2023/08/24 18:28:45 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (38378, 0.11€ bounty)
+Seat 2: Bartou62 (69055, 0.24€ bounty)
+Seat 3: VP_Joker39 (54588, 0.16€ bounty)
+Seat 4: goldfinger76 (129797, 0.34€ bounty)
+Seat 5: Msalvatrucha (83229, 0.31€ bounty)
+Seat 6: Manolin1472 (16260, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Msalvatrucha posts ante 70
+Manolin1472 posts ante 70
+P1xel7 posts ante 70
+Bartou62 posts ante 70
+VP_Joker39 posts ante 70
+goldfinger76 posts ante 70
+Msalvatrucha posts small blind 300
+Manolin1472 posts big blind 600
+Dealt to P1xel7 [Ad 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Bartou62 folds
+VP_Joker39 raises 600 to 1200
+goldfinger76 folds
+Msalvatrucha calls 900
+Manolin1472 calls 600
+*** FLOP *** [Ks Js Kc]
+Msalvatrucha checks
+Manolin1472 checks
+VP_Joker39 bets 600
+Msalvatrucha folds
+Manolin1472 calls 600
+*** TURN *** [Ks Js Kc][Ac]
+Manolin1472 checks
+VP_Joker39 bets 600
+Manolin1472 calls 600
+*** RIVER *** [Ks Js Kc Ac][2c]
+Manolin1472 checks
+VP_Joker39 checks
+*** SHOW DOWN ***
+Manolin1472 shows [6h Qd] (One pair : Kings)
+VP_Joker39 shows [4c As] (Two pairs : Aces and Kings)
+VP_Joker39 collected 6420 from pot
+*** SUMMARY ***
+Total pot 6420 | No rake
+Board: [Ks Js Kc Ac 2c]
+Seat 3: VP_Joker39 showed [4c As] and won 6420 with Two pairs : Aces and Kings
+Seat 6: Manolin1472 (big blind) showed [6h Qd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #2932156567908253742-31-1692901802 - Holdem no limit (70/300/600) - 2023/08/24 18:30:02 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (38308, 0.11€ bounty)
+Seat 2: Bartou62 (68985, 0.24€ bounty)
+Seat 3: VP_Joker39 (58538, 0.16€ bounty)
+Seat 4: goldfinger76 (129727, 0.34€ bounty)
+Seat 5: Msalvatrucha (81959, 0.31€ bounty)
+Seat 6: Manolin1472 (13790, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Manolin1472 posts ante 70
+P1xel7 posts ante 70
+Bartou62 posts ante 70
+VP_Joker39 posts ante 70
+goldfinger76 posts ante 70
+Msalvatrucha posts ante 70
+Manolin1472 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [2d 7c]
+*** PRE-FLOP *** 
+Bartou62 calls 600
+VP_Joker39 calls 600
+goldfinger76 folds
+Msalvatrucha folds
+Manolin1472 calls 300
+P1xel7 checks
+*** FLOP *** [8d 9d 6c]
+Manolin1472 checks
+P1xel7 checks
+Bartou62 bets 600
+VP_Joker39 calls 600
+Manolin1472 calls 600
+P1xel7 calls 600
+*** TURN *** [8d 9d 6c][Kc]
+Manolin1472 checks
+P1xel7 checks
+Bartou62 checks
+VP_Joker39 bets 3393
+Manolin1472 calls 3393
+P1xel7 folds
+Bartou62 folds
+*** RIVER *** [8d 9d 6c Kc][Jh]
+Manolin1472 checks
+VP_Joker39 bets 9604
+Manolin1472 folds
+VP_Joker39 collected 21610 from pot
+*** SUMMARY ***
+Total pot 21610 | No rake
+Board: [8d 9d 6c Kc Jh]
+Seat 3: VP_Joker39 won 21610
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #2932156567908253742-32-1692901893 - Holdem no limit (80/350/700) - 2023/08/24 18:31:33 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (37038, 0.11€ bounty)
+Seat 2: Bartou62 (67715, 0.24€ bounty)
+Seat 3: VP_Joker39 (65881, 0.16€ bounty)
+Seat 4: goldfinger76 (129657, 0.34€ bounty)
+Seat 5: Msalvatrucha (81889, 0.31€ bounty)
+Seat 6: Manolin1472 (9127, 0.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Bartou62 posts ante 80
+VP_Joker39 posts ante 80
+goldfinger76 posts ante 80
+Msalvatrucha posts ante 80
+Manolin1472 posts ante 80
+P1xel7 posts small blind 350
+Bartou62 posts big blind 700
+Dealt to P1xel7 [4s Jd]
+*** PRE-FLOP *** 
+VP_Joker39 folds
+goldfinger76 folds
+Msalvatrucha calls 700
+Manolin1472 calls 700
+P1xel7 folds
+Bartou62 checks
+*** FLOP *** [Ks 9s 7d]
+Bartou62 checks
+Msalvatrucha bets 2930
+Manolin1472 calls 2930
+Bartou62 folds
+*** TURN *** [Ks 9s 7d][Qd]
+Msalvatrucha bets 5714
+Manolin1472 calls 5417 and is all-in
+*** RIVER *** [Ks 9s 7d Qd][Qh]
+*** SHOW DOWN ***
+Msalvatrucha shows [9h 7c] (Two pairs : Queens and 9)
+Manolin1472 shows [Kc Ts] (Two pairs : Kings and Queens)
+Manolin1472 collected 19624 from main pot
+Msalvatrucha collected 297 from side pot 1
+*** SUMMARY ***
+Total pot 19921 | No rake
+Board: [Ks 9s 7d Qd Qh]
+Seat 5: Msalvatrucha showed [9h 7c] and won 297 with Two pairs : Queens and 9
+Seat 6: Manolin1472 (button) showed [Kc Ts] and won 19624 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #2932156567908253742-33-1692901945 - Holdem no limit (80/350/700) - 2023/08/24 18:32:25 UTC
+Table: 'Kill The Fish(682695901)#045' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (36608, 0.11€ bounty)
+Seat 2: Bartou62 (66935, 0.24€ bounty)
+Seat 3: VP_Joker39 (65801, 0.16€ bounty)
+Seat 4: goldfinger76 (129577, 0.34€ bounty)
+Seat 5: Msalvatrucha (72762, 0.31€ bounty)
+Seat 6: Manolin1472 (19624, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Bartou62 posts ante 80
+VP_Joker39 posts ante 80
+P1xel7 posts ante 80
+goldfinger76 posts ante 80
+Msalvatrucha posts ante 80
+Manolin1472 posts ante 80
+Bartou62 posts small blind 350
+VP_Joker39 posts big blind 700
+Dealt to P1xel7 [Ac Qc]
+*** PRE-FLOP *** 
+goldfinger76 calls 700
+Msalvatrucha raises 1400 to 2100
+Manolin1472 calls 2100
+P1xel7 raises 34428 to 36528 and is all-in
+Bartou62 calls 36178
+VP_Joker39 folds
+goldfinger76 folds
+Msalvatrucha calls 34428
+Manolin1472 folds
+*** FLOP *** [3d Ah Qd]
+Bartou62 checks
+Msalvatrucha bets 36154 and is all-in
+Bartou62 calls 30327 and is all-in
+*** TURN *** [3d Ah Qd][2s]
+*** RIVER *** [3d Ah Qd 2s][Jd]
+*** SHOW DOWN ***
+P1xel7 shows [Ac Qc] (Two pairs : Aces and Queens)
+Bartou62 shows [Kh Kc] (One pair : Kings)
+Msalvatrucha shows [Js Jh] (Trips of Jacks)
+Msalvatrucha collected 180045 from pot
+*** SUMMARY ***
+Total pot 180045 | No rake
+Board: [3d Ah Qd 2s Jd]
+Seat 1: P1xel7 (button) showed [Ac Qc] and lost with Two pairs : Aces and Queens
+Seat 2: Bartou62 (small blind) showed [Kh Kc] and lost with One pair : Kings
+Seat 5: Msalvatrucha showed [Js Jh] and won 180045 with Trips of Jacks
+
+

@@ -1,0 +1,4495 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3216089520042672139-7-1708974308 - Holdem no limit (160/700/1400) - 2024/02/26 19:05:08 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #5 is the button
+Seat 1: dirtyData (70802)
+Seat 2: P1xel7 (100000)
+Seat 3: leGwadaFOu (103176)
+Seat 4: Maaarty_ (97360)
+Seat 5: MAntonio21 (113900)
+Seat 6: -Killhim- (90600)
+Seat 7: Didou2288 (107980)
+Seat 8: holalalaSQPC (229638)
+*** ANTE/BLINDS ***
+-Killhim- posts ante 160
+Didou2288 posts ante 160
+dirtyData posts ante 160
+P1xel7 posts ante 160
+leGwadaFOu posts ante 160
+Maaarty_ posts ante 160
+MAntonio21 posts ante 160
+holalalaSQPC posts ante 160
+-Killhim- posts small blind 700
+Didou2288 posts big blind 1400
+Dealt to P1xel7 [2s Jh]
+*** PRE-FLOP *** 
+holalalaSQPC folds
+dirtyData raises 1400 to 2800
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+Didou2288 calls 1400
+*** FLOP *** [7s 3c Jd]
+Didou2288 checks
+dirtyData bets 2492
+Didou2288 calls 2492
+*** TURN *** [7s 3c Jd][Ts]
+Didou2288 checks
+dirtyData checks
+*** RIVER *** [7s 3c Jd Ts][Qh]
+Didou2288 checks
+dirtyData bets 9423
+Didou2288 folds
+dirtyData collected 21987 from pot
+*** SUMMARY ***
+Total pot 21987 | No rake
+Board: [7s 3c Jd Ts Qh]
+Seat 1: dirtyData won 21987
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3216089520042672139-8-1708974360 - Holdem no limit (160/700/1400) - 2024/02/26 19:06:00 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #6 is the button
+Seat 1: dirtyData (77914)
+Seat 2: P1xel7 (99840)
+Seat 3: leGwadaFOu (103016)
+Seat 4: Maaarty_ (97200)
+Seat 5: MAntonio21 (113740)
+Seat 6: -Killhim- (89740)
+Seat 7: Didou2288 (102528)
+Seat 8: holalalaSQPC (229478)
+*** ANTE/BLINDS ***
+Didou2288 posts ante 160
+holalalaSQPC posts ante 160
+dirtyData posts ante 160
+P1xel7 posts ante 160
+leGwadaFOu posts ante 160
+Maaarty_ posts ante 160
+MAntonio21 posts ante 160
+-Killhim- posts ante 160
+Didou2288 posts small blind 700
+holalalaSQPC posts big blind 1400
+Dealt to P1xel7 [Qc Ah]
+*** PRE-FLOP *** 
+dirtyData folds
+P1xel7 raises 3500 to 4900
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+Didou2288 folds
+holalalaSQPC raises 95348 to 100248
+P1xel7 calls 94780 and is all-in
+*** FLOP *** [7c 6d 7h]
+*** TURN *** [7c 6d 7h][Qs]
+*** RIVER *** [7c 6d 7h Qs][Ks]
+*** SHOW DOWN ***
+P1xel7 shows [Qc Ah] (Two pairs : Queens and 7)
+holalalaSQPC shows [Tc Ac] (One pair : 7)
+holalalaSQPC collected 568 from side pot 1
+P1xel7 collected 201340 from main pot
+*** SUMMARY ***
+Total pot 201908 | No rake
+Board: [7c 6d 7h Qs Ks]
+Seat 2: P1xel7 showed [Qc Ah] and won 201340 with Two pairs : Queens and 7
+Seat 8: holalalaSQPC (big blind) showed [Tc Ac] and won 568 with One pair : 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3216089520042672139-9-1708974418 - Holdem no limit (160/700/1400) - 2024/02/26 19:06:58 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #7 is the button
+Seat 1: dirtyData (77754)
+Seat 2: P1xel7 (201340)
+Seat 3: leGwadaFOu (102856)
+Seat 4: Maaarty_ (97040)
+Seat 5: MAntonio21 (113580)
+Seat 6: -Killhim- (89580)
+Seat 7: Didou2288 (101668)
+Seat 8: holalalaSQPC (129638)
+*** ANTE/BLINDS ***
+holalalaSQPC posts ante 160
+dirtyData posts ante 160
+P1xel7 posts ante 160
+leGwadaFOu posts ante 160
+Maaarty_ posts ante 160
+MAntonio21 posts ante 160
+-Killhim- posts ante 160
+Didou2288 posts ante 160
+holalalaSQPC posts small blind 700
+dirtyData posts big blind 1400
+Dealt to P1xel7 [3d Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- raises 2100 to 3500
+Didou2288 folds
+holalalaSQPC raises 125978 to 129478 and is all-in
+dirtyData folds
+-Killhim- folds
+holalalaSQPC collected 135658 from pot
+*** SUMMARY ***
+Total pot 135658 | No rake
+Seat 8: holalalaSQPC (small blind) won 135658
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3216089520042672139-10-1708974444 - Holdem no limit (160/700/1400) - 2024/02/26 19:07:24 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #8 is the button
+Seat 1: dirtyData (76194)
+Seat 2: P1xel7 (201180)
+Seat 3: leGwadaFOu (102696)
+Seat 4: Maaarty_ (96880)
+Seat 5: MAntonio21 (113420)
+Seat 6: -Killhim- (85920)
+Seat 7: Didou2288 (101508)
+Seat 8: holalalaSQPC (135658)
+*** ANTE/BLINDS ***
+dirtyData posts ante 160
+P1xel7 posts ante 160
+leGwadaFOu posts ante 160
+Maaarty_ posts ante 160
+MAntonio21 posts ante 160
+-Killhim- posts ante 160
+Didou2288 posts ante 160
+holalalaSQPC posts ante 160
+dirtyData posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [5h 6c]
+*** PRE-FLOP *** 
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 raises 1400 to 2800
+-Killhim- folds
+Didou2288 folds
+holalalaSQPC folds
+dirtyData folds
+P1xel7 calls 1400
+*** FLOP *** [6h 5d Tc]
+P1xel7 checks
+MAntonio21 checks
+*** TURN *** [6h 5d Tc][3h]
+P1xel7 bets 3500
+MAntonio21 calls 3500
+*** RIVER *** [6h 5d Tc 3h][Jd]
+P1xel7 bets 7700
+MAntonio21 folds
+P1xel7 collected 22280 from pot
+*** SUMMARY ***
+Total pot 22280 | No rake
+Board: [6h 5d Tc 3h Jd]
+Seat 2: P1xel7 (big blind) won 22280
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3216089520042672139-11-1708974524 - Holdem no limit (160/700/1400) - 2024/02/26 19:08:44 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #1 is the button
+Seat 1: dirtyData (75334)
+Seat 2: P1xel7 (209300)
+Seat 3: leGwadaFOu (102536)
+Seat 4: Maaarty_ (96720)
+Seat 5: MAntonio21 (106960)
+Seat 6: -Killhim- (85760)
+Seat 7: Didou2288 (101348)
+Seat 8: holalalaSQPC (135498)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+leGwadaFOu posts ante 160
+dirtyData posts ante 160
+Maaarty_ posts ante 160
+MAntonio21 posts ante 160
+-Killhim- posts ante 160
+Didou2288 posts ante 160
+holalalaSQPC posts ante 160
+P1xel7 posts small blind 700
+leGwadaFOu posts big blind 1400
+Dealt to P1xel7 [Qd 8c]
+*** PRE-FLOP *** 
+Maaarty_ folds
+MAntonio21 raises 1400 to 2800
+-Killhim- calls 2800
+Didou2288 folds
+holalalaSQPC raises 132538 to 135338 and is all-in
+dirtyData folds
+P1xel7 folds
+leGwadaFOu folds
+MAntonio21 folds
+-Killhim- folds
+holalalaSQPC collected 144318 from pot
+*** SUMMARY ***
+Total pot 144318 | No rake
+Seat 8: holalalaSQPC won 144318
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3216089520042672139-12-1708974562 - Holdem no limit (160/700/1400) - 2024/02/26 19:09:22 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #2 is the button
+Seat 1: dirtyData (75174)
+Seat 2: P1xel7 (208440)
+Seat 3: leGwadaFOu (100976)
+Seat 4: Maaarty_ (96560)
+Seat 5: MAntonio21 (104000)
+Seat 6: -Killhim- (82800)
+Seat 7: Didou2288 (101188)
+Seat 8: holalalaSQPC (144318)
+*** ANTE/BLINDS ***
+leGwadaFOu posts ante 160
+Maaarty_ posts ante 160
+dirtyData posts ante 160
+P1xel7 posts ante 160
+MAntonio21 posts ante 160
+-Killhim- posts ante 160
+Didou2288 posts ante 160
+holalalaSQPC posts ante 160
+leGwadaFOu posts small blind 700
+Maaarty_ posts big blind 1400
+Dealt to P1xel7 [6s 2s]
+*** PRE-FLOP *** 
+MAntonio21 folds
+-Killhim- folds
+Didou2288 folds
+holalalaSQPC calls 1400
+dirtyData folds
+P1xel7 folds
+leGwadaFOu calls 700
+Maaarty_ checks
+*** FLOP *** [Kd 8d Js]
+leGwadaFOu checks
+Maaarty_ checks
+holalalaSQPC checks
+*** TURN *** [Kd 8d Js][Ah]
+leGwadaFOu checks
+Maaarty_ checks
+holalalaSQPC bets 3562
+leGwadaFOu folds
+Maaarty_ calls 3562
+*** RIVER *** [Kd 8d Js Ah][4s]
+Maaarty_ checks
+holalalaSQPC bets 4200
+Maaarty_ folds
+holalalaSQPC collected 16804 from pot
+*** SUMMARY ***
+Total pot 16804 | No rake
+Board: [Kd 8d Js Ah 4s]
+Seat 8: holalalaSQPC won 16804
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3216089520042672139-13-1708974694 - Holdem no limit (200/800/1600) - 2024/02/26 19:11:34 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #3 is the button
+Seat 1: dirtyData (75014)
+Seat 2: P1xel7 (208280)
+Seat 3: leGwadaFOu (99416)
+Seat 4: Maaarty_ (91438)
+Seat 5: MAntonio21 (103840)
+Seat 6: -Killhim- (82640)
+Seat 7: Didou2288 (101028)
+Seat 8: holalalaSQPC (151800)
+*** ANTE/BLINDS ***
+Maaarty_ posts ante 200
+MAntonio21 posts ante 200
+dirtyData posts ante 200
+P1xel7 posts ante 200
+leGwadaFOu posts ante 200
+-Killhim- posts ante 200
+Didou2288 posts ante 200
+holalalaSQPC posts ante 200
+Maaarty_ posts small blind 800
+MAntonio21 posts big blind 1600
+Dealt to P1xel7 [4s 2h]
+*** PRE-FLOP *** 
+-Killhim- folds
+Didou2288 folds
+holalalaSQPC calls 1600
+dirtyData raises 3200 to 4800
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+holalalaSQPC calls 3200
+*** FLOP *** [9s 5d Js]
+holalalaSQPC checks
+dirtyData bets 6800
+holalalaSQPC calls 6800
+*** TURN *** [9s 5d Js][9c]
+holalalaSQPC checks
+dirtyData checks
+*** RIVER *** [9s 5d Js 9c][Tc]
+holalalaSQPC checks
+dirtyData checks
+*** SHOW DOWN ***
+dirtyData shows [4h 4c] (Two pairs : 9 and 4)
+holalalaSQPC shows [5s As] (Two pairs : 9 and 5)
+holalalaSQPC collected 27200 from pot
+*** SUMMARY ***
+Total pot 27200 | No rake
+Board: [9s 5d Js 9c Tc]
+Seat 1: dirtyData showed [4h 4c] and lost with Two pairs : 9 and 4
+Seat 8: holalalaSQPC showed [5s As] and won 27200 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3216089520042672139-14-1708974759 - Holdem no limit (200/800/1600) - 2024/02/26 19:12:39 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #4 is the button
+Seat 1: dirtyData (63214)
+Seat 2: P1xel7 (208080)
+Seat 3: leGwadaFOu (99216)
+Seat 4: Maaarty_ (90438)
+Seat 5: MAntonio21 (102040)
+Seat 6: -Killhim- (82440)
+Seat 7: Didou2288 (100828)
+Seat 8: holalalaSQPC (167200)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 200
+-Killhim- posts ante 200
+dirtyData posts ante 200
+P1xel7 posts ante 200
+leGwadaFOu posts ante 200
+Maaarty_ posts ante 200
+Didou2288 posts ante 200
+holalalaSQPC posts ante 200
+MAntonio21 posts small blind 800
+-Killhim- posts big blind 1600
+Dealt to P1xel7 [Tc 9h]
+*** PRE-FLOP *** 
+Didou2288 raises 2400 to 4000
+holalalaSQPC folds
+dirtyData folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- calls 2400
+*** FLOP *** [9c 2d 3c]
+-Killhim- bets 8320
+Didou2288 calls 8320
+*** TURN *** [9c 2d 3c][Kc]
+-Killhim- bets 17576
+Didou2288 calls 17576
+*** RIVER *** [9c 2d 3c Kc][Js]
+-Killhim- checks
+Didou2288 bets 49754
+-Killhim- folds
+Didou2288 collected 111946 from pot
+*** SUMMARY ***
+Total pot 111946 | No rake
+Board: [9c 2d 3c Kc Js]
+Seat 7: Didou2288 won 111946
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3216089520042672139-15-1708974853 - Holdem no limit (200/800/1600) - 2024/02/26 19:14:13 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #5 is the button
+Seat 1: dirtyData (63014)
+Seat 2: P1xel7 (207880)
+Seat 3: leGwadaFOu (99016)
+Seat 4: Maaarty_ (90238)
+Seat 5: MAntonio21 (101040)
+Seat 6: -Killhim- (52344)
+Seat 7: Didou2288 (132924)
+Seat 8: holalalaSQPC (167000)
+*** ANTE/BLINDS ***
+-Killhim- posts ante 200
+Didou2288 posts ante 200
+dirtyData posts ante 200
+P1xel7 posts ante 200
+leGwadaFOu posts ante 200
+Maaarty_ posts ante 200
+MAntonio21 posts ante 200
+holalalaSQPC posts ante 200
+-Killhim- posts small blind 800
+Didou2288 posts big blind 1600
+Dealt to P1xel7 [Ad 5c]
+*** PRE-FLOP *** 
+holalalaSQPC folds
+dirtyData folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 raises 1600 to 3200
+-Killhim- calls 2400
+Didou2288 folds
+*** FLOP *** [6h 8d 3c]
+-Killhim- checks
+MAntonio21 bets 3168
+-Killhim- calls 3168
+*** TURN *** [6h 8d 3c][4d]
+-Killhim- checks
+MAntonio21 bets 10518
+-Killhim- calls 10518
+*** RIVER *** [6h 8d 3c 4d][Jd]
+-Killhim- checks
+MAntonio21 checks
+*** SHOW DOWN ***
+-Killhim- shows [As 6d] (One pair : 6)
+MAntonio21 shows [Qc 8c] (One pair : 8)
+MAntonio21 collected 36972 from pot
+*** SUMMARY ***
+Total pot 36972 | No rake
+Board: [6h 8d 3c 4d Jd]
+Seat 5: MAntonio21 (button) showed [Qc 8c] and won 36972 with One pair : 8
+Seat 6: -Killhim- (small blind) showed [As 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3216089520042672139-16-1708974927 - Holdem no limit (200/800/1600) - 2024/02/26 19:15:27 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #6 is the button
+Seat 1: dirtyData (62814)
+Seat 2: P1xel7 (207680)
+Seat 3: leGwadaFOu (98816)
+Seat 4: Maaarty_ (90038)
+Seat 5: MAntonio21 (120926)
+Seat 6: -Killhim- (35258)
+Seat 7: Didou2288 (131124)
+Seat 8: holalalaSQPC (166800)
+*** ANTE/BLINDS ***
+Didou2288 posts ante 200
+holalalaSQPC posts ante 200
+dirtyData posts ante 200
+P1xel7 posts ante 200
+leGwadaFOu posts ante 200
+Maaarty_ posts ante 200
+MAntonio21 posts ante 200
+-Killhim- posts ante 200
+Didou2288 posts small blind 800
+holalalaSQPC posts big blind 1600
+Dealt to P1xel7 [Qh Ah]
+*** PRE-FLOP *** 
+dirtyData folds
+P1xel7 raises 3200 to 4800
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+Didou2288 calls 4000
+holalalaSQPC calls 3200
+*** FLOP *** [4h 2h 8s]
+Didou2288 checks
+holalalaSQPC checks
+P1xel7 bets 7200
+Didou2288 calls 7200
+holalalaSQPC folds
+*** TURN *** [4h 2h 8s][Js]
+Didou2288 checks
+P1xel7 checks
+*** RIVER *** [4h 2h 8s Js][8h]
+Didou2288 checks
+P1xel7 bets 16000
+Didou2288 calls 16000
+*** SHOW DOWN ***
+Didou2288 shows [4c Ac] (Two pairs : 8 and 4)
+P1xel7 shows [Qh Ah] (Flush Ace high)
+P1xel7 collected 62400 from pot
+*** SUMMARY ***
+Total pot 62400 | No rake
+Board: [4h 2h 8s Js 8h]
+Seat 2: P1xel7 showed [Qh Ah] and won 62400 with Flush Ace high
+Seat 7: Didou2288 (small blind) showed [4c Ac] and lost with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3216089520042672139-17-1708975018 - Holdem no limit (200/800/1600) - 2024/02/26 19:16:58 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #7 is the button
+Seat 1: dirtyData (62614)
+Seat 2: P1xel7 (241880)
+Seat 3: leGwadaFOu (98616)
+Seat 4: Maaarty_ (89838)
+Seat 5: MAntonio21 (120726)
+Seat 6: -Killhim- (35058)
+Seat 7: Didou2288 (102924)
+Seat 8: holalalaSQPC (161800)
+*** ANTE/BLINDS ***
+holalalaSQPC posts ante 200
+dirtyData posts ante 200
+P1xel7 posts ante 200
+leGwadaFOu posts ante 200
+Maaarty_ posts ante 200
+MAntonio21 posts ante 200
+-Killhim- posts ante 200
+Didou2288 posts ante 200
+holalalaSQPC posts small blind 800
+dirtyData posts big blind 1600
+Dealt to P1xel7 [Kh 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+leGwadaFOu raises 1600 to 3200
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+Didou2288 folds
+holalalaSQPC folds
+dirtyData folds
+leGwadaFOu collected 7200 from pot
+*** SUMMARY ***
+Total pot 7200 | No rake
+Seat 3: leGwadaFOu won 7200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3216089520042672139-18-1708975057 - Holdem no limit (250/1000/2000) - 2024/02/26 19:17:37 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #8 is the button
+Seat 1: dirtyData (60814)
+Seat 2: P1xel7 (241680)
+Seat 3: leGwadaFOu (102416)
+Seat 4: Maaarty_ (89638)
+Seat 5: MAntonio21 (120526)
+Seat 6: -Killhim- (34858)
+Seat 7: Didou2288 (102724)
+Seat 8: holalalaSQPC (160800)
+*** ANTE/BLINDS ***
+dirtyData posts ante 250
+P1xel7 posts ante 250
+leGwadaFOu posts ante 250
+Maaarty_ posts ante 250
+MAntonio21 posts ante 250
+-Killhim- posts ante 250
+Didou2288 posts ante 250
+holalalaSQPC posts ante 250
+dirtyData posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [8s 5s]
+*** PRE-FLOP *** 
+leGwadaFOu raises 3000 to 5000
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+Didou2288 folds
+holalalaSQPC calls 5000
+dirtyData folds
+P1xel7 calls 3000
+*** FLOP *** [Js 7d Jh]
+P1xel7 checks
+leGwadaFOu bets 6300
+holalalaSQPC folds
+P1xel7 folds
+leGwadaFOu collected 24300 from pot
+*** SUMMARY ***
+Total pot 24300 | No rake
+Board: [Js 7d Jh]
+Seat 3: leGwadaFOu won 24300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3216089520042672139-19-1708975126 - Holdem no limit (250/1000/2000) - 2024/02/26 19:18:46 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #1 is the button
+Seat 1: dirtyData (59564)
+Seat 2: P1xel7 (236430)
+Seat 3: leGwadaFOu (115166)
+Seat 4: Maaarty_ (89388)
+Seat 5: MAntonio21 (120276)
+Seat 6: -Killhim- (34608)
+Seat 7: Didou2288 (102474)
+Seat 8: holalalaSQPC (155550)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+leGwadaFOu posts ante 250
+dirtyData posts ante 250
+Maaarty_ posts ante 250
+MAntonio21 posts ante 250
+-Killhim- posts ante 250
+Didou2288 posts ante 250
+holalalaSQPC posts ante 250
+P1xel7 posts small blind 1000
+leGwadaFOu posts big blind 2000
+Dealt to P1xel7 [6h 2s]
+*** PRE-FLOP *** 
+Maaarty_ folds
+MAntonio21 raises 2000 to 4000
+-Killhim- folds
+Didou2288 folds
+holalalaSQPC folds
+dirtyData folds
+P1xel7 folds
+leGwadaFOu raises 8000 to 12000
+MAntonio21 calls 8000
+*** FLOP *** [2d 4s Ks]
+leGwadaFOu bets 9450
+MAntonio21 calls 9450
+*** TURN *** [2d 4s Ks][Kh]
+leGwadaFOu bets 16065
+MAntonio21 folds
+leGwadaFOu collected 61965 from pot
+*** SUMMARY ***
+Total pot 61965 | No rake
+Board: [2d 4s Ks Kh]
+Seat 3: leGwadaFOu (big blind) won 61965
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3216089520042672139-20-1708975184 - Holdem no limit (250/1000/2000) - 2024/02/26 19:19:44 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #2 is the button
+Seat 1: dirtyData (59314)
+Seat 2: P1xel7 (235180)
+Seat 3: leGwadaFOu (139366)
+Seat 4: Maaarty_ (89138)
+Seat 5: MAntonio21 (98576)
+Seat 6: -Killhim- (34358)
+Seat 7: Didou2288 (102224)
+Seat 8: holalalaSQPC (155300)
+*** ANTE/BLINDS ***
+leGwadaFOu posts ante 250
+Maaarty_ posts ante 250
+dirtyData posts ante 250
+P1xel7 posts ante 250
+MAntonio21 posts ante 250
+-Killhim- posts ante 250
+Didou2288 posts ante 250
+holalalaSQPC posts ante 250
+leGwadaFOu posts small blind 1000
+Maaarty_ posts big blind 2000
+Dealt to P1xel7 [8c 3s]
+*** PRE-FLOP *** 
+MAntonio21 raises 2000 to 4000
+-Killhim- folds
+Didou2288 folds
+holalalaSQPC folds
+dirtyData folds
+P1xel7 folds
+leGwadaFOu calls 3000
+Maaarty_ folds
+*** FLOP *** [Th 4c 5d]
+leGwadaFOu checks
+MAntonio21 bets 3960
+leGwadaFOu raises 7980 to 11940
+MAntonio21 calls 7980
+*** TURN *** [Th 4c 5d][As]
+leGwadaFOu bets 23322
+MAntonio21 calls 23322
+*** RIVER *** [Th 4c 5d As][7s]
+leGwadaFOu bets 99854 and is all-in
+MAntonio21 calls 59064 and is all-in
+*** SHOW DOWN ***
+leGwadaFOu shows [Tc Ac] (Two pairs : Aces and Tens)
+MAntonio21 shows [5h 5s] (Trips of 5)
+MAntonio21 collected 200652 from main pot
+leGwadaFOu collected 40790 from side pot 1
+*** SUMMARY ***
+Total pot 241442 | No rake
+Board: [Th 4c 5d As 7s]
+Seat 3: leGwadaFOu (small blind) showed [Tc Ac] and won 40790 with Two pairs : Aces and Tens
+Seat 5: MAntonio21 showed [5h 5s] and won 200652 with Trips of 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3216089520042672139-21-1708975253 - Holdem no limit (250/1000/2000) - 2024/02/26 19:20:53 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #3 is the button
+Seat 1: dirtyData (59064)
+Seat 2: P1xel7 (234930)
+Seat 3: leGwadaFOu (40790)
+Seat 4: Maaarty_ (86888)
+Seat 5: MAntonio21 (200652)
+Seat 6: -Killhim- (34108)
+Seat 7: Didou2288 (101974)
+Seat 8: holalalaSQPC (155050)
+*** ANTE/BLINDS ***
+Maaarty_ posts ante 250
+MAntonio21 posts ante 250
+dirtyData posts ante 250
+P1xel7 posts ante 250
+leGwadaFOu posts ante 250
+-Killhim- posts ante 250
+Didou2288 posts ante 250
+holalalaSQPC posts ante 250
+Maaarty_ posts small blind 1000
+MAntonio21 posts big blind 2000
+Dealt to P1xel7 [3h 3c]
+*** PRE-FLOP *** 
+-Killhim- folds
+Didou2288 calls 2000
+holalalaSQPC calls 2000
+dirtyData folds
+P1xel7 raises 10000 to 12000
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+Didou2288 calls 10000
+holalalaSQPC calls 10000
+*** FLOP *** [2d 8h 4h]
+Didou2288 checks
+holalalaSQPC checks
+P1xel7 bets 26650
+Didou2288 folds
+holalalaSQPC raises 116150 to 142800 and is all-in
+P1xel7 calls 116150
+*** TURN *** [2d 8h 4h][3d]
+*** RIVER *** [2d 8h 4h 3d][5s]
+*** SHOW DOWN ***
+holalalaSQPC shows [5h 9h] (One pair : 5)
+P1xel7 shows [3h 3c] (Trips of 3)
+P1xel7 collected 326600 from pot
+*** SUMMARY ***
+Total pot 326600 | No rake
+Board: [2d 8h 4h 3d 5s]
+Seat 2: P1xel7 showed [3h 3c] and won 326600 with Trips of 3
+Seat 8: holalalaSQPC showed [5h 9h] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3216089520042672139-22-1708975368 - Holdem no limit (250/1000/2000) - 2024/02/26 19:22:48 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #4 is the button
+Seat 1: dirtyData (58814)
+Seat 2: P1xel7 (406480)
+Seat 3: leGwadaFOu (40540)
+Seat 4: Maaarty_ (85638)
+Seat 5: MAntonio21 (198402)
+Seat 6: -Killhim- (33858)
+Seat 7: Didou2288 (89724)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 250
+-Killhim- posts ante 250
+dirtyData posts ante 250
+P1xel7 posts ante 250
+leGwadaFOu posts ante 250
+Maaarty_ posts ante 250
+Didou2288 posts ante 250
+MAntonio21 posts small blind 1000
+-Killhim- posts big blind 2000
+Dealt to P1xel7 [9c Qs]
+*** PRE-FLOP *** 
+Didou2288 folds
+dirtyData folds
+P1xel7 folds
+leGwadaFOu raises 2500 to 4500
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+leGwadaFOu collected 9250 from pot
+*** SUMMARY ***
+Total pot 9250 | No rake
+Seat 3: leGwadaFOu won 9250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3216089520042672139-23-1708975391 - Holdem no limit (250/1000/2000) - 2024/02/26 19:23:11 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #5 is the button
+Seat 1: dirtyData (58564)
+Seat 2: P1xel7 (406230)
+Seat 3: leGwadaFOu (45040)
+Seat 4: Maaarty_ (85388)
+Seat 5: MAntonio21 (197152)
+Seat 6: -Killhim- (31608)
+Seat 7: Didou2288 (89474)
+*** ANTE/BLINDS ***
+-Killhim- posts ante 250
+Didou2288 posts ante 250
+dirtyData posts ante 250
+P1xel7 posts ante 250
+leGwadaFOu posts ante 250
+Maaarty_ posts ante 250
+MAntonio21 posts ante 250
+-Killhim- posts small blind 1000
+Didou2288 posts big blind 2000
+Dealt to P1xel7 [4d Jh]
+*** PRE-FLOP *** 
+dirtyData folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- raises 2500 to 4500
+Didou2288 raises 84724 to 89224 and is all-in
+-Killhim- calls 26858 and is all-in
+*** FLOP *** [9s 9h Kh]
+*** TURN *** [9s 9h Kh][2c]
+*** RIVER *** [9s 9h Kh 2c][Th]
+*** SHOW DOWN ***
+-Killhim- shows [Kd Qh] (Two pairs : Kings and 9)
+Didou2288 shows [5h 6c] (One pair : 9)
+Didou2288 collected 57866 from side pot 1
+-Killhim- collected 64466 from main pot
+*** SUMMARY ***
+Total pot 122332 | No rake
+Board: [9s 9h Kh 2c Th]
+Seat 6: -Killhim- (small blind) showed [Kd Qh] and won 64466 with Two pairs : Kings and 9
+Seat 7: Didou2288 (big blind) showed [5h 6c] and won 57866 with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3216089520042672139-24-1708975432 - Holdem no limit (250/1000/2000) - 2024/02/26 19:23:52 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #6 is the button
+Seat 1: dirtyData (58314)
+Seat 2: P1xel7 (405980)
+Seat 3: leGwadaFOu (44790)
+Seat 4: Maaarty_ (85138)
+Seat 5: MAntonio21 (196902)
+Seat 6: -Killhim- (64466)
+Seat 7: Didou2288 (57866)
+*** ANTE/BLINDS ***
+Didou2288 posts ante 250
+dirtyData posts ante 250
+P1xel7 posts ante 250
+leGwadaFOu posts ante 250
+Maaarty_ posts ante 250
+MAntonio21 posts ante 250
+-Killhim- posts ante 250
+Didou2288 posts small blind 1000
+dirtyData posts big blind 2000
+Dealt to P1xel7 [9h 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+leGwadaFOu raises 42540 to 44540 and is all-in
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+Didou2288 raises 13076 to 57616 and is all-in
+dirtyData folds
+*** FLOP *** [9s Td Jd]
+*** TURN *** [9s Td Jd][4d]
+*** RIVER *** [9s Td Jd 4d][8s]
+*** SHOW DOWN ***
+leGwadaFOu shows [4c 4s] (Trips of 4)
+Didou2288 shows [2s Ah] (High card : Ace)
+Didou2288 collected 13076 from side pot 1
+leGwadaFOu collected 92830 from main pot
+*** SUMMARY ***
+Total pot 105906 | No rake
+Board: [9s Td Jd 4d 8s]
+Seat 3: leGwadaFOu showed [4c 4s] and won 92830 with Trips of 4
+Seat 7: Didou2288 (small blind) showed [2s Ah] and won 13076 with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3216089520042672139-25-1708975472 - Holdem no limit (300/1250/2500) - 2024/02/26 19:24:32 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #7 is the button
+Seat 1: dirtyData (56064)
+Seat 2: P1xel7 (405730)
+Seat 3: leGwadaFOu (92830)
+Seat 4: Maaarty_ (84888)
+Seat 5: MAntonio21 (196652)
+Seat 6: -Killhim- (64216)
+Seat 7: Didou2288 (13076)
+*** ANTE/BLINDS ***
+dirtyData posts ante 300
+P1xel7 posts ante 300
+leGwadaFOu posts ante 300
+Maaarty_ posts ante 300
+MAntonio21 posts ante 300
+-Killhim- posts ante 300
+Didou2288 posts ante 300
+dirtyData posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [4h Ad]
+*** PRE-FLOP *** 
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+Didou2288 folds
+dirtyData folds
+P1xel7 collected 5850 from pot
+*** SUMMARY ***
+Total pot 5850 | No rake
+Seat 2: P1xel7 (big blind) won 5850
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3216089520042672139-26-1708975495 - Holdem no limit (300/1250/2500) - 2024/02/26 19:24:55 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #1 is the button
+Seat 1: dirtyData (54514)
+Seat 2: P1xel7 (408780)
+Seat 3: leGwadaFOu (92530)
+Seat 4: Maaarty_ (84588)
+Seat 5: MAntonio21 (196352)
+Seat 6: -Killhim- (63916)
+Seat 7: Didou2288 (12776)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+leGwadaFOu posts ante 300
+dirtyData posts ante 300
+Maaarty_ posts ante 300
+MAntonio21 posts ante 300
+-Killhim- posts ante 300
+Didou2288 posts ante 300
+P1xel7 posts small blind 1250
+leGwadaFOu posts big blind 2500
+Dealt to P1xel7 [Kc 4h]
+*** PRE-FLOP *** 
+Maaarty_ folds
+MAntonio21 raises 2500 to 5000
+-Killhim- folds
+Didou2288 raises 7476 to 12476 and is all-in
+dirtyData folds
+P1xel7 folds
+leGwadaFOu folds
+MAntonio21 calls 7476
+*** FLOP *** [Js Tc 9d]
+*** TURN *** [Js Tc 9d][Jd]
+*** RIVER *** [Js Tc 9d Jd][5h]
+*** SHOW DOWN ***
+Didou2288 shows [As 3h] (One pair : Jacks)
+MAntonio21 shows [7s 8s] (Straight Jack high)
+MAntonio21 collected 30802 from pot
+*** SUMMARY ***
+Total pot 30802 | No rake
+Board: [Js Tc 9d Jd 5h]
+Seat 5: MAntonio21 showed [7s 8s] and won 30802 with Straight Jack high
+Seat 7: Didou2288 showed [As 3h] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3216089520042672139-27-1708975532 - Holdem no limit (300/1250/2500) - 2024/02/26 19:25:32 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #2 is the button
+Seat 1: dirtyData (54214)
+Seat 2: P1xel7 (407230)
+Seat 3: leGwadaFOu (89730)
+Seat 4: Maaarty_ (84288)
+Seat 5: MAntonio21 (214378)
+Seat 6: -Killhim- (63616)
+Seat 8: LaMaravilla (100000)
+*** ANTE/BLINDS ***
+leGwadaFOu posts ante 300
+Maaarty_ posts ante 300
+dirtyData posts ante 300
+P1xel7 posts ante 300
+MAntonio21 posts ante 300
+-Killhim- posts ante 300
+LaMaravilla posts ante 300
+leGwadaFOu posts small blind 1250
+Maaarty_ posts big blind 2500
+Dealt to P1xel7 [Jh 6d]
+*** PRE-FLOP *** 
+MAntonio21 folds
+-Killhim- folds
+LaMaravilla raises 2500 to 5000
+dirtyData raises 48914 to 53914 and is all-in
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+LaMaravilla calls 48914
+*** FLOP *** [4c 8d Th]
+*** TURN *** [4c 8d Th][5c]
+*** RIVER *** [4c 8d Th 5c][Ad]
+*** SHOW DOWN ***
+dirtyData shows [Jc Js] (One pair : Jacks)
+LaMaravilla shows [Qh Ah] (One pair : Aces)
+LaMaravilla collected 113678 from pot
+*** SUMMARY ***
+Total pot 113678 | No rake
+Board: [4c 8d Th 5c Ad]
+Seat 1: dirtyData showed [Jc Js] and lost with One pair : Jacks
+Seat 8: LaMaravilla showed [Qh Ah] and won 113678 with One pair : Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3216089520042672139-28-1708975566 - Holdem no limit (300/1250/2500) - 2024/02/26 19:26:06 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (406930)
+Seat 3: leGwadaFOu (88180)
+Seat 4: Maaarty_ (81488)
+Seat 5: MAntonio21 (214078)
+Seat 6: -Killhim- (63316)
+Seat 8: LaMaravilla (159464)
+*** ANTE/BLINDS ***
+Maaarty_ posts ante 300
+MAntonio21 posts ante 300
+P1xel7 posts ante 300
+leGwadaFOu posts ante 300
+-Killhim- posts ante 300
+LaMaravilla posts ante 300
+Maaarty_ posts small blind 1250
+MAntonio21 posts big blind 2500
+Dealt to P1xel7 [5s 3s]
+*** PRE-FLOP *** 
+-Killhim- folds
+LaMaravilla folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Seat 5: MAntonio21 (big blind) won 5550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3216089520042672139-29-1708975579 - Holdem no limit (300/1250/2500) - 2024/02/26 19:26:19 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #4 is the button
+Seat 2: P1xel7 (406630)
+Seat 3: leGwadaFOu (87880)
+Seat 4: Maaarty_ (79938)
+Seat 5: MAntonio21 (216828)
+Seat 6: -Killhim- (63016)
+Seat 8: LaMaravilla (159164)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 300
+-Killhim- posts ante 300
+P1xel7 posts ante 300
+leGwadaFOu posts ante 300
+Maaarty_ posts ante 300
+LaMaravilla posts ante 300
+MAntonio21 posts small blind 1250
+-Killhim- posts big blind 2500
+Dealt to P1xel7 [5c Qc]
+*** PRE-FLOP *** 
+LaMaravilla folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 raises 6250 to 8750
+-Killhim- folds
+MAntonio21 collected 13050 from pot
+*** SUMMARY ***
+Total pot 13050 | No rake
+Seat 5: MAntonio21 (small blind) won 13050
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3216089520042672139-30-1708975604 - Holdem no limit (300/1250/2500) - 2024/02/26 19:26:44 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #5 is the button
+Seat 2: P1xel7 (406330)
+Seat 3: leGwadaFOu (87580)
+Seat 4: Maaarty_ (79638)
+Seat 5: MAntonio21 (220828)
+Seat 6: -Killhim- (60216)
+Seat 7: MiniQueen (177561)
+Seat 8: LaMaravilla (158864)
+*** ANTE/BLINDS ***
+-Killhim- posts ante 300
+MiniQueen posts ante 300
+P1xel7 posts ante 300
+leGwadaFOu posts ante 300
+Maaarty_ posts ante 300
+MAntonio21 posts ante 300
+LaMaravilla posts ante 300
+-Killhim- posts small blind 1250
+MiniQueen posts big blind 2500
+Dealt to P1xel7 [5d Td]
+*** PRE-FLOP *** 
+LaMaravilla folds
+P1xel7 folds
+leGwadaFOu raises 3125 to 5625
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- calls 4375
+MiniQueen folds
+*** FLOP *** [8c 6s Jc]
+-Killhim- checks
+leGwadaFOu checks
+*** TURN *** [8c 6s Jc][5c]
+-Killhim- checks
+leGwadaFOu bets 9175
+-Killhim- calls 9175
+*** RIVER *** [8c 6s Jc 5c][7d]
+-Killhim- checks
+leGwadaFOu checks
+*** SHOW DOWN ***
+-Killhim- shows [Ks Qc] (High card : King)
+leGwadaFOu shows [Kh Kd] (One pair : Kings)
+leGwadaFOu collected 34200 from pot
+*** SUMMARY ***
+Total pot 34200 | No rake
+Board: [8c 6s Jc 5c 7d]
+Seat 3: leGwadaFOu showed [Kh Kd] and won 34200 with One pair : Kings
+Seat 6: -Killhim- (small blind) showed [Ks Qc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3216089520042672139-31-1708975667 - Holdem no limit (300/1250/2500) - 2024/02/26 19:27:47 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #6 is the button
+Seat 2: P1xel7 (406030)
+Seat 3: leGwadaFOu (106680)
+Seat 4: Maaarty_ (79338)
+Seat 5: MAntonio21 (220528)
+Seat 6: -Killhim- (45116)
+Seat 7: MiniQueen (174761)
+Seat 8: LaMaravilla (158564)
+*** ANTE/BLINDS ***
+MiniQueen posts ante 300
+LaMaravilla posts ante 300
+P1xel7 posts ante 300
+leGwadaFOu posts ante 300
+Maaarty_ posts ante 300
+MAntonio21 posts ante 300
+-Killhim- posts ante 300
+MiniQueen posts small blind 1250
+LaMaravilla posts big blind 2500
+Dealt to P1xel7 [3h Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 raises 2500 to 5000
+-Killhim- folds
+MiniQueen folds
+LaMaravilla calls 2500
+*** FLOP *** [Ts 3c Kh]
+LaMaravilla checks
+MAntonio21 bets 4406
+LaMaravilla calls 4406
+*** TURN *** [Ts 3c Kh][4d]
+LaMaravilla checks
+MAntonio21 checks
+*** RIVER *** [Ts 3c Kh 4d][Ks]
+LaMaravilla checks
+MAntonio21 checks
+*** SHOW DOWN ***
+MAntonio21 shows [8c Ac] (One pair : Kings)
+LaMaravilla shows [Tc 8d] (Two pairs : Kings and Tens)
+LaMaravilla collected 22162 from pot
+*** SUMMARY ***
+Total pot 22162 | No rake
+Board: [Ts 3c Kh 4d Ks]
+Seat 5: MAntonio21 showed [8c Ac] and lost with One pair : Kings
+Seat 8: LaMaravilla (big blind) showed [Tc 8d] and won 22162 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3216089520042672139-32-1708975783 - Holdem no limit (300/1250/2500) - 2024/02/26 19:29:43 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #7 is the button
+Seat 2: P1xel7 (405730)
+Seat 3: leGwadaFOu (106380)
+Seat 4: Maaarty_ (79038)
+Seat 5: MAntonio21 (210822)
+Seat 6: -Killhim- (44816)
+Seat 7: MiniQueen (173211)
+Seat 8: LaMaravilla (171020)
+*** ANTE/BLINDS ***
+LaMaravilla posts ante 300
+P1xel7 posts ante 300
+leGwadaFOu posts ante 300
+Maaarty_ posts ante 300
+MAntonio21 posts ante 300
+-Killhim- posts ante 300
+MiniQueen posts ante 300
+LaMaravilla posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Ks 2d]
+*** PRE-FLOP *** 
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+MiniQueen raises 3750 to 6250
+LaMaravilla folds
+P1xel7 folds
+MiniQueen collected 12100 from pot
+*** SUMMARY ***
+Total pot 12100 | No rake
+Seat 7: MiniQueen (button) won 12100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3216089520042672139-33-1708975811 - Holdem no limit (300/1250/2500) - 2024/02/26 19:30:11 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #8 is the button
+Seat 2: P1xel7 (402930)
+Seat 3: leGwadaFOu (106080)
+Seat 4: Maaarty_ (78738)
+Seat 5: MAntonio21 (210522)
+Seat 6: -Killhim- (44516)
+Seat 7: MiniQueen (178761)
+Seat 8: LaMaravilla (169470)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+leGwadaFOu posts ante 300
+Maaarty_ posts ante 300
+MAntonio21 posts ante 300
+-Killhim- posts ante 300
+MiniQueen posts ante 300
+LaMaravilla posts ante 300
+P1xel7 posts small blind 1250
+leGwadaFOu posts big blind 2500
+Dealt to P1xel7 [7s 6s]
+*** PRE-FLOP *** 
+Maaarty_ folds
+MAntonio21 raises 2500 to 5000
+-Killhim- calls 5000
+MiniQueen folds
+LaMaravilla folds
+P1xel7 calls 3750
+leGwadaFOu calls 2500
+*** FLOP *** [9d 2s 6h]
+P1xel7 checks
+leGwadaFOu checks
+MAntonio21 checks
+-Killhim- checks
+*** TURN *** [9d 2s 6h][8d]
+P1xel7 bets 3750
+leGwadaFOu calls 3750
+MAntonio21 folds
+-Killhim- folds
+*** RIVER *** [9d 2s 6h 8d][Tc]
+P1xel7 bets 8750
+leGwadaFOu folds
+P1xel7 collected 38350 from pot
+*** SUMMARY ***
+Total pot 38350 | No rake
+Board: [9d 2s 6h 8d Tc]
+Seat 2: P1xel7 (small blind) won 38350
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3216089520042672139-34-1708975893 - Holdem no limit (350/1500/3000) - 2024/02/26 19:31:33 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (423480)
+Seat 3: leGwadaFOu (97030)
+Seat 4: Maaarty_ (78438)
+Seat 5: MAntonio21 (205222)
+Seat 6: -Killhim- (39216)
+Seat 7: MiniQueen (178461)
+Seat 8: LaMaravilla (169170)
+*** ANTE/BLINDS ***
+leGwadaFOu posts ante 350
+Maaarty_ posts ante 350
+P1xel7 posts ante 350
+MAntonio21 posts ante 350
+-Killhim- posts ante 350
+MiniQueen posts ante 350
+LaMaravilla posts ante 350
+leGwadaFOu posts small blind 1500
+Maaarty_ posts big blind 3000
+Dealt to P1xel7 [2h 8d]
+*** PRE-FLOP *** 
+MAntonio21 folds
+-Killhim- raises 35866 to 38866 and is all-in
+MiniQueen folds
+LaMaravilla folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+-Killhim- collected 45816 from pot
+*** SUMMARY ***
+Total pot 45816 | No rake
+Seat 6: -Killhim- won 45816
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3216089520042672139-35-1708975919 - Holdem no limit (350/1500/3000) - 2024/02/26 19:31:59 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (423130)
+Seat 3: leGwadaFOu (95180)
+Seat 4: Maaarty_ (75088)
+Seat 5: MAntonio21 (204872)
+Seat 6: -Killhim- (45816)
+Seat 7: MiniQueen (178111)
+Seat 8: LaMaravilla (168820)
+*** ANTE/BLINDS ***
+Maaarty_ posts ante 350
+MAntonio21 posts ante 350
+P1xel7 posts ante 350
+leGwadaFOu posts ante 350
+-Killhim- posts ante 350
+MiniQueen posts ante 350
+LaMaravilla posts ante 350
+Maaarty_ posts small blind 1500
+MAntonio21 posts big blind 3000
+Dealt to P1xel7 [6h Ac]
+*** PRE-FLOP *** 
+-Killhim- folds
+MiniQueen folds
+LaMaravilla folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 collected 6950 from pot
+*** SUMMARY ***
+Total pot 6950 | No rake
+Seat 5: MAntonio21 (big blind) won 6950
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3216089520042672139-36-1708975960 - Holdem no limit (350/1500/3000) - 2024/02/26 19:32:40 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #4 is the button
+Seat 2: P1xel7 (422780)
+Seat 3: leGwadaFOu (94830)
+Seat 4: Maaarty_ (73238)
+Seat 5: MAntonio21 (208472)
+Seat 6: -Killhim- (45466)
+Seat 7: MiniQueen (177761)
+Seat 8: LaMaravilla (168470)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 350
+-Killhim- posts ante 350
+P1xel7 posts ante 350
+leGwadaFOu posts ante 350
+Maaarty_ posts ante 350
+MiniQueen posts ante 350
+LaMaravilla posts ante 350
+MAntonio21 posts small blind 1500
+-Killhim- posts big blind 3000
+Dealt to P1xel7 [2h 5c]
+*** PRE-FLOP *** 
+MiniQueen folds
+LaMaravilla folds
+P1xel7 folds
+leGwadaFOu raises 3000 to 6000
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- calls 3000
+*** FLOP *** [6s 7c Ks]
+-Killhim- checks
+leGwadaFOu checks
+*** TURN *** [6s 7c Ks][6h]
+-Killhim- checks
+leGwadaFOu checks
+*** RIVER *** [6s 7c Ks 6h][7s]
+-Killhim- checks
+leGwadaFOu checks
+*** SHOW DOWN ***
+-Killhim- shows [Qd 9s] (Two pairs : 7 and 6)
+leGwadaFOu shows [9d As] (Two pairs : 7 and 6)
+leGwadaFOu collected 15950 from pot
+*** SUMMARY ***
+Total pot 15950 | No rake
+Board: [6s 7c Ks 6h 7s]
+Seat 3: leGwadaFOu showed [9d As] and won 15950 with Two pairs : 7 and 6
+Seat 6: -Killhim- (big blind) showed [Qd 9s] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3216089520042672139-37-1708976071 - Holdem no limit (350/1500/3000) - 2024/02/26 19:34:31 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #5 is the button
+Seat 2: P1xel7 (422430)
+Seat 3: leGwadaFOu (104430)
+Seat 4: Maaarty_ (72888)
+Seat 5: MAntonio21 (206622)
+Seat 6: -Killhim- (39116)
+Seat 7: MiniQueen (177411)
+Seat 8: LaMaravilla (168120)
+*** ANTE/BLINDS ***
+-Killhim- posts ante 350
+MiniQueen posts ante 350
+P1xel7 posts ante 350
+leGwadaFOu posts ante 350
+Maaarty_ posts ante 350
+MAntonio21 posts ante 350
+LaMaravilla posts ante 350
+-Killhim- posts small blind 1500
+MiniQueen posts big blind 3000
+Dealt to P1xel7 [Tc Qc]
+*** PRE-FLOP *** 
+LaMaravilla folds
+P1xel7 raises 6000 to 9000
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+MiniQueen calls 6000
+*** FLOP *** [Kd Jd 9d]
+MiniQueen checks
+P1xel7 bets 12000
+MiniQueen folds
+P1xel7 collected 33950 from pot
+*** SUMMARY ***
+Total pot 33950 | No rake
+Board: [Kd Jd 9d]
+Seat 2: P1xel7 won 33950
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3216089520042672139-38-1708976113 - Holdem no limit (350/1500/3000) - 2024/02/26 19:35:13 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #6 is the button
+Seat 2: P1xel7 (435030)
+Seat 3: leGwadaFOu (104080)
+Seat 4: Maaarty_ (72538)
+Seat 5: MAntonio21 (206272)
+Seat 6: -Killhim- (37266)
+Seat 7: MiniQueen (168061)
+Seat 8: LaMaravilla (167770)
+*** ANTE/BLINDS ***
+MiniQueen posts ante 350
+LaMaravilla posts ante 350
+P1xel7 posts ante 350
+leGwadaFOu posts ante 350
+Maaarty_ posts ante 350
+MAntonio21 posts ante 350
+-Killhim- posts ante 350
+MiniQueen posts small blind 1500
+LaMaravilla posts big blind 3000
+Dealt to P1xel7 [Qs Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+leGwadaFOu raises 3000 to 6000
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+MiniQueen folds
+LaMaravilla folds
+leGwadaFOu collected 12950 from pot
+*** SUMMARY ***
+Total pot 12950 | No rake
+Seat 3: leGwadaFOu won 12950
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3216089520042672139-39-1708976139 - Holdem no limit (350/1500/3000) - 2024/02/26 19:35:39 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #7 is the button
+Seat 2: P1xel7 (434680)
+Seat 3: leGwadaFOu (110680)
+Seat 4: Maaarty_ (72188)
+Seat 5: MAntonio21 (205922)
+Seat 6: -Killhim- (36916)
+Seat 7: MiniQueen (166211)
+Seat 8: LaMaravilla (164420)
+*** ANTE/BLINDS ***
+LaMaravilla posts ante 350
+P1xel7 posts ante 350
+leGwadaFOu posts ante 350
+Maaarty_ posts ante 350
+MAntonio21 posts ante 350
+-Killhim- posts ante 350
+MiniQueen posts ante 350
+LaMaravilla posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [Qs Jd]
+*** PRE-FLOP *** 
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- folds
+MiniQueen folds
+LaMaravilla raises 7500 to 10500
+P1xel7 calls 7500
+*** FLOP *** [5h Qh 5d]
+LaMaravilla bets 7035
+P1xel7 calls 7035
+*** TURN *** [5h Qh 5d][6s]
+LaMaravilla checks
+P1xel7 bets 12000
+LaMaravilla folds
+P1xel7 collected 49520 from pot
+*** SUMMARY ***
+Total pot 49520 | No rake
+Board: [5h Qh 5d 6s]
+Seat 2: P1xel7 (big blind) won 49520
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3216089520042672139-40-1708976225 - Holdem no limit (350/1500/3000) - 2024/02/26 19:37:05 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #8 is the button
+Seat 2: P1xel7 (454315)
+Seat 3: leGwadaFOu (110330)
+Seat 4: Maaarty_ (71838)
+Seat 5: MAntonio21 (205572)
+Seat 6: -Killhim- (36566)
+Seat 7: MiniQueen (165861)
+Seat 8: LaMaravilla (146535)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+leGwadaFOu posts ante 350
+Maaarty_ posts ante 350
+MAntonio21 posts ante 350
+-Killhim- posts ante 350
+MiniQueen posts ante 350
+LaMaravilla posts ante 350
+P1xel7 posts small blind 1500
+leGwadaFOu posts big blind 3000
+Dealt to P1xel7 [6s 9d]
+*** PRE-FLOP *** 
+Maaarty_ folds
+MAntonio21 folds
+-Killhim- raises 33216 to 36216 and is all-in
+MiniQueen folds
+LaMaravilla folds
+P1xel7 folds
+leGwadaFOu folds
+-Killhim- collected 43166 from pot
+*** SUMMARY ***
+Total pot 43166 | No rake
+Seat 6: -Killhim- won 43166
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3216089520042672139-41-1708976246 - Holdem no limit (350/1500/3000) - 2024/02/26 19:37:26 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (452465)
+Seat 3: leGwadaFOu (106980)
+Seat 4: Maaarty_ (71488)
+Seat 5: MAntonio21 (205222)
+Seat 6: -Killhim- (43166)
+Seat 7: MiniQueen (165511)
+Seat 8: LaMaravilla (146185)
+*** ANTE/BLINDS ***
+leGwadaFOu posts ante 350
+Maaarty_ posts ante 350
+P1xel7 posts ante 350
+MAntonio21 posts ante 350
+-Killhim- posts ante 350
+MiniQueen posts ante 350
+LaMaravilla posts ante 350
+leGwadaFOu posts small blind 1500
+Maaarty_ posts big blind 3000
+Dealt to P1xel7 [Ac Ts]
+*** PRE-FLOP *** 
+MAntonio21 folds
+-Killhim- folds
+MiniQueen raises 4500 to 7500
+LaMaravilla folds
+P1xel7 raises 15000 to 22500
+leGwadaFOu folds
+Maaarty_ folds
+MiniQueen folds
+P1xel7 collected 36950 from pot
+*** SUMMARY ***
+Total pot 36950 | No rake
+Seat 2: P1xel7 (button) won 36950
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3216089520042672139-42-1708976293 - Holdem no limit (400/1750/3500) - 2024/02/26 19:38:13 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (466565)
+Seat 3: leGwadaFOu (105130)
+Seat 4: Maaarty_ (68138)
+Seat 5: MAntonio21 (204872)
+Seat 6: -Killhim- (42816)
+Seat 7: MiniQueen (157661)
+Seat 8: LaMaravilla (145835)
+*** ANTE/BLINDS ***
+Maaarty_ posts ante 400
+MAntonio21 posts ante 400
+P1xel7 posts ante 400
+leGwadaFOu posts ante 400
+-Killhim- posts ante 400
+MiniQueen posts ante 400
+LaMaravilla posts ante 400
+Maaarty_ posts small blind 1750
+MAntonio21 posts big blind 3500
+Dealt to P1xel7 [9s Js]
+*** PRE-FLOP *** 
+-Killhim- folds
+MiniQueen folds
+LaMaravilla folds
+P1xel7 raises 7000 to 10500
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+P1xel7 collected 18550 from pot
+*** SUMMARY ***
+Total pot 18550 | No rake
+Seat 2: P1xel7 won 18550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3216089520042672139-43-1708976330 - Holdem no limit (400/1750/3500) - 2024/02/26 19:38:50 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #4 is the button
+Seat 2: P1xel7 (474215)
+Seat 3: leGwadaFOu (104730)
+Seat 4: Maaarty_ (65988)
+Seat 5: MAntonio21 (200972)
+Seat 6: -Killhim- (42416)
+Seat 7: MiniQueen (157261)
+Seat 8: LaMaravilla (145435)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 400
+-Killhim- posts ante 400
+P1xel7 posts ante 400
+leGwadaFOu posts ante 400
+Maaarty_ posts ante 400
+MiniQueen posts ante 400
+LaMaravilla posts ante 400
+MAntonio21 posts small blind 1750
+-Killhim- posts big blind 3500
+Dealt to P1xel7 [7h 6c]
+*** PRE-FLOP *** 
+MiniQueen folds
+LaMaravilla folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 raises 197072 to 200572 and is all-in
+-Killhim- folds
+MAntonio21 collected 206872 from pot
+*** SUMMARY ***
+Total pot 206872 | No rake
+Seat 5: MAntonio21 (small blind) won 206872
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3216089520042672139-44-1708976358 - Holdem no limit (400/1750/3500) - 2024/02/26 19:39:18 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #5 is the button
+Seat 2: P1xel7 (473815)
+Seat 3: leGwadaFOu (104330)
+Seat 4: Maaarty_ (65588)
+Seat 5: MAntonio21 (206872)
+Seat 6: -Killhim- (38516)
+Seat 7: MiniQueen (156861)
+Seat 8: LaMaravilla (145035)
+*** ANTE/BLINDS ***
+-Killhim- posts ante 400
+MiniQueen posts ante 400
+P1xel7 posts ante 400
+leGwadaFOu posts ante 400
+Maaarty_ posts ante 400
+MAntonio21 posts ante 400
+LaMaravilla posts ante 400
+-Killhim- posts small blind 1750
+MiniQueen posts big blind 3500
+Dealt to P1xel7 [6d 3h]
+*** PRE-FLOP *** 
+LaMaravilla folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ raises 61688 to 65188 and is all-in
+MAntonio21 folds
+-Killhim- calls 36366 and is all-in
+MiniQueen folds
+*** FLOP *** [2c 2s 2d]
+*** TURN *** [2c 2s 2d][9d]
+*** RIVER *** [2c 2s 2d 9d][5d]
+*** SHOW DOWN ***
+-Killhim- shows [Ac Td] (Trips of 2)
+Maaarty_ shows [4h 4s] (Full of 2 and 4)
+Maaarty_ collected 109604 from pot
+*** SUMMARY ***
+Total pot 109604 | No rake
+Board: [2c 2s 2d 9d 5d]
+Seat 4: Maaarty_ showed [4h 4s] and won 109604 with Full of 2 and 4
+Seat 6: -Killhim- (small blind) showed [Ac Td] and lost with Trips of 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3216089520042672139-45-1708976414 - Holdem no limit (400/1750/3500) - 2024/02/26 19:40:14 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #6 is the button
+Seat 2: P1xel7 (473415)
+Seat 3: leGwadaFOu (103930)
+Seat 4: Maaarty_ (109604)
+Seat 5: MAntonio21 (206472)
+Seat 7: MiniQueen (152961)
+Seat 8: LaMaravilla (144635)
+*** ANTE/BLINDS ***
+MiniQueen posts ante 400
+LaMaravilla posts ante 400
+P1xel7 posts ante 400
+leGwadaFOu posts ante 400
+Maaarty_ posts ante 400
+MAntonio21 posts ante 400
+MiniQueen posts small blind 1750
+LaMaravilla posts big blind 3500
+Dealt to P1xel7 [Ks Qc]
+*** PRE-FLOP *** 
+P1xel7 raises 7000 to 10500
+leGwadaFOu folds
+Maaarty_ raises 15750 to 26250
+MAntonio21 folds
+MiniQueen raises 126311 to 152561 and is all-in
+LaMaravilla folds
+P1xel7 folds
+Maaarty_ calls 82954 and is all-in
+*** FLOP *** [9s 7d 3s]
+*** TURN *** [9s 7d 3s][Td]
+*** RIVER *** [9s 7d 3s Td][7c]
+*** SHOW DOWN ***
+Maaarty_ shows [Kc Kd] (Two pairs : Kings and 7)
+MiniQueen shows [Jh Js] (Two pairs : Jacks and 7)
+MiniQueen collected 43357 from side pot 1
+Maaarty_ collected 234808 from main pot
+*** SUMMARY ***
+Total pot 278165 | No rake
+Board: [9s 7d 3s Td 7c]
+Seat 4: Maaarty_ showed [Kc Kd] and won 234808 with Two pairs : Kings and 7
+Seat 7: MiniQueen (small blind) showed [Jh Js] and won 43357 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3216089520042672139-46-1708976489 - Holdem no limit (400/1750/3500) - 2024/02/26 19:41:29 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #7 is the button
+Seat 1: correzebreiz (95700)
+Seat 2: P1xel7 (462515)
+Seat 3: leGwadaFOu (103530)
+Seat 4: Maaarty_ (234808)
+Seat 5: MAntonio21 (206072)
+Seat 7: MiniQueen (43357)
+Seat 8: LaMaravilla (140735)
+*** ANTE/BLINDS ***
+LaMaravilla posts ante 400
+correzebreiz posts ante 400
+P1xel7 posts ante 400
+leGwadaFOu posts ante 400
+Maaarty_ posts ante 400
+MAntonio21 posts ante 400
+MiniQueen posts ante 400
+LaMaravilla posts small blind 1750
+correzebreiz posts big blind 3500
+Dealt to P1xel7 [5s 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ raises 4200 to 7700
+MAntonio21 folds
+MiniQueen folds
+LaMaravilla folds
+correzebreiz calls 4200
+*** FLOP *** [5c 8h Qc]
+correzebreiz checks
+Maaarty_ bets 8750
+correzebreiz folds
+Maaarty_ collected 28700 from pot
+*** SUMMARY ***
+Total pot 28700 | No rake
+Board: [5c 8h Qc]
+Seat 4: Maaarty_ won 28700
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3216089520042672139-47-1708976546 - Holdem no limit (400/1750/3500) - 2024/02/26 19:42:26 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #8 is the button
+Seat 1: correzebreiz (87600)
+Seat 2: P1xel7 (462115)
+Seat 3: leGwadaFOu (103130)
+Seat 4: Maaarty_ (246658)
+Seat 5: MAntonio21 (205672)
+Seat 7: MiniQueen (42957)
+Seat 8: LaMaravilla (138585)
+*** ANTE/BLINDS ***
+correzebreiz posts ante 400
+P1xel7 posts ante 400
+leGwadaFOu posts ante 400
+Maaarty_ posts ante 400
+MAntonio21 posts ante 400
+MiniQueen posts ante 400
+LaMaravilla posts ante 400
+correzebreiz posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [Ad 4h]
+*** PRE-FLOP *** 
+leGwadaFOu folds
+Maaarty_ raises 4200 to 7700
+MAntonio21 folds
+MiniQueen folds
+LaMaravilla folds
+correzebreiz folds
+P1xel7 calls 4200
+*** FLOP *** [2c 8d 7c]
+P1xel7 checks
+Maaarty_ bets 8750
+P1xel7 folds
+Maaarty_ collected 28700 from pot
+*** SUMMARY ***
+Total pot 28700 | No rake
+Board: [2c 8d 7c]
+Seat 4: Maaarty_ won 28700
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3216089520042672139-48-1708976588 - Holdem no limit (400/1750/3500) - 2024/02/26 19:43:08 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #1 is the button
+Seat 1: correzebreiz (85450)
+Seat 2: P1xel7 (454015)
+Seat 3: leGwadaFOu (102730)
+Seat 4: Maaarty_ (258508)
+Seat 5: MAntonio21 (205272)
+Seat 6: Brundao62 (100000)
+Seat 7: MiniQueen (42557)
+Seat 8: LaMaravilla (138185)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+leGwadaFOu posts ante 400
+correzebreiz posts ante 400
+Maaarty_ posts ante 400
+MAntonio21 posts ante 400
+Brundao62 posts ante 400
+MiniQueen posts ante 400
+LaMaravilla posts ante 400
+P1xel7 posts small blind 1750
+leGwadaFOu posts big blind 3500
+Dealt to P1xel7 [8c Qh]
+*** PRE-FLOP *** 
+Maaarty_ folds
+MAntonio21 folds
+Brundao62 folds
+MiniQueen raises 38657 to 42157 and is all-in
+LaMaravilla folds
+correzebreiz folds
+P1xel7 folds
+leGwadaFOu folds
+MiniQueen collected 50607 from pot
+*** SUMMARY ***
+Total pot 50607 | No rake
+Seat 7: MiniQueen won 50607
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3216089520042672139-49-1708976609 - Holdem no limit (400/1750/3500) - 2024/02/26 19:43:29 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #2 is the button
+Seat 1: correzebreiz (85050)
+Seat 2: P1xel7 (451865)
+Seat 3: leGwadaFOu (98830)
+Seat 4: Maaarty_ (258108)
+Seat 5: MAntonio21 (204872)
+Seat 6: Brundao62 (99600)
+Seat 7: MiniQueen (50607)
+Seat 8: LaMaravilla (137785)
+*** ANTE/BLINDS ***
+leGwadaFOu posts ante 400
+Maaarty_ posts ante 400
+correzebreiz posts ante 400
+P1xel7 posts ante 400
+MAntonio21 posts ante 400
+Brundao62 posts ante 400
+MiniQueen posts ante 400
+LaMaravilla posts ante 400
+leGwadaFOu posts small blind 1750
+Maaarty_ posts big blind 3500
+Dealt to P1xel7 [9d Js]
+*** PRE-FLOP *** 
+MAntonio21 folds
+Brundao62 folds
+MiniQueen folds
+LaMaravilla raises 3500 to 7000
+correzebreiz folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ calls 3500
+*** FLOP *** [4h 9s Ts]
+Maaarty_ checks
+LaMaravilla bets 5685
+Maaarty_ calls 5685
+*** TURN *** [4h 9s Ts][2h]
+Maaarty_ checks
+LaMaravilla checks
+*** RIVER *** [4h 9s Ts 2h][4s]
+Maaarty_ bets 24256
+LaMaravilla folds
+Maaarty_ collected 54576 from pot
+*** SUMMARY ***
+Total pot 54576 | No rake
+Board: [4h 9s Ts 2h 4s]
+Seat 4: Maaarty_ (big blind) won 54576
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3216089520042672139-50-1708976694 - Holdem no limit (400/1750/3500) - 2024/02/26 19:44:54 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #3 is the button
+Seat 1: correzebreiz (84650)
+Seat 2: P1xel7 (451465)
+Seat 3: leGwadaFOu (96680)
+Seat 4: Maaarty_ (275343)
+Seat 5: MAntonio21 (204472)
+Seat 7: MiniQueen (50207)
+Seat 8: LaMaravilla (124700)
+*** ANTE/BLINDS ***
+Maaarty_ posts ante 400
+MAntonio21 posts ante 400
+correzebreiz posts ante 400
+P1xel7 posts ante 400
+leGwadaFOu posts ante 400
+MiniQueen posts ante 400
+LaMaravilla posts ante 400
+Maaarty_ posts small blind 1750
+MAntonio21 posts big blind 3500
+Dealt to P1xel7 [Jd Jh]
+*** PRE-FLOP *** 
+MiniQueen raises 46307 to 49807 and is all-in
+LaMaravilla folds
+correzebreiz folds
+P1xel7 raises 401258 to 451065 and is all-in
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+*** FLOP *** [6c 8h Qc]
+*** TURN *** [6c 8h Qc][Th]
+*** RIVER *** [6c 8h Qc Th][Jc]
+*** SHOW DOWN ***
+MiniQueen shows [8c Ad] (One pair : 8)
+P1xel7 shows [Jd Jh] (Trips of Jacks)
+P1xel7 collected 508922 from pot
+*** SUMMARY ***
+Total pot 508922 | No rake
+Board: [6c 8h Qc Th Jc]
+Seat 2: P1xel7 showed [Jd Jh] and won 508922 with Trips of Jacks
+Seat 7: MiniQueen showed [8c Ad] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3216089520042672139-51-1708976739 - Holdem no limit (500/2000/4000) - 2024/02/26 19:45:39 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #4 is the button
+Seat 1: correzebreiz (84250)
+Seat 2: P1xel7 (508922)
+Seat 3: leGwadaFOu (96280)
+Seat 4: Maaarty_ (273193)
+Seat 5: MAntonio21 (200572)
+Seat 8: LaMaravilla (124300)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 500
+LaMaravilla posts ante 500
+correzebreiz posts ante 500
+P1xel7 posts ante 500
+leGwadaFOu posts ante 500
+Maaarty_ posts ante 500
+MAntonio21 posts small blind 2000
+LaMaravilla posts big blind 4000
+Dealt to P1xel7 [5s 8s]
+*** PRE-FLOP *** 
+correzebreiz calls 4000
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 raises 15000 to 19000
+LaMaravilla folds
+correzebreiz calls 15000
+*** FLOP *** [Td Tc 6c]
+MAntonio21 bets 11250
+correzebreiz calls 11250
+*** TURN *** [Td Tc 6c][Jc]
+MAntonio21 bets 67500
+correzebreiz calls 53500 and is all-in
+*** RIVER *** [Td Tc 6c Jc][4d]
+*** SHOW DOWN ***
+correzebreiz shows [Ts Ad] (Trips of Tens)
+MAntonio21 shows [Kh Qc] (One pair : Tens)
+MAntonio21 collected 14000 from side pot 1
+correzebreiz collected 174500 from main pot
+*** SUMMARY ***
+Total pot 188500 | No rake
+Board: [Td Tc 6c Jc 4d]
+Seat 1: correzebreiz showed [Ts Ad] and won 174500 with Trips of Tens
+Seat 5: MAntonio21 (small blind) showed [Kh Qc] and won 14000 with One pair : Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3216089520042672139-52-1708976788 - Holdem no limit (500/2000/4000) - 2024/02/26 19:46:28 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #5 is the button
+Seat 1: correzebreiz (174500)
+Seat 2: P1xel7 (508422)
+Seat 3: leGwadaFOu (95780)
+Seat 4: Maaarty_ (272693)
+Seat 5: MAntonio21 (116322)
+Seat 7: Annie1963 (117638)
+Seat 8: LaMaravilla (119800)
+*** ANTE/BLINDS ***
+LaMaravilla posts ante 500
+correzebreiz posts ante 500
+P1xel7 posts ante 500
+leGwadaFOu posts ante 500
+Maaarty_ posts ante 500
+MAntonio21 posts ante 500
+LaMaravilla posts small blind 2000
+correzebreiz posts big blind 4000
+Dealt to P1xel7 [6d Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+leGwadaFOu raises 4000 to 8000
+Maaarty_ folds
+MAntonio21 folds
+LaMaravilla calls 6000
+correzebreiz calls 4000
+*** FLOP *** [9s 4d Qs]
+LaMaravilla checks
+correzebreiz bets 4000
+leGwadaFOu folds
+LaMaravilla calls 4000
+*** TURN *** [9s 4d Qs][4s]
+LaMaravilla checks
+correzebreiz bets 4000
+LaMaravilla calls 4000
+*** RIVER *** [9s 4d Qs 4s][7s]
+LaMaravilla checks
+correzebreiz bets 27950
+LaMaravilla folds
+correzebreiz collected 70950 from pot
+*** SUMMARY ***
+Total pot 70950 | No rake
+Board: [9s 4d Qs 4s 7s]
+Seat 1: correzebreiz (big blind) won 70950
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3216089520042672139-53-1708976838 - Holdem no limit (500/2000/4000) - 2024/02/26 19:47:18 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #8 is the button
+Seat 1: correzebreiz (201000)
+Seat 2: P1xel7 (507922)
+Seat 3: leGwadaFOu (87280)
+Seat 4: Maaarty_ (272193)
+Seat 5: MAntonio21 (115822)
+Seat 7: Annie1963 (117638)
+Seat 8: LaMaravilla (103300)
+*** ANTE/BLINDS ***
+correzebreiz posts ante 500
+P1xel7 posts ante 500
+leGwadaFOu posts ante 500
+Maaarty_ posts ante 500
+MAntonio21 posts ante 500
+Annie1963 posts ante 500
+LaMaravilla posts ante 500
+correzebreiz posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [Ah 2s]
+*** PRE-FLOP *** 
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 2000
+P1xel7 raises 8000 to 12000
+correzebreiz calls 8000
+*** FLOP *** [Kc Kh 3d]
+correzebreiz checks
+P1xel7 bets 14000
+correzebreiz calls 14000
+*** TURN *** [Kc Kh 3d][Ac]
+correzebreiz checks
+P1xel7 bets 26000
+correzebreiz folds
+P1xel7 collected 81500 from pot
+*** SUMMARY ***
+Total pot 81500 | No rake
+Board: [Kc Kh 3d Ac]
+Seat 2: P1xel7 (big blind) won 81500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3216089520042672139-54-1708976891 - Holdem no limit (500/2000/4000) - 2024/02/26 19:48:11 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #1 is the button
+Seat 1: correzebreiz (174500)
+Seat 2: P1xel7 (536922)
+Seat 3: leGwadaFOu (86780)
+Seat 4: Maaarty_ (271693)
+Seat 5: MAntonio21 (115322)
+Seat 7: Annie1963 (117138)
+Seat 8: LaMaravilla (102800)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+leGwadaFOu posts ante 500
+correzebreiz posts ante 500
+Maaarty_ posts ante 500
+MAntonio21 posts ante 500
+Annie1963 posts ante 500
+LaMaravilla posts ante 500
+P1xel7 posts small blind 2000
+leGwadaFOu posts big blind 4000
+Dealt to P1xel7 [6d As]
+*** PRE-FLOP *** 
+Maaarty_ folds
+MAntonio21 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 4000
+P1xel7 calls 2000
+leGwadaFOu checks
+*** FLOP *** [Jh 6s 7c]
+P1xel7 checks
+leGwadaFOu checks
+correzebreiz checks
+*** TURN *** [Jh 6s 7c][2h]
+P1xel7 checks
+leGwadaFOu checks
+correzebreiz checks
+*** RIVER *** [Jh 6s 7c 2h][9c]
+P1xel7 checks
+leGwadaFOu checks
+correzebreiz checks
+*** SHOW DOWN ***
+correzebreiz shows [5h 5d] (One pair : 5)
+leGwadaFOu shows [3h Ad] (High card : Ace)
+P1xel7 shows [6d As] (One pair : 6)
+P1xel7 collected 15500 from pot
+*** SUMMARY ***
+Total pot 15500 | No rake
+Board: [Jh 6s 7c 2h 9c]
+Seat 1: correzebreiz (button) showed [5h 5d] and lost with One pair : 5
+Seat 2: P1xel7 (small blind) showed [6d As] and won 15500 with One pair : 6
+Seat 3: leGwadaFOu (big blind) showed [3h Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3216089520042672139-55-1708977003 - Holdem no limit (500/2000/4000) - 2024/02/26 19:50:03 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #2 is the button
+Seat 1: correzebreiz (170000)
+Seat 2: P1xel7 (547922)
+Seat 3: leGwadaFOu (82280)
+Seat 4: Maaarty_ (271193)
+Seat 5: MAntonio21 (114822)
+Seat 7: Annie1963 (116638)
+Seat 8: LaMaravilla (102300)
+*** ANTE/BLINDS ***
+leGwadaFOu posts ante 500
+Maaarty_ posts ante 500
+correzebreiz posts ante 500
+P1xel7 posts ante 500
+MAntonio21 posts ante 500
+Annie1963 posts ante 500
+LaMaravilla posts ante 500
+leGwadaFOu posts small blind 2000
+Maaarty_ posts big blind 4000
+Dealt to P1xel7 [Ah 5d]
+*** PRE-FLOP *** 
+MAntonio21 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 4000
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ checks
+*** FLOP *** [6s 2c Jc]
+Maaarty_ checks
+correzebreiz checks
+*** TURN *** [6s 2c Jc][6d]
+Maaarty_ checks
+correzebreiz checks
+*** RIVER *** [6s 2c Jc 6d][As]
+Maaarty_ checks
+correzebreiz checks
+*** SHOW DOWN ***
+correzebreiz shows [Kc 5c] (One pair : 6)
+Maaarty_ shows [2s 3d] (Two pairs : 6 and 2)
+Maaarty_ collected 13500 from pot
+*** SUMMARY ***
+Total pot 13500 | No rake
+Board: [6s 2c Jc 6d As]
+Seat 1: correzebreiz showed [Kc 5c] and lost with One pair : 6
+Seat 4: Maaarty_ (big blind) showed [2s 3d] and won 13500 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3216089520042672139-56-1708977074 - Holdem no limit (500/2000/4000) - 2024/02/26 19:51:14 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #3 is the button
+Seat 1: correzebreiz (165500)
+Seat 2: P1xel7 (547422)
+Seat 3: leGwadaFOu (79780)
+Seat 4: Maaarty_ (280193)
+Seat 5: MAntonio21 (114322)
+Seat 7: Annie1963 (116138)
+Seat 8: LaMaravilla (101800)
+*** ANTE/BLINDS ***
+Maaarty_ posts ante 500
+MAntonio21 posts ante 500
+correzebreiz posts ante 500
+P1xel7 posts ante 500
+leGwadaFOu posts ante 500
+Annie1963 posts ante 500
+LaMaravilla posts ante 500
+Maaarty_ posts small blind 2000
+MAntonio21 posts big blind 4000
+Dealt to P1xel7 [9c Kd]
+*** PRE-FLOP *** 
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 4000
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 raises 13500 to 17500
+correzebreiz calls 13500
+*** FLOP *** [4d 6c 3d]
+MAntonio21 bets 13365
+correzebreiz calls 13365
+*** TURN *** [4d 6c 3d][5h]
+MAntonio21 checks
+correzebreiz bets 23531
+MAntonio21 folds
+correzebreiz collected 90761 from pot
+*** SUMMARY ***
+Total pot 90761 | No rake
+Board: [4d 6c 3d 5h]
+Seat 1: correzebreiz won 90761
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3216089520042672139-57-1708977155 - Holdem no limit (600/2500/5000) - 2024/02/26 19:52:35 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #4 is the button
+Seat 1: correzebreiz (201365)
+Seat 2: P1xel7 (546922)
+Seat 3: leGwadaFOu (79280)
+Seat 4: Maaarty_ (277693)
+Seat 5: MAntonio21 (82957)
+Seat 7: Annie1963 (115638)
+Seat 8: LaMaravilla (101300)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 600
+Annie1963 posts ante 600
+correzebreiz posts ante 600
+P1xel7 posts ante 600
+leGwadaFOu posts ante 600
+Maaarty_ posts ante 600
+LaMaravilla posts ante 600
+MAntonio21 posts small blind 2500
+Annie1963 posts big blind 5000
+Dealt to P1xel7 [2c Qs]
+*** PRE-FLOP *** 
+LaMaravilla folds
+correzebreiz calls 5000
+P1xel7 folds
+leGwadaFOu raises 73680 to 78680 and is all-in
+Maaarty_ folds
+MAntonio21 folds
+Annie1963 folds
+correzebreiz folds
+leGwadaFOu collected 95380 from pot
+*** SUMMARY ***
+Total pot 95380 | No rake
+Seat 3: leGwadaFOu won 95380
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3216089520042672139-58-1708977201 - Holdem no limit (600/2500/5000) - 2024/02/26 19:53:21 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #5 is the button
+Seat 1: correzebreiz (195765)
+Seat 2: P1xel7 (546322)
+Seat 3: leGwadaFOu (95380)
+Seat 4: Maaarty_ (277093)
+Seat 5: MAntonio21 (79857)
+Seat 7: Annie1963 (110038)
+Seat 8: LaMaravilla (100700)
+*** ANTE/BLINDS ***
+Annie1963 posts ante 600
+LaMaravilla posts ante 600
+correzebreiz posts ante 600
+P1xel7 posts ante 600
+leGwadaFOu posts ante 600
+Maaarty_ posts ante 600
+MAntonio21 posts ante 600
+Annie1963 posts small blind 2500
+LaMaravilla posts big blind 5000
+Dealt to P1xel7 [8h Ts]
+*** PRE-FLOP *** 
+correzebreiz folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+Annie1963 folds
+LaMaravilla collected 11700 from pot
+*** SUMMARY ***
+Total pot 11700 | No rake
+Seat 8: LaMaravilla (big blind) won 11700
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3216089520042672139-59-1708977233 - Holdem no limit (600/2500/5000) - 2024/02/26 19:53:53 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #7 is the button
+Seat 1: correzebreiz (195165)
+Seat 2: P1xel7 (545722)
+Seat 3: leGwadaFOu (94780)
+Seat 4: Maaarty_ (276493)
+Seat 5: MAntonio21 (79257)
+Seat 6: manukey99 (100000)
+Seat 7: Annie1963 (106938)
+Seat 8: LaMaravilla (106800)
+*** ANTE/BLINDS ***
+LaMaravilla posts ante 600
+correzebreiz posts ante 600
+P1xel7 posts ante 600
+leGwadaFOu posts ante 600
+Maaarty_ posts ante 600
+MAntonio21 posts ante 600
+manukey99 posts ante 600
+Annie1963 posts ante 600
+LaMaravilla posts small blind 2500
+correzebreiz posts big blind 5000
+Dealt to P1xel7 [4h 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+leGwadaFOu raises 5000 to 10000
+Maaarty_ folds
+MAntonio21 folds
+manukey99 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz folds
+leGwadaFOu collected 22300 from pot
+*** SUMMARY ***
+Total pot 22300 | No rake
+Seat 3: leGwadaFOu won 22300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3216089520042672139-60-1708977283 - Holdem no limit (600/2500/5000) - 2024/02/26 19:54:43 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #8 is the button
+Seat 1: correzebreiz (189565)
+Seat 2: P1xel7 (545122)
+Seat 3: leGwadaFOu (106480)
+Seat 4: Maaarty_ (275893)
+Seat 5: MAntonio21 (78657)
+Seat 6: manukey99 (99400)
+Seat 7: Annie1963 (106338)
+Seat 8: LaMaravilla (103700)
+*** ANTE/BLINDS ***
+correzebreiz posts ante 600
+P1xel7 posts ante 600
+leGwadaFOu posts ante 600
+Maaarty_ posts ante 600
+MAntonio21 posts ante 600
+manukey99 posts ante 600
+Annie1963 posts ante 600
+LaMaravilla posts ante 600
+correzebreiz posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [3c Ks]
+*** PRE-FLOP *** 
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+manukey99 raises 5000 to 10000
+Annie1963 folds
+LaMaravilla folds
+correzebreiz folds
+P1xel7 folds
+manukey99 collected 22300 from pot
+*** SUMMARY ***
+Total pot 22300 | No rake
+Seat 6: manukey99 won 22300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3216089520042672139-61-1708977661 - Holdem no limit (600/2500/5000) - 2024/02/26 20:01:01 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #1 is the button
+Seat 1: correzebreiz (186465)
+Seat 2: P1xel7 (539522)
+Seat 3: leGwadaFOu (105880)
+Seat 4: Maaarty_ (275293)
+Seat 5: MAntonio21 (78057)
+Seat 6: manukey99 (111100)
+Seat 7: Annie1963 (105738)
+Seat 8: LaMaravilla (103100)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 600
+leGwadaFOu posts ante 600
+correzebreiz posts ante 600
+Maaarty_ posts ante 600
+MAntonio21 posts ante 600
+manukey99 posts ante 600
+Annie1963 posts ante 600
+LaMaravilla posts ante 600
+P1xel7 posts small blind 2500
+leGwadaFOu posts big blind 5000
+Dealt to P1xel7 [Ac 7s]
+*** PRE-FLOP *** 
+Maaarty_ folds
+MAntonio21 raises 72457 to 77457 and is all-in
+manukey99 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz folds
+P1xel7 folds
+leGwadaFOu folds
+MAntonio21 collected 89757 from pot
+*** SUMMARY ***
+Total pot 89757 | No rake
+Seat 5: MAntonio21 won 89757
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3216089520042672139-62-1708977714 - Holdem no limit (600/2500/5000) - 2024/02/26 20:01:54 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #2 is the button
+Seat 1: correzebreiz (185865)
+Seat 2: P1xel7 (536422)
+Seat 3: leGwadaFOu (100280)
+Seat 4: Maaarty_ (274693)
+Seat 5: MAntonio21 (89757)
+Seat 6: manukey99 (110500)
+Seat 7: Annie1963 (105138)
+Seat 8: LaMaravilla (102500)
+*** ANTE/BLINDS ***
+leGwadaFOu posts ante 600
+Maaarty_ posts ante 600
+correzebreiz posts ante 600
+P1xel7 posts ante 600
+MAntonio21 posts ante 600
+manukey99 posts ante 600
+Annie1963 posts ante 600
+LaMaravilla posts ante 600
+leGwadaFOu posts small blind 2500
+Maaarty_ posts big blind 5000
+Dealt to P1xel7 [Kd Tc]
+*** PRE-FLOP *** 
+MAntonio21 folds
+manukey99 raises 5000 to 10000
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 10000
+P1xel7 calls 10000
+leGwadaFOu folds
+Maaarty_ folds
+*** FLOP *** [Qh 5d Jc]
+manukey99 checks
+correzebreiz checks
+P1xel7 checks
+*** TURN *** [Qh 5d Jc][8h]
+manukey99 checks
+correzebreiz checks
+P1xel7 bets 12500
+manukey99 folds
+correzebreiz calls 12500
+*** RIVER *** [Qh 5d Jc 8h][2h]
+correzebreiz checks
+P1xel7 bets 43745
+correzebreiz folds
+P1xel7 collected 111045 from pot
+*** SUMMARY ***
+Total pot 111045 | No rake
+Board: [Qh 5d Jc 8h 2h]
+Seat 2: P1xel7 (button) won 111045
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3216089520042672139-63-1708977847 - Holdem no limit (600/2500/5000) - 2024/02/26 20:04:07 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #3 is the button
+Seat 1: correzebreiz (162765)
+Seat 2: P1xel7 (580622)
+Seat 3: leGwadaFOu (97180)
+Seat 4: Maaarty_ (269093)
+Seat 5: MAntonio21 (89157)
+Seat 6: manukey99 (99900)
+Seat 7: Annie1963 (104538)
+Seat 8: LaMaravilla (101900)
+*** ANTE/BLINDS ***
+Maaarty_ posts ante 600
+MAntonio21 posts ante 600
+correzebreiz posts ante 600
+P1xel7 posts ante 600
+leGwadaFOu posts ante 600
+manukey99 posts ante 600
+Annie1963 posts ante 600
+LaMaravilla posts ante 600
+Maaarty_ posts small blind 2500
+MAntonio21 posts big blind 5000
+Dealt to P1xel7 [3c Qd]
+*** PRE-FLOP *** 
+manukey99 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 5000
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 checks
+*** FLOP *** [5h 9s Ad]
+MAntonio21 checks
+correzebreiz checks
+*** TURN *** [5h 9s Ad][Jh]
+MAntonio21 checks
+correzebreiz checks
+*** RIVER *** [5h 9s Ad Jh][6c]
+MAntonio21 bets 12500
+correzebreiz folds
+MAntonio21 collected 29800 from pot
+*** SUMMARY ***
+Total pot 29800 | No rake
+Board: [5h 9s Ad Jh 6c]
+Seat 5: MAntonio21 (big blind) won 29800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3216089520042672139-64-1708977913 - Holdem no limit (700/3000/6000) - 2024/02/26 20:05:13 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #4 is the button
+Seat 1: correzebreiz (157165)
+Seat 2: P1xel7 (580022)
+Seat 3: leGwadaFOu (96580)
+Seat 4: Maaarty_ (265993)
+Seat 5: MAntonio21 (100857)
+Seat 6: manukey99 (99300)
+Seat 7: Annie1963 (103938)
+Seat 8: LaMaravilla (101300)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 700
+manukey99 posts ante 700
+correzebreiz posts ante 700
+P1xel7 posts ante 700
+leGwadaFOu posts ante 700
+Maaarty_ posts ante 700
+Annie1963 posts ante 700
+LaMaravilla posts ante 700
+MAntonio21 posts small blind 3000
+manukey99 posts big blind 6000
+Dealt to P1xel7 [3d 5d]
+*** PRE-FLOP *** 
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 6000
+P1xel7 folds
+leGwadaFOu calls 6000
+Maaarty_ folds
+MAntonio21 calls 3000
+manukey99 checks
+*** FLOP *** [2c Jc 5c]
+MAntonio21 checks
+manukey99 checks
+correzebreiz checks
+leGwadaFOu checks
+*** TURN *** [2c Jc 5c][6s]
+MAntonio21 bets 24000
+manukey99 folds
+correzebreiz folds
+leGwadaFOu folds
+MAntonio21 collected 53600 from pot
+*** SUMMARY ***
+Total pot 53600 | No rake
+Board: [2c Jc 5c 6s]
+Seat 5: MAntonio21 (small blind) won 53600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3216089520042672139-65-1708977991 - Holdem no limit (700/3000/6000) - 2024/02/26 20:06:31 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #5 is the button
+Seat 1: correzebreiz (150465)
+Seat 2: P1xel7 (579322)
+Seat 3: leGwadaFOu (89880)
+Seat 4: Maaarty_ (265293)
+Seat 5: MAntonio21 (123757)
+Seat 6: manukey99 (92600)
+Seat 7: Annie1963 (103238)
+Seat 8: LaMaravilla (100600)
+*** ANTE/BLINDS ***
+manukey99 posts ante 700
+Annie1963 posts ante 700
+correzebreiz posts ante 700
+P1xel7 posts ante 700
+leGwadaFOu posts ante 700
+Maaarty_ posts ante 700
+MAntonio21 posts ante 700
+LaMaravilla posts ante 700
+manukey99 posts small blind 3000
+Annie1963 posts big blind 6000
+Dealt to P1xel7 [3h 7s]
+*** PRE-FLOP *** 
+LaMaravilla folds
+correzebreiz raises 143765 to 149765 and is all-in
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+manukey99 folds
+Annie1963 folds
+correzebreiz collected 164365 from pot
+*** SUMMARY ***
+Total pot 164365 | No rake
+Seat 1: correzebreiz won 164365
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3216089520042672139-66-1708978020 - Holdem no limit (700/3000/6000) - 2024/02/26 20:07:00 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #6 is the button
+Seat 1: correzebreiz (164365)
+Seat 2: P1xel7 (578622)
+Seat 3: leGwadaFOu (89180)
+Seat 4: Maaarty_ (264593)
+Seat 5: MAntonio21 (123057)
+Seat 6: manukey99 (88900)
+Seat 7: Annie1963 (96538)
+Seat 8: LaMaravilla (99900)
+*** ANTE/BLINDS ***
+Annie1963 posts ante 700
+LaMaravilla posts ante 700
+correzebreiz posts ante 700
+P1xel7 posts ante 700
+leGwadaFOu posts ante 700
+Maaarty_ posts ante 700
+MAntonio21 posts ante 700
+manukey99 posts ante 700
+Annie1963 posts small blind 3000
+LaMaravilla posts big blind 6000
+Dealt to P1xel7 [9c 6c]
+*** PRE-FLOP *** 
+correzebreiz calls 6000
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+manukey99 raises 82200 to 88200 and is all-in
+Annie1963 folds
+LaMaravilla raises 11000 to 99200 and is all-in
+correzebreiz folds
+*** FLOP *** [Tc 6s Ad]
+*** TURN *** [Tc 6s Ad][Th]
+*** RIVER *** [Tc 6s Ad Th][Kc]
+*** SHOW DOWN ***
+manukey99 shows [Kh 4s] (Two pairs : Kings and Tens)
+LaMaravilla shows [Qd Kd] (Two pairs : Kings and Tens)
+LaMaravilla collected 106500 from side pot 1
+manukey99 collected 95500 from main pot
+*** SUMMARY ***
+Total pot 202000 | No rake
+Board: [Tc 6s Ad Th Kc]
+Seat 6: manukey99 (button) showed [Kh 4s] and won 95500 with Two pairs : Kings and Tens
+Seat 8: LaMaravilla (big blind) showed [Qd Kd] and won 106500 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3216089520042672139-67-1708978116 - Holdem no limit (700/3000/6000) - 2024/02/26 20:08:36 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #7 is the button
+Seat 1: correzebreiz (157665)
+Seat 2: P1xel7 (577922)
+Seat 3: leGwadaFOu (88480)
+Seat 4: Maaarty_ (263893)
+Seat 5: MAntonio21 (122357)
+Seat 6: manukey99 (95500)
+Seat 7: Annie1963 (92838)
+Seat 8: LaMaravilla (106500)
+*** ANTE/BLINDS ***
+LaMaravilla posts ante 700
+correzebreiz posts ante 700
+P1xel7 posts ante 700
+leGwadaFOu posts ante 700
+Maaarty_ posts ante 700
+MAntonio21 posts ante 700
+manukey99 posts ante 700
+Annie1963 posts ante 700
+LaMaravilla posts small blind 3000
+correzebreiz posts big blind 6000
+Dealt to P1xel7 [Qs Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 12000 to 18000
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+manukey99 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 12000
+*** FLOP *** [3s 7c 2c]
+correzebreiz bets 15610
+P1xel7 calls 15610
+*** TURN *** [3s 7c 2c][Qd]
+correzebreiz bets 49283
+P1xel7 calls 49283
+*** RIVER *** [3s 7c 2c Qd][3c]
+correzebreiz bets 61035
+P1xel7 raises 61035 to 122070
+correzebreiz calls 13037 and is all-in
+*** SHOW DOWN ***
+correzebreiz shows [Qh 7h] (Two pairs : Queens and 7)
+P1xel7 shows [Qs Ah] (Two pairs : Queens and 3)
+P1xel7 collected 47998 from side pot 1
+correzebreiz collected 322530 from main pot
+*** SUMMARY ***
+Total pot 370528 | No rake
+Board: [3s 7c 2c Qd 3c]
+Seat 1: correzebreiz (big blind) showed [Qh 7h] and won 322530 with Two pairs : Queens and 7
+Seat 2: P1xel7 showed [Qs Ah] and won 47998 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3216089520042672139-68-1708978185 - Holdem no limit (700/3000/6000) - 2024/02/26 20:09:45 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #8 is the button
+Seat 1: correzebreiz (322530)
+Seat 2: P1xel7 (420257)
+Seat 3: leGwadaFOu (87780)
+Seat 4: Maaarty_ (263193)
+Seat 5: MAntonio21 (121657)
+Seat 6: manukey99 (94800)
+Seat 7: Annie1963 (92138)
+Seat 8: LaMaravilla (102800)
+*** ANTE/BLINDS ***
+correzebreiz posts ante 700
+P1xel7 posts ante 700
+leGwadaFOu posts ante 700
+Maaarty_ posts ante 700
+MAntonio21 posts ante 700
+manukey99 posts ante 700
+Annie1963 posts ante 700
+LaMaravilla posts ante 700
+correzebreiz posts small blind 3000
+P1xel7 posts big blind 6000
+Dealt to P1xel7 [5h Kc]
+*** PRE-FLOP *** 
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+manukey99 folds
+Annie1963 folds
+LaMaravilla raises 6000 to 12000
+correzebreiz calls 9000
+P1xel7 calls 6000
+*** FLOP *** [9c Qs 5s]
+correzebreiz checks
+P1xel7 checks
+LaMaravilla bets 12480
+correzebreiz calls 12480
+P1xel7 folds
+*** TURN *** [9c Qs 5s][Ac]
+correzebreiz bets 23296
+LaMaravilla folds
+correzebreiz collected 89856 from pot
+*** SUMMARY ***
+Total pot 89856 | No rake
+Board: [9c Qs 5s Ac]
+Seat 1: correzebreiz (small blind) won 89856
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3216089520042672139-69-1708978297 - Holdem no limit (700/3000/6000) - 2024/02/26 20:11:37 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #1 is the button
+Seat 1: correzebreiz (363910)
+Seat 2: P1xel7 (407557)
+Seat 3: leGwadaFOu (87080)
+Seat 4: Maaarty_ (262493)
+Seat 5: MAntonio21 (120957)
+Seat 6: manukey99 (94100)
+Seat 7: Annie1963 (91438)
+Seat 8: LaMaravilla (77620)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 700
+leGwadaFOu posts ante 700
+correzebreiz posts ante 700
+Maaarty_ posts ante 700
+MAntonio21 posts ante 700
+manukey99 posts ante 700
+Annie1963 posts ante 700
+LaMaravilla posts ante 700
+P1xel7 posts small blind 3000
+leGwadaFOu posts big blind 6000
+Dealt to P1xel7 [3d Qh]
+*** PRE-FLOP *** 
+Maaarty_ folds
+MAntonio21 raises 6000 to 12000
+manukey99 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 12000
+P1xel7 folds
+leGwadaFOu folds
+*** FLOP *** [7s Ts 4h]
+MAntonio21 checks
+correzebreiz bets 13510
+MAntonio21 folds
+correzebreiz collected 52110 from pot
+*** SUMMARY ***
+Total pot 52110 | No rake
+Board: [7s Ts 4h]
+Seat 1: correzebreiz (button) won 52110
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3216089520042672139-70-1708978357 - Holdem no limit (800/3500/7000) - 2024/02/26 20:12:37 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #2 is the button
+Seat 1: correzebreiz (389810)
+Seat 2: P1xel7 (403857)
+Seat 3: leGwadaFOu (80380)
+Seat 4: Maaarty_ (261793)
+Seat 5: MAntonio21 (108257)
+Seat 6: manukey99 (93400)
+Seat 7: Annie1963 (90738)
+Seat 8: LaMaravilla (76920)
+*** ANTE/BLINDS ***
+leGwadaFOu posts ante 800
+Maaarty_ posts ante 800
+correzebreiz posts ante 800
+P1xel7 posts ante 800
+MAntonio21 posts ante 800
+manukey99 posts ante 800
+Annie1963 posts ante 800
+LaMaravilla posts ante 800
+leGwadaFOu posts small blind 3500
+Maaarty_ posts big blind 7000
+Dealt to P1xel7 [6s 3h]
+*** PRE-FLOP *** 
+MAntonio21 folds
+manukey99 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 7000
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ checks
+*** FLOP *** [4c 2d 4d]
+Maaarty_ checks
+correzebreiz checks
+*** TURN *** [4c 2d 4d][9h]
+Maaarty_ checks
+correzebreiz checks
+*** RIVER *** [4c 2d 4d 9h][Tc]
+Maaarty_ bets 19120
+correzebreiz folds
+Maaarty_ collected 43020 from pot
+*** SUMMARY ***
+Total pot 43020 | No rake
+Board: [4c 2d 4d 9h Tc]
+Seat 4: Maaarty_ (big blind) won 43020
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3216089520042672139-71-1708978458 - Holdem no limit (800/3500/7000) - 2024/02/26 20:14:18 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #3 is the button
+Seat 1: correzebreiz (382010)
+Seat 2: P1xel7 (403057)
+Seat 3: leGwadaFOu (76080)
+Seat 4: Maaarty_ (277893)
+Seat 5: MAntonio21 (107457)
+Seat 6: manukey99 (92600)
+Seat 7: Annie1963 (89938)
+Seat 8: LaMaravilla (76120)
+*** ANTE/BLINDS ***
+Maaarty_ posts ante 800
+MAntonio21 posts ante 800
+correzebreiz posts ante 800
+P1xel7 posts ante 800
+leGwadaFOu posts ante 800
+manukey99 posts ante 800
+Annie1963 posts ante 800
+LaMaravilla posts ante 800
+Maaarty_ posts small blind 3500
+MAntonio21 posts big blind 7000
+Dealt to P1xel7 [3s 9h]
+*** PRE-FLOP *** 
+manukey99 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 7000
+P1xel7 folds
+leGwadaFOu raises 68280 to 75280 and is all-in
+Maaarty_ folds
+MAntonio21 folds
+correzebreiz folds
+leGwadaFOu collected 99180 from pot
+*** SUMMARY ***
+Total pot 99180 | No rake
+Seat 3: leGwadaFOu (button) won 99180
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3216089520042672139-72-1708978510 - Holdem no limit (800/3500/7000) - 2024/02/26 20:15:10 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #4 is the button
+Seat 1: correzebreiz (374210)
+Seat 2: P1xel7 (402257)
+Seat 3: leGwadaFOu (99180)
+Seat 4: Maaarty_ (273593)
+Seat 5: MAntonio21 (99657)
+Seat 6: manukey99 (91800)
+Seat 7: Annie1963 (89138)
+Seat 8: LaMaravilla (75320)
+*** ANTE/BLINDS ***
+MAntonio21 posts ante 800
+manukey99 posts ante 800
+correzebreiz posts ante 800
+P1xel7 posts ante 800
+leGwadaFOu posts ante 800
+Maaarty_ posts ante 800
+Annie1963 posts ante 800
+LaMaravilla posts ante 800
+MAntonio21 posts small blind 3500
+manukey99 posts big blind 7000
+Dealt to P1xel7 [Qc 9s]
+*** PRE-FLOP *** 
+Annie1963 folds
+LaMaravilla folds
+correzebreiz calls 7000
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ raises 14000 to 21000
+MAntonio21 folds
+manukey99 folds
+correzebreiz calls 14000
+*** FLOP *** [Ah 7d 4h]
+correzebreiz checks
+Maaarty_ bets 21000
+correzebreiz calls 21000
+*** TURN *** [Ah 7d 4h][3d]
+correzebreiz checks
+Maaarty_ checks
+*** RIVER *** [Ah 7d 4h 3d][Ad]
+correzebreiz checks
+Maaarty_ checks
+*** SHOW DOWN ***
+Maaarty_ shows [Qs Ks] (One pair : Aces)
+correzebreiz shows [Qh 7h] (Two pairs : Aces and 7)
+correzebreiz collected 100900 from pot
+*** SUMMARY ***
+Total pot 100900 | No rake
+Board: [Ah 7d 4h 3d Ad]
+Seat 1: correzebreiz showed [Qh 7h] and won 100900 with Two pairs : Aces and 7
+Seat 4: Maaarty_ (button) showed [Qs Ks] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3216089520042672139-73-1708978597 - Holdem no limit (800/3500/7000) - 2024/02/26 20:16:37 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #5 is the button
+Seat 1: correzebreiz (432310)
+Seat 2: P1xel7 (401457)
+Seat 3: leGwadaFOu (98380)
+Seat 4: Maaarty_ (230793)
+Seat 5: MAntonio21 (95357)
+Seat 6: manukey99 (84000)
+Seat 7: Annie1963 (88338)
+Seat 8: LaMaravilla (74520)
+*** ANTE/BLINDS ***
+manukey99 posts ante 800
+Annie1963 posts ante 800
+correzebreiz posts ante 800
+P1xel7 posts ante 800
+leGwadaFOu posts ante 800
+Maaarty_ posts ante 800
+MAntonio21 posts ante 800
+LaMaravilla posts ante 800
+manukey99 posts small blind 3500
+Annie1963 posts big blind 7000
+Dealt to P1xel7 [Qd Jh]
+*** PRE-FLOP *** 
+LaMaravilla folds
+correzebreiz calls 7000
+P1xel7 raises 28000 to 35000
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+manukey99 calls 31500
+Annie1963 folds
+correzebreiz folds
+*** FLOP *** [2c 5h Td]
+manukey99 checks
+P1xel7 bets 14000
+manukey99 calls 14000
+*** TURN *** [2c 5h Td][8h]
+manukey99 checks
+P1xel7 checks
+*** RIVER *** [2c 5h Td 8h][Jc]
+manukey99 bets 34200 and is all-in
+P1xel7 calls 34200
+*** SHOW DOWN ***
+manukey99 shows [6c Ah] (High card : Ace)
+P1xel7 shows [Qd Jh] (One pair : Jacks)
+P1xel7 collected 186800 from pot
+*** SUMMARY ***
+Total pot 186800 | No rake
+Board: [2c 5h Td 8h Jc]
+Seat 2: P1xel7 showed [Qd Jh] and won 186800 with One pair : Jacks
+Seat 6: manukey99 (small blind) showed [6c Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3216089520042672139-74-1708978687 - Holdem no limit (800/3500/7000) - 2024/02/26 20:18:07 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #6 is the button
+Seat 1: correzebreiz (424510)
+Seat 2: P1xel7 (504257)
+Seat 3: leGwadaFOu (97580)
+Seat 4: Maaarty_ (229993)
+Seat 5: MAntonio21 (94557)
+Seat 7: Annie1963 (80538)
+Seat 8: LaMaravilla (73720)
+*** ANTE/BLINDS ***
+Annie1963 posts ante 800
+LaMaravilla posts ante 800
+correzebreiz posts ante 800
+P1xel7 posts ante 800
+leGwadaFOu posts ante 800
+Maaarty_ posts ante 800
+MAntonio21 posts ante 800
+Annie1963 posts small blind 3500
+LaMaravilla posts big blind 7000
+Dealt to P1xel7 [Js 2s]
+*** PRE-FLOP *** 
+correzebreiz folds
+P1xel7 folds
+leGwadaFOu folds
+Maaarty_ folds
+MAntonio21 folds
+Annie1963 folds
+LaMaravilla collected 16100 from pot
+*** SUMMARY ***
+Total pot 16100 | No rake
+Seat 8: LaMaravilla (big blind) won 16100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3216089520042672139-75-1708978715 - Holdem no limit (800/3500/7000) - 2024/02/26 20:18:35 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #7 is the button
+Seat 1: correzebreiz (423710)
+Seat 2: P1xel7 (503457)
+Seat 3: leGwadaFOu (96780)
+Seat 4: Maaarty_ (229193)
+Seat 5: MAntonio21 (93757)
+Seat 7: Annie1963 (76238)
+Seat 8: LaMaravilla (82020)
+*** ANTE/BLINDS ***
+LaMaravilla posts ante 800
+correzebreiz posts ante 800
+P1xel7 posts ante 800
+leGwadaFOu posts ante 800
+Maaarty_ posts ante 800
+MAntonio21 posts ante 800
+Annie1963 posts ante 800
+LaMaravilla posts small blind 3500
+correzebreiz posts big blind 7000
+Dealt to P1xel7 [As 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+leGwadaFOu raises 88980 to 95980 and is all-in
+Maaarty_ folds
+MAntonio21 folds
+Annie1963 folds
+LaMaravilla folds
+correzebreiz folds
+leGwadaFOu collected 112080 from pot
+*** SUMMARY ***
+Total pot 112080 | No rake
+Seat 3: leGwadaFOu won 112080
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3216089520042672139-76-1708978749 - Holdem no limit (1000/4000/8000) - 2024/02/26 20:19:09 UTC
+Table: 'Monster Stack(748804193)#010' 8-max (real money) Seat #8 is the button
+Seat 1: correzebreiz (415910)
+Seat 2: P1xel7 (502657)
+Seat 3: leGwadaFOu (112080)
+Seat 4: Maaarty_ (228393)
+Seat 5: MAntonio21 (92957)
+Seat 7: Annie1963 (75438)
+Seat 8: LaMaravilla (77720)
+*** ANTE/BLINDS ***
+correzebreiz posts ante 1000
+P1xel7 posts ante 1000
+leGwadaFOu posts ante 1000
+Maaarty_ posts ante 1000
+MAntonio21 posts ante 1000
+Annie1963 posts ante 1000
+LaMaravilla posts ante 1000
+correzebreiz posts small blind 4000
+P1xel7 posts big blind 8000
+Dealt to P1xel7 [Ts 2s]
+*** PRE-FLOP *** 
+leGwadaFOu raises 103080 to 111080 and is all-in
+Maaarty_ folds
+MAntonio21 calls 91957 and is all-in
+Annie1963 folds
+LaMaravilla folds
+correzebreiz folds
+P1xel7 folds
+*** FLOP *** [Jd 6c Js]
+*** TURN *** [Jd 6c Js][6h]
+*** RIVER *** [Jd 6c Js 6h][8c]
+*** SHOW DOWN ***
+leGwadaFOu shows [Td Kd] (Two pairs : Jacks and 6)
+MAntonio21 shows [As Kc] (Two pairs : Jacks and 6)
+MAntonio21 collected 202914 from main pot
+leGwadaFOu collected 19123 from side pot 1
+*** SUMMARY ***
+Total pot 222037 | No rake
+Board: [Jd 6c Js 6h 8c]
+Seat 3: leGwadaFOu showed [Td Kd] and won 19123 with Two pairs : Jacks and 6
+Seat 5: MAntonio21 showed [As Kc] and won 202914 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3216089520042672131-134-1708978824 - Holdem no limit (1000/4000/8000) - 2024/02/26 20:20:24 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #3 is the button
+Seat 1: BetterUCall (77884)
+Seat 2: P1xel7 (493657)
+Seat 3: Dylv (281060)
+Seat 4: UB50 (53957)
+Seat 5: oscarodiseo (461700)
+Seat 6: Pain3Bet (206741)
+Seat 7: Fred AAstair (152330)
+Seat 8: Cesk (202392)
+*** ANTE/BLINDS ***
+UB50 posts ante 1000
+oscarodiseo posts ante 1000
+BetterUCall posts ante 1000
+P1xel7 posts ante 1000
+Dylv posts ante 1000
+Pain3Bet posts ante 1000
+Fred AAstair posts ante 1000
+Cesk posts ante 1000
+UB50 posts small blind 4000
+oscarodiseo posts big blind 8000
+Dealt to P1xel7 [5h Jc]
+*** PRE-FLOP *** 
+Pain3Bet folds
+Fred AAstair folds
+Cesk raises 8000 to 16000
+BetterUCall folds
+P1xel7 folds
+Dylv folds
+UB50 folds
+oscarodiseo calls 8000
+*** FLOP *** [2s 6c Js]
+oscarodiseo checks
+Cesk bets 8000
+oscarodiseo folds
+Cesk collected 52000 from pot
+*** SUMMARY ***
+Total pot 52000 | No rake
+Board: [2s 6c Js]
+Seat 8: Cesk won 52000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3216089520042672131-135-1708978866 - Holdem no limit (1000/4000/8000) - 2024/02/26 20:21:06 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #4 is the button
+Seat 1: BetterUCall (76884)
+Seat 2: P1xel7 (492657)
+Seat 3: Dylv (280060)
+Seat 4: UB50 (48957)
+Seat 5: oscarodiseo (444700)
+Seat 6: Pain3Bet (205741)
+Seat 7: Fred AAstair (151330)
+Seat 8: Cesk (229392)
+*** ANTE/BLINDS ***
+oscarodiseo posts ante 1000
+Pain3Bet posts ante 1000
+BetterUCall posts ante 1000
+P1xel7 posts ante 1000
+Dylv posts ante 1000
+UB50 posts ante 1000
+Fred AAstair posts ante 1000
+Cesk posts ante 1000
+oscarodiseo posts small blind 4000
+Pain3Bet posts big blind 8000
+Dealt to P1xel7 [Ks 6d]
+*** PRE-FLOP *** 
+Fred AAstair folds
+Cesk folds
+BetterUCall folds
+P1xel7 folds
+Dylv folds
+UB50 folds
+oscarodiseo folds
+Pain3Bet collected 20000 from pot
+*** SUMMARY ***
+Total pot 20000 | No rake
+Seat 6: Pain3Bet (big blind) won 20000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3216089520042672131-136-1708978889 - Holdem no limit (1000/4000/8000) - 2024/02/26 20:21:29 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #5 is the button
+Seat 1: BetterUCall (75884)
+Seat 2: P1xel7 (491657)
+Seat 3: Dylv (279060)
+Seat 4: UB50 (47957)
+Seat 5: oscarodiseo (439700)
+Seat 6: Pain3Bet (216741)
+Seat 7: Fred AAstair (150330)
+Seat 8: Cesk (228392)
+*** ANTE/BLINDS ***
+Pain3Bet posts ante 1000
+Fred AAstair posts ante 1000
+BetterUCall posts ante 1000
+P1xel7 posts ante 1000
+Dylv posts ante 1000
+UB50 posts ante 1000
+oscarodiseo posts ante 1000
+Cesk posts ante 1000
+Pain3Bet posts small blind 4000
+Fred AAstair posts big blind 8000
+Dealt to P1xel7 [9d Kh]
+*** PRE-FLOP *** 
+Cesk folds
+BetterUCall folds
+P1xel7 folds
+Dylv folds
+UB50 folds
+oscarodiseo folds
+Pain3Bet folds
+Fred AAstair collected 20000 from pot
+*** SUMMARY ***
+Total pot 20000 | No rake
+Seat 7: Fred AAstair (big blind) won 20000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3216089520042672131-137-1708978940 - Holdem no limit (1000/4000/8000) - 2024/02/26 20:22:20 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #6 is the button
+Seat 1: BetterUCall (74884)
+Seat 2: P1xel7 (490657)
+Seat 3: Dylv (278060)
+Seat 4: UB50 (46957)
+Seat 5: oscarodiseo (438700)
+Seat 6: Pain3Bet (211741)
+Seat 7: Fred AAstair (161330)
+Seat 8: Cesk (227392)
+*** ANTE/BLINDS ***
+Fred AAstair posts ante 1000
+Cesk posts ante 1000
+BetterUCall posts ante 1000
+P1xel7 posts ante 1000
+Dylv posts ante 1000
+UB50 posts ante 1000
+oscarodiseo posts ante 1000
+Pain3Bet posts ante 1000
+Fred AAstair posts small blind 4000
+Cesk posts big blind 8000
+Dealt to P1xel7 [Qc 8s]
+*** PRE-FLOP *** 
+BetterUCall folds
+P1xel7 folds
+Dylv folds
+UB50 raises 8000 to 16000
+oscarodiseo folds
+Pain3Bet folds
+Fred AAstair folds
+Cesk calls 8000
+*** FLOP *** [Qd Jh 2h]
+Cesk checks
+UB50 bets 29957 and is all-in
+Cesk folds
+UB50 collected 73957 from pot
+*** SUMMARY ***
+Total pot 73957 | No rake
+Board: [Qd Jh 2h]
+Seat 4: UB50 won 73957
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3216089520042672131-138-1708978998 - Holdem no limit (1000/4000/8000) - 2024/02/26 20:23:18 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #7 is the button
+Seat 1: BetterUCall (73884)
+Seat 2: P1xel7 (489657)
+Seat 3: Dylv (277060)
+Seat 4: UB50 (73957)
+Seat 5: oscarodiseo (437700)
+Seat 6: Pain3Bet (210741)
+Seat 7: Fred AAstair (156330)
+Seat 8: Cesk (210392)
+*** ANTE/BLINDS ***
+Cesk posts ante 1000
+BetterUCall posts ante 1000
+P1xel7 posts ante 1000
+Dylv posts ante 1000
+UB50 posts ante 1000
+oscarodiseo posts ante 1000
+Pain3Bet posts ante 1000
+Fred AAstair posts ante 1000
+Cesk posts small blind 4000
+BetterUCall posts big blind 8000
+Dealt to P1xel7 [Ks 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Dylv folds
+UB50 raises 8000 to 16000
+oscarodiseo folds
+Pain3Bet raises 59689 to 75689
+Fred AAstair folds
+Cesk folds
+BetterUCall folds
+UB50 calls 56957 and is all-in
+*** FLOP *** [Th 6h 2s]
+*** TURN *** [Th 6h 2s][Js]
+*** RIVER *** [Th 6h 2s Js][5h]
+*** SHOW DOWN ***
+UB50 shows [3d Ad] (High card : Ace)
+Pain3Bet shows [Ac Kh] (High card : Ace)
+Pain3Bet collected 168646 from pot
+*** SUMMARY ***
+Total pot 168646 | No rake
+Board: [Th 6h 2s Js 5h]
+Seat 4: UB50 showed [3d Ad] and lost with High card : Ace
+Seat 6: Pain3Bet showed [Ac Kh] and won 168646 with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3216089520042672131-139-1708979057 - Holdem no limit (1000/4000/8000) - 2024/02/26 20:24:17 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #8 is the button
+Seat 1: BetterUCall (64884)
+Seat 2: P1xel7 (488657)
+Seat 3: Dylv (276060)
+Seat 5: oscarodiseo (436700)
+Seat 6: Pain3Bet (302698)
+Seat 7: Fred AAstair (155330)
+Seat 8: Cesk (205392)
+*** ANTE/BLINDS ***
+BetterUCall posts ante 1000
+P1xel7 posts ante 1000
+Dylv posts ante 1000
+oscarodiseo posts ante 1000
+Pain3Bet posts ante 1000
+Fred AAstair posts ante 1000
+Cesk posts ante 1000
+BetterUCall posts small blind 4000
+P1xel7 posts big blind 8000
+Dealt to P1xel7 [5d Qd]
+*** PRE-FLOP *** 
+Dylv folds
+oscarodiseo folds
+Pain3Bet folds
+Fred AAstair raises 10000 to 18000
+Cesk folds
+BetterUCall folds
+P1xel7 calls 10000
+*** FLOP *** [Qc 4c 6h]
+P1xel7 checks
+Fred AAstair bets 20000
+P1xel7 calls 20000
+*** TURN *** [Qc 4c 6h][6c]
+P1xel7 checks
+Fred AAstair checks
+*** RIVER *** [Qc 4c 6h 6c][Jh]
+P1xel7 bets 28000
+Fred AAstair folds
+P1xel7 collected 115000 from pot
+*** SUMMARY ***
+Total pot 115000 | No rake
+Board: [Qc 4c 6h 6c Jh]
+Seat 2: P1xel7 (big blind) won 115000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3216089520042672131-140-1708979126 - Holdem no limit (1000/4000/8000) - 2024/02/26 20:25:26 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #1 is the button
+Seat 1: BetterUCall (59884)
+Seat 2: P1xel7 (536657)
+Seat 3: Dylv (275060)
+Seat 5: oscarodiseo (435700)
+Seat 6: Pain3Bet (301698)
+Seat 7: Fred AAstair (116330)
+Seat 8: Cesk (204392)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1000
+Dylv posts ante 1000
+BetterUCall posts ante 1000
+oscarodiseo posts ante 1000
+Pain3Bet posts ante 1000
+Fred AAstair posts ante 1000
+Cesk posts ante 1000
+P1xel7 posts small blind 4000
+Dylv posts big blind 8000
+Dealt to P1xel7 [Qc 6c]
+*** PRE-FLOP *** 
+oscarodiseo raises 12000 to 20000
+Pain3Bet folds
+Fred AAstair folds
+Cesk folds
+BetterUCall raises 38884 to 58884 and is all-in
+P1xel7 folds
+Dylv folds
+oscarodiseo calls 38884
+*** FLOP *** [Qd Qs Ac]
+*** TURN *** [Qd Qs Ac][Jd]
+*** RIVER *** [Qd Qs Ac Jd][5s]
+*** SHOW DOWN ***
+BetterUCall shows [Ah Ks] (Two pairs : Aces and Queens)
+oscarodiseo shows [Kh Th] (Straight Ace high)
+oscarodiseo collected 136768 from pot
+*** SUMMARY ***
+Total pot 136768 | No rake
+Board: [Qd Qs Ac Jd 5s]
+Seat 1: BetterUCall (button) showed [Ah Ks] and lost with Two pairs : Aces and Queens
+Seat 5: oscarodiseo showed [Kh Th] and won 136768 with Straight Ace high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3216089520042672131-141-1708979171 - Holdem no limit (1200/5000/10000) - 2024/02/26 20:26:11 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (531657)
+Seat 3: Dylv (266060)
+Seat 5: oscarodiseo (512584)
+Seat 6: Pain3Bet (300698)
+Seat 7: Fred AAstair (115330)
+Seat 8: Cesk (203392)
+*** ANTE/BLINDS ***
+Dylv posts ante 1200
+oscarodiseo posts ante 1200
+P1xel7 posts ante 1200
+Pain3Bet posts ante 1200
+Fred AAstair posts ante 1200
+Cesk posts ante 1200
+Dylv posts small blind 5000
+oscarodiseo posts big blind 10000
+Dealt to P1xel7 [Ad 3d]
+*** PRE-FLOP *** 
+Pain3Bet folds
+Fred AAstair folds
+Cesk folds
+P1xel7 raises 20000 to 30000
+Dylv folds
+oscarodiseo folds
+P1xel7 collected 52200 from pot
+*** SUMMARY ***
+Total pot 52200 | No rake
+Seat 2: P1xel7 (button) won 52200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3216089520042672131-142-1708979192 - Holdem no limit (1200/5000/10000) - 2024/02/26 20:26:32 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (552657)
+Seat 3: Dylv (259860)
+Seat 4: 9euros55 (595090)
+Seat 5: oscarodiseo (501384)
+Seat 6: Pain3Bet (299498)
+Seat 7: Fred AAstair (114130)
+Seat 8: Cesk (202192)
+*** ANTE/BLINDS ***
+oscarodiseo posts ante 1200
+Pain3Bet posts ante 1200
+P1xel7 posts ante 1200
+Dylv posts ante 1200
+Fred AAstair posts ante 1200
+Cesk posts ante 1200
+oscarodiseo posts small blind 5000
+Pain3Bet posts big blind 10000
+Dealt to P1xel7 [Kc 2c]
+*** PRE-FLOP *** 
+Fred AAstair folds
+Cesk folds
+P1xel7 folds
+Dylv folds
+oscarodiseo folds
+Pain3Bet collected 22200 from pot
+*** SUMMARY ***
+Total pot 22200 | No rake
+Seat 6: Pain3Bet (big blind) won 22200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3216089520042672131-143-1708979219 - Holdem no limit (1200/5000/10000) - 2024/02/26 20:26:59 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #5 is the button
+Seat 2: P1xel7 (551457)
+Seat 3: Dylv (258660)
+Seat 4: 9euros55 (595090)
+Seat 5: oscarodiseo (495184)
+Seat 6: Pain3Bet (310498)
+Seat 7: Fred AAstair (112930)
+Seat 8: Cesk (200992)
+*** ANTE/BLINDS ***
+Pain3Bet posts ante 1200
+Fred AAstair posts ante 1200
+P1xel7 posts ante 1200
+Dylv posts ante 1200
+9euros55 posts ante 1200
+oscarodiseo posts ante 1200
+Cesk posts ante 1200
+Pain3Bet posts small blind 5000
+Fred AAstair posts big blind 10000
+Dealt to P1xel7 [Td 2s]
+*** PRE-FLOP *** 
+Cesk folds
+P1xel7 folds
+Dylv folds
+9euros55 folds
+oscarodiseo folds
+Pain3Bet calls 5000
+Fred AAstair raises 101730 to 111730 and is all-in
+Pain3Bet folds
+Fred AAstair collected 130130 from pot
+*** SUMMARY ***
+Total pot 130130 | No rake
+Seat 7: Fred AAstair (big blind) won 130130
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3216089520042672131-144-1708979257 - Holdem no limit (1200/5000/10000) - 2024/02/26 20:27:37 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #6 is the button
+Seat 2: P1xel7 (550257)
+Seat 3: Dylv (257460)
+Seat 4: 9euros55 (593890)
+Seat 5: oscarodiseo (493984)
+Seat 6: Pain3Bet (299298)
+Seat 7: Fred AAstair (130130)
+Seat 8: Cesk (199792)
+*** ANTE/BLINDS ***
+Fred AAstair posts ante 1200
+Cesk posts ante 1200
+P1xel7 posts ante 1200
+Dylv posts ante 1200
+9euros55 posts ante 1200
+oscarodiseo posts ante 1200
+Pain3Bet posts ante 1200
+Fred AAstair posts small blind 5000
+Cesk posts big blind 10000
+Dealt to P1xel7 [Tc Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 15000 to 25000
+Dylv folds
+9euros55 calls 25000
+oscarodiseo calls 25000
+Pain3Bet folds
+Fred AAstair folds
+Cesk folds
+*** FLOP *** [Th 2h Jh]
+P1xel7 bets 25000
+9euros55 folds
+oscarodiseo calls 25000
+*** TURN *** [Th 2h Jh][Kh]
+P1xel7 bets 37100
+oscarodiseo folds
+P1xel7 collected 185500 from pot
+*** SUMMARY ***
+Total pot 185500 | No rake
+Board: [Th 2h Jh Kh]
+Seat 2: P1xel7 won 185500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3216089520042672131-145-1708979347 - Holdem no limit (1200/5000/10000) - 2024/02/26 20:29:07 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #7 is the button
+Seat 1: back_doorian (162104)
+Seat 2: P1xel7 (647457)
+Seat 3: Dylv (256260)
+Seat 4: 9euros55 (567690)
+Seat 5: oscarodiseo (442784)
+Seat 6: Pain3Bet (298098)
+Seat 7: Fred AAstair (123930)
+Seat 8: Cesk (188592)
+*** ANTE/BLINDS ***
+Cesk posts ante 1200
+back_doorian posts ante 1200
+P1xel7 posts ante 1200
+Dylv posts ante 1200
+9euros55 posts ante 1200
+oscarodiseo posts ante 1200
+Pain3Bet posts ante 1200
+Fred AAstair posts ante 1200
+Cesk posts small blind 5000
+back_doorian posts big blind 10000
+Dealt to P1xel7 [4d Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Dylv folds
+9euros55 raises 10000 to 20000
+oscarodiseo folds
+Pain3Bet calls 20000
+Fred AAstair folds
+Cesk folds
+back_doorian folds
+*** FLOP *** [2d Qs 5s]
+9euros55 bets 16150
+Pain3Bet raises 21150 to 37300
+9euros55 calls 21150
+*** TURN *** [2d Qs 5s][Qc]
+9euros55 checks
+Pain3Bet bets 48720
+9euros55 folds
+Pain3Bet collected 187920 from pot
+*** SUMMARY ***
+Total pot 187920 | No rake
+Board: [2d Qs 5s Qc]
+Seat 6: Pain3Bet won 187920
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3216089520042672131-146-1708979437 - Holdem no limit (1200/5000/10000) - 2024/02/26 20:30:37 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #8 is the button
+Seat 1: back_doorian (150904)
+Seat 2: P1xel7 (646257)
+Seat 3: Dylv (255060)
+Seat 4: 9euros55 (509190)
+Seat 5: oscarodiseo (441584)
+Seat 6: Pain3Bet (378798)
+Seat 7: Fred AAstair (122730)
+Seat 8: Cesk (182392)
+*** ANTE/BLINDS ***
+back_doorian posts ante 1200
+P1xel7 posts ante 1200
+Dylv posts ante 1200
+9euros55 posts ante 1200
+oscarodiseo posts ante 1200
+Pain3Bet posts ante 1200
+Fred AAstair posts ante 1200
+Cesk posts ante 1200
+back_doorian posts small blind 5000
+P1xel7 posts big blind 10000
+Dealt to P1xel7 [Ad 9d]
+*** PRE-FLOP *** 
+Dylv folds
+9euros55 folds
+oscarodiseo folds
+Pain3Bet folds
+Fred AAstair raises 111530 to 121530 and is all-in
+Cesk folds
+back_doorian folds
+P1xel7 calls 111530
+*** FLOP *** [8s Tc 2d]
+*** TURN *** [8s Tc 2d][8h]
+*** RIVER *** [8s Tc 2d 8h][8c]
+*** SHOW DOWN ***
+P1xel7 shows [Ad 9d] (Trips of 8)
+Fred AAstair shows [Ts Qs] (Full of 8 and Tens)
+Fred AAstair collected 257660 from pot
+*** SUMMARY ***
+Total pot 257660 | No rake
+Board: [8s Tc 2d 8h 8c]
+Seat 2: P1xel7 (big blind) showed [Ad 9d] and lost with Trips of 8
+Seat 7: Fred AAstair showed [Ts Qs] and won 257660 with Full of 8 and Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3216089520042672131-147-1708979491 - Holdem no limit (1200/5000/10000) - 2024/02/26 20:31:31 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #1 is the button
+Seat 1: back_doorian (144704)
+Seat 2: P1xel7 (523527)
+Seat 3: Dylv (253860)
+Seat 4: 9euros55 (507990)
+Seat 5: oscarodiseo (440384)
+Seat 6: Pain3Bet (377598)
+Seat 7: Fred AAstair (257660)
+Seat 8: Cesk (181192)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1200
+Dylv posts ante 1200
+back_doorian posts ante 1200
+9euros55 posts ante 1200
+oscarodiseo posts ante 1200
+Pain3Bet posts ante 1200
+Fred AAstair posts ante 1200
+Cesk posts ante 1200
+P1xel7 posts small blind 5000
+Dylv posts big blind 10000
+Dealt to P1xel7 [Jd 3c]
+*** PRE-FLOP *** 
+9euros55 folds
+oscarodiseo folds
+Pain3Bet folds
+Fred AAstair raises 12500 to 22500
+Cesk folds
+back_doorian folds
+P1xel7 folds
+Dylv folds
+Fred AAstair collected 47100 from pot
+*** SUMMARY ***
+Total pot 47100 | No rake
+Seat 7: Fred AAstair won 47100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3216089520042672131-148-1708979526 - Holdem no limit (1200/5000/10000) - 2024/02/26 20:32:06 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #2 is the button
+Seat 1: back_doorian (143504)
+Seat 2: P1xel7 (517327)
+Seat 3: Dylv (242660)
+Seat 4: 9euros55 (506790)
+Seat 6: Pain3Bet (376398)
+Seat 7: Fred AAstair (281060)
+Seat 8: Cesk (179992)
+*** ANTE/BLINDS ***
+Dylv posts ante 1200
+9euros55 posts ante 1200
+back_doorian posts ante 1200
+P1xel7 posts ante 1200
+Pain3Bet posts ante 1200
+Fred AAstair posts ante 1200
+Cesk posts ante 1200
+Dylv posts small blind 5000
+9euros55 posts big blind 10000
+Dealt to P1xel7 [Qc Js]
+*** PRE-FLOP *** 
+Pain3Bet folds
+Fred AAstair folds
+Cesk folds
+back_doorian raises 10000 to 20000
+P1xel7 calls 20000
+Dylv folds
+9euros55 folds
+*** FLOP *** [7h Th 8d]
+back_doorian bets 26628
+P1xel7 raises 469499 to 496127 and is all-in
+back_doorian calls 95676 and is all-in
+*** TURN *** [7h Th 8d][Kd]
+*** RIVER *** [7h Th 8d Kd][2s]
+*** SHOW DOWN ***
+back_doorian shows [Kh 9c] (One pair : Kings)
+P1xel7 shows [Qc Js] (High card : King)
+P1xel7 collected 373823 from side pot 1
+back_doorian collected 308008 from main pot
+*** SUMMARY ***
+Total pot 681831 | No rake
+Board: [7h Th 8d Kd 2s]
+Seat 1: back_doorian showed [Kh 9c] and won 308008 with One pair : Kings
+Seat 2: P1xel7 (button) showed [Qc Js] and won 373823 with High card : King
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3216089520042672131-149-1708979628 - Holdem no limit (1400/6000/12000) - 2024/02/26 20:33:48 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #3 is the button
+Seat 1: back_doorian (308008)
+Seat 2: P1xel7 (373823)
+Seat 3: Dylv (236460)
+Seat 4: 9euros55 (495590)
+Seat 6: Pain3Bet (375198)
+Seat 7: Fred AAstair (279860)
+Seat 8: Cesk (178792)
+*** ANTE/BLINDS ***
+9euros55 posts ante 1400
+Pain3Bet posts ante 1400
+back_doorian posts ante 1400
+P1xel7 posts ante 1400
+Dylv posts ante 1400
+Fred AAstair posts ante 1400
+Cesk posts ante 1400
+9euros55 posts small blind 6000
+Pain3Bet posts big blind 12000
+Dealt to P1xel7 [5h 2s]
+*** PRE-FLOP *** 
+Fred AAstair raises 15000 to 27000
+Cesk folds
+back_doorian folds
+P1xel7 folds
+Dylv folds
+9euros55 folds
+Pain3Bet folds
+Fred AAstair collected 54800 from pot
+*** SUMMARY ***
+Total pot 54800 | No rake
+Seat 7: Fred AAstair won 54800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3216089520042672131-150-1708979673 - Holdem no limit (1400/6000/12000) - 2024/02/26 20:34:33 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #4 is the button
+Seat 1: back_doorian (306608)
+Seat 2: P1xel7 (372423)
+Seat 3: Dylv (235060)
+Seat 4: 9euros55 (488190)
+Seat 6: Pain3Bet (361798)
+Seat 7: Fred AAstair (306260)
+Seat 8: Cesk (177392)
+*** ANTE/BLINDS ***
+Pain3Bet posts ante 1400
+Fred AAstair posts ante 1400
+back_doorian posts ante 1400
+P1xel7 posts ante 1400
+Dylv posts ante 1400
+9euros55 posts ante 1400
+Cesk posts ante 1400
+Pain3Bet posts small blind 6000
+Fred AAstair posts big blind 12000
+Dealt to P1xel7 [8s 9d]
+*** PRE-FLOP *** 
+Cesk raises 163992 to 175992 and is all-in
+back_doorian folds
+P1xel7 folds
+Dylv folds
+9euros55 folds
+Pain3Bet folds
+Fred AAstair folds
+Cesk collected 203792 from pot
+*** SUMMARY ***
+Total pot 203792 | No rake
+Seat 8: Cesk won 203792
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3216089520042672131-151-1708979730 - Holdem no limit (1400/6000/12000) - 2024/02/26 20:35:30 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #6 is the button
+Seat 1: back_doorian (305208)
+Seat 2: P1xel7 (371023)
+Seat 3: Dylv (233660)
+Seat 4: 9euros55 (486790)
+Seat 5: CB-Zeus76577 (191900)
+Seat 6: Pain3Bet (354398)
+Seat 7: Fred AAstair (292860)
+Seat 8: Cesk (203792)
+*** ANTE/BLINDS ***
+Fred AAstair posts ante 1400
+Cesk posts ante 1400
+back_doorian posts ante 1400
+P1xel7 posts ante 1400
+Dylv posts ante 1400
+9euros55 posts ante 1400
+CB-Zeus76577 posts ante 1400
+Pain3Bet posts ante 1400
+Fred AAstair posts small blind 6000
+Cesk posts big blind 12000
+Dealt to P1xel7 [Kc Ad]
+*** PRE-FLOP *** 
+back_doorian raises 12000 to 24000
+P1xel7 raises 48000 to 72000
+Dylv folds
+9euros55 folds
+CB-Zeus76577 folds
+Pain3Bet folds
+Fred AAstair folds
+Cesk folds
+back_doorian folds
+P1xel7 collected 125200 from pot
+*** SUMMARY ***
+Total pot 125200 | No rake
+Seat 2: P1xel7 won 125200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3216089520042672131-152-1708979757 - Holdem no limit (1400/6000/12000) - 2024/02/26 20:35:57 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #7 is the button
+Seat 1: back_doorian (279808)
+Seat 2: P1xel7 (422823)
+Seat 3: Dylv (232260)
+Seat 4: 9euros55 (485390)
+Seat 5: CB-Zeus76577 (190500)
+Seat 6: Pain3Bet (352998)
+Seat 7: Fred AAstair (285460)
+Seat 8: Cesk (190392)
+*** ANTE/BLINDS ***
+Cesk posts ante 1400
+back_doorian posts ante 1400
+P1xel7 posts ante 1400
+Dylv posts ante 1400
+9euros55 posts ante 1400
+CB-Zeus76577 posts ante 1400
+Pain3Bet posts ante 1400
+Fred AAstair posts ante 1400
+Cesk posts small blind 6000
+back_doorian posts big blind 12000
+Dealt to P1xel7 [9d 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Dylv folds
+9euros55 folds
+CB-Zeus76577 folds
+Pain3Bet folds
+Fred AAstair folds
+Cesk folds
+back_doorian collected 29200 from pot
+*** SUMMARY ***
+Total pot 29200 | No rake
+Seat 1: back_doorian (big blind) won 29200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3216089520042672131-153-1708979812 - Holdem no limit (1400/6000/12000) - 2024/02/26 20:36:52 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #8 is the button
+Seat 1: back_doorian (295608)
+Seat 2: P1xel7 (421423)
+Seat 4: 9euros55 (483990)
+Seat 5: CB-Zeus76577 (189100)
+Seat 6: Pain3Bet (351598)
+Seat 7: Fred AAstair (284060)
+Seat 8: Cesk (182992)
+*** ANTE/BLINDS ***
+back_doorian posts ante 1400
+P1xel7 posts ante 1400
+9euros55 posts ante 1400
+CB-Zeus76577 posts ante 1400
+Pain3Bet posts ante 1400
+Fred AAstair posts ante 1400
+Cesk posts ante 1400
+back_doorian posts small blind 6000
+P1xel7 posts big blind 12000
+Dealt to P1xel7 [3d Td]
+*** PRE-FLOP *** 
+9euros55 folds
+CB-Zeus76577 folds
+Pain3Bet folds
+Fred AAstair folds
+Cesk folds
+back_doorian calls 6000
+P1xel7 checks
+*** FLOP *** [9h 5h Ac]
+back_doorian checks
+P1xel7 bets 18000
+back_doorian calls 18000
+*** TURN *** [9h 5h Ac][9s]
+back_doorian checks
+P1xel7 bets 69800
+back_doorian folds
+P1xel7 collected 139600 from pot
+*** SUMMARY ***
+Total pot 139600 | No rake
+Board: [9h 5h Ac 9s]
+Seat 2: P1xel7 (big blind) won 139600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3216089520042672131-154-1708979887 - Holdem no limit (1400/6000/12000) - 2024/02/26 20:38:07 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #1 is the button
+Seat 1: back_doorian (264208)
+Seat 2: P1xel7 (459823)
+Seat 4: 9euros55 (482590)
+Seat 5: CB-Zeus76577 (187700)
+Seat 6: Pain3Bet (350198)
+Seat 7: Fred AAstair (282660)
+Seat 8: Cesk (181592)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1400
+9euros55 posts ante 1400
+back_doorian posts ante 1400
+CB-Zeus76577 posts ante 1400
+Pain3Bet posts ante 1400
+Fred AAstair posts ante 1400
+Cesk posts ante 1400
+P1xel7 posts small blind 6000
+9euros55 posts big blind 12000
+Dealt to P1xel7 [Qh Jh]
+*** PRE-FLOP *** 
+CB-Zeus76577 folds
+Pain3Bet folds
+Fred AAstair folds
+Cesk folds
+back_doorian raises 12000 to 24000
+P1xel7 raises 48000 to 72000
+9euros55 folds
+back_doorian folds
+P1xel7 collected 117800 from pot
+*** SUMMARY ***
+Total pot 117800 | No rake
+Seat 2: P1xel7 (small blind) won 117800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3216089520042672131-155-1708979945 - Holdem no limit (1400/6000/12000) - 2024/02/26 20:39:05 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #2 is the button
+Seat 1: back_doorian (238808)
+Seat 2: P1xel7 (504223)
+Seat 4: 9euros55 (469190)
+Seat 5: CB-Zeus76577 (186300)
+Seat 6: Pain3Bet (348798)
+Seat 7: Fred AAstair (281260)
+Seat 8: Cesk (180192)
+*** ANTE/BLINDS ***
+9euros55 posts ante 1400
+CB-Zeus76577 posts ante 1400
+back_doorian posts ante 1400
+P1xel7 posts ante 1400
+Pain3Bet posts ante 1400
+Fred AAstair posts ante 1400
+Cesk posts ante 1400
+9euros55 posts small blind 6000
+CB-Zeus76577 posts big blind 12000
+Dealt to P1xel7 [Qh Qd]
+*** PRE-FLOP *** 
+Pain3Bet folds
+Fred AAstair raises 15000 to 27000
+Cesk folds
+back_doorian folds
+P1xel7 raises 45000 to 72000
+9euros55 folds
+CB-Zeus76577 folds
+Fred AAstair raises 207860 to 279860 and is all-in
+P1xel7 calls 207860
+*** FLOP *** [5c 4d 9s]
+*** TURN *** [5c 4d 9s][6c]
+*** RIVER *** [5c 4d 9s 6c][6h]
+*** SHOW DOWN ***
+Fred AAstair shows [Kh Ah] (One pair : 6)
+P1xel7 shows [Qh Qd] (Two pairs : Queens and 6)
+P1xel7 collected 587520 from pot
+*** SUMMARY ***
+Total pot 587520 | No rake
+Board: [5c 4d 9s 6c 6h]
+Seat 2: P1xel7 (button) showed [Qh Qd] and won 587520 with Two pairs : Queens and 6
+Seat 7: Fred AAstair showed [Kh Ah] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3216089520042672131-156-1708979994 - Holdem no limit (1400/6000/12000) - 2024/02/26 20:39:54 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #4 is the button
+Seat 1: back_doorian (237408)
+Seat 2: P1xel7 (810483)
+Seat 3: alouette3bet (573567)
+Seat 4: 9euros55 (461790)
+Seat 5: CB-Zeus76577 (172900)
+Seat 6: Pain3Bet (347398)
+Seat 8: Cesk (178792)
+*** ANTE/BLINDS ***
+CB-Zeus76577 posts ante 1400
+Pain3Bet posts ante 1400
+back_doorian posts ante 1400
+P1xel7 posts ante 1400
+alouette3bet posts ante 1400
+9euros55 posts ante 1400
+Cesk posts ante 1400
+CB-Zeus76577 posts small blind 6000
+Pain3Bet posts big blind 12000
+Dealt to P1xel7 [5h 6c]
+*** PRE-FLOP *** 
+Cesk folds
+back_doorian folds
+P1xel7 folds
+alouette3bet raises 12000 to 24000
+9euros55 calls 24000
+CB-Zeus76577 folds
+Pain3Bet folds
+*** FLOP *** [Qs Qc 9d]
+alouette3bet checks
+9euros55 checks
+*** TURN *** [Qs Qc 9d][Jd]
+alouette3bet checks
+9euros55 checks
+*** RIVER *** [Qs Qc 9d Jd][Kd]
+alouette3bet checks
+9euros55 checks
+*** SHOW DOWN ***
+alouette3bet shows [Ac 2h] (One pair : Queens)
+9euros55 shows [Js Ah] (Two pairs : Queens and Jacks)
+9euros55 collected 75800 from pot
+*** SUMMARY ***
+Total pot 75800 | No rake
+Board: [Qs Qc 9d Jd Kd]
+Seat 3: alouette3bet showed [Ac 2h] and lost with One pair : Queens
+Seat 4: 9euros55 (button) showed [Js Ah] and won 75800 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3216089520042672131-157-1708980044 - Holdem no limit (1600/7000/14000) - 2024/02/26 20:40:44 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #5 is the button
+Seat 1: back_doorian (236008)
+Seat 2: P1xel7 (809083)
+Seat 3: alouette3bet (548167)
+Seat 4: 9euros55 (512190)
+Seat 5: CB-Zeus76577 (165500)
+Seat 6: Pain3Bet (333998)
+Seat 8: Cesk (177392)
+*** ANTE/BLINDS ***
+Pain3Bet posts ante 1600
+Cesk posts ante 1600
+back_doorian posts ante 1600
+P1xel7 posts ante 1600
+alouette3bet posts ante 1600
+9euros55 posts ante 1600
+CB-Zeus76577 posts ante 1600
+Pain3Bet posts small blind 7000
+Cesk posts big blind 14000
+Dealt to P1xel7 [Tc 8h]
+*** PRE-FLOP *** 
+back_doorian folds
+P1xel7 folds
+alouette3bet folds
+9euros55 folds
+CB-Zeus76577 folds
+Pain3Bet folds
+Cesk collected 32200 from pot
+*** SUMMARY ***
+Total pot 32200 | No rake
+Seat 8: Cesk (big blind) won 32200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3216089520042672131-158-1708980060 - Holdem no limit (1600/7000/14000) - 2024/02/26 20:41:00 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #6 is the button
+Seat 1: back_doorian (234408)
+Seat 2: P1xel7 (807483)
+Seat 3: alouette3bet (546567)
+Seat 4: 9euros55 (510590)
+Seat 5: CB-Zeus76577 (163900)
+Seat 6: Pain3Bet (325398)
+Seat 8: Cesk (193992)
+*** ANTE/BLINDS ***
+Cesk posts ante 1600
+back_doorian posts ante 1600
+P1xel7 posts ante 1600
+alouette3bet posts ante 1600
+9euros55 posts ante 1600
+CB-Zeus76577 posts ante 1600
+Pain3Bet posts ante 1600
+Cesk posts small blind 7000
+back_doorian posts big blind 14000
+Dealt to P1xel7 [7s 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+alouette3bet folds
+9euros55 folds
+CB-Zeus76577 folds
+Pain3Bet raises 21000 to 35000
+Cesk folds
+back_doorian folds
+Pain3Bet collected 67200 from pot
+*** SUMMARY ***
+Total pot 67200 | No rake
+Seat 6: Pain3Bet (button) won 67200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3216089520042672131-159-1708980121 - Holdem no limit (1600/7000/14000) - 2024/02/26 20:42:01 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #8 is the button
+Seat 1: back_doorian (218808)
+Seat 2: P1xel7 (805883)
+Seat 3: alouette3bet (544967)
+Seat 4: 9euros55 (508990)
+Seat 5: CB-Zeus76577 (162300)
+Seat 6: Pain3Bet (355998)
+Seat 8: Cesk (185392)
+*** ANTE/BLINDS ***
+back_doorian posts ante 1600
+P1xel7 posts ante 1600
+alouette3bet posts ante 1600
+9euros55 posts ante 1600
+CB-Zeus76577 posts ante 1600
+Pain3Bet posts ante 1600
+Cesk posts ante 1600
+back_doorian posts small blind 7000
+P1xel7 posts big blind 14000
+Dealt to P1xel7 [Qs Qh]
+*** PRE-FLOP *** 
+alouette3bet folds
+9euros55 folds
+CB-Zeus76577 folds
+Pain3Bet calls 14000
+Cesk folds
+back_doorian calls 7000
+P1xel7 raises 49000 to 63000
+Pain3Bet folds
+back_doorian calls 49000
+*** FLOP *** [Ad 3c 3h]
+back_doorian checks
+P1xel7 bets 49000
+back_doorian calls 49000
+*** TURN *** [Ad 3c 3h][9d]
+back_doorian checks
+P1xel7 checks
+*** RIVER *** [Ad 3c 3h 9d][3s]
+back_doorian bets 105208 and is all-in
+P1xel7 calls 105208
+*** SHOW DOWN ***
+P1xel7 shows [Qs Qh] (Full of 3 and Queens)
+back_doorian shows [Ac 2c] (Full of 3 and Aces)
+back_doorian collected 459616 from pot
+*** SUMMARY ***
+Total pot 459616 | No rake
+Board: [Ad 3c 3h 9d 3s]
+Seat 1: back_doorian (small blind) showed [Ac 2c] and won 459616 with Full of 3 and Aces
+Seat 2: P1xel7 (big blind) showed [Qs Qh] and lost with Full of 3 and Queens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3216089520042672131-160-1708980222 - Holdem no limit (1600/7000/14000) - 2024/02/26 20:43:42 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #1 is the button
+Seat 1: back_doorian (459616)
+Seat 2: P1xel7 (587075)
+Seat 3: alouette3bet (543367)
+Seat 4: 9euros55 (507390)
+Seat 5: CB-Zeus76577 (160700)
+Seat 6: Pain3Bet (340398)
+Seat 8: Cesk (183792)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1600
+alouette3bet posts ante 1600
+back_doorian posts ante 1600
+9euros55 posts ante 1600
+CB-Zeus76577 posts ante 1600
+Pain3Bet posts ante 1600
+Cesk posts ante 1600
+P1xel7 posts small blind 7000
+alouette3bet posts big blind 14000
+Dealt to P1xel7 [Jc 9c]
+*** PRE-FLOP *** 
+9euros55 raises 14000 to 28000
+CB-Zeus76577 folds
+Pain3Bet folds
+Cesk folds
+back_doorian folds
+P1xel7 calls 21000
+alouette3bet calls 14000
+*** FLOP *** [Kc Td 7s]
+P1xel7 checks
+alouette3bet checks
+9euros55 checks
+*** TURN *** [Kc Td 7s][Ks]
+P1xel7 checks
+alouette3bet checks
+9euros55 checks
+*** RIVER *** [Kc Td 7s Ks][4c]
+P1xel7 bets 76160
+alouette3bet folds
+9euros55 folds
+P1xel7 collected 171360 from pot
+*** SUMMARY ***
+Total pot 171360 | No rake
+Board: [Kc Td 7s Ks 4c]
+Seat 2: P1xel7 (small blind) won 171360
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3216089520042672131-161-1708980392 - Holdem no limit (1600/7000/14000) - 2024/02/26 20:46:32 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #2 is the button
+Seat 1: back_doorian (458016)
+Seat 2: P1xel7 (652675)
+Seat 3: alouette3bet (513767)
+Seat 4: 9euros55 (477790)
+Seat 5: CB-Zeus76577 (159100)
+Seat 6: Pain3Bet (338798)
+Seat 8: Cesk (182192)
+*** ANTE/BLINDS ***
+alouette3bet posts ante 1600
+9euros55 posts ante 1600
+back_doorian posts ante 1600
+P1xel7 posts ante 1600
+CB-Zeus76577 posts ante 1600
+Pain3Bet posts ante 1600
+Cesk posts ante 1600
+alouette3bet posts small blind 7000
+9euros55 posts big blind 14000
+Dealt to P1xel7 [Jh 7s]
+*** PRE-FLOP *** 
+CB-Zeus76577 raises 143500 to 157500 and is all-in
+Pain3Bet folds
+Cesk folds
+back_doorian folds
+P1xel7 folds
+alouette3bet folds
+9euros55 folds
+CB-Zeus76577 collected 189700 from pot
+*** SUMMARY ***
+Total pot 189700 | No rake
+Seat 5: CB-Zeus76577 won 189700
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3216089520042672131-162-1708980442 - Holdem no limit (2000/8000/16000) - 2024/02/26 20:47:22 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #3 is the button
+Seat 1: back_doorian (456416)
+Seat 2: P1xel7 (651075)
+Seat 3: alouette3bet (505167)
+Seat 4: 9euros55 (462190)
+Seat 5: CB-Zeus76577 (189700)
+Seat 6: Pain3Bet (337198)
+Seat 8: Cesk (180592)
+*** ANTE/BLINDS ***
+9euros55 posts ante 2000
+CB-Zeus76577 posts ante 2000
+back_doorian posts ante 2000
+P1xel7 posts ante 2000
+alouette3bet posts ante 2000
+Pain3Bet posts ante 2000
+Cesk posts ante 2000
+9euros55 posts small blind 8000
+CB-Zeus76577 posts big blind 16000
+Dealt to P1xel7 [Qc Tc]
+*** PRE-FLOP *** 
+Pain3Bet folds
+Cesk folds
+back_doorian folds
+P1xel7 raises 32000 to 48000
+alouette3bet folds
+9euros55 folds
+CB-Zeus76577 raises 139700 to 187700 and is all-in
+P1xel7 calls 139700
+*** FLOP *** [Td 3c Jc]
+*** TURN *** [Td 3c Jc][Ks]
+*** RIVER *** [Td 3c Jc Ks][2s]
+*** SHOW DOWN ***
+CB-Zeus76577 shows [8d 8c] (One pair : 8)
+P1xel7 shows [Qc Tc] (One pair : Tens)
+P1xel7 collected 397400 from pot
+*** SUMMARY ***
+Total pot 397400 | No rake
+Board: [Td 3c Jc Ks 2s]
+Seat 2: P1xel7 showed [Qc Tc] and won 397400 with One pair : Tens
+Seat 5: CB-Zeus76577 (big blind) showed [8d 8c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3216089520042672131-163-1708980486 - Holdem no limit (2000/8000/16000) - 2024/02/26 20:48:06 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #4 is the button
+Seat 1: back_doorian (454416)
+Seat 2: P1xel7 (858775)
+Seat 3: alouette3bet (503167)
+Seat 4: 9euros55 (452190)
+Seat 6: Pain3Bet (335198)
+Seat 8: Cesk (178592)
+*** ANTE/BLINDS ***
+Pain3Bet posts ante 2000
+back_doorian posts ante 2000
+P1xel7 posts ante 2000
+alouette3bet posts ante 2000
+9euros55 posts ante 2000
+Cesk posts ante 2000
+Pain3Bet posts big blind 16000
+Dealt to P1xel7 [5s Kc]
+*** PRE-FLOP *** 
+Cesk folds
+back_doorian raises 16000 to 32000
+P1xel7 folds
+alouette3bet folds
+9euros55 folds
+Pain3Bet calls 16000
+*** FLOP *** [Ts Ad 4s]
+Pain3Bet checks
+back_doorian bets 25080
+Pain3Bet raises 33080 to 58160
+back_doorian calls 33080
+*** TURN *** [Ts Ad 4s][9h]
+Pain3Bet bets 67312
+back_doorian raises 294944 to 362256 and is all-in
+Pain3Bet calls 175726 and is all-in
+*** RIVER *** [Ts Ad 4s 9h][Js]
+*** SHOW DOWN ***
+Pain3Bet shows [Td As] (Two pairs : Aces and Tens)
+back_doorian shows [9c 9s] (Trips of 9)
+back_doorian collected 797614 from pot
+*** SUMMARY ***
+Total pot 797614 | No rake
+Board: [Ts Ad 4s 9h Js]
+Seat 1: back_doorian showed [9c 9s] and won 797614 with Trips of 9
+Seat 6: Pain3Bet (big blind) showed [Td As] and lost with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3216089520042672131-164-1708980594 - Holdem no limit (2000/8000/16000) - 2024/02/26 20:49:54 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #5 is the button
+Seat 1: back_doorian (797614)
+Seat 2: P1xel7 (856775)
+Seat 3: alouette3bet (501167)
+Seat 4: 9euros55 (450190)
+Seat 7: Tino-10 wnm (772174)
+Seat 8: Cesk (176592)
+*** ANTE/BLINDS ***
+Tino-10 wnm posts ante 2000
+back_doorian posts ante 2000
+P1xel7 posts ante 2000
+alouette3bet posts ante 2000
+9euros55 posts ante 2000
+Cesk posts ante 2000
+Tino-10 wnm posts big blind 16000
+Dealt to P1xel7 [9d 2h]
+*** PRE-FLOP *** 
+Cesk folds
+back_doorian folds
+P1xel7 folds
+alouette3bet folds
+9euros55 raises 16000 to 32000
+Tino-10 wnm calls 16000
+*** FLOP *** [Ts Js As]
+Tino-10 wnm checks
+9euros55 bets 19000
+Tino-10 wnm folds
+9euros55 collected 95000 from pot
+*** SUMMARY ***
+Total pot 95000 | No rake
+Board: [Ts Js As]
+Seat 4: 9euros55 won 95000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3216089520042672131-165-1708980648 - Holdem no limit (2000/8000/16000) - 2024/02/26 20:50:48 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #6 is the button
+Seat 1: back_doorian (795614)
+Seat 2: P1xel7 (854775)
+Seat 3: alouette3bet (499167)
+Seat 4: 9euros55 (492190)
+Seat 5: oscarodiseo (943173)
+Seat 6: BYDOUSH (387820)
+Seat 7: Tino-10 wnm (738174)
+Seat 8: Cesk (174592)
+*** ANTE/BLINDS ***
+Tino-10 wnm posts ante 2000
+Cesk posts ante 2000
+back_doorian posts ante 2000
+P1xel7 posts ante 2000
+alouette3bet posts ante 2000
+9euros55 posts ante 2000
+oscarodiseo posts ante 2000
+Tino-10 wnm posts small blind 8000
+Cesk posts big blind 16000
+Dealt to P1xel7 [3h 7s]
+*** PRE-FLOP *** 
+back_doorian folds
+P1xel7 folds
+alouette3bet folds
+9euros55 folds
+oscarodiseo folds
+Tino-10 wnm folds
+Cesk collected 38000 from pot
+*** SUMMARY ***
+Total pot 38000 | No rake
+Seat 8: Cesk (big blind) won 38000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3216089520042672131-166-1708980690 - Holdem no limit (2000/8000/16000) - 2024/02/26 20:51:30 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #7 is the button
+Seat 1: back_doorian (793614)
+Seat 2: P1xel7 (852775)
+Seat 3: alouette3bet (497167)
+Seat 4: 9euros55 (490190)
+Seat 5: oscarodiseo (941173)
+Seat 6: BYDOUSH (387820)
+Seat 7: Tino-10 wnm (728174)
+Seat 8: Cesk (194592)
+*** ANTE/BLINDS ***
+Cesk posts ante 2000
+back_doorian posts ante 2000
+P1xel7 posts ante 2000
+alouette3bet posts ante 2000
+9euros55 posts ante 2000
+oscarodiseo posts ante 2000
+BYDOUSH posts ante 2000
+Tino-10 wnm posts ante 2000
+Cesk posts small blind 8000
+back_doorian posts big blind 16000
+Dealt to P1xel7 [8s Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+alouette3bet folds
+9euros55 folds
+oscarodiseo raises 24000 to 40000
+BYDOUSH folds
+Tino-10 wnm folds
+Cesk folds
+back_doorian calls 24000
+*** FLOP *** [Ks 5c 3d]
+back_doorian checks
+oscarodiseo bets 52000
+back_doorian calls 52000
+*** TURN *** [Ks 5c 3d][As]
+back_doorian checks
+oscarodiseo bets 135200
+back_doorian calls 135200
+*** RIVER *** [Ks 5c 3d As][Ah]
+back_doorian checks
+oscarodiseo bets 239200
+back_doorian folds
+oscarodiseo collected 717600 from pot
+*** SUMMARY ***
+Total pot 717600 | No rake
+Board: [Ks 5c 3d As Ah]
+Seat 5: oscarodiseo won 717600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3216089520042672131-167-1708980744 - Holdem no limit (2000/8000/16000) - 2024/02/26 20:52:24 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #8 is the button
+Seat 1: back_doorian (564414)
+Seat 2: P1xel7 (850775)
+Seat 3: alouette3bet (495167)
+Seat 4: 9euros55 (488190)
+Seat 5: oscarodiseo (1190373)
+Seat 6: BYDOUSH (385820)
+Seat 7: Tino-10 wnm (726174)
+Seat 8: Cesk (184592)
+*** ANTE/BLINDS ***
+back_doorian posts ante 2000
+P1xel7 posts ante 2000
+alouette3bet posts ante 2000
+9euros55 posts ante 2000
+oscarodiseo posts ante 2000
+BYDOUSH posts ante 2000
+Tino-10 wnm posts ante 2000
+Cesk posts ante 2000
+back_doorian posts small blind 8000
+P1xel7 posts big blind 16000
+Dealt to P1xel7 [2h 4h]
+*** PRE-FLOP *** 
+alouette3bet raises 16000 to 32000
+9euros55 folds
+oscarodiseo calls 32000
+BYDOUSH folds
+Tino-10 wnm folds
+Cesk folds
+back_doorian folds
+P1xel7 folds
+*** FLOP *** [Qs 2d 7c]
+alouette3bet checks
+oscarodiseo bets 52000
+alouette3bet calls 52000
+*** TURN *** [Qs 2d 7c][2s]
+alouette3bet checks
+oscarodiseo checks
+*** RIVER *** [Qs 2d 7c 2s][3s]
+alouette3bet checks
+oscarodiseo checks
+*** SHOW DOWN ***
+alouette3bet shows [Ad Kh] (One pair : 2)
+oscarodiseo shows [6c 6s] (Two pairs : 6 and 2)
+oscarodiseo collected 208000 from pot
+*** SUMMARY ***
+Total pot 208000 | No rake
+Board: [Qs 2d 7c 2s 3s]
+Seat 3: alouette3bet showed [Ad Kh] and lost with One pair : 2
+Seat 5: oscarodiseo showed [6c 6s] and won 208000 with Two pairs : 6 and 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3216089520042672131-168-1708980830 - Holdem no limit (2000/8000/16000) - 2024/02/26 20:53:50 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #1 is the button
+Seat 1: back_doorian (554414)
+Seat 2: P1xel7 (832775)
+Seat 3: alouette3bet (409167)
+Seat 4: 9euros55 (486190)
+Seat 5: oscarodiseo (1312373)
+Seat 6: BYDOUSH (383820)
+Seat 7: Tino-10 wnm (724174)
+Seat 8: Cesk (182592)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 2000
+alouette3bet posts ante 2000
+back_doorian posts ante 2000
+9euros55 posts ante 2000
+oscarodiseo posts ante 2000
+BYDOUSH posts ante 2000
+Tino-10 wnm posts ante 2000
+Cesk posts ante 2000
+P1xel7 posts small blind 8000
+alouette3bet posts big blind 16000
+Dealt to P1xel7 [9c 8c]
+*** PRE-FLOP *** 
+9euros55 folds
+oscarodiseo folds
+BYDOUSH raises 16000 to 32000
+Tino-10 wnm folds
+Cesk folds
+back_doorian folds
+P1xel7 calls 24000
+alouette3bet calls 16000
+*** FLOP *** [2d Qd 3c]
+P1xel7 checks
+alouette3bet checks
+BYDOUSH bets 40000
+P1xel7 folds
+alouette3bet calls 40000
+*** TURN *** [2d Qd 3c][3d]
+alouette3bet checks
+BYDOUSH checks
+*** RIVER *** [2d Qd 3c 3d][9s]
+alouette3bet checks
+BYDOUSH checks
+*** SHOW DOWN ***
+alouette3bet shows [Ah 4s] (One pair : 3)
+BYDOUSH shows [Js Qs] (Two pairs : Queens and 3)
+BYDOUSH collected 192000 from pot
+*** SUMMARY ***
+Total pot 192000 | No rake
+Board: [2d Qd 3c 3d 9s]
+Seat 3: alouette3bet (big blind) showed [Ah 4s] and lost with One pair : 3
+Seat 6: BYDOUSH showed [Js Qs] and won 192000 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3216089520042672131-169-1708981261 - Holdem no limit (2500/10000/20000) - 2024/02/26 21:01:01 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #2 is the button
+Seat 1: back_doorian (552414)
+Seat 2: P1xel7 (798775)
+Seat 3: alouette3bet (335167)
+Seat 4: 9euros55 (484190)
+Seat 5: oscarodiseo (1310373)
+Seat 6: BYDOUSH (501820)
+Seat 7: Tino-10 wnm (722174)
+Seat 8: Cesk (180592)
+*** ANTE/BLINDS ***
+alouette3bet posts ante 2500
+9euros55 posts ante 2500
+back_doorian posts ante 2500
+P1xel7 posts ante 2500
+oscarodiseo posts ante 2500
+BYDOUSH posts ante 2500
+Tino-10 wnm posts ante 2500
+Cesk posts ante 2500
+alouette3bet posts small blind 10000
+9euros55 posts big blind 20000
+Dealt to P1xel7 [5d 3d]
+*** PRE-FLOP *** 
+oscarodiseo folds
+BYDOUSH folds
+Tino-10 wnm calls 20000
+Cesk raises 158092 to 178092 and is all-in
+back_doorian folds
+P1xel7 folds
+alouette3bet folds
+9euros55 folds
+Tino-10 wnm folds
+Cesk collected 248092 from pot
+*** SUMMARY ***
+Total pot 248092 | No rake
+Seat 8: Cesk won 248092
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3216089520042672131-170-1708981306 - Holdem no limit (2500/10000/20000) - 2024/02/26 21:01:46 UTC
+Table: 'Monster Stack(748804193)#002' 8-max (real money) Seat #3 is the button
+Seat 1: back_doorian (549914)
+Seat 2: P1xel7 (796275)
+Seat 3: alouette3bet (322667)
+Seat 4: 9euros55 (461690)
+Seat 5: oscarodiseo (1307873)
+Seat 6: BYDOUSH (499320)
+Seat 7: Tino-10 wnm (699674)
+Seat 8: Cesk (248092)
+*** ANTE/BLINDS ***
+9euros55 posts ante 2500
+oscarodiseo posts ante 2500
+back_doorian posts ante 2500
+P1xel7 posts ante 2500
+alouette3bet posts ante 2500
+BYDOUSH posts ante 2500
+Tino-10 wnm posts ante 2500
+Cesk posts ante 2500
+9euros55 posts small blind 10000
+oscarodiseo posts big blind 20000
+Dealt to P1xel7 [Ad Qc]
+*** PRE-FLOP *** 
+BYDOUSH folds
+Tino-10 wnm folds
+Cesk raises 225592 to 245592 and is all-in
+back_doorian folds
+P1xel7 raises 548183 to 793775 and is all-in
+alouette3bet folds
+9euros55 folds
+oscarodiseo raises 511598 to 1305373 and is all-in
+*** FLOP *** [9h 4h 8s]
+*** TURN *** [9h 4h 8s][2s]
+*** RIVER *** [9h 4h 8s 2s][9c]
+*** SHOW DOWN ***
+P1xel7 shows [Ad Qc] (One pair : 9)
+oscarodiseo shows [Ah Kc] (One pair : 9)
+Cesk shows [Ts Td] (Two pairs : Tens and 9)
+Cesk collected 766776 from main pot
+oscarodiseo collected 1607964 from side pot 1
+*** SUMMARY ***
+Total pot 2374740 | No rake
+Board: [9h 4h 8s 2s 9c]
+Seat 2: P1xel7 showed [Ad Qc] and lost with One pair : 9
+Seat 5: oscarodiseo (big blind) showed [Ah Kc] and won 1607964 with One pair : 9
+Seat 8: Cesk showed [Ts Td] and won 766776 with Two pairs : Tens and 9
+
+

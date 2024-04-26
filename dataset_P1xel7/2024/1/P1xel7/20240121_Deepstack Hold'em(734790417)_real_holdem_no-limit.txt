@@ -1,0 +1,1666 @@
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3155900810429202433-38-1705862282 - Holdem no limit (25/100/200) - 2024/01/21 18:38:02 UTC
+Table: 'Deepstack Hold'em(734790417)#000' 8-max (real money) Seat #5 is the button
+Seat 1: 4MyBiz (10889)
+Seat 2: davethebabe (26088)
+Seat 4: P1xel7 (20000)
+Seat 5: mattA (34547)
+Seat 6: Van-Basten (16998)
+Seat 7: Hlilis (32643)
+Seat 8: LeRoiBurak (19873)
+*** ANTE/BLINDS ***
+Van-Basten posts ante 25
+Hlilis posts ante 25
+4MyBiz posts ante 25
+davethebabe posts ante 25
+P1xel7 posts ante 25
+mattA posts ante 25
+LeRoiBurak posts ante 25
+Van-Basten posts small blind 100
+Hlilis posts big blind 200
+Dealt to P1xel7 [Ah Ks]
+*** PRE-FLOP *** 
+LeRoiBurak raises 300 to 500
+4MyBiz folds
+davethebabe folds
+P1xel7 raises 1000 to 1500
+mattA folds
+Van-Basten folds
+Hlilis raises 31118 to 32618 and is all-in
+LeRoiBurak folds
+P1xel7 calls 18475 and is all-in
+*** FLOP *** [7c 4s 8c]
+*** TURN *** [7c 4s 8c][7s]
+*** RIVER *** [7c 4s 8c 7s][9d]
+*** SHOW DOWN ***
+P1xel7 shows [Ah Ks] (One pair : 7)
+Hlilis shows [Qc Qs] (Two pairs : Queens and 7)
+Hlilis collected 53368 from pot
+*** SUMMARY ***
+Total pot 53368 | No rake
+Board: [7c 4s 8c 7s 9d]
+Seat 4: P1xel7 showed [Ah Ks] and lost with One pair : 7
+Seat 7: Hlilis (big blind) showed [Qc Qs] and won 53368 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #3155900810429202434-49-1705862375 - Holdem no limit (25/100/200) - 2024/01/21 18:39:35 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #1 is the button
+Seat 1: All4Poupoune (18052)
+Seat 2: Paire2Poche (18150)
+Seat 3: machinchoz (21195)
+Seat 5: Pilou11rider (15950)
+Seat 6: Fourmis_4878 (20000)
+Seat 7: P1xel7 (20000)
+Seat 8: N0WER (29891)
+*** ANTE/BLINDS ***
+Paire2Poche posts ante 25
+machinchoz posts ante 25
+All4Poupoune posts ante 25
+Pilou11rider posts ante 25
+Fourmis_4878 posts ante 25
+P1xel7 posts ante 25
+N0WER posts ante 25
+Paire2Poche posts small blind 100
+machinchoz posts big blind 200
+Dealt to P1xel7 [Jc 5d]
+*** PRE-FLOP *** 
+Pilou11rider folds
+Fourmis_4878 calls 200
+P1xel7 folds
+N0WER calls 200
+All4Poupoune folds
+Paire2Poche calls 100
+machinchoz checks
+*** FLOP *** [2d 3d 3h]
+Paire2Poche checks
+machinchoz checks
+Fourmis_4878 checks
+N0WER checks
+*** TURN *** [2d 3d 3h][8s]
+Paire2Poche checks
+machinchoz checks
+Fourmis_4878 bets 780
+N0WER folds
+Paire2Poche folds
+machinchoz folds
+Fourmis_4878 collected 1755 from pot
+*** SUMMARY ***
+Total pot 1755 | No rake
+Board: [2d 3d 3h 8s]
+Seat 6: Fourmis_4878 won 1755
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3155900810429202434-50-1705862463 - Holdem no limit (30/125/250) - 2024/01/21 18:41:03 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #2 is the button
+Seat 1: All4Poupoune (18027)
+Seat 2: Paire2Poche (17925)
+Seat 3: machinchoz (20970)
+Seat 5: Pilou11rider (15925)
+Seat 6: Fourmis_4878 (20750)
+Seat 7: P1xel7 (19975)
+Seat 8: N0WER (29666)
+*** ANTE/BLINDS ***
+machinchoz posts ante 30
+Pilou11rider posts ante 30
+All4Poupoune posts ante 30
+Paire2Poche posts ante 30
+Fourmis_4878 posts ante 30
+P1xel7 posts ante 30
+N0WER posts ante 30
+machinchoz posts small blind 125
+Pilou11rider posts big blind 250
+Dealt to P1xel7 [9d 2s]
+*** PRE-FLOP *** 
+Fourmis_4878 raises 250 to 500
+P1xel7 folds
+N0WER calls 500
+All4Poupoune folds
+Paire2Poche folds
+machinchoz folds
+Pilou11rider calls 250
+*** FLOP *** [7h 6s Jd]
+Pilou11rider checks
+Fourmis_4878 checks
+N0WER bets 250
+Pilou11rider calls 250
+Fourmis_4878 calls 250
+*** TURN *** [7h 6s Jd][4d]
+Pilou11rider checks
+Fourmis_4878 checks
+N0WER bets 905
+Pilou11rider folds
+Fourmis_4878 calls 905
+*** RIVER *** [7h 6s Jd 4d][Ad]
+Fourmis_4878 checks
+N0WER bets 1538
+Fourmis_4878 calls 1538
+*** SHOW DOWN ***
+Fourmis_4878 shows [5c Ac] (One pair : Aces)
+N0WER shows [Qs Ah] (One pair : Aces)
+N0WER collected 7471 from pot
+*** SUMMARY ***
+Total pot 7471 | No rake
+Board: [7h 6s Jd 4d Ad]
+Seat 6: Fourmis_4878 showed [5c Ac] and lost with One pair : Aces
+Seat 8: N0WER showed [Qs Ah] and won 7471 with One pair : Aces
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3155900810429202434-51-1705862529 - Holdem no limit (30/125/250) - 2024/01/21 18:42:09 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #3 is the button
+Seat 1: All4Poupoune (17997)
+Seat 2: Paire2Poche (17895)
+Seat 3: machinchoz (20815)
+Seat 5: Pilou11rider (15145)
+Seat 6: Fourmis_4878 (17527)
+Seat 7: P1xel7 (19945)
+Seat 8: N0WER (33914)
+*** ANTE/BLINDS ***
+Pilou11rider posts ante 30
+Fourmis_4878 posts ante 30
+All4Poupoune posts ante 30
+Paire2Poche posts ante 30
+machinchoz posts ante 30
+P1xel7 posts ante 30
+N0WER posts ante 30
+Pilou11rider posts small blind 125
+Fourmis_4878 posts big blind 250
+Dealt to P1xel7 [5s Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+N0WER calls 250
+All4Poupoune folds
+Paire2Poche folds
+machinchoz folds
+Pilou11rider raises 625 to 875
+Fourmis_4878 folds
+N0WER calls 625
+*** FLOP *** [Td 3h Js]
+Pilou11rider bets 774
+N0WER folds
+Pilou11rider collected 2984 from pot
+*** SUMMARY ***
+Total pot 2984 | No rake
+Board: [Td 3h Js]
+Seat 5: Pilou11rider (small blind) won 2984
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3155900810429202434-52-1705862565 - Holdem no limit (30/125/250) - 2024/01/21 18:42:45 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #5 is the button
+Seat 1: All4Poupoune (17967)
+Seat 2: Paire2Poche (17865)
+Seat 3: machinchoz (20785)
+Seat 5: Pilou11rider (16450)
+Seat 6: Fourmis_4878 (17247)
+Seat 7: P1xel7 (19915)
+Seat 8: N0WER (33009)
+*** ANTE/BLINDS ***
+Fourmis_4878 posts ante 30
+P1xel7 posts ante 30
+All4Poupoune posts ante 30
+Paire2Poche posts ante 30
+machinchoz posts ante 30
+Pilou11rider posts ante 30
+N0WER posts ante 30
+Fourmis_4878 posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [Kh 2h]
+*** PRE-FLOP *** 
+N0WER folds
+All4Poupoune folds
+Paire2Poche raises 375 to 625
+machinchoz folds
+Pilou11rider folds
+Fourmis_4878 calls 500
+P1xel7 folds
+*** FLOP *** [Kd 7s Ks]
+Fourmis_4878 checks
+Paire2Poche checks
+*** TURN *** [Kd 7s Ks][3c]
+Fourmis_4878 bets 750
+Paire2Poche folds
+Fourmis_4878 collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [Kd 7s Ks 3c]
+Seat 6: Fourmis_4878 (small blind) won 2460
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3155900810429202434-53-1705862619 - Holdem no limit (30/125/250) - 2024/01/21 18:43:39 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #6 is the button
+Seat 1: All4Poupoune (17937)
+Seat 2: Paire2Poche (17210)
+Seat 3: machinchoz (20755)
+Seat 5: Pilou11rider (16420)
+Seat 6: Fourmis_4878 (18302)
+Seat 7: P1xel7 (19635)
+Seat 8: N0WER (32979)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+N0WER posts ante 30
+All4Poupoune posts ante 30
+Paire2Poche posts ante 30
+machinchoz posts ante 30
+Pilou11rider posts ante 30
+Fourmis_4878 posts ante 30
+P1xel7 posts small blind 125
+N0WER posts big blind 250
+Dealt to P1xel7 [9h 4c]
+*** PRE-FLOP *** 
+All4Poupoune folds
+Paire2Poche folds
+machinchoz folds
+Pilou11rider raises 250 to 500
+Fourmis_4878 folds
+P1xel7 folds
+N0WER folds
+Pilou11rider collected 1085 from pot
+*** SUMMARY ***
+Total pot 1085 | No rake
+Seat 5: Pilou11rider won 1085
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3155900810429202434-54-1705862643 - Holdem no limit (30/125/250) - 2024/01/21 18:44:03 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #7 is the button
+Seat 1: All4Poupoune (17907)
+Seat 2: Paire2Poche (17180)
+Seat 3: machinchoz (20725)
+Seat 5: Pilou11rider (16975)
+Seat 6: Fourmis_4878 (18272)
+Seat 7: P1xel7 (19480)
+Seat 8: N0WER (32699)
+*** ANTE/BLINDS ***
+N0WER posts ante 30
+All4Poupoune posts ante 30
+Paire2Poche posts ante 30
+machinchoz posts ante 30
+Pilou11rider posts ante 30
+Fourmis_4878 posts ante 30
+P1xel7 posts ante 30
+N0WER posts small blind 125
+All4Poupoune posts big blind 250
+Dealt to P1xel7 [6s 7c]
+*** PRE-FLOP *** 
+Paire2Poche folds
+machinchoz raises 500 to 750
+Pilou11rider calls 750
+Fourmis_4878 folds
+P1xel7 folds
+N0WER folds
+All4Poupoune folds
+*** FLOP *** [8c Tc As]
+machinchoz bets 730
+Pilou11rider calls 730
+*** TURN *** [8c Tc As][Qs]
+machinchoz checks
+Pilou11rider bets 1773
+machinchoz calls 1773
+*** RIVER *** [8c Tc As Qs][5s]
+machinchoz checks
+Pilou11rider bets 5673
+machinchoz folds
+Pilou11rider collected 12764 from pot
+*** SUMMARY ***
+Total pot 12764 | No rake
+Board: [8c Tc As Qs 5s]
+Seat 5: Pilou11rider won 12764
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3155900810429202434-55-1705862731 - Holdem no limit (30/125/250) - 2024/01/21 18:45:31 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #8 is the button
+Seat 1: All4Poupoune (17627)
+Seat 2: Paire2Poche (17150)
+Seat 3: machinchoz (17442)
+Seat 5: Pilou11rider (20783)
+Seat 6: Fourmis_4878 (18242)
+Seat 7: P1xel7 (19450)
+Seat 8: N0WER (32544)
+*** ANTE/BLINDS ***
+All4Poupoune posts ante 30
+Paire2Poche posts ante 30
+machinchoz posts ante 30
+Pilou11rider posts ante 30
+Fourmis_4878 posts ante 30
+P1xel7 posts ante 30
+N0WER posts ante 30
+All4Poupoune posts small blind 125
+Paire2Poche posts big blind 250
+Dealt to P1xel7 [Td 9h]
+*** PRE-FLOP *** 
+machinchoz folds
+Pilou11rider raises 250 to 500
+Fourmis_4878 calls 500
+P1xel7 folds
+N0WER calls 500
+All4Poupoune folds
+Paire2Poche folds
+*** FLOP *** [7h 3d Jh]
+Pilou11rider bets 1668
+Fourmis_4878 raises 2207 to 3875
+N0WER folds
+Pilou11rider raises 16378 to 20253 and is all-in
+Fourmis_4878 calls 13837 and is all-in
+*** TURN *** [7h 3d Jh][9c]
+*** RIVER *** [7h 3d Jh 9c][4c]
+*** SHOW DOWN ***
+Fourmis_4878 shows [Jd Ts] (One pair : Jacks)
+Pilou11rider shows [As Ah] (One pair : Aces)
+Pilou11rider collected 40050 from pot
+*** SUMMARY ***
+Total pot 40050 | No rake
+Board: [7h 3d Jh 9c 4c]
+Seat 5: Pilou11rider showed [As Ah] and won 40050 with One pair : Aces
+Seat 6: Fourmis_4878 showed [Jd Ts] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3155900810429202434-56-1705862782 - Holdem no limit (30/125/250) - 2024/01/21 18:46:22 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #1 is the button
+Seat 1: All4Poupoune (17472)
+Seat 2: Paire2Poche (16870)
+Seat 3: machinchoz (17412)
+Seat 5: Pilou11rider (40050)
+Seat 7: P1xel7 (19420)
+Seat 8: N0WER (32014)
+*** ANTE/BLINDS ***
+Paire2Poche posts ante 30
+machinchoz posts ante 30
+All4Poupoune posts ante 30
+Pilou11rider posts ante 30
+P1xel7 posts ante 30
+N0WER posts ante 30
+Paire2Poche posts small blind 125
+machinchoz posts big blind 250
+Dealt to P1xel7 [4d 7c]
+*** PRE-FLOP *** 
+Pilou11rider raises 313 to 563
+P1xel7 folds
+N0WER calls 563
+All4Poupoune folds
+Paire2Poche calls 438
+machinchoz folds
+*** FLOP *** [Js 6s Qh]
+Paire2Poche checks
+Pilou11rider bets 1060
+N0WER calls 1060
+Paire2Poche folds
+*** TURN *** [Js 6s Qh][7h]
+Pilou11rider bets 2120
+N0WER folds
+Pilou11rider collected 6359 from pot
+*** SUMMARY ***
+Total pot 6359 | No rake
+Board: [Js 6s Qh 7h]
+Seat 5: Pilou11rider won 6359
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3155900810429202434-57-1705862830 - Holdem no limit (30/125/250) - 2024/01/21 18:47:10 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #2 is the button
+Seat 1: All4Poupoune (17442)
+Seat 2: Paire2Poche (16277)
+Seat 3: machinchoz (17132)
+Seat 5: Pilou11rider (42636)
+Seat 7: P1xel7 (19390)
+Seat 8: N0WER (30361)
+*** ANTE/BLINDS ***
+machinchoz posts ante 30
+Pilou11rider posts ante 30
+All4Poupoune posts ante 30
+Paire2Poche posts ante 30
+P1xel7 posts ante 30
+N0WER posts ante 30
+machinchoz posts small blind 125
+Pilou11rider posts big blind 250
+Dealt to P1xel7 [Qc 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+machinchoz folds
+Pilou11rider collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 5: Pilou11rider (big blind) won 555
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3155900810429202434-58-1705862842 - Holdem no limit (30/125/250) - 2024/01/21 18:47:22 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #3 is the button
+Seat 1: All4Poupoune (17412)
+Seat 2: Paire2Poche (16247)
+Seat 3: machinchoz (16977)
+Seat 5: Pilou11rider (42911)
+Seat 7: P1xel7 (19360)
+Seat 8: N0WER (30331)
+*** ANTE/BLINDS ***
+Pilou11rider posts ante 30
+P1xel7 posts ante 30
+All4Poupoune posts ante 30
+Paire2Poche posts ante 30
+machinchoz posts ante 30
+N0WER posts ante 30
+Pilou11rider posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [5d 3h]
+*** PRE-FLOP *** 
+N0WER folds
+All4Poupoune raises 375 to 625
+Paire2Poche folds
+machinchoz folds
+Pilou11rider folds
+P1xel7 folds
+All4Poupoune collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Seat 1: All4Poupoune won 1180
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3155900810429202434-59-1705862864 - Holdem no limit (30/125/250) - 2024/01/21 18:47:44 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #5 is the button
+Seat 1: All4Poupoune (17937)
+Seat 2: Paire2Poche (16217)
+Seat 3: machinchoz (16947)
+Seat 5: Pilou11rider (42756)
+Seat 7: P1xel7 (19080)
+Seat 8: N0WER (30301)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+N0WER posts ante 30
+All4Poupoune posts ante 30
+Paire2Poche posts ante 30
+machinchoz posts ante 30
+Pilou11rider posts ante 30
+P1xel7 posts small blind 125
+N0WER posts big blind 250
+Dealt to P1xel7 [2d Td]
+*** PRE-FLOP *** 
+All4Poupoune folds
+Paire2Poche folds
+machinchoz folds
+Pilou11rider raises 313 to 563
+P1xel7 folds
+N0WER folds
+Pilou11rider collected 1118 from pot
+*** SUMMARY ***
+Total pot 1118 | No rake
+Seat 5: Pilou11rider (button) won 1118
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3155900810429202434-60-1705862892 - Holdem no limit (35/150/300) - 2024/01/21 18:48:12 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #7 is the button
+Seat 1: All4Poupoune (17907)
+Seat 2: Paire2Poche (16187)
+Seat 3: machinchoz (16917)
+Seat 5: Pilou11rider (43281)
+Seat 7: P1xel7 (18925)
+Seat 8: N0WER (30021)
+*** ANTE/BLINDS ***
+N0WER posts ante 35
+All4Poupoune posts ante 35
+Paire2Poche posts ante 35
+machinchoz posts ante 35
+Pilou11rider posts ante 35
+P1xel7 posts ante 35
+N0WER posts small blind 150
+All4Poupoune posts big blind 300
+Dealt to P1xel7 [Ah Qs]
+*** PRE-FLOP *** 
+Paire2Poche folds
+machinchoz folds
+Pilou11rider folds
+P1xel7 raises 450 to 750
+N0WER folds
+All4Poupoune folds
+P1xel7 collected 1410 from pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Seat 7: P1xel7 (button) won 1410
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3155900810429202434-61-1705862951 - Holdem no limit (35/150/300) - 2024/01/21 18:49:11 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #8 is the button
+Seat 1: All4Poupoune (17572)
+Seat 2: Paire2Poche (16152)
+Seat 3: machinchoz (16882)
+Seat 5: Pilou11rider (43246)
+Seat 6: Chrisleeroy (20000)
+Seat 7: P1xel7 (19550)
+Seat 8: N0WER (29836)
+*** ANTE/BLINDS ***
+All4Poupoune posts ante 35
+Paire2Poche posts ante 35
+machinchoz posts ante 35
+Pilou11rider posts ante 35
+Chrisleeroy posts ante 35
+P1xel7 posts ante 35
+N0WER posts ante 35
+All4Poupoune posts small blind 150
+Paire2Poche posts big blind 300
+Dealt to P1xel7 [8d 2d]
+*** PRE-FLOP *** 
+machinchoz folds
+Pilou11rider folds
+Chrisleeroy folds
+P1xel7 folds
+N0WER folds
+All4Poupoune calls 150
+Paire2Poche checks
+*** FLOP *** [9s 5d Qc]
+All4Poupoune checks
+Paire2Poche bets 300
+All4Poupoune calls 300
+*** TURN *** [9s 5d Qc][4h]
+All4Poupoune checks
+Paire2Poche bets 600
+All4Poupoune raises 1050 to 1650
+Paire2Poche calls 1050
+*** RIVER *** [9s 5d Qc 4h][Td]
+All4Poupoune checks
+Paire2Poche checks
+*** SHOW DOWN ***
+All4Poupoune shows [Ts Ks] (One pair : Tens)
+Paire2Poche shows [Qh 2h] (One pair : Queens)
+Paire2Poche collected 4745 from pot
+*** SUMMARY ***
+Total pot 4745 | No rake
+Board: [9s 5d Qc 4h Td]
+Seat 1: All4Poupoune (small blind) showed [Ts Ks] and lost with One pair : Tens
+Seat 2: Paire2Poche (big blind) showed [Qh 2h] and won 4745 with One pair : Queens
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3155900810429202434-62-1705863045 - Holdem no limit (35/150/300) - 2024/01/21 18:50:45 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #1 is the button
+Seat 1: All4Poupoune (15287)
+Seat 2: Paire2Poche (18612)
+Seat 3: machinchoz (16847)
+Seat 5: Pilou11rider (43211)
+Seat 6: Chrisleeroy (19965)
+Seat 7: P1xel7 (19515)
+Seat 8: N0WER (29801)
+*** ANTE/BLINDS ***
+Paire2Poche posts ante 35
+machinchoz posts ante 35
+All4Poupoune posts ante 35
+Pilou11rider posts ante 35
+Chrisleeroy posts ante 35
+P1xel7 posts ante 35
+N0WER posts ante 35
+Paire2Poche posts small blind 150
+machinchoz posts big blind 300
+Dealt to P1xel7 [2c 5s]
+*** PRE-FLOP *** 
+Pilou11rider folds
+Chrisleeroy raises 300 to 600
+P1xel7 folds
+N0WER calls 600
+All4Poupoune folds
+Paire2Poche calls 450
+machinchoz folds
+*** FLOP *** [5d Th 4d]
+Paire2Poche checks
+Chrisleeroy bets 1524
+N0WER folds
+Paire2Poche folds
+Chrisleeroy collected 3869 from pot
+*** SUMMARY ***
+Total pot 3869 | No rake
+Board: [5d Th 4d]
+Seat 6: Chrisleeroy won 3869
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3155900810429202434-63-1705863074 - Holdem no limit (35/150/300) - 2024/01/21 18:51:14 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #2 is the button
+Seat 1: All4Poupoune (15252)
+Seat 2: Paire2Poche (17977)
+Seat 3: machinchoz (16512)
+Seat 5: Pilou11rider (43176)
+Seat 6: Chrisleeroy (21675)
+Seat 7: P1xel7 (19480)
+Seat 8: N0WER (29166)
+*** ANTE/BLINDS ***
+machinchoz posts ante 35
+Pilou11rider posts ante 35
+All4Poupoune posts ante 35
+Paire2Poche posts ante 35
+Chrisleeroy posts ante 35
+P1xel7 posts ante 35
+N0WER posts ante 35
+machinchoz posts small blind 150
+Pilou11rider posts big blind 300
+Dealt to P1xel7 [2h 7d]
+*** PRE-FLOP *** 
+Chrisleeroy folds
+P1xel7 folds
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+machinchoz folds
+Pilou11rider collected 695 from pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Seat 5: Pilou11rider (big blind) won 695
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3155900810429202434-64-1705863089 - Holdem no limit (35/150/300) - 2024/01/21 18:51:29 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #3 is the button
+Seat 1: All4Poupoune (15217)
+Seat 2: Paire2Poche (17942)
+Seat 3: machinchoz (16327)
+Seat 5: Pilou11rider (43536)
+Seat 6: Chrisleeroy (21640)
+Seat 7: P1xel7 (19445)
+Seat 8: N0WER (29131)
+*** ANTE/BLINDS ***
+Pilou11rider posts ante 35
+Chrisleeroy posts ante 35
+All4Poupoune posts ante 35
+Paire2Poche posts ante 35
+machinchoz posts ante 35
+P1xel7 posts ante 35
+N0WER posts ante 35
+Pilou11rider posts small blind 150
+Chrisleeroy posts big blind 300
+Dealt to P1xel7 [9h 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+N0WER folds
+All4Poupoune raises 450 to 750
+Paire2Poche folds
+machinchoz folds
+Pilou11rider raises 1500 to 2250
+Chrisleeroy folds
+All4Poupoune folds
+Pilou11rider collected 3545 from pot
+*** SUMMARY ***
+Total pot 3545 | No rake
+Seat 5: Pilou11rider (small blind) won 3545
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3155900810429202434-65-1705863124 - Holdem no limit (35/150/300) - 2024/01/21 18:52:04 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #5 is the button
+Seat 1: All4Poupoune (14432)
+Seat 2: Paire2Poche (17907)
+Seat 3: machinchoz (16292)
+Seat 5: Pilou11rider (44796)
+Seat 6: Chrisleeroy (21305)
+Seat 7: P1xel7 (19410)
+Seat 8: N0WER (29096)
+*** ANTE/BLINDS ***
+Chrisleeroy posts ante 35
+P1xel7 posts ante 35
+All4Poupoune posts ante 35
+Paire2Poche posts ante 35
+machinchoz posts ante 35
+Pilou11rider posts ante 35
+N0WER posts ante 35
+Chrisleeroy posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [3h Th]
+*** PRE-FLOP *** 
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+machinchoz folds
+Pilou11rider raises 375 to 675
+Chrisleeroy calls 525
+P1xel7 folds
+*** FLOP *** [4h 2s 7d]
+Chrisleeroy checks
+Pilou11rider checks
+*** TURN *** [4h 2s 7d][6s]
+Chrisleeroy bets 948
+Pilou11rider folds
+Chrisleeroy collected 2843 from pot
+*** SUMMARY ***
+Total pot 2843 | No rake
+Board: [4h 2s 7d 6s]
+Seat 6: Chrisleeroy (small blind) won 2843
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3155900810429202434-66-1705863212 - Holdem no limit (35/150/300) - 2024/01/21 18:53:32 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #6 is the button
+Seat 1: All4Poupoune (14397)
+Seat 2: Paire2Poche (17872)
+Seat 3: machinchoz (16257)
+Seat 5: Pilou11rider (44086)
+Seat 6: Chrisleeroy (22490)
+Seat 7: P1xel7 (19075)
+Seat 8: N0WER (29061)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+N0WER posts ante 35
+All4Poupoune posts ante 35
+Paire2Poche posts ante 35
+machinchoz posts ante 35
+Pilou11rider posts ante 35
+Chrisleeroy posts ante 35
+P1xel7 posts small blind 150
+N0WER posts big blind 300
+Dealt to P1xel7 [As Jd]
+*** PRE-FLOP *** 
+All4Poupoune folds
+Paire2Poche folds
+machinchoz raises 450 to 750
+Pilou11rider folds
+Chrisleeroy folds
+P1xel7 calls 600
+N0WER folds
+*** FLOP *** [5h 7c 7h]
+P1xel7 checks
+machinchoz bets 716
+P1xel7 folds
+machinchoz collected 2761 from pot
+*** SUMMARY ***
+Total pot 2761 | No rake
+Board: [5h 7c 7h]
+Seat 3: machinchoz won 2761
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3155900810429202434-67-1705863282 - Holdem no limit (35/150/300) - 2024/01/21 18:54:42 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #7 is the button
+Seat 1: All4Poupoune (14362)
+Seat 2: Paire2Poche (17837)
+Seat 3: machinchoz (17517)
+Seat 5: Pilou11rider (44051)
+Seat 6: Chrisleeroy (22455)
+Seat 7: P1xel7 (18290)
+Seat 8: N0WER (28726)
+*** ANTE/BLINDS ***
+N0WER posts ante 35
+All4Poupoune posts ante 35
+Paire2Poche posts ante 35
+machinchoz posts ante 35
+Pilou11rider posts ante 35
+Chrisleeroy posts ante 35
+P1xel7 posts ante 35
+N0WER posts small blind 150
+All4Poupoune posts big blind 300
+Dealt to P1xel7 [2c Qc]
+*** PRE-FLOP *** 
+Paire2Poche folds
+machinchoz folds
+Pilou11rider raises 375 to 675
+Chrisleeroy raises 1895 to 2570
+P1xel7 folds
+N0WER folds
+All4Poupoune folds
+Pilou11rider folds
+Chrisleeroy collected 3940 from pot
+*** SUMMARY ***
+Total pot 3940 | No rake
+Seat 6: Chrisleeroy won 3940
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3155900810429202434-68-1705863660 - Holdem no limit (35/150/300) - 2024/01/21 19:01:00 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #8 is the button
+Seat 1: All4Poupoune (14027)
+Seat 2: Paire2Poche (17802)
+Seat 4: Xiladema (20000)
+Seat 5: Pilou11rider (43341)
+Seat 6: Chrisleeroy (23790)
+Seat 7: P1xel7 (18255)
+Seat 8: N0WER (28541)
+*** ANTE/BLINDS ***
+All4Poupoune posts ante 35
+Paire2Poche posts ante 35
+Xiladema posts ante 35
+Pilou11rider posts ante 35
+Chrisleeroy posts ante 35
+P1xel7 posts ante 35
+N0WER posts ante 35
+All4Poupoune posts small blind 150
+Paire2Poche posts big blind 300
+Dealt to P1xel7 [9h 7h]
+*** PRE-FLOP *** 
+Xiladema folds
+Pilou11rider folds
+Chrisleeroy folds
+P1xel7 folds
+N0WER calls 300
+All4Poupoune calls 150
+Paire2Poche checks
+*** FLOP *** [2h As 2c]
+All4Poupoune bets 573
+Paire2Poche folds
+N0WER folds
+All4Poupoune collected 1718 from pot
+*** SUMMARY ***
+Total pot 1718 | No rake
+Board: [2h As 2c]
+Seat 1: All4Poupoune (small blind) won 1718
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3155900810429202434-69-1705863716 - Holdem no limit (35/150/300) - 2024/01/21 19:01:56 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #1 is the button
+Seat 1: All4Poupoune (14837)
+Seat 2: Paire2Poche (17467)
+Seat 4: Xiladema (19965)
+Seat 5: Pilou11rider (43306)
+Seat 6: Chrisleeroy (23755)
+Seat 7: P1xel7 (18220)
+Seat 8: N0WER (28206)
+*** ANTE/BLINDS ***
+Paire2Poche posts ante 35
+Xiladema posts ante 35
+All4Poupoune posts ante 35
+Pilou11rider posts ante 35
+Chrisleeroy posts ante 35
+P1xel7 posts ante 35
+N0WER posts ante 35
+Paire2Poche posts small blind 150
+Xiladema posts big blind 300
+Dealt to P1xel7 [5c 7s]
+*** PRE-FLOP *** 
+Pilou11rider folds
+Chrisleeroy folds
+P1xel7 folds
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+Xiladema collected 695 from pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Seat 4: Xiladema (big blind) won 695
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3155900810429202434-70-1705863737 - Holdem no limit (40/175/350) - 2024/01/21 19:02:17 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #2 is the button
+Seat 1: All4Poupoune (14802)
+Seat 2: Paire2Poche (17282)
+Seat 4: Xiladema (20325)
+Seat 6: Chrisleeroy (23720)
+Seat 7: P1xel7 (18185)
+Seat 8: N0WER (28171)
+*** ANTE/BLINDS ***
+Xiladema posts ante 40
+Chrisleeroy posts ante 40
+All4Poupoune posts ante 40
+Paire2Poche posts ante 40
+P1xel7 posts ante 40
+N0WER posts ante 40
+Xiladema posts small blind 175
+Chrisleeroy posts big blind 350
+Dealt to P1xel7 [Kc Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 420 to 770
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+Xiladema calls 595
+Chrisleeroy calls 420
+*** FLOP *** [3d Qs Jc]
+Xiladema checks
+Chrisleeroy checks
+P1xel7 checks
+*** TURN *** [3d Qs Jc][9d]
+Xiladema checks
+Chrisleeroy checks
+P1xel7 bets 893
+Xiladema calls 893
+Chrisleeroy folds
+*** RIVER *** [3d Qs Jc 9d][Ac]
+Xiladema checks
+P1xel7 bets 1518
+Xiladema folds
+P1xel7 collected 5854 from pot
+*** SUMMARY ***
+Total pot 5854 | No rake
+Board: [3d Qs Jc 9d Ac]
+Seat 7: P1xel7 won 5854
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3155900810429202434-71-1705863841 - Holdem no limit (40/175/350) - 2024/01/21 19:04:01 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #4 is the button
+Seat 1: All4Poupoune (14762)
+Seat 2: Paire2Poche (17242)
+Seat 4: Xiladema (18622)
+Seat 6: Chrisleeroy (22910)
+Seat 7: P1xel7 (20818)
+Seat 8: N0WER (28131)
+*** ANTE/BLINDS ***
+Chrisleeroy posts ante 40
+P1xel7 posts ante 40
+All4Poupoune posts ante 40
+Paire2Poche posts ante 40
+Xiladema posts ante 40
+N0WER posts ante 40
+Chrisleeroy posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [4d 7c]
+*** PRE-FLOP *** 
+N0WER folds
+All4Poupoune raises 350 to 700
+Paire2Poche folds
+Xiladema folds
+Chrisleeroy folds
+P1xel7 folds
+All4Poupoune collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Seat 1: All4Poupoune won 1465
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3155900810429202434-72-1705863870 - Holdem no limit (40/175/350) - 2024/01/21 19:04:30 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #6 is the button
+Seat 1: All4Poupoune (15487)
+Seat 2: Paire2Poche (17202)
+Seat 4: Xiladema (18582)
+Seat 6: Chrisleeroy (22695)
+Seat 7: P1xel7 (20428)
+Seat 8: N0WER (28091)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+N0WER posts ante 40
+All4Poupoune posts ante 40
+Paire2Poche posts ante 40
+Xiladema posts ante 40
+Chrisleeroy posts ante 40
+P1xel7 posts small blind 175
+N0WER posts big blind 350
+Dealt to P1xel7 [3d Qh]
+*** PRE-FLOP *** 
+All4Poupoune folds
+Paire2Poche folds
+Xiladema raises 350 to 700
+Chrisleeroy folds
+P1xel7 folds
+N0WER calls 350
+*** FLOP *** [9d 7h 6s]
+N0WER bets 1180
+Xiladema raises 3104 to 4284
+N0WER calls 3104
+*** TURN *** [9d 7h 6s][Jh]
+N0WER bets 3634
+Xiladema calls 3634
+*** RIVER *** [9d 7h 6s Jh][Ah]
+N0WER bets 11473
+Xiladema calls 9924 and is all-in
+*** SHOW DOWN ***
+Xiladema shows [Kd Ks] (One pair : Kings)
+N0WER shows [9s Ac] (Two pairs : Aces and 9)
+N0WER collected 39048 from pot
+*** SUMMARY ***
+Total pot 39048 | No rake
+Board: [9d 7h 6s Jh Ah]
+Seat 4: Xiladema showed [Kd Ks] and lost with One pair : Kings
+Seat 8: N0WER (big blind) showed [9s Ac] and won 39048 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3155900810429202434-73-1705863937 - Holdem no limit (40/175/350) - 2024/01/21 19:05:37 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #7 is the button
+Seat 1: All4Poupoune (15447)
+Seat 2: Paire2Poche (17162)
+Seat 6: Chrisleeroy (22655)
+Seat 7: P1xel7 (20213)
+Seat 8: N0WER (47008)
+*** ANTE/BLINDS ***
+N0WER posts ante 40
+All4Poupoune posts ante 40
+Paire2Poche posts ante 40
+Chrisleeroy posts ante 40
+P1xel7 posts ante 40
+N0WER posts small blind 175
+All4Poupoune posts big blind 350
+Dealt to P1xel7 [6h Kc]
+*** PRE-FLOP *** 
+Paire2Poche raises 525 to 875
+Chrisleeroy calls 875
+P1xel7 folds
+N0WER folds
+All4Poupoune folds
+*** FLOP *** [6d Kd 6c]
+Paire2Poche checks
+Chrisleeroy bets 1238
+Paire2Poche calls 1238
+*** TURN *** [6d Kd 6c][4c]
+Paire2Poche checks
+Chrisleeroy bets 2476
+Paire2Poche calls 2476
+*** RIVER *** [6d Kd 6c 4c][Jc]
+Paire2Poche checks
+Chrisleeroy checks
+*** SHOW DOWN ***
+Paire2Poche shows [Td Ts] (Two pairs : Tens and 6)
+Chrisleeroy shows [Kh Jh] (Two pairs : Kings and Jacks)
+Chrisleeroy collected 9903 from pot
+*** SUMMARY ***
+Total pot 9903 | No rake
+Board: [6d Kd 6c 4c Jc]
+Seat 2: Paire2Poche showed [Td Ts] and lost with Two pairs : Tens and 6
+Seat 6: Chrisleeroy showed [Kh Jh] and won 9903 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3155900810429202434-74-1705864002 - Holdem no limit (40/175/350) - 2024/01/21 19:06:42 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #8 is the button
+Seat 1: All4Poupoune (15057)
+Seat 2: Paire2Poche (12533)
+Seat 5: Xiladema (20000)
+Seat 6: Chrisleeroy (27929)
+Seat 7: P1xel7 (20173)
+Seat 8: N0WER (46793)
+*** ANTE/BLINDS ***
+All4Poupoune posts ante 40
+Paire2Poche posts ante 40
+Xiladema posts ante 40
+Chrisleeroy posts ante 40
+P1xel7 posts ante 40
+N0WER posts ante 40
+All4Poupoune posts small blind 175
+Paire2Poche posts big blind 350
+Dealt to P1xel7 [Ad Ac]
+*** PRE-FLOP *** 
+Xiladema folds
+Chrisleeroy raises 350 to 700
+P1xel7 raises 1750 to 2450
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+Chrisleeroy folds
+P1xel7 collected 3915 from pot
+*** SUMMARY ***
+Total pot 3915 | No rake
+Seat 7: P1xel7 won 3915
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3155900810429202434-75-1705864048 - Holdem no limit (40/175/350) - 2024/01/21 19:07:28 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #1 is the button
+Seat 1: All4Poupoune (14842)
+Seat 2: Paire2Poche (12143)
+Seat 5: Xiladema (19960)
+Seat 6: Chrisleeroy (27189)
+Seat 7: P1xel7 (21598)
+Seat 8: N0WER (46753)
+*** ANTE/BLINDS ***
+Paire2Poche posts ante 40
+Xiladema posts ante 40
+All4Poupoune posts ante 40
+Chrisleeroy posts ante 40
+P1xel7 posts ante 40
+N0WER posts ante 40
+Paire2Poche posts small blind 175
+Xiladema posts big blind 350
+Dealt to P1xel7 [Qs 5s]
+*** PRE-FLOP *** 
+Chrisleeroy folds
+P1xel7 folds
+N0WER calls 350
+All4Poupoune folds
+Paire2Poche raises 875 to 1225
+Xiladema folds
+N0WER calls 875
+*** FLOP *** [6d 2s 4s]
+Paire2Poche bets 1520
+N0WER folds
+Paire2Poche collected 4560 from pot
+*** SUMMARY ***
+Total pot 4560 | No rake
+Board: [6d 2s 4s]
+Seat 2: Paire2Poche (small blind) won 4560
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3155900810429202434-76-1705864098 - Holdem no limit (40/175/350) - 2024/01/21 19:08:18 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #2 is the button
+Seat 1: All4Poupoune (14802)
+Seat 2: Paire2Poche (13918)
+Seat 5: Xiladema (19570)
+Seat 6: Chrisleeroy (27149)
+Seat 7: P1xel7 (21558)
+Seat 8: N0WER (45488)
+*** ANTE/BLINDS ***
+Xiladema posts ante 40
+Chrisleeroy posts ante 40
+All4Poupoune posts ante 40
+Paire2Poche posts ante 40
+P1xel7 posts ante 40
+N0WER posts ante 40
+Xiladema posts small blind 175
+Chrisleeroy posts big blind 350
+Dealt to P1xel7 [Kd Td]
+*** PRE-FLOP *** 
+P1xel7 raises 525 to 875
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+Xiladema folds
+Chrisleeroy folds
+P1xel7 collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Seat 7: P1xel7 won 1640
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3155900810429202434-77-1705864137 - Holdem no limit (40/175/350) - 2024/01/21 19:08:57 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #5 is the button
+Seat 1: All4Poupoune (14762)
+Seat 2: Paire2Poche (13878)
+Seat 5: Xiladema (19355)
+Seat 6: Chrisleeroy (26759)
+Seat 7: P1xel7 (22283)
+Seat 8: N0WER (45448)
+*** ANTE/BLINDS ***
+Chrisleeroy posts ante 40
+P1xel7 posts ante 40
+All4Poupoune posts ante 40
+Paire2Poche posts ante 40
+Xiladema posts ante 40
+N0WER posts ante 40
+Chrisleeroy posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [6s 7d]
+*** PRE-FLOP *** 
+N0WER calls 350
+All4Poupoune folds
+Paire2Poche raises 525 to 875
+Xiladema raises 2625 to 3500
+Chrisleeroy folds
+P1xel7 folds
+N0WER folds
+Paire2Poche folds
+Xiladema collected 5490 from pot
+*** SUMMARY ***
+Total pot 5490 | No rake
+Seat 5: Xiladema (button) won 5490
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3155900810429202434-78-1705864170 - Holdem no limit (40/175/350) - 2024/01/21 19:09:30 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #6 is the button
+Seat 1: All4Poupoune (14722)
+Seat 2: Paire2Poche (12963)
+Seat 5: Xiladema (21305)
+Seat 6: Chrisleeroy (26544)
+Seat 7: P1xel7 (21893)
+Seat 8: N0WER (45058)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+N0WER posts ante 40
+All4Poupoune posts ante 40
+Paire2Poche posts ante 40
+Xiladema posts ante 40
+Chrisleeroy posts ante 40
+P1xel7 posts small blind 175
+N0WER posts big blind 350
+Dealt to P1xel7 [Ad 7c]
+*** PRE-FLOP *** 
+All4Poupoune folds
+Paire2Poche folds
+Xiladema folds
+Chrisleeroy folds
+P1xel7 raises 700 to 1050
+N0WER calls 700
+*** FLOP *** [Kc 8d Td]
+P1xel7 bets 819
+N0WER calls 819
+*** TURN *** [Kc 8d Td][Js]
+P1xel7 bets 1989
+N0WER calls 1989
+*** RIVER *** [Kc 8d Td Js][6c]
+P1xel7 checks
+N0WER checks
+*** SHOW DOWN ***
+P1xel7 shows [Ad 7c] (High card : Ace)
+N0WER shows [9s Tc] (One pair : Tens)
+N0WER collected 7956 from pot
+*** SUMMARY ***
+Total pot 7956 | No rake
+Board: [Kc 8d Td Js 6c]
+Seat 7: P1xel7 (small blind) showed [Ad 7c] and lost with High card : Ace
+Seat 8: N0WER (big blind) showed [9s Tc] and won 7956 with One pair : Tens
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-79-1705864227 - Holdem no limit (50/200/400) - 2024/01/21 19:10:27 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #7 is the button
+Seat 1: All4Poupoune (14682)
+Seat 2: Paire2Poche (12923)
+Seat 5: Xiladema (21265)
+Seat 6: Chrisleeroy (26504)
+Seat 7: P1xel7 (17995)
+Seat 8: N0WER (49116)
+*** ANTE/BLINDS ***
+N0WER posts ante 50
+All4Poupoune posts ante 50
+Paire2Poche posts ante 50
+Xiladema posts ante 50
+Chrisleeroy posts ante 50
+P1xel7 posts ante 50
+N0WER posts small blind 200
+All4Poupoune posts big blind 400
+Dealt to P1xel7 [8d 6s]
+*** PRE-FLOP *** 
+Paire2Poche folds
+Xiladema raises 400 to 800
+Chrisleeroy calls 800
+P1xel7 folds
+N0WER calls 600
+All4Poupoune calls 400
+*** FLOP *** [6d Qc 9d]
+N0WER checks
+All4Poupoune bets 1750
+Xiladema calls 1750
+Chrisleeroy calls 1750
+N0WER folds
+*** TURN *** [6d Qc 9d][7c]
+All4Poupoune bets 12082 and is all-in
+Xiladema raises 6583 to 18665 and is all-in
+Chrisleeroy folds
+*** RIVER *** [6d Qc 9d 7c][Tc]
+*** SHOW DOWN ***
+All4Poupoune shows [9c Qd] (Two pairs : Queens and 9)
+Xiladema shows [7s 9s] (Two pairs : 9 and 7)
+Xiladema collected 6583 from side pot 1
+All4Poupoune collected 32914 from main pot
+*** SUMMARY ***
+Total pot 39497 | No rake
+Board: [6d Qc 9d 7c Tc]
+Seat 1: All4Poupoune (big blind) showed [9c Qd] and won 32914 with Two pairs : Queens and 9
+Seat 5: Xiladema showed [7s 9s] and won 6583 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-80-1705864302 - Holdem no limit (50/200/400) - 2024/01/21 19:11:42 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #8 is the button
+Seat 1: All4Poupoune (32914)
+Seat 2: Paire2Poche (12873)
+Seat 3: xingdaluo (20000)
+Seat 5: Xiladema (6583)
+Seat 6: Chrisleeroy (23904)
+Seat 7: P1xel7 (17945)
+Seat 8: N0WER (48266)
+*** ANTE/BLINDS ***
+All4Poupoune posts ante 50
+Paire2Poche posts ante 50
+xingdaluo posts ante 50
+Xiladema posts ante 50
+Chrisleeroy posts ante 50
+P1xel7 posts ante 50
+N0WER posts ante 50
+All4Poupoune posts small blind 200
+Paire2Poche posts big blind 400
+Dealt to P1xel7 [Qh 6c]
+*** PRE-FLOP *** 
+xingdaluo raises 19550 to 19950 and is all-in
+Xiladema folds
+Chrisleeroy folds
+P1xel7 folds
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+xingdaluo collected 20900 from pot
+*** SUMMARY ***
+Total pot 20900 | No rake
+Seat 3: xingdaluo won 20900
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-81-1705864321 - Holdem no limit (50/200/400) - 2024/01/21 19:12:01 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #1 is the button
+Seat 1: All4Poupoune (32664)
+Seat 2: Paire2Poche (12423)
+Seat 3: xingdaluo (20900)
+Seat 5: Xiladema (6533)
+Seat 6: Chrisleeroy (23854)
+Seat 7: P1xel7 (17895)
+Seat 8: N0WER (48216)
+*** ANTE/BLINDS ***
+Paire2Poche posts ante 50
+xingdaluo posts ante 50
+All4Poupoune posts ante 50
+Xiladema posts ante 50
+Chrisleeroy posts ante 50
+P1xel7 posts ante 50
+N0WER posts ante 50
+Paire2Poche posts small blind 200
+xingdaluo posts big blind 400
+Dealt to P1xel7 [2c Ts]
+*** PRE-FLOP *** 
+Xiladema folds
+Chrisleeroy folds
+P1xel7 folds
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+xingdaluo collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 3: xingdaluo (big blind) won 950
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-82-1705864338 - Holdem no limit (50/200/400) - 2024/01/21 19:12:18 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #2 is the button
+Seat 1: All4Poupoune (32614)
+Seat 2: Paire2Poche (12173)
+Seat 3: xingdaluo (21400)
+Seat 5: Xiladema (6483)
+Seat 6: Chrisleeroy (23804)
+Seat 7: P1xel7 (17845)
+Seat 8: N0WER (48166)
+*** ANTE/BLINDS ***
+xingdaluo posts ante 50
+Xiladema posts ante 50
+All4Poupoune posts ante 50
+Paire2Poche posts ante 50
+Chrisleeroy posts ante 50
+P1xel7 posts ante 50
+N0WER posts ante 50
+xingdaluo posts small blind 200
+Xiladema posts big blind 400
+Dealt to P1xel7 [8h 7c]
+*** PRE-FLOP *** 
+Chrisleeroy folds
+P1xel7 folds
+N0WER folds
+All4Poupoune folds
+Paire2Poche raises 600 to 1000
+xingdaluo calls 800
+Xiladema folds
+*** FLOP *** [Qd 7s 2c]
+xingdaluo checks
+Paire2Poche bets 800
+xingdaluo folds
+Paire2Poche collected 3550 from pot
+*** SUMMARY ***
+Total pot 3550 | No rake
+Board: [Qd 7s 2c]
+Seat 2: Paire2Poche (button) won 3550
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-83-1705864374 - Holdem no limit (50/200/400) - 2024/01/21 19:12:54 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #3 is the button
+Seat 1: All4Poupoune (32564)
+Seat 2: Paire2Poche (13873)
+Seat 3: xingdaluo (20350)
+Seat 4: bidibulle54 (20000)
+Seat 5: Xiladema (6033)
+Seat 7: P1xel7 (17795)
+Seat 8: N0WER (48116)
+*** ANTE/BLINDS ***
+Xiladema posts ante 50
+P1xel7 posts ante 50
+All4Poupoune posts ante 50
+Paire2Poche posts ante 50
+xingdaluo posts ante 50
+N0WER posts ante 50
+Xiladema posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [2d 5h]
+*** PRE-FLOP *** 
+N0WER folds
+All4Poupoune raises 600 to 1000
+Paire2Poche folds
+xingdaluo folds
+Xiladema folds
+P1xel7 folds
+All4Poupoune collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 1: All4Poupoune won 1900
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-84-1705864396 - Holdem no limit (50/200/400) - 2024/01/21 19:13:16 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #5 is the button
+Seat 1: All4Poupoune (33414)
+Seat 2: Paire2Poche (13823)
+Seat 3: xingdaluo (20300)
+Seat 4: bidibulle54 (20000)
+Seat 5: Xiladema (5783)
+Seat 7: P1xel7 (17345)
+Seat 8: N0WER (48066)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+N0WER posts ante 50
+All4Poupoune posts ante 50
+Paire2Poche posts ante 50
+xingdaluo posts ante 50
+bidibulle54 posts ante 50
+Xiladema posts ante 50
+P1xel7 posts small blind 200
+N0WER posts big blind 400
+Dealt to P1xel7 [4c Ah]
+*** PRE-FLOP *** 
+All4Poupoune folds
+Paire2Poche folds
+xingdaluo calls 400
+bidibulle54 folds
+Xiladema folds
+P1xel7 folds
+N0WER checks
+*** FLOP *** [Qs 7c Ts]
+N0WER checks
+xingdaluo checks
+*** TURN *** [Qs 7c Ts][9s]
+N0WER bets 400
+xingdaluo calls 400
+*** RIVER *** [Qs 7c Ts 9s][4s]
+N0WER checks
+xingdaluo checks
+*** SHOW DOWN ***
+xingdaluo shows [5h Jh] (High card : Queen)
+N0WER shows [Kc 9h] (One pair : 9)
+N0WER collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | No rake
+Board: [Qs 7c Ts 9s 4s]
+Seat 3: xingdaluo showed [5h Jh] and lost with High card : Queen
+Seat 8: N0WER (big blind) showed [Kc 9h] and won 2150 with One pair : 9
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-85-1705864450 - Holdem no limit (50/200/400) - 2024/01/21 19:14:10 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #7 is the button
+Seat 1: All4Poupoune (33364)
+Seat 2: Paire2Poche (13773)
+Seat 3: xingdaluo (19450)
+Seat 4: bidibulle54 (19950)
+Seat 5: Xiladema (5733)
+Seat 7: P1xel7 (17095)
+Seat 8: N0WER (49366)
+*** ANTE/BLINDS ***
+N0WER posts ante 50
+All4Poupoune posts ante 50
+Paire2Poche posts ante 50
+xingdaluo posts ante 50
+bidibulle54 posts ante 50
+Xiladema posts ante 50
+P1xel7 posts ante 50
+N0WER posts small blind 200
+All4Poupoune posts big blind 400
+Dealt to P1xel7 [3s 7s]
+*** PRE-FLOP *** 
+Paire2Poche folds
+xingdaluo folds
+bidibulle54 folds
+Xiladema folds
+P1xel7 folds
+N0WER calls 200
+All4Poupoune checks
+*** FLOP *** [Jd Jh Ks]
+N0WER bets 400
+All4Poupoune calls 400
+*** TURN *** [Jd Jh Ks][Ah]
+N0WER bets 400
+All4Poupoune raises 1200 to 1600
+N0WER folds
+All4Poupoune collected 3950 from pot
+*** SUMMARY ***
+Total pot 3950 | No rake
+Board: [Jd Jh Ks Ah]
+Seat 1: All4Poupoune (big blind) won 3950
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-86-1705864499 - Holdem no limit (50/200/400) - 2024/01/21 19:14:59 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #8 is the button
+Seat 1: All4Poupoune (34864)
+Seat 2: Paire2Poche (13723)
+Seat 3: xingdaluo (19400)
+Seat 4: bidibulle54 (19900)
+Seat 5: Xiladema (5683)
+Seat 7: P1xel7 (17045)
+Seat 8: N0WER (48116)
+*** ANTE/BLINDS ***
+All4Poupoune posts ante 50
+Paire2Poche posts ante 50
+xingdaluo posts ante 50
+bidibulle54 posts ante 50
+Xiladema posts ante 50
+P1xel7 posts ante 50
+N0WER posts ante 50
+All4Poupoune posts small blind 200
+Paire2Poche posts big blind 400
+Dealt to P1xel7 [Ah Ac]
+*** PRE-FLOP *** 
+xingdaluo calls 400
+bidibulle54 folds
+Xiladema folds
+P1xel7 raises 600 to 1000
+N0WER folds
+All4Poupoune calls 800
+Paire2Poche folds
+xingdaluo calls 600
+*** FLOP *** [7c 9d 3s]
+All4Poupoune checks
+xingdaluo checks
+P1xel7 checks
+*** TURN *** [7c 9d 3s][Qs]
+All4Poupoune checks
+xingdaluo checks
+P1xel7 bets 1313
+All4Poupoune folds
+xingdaluo folds
+P1xel7 collected 5063 from pot
+*** SUMMARY ***
+Total pot 5063 | No rake
+Board: [7c 9d 3s Qs]
+Seat 7: P1xel7 won 5063
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-87-1705864575 - Holdem no limit (50/200/400) - 2024/01/21 19:16:15 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #1 is the button
+Seat 1: All4Poupoune (33814)
+Seat 2: Paire2Poche (13273)
+Seat 3: xingdaluo (18350)
+Seat 4: bidibulle54 (19850)
+Seat 5: Xiladema (5633)
+Seat 7: P1xel7 (19745)
+Seat 8: N0WER (48066)
+*** ANTE/BLINDS ***
+Paire2Poche posts ante 50
+xingdaluo posts ante 50
+All4Poupoune posts ante 50
+bidibulle54 posts ante 50
+Xiladema posts ante 50
+P1xel7 posts ante 50
+N0WER posts ante 50
+Paire2Poche posts small blind 200
+xingdaluo posts big blind 400
+Dealt to P1xel7 [Kd Kc]
+*** PRE-FLOP *** 
+bidibulle54 folds
+Xiladema folds
+P1xel7 raises 480 to 880
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+xingdaluo raises 17420 to 18300 and is all-in
+P1xel7 calls 17420
+*** FLOP *** [6c 9h Qc]
+*** TURN *** [6c 9h Qc][Ts]
+*** RIVER *** [6c 9h Qc Ts][Ah]
+*** SHOW DOWN ***
+P1xel7 shows [Kd Kc] (One pair : Kings)
+xingdaluo shows [5d Ad] (One pair : Aces)
+xingdaluo collected 37150 from pot
+*** SUMMARY ***
+Total pot 37150 | No rake
+Board: [6c 9h Qc Ts Ah]
+Seat 3: xingdaluo (big blind) showed [5d Ad] and won 37150 with One pair : Aces
+Seat 7: P1xel7 showed [Kd Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-88-1705864629 - Holdem no limit (50/200/400) - 2024/01/21 19:17:09 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #2 is the button
+Seat 1: All4Poupoune (33764)
+Seat 2: Paire2Poche (13023)
+Seat 3: xingdaluo (37150)
+Seat 4: bidibulle54 (19800)
+Seat 5: Xiladema (5583)
+Seat 6: quadraptor (20000)
+Seat 7: P1xel7 (1395)
+Seat 8: N0WER (48016)
+*** ANTE/BLINDS ***
+xingdaluo posts ante 50
+bidibulle54 posts ante 50
+All4Poupoune posts ante 50
+Paire2Poche posts ante 50
+Xiladema posts ante 50
+quadraptor posts ante 50
+P1xel7 posts ante 50
+N0WER posts ante 50
+xingdaluo posts small blind 200
+bidibulle54 posts big blind 400
+Dealt to P1xel7 [Qd 2d]
+*** PRE-FLOP *** 
+Xiladema raises 5133 to 5533 and is all-in
+quadraptor folds
+P1xel7 folds
+N0WER folds
+All4Poupoune folds
+Paire2Poche folds
+xingdaluo calls 5333
+bidibulle54 calls 5133
+*** FLOP *** [Ks 6s 3d]
+xingdaluo checks
+bidibulle54 checks
+*** TURN *** [Ks 6s 3d][2s]
+xingdaluo checks
+bidibulle54 checks
+*** RIVER *** [Ks 6s 3d 2s][2h]
+xingdaluo checks
+bidibulle54 checks
+*** SHOW DOWN ***
+bidibulle54 shows [Qs Jh] (One pair : 2)
+Xiladema shows [Ah Jd] (One pair : 2)
+xingdaluo shows [9s Kh] (Two pairs : Kings and 2)
+xingdaluo collected 16999 from pot
+*** SUMMARY ***
+Total pot 16999 | No rake
+Board: [Ks 6s 3d 2s 2h]
+Seat 3: xingdaluo (small blind) showed [9s Kh] and won 16999 with Two pairs : Kings and 2
+Seat 4: bidibulle54 (big blind) showed [Qs Jh] and lost with One pair : 2
+Seat 5: Xiladema showed [Ah Jd] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3155900810429202434-89-1705864678 - Holdem no limit (50/200/400) - 2024/01/21 19:17:58 UTC
+Table: 'Deepstack Hold'em(734790417)#001' 8-max (real money) Seat #3 is the button
+Seat 1: All4Poupoune (33714)
+Seat 2: Paire2Poche (12973)
+Seat 3: xingdaluo (48566)
+Seat 4: bidibulle54 (14217)
+Seat 6: quadraptor (19950)
+Seat 7: P1xel7 (1345)
+Seat 8: N0WER (47966)
+*** ANTE/BLINDS ***
+bidibulle54 posts ante 50
+quadraptor posts ante 50
+All4Poupoune posts ante 50
+Paire2Poche posts ante 50
+xingdaluo posts ante 50
+P1xel7 posts ante 50
+N0WER posts ante 50
+bidibulle54 posts small blind 200
+quadraptor posts big blind 400
+Dealt to P1xel7 [Qd Kc]
+*** PRE-FLOP *** 
+P1xel7 raises 895 to 1295 and is all-in
+N0WER folds
+All4Poupoune folds
+Paire2Poche raises 2590 to 3885
+xingdaluo folds
+bidibulle54 folds
+quadraptor folds
+*** FLOP *** [5h 7c 2s]
+*** TURN *** [5h 7c 2s][6h]
+*** RIVER *** [5h 7c 2s 6h][3d]
+*** SHOW DOWN ***
+P1xel7 shows [Qd Kc] (High card : King)
+Paire2Poche shows [Js As] (High card : Ace)
+Paire2Poche collected 6130 from pot
+*** SUMMARY ***
+Total pot 6130 | No rake
+Board: [5h 7c 2s 6h 3d]
+Seat 2: Paire2Poche showed [Js As] and won 6130 with High card : Ace
+Seat 7: P1xel7 showed [Qd Kc] and lost with High card : King
+
+

@@ -1,0 +1,2367 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3248552575082955097-17-1710606220 - Holdem no limit (60/250/500) - 2024/03/16 16:23:40 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (20000)
+Seat 2: Jujul82 (60310)
+Seat 3: Hipowerr (77080)
+Seat 5: The shark 59 (19945)
+Seat 6: Ketacom (41880)
+Seat 7: Gold-Akika (18670)
+Seat 8: maya10 (19950)
+*** ANTE/BLINDS ***
+Hipowerr posts ante 60
+The shark 59 posts ante 60
+P1xel7 posts ante 60
+Jujul82 posts ante 60
+Ketacom posts ante 60
+Gold-Akika posts ante 60
+maya10 posts ante 60
+Hipowerr posts small blind 250
+The shark 59 posts big blind 500
+Dealt to P1xel7 [4h Ad]
+*** PRE-FLOP *** 
+Ketacom folds
+Gold-Akika calls 500
+maya10 calls 500
+P1xel7 folds
+Jujul82 calls 500
+Hipowerr calls 250
+The shark 59 raises 19385 to 19885 and is all-in
+Gold-Akika folds
+maya10 folds
+Jujul82 folds
+Hipowerr folds
+The shark 59 collected 22305 from pot
+*** SUMMARY ***
+Total pot 22305 | No rake
+Seat 5: The shark 59 (big blind) won 22305
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3248552575082955097-18-1710606261 - Holdem no limit (60/250/500) - 2024/03/16 16:24:21 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (19940)
+Seat 2: Jujul82 (59750)
+Seat 3: Hipowerr (76520)
+Seat 4: LP_West (20000)
+Seat 5: The shark 59 (22305)
+Seat 6: Ketacom (41820)
+Seat 7: Gold-Akika (18110)
+Seat 8: maya10 (19390)
+*** ANTE/BLINDS ***
+The shark 59 posts ante 60
+Ketacom posts ante 60
+P1xel7 posts ante 60
+Jujul82 posts ante 60
+Hipowerr posts ante 60
+Gold-Akika posts ante 60
+maya10 posts ante 60
+The shark 59 posts small blind 250
+Ketacom posts big blind 500
+Dealt to P1xel7 [9d 6h]
+*** PRE-FLOP *** 
+Gold-Akika folds
+maya10 folds
+P1xel7 folds
+Jujul82 folds
+Hipowerr raises 1670 to 2170
+The shark 59 raises 20075 to 22245 and is all-in
+Ketacom folds
+Hipowerr calls 20075
+*** FLOP *** [3h 6s 3c]
+*** TURN *** [3h 6s 3c][6c]
+*** RIVER *** [3h 6s 3c 6c][Tc]
+*** SHOW DOWN ***
+Hipowerr shows [Ah Kc] (Two pairs : 6 and 3)
+The shark 59 shows [7s 7d] (Two pairs : 7 and 6)
+The shark 59 collected 45410 from pot
+*** SUMMARY ***
+Total pot 45410 | No rake
+Board: [3h 6s 3c 6c Tc]
+Seat 3: Hipowerr (button) showed [Ah Kc] and lost with Two pairs : 6 and 3
+Seat 5: The shark 59 (small blind) showed [7s 7d] and won 45410 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3248552575082955097-19-1710606306 - Holdem no limit (60/250/500) - 2024/03/16 16:25:06 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (19880)
+Seat 2: Jujul82 (59690)
+Seat 3: Hipowerr (54215)
+Seat 4: LP_West (20000)
+Seat 5: The shark 59 (45410)
+Seat 6: Ketacom (41260)
+Seat 7: Gold-Akika (18050)
+Seat 8: maya10 (19330)
+*** ANTE/BLINDS ***
+Ketacom posts ante 60
+Gold-Akika posts ante 60
+P1xel7 posts ante 60
+Jujul82 posts ante 60
+Hipowerr posts ante 60
+LP_West posts ante 60
+The shark 59 posts ante 60
+maya10 posts ante 60
+Ketacom posts small blind 250
+Gold-Akika posts big blind 500
+Dealt to P1xel7 [Ac 7d]
+*** PRE-FLOP *** 
+maya10 folds
+P1xel7 folds
+Jujul82 raises 500 to 1000
+Hipowerr folds
+LP_West folds
+The shark 59 folds
+Ketacom calls 750
+Gold-Akika folds
+*** FLOP *** [Kh 8d 7s]
+Ketacom checks
+Jujul82 bets 2384
+Ketacom folds
+Jujul82 collected 5364 from pot
+*** SUMMARY ***
+Total pot 5364 | No rake
+Board: [Kh 8d 7s]
+Seat 2: Jujul82 won 5364
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3248552575082955097-20-1710606380 - Holdem no limit (70/300/600) - 2024/03/16 16:26:20 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (19820)
+Seat 2: Jujul82 (61610)
+Seat 3: Hipowerr (54155)
+Seat 4: LP_West (19940)
+Seat 5: The shark 59 (45350)
+Seat 6: Ketacom (40200)
+Seat 7: Gold-Akika (17490)
+Seat 8: maya10 (19270)
+*** ANTE/BLINDS ***
+Gold-Akika posts ante 70
+maya10 posts ante 70
+P1xel7 posts ante 70
+Jujul82 posts ante 70
+Hipowerr posts ante 70
+LP_West posts ante 70
+The shark 59 posts ante 70
+Ketacom posts ante 70
+Gold-Akika posts small blind 300
+maya10 posts big blind 600
+Dealt to P1xel7 [2d 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Jujul82 folds
+Hipowerr folds
+LP_West folds
+The shark 59 raises 44680 to 45280 and is all-in
+Ketacom folds
+Gold-Akika folds
+maya10 folds
+The shark 59 collected 46740 from pot
+*** SUMMARY ***
+Total pot 46740 | No rake
+Seat 5: The shark 59 won 46740
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3248552575082955097-21-1710606412 - Holdem no limit (70/300/600) - 2024/03/16 16:26:52 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #7 is the button
+Seat 1: P1xel7 (19750)
+Seat 2: Jujul82 (61540)
+Seat 3: Hipowerr (54085)
+Seat 4: LP_West (19870)
+Seat 5: The shark 59 (46740)
+Seat 6: Ketacom (40130)
+Seat 7: Gold-Akika (17120)
+Seat 8: maya10 (18600)
+*** ANTE/BLINDS ***
+maya10 posts ante 70
+P1xel7 posts ante 70
+Jujul82 posts ante 70
+Hipowerr posts ante 70
+LP_West posts ante 70
+The shark 59 posts ante 70
+Ketacom posts ante 70
+Gold-Akika posts ante 70
+maya10 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [4d 5h]
+*** PRE-FLOP *** 
+Jujul82 raises 900 to 1500
+Hipowerr folds
+LP_West folds
+The shark 59 folds
+Ketacom folds
+Gold-Akika folds
+maya10 calls 1200
+P1xel7 folds
+*** FLOP *** [Th 4c 7c]
+maya10 checks
+Jujul82 bets 3328
+maya10 calls 3328
+*** TURN *** [Th 4c 7c][5s]
+maya10 bets 3786
+Jujul82 raises 52856 to 56642 and is all-in
+maya10 calls 9916 and is all-in
+*** RIVER *** [Th 4c 7c 5s][Ts]
+*** SHOW DOWN ***
+maya10 shows [8s 9h] (One pair : Tens)
+Jujul82 shows [Kh Ks] (Two pairs : Kings and Tens)
+Jujul82 collected 81160 from pot
+*** SUMMARY ***
+Total pot 81160 | No rake
+Board: [Th 4c 7c 5s Ts]
+Seat 2: Jujul82 showed [Kh Ks] and won 81160 with Two pairs : Kings and Tens
+Seat 8: maya10 (small blind) showed [8s 9h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3248552575082955097-22-1710606481 - Holdem no limit (70/300/600) - 2024/03/16 16:28:01 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #8 is the button
+Seat 1: P1xel7 (19080)
+Seat 2: Jujul82 (81160)
+Seat 3: Hipowerr (54015)
+Seat 4: LP_West (19800)
+Seat 5: The shark 59 (46670)
+Seat 6: Ketacom (40060)
+Seat 7: Gold-Akika (17050)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Jujul82 posts ante 70
+Hipowerr posts ante 70
+LP_West posts ante 70
+The shark 59 posts ante 70
+Ketacom posts ante 70
+Gold-Akika posts ante 70
+P1xel7 posts small blind 300
+Jujul82 posts big blind 600
+Dealt to P1xel7 [8s 4d]
+*** PRE-FLOP *** 
+Hipowerr folds
+LP_West folds
+The shark 59 folds
+Ketacom folds
+Gold-Akika folds
+P1xel7 folds
+Jujul82 collected 1390 from pot
+*** SUMMARY ***
+Total pot 1390 | No rake
+Seat 2: Jujul82 (big blind) won 1390
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3248552575082955097-23-1710606521 - Holdem no limit (80/350/700) - 2024/03/16 16:28:41 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (18710)
+Seat 2: Jujul82 (81880)
+Seat 3: Hipowerr (53945)
+Seat 4: LP_West (19730)
+Seat 5: The shark 59 (46600)
+Seat 6: Ketacom (39990)
+Seat 7: Gold-Akika (16980)
+Seat 8: papypok54 (20000)
+*** ANTE/BLINDS ***
+Jujul82 posts ante 80
+Hipowerr posts ante 80
+P1xel7 posts ante 80
+LP_West posts ante 80
+The shark 59 posts ante 80
+Ketacom posts ante 80
+Gold-Akika posts ante 80
+papypok54 posts ante 80
+Jujul82 posts small blind 350
+Hipowerr posts big blind 700
+Dealt to P1xel7 [Jd 5d]
+*** PRE-FLOP *** 
+LP_West calls 700
+The shark 59 folds
+Ketacom folds
+Gold-Akika folds
+papypok54 calls 700
+P1xel7 folds
+Jujul82 raises 700 to 1400
+Hipowerr calls 700
+LP_West calls 700
+papypok54 calls 700
+*** FLOP *** [Ad Jh 8d]
+Jujul82 bets 6240
+Hipowerr folds
+LP_West folds
+papypok54 calls 6240
+*** TURN *** [Ad Jh 8d][Tc]
+Jujul82 bets 74160 and is all-in
+papypok54 calls 12280 and is all-in
+*** RIVER *** [Ad Jh 8d Tc][8h]
+*** SHOW DOWN ***
+papypok54 shows [Ah 9s] (Two pairs : Aces and 8)
+Jujul82 shows [Ac Kc] (Two pairs : Aces and 8)
+Jujul82 collected 105160 from pot
+*** SUMMARY ***
+Total pot 105160 | No rake
+Board: [Ad Jh 8d Tc 8h]
+Seat 2: Jujul82 (small blind) showed [Ac Kc] and won 105160 with Two pairs : Aces and 8
+Seat 8: papypok54 showed [Ah 9s] and lost with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3248552575082955097-24-1710606622 - Holdem no limit (80/350/700) - 2024/03/16 16:30:22 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (18630)
+Seat 2: Jujul82 (105160)
+Seat 3: Hipowerr (52465)
+Seat 4: LP_West (18250)
+Seat 5: The shark 59 (46520)
+Seat 6: Ketacom (39910)
+Seat 7: Gold-Akika (16900)
+*** ANTE/BLINDS ***
+Hipowerr posts ante 80
+LP_West posts ante 80
+P1xel7 posts ante 80
+Jujul82 posts ante 80
+The shark 59 posts ante 80
+Ketacom posts ante 80
+Gold-Akika posts ante 80
+Hipowerr posts small blind 350
+LP_West posts big blind 700
+Dealt to P1xel7 [7h Ad]
+*** PRE-FLOP *** 
+The shark 59 folds
+Ketacom folds
+Gold-Akika folds
+P1xel7 raises 1050 to 1750
+Jujul82 folds
+Hipowerr folds
+LP_West folds
+P1xel7 collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Seat 1: P1xel7 won 3360
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3248552575082955097-25-1710606648 - Holdem no limit (80/350/700) - 2024/03/16 16:30:48 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (20160)
+Seat 2: Jujul82 (105080)
+Seat 3: Hipowerr (52035)
+Seat 4: LP_West (17470)
+Seat 5: The shark 59 (46440)
+Seat 6: Ketacom (39830)
+Seat 7: Gold-Akika (16820)
+*** ANTE/BLINDS ***
+LP_West posts ante 80
+The shark 59 posts ante 80
+P1xel7 posts ante 80
+Jujul82 posts ante 80
+Hipowerr posts ante 80
+Ketacom posts ante 80
+Gold-Akika posts ante 80
+LP_West posts small blind 350
+The shark 59 posts big blind 700
+Dealt to P1xel7 [9d 2h]
+*** PRE-FLOP *** 
+Ketacom folds
+Gold-Akika folds
+P1xel7 folds
+Jujul82 calls 700
+Hipowerr folds
+LP_West calls 350
+The shark 59 checks
+*** FLOP *** [5s 6h Kd]
+LP_West checks
+The shark 59 checks
+Jujul82 bets 2128
+LP_West calls 2128
+The shark 59 folds
+*** TURN *** [5s 6h Kd][6d]
+LP_West checks
+Jujul82 checks
+*** RIVER *** [5s 6h Kd 6d][3s]
+LP_West checks
+Jujul82 bets 4495
+LP_West raises 10067 to 14562 and is all-in
+Jujul82 folds
+LP_West collected 25973 from pot
+*** SUMMARY ***
+Total pot 25973 | No rake
+Board: [5s 6h Kd 6d 3s]
+Seat 4: LP_West (small blind) won 25973
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3248552575082955097-26-1710606739 - Holdem no limit (100/400/800) - 2024/03/16 16:32:19 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (20080)
+Seat 2: Jujul82 (97677)
+Seat 3: Hipowerr (51955)
+Seat 4: LP_West (25973)
+Seat 5: The shark 59 (45660)
+Seat 6: Ketacom (39750)
+Seat 7: Gold-Akika (16740)
+Seat 8: Angie762 (20000)
+*** ANTE/BLINDS ***
+The shark 59 posts ante 100
+Ketacom posts ante 100
+P1xel7 posts ante 100
+Jujul82 posts ante 100
+Hipowerr posts ante 100
+LP_West posts ante 100
+Gold-Akika posts ante 100
+Angie762 posts ante 100
+The shark 59 posts small blind 400
+Ketacom posts big blind 800
+Dealt to P1xel7 [8s 3h]
+*** PRE-FLOP *** 
+Gold-Akika folds
+Angie762 calls 800
+P1xel7 folds
+Jujul82 calls 800
+Hipowerr folds
+LP_West folds
+The shark 59 folds
+Ketacom checks
+*** FLOP *** [Qc 3d 4h]
+Ketacom bets 800
+Angie762 calls 800
+Jujul82 calls 800
+*** TURN *** [Qc 3d 4h][6h]
+Ketacom bets 800
+Angie762 calls 800
+Jujul82 folds
+*** RIVER *** [Qc 3d 4h 6h][8c]
+Ketacom bets 800
+Angie762 folds
+Ketacom collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | No rake
+Board: [Qc 3d 4h 6h 8c]
+Seat 6: Ketacom (big blind) won 8400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3248552575082955097-27-1710606808 - Holdem no limit (120/500/1000) - 2024/03/16 16:33:28 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (19980)
+Seat 2: Jujul82 (95977)
+Seat 3: Hipowerr (51855)
+Seat 4: LP_West (25873)
+Seat 5: The shark 59 (45160)
+Seat 6: Ketacom (44850)
+Seat 7: Gold-Akika (16640)
+Seat 8: Angie762 (17500)
+*** ANTE/BLINDS ***
+Ketacom posts ante 120
+Gold-Akika posts ante 120
+P1xel7 posts ante 120
+Jujul82 posts ante 120
+Hipowerr posts ante 120
+LP_West posts ante 120
+The shark 59 posts ante 120
+Angie762 posts ante 120
+Ketacom posts small blind 500
+Gold-Akika posts big blind 1000
+Dealt to P1xel7 [3d 2c]
+*** PRE-FLOP *** 
+Angie762 calls 1000
+P1xel7 folds
+Jujul82 folds
+Hipowerr folds
+LP_West calls 1000
+The shark 59 folds
+Ketacom calls 500
+Gold-Akika checks
+*** FLOP *** [7c 5c Qc]
+Ketacom checks
+Gold-Akika bets 15520 and is all-in
+Angie762 folds
+LP_West folds
+Ketacom folds
+Gold-Akika collected 20480 from pot
+*** SUMMARY ***
+Total pot 20480 | No rake
+Board: [7c 5c Qc]
+Seat 7: Gold-Akika (big blind) won 20480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3248552575082955097-28-1710606851 - Holdem no limit (120/500/1000) - 2024/03/16 16:34:11 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (19860)
+Seat 2: Jujul82 (95857)
+Seat 3: Hipowerr (51735)
+Seat 4: LP_West (24753)
+Seat 5: The shark 59 (45040)
+Seat 6: Ketacom (43730)
+Seat 7: Gold-Akika (20480)
+Seat 8: Angie762 (16380)
+*** ANTE/BLINDS ***
+Gold-Akika posts ante 120
+Angie762 posts ante 120
+P1xel7 posts ante 120
+Jujul82 posts ante 120
+Hipowerr posts ante 120
+LP_West posts ante 120
+The shark 59 posts ante 120
+Ketacom posts ante 120
+Gold-Akika posts small blind 500
+Angie762 posts big blind 1000
+Dealt to P1xel7 [Td Ad]
+*** PRE-FLOP *** 
+P1xel7 raises 18740 to 19740 and is all-in
+Jujul82 folds
+Hipowerr calls 19740
+LP_West folds
+The shark 59 folds
+Ketacom folds
+Gold-Akika folds
+Angie762 folds
+*** FLOP *** [4s 3d Kd]
+*** TURN *** [4s 3d Kd][2d]
+*** RIVER *** [4s 3d Kd 2d][6h]
+*** SHOW DOWN ***
+Hipowerr shows [Ac Jc] (High card : Ace)
+P1xel7 shows [Td Ad] (Flush Ace high)
+P1xel7 collected 41940 from pot
+*** SUMMARY ***
+Total pot 41940 | No rake
+Board: [4s 3d Kd 2d 6h]
+Seat 1: P1xel7 showed [Td Ad] and won 41940 with Flush Ace high
+Seat 3: Hipowerr showed [Ac Jc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3248552575082955097-29-1710606881 - Holdem no limit (120/500/1000) - 2024/03/16 16:34:41 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #7 is the button
+Seat 1: P1xel7 (41940)
+Seat 2: Jujul82 (95737)
+Seat 3: Hipowerr (31875)
+Seat 4: LP_West (24633)
+Seat 5: The shark 59 (44920)
+Seat 6: Ketacom (43610)
+Seat 7: Gold-Akika (19860)
+Seat 8: Angie762 (15260)
+*** ANTE/BLINDS ***
+Angie762 posts ante 120
+P1xel7 posts ante 120
+Jujul82 posts ante 120
+Hipowerr posts ante 120
+LP_West posts ante 120
+The shark 59 posts ante 120
+Ketacom posts ante 120
+Gold-Akika posts ante 120
+Angie762 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Tc 2h]
+*** PRE-FLOP *** 
+Jujul82 folds
+Hipowerr calls 1000
+LP_West calls 1000
+The shark 59 folds
+Ketacom folds
+Gold-Akika folds
+Angie762 calls 500
+P1xel7 checks
+*** FLOP *** [9h 5h 7s]
+Angie762 bets 1000
+P1xel7 folds
+Hipowerr raises 6960 to 7960
+LP_West folds
+Angie762 raises 6180 to 14140 and is all-in
+Hipowerr calls 6180
+*** TURN *** [9h 5h 7s][5s]
+*** RIVER *** [9h 5h 7s 5s][Qd]
+*** SHOW DOWN ***
+Hipowerr shows [8d Js] (One pair : 5)
+Angie762 shows [Kc Kh] (Two pairs : Kings and 5)
+Angie762 collected 33240 from pot
+*** SUMMARY ***
+Total pot 33240 | No rake
+Board: [9h 5h 7s 5s Qd]
+Seat 3: Hipowerr showed [8d Js] and lost with One pair : 5
+Seat 8: Angie762 (small blind) showed [Kc Kh] and won 33240 with Two pairs : Kings and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3248552575082955097-30-1710606933 - Holdem no limit (120/500/1000) - 2024/03/16 16:35:33 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #8 is the button
+Seat 1: P1xel7 (40820)
+Seat 2: Jujul82 (95617)
+Seat 3: Hipowerr (16615)
+Seat 4: LP_West (23513)
+Seat 5: The shark 59 (44800)
+Seat 6: Ketacom (43490)
+Seat 7: Gold-Akika (19740)
+Seat 8: Angie762 (33240)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Jujul82 posts ante 120
+Hipowerr posts ante 120
+LP_West posts ante 120
+The shark 59 posts ante 120
+Ketacom posts ante 120
+Gold-Akika posts ante 120
+Angie762 posts ante 120
+P1xel7 posts small blind 500
+Jujul82 posts big blind 1000
+Dealt to P1xel7 [2d 9d]
+*** PRE-FLOP *** 
+Hipowerr folds
+LP_West folds
+The shark 59 folds
+Ketacom calls 1000
+Gold-Akika folds
+Angie762 calls 1000
+P1xel7 folds
+Jujul82 checks
+*** FLOP *** [8d Jh 3d]
+Jujul82 checks
+Ketacom bets 1000
+Angie762 calls 1000
+Jujul82 folds
+*** TURN *** [8d Jh 3d][Jd]
+Ketacom bets 1000
+Angie762 calls 1000
+*** RIVER *** [8d Jh 3d Jd][As]
+Ketacom bets 1000
+Angie762 raises 6449 to 7449
+Ketacom folds
+Angie762 collected 16909 from pot
+*** SUMMARY ***
+Total pot 16909 | No rake
+Board: [8d Jh 3d Jd As]
+Seat 8: Angie762 (button) won 16909
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3248552575082955097-31-1710606995 - Holdem no limit (140/600/1200) - 2024/03/16 16:36:35 UTC
+Table: 'Freeroll(756362587)#0344' 8-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (40200)
+Seat 2: Jujul82 (94497)
+Seat 3: Hipowerr (16495)
+Seat 4: LP_West (23393)
+Seat 5: The shark 59 (44680)
+Seat 6: Ketacom (39370)
+Seat 7: Gold-Akika (19620)
+Seat 8: Angie762 (39580)
+*** ANTE/BLINDS ***
+Jujul82 posts ante 140
+Hipowerr posts ante 140
+P1xel7 posts ante 140
+LP_West posts ante 140
+The shark 59 posts ante 140
+Ketacom posts ante 140
+Gold-Akika posts ante 140
+Angie762 posts ante 140
+Jujul82 posts small blind 600
+Hipowerr posts big blind 1200
+Dealt to P1xel7 [6s 2c]
+*** PRE-FLOP *** 
+LP_West folds
+The shark 59 folds
+Ketacom folds
+Gold-Akika calls 1200
+Angie762 calls 1200
+P1xel7 folds
+Jujul82 calls 600
+Hipowerr checks
+*** FLOP *** [3s 6h Jc]
+Jujul82 checks
+Hipowerr checks
+Gold-Akika checks
+Angie762 bets 2072
+Jujul82 folds
+Hipowerr calls 2072
+Gold-Akika raises 16208 to 18280 and is all-in
+Angie762 calls 16208
+Hipowerr folds
+*** TURN *** [3s 6h Jc][Th]
+*** RIVER *** [3s 6h Jc Th][5h]
+*** SHOW DOWN ***
+Gold-Akika shows [Jh Qc] (One pair : Jacks)
+Angie762 shows [Kh Js] (One pair : Jacks)
+Angie762 collected 44552 from pot
+*** SUMMARY ***
+Total pot 44552 | No rake
+Board: [3s 6h Jc Th 5h]
+Seat 7: Gold-Akika showed [Jh Qc] and lost with One pair : Jacks
+Seat 8: Angie762 showed [Kh Js] and won 44552 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3248552575082954789-31-1710607117 - Holdem no limit (160/700/1400) - 2024/03/16 16:38:37 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: mksfree (98735)
+Seat 2: yanntsuki89 (59110)
+Seat 3: LEFROY (34640)
+Seat 4: Xeiis (37181)
+Seat 5: Titi france (45780)
+Seat 6: P1xel7 (40060)
+Seat 7: alaporke (44550)
+Seat 8: PHILOU21130 (73649)
+*** ANTE/BLINDS ***
+mksfree posts ante 160
+yanntsuki89 posts ante 160
+LEFROY posts ante 160
+Xeiis posts ante 160
+Titi france posts ante 160
+P1xel7 posts ante 160
+alaporke posts ante 160
+PHILOU21130 posts ante 160
+mksfree posts small blind 700
+yanntsuki89 posts big blind 1400
+Dealt to P1xel7 [6s 3c]
+*** PRE-FLOP *** 
+LEFROY raises 33080 to 34480 and is all-in
+Xeiis folds
+Titi france calls 34480
+P1xel7 folds
+alaporke folds
+PHILOU21130 folds
+mksfree folds
+yanntsuki89 folds
+*** FLOP *** [4c Jd 2d]
+*** TURN *** [4c Jd 2d][Ah]
+*** RIVER *** [4c Jd 2d Ah][As]
+*** SHOW DOWN ***
+LEFROY shows [Qc Jc] (Two pairs : Aces and Jacks)
+Titi france shows [Td Ac] (Trips of Aces)
+Titi france collected 72340 from pot
+*** SUMMARY ***
+Total pot 72340 | No rake
+Board: [4c Jd 2d Ah As]
+Seat 3: LEFROY showed [Qc Jc] and lost with Two pairs : Aces and Jacks
+Seat 5: Titi france showed [Td Ac] and won 72340 with Trips of Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3248552575082954789-32-1710607152 - Holdem no limit (160/700/1400) - 2024/03/16 16:39:12 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #1 is the button
+Seat 1: mksfree (97875)
+Seat 2: yanntsuki89 (57550)
+Seat 4: Xeiis (37021)
+Seat 5: Titi france (83480)
+Seat 6: P1xel7 (39900)
+Seat 7: alaporke (44390)
+Seat 8: PHILOU21130 (73489)
+*** ANTE/BLINDS ***
+yanntsuki89 posts ante 160
+Xeiis posts ante 160
+mksfree posts ante 160
+Titi france posts ante 160
+P1xel7 posts ante 160
+alaporke posts ante 160
+PHILOU21130 posts ante 160
+yanntsuki89 posts small blind 700
+Xeiis posts big blind 1400
+Dealt to P1xel7 [6h 3d]
+*** PRE-FLOP *** 
+Titi france folds
+P1xel7 folds
+alaporke folds
+PHILOU21130 calls 1400
+mksfree folds
+yanntsuki89 folds
+Xeiis checks
+*** FLOP *** [2c 8h Ad]
+Xeiis checks
+PHILOU21130 checks
+*** TURN *** [2c 8h Ad][3h]
+Xeiis checks
+PHILOU21130 bets 1400
+Xeiis folds
+PHILOU21130 collected 6020 from pot
+*** SUMMARY ***
+Total pot 6020 | No rake
+Board: [2c 8h Ad 3h]
+Seat 8: PHILOU21130 won 6020
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3248552575082954789-33-1710607221 - Holdem no limit (160/700/1400) - 2024/03/16 16:40:21 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #2 is the button
+Seat 1: mksfree (97715)
+Seat 2: yanntsuki89 (56690)
+Seat 3: Falcon Oman (31578)
+Seat 4: Xeiis (35461)
+Seat 5: Titi france (83320)
+Seat 6: P1xel7 (39740)
+Seat 7: alaporke (44230)
+Seat 8: PHILOU21130 (76549)
+*** ANTE/BLINDS ***
+Xeiis posts ante 160
+Titi france posts ante 160
+mksfree posts ante 160
+yanntsuki89 posts ante 160
+P1xel7 posts ante 160
+alaporke posts ante 160
+PHILOU21130 posts ante 160
+Xeiis posts small blind 700
+Titi france posts big blind 1400
+Dealt to P1xel7 [3h 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+alaporke raises 42670 to 44070 and is all-in
+PHILOU21130 raises 32319 to 76389 and is all-in
+mksfree folds
+yanntsuki89 folds
+Xeiis folds
+Titi france folds
+*** FLOP *** [4h Qs 5h]
+*** TURN *** [4h Qs 5h][4d]
+*** RIVER *** [4h Qs 5h 4d][2d]
+*** SHOW DOWN ***
+alaporke shows [Js Ah] (One pair : 4)
+PHILOU21130 shows [Th Ts] (Two pairs : Tens and 4)
+PHILOU21130 collected 123679 from pot
+*** SUMMARY ***
+Total pot 123679 | No rake
+Board: [4h Qs 5h 4d 2d]
+Seat 7: alaporke showed [Js Ah] and lost with One pair : 4
+Seat 8: PHILOU21130 showed [Th Ts] and won 123679 with Two pairs : Tens and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3248552575082954789-34-1710607260 - Holdem no limit (200/800/1600) - 2024/03/16 16:41:00 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: mksfree (97555)
+Seat 2: yanntsuki89 (56530)
+Seat 3: Falcon Oman (31578)
+Seat 4: Xeiis (34601)
+Seat 5: Titi france (81760)
+Seat 6: P1xel7 (39580)
+Seat 8: PHILOU21130 (123679)
+*** ANTE/BLINDS ***
+Titi france posts ante 200
+P1xel7 posts ante 200
+mksfree posts ante 200
+yanntsuki89 posts ante 200
+Falcon Oman posts ante 200
+Xeiis posts ante 200
+PHILOU21130 posts ante 200
+Titi france posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [Jh 2c]
+*** PRE-FLOP *** 
+PHILOU21130 folds
+mksfree folds
+yanntsuki89 calls 1600
+Falcon Oman folds
+Xeiis folds
+Titi france calls 800
+P1xel7 checks
+*** FLOP *** [7h 7d Qc]
+Titi france checks
+P1xel7 checks
+yanntsuki89 checks
+*** TURN *** [7h 7d Qc][Td]
+Titi france checks
+P1xel7 checks
+yanntsuki89 checks
+*** RIVER *** [7h 7d Qc Td][Js]
+Titi france checks
+P1xel7 bets 6200
+yanntsuki89 folds
+Titi france calls 6200
+*** SHOW DOWN ***
+Titi france shows [Tc 5d] (Two pairs : Tens and 7)
+P1xel7 shows [Jh 2c] (Two pairs : Jacks and 7)
+P1xel7 collected 18600 from pot
+*** SUMMARY ***
+Total pot 18600 | No rake
+Board: [7h 7d Qc Td Js]
+Seat 5: Titi france (small blind) showed [Tc 5d] and lost with Two pairs : Tens and 7
+Seat 6: P1xel7 (big blind) showed [Jh 2c] and won 18600 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3248552575082954789-35-1710607396 - Holdem no limit (200/800/1600) - 2024/03/16 16:43:16 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #5 is the button
+Seat 1: mksfree (97355)
+Seat 2: yanntsuki89 (54730)
+Seat 3: Falcon Oman (31378)
+Seat 4: Xeiis (34401)
+Seat 5: Titi france (73760)
+Seat 6: P1xel7 (50180)
+Seat 7: CELINEEH6724 (62160)
+Seat 8: PHILOU21130 (123479)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+CELINEEH6724 posts ante 200
+mksfree posts ante 200
+yanntsuki89 posts ante 200
+Falcon Oman posts ante 200
+Xeiis posts ante 200
+Titi france posts ante 200
+PHILOU21130 posts ante 200
+P1xel7 posts small blind 800
+CELINEEH6724 posts big blind 1600
+Dealt to P1xel7 [8s Qs]
+*** PRE-FLOP *** 
+PHILOU21130 folds
+mksfree folds
+yanntsuki89 folds
+Falcon Oman folds
+Xeiis folds
+Titi france folds
+P1xel7 folds
+CELINEEH6724 collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | No rake
+Seat 7: CELINEEH6724 (big blind) won 4000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3248552575082954789-36-1710607447 - Holdem no limit (250/1000/2000) - 2024/03/16 16:44:07 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: mksfree (97155)
+Seat 2: yanntsuki89 (54530)
+Seat 3: Falcon Oman (31178)
+Seat 4: Xeiis (34201)
+Seat 5: Titi france (73560)
+Seat 6: P1xel7 (49180)
+Seat 7: CELINEEH6724 (64360)
+Seat 8: PHILOU21130 (123279)
+*** ANTE/BLINDS ***
+CELINEEH6724 posts ante 250
+PHILOU21130 posts ante 250
+mksfree posts ante 250
+yanntsuki89 posts ante 250
+Falcon Oman posts ante 250
+Xeiis posts ante 250
+Titi france posts ante 250
+P1xel7 posts ante 250
+CELINEEH6724 posts small blind 1000
+PHILOU21130 posts big blind 2000
+Dealt to P1xel7 [6h 6c]
+*** PRE-FLOP *** 
+mksfree folds
+yanntsuki89 folds
+Falcon Oman folds
+Xeiis folds
+Titi france folds
+P1xel7 raises 46930 to 48930 and is all-in
+CELINEEH6724 raises 15180 to 64110 and is all-in
+PHILOU21130 folds
+*** FLOP *** [4s 2h Qd]
+*** TURN *** [4s 2h Qd][8d]
+*** RIVER *** [4s 2h Qd 8d][7h]
+*** SHOW DOWN ***
+P1xel7 shows [6h 6c] (One pair : 6)
+CELINEEH6724 shows [Js As] (High card : Ace)
+CELINEEH6724 collected 15180 from side pot 1
+P1xel7 collected 101860 from main pot
+*** SUMMARY ***
+Total pot 117040 | No rake
+Board: [4s 2h Qd 8d 7h]
+Seat 6: P1xel7 (button) showed [6h 6c] and won 101860 with One pair : 6
+Seat 7: CELINEEH6724 (small blind) showed [Js As] and won 15180 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3248552575082954789-37-1710607560 - Holdem no limit (300/1250/2500) - 2024/03/16 16:46:00 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #7 is the button
+Seat 1: mksfree (96905)
+Seat 2: yanntsuki89 (54280)
+Seat 3: Falcon Oman (30928)
+Seat 4: Xeiis (33951)
+Seat 5: Titi france (73310)
+Seat 6: P1xel7 (101860)
+Seat 7: CELINEEH6724 (15180)
+Seat 8: PHILOU21130 (121029)
+*** ANTE/BLINDS ***
+PHILOU21130 posts ante 300
+mksfree posts ante 300
+yanntsuki89 posts ante 300
+Falcon Oman posts ante 300
+Xeiis posts ante 300
+Titi france posts ante 300
+P1xel7 posts ante 300
+CELINEEH6724 posts ante 300
+PHILOU21130 posts small blind 1250
+mksfree posts big blind 2500
+Dealt to P1xel7 [3h 4d]
+*** PRE-FLOP *** 
+yanntsuki89 calls 2500
+Falcon Oman calls 2500
+Xeiis folds
+Titi france calls 2500
+P1xel7 folds
+CELINEEH6724 raises 2500 to 5000
+PHILOU21130 folds
+mksfree folds
+yanntsuki89 folds
+Falcon Oman calls 2500
+Titi france calls 2500
+*** FLOP *** [Qh Kh Qc]
+Falcon Oman checks
+Titi france checks
+CELINEEH6724 bets 9880 and is all-in
+Falcon Oman calls 9880
+Titi france folds
+*** TURN *** [Qh Kh Qc][Tc]
+*** RIVER *** [Qh Kh Qc Tc][Ks]
+*** SHOW DOWN ***
+Falcon Oman shows [Ah Qd] (Full of Queens and Kings)
+CELINEEH6724 shows [Kc Js] (Full of Kings and Queens)
+CELINEEH6724 collected 43410 from pot
+*** SUMMARY ***
+Total pot 43410 | No rake
+Board: [Qh Kh Qc Tc Ks]
+Seat 3: Falcon Oman showed [Ah Qd] and lost with Full of Queens and Kings
+Seat 7: CELINEEH6724 (button) showed [Kc Js] and won 43410 with Full of Kings and Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3248552575082954789-38-1710607697 - Holdem no limit (300/1250/2500) - 2024/03/16 16:48:17 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: mksfree (94105)
+Seat 2: yanntsuki89 (51480)
+Seat 3: Falcon Oman (15748)
+Seat 4: Xeiis (33651)
+Seat 5: Titi france (68010)
+Seat 6: P1xel7 (101560)
+Seat 7: CELINEEH6724 (43410)
+Seat 8: PHILOU21130 (119479)
+*** ANTE/BLINDS ***
+mksfree posts ante 300
+yanntsuki89 posts ante 300
+Falcon Oman posts ante 300
+Xeiis posts ante 300
+Titi france posts ante 300
+P1xel7 posts ante 300
+CELINEEH6724 posts ante 300
+PHILOU21130 posts ante 300
+mksfree posts small blind 1250
+yanntsuki89 posts big blind 2500
+Dealt to P1xel7 [4h Th]
+*** PRE-FLOP *** 
+Falcon Oman folds
+Xeiis raises 30851 to 33351 and is all-in
+Titi france folds
+P1xel7 folds
+CELINEEH6724 folds
+PHILOU21130 calls 33351
+mksfree raises 60454 to 93805 and is all-in
+yanntsuki89 folds
+PHILOU21130 raises 25374 to 119179 and is all-in
+*** FLOP *** [Tc 5s Kd]
+*** TURN *** [Tc 5s Kd][Ah]
+*** RIVER *** [Tc 5s Kd Ah][4s]
+*** SHOW DOWN ***
+mksfree shows [Jc Kc] (One pair : Kings)
+Xeiis shows [5d 5c] (Trips of 5)
+PHILOU21130 shows [Qc 7c] (High card : Ace)
+PHILOU21130 collected 25374 from side pot 2
+Xeiis collected 104953 from main pot
+mksfree collected 120908 from side pot 1
+*** SUMMARY ***
+Total pot 251235 | No rake
+Board: [Tc 5s Kd Ah 4s]
+Seat 1: mksfree (small blind) showed [Jc Kc] and won 120908 with One pair : Kings
+Seat 4: Xeiis showed [5d 5c] and won 104953 with Trips of 5
+Seat 8: PHILOU21130 (button) showed [Qc 7c] and won 25374 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3248552575082954789-39-1710607787 - Holdem no limit (350/1500/3000) - 2024/03/16 16:49:47 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #1 is the button
+Seat 1: mksfree (120908)
+Seat 2: yanntsuki89 (48680)
+Seat 3: Falcon Oman (15448)
+Seat 4: Xeiis (104953)
+Seat 5: Titi france (67710)
+Seat 6: P1xel7 (101260)
+Seat 7: CELINEEH6724 (43110)
+Seat 8: PHILOU21130 (25374)
+*** ANTE/BLINDS ***
+yanntsuki89 posts ante 350
+Falcon Oman posts ante 350
+mksfree posts ante 350
+Xeiis posts ante 350
+Titi france posts ante 350
+P1xel7 posts ante 350
+CELINEEH6724 posts ante 350
+PHILOU21130 posts ante 350
+yanntsuki89 posts small blind 1500
+Falcon Oman posts big blind 3000
+Dealt to P1xel7 [6h 3h]
+*** PRE-FLOP *** 
+Xeiis raises 4500 to 7500
+Titi france folds
+P1xel7 folds
+CELINEEH6724 folds
+PHILOU21130 folds
+mksfree calls 7500
+yanntsuki89 folds
+Falcon Oman folds
+*** FLOP *** [2s 6c Qc]
+Xeiis bets 7805
+mksfree folds
+Xeiis collected 30105 from pot
+*** SUMMARY ***
+Total pot 30105 | No rake
+Board: [2s 6c Qc]
+Seat 4: Xeiis won 30105
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3248552575082954789-40-1710607826 - Holdem no limit (350/1500/3000) - 2024/03/16 16:50:26 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #2 is the button
+Seat 1: mksfree (113058)
+Seat 2: yanntsuki89 (46830)
+Seat 3: Falcon Oman (12098)
+Seat 4: Xeiis (119403)
+Seat 5: Titi france (67360)
+Seat 6: P1xel7 (100910)
+Seat 7: CELINEEH6724 (42760)
+Seat 8: PHILOU21130 (25024)
+*** ANTE/BLINDS ***
+Falcon Oman posts ante 350
+Xeiis posts ante 350
+mksfree posts ante 350
+yanntsuki89 posts ante 350
+Titi france posts ante 350
+P1xel7 posts ante 350
+CELINEEH6724 posts ante 350
+PHILOU21130 posts ante 350
+Falcon Oman posts small blind 1500
+Xeiis posts big blind 3000
+Dealt to P1xel7 [Ks 6h]
+*** PRE-FLOP *** 
+Titi france calls 3000
+P1xel7 folds
+CELINEEH6724 folds
+PHILOU21130 raises 21674 to 24674 and is all-in
+mksfree folds
+yanntsuki89 folds
+Falcon Oman calls 10248 and is all-in
+Xeiis folds
+Titi france calls 21674
+*** FLOP *** [7h 6c 5c]
+*** TURN *** [7h 6c 5c][2d]
+*** RIVER *** [7h 6c 5c 2d][6s]
+*** SHOW DOWN ***
+Titi france shows [Ac 9h] (One pair : 6)
+Falcon Oman shows [2s 2h] (Full of 2 and 6)
+PHILOU21130 shows [8s 8d] (Two pairs : 8 and 6)
+PHILOU21130 collected 25852 from side pot 1
+Falcon Oman collected 41044 from main pot
+*** SUMMARY ***
+Total pot 66896 | No rake
+Board: [7h 6c 5c 2d 6s]
+Seat 3: Falcon Oman (small blind) showed [2s 2h] and won 41044 with Full of 2 and 6
+Seat 5: Titi france showed [Ac 9h] and lost with One pair : 6
+Seat 8: PHILOU21130 showed [8s 8d] and won 25852 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3248552575082954789-41-1710607878 - Holdem no limit (400/1750/3500) - 2024/03/16 16:51:18 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #3 is the button
+Seat 1: mksfree (112708)
+Seat 2: yanntsuki89 (46480)
+Seat 3: Falcon Oman (41044)
+Seat 4: Xeiis (116053)
+Seat 5: Titi france (42336)
+Seat 6: P1xel7 (100560)
+Seat 7: CELINEEH6724 (42410)
+Seat 8: PHILOU21130 (25852)
+*** ANTE/BLINDS ***
+Xeiis posts ante 400
+Titi france posts ante 400
+mksfree posts ante 400
+yanntsuki89 posts ante 400
+Falcon Oman posts ante 400
+P1xel7 posts ante 400
+CELINEEH6724 posts ante 400
+PHILOU21130 posts ante 400
+Xeiis posts small blind 1750
+Titi france posts big blind 3500
+Dealt to P1xel7 [Tc 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+CELINEEH6724 folds
+PHILOU21130 raises 21952 to 25452 and is all-in
+mksfree calls 25452
+yanntsuki89 folds
+Falcon Oman folds
+Xeiis folds
+Titi france folds
+*** FLOP *** [9h 7d 3h]
+*** TURN *** [9h 7d 3h][Ad]
+*** RIVER *** [9h 7d 3h Ad][5c]
+*** SHOW DOWN ***
+mksfree shows [8s 8h] (One pair : 8)
+PHILOU21130 shows [9d Ac] (Two pairs : Aces and 9)
+PHILOU21130 collected 59354 from pot
+*** SUMMARY ***
+Total pot 59354 | No rake
+Board: [9h 7d 3h Ad 5c]
+Seat 1: mksfree showed [8s 8h] and lost with One pair : 8
+Seat 8: PHILOU21130 showed [9d Ac] and won 59354 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3248552575082954789-42-1710607943 - Holdem no limit (400/1750/3500) - 2024/03/16 16:52:23 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: mksfree (86856)
+Seat 2: yanntsuki89 (46080)
+Seat 3: Falcon Oman (40644)
+Seat 4: Xeiis (113903)
+Seat 5: Titi france (38436)
+Seat 6: P1xel7 (100160)
+Seat 7: CELINEEH6724 (42010)
+Seat 8: PHILOU21130 (59354)
+*** ANTE/BLINDS ***
+Titi france posts ante 400
+P1xel7 posts ante 400
+mksfree posts ante 400
+yanntsuki89 posts ante 400
+Falcon Oman posts ante 400
+Xeiis posts ante 400
+CELINEEH6724 posts ante 400
+PHILOU21130 posts ante 400
+Titi france posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [4d 5c]
+*** PRE-FLOP *** 
+CELINEEH6724 folds
+PHILOU21130 folds
+mksfree folds
+yanntsuki89 folds
+Falcon Oman folds
+Xeiis raises 3500 to 7000
+Titi france folds
+P1xel7 calls 3500
+*** FLOP *** [3d 9h 7h]
+P1xel7 checks
+Xeiis bets 6633
+P1xel7 folds
+Xeiis collected 25583 from pot
+*** SUMMARY ***
+Total pot 25583 | No rake
+Board: [3d 9h 7h]
+Seat 4: Xeiis (button) won 25583
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552575082954789-43-1710608034 - Holdem no limit (500/2000/4000) - 2024/03/16 16:53:54 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #5 is the button
+Seat 1: mksfree (86456)
+Seat 2: yanntsuki89 (45680)
+Seat 3: Falcon Oman (40244)
+Seat 4: Xeiis (125453)
+Seat 5: Titi france (36286)
+Seat 6: P1xel7 (92760)
+Seat 7: CELINEEH6724 (41610)
+Seat 8: PHILOU21130 (58954)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+CELINEEH6724 posts ante 500
+mksfree posts ante 500
+yanntsuki89 posts ante 500
+Falcon Oman posts ante 500
+Xeiis posts ante 500
+Titi france posts ante 500
+PHILOU21130 posts ante 500
+P1xel7 posts small blind 2000
+CELINEEH6724 posts big blind 4000
+Dealt to P1xel7 [7s 2h]
+*** PRE-FLOP *** 
+PHILOU21130 raises 54454 to 58454 and is all-in
+mksfree folds
+yanntsuki89 folds
+Falcon Oman folds
+Xeiis folds
+Titi france folds
+P1xel7 folds
+CELINEEH6724 folds
+PHILOU21130 collected 68454 from pot
+*** SUMMARY ***
+Total pot 68454 | No rake
+Seat 8: PHILOU21130 won 68454
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552575082954789-44-1710608095 - Holdem no limit (500/2000/4000) - 2024/03/16 16:54:55 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: mksfree (85956)
+Seat 2: yanntsuki89 (45180)
+Seat 3: Falcon Oman (39744)
+Seat 4: Xeiis (124953)
+Seat 5: Titi france (35786)
+Seat 6: P1xel7 (90260)
+Seat 7: CELINEEH6724 (37110)
+Seat 8: PHILOU21130 (68454)
+*** ANTE/BLINDS ***
+CELINEEH6724 posts ante 500
+PHILOU21130 posts ante 500
+mksfree posts ante 500
+yanntsuki89 posts ante 500
+Falcon Oman posts ante 500
+Xeiis posts ante 500
+Titi france posts ante 500
+P1xel7 posts ante 500
+CELINEEH6724 posts small blind 2000
+PHILOU21130 posts big blind 4000
+Dealt to P1xel7 [Jc Ac]
+*** PRE-FLOP *** 
+mksfree folds
+yanntsuki89 calls 4000
+Falcon Oman folds
+Xeiis folds
+Titi france folds
+P1xel7 raises 85760 to 89760 and is all-in
+CELINEEH6724 folds
+PHILOU21130 folds
+yanntsuki89 calls 40680 and is all-in
+*** FLOP *** [9h 4s 5h]
+*** TURN *** [9h 4s 5h][6c]
+*** RIVER *** [9h 4s 5h 6c][Ts]
+*** SHOW DOWN ***
+yanntsuki89 shows [Kd Qs] (High card : King)
+P1xel7 shows [Jc Ac] (High card : Ace)
+P1xel7 collected 144440 from pot
+*** SUMMARY ***
+Total pot 144440 | No rake
+Board: [9h 4s 5h 6c Ts]
+Seat 2: yanntsuki89 showed [Kd Qs] and lost with High card : King
+Seat 6: P1xel7 (button) showed [Jc Ac] and won 144440 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552575082954789-45-1710608460 - Holdem no limit (500/2000/4000) - 2024/03/16 17:01:00 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #7 is the button
+Seat 1: mksfree (85456)
+Seat 2: Jevaifumer (100722)
+Seat 3: Falcon Oman (39244)
+Seat 4: Xeiis (124453)
+Seat 5: Titi france (35286)
+Seat 6: P1xel7 (144440)
+Seat 7: CELINEEH6724 (34610)
+Seat 8: PHILOU21130 (63954)
+*** ANTE/BLINDS ***
+PHILOU21130 posts ante 500
+mksfree posts ante 500
+Jevaifumer posts ante 500
+Falcon Oman posts ante 500
+Xeiis posts ante 500
+Titi france posts ante 500
+P1xel7 posts ante 500
+CELINEEH6724 posts ante 500
+PHILOU21130 posts small blind 2000
+mksfree posts big blind 4000
+Dealt to P1xel7 [Kd Jc]
+*** PRE-FLOP *** 
+Jevaifumer folds
+Falcon Oman folds
+Xeiis folds
+Titi france calls 4000
+P1xel7 raises 12000 to 16000
+CELINEEH6724 folds
+PHILOU21130 folds
+mksfree folds
+Titi france folds
+P1xel7 collected 30000 from pot
+*** SUMMARY ***
+Total pot 30000 | No rake
+Seat 6: P1xel7 won 30000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3248552575082954789-46-1710608536 - Holdem no limit (600/2500/5000) - 2024/03/16 17:02:16 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: mksfree (80956)
+Seat 2: Jevaifumer (100222)
+Seat 3: Falcon Oman (38744)
+Seat 4: Xeiis (123953)
+Seat 5: Titi france (30786)
+Seat 6: P1xel7 (157940)
+Seat 7: CELINEEH6724 (34110)
+Seat 8: PHILOU21130 (61454)
+*** ANTE/BLINDS ***
+mksfree posts ante 600
+Jevaifumer posts ante 600
+Falcon Oman posts ante 600
+Xeiis posts ante 600
+Titi france posts ante 600
+P1xel7 posts ante 600
+CELINEEH6724 posts ante 600
+PHILOU21130 posts ante 600
+mksfree posts small blind 2500
+Jevaifumer posts big blind 5000
+Dealt to P1xel7 [Jc 8s]
+*** PRE-FLOP *** 
+Falcon Oman folds
+Xeiis raises 5000 to 10000
+Titi france folds
+P1xel7 folds
+CELINEEH6724 folds
+PHILOU21130 folds
+mksfree folds
+Jevaifumer raises 27300 to 37300
+Xeiis raises 86053 to 123353 and is all-in
+Jevaifumer calls 62322 and is all-in
+*** FLOP *** [Ac Tc 4d]
+*** TURN *** [Ac Tc 4d][6h]
+*** RIVER *** [Ac Tc 4d 6h][3d]
+*** SHOW DOWN ***
+Jevaifumer shows [Kd Ks] (One pair : Kings)
+Xeiis shows [As Th] (Two pairs : Aces and Tens)
+Xeiis collected 230275 from pot
+*** SUMMARY ***
+Total pot 230275 | No rake
+Board: [Ac Tc 4d 6h 3d]
+Seat 2: Jevaifumer (big blind) showed [Kd Ks] and lost with One pair : Kings
+Seat 4: Xeiis showed [As Th] and won 230275 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3248552575082954789-47-1710608585 - Holdem no limit (600/2500/5000) - 2024/03/16 17:03:05 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #1 is the button
+Seat 1: mksfree (77856)
+Seat 3: Falcon Oman (38144)
+Seat 4: Xeiis (230275)
+Seat 5: Titi france (30186)
+Seat 6: P1xel7 (157340)
+Seat 7: CELINEEH6724 (33510)
+Seat 8: PHILOU21130 (60854)
+*** ANTE/BLINDS ***
+Falcon Oman posts ante 600
+mksfree posts ante 600
+Xeiis posts ante 600
+Titi france posts ante 600
+P1xel7 posts ante 600
+CELINEEH6724 posts ante 600
+PHILOU21130 posts ante 600
+Falcon Oman posts big blind 5000
+Dealt to P1xel7 [9d Kh]
+*** PRE-FLOP *** 
+Xeiis folds
+Titi france folds
+P1xel7 raises 5000 to 10000
+CELINEEH6724 folds
+PHILOU21130 folds
+mksfree folds
+Falcon Oman folds
+P1xel7 collected 19200 from pot
+*** SUMMARY ***
+Total pot 19200 | No rake
+Seat 6: P1xel7 won 19200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3248552575082954789-48-1710608628 - Holdem no limit (600/2500/5000) - 2024/03/16 17:03:48 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #2 is the button
+Seat 1: mksfree (77256)
+Seat 3: Falcon Oman (32544)
+Seat 4: Xeiis (229675)
+Seat 5: Titi france (29586)
+Seat 6: P1xel7 (165940)
+Seat 7: CELINEEH6724 (32910)
+Seat 8: PHILOU21130 (60254)
+*** ANTE/BLINDS ***
+Falcon Oman posts ante 600
+Xeiis posts ante 600
+mksfree posts ante 600
+Titi france posts ante 600
+P1xel7 posts ante 600
+CELINEEH6724 posts ante 600
+PHILOU21130 posts ante 600
+Falcon Oman posts small blind 2500
+Xeiis posts big blind 5000
+Dealt to P1xel7 [9s 6s]
+*** PRE-FLOP *** 
+Titi france folds
+P1xel7 folds
+CELINEEH6724 folds
+PHILOU21130 calls 5000
+mksfree folds
+Falcon Oman folds
+Xeiis checks
+*** FLOP *** [Kh Kc 4h]
+Xeiis checks
+PHILOU21130 bets 5000
+Xeiis calls 5000
+*** TURN *** [Kh Kc 4h][As]
+Xeiis checks
+PHILOU21130 checks
+*** RIVER *** [Kh Kc 4h As][2c]
+Xeiis bets 6675
+PHILOU21130 folds
+Xeiis collected 33375 from pot
+*** SUMMARY ***
+Total pot 33375 | No rake
+Board: [Kh Kc 4h As 2c]
+Seat 4: Xeiis (big blind) won 33375
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 20 - HandId: #3248552575082954789-49-1710608681 - Holdem no limit (700/3000/6000) - 2024/03/16 17:04:41 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #3 is the button
+Seat 1: mksfree (76656)
+Seat 2: Ben0320 (11256)
+Seat 3: Falcon Oman (29444)
+Seat 4: Xeiis (245775)
+Seat 5: Titi france (28986)
+Seat 6: P1xel7 (165340)
+Seat 7: CELINEEH6724 (32310)
+Seat 8: PHILOU21130 (49654)
+*** ANTE/BLINDS ***
+Xeiis posts ante 700
+Titi france posts ante 700
+mksfree posts ante 700
+Ben0320 posts ante 700
+Falcon Oman posts ante 700
+P1xel7 posts ante 700
+CELINEEH6724 posts ante 700
+PHILOU21130 posts ante 700
+Xeiis posts small blind 3000
+Titi france posts big blind 6000
+Dealt to P1xel7 [9s Qc]
+*** PRE-FLOP *** 
+P1xel7 folds
+CELINEEH6724 raises 25610 to 31610 and is all-in
+PHILOU21130 folds
+mksfree folds
+Ben0320 folds
+Falcon Oman folds
+Xeiis folds
+Titi france calls 22286 and is all-in
+*** FLOP *** [9c 8h Jc]
+*** TURN *** [9c 8h Jc][6c]
+*** RIVER *** [9c 8h Jc 6c][Jd]
+*** SHOW DOWN ***
+Titi france shows [Ts Qs] (Straight Queen high)
+CELINEEH6724 shows [Kd Kh] (Two pairs : Kings and Jacks)
+CELINEEH6724 collected 3324 from side pot 1
+Titi france collected 65172 from main pot
+*** SUMMARY ***
+Total pot 68496 | No rake
+Board: [9c 8h Jc 6c Jd]
+Seat 5: Titi france (big blind) showed [Ts Qs] and won 65172 with Straight Queen high
+Seat 7: CELINEEH6724 showed [Kd Kh] and won 3324 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 20 - HandId: #3248552575082954789-50-1710608760 - Holdem no limit (700/3000/6000) - 2024/03/16 17:06:00 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: mksfree (75956)
+Seat 2: Ben0320 (10556)
+Seat 3: Falcon Oman (28744)
+Seat 4: Xeiis (242075)
+Seat 5: Titi france (65172)
+Seat 6: P1xel7 (164640)
+Seat 7: CELINEEH6724 (3324)
+Seat 8: PHILOU21130 (48954)
+*** ANTE/BLINDS ***
+Titi france posts ante 700
+P1xel7 posts ante 700
+mksfree posts ante 700
+Ben0320 posts ante 700
+Falcon Oman posts ante 700
+Xeiis posts ante 700
+CELINEEH6724 posts ante 700
+PHILOU21130 posts ante 700
+Titi france posts small blind 3000
+P1xel7 posts big blind 6000
+Dealt to P1xel7 [3h 6s]
+*** PRE-FLOP *** 
+CELINEEH6724 calls 2624 and is all-in
+PHILOU21130 folds
+mksfree folds
+Ben0320 folds
+Falcon Oman folds
+Xeiis folds
+Titi france calls 3000
+P1xel7 checks
+*** FLOP *** [Js 7c 9d]
+Titi france checks
+P1xel7 bets 15000
+Titi france folds
+*** TURN *** [Js 7c 9d][Jh]
+*** RIVER *** [Js 7c 9d Jh][Kc]
+*** SHOW DOWN ***
+P1xel7 shows [3h 6s] (One pair : Jacks)
+CELINEEH6724 shows [6h 5s] (One pair : Jacks)
+CELINEEH6724 collected 6736 from main pot
+P1xel7 collected 28488 from side pot 1
+*** SUMMARY ***
+Total pot 35224 | No rake
+Board: [Js 7c 9d Jh Kc]
+Seat 6: P1xel7 (big blind) showed [3h 6s] and won 28488 with One pair : Jacks
+Seat 7: CELINEEH6724 showed [6h 5s] and won 6736 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 21 - HandId: #3248552575082954789-51-1710608853 - Holdem no limit (800/3500/7000) - 2024/03/16 17:07:33 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #5 is the button
+Seat 1: mksfree (75256)
+Seat 2: Ben0320 (9856)
+Seat 3: Falcon Oman (28044)
+Seat 4: Xeiis (241375)
+Seat 5: Titi france (58472)
+Seat 6: P1xel7 (171428)
+Seat 7: CELINEEH6724 (6736)
+Seat 8: PHILOU21130 (48254)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 800
+CELINEEH6724 posts ante 800
+mksfree posts ante 800
+Ben0320 posts ante 800
+Falcon Oman posts ante 800
+Xeiis posts ante 800
+Titi france posts ante 800
+PHILOU21130 posts ante 800
+P1xel7 posts small blind 3500
+CELINEEH6724 posts big blind 5936 and is all-in
+Dealt to P1xel7 [9d 3s]
+*** PRE-FLOP *** 
+PHILOU21130 folds
+mksfree calls 7000
+Ben0320 folds
+Falcon Oman folds
+Xeiis folds
+Titi france calls 7000
+P1xel7 calls 3500
+*** FLOP *** [3c Th 2c]
+P1xel7 checks
+mksfree checks
+Titi france checks
+*** TURN *** [3c Th 2c][3d]
+P1xel7 bets 11668
+mksfree folds
+Titi france calls 11668
+*** RIVER *** [3c Th 2c 3d][6d]
+P1xel7 bets 45338
+Titi france folds
+*** SHOW DOWN ***
+CELINEEH6724 shows [7c 4c] (One pair : 3)
+P1xel7 shows [9d 3s] (Trips of 3)
+P1xel7 collected 102010 from pot
+*** SUMMARY ***
+Total pot 102010 | No rake
+Board: [3c Th 2c 3d 6d]
+Seat 6: P1xel7 (small blind) showed [9d 3s] and won 102010 with Trips of 3
+Seat 7: CELINEEH6724 (big blind) showed [7c 4c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 21 - HandId: #3248552575082954789-52-1710608921 - Holdem no limit (800/3500/7000) - 2024/03/16 17:08:41 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: mksfree (67456)
+Seat 2: Ben0320 (9056)
+Seat 3: Falcon Oman (27244)
+Seat 4: Xeiis (240575)
+Seat 5: Titi france (39004)
+Seat 6: P1xel7 (208632)
+Seat 8: PHILOU21130 (47454)
+*** ANTE/BLINDS ***
+PHILOU21130 posts ante 800
+mksfree posts ante 800
+Ben0320 posts ante 800
+Falcon Oman posts ante 800
+Xeiis posts ante 800
+Titi france posts ante 800
+P1xel7 posts ante 800
+PHILOU21130 posts big blind 7000
+Dealt to P1xel7 [6h 3d]
+*** PRE-FLOP *** 
+mksfree calls 7000
+Ben0320 folds
+Falcon Oman folds
+Xeiis folds
+Titi france folds
+P1xel7 folds
+PHILOU21130 raises 39654 to 46654 and is all-in
+mksfree calls 39654
+*** FLOP *** [9h 4d 7d]
+*** TURN *** [9h 4d 7d][As]
+*** RIVER *** [9h 4d 7d As][5s]
+*** SHOW DOWN ***
+PHILOU21130 shows [Ks Th] (High card : Ace)
+mksfree shows [Jh Jd] (One pair : Jacks)
+mksfree collected 98908 from pot
+*** SUMMARY ***
+Total pot 98908 | No rake
+Board: [9h 4d 7d As 5s]
+Seat 1: mksfree showed [Jh Jd] and won 98908 with One pair : Jacks
+Seat 8: PHILOU21130 (big blind) showed [Ks Th] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 21 - HandId: #3248552575082954789-53-1710608956 - Holdem no limit (800/3500/7000) - 2024/03/16 17:09:16 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #7 is the button
+Seat 1: mksfree (118910)
+Seat 2: Ben0320 (8256)
+Seat 3: Falcon Oman (26444)
+Seat 4: Xeiis (239775)
+Seat 5: Titi france (38204)
+Seat 6: P1xel7 (207832)
+Seat 7: Loanbrault (88700)
+*** ANTE/BLINDS ***
+mksfree posts ante 800
+Ben0320 posts ante 800
+Falcon Oman posts ante 800
+Xeiis posts ante 800
+Titi france posts ante 800
+P1xel7 posts ante 800
+mksfree posts big blind 7000
+Dealt to P1xel7 [Kc Tc]
+*** PRE-FLOP *** 
+Ben0320 folds
+Falcon Oman folds
+Xeiis folds
+Titi france folds
+P1xel7 raises 10500 to 17500
+mksfree folds
+P1xel7 collected 29300 from pot
+*** SUMMARY ***
+Total pot 29300 | No rake
+Seat 6: P1xel7 won 29300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 22 - HandId: #3248552575082954789-54-1710609015 - Holdem no limit (1000/4000/8000) - 2024/03/16 17:10:15 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: mksfree (111110)
+Seat 2: Ben0320 (7456)
+Seat 3: Falcon Oman (25644)
+Seat 4: Xeiis (238975)
+Seat 5: Titi france (37404)
+Seat 6: P1xel7 (218832)
+Seat 7: Loanbrault (88700)
+*** ANTE/BLINDS ***
+mksfree posts ante 1000
+Ben0320 posts ante 1000
+Falcon Oman posts ante 1000
+Xeiis posts ante 1000
+Titi france posts ante 1000
+P1xel7 posts ante 1000
+Loanbrault posts ante 1000
+mksfree posts small blind 4000
+Ben0320 posts big blind 6456 and is all-in
+Dealt to P1xel7 [As Qh]
+*** PRE-FLOP *** 
+Falcon Oman folds
+Xeiis folds
+Titi france folds
+P1xel7 raises 13544 to 20000
+Loanbrault raises 67700 to 87700 and is all-in
+mksfree raises 22410 to 110110 and is all-in
+P1xel7 calls 90110
+*** FLOP *** [4c Ad Kd]
+*** TURN *** [4c Ad Kd][5c]
+*** RIVER *** [4c Ad Kd 5c][Kh]
+*** SHOW DOWN ***
+mksfree shows [Td Th] (Two pairs : Kings and Tens)
+Ben0320 shows [Jh 8h] (One pair : Kings)
+Loanbrault shows [3c 3s] (Two pairs : Kings and 3)
+P1xel7 shows [As Qh] (Two pairs : Aces and Kings)
+P1xel7 collected 321376 from pot
+*** SUMMARY ***
+Total pot 321376 | No rake
+Board: [4c Ad Kd 5c Kh]
+Seat 1: mksfree (small blind) showed [Td Th] and lost with Two pairs : Kings and Tens
+Seat 2: Ben0320 (big blind) showed [Jh 8h] and lost with One pair : Kings
+Seat 6: P1xel7 showed [As Qh] and won 321376 with Two pairs : Aces and Kings
+Seat 7: Loanbrault showed [3c 3s] and lost with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 22 - HandId: #3248552575082954789-55-1710609091 - Holdem no limit (1000/4000/8000) - 2024/03/16 17:11:31 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #1 is the button
+Seat 3: Falcon Oman (24644)
+Seat 4: Xeiis (237975)
+Seat 5: Titi france (36404)
+Seat 6: P1xel7 (429098)
+*** ANTE/BLINDS ***
+Falcon Oman posts ante 1000
+Xeiis posts ante 1000
+Titi france posts ante 1000
+P1xel7 posts ante 1000
+Falcon Oman posts big blind 8000
+Dealt to P1xel7 [Tc Kh]
+*** PRE-FLOP *** 
+Xeiis folds
+Titi france calls 8000
+P1xel7 raises 420098 to 428098 and is all-in
+Falcon Oman folds
+Titi france calls 27404 and is all-in
+*** FLOP *** [2c Td 7d]
+*** TURN *** [2c Td 7d][Jc]
+*** RIVER *** [2c Td 7d Jc][8s]
+*** SHOW DOWN ***
+Titi france shows [6d Ah] (High card : Ace)
+P1xel7 shows [Tc Kh] (One pair : Tens)
+P1xel7 collected 475502 from pot
+*** SUMMARY ***
+Total pot 475502 | No rake
+Board: [2c Td 7d Jc 8s]
+Seat 5: Titi france showed [6d Ah] and lost with High card : Ace
+Seat 6: P1xel7 showed [Tc Kh] and won 475502 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 23 - HandId: #3248552575082954789-56-1710609144 - Holdem no limit (1200/5000/10000) - 2024/03/16 17:12:24 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #2 is the button
+Seat 1: hatx (14280)
+Seat 3: Falcon Oman (15644)
+Seat 4: Xeiis (236975)
+Seat 6: P1xel7 (475502)
+Seat 7: Tenseigan (48800)
+Seat 8: Sensini95 (99156)
+*** ANTE/BLINDS ***
+Falcon Oman posts ante 1200
+Xeiis posts ante 1200
+hatx posts ante 1200
+P1xel7 posts ante 1200
+Tenseigan posts ante 1200
+Sensini95 posts ante 1200
+Falcon Oman posts small blind 5000
+Xeiis posts big blind 10000
+Dealt to P1xel7 [2s 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Tenseigan folds
+Sensini95 calls 10000
+hatx folds
+Falcon Oman folds
+Xeiis checks
+*** FLOP *** [2d 9h Th]
+Xeiis checks
+Sensini95 checks
+*** TURN *** [2d 9h Th][8s]
+Xeiis checks
+Sensini95 bets 10000
+Xeiis calls 10000
+*** RIVER *** [2d 9h Th 8s][7c]
+Xeiis checks
+Sensini95 bets 18270
+Xeiis calls 18270
+*** SHOW DOWN ***
+Xeiis shows [3s Ah] (High card : Ace)
+Sensini95 shows [Kh Tc] (One pair : Tens)
+Sensini95 collected 88740 from pot
+*** SUMMARY ***
+Total pot 88740 | No rake
+Board: [2d 9h Th 8s 7c]
+Seat 4: Xeiis (big blind) showed [3s Ah] and lost with High card : Ace
+Seat 8: Sensini95 showed [Kh Tc] and won 88740 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 24 - HandId: #3248552575082954789-57-1710609394 - Holdem no limit (1400/6000/12000) - 2024/03/16 17:16:34 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #3 is the button
+Seat 1: hatx (13080)
+Seat 2: astidchrist (72194)
+Seat 3: Falcon Oman (9444)
+Seat 4: Xeiis (197505)
+Seat 5: marinejtepin (224056)
+Seat 6: P1xel7 (474302)
+Seat 7: Tenseigan (47600)
+Seat 8: Sensini95 (148426)
+*** ANTE/BLINDS ***
+Xeiis posts ante 1400
+marinejtepin posts ante 1400
+hatx posts ante 1400
+astidchrist posts ante 1400
+Falcon Oman posts ante 1400
+P1xel7 posts ante 1400
+Tenseigan posts ante 1400
+Sensini95 posts ante 1400
+Xeiis posts small blind 6000
+marinejtepin posts big blind 12000
+Dealt to P1xel7 [9s 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Tenseigan raises 34200 to 46200 and is all-in
+Sensini95 folds
+hatx folds
+astidchrist folds
+Falcon Oman folds
+Xeiis raises 149905 to 196105 and is all-in
+marinejtepin calls 184105
+*** FLOP *** [6c 3h 3s]
+*** TURN *** [6c 3h 3s][7s]
+*** RIVER *** [6c 3h 3s 7s][Ac]
+*** SHOW DOWN ***
+marinejtepin shows [As Td] (Two pairs : Aces and 3)
+Tenseigan shows [6d Kd] (Two pairs : 6 and 3)
+Xeiis shows [Kh Ah] (Two pairs : Aces and 3)
+Xeiis collected 449610 from pot
+*** SUMMARY ***
+Total pot 449610 | No rake
+Board: [6c 3h 3s 7s Ac]
+Seat 4: Xeiis (small blind) showed [Kh Ah] and won 449610 with Two pairs : Aces and 3
+Seat 5: marinejtepin (big blind) showed [As Td] and lost with Two pairs : Aces and 3
+Seat 7: Tenseigan showed [6d Kd] and lost with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 25 - HandId: #3248552575082954789-58-1710609457 - Holdem no limit (1600/7000/14000) - 2024/03/16 17:17:37 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: hatx (11680)
+Seat 2: astidchrist (70794)
+Seat 3: Falcon Oman (8044)
+Seat 4: Xeiis (449610)
+Seat 5: marinejtepin (26551)
+Seat 6: P1xel7 (472902)
+Seat 8: Sensini95 (147026)
+*** ANTE/BLINDS ***
+marinejtepin posts ante 1600
+P1xel7 posts ante 1600
+hatx posts ante 1600
+astidchrist posts ante 1600
+Falcon Oman posts ante 1600
+Xeiis posts ante 1600
+Sensini95 posts ante 1600
+marinejtepin posts small blind 7000
+P1xel7 posts big blind 14000
+Dealt to P1xel7 [Ac 9h]
+*** PRE-FLOP *** 
+Sensini95 folds
+hatx calls 10080 and is all-in
+astidchrist folds
+Falcon Oman folds
+Xeiis folds
+marinejtepin folds
+*** FLOP *** [7c 6d 6s]
+*** TURN *** [7c 6d 6s][9s]
+*** RIVER *** [7c 6d 6s 9s][Td]
+*** SHOW DOWN ***
+hatx shows [Qc Ks] (One pair : 6)
+P1xel7 shows [Ac 9h] (Two pairs : 9 and 6)
+P1xel7 collected 42280 from pot
+*** SUMMARY ***
+Total pot 42280 | No rake
+Board: [7c 6d 6s 9s Td]
+Seat 1: hatx showed [Qc Ks] and lost with One pair : 6
+Seat 6: P1xel7 (big blind) showed [Ac 9h] and won 42280 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 26 - HandId: #3248552575082954789-59-1710609586 - Holdem no limit (2000/8000/16000) - 2024/03/16 17:19:46 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #5 is the button
+Seat 2: astidchrist (69194)
+Seat 3: Falcon Oman (6444)
+Seat 4: Xeiis (448010)
+Seat 5: marinejtepin (17951)
+Seat 6: P1xel7 (499582)
+Seat 7: waren290 (243737)
+Seat 8: Sensini95 (145426)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 2000
+waren290 posts ante 2000
+astidchrist posts ante 2000
+Falcon Oman posts ante 2000
+Xeiis posts ante 2000
+marinejtepin posts ante 2000
+Sensini95 posts ante 2000
+P1xel7 posts small blind 8000
+waren290 posts big blind 16000
+Dealt to P1xel7 [7d Jd]
+*** PRE-FLOP *** 
+Sensini95 calls 16000
+astidchrist folds
+Falcon Oman calls 4444 and is all-in
+Xeiis folds
+marinejtepin folds
+P1xel7 folds
+waren290 checks
+*** FLOP *** [2c Ts 3d]
+waren290 checks
+Sensini95 checks
+*** TURN *** [2c Ts 3d][5d]
+waren290 checks
+Sensini95 checks
+*** RIVER *** [2c Ts 3d 5d][Jh]
+waren290 bets 16000
+Sensini95 calls 16000
+*** SHOW DOWN ***
+waren290 shows [Qc 9c] (High card : Queen)
+Falcon Oman shows [6c 6d] (One pair : 6)
+Sensini95 shows [As 5h] (One pair : 5)
+Sensini95 collected 58668 from side pot 1
+Falcon Oman collected 31776 from main pot
+*** SUMMARY ***
+Total pot 90444 | No rake
+Board: [2c Ts 3d 5d Jh]
+Seat 3: Falcon Oman showed [6c 6d] and won 31776 with One pair : 6
+Seat 7: waren290 (big blind) showed [Qc 9c] and lost with High card : Queen
+Seat 8: Sensini95 showed [As 5h] and won 58668 with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 26 - HandId: #3248552575082954789-60-1710609644 - Holdem no limit (2000/8000/16000) - 2024/03/16 17:20:44 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: bm0851 (306411)
+Seat 2: astidchrist (67194)
+Seat 3: Falcon Oman (31776)
+Seat 4: Xeiis (446010)
+Seat 5: marinejtepin (15951)
+Seat 6: P1xel7 (489582)
+Seat 7: waren290 (209737)
+Seat 8: Sensini95 (170094)
+*** ANTE/BLINDS ***
+waren290 posts ante 2000
+Sensini95 posts ante 2000
+bm0851 posts ante 2000
+astidchrist posts ante 2000
+Falcon Oman posts ante 2000
+Xeiis posts ante 2000
+marinejtepin posts ante 2000
+P1xel7 posts ante 2000
+waren290 posts small blind 8000
+Sensini95 posts big blind 16000
+Dealt to P1xel7 [8s 2h]
+*** PRE-FLOP *** 
+bm0851 calls 16000
+astidchrist raises 49194 to 65194 and is all-in
+Falcon Oman folds
+Xeiis calls 65194
+marinejtepin folds
+P1xel7 folds
+waren290 folds
+Sensini95 folds
+bm0851 calls 49194
+*** FLOP *** [7c 2d 3h]
+bm0851 checks
+Xeiis bets 58896
+bm0851 raises 180321 to 239217 and is all-in
+Xeiis calls 180321
+*** TURN *** [7c 2d 3h][Jd]
+*** RIVER *** [7c 2d 3h Jd][Ah]
+*** SHOW DOWN ***
+bm0851 shows [6d 8d] (High card : Ace)
+astidchrist shows [9h 9c] (One pair : 9)
+Xeiis shows [Ad Ac] (Trips of Aces)
+Xeiis collected 714016 from pot
+*** SUMMARY ***
+Total pot 714016 | No rake
+Board: [7c 2d 3h Jd Ah]
+Seat 1: bm0851 showed [6d 8d] and lost with High card : Ace
+Seat 2: astidchrist showed [9h 9c] and lost with One pair : 9
+Seat 4: Xeiis showed [Ad Ac] and won 714016 with Trips of Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 26 - HandId: #3248552575082954789-61-1710609711 - Holdem no limit (2000/8000/16000) - 2024/03/16 17:21:51 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #7 is the button
+Seat 3: Falcon Oman (29776)
+Seat 4: Xeiis (853615)
+Seat 5: marinejtepin (13951)
+Seat 6: P1xel7 (487582)
+Seat 7: waren290 (199737)
+Seat 8: Sensini95 (152094)
+*** ANTE/BLINDS ***
+Sensini95 posts ante 2000
+Falcon Oman posts ante 2000
+Xeiis posts ante 2000
+marinejtepin posts ante 2000
+P1xel7 posts ante 2000
+waren290 posts ante 2000
+Sensini95 posts small blind 8000
+Falcon Oman posts big blind 16000
+Dealt to P1xel7 [Th Jh]
+*** PRE-FLOP *** 
+Xeiis folds
+marinejtepin folds
+P1xel7 raises 16000 to 32000
+waren290 folds
+Sensini95 folds
+Falcon Oman calls 11776 and is all-in
+*** FLOP *** [6h 2d 2s]
+*** TURN *** [6h 2d 2s][5h]
+*** RIVER *** [6h 2d 2s 5h][3s]
+*** SHOW DOWN ***
+Falcon Oman shows [9s Ac] (One pair : 2)
+P1xel7 shows [Th Jh] (One pair : 2)
+P1xel7 collected 4224 from side pot 1
+Falcon Oman collected 75552 from main pot
+*** SUMMARY ***
+Total pot 79776 | No rake
+Board: [6h 2d 2s 5h 3s]
+Seat 3: Falcon Oman (big blind) showed [9s Ac] and won 75552 with One pair : 2
+Seat 6: P1xel7 showed [Th Jh] and won 4224 with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 27 - HandId: #3248552575082954789-62-1710609748 - Holdem no limit (2500/10000/20000) - 2024/03/16 17:22:28 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: gyzmo42 (41580)
+Seat 3: Falcon Oman (75552)
+Seat 4: Xeiis (851615)
+Seat 5: marinejtepin (11951)
+Seat 6: P1xel7 (457806)
+Seat 7: waren290 (197737)
+Seat 8: Sensini95 (142094)
+*** ANTE/BLINDS ***
+Falcon Oman posts ante 2500
+Xeiis posts ante 2500
+marinejtepin posts ante 2500
+P1xel7 posts ante 2500
+waren290 posts ante 2500
+Sensini95 posts ante 2500
+Falcon Oman posts small blind 10000
+Xeiis posts big blind 20000
+Dealt to P1xel7 [7h 4s]
+*** PRE-FLOP *** 
+marinejtepin folds
+P1xel7 folds
+waren290 folds
+Sensini95 raises 119594 to 139594 and is all-in
+Falcon Oman folds
+Xeiis folds
+Sensini95 collected 184594 from pot
+*** SUMMARY ***
+Total pot 184594 | No rake
+Seat 8: Sensini95 (button) won 184594
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 27 - HandId: #3248552575082954789-63-1710609777 - Holdem no limit (2500/10000/20000) - 2024/03/16 17:22:57 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #3 is the button
+Seat 1: gyzmo42 (41580)
+Seat 2: 13achille13 (366325)
+Seat 3: Falcon Oman (63052)
+Seat 4: Xeiis (829115)
+Seat 5: marinejtepin (9451)
+Seat 6: P1xel7 (455306)
+Seat 7: waren290 (195237)
+Seat 8: Sensini95 (184594)
+*** ANTE/BLINDS ***
+Xeiis posts ante 2500
+marinejtepin posts ante 2500
+gyzmo42 posts ante 2500
+13achille13 posts ante 2500
+Falcon Oman posts ante 2500
+P1xel7 posts ante 2500
+waren290 posts ante 2500
+Sensini95 posts ante 2500
+Xeiis posts small blind 10000
+marinejtepin posts big blind 6951 and is all-in
+Dealt to P1xel7 [3d 2d]
+*** PRE-FLOP *** 
+P1xel7 folds
+waren290 folds
+Sensini95 folds
+gyzmo42 folds
+13achille13 folds
+Falcon Oman folds
+*** FLOP *** [As 5h 7s]
+*** TURN *** [As 5h 7s][9d]
+*** RIVER *** [As 5h 7s 9d][3s]
+*** SHOW DOWN ***
+Xeiis shows [Tc 8c] (High card : Ace)
+marinejtepin shows [Js Ts] (Flush Ace high)
+marinejtepin collected 33902 from main pot
+Xeiis collected 3049 from side pot 1
+*** SUMMARY ***
+Total pot 36951 | No rake
+Board: [As 5h 7s 9d 3s]
+Seat 4: Xeiis (small blind) showed [Tc 8c] and won 3049 with High card : Ace
+Seat 5: marinejtepin (big blind) showed [Js Ts] and won 33902 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 27 - HandId: #3248552575082954789-64-1710609813 - Holdem no limit (2500/10000/20000) - 2024/03/16 17:23:33 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: gyzmo42 (39080)
+Seat 2: 13achille13 (363825)
+Seat 3: Falcon Oman (60552)
+Seat 4: Xeiis (819664)
+Seat 5: marinejtepin (33902)
+Seat 6: P1xel7 (452806)
+Seat 7: waren290 (192737)
+Seat 8: Sensini95 (182094)
+*** ANTE/BLINDS ***
+marinejtepin posts ante 2500
+P1xel7 posts ante 2500
+gyzmo42 posts ante 2500
+13achille13 posts ante 2500
+Falcon Oman posts ante 2500
+Xeiis posts ante 2500
+waren290 posts ante 2500
+Sensini95 posts ante 2500
+marinejtepin posts small blind 10000
+P1xel7 posts big blind 20000
+Dealt to P1xel7 [Ah 3h]
+*** PRE-FLOP *** 
+waren290 raises 170237 to 190237 and is all-in
+Sensini95 folds
+gyzmo42 folds
+13achille13 folds
+Falcon Oman folds
+Xeiis folds
+marinejtepin folds
+P1xel7 calls 170237
+*** FLOP *** [Jh 2s 6s]
+*** TURN *** [Jh 2s 6s][9s]
+*** RIVER *** [Jh 2s 6s 9s][9d]
+*** SHOW DOWN ***
+P1xel7 shows [Ah 3h] (One pair : 9)
+waren290 shows [Qc Ad] (One pair : 9)
+waren290 collected 410474 from pot
+*** SUMMARY ***
+Total pot 410474 | No rake
+Board: [Jh 2s 6s 9s 9d]
+Seat 6: P1xel7 (big blind) showed [Ah 3h] and lost with One pair : 9
+Seat 7: waren290 showed [Qc Ad] and won 410474 with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 28 - HandId: #3248552575082954789-65-1710609863 - Holdem no limit (3000/12500/25000) - 2024/03/16 17:24:23 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #5 is the button
+Seat 1: gyzmo42 (36580)
+Seat 2: 13achille13 (361325)
+Seat 3: Falcon Oman (58052)
+Seat 4: Xeiis (817164)
+Seat 5: marinejtepin (21402)
+Seat 6: P1xel7 (260069)
+Seat 7: waren290 (410474)
+Seat 8: Sensini95 (179594)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 3000
+waren290 posts ante 3000
+gyzmo42 posts ante 3000
+13achille13 posts ante 3000
+Falcon Oman posts ante 3000
+Xeiis posts ante 3000
+marinejtepin posts ante 3000
+Sensini95 posts ante 3000
+P1xel7 posts small blind 12500
+waren290 posts big blind 25000
+Dealt to P1xel7 [7s 9c]
+*** PRE-FLOP *** 
+Sensini95 folds
+gyzmo42 folds
+13achille13 calls 25000
+Falcon Oman folds
+Xeiis folds
+marinejtepin folds
+P1xel7 folds
+waren290 checks
+*** FLOP *** [4s 7d 8h]
+waren290 checks
+13achille13 checks
+*** TURN *** [4s 7d 8h][9d]
+waren290 checks
+13achille13 checks
+*** RIVER *** [4s 7d 8h 9d][Js]
+waren290 checks
+13achille13 checks
+*** SHOW DOWN ***
+13achille13 shows [2h Ad] (High card : Ace)
+waren290 shows [As 6s] (High card : Ace)
+waren290 collected 43250 from pot
+13achille13 collected 43250 from pot
+*** SUMMARY ***
+Total pot 86500 | No rake
+Board: [4s 7d 8h 9d Js]
+Seat 2: 13achille13 showed [2h Ad] and won 43250 with High card : Ace
+Seat 7: waren290 (big blind) showed [As 6s] and won 43250 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 28 - HandId: #3248552575082954789-66-1710609914 - Holdem no limit (3000/12500/25000) - 2024/03/16 17:25:14 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: gyzmo42 (33580)
+Seat 2: 13achille13 (376575)
+Seat 3: Falcon Oman (55052)
+Seat 4: Xeiis (814164)
+Seat 5: marinejtepin (18402)
+Seat 6: P1xel7 (244569)
+Seat 7: waren290 (425724)
+Seat 8: Sensini95 (176594)
+*** ANTE/BLINDS ***
+waren290 posts ante 3000
+Sensini95 posts ante 3000
+gyzmo42 posts ante 3000
+13achille13 posts ante 3000
+Falcon Oman posts ante 3000
+Xeiis posts ante 3000
+marinejtepin posts ante 3000
+P1xel7 posts ante 3000
+waren290 posts small blind 12500
+Sensini95 posts big blind 25000
+Dealt to P1xel7 [6c 3h]
+*** PRE-FLOP *** 
+gyzmo42 folds
+13achille13 folds
+Falcon Oman folds
+Xeiis folds
+marinejtepin folds
+P1xel7 folds
+waren290 calls 12500
+Sensini95 checks
+*** FLOP *** [Ac 7s 8s]
+waren290 checks
+Sensini95 checks
+*** TURN *** [Ac 7s 8s][Tc]
+waren290 checks
+Sensini95 bets 25000
+waren290 calls 25000
+*** RIVER *** [Ac 7s 8s Tc][4s]
+waren290 bets 25000
+Sensini95 calls 25000
+*** SHOW DOWN ***
+waren290 shows [Ks Jd] (High card : Ace)
+Sensini95 shows [4c 9d] (One pair : 4)
+Sensini95 collected 174000 from pot
+*** SUMMARY ***
+Total pot 174000 | No rake
+Board: [Ac 7s 8s Tc 4s]
+Seat 7: waren290 (small blind) showed [Ks Jd] and lost with High card : Ace
+Seat 8: Sensini95 (big blind) showed [4c 9d] and won 174000 with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 28 - HandId: #3248552575082954789-67-1710609980 - Holdem no limit (3000/12500/25000) - 2024/03/16 17:26:20 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #7 is the button
+Seat 1: gyzmo42 (30580)
+Seat 2: 13achille13 (373575)
+Seat 3: Falcon Oman (52052)
+Seat 4: Xeiis (811164)
+Seat 5: marinejtepin (15402)
+Seat 6: P1xel7 (241569)
+Seat 7: waren290 (347724)
+Seat 8: Sensini95 (272594)
+*** ANTE/BLINDS ***
+Sensini95 posts ante 3000
+gyzmo42 posts ante 3000
+13achille13 posts ante 3000
+Falcon Oman posts ante 3000
+Xeiis posts ante 3000
+marinejtepin posts ante 3000
+P1xel7 posts ante 3000
+waren290 posts ante 3000
+Sensini95 posts small blind 12500
+gyzmo42 posts big blind 25000
+Dealt to P1xel7 [2h 9c]
+*** PRE-FLOP *** 
+13achille13 folds
+Falcon Oman folds
+Xeiis folds
+marinejtepin folds
+P1xel7 folds
+waren290 calls 25000
+Sensini95 calls 12500
+gyzmo42 checks
+*** FLOP *** [7h Ac Ts]
+Sensini95 checks
+gyzmo42 checks
+waren290 checks
+*** TURN *** [7h Ac Ts][6d]
+Sensini95 bets 25000
+gyzmo42 folds
+waren290 raises 35900 to 60900
+Sensini95 calls 35900
+*** RIVER *** [7h Ac Ts 6d][5h]
+Sensini95 bets 77280
+waren290 calls 77280
+*** SHOW DOWN ***
+Sensini95 shows [7d Th] (Two pairs : Tens and 7)
+waren290 shows [6h 6c] (Trips of 6)
+waren290 collected 375360 from pot
+*** SUMMARY ***
+Total pot 375360 | No rake
+Board: [7h Ac Ts 6d 5h]
+Seat 7: waren290 (button) showed [6h 6c] and won 375360 with Trips of 6
+Seat 8: Sensini95 (small blind) showed [7d Th] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 29 - HandId: #3248552575082954789-68-1710610089 - Holdem no limit (3500/15000/30000) - 2024/03/16 17:28:09 UTC
+Table: 'Freeroll(756362587)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: gyzmo42 (2580)
+Seat 2: 13achille13 (370575)
+Seat 3: Falcon Oman (49052)
+Seat 4: Xeiis (808164)
+Seat 5: marinejtepin (12402)
+Seat 6: P1xel7 (238569)
+Seat 7: waren290 (556904)
+Seat 8: Sensini95 (106414)
+*** ANTE/BLINDS ***
+gyzmo42 posts ante 2580 and is all-in
+13achille13 posts ante 3500
+Falcon Oman posts ante 3500
+Xeiis posts ante 3500
+marinejtepin posts ante 3500
+P1xel7 posts ante 3500
+waren290 posts ante 3500
+Sensini95 posts ante 3500
+gyzmo42 posts small blind 0 and is all-in
+13achille13 posts big blind 30000
+Dealt to P1xel7 [Jc Qc]
+*** PRE-FLOP *** 
+Falcon Oman folds
+Xeiis folds
+marinejtepin folds
+P1xel7 raises 30000 to 60000
+waren290 folds
+Sensini95 folds
+13achille13 raises 307075 to 367075 and is all-in
+P1xel7 calls 175069 and is all-in
+*** FLOP *** [2c 3c 5d]
+*** TURN *** [2c 3c 5d][Ts]
+*** RIVER *** [2c 3c 5d Ts][8h]
+*** SHOW DOWN ***
+gyzmo42 shows [Ad 9h] (High card : Ace)
+P1xel7 shows [Jc Qc] (High card : Queen)
+13achille13 shows [Kd Ah] (High card : Ace)
+13achille13 collected 629224 from pot
+*** SUMMARY ***
+Total pot 629224 | No rake
+Board: [2c 3c 5d Ts 8h]
+Seat 1: gyzmo42 (small blind) showed [Ad 9h] and lost with High card : Ace
+Seat 2: 13achille13 (big blind) showed [Kd Ah] and won 629224 with High card : Ace
+Seat 6: P1xel7 showed [Jc Qc] and lost with High card : Queen
+
+

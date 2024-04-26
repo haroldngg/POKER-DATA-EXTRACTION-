@@ -1,0 +1,1520 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3263854160579134148-1-1711397865 - Holdem no limit (25/100/200) - 2024/03/25 20:17:45 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #1 is the button
+Seat 1: .Toscano (20000)
+Seat 2: lagunilla198 (19775)
+Seat 3: l.laub (20000)
+Seat 4: JAROD1958 (20000)
+Seat 5: P1xel7 (20000)
+Seat 6: CP_Joker10 (20000)
+Seat 7: sully00 (20000)
+Seat 8: mohaki94 (20000)
+*** ANTE/BLINDS ***
+l.laub posts ante 25
+JAROD1958 posts ante 25
+.Toscano posts ante 25
+P1xel7 posts ante 25
+l.laub posts small blind 100
+JAROD1958 posts big blind 200
+Dealt to P1xel7 [Jh Kd]
+*** PRE-FLOP *** 
+P1xel7 raises 200 to 400
+.Toscano calls 400
+l.laub calls 300
+JAROD1958 calls 200
+*** FLOP *** [8s Qs 7d]
+l.laub checks
+JAROD1958 checks
+P1xel7 checks
+.Toscano checks
+*** TURN *** [8s Qs 7d][4c]
+l.laub checks
+JAROD1958 checks
+P1xel7 checks
+.Toscano bets 850
+l.laub folds
+JAROD1958 calls 850
+P1xel7 folds
+*** RIVER *** [8s Qs 7d 4c][7h]
+JAROD1958 checks
+.Toscano checks
+*** SHOW DOWN ***
+.Toscano shows [8c Td] (Two pairs : 8 and 7)
+JAROD1958 shows [8h Ac] (Two pairs : 8 and 7)
+JAROD1958 collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Board: [8s Qs 7d 4c 7h]
+Seat 1: .Toscano (button) showed [8c Td] and lost with Two pairs : 8 and 7
+Seat 4: JAROD1958 (big blind) showed [8h Ac] and won 3400 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3263854160579134148-2-1711397934 - Holdem no limit (25/100/200) - 2024/03/25 20:18:54 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #3 is the button
+Seat 1: .Toscano (18725)
+Seat 2: lagunilla198 (19775)
+Seat 3: l.laub (19575)
+Seat 4: JAROD1958 (22125)
+Seat 5: P1xel7 (19575)
+Seat 6: CP_Joker10 (20000)
+Seat 7: sully00 (20000)
+Seat 8: mohaki94 (20000)
+*** ANTE/BLINDS ***
+JAROD1958 posts ante 25
+P1xel7 posts ante 25
+.Toscano posts ante 25
+lagunilla198 posts ante 25
+l.laub posts ante 25
+CP_Joker10 posts ante 25
+sully00 posts ante 25
+mohaki94 posts ante 25
+JAROD1958 posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [7d 4h]
+*** PRE-FLOP *** 
+CP_Joker10 folds
+sully00 folds
+mohaki94 folds
+.Toscano calls 200
+lagunilla198 calls 200
+l.laub calls 200
+JAROD1958 calls 100
+P1xel7 checks
+*** FLOP *** [Ad Tc 8c]
+JAROD1958 checks
+P1xel7 checks
+.Toscano checks
+lagunilla198 checks
+l.laub checks
+*** TURN *** [Ad Tc 8c][9d]
+JAROD1958 checks
+P1xel7 checks
+.Toscano checks
+lagunilla198 bets 1200
+l.laub calls 1200
+JAROD1958 calls 1200
+P1xel7 folds
+.Toscano calls 1200
+*** RIVER *** [Ad Tc 8c 9d][4s]
+JAROD1958 checks
+.Toscano checks
+lagunilla198 bets 6000
+l.laub folds
+JAROD1958 folds
+.Toscano folds
+lagunilla198 collected 12000 from pot
+*** SUMMARY ***
+Total pot 12000 | No rake
+Board: [Ad Tc 8c 9d 4s]
+Seat 2: lagunilla198 won 12000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3263854160579134148-3-1711398097 - Holdem no limit (25/100/200) - 2024/03/25 20:21:37 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #4 is the button
+Seat 1: .Toscano (17300)
+Seat 2: lagunilla198 (24350)
+Seat 3: l.laub (18150)
+Seat 4: JAROD1958 (20700)
+Seat 5: P1xel7 (19350)
+Seat 6: CP_Joker10 (19975)
+Seat 7: sully00 (19975)
+Seat 8: mohaki94 (19975)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+CP_Joker10 posts ante 25
+.Toscano posts ante 25
+lagunilla198 posts ante 25
+l.laub posts ante 25
+JAROD1958 posts ante 25
+sully00 posts ante 25
+mohaki94 posts ante 25
+P1xel7 posts small blind 100
+CP_Joker10 posts big blind 200
+Dealt to P1xel7 [5h 3s]
+*** PRE-FLOP *** 
+sully00 folds
+mohaki94 folds
+.Toscano calls 200
+lagunilla198 calls 200
+l.laub folds
+JAROD1958 calls 200
+P1xel7 folds
+CP_Joker10 checks
+*** FLOP *** [2c 6d 7s]
+CP_Joker10 bets 200
+.Toscano calls 200
+lagunilla198 folds
+JAROD1958 calls 200
+*** TURN *** [2c 6d 7s][7c]
+CP_Joker10 bets 595
+.Toscano calls 595
+JAROD1958 calls 595
+*** RIVER *** [2c 6d 7s 7c][As]
+CP_Joker10 bets 1220
+.Toscano folds
+JAROD1958 calls 1220
+*** SHOW DOWN ***
+CP_Joker10 shows [6c 9s] (Two pairs : 7 and 6)
+JAROD1958 shows [8s 8h] (Two pairs : 8 and 7)
+JAROD1958 collected 5925 from pot
+*** SUMMARY ***
+Total pot 5925 | No rake
+Board: [2c 6d 7s 7c As]
+Seat 4: JAROD1958 (button) showed [8s 8h] and won 5925 with Two pairs : 8 and 7
+Seat 6: CP_Joker10 (big blind) showed [6c 9s] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3263854160579134148-4-1711398200 - Holdem no limit (25/100/200) - 2024/03/25 20:23:20 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #5 is the button
+Seat 1: .Toscano (16280)
+Seat 2: lagunilla198 (24125)
+Seat 3: l.laub (18125)
+Seat 4: JAROD1958 (24385)
+Seat 5: P1xel7 (19225)
+Seat 6: CP_Joker10 (17735)
+Seat 7: sully00 (19950)
+Seat 8: mohaki94 (19950)
+*** ANTE/BLINDS ***
+CP_Joker10 posts ante 25
+sully00 posts ante 25
+.Toscano posts ante 25
+lagunilla198 posts ante 25
+l.laub posts ante 25
+JAROD1958 posts ante 25
+P1xel7 posts ante 25
+mohaki94 posts ante 25
+CP_Joker10 posts small blind 100
+sully00 posts big blind 200
+Dealt to P1xel7 [6s 3d]
+*** PRE-FLOP *** 
+mohaki94 folds
+.Toscano calls 200
+lagunilla198 folds
+l.laub raises 400 to 600
+JAROD1958 folds
+P1xel7 folds
+CP_Joker10 folds
+sully00 calls 400
+.Toscano calls 400
+*** FLOP *** [7s 9h Kc]
+sully00 checks
+.Toscano checks
+l.laub checks
+*** TURN *** [7s 9h Kc][5s]
+sully00 checks
+.Toscano checks
+l.laub checks
+*** RIVER *** [7s 9h Kc 5s][5d]
+sully00 bets 1365
+.Toscano calls 1365
+l.laub folds
+*** SHOW DOWN ***
+.Toscano shows [9d Qs] (Two pairs : 9 and 5)
+sully00 shows [Jd Js] (Two pairs : Jacks and 5)
+sully00 collected 4830 from pot
+*** SUMMARY ***
+Total pot 4830 | No rake
+Board: [7s 9h Kc 5s 5d]
+Seat 1: .Toscano showed [9d Qs] and lost with Two pairs : 9 and 5
+Seat 7: sully00 (big blind) showed [Jd Js] and won 4830 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3263854160579134148-5-1711398295 - Holdem no limit (25/100/200) - 2024/03/25 20:24:55 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #6 is the button
+Seat 1: .Toscano (14290)
+Seat 2: lagunilla198 (24100)
+Seat 3: l.laub (17500)
+Seat 4: JAROD1958 (24360)
+Seat 5: P1xel7 (19200)
+Seat 6: CP_Joker10 (17610)
+Seat 7: sully00 (22790)
+Seat 8: mohaki94 (19925)
+*** ANTE/BLINDS ***
+sully00 posts ante 25
+mohaki94 posts ante 25
+.Toscano posts ante 25
+lagunilla198 posts ante 25
+l.laub posts ante 25
+JAROD1958 posts ante 25
+P1xel7 posts ante 25
+CP_Joker10 posts ante 25
+sully00 posts small blind 100
+mohaki94 posts big blind 200
+Dealt to P1xel7 [2d Td]
+*** PRE-FLOP *** 
+.Toscano calls 200
+lagunilla198 raises 900 to 1100
+l.laub calls 1100
+JAROD1958 folds
+P1xel7 folds
+CP_Joker10 raises 1650 to 2750
+sully00 calls 2650
+mohaki94 folds
+.Toscano folds
+lagunilla198 raises 9950 to 12700
+l.laub raises 4775 to 17475 and is all-in
+CP_Joker10 raises 110 to 17585 and is all-in
+sully00 folds
+lagunilla198 calls 4885
+*** FLOP *** [4d Qc Kd]
+*** TURN *** [4d Qc Kd][3d]
+*** RIVER *** [4d Qc Kd 3d][Jc]
+*** SHOW DOWN ***
+lagunilla198 shows [Qd 5s] (One pair : Queens)
+l.laub shows [8s Ah] (High card : Ace)
+CP_Joker10 shows [Qh Qs] (Trips of Queens)
+CP_Joker10 collected 55995 from pot
+*** SUMMARY ***
+Total pot 55995 | No rake
+Board: [4d Qc Kd 3d Jc]
+Seat 2: lagunilla198 showed [Qd 5s] and lost with One pair : Queens
+Seat 3: l.laub showed [8s Ah] and lost with High card : Ace
+Seat 6: CP_Joker10 (button) showed [Qh Qs] and won 55995 with Trips of Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3263854160579134148-6-1711398383 - Holdem no limit (25/100/200) - 2024/03/25 20:26:23 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #7 is the button
+Seat 1: .Toscano (14065)
+Seat 2: lagunilla198 (6490)
+Seat 4: JAROD1958 (24335)
+Seat 5: P1xel7 (19175)
+Seat 6: CP_Joker10 (55995)
+Seat 7: sully00 (20015)
+Seat 8: mohaki94 (19700)
+*** ANTE/BLINDS ***
+mohaki94 posts ante 25
+.Toscano posts ante 25
+lagunilla198 posts ante 25
+JAROD1958 posts ante 25
+P1xel7 posts ante 25
+CP_Joker10 posts ante 25
+sully00 posts ante 25
+mohaki94 posts small blind 100
+.Toscano posts big blind 200
+Dealt to P1xel7 [Ac 8d]
+*** PRE-FLOP *** 
+lagunilla198 folds
+JAROD1958 calls 200
+P1xel7 folds
+CP_Joker10 folds
+sully00 folds
+mohaki94 folds
+.Toscano raises 675 to 875
+JAROD1958 calls 675
+*** FLOP *** [Qh As 2s]
+.Toscano bets 2025
+JAROD1958 calls 2025
+*** TURN *** [Qh As 2s][3d]
+.Toscano bets 6075
+JAROD1958 raises 15335 to 21410 and is all-in
+.Toscano calls 5065 and is all-in
+*** RIVER *** [Qh As 2s 3d][Kh]
+*** SHOW DOWN ***
+.Toscano shows [9h 9d] (One pair : 9)
+JAROD1958 shows [2h Ad] (Two pairs : Aces and 2)
+JAROD1958 collected 38625 from pot
+*** SUMMARY ***
+Total pot 38625 | No rake
+Board: [Qh As 2s 3d Kh]
+Seat 1: .Toscano (big blind) showed [9h 9d] and lost with One pair : 9
+Seat 4: JAROD1958 showed [2h Ad] and won 38625 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3263854160579134148-7-1711398442 - Holdem no limit (25/100/200) - 2024/03/25 20:27:22 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #8 is the button
+Seat 2: lagunilla198 (6465)
+Seat 3: MIRAGE 27 (20000)
+Seat 4: JAROD1958 (38625)
+Seat 5: P1xel7 (19150)
+Seat 6: CP_Joker10 (55970)
+Seat 7: sully00 (19990)
+Seat 8: mohaki94 (19575)
+*** ANTE/BLINDS ***
+lagunilla198 posts ante 25
+MIRAGE 27 posts ante 25
+JAROD1958 posts ante 25
+P1xel7 posts ante 25
+CP_Joker10 posts ante 25
+sully00 posts ante 25
+mohaki94 posts ante 25
+lagunilla198 posts big blind 200
+Dealt to P1xel7 [3d 2d]
+*** PRE-FLOP *** 
+MIRAGE 27 folds
+JAROD1958 folds
+P1xel7 folds
+CP_Joker10 folds
+sully00 calls 200
+mohaki94 folds
+lagunilla198 checks
+*** FLOP *** [9d 6s 9h]
+lagunilla198 checks
+sully00 bets 200
+lagunilla198 folds
+sully00 collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | No rake
+Board: [9d 6s 9h]
+Seat 7: sully00 won 775
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3263854160579134148-8-1711398466 - Holdem no limit (25/100/200) - 2024/03/25 20:27:46 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #1 is the button
+Seat 2: lagunilla198 (6240)
+Seat 3: MIRAGE 27 (19975)
+Seat 4: JAROD1958 (38600)
+Seat 5: P1xel7 (19125)
+Seat 6: CP_Joker10 (55945)
+Seat 7: sully00 (20340)
+Seat 8: mohaki94 (19550)
+*** ANTE/BLINDS ***
+lagunilla198 posts ante 25
+MIRAGE 27 posts ante 25
+JAROD1958 posts ante 25
+P1xel7 posts ante 25
+CP_Joker10 posts ante 25
+sully00 posts ante 25
+mohaki94 posts ante 25
+lagunilla198 posts small blind 100
+MIRAGE 27 posts big blind 200
+Dealt to P1xel7 [Kc Jh]
+*** PRE-FLOP *** 
+JAROD1958 raises 38375 to 38575 and is all-in
+P1xel7 folds
+CP_Joker10 raises 17345 to 55920 and is all-in
+sully00 folds
+mohaki94 calls 19525 and is all-in
+lagunilla198 folds
+MIRAGE 27 folds
+*** FLOP *** [7c Kd 4c]
+*** TURN *** [7c Kd 4c][4d]
+*** RIVER *** [7c Kd 4c 4d][9h]
+*** SHOW DOWN ***
+JAROD1958 shows [Ah Qs] (One pair : 4)
+mohaki94 shows [As 8d] (One pair : 4)
+CP_Joker10 shows [Kh Qc] (Two pairs : Kings and 4)
+CP_Joker10 collected 114495 from pot
+*** SUMMARY ***
+Total pot 114495 | No rake
+Board: [7c Kd 4c 4d 9h]
+Seat 4: JAROD1958 showed [Ah Qs] and lost with One pair : 4
+Seat 6: CP_Joker10 showed [Kh Qc] and won 114495 with Two pairs : Kings and 4
+Seat 8: mohaki94 showed [As 8d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3263854160579134148-9-1711398520 - Holdem no limit (30/125/250) - 2024/03/25 20:28:40 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #2 is the button
+Seat 1: Ticroisse280 (20000)
+Seat 2: lagunilla198 (6115)
+Seat 3: MIRAGE 27 (19750)
+Seat 5: P1xel7 (19100)
+Seat 6: CP_Joker10 (114495)
+Seat 7: sully00 (20315)
+*** ANTE/BLINDS ***
+MIRAGE 27 posts ante 30
+P1xel7 posts ante 30
+Ticroisse280 posts ante 30
+lagunilla198 posts ante 30
+CP_Joker10 posts ante 30
+sully00 posts ante 30
+MIRAGE 27 posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [6d Kd]
+*** PRE-FLOP *** 
+CP_Joker10 folds
+sully00 folds
+Ticroisse280 calls 250
+lagunilla198 folds
+MIRAGE 27 calls 125
+P1xel7 checks
+*** FLOP *** [8h Tc Jh]
+MIRAGE 27 checks
+P1xel7 checks
+Ticroisse280 checks
+*** TURN *** [8h Tc Jh][Th]
+MIRAGE 27 checks
+P1xel7 checks
+Ticroisse280 checks
+*** RIVER *** [8h Tc Jh Th][5h]
+MIRAGE 27 checks
+P1xel7 checks
+Ticroisse280 checks
+*** SHOW DOWN ***
+Ticroisse280 shows [5s 4d] (Two pairs : Tens and 5)
+P1xel7 shows [6d Kd] (One pair : Tens)
+MIRAGE 27 shows [7s 6h] (Flush Jack high)
+MIRAGE 27 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Board: [8h Tc Jh Th 5h]
+Seat 1: Ticroisse280 showed [5s 4d] and lost with Two pairs : Tens and 5
+Seat 3: MIRAGE 27 (small blind) showed [7s 6h] and won 930 with Flush Jack high
+Seat 5: P1xel7 (big blind) showed [6d Kd] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3263854160579134148-10-1711398649 - Holdem no limit (30/125/250) - 2024/03/25 20:30:49 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #3 is the button
+Seat 1: Ticroisse280 (19720)
+Seat 2: lagunilla198 (6085)
+Seat 3: MIRAGE 27 (20400)
+Seat 4: yomaxe (18550)
+Seat 5: P1xel7 (18820)
+Seat 7: sully00 (20285)
+Seat 8: Robi1981 (20000)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+sully00 posts ante 30
+Ticroisse280 posts ante 30
+lagunilla198 posts ante 30
+MIRAGE 27 posts ante 30
+Robi1981 posts ante 30
+P1xel7 posts small blind 125
+sully00 posts big blind 250
+Dealt to P1xel7 [5s 9d]
+*** PRE-FLOP *** 
+Robi1981 raises 19720 to 19970 and is all-in
+Ticroisse280 folds
+lagunilla198 folds
+MIRAGE 27 folds
+P1xel7 folds
+sully00 calls 19720
+*** FLOP *** [6h As 4s]
+*** TURN *** [6h As 4s][Ts]
+*** RIVER *** [6h As 4s Ts][6s]
+*** SHOW DOWN ***
+sully00 shows [3d 5d] (One pair : 6)
+Robi1981 shows [Th 8c] (Two pairs : Tens and 6)
+Robi1981 collected 40245 from pot
+*** SUMMARY ***
+Total pot 40245 | No rake
+Board: [6h As 4s Ts 6s]
+Seat 7: sully00 (big blind) showed [3d 5d] and lost with One pair : 6
+Seat 8: Robi1981 showed [Th 8c] and won 40245 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3263854160579134148-11-1711398693 - Holdem no limit (35/150/300) - 2024/03/25 20:31:33 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #5 is the button
+Seat 1: Ticroisse280 (19690)
+Seat 2: lagunilla198 (6055)
+Seat 3: MIRAGE 27 (20370)
+Seat 4: yomaxe (18550)
+Seat 5: P1xel7 (18665)
+Seat 6: RKChasseur43 (20000)
+Seat 7: sully00 (285)
+Seat 8: Robi1981 (40245)
+*** ANTE/BLINDS ***
+sully00 posts ante 35
+Robi1981 posts ante 35
+Ticroisse280 posts ante 35
+lagunilla198 posts ante 35
+MIRAGE 27 posts ante 35
+yomaxe posts ante 35
+P1xel7 posts ante 35
+sully00 posts small blind 150
+Robi1981 posts big blind 300
+Dealt to P1xel7 [6d 3d]
+*** PRE-FLOP *** 
+Ticroisse280 raises 19355 to 19655 and is all-in
+lagunilla198 folds
+MIRAGE 27 folds
+yomaxe folds
+P1xel7 folds
+sully00 folds
+Robi1981 raises 19355 to 39010
+*** FLOP *** [5s 2s Qc]
+*** TURN *** [5s 2s Qc][Qh]
+*** RIVER *** [5s 2s Qc Qh][Ad]
+*** SHOW DOWN ***
+Ticroisse280 shows [9h Ac] (Two pairs : Aces and Queens)
+Robi1981 shows [6c Kc] (One pair : Queens)
+Robi1981 collected 19355 from side pot 1
+Ticroisse280 collected 39705 from main pot
+*** SUMMARY ***
+Total pot 59060 | No rake
+Board: [5s 2s Qc Qh Ad]
+Seat 1: Ticroisse280 showed [9h Ac] and won 39705 with Two pairs : Aces and Queens
+Seat 8: Robi1981 (big blind) showed [6c Kc] and won 19355 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3263854160579134148-12-1711398755 - Holdem no limit (35/150/300) - 2024/03/25 20:32:35 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #7 is the button
+Seat 1: Ticroisse280 (39705)
+Seat 2: lagunilla198 (6020)
+Seat 3: MIRAGE 27 (20335)
+Seat 4: yomaxe (18515)
+Seat 5: P1xel7 (18630)
+Seat 6: RKChasseur43 (20000)
+Seat 7: sully00 (100)
+Seat 8: Robi1981 (20555)
+*** ANTE/BLINDS ***
+Robi1981 posts ante 35
+Ticroisse280 posts ante 35
+lagunilla198 posts ante 35
+MIRAGE 27 posts ante 35
+yomaxe posts ante 35
+P1xel7 posts ante 35
+RKChasseur43 posts ante 35
+sully00 posts ante 35
+Robi1981 posts small blind 150
+Ticroisse280 posts big blind 300
+Dealt to P1xel7 [3h Qc]
+*** PRE-FLOP *** 
+lagunilla198 folds
+MIRAGE 27 folds
+yomaxe raises 600 to 900
+P1xel7 folds
+RKChasseur43 calls 900
+sully00 folds
+Robi1981 raises 19620 to 20520 and is all-in
+Ticroisse280 folds
+yomaxe folds
+RKChasseur43 calls 19065 and is all-in
+*** FLOP *** [8h Kd 3s]
+*** TURN *** [8h Kd 3s][8c]
+*** RIVER *** [8h Kd 3s 8c][2c]
+*** SHOW DOWN ***
+RKChasseur43 shows [9h 6d] (One pair : 8)
+Robi1981 shows [9d 7s] (One pair : 8)
+Robi1981 collected 41965 from pot
+*** SUMMARY ***
+Total pot 41965 | No rake
+Board: [8h Kd 3s 8c 2c]
+Seat 6: RKChasseur43 showed [9h 6d] and lost with One pair : 8
+Seat 8: Robi1981 (small blind) showed [9d 7s] and won 41965 with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3263854160579134148-13-1711398825 - Holdem no limit (40/175/350) - 2024/03/25 20:33:45 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #8 is the button
+Seat 1: Ticroisse280 (39370)
+Seat 2: lagunilla198 (5985)
+Seat 3: MIRAGE 27 (20300)
+Seat 4: yomaxe (17580)
+Seat 5: P1xel7 (18595)
+Seat 7: sully00 (65)
+Seat 8: Robi1981 (41965)
+*** ANTE/BLINDS ***
+Ticroisse280 posts ante 40
+lagunilla198 posts ante 40
+MIRAGE 27 posts ante 40
+yomaxe posts ante 40
+P1xel7 posts ante 40
+sully00 posts ante 40
+Robi1981 posts ante 40
+Ticroisse280 posts small blind 175
+lagunilla198 posts big blind 350
+Dealt to P1xel7 [Ks 7h]
+*** PRE-FLOP *** 
+MIRAGE 27 folds
+yomaxe raises 525 to 875
+P1xel7 folds
+sully00 folds
+Robi1981 folds
+Ticroisse280 calls 700
+lagunilla198 folds
+*** FLOP *** [6h 3h Ad]
+Ticroisse280 checks
+yomaxe checks
+*** TURN *** [6h 3h Ad][4c]
+Ticroisse280 checks
+yomaxe bets 1225
+Ticroisse280 calls 1225
+*** RIVER *** [6h 3h Ad 4c][9h]
+Ticroisse280 checks
+yomaxe checks
+*** SHOW DOWN ***
+Ticroisse280 shows [Kc 4h] (One pair : 4)
+yomaxe shows [5c 5d] (One pair : 5)
+yomaxe collected 4830 from pot
+*** SUMMARY ***
+Total pot 4830 | No rake
+Board: [6h 3h Ad 4c 9h]
+Seat 1: Ticroisse280 (small blind) showed [Kc 4h] and lost with One pair : 4
+Seat 4: yomaxe showed [5c 5d] and won 4830 with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3263854160579134148-14-1711398878 - Holdem no limit (40/175/350) - 2024/03/25 20:34:38 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #1 is the button
+Seat 1: Ticroisse280 (37230)
+Seat 2: lagunilla198 (5595)
+Seat 3: MIRAGE 27 (20260)
+Seat 4: yomaxe (20270)
+Seat 5: P1xel7 (18555)
+Seat 6: CoursForrest (20000)
+Seat 7: sully00 (25)
+Seat 8: Robi1981 (41925)
+*** ANTE/BLINDS ***
+lagunilla198 posts ante 40
+MIRAGE 27 posts ante 40
+Ticroisse280 posts ante 40
+yomaxe posts ante 40
+P1xel7 posts ante 40
+CoursForrest posts ante 40
+sully00 posts ante 25 and is all-in
+Robi1981 posts ante 40
+lagunilla198 posts small blind 175
+MIRAGE 27 posts big blind 350
+Dealt to P1xel7 [Ts 9s]
+*** PRE-FLOP *** 
+yomaxe folds
+P1xel7 folds
+CoursForrest calls 350
+Robi1981 raises 41535 to 41885 and is all-in
+Ticroisse280 folds
+lagunilla198 folds
+MIRAGE 27 folds
+CoursForrest calls 19610 and is all-in
+*** FLOP *** [Ad 5c Jh]
+*** TURN *** [Ad 5c Jh][Qs]
+*** RIVER *** [Ad 5c Jh Qs][5h]
+*** SHOW DOWN ***
+CoursForrest shows [4h Qc] (Two pairs : Queens and 5)
+sully00 shows [4s Jc] (Two pairs : Jacks and 5)
+Robi1981 shows [Ks Ac] (Two pairs : Aces and 5)
+Robi1981 collected 62675 from pot
+*** SUMMARY ***
+Total pot 62675 | No rake
+Board: [Ad 5c Jh Qs 5h]
+Seat 6: CoursForrest showed [4h Qc] and lost with Two pairs : Queens and 5
+Seat 7: sully00 showed [4s Jc] and lost with Two pairs : Jacks and 5
+Seat 8: Robi1981 showed [Ks Ac] and won 62675 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3263854160579134148-15-1711398939 - Holdem no limit (40/175/350) - 2024/03/25 20:35:39 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #2 is the button
+Seat 1: Ticroisse280 (37190)
+Seat 2: lagunilla198 (5380)
+Seat 3: MIRAGE 27 (19870)
+Seat 4: yomaxe (20230)
+Seat 5: P1xel7 (18515)
+Seat 8: Robi1981 (62675)
+*** ANTE/BLINDS ***
+MIRAGE 27 posts ante 40
+yomaxe posts ante 40
+Ticroisse280 posts ante 40
+lagunilla198 posts ante 40
+P1xel7 posts ante 40
+Robi1981 posts ante 40
+MIRAGE 27 posts small blind 175
+yomaxe posts big blind 350
+Dealt to P1xel7 [9s 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Robi1981 folds
+Ticroisse280 calls 350
+lagunilla198 folds
+MIRAGE 27 calls 175
+yomaxe checks
+*** FLOP *** [6d 2s 8d]
+MIRAGE 27 checks
+yomaxe checks
+Ticroisse280 checks
+*** TURN *** [6d 2s 8d][Qc]
+MIRAGE 27 checks
+yomaxe checks
+Ticroisse280 checks
+*** RIVER *** [6d 2s 8d Qc][Ad]
+MIRAGE 27 checks
+yomaxe bets 1750
+Ticroisse280 folds
+MIRAGE 27 calls 1750
+*** SHOW DOWN ***
+yomaxe shows [Th 4d] (High card : Ace)
+MIRAGE 27 shows [Ac 3c] (One pair : Aces)
+MIRAGE 27 collected 4790 from pot
+*** SUMMARY ***
+Total pot 4790 | No rake
+Board: [6d 2s 8d Qc Ad]
+Seat 3: MIRAGE 27 (small blind) showed [Ac 3c] and won 4790 with One pair : Aces
+Seat 4: yomaxe (big blind) showed [Th 4d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3263854160579134148-16-1711399009 - Holdem no limit (50/200/400) - 2024/03/25 20:36:49 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #3 is the button
+Seat 1: Ticroisse280 (36800)
+Seat 2: lagunilla198 (5340)
+Seat 3: MIRAGE 27 (22520)
+Seat 4: yomaxe (18090)
+Seat 5: P1xel7 (18475)
+Seat 6: LookMyMoon (20000)
+Seat 7: ardu44 (43955)
+Seat 8: Robi1981 (62635)
+*** ANTE/BLINDS ***
+yomaxe posts ante 50
+P1xel7 posts ante 50
+Ticroisse280 posts ante 50
+lagunilla198 posts ante 50
+MIRAGE 27 posts ante 50
+LookMyMoon posts ante 50
+ardu44 posts ante 50
+Robi1981 posts ante 50
+yomaxe posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [8c 5h]
+*** PRE-FLOP *** 
+LookMyMoon raises 19550 to 19950 and is all-in
+ardu44 folds
+Robi1981 folds
+Ticroisse280 folds
+lagunilla198 folds
+MIRAGE 27 folds
+yomaxe folds
+P1xel7 folds
+LookMyMoon collected 20950 from pot
+*** SUMMARY ***
+Total pot 20950 | No rake
+Seat 6: LookMyMoon won 20950
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3263854160579134148-17-1711399042 - Holdem no limit (50/200/400) - 2024/03/25 20:37:22 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #4 is the button
+Seat 1: Ticroisse280 (36750)
+Seat 2: lagunilla198 (5290)
+Seat 3: MIRAGE 27 (22470)
+Seat 4: yomaxe (17840)
+Seat 5: P1xel7 (18025)
+Seat 6: LookMyMoon (20950)
+Seat 7: ardu44 (43905)
+Seat 8: Robi1981 (62585)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+LookMyMoon posts ante 50
+Ticroisse280 posts ante 50
+lagunilla198 posts ante 50
+MIRAGE 27 posts ante 50
+yomaxe posts ante 50
+ardu44 posts ante 50
+Robi1981 posts ante 50
+P1xel7 posts small blind 200
+LookMyMoon posts big blind 400
+Dealt to P1xel7 [Ad Jh]
+*** PRE-FLOP *** 
+ardu44 folds
+Robi1981 raises 400 to 800
+Ticroisse280 folds
+lagunilla198 folds
+MIRAGE 27 folds
+yomaxe calls 800
+P1xel7 calls 600
+LookMyMoon folds
+*** FLOP *** [4d 7h Ah]
+P1xel7 checks
+Robi1981 bets 400
+yomaxe calls 400
+P1xel7 calls 400
+*** TURN *** [4d 7h Ah][7s]
+P1xel7 checks
+Robi1981 checks
+yomaxe checks
+*** RIVER *** [4d 7h Ah 7s][Kc]
+P1xel7 bets 1540
+Robi1981 folds
+yomaxe folds
+P1xel7 collected 5940 from pot
+*** SUMMARY ***
+Total pot 5940 | No rake
+Board: [4d 7h Ah 7s Kc]
+Seat 5: P1xel7 (small blind) won 5940
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3263854160579134148-18-1711399187 - Holdem no limit (60/250/500) - 2024/03/25 20:39:47 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #5 is the button
+Seat 1: Ticroisse280 (36700)
+Seat 2: lagunilla198 (5240)
+Seat 3: MIRAGE 27 (22420)
+Seat 4: yomaxe (16590)
+Seat 5: P1xel7 (21175)
+Seat 6: LookMyMoon (20500)
+Seat 7: ardu44 (43855)
+Seat 8: Robi1981 (61335)
+*** ANTE/BLINDS ***
+LookMyMoon posts ante 60
+ardu44 posts ante 60
+Ticroisse280 posts ante 60
+lagunilla198 posts ante 60
+MIRAGE 27 posts ante 60
+yomaxe posts ante 60
+P1xel7 posts ante 60
+Robi1981 posts ante 60
+LookMyMoon posts small blind 250
+ardu44 posts big blind 500
+Dealt to P1xel7 [9s 8d]
+*** PRE-FLOP *** 
+Robi1981 calls 500
+Ticroisse280 folds
+lagunilla198 folds
+MIRAGE 27 folds
+yomaxe folds
+P1xel7 folds
+LookMyMoon folds
+ardu44 checks
+*** FLOP *** [Js 6h 7h]
+ardu44 bets 43295 and is all-in
+Robi1981 calls 43295
+*** TURN *** [Js 6h 7h][3s]
+*** RIVER *** [Js 6h 7h 3s][Qs]
+*** SHOW DOWN ***
+Robi1981 shows [Kd Jh] (One pair : Jacks)
+ardu44 shows [3h 7s] (Two pairs : 7 and 3)
+ardu44 collected 88320 from pot
+*** SUMMARY ***
+Total pot 88320 | No rake
+Board: [Js 6h 7h 3s Qs]
+Seat 7: ardu44 (big blind) showed [3h 7s] and won 88320 with Two pairs : 7 and 3
+Seat 8: Robi1981 showed [Kd Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3263854160579134148-19-1711399257 - Holdem no limit (70/300/600) - 2024/03/25 20:40:57 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #6 is the button
+Seat 1: Ticroisse280 (36640)
+Seat 2: lagunilla198 (5180)
+Seat 3: MIRAGE 27 (22360)
+Seat 4: yomaxe (16530)
+Seat 5: P1xel7 (21115)
+Seat 6: LookMyMoon (20190)
+Seat 7: ardu44 (88320)
+Seat 8: Robi1981 (17480)
+*** ANTE/BLINDS ***
+ardu44 posts ante 70
+Robi1981 posts ante 70
+Ticroisse280 posts ante 70
+lagunilla198 posts ante 70
+MIRAGE 27 posts ante 70
+yomaxe posts ante 70
+P1xel7 posts ante 70
+LookMyMoon posts ante 70
+ardu44 posts small blind 300
+Robi1981 posts big blind 600
+Dealt to P1xel7 [Jh 2d]
+*** PRE-FLOP *** 
+Ticroisse280 folds
+lagunilla198 folds
+MIRAGE 27 folds
+yomaxe folds
+P1xel7 folds
+LookMyMoon calls 600
+ardu44 folds
+Robi1981 raises 16810 to 17410 and is all-in
+LookMyMoon folds
+Robi1981 collected 18870 from pot
+*** SUMMARY ***
+Total pot 18870 | No rake
+Seat 8: Robi1981 (big blind) won 18870
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3263854160579134148-20-1711399316 - Holdem no limit (70/300/600) - 2024/03/25 20:41:56 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #7 is the button
+Seat 1: Ticroisse280 (36570)
+Seat 2: lagunilla198 (5110)
+Seat 3: MIRAGE 27 (22290)
+Seat 4: yomaxe (16460)
+Seat 5: P1xel7 (21045)
+Seat 6: LookMyMoon (19520)
+Seat 7: ardu44 (87950)
+Seat 8: Robi1981 (18870)
+*** ANTE/BLINDS ***
+Robi1981 posts ante 70
+Ticroisse280 posts ante 70
+lagunilla198 posts ante 70
+MIRAGE 27 posts ante 70
+yomaxe posts ante 70
+P1xel7 posts ante 70
+LookMyMoon posts ante 70
+ardu44 posts ante 70
+Robi1981 posts small blind 300
+Ticroisse280 posts big blind 600
+Dealt to P1xel7 [2h 3c]
+*** PRE-FLOP *** 
+lagunilla198 folds
+MIRAGE 27 folds
+yomaxe calls 600
+P1xel7 folds
+LookMyMoon raises 18850 to 19450 and is all-in
+ardu44 raises 23750 to 43200
+Robi1981 calls 18500 and is all-in
+Ticroisse280 calls 35900 and is all-in
+yomaxe folds
+*** FLOP *** [6d 4s Qs]
+*** TURN *** [6d 4s Qs][9s]
+*** RIVER *** [6d 4s Qs 9s][8s]
+*** SHOW DOWN ***
+LookMyMoon shows [Th Qh] (One pair : Queens)
+Ticroisse280 shows [Kd Ks] (Flush King high)
+ardu44 shows [Ah Qc] (One pair : Queens)
+Robi1981 shows [As 5h] (Flush Ace high)
+Robi1981 collected 76360 from main pot
+ardu44 collected 6700 from side pot 2
+Ticroisse280 collected 36050 from side pot 1
+*** SUMMARY ***
+Total pot 119110 | No rake
+Board: [6d 4s Qs 9s 8s]
+Seat 1: Ticroisse280 (big blind) showed [Kd Ks] and won 36050 with Flush King high
+Seat 6: LookMyMoon showed [Th Qh] and lost with One pair : Queens
+Seat 7: ardu44 (button) showed [Ah Qc] and won 6700 with One pair : Queens
+Seat 8: Robi1981 (small blind) showed [As 5h] and won 76360 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3263854160579134148-21-1711399390 - Holdem no limit (70/300/600) - 2024/03/25 20:43:10 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #8 is the button
+Seat 1: Ticroisse280 (36050)
+Seat 2: lagunilla198 (5040)
+Seat 3: MIRAGE 27 (22220)
+Seat 4: yomaxe (15790)
+Seat 5: P1xel7 (20975)
+Seat 7: ardu44 (51380)
+Seat 8: Robi1981 (76360)
+*** ANTE/BLINDS ***
+Ticroisse280 posts ante 70
+lagunilla198 posts ante 70
+MIRAGE 27 posts ante 70
+yomaxe posts ante 70
+P1xel7 posts ante 70
+ardu44 posts ante 70
+Robi1981 posts ante 70
+Ticroisse280 posts small blind 300
+lagunilla198 posts big blind 600
+Dealt to P1xel7 [8s Ac]
+*** PRE-FLOP *** 
+MIRAGE 27 folds
+yomaxe folds
+P1xel7 raises 600 to 1200
+ardu44 raises 4200 to 5400
+Robi1981 folds
+Ticroisse280 folds
+lagunilla198 folds
+P1xel7 folds
+ardu44 collected 7990 from pot
+*** SUMMARY ***
+Total pot 7990 | No rake
+Seat 7: ardu44 won 7990
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3263854160579134148-22-1711399445 - Holdem no limit (80/350/700) - 2024/03/25 20:44:05 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #1 is the button
+Seat 1: Ticroisse280 (35680)
+Seat 2: lagunilla198 (4370)
+Seat 3: MIRAGE 27 (22150)
+Seat 4: yomaxe (15720)
+Seat 5: P1xel7 (19705)
+Seat 6: valientepokr (20000)
+Seat 7: ardu44 (53900)
+Seat 8: Robi1981 (76290)
+*** ANTE/BLINDS ***
+lagunilla198 posts ante 80
+MIRAGE 27 posts ante 80
+Ticroisse280 posts ante 80
+yomaxe posts ante 80
+P1xel7 posts ante 80
+valientepokr posts ante 80
+ardu44 posts ante 80
+Robi1981 posts ante 80
+lagunilla198 posts small blind 350
+MIRAGE 27 posts big blind 700
+Dealt to P1xel7 [3h Td]
+*** PRE-FLOP *** 
+yomaxe folds
+P1xel7 folds
+valientepokr raises 19220 to 19920 and is all-in
+ardu44 folds
+Robi1981 folds
+Ticroisse280 folds
+lagunilla198 folds
+MIRAGE 27 folds
+valientepokr collected 21610 from pot
+*** SUMMARY ***
+Total pot 21610 | No rake
+Seat 6: valientepokr won 21610
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3263854160579134148-23-1711399504 - Holdem no limit (80/350/700) - 2024/03/25 20:45:04 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #2 is the button
+Seat 1: Ticroisse280 (35600)
+Seat 2: lagunilla198 (3940)
+Seat 3: MIRAGE 27 (21370)
+Seat 4: yomaxe (15640)
+Seat 5: P1xel7 (19625)
+Seat 6: valientepokr (21610)
+Seat 7: ardu44 (53820)
+Seat 8: Robi1981 (76210)
+*** ANTE/BLINDS ***
+MIRAGE 27 posts ante 80
+yomaxe posts ante 80
+Ticroisse280 posts ante 80
+lagunilla198 posts ante 80
+P1xel7 posts ante 80
+valientepokr posts ante 80
+ardu44 posts ante 80
+Robi1981 posts ante 80
+MIRAGE 27 posts small blind 350
+yomaxe posts big blind 700
+Dealt to P1xel7 [5h Qh]
+*** PRE-FLOP *** 
+P1xel7 folds
+valientepokr raises 20830 to 21530 and is all-in
+ardu44 folds
+Robi1981 raises 54600 to 76130 and is all-in
+Ticroisse280 calls 35520 and is all-in
+lagunilla198 folds
+MIRAGE 27 folds
+yomaxe folds
+*** FLOP *** [2h Jc 9d]
+*** TURN *** [2h Jc 9d][Ac]
+*** RIVER *** [2h Jc 9d Ac][4h]
+*** SHOW DOWN ***
+valientepokr shows [8s 9s] (One pair : 9)
+Ticroisse280 shows [Tc Ah] (One pair : Aces)
+Robi1981 shows [Jd Qd] (One pair : Jacks)
+Robi1981 collected 40610 from side pot 1
+Ticroisse280 collected 94260 from main pot
+*** SUMMARY ***
+Total pot 134870 | No rake
+Board: [2h Jc 9d Ac 4h]
+Seat 1: Ticroisse280 showed [Tc Ah] and won 94260 with One pair : Aces
+Seat 6: valientepokr showed [8s 9s] and lost with One pair : 9
+Seat 8: Robi1981 showed [Jd Qd] and won 40610 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3263854160579134148-24-1711399571 - Holdem no limit (100/400/800) - 2024/03/25 20:46:11 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #3 is the button
+Seat 1: Ticroisse280 (94260)
+Seat 2: lagunilla198 (3860)
+Seat 3: MIRAGE 27 (20940)
+Seat 4: yomaxe (14860)
+Seat 5: P1xel7 (19545)
+Seat 7: ardu44 (53740)
+Seat 8: Robi1981 (40610)
+*** ANTE/BLINDS ***
+yomaxe posts ante 100
+P1xel7 posts ante 100
+Ticroisse280 posts ante 100
+lagunilla198 posts ante 100
+MIRAGE 27 posts ante 100
+ardu44 posts ante 100
+Robi1981 posts ante 100
+yomaxe posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [Tc 3c]
+*** PRE-FLOP *** 
+ardu44 folds
+Robi1981 folds
+Ticroisse280 calls 800
+lagunilla198 folds
+MIRAGE 27 calls 800
+yomaxe calls 400
+P1xel7 checks
+*** FLOP *** [3s 8s 7c]
+yomaxe checks
+P1xel7 checks
+Ticroisse280 checks
+MIRAGE 27 checks
+*** TURN *** [3s 8s 7c][4s]
+yomaxe checks
+P1xel7 checks
+Ticroisse280 bets 3900
+MIRAGE 27 folds
+yomaxe folds
+P1xel7 folds
+Ticroisse280 collected 7800 from pot
+*** SUMMARY ***
+Total pot 7800 | No rake
+Board: [3s 8s 7c 4s]
+Seat 1: Ticroisse280 won 7800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3263854160579134148-25-1711399716 - Holdem no limit (120/500/1000) - 2024/03/25 20:48:36 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #4 is the button
+Seat 1: Ticroisse280 (97260)
+Seat 2: lagunilla198 (3760)
+Seat 3: MIRAGE 27 (20040)
+Seat 4: yomaxe (13960)
+Seat 5: P1xel7 (18645)
+Seat 6: leonidas2676 (20000)
+Seat 7: ardu44 (53640)
+Seat 8: Robi1981 (40510)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+leonidas2676 posts ante 120
+Ticroisse280 posts ante 120
+lagunilla198 posts ante 120
+MIRAGE 27 posts ante 120
+yomaxe posts ante 120
+ardu44 posts ante 120
+Robi1981 posts ante 120
+P1xel7 posts small blind 500
+leonidas2676 posts big blind 1000
+Dealt to P1xel7 [8d 4d]
+*** PRE-FLOP *** 
+ardu44 folds
+Robi1981 folds
+Ticroisse280 calls 1000
+lagunilla198 folds
+MIRAGE 27 folds
+yomaxe folds
+P1xel7 folds
+leonidas2676 raises 3460 to 4460
+Ticroisse280 calls 3460
+*** FLOP *** [Qs 9s 2h]
+leonidas2676 bets 6747
+Ticroisse280 calls 6747
+*** TURN *** [Qs 9s 2h][6h]
+leonidas2676 bets 8673 and is all-in
+Ticroisse280 calls 8673
+*** RIVER *** [Qs 9s 2h 6h][Ah]
+*** SHOW DOWN ***
+leonidas2676 shows [8h Ad] (One pair : Aces)
+Ticroisse280 shows [Ac 2c] (Two pairs : Aces and 2)
+Ticroisse280 collected 41220 from pot
+*** SUMMARY ***
+Total pot 41220 | No rake
+Board: [Qs 9s 2h 6h Ah]
+Seat 1: Ticroisse280 showed [Ac 2c] and won 41220 with Two pairs : Aces and 2
+Seat 6: leonidas2676 (big blind) showed [8h Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3263854160579134148-26-1711399794 - Holdem no limit (120/500/1000) - 2024/03/25 20:49:54 UTC
+Table: 'Freeroll(759925265)#0707' 8-max (real money) Seat #5 is the button
+Seat 1: Ticroisse280 (118480)
+Seat 2: lagunilla198 (3640)
+Seat 3: MIRAGE 27 (19920)
+Seat 4: yomaxe (13840)
+Seat 5: P1xel7 (18025)
+Seat 7: ardu44 (53520)
+Seat 8: Robi1981 (40390)
+*** ANTE/BLINDS ***
+ardu44 posts ante 120
+Ticroisse280 posts ante 120
+lagunilla198 posts ante 120
+MIRAGE 27 posts ante 120
+yomaxe posts ante 120
+P1xel7 posts ante 120
+Robi1981 posts ante 120
+ardu44 posts big blind 1000
+Dealt to P1xel7 [4d Ts]
+*** PRE-FLOP *** 
+Robi1981 folds
+Ticroisse280 folds
+lagunilla198 folds
+MIRAGE 27 folds
+yomaxe raises 1000 to 2000
+P1xel7 folds
+ardu44 calls 1000
+*** FLOP *** [5h 5d Tc]
+ardu44 checks
+yomaxe checks
+*** TURN *** [5h 5d Tc][Kc]
+ardu44 checks
+yomaxe bets 3000
+ardu44 folds
+yomaxe collected 7840 from pot
+*** SUMMARY ***
+Total pot 7840 | No rake
+Board: [5h 5d Tc Kc]
+Seat 4: yomaxe won 7840
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3263854160579134044-35-1711399962 - Holdem no limit (140/600/1200) - 2024/03/25 20:52:42 UTC
+Table: 'Freeroll(759925265)#0603' 8-max (real money) Seat #2 is the button
+Seat 1: vao (154052)
+Seat 2: pointer41 (84772)
+Seat 3: Elpescador33 (18355)
+Seat 4: porter0202 (74582)
+Seat 5: Greg 37 Tom (79710)
+Seat 6: migue59500 (79315)
+Seat 7: P1xel7 (17905)
+Seat 8: Karlos_neamt (53550)
+*** ANTE/BLINDS ***
+Elpescador33 posts ante 140
+porter0202 posts ante 140
+vao posts ante 140
+pointer41 posts ante 140
+Greg 37 Tom posts ante 140
+migue59500 posts ante 140
+P1xel7 posts ante 140
+Karlos_neamt posts ante 140
+Elpescador33 posts small blind 600
+porter0202 posts big blind 1200
+Dealt to P1xel7 [4d 7h]
+*** PRE-FLOP *** 
+Greg 37 Tom calls 1200
+migue59500 calls 1200
+P1xel7 folds
+Karlos_neamt folds
+vao calls 1200
+pointer41 folds
+Elpescador33 calls 600
+porter0202 raises 7120 to 8320
+Greg 37 Tom folds
+migue59500 calls 7120
+vao calls 7120
+Elpescador33 folds
+*** FLOP *** [4h 7c Jc]
+porter0202 checks
+migue59500 bets 1200
+vao calls 1200
+porter0202 raises 10448 to 11648
+migue59500 folds
+vao calls 10448
+*** TURN *** [4h 7c Jc][8d]
+porter0202 checks
+vao checks
+*** RIVER *** [4h 7c Jc 8d][Jh]
+porter0202 bets 18542
+vao folds
+porter0202 collected 71518 from pot
+*** SUMMARY ***
+Total pot 71518 | No rake
+Board: [4h 7c Jc 8d Jh]
+Seat 4: porter0202 (big blind) won 71518
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3263854160579134044-36-1711400018 - Holdem no limit (160/700/1400) - 2024/03/25 20:53:38 UTC
+Table: 'Freeroll(759925265)#0603' 8-max (real money) Seat #3 is the button
+Seat 1: vao (133944)
+Seat 2: pointer41 (84632)
+Seat 3: Elpescador33 (17015)
+Seat 4: porter0202 (107450)
+Seat 5: Greg 37 Tom (78370)
+Seat 6: migue59500 (69655)
+Seat 7: P1xel7 (17765)
+Seat 8: Karlos_neamt (53410)
+*** ANTE/BLINDS ***
+porter0202 posts ante 160
+Greg 37 Tom posts ante 160
+vao posts ante 160
+pointer41 posts ante 160
+Elpescador33 posts ante 160
+migue59500 posts ante 160
+P1xel7 posts ante 160
+Karlos_neamt posts ante 160
+porter0202 posts small blind 700
+Greg 37 Tom posts big blind 1400
+Dealt to P1xel7 [Ks 2c]
+*** PRE-FLOP *** 
+migue59500 raises 1400 to 2800
+P1xel7 folds
+Karlos_neamt folds
+vao folds
+pointer41 raises 1400 to 4200
+Elpescador33 folds
+porter0202 folds
+Greg 37 Tom calls 2800
+migue59500 calls 1400
+*** FLOP *** [Kd 9h Qs]
+Greg 37 Tom checks
+migue59500 checks
+pointer41 bets 5103
+Greg 37 Tom calls 5103
+migue59500 folds
+*** TURN *** [Kd 9h Qs][As]
+Greg 37 Tom checks
+pointer41 bets 8675
+Greg 37 Tom calls 8675
+*** RIVER *** [Kd 9h Qs As][Ac]
+Greg 37 Tom checks
+pointer41 bets 14748
+Greg 37 Tom calls 14748
+*** SHOW DOWN ***
+Greg 37 Tom shows [Ts Kc] (Two pairs : Aces and Kings)
+pointer41 shows [Ah Qd] (Full of Aces and Queens)
+pointer41 collected 71632 from pot
+*** SUMMARY ***
+Total pot 71632 | No rake
+Board: [Kd 9h Qs As Ac]
+Seat 2: pointer41 showed [Ah Qd] and won 71632 with Full of Aces and Queens
+Seat 5: Greg 37 Tom (big blind) showed [Ts Kc] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3263854160579134044-37-1711400068 - Holdem no limit (160/700/1400) - 2024/03/25 20:54:28 UTC
+Table: 'Freeroll(759925265)#0603' 8-max (real money) Seat #4 is the button
+Seat 1: vao (133784)
+Seat 2: pointer41 (123378)
+Seat 3: Elpescador33 (16855)
+Seat 4: porter0202 (106590)
+Seat 5: Greg 37 Tom (45484)
+Seat 6: migue59500 (65295)
+Seat 7: P1xel7 (17605)
+Seat 8: Karlos_neamt (53250)
+*** ANTE/BLINDS ***
+Greg 37 Tom posts ante 160
+migue59500 posts ante 160
+vao posts ante 160
+pointer41 posts ante 160
+Elpescador33 posts ante 160
+porter0202 posts ante 160
+P1xel7 posts ante 160
+Karlos_neamt posts ante 160
+Greg 37 Tom posts small blind 700
+migue59500 posts big blind 1400
+Dealt to P1xel7 [9d 2d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Karlos_neamt folds
+vao folds
+pointer41 folds
+Elpescador33 raises 15295 to 16695 and is all-in
+porter0202 folds
+Greg 37 Tom calls 15995
+migue59500 raises 48440 to 65135 and is all-in
+Greg 37 Tom calls 28629 and is all-in
+*** FLOP *** [2c Kd 9s]
+*** TURN *** [2c Kd 9s][9h]
+*** RIVER *** [2c Kd 9s 9h][8c]
+*** SHOW DOWN ***
+Elpescador33 shows [6s 5s] (One pair : 9)
+Greg 37 Tom shows [7s As] (One pair : 9)
+migue59500 shows [Tc Kh] (Two pairs : Kings and 9)
+migue59500 collected 128434 from pot
+*** SUMMARY ***
+Total pot 128434 | No rake
+Board: [2c Kd 9s 9h 8c]
+Seat 3: Elpescador33 showed [6s 5s] and lost with One pair : 9
+Seat 5: Greg 37 Tom (small blind) showed [7s As] and lost with One pair : 9
+Seat 6: migue59500 (big blind) showed [Tc Kh] and won 128434 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3263854160579133965-33-1711400579 - Holdem no limit (200/800/1600) - 2024/03/25 21:02:59 UTC
+Table: 'Freeroll(759925265)#0524' 8-max (real money) Seat #8 is the button
+Seat 1: NanoMegas (10070)
+Seat 2: ToiOuMoi__ (14335)
+Seat 3: MonKeYkong19 (76824)
+Seat 4: Le breton  2 (45256)
+Seat 5: Ambross (75333)
+Seat 6: Khanchela40 (85919)
+Seat 7: P1xel7 (17445)
+Seat 8: missmadz (89567)
+*** ANTE/BLINDS ***
+NanoMegas posts ante 200
+ToiOuMoi__ posts ante 200
+MonKeYkong19 posts ante 200
+Le breton  2 posts ante 200
+Ambross posts ante 200
+Khanchela40 posts ante 200
+P1xel7 posts ante 200
+missmadz posts ante 200
+NanoMegas posts small blind 800
+ToiOuMoi__ posts big blind 1600
+Dealt to P1xel7 [Ks 3h]
+*** PRE-FLOP *** 
+MonKeYkong19 folds
+Le breton  2 folds
+Ambross calls 1600
+Khanchela40 folds
+P1xel7 folds
+missmadz calls 1600
+NanoMegas calls 800
+ToiOuMoi__ folds
+*** FLOP *** [Ad 3s Qs]
+NanoMegas bets 5200
+Ambross calls 5200
+missmadz folds
+*** TURN *** [Ad 3s Qs][2s]
+NanoMegas checks
+Ambross bets 6440
+NanoMegas calls 3070 and is all-in
+*** RIVER *** [Ad 3s Qs 2s][Kc]
+*** SHOW DOWN ***
+NanoMegas shows [Ah 6s] (One pair : Aces)
+Ambross shows [6d Qd] (One pair : Queens)
+Ambross collected 3370 from side pot 1
+NanoMegas collected 24540 from main pot
+*** SUMMARY ***
+Total pot 27910 | No rake
+Board: [Ad 3s Qs 2s Kc]
+Seat 1: NanoMegas (small blind) showed [Ah 6s] and won 24540 with One pair : Aces
+Seat 5: Ambross showed [6d Qd] and won 3370 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3263854160579133965-34-1711400655 - Holdem no limit (200/800/1600) - 2024/03/25 21:04:15 UTC
+Table: 'Freeroll(759925265)#0524' 8-max (real money) Seat #1 is the button
+Seat 1: NanoMegas (24540)
+Seat 2: ToiOuMoi__ (12535)
+Seat 3: MonKeYkong19 (76624)
+Seat 4: Le breton  2 (45056)
+Seat 5: Ambross (65263)
+Seat 6: Khanchela40 (85719)
+Seat 7: P1xel7 (17245)
+Seat 8: missmadz (87767)
+*** ANTE/BLINDS ***
+ToiOuMoi__ posts ante 200
+MonKeYkong19 posts ante 200
+NanoMegas posts ante 200
+Le breton  2 posts ante 200
+Ambross posts ante 200
+Khanchela40 posts ante 200
+P1xel7 posts ante 200
+missmadz posts ante 200
+ToiOuMoi__ posts small blind 800
+MonKeYkong19 posts big blind 1600
+Dealt to P1xel7 [8c 3h]
+*** PRE-FLOP *** 
+Le breton  2 folds
+Ambross folds
+Khanchela40 folds
+P1xel7 folds
+missmadz folds
+NanoMegas calls 1600
+ToiOuMoi__ folds
+MonKeYkong19 checks
+*** FLOP *** [3d 6s 5d]
+MonKeYkong19 checks
+NanoMegas checks
+*** TURN *** [3d 6s 5d][7d]
+MonKeYkong19 checks
+NanoMegas checks
+*** RIVER *** [3d 6s 5d 7d][Ks]
+MonKeYkong19 checks
+NanoMegas checks
+*** SHOW DOWN ***
+NanoMegas shows [Jd Tc] (High card : King)
+MonKeYkong19 shows [2s Ah] (High card : Ace)
+MonKeYkong19 collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | No rake
+Board: [3d 6s 5d 7d Ks]
+Seat 1: NanoMegas (button) showed [Jd Tc] and lost with High card : King
+Seat 3: MonKeYkong19 (big blind) showed [2s Ah] and won 5600 with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3263854160579133496-39-1711400748 - Holdem no limit (250/1000/2000) - 2024/03/25 21:05:48 UTC
+Table: 'Freeroll(759925265)#0055' 8-max (real money) Seat #8 is the button
+Seat 1: Suerte76 (155160)
+Seat 2: guilau_evan (43700)
+Seat 3: adra68zoo2 (55962)
+Seat 4: P1xel7 (17045)
+Seat 5: Chetif Ara12 (148558)
+Seat 6: AAESTEBANAA (11260)
+Seat 7: seppuku66 (302424)
+Seat 8: theweekend (16054)
+*** ANTE/BLINDS ***
+Suerte76 posts ante 250
+guilau_evan posts ante 250
+adra68zoo2 posts ante 250
+P1xel7 posts ante 250
+Chetif Ara12 posts ante 250
+AAESTEBANAA posts ante 250
+seppuku66 posts ante 250
+theweekend posts ante 250
+Suerte76 posts small blind 1000
+guilau_evan posts big blind 2000
+Dealt to P1xel7 [5s As]
+*** PRE-FLOP *** 
+adra68zoo2 folds
+P1xel7 raises 14795 to 16795 and is all-in
+Chetif Ara12 folds
+AAESTEBANAA folds
+seppuku66 calls 16795
+theweekend folds
+Suerte76 folds
+guilau_evan folds
+*** FLOP *** [4c 6s Td]
+*** TURN *** [4c 6s Td][4h]
+*** RIVER *** [4c 6s Td 4h][8h]
+*** SHOW DOWN ***
+P1xel7 shows [5s As] (One pair : 4)
+seppuku66 shows [6h Qh] (Two pairs : 6 and 4)
+seppuku66 collected 38590 from pot
+*** SUMMARY ***
+Total pot 38590 | No rake
+Board: [4c 6s Td 4h 8h]
+Seat 4: P1xel7 showed [5s As] and lost with One pair : 4
+Seat 7: seppuku66 showed [6h Qh] and won 38590 with Two pairs : 6 and 4
+
+

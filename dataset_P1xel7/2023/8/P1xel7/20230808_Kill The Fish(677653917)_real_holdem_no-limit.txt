@@ -1,0 +1,2135 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #2910501411521298448-30-1691517820 - Holdem no limit (30/125/250) - 2023/08/08 18:03:40 UTC
+Table: 'Kill The Fish(677653917)#015' 6-max (real money) Seat #4 is the button
+Seat 1: nathan59150 (21350, 0.11€ bounty)
+Seat 2: 7AMMA (73643, 0.26€ bounty)
+Seat 3: P1xel7 (20000, 0.11€ bounty)
+Seat 4: jeanpiou (18085, 0.11€ bounty)
+Seat 5: jezzz (46702, 0.16€ bounty)
+*** ANTE/BLINDS ***
+jezzz posts ante 30
+nathan59150 posts ante 30
+7AMMA posts ante 30
+P1xel7 posts ante 30
+jeanpiou posts ante 30
+jezzz posts small blind 125
+nathan59150 posts big blind 250
+Dealt to P1xel7 [Qs 4c]
+*** PRE-FLOP *** 
+7AMMA raises 73363 to 73613 and is all-in
+P1xel7 folds
+jeanpiou folds
+jezzz folds
+nathan59150 folds
+7AMMA collected 74138 from pot
+*** SUMMARY ***
+Total pot 74138 | No rake
+Seat 2: 7AMMA won 74138
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #2910501411521298448-31-1691517841 - Holdem no limit (30/125/250) - 2023/08/08 18:04:01 UTC
+Table: 'Kill The Fish(677653917)#015' 6-max (real money) Seat #5 is the button
+Seat 1: nathan59150 (21070, 0.11€ bounty)
+Seat 2: 7AMMA (74138, 0.26€ bounty)
+Seat 3: P1xel7 (19970, 0.11€ bounty)
+Seat 4: jeanpiou (18055, 0.11€ bounty)
+Seat 5: jezzz (46547, 0.16€ bounty)
+*** ANTE/BLINDS ***
+nathan59150 posts ante 30
+7AMMA posts ante 30
+P1xel7 posts ante 30
+jeanpiou posts ante 30
+jezzz posts ante 30
+nathan59150 posts small blind 125
+7AMMA posts big blind 250
+Dealt to P1xel7 [4c 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+jeanpiou folds
+jezzz raises 250 to 500
+nathan59150 calls 375
+7AMMA calls 250
+*** FLOP *** [Td 3c 5h]
+nathan59150 checks
+7AMMA bets 1650
+jezzz folds
+nathan59150 folds
+7AMMA collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [Td 3c 5h]
+Seat 2: 7AMMA (big blind) won 3300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #2910501411521298448-32-1691517896 - Holdem no limit (30/125/250) - 2023/08/08 18:04:56 UTC
+Table: 'Kill The Fish(677653917)#015' 6-max (real money) Seat #1 is the button
+Seat 1: nathan59150 (20540, 0.11€ bounty)
+Seat 2: 7AMMA (75258, 0.26€ bounty)
+Seat 3: P1xel7 (19940, 0.11€ bounty)
+Seat 4: jeanpiou (18025, 0.11€ bounty)
+Seat 5: jezzz (46017, 0.16€ bounty)
+Seat 6: PTITFILOU16 (20000, 0.11€ bounty)
+*** ANTE/BLINDS ***
+7AMMA posts ante 30
+P1xel7 posts ante 30
+nathan59150 posts ante 30
+jeanpiou posts ante 30
+jezzz posts ante 30
+PTITFILOU16 posts ante 30
+7AMMA posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [6d 4c]
+*** PRE-FLOP *** 
+jeanpiou calls 250
+jezzz folds
+PTITFILOU16 calls 250
+nathan59150 folds
+7AMMA calls 125
+P1xel7 checks
+*** FLOP *** [4h Kh Td]
+7AMMA checks
+P1xel7 checks
+jeanpiou checks
+PTITFILOU16 checks
+*** TURN *** [4h Kh Td][5s]
+7AMMA bets 250
+P1xel7 folds
+jeanpiou raises 1005 to 1255
+PTITFILOU16 folds
+7AMMA folds
+jeanpiou collected 2685 from pot
+*** SUMMARY ***
+Total pot 2685 | No rake
+Board: [4h Kh Td 5s]
+Seat 4: jeanpiou won 2685
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #2910501411521298448-33-1691517963 - Holdem no limit (35/150/300) - 2023/08/08 18:06:03 UTC
+Table: 'Kill The Fish(677653917)#015' 6-max (real money) Seat #2 is the button
+Seat 1: nathan59150 (20510, 0.11€ bounty)
+Seat 2: 7AMMA (74728, 0.26€ bounty)
+Seat 3: P1xel7 (19660, 0.11€ bounty)
+Seat 4: jeanpiou (19175, 0.11€ bounty)
+Seat 5: jezzz (45987, 0.16€ bounty)
+Seat 6: PTITFILOU16 (19720, 0.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+jeanpiou posts ante 35
+nathan59150 posts ante 35
+7AMMA posts ante 35
+jezzz posts ante 35
+PTITFILOU16 posts ante 35
+P1xel7 posts small blind 150
+jeanpiou posts big blind 300
+Dealt to P1xel7 [Qh 4h]
+*** PRE-FLOP *** 
+jezzz raises 300 to 600
+PTITFILOU16 calls 600
+nathan59150 calls 600
+7AMMA folds
+P1xel7 folds
+jeanpiou calls 300
+*** FLOP *** [Th 9c 4s]
+jeanpiou checks
+jezzz checks
+PTITFILOU16 checks
+nathan59150 checks
+*** TURN *** [Th 9c 4s][4c]
+jeanpiou checks
+jezzz bets 966
+PTITFILOU16 raises 966 to 1932
+nathan59150 folds
+jeanpiou folds
+jezzz folds
+PTITFILOU16 collected 5658 from pot
+*** SUMMARY ***
+Total pot 5658 | No rake
+Board: [Th 9c 4s 4c]
+Seat 6: PTITFILOU16 won 5658
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #2910501411521298448-34-1691518061 - Holdem no limit (35/150/300) - 2023/08/08 18:07:41 UTC
+Table: 'Kill The Fish(677653917)#015' 6-max (real money) Seat #3 is the button
+Seat 1: nathan59150 (19875, 0.11€ bounty)
+Seat 2: 7AMMA (74693, 0.26€ bounty)
+Seat 3: P1xel7 (19475, 0.11€ bounty)
+Seat 4: jeanpiou (18540, 0.11€ bounty)
+Seat 5: jezzz (44386, 0.16€ bounty)
+Seat 6: PTITFILOU16 (22811, 0.11€ bounty)
+*** ANTE/BLINDS ***
+jeanpiou posts ante 35
+jezzz posts ante 35
+nathan59150 posts ante 35
+7AMMA posts ante 35
+P1xel7 posts ante 35
+PTITFILOU16 posts ante 35
+jeanpiou posts small blind 150
+jezzz posts big blind 300
+Dealt to P1xel7 [Th Js]
+*** PRE-FLOP *** 
+PTITFILOU16 folds
+nathan59150 folds
+7AMMA calls 300
+P1xel7 raises 900 to 1200
+jeanpiou folds
+jezzz calls 900
+7AMMA calls 900
+*** FLOP *** [Ts 4d 4h]
+jezzz checks
+7AMMA checks
+P1xel7 bets 1980
+jezzz calls 1980
+7AMMA folds
+*** TURN *** [Ts 4d 4h][Jd]
+jezzz checks
+P1xel7 bets 2100
+jezzz raises 2100 to 4200
+P1xel7 calls 2100
+*** RIVER *** [Ts 4d 4h Jd][Qh]
+jezzz bets 10608
+P1xel7 calls 10608
+*** SHOW DOWN ***
+P1xel7 shows [Th Js] (Two pairs : Jacks and Tens)
+jezzz shows [4c 4s] (Quads of 4)
+jezzz collected 37536 from pot
+*** SUMMARY ***
+Total pot 37536 | No rake
+Board: [Ts 4d 4h Jd Qh]
+Seat 3: P1xel7 (button) showed [Th Js] and lost with Two pairs : Jacks and Tens
+Seat 5: jezzz (big blind) showed [4c 4s] and won 37536 with Quads of 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #2910501411521298448-35-1691518210 - Holdem no limit (35/150/300) - 2023/08/08 18:10:10 UTC
+Table: 'Kill The Fish(677653917)#015' 6-max (real money) Seat #4 is the button
+Seat 1: nathan59150 (19840, 0.11€ bounty)
+Seat 2: 7AMMA (73458, 0.26€ bounty)
+Seat 3: P1xel7 (1452, 0.11€ bounty)
+Seat 4: jeanpiou (18355, 0.11€ bounty)
+Seat 5: jezzz (63899, 0.16€ bounty)
+Seat 6: PTITFILOU16 (22776, 0.11€ bounty)
+*** ANTE/BLINDS ***
+jezzz posts ante 35
+PTITFILOU16 posts ante 35
+nathan59150 posts ante 35
+7AMMA posts ante 35
+P1xel7 posts ante 35
+jeanpiou posts ante 35
+jezzz posts small blind 150
+PTITFILOU16 posts big blind 300
+Dealt to P1xel7 [Tc Js]
+*** PRE-FLOP *** 
+nathan59150 raises 450 to 750
+7AMMA folds
+P1xel7 folds
+jeanpiou folds
+jezzz folds
+PTITFILOU16 calls 450
+*** FLOP *** [9d 4d 3h]
+PTITFILOU16 bets 300
+nathan59150 raises 1080 to 1380
+PTITFILOU16 folds
+nathan59150 shows [As Ad] (One pair : Aces)
+nathan59150 collected 3540 from pot
+*** SUMMARY ***
+Total pot 3540 | No rake
+Board: [9d 4d 3h]
+Seat 1: nathan59150 showed [As Ad] and won 3540 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #2910501411521298448-36-1691518252 - Holdem no limit (35/150/300) - 2023/08/08 18:10:52 UTC
+Table: 'Kill The Fish(677653917)#015' 6-max (real money) Seat #5 is the button
+Seat 1: nathan59150 (21215, 0.11€ bounty)
+Seat 2: 7AMMA (73423, 0.26€ bounty)
+Seat 3: P1xel7 (1417, 0.11€ bounty)
+Seat 4: jeanpiou (18320, 0.11€ bounty)
+Seat 5: jezzz (63714, 0.16€ bounty)
+Seat 6: PTITFILOU16 (21691, 0.11€ bounty)
+*** ANTE/BLINDS ***
+PTITFILOU16 posts ante 35
+nathan59150 posts ante 35
+7AMMA posts ante 35
+P1xel7 posts ante 35
+jeanpiou posts ante 35
+jezzz posts ante 35
+PTITFILOU16 posts small blind 150
+nathan59150 posts big blind 300
+Dealt to P1xel7 [3s Qc]
+*** PRE-FLOP *** 
+7AMMA folds
+P1xel7 folds
+jeanpiou folds
+jezzz raises 300 to 600
+PTITFILOU16 calls 450
+nathan59150 folds
+*** FLOP *** [Js Ah 9s]
+PTITFILOU16 bets 750
+jezzz calls 750
+*** TURN *** [Js Ah 9s][3c]
+PTITFILOU16 bets 900
+jezzz calls 900
+*** RIVER *** [Js Ah 9s 3c][As]
+PTITFILOU16 bets 1050
+jezzz raises 3030 to 4080
+PTITFILOU16 calls 3030
+*** SHOW DOWN ***
+PTITFILOU16 shows [Ac 5h] (Trips of Aces)
+jezzz shows [Qs 8s] (Flush Ace high)
+jezzz collected 13170 from pot
+*** SUMMARY ***
+Total pot 13170 | No rake
+Board: [Js Ah 9s 3c As]
+Seat 5: jezzz (button) showed [Qs 8s] and won 13170 with Flush Ace high
+Seat 6: PTITFILOU16 (small blind) showed [Ac 5h] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2910501411521298448-37-1691518345 - Holdem no limit (40/175/350) - 2023/08/08 18:12:25 UTC
+Table: 'Kill The Fish(677653917)#015' 6-max (real money) Seat #6 is the button
+Seat 1: nathan59150 (20880, 0.11€ bounty)
+Seat 2: 7AMMA (73388, 0.26€ bounty)
+Seat 3: P1xel7 (1382, 0.11€ bounty)
+Seat 4: jeanpiou (18285, 0.11€ bounty)
+Seat 5: jezzz (70519, 0.16€ bounty)
+Seat 6: PTITFILOU16 (15326, 0.11€ bounty)
+*** ANTE/BLINDS ***
+nathan59150 posts ante 40
+7AMMA posts ante 40
+P1xel7 posts ante 40
+jeanpiou posts ante 40
+jezzz posts ante 40
+PTITFILOU16 posts ante 40
+nathan59150 posts small blind 175
+7AMMA posts big blind 350
+Dealt to P1xel7 [4s Td]
+*** PRE-FLOP *** 
+P1xel7 folds
+jeanpiou calls 350
+jezzz folds
+PTITFILOU16 calls 350
+nathan59150 calls 175
+7AMMA raises 72998 to 73348 and is all-in
+jeanpiou folds
+PTITFILOU16 folds
+nathan59150 folds
+7AMMA collected 74638 from pot
+*** SUMMARY ***
+Total pot 74638 | No rake
+Seat 2: 7AMMA (big blind) won 74638
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2910501411521298448-38-1691518386 - Holdem no limit (40/175/350) - 2023/08/08 18:13:06 UTC
+Table: 'Kill The Fish(677653917)#015' 6-max (real money) Seat #1 is the button
+Seat 1: nathan59150 (20490, 0.11€ bounty)
+Seat 2: 7AMMA (74638, 0.26€ bounty)
+Seat 3: P1xel7 (1342, 0.11€ bounty)
+Seat 4: jeanpiou (17895, 0.11€ bounty)
+Seat 5: jezzz (70479, 0.16€ bounty)
+Seat 6: PTITFILOU16 (14936, 0.11€ bounty)
+*** ANTE/BLINDS ***
+7AMMA posts ante 40
+P1xel7 posts ante 40
+nathan59150 posts ante 40
+jeanpiou posts ante 40
+jezzz posts ante 40
+PTITFILOU16 posts ante 40
+7AMMA posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Ad 7d]
+*** PRE-FLOP *** 
+jeanpiou folds
+jezzz folds
+PTITFILOU16 folds
+nathan59150 calls 350
+7AMMA calls 175
+P1xel7 raises 952 to 1302 and is all-in
+nathan59150 calls 952
+7AMMA calls 952
+*** FLOP *** [3d 8c 4c]
+7AMMA bets 4146
+nathan59150 folds
+*** TURN *** [3d 8c 4c][Tc]
+*** RIVER *** [3d 8c 4c Tc][Ac]
+*** SHOW DOWN ***
+P1xel7 shows [Ad 7d] (One pair : Aces)
+7AMMA shows [Qc 8h] (Flush Ace high)
+7AMMA collected 8292 from pot
+*** SUMMARY ***
+Total pot 8292 | No rake
+Board: [3d 8c 4c Tc Ac]
+Seat 2: 7AMMA (small blind) showed [Qc 8h] and won 8292 with Flush Ace high
+Seat 3: P1xel7 (big blind) showed [Ad 7d] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2910501411521298465-28-1691518449 - Holdem no limit (40/175/350) - 2023/08/08 18:14:09 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (20000, 0.11€ bounty)
+Seat 3: 7SIMBA7 (22491, 0.11€ bounty)
+Seat 4: Benn Voyons (22511, 0.11€ bounty)
+Seat 5: OneGame974 (76226, 0.21€ bounty)
+Seat 6: Lajak79 (21117, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Lajak79 posts ante 40
+P1xel7 posts ante 40
+7SIMBA7 posts ante 40
+Benn Voyons posts ante 40
+OneGame974 posts ante 40
+Lajak79 posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [4h Ac]
+*** PRE-FLOP *** 
+7SIMBA7 folds
+Benn Voyons raises 525 to 875
+OneGame974 folds
+Lajak79 folds
+P1xel7 calls 525
+*** FLOP *** [2d 8h Jc]
+P1xel7 checks
+Benn Voyons bets 1063
+P1xel7 folds
+Benn Voyons collected 3188 from pot
+*** SUMMARY ***
+Total pot 3188 | No rake
+Board: [2d 8h Jc]
+Seat 4: Benn Voyons won 3188
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2910501411521298465-29-1691518479 - Holdem no limit (40/175/350) - 2023/08/08 18:14:39 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (19085, 0.11€ bounty)
+Seat 2: ploumi (20000, 0.11€ bounty)
+Seat 4: Benn Voyons (23721, 0.11€ bounty)
+Seat 5: OneGame974 (76186, 0.21€ bounty)
+Seat 6: Lajak79 (20902, 0.19€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+ploumi posts ante 40
+Benn Voyons posts ante 40
+OneGame974 posts ante 40
+Lajak79 posts ante 40
+P1xel7 posts small blind 175
+ploumi posts big blind 350
+Dealt to P1xel7 [Jd 2h]
+*** PRE-FLOP *** 
+Benn Voyons folds
+OneGame974 folds
+Lajak79 raises 350 to 700
+P1xel7 folds
+ploumi calls 350
+*** FLOP *** [Js Jh 4d]
+ploumi checks
+Lajak79 checks
+*** TURN *** [Js Jh 4d][8c]
+ploumi checks
+Lajak79 bets 525
+ploumi calls 525
+*** RIVER *** [Js Jh 4d 8c][Qd]
+ploumi checks
+Lajak79 bets 1750
+ploumi folds
+Lajak79 collected 4575 from pot
+*** SUMMARY ***
+Total pot 4575 | No rake
+Board: [Js Jh 4d 8c Qd]
+Seat 6: Lajak79 (button) won 4575
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #2910501411521298465-30-1691518515 - Holdem no limit (40/175/350) - 2023/08/08 18:15:15 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (18870, 0.11€ bounty)
+Seat 2: ploumi (18735, 0.11€ bounty)
+Seat 3: MIK190 (20000, 0.11€ bounty)
+Seat 4: Benn Voyons (23681, 0.11€ bounty)
+Seat 5: OneGame974 (76146, 0.21€ bounty)
+Seat 6: Lajak79 (22462, 0.19€ bounty)
+*** ANTE/BLINDS ***
+ploumi posts ante 40
+MIK190 posts ante 40
+P1xel7 posts ante 40
+Benn Voyons posts ante 40
+OneGame974 posts ante 40
+Lajak79 posts ante 40
+ploumi posts small blind 175
+MIK190 posts big blind 350
+Dealt to P1xel7 [Tc Ts]
+*** PRE-FLOP *** 
+Benn Voyons folds
+OneGame974 raises 700 to 1050
+Lajak79 folds
+P1xel7 calls 1050
+ploumi calls 875
+MIK190 folds
+*** FLOP *** [9s Js 8s]
+ploumi checks
+OneGame974 checks
+P1xel7 bets 1309
+ploumi calls 1309
+OneGame974 calls 1309
+*** TURN *** [9s Js 8s][8c]
+ploumi bets 16336 and is all-in
+OneGame974 folds
+P1xel7 calls 16336
+*** RIVER *** [9s Js 8s 8c][Qc]
+*** SHOW DOWN ***
+ploumi shows [6d 5c] (One pair : 8)
+P1xel7 shows [Tc Ts] (Straight Queen high)
+P1xel7 collected 40339 from pot
+*** SUMMARY ***
+Total pot 40339 | No rake
+Board: [9s Js 8s 8c Qc]
+Seat 1: P1xel7 (button) showed [Tc Ts] and won 40339 with Straight Queen high
+Seat 2: ploumi (small blind) showed [6d 5c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #2910501411521298465-31-1691518591 - Holdem no limit (50/200/400) - 2023/08/08 18:16:31 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (40474, 0.16€ bounty)
+Seat 3: MIK190 (19610, 0.11€ bounty)
+Seat 4: Benn Voyons (23641, 0.11€ bounty)
+Seat 5: OneGame974 (73747, 0.21€ bounty)
+Seat 6: Lajak79 (22422, 0.19€ bounty)
+*** ANTE/BLINDS ***
+MIK190 posts ante 50
+Benn Voyons posts ante 50
+P1xel7 posts ante 50
+OneGame974 posts ante 50
+Lajak79 posts ante 50
+MIK190 posts small blind 200
+Benn Voyons posts big blind 400
+Dealt to P1xel7 [2s Ts]
+*** PRE-FLOP *** 
+OneGame974 raises 400 to 800
+Lajak79 folds
+P1xel7 folds
+MIK190 folds
+Benn Voyons calls 400
+*** FLOP *** [6c 4h Td]
+Benn Voyons checks
+OneGame974 checks
+*** TURN *** [6c 4h Td][6s]
+Benn Voyons bets 400
+OneGame974 calls 400
+*** RIVER *** [6c 4h Td 6s][5h]
+Benn Voyons bets 1425
+OneGame974 raises 71072 to 72497 and is all-in
+Benn Voyons folds
+OneGame974 collected 76772 from pot
+*** SUMMARY ***
+Total pot 76772 | No rake
+Board: [6c 4h Td 6s 5h]
+Seat 5: OneGame974 won 76772
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #2910501411521298465-32-1691518661 - Holdem no limit (50/200/400) - 2023/08/08 18:17:41 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (40424, 0.16€ bounty)
+Seat 2: ilarianohan (20000, 0.11€ bounty)
+Seat 3: MIK190 (19360, 0.11€ bounty)
+Seat 4: Benn Voyons (20966, 0.11€ bounty)
+Seat 5: OneGame974 (76772, 0.21€ bounty)
+Seat 6: Lajak79 (22372, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Benn Voyons posts ante 50
+OneGame974 posts ante 50
+P1xel7 posts ante 50
+ilarianohan posts ante 50
+MIK190 posts ante 50
+Lajak79 posts ante 50
+Benn Voyons posts small blind 200
+OneGame974 posts big blind 400
+Dealt to P1xel7 [2h 9h]
+*** PRE-FLOP *** 
+Lajak79 folds
+P1xel7 folds
+ilarianohan folds
+MIK190 raises 800 to 1200
+Benn Voyons calls 1000
+OneGame974 calls 800
+*** FLOP *** [8d 6c Ad]
+Benn Voyons bets 3120
+OneGame974 folds
+MIK190 folds
+Benn Voyons collected 7020 from pot
+*** SUMMARY ***
+Total pot 7020 | No rake
+Board: [8d 6c Ad]
+Seat 4: Benn Voyons (small blind) won 7020
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #2910501411521298465-33-1691518723 - Holdem no limit (50/200/400) - 2023/08/08 18:18:43 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (40374, 0.16€ bounty)
+Seat 2: ilarianohan (19950, 0.11€ bounty)
+Seat 3: MIK190 (18110, 0.11€ bounty)
+Seat 4: Benn Voyons (23616, 0.11€ bounty)
+Seat 5: OneGame974 (75522, 0.21€ bounty)
+Seat 6: Lajak79 (22322, 0.19€ bounty)
+*** ANTE/BLINDS ***
+OneGame974 posts ante 50
+Lajak79 posts ante 50
+P1xel7 posts ante 50
+ilarianohan posts ante 50
+MIK190 posts ante 50
+Benn Voyons posts ante 50
+OneGame974 posts small blind 200
+Lajak79 posts big blind 400
+Dealt to P1xel7 [Jh 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+ilarianohan folds
+MIK190 folds
+Benn Voyons raises 1300 to 1700
+OneGame974 calls 1500
+Lajak79 folds
+*** FLOP *** [5c 5h Td]
+OneGame974 bets 1435
+Benn Voyons calls 1435
+*** TURN *** [5c 5h Td][Tc]
+OneGame974 checks
+Benn Voyons bets 4531
+OneGame974 folds
+Benn Voyons collected 11501 from pot
+*** SUMMARY ***
+Total pot 11501 | No rake
+Board: [5c 5h Td Tc]
+Seat 4: Benn Voyons (button) won 11501
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #2910501411521298465-34-1691518775 - Holdem no limit (50/200/400) - 2023/08/08 18:19:35 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (40324, 0.16€ bounty)
+Seat 2: ilarianohan (19900, 0.11€ bounty)
+Seat 3: MIK190 (18060, 0.11€ bounty)
+Seat 4: Benn Voyons (27401, 0.11€ bounty)
+Seat 5: OneGame974 (72337, 0.21€ bounty)
+Seat 6: Lajak79 (21872, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Lajak79 posts ante 50
+P1xel7 posts ante 50
+ilarianohan posts ante 50
+MIK190 posts ante 50
+Benn Voyons posts ante 50
+OneGame974 posts ante 50
+Lajak79 posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Ts Js]
+*** PRE-FLOP *** 
+ilarianohan raises 1300 to 1700
+MIK190 calls 1700
+Benn Voyons folds
+OneGame974 folds
+Lajak79 folds
+P1xel7 calls 1300
+*** FLOP *** [6h 8h 6d]
+P1xel7 checks
+ilarianohan bets 5600
+MIK190 folds
+P1xel7 folds
+ilarianohan collected 11200 from pot
+*** SUMMARY ***
+Total pot 11200 | No rake
+Board: [6h 8h 6d]
+Seat 2: ilarianohan won 11200
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #2910501411521298465-35-1691518829 - Holdem no limit (50/200/400) - 2023/08/08 18:20:29 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (38574, 0.16€ bounty)
+Seat 2: ilarianohan (23750, 0.11€ bounty)
+Seat 3: MIK190 (16310, 0.11€ bounty)
+Seat 4: Benn Voyons (27351, 0.11€ bounty)
+Seat 5: OneGame974 (72287, 0.21€ bounty)
+Seat 6: Lajak79 (21622, 0.19€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+ilarianohan posts ante 50
+MIK190 posts ante 50
+Benn Voyons posts ante 50
+OneGame974 posts ante 50
+Lajak79 posts ante 50
+P1xel7 posts small blind 200
+ilarianohan posts big blind 400
+Dealt to P1xel7 [9h 4d]
+*** PRE-FLOP *** 
+MIK190 raises 600 to 1000
+Benn Voyons folds
+OneGame974 folds
+Lajak79 folds
+P1xel7 folds
+ilarianohan raises 2500 to 3500
+MIK190 calls 2500
+*** FLOP *** [Ac Kh Jd]
+ilarianohan bets 4875
+MIK190 folds
+ilarianohan collected 12375 from pot
+*** SUMMARY ***
+Total pot 12375 | No rake
+Board: [Ac Kh Jd]
+Seat 2: ilarianohan (big blind) won 12375
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2910501411521298465-36-1691518862 - Holdem no limit (60/250/500) - 2023/08/08 18:21:02 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (38324, 0.16€ bounty)
+Seat 2: ilarianohan (27700, 0.11€ bounty)
+Seat 3: MIK190 (12760, 0.11€ bounty)
+Seat 4: Benn Voyons (27301, 0.11€ bounty)
+Seat 5: OneGame974 (72237, 0.21€ bounty)
+Seat 6: Lajak79 (21572, 0.19€ bounty)
+*** ANTE/BLINDS ***
+ilarianohan posts ante 60
+MIK190 posts ante 60
+P1xel7 posts ante 60
+Benn Voyons posts ante 60
+OneGame974 posts ante 60
+Lajak79 posts ante 60
+ilarianohan posts small blind 250
+MIK190 posts big blind 500
+Dealt to P1xel7 [Kc 4c]
+*** PRE-FLOP *** 
+Benn Voyons folds
+OneGame974 calls 500
+Lajak79 raises 500 to 1000
+P1xel7 folds
+ilarianohan folds
+MIK190 raises 1500 to 2500
+OneGame974 folds
+Lajak79 calls 1500
+*** FLOP *** [Ks Qh Jd]
+MIK190 bets 3972
+Lajak79 folds
+MIK190 collected 10082 from pot
+*** SUMMARY ***
+Total pot 10082 | No rake
+Board: [Ks Qh Jd]
+Seat 3: MIK190 (big blind) won 10082
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2910501411521298465-37-1691518907 - Holdem no limit (60/250/500) - 2023/08/08 18:21:47 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (38264, 0.16€ bounty)
+Seat 2: ilarianohan (27390, 0.11€ bounty)
+Seat 3: MIK190 (16310, 0.11€ bounty)
+Seat 4: Benn Voyons (27241, 0.11€ bounty)
+Seat 5: OneGame974 (71677, 0.21€ bounty)
+Seat 6: Lajak79 (19012, 0.19€ bounty)
+*** ANTE/BLINDS ***
+MIK190 posts ante 60
+Benn Voyons posts ante 60
+P1xel7 posts ante 60
+ilarianohan posts ante 60
+OneGame974 posts ante 60
+Lajak79 posts ante 60
+MIK190 posts small blind 250
+Benn Voyons posts big blind 500
+Dealt to P1xel7 [Js 6s]
+*** PRE-FLOP *** 
+OneGame974 folds
+Lajak79 folds
+P1xel7 folds
+ilarianohan folds
+MIK190 calls 250
+Benn Voyons checks
+*** FLOP *** [Qh 4d 9s]
+MIK190 checks
+Benn Voyons bets 1088
+MIK190 folds
+Benn Voyons collected 2448 from pot
+*** SUMMARY ***
+Total pot 2448 | No rake
+Board: [Qh 4d 9s]
+Seat 4: Benn Voyons (big blind) won 2448
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2910501411521298465-38-1691518999 - Holdem no limit (60/250/500) - 2023/08/08 18:23:19 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (38204, 0.16€ bounty)
+Seat 2: ilarianohan (27330, 0.11€ bounty)
+Seat 3: MIK190 (15750, 0.11€ bounty)
+Seat 4: Benn Voyons (28041, 0.11€ bounty)
+Seat 5: OneGame974 (71617, 0.21€ bounty)
+Seat 6: Lajak79 (18952, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Benn Voyons posts ante 60
+OneGame974 posts ante 60
+P1xel7 posts ante 60
+ilarianohan posts ante 60
+MIK190 posts ante 60
+Lajak79 posts ante 60
+Benn Voyons posts small blind 250
+OneGame974 posts big blind 500
+Dealt to P1xel7 [9s 7h]
+*** PRE-FLOP *** 
+Lajak79 folds
+P1xel7 folds
+ilarianohan folds
+MIK190 calls 500
+Benn Voyons folds
+OneGame974 checks
+*** FLOP *** [Js Qc 2c]
+OneGame974 checks
+MIK190 bets 564
+OneGame974 folds
+MIK190 collected 2174 from pot
+*** SUMMARY ***
+Total pot 2174 | No rake
+Board: [Js Qc 2c]
+Seat 3: MIK190 (button) won 2174
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2910501411521298465-39-1691519086 - Holdem no limit (60/250/500) - 2023/08/08 18:24:46 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (38144, 0.16€ bounty)
+Seat 2: ilarianohan (27270, 0.11€ bounty)
+Seat 3: MIK190 (16800, 0.11€ bounty)
+Seat 4: Benn Voyons (27731, 0.11€ bounty)
+Seat 5: OneGame974 (71057, 0.21€ bounty)
+Seat 6: Lajak79 (18892, 0.19€ bounty)
+*** ANTE/BLINDS ***
+OneGame974 posts ante 60
+Lajak79 posts ante 60
+P1xel7 posts ante 60
+ilarianohan posts ante 60
+MIK190 posts ante 60
+Benn Voyons posts ante 60
+OneGame974 posts small blind 250
+Lajak79 posts big blind 500
+Dealt to P1xel7 [3h 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+ilarianohan raises 1610 to 2110
+MIK190 folds
+Benn Voyons folds
+OneGame974 calls 1860
+Lajak79 folds
+*** FLOP *** [8h Qs Qd]
+OneGame974 checks
+ilarianohan bets 3302
+OneGame974 folds
+ilarianohan collected 8382 from pot
+*** SUMMARY ***
+Total pot 8382 | No rake
+Board: [8h Qs Qd]
+Seat 2: ilarianohan won 8382
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #2910501411521298465-40-1691519132 - Holdem no limit (60/250/500) - 2023/08/08 18:25:32 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (38084, 0.16€ bounty)
+Seat 2: ilarianohan (30180, 0.11€ bounty)
+Seat 3: MIK190 (16740, 0.11€ bounty)
+Seat 4: Benn Voyons (27671, 0.11€ bounty)
+Seat 5: OneGame974 (68887, 0.21€ bounty)
+Seat 6: Lajak79 (18332, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Lajak79 posts ante 60
+P1xel7 posts ante 60
+ilarianohan posts ante 60
+MIK190 posts ante 60
+Benn Voyons posts ante 60
+OneGame974 posts ante 60
+Lajak79 posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [Jc 6h]
+*** PRE-FLOP *** 
+ilarianohan raises 1610 to 2110
+MIK190 folds
+Benn Voyons folds
+OneGame974 folds
+Lajak79 folds
+P1xel7 folds
+ilarianohan collected 3220 from pot
+*** SUMMARY ***
+Total pot 3220 | No rake
+Seat 2: ilarianohan won 3220
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #2910501411521298465-41-1691519164 - Holdem no limit (70/300/600) - 2023/08/08 18:26:04 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (37524, 0.16€ bounty)
+Seat 2: ilarianohan (31230, 0.11€ bounty)
+Seat 3: MIK190 (16680, 0.11€ bounty)
+Seat 4: Benn Voyons (27611, 0.11€ bounty)
+Seat 5: OneGame974 (68827, 0.21€ bounty)
+Seat 6: Lajak79 (18022, 0.19€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+ilarianohan posts ante 70
+MIK190 posts ante 70
+Benn Voyons posts ante 70
+OneGame974 posts ante 70
+Lajak79 posts ante 70
+P1xel7 posts small blind 300
+ilarianohan posts big blind 600
+Dealt to P1xel7 [Qc Qd]
+*** PRE-FLOP *** 
+MIK190 folds
+Benn Voyons raises 900 to 1500
+OneGame974 folds
+Lajak79 folds
+P1xel7 raises 5700 to 7200
+ilarianohan folds
+Benn Voyons raises 20341 to 27541 and is all-in
+P1xel7 calls 20341
+*** FLOP *** [Ks 2s 9h]
+*** TURN *** [Ks 2s 9h][4h]
+*** RIVER *** [Ks 2s 9h 4h][3h]
+*** SHOW DOWN ***
+P1xel7 shows [Qc Qd] (One pair : Queens)
+Benn Voyons shows [Ah 5h] (Flush Ace high)
+Benn Voyons collected 56102 from pot
+*** SUMMARY ***
+Total pot 56102 | No rake
+Board: [Ks 2s 9h 4h 3h]
+Seat 1: P1xel7 (small blind) showed [Qc Qd] and lost with One pair : Queens
+Seat 4: Benn Voyons showed [Ah 5h] and won 56102 with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #2910501411521298465-42-1691519232 - Holdem no limit (70/300/600) - 2023/08/08 18:27:12 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (9913, 0.16€ bounty)
+Seat 2: ilarianohan (30560, 0.11€ bounty)
+Seat 3: MIK190 (16610, 0.11€ bounty)
+Seat 4: Benn Voyons (56102, 0.11€ bounty)
+Seat 5: OneGame974 (68757, 0.21€ bounty)
+Seat 6: Lajak79 (17952, 0.19€ bounty)
+*** ANTE/BLINDS ***
+ilarianohan posts ante 70
+MIK190 posts ante 70
+P1xel7 posts ante 70
+Benn Voyons posts ante 70
+OneGame974 posts ante 70
+Lajak79 posts ante 70
+ilarianohan posts small blind 300
+MIK190 posts big blind 600
+Dealt to P1xel7 [4h 4d]
+*** PRE-FLOP *** 
+Benn Voyons folds
+OneGame974 folds
+Lajak79 folds
+P1xel7 raises 9243 to 9843 and is all-in
+ilarianohan raises 20647 to 30490 and is all-in
+MIK190 folds
+*** FLOP *** [5c 9h 9c]
+*** TURN *** [5c 9h 9c][2h]
+*** RIVER *** [5c 9h 9c 2h][6h]
+*** SHOW DOWN ***
+P1xel7 shows [4h 4d] (Two pairs : 9 and 4)
+ilarianohan shows [3s 2s] (Two pairs : 9 and 2)
+ilarianohan collected 20647 from side pot 1
+P1xel7 collected 20706 from main pot
+*** SUMMARY ***
+Total pot 41353 | No rake
+Board: [5c 9h 9c 2h 6h]
+Seat 1: P1xel7 (button) showed [4h 4d] and won 20706 with Two pairs : 9 and 4
+Seat 2: ilarianohan (small blind) showed [3s 2s] and won 20647 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #2910501411521298465-43-1691519279 - Holdem no limit (70/300/600) - 2023/08/08 18:27:59 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (20706, 0.16€ bounty)
+Seat 2: ilarianohan (20647, 0.11€ bounty)
+Seat 3: MIK190 (15940, 0.11€ bounty)
+Seat 4: Benn Voyons (56032, 0.11€ bounty)
+Seat 5: OneGame974 (68687, 0.21€ bounty)
+Seat 6: Lajak79 (17882, 0.19€ bounty)
+*** ANTE/BLINDS ***
+MIK190 posts ante 70
+Benn Voyons posts ante 70
+P1xel7 posts ante 70
+ilarianohan posts ante 70
+OneGame974 posts ante 70
+Lajak79 posts ante 70
+MIK190 posts small blind 300
+Benn Voyons posts big blind 600
+Dealt to P1xel7 [2h Td]
+*** PRE-FLOP *** 
+OneGame974 calls 600
+Lajak79 folds
+P1xel7 folds
+ilarianohan folds
+MIK190 calls 300
+Benn Voyons checks
+*** FLOP *** [Qc 5h 4d]
+MIK190 checks
+Benn Voyons checks
+OneGame974 checks
+*** TURN *** [Qc 5h 4d][9c]
+MIK190 checks
+Benn Voyons checks
+OneGame974 checks
+*** RIVER *** [Qc 5h 4d 9c][2d]
+MIK190 checks
+Benn Voyons folds
+OneGame974 bets 777
+MIK190 folds
+OneGame974 collected 2997 from pot
+*** SUMMARY ***
+Total pot 2997 | No rake
+Board: [Qc 5h 4d 9c 2d]
+Seat 5: OneGame974 won 2997
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #2910501411521298465-44-1691519381 - Holdem no limit (70/300/600) - 2023/08/08 18:29:41 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (20636, 0.16€ bounty)
+Seat 2: ilarianohan (20577, 0.11€ bounty)
+Seat 3: MIK190 (15270, 0.11€ bounty)
+Seat 4: Benn Voyons (55362, 0.11€ bounty)
+Seat 5: OneGame974 (70237, 0.21€ bounty)
+Seat 6: Lajak79 (17812, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Benn Voyons posts ante 70
+OneGame974 posts ante 70
+P1xel7 posts ante 70
+ilarianohan posts ante 70
+MIK190 posts ante 70
+Lajak79 posts ante 70
+Benn Voyons posts small blind 300
+OneGame974 posts big blind 600
+Dealt to P1xel7 [9h Ah]
+*** PRE-FLOP *** 
+Lajak79 folds
+P1xel7 raises 1200 to 1800
+ilarianohan folds
+MIK190 raises 1200 to 3000
+Benn Voyons folds
+OneGame974 folds
+P1xel7 calls 1200
+*** FLOP *** [3h 7d 5h]
+P1xel7 checks
+MIK190 checks
+*** TURN *** [3h 7d 5h][As]
+P1xel7 bets 3600
+MIK190 folds
+P1xel7 collected 10920 from pot
+*** SUMMARY ***
+Total pot 10920 | No rake
+Board: [3h 7d 5h As]
+Seat 1: P1xel7 won 10920
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #2910501411521298465-45-1691519437 - Holdem no limit (70/300/600) - 2023/08/08 18:30:37 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (24886, 0.16€ bounty)
+Seat 2: ilarianohan (20507, 0.11€ bounty)
+Seat 3: MIK190 (12200, 0.11€ bounty)
+Seat 4: Benn Voyons (54992, 0.11€ bounty)
+Seat 5: OneGame974 (69567, 0.21€ bounty)
+Seat 6: Lajak79 (17742, 0.19€ bounty)
+*** ANTE/BLINDS ***
+OneGame974 posts ante 70
+Lajak79 posts ante 70
+P1xel7 posts ante 70
+ilarianohan posts ante 70
+MIK190 posts ante 70
+Benn Voyons posts ante 70
+OneGame974 posts small blind 300
+Lajak79 posts big blind 600
+Dealt to P1xel7 [2d Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+ilarianohan folds
+MIK190 calls 600
+Benn Voyons folds
+OneGame974 calls 300
+Lajak79 checks
+*** FLOP *** [5s Qs Ks]
+OneGame974 checks
+Lajak79 checks
+MIK190 bets 1443
+OneGame974 folds
+Lajak79 calls 1443
+*** TURN *** [5s Qs Ks][4h]
+Lajak79 checks
+MIK190 bets 3319
+Lajak79 folds
+MIK190 collected 8425 from pot
+*** SUMMARY ***
+Total pot 8425 | No rake
+Board: [5s Qs Ks 4h]
+Seat 3: MIK190 won 8425
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #2910501411521298465-46-1691519538 - Holdem no limit (80/350/700) - 2023/08/08 18:32:18 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (24816, 0.16€ bounty)
+Seat 2: ilarianohan (20437, 0.11€ bounty)
+Seat 3: MIK190 (15193, 0.11€ bounty)
+Seat 4: Benn Voyons (54922, 0.11€ bounty)
+Seat 5: OneGame974 (68897, 0.21€ bounty)
+Seat 6: Lajak79 (15629, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Lajak79 posts ante 80
+P1xel7 posts ante 80
+ilarianohan posts ante 80
+MIK190 posts ante 80
+Benn Voyons posts ante 80
+OneGame974 posts ante 80
+Lajak79 posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [4s 5c]
+*** PRE-FLOP *** 
+ilarianohan folds
+MIK190 folds
+Benn Voyons folds
+OneGame974 folds
+Lajak79 folds
+P1xel7 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 1: P1xel7 (big blind) won 1530
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #2910501411521298465-47-1691519583 - Holdem no limit (80/350/700) - 2023/08/08 18:33:03 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (25566, 0.16€ bounty)
+Seat 2: ilarianohan (20357, 0.11€ bounty)
+Seat 3: MIK190 (15113, 0.11€ bounty)
+Seat 4: Benn Voyons (54842, 0.11€ bounty)
+Seat 5: OneGame974 (68817, 0.21€ bounty)
+Seat 6: Lajak79 (15199, 0.19€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+ilarianohan posts ante 80
+MIK190 posts ante 80
+Benn Voyons posts ante 80
+OneGame974 posts ante 80
+Lajak79 posts ante 80
+P1xel7 posts small blind 350
+ilarianohan posts big blind 700
+Dealt to P1xel7 [9d 2c]
+*** PRE-FLOP *** 
+MIK190 raises 700 to 1400
+Benn Voyons folds
+OneGame974 calls 1400
+Lajak79 folds
+P1xel7 folds
+ilarianohan folds
+*** FLOP *** [5c Kd Kh]
+MIK190 checks
+OneGame974 checks
+*** TURN *** [5c Kd Kh][8s]
+MIK190 checks
+OneGame974 bets 700
+MIK190 raises 1551 to 2251
+OneGame974 folds
+MIK190 collected 7281 from pot
+*** SUMMARY ***
+Total pot 7281 | No rake
+Board: [5c Kd Kh 8s]
+Seat 3: MIK190 won 7281
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #2910501411521298465-48-1691519702 - Holdem no limit (80/350/700) - 2023/08/08 18:35:02 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (25136, 0.16€ bounty)
+Seat 2: ilarianohan (19577, 0.11€ bounty)
+Seat 3: MIK190 (18663, 0.11€ bounty)
+Seat 4: Benn Voyons (54762, 0.11€ bounty)
+Seat 5: OneGame974 (66637, 0.21€ bounty)
+Seat 6: Lajak79 (15119, 0.19€ bounty)
+*** ANTE/BLINDS ***
+ilarianohan posts ante 80
+MIK190 posts ante 80
+P1xel7 posts ante 80
+Benn Voyons posts ante 80
+OneGame974 posts ante 80
+Lajak79 posts ante 80
+ilarianohan posts small blind 350
+MIK190 posts big blind 700
+Dealt to P1xel7 [Kc 3h]
+*** PRE-FLOP *** 
+Benn Voyons folds
+OneGame974 calls 700
+Lajak79 raises 875 to 1575
+P1xel7 folds
+ilarianohan raises 5030 to 6605
+MIK190 folds
+OneGame974 folds
+Lajak79 raises 8434 to 15039 and is all-in
+ilarianohan calls 8434
+*** FLOP *** [9c 8c Kh]
+*** TURN *** [9c 8c Kh][8s]
+*** RIVER *** [9c 8c Kh 8s][6c]
+*** SHOW DOWN ***
+ilarianohan shows [Jc Qs] (One pair : 8)
+Lajak79 shows [Ah Jd] (One pair : 8)
+Lajak79 collected 31958 from pot
+*** SUMMARY ***
+Total pot 31958 | No rake
+Board: [9c 8c Kh 8s 6c]
+Seat 2: ilarianohan (small blind) showed [Jc Qs] and lost with One pair : 8
+Seat 6: Lajak79 showed [Ah Jd] and won 31958 with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #2910501411521298465-49-1691519772 - Holdem no limit (100/400/800) - 2023/08/08 18:36:12 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (25056, 0.16€ bounty)
+Seat 2: ilarianohan (4458, 0.11€ bounty)
+Seat 3: MIK190 (17883, 0.11€ bounty)
+Seat 4: Benn Voyons (54682, 0.11€ bounty)
+Seat 5: OneGame974 (65857, 0.21€ bounty)
+Seat 6: Lajak79 (31958, 0.19€ bounty)
+*** ANTE/BLINDS ***
+MIK190 posts ante 100
+Benn Voyons posts ante 100
+P1xel7 posts ante 100
+ilarianohan posts ante 100
+OneGame974 posts ante 100
+Lajak79 posts ante 100
+MIK190 posts small blind 400
+Benn Voyons posts big blind 800
+Dealt to P1xel7 [Tc Ks]
+*** PRE-FLOP *** 
+OneGame974 folds
+Lajak79 folds
+P1xel7 raises 4000 to 4800
+ilarianohan calls 4358 and is all-in
+MIK190 folds
+Benn Voyons folds
+*** FLOP *** [6s 3d 6c]
+*** TURN *** [6s 3d 6c][Qc]
+*** RIVER *** [6s 3d 6c Qc][9s]
+*** SHOW DOWN ***
+P1xel7 shows [Tc Ks] (One pair : 6)
+ilarianohan shows [As Qs] (Two pairs : Queens and 6)
+ilarianohan collected 10516 from main pot
+P1xel7 collected 442 from side pot 1
+*** SUMMARY ***
+Total pot 10958 | No rake
+Board: [6s 3d 6c Qc 9s]
+Seat 1: P1xel7 showed [Tc Ks] and won 442 with One pair : 6
+Seat 2: ilarianohan (button) showed [As Qs] and won 10516 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #2910501411521298465-50-1691519835 - Holdem no limit (100/400/800) - 2023/08/08 18:37:15 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (20598, 0.16€ bounty)
+Seat 2: ilarianohan (10516, 0.11€ bounty)
+Seat 3: MIK190 (17383, 0.11€ bounty)
+Seat 4: Benn Voyons (53782, 0.11€ bounty)
+Seat 5: OneGame974 (65757, 0.21€ bounty)
+Seat 6: Lajak79 (31858, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Benn Voyons posts ante 100
+OneGame974 posts ante 100
+P1xel7 posts ante 100
+ilarianohan posts ante 100
+MIK190 posts ante 100
+Lajak79 posts ante 100
+Benn Voyons posts small blind 400
+OneGame974 posts big blind 800
+Dealt to P1xel7 [9c 9h]
+*** PRE-FLOP *** 
+Lajak79 raises 800 to 1600
+P1xel7 raises 5600 to 7200
+ilarianohan raises 3216 to 10416 and is all-in
+MIK190 folds
+Benn Voyons folds
+OneGame974 folds
+Lajak79 folds
+P1xel7 calls 3216
+*** FLOP *** [Qh Ks 2c]
+*** TURN *** [Qh Ks 2c][Jc]
+*** RIVER *** [Qh Ks 2c Jc][4c]
+*** SHOW DOWN ***
+ilarianohan shows [5s 5c] (One pair : 5)
+P1xel7 shows [9c 9h] (One pair : 9)
+P1xel7 collected 24232 from pot
+*** SUMMARY ***
+Total pot 24232 | No rake
+Board: [Qh Ks 2c Jc 4c]
+Seat 1: P1xel7 showed [9c 9h] and won 24232 with One pair : 9
+Seat 2: ilarianohan showed [5s 5c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #2910501411521298465-51-1691519881 - Holdem no limit (100/400/800) - 2023/08/08 18:38:01 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (34314, 0.21€ bounty)
+Seat 3: MIK190 (17283, 0.11€ bounty)
+Seat 4: Benn Voyons (53282, 0.11€ bounty)
+Seat 5: OneGame974 (64857, 0.21€ bounty)
+Seat 6: Lajak79 (30158, 0.19€ bounty)
+*** ANTE/BLINDS ***
+OneGame974 posts ante 100
+Lajak79 posts ante 100
+P1xel7 posts ante 100
+MIK190 posts ante 100
+Benn Voyons posts ante 100
+OneGame974 posts small blind 400
+Lajak79 posts big blind 800
+Dealt to P1xel7 [Ah 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+MIK190 calls 800
+Benn Voyons calls 800
+OneGame974 calls 400
+Lajak79 checks
+*** FLOP *** [9s 7h 4c]
+OneGame974 checks
+Lajak79 checks
+MIK190 bets 1295
+Benn Voyons calls 1295
+OneGame974 folds
+Lajak79 folds
+*** TURN *** [9s 7h 4c][8s]
+MIK190 bets 2202
+Benn Voyons calls 2202
+*** RIVER *** [9s 7h 4c 8s][5c]
+MIK190 bets 3743
+Benn Voyons raises 45142 to 48885 and is all-in
+MIK190 folds
+Benn Voyons collected 63322 from pot
+*** SUMMARY ***
+Total pot 63322 | No rake
+Board: [9s 7h 4c 8s 5c]
+Seat 4: Benn Voyons (button) won 63322
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #2910501411521298465-52-1691519995 - Holdem no limit (100/400/800) - 2023/08/08 18:39:55 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (34214, 0.21€ bounty)
+Seat 2: Moucani55 (20000, 0.11€ bounty)
+Seat 3: MIK190 (9143, 0.11€ bounty)
+Seat 4: Benn Voyons (63322, 0.11€ bounty)
+Seat 5: OneGame974 (63957, 0.21€ bounty)
+Seat 6: Lajak79 (29258, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Lajak79 posts ante 100
+P1xel7 posts ante 100
+Moucani55 posts ante 100
+MIK190 posts ante 100
+Benn Voyons posts ante 100
+OneGame974 posts ante 100
+Lajak79 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [4c 6h]
+*** PRE-FLOP *** 
+Moucani55 folds
+MIK190 folds
+Benn Voyons folds
+OneGame974 raises 1200 to 2000
+Lajak79 raises 4000 to 6000
+P1xel7 folds
+OneGame974 calls 4000
+*** FLOP *** [5c 4h Ah]
+Lajak79 bets 10720
+OneGame974 calls 10720
+*** TURN *** [5c 4h Ah][9d]
+Lajak79 bets 12438 and is all-in
+OneGame974 calls 12438
+*** RIVER *** [5c 4h Ah 9d][2d]
+*** SHOW DOWN ***
+OneGame974 shows [Qh Kh] (High card : Ace)
+Lajak79 shows [Ks Ad] (One pair : Aces)
+Lajak79 collected 59716 from pot
+*** SUMMARY ***
+Total pot 59716 | No rake
+Board: [5c 4h Ah 9d 2d]
+Seat 5: OneGame974 (button) showed [Qh Kh] and lost with High card : Ace
+Seat 6: Lajak79 (small blind) showed [Ks Ad] and won 59716 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #2910501411521298465-53-1691520054 - Holdem no limit (100/400/800) - 2023/08/08 18:40:54 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (33314, 0.21€ bounty)
+Seat 2: Moucani55 (19900, 0.11€ bounty)
+Seat 3: MIK190 (9043, 0.11€ bounty)
+Seat 4: Benn Voyons (63222, 0.11€ bounty)
+Seat 5: OneGame974 (34699, 0.21€ bounty)
+Seat 6: Lajak79 (59716, 0.19€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+Moucani55 posts ante 100
+MIK190 posts ante 100
+Benn Voyons posts ante 100
+OneGame974 posts ante 100
+Lajak79 posts ante 100
+P1xel7 posts small blind 400
+Moucani55 posts big blind 800
+Dealt to P1xel7 [9h 7d]
+*** PRE-FLOP *** 
+MIK190 calls 800
+Benn Voyons folds
+OneGame974 calls 800
+Lajak79 raises 800 to 1600
+P1xel7 folds
+Moucani55 calls 800
+MIK190 calls 800
+OneGame974 folds
+*** FLOP *** [8c 7c 3d]
+Moucani55 checks
+MIK190 checks
+Lajak79 checks
+*** TURN *** [8c 7c 3d][2h]
+Moucani55 checks
+MIK190 checks
+Lajak79 checks
+*** RIVER *** [8c 7c 3d 2h][Qh]
+Moucani55 bets 3300
+MIK190 folds
+Lajak79 calls 3300
+*** SHOW DOWN ***
+Moucani55 shows [5c Kc] (High card : King)
+Lajak79 shows [Qc Jc] (One pair : Queens)
+Lajak79 collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | No rake
+Board: [8c 7c 3d 2h Qh]
+Seat 2: Moucani55 (big blind) showed [5c Kc] and lost with High card : King
+Seat 6: Lajak79 (button) showed [Qc Jc] and won 13200 with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #2910501411521298465-54-1691520160 - Holdem no limit (120/500/1000) - 2023/08/08 18:42:40 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (32814, 0.21€ bounty)
+Seat 2: Moucani55 (14900, 0.11€ bounty)
+Seat 3: MIK190 (7343, 0.11€ bounty)
+Seat 4: Benn Voyons (63122, 0.11€ bounty)
+Seat 5: OneGame974 (33799, 0.21€ bounty)
+Seat 6: Lajak79 (67916, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Moucani55 posts ante 120
+MIK190 posts ante 120
+P1xel7 posts ante 120
+Benn Voyons posts ante 120
+OneGame974 posts ante 120
+Lajak79 posts ante 120
+Moucani55 posts small blind 500
+MIK190 posts big blind 1000
+Dealt to P1xel7 [7h 8h]
+*** PRE-FLOP *** 
+Benn Voyons folds
+OneGame974 folds
+Lajak79 folds
+P1xel7 raises 2000 to 3000
+Moucani55 raises 11780 to 14780 and is all-in
+MIK190 folds
+P1xel7 folds
+Moucani55 collected 19500 from pot
+*** SUMMARY ***
+Total pot 19500 | No rake
+Seat 2: Moucani55 (small blind) won 19500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #2910501411521298465-55-1691520238 - Holdem no limit (120/500/1000) - 2023/08/08 18:43:58 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (29694, 0.21€ bounty)
+Seat 2: Moucani55 (19500, 0.11€ bounty)
+Seat 3: MIK190 (6223, 0.11€ bounty)
+Seat 4: Benn Voyons (63002, 0.11€ bounty)
+Seat 5: OneGame974 (33679, 0.21€ bounty)
+Seat 6: Lajak79 (67796, 0.19€ bounty)
+*** ANTE/BLINDS ***
+MIK190 posts ante 120
+Benn Voyons posts ante 120
+P1xel7 posts ante 120
+Moucani55 posts ante 120
+OneGame974 posts ante 120
+Lajak79 posts ante 120
+MIK190 posts small blind 500
+Benn Voyons posts big blind 1000
+Dealt to P1xel7 [7h 7c]
+*** PRE-FLOP *** 
+OneGame974 raises 2000 to 3000
+Lajak79 folds
+P1xel7 calls 3000
+Moucani55 folds
+MIK190 raises 3103 to 6103 and is all-in
+Benn Voyons raises 56779 to 62882 and is all-in
+OneGame974 calls 30559 and is all-in
+P1xel7 folds
+*** FLOP *** [8s 8h Ad]
+*** TURN *** [8s 8h Ad][7s]
+*** RIVER *** [8s 8h Ad 7s][3c]
+*** SHOW DOWN ***
+MIK190 shows [Kh Js] (One pair : 8)
+Benn Voyons shows [4d 4c] (Two pairs : 8 and 4)
+OneGame974 shows [Kc Kd] (Two pairs : Kings and 8)
+OneGame974 collected 76941 from main pot
+Benn Voyons collected 29323 from side pot 1
+*** SUMMARY ***
+Total pot 106264 | No rake
+Board: [8s 8h Ad 7s 3c]
+Seat 3: MIK190 (small blind) showed [Kh Js] and lost with One pair : 8
+Seat 4: Benn Voyons (big blind) showed [4d 4c] and won 29323 with Two pairs : 8 and 4
+Seat 5: OneGame974 showed [Kc Kd] and won 76941 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #2910501411521298465-56-1691520304 - Holdem no limit (120/500/1000) - 2023/08/08 18:45:04 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (26574, 0.21€ bounty)
+Seat 2: Moucani55 (19380, 0.11€ bounty)
+Seat 4: Benn Voyons (29323, 0.11€ bounty)
+Seat 5: OneGame974 (76941, 0.26€ bounty)
+Seat 6: Lajak79 (67676, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Benn Voyons posts ante 120
+OneGame974 posts ante 120
+P1xel7 posts ante 120
+Moucani55 posts ante 120
+Lajak79 posts ante 120
+Benn Voyons posts small blind 500
+OneGame974 posts big blind 1000
+Dealt to P1xel7 [6c 3c]
+*** PRE-FLOP *** 
+Lajak79 folds
+P1xel7 folds
+Moucani55 folds
+Benn Voyons raises 2000 to 3000
+OneGame974 folds
+Benn Voyons collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 4: Benn Voyons (small blind) won 4600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #2910501411521298465-57-1691520353 - Holdem no limit (120/500/1000) - 2023/08/08 18:45:53 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (26454, 0.21€ bounty)
+Seat 2: Moucani55 (19260, 0.11€ bounty)
+Seat 4: Benn Voyons (30803, 0.11€ bounty)
+Seat 5: OneGame974 (75821, 0.26€ bounty)
+Seat 6: Lajak79 (67556, 0.19€ bounty)
+*** ANTE/BLINDS ***
+OneGame974 posts ante 120
+Lajak79 posts ante 120
+P1xel7 posts ante 120
+Moucani55 posts ante 120
+Benn Voyons posts ante 120
+OneGame974 posts small blind 500
+Lajak79 posts big blind 1000
+Dealt to P1xel7 [4d Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Moucani55 folds
+Benn Voyons raises 1500 to 2500
+OneGame974 folds
+Lajak79 folds
+Benn Voyons collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 4: Benn Voyons (button) won 4600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #2910501411521298465-58-1691520410 - Holdem no limit (140/600/1200) - 2023/08/08 18:46:50 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (26334, 0.21€ bounty)
+Seat 2: Moucani55 (19140, 0.11€ bounty)
+Seat 4: Benn Voyons (32783, 0.11€ bounty)
+Seat 5: OneGame974 (75201, 0.26€ bounty)
+Seat 6: Lajak79 (66436, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Lajak79 posts ante 140
+P1xel7 posts ante 140
+Moucani55 posts ante 140
+Benn Voyons posts ante 140
+OneGame974 posts ante 140
+Lajak79 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [Jh Ks]
+*** PRE-FLOP *** 
+Moucani55 raises 17800 to 19000 and is all-in
+Benn Voyons raises 13643 to 32643 and is all-in
+OneGame974 folds
+Lajak79 folds
+P1xel7 folds
+*** FLOP *** [Ad 4d 3s]
+*** TURN *** [Ad 4d 3s][Kc]
+*** RIVER *** [Ad 4d 3s Kc][6c]
+*** SHOW DOWN ***
+Moucani55 shows [2h Ah] (One pair : Aces)
+Benn Voyons shows [Ac Kh] (Two pairs : Aces and Kings)
+Benn Voyons collected 54143 from pot
+*** SUMMARY ***
+Total pot 54143 | No rake
+Board: [Ad 4d 3s Kc 6c]
+Seat 2: Moucani55 showed [2h Ah] and lost with One pair : Aces
+Seat 4: Benn Voyons showed [Ac Kh] and won 54143 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #2910501411521298465-59-1691520442 - Holdem no limit (140/600/1200) - 2023/08/08 18:47:22 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (24994, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (23600, 0.11€ bounty)
+Seat 4: Benn Voyons (54143, 0.16€ bounty)
+Seat 5: OneGame974 (75061, 0.26€ bounty)
+Seat 6: Lajak79 (65696, 0.19€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+Parieur_Xs68 posts ante 140
+Benn Voyons posts ante 140
+OneGame974 posts ante 140
+Lajak79 posts ante 140
+P1xel7 posts small blind 600
+Parieur_Xs68 posts big blind 1200
+Dealt to P1xel7 [3s 3h]
+*** PRE-FLOP *** 
+Benn Voyons folds
+OneGame974 folds
+Lajak79 raises 1200 to 2400
+P1xel7 raises 22454 to 24854 and is all-in
+Parieur_Xs68 folds
+Lajak79 folds
+P1xel7 collected 29154 from pot
+*** SUMMARY ***
+Total pot 29154 | No rake
+Seat 1: P1xel7 (small blind) won 29154
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #2910501411521298465-60-1691520489 - Holdem no limit (140/600/1200) - 2023/08/08 18:48:09 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (29154, 0.21€ bounty)
+Seat 2: WDXXx (58685, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (22260, 0.11€ bounty)
+Seat 4: Benn Voyons (54003, 0.16€ bounty)
+Seat 5: OneGame974 (74921, 0.26€ bounty)
+Seat 6: Lajak79 (63156, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Parieur_Xs68 posts ante 140
+Benn Voyons posts ante 140
+P1xel7 posts ante 140
+OneGame974 posts ante 140
+Lajak79 posts ante 140
+Parieur_Xs68 posts small blind 600
+Benn Voyons posts big blind 1200
+Dealt to P1xel7 [5s 4h]
+*** PRE-FLOP *** 
+OneGame974 folds
+Lajak79 folds
+P1xel7 folds
+Parieur_Xs68 raises 1800 to 3000
+Benn Voyons calls 1800
+*** FLOP *** [3h 5d Qc]
+Parieur_Xs68 bets 2345
+Benn Voyons calls 2345
+*** TURN *** [3h 5d Qc][8s]
+Parieur_Xs68 bets 4587
+Benn Voyons calls 4587
+*** RIVER *** [3h 5d Qc 8s][2c]
+Parieur_Xs68 bets 10282
+Benn Voyons folds
+Parieur_Xs68 collected 30846 from pot
+*** SUMMARY ***
+Total pot 30846 | No rake
+Board: [3h 5d Qc 8s 2c]
+Seat 3: Parieur_Xs68 (small blind) won 30846
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #2910501411521298465-61-1691520549 - Holdem no limit (140/600/1200) - 2023/08/08 18:49:09 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (29014, 0.21€ bounty)
+Seat 2: WDXXx (58685, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (32752, 0.11€ bounty)
+Seat 4: Benn Voyons (43931, 0.16€ bounty)
+Seat 5: OneGame974 (74781, 0.26€ bounty)
+Seat 6: Lajak79 (63016, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Benn Voyons posts ante 140
+OneGame974 posts ante 140
+P1xel7 posts ante 140
+WDXXx posts ante 140
+Parieur_Xs68 posts ante 140
+Lajak79 posts ante 140
+Benn Voyons posts small blind 600
+OneGame974 posts big blind 1200
+Dealt to P1xel7 [8s Kc]
+*** PRE-FLOP *** 
+Lajak79 folds
+P1xel7 folds
+WDXXx folds
+Parieur_Xs68 folds
+Benn Voyons raises 2400 to 3600
+OneGame974 calls 2400
+*** FLOP *** [4s Ks 3s]
+Benn Voyons bets 4020
+OneGame974 calls 4020
+*** TURN *** [4s Ks 3s][Ah]
+Benn Voyons bets 1200
+OneGame974 calls 1200
+*** RIVER *** [4s Ks 3s Ah][Kd]
+Benn Voyons bets 9240
+OneGame974 folds
+Benn Voyons collected 27720 from pot
+*** SUMMARY ***
+Total pot 27720 | No rake
+Board: [4s Ks 3s Ah Kd]
+Seat 4: Benn Voyons (small blind) won 27720
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #2910501411521298465-62-1691520597 - Holdem no limit (140/600/1200) - 2023/08/08 18:49:57 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (28874, 0.21€ bounty)
+Seat 2: WDXXx (58545, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (32612, 0.11€ bounty)
+Seat 4: Benn Voyons (53451, 0.16€ bounty)
+Seat 5: OneGame974 (65821, 0.26€ bounty)
+Seat 6: Lajak79 (62876, 0.19€ bounty)
+*** ANTE/BLINDS ***
+OneGame974 posts ante 140
+Lajak79 posts ante 140
+P1xel7 posts ante 140
+WDXXx posts ante 140
+Parieur_Xs68 posts ante 140
+Benn Voyons posts ante 140
+OneGame974 posts small blind 600
+Lajak79 posts big blind 1200
+Dealt to P1xel7 [4d 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+WDXXx raises 1200 to 2400
+Parieur_Xs68 folds
+Benn Voyons folds
+OneGame974 folds
+Lajak79 folds
+WDXXx collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | No rake
+Seat 2: WDXXx won 5040
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #2910501411521298465-63-1691520621 - Holdem no limit (140/600/1200) - 2023/08/08 18:50:21 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (28734, 0.21€ bounty)
+Seat 2: WDXXx (61045, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (32472, 0.11€ bounty)
+Seat 4: Benn Voyons (53311, 0.16€ bounty)
+Seat 5: OneGame974 (65081, 0.26€ bounty)
+Seat 6: Lajak79 (61536, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Lajak79 posts ante 140
+P1xel7 posts ante 140
+WDXXx posts ante 140
+Parieur_Xs68 posts ante 140
+Benn Voyons posts ante 140
+OneGame974 posts ante 140
+Lajak79 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [9h 4h]
+*** PRE-FLOP *** 
+WDXXx raises 1200 to 2400
+Parieur_Xs68 folds
+Benn Voyons folds
+OneGame974 folds
+Lajak79 folds
+P1xel7 folds
+WDXXx collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | No rake
+Seat 2: WDXXx won 5040
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #2910501411521298465-64-1691520636 - Holdem no limit (140/600/1200) - 2023/08/08 18:50:36 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (27394, 0.21€ bounty)
+Seat 2: WDXXx (63545, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (32332, 0.11€ bounty)
+Seat 4: Benn Voyons (53171, 0.16€ bounty)
+Seat 5: OneGame974 (64941, 0.26€ bounty)
+Seat 6: Lajak79 (60796, 0.19€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+WDXXx posts ante 140
+Parieur_Xs68 posts ante 140
+Benn Voyons posts ante 140
+OneGame974 posts ante 140
+Lajak79 posts ante 140
+P1xel7 posts small blind 600
+WDXXx posts big blind 1200
+Dealt to P1xel7 [6s Ac]
+*** PRE-FLOP *** 
+Parieur_Xs68 folds
+Benn Voyons folds
+OneGame974 calls 1200
+Lajak79 folds
+P1xel7 folds
+WDXXx raises 1200 to 2400
+OneGame974 calls 1200
+*** FLOP *** [Kh Qs Js]
+WDXXx checks
+OneGame974 checks
+*** TURN *** [Kh Qs Js][Jd]
+WDXXx checks
+OneGame974 bets 2184
+WDXXx calls 2184
+*** RIVER *** [Kh Qs Js Jd][3c]
+WDXXx checks
+OneGame974 bets 3713
+WDXXx folds
+OneGame974 collected 14321 from pot
+*** SUMMARY ***
+Total pot 14321 | No rake
+Board: [Kh Qs Js Jd 3c]
+Seat 5: OneGame974 won 14321
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #2910501411521298465-65-1691520709 - Holdem no limit (160/700/1400) - 2023/08/08 18:51:49 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (26654, 0.21€ bounty)
+Seat 2: WDXXx (58821, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (32192, 0.11€ bounty)
+Seat 4: Benn Voyons (53031, 0.16€ bounty)
+Seat 5: OneGame974 (70825, 0.26€ bounty)
+Seat 6: Lajak79 (60656, 0.19€ bounty)
+*** ANTE/BLINDS ***
+WDXXx posts ante 160
+Parieur_Xs68 posts ante 160
+P1xel7 posts ante 160
+Benn Voyons posts ante 160
+OneGame974 posts ante 160
+Lajak79 posts ante 160
+WDXXx posts small blind 700
+Parieur_Xs68 posts big blind 1400
+Dealt to P1xel7 [8s 3c]
+*** PRE-FLOP *** 
+Benn Voyons folds
+OneGame974 raises 2800 to 4200
+Lajak79 folds
+P1xel7 folds
+WDXXx calls 3500
+Parieur_Xs68 folds
+*** FLOP *** [4c Tc 5c]
+WDXXx checks
+OneGame974 bets 6994
+WDXXx calls 6994
+*** TURN *** [4c Tc 5c][Ac]
+WDXXx checks
+OneGame974 checks
+*** RIVER *** [4c Tc 5c Ac][5h]
+WDXXx bets 16086
+OneGame974 raises 43385 to 59471 and is all-in
+WDXXx folds
+OneGame974 collected 100305 from pot
+*** SUMMARY ***
+Total pot 100305 | No rake
+Board: [4c Tc 5c Ac 5h]
+Seat 5: OneGame974 won 100305
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #2910501411521298465-66-1691520785 - Holdem no limit (160/700/1400) - 2023/08/08 18:53:05 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (26494, 0.21€ bounty)
+Seat 2: WDXXx (31381, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (30632, 0.11€ bounty)
+Seat 4: Benn Voyons (52871, 0.16€ bounty)
+Seat 5: OneGame974 (100305, 0.26€ bounty)
+Seat 6: Lajak79 (60496, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Parieur_Xs68 posts ante 160
+Benn Voyons posts ante 160
+P1xel7 posts ante 160
+WDXXx posts ante 160
+OneGame974 posts ante 160
+Lajak79 posts ante 160
+Parieur_Xs68 posts small blind 700
+Benn Voyons posts big blind 1400
+Dealt to P1xel7 [5d Kc]
+*** PRE-FLOP *** 
+OneGame974 calls 1400
+Lajak79 folds
+P1xel7 folds
+WDXXx folds
+Parieur_Xs68 folds
+Benn Voyons checks
+*** FLOP *** [5s Ac Ad]
+Benn Voyons checks
+OneGame974 checks
+*** TURN *** [5s Ac Ad][2s]
+Benn Voyons bets 2899
+OneGame974 calls 2899
+*** RIVER *** [5s Ac Ad 2s][Qh]
+Benn Voyons bets 8206
+OneGame974 folds
+Benn Voyons collected 18464 from pot
+*** SUMMARY ***
+Total pot 18464 | No rake
+Board: [5s Ac Ad 2s Qh]
+Seat 4: Benn Voyons (big blind) won 18464
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #2910501411521298465-67-1691520866 - Holdem no limit (160/700/1400) - 2023/08/08 18:54:26 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (26334, 0.21€ bounty)
+Seat 2: WDXXx (31221, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (29772, 0.11€ bounty)
+Seat 4: Benn Voyons (58670, 0.16€ bounty)
+Seat 5: OneGame974 (95846, 0.26€ bounty)
+Seat 6: Lajak79 (60336, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Benn Voyons posts ante 160
+OneGame974 posts ante 160
+P1xel7 posts ante 160
+WDXXx posts ante 160
+Parieur_Xs68 posts ante 160
+Lajak79 posts ante 160
+Benn Voyons posts small blind 700
+OneGame974 posts big blind 1400
+Dealt to P1xel7 [6h 8h]
+*** PRE-FLOP *** 
+Lajak79 folds
+P1xel7 folds
+WDXXx folds
+Parieur_Xs68 folds
+Benn Voyons raises 1400 to 2800
+OneGame974 calls 1400
+*** FLOP *** [2d Jh 2c]
+Benn Voyons bets 1400
+OneGame974 folds
+Benn Voyons collected 7960 from pot
+*** SUMMARY ***
+Total pot 7960 | No rake
+Board: [2d Jh 2c]
+Seat 4: Benn Voyons (small blind) won 7960
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #2910501411521298465-68-1691521260 - Holdem no limit (160/700/1400) - 2023/08/08 19:01:00 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (26174, 0.21€ bounty)
+Seat 2: WDXXx (31061, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (29612, 0.11€ bounty)
+Seat 4: Benn Voyons (62270, 0.16€ bounty)
+Seat 5: OneGame974 (92886, 0.26€ bounty)
+Seat 6: Lajak79 (60176, 0.19€ bounty)
+*** ANTE/BLINDS ***
+OneGame974 posts ante 160
+Lajak79 posts ante 160
+P1xel7 posts ante 160
+WDXXx posts ante 160
+Parieur_Xs68 posts ante 160
+Benn Voyons posts ante 160
+OneGame974 posts small blind 700
+Lajak79 posts big blind 1400
+Dealt to P1xel7 [Tc Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+WDXXx folds
+Parieur_Xs68 folds
+Benn Voyons folds
+OneGame974 calls 700
+Lajak79 checks
+*** FLOP *** [Jc 3s 7c]
+OneGame974 checks
+Lajak79 bets 2100
+OneGame974 folds
+Lajak79 collected 5860 from pot
+*** SUMMARY ***
+Total pot 5860 | No rake
+Board: [Jc 3s 7c]
+Seat 6: Lajak79 (big blind) won 5860
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #2910501411521298465-69-1691521319 - Holdem no limit (160/700/1400) - 2023/08/08 19:01:59 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (26014, 0.21€ bounty)
+Seat 2: WDXXx (30901, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (29452, 0.11€ bounty)
+Seat 4: Benn Voyons (62110, 0.16€ bounty)
+Seat 5: OneGame974 (91326, 0.26€ bounty)
+Seat 6: Lajak79 (62376, 0.19€ bounty)
+*** ANTE/BLINDS ***
+Lajak79 posts ante 160
+P1xel7 posts ante 160
+WDXXx posts ante 160
+Parieur_Xs68 posts ante 160
+Benn Voyons posts ante 160
+OneGame974 posts ante 160
+Lajak79 posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [3d 3s]
+*** PRE-FLOP *** 
+WDXXx folds
+Parieur_Xs68 folds
+Benn Voyons folds
+OneGame974 folds
+Lajak79 folds
+P1xel7 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 1: P1xel7 (big blind) won 3060
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #2910501411521298465-70-1691521343 - Holdem no limit (200/800/1600) - 2023/08/08 19:02:23 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (27514, 0.21€ bounty)
+Seat 2: WDXXx (30741, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (29292, 0.11€ bounty)
+Seat 4: Benn Voyons (61950, 0.16€ bounty)
+Seat 5: OneGame974 (91166, 0.26€ bounty)
+Seat 6: Lajak79 (61516, 0.19€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+WDXXx posts ante 200
+Parieur_Xs68 posts ante 200
+Benn Voyons posts ante 200
+OneGame974 posts ante 200
+Lajak79 posts ante 200
+P1xel7 posts small blind 800
+WDXXx posts big blind 1600
+Dealt to P1xel7 [5s Kh]
+*** PRE-FLOP *** 
+Parieur_Xs68 folds
+Benn Voyons folds
+OneGame974 calls 1600
+Lajak79 folds
+P1xel7 folds
+WDXXx checks
+*** FLOP *** [9h Jd Tc]
+WDXXx checks
+OneGame974 bets 1820
+WDXXx calls 1820
+*** TURN *** [9h Jd Tc][Js]
+WDXXx checks
+OneGame974 checks
+*** RIVER *** [9h Jd Tc Js][8d]
+WDXXx bets 3094
+OneGame974 calls 3094
+*** SHOW DOWN ***
+WDXXx shows [2h 2d] (Two pairs : Jacks and 2)
+OneGame974 shows [9d Ts] (Two pairs : Jacks and Tens)
+OneGame974 collected 15028 from pot
+*** SUMMARY ***
+Total pot 15028 | No rake
+Board: [9h Jd Tc Js 8d]
+Seat 2: WDXXx (big blind) showed [2h 2d] and lost with Two pairs : Jacks and 2
+Seat 5: OneGame974 showed [9d Ts] and won 15028 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #2910501411521298465-71-1691521410 - Holdem no limit (200/800/1600) - 2023/08/08 19:03:30 UTC
+Table: 'Kill The Fish(677653917)#032' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (26514, 0.21€ bounty)
+Seat 2: WDXXx (24027, 0.21€ bounty)
+Seat 3: Parieur_Xs68 (29092, 0.11€ bounty)
+Seat 4: Benn Voyons (61750, 0.16€ bounty)
+Seat 5: OneGame974 (99480, 0.26€ bounty)
+Seat 6: Lajak79 (61316, 0.19€ bounty)
+*** ANTE/BLINDS ***
+WDXXx posts ante 200
+Parieur_Xs68 posts ante 200
+P1xel7 posts ante 200
+Benn Voyons posts ante 200
+OneGame974 posts ante 200
+Lajak79 posts ante 200
+WDXXx posts small blind 800
+Parieur_Xs68 posts big blind 1600
+Dealt to P1xel7 [3c 8d]
+*** PRE-FLOP *** 
+Benn Voyons folds
+OneGame974 calls 1600
+Lajak79 folds
+P1xel7 folds
+WDXXx calls 800
+Parieur_Xs68 checks
+*** FLOP *** [Tc Jc 9h]
+WDXXx checks
+Parieur_Xs68 bets 1600
+OneGame974 folds
+WDXXx folds
+Parieur_Xs68 collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Board: [Tc Jc 9h]
+Seat 3: Parieur_Xs68 (big blind) won 7600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #2910501411521298437-85-1691521518 - Holdem no limit (200/800/1600) - 2023/08/08 19:05:18 UTC
+Table: 'Kill The Fish(677653917)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Raymondu93 (104296, 0.27€ bounty)
+Seat 2: Tomquin (64990, 0.21€ bounty)
+Seat 3: eldios_baco (23066, 0.16€ bounty)
+Seat 4: Abel8062 (78696, 0.26€ bounty)
+Seat 5: P1xel7 (26314, 0.21€ bounty)
+Seat 6: soso.22 (25905, 0.16€ bounty)
+*** ANTE/BLINDS ***
+eldios_baco posts ante 200
+Abel8062 posts ante 200
+Raymondu93 posts ante 200
+Tomquin posts ante 200
+P1xel7 posts ante 200
+soso.22 posts ante 200
+eldios_baco posts small blind 800
+Abel8062 posts big blind 1600
+Dealt to P1xel7 [9h 4c]
+*** PRE-FLOP *** 
+P1xel7 folds
+soso.22 calls 1600
+Raymondu93 folds
+Tomquin calls 1600
+eldios_baco calls 800
+Abel8062 checks
+*** FLOP *** [9s 8s Ac]
+eldios_baco checks
+Abel8062 checks
+soso.22 bets 1600
+Tomquin calls 1600
+eldios_baco folds
+Abel8062 calls 1600
+*** TURN *** [9s 8s Ac][Qh]
+Abel8062 checks
+soso.22 bets 1600
+Tomquin calls 1600
+Abel8062 folds
+*** RIVER *** [9s 8s Ac Qh][3s]
+soso.22 checks
+Tomquin bets 7800
+soso.22 calls 7800
+*** SHOW DOWN ***
+Tomquin shows [7h As] (One pair : Aces)
+soso.22 shows [4s Ad] (One pair : Aces)
+soso.22 collected 15600 from pot
+Tomquin collected 15600 from pot
+*** SUMMARY ***
+Total pot 31200 | No rake
+Board: [9s 8s Ac Qh 3s]
+Seat 2: Tomquin (button) showed [7h As] and won 15600 with One pair : Aces
+Seat 6: soso.22 showed [4s Ad] and won 15600 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #2910501411521298437-86-1691521626 - Holdem no limit (250/1000/2000) - 2023/08/08 19:07:06 UTC
+Table: 'Kill The Fish(677653917)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Raymondu93 (104096, 0.27€ bounty)
+Seat 2: Tomquin (67790, 0.21€ bounty)
+Seat 3: eldios_baco (21266, 0.16€ bounty)
+Seat 4: Abel8062 (75296, 0.26€ bounty)
+Seat 5: P1xel7 (26114, 0.21€ bounty)
+Seat 6: soso.22 (28705, 0.16€ bounty)
+*** ANTE/BLINDS ***
+Abel8062 posts ante 250
+P1xel7 posts ante 250
+Raymondu93 posts ante 250
+Tomquin posts ante 250
+eldios_baco posts ante 250
+soso.22 posts ante 250
+Abel8062 posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [8d 9d]
+*** PRE-FLOP *** 
+soso.22 folds
+Raymondu93 calls 2000
+Tomquin folds
+eldios_baco folds
+Abel8062 calls 1000
+P1xel7 checks
+*** FLOP *** [6h Js Ts]
+Abel8062 checks
+P1xel7 checks
+Raymondu93 bets 2000
+Abel8062 calls 2000
+P1xel7 calls 2000
+*** TURN *** [6h Js Ts][5h]
+Abel8062 checks
+P1xel7 checks
+Raymondu93 bets 2000
+Abel8062 folds
+P1xel7 calls 2000
+*** RIVER *** [6h Js Ts 5h][Tc]
+P1xel7 bets 19864 and is all-in
+Raymondu93 calls 19864
+*** SHOW DOWN ***
+P1xel7 shows [8d 9d] (One pair : Tens)
+Raymondu93 shows [Jh Qc] (Two pairs : Jacks and Tens)
+Raymondu93 collected 57228 from pot
+*** SUMMARY ***
+Total pot 57228 | No rake
+Board: [6h Js Ts 5h Tc]
+Seat 1: Raymondu93 showed [Jh Qc] and won 57228 with Two pairs : Jacks and Tens
+Seat 5: P1xel7 (big blind) showed [8d 9d] and lost with One pair : Tens
+
+

@@ -1,0 +1,191 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3219183863590814335-26-1709149528 - Holdem no limit (80/350/700) - 2024/02/28 19:45:28 UTC
+Table: 'Freeroll(749524651)#0638' 8-max (real money) Seat #5 is the button
+Seat 1: bykill (48456)
+Seat 2: P1xel7 (20000)
+Seat 3: EFerrari84 (16560)
+Seat 4: cecela84 (65151)
+Seat 5: PochtaCCCP (7440)
+Seat 6: Anould (23719)
+Seat 7: GYLLAAK (63978)
+Seat 8: Leprefet (15006)
+*** ANTE/BLINDS ***
+Anould posts ante 80
+GYLLAAK posts ante 80
+bykill posts ante 80
+P1xel7 posts ante 80
+EFerrari84 posts ante 80
+cecela84 posts ante 80
+PochtaCCCP posts ante 80
+Leprefet posts ante 80
+Anould posts small blind 350
+GYLLAAK posts big blind 700
+Dealt to P1xel7 [5c 6s]
+*** PRE-FLOP *** 
+Leprefet folds
+bykill calls 700
+P1xel7 folds
+EFerrari84 folds
+cecela84 folds
+PochtaCCCP folds
+Anould calls 350
+GYLLAAK raises 1050 to 1750
+bykill calls 1050
+Anould folds
+*** FLOP *** [3h 5h 4s]
+GYLLAAK checks
+bykill bets 46626 and is all-in
+GYLLAAK folds
+bykill collected 51466 from pot
+*** SUMMARY ***
+Total pot 51466 | No rake
+Board: [3h 5h 4s]
+Seat 1: bykill won 51466
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3219183863590814335-27-1709149592 - Holdem no limit (100/400/800) - 2024/02/28 19:46:32 UTC
+Table: 'Freeroll(749524651)#0638' 8-max (real money) Seat #6 is the button
+Seat 1: bykill (51466)
+Seat 2: P1xel7 (19920)
+Seat 3: EFerrari84 (16480)
+Seat 4: cecela84 (65071)
+Seat 5: PochtaCCCP (7360)
+Seat 6: Anould (22939)
+Seat 7: GYLLAAK (62148)
+Seat 8: Leprefet (14926)
+*** ANTE/BLINDS ***
+GYLLAAK posts ante 100
+Leprefet posts ante 100
+bykill posts ante 100
+P1xel7 posts ante 100
+EFerrari84 posts ante 100
+cecela84 posts ante 100
+PochtaCCCP posts ante 100
+Anould posts ante 100
+GYLLAAK posts small blind 400
+Leprefet posts big blind 800
+Dealt to P1xel7 [Jh Jc]
+*** PRE-FLOP *** 
+bykill calls 800
+P1xel7 raises 3600 to 4400
+EFerrari84 folds
+cecela84 folds
+PochtaCCCP raises 2860 to 7260 and is all-in
+Anould folds
+GYLLAAK folds
+Leprefet calls 6460
+bykill folds
+P1xel7 calls 2860
+*** FLOP *** [Qd 9s 2s]
+Leprefet checks
+P1xel7 bets 11890
+Leprefet calls 7566 and is all-in
+*** TURN *** [Qd 9s 2s][Ks]
+*** RIVER *** [Qd 9s 2s Ks][7d]
+*** SHOW DOWN ***
+Leprefet shows [Ah Tc] (High card : Ace)
+P1xel7 shows [Jh Jc] (One pair : Jacks)
+PochtaCCCP shows [Qs Kh] (Two pairs : Kings and Queens)
+PochtaCCCP collected 23780 from main pot
+P1xel7 collected 19456 from side pot 1
+*** SUMMARY ***
+Total pot 43236 | No rake
+Board: [Qd 9s 2s Ks 7d]
+Seat 2: P1xel7 showed [Jh Jc] and won 19456 with One pair : Jacks
+Seat 5: PochtaCCCP showed [Qs Kh] and won 23780 with Two pairs : Kings and Queens
+Seat 8: Leprefet (big blind) showed [Ah Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3219183863590813918-34-1709149729 - Holdem no limit (120/500/1000) - 2024/02/28 19:48:49 UTC
+Table: 'Freeroll(749524651)#0221' 8-max (real money) Seat #4 is the button
+Seat 1: Sexymon (55619)
+Seat 2: Rouchkaah (37745)
+Seat 3: P1xel7 (20126)
+Seat 4: WF_Specimen4 (14690)
+Seat 5: HOUND89 (173156)
+Seat 6: MonesIBZ (35080)
+Seat 7: Sygajuan (17250)
+Seat 8: jca45 (36850)
+*** ANTE/BLINDS ***
+HOUND89 posts ante 120
+MonesIBZ posts ante 120
+Sexymon posts ante 120
+Rouchkaah posts ante 120
+P1xel7 posts ante 120
+WF_Specimen4 posts ante 120
+Sygajuan posts ante 120
+jca45 posts ante 120
+HOUND89 posts small blind 500
+MonesIBZ posts big blind 1000
+Dealt to P1xel7 [Kh 9s]
+*** PRE-FLOP *** 
+Sygajuan folds
+jca45 calls 1000
+Sexymon raises 4460 to 5460
+Rouchkaah folds
+P1xel7 folds
+WF_Specimen4 folds
+HOUND89 folds
+MonesIBZ folds
+jca45 calls 4460
+*** FLOP *** [Th 7h Js]
+jca45 checks
+Sexymon bets 6690
+jca45 raises 24580 to 31270 and is all-in
+Sexymon raises 18769 to 50039 and is all-in
+*** TURN *** [Th 7h Js][8c]
+*** RIVER *** [Th 7h Js 8c][Jc]
+*** SHOW DOWN ***
+jca45 shows [8h 4h] (Two pairs : Jacks and 8)
+Sexymon shows [Ad Ac] (Two pairs : Aces and Jacks)
+Sexymon collected 94689 from pot
+*** SUMMARY ***
+Total pot 94689 | No rake
+Board: [Th 7h Js 8c Jc]
+Seat 1: Sexymon showed [Ad Ac] and won 94689 with Two pairs : Aces and Jacks
+Seat 8: jca45 showed [8h 4h] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3219183863590813918-35-1709149787 - Holdem no limit (120/500/1000) - 2024/02/28 19:49:47 UTC
+Table: 'Freeroll(749524651)#0221' 8-max (real money) Seat #5 is the button
+Seat 1: Sexymon (94689)
+Seat 2: Rouchkaah (37625)
+Seat 3: P1xel7 (20006)
+Seat 4: WF_Specimen4 (14570)
+Seat 5: HOUND89 (172536)
+Seat 6: MonesIBZ (33960)
+Seat 7: Sygajuan (17130)
+*** ANTE/BLINDS ***
+MonesIBZ posts ante 120
+Sygajuan posts ante 120
+Sexymon posts ante 120
+Rouchkaah posts ante 120
+P1xel7 posts ante 120
+WF_Specimen4 posts ante 120
+HOUND89 posts ante 120
+MonesIBZ posts small blind 500
+Sygajuan posts big blind 1000
+Dealt to P1xel7 [Ks As]
+*** PRE-FLOP *** 
+Sexymon folds
+Rouchkaah folds
+P1xel7 raises 1500 to 2500
+WF_Specimen4 folds
+HOUND89 raises 5000 to 7500
+MonesIBZ folds
+Sygajuan folds
+P1xel7 raises 12386 to 19886 and is all-in
+HOUND89 calls 12386
+*** FLOP *** [4s 7c 2c]
+*** TURN *** [4s 7c 2c][5c]
+*** RIVER *** [4s 7c 2c 5c][6h]
+*** SHOW DOWN ***
+P1xel7 shows [Ks As] (High card : Ace)
+HOUND89 shows [Qh Qc] (One pair : Queens)
+HOUND89 collected 42112 from pot
+*** SUMMARY ***
+Total pot 42112 | No rake
+Board: [4s 7c 2c 5c 6h]
+Seat 3: P1xel7 showed [Ks As] and lost with High card : Ace
+Seat 5: HOUND89 (button) showed [Qh Qc] and won 42112 with One pair : Queens
+
+

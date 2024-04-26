@@ -1,0 +1,484 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3228702967112663041-1-1707070430 - Holdem no limit (10/20) - 2024/02/04 18:13:50 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #3 is the button
+Seat 1: moratore57 (500)
+Seat 2: hamfugitif67 (500)
+Seat 3: Aklor (500)
+Seat 4: P1xel7 (500)
+Seat 5: miky30k (500)
+Seat 6: Blafard.3794 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+miky30k posts big blind 20
+Dealt to P1xel7 [Ac 9h]
+*** PRE-FLOP *** 
+Blafard.3794 calls 20
+moratore57 calls 20
+hamfugitif67 raises 480 to 500 and is all-in
+Aklor folds
+P1xel7 folds
+miky30k calls 480 and is all-in
+Blafard.3794 folds
+moratore57 folds
+*** FLOP *** [9s Qs Jc]
+*** TURN *** [9s Qs Jc][7c]
+*** RIVER *** [9s Qs Jc 7c][4d]
+*** SHOW DOWN ***
+miky30k shows [8s Ah] (High card : Ace)
+hamfugitif67 shows [Ks 7s] (One pair : 7)
+hamfugitif67 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [9s Qs Jc 7c 4d]
+Seat 2: hamfugitif67 showed [Ks 7s] and won 1050 with One pair : 7
+Seat 5: miky30k (big blind) showed [8s Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3228702967112663041-2-1707070460 - Holdem no limit (10/20) - 2024/02/04 18:14:20 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #4 is the button
+Seat 1: moratore57 (480)
+Seat 2: hamfugitif67 (1050)
+Seat 3: Aklor (500)
+Seat 4: P1xel7 (490)
+Seat 6: Blafard.3794 (480)
+*** ANTE/BLINDS ***
+Blafard.3794 posts big blind 20
+Dealt to P1xel7 [3d Ks]
+*** PRE-FLOP *** 
+moratore57 calls 20
+hamfugitif67 raises 1030 to 1050 and is all-in
+Aklor calls 500 and is all-in
+P1xel7 folds
+Blafard.3794 calls 460 and is all-in
+moratore57 calls 460 and is all-in
+*** FLOP *** [Qc Ah Qd]
+*** TURN *** [Qc Ah Qd][4s]
+*** RIVER *** [Qc Ah Qd 4s][4h]
+*** SHOW DOWN ***
+Aklor shows [6c 6d] (Two pairs : Queens and 6)
+Blafard.3794 shows [8d 8c] (Two pairs : Queens and 8)
+moratore57 shows [Kh Ac] (Two pairs : Aces and Queens)
+hamfugitif67 shows [9s 9d] (Two pairs : Queens and 9)
+hamfugitif67 collected 590 from side pot 1
+moratore57 collected 1920 from main pot
+*** SUMMARY ***
+Total pot 2510 | No rake
+Board: [Qc Ah Qd 4s 4h]
+Seat 1: moratore57 showed [Kh Ac] and won 1920 with Two pairs : Aces and Queens
+Seat 2: hamfugitif67 showed [9s 9d] and won 590 with Two pairs : Queens and 9
+Seat 3: Aklor showed [6c 6d] and lost with Two pairs : Queens and 6
+Seat 6: Blafard.3794 (big blind) showed [8d 8c] and lost with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3228702967112663041-3-1707070480 - Holdem no limit (10/20) - 2024/02/04 18:14:40 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #5 is the button
+Seat 1: moratore57 (1920)
+Seat 2: hamfugitif67 (590)
+Seat 4: P1xel7 (490)
+*** ANTE/BLINDS ***
+moratore57 posts big blind 20
+Dealt to P1xel7 [6d 9s]
+*** PRE-FLOP *** 
+hamfugitif67 raises 570 to 590 and is all-in
+P1xel7 folds
+moratore57 folds
+hamfugitif67 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Seat 2: hamfugitif67 won 610
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3228702967112663041-4-1707070489 - Holdem no limit (10/20) - 2024/02/04 18:14:49 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #6 is the button
+Seat 1: moratore57 (1900)
+Seat 2: hamfugitif67 (610)
+Seat 4: P1xel7 (490)
+*** ANTE/BLINDS ***
+moratore57 posts small blind 10
+hamfugitif67 posts big blind 20
+Dealt to P1xel7 [9s 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+moratore57 calls 10
+hamfugitif67 raises 590 to 610 and is all-in
+moratore57 calls 590
+*** FLOP *** [5c 7d 9c]
+*** TURN *** [5c 7d 9c][Kd]
+*** RIVER *** [5c 7d 9c Kd][2c]
+*** SHOW DOWN ***
+hamfugitif67 shows [4s 7h] (One pair : 7)
+moratore57 shows [5d 5h] (Trips of 5)
+moratore57 collected 1220 from pot
+*** SUMMARY ***
+Total pot 1220 | No rake
+Board: [5c 7d 9c Kd 2c]
+Seat 1: moratore57 (small blind) showed [5d 5h] and won 1220 with Trips of 5
+Seat 2: hamfugitif67 (big blind) showed [4s 7h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3228702967112663041-5-1707070505 - Holdem no limit (10/20) - 2024/02/04 18:15:05 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #4 is the button
+Seat 1: moratore57 (2510)
+Seat 4: P1xel7 (490)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+moratore57 posts big blind 20
+Dealt to P1xel7 [Td 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+moratore57 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: moratore57 (big blind) won 30
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3228702967112663041-6-1707070513 - Holdem no limit (10/20) - 2024/02/04 18:15:13 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #1 is the button
+Seat 1: moratore57 (2520)
+Seat 4: P1xel7 (480)
+*** ANTE/BLINDS ***
+moratore57 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Kh Kd]
+*** PRE-FLOP *** 
+moratore57 calls 10
+P1xel7 raises 30 to 50
+moratore57 calls 30
+*** FLOP *** [9s Td 7d]
+P1xel7 checks
+moratore57 checks
+*** TURN *** [9s Td 7d][6d]
+P1xel7 bets 25
+moratore57 calls 25
+*** RIVER *** [9s Td 7d 6d][3d]
+P1xel7 bets 75
+moratore57 raises 75 to 150
+P1xel7 raises 255 to 405 and is all-in
+moratore57 calls 255
+*** SHOW DOWN ***
+moratore57 shows [Jd Tc] (Flush Jack high)
+P1xel7 shows [Kh Kd] (Flush King high)
+P1xel7 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [9s Td 7d 6d 3d]
+Seat 1: moratore57 (small blind) (button) showed [Jd Tc] and lost with Flush Jack high
+Seat 4: P1xel7 (big blind) showed [Kh Kd] and won 960 with Flush King high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3228702967112663041-7-1707070550 - Holdem no limit (15/30) - 2024/02/04 18:15:50 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #4 is the button
+Seat 1: moratore57 (2040)
+Seat 4: P1xel7 (960)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+moratore57 posts big blind 30
+Dealt to P1xel7 [Td 9h]
+*** PRE-FLOP *** 
+P1xel7 raises 38 to 68
+moratore57 folds
+P1xel7 collected 98 from pot
+*** SUMMARY ***
+Total pot 98 | No rake
+Seat 4: P1xel7 (small blind) (button) won 98
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3228702967112663041-8-1707070558 - Holdem no limit (15/30) - 2024/02/04 18:15:58 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #1 is the button
+Seat 1: moratore57 (2010)
+Seat 4: P1xel7 (990)
+*** ANTE/BLINDS ***
+moratore57 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [3d 4h]
+*** PRE-FLOP *** 
+moratore57 calls 15
+P1xel7 checks
+*** FLOP *** [9d Ac 8d]
+P1xel7 checks
+moratore57 checks
+*** TURN *** [9d Ac 8d][As]
+P1xel7 checks
+moratore57 checks
+*** RIVER *** [9d Ac 8d As][Qd]
+P1xel7 checks
+moratore57 bets 30
+P1xel7 folds
+moratore57 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9d Ac 8d As Qd]
+Seat 1: moratore57 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3228702967112663041-9-1707070581 - Holdem no limit (15/30) - 2024/02/04 18:16:21 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #4 is the button
+Seat 1: moratore57 (2040)
+Seat 4: P1xel7 (960)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+moratore57 posts big blind 30
+Dealt to P1xel7 [3c Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 930 to 960 and is all-in
+moratore57 calls 930
+*** FLOP *** [5h Kc Qc]
+*** TURN *** [5h Kc Qc][7c]
+*** RIVER *** [5h Kc Qc 7c][Kh]
+*** SHOW DOWN ***
+moratore57 shows [6c 6d] (Two pairs : Kings and 6)
+P1xel7 shows [3c Ac] (Flush Ace high)
+P1xel7 collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | No rake
+Board: [5h Kc Qc 7c Kh]
+Seat 1: moratore57 (big blind) showed [6c 6d] and lost with Two pairs : Kings and 6
+Seat 4: P1xel7 (small blind) (button) showed [3c Ac] and won 1920 with Flush Ace high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3228702967112663041-10-1707070600 - Holdem no limit (15/30) - 2024/02/04 18:16:40 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #1 is the button
+Seat 1: moratore57 (1080)
+Seat 4: P1xel7 (1920)
+*** ANTE/BLINDS ***
+moratore57 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [8s 3c]
+*** PRE-FLOP *** 
+moratore57 raises 1050 to 1080 and is all-in
+P1xel7 folds
+moratore57 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 1: moratore57 (small blind) (button) won 1110
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3228702967112663041-11-1707070615 - Holdem no limit (20/40) - 2024/02/04 18:16:55 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #4 is the button
+Seat 1: moratore57 (1110)
+Seat 4: P1xel7 (1890)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+moratore57 posts big blind 40
+Dealt to P1xel7 [3h Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+moratore57 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: moratore57 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3228702967112663041-12-1707070622 - Holdem no limit (20/40) - 2024/02/04 18:17:02 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #1 is the button
+Seat 1: moratore57 (1130)
+Seat 4: P1xel7 (1870)
+*** ANTE/BLINDS ***
+moratore57 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Tc 8s]
+*** PRE-FLOP *** 
+moratore57 calls 20
+P1xel7 checks
+*** FLOP *** [9s 3c 5h]
+P1xel7 bets 40
+moratore57 calls 40
+*** TURN *** [9s 3c 5h][3d]
+P1xel7 bets 56
+moratore57 calls 56
+*** RIVER *** [9s 3c 5h 3d][Qd]
+P1xel7 checks
+moratore57 checks
+*** SHOW DOWN ***
+moratore57 shows [8h 6c] (One pair : 3)
+P1xel7 shows [Tc 8s] (One pair : 3)
+P1xel7 collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | No rake
+Board: [9s 3c 5h 3d Qd]
+Seat 1: moratore57 (small blind) (button) showed [8h 6c] and lost with One pair : 3
+Seat 4: P1xel7 (big blind) showed [Tc 8s] and won 272 with One pair : 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3228702967112663041-13-1707070653 - Holdem no limit (20/40) - 2024/02/04 18:17:33 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #4 is the button
+Seat 1: moratore57 (994)
+Seat 4: P1xel7 (2006)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+moratore57 posts big blind 40
+Dealt to P1xel7 [8s 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+moratore57 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: moratore57 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3228702967112663041-14-1707070660 - Holdem no limit (20/40) - 2024/02/04 18:17:40 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #1 is the button
+Seat 1: moratore57 (1014)
+Seat 4: P1xel7 (1986)
+*** ANTE/BLINDS ***
+moratore57 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [5s 2d]
+*** PRE-FLOP *** 
+moratore57 calls 20
+P1xel7 checks
+*** FLOP *** [7c Qh Ks]
+P1xel7 checks
+moratore57 bets 40
+P1xel7 folds
+moratore57 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [7c Qh Ks]
+Seat 1: moratore57 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3228702967112663041-15-1707070676 - Holdem no limit (20/40) - 2024/02/04 18:17:56 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #4 is the button
+Seat 1: moratore57 (1054)
+Seat 4: P1xel7 (1946)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+moratore57 posts big blind 40
+Dealt to P1xel7 [Kc As]
+*** PRE-FLOP *** 
+P1xel7 raises 50 to 90
+moratore57 calls 50
+*** FLOP *** [9s 6d 6h]
+moratore57 checks
+P1xel7 bets 63
+moratore57 calls 63
+*** TURN *** [9s 6d 6h][2s]
+moratore57 checks
+P1xel7 bets 107
+moratore57 calls 107
+*** RIVER *** [9s 6d 6h 2s][9c]
+moratore57 checks
+P1xel7 bets 416
+moratore57 calls 416
+*** SHOW DOWN ***
+moratore57 shows [Qh 8h] (Two pairs : 9 and 6)
+P1xel7 shows [Kc As] (Two pairs : 9 and 6)
+P1xel7 collected 1352 from pot
+*** SUMMARY ***
+Total pot 1352 | No rake
+Board: [9s 6d 6h 2s 9c]
+Seat 1: moratore57 (big blind) showed [Qh 8h] and lost with Two pairs : 9 and 6
+Seat 4: P1xel7 (small blind) (button) showed [Kc As] and won 1352 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3228702967112663041-16-1707070714 - Holdem no limit (30/60) - 2024/02/04 18:18:34 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #1 is the button
+Seat 1: moratore57 (378)
+Seat 4: P1xel7 (2622)
+*** ANTE/BLINDS ***
+moratore57 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Qh Qc]
+*** PRE-FLOP *** 
+moratore57 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3228702967112663041-17-1707070720 - Holdem no limit (30/60) - 2024/02/04 18:18:40 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #4 is the button
+Seat 1: moratore57 (348)
+Seat 4: P1xel7 (2652)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+moratore57 posts big blind 60
+Dealt to P1xel7 [Kc 3h]
+*** PRE-FLOP *** 
+P1xel7 raises 2592 to 2652 and is all-in
+moratore57 calls 288 and is all-in
+*** FLOP *** [9d 6h 8c]
+*** TURN *** [9d 6h 8c][Js]
+*** RIVER *** [9d 6h 8c Js][4c]
+*** SHOW DOWN ***
+moratore57 shows [Kd 4d] (One pair : 4)
+P1xel7 shows [Kc 3h] (High card : King)
+P1xel7 collected 2304 from side pot 1
+moratore57 collected 696 from main pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [9d 6h 8c Js 4c]
+Seat 1: moratore57 (big blind) showed [Kd 4d] and won 696 with One pair : 4
+Seat 4: P1xel7 (small blind) (button) showed [Kc 3h] and won 2304 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3228702967112663041-18-1707070733 - Holdem no limit (30/60) - 2024/02/04 18:18:53 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #1 is the button
+Seat 1: moratore57 (696)
+Seat 4: P1xel7 (2304)
+*** ANTE/BLINDS ***
+moratore57 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [9d Qs]
+*** PRE-FLOP *** 
+moratore57 calls 30
+P1xel7 raises 2244 to 2304 and is all-in
+moratore57 calls 636 and is all-in
+*** FLOP *** [5c 8c Kh]
+*** TURN *** [5c 8c Kh][2d]
+*** RIVER *** [5c 8c Kh 2d][Ts]
+*** SHOW DOWN ***
+moratore57 shows [5s 3s] (One pair : 5)
+P1xel7 shows [9d Qs] (High card : King)
+P1xel7 collected 1608 from side pot 1
+moratore57 collected 1392 from main pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [5c 8c Kh 2d Ts]
+Seat 1: moratore57 (small blind) (button) showed [5s 3s] and won 1392 with One pair : 5
+Seat 4: P1xel7 (big blind) showed [9d Qs] and won 1608 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3228702967112663041-19-1707070747 - Holdem no limit (30/60) - 2024/02/04 18:19:07 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #4 is the button
+Seat 1: moratore57 (1392)
+Seat 4: P1xel7 (1608)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+moratore57 posts big blind 60
+Dealt to P1xel7 [4c 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+moratore57 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: moratore57 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3228702967112663041-20-1707070754 - Holdem no limit (30/60) - 2024/02/04 18:19:14 UTC
+Table: 'Starting Block WiPT - Déglingos(751740990)#0' 6-max (real money) Seat #1 is the button
+Seat 1: moratore57 (1422)
+Seat 4: P1xel7 (1578)
+*** ANTE/BLINDS ***
+moratore57 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Ad 9s]
+*** PRE-FLOP *** 
+moratore57 calls 30
+P1xel7 raises 1518 to 1578 and is all-in
+moratore57 calls 1362 and is all-in
+*** FLOP *** [2s 6c Ks]
+*** TURN *** [2s 6c Ks][5s]
+*** RIVER *** [2s 6c Ks 5s][5h]
+*** SHOW DOWN ***
+moratore57 shows [Ah 4h] (One pair : 5)
+P1xel7 shows [Ad 9s] (One pair : 5)
+P1xel7 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [2s 6c Ks 5s 5h]
+Seat 1: moratore57 (small blind) (button) showed [Ah 4h] and lost with One pair : 5
+Seat 4: P1xel7 (big blind) showed [Ad 9s] and won 3000 with One pair : 5
+
+

@@ -1,0 +1,189 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244803188892631041-1-1707851553 - Holdem no limit (10/20) - 2024/02/13 19:12:33 UTC
+Table: 'Starting Block WiPT - Déglingos(755489615)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Biche Naif75 (500)
+Seat 2: Gruissan64 (500)
+Seat 3: JackieLCC (500)
+Seat 4: An So 34 (500)
+Seat 5: miss BB (500)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+Gruissan64 posts small blind 10
+JackieLCC posts big blind 20
+Dealt to P1xel7 [5d 3d]
+*** PRE-FLOP *** 
+An So 34 folds
+miss BB raises 50 to 70
+P1xel7 folds
+Biche Naif75 folds
+Gruissan64 folds
+JackieLCC raises 430 to 500 and is all-in
+miss BB calls 430 and is all-in
+*** FLOP *** [5s 4h 5h]
+*** TURN *** [5s 4h 5h][2d]
+*** RIVER *** [5s 4h 5h 2d][Jh]
+*** SHOW DOWN ***
+JackieLCC shows [As Th] (One pair : 5)
+miss BB shows [9d 9c] (Two pairs : 9 and 5)
+miss BB collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [5s 4h 5h 2d Jh]
+Seat 3: JackieLCC (big blind) showed [As Th] and lost with One pair : 5
+Seat 5: miss BB showed [9d 9c] and won 1010 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244803188892631041-2-1707851641 - Holdem no limit (10/20) - 2024/02/13 19:14:01 UTC
+Table: 'Starting Block WiPT - Déglingos(755489615)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Biche Naif75 (500)
+Seat 2: Gruissan64 (490)
+Seat 4: An So 34 (500)
+Seat 5: miss BB (1010)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+An So 34 posts big blind 20
+Dealt to P1xel7 [9h 2h]
+*** PRE-FLOP *** 
+miss BB calls 20
+P1xel7 folds
+Biche Naif75 raises 20 to 40
+Gruissan64 calls 40
+An So 34 folds
+miss BB calls 20
+*** FLOP *** [Jh Ah 4c]
+miss BB checks
+Biche Naif75 bets 20
+Gruissan64 calls 20
+miss BB folds
+*** TURN *** [Jh Ah 4c][Qc]
+Biche Naif75 bets 440 and is all-in
+Gruissan64 folds
+Biche Naif75 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Jh Ah 4c Qc]
+Seat 1: Biche Naif75 won 620
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244803188892631041-3-1707851737 - Holdem no limit (20/40) - 2024/02/13 19:15:37 UTC
+Table: 'Starting Block WiPT - Déglingos(755489615)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Biche Naif75 (620)
+Seat 2: Gruissan64 (430)
+Seat 4: An So 34 (480)
+Seat 5: miss BB (970)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+An So 34 posts small blind 20
+miss BB posts big blind 40
+Dealt to P1xel7 [2d Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Biche Naif75 folds
+Gruissan64 folds
+An So 34 calls 20
+miss BB checks
+*** FLOP *** [2h 5d 7d]
+An So 34 bets 40
+miss BB raises 160 to 200
+An So 34 raises 240 to 440 and is all-in
+miss BB calls 240
+*** TURN *** [2h 5d 7d][Kh]
+*** RIVER *** [2h 5d 7d Kh][Ad]
+*** SHOW DOWN ***
+An So 34 shows [8c 7s] (One pair : 7)
+miss BB shows [8s 7c] (One pair : 7)
+miss BB collected 480 from pot
+An So 34 collected 480 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [2h 5d 7d Kh Ad]
+Seat 4: An So 34 (small blind) showed [8c 7s] and won 480 with One pair : 7
+Seat 5: miss BB (big blind) showed [8s 7c] and won 480 with One pair : 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244803188892631041-4-1707851789 - Holdem no limit (20/40) - 2024/02/13 19:16:29 UTC
+Table: 'Starting Block WiPT - Déglingos(755489615)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Biche Naif75 (620)
+Seat 2: Gruissan64 (430)
+Seat 4: An So 34 (480)
+Seat 5: miss BB (970)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+miss BB posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Kh Ac]
+*** PRE-FLOP *** 
+Biche Naif75 calls 40
+Gruissan64 folds
+An So 34 folds
+miss BB calls 20
+P1xel7 raises 60 to 100
+Biche Naif75 calls 60
+miss BB calls 60
+*** FLOP *** [3h 9c 5c]
+miss BB bets 870 and is all-in
+P1xel7 folds
+Biche Naif75 folds
+miss BB collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Board: [3h 9c 5c]
+Seat 5: miss BB (small blind) won 1170
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244803188892631041-5-1707851837 - Holdem no limit (30/60) - 2024/02/13 19:17:17 UTC
+Table: 'Starting Block WiPT - Déglingos(755489615)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Biche Naif75 (520)
+Seat 2: Gruissan64 (430)
+Seat 4: An So 34 (480)
+Seat 5: miss BB (1170)
+Seat 6: P1xel7 (400)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Biche Naif75 posts big blind 60
+Dealt to P1xel7 [5h Th]
+*** PRE-FLOP *** 
+Gruissan64 folds
+An So 34 folds
+miss BB folds
+P1xel7 folds
+Biche Naif75 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: Biche Naif75 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244803188892631041-6-1707851867 - Holdem no limit (30/60) - 2024/02/13 19:17:47 UTC
+Table: 'Starting Block WiPT - Déglingos(755489615)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Biche Naif75 (550)
+Seat 2: Gruissan64 (430)
+Seat 4: An So 34 (480)
+Seat 5: miss BB (1170)
+Seat 6: P1xel7 (370)
+*** ANTE/BLINDS ***
+Biche Naif75 posts small blind 30
+Gruissan64 posts big blind 60
+Dealt to P1xel7 [6c 6h]
+*** PRE-FLOP *** 
+An So 34 raises 60 to 120
+miss BB calls 120
+P1xel7 raises 250 to 370 and is all-in
+Biche Naif75 folds
+Gruissan64 folds
+An So 34 raises 110 to 480 and is all-in
+miss BB calls 360
+*** FLOP *** [5d Js Th]
+*** TURN *** [5d Js Th][Qh]
+*** RIVER *** [5d Js Th Qh][2h]
+*** SHOW DOWN ***
+miss BB shows [As 3s] (High card : Ace)
+P1xel7 shows [6c 6h] (One pair : 6)
+An So 34 shows [Jd Ah] (One pair : Jacks)
+An So 34 collected 1420 from pot
+*** SUMMARY ***
+Total pot 1420 | No rake
+Board: [5d Js Th Qh 2h]
+Seat 4: An So 34 showed [Jd Ah] and won 1420 with One pair : Jacks
+Seat 5: miss BB showed [As 3s] and lost with High card : Ace
+Seat 6: P1xel7 (button) showed [6c 6h] and lost with One pair : 6
+
+

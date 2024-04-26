@@ -1,0 +1,153 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277616099083943937-1-1709491840 - Holdem no limit (10/20) - 2024/03/03 18:50:40 UTC
+Table: 'Starting Block WiPT - Déglingos(763129466)#0' 6-max (real money) Seat #5 is the button
+Seat 1: vrs 260 (500)
+Seat 2: Tounisan69 (500)
+Seat 3: Copek26 (500)
+Seat 4: Santamaria83 (500)
+Seat 5: P1xel7 (500)
+Seat 6: wmx-6cb3lj6 (500)
+*** ANTE/BLINDS ***
+wmx-6cb3lj6 posts small blind 10
+vrs 260 posts big blind 20
+Dealt to P1xel7 [9h 5h]
+*** PRE-FLOP *** 
+Tounisan69 raises 480 to 500 and is all-in
+Copek26 calls 500 and is all-in
+Santamaria83 calls 500 and is all-in
+P1xel7 folds
+wmx-6cb3lj6 folds
+vrs 260 calls 480 and is all-in
+*** FLOP *** [8h 3h Qs]
+*** TURN *** [8h 3h Qs][2h]
+*** RIVER *** [8h 3h Qs 2h][3s]
+*** SHOW DOWN ***
+vrs 260 shows [4d Ah] (One pair : 3)
+Tounisan69 shows [2d As] (Two pairs : 3 and 2)
+Copek26 shows [Jc 2c] (Two pairs : 3 and 2)
+Santamaria83 shows [9c 9d] (Two pairs : 9 and 3)
+Santamaria83 collected 2010 from pot
+*** SUMMARY ***
+Total pot 2010 | No rake
+Board: [8h 3h Qs 2h 3s]
+Seat 1: vrs 260 (big blind) showed [4d Ah] and lost with One pair : 3
+Seat 2: Tounisan69 showed [2d As] and lost with Two pairs : 3 and 2
+Seat 3: Copek26 showed [Jc 2c] and lost with Two pairs : 3 and 2
+Seat 4: Santamaria83 showed [9c 9d] and won 2010 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277616099083943937-2-1709491904 - Holdem no limit (10/20) - 2024/03/03 18:51:44 UTC
+Table: 'Starting Block WiPT - Déglingos(763129466)#0' 6-max (real money) Seat #6 is the button
+Seat 4: Santamaria83 (2010)
+Seat 5: P1xel7 (500)
+Seat 6: wmx-6cb3lj6 (490)
+*** ANTE/BLINDS ***
+Santamaria83 posts big blind 20
+Dealt to P1xel7 [3c 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-6cb3lj6 calls 20
+Santamaria83 checks
+*** FLOP *** [9s 9c Qh]
+Santamaria83 checks
+wmx-6cb3lj6 bets 40
+Santamaria83 calls 40
+*** TURN *** [9s 9c Qh][7c]
+Santamaria83 checks
+wmx-6cb3lj6 bets 120
+Santamaria83 calls 120
+*** RIVER *** [9s 9c Qh 7c][Ks]
+Santamaria83 bets 20
+wmx-6cb3lj6 raises 253 to 273
+Santamaria83 calls 253
+*** SHOW DOWN ***
+Santamaria83 shows [2s Kc] (Two pairs : Kings and 9)
+wmx-6cb3lj6 shows [9h 5h] (Trips of 9)
+wmx-6cb3lj6 collected 906 from pot
+*** SUMMARY ***
+Total pot 906 | No rake
+Board: [9s 9c Qh 7c Ks]
+Seat 4: Santamaria83 (big blind) showed [2s Kc] and lost with Two pairs : Kings and 9
+Seat 6: wmx-6cb3lj6 (button) showed [9h 5h] and won 906 with Trips of 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277616099083943937-3-1709491951 - Holdem no limit (15/30) - 2024/03/03 18:52:31 UTC
+Table: 'Starting Block WiPT - Déglingos(763129466)#0' 6-max (real money) Seat #1 is the button
+Seat 4: Santamaria83 (1557)
+Seat 5: P1xel7 (500)
+Seat 6: wmx-6cb3lj6 (943)
+*** ANTE/BLINDS ***
+Santamaria83 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Ad 5h]
+*** PRE-FLOP *** 
+wmx-6cb3lj6 calls 30
+Santamaria83 calls 15
+P1xel7 checks
+*** FLOP *** [6h 4d 5s]
+Santamaria83 bets 30
+P1xel7 calls 30
+wmx-6cb3lj6 raises 107 to 137
+Santamaria83 calls 107
+P1xel7 calls 107
+*** TURN *** [6h 4d 5s][Qc]
+Santamaria83 checks
+P1xel7 checks
+wmx-6cb3lj6 bets 501
+Santamaria83 folds
+P1xel7 folds
+wmx-6cb3lj6 collected 1002 from pot
+*** SUMMARY ***
+Total pot 1002 | No rake
+Board: [6h 4d 5s Qc]
+Seat 6: wmx-6cb3lj6 won 1002
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277616099083943937-4-1709492011 - Holdem no limit (15/30) - 2024/03/03 18:53:31 UTC
+Table: 'Starting Block WiPT - Déglingos(763129466)#0' 6-max (real money) Seat #4 is the button
+Seat 4: Santamaria83 (1390)
+Seat 5: P1xel7 (333)
+Seat 6: wmx-6cb3lj6 (1277)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+wmx-6cb3lj6 posts big blind 30
+Dealt to P1xel7 [Js 3c]
+*** PRE-FLOP *** 
+Santamaria83 folds
+P1xel7 folds
+wmx-6cb3lj6 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 6: wmx-6cb3lj6 (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277616099083943937-5-1709492016 - Holdem no limit (15/30) - 2024/03/03 18:53:36 UTC
+Table: 'Starting Block WiPT - Déglingos(763129466)#0' 6-max (real money) Seat #5 is the button
+Seat 4: Santamaria83 (1390)
+Seat 5: P1xel7 (318)
+Seat 6: wmx-6cb3lj6 (1292)
+*** ANTE/BLINDS ***
+wmx-6cb3lj6 posts small blind 15
+Santamaria83 posts big blind 30
+Dealt to P1xel7 [Ah Kd]
+*** PRE-FLOP *** 
+P1xel7 raises 45 to 75
+wmx-6cb3lj6 calls 60
+Santamaria83 calls 45
+*** FLOP *** [As 8s 7s]
+wmx-6cb3lj6 checks
+Santamaria83 bets 1315 and is all-in
+P1xel7 calls 243 and is all-in
+wmx-6cb3lj6 folds
+*** TURN *** [As 8s 7s][7d]
+*** RIVER *** [As 8s 7s 7d][3d]
+*** SHOW DOWN ***
+P1xel7 shows [Ah Kd] (Two pairs : Aces and 7)
+Santamaria83 shows [Ks Qs] (Flush Ace high)
+Santamaria83 collected 1783 from pot
+*** SUMMARY ***
+Total pot 1783 | No rake
+Board: [As 8s 7s 7d 3d]
+Seat 4: Santamaria83 (big blind) showed [Ks Qs] and won 1783 with Flush Ace high
+Seat 5: P1xel7 (button) showed [Ah Kd] and lost with Two pairs : Aces and 7
+
+

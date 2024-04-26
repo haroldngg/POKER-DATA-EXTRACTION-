@@ -1,0 +1,584 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3107158875854340125-26-1703270426 - Holdem no limit (60/250/500) - 2023/12/22 18:40:26 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #6 is the button
+Seat 1: JeGombrenBas (23070, 0.45€ bounty)
+Seat 2: BrunoJuiphe (19820, 0.45€ bounty)
+Seat 3: P1xel7 (20000, 0.45€ bounty)
+Seat 4: Hayha91 (48249, 0.67€ bounty)
+Seat 5: Jackouille64 (58663, 0.89€ bounty)
+Seat 6: Hadrian248 (65582, 0.89€ bounty)
+*** ANTE/BLINDS ***
+JeGombrenBas posts ante 60
+BrunoJuiphe posts ante 60
+P1xel7 posts ante 60
+Hayha91 posts ante 60
+Jackouille64 posts ante 60
+Hadrian248 posts ante 60
+JeGombrenBas posts small blind 250
+BrunoJuiphe posts big blind 500
+Dealt to P1xel7 [Ad Jd]
+*** PRE-FLOP *** 
+P1xel7 raises 600 to 1100
+Hayha91 folds
+Jackouille64 calls 1100
+Hadrian248 folds
+JeGombrenBas calls 850
+BrunoJuiphe calls 600
+*** FLOP *** [5c Kc 8c]
+JeGombrenBas checks
+BrunoJuiphe checks
+P1xel7 checks
+Jackouille64 bets 1666
+JeGombrenBas calls 1666
+BrunoJuiphe calls 1666
+P1xel7 folds
+*** TURN *** [5c Kc 8c][8h]
+JeGombrenBas checks
+BrunoJuiphe checks
+Jackouille64 bets 3415
+JeGombrenBas calls 3415
+BrunoJuiphe folds
+*** RIVER *** [5c Kc 8c 8h][9d]
+JeGombrenBas checks
+Jackouille64 checks
+*** SHOW DOWN ***
+Jackouille64 shows [Jc 9s] (Two pairs : 9 and 8)
+JeGombrenBas shows [Ac 3c] (Flush Ace high)
+JeGombrenBas collected 16588 from pot
+*** SUMMARY ***
+Total pot 16588 | No rake
+Board: [5c Kc 8c 8h 9d]
+Seat 1: JeGombrenBas (small blind) showed [Ac 3c] and won 16588 with Flush Ace high
+Seat 5: Jackouille64 showed [Jc 9s] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3107158875854340125-27-1703270533 - Holdem no limit (70/300/600) - 2023/12/22 18:42:13 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #1 is the button
+Seat 1: JeGombrenBas (33417, 0.45€ bounty)
+Seat 2: BrunoJuiphe (16994, 0.45€ bounty)
+Seat 3: P1xel7 (18840, 0.45€ bounty)
+Seat 4: Hayha91 (48189, 0.67€ bounty)
+Seat 5: Jackouille64 (52422, 0.89€ bounty)
+Seat 6: Hadrian248 (65522, 0.89€ bounty)
+*** ANTE/BLINDS ***
+BrunoJuiphe posts ante 70
+P1xel7 posts ante 70
+JeGombrenBas posts ante 70
+Hayha91 posts ante 70
+Jackouille64 posts ante 70
+Hadrian248 posts ante 70
+BrunoJuiphe posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [4d Kc]
+*** PRE-FLOP *** 
+Hayha91 folds
+Jackouille64 calls 600
+Hadrian248 calls 600
+JeGombrenBas folds
+BrunoJuiphe folds
+P1xel7 checks
+*** FLOP *** [8c 7s 8s]
+P1xel7 checks
+Jackouille64 checks
+Hadrian248 checks
+*** TURN *** [8c 7s 8s][Qs]
+P1xel7 checks
+Jackouille64 checks
+Hadrian248 checks
+*** RIVER *** [8c 7s 8s Qs][9d]
+P1xel7 checks
+Jackouille64 checks
+Hadrian248 checks
+*** SHOW DOWN ***
+P1xel7 shows [4d Kc] (One pair : 8)
+Jackouille64 shows [3s Ac] (One pair : 8)
+Hadrian248 shows [3d 3c] (Two pairs : 8 and 3)
+Hadrian248 collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Board: [8c 7s 8s Qs 9d]
+Seat 3: P1xel7 (big blind) showed [4d Kc] and lost with One pair : 8
+Seat 5: Jackouille64 showed [3s Ac] and lost with One pair : 8
+Seat 6: Hadrian248 showed [3d 3c] and won 2520 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3107158875854340125-28-1703270600 - Holdem no limit (70/300/600) - 2023/12/22 18:43:20 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #2 is the button
+Seat 1: JeGombrenBas (33347, 0.45€ bounty)
+Seat 2: BrunoJuiphe (16624, 0.45€ bounty)
+Seat 3: P1xel7 (18170, 0.45€ bounty)
+Seat 4: Hayha91 (48119, 0.67€ bounty)
+Seat 5: Jackouille64 (51752, 0.89€ bounty)
+Seat 6: Hadrian248 (67372, 0.89€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Hayha91 posts ante 70
+JeGombrenBas posts ante 70
+BrunoJuiphe posts ante 70
+Jackouille64 posts ante 70
+Hadrian248 posts ante 70
+P1xel7 posts small blind 300
+Hayha91 posts big blind 600
+Dealt to P1xel7 [6c 4h]
+*** PRE-FLOP *** 
+Jackouille64 folds
+Hadrian248 folds
+JeGombrenBas raises 660 to 1260
+BrunoJuiphe folds
+P1xel7 folds
+Hayha91 folds
+JeGombrenBas collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Seat 1: JeGombrenBas won 2580
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3107158875854340125-29-1703270660 - Holdem no limit (70/300/600) - 2023/12/22 18:44:20 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #3 is the button
+Seat 1: JeGombrenBas (34597, 0.45€ bounty)
+Seat 2: BrunoJuiphe (16554, 0.45€ bounty)
+Seat 3: P1xel7 (17800, 0.45€ bounty)
+Seat 4: Hayha91 (47449, 0.67€ bounty)
+Seat 5: Jackouille64 (51682, 0.89€ bounty)
+Seat 6: Hadrian248 (67302, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Hayha91 posts ante 70
+Jackouille64 posts ante 70
+JeGombrenBas posts ante 70
+BrunoJuiphe posts ante 70
+P1xel7 posts ante 70
+Hadrian248 posts ante 70
+Hayha91 posts small blind 300
+Jackouille64 posts big blind 600
+Dealt to P1xel7 [7d Jc]
+*** PRE-FLOP *** 
+Hadrian248 folds
+JeGombrenBas folds
+BrunoJuiphe folds
+P1xel7 folds
+Hayha91 calls 300
+Jackouille64 checks
+*** FLOP *** [7h 6h 2c]
+Hayha91 bets 600
+Jackouille64 folds
+Hayha91 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [7h 6h 2c]
+Seat 4: Hayha91 (small blind) won 2220
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3107158875854340125-30-1703270695 - Holdem no limit (70/300/600) - 2023/12/22 18:44:55 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #4 is the button
+Seat 1: JeGombrenBas (34527, 0.45€ bounty)
+Seat 2: BrunoJuiphe (16484, 0.45€ bounty)
+Seat 3: P1xel7 (17730, 0.45€ bounty)
+Seat 4: Hayha91 (48399, 0.67€ bounty)
+Seat 5: Jackouille64 (51012, 0.89€ bounty)
+Seat 6: Hadrian248 (67232, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Jackouille64 posts ante 70
+Hadrian248 posts ante 70
+JeGombrenBas posts ante 70
+BrunoJuiphe posts ante 70
+P1xel7 posts ante 70
+Hayha91 posts ante 70
+Jackouille64 posts small blind 300
+Hadrian248 posts big blind 600
+Dealt to P1xel7 [4s Tc]
+*** PRE-FLOP *** 
+JeGombrenBas folds
+BrunoJuiphe raises 900 to 1500
+P1xel7 folds
+Hayha91 raises 3000 to 4500
+Jackouille64 folds
+Hadrian248 folds
+BrunoJuiphe folds
+Hayha91 collected 7320 from pot
+*** SUMMARY ***
+Total pot 7320 | No rake
+Seat 4: Hayha91 (button) won 7320
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3107158875854340125-31-1703270741 - Holdem no limit (70/300/600) - 2023/12/22 18:45:41 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #5 is the button
+Seat 1: JeGombrenBas (34457, 0.45€ bounty)
+Seat 2: BrunoJuiphe (14914, 0.45€ bounty)
+Seat 3: P1xel7 (17660, 0.45€ bounty)
+Seat 4: Hayha91 (51149, 0.67€ bounty)
+Seat 5: Jackouille64 (50642, 0.89€ bounty)
+Seat 6: Hadrian248 (66562, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Hadrian248 posts ante 70
+JeGombrenBas posts ante 70
+BrunoJuiphe posts ante 70
+P1xel7 posts ante 70
+Hayha91 posts ante 70
+Jackouille64 posts ante 70
+Hadrian248 posts small blind 300
+JeGombrenBas posts big blind 600
+Dealt to P1xel7 [Qd Kc]
+*** PRE-FLOP *** 
+BrunoJuiphe folds
+P1xel7 raises 720 to 1320
+Hayha91 folds
+Jackouille64 calls 1320
+Hadrian248 folds
+JeGombrenBas calls 720
+*** FLOP *** [8h 8s Kd]
+JeGombrenBas checks
+P1xel7 bets 1638
+Jackouille64 folds
+JeGombrenBas folds
+P1xel7 collected 6318 from pot
+*** SUMMARY ***
+Total pot 6318 | No rake
+Board: [8h 8s Kd]
+Seat 3: P1xel7 won 6318
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3107158875854340125-32-1703270770 - Holdem no limit (80/350/700) - 2023/12/22 18:46:10 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #6 is the button
+Seat 1: JeGombrenBas (33067, 0.45€ bounty)
+Seat 2: BrunoJuiphe (14844, 0.45€ bounty)
+Seat 3: P1xel7 (20950, 0.45€ bounty)
+Seat 4: Hayha91 (51079, 0.67€ bounty)
+Seat 5: Jackouille64 (49252, 0.89€ bounty)
+Seat 6: Hadrian248 (66192, 0.89€ bounty)
+*** ANTE/BLINDS ***
+JeGombrenBas posts ante 80
+BrunoJuiphe posts ante 80
+P1xel7 posts ante 80
+Hayha91 posts ante 80
+Jackouille64 posts ante 80
+Hadrian248 posts ante 80
+JeGombrenBas posts small blind 350
+BrunoJuiphe posts big blind 700
+Dealt to P1xel7 [9s Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Hayha91 folds
+Jackouille64 calls 700
+Hadrian248 folds
+JeGombrenBas folds
+BrunoJuiphe raises 14064 to 14764 and is all-in
+Jackouille64 folds
+BrunoJuiphe collected 16294 from pot
+*** SUMMARY ***
+Total pot 16294 | No rake
+Seat 2: BrunoJuiphe (big blind) won 16294
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3107158875854340125-33-1703270796 - Holdem no limit (80/350/700) - 2023/12/22 18:46:36 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #1 is the button
+Seat 1: JeGombrenBas (32637, 0.45€ bounty)
+Seat 2: BrunoJuiphe (16294, 0.45€ bounty)
+Seat 3: P1xel7 (20870, 0.45€ bounty)
+Seat 4: Hayha91 (50999, 0.67€ bounty)
+Seat 5: Jackouille64 (48472, 0.89€ bounty)
+Seat 6: Hadrian248 (66112, 0.89€ bounty)
+*** ANTE/BLINDS ***
+BrunoJuiphe posts ante 80
+P1xel7 posts ante 80
+JeGombrenBas posts ante 80
+Hayha91 posts ante 80
+Jackouille64 posts ante 80
+Hadrian248 posts ante 80
+BrunoJuiphe posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [Ks Ts]
+*** PRE-FLOP *** 
+Hayha91 folds
+Jackouille64 calls 700
+Hadrian248 folds
+JeGombrenBas folds
+BrunoJuiphe folds
+P1xel7 raises 2100 to 2800
+Jackouille64 calls 2100
+*** FLOP *** [Jh 5c Jd]
+P1xel7 bets 2251
+Jackouille64 folds
+P1xel7 collected 8681 from pot
+*** SUMMARY ***
+Total pot 8681 | No rake
+Board: [Jh 5c Jd]
+Seat 3: P1xel7 (big blind) won 8681
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3107158875854340125-34-1703270840 - Holdem no limit (80/350/700) - 2023/12/22 18:47:20 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #2 is the button
+Seat 1: JeGombrenBas (32557, 0.45€ bounty)
+Seat 2: BrunoJuiphe (15864, 0.45€ bounty)
+Seat 3: P1xel7 (24420, 0.45€ bounty)
+Seat 4: Hayha91 (50919, 0.67€ bounty)
+Seat 5: Jackouille64 (45592, 0.89€ bounty)
+Seat 6: Hadrian248 (66032, 0.89€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Hayha91 posts ante 80
+JeGombrenBas posts ante 80
+BrunoJuiphe posts ante 80
+Jackouille64 posts ante 80
+Hadrian248 posts ante 80
+P1xel7 posts small blind 350
+Hayha91 posts big blind 700
+Dealt to P1xel7 [2d Td]
+*** PRE-FLOP *** 
+Jackouille64 folds
+Hadrian248 folds
+JeGombrenBas folds
+BrunoJuiphe folds
+P1xel7 folds
+Hayha91 collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 4: Hayha91 (big blind) won 1530
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3107158875854340125-35-1703270870 - Holdem no limit (80/350/700) - 2023/12/22 18:47:50 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #3 is the button
+Seat 1: JeGombrenBas (32477, 0.45€ bounty)
+Seat 2: BrunoJuiphe (15784, 0.45€ bounty)
+Seat 3: P1xel7 (23990, 0.45€ bounty)
+Seat 4: Hayha91 (51669, 0.67€ bounty)
+Seat 5: Jackouille64 (45512, 0.89€ bounty)
+Seat 6: Hadrian248 (65952, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Hayha91 posts ante 80
+Jackouille64 posts ante 80
+JeGombrenBas posts ante 80
+BrunoJuiphe posts ante 80
+P1xel7 posts ante 80
+Hadrian248 posts ante 80
+Hayha91 posts small blind 350
+Jackouille64 posts big blind 700
+Dealt to P1xel7 [Ac Kd]
+*** PRE-FLOP *** 
+Hadrian248 raises 1050 to 1750
+JeGombrenBas folds
+BrunoJuiphe raises 13954 to 15704 and is all-in
+P1xel7 folds
+Hayha91 folds
+Jackouille64 folds
+Hadrian248 folds
+BrunoJuiphe collected 18984 from pot
+*** SUMMARY ***
+Total pot 18984 | No rake
+Seat 2: BrunoJuiphe won 18984
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3107158875854340125-36-1703270905 - Holdem no limit (80/350/700) - 2023/12/22 18:48:25 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #4 is the button
+Seat 1: JeGombrenBas (32397, 0.45€ bounty)
+Seat 2: BrunoJuiphe (18984, 0.45€ bounty)
+Seat 3: P1xel7 (23910, 0.45€ bounty)
+Seat 4: Hayha91 (51239, 0.67€ bounty)
+Seat 5: Jackouille64 (44732, 0.89€ bounty)
+Seat 6: Hadrian248 (64122, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Jackouille64 posts ante 80
+Hadrian248 posts ante 80
+JeGombrenBas posts ante 80
+BrunoJuiphe posts ante 80
+P1xel7 posts ante 80
+Hayha91 posts ante 80
+Jackouille64 posts small blind 350
+Hadrian248 posts big blind 700
+Dealt to P1xel7 [4c 5h]
+*** PRE-FLOP *** 
+JeGombrenBas folds
+BrunoJuiphe folds
+P1xel7 folds
+Hayha91 folds
+Jackouille64 calls 350
+Hadrian248 checks
+*** FLOP *** [Qc 7s Kc]
+Jackouille64 checks
+Hadrian248 bets 940
+Jackouille64 folds
+Hadrian248 collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Board: [Qc 7s Kc]
+Seat 6: Hadrian248 (big blind) won 2820
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3107158875854340125-37-1703270956 - Holdem no limit (80/350/700) - 2023/12/22 18:49:16 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #5 is the button
+Seat 1: JeGombrenBas (32317, 0.45€ bounty)
+Seat 2: BrunoJuiphe (18904, 0.45€ bounty)
+Seat 3: P1xel7 (23830, 0.45€ bounty)
+Seat 4: Hayha91 (51159, 0.67€ bounty)
+Seat 5: Jackouille64 (43952, 0.89€ bounty)
+Seat 6: Hadrian248 (65222, 0.89€ bounty)
+*** ANTE/BLINDS ***
+Hadrian248 posts ante 80
+JeGombrenBas posts ante 80
+BrunoJuiphe posts ante 80
+P1xel7 posts ante 80
+Hayha91 posts ante 80
+Jackouille64 posts ante 80
+Hadrian248 posts small blind 350
+JeGombrenBas posts big blind 700
+Dealt to P1xel7 [6d Qd]
+*** PRE-FLOP *** 
+BrunoJuiphe folds
+P1xel7 folds
+Hayha91 folds
+Jackouille64 folds
+Hadrian248 calls 350
+JeGombrenBas checks
+*** FLOP *** [Ad 7h As]
+Hadrian248 checks
+JeGombrenBas checks
+*** TURN *** [Ad 7h As][2c]
+Hadrian248 checks
+JeGombrenBas checks
+*** RIVER *** [Ad 7h As 2c][7c]
+Hadrian248 checks
+JeGombrenBas checks
+*** SHOW DOWN ***
+JeGombrenBas shows [4s 8d] (Two pairs : Aces and 7)
+Hadrian248 shows [6s Th] (Two pairs : Aces and 7)
+Hadrian248 collected 1880 from pot
+*** SUMMARY ***
+Total pot 1880 | No rake
+Board: [Ad 7h As 2c 7c]
+Seat 1: JeGombrenBas (big blind) showed [4s 8d] and lost with Two pairs : Aces and 7
+Seat 6: Hadrian248 (small blind) showed [6s Th] and won 1880 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3107158875854340125-38-1703271005 - Holdem no limit (80/350/700) - 2023/12/22 18:50:05 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #6 is the button
+Seat 1: JeGombrenBas (31537, 0.45€ bounty)
+Seat 2: BrunoJuiphe (18824, 0.45€ bounty)
+Seat 3: P1xel7 (23750, 0.45€ bounty)
+Seat 4: Hayha91 (51079, 0.67€ bounty)
+Seat 5: Jackouille64 (43872, 0.89€ bounty)
+Seat 6: Hadrian248 (66322, 0.89€ bounty)
+*** ANTE/BLINDS ***
+JeGombrenBas posts ante 80
+BrunoJuiphe posts ante 80
+P1xel7 posts ante 80
+Hayha91 posts ante 80
+Jackouille64 posts ante 80
+Hadrian248 posts ante 80
+JeGombrenBas posts small blind 350
+BrunoJuiphe posts big blind 700
+Dealt to P1xel7 [4h 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Hayha91 folds
+Jackouille64 calls 700
+Hadrian248 calls 700
+JeGombrenBas folds
+BrunoJuiphe checks
+*** FLOP *** [5d 9d 7c]
+BrunoJuiphe checks
+Jackouille64 bets 2930
+Hadrian248 folds
+BrunoJuiphe calls 2930
+*** TURN *** [5d 9d 7c][Kd]
+BrunoJuiphe checks
+Jackouille64 bets 8790
+BrunoJuiphe raises 6324 to 15114 and is all-in
+Jackouille64 calls 6324
+*** RIVER *** [5d 9d 7c Kd][Ts]
+*** SHOW DOWN ***
+Jackouille64 shows [9c Qs] (One pair : 9)
+BrunoJuiphe shows [Tc Jc] (One pair : Tens)
+BrunoJuiphe collected 39018 from pot
+*** SUMMARY ***
+Total pot 39018 | No rake
+Board: [5d 9d 7c Kd Ts]
+Seat 2: BrunoJuiphe (big blind) showed [Tc Jc] and won 39018 with One pair : Tens
+Seat 5: Jackouille64 showed [9c Qs] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3107158875854340125-39-1703271054 - Holdem no limit (80/350/700) - 2023/12/22 18:50:54 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #1 is the button
+Seat 1: JeGombrenBas (31107, 0.45€ bounty)
+Seat 2: BrunoJuiphe (39018, 0.45€ bounty)
+Seat 3: P1xel7 (23670, 0.45€ bounty)
+Seat 4: Hayha91 (50999, 0.67€ bounty)
+Seat 5: Jackouille64 (25048, 0.89€ bounty)
+Seat 6: Hadrian248 (65542, 0.89€ bounty)
+*** ANTE/BLINDS ***
+BrunoJuiphe posts ante 80
+P1xel7 posts ante 80
+JeGombrenBas posts ante 80
+Hayha91 posts ante 80
+Jackouille64 posts ante 80
+Hadrian248 posts ante 80
+BrunoJuiphe posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [5s 4h]
+*** PRE-FLOP *** 
+Hayha91 folds
+Jackouille64 folds
+Hadrian248 folds
+JeGombrenBas raises 770 to 1470
+BrunoJuiphe folds
+P1xel7 calls 770
+*** FLOP *** [4c Jh Qd]
+P1xel7 checks
+JeGombrenBas bets 1244
+P1xel7 calls 1244
+*** TURN *** [4c Jh Qd][6c]
+P1xel7 checks
+JeGombrenBas checks
+*** RIVER *** [4c Jh Qd 6c][Qh]
+P1xel7 bets 4068
+JeGombrenBas calls 4068
+*** SHOW DOWN ***
+P1xel7 shows [5s 4h] (Two pairs : Queens and 4)
+JeGombrenBas shows [Jc 9s] (Two pairs : Queens and Jacks)
+JeGombrenBas collected 14394 from pot
+*** SUMMARY ***
+Total pot 14394 | No rake
+Board: [4c Jh Qd 6c Qh]
+Seat 1: JeGombrenBas (button) showed [Jc 9s] and won 14394 with Two pairs : Queens and Jacks
+Seat 3: P1xel7 (big blind) showed [5s 4h] and lost with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3107158875854340125-40-1703271112 - Holdem no limit (100/400/800) - 2023/12/22 18:51:52 UTC
+Table: 'Kill The Fish(723441801)#028' 6-max (real money) Seat #2 is the button
+Seat 1: JeGombrenBas (38639, 0.45€ bounty)
+Seat 2: BrunoJuiphe (38588, 0.45€ bounty)
+Seat 3: P1xel7 (16808, 0.45€ bounty)
+Seat 4: Hayha91 (50919, 0.67€ bounty)
+Seat 5: Jackouille64 (24968, 0.89€ bounty)
+Seat 6: Hadrian248 (65462, 0.89€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+Hayha91 posts ante 100
+JeGombrenBas posts ante 100
+BrunoJuiphe posts ante 100
+Jackouille64 posts ante 100
+Hadrian248 posts ante 100
+P1xel7 posts small blind 400
+Hayha91 posts big blind 800
+Dealt to P1xel7 [6h 6c]
+*** PRE-FLOP *** 
+Jackouille64 raises 800 to 1600
+Hadrian248 folds
+JeGombrenBas calls 1600
+BrunoJuiphe calls 1600
+P1xel7 raises 15108 to 16708 and is all-in
+Hayha91 folds
+Jackouille64 raises 8160 to 24868 and is all-in
+JeGombrenBas folds
+BrunoJuiphe folds
+*** FLOP *** [4s Ah 2c]
+*** TURN *** [4s Ah 2c][Qc]
+*** RIVER *** [4s Ah 2c Qc][Kd]
+*** SHOW DOWN ***
+P1xel7 shows [6h 6c] (One pair : 6)
+Jackouille64 shows [Qd Ad] (Two pairs : Aces and Queens)
+Jackouille64 collected 46176 from pot
+*** SUMMARY ***
+Total pot 46176 | No rake
+Board: [4s Ah 2c Qc Kd]
+Seat 3: P1xel7 (small blind) showed [6h 6c] and lost with One pair : 6
+Seat 5: Jackouille64 showed [Qd Ad] and won 46176 with Two pairs : Aces and Queens
+
+

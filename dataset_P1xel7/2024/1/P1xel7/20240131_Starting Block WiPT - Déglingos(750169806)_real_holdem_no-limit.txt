@@ -1,0 +1,561 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3221954783216664577-1-1706729450 - Holdem no limit (10/20) - 2024/01/31 19:30:50 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (500)
+Seat 2: AsVsKk (500)
+Seat 3: Gamara63 (500)
+Seat 4: Corentinscq (500)
+Seat 5: BEN51230 (500)
+Seat 6: Octavio1981 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+AsVsKk posts big blind 20
+Dealt to P1xel7 [9c As]
+*** PRE-FLOP *** 
+Gamara63 raises 480 to 500 and is all-in
+Corentinscq folds
+BEN51230 calls 500 and is all-in
+Octavio1981 folds
+P1xel7 folds
+AsVsKk folds
+*** FLOP *** [2c Ac 2d]
+*** TURN *** [2c Ac 2d][Qh]
+*** RIVER *** [2c Ac 2d Qh][3s]
+*** SHOW DOWN ***
+BEN51230 shows [8c 6d] (One pair : 2)
+Gamara63 shows [Ad Qd] (Two pairs : Aces and Queens)
+Gamara63 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | No rake
+Board: [2c Ac 2d Qh 3s]
+Seat 3: Gamara63 showed [Ad Qd] and won 1030 with Two pairs : Aces and Queens
+Seat 5: BEN51230 showed [8c 6d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3221954783216664577-2-1706729483 - Holdem no limit (10/20) - 2024/01/31 19:31:23 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (490)
+Seat 2: AsVsKk (480)
+Seat 3: Gamara63 (1030)
+Seat 4: Corentinscq (500)
+Seat 6: Octavio1981 (500)
+*** ANTE/BLINDS ***
+AsVsKk posts small blind 10
+Gamara63 posts big blind 20
+Dealt to P1xel7 [Tc As]
+*** PRE-FLOP *** 
+Corentinscq folds
+Octavio1981 calls 20
+P1xel7 raises 80 to 100
+AsVsKk calls 90
+Gamara63 raises 930 to 1030 and is all-in
+Octavio1981 folds
+P1xel7 calls 390 and is all-in
+AsVsKk calls 380 and is all-in
+*** FLOP *** [9h 3h 2c]
+*** TURN *** [9h 3h 2c][Ac]
+*** RIVER *** [9h 3h 2c Ac][6s]
+*** SHOW DOWN ***
+AsVsKk shows [2s Qs] (One pair : 2)
+P1xel7 shows [Tc As] (One pair : Aces)
+Gamara63 shows [Td Js] (High card : Ace)
+Gamara63 collected 540 from side pot 1
+P1xel7 collected 1480 from main pot
+*** SUMMARY ***
+Total pot 2020 | No rake
+Board: [9h 3h 2c Ac 6s]
+Seat 1: P1xel7 (button) showed [Tc As] and won 1480 with One pair : Aces
+Seat 2: AsVsKk (small blind) showed [2s Qs] and lost with One pair : 2
+Seat 3: Gamara63 (big blind) showed [Td Js] and won 540 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3221954783216664577-3-1706729520 - Holdem no limit (10/20) - 2024/01/31 19:32:00 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (1480)
+Seat 3: Gamara63 (540)
+Seat 4: Corentinscq (500)
+Seat 6: Octavio1981 (480)
+*** ANTE/BLINDS ***
+Gamara63 posts small blind 10
+Corentinscq posts big blind 20
+Dealt to P1xel7 [2s 8h]
+*** PRE-FLOP *** 
+Octavio1981 folds
+P1xel7 folds
+Gamara63 raises 520 to 540 and is all-in
+Corentinscq folds
+Gamara63 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Seat 3: Gamara63 (small blind) won 560
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3221954783216664577-4-1706729527 - Holdem no limit (10/20) - 2024/01/31 19:32:07 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (1480)
+Seat 3: Gamara63 (560)
+Seat 4: Corentinscq (480)
+Seat 6: Octavio1981 (480)
+*** ANTE/BLINDS ***
+Corentinscq posts small blind 10
+Octavio1981 posts big blind 20
+Dealt to P1xel7 [Kh Js]
+*** PRE-FLOP *** 
+P1xel7 raises 25 to 45
+Gamara63 calls 45
+Corentinscq calls 35
+Octavio1981 calls 25
+*** FLOP *** [3c Jc 2d]
+Corentinscq checks
+Octavio1981 checks
+P1xel7 bets 45
+Gamara63 calls 45
+Corentinscq calls 45
+Octavio1981 folds
+*** TURN *** [3c Jc 2d][7d]
+Corentinscq checks
+P1xel7 bets 79
+Gamara63 calls 79
+Corentinscq calls 79
+*** RIVER *** [3c Jc 2d 7d][Qh]
+Corentinscq checks
+P1xel7 checks
+Gamara63 bets 391 and is all-in
+Corentinscq folds
+P1xel7 calls 391
+*** SHOW DOWN ***
+Gamara63 shows [2s 6s] (One pair : 2)
+P1xel7 shows [Kh Js] (One pair : Jacks)
+P1xel7 collected 1334 from pot
+*** SUMMARY ***
+Total pot 1334 | No rake
+Board: [3c Jc 2d 7d Qh]
+Seat 1: P1xel7 showed [Kh Js] and won 1334 with One pair : Jacks
+Seat 3: Gamara63 (button) showed [2s 6s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3221954783216664577-5-1706729577 - Holdem no limit (15/30) - 2024/01/31 19:32:57 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (2254)
+Seat 4: Corentinscq (311)
+Seat 6: Octavio1981 (435)
+*** ANTE/BLINDS ***
+Octavio1981 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [3d Ts]
+*** PRE-FLOP *** 
+Corentinscq folds
+Octavio1981 calls 15
+P1xel7 checks
+*** FLOP *** [2d Kh 9s]
+Octavio1981 bets 60
+P1xel7 folds
+Octavio1981 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [2d Kh 9s]
+Seat 6: Octavio1981 (small blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3221954783216664577-6-1706729613 - Holdem no limit (15/30) - 2024/01/31 19:33:33 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (2224)
+Seat 4: Corentinscq (311)
+Seat 6: Octavio1981 (465)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Corentinscq posts big blind 30
+Dealt to P1xel7 [4d 4c]
+*** PRE-FLOP *** 
+Octavio1981 folds
+P1xel7 raises 2194 to 2224 and is all-in
+Corentinscq folds
+P1xel7 collected 2254 from pot
+*** SUMMARY ***
+Total pot 2254 | No rake
+Seat 1: P1xel7 (small blind) won 2254
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3221954783216664577-7-1706729627 - Holdem no limit (20/40) - 2024/01/31 19:33:47 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2254)
+Seat 4: Corentinscq (281)
+Seat 6: Octavio1981 (465)
+*** ANTE/BLINDS ***
+Corentinscq posts small blind 20
+Octavio1981 posts big blind 40
+Dealt to P1xel7 [Ah 2d]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 100
+Corentinscq calls 80
+Octavio1981 calls 60
+*** FLOP *** [3s Ad Kh]
+Corentinscq checks
+Octavio1981 bets 300
+P1xel7 raises 300 to 600
+Corentinscq folds
+Octavio1981 calls 65 and is all-in
+*** TURN *** [3s Ad Kh][Qs]
+*** RIVER *** [3s Ad Kh Qs][3c]
+*** SHOW DOWN ***
+Octavio1981 shows [8d Kd] (Two pairs : Kings and 3)
+P1xel7 shows [Ah 2d] (Two pairs : Aces and 3)
+P1xel7 collected 1265 from pot
+*** SUMMARY ***
+Total pot 1265 | No rake
+Board: [3s Ad Kh Qs 3c]
+Seat 1: P1xel7 (button) showed [Ah 2d] and won 1265 with Two pairs : Aces and 3
+Seat 6: Octavio1981 (big blind) showed [8d Kd] and lost with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3221954783216664577-8-1706729646 - Holdem no limit (20/40) - 2024/01/31 19:34:06 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2819)
+Seat 4: Corentinscq (181)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Corentinscq posts big blind 40
+Dealt to P1xel7 [4c 8h]
+*** PRE-FLOP *** 
+P1xel7 raises 2779 to 2819 and is all-in
+Corentinscq folds
+P1xel7 collected 2859 from pot
+*** SUMMARY ***
+Total pot 2859 | No rake
+Seat 1: P1xel7 (small blind) (button) won 2859
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3221954783216664577-9-1706729656 - Holdem no limit (20/40) - 2024/01/31 19:34:16 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (2859)
+Seat 4: Corentinscq (141)
+*** ANTE/BLINDS ***
+Corentinscq posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [6c 9c]
+*** PRE-FLOP *** 
+Corentinscq raises 101 to 141 and is all-in
+P1xel7 calls 101
+*** FLOP *** [Qd Kd 2c]
+*** TURN *** [Qd Kd 2c][2s]
+*** RIVER *** [Qd Kd 2c 2s][5d]
+*** SHOW DOWN ***
+P1xel7 shows [6c 9c] (One pair : 2)
+Corentinscq shows [Ad Jd] (Flush Ace high)
+Corentinscq collected 282 from pot
+*** SUMMARY ***
+Total pot 282 | No rake
+Board: [Qd Kd 2c 2s 5d]
+Seat 1: P1xel7 (big blind) showed [6c 9c] and lost with One pair : 2
+Seat 4: Corentinscq (small blind) (button) showed [Ad Jd] and won 282 with Flush Ace high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3221954783216664577-10-1706729668 - Holdem no limit (20/40) - 2024/01/31 19:34:28 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2718)
+Seat 4: Corentinscq (282)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Corentinscq posts big blind 40
+Dealt to P1xel7 [5h Qh]
+*** PRE-FLOP *** 
+P1xel7 raises 2678 to 2718 and is all-in
+Corentinscq calls 242 and is all-in
+*** FLOP *** [6d 4d Js]
+*** TURN *** [6d 4d Js][3d]
+*** RIVER *** [6d 4d Js 3d][3h]
+*** SHOW DOWN ***
+P1xel7 shows [5h Qh] (One pair : 3)
+Corentinscq shows [9c Jd] (Two pairs : Jacks and 3)
+Corentinscq collected 564 from main pot
+P1xel7 collected 2436 from side pot 1
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [6d 4d Js 3d 3h]
+Seat 1: P1xel7 (small blind) (button) showed [5h Qh] and won 2436 with One pair : 3
+Seat 4: Corentinscq (big blind) showed [9c Jd] and won 564 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3221954783216664577-11-1706729680 - Holdem no limit (20/40) - 2024/01/31 19:34:40 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (2436)
+Seat 4: Corentinscq (564)
+*** ANTE/BLINDS ***
+Corentinscq posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [4s 9s]
+*** PRE-FLOP *** 
+Corentinscq raises 80 to 120
+P1xel7 folds
+Corentinscq collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 4: Corentinscq (small blind) (button) won 160
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3221954783216664577-12-1706729686 - Holdem no limit (20/40) - 2024/01/31 19:34:46 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2396)
+Seat 4: Corentinscq (604)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Corentinscq posts big blind 40
+Dealt to P1xel7 [5d Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Corentinscq collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: Corentinscq (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3221954783216664577-13-1706729690 - Holdem no limit (20/40) - 2024/01/31 19:34:50 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (2376)
+Seat 4: Corentinscq (624)
+*** ANTE/BLINDS ***
+Corentinscq posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [4d 7c]
+*** PRE-FLOP *** 
+Corentinscq calls 20
+P1xel7 checks
+*** FLOP *** [Js 9c 8s]
+P1xel7 bets 40
+Corentinscq calls 40
+*** TURN *** [Js 9c 8s][Jh]
+P1xel7 bets 80
+Corentinscq calls 80
+*** RIVER *** [Js 9c 8s Jh][Tc]
+P1xel7 bets 80
+Corentinscq calls 80
+*** SHOW DOWN ***
+Corentinscq shows [8h 6h] (Two pairs : Jacks and 8)
+P1xel7 shows [4d 7c] (Straight Jack high)
+P1xel7 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Js 9c 8s Jh Tc]
+Seat 1: P1xel7 (big blind) showed [4d 7c] and won 480 with Straight Jack high
+Seat 4: Corentinscq (small blind) (button) showed [8h 6h] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3221954783216664577-14-1706729714 - Holdem no limit (20/40) - 2024/01/31 19:35:14 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2616)
+Seat 4: Corentinscq (384)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Corentinscq posts big blind 40
+Dealt to P1xel7 [6h Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Corentinscq collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: Corentinscq (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3221954783216664577-15-1706729719 - Holdem no limit (30/60) - 2024/01/31 19:35:19 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (2596)
+Seat 4: Corentinscq (404)
+*** ANTE/BLINDS ***
+Corentinscq posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Qd 4s]
+*** PRE-FLOP *** 
+Corentinscq raises 344 to 404 and is all-in
+P1xel7 folds
+Corentinscq collected 464 from pot
+*** SUMMARY ***
+Total pot 464 | No rake
+Seat 4: Corentinscq (small blind) (button) won 464
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3221954783216664577-16-1706729724 - Holdem no limit (30/60) - 2024/01/31 19:35:24 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2536)
+Seat 4: Corentinscq (464)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Corentinscq posts big blind 60
+Dealt to P1xel7 [Td 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Corentinscq collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: Corentinscq (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3221954783216664577-17-1706729728 - Holdem no limit (30/60) - 2024/01/31 19:35:28 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (2506)
+Seat 4: Corentinscq (494)
+*** ANTE/BLINDS ***
+Corentinscq posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [3s Kh]
+*** PRE-FLOP *** 
+Corentinscq raises 434 to 494 and is all-in
+P1xel7 calls 434
+*** FLOP *** [Ah 3c 6s]
+*** TURN *** [Ah 3c 6s][Ks]
+*** RIVER *** [Ah 3c 6s Ks][9s]
+*** SHOW DOWN ***
+P1xel7 shows [3s Kh] (Two pairs : Kings and 3)
+Corentinscq shows [As 9h] (Two pairs : Aces and 9)
+Corentinscq collected 988 from pot
+*** SUMMARY ***
+Total pot 988 | No rake
+Board: [Ah 3c 6s Ks 9s]
+Seat 1: P1xel7 (big blind) showed [3s Kh] and lost with Two pairs : Kings and 3
+Seat 4: Corentinscq (small blind) (button) showed [As 9h] and won 988 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3221954783216664577-18-1706729739 - Holdem no limit (30/60) - 2024/01/31 19:35:39 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2012)
+Seat 4: Corentinscq (988)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Corentinscq posts big blind 60
+Dealt to P1xel7 [5h 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Corentinscq collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: Corentinscq (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3221954783216664577-19-1706729743 - Holdem no limit (30/60) - 2024/01/31 19:35:43 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1982)
+Seat 4: Corentinscq (1018)
+*** ANTE/BLINDS ***
+Corentinscq posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [2c 9h]
+*** PRE-FLOP *** 
+Corentinscq calls 30
+P1xel7 checks
+*** FLOP *** [8d 5h 8h]
+P1xel7 checks
+Corentinscq checks
+*** TURN *** [8d 5h 8h][4c]
+P1xel7 checks
+Corentinscq checks
+*** RIVER *** [8d 5h 8h 4c][8c]
+P1xel7 bets 60
+Corentinscq folds
+P1xel7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [8d 5h 8h 4c 8c]
+Seat 1: P1xel7 (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3221954783216664577-20-1706729758 - Holdem no limit (30/60) - 2024/01/31 19:35:58 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2042)
+Seat 4: Corentinscq (958)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Corentinscq posts big blind 60
+Dealt to P1xel7 [9s 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Corentinscq collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: Corentinscq (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3221954783216664577-21-1706729762 - Holdem no limit (30/60) - 2024/01/31 19:36:02 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (2012)
+Seat 4: Corentinscq (988)
+*** ANTE/BLINDS ***
+Corentinscq posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [7d 5d]
+*** PRE-FLOP *** 
+Corentinscq calls 30
+P1xel7 checks
+*** FLOP *** [2c Kd Qs]
+P1xel7 bets 90
+Corentinscq folds
+P1xel7 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [2c Kd Qs]
+Seat 1: P1xel7 (big blind) won 210
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3221954783216664577-22-1706729773 - Holdem no limit (30/60) - 2024/01/31 19:36:13 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2072)
+Seat 4: Corentinscq (928)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Corentinscq posts big blind 60
+Dealt to P1xel7 [Jh Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 120
+Corentinscq calls 60
+*** FLOP *** [8h Ah 7c]
+Corentinscq checks
+P1xel7 bets 156
+Corentinscq raises 652 to 808 and is all-in
+P1xel7 folds
+Corentinscq collected 1204 from pot
+*** SUMMARY ***
+Total pot 1204 | No rake
+Board: [8h Ah 7c]
+Seat 4: Corentinscq (big blind) won 1204
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3221954783216664577-23-1706729785 - Holdem no limit (30/60) - 2024/01/31 19:36:25 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1796)
+Seat 4: Corentinscq (1204)
+*** ANTE/BLINDS ***
+Corentinscq posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Ac 3d]
+*** PRE-FLOP *** 
+Corentinscq calls 30
+P1xel7 raises 1736 to 1796 and is all-in
+Corentinscq folds
+P1xel7 collected 1856 from pot
+*** SUMMARY ***
+Total pot 1856 | No rake
+Seat 1: P1xel7 (big blind) won 1856
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3221954783216664577-24-1706729792 - Holdem no limit (30/60) - 2024/01/31 19:36:32 UTC
+Table: 'Starting Block WiPT - Déglingos(750169806)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1856)
+Seat 4: Corentinscq (1144)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Corentinscq posts big blind 60
+Dealt to P1xel7 [4d 4s]
+*** PRE-FLOP *** 
+P1xel7 raises 1796 to 1856 and is all-in
+Corentinscq calls 1084 and is all-in
+*** FLOP *** [Jd 7d 3c]
+*** TURN *** [Jd 7d 3c][3s]
+*** RIVER *** [Jd 7d 3c 3s][8h]
+*** SHOW DOWN ***
+Corentinscq shows [Ac 9s] (One pair : 3)
+P1xel7 shows [4d 4s] (Two pairs : 4 and 3)
+P1xel7 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Jd 7d 3c 3s 8h]
+Seat 1: P1xel7 (small blind) (button) showed [4d 4s] and won 3000 with Two pairs : 4 and 3
+Seat 4: Corentinscq (big blind) showed [Ac 9s] and lost with One pair : 3
+
+

@@ -1,0 +1,1138 @@
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 1 - HandId: #3214573989292670986-1-1708801224 - Holdem no limit (10/20) - 2024/02/24 19:00:24 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Guta (3000)
+Seat 2: P1xel7 (3000)
+Seat 3: MtRuShmoore (3000)
+Seat 4: Gold8312 (3000)
+Seat 5: dimdiny1 (3000)
+Seat 6: Lucky76370 (3000)
+Seat 7: Tango313 (3000)
+Seat 8: voltefesse (3000)
+*** ANTE/BLINDS ***
+Guta posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Ah 9h]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+Gold8312 folds
+dimdiny1 calls 20
+Lucky76370 folds
+Tango313 folds
+voltefesse calls 20
+Guta folds
+P1xel7 checks
+*** FLOP *** [3c 8s 9d]
+P1xel7 bets 50
+dimdiny1 calls 50
+voltefesse folds
+*** TURN *** [3c 8s 9d][7c]
+P1xel7 bets 50
+dimdiny1 calls 50
+*** RIVER *** [3c 8s 9d 7c][4h]
+P1xel7 bets 216
+dimdiny1 folds
+P1xel7 collected 486 from pot
+*** SUMMARY ***
+Total pot 486 | No rake
+Board: [3c 8s 9d 7c 4h]
+Seat 2: P1xel7 (big blind) won 486
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 1 - HandId: #3214573989292670986-2-1708801588 - Holdem no limit (10/20) - 2024/02/24 19:06:28 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Guta (2990)
+Seat 2: P1xel7 (3150)
+Seat 3: MtRuShmoore (3000)
+Seat 4: Gold8312 (3000)
+Seat 5: dimdiny1 (2880)
+Seat 6: Lucky76370 (3000)
+Seat 7: Tango313 (3000)
+Seat 8: voltefesse (2980)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+MtRuShmoore posts big blind 20
+Dealt to P1xel7 [4c Jd]
+*** PRE-FLOP *** 
+Gold8312 raises 50 to 70
+dimdiny1 calls 70
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 folds
+MtRuShmoore calls 50
+*** FLOP *** [Jc 7c 2c]
+MtRuShmoore checks
+Gold8312 bets 77
+dimdiny1 calls 77
+MtRuShmoore folds
+*** TURN *** [Jc 7c 2c][5d]
+Gold8312 bets 243
+dimdiny1 calls 243
+*** RIVER *** [Jc 7c 2c 5d][8c]
+Gold8312 bets 2610 and is all-in
+dimdiny1 calls 2490 and is all-in
+*** SHOW DOWN ***
+dimdiny1 shows [Ts 9c] (Flush Jack high)
+Gold8312 shows [2h Kc] (Flush King high)
+Gold8312 collected 5960 from pot
+*** SUMMARY ***
+Total pot 5960 | No rake
+Board: [Jc 7c 2c 5d 8c]
+Seat 4: Gold8312 showed [2h Kc] and won 5960 with Flush King high
+Seat 5: dimdiny1 showed [Ts 9c] and lost with Flush Jack high
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 1 - HandId: #3214573989292670986-3-1708801663 - Holdem no limit (10/20) - 2024/02/24 19:07:43 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Guta (2990)
+Seat 2: P1xel7 (3140)
+Seat 3: MtRuShmoore (2930)
+Seat 4: Gold8312 (5960)
+Seat 5: FRAN FLO (3000)
+Seat 6: Lucky76370 (3000)
+Seat 7: Tango313 (3000)
+Seat 8: voltefesse (2980)
+*** ANTE/BLINDS ***
+MtRuShmoore posts small blind 10
+Gold8312 posts big blind 20
+Dealt to P1xel7 [As 5d]
+*** PRE-FLOP *** 
+FRAN FLO calls 20
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 raises 60 to 80
+MtRuShmoore folds
+Gold8312 calls 60
+FRAN FLO calls 60
+*** FLOP *** [Jc 2d Kc]
+Gold8312 checks
+FRAN FLO checks
+P1xel7 checks
+*** TURN *** [Jc 2d Kc][Js]
+Gold8312 bets 88
+FRAN FLO calls 88
+P1xel7 folds
+*** RIVER *** [Jc 2d Kc Js][Jd]
+Gold8312 bets 149
+FRAN FLO calls 149
+*** SHOW DOWN ***
+Gold8312 shows [9s 7s] (Trips of Jacks)
+FRAN FLO shows [3d Kh] (Full of Jacks and Kings)
+FRAN FLO collected 724 from pot
+*** SUMMARY ***
+Total pot 724 | No rake
+Board: [Jc 2d Kc Js Jd]
+Seat 4: Gold8312 (big blind) showed [9s 7s] and lost with Trips of Jacks
+Seat 5: FRAN FLO showed [3d Kh] and won 724 with Full of Jacks and Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 1 - HandId: #3214573989292670986-4-1708801700 - Holdem no limit (10/20) - 2024/02/24 19:08:20 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Guta (2990)
+Seat 2: P1xel7 (3060)
+Seat 3: MtRuShmoore (2920)
+Seat 4: Gold8312 (5643)
+Seat 5: FRAN FLO (3407)
+Seat 6: Lucky76370 (3000)
+Seat 7: Tango313 (3000)
+Seat 8: voltefesse (2980)
+*** ANTE/BLINDS ***
+Gold8312 posts small blind 10
+FRAN FLO posts big blind 20
+Dealt to P1xel7 [Jd Th]
+*** PRE-FLOP *** 
+Lucky76370 folds
+Tango313 folds
+voltefesse raises 30 to 50
+Guta folds
+P1xel7 calls 50
+MtRuShmoore folds
+Gold8312 calls 40
+FRAN FLO raises 50 to 100
+voltefesse calls 50
+P1xel7 calls 50
+Gold8312 calls 50
+*** FLOP *** [8s Qh Ac]
+Gold8312 checks
+FRAN FLO checks
+voltefesse bets 260
+P1xel7 folds
+Gold8312 folds
+FRAN FLO calls 260
+*** TURN *** [8s Qh Ac][8d]
+FRAN FLO checks
+voltefesse bets 598
+FRAN FLO calls 598
+*** RIVER *** [8s Qh Ac 8d][Qd]
+FRAN FLO checks
+voltefesse checks
+*** SHOW DOWN ***
+voltefesse shows [As Js] (Two pairs : Aces and Queens)
+FRAN FLO shows [Qc Ad] (Full of Queens and Aces)
+FRAN FLO collected 2116 from pot
+*** SUMMARY ***
+Total pot 2116 | No rake
+Board: [8s Qh Ac 8d Qd]
+Seat 5: FRAN FLO (big blind) showed [Qc Ad] and won 2116 with Full of Queens and Aces
+Seat 8: voltefesse showed [As Js] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-5-1708801754 - Holdem no limit (15/30) - 2024/02/24 19:09:14 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Guta (2990)
+Seat 2: P1xel7 (2960)
+Seat 3: MtRuShmoore (2920)
+Seat 4: Gold8312 (5543)
+Seat 5: FRAN FLO (4565)
+Seat 6: Lucky76370 (3000)
+Seat 7: Tango313 (3000)
+Seat 8: voltefesse (2022)
+*** ANTE/BLINDS ***
+FRAN FLO posts small blind 15
+Lucky76370 posts big blind 30
+Dealt to P1xel7 [2h 5h]
+*** PRE-FLOP *** 
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 folds
+MtRuShmoore raises 60 to 90
+Gold8312 raises 60 to 150
+FRAN FLO folds
+Lucky76370 folds
+MtRuShmoore calls 60
+*** FLOP *** [Ad 6s Jd]
+MtRuShmoore bets 259
+Gold8312 raises 259 to 518
+MtRuShmoore raises 2252 to 2770 and is all-in
+Gold8312 calls 2252
+*** TURN *** [Ad 6s Jd][Qd]
+*** RIVER *** [Ad 6s Jd Qd][7s]
+*** SHOW DOWN ***
+Gold8312 shows [Ah Th] (One pair : Aces)
+MtRuShmoore shows [6d Ac] (Two pairs : Aces and 6)
+MtRuShmoore collected 5885 from pot
+*** SUMMARY ***
+Total pot 5885 | No rake
+Board: [Ad 6s Jd Qd 7s]
+Seat 3: MtRuShmoore showed [6d Ac] and won 5885 with Two pairs : Aces and 6
+Seat 4: Gold8312 (button) showed [Ah Th] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-6-1708801793 - Holdem no limit (15/30) - 2024/02/24 19:09:53 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Guta (2990)
+Seat 2: P1xel7 (2960)
+Seat 3: MtRuShmoore (5885)
+Seat 4: Gold8312 (2623)
+Seat 5: FRAN FLO (4550)
+Seat 6: Lucky76370 (2970)
+Seat 7: Tango313 (3000)
+Seat 8: voltefesse (2022)
+*** ANTE/BLINDS ***
+Lucky76370 posts small blind 15
+Tango313 posts big blind 30
+Dealt to P1xel7 [Td 5d]
+*** PRE-FLOP *** 
+voltefesse folds
+Guta folds
+P1xel7 folds
+MtRuShmoore folds
+Gold8312 raises 75 to 105
+FRAN FLO calls 105
+Lucky76370 folds
+Tango313 folds
+*** FLOP *** [3d Kc 9c]
+Gold8312 bets 166
+FRAN FLO calls 166
+*** TURN *** [3d Kc 9c][9d]
+Gold8312 bets 587
+FRAN FLO folds
+Gold8312 collected 1174 from pot
+*** SUMMARY ***
+Total pot 1174 | No rake
+Board: [3d Kc 9c 9d]
+Seat 4: Gold8312 won 1174
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-7-1708801831 - Holdem no limit (15/30) - 2024/02/24 19:10:31 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Guta (2990)
+Seat 2: P1xel7 (2960)
+Seat 3: MtRuShmoore (5885)
+Seat 4: Gold8312 (2939)
+Seat 5: FRAN FLO (4279)
+Seat 6: Lucky76370 (2955)
+Seat 7: Tango313 (2970)
+Seat 8: voltefesse (2022)
+*** ANTE/BLINDS ***
+Tango313 posts small blind 15
+voltefesse posts big blind 30
+Dealt to P1xel7 [7s 3h]
+*** PRE-FLOP *** 
+Guta folds
+P1xel7 folds
+MtRuShmoore folds
+Gold8312 raises 75 to 105
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse raises 210 to 315
+Gold8312 calls 210
+*** FLOP *** [Th Ad As]
+voltefesse bets 226
+Gold8312 calls 226
+*** TURN *** [Th Ad As][Qd]
+voltefesse bets 384
+Gold8312 calls 384
+*** RIVER *** [Th Ad As Qd][6h]
+voltefesse bets 653
+Gold8312 folds
+voltefesse collected 2518 from pot
+*** SUMMARY ***
+Total pot 2518 | No rake
+Board: [Th Ad As Qd 6h]
+Seat 8: voltefesse (big blind) won 2518
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-8-1708801856 - Holdem no limit (15/30) - 2024/02/24 19:10:56 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Guta (2990)
+Seat 2: P1xel7 (2960)
+Seat 3: MtRuShmoore (5885)
+Seat 4: Gold8312 (2014)
+Seat 5: FRAN FLO (4279)
+Seat 6: Lucky76370 (2955)
+Seat 7: Tango313 (2955)
+Seat 8: voltefesse (2962)
+*** ANTE/BLINDS ***
+voltefesse posts small blind 15
+Guta posts big blind 30
+Dealt to P1xel7 [Jd 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+MtRuShmoore folds
+Gold8312 raises 1984 to 2014 and is all-in
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Guta folds
+Gold8312 collected 2059 from pot
+*** SUMMARY ***
+Total pot 2059 | No rake
+Seat 4: Gold8312 won 2059
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-9-1708801882 - Holdem no limit (15/30) - 2024/02/24 19:11:22 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Guta (2960)
+Seat 2: P1xel7 (2960)
+Seat 3: MtRuShmoore (5885)
+Seat 4: Gold8312 (2059)
+Seat 5: FRAN FLO (4279)
+Seat 6: Lucky76370 (2955)
+Seat 7: Tango313 (2955)
+Seat 8: voltefesse (2947)
+*** ANTE/BLINDS ***
+Guta posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [9s 7s]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+Gold8312 raises 75 to 105
+FRAN FLO calls 105
+Lucky76370 folds
+Tango313 folds
+voltefesse calls 105
+Guta folds
+P1xel7 calls 75
+*** FLOP *** [Kh 3h 4s]
+P1xel7 checks
+Gold8312 bets 435
+FRAN FLO calls 435
+voltefesse folds
+P1xel7 folds
+*** TURN *** [Kh 3h 4s][Ts]
+Gold8312 bets 1519 and is all-in
+FRAN FLO calls 1519
+*** RIVER *** [Kh 3h 4s Ts][Ah]
+*** SHOW DOWN ***
+Gold8312 shows [Qc Ks] (One pair : Kings)
+FRAN FLO shows [Kd Tc] (Two pairs : Kings and Tens)
+FRAN FLO collected 4343 from pot
+*** SUMMARY ***
+Total pot 4343 | No rake
+Board: [Kh 3h 4s Ts Ah]
+Seat 4: Gold8312 showed [Qc Ks] and lost with One pair : Kings
+Seat 5: FRAN FLO showed [Kd Tc] and won 4343 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-10-1708801915 - Holdem no limit (15/30) - 2024/02/24 19:11:55 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Guta (2945)
+Seat 2: P1xel7 (2855)
+Seat 3: MtRuShmoore (5885)
+Seat 5: FRAN FLO (6563)
+Seat 6: Lucky76370 (2955)
+Seat 7: Tango313 (2955)
+Seat 8: voltefesse (2842)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+MtRuShmoore posts big blind 30
+Dealt to P1xel7 [6c Qh]
+*** PRE-FLOP *** 
+FRAN FLO calls 30
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 folds
+MtRuShmoore raises 60 to 90
+FRAN FLO calls 60
+*** FLOP *** [As 6d Kc]
+MtRuShmoore bets 98
+FRAN FLO folds
+MtRuShmoore collected 293 from pot
+*** SUMMARY ***
+Total pot 293 | No rake
+Board: [As 6d Kc]
+Seat 3: MtRuShmoore (big blind) won 293
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-11-1708801957 - Holdem no limit (15/30) - 2024/02/24 19:12:37 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Guta (2945)
+Seat 2: P1xel7 (2840)
+Seat 3: MtRuShmoore (5990)
+Seat 4: E.k.O (3000)
+Seat 5: FRAN FLO (6473)
+Seat 6: Lucky76370 (2955)
+Seat 7: Tango313 (2955)
+Seat 8: voltefesse (2842)
+*** ANTE/BLINDS ***
+MtRuShmoore posts small blind 15
+E.k.O posts big blind 30
+Dealt to P1xel7 [6s 6c]
+*** PRE-FLOP *** 
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse raises 45 to 75
+Guta folds
+P1xel7 raises 225 to 300
+MtRuShmoore folds
+E.k.O folds
+voltefesse folds
+P1xel7 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 2: P1xel7 (button) won 420
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-12-1708801982 - Holdem no limit (15/30) - 2024/02/24 19:13:02 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Guta (2945)
+Seat 2: P1xel7 (2960)
+Seat 3: MtRuShmoore (5975)
+Seat 4: E.k.O (2970)
+Seat 5: FRAN FLO (6473)
+Seat 6: Lucky76370 (2955)
+Seat 7: Tango313 (2955)
+Seat 8: voltefesse (2767)
+*** ANTE/BLINDS ***
+E.k.O posts small blind 15
+FRAN FLO posts big blind 30
+Dealt to P1xel7 [Jd Kh]
+*** PRE-FLOP *** 
+Lucky76370 folds
+Tango313 folds
+voltefesse raises 30 to 60
+Guta folds
+P1xel7 calls 60
+MtRuShmoore folds
+E.k.O folds
+FRAN FLO calls 30
+*** FLOP *** [Kd 2d 4s]
+FRAN FLO bets 68
+voltefesse folds
+P1xel7 calls 68
+*** TURN *** [Kd 2d 4s][6d]
+FRAN FLO bets 116
+P1xel7 calls 116
+*** RIVER *** [Kd 2d 4s 6d][Ah]
+FRAN FLO checks
+P1xel7 checks
+*** SHOW DOWN ***
+FRAN FLO shows [Th Jc] (High card : Ace)
+P1xel7 shows [Jd Kh] (One pair : Kings)
+P1xel7 collected 563 from pot
+*** SUMMARY ***
+Total pot 563 | No rake
+Board: [Kd 2d 4s 6d Ah]
+Seat 2: P1xel7 showed [Jd Kh] and won 563 with One pair : Kings
+Seat 5: FRAN FLO (big blind) showed [Th Jc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-13-1708802055 - Holdem no limit (15/30) - 2024/02/24 19:14:15 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Guta (2945)
+Seat 2: P1xel7 (3279)
+Seat 3: MtRuShmoore (5975)
+Seat 4: E.k.O (2955)
+Seat 5: FRAN FLO (6229)
+Seat 6: Lucky76370 (2955)
+Seat 7: Tango313 (2955)
+Seat 8: voltefesse (2707)
+*** ANTE/BLINDS ***
+FRAN FLO posts small blind 15
+Lucky76370 posts big blind 30
+Dealt to P1xel7 [6c 7h]
+*** PRE-FLOP *** 
+Tango313 folds
+voltefesse raises 30 to 60
+Guta folds
+P1xel7 folds
+MtRuShmoore calls 60
+E.k.O calls 60
+FRAN FLO folds
+Lucky76370 folds
+*** FLOP *** [Kd 2h 3d]
+voltefesse checks
+MtRuShmoore checks
+E.k.O bets 180
+voltefesse folds
+MtRuShmoore folds
+E.k.O collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [Kd 2h 3d]
+Seat 4: E.k.O (button) won 405
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-14-1708802109 - Holdem no limit (15/30) - 2024/02/24 19:15:09 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Guta (2945)
+Seat 2: P1xel7 (3279)
+Seat 3: MtRuShmoore (5915)
+Seat 4: E.k.O (3120)
+Seat 5: FRAN FLO (6214)
+Seat 6: Lucky76370 (2925)
+Seat 7: Tango313 (2955)
+Seat 8: voltefesse (2647)
+*** ANTE/BLINDS ***
+Lucky76370 posts small blind 15
+Tango313 posts big blind 30
+Dealt to P1xel7 [2d 3c]
+*** PRE-FLOP *** 
+voltefesse folds
+Guta folds
+P1xel7 folds
+MtRuShmoore folds
+E.k.O folds
+FRAN FLO calls 30
+Lucky76370 folds
+Tango313 folds
+FRAN FLO collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 5: FRAN FLO (button) won 75
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3214573989292670986-15-1708802141 - Holdem no limit (15/30) - 2024/02/24 19:15:41 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Guta (2945)
+Seat 2: P1xel7 (3279)
+Seat 3: MtRuShmoore (5915)
+Seat 4: E.k.O (3120)
+Seat 5: FRAN FLO (6259)
+Seat 6: Lucky76370 (2910)
+Seat 7: Tango313 (2925)
+Seat 8: voltefesse (2647)
+*** ANTE/BLINDS ***
+Tango313 posts small blind 15
+voltefesse posts big blind 30
+Dealt to P1xel7 [6s 3d]
+*** PRE-FLOP *** 
+Guta folds
+P1xel7 folds
+MtRuShmoore folds
+E.k.O folds
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 8: voltefesse (big blind) won 45
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3214573989292670986-16-1708802194 - Holdem no limit (20/40) - 2024/02/24 19:16:34 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Guta (2945)
+Seat 2: P1xel7 (3279)
+Seat 3: MtRuShmoore (5915)
+Seat 4: E.k.O (3120)
+Seat 5: FRAN FLO (6259)
+Seat 6: Lucky76370 (2910)
+Seat 7: Tango313 (2910)
+Seat 8: voltefesse (2662)
+*** ANTE/BLINDS ***
+voltefesse posts small blind 20
+Guta posts big blind 40
+Dealt to P1xel7 [9s Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+MtRuShmoore raises 50 to 90
+E.k.O calls 90
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Guta folds
+*** FLOP *** [6c Jh Ac]
+MtRuShmoore bets 156
+E.k.O folds
+MtRuShmoore collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [6c Jh Ac]
+Seat 3: MtRuShmoore won 396
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3214573989292670986-17-1708802264 - Holdem no limit (20/40) - 2024/02/24 19:17:44 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Guta (2905)
+Seat 2: P1xel7 (3279)
+Seat 3: MtRuShmoore (6065)
+Seat 4: E.k.O (3030)
+Seat 5: FRAN FLO (6259)
+Seat 6: Lucky76370 (2910)
+Seat 7: Tango313 (2910)
+Seat 8: voltefesse (2642)
+*** ANTE/BLINDS ***
+Guta posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [3h 7h]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+E.k.O raises 100 to 140
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 folds
+E.k.O collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 4: E.k.O won 200
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3214573989292670986-18-1708802278 - Holdem no limit (20/40) - 2024/02/24 19:17:58 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Guta (2885)
+Seat 2: P1xel7 (3239)
+Seat 3: MtRuShmoore (6065)
+Seat 4: E.k.O (3090)
+Seat 5: FRAN FLO (6259)
+Seat 6: Lucky76370 (2910)
+Seat 7: Tango313 (2910)
+Seat 8: voltefesse (2642)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+MtRuShmoore posts big blind 40
+Dealt to P1xel7 [3s Qd]
+*** PRE-FLOP *** 
+E.k.O raises 60 to 100
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 folds
+MtRuShmoore calls 60
+*** FLOP *** [5h 8d 4h]
+MtRuShmoore bets 143
+E.k.O calls 143
+*** TURN *** [5h 8d 4h][5c]
+MtRuShmoore bets 329
+E.k.O calls 329
+*** RIVER *** [5h 8d 4h 5c][Jc]
+MtRuShmoore bets 873
+E.k.O calls 873
+*** SHOW DOWN ***
+E.k.O shows [As 7s] (One pair : 5)
+MtRuShmoore shows [8s 9s] (Two pairs : 8 and 5)
+MtRuShmoore collected 2910 from pot
+*** SUMMARY ***
+Total pot 2910 | No rake
+Board: [5h 8d 4h 5c Jc]
+Seat 3: MtRuShmoore (big blind) showed [8s 9s] and won 2910 with Two pairs : 8 and 5
+Seat 4: E.k.O showed [As 7s] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3214573989292670986-19-1708802331 - Holdem no limit (20/40) - 2024/02/24 19:18:51 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Guta (2885)
+Seat 2: P1xel7 (3219)
+Seat 3: MtRuShmoore (7530)
+Seat 4: E.k.O (1645)
+Seat 5: FRAN FLO (6259)
+Seat 6: Lucky76370 (2910)
+Seat 7: Tango313 (2910)
+Seat 8: voltefesse (2642)
+*** ANTE/BLINDS ***
+MtRuShmoore posts small blind 20
+E.k.O posts big blind 40
+Dealt to P1xel7 [8c 2h]
+*** PRE-FLOP *** 
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 folds
+MtRuShmoore raises 80 to 120
+E.k.O raises 240 to 360
+MtRuShmoore calls 240
+*** FLOP *** [8h 7c Ac]
+MtRuShmoore checks
+E.k.O checks
+*** TURN *** [8h 7c Ac][Ks]
+MtRuShmoore bets 576
+E.k.O calls 576
+*** RIVER *** [8h 7c Ac Ks][4d]
+MtRuShmoore bets 1404
+E.k.O calls 709 and is all-in
+*** SHOW DOWN ***
+E.k.O shows [Qc Qs] (One pair : Queens)
+MtRuShmoore shows [7h Kh] (Two pairs : Kings and 7)
+MtRuShmoore collected 3985 from pot
+*** SUMMARY ***
+Total pot 3985 | No rake
+Board: [8h 7c Ac Ks 4d]
+Seat 3: MtRuShmoore (small blind) showed [7h Kh] and won 3985 with Two pairs : Kings and 7
+Seat 4: E.k.O (big blind) showed [Qc Qs] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3214573989292670986-20-1708802390 - Holdem no limit (20/40) - 2024/02/24 19:19:50 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Guta (2885)
+Seat 2: P1xel7 (3219)
+Seat 3: MtRuShmoore (9175)
+Seat 5: FRAN FLO (6259)
+Seat 6: Lucky76370 (2910)
+Seat 7: Tango313 (2910)
+Seat 8: voltefesse (2642)
+*** ANTE/BLINDS ***
+FRAN FLO posts big blind 40
+Dealt to P1xel7 [9d Kd]
+*** PRE-FLOP *** 
+Lucky76370 folds
+Tango313 folds
+voltefesse raises 40 to 80
+Guta folds
+P1xel7 calls 80
+MtRuShmoore calls 80
+FRAN FLO calls 40
+*** FLOP *** [5s 6s 7c]
+FRAN FLO bets 112
+voltefesse calls 112
+P1xel7 folds
+MtRuShmoore calls 112
+*** TURN *** [5s 6s 7c][3h]
+FRAN FLO bets 40
+voltefesse calls 40
+MtRuShmoore calls 40
+*** RIVER *** [5s 6s 7c 3h][5h]
+FRAN FLO bets 40
+voltefesse calls 40
+MtRuShmoore folds
+*** SHOW DOWN ***
+FRAN FLO shows [Tc 6c] (Two pairs : 6 and 5)
+voltefesse shows [8c 8s] (Two pairs : 8 and 5)
+voltefesse collected 856 from pot
+*** SUMMARY ***
+Total pot 856 | No rake
+Board: [5s 6s 7c 3h 5h]
+Seat 5: FRAN FLO (big blind) showed [Tc 6c] and lost with Two pairs : 6 and 5
+Seat 8: voltefesse showed [8c 8s] and won 856 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3214573989292670986-21-1708802449 - Holdem no limit (20/40) - 2024/02/24 19:20:49 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Guta (2885)
+Seat 2: P1xel7 (3139)
+Seat 3: MtRuShmoore (8943)
+Seat 4: Maxouille98 (3000)
+Seat 5: FRAN FLO (5987)
+Seat 6: Lucky76370 (2910)
+Seat 7: Tango313 (2910)
+Seat 8: voltefesse (3226)
+*** ANTE/BLINDS ***
+FRAN FLO posts small blind 20
+Lucky76370 posts big blind 40
+Dealt to P1xel7 [Qc 9c]
+*** PRE-FLOP *** 
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 raises 60 to 100
+MtRuShmoore folds
+FRAN FLO raises 100 to 200
+Lucky76370 folds
+P1xel7 calls 100
+*** FLOP *** [7c 9h 4h]
+FRAN FLO bets 154
+P1xel7 raises 646 to 800
+FRAN FLO calls 646
+*** TURN *** [7c 9h 4h][4d]
+FRAN FLO checks
+P1xel7 bets 2139 and is all-in
+FRAN FLO folds
+P1xel7 collected 4179 from pot
+*** SUMMARY ***
+Total pot 4179 | No rake
+Board: [7c 9h 4h 4d]
+Seat 2: P1xel7 won 4179
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3214573989292670986-22-1708802498 - Holdem no limit (20/40) - 2024/02/24 19:21:38 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Guta (2885)
+Seat 2: P1xel7 (4179)
+Seat 3: MtRuShmoore (8943)
+Seat 4: Maxouille98 (3000)
+Seat 5: FRAN FLO (4987)
+Seat 6: Lucky76370 (2870)
+Seat 7: Tango313 (2910)
+Seat 8: voltefesse (3226)
+*** ANTE/BLINDS ***
+Lucky76370 posts small blind 20
+Tango313 posts big blind 40
+Dealt to P1xel7 [4c 3d]
+*** PRE-FLOP *** 
+voltefesse calls 40
+Guta folds
+P1xel7 folds
+MtRuShmoore calls 40
+Maxouille98 folds
+FRAN FLO calls 40
+Lucky76370 folds
+Tango313 folds
+*** FLOP *** [Jc 2s 8d]
+voltefesse checks
+MtRuShmoore checks
+FRAN FLO bets 40
+voltefesse calls 40
+MtRuShmoore folds
+*** TURN *** [Jc 2s 8d][3h]
+voltefesse checks
+FRAN FLO bets 169
+voltefesse calls 169
+*** RIVER *** [Jc 2s 8d 3h][9h]
+voltefesse checks
+FRAN FLO checks
+*** SHOW DOWN ***
+FRAN FLO shows [Qh 6c] (High card : Queen)
+voltefesse shows [3c 3s] (Trips of 3)
+voltefesse collected 598 from pot
+*** SUMMARY ***
+Total pot 598 | No rake
+Board: [Jc 2s 8d 3h 9h]
+Seat 5: FRAN FLO (button) showed [Qh 6c] and lost with High card : Queen
+Seat 8: voltefesse showed [3c 3s] and won 598 with Trips of 3
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3214573989292670986-23-1708802577 - Holdem no limit (20/40) - 2024/02/24 19:22:57 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Guta (2885)
+Seat 2: P1xel7 (4179)
+Seat 3: MtRuShmoore (8903)
+Seat 4: Maxouille98 (3000)
+Seat 5: FRAN FLO (4738)
+Seat 6: Lucky76370 (2850)
+Seat 7: Tango313 (2870)
+Seat 8: voltefesse (3575)
+*** ANTE/BLINDS ***
+Tango313 posts small blind 20
+voltefesse posts big blind 40
+Dealt to P1xel7 [4d 7d]
+*** PRE-FLOP *** 
+Guta folds
+P1xel7 folds
+MtRuShmoore folds
+Maxouille98 raises 80 to 120
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Maxouille98 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 4: Maxouille98 won 180
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3214573989292670986-24-1708802598 - Holdem no limit (20/40) - 2024/02/24 19:23:18 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Guta (2885)
+Seat 2: P1xel7 (4179)
+Seat 3: MtRuShmoore (8903)
+Seat 4: Maxouille98 (3060)
+Seat 5: FRAN FLO (4738)
+Seat 6: Lucky76370 (2850)
+Seat 7: Tango313 (2850)
+Seat 8: voltefesse (3535)
+*** ANTE/BLINDS ***
+voltefesse posts small blind 20
+Guta posts big blind 40
+Dealt to P1xel7 [Ts Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 100
+MtRuShmoore folds
+Maxouille98 folds
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: P1xel7 won 160
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3214573989292670986-25-1708802619 - Holdem no limit (20/40) - 2024/02/24 19:23:39 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Guta (2845)
+Seat 2: P1xel7 (4239)
+Seat 3: MtRuShmoore (8903)
+Seat 4: Maxouille98 (3060)
+Seat 5: FRAN FLO (4738)
+Seat 6: Lucky76370 (2850)
+Seat 7: Tango313 (2850)
+Seat 8: voltefesse (3515)
+*** ANTE/BLINDS ***
+Guta posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Kc 9s]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+Maxouille98 calls 40
+FRAN FLO calls 40
+Lucky76370 folds
+Tango313 folds
+voltefesse raises 80 to 120
+Guta folds
+P1xel7 calls 80
+Maxouille98 calls 80
+FRAN FLO calls 80
+*** FLOP *** [5d 8c 9d]
+P1xel7 checks
+Maxouille98 bets 120
+FRAN FLO calls 120
+voltefesse calls 120
+P1xel7 raises 480 to 600
+Maxouille98 folds
+FRAN FLO calls 480
+voltefesse calls 480
+*** TURN *** [5d 8c 9d][6h]
+P1xel7 checks
+FRAN FLO bets 847
+voltefesse calls 847
+P1xel7 raises 2672 to 3519 and is all-in
+FRAN FLO folds
+voltefesse calls 1948 and is all-in
+*** RIVER *** [5d 8c 9d 6h][Td]
+*** SHOW DOWN ***
+P1xel7 shows [Kc 9s] (One pair : 9)
+voltefesse shows [Qd Kd] (Flush King high)
+voltefesse collected 8857 from main pot
+P1xel7 collected 724 from side pot 1
+*** SUMMARY ***
+Total pot 9581 | No rake
+Board: [5d 8c 9d 6h Td]
+Seat 2: P1xel7 (big blind) showed [Kc 9s] and won 724 with One pair : 9
+Seat 8: voltefesse (button) showed [Qd Kd] and won 8857 with Flush King high
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3214573989292670986-26-1708802696 - Holdem no limit (30/60) - 2024/02/24 19:24:56 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Guta (2825)
+Seat 2: P1xel7 (724)
+Seat 3: MtRuShmoore (8903)
+Seat 4: Maxouille98 (2820)
+Seat 5: FRAN FLO (3171)
+Seat 6: Lucky76370 (2850)
+Seat 7: Tango313 (2850)
+Seat 8: voltefesse (8857)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+MtRuShmoore posts big blind 60
+Dealt to P1xel7 [2h Js]
+*** PRE-FLOP *** 
+Maxouille98 folds
+FRAN FLO raises 60 to 120
+Lucky76370 folds
+Tango313 folds
+voltefesse calls 120
+Guta folds
+P1xel7 folds
+MtRuShmoore calls 60
+*** FLOP *** [8c 6h Ts]
+MtRuShmoore checks
+FRAN FLO bets 390
+voltefesse folds
+MtRuShmoore folds
+FRAN FLO collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [8c 6h Ts]
+Seat 5: FRAN FLO won 780
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3214573989292670986-27-1708802720 - Holdem no limit (30/60) - 2024/02/24 19:25:20 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Guta (2825)
+Seat 2: P1xel7 (694)
+Seat 3: MtRuShmoore (8783)
+Seat 4: Maxouille98 (2820)
+Seat 5: FRAN FLO (3441)
+Seat 6: Lucky76370 (2850)
+Seat 7: Tango313 (2850)
+Seat 8: voltefesse (8737)
+*** ANTE/BLINDS ***
+MtRuShmoore posts small blind 30
+Maxouille98 posts big blind 60
+Dealt to P1xel7 [Kd 5s]
+*** PRE-FLOP *** 
+FRAN FLO raises 60 to 120
+Lucky76370 folds
+Tango313 folds
+voltefesse calls 120
+Guta folds
+P1xel7 folds
+MtRuShmoore calls 90
+Maxouille98 calls 60
+*** FLOP *** [Tc 5c 9c]
+MtRuShmoore checks
+Maxouille98 checks
+FRAN FLO bets 312
+voltefesse calls 312
+MtRuShmoore folds
+Maxouille98 folds
+*** TURN *** [Tc 5c 9c][7c]
+FRAN FLO bets 386
+voltefesse folds
+FRAN FLO collected 1490 from pot
+*** SUMMARY ***
+Total pot 1490 | No rake
+Board: [Tc 5c 9c 7c]
+Seat 5: FRAN FLO won 1490
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3214573989292670986-28-1708802755 - Holdem no limit (30/60) - 2024/02/24 19:25:55 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Guta (2825)
+Seat 2: P1xel7 (694)
+Seat 3: MtRuShmoore (8663)
+Seat 4: Maxouille98 (2700)
+Seat 5: FRAN FLO (4113)
+Seat 6: Lucky76370 (2850)
+Seat 7: Tango313 (2850)
+Seat 8: voltefesse (8305)
+*** ANTE/BLINDS ***
+Maxouille98 posts small blind 30
+FRAN FLO posts big blind 60
+Dealt to P1xel7 [4s Jc]
+*** PRE-FLOP *** 
+Lucky76370 folds
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 folds
+MtRuShmoore raises 120 to 180
+Maxouille98 raises 180 to 360
+FRAN FLO folds
+MtRuShmoore calls 180
+*** FLOP *** [7d Qc 9c]
+Maxouille98 bets 420
+MtRuShmoore folds
+Maxouille98 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [7d Qc 9c]
+Seat 4: Maxouille98 (small blind) won 1200
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3214573989292670986-29-1708802795 - Holdem no limit (30/60) - 2024/02/24 19:26:35 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Guta (2825)
+Seat 2: P1xel7 (694)
+Seat 3: MtRuShmoore (8303)
+Seat 4: Maxouille98 (3120)
+Seat 5: FRAN FLO (4053)
+Seat 6: Lucky76370 (2850)
+Seat 7: Tango313 (2850)
+Seat 8: voltefesse (8305)
+*** ANTE/BLINDS ***
+FRAN FLO posts small blind 30
+Lucky76370 posts big blind 60
+Dealt to P1xel7 [2c 8h]
+*** PRE-FLOP *** 
+Tango313 folds
+voltefesse folds
+Guta folds
+P1xel7 folds
+MtRuShmoore folds
+Maxouille98 folds
+FRAN FLO calls 30
+Lucky76370 folds
+FRAN FLO collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 5: FRAN FLO (small blind) won 120
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3214573989292670986-30-1708802811 - Holdem no limit (30/60) - 2024/02/24 19:26:51 UTC
+Table: 'Tremplin Paris(748451331)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Guta (2825)
+Seat 2: P1xel7 (694)
+Seat 3: MtRuShmoore (8303)
+Seat 4: Maxouille98 (3120)
+Seat 5: FRAN FLO (4113)
+Seat 6: Lucky76370 (2790)
+Seat 7: Tango313 (2850)
+Seat 8: voltefesse (8305)
+*** ANTE/BLINDS ***
+Lucky76370 posts small blind 30
+Tango313 posts big blind 60
+Dealt to P1xel7 [As 8h]
+*** PRE-FLOP *** 
+voltefesse raises 60 to 120
+Guta folds
+P1xel7 raises 574 to 694 and is all-in
+MtRuShmoore folds
+Maxouille98 folds
+FRAN FLO folds
+Lucky76370 folds
+Tango313 folds
+voltefesse calls 574
+*** FLOP *** [Td 3h 6c]
+*** TURN *** [Td 3h 6c][Tc]
+*** RIVER *** [Td 3h 6c Tc][Kh]
+*** SHOW DOWN ***
+P1xel7 shows [As 8h] (One pair : Tens)
+voltefesse shows [9h 9s] (Two pairs : Tens and 9)
+voltefesse collected 1478 from pot
+*** SUMMARY ***
+Total pot 1478 | No rake
+Board: [Td 3h 6c Tc Kh]
+Seat 2: P1xel7 showed [As 8h] and lost with One pair : Tens
+Seat 8: voltefesse showed [9h 9s] and won 1478 with Two pairs : Tens and 9
+
+

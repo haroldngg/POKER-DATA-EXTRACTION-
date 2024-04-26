@@ -1,0 +1,1743 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3173497738117513320-13-1706816124 - Holdem no limit (40/175/350) - 2024/02/01 19:35:24 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #5 is the button
+Seat 1: erstgi (25277)
+Seat 2: Alexguit (45015)
+Seat 3: P1xel7 (20000)
+Seat 5: nghi (19110)
+Seat 6: malinlapin (47905)
+Seat 7: Aurel300980 (71148)
+Seat 8: baronce24 (10655)
+*** ANTE/BLINDS ***
+malinlapin posts ante 40
+Aurel300980 posts ante 40
+erstgi posts ante 40
+Alexguit posts ante 40
+P1xel7 posts ante 40
+baronce24 posts ante 40
+malinlapin posts small blind 175
+Aurel300980 posts big blind 350
+Dealt to P1xel7 [Ks 9h]
+*** PRE-FLOP *** 
+baronce24 calls 350
+erstgi folds
+Alexguit folds
+P1xel7 folds
+malinlapin calls 175
+Aurel300980 checks
+*** FLOP *** [6s Ac 5s]
+malinlapin checks
+Aurel300980 checks
+baronce24 checks
+*** TURN *** [6s Ac 5s][Jc]
+malinlapin checks
+Aurel300980 checks
+baronce24 checks
+*** RIVER *** [6s Ac 5s Jc][Td]
+malinlapin checks
+Aurel300980 checks
+baronce24 checks
+*** SHOW DOWN ***
+baronce24 shows [2s 7c] (High card : Ace)
+malinlapin shows [5d 3h] (One pair : 5)
+Aurel300980 shows [5h 4s] (One pair : 5)
+Aurel300980 collected 645 from pot
+malinlapin collected 645 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Board: [6s Ac 5s Jc Td]
+Seat 6: malinlapin (small blind) showed [5d 3h] and won 645 with One pair : 5
+Seat 7: Aurel300980 (big blind) showed [5h 4s] and won 645 with One pair : 5
+Seat 8: baronce24 showed [2s 7c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3173497738117513320-14-1706816172 - Holdem no limit (50/200/400) - 2024/02/01 19:36:12 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #6 is the button
+Seat 1: erstgi (25237)
+Seat 2: Alexguit (44975)
+Seat 3: P1xel7 (19960)
+Seat 4: Stuffic (20000)
+Seat 5: nghi (19110)
+Seat 6: malinlapin (48160)
+Seat 7: Aurel300980 (71403)
+Seat 8: baronce24 (10265)
+*** ANTE/BLINDS ***
+Aurel300980 posts ante 50
+baronce24 posts ante 50
+erstgi posts ante 50
+Alexguit posts ante 50
+P1xel7 posts ante 50
+Stuffic posts ante 50
+nghi posts ante 50
+malinlapin posts ante 50
+Aurel300980 posts small blind 200
+baronce24 posts big blind 400
+Dealt to P1xel7 [Ks Kc]
+*** PRE-FLOP *** 
+erstgi folds
+Alexguit folds
+P1xel7 raises 19510 to 19910 and is all-in
+Stuffic folds
+nghi folds
+malinlapin folds
+Aurel300980 folds
+baronce24 folds
+P1xel7 collected 20910 from pot
+*** SUMMARY ***
+Total pot 20910 | No rake
+Seat 3: P1xel7 won 20910
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3173497738117513320-15-1706816197 - Holdem no limit (50/200/400) - 2024/02/01 19:36:37 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #7 is the button
+Seat 1: erstgi (25187)
+Seat 2: Alexguit (44925)
+Seat 3: P1xel7 (20910)
+Seat 4: Stuffic (19950)
+Seat 5: nghi (19060)
+Seat 6: malinlapin (48110)
+Seat 7: Aurel300980 (71153)
+Seat 8: baronce24 (9815)
+*** ANTE/BLINDS ***
+baronce24 posts ante 50
+erstgi posts ante 50
+Alexguit posts ante 50
+P1xel7 posts ante 50
+Stuffic posts ante 50
+nghi posts ante 50
+malinlapin posts ante 50
+Aurel300980 posts ante 50
+baronce24 posts small blind 200
+erstgi posts big blind 400
+Dealt to P1xel7 [2h 5s]
+*** PRE-FLOP *** 
+Alexguit folds
+P1xel7 folds
+Stuffic folds
+nghi folds
+malinlapin calls 400
+Aurel300980 calls 400
+baronce24 calls 200
+erstgi checks
+*** FLOP *** [2d 8s Kh]
+baronce24 checks
+erstgi checks
+malinlapin checks
+Aurel300980 checks
+*** TURN *** [2d 8s Kh][Qc]
+baronce24 checks
+erstgi checks
+malinlapin checks
+Aurel300980 checks
+*** RIVER *** [2d 8s Kh Qc][Jc]
+baronce24 checks
+erstgi checks
+malinlapin checks
+Aurel300980 checks
+*** SHOW DOWN ***
+erstgi shows [3d 9h] (High card : King)
+Aurel300980 shows [As 4s] (High card : Ace)
+baronce24 shows [3s 7h] (High card : King)
+malinlapin shows [5c 5h] (One pair : 5)
+malinlapin collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [2d 8s Kh Qc Jc]
+Seat 1: erstgi (big blind) showed [3d 9h] and lost with High card : King
+Seat 6: malinlapin showed [5c 5h] and won 2000 with One pair : 5
+Seat 7: Aurel300980 (button) showed [As 4s] and lost with High card : Ace
+Seat 8: baronce24 (small blind) showed [3s 7h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3173497738117513320-16-1706816265 - Holdem no limit (50/200/400) - 2024/02/01 19:37:45 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #8 is the button
+Seat 1: erstgi (24737)
+Seat 2: Alexguit (44875)
+Seat 3: P1xel7 (20860)
+Seat 4: Stuffic (19900)
+Seat 5: nghi (19010)
+Seat 6: malinlapin (49660)
+Seat 7: Aurel300980 (70703)
+Seat 8: baronce24 (9365)
+*** ANTE/BLINDS ***
+erstgi posts ante 50
+Alexguit posts ante 50
+P1xel7 posts ante 50
+Stuffic posts ante 50
+nghi posts ante 50
+malinlapin posts ante 50
+Aurel300980 posts ante 50
+baronce24 posts ante 50
+erstgi posts small blind 200
+Alexguit posts big blind 400
+Dealt to P1xel7 [9s 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Stuffic folds
+nghi calls 400
+malinlapin folds
+Aurel300980 calls 400
+baronce24 calls 400
+erstgi folds
+Alexguit checks
+*** FLOP *** [2s 4s 4c]
+Alexguit checks
+nghi checks
+Aurel300980 checks
+baronce24 checks
+*** TURN *** [2s 4s 4c][Tc]
+Alexguit bets 400
+nghi folds
+Aurel300980 calls 400
+baronce24 calls 400
+*** RIVER *** [2s 4s 4c Tc][Ad]
+Alexguit bets 3400
+Aurel300980 folds
+baronce24 folds
+Alexguit collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | No rake
+Board: [2s 4s 4c Tc Ad]
+Seat 2: Alexguit (big blind) won 6800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3173497738117513320-17-1706816318 - Holdem no limit (60/250/500) - 2024/02/01 19:38:38 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #1 is the button
+Seat 1: erstgi (24487)
+Seat 2: Alexguit (47425)
+Seat 3: P1xel7 (20810)
+Seat 4: Stuffic (19850)
+Seat 5: nghi (18560)
+Seat 6: malinlapin (49610)
+Seat 7: Aurel300980 (69853)
+Seat 8: baronce24 (8515)
+*** ANTE/BLINDS ***
+Alexguit posts ante 60
+P1xel7 posts ante 60
+erstgi posts ante 60
+Stuffic posts ante 60
+nghi posts ante 60
+malinlapin posts ante 60
+Aurel300980 posts ante 60
+baronce24 posts ante 60
+Alexguit posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [9c Kc]
+*** PRE-FLOP *** 
+Stuffic folds
+nghi folds
+malinlapin calls 500
+Aurel300980 calls 500
+baronce24 calls 500
+erstgi calls 500
+Alexguit calls 250
+P1xel7 checks
+*** FLOP *** [3h 5h 2c]
+Alexguit checks
+P1xel7 checks
+malinlapin checks
+Aurel300980 checks
+baronce24 checks
+erstgi bets 1218
+Alexguit calls 1218
+P1xel7 folds
+malinlapin folds
+Aurel300980 calls 1218
+baronce24 folds
+*** TURN *** [3h 5h 2c][7d]
+Alexguit checks
+Aurel300980 bets 7134
+erstgi folds
+Alexguit folds
+Aurel300980 collected 14268 from pot
+*** SUMMARY ***
+Total pot 14268 | No rake
+Board: [3h 5h 2c 7d]
+Seat 7: Aurel300980 won 14268
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3173497738117513320-18-1706816421 - Holdem no limit (60/250/500) - 2024/02/01 19:40:21 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #2 is the button
+Seat 1: erstgi (22709)
+Seat 2: Alexguit (45647)
+Seat 3: P1xel7 (20250)
+Seat 4: Stuffic (19790)
+Seat 5: nghi (18500)
+Seat 6: malinlapin (49050)
+Seat 7: Aurel300980 (75209)
+Seat 8: baronce24 (7955)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+Stuffic posts ante 60
+erstgi posts ante 60
+Alexguit posts ante 60
+nghi posts ante 60
+malinlapin posts ante 60
+Aurel300980 posts ante 60
+baronce24 posts ante 60
+P1xel7 posts small blind 250
+Stuffic posts big blind 500
+Dealt to P1xel7 [5h Jc]
+*** PRE-FLOP *** 
+nghi folds
+malinlapin folds
+Aurel300980 raises 1730 to 2230
+baronce24 folds
+erstgi calls 2230
+Alexguit calls 2230
+P1xel7 folds
+Stuffic folds
+*** FLOP *** [6h 6s 7c]
+Aurel300980 checks
+erstgi checks
+Alexguit checks
+*** TURN *** [6h 6s 7c][Qc]
+Aurel300980 checks
+erstgi bets 5148
+Alexguit folds
+Aurel300980 calls 5148
+*** RIVER *** [6h 6s 7c Qc][7s]
+Aurel300980 bets 67771 and is all-in
+erstgi calls 15271 and is all-in
+*** SHOW DOWN ***
+erstgi shows [Qh Jd] (Two pairs : Queens and 7)
+Aurel300980 shows [Ad Tc] (Two pairs : 7 and 6)
+Aurel300980 collected 52500 from side pot 1
+erstgi collected 48758 from main pot
+*** SUMMARY ***
+Total pot 101258 | No rake
+Board: [6h 6s 7c Qc 7s]
+Seat 1: erstgi showed [Qh Jd] and won 48758 with Two pairs : Queens and 7
+Seat 7: Aurel300980 showed [Ad Tc] and won 52500 with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3173497738117513320-19-1706816494 - Holdem no limit (70/300/600) - 2024/02/01 19:41:34 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #3 is the button
+Seat 1: erstgi (48758)
+Seat 2: Alexguit (43357)
+Seat 3: P1xel7 (19940)
+Seat 4: Stuffic (19230)
+Seat 5: nghi (18440)
+Seat 6: malinlapin (48990)
+Seat 7: Aurel300980 (52500)
+Seat 8: baronce24 (7895)
+*** ANTE/BLINDS ***
+Stuffic posts ante 70
+nghi posts ante 70
+erstgi posts ante 70
+Alexguit posts ante 70
+P1xel7 posts ante 70
+malinlapin posts ante 70
+Aurel300980 posts ante 70
+baronce24 posts ante 70
+Stuffic posts small blind 300
+nghi posts big blind 600
+Dealt to P1xel7 [8h Qc]
+*** PRE-FLOP *** 
+malinlapin calls 600
+Aurel300980 folds
+baronce24 calls 600
+erstgi folds
+Alexguit folds
+P1xel7 folds
+Stuffic raises 1200 to 1800
+nghi calls 1200
+malinlapin folds
+baronce24 folds
+*** FLOP *** [Kd 9s Th]
+Stuffic bets 3484
+nghi folds
+Stuffic collected 8844 from pot
+*** SUMMARY ***
+Total pot 8844 | No rake
+Board: [Kd 9s Th]
+Seat 4: Stuffic (small blind) won 8844
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3173497738117513320-20-1706816535 - Holdem no limit (70/300/600) - 2024/02/01 19:42:15 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #4 is the button
+Seat 1: erstgi (48688)
+Seat 2: Alexguit (43287)
+Seat 3: P1xel7 (19870)
+Seat 4: Stuffic (22720)
+Seat 5: nghi (16570)
+Seat 6: malinlapin (48320)
+Seat 7: Aurel300980 (52430)
+Seat 8: baronce24 (7225)
+*** ANTE/BLINDS ***
+nghi posts ante 70
+malinlapin posts ante 70
+erstgi posts ante 70
+Alexguit posts ante 70
+P1xel7 posts ante 70
+Stuffic posts ante 70
+Aurel300980 posts ante 70
+baronce24 posts ante 70
+nghi posts small blind 300
+malinlapin posts big blind 600
+Dealt to P1xel7 [Jc Tc]
+*** PRE-FLOP *** 
+Aurel300980 calls 600
+baronce24 folds
+erstgi calls 600
+Alexguit folds
+P1xel7 calls 600
+Stuffic raises 22050 to 22650 and is all-in
+nghi folds
+malinlapin folds
+Aurel300980 folds
+erstgi folds
+P1xel7 folds
+Stuffic collected 25910 from pot
+*** SUMMARY ***
+Total pot 25910 | No rake
+Seat 4: Stuffic (button) won 25910
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3173497738117513320-21-1706816577 - Holdem no limit (70/300/600) - 2024/02/01 19:42:57 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #5 is the button
+Seat 1: erstgi (48018)
+Seat 2: Alexguit (43217)
+Seat 3: P1xel7 (19200)
+Seat 4: Stuffic (25910)
+Seat 5: nghi (16200)
+Seat 6: malinlapin (47650)
+Seat 7: Aurel300980 (51760)
+Seat 8: baronce24 (7155)
+*** ANTE/BLINDS ***
+malinlapin posts ante 70
+Aurel300980 posts ante 70
+erstgi posts ante 70
+Alexguit posts ante 70
+P1xel7 posts ante 70
+Stuffic posts ante 70
+nghi posts ante 70
+baronce24 posts ante 70
+malinlapin posts small blind 300
+Aurel300980 posts big blind 600
+Dealt to P1xel7 [3d Js]
+*** PRE-FLOP *** 
+baronce24 calls 600
+erstgi calls 600
+Alexguit folds
+P1xel7 folds
+Stuffic folds
+nghi calls 600
+malinlapin calls 300
+Aurel300980 checks
+*** FLOP *** [8d Ah Qc]
+malinlapin checks
+Aurel300980 checks
+baronce24 checks
+erstgi bets 1246
+nghi calls 1246
+malinlapin folds
+Aurel300980 folds
+baronce24 calls 1246
+*** TURN *** [8d Ah Qc][9c]
+baronce24 checks
+erstgi bets 4744
+nghi calls 4744
+baronce24 calls 4744
+*** RIVER *** [8d Ah Qc 9c][3s]
+baronce24 checks
+erstgi bets 13995
+nghi calls 9540 and is all-in
+baronce24 folds
+*** SHOW DOWN ***
+nghi shows [Qd Td] (One pair : Queens)
+erstgi shows [Ad Qh] (Two pairs : Aces and Queens)
+erstgi collected 45065 from pot
+*** SUMMARY ***
+Total pot 45065 | No rake
+Board: [8d Ah Qc 9c 3s]
+Seat 1: erstgi showed [Ad Qh] and won 45065 with Two pairs : Aces and Queens
+Seat 5: nghi (button) showed [Qd Td] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3173497738117513320-22-1706816653 - Holdem no limit (80/350/700) - 2024/02/01 19:44:13 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #6 is the button
+Seat 1: erstgi (72428)
+Seat 2: Alexguit (43147)
+Seat 3: P1xel7 (19130)
+Seat 4: Stuffic (25840)
+Seat 6: malinlapin (46980)
+Seat 7: Aurel300980 (51090)
+Seat 8: baronce24 (495)
+*** ANTE/BLINDS ***
+Aurel300980 posts ante 80
+baronce24 posts ante 80
+erstgi posts ante 80
+Alexguit posts ante 80
+P1xel7 posts ante 80
+Stuffic posts ante 80
+malinlapin posts ante 80
+Aurel300980 posts small blind 350
+baronce24 posts big blind 415 and is all-in
+Dealt to P1xel7 [Ah 2h]
+*** PRE-FLOP *** 
+erstgi calls 700
+Alexguit calls 700
+P1xel7 folds
+Stuffic calls 700
+malinlapin calls 700
+Aurel300980 calls 350
+*** FLOP *** [9d 3h 4s]
+Aurel300980 checks
+erstgi bets 2909
+Alexguit calls 2909
+Stuffic folds
+malinlapin folds
+Aurel300980 calls 2909
+*** TURN *** [9d 3h 4s][8d]
+Aurel300980 checks
+erstgi bets 68739 and is all-in
+Alexguit folds
+Aurel300980 folds
+*** RIVER *** [9d 3h 4s 8d][7c]
+*** SHOW DOWN ***
+baronce24 shows [Qc 7h] (One pair : 7)
+erstgi shows [8h 9h] (Two pairs : 9 and 8)
+erstgi collected 81941 from pot
+*** SUMMARY ***
+Total pot 81941 | No rake
+Board: [9d 3h 4s 8d 7c]
+Seat 1: erstgi showed [8h 9h] and won 81941 with Two pairs : 9 and 8
+Seat 8: baronce24 (big blind) showed [Qc 7h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3173497738117513320-23-1706816720 - Holdem no limit (80/350/700) - 2024/02/01 19:45:20 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #7 is the button
+Seat 1: erstgi (81941)
+Seat 2: Alexguit (39458)
+Seat 3: P1xel7 (19050)
+Seat 4: Stuffic (25060)
+Seat 5: Ananas6625 (20000)
+Seat 6: malinlapin (46200)
+Seat 7: Aurel300980 (47401)
+*** ANTE/BLINDS ***
+erstgi posts ante 80
+Alexguit posts ante 80
+P1xel7 posts ante 80
+Stuffic posts ante 80
+Ananas6625 posts ante 80
+malinlapin posts ante 80
+Aurel300980 posts ante 80
+erstgi posts big blind 700
+Dealt to P1xel7 [Th Qs]
+*** PRE-FLOP *** 
+Alexguit calls 700
+P1xel7 raises 2100 to 2800
+Stuffic folds
+Ananas6625 calls 2800
+malinlapin folds
+Aurel300980 folds
+erstgi folds
+Alexguit calls 2100
+*** FLOP *** [Td 8s 6c]
+Alexguit checks
+P1xel7 bets 4830
+Ananas6625 calls 4830
+Alexguit calls 4830
+*** TURN *** [Td 8s 6c][3s]
+Alexguit checks
+P1xel7 bets 11340 and is all-in
+Ananas6625 folds
+Alexguit calls 11340
+*** RIVER *** [Td 8s 6c 3s][4h]
+*** SHOW DOWN ***
+Alexguit shows [9h Ks] (High card : King)
+P1xel7 shows [Th Qs] (One pair : Tens)
+P1xel7 collected 46830 from pot
+*** SUMMARY ***
+Total pot 46830 | No rake
+Board: [Td 8s 6c 3s 4h]
+Seat 2: Alexguit showed [9h Ks] and lost with High card : King
+Seat 3: P1xel7 showed [Th Qs] and won 46830 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3173497738117513320-24-1706816798 - Holdem no limit (100/400/800) - 2024/02/01 19:46:38 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #8 is the button
+Seat 1: erstgi (81161)
+Seat 2: Alexguit (20408)
+Seat 3: P1xel7 (46830)
+Seat 4: Stuffic (24980)
+Seat 5: Ananas6625 (12290)
+Seat 6: malinlapin (46120)
+Seat 7: Aurel300980 (47321)
+Seat 8: cmali (20000)
+*** ANTE/BLINDS ***
+erstgi posts ante 100
+Alexguit posts ante 100
+P1xel7 posts ante 100
+Stuffic posts ante 100
+Ananas6625 posts ante 100
+malinlapin posts ante 100
+Aurel300980 posts ante 100
+erstgi posts small blind 400
+Alexguit posts big blind 800
+Dealt to P1xel7 [2c Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Stuffic calls 800
+Ananas6625 calls 800
+malinlapin folds
+Aurel300980 folds
+erstgi calls 400
+Alexguit checks
+*** FLOP *** [4c Ts 9h]
+erstgi checks
+Alexguit checks
+Stuffic checks
+Ananas6625 checks
+*** TURN *** [4c Ts 9h][6s]
+erstgi bets 1365
+Alexguit calls 1365
+Stuffic folds
+Ananas6625 calls 1365
+*** RIVER *** [4c Ts 9h 6s][6d]
+erstgi checks
+Alexguit checks
+Ananas6625 checks
+*** SHOW DOWN ***
+Alexguit shows [Js 5s] (One pair : 6)
+Ananas6625 shows [9s Jc] (Two pairs : 9 and 6)
+erstgi shows [Ac 9d] (Two pairs : 9 and 6)
+erstgi collected 7995 from pot
+*** SUMMARY ***
+Total pot 7995 | No rake
+Board: [4c Ts 9h 6s 6d]
+Seat 1: erstgi (small blind) showed [Ac 9d] and won 7995 with Two pairs : 9 and 6
+Seat 2: Alexguit (big blind) showed [Js 5s] and lost with One pair : 6
+Seat 5: Ananas6625 showed [9s Jc] and lost with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3173497738117513320-25-1706816891 - Holdem no limit (100/400/800) - 2024/02/01 19:48:11 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #1 is the button
+Seat 1: erstgi (86891)
+Seat 2: Alexguit (18143)
+Seat 3: P1xel7 (46730)
+Seat 4: Stuffic (24080)
+Seat 5: Ananas6625 (10025)
+Seat 6: malinlapin (46020)
+Seat 7: Aurel300980 (47221)
+Seat 8: cmali (20000)
+*** ANTE/BLINDS ***
+Alexguit posts ante 100
+P1xel7 posts ante 100
+erstgi posts ante 100
+Stuffic posts ante 100
+Ananas6625 posts ante 100
+malinlapin posts ante 100
+Aurel300980 posts ante 100
+cmali posts ante 100
+Alexguit posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [4d 7h]
+*** PRE-FLOP *** 
+Stuffic folds
+Ananas6625 folds
+malinlapin calls 800
+Aurel300980 calls 800
+cmali folds
+erstgi calls 800
+Alexguit calls 400
+P1xel7 checks
+*** FLOP *** [7c Kd 9c]
+Alexguit checks
+P1xel7 checks
+malinlapin checks
+Aurel300980 bets 4800
+erstgi calls 4800
+Alexguit folds
+P1xel7 folds
+malinlapin folds
+*** TURN *** [7c Kd 9c][5s]
+Aurel300980 bets 14400
+erstgi calls 14400
+*** RIVER *** [7c Kd 9c 5s][9d]
+Aurel300980 bets 27121 and is all-in
+erstgi folds
+Aurel300980 collected 70321 from pot
+*** SUMMARY ***
+Total pot 70321 | No rake
+Board: [7c Kd 9c 5s 9d]
+Seat 7: Aurel300980 won 70321
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3173497738117513320-26-1706816977 - Holdem no limit (120/500/1000) - 2024/02/01 19:49:37 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #2 is the button
+Seat 1: erstgi (66791)
+Seat 2: Alexguit (17243)
+Seat 3: P1xel7 (45830)
+Seat 4: Stuffic (23980)
+Seat 5: Ananas6625 (9925)
+Seat 6: malinlapin (45120)
+Seat 7: Aurel300980 (70321)
+Seat 8: cmali (19900)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Stuffic posts ante 120
+erstgi posts ante 120
+Alexguit posts ante 120
+Ananas6625 posts ante 120
+malinlapin posts ante 120
+Aurel300980 posts ante 120
+cmali posts ante 120
+P1xel7 posts small blind 500
+Stuffic posts big blind 1000
+Dealt to P1xel7 [7d 8h]
+*** PRE-FLOP *** 
+Ananas6625 folds
+malinlapin folds
+Aurel300980 calls 1000
+cmali raises 4460 to 5460
+erstgi folds
+Alexguit folds
+P1xel7 folds
+Stuffic folds
+Aurel300980 calls 4460
+*** FLOP *** [5d 8s 3h]
+Aurel300980 bets 64741 and is all-in
+cmali calls 14320 and is all-in
+*** TURN *** [5d 8s 3h][9s]
+*** RIVER *** [5d 8s 3h 9s][Kd]
+*** SHOW DOWN ***
+cmali shows [2h 2c] (One pair : 2)
+Aurel300980 shows [5s 6h] (One pair : 5)
+Aurel300980 collected 92441 from pot
+*** SUMMARY ***
+Total pot 92441 | No rake
+Board: [5d 8s 3h 9s Kd]
+Seat 7: Aurel300980 showed [5s 6h] and won 92441 with One pair : 5
+Seat 8: cmali showed [2h 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3173497738117513320-27-1706817017 - Holdem no limit (120/500/1000) - 2024/02/01 19:50:17 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #3 is the button
+Seat 1: erstgi (66671)
+Seat 2: Alexguit (17123)
+Seat 3: P1xel7 (45210)
+Seat 4: Stuffic (22860)
+Seat 5: Ananas6625 (9805)
+Seat 6: malinlapin (45000)
+Seat 7: Aurel300980 (92441)
+*** ANTE/BLINDS ***
+Stuffic posts ante 120
+Ananas6625 posts ante 120
+erstgi posts ante 120
+Alexguit posts ante 120
+P1xel7 posts ante 120
+malinlapin posts ante 120
+Aurel300980 posts ante 120
+Stuffic posts small blind 500
+Ananas6625 posts big blind 1000
+Dealt to P1xel7 [Ad 8h]
+*** PRE-FLOP *** 
+malinlapin folds
+Aurel300980 folds
+erstgi folds
+Alexguit calls 1000
+P1xel7 folds
+Stuffic raises 3840 to 4840
+Ananas6625 calls 3840
+Alexguit calls 3840
+*** FLOP *** [9d 4c 7c]
+Stuffic bets 7680
+Ananas6625 folds
+Alexguit calls 7680
+*** TURN *** [9d 4c 7c][7s]
+Stuffic bets 10220 and is all-in
+Alexguit calls 4483 and is all-in
+*** RIVER *** [9d 4c 7c 7s][2h]
+*** SHOW DOWN ***
+Alexguit shows [Td Qh] (One pair : 7)
+Stuffic shows [Qd Qs] (Two pairs : Queens and 7)
+Stuffic collected 45423 from pot
+*** SUMMARY ***
+Total pot 45423 | No rake
+Board: [9d 4c 7c 7s 2h]
+Seat 2: Alexguit showed [Td Qh] and lost with One pair : 7
+Seat 4: Stuffic (small blind) showed [Qd Qs] and won 45423 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3173497738117513320-28-1706817092 - Holdem no limit (140/600/1200) - 2024/02/01 19:51:32 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #4 is the button
+Seat 1: erstgi (66551)
+Seat 3: P1xel7 (45090)
+Seat 4: Stuffic (45423)
+Seat 5: Ananas6625 (4845)
+Seat 6: malinlapin (44880)
+Seat 7: Aurel300980 (92321)
+*** ANTE/BLINDS ***
+Ananas6625 posts ante 140
+malinlapin posts ante 140
+erstgi posts ante 140
+P1xel7 posts ante 140
+Stuffic posts ante 140
+Aurel300980 posts ante 140
+Ananas6625 posts small blind 600
+malinlapin posts big blind 1200
+Dealt to P1xel7 [9h Qd]
+*** PRE-FLOP *** 
+Aurel300980 calls 1200
+erstgi calls 1200
+P1xel7 folds
+Stuffic folds
+Ananas6625 calls 600
+malinlapin checks
+*** FLOP *** [2s Kd 2h]
+Ananas6625 checks
+malinlapin checks
+Aurel300980 checks
+erstgi bets 3666
+Ananas6625 calls 3505 and is all-in
+malinlapin folds
+Aurel300980 folds
+*** TURN *** [2s Kd 2h][Ks]
+*** RIVER *** [2s Kd 2h Ks][6h]
+*** SHOW DOWN ***
+Ananas6625 shows [Qh Jc] (Two pairs : Kings and 2)
+erstgi shows [4h Ac] (Two pairs : Kings and 2)
+erstgi collected 12811 from pot
+*** SUMMARY ***
+Total pot 12811 | No rake
+Board: [2s Kd 2h Ks 6h]
+Seat 1: erstgi showed [4h Ac] and won 12811 with Two pairs : Kings and 2
+Seat 5: Ananas6625 (small blind) showed [Qh Jc] and lost with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3173497738117513320-29-1706817157 - Holdem no limit (140/600/1200) - 2024/02/01 19:52:37 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #5 is the button
+Seat 1: erstgi (74356)
+Seat 3: P1xel7 (44950)
+Seat 4: Stuffic (45283)
+Seat 6: malinlapin (43540)
+Seat 7: Aurel300980 (90981)
+Seat 8: lepeper6969 (29545)
+*** ANTE/BLINDS ***
+malinlapin posts ante 140
+Aurel300980 posts ante 140
+erstgi posts ante 140
+P1xel7 posts ante 140
+Stuffic posts ante 140
+lepeper6969 posts ante 140
+malinlapin posts small blind 600
+Aurel300980 posts big blind 1200
+Dealt to P1xel7 [5s 2h]
+*** PRE-FLOP *** 
+lepeper6969 folds
+erstgi folds
+P1xel7 folds
+Stuffic folds
+malinlapin calls 600
+Aurel300980 checks
+*** FLOP *** [Ah Qs Ks]
+malinlapin checks
+Aurel300980 checks
+*** TURN *** [Ah Qs Ks][8s]
+malinlapin bets 1200
+Aurel300980 folds
+malinlapin collected 4440 from pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Board: [Ah Qs Ks 8s]
+Seat 6: malinlapin (small blind) won 4440
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3173497738117513320-30-1706817199 - Holdem no limit (140/600/1200) - 2024/02/01 19:53:19 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #6 is the button
+Seat 1: erstgi (74216)
+Seat 2: Boukachuk (35041)
+Seat 3: P1xel7 (44810)
+Seat 4: Stuffic (45143)
+Seat 6: malinlapin (45440)
+Seat 7: Aurel300980 (89641)
+Seat 8: lepeper6969 (29405)
+*** ANTE/BLINDS ***
+Aurel300980 posts ante 140
+lepeper6969 posts ante 140
+erstgi posts ante 140
+Boukachuk posts ante 140
+P1xel7 posts ante 140
+Stuffic posts ante 140
+malinlapin posts ante 140
+Aurel300980 posts small blind 600
+lepeper6969 posts big blind 1200
+Dealt to P1xel7 [Ac Ts]
+*** PRE-FLOP *** 
+erstgi calls 1200
+Boukachuk calls 1200
+P1xel7 raises 7800 to 9000
+Stuffic folds
+malinlapin folds
+Aurel300980 folds
+lepeper6969 folds
+erstgi folds
+Boukachuk folds
+P1xel7 collected 14180 from pot
+*** SUMMARY ***
+Total pot 14180 | No rake
+Seat 3: P1xel7 won 14180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3173497738117513320-31-1706817250 - Holdem no limit (160/700/1400) - 2024/02/01 19:54:10 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #7 is the button
+Seat 1: erstgi (72876)
+Seat 2: Boukachuk (33701)
+Seat 3: P1xel7 (49850)
+Seat 4: Stuffic (45003)
+Seat 6: malinlapin (45300)
+Seat 7: Aurel300980 (88901)
+Seat 8: lepeper6969 (28065)
+*** ANTE/BLINDS ***
+lepeper6969 posts ante 160
+erstgi posts ante 160
+Boukachuk posts ante 160
+P1xel7 posts ante 160
+Stuffic posts ante 160
+malinlapin posts ante 160
+Aurel300980 posts ante 160
+lepeper6969 posts small blind 700
+erstgi posts big blind 1400
+Dealt to P1xel7 [7c 8h]
+*** PRE-FLOP *** 
+Boukachuk folds
+P1xel7 folds
+Stuffic folds
+malinlapin calls 1400
+Aurel300980 folds
+lepeper6969 folds
+erstgi checks
+*** FLOP *** [9h Ac As]
+erstgi checks
+malinlapin checks
+*** TURN *** [9h Ac As][Qs]
+erstgi checks
+malinlapin checks
+*** RIVER *** [9h Ac As Qs][3c]
+erstgi checks
+malinlapin checks
+*** SHOW DOWN ***
+erstgi shows [4d 5s] (One pair : Aces)
+malinlapin shows [Jd Ks] (One pair : Aces)
+malinlapin collected 4620 from pot
+*** SUMMARY ***
+Total pot 4620 | No rake
+Board: [9h Ac As Qs 3c]
+Seat 1: erstgi (big blind) showed [4d 5s] and lost with One pair : Aces
+Seat 6: malinlapin showed [Jd Ks] and won 4620 with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3173497738117513320-32-1706817661 - Holdem no limit (160/700/1400) - 2024/02/01 20:01:01 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #8 is the button
+Seat 1: erstgi (71316)
+Seat 2: Boukachuk (33541)
+Seat 3: P1xel7 (49690)
+Seat 4: Stuffic (44843)
+Seat 5: Boloss007 (46150)
+Seat 6: malinlapin (48360)
+Seat 7: Aurel300980 (88741)
+Seat 8: lepeper6969 (27205)
+*** ANTE/BLINDS ***
+erstgi posts ante 160
+Boukachuk posts ante 160
+P1xel7 posts ante 160
+Stuffic posts ante 160
+Boloss007 posts ante 160
+malinlapin posts ante 160
+Aurel300980 posts ante 160
+lepeper6969 posts ante 160
+erstgi posts small blind 700
+Boukachuk posts big blind 1400
+Dealt to P1xel7 [4c As]
+*** PRE-FLOP *** 
+P1xel7 folds
+Stuffic folds
+Boloss007 calls 1400
+malinlapin folds
+Aurel300980 calls 1400
+lepeper6969 folds
+erstgi calls 700
+Boukachuk checks
+*** FLOP *** [3d 7h Qd]
+erstgi checks
+Boukachuk checks
+Boloss007 checks
+Aurel300980 checks
+*** TURN *** [3d 7h Qd][4s]
+erstgi checks
+Boukachuk checks
+Boloss007 checks
+Aurel300980 checks
+*** RIVER *** [3d 7h Qd 4s][Qh]
+erstgi checks
+Boukachuk bets 1400
+Boloss007 folds
+Aurel300980 calls 1400
+erstgi folds
+*** SHOW DOWN ***
+Boukachuk shows [Kh 5d] (One pair : Queens)
+Aurel300980 shows [8d Ad] (One pair : Queens)
+Aurel300980 collected 9680 from pot
+*** SUMMARY ***
+Total pot 9680 | No rake
+Board: [3d 7h Qd 4s Qh]
+Seat 2: Boukachuk (big blind) showed [Kh 5d] and lost with One pair : Queens
+Seat 7: Aurel300980 showed [8d Ad] and won 9680 with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3173497738117513320-33-1706817852 - Holdem no limit (200/800/1600) - 2024/02/01 20:04:12 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #1 is the button
+Seat 1: erstgi (69756)
+Seat 2: Boukachuk (30581)
+Seat 3: P1xel7 (49530)
+Seat 4: Stuffic (44683)
+Seat 5: Boloss007 (44590)
+Seat 6: malinlapin (48200)
+Seat 7: Aurel300980 (95461)
+Seat 8: lepeper6969 (27045)
+*** ANTE/BLINDS ***
+Boukachuk posts ante 200
+P1xel7 posts ante 200
+erstgi posts ante 200
+Stuffic posts ante 200
+Boloss007 posts ante 200
+malinlapin posts ante 200
+Aurel300980 posts ante 200
+lepeper6969 posts ante 200
+Boukachuk posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [Td Jd]
+*** PRE-FLOP *** 
+Stuffic calls 1600
+Boloss007 raises 42790 to 44390 and is all-in
+malinlapin folds
+Aurel300980 folds
+lepeper6969 folds
+erstgi folds
+Boukachuk folds
+P1xel7 folds
+Stuffic folds
+Boloss007 collected 49990 from pot
+*** SUMMARY ***
+Total pot 49990 | No rake
+Seat 5: Boloss007 won 49990
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3173497738117513320-34-1706817872 - Holdem no limit (250/1000/2000) - 2024/02/01 20:04:32 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #2 is the button
+Seat 1: erstgi (69556)
+Seat 2: Boukachuk (29581)
+Seat 3: P1xel7 (47730)
+Seat 4: Stuffic (42883)
+Seat 5: Boloss007 (49990)
+Seat 6: malinlapin (48000)
+Seat 7: Aurel300980 (95261)
+Seat 8: lepeper6969 (26845)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+Stuffic posts ante 250
+erstgi posts ante 250
+Boukachuk posts ante 250
+Boloss007 posts ante 250
+malinlapin posts ante 250
+Aurel300980 posts ante 250
+lepeper6969 posts ante 250
+P1xel7 posts small blind 1000
+Stuffic posts big blind 2000
+Dealt to P1xel7 [Js 6c]
+*** PRE-FLOP *** 
+Boloss007 folds
+malinlapin folds
+Aurel300980 calls 2000
+lepeper6969 folds
+erstgi folds
+Boukachuk calls 2000
+P1xel7 folds
+Stuffic checks
+*** FLOP *** [9d 3s 7s]
+Stuffic checks
+Aurel300980 checks
+Boukachuk bets 3150
+Stuffic folds
+Aurel300980 calls 3150
+*** TURN *** [9d 3s 7s][Td]
+Aurel300980 bets 15300
+Boukachuk calls 15300
+*** RIVER *** [9d 3s 7s Td][Ac]
+Aurel300980 bets 74561 and is all-in
+Boukachuk folds
+Aurel300980 collected 120461 from pot
+*** SUMMARY ***
+Total pot 120461 | No rake
+Board: [9d 3s 7s Td Ac]
+Seat 7: Aurel300980 won 120461
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3173497738117513320-35-1706817932 - Holdem no limit (250/1000/2000) - 2024/02/01 20:05:32 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #3 is the button
+Seat 1: erstgi (69306)
+Seat 2: Boukachuk (8881)
+Seat 3: P1xel7 (46480)
+Seat 4: Stuffic (40633)
+Seat 5: Boloss007 (49740)
+Seat 6: malinlapin (47750)
+Seat 7: Aurel300980 (120461)
+Seat 8: lepeper6969 (26595)
+*** ANTE/BLINDS ***
+Stuffic posts ante 250
+Boloss007 posts ante 250
+erstgi posts ante 250
+Boukachuk posts ante 250
+P1xel7 posts ante 250
+malinlapin posts ante 250
+Aurel300980 posts ante 250
+lepeper6969 posts ante 250
+Stuffic posts small blind 1000
+Boloss007 posts big blind 2000
+Dealt to P1xel7 [6s 2d]
+*** PRE-FLOP *** 
+malinlapin calls 2000
+Aurel300980 calls 2000
+lepeper6969 folds
+erstgi folds
+Boukachuk folds
+P1xel7 folds
+Stuffic calls 1000
+Boloss007 checks
+*** FLOP *** [3d 3s 3h]
+Stuffic checks
+Boloss007 checks
+malinlapin checks
+Aurel300980 checks
+*** TURN *** [3d 3s 3h][9s]
+Stuffic bets 10000
+Boloss007 folds
+malinlapin folds
+Aurel300980 folds
+Stuffic collected 20000 from pot
+*** SUMMARY ***
+Total pot 20000 | No rake
+Board: [3d 3s 3h 9s]
+Seat 4: Stuffic (small blind) won 20000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3173497738117513320-36-1706817998 - Holdem no limit (250/1000/2000) - 2024/02/01 20:06:38 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #4 is the button
+Seat 1: erstgi (69056)
+Seat 2: Boukachuk (8631)
+Seat 3: P1xel7 (46230)
+Seat 4: Stuffic (48383)
+Seat 5: Boloss007 (47490)
+Seat 6: malinlapin (45500)
+Seat 7: Aurel300980 (118211)
+Seat 8: lepeper6969 (26345)
+*** ANTE/BLINDS ***
+Boloss007 posts ante 250
+malinlapin posts ante 250
+erstgi posts ante 250
+Boukachuk posts ante 250
+P1xel7 posts ante 250
+Stuffic posts ante 250
+Aurel300980 posts ante 250
+lepeper6969 posts ante 250
+Boloss007 posts small blind 1000
+malinlapin posts big blind 2000
+Dealt to P1xel7 [8s 3d]
+*** PRE-FLOP *** 
+Aurel300980 folds
+lepeper6969 folds
+erstgi calls 2000
+Boukachuk folds
+P1xel7 folds
+Stuffic calls 2000
+Boloss007 folds
+malinlapin checks
+*** FLOP *** [2d Jh Ac]
+malinlapin checks
+erstgi bets 2000
+Stuffic folds
+malinlapin folds
+erstgi collected 11000 from pot
+*** SUMMARY ***
+Total pot 11000 | No rake
+Board: [2d Jh Ac]
+Seat 1: erstgi won 11000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3173497738117513320-37-1706818086 - Holdem no limit (300/1250/2500) - 2024/02/01 20:08:06 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #5 is the button
+Seat 1: erstgi (75806)
+Seat 2: Boukachuk (8381)
+Seat 3: P1xel7 (45980)
+Seat 4: Stuffic (46133)
+Seat 5: Boloss007 (46240)
+Seat 6: malinlapin (43250)
+Seat 7: Aurel300980 (117961)
+Seat 8: lepeper6969 (26095)
+*** ANTE/BLINDS ***
+malinlapin posts ante 300
+Aurel300980 posts ante 300
+erstgi posts ante 300
+Boukachuk posts ante 300
+P1xel7 posts ante 300
+Stuffic posts ante 300
+Boloss007 posts ante 300
+lepeper6969 posts ante 300
+malinlapin posts small blind 1250
+Aurel300980 posts big blind 2500
+Dealt to P1xel7 [2d Kd]
+*** PRE-FLOP *** 
+lepeper6969 folds
+erstgi calls 2500
+Boukachuk raises 5581 to 8081 and is all-in
+P1xel7 folds
+Stuffic folds
+Boloss007 raises 37859 to 45940 and is all-in
+malinlapin folds
+Aurel300980 folds
+erstgi folds
+*** FLOP *** [9c Ts 5c]
+*** TURN *** [9c Ts 5c][9h]
+*** RIVER *** [9c Ts 5c 9h][5d]
+*** SHOW DOWN ***
+Boukachuk shows [Jd Ks] (Two pairs : 9 and 5)
+Boloss007 shows [As Ad] (Two pairs : Aces and 9)
+Boloss007 collected 62671 from pot
+*** SUMMARY ***
+Total pot 62671 | No rake
+Board: [9c Ts 5c 9h 5d]
+Seat 2: Boukachuk showed [Jd Ks] and lost with Two pairs : 9 and 5
+Seat 5: Boloss007 (button) showed [As Ad] and won 62671 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3173497738117513320-38-1706818113 - Holdem no limit (300/1250/2500) - 2024/02/01 20:08:33 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #6 is the button
+Seat 1: erstgi (73006)
+Seat 3: P1xel7 (45680)
+Seat 4: Stuffic (45833)
+Seat 5: Boloss007 (62671)
+Seat 6: malinlapin (41700)
+Seat 7: Aurel300980 (115161)
+Seat 8: lepeper6969 (25795)
+*** ANTE/BLINDS ***
+Aurel300980 posts ante 300
+lepeper6969 posts ante 300
+erstgi posts ante 300
+P1xel7 posts ante 300
+Stuffic posts ante 300
+Boloss007 posts ante 300
+malinlapin posts ante 300
+Aurel300980 posts small blind 1250
+lepeper6969 posts big blind 2500
+Dealt to P1xel7 [4c 9c]
+*** PRE-FLOP *** 
+erstgi folds
+P1xel7 folds
+Stuffic folds
+Boloss007 folds
+malinlapin calls 2500
+Aurel300980 calls 1250
+lepeper6969 checks
+*** FLOP *** [5h 7s 9d]
+Aurel300980 checks
+lepeper6969 checks
+malinlapin bets 2500
+Aurel300980 calls 2500
+lepeper6969 folds
+*** TURN *** [5h 7s 9d][Kd]
+Aurel300980 checks
+malinlapin bets 2500
+Aurel300980 calls 2500
+*** RIVER *** [5h 7s 9d Kd][Qs]
+Aurel300980 checks
+malinlapin bets 6860
+Aurel300980 calls 6860
+*** SHOW DOWN ***
+Aurel300980 shows [Ac 8h] (High card : Ace)
+malinlapin shows [Kh Ks] (Trips of Kings)
+malinlapin collected 33320 from pot
+*** SUMMARY ***
+Total pot 33320 | No rake
+Board: [5h 7s 9d Kd Qs]
+Seat 6: malinlapin (button) showed [Kh Ks] and won 33320 with Trips of Kings
+Seat 7: Aurel300980 (small blind) showed [Ac 8h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3173497738117513320-39-1706818188 - Holdem no limit (350/1500/3000) - 2024/02/01 20:09:48 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #7 is the button
+Seat 1: erstgi (72706)
+Seat 2: Gckp (30360)
+Seat 3: P1xel7 (45380)
+Seat 4: Stuffic (45533)
+Seat 5: Boloss007 (62371)
+Seat 6: malinlapin (60360)
+Seat 7: Aurel300980 (100501)
+Seat 8: lepeper6969 (22995)
+*** ANTE/BLINDS ***
+lepeper6969 posts ante 350
+erstgi posts ante 350
+Gckp posts ante 350
+P1xel7 posts ante 350
+Stuffic posts ante 350
+Boloss007 posts ante 350
+malinlapin posts ante 350
+Aurel300980 posts ante 350
+lepeper6969 posts small blind 1500
+erstgi posts big blind 3000
+Dealt to P1xel7 [8c As]
+*** PRE-FLOP *** 
+Gckp raises 6000 to 9000
+P1xel7 folds
+Stuffic folds
+Boloss007 folds
+malinlapin folds
+Aurel300980 folds
+lepeper6969 folds
+erstgi folds
+Gckp collected 16300 from pot
+*** SUMMARY ***
+Total pot 16300 | No rake
+Seat 2: Gckp won 16300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3173497738117513320-40-1706818224 - Holdem no limit (350/1500/3000) - 2024/02/01 20:10:24 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #8 is the button
+Seat 1: erstgi (69356)
+Seat 2: Gckp (37310)
+Seat 3: P1xel7 (45030)
+Seat 4: Stuffic (45183)
+Seat 5: Boloss007 (62021)
+Seat 6: malinlapin (60010)
+Seat 7: Aurel300980 (100151)
+Seat 8: lepeper6969 (21145)
+*** ANTE/BLINDS ***
+erstgi posts ante 350
+Gckp posts ante 350
+P1xel7 posts ante 350
+Stuffic posts ante 350
+Boloss007 posts ante 350
+malinlapin posts ante 350
+Aurel300980 posts ante 350
+lepeper6969 posts ante 350
+erstgi posts small blind 1500
+Gckp posts big blind 3000
+Dealt to P1xel7 [3c 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Stuffic folds
+Boloss007 folds
+malinlapin calls 3000
+Aurel300980 calls 3000
+lepeper6969 folds
+erstgi calls 1500
+Gckp checks
+*** FLOP *** [Ad Jh Qc]
+erstgi checks
+Gckp checks
+malinlapin checks
+Aurel300980 checks
+*** TURN *** [Ad Jh Qc][5c]
+erstgi bets 5180
+Gckp folds
+malinlapin folds
+Aurel300980 calls 5180
+*** RIVER *** [Ad Jh Qc 5c][4h]
+erstgi bets 8806
+Aurel300980 folds
+erstgi collected 33966 from pot
+*** SUMMARY ***
+Total pot 33966 | No rake
+Board: [Ad Jh Qc 5c 4h]
+Seat 1: erstgi (small blind) won 33966
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3173497738117513320-41-1706818311 - Holdem no limit (350/1500/3000) - 2024/02/01 20:11:51 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #1 is the button
+Seat 1: erstgi (85986)
+Seat 2: Gckp (33960)
+Seat 3: P1xel7 (44680)
+Seat 4: Stuffic (44833)
+Seat 5: Boloss007 (61671)
+Seat 6: malinlapin (56660)
+Seat 7: Aurel300980 (91621)
+Seat 8: lepeper6969 (20795)
+*** ANTE/BLINDS ***
+Gckp posts ante 350
+P1xel7 posts ante 350
+erstgi posts ante 350
+Stuffic posts ante 350
+Boloss007 posts ante 350
+malinlapin posts ante 350
+Aurel300980 posts ante 350
+lepeper6969 posts ante 350
+Gckp posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [Ac 5s]
+*** PRE-FLOP *** 
+Stuffic folds
+Boloss007 folds
+malinlapin calls 3000
+Aurel300980 raises 88271 to 91271 and is all-in
+lepeper6969 folds
+erstgi folds
+Gckp calls 32110 and is all-in
+P1xel7 folds
+malinlapin calls 53310 and is all-in
+*** FLOP *** [Ks 9d Th]
+*** TURN *** [Ks 9d Th][9c]
+*** RIVER *** [Ks 9d Th 9c][8c]
+*** SHOW DOWN ***
+Gckp shows [Jd Ah] (One pair : 9)
+malinlapin shows [Jc Js] (Two pairs : Jacks and 9)
+Aurel300980 shows [9h 9s] (Quads of 9)
+Aurel300980 collected 186991 from pot
+*** SUMMARY ***
+Total pot 186991 | No rake
+Board: [Ks 9d Th 9c 8c]
+Seat 2: Gckp (small blind) showed [Jd Ah] and lost with One pair : 9
+Seat 6: malinlapin showed [Jc Js] and lost with Two pairs : Jacks and 9
+Seat 7: Aurel300980 showed [9h 9s] and won 186991 with Quads of 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3173497738117513320-42-1706818355 - Holdem no limit (400/1750/3500) - 2024/02/01 20:12:35 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #2 is the button
+Seat 1: erstgi (85636)
+Seat 3: P1xel7 (41330)
+Seat 4: Stuffic (44483)
+Seat 5: Boloss007 (61321)
+Seat 7: Aurel300980 (186991)
+Seat 8: lepeper6969 (20445)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+Stuffic posts ante 400
+erstgi posts ante 400
+Boloss007 posts ante 400
+Aurel300980 posts ante 400
+lepeper6969 posts ante 400
+P1xel7 posts small blind 1750
+Stuffic posts big blind 3500
+Dealt to P1xel7 [6c As]
+*** PRE-FLOP *** 
+Boloss007 folds
+Aurel300980 calls 3500
+lepeper6969 calls 3500
+erstgi folds
+P1xel7 raises 37430 to 40930 and is all-in
+Stuffic folds
+Aurel300980 folds
+lepeper6969 calls 16545 and is all-in
+*** FLOP *** [5h 2h 7h]
+*** TURN *** [5h 2h 7h][6s]
+*** RIVER *** [5h 2h 7h 6s][9h]
+*** SHOW DOWN ***
+lepeper6969 shows [Kc Js] (High card : King)
+P1xel7 shows [6c As] (One pair : 6)
+P1xel7 collected 70375 from pot
+*** SUMMARY ***
+Total pot 70375 | No rake
+Board: [5h 2h 7h 6s 9h]
+Seat 3: P1xel7 (small blind) showed [6c As] and won 70375 with One pair : 6
+Seat 8: lepeper6969 showed [Kc Js] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3173497738117513320-43-1706818407 - Holdem no limit (400/1750/3500) - 2024/02/01 20:13:27 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #3 is the button
+Seat 1: erstgi (85236)
+Seat 2: Papoumano (211428)
+Seat 3: P1xel7 (70375)
+Seat 4: Stuffic (40583)
+Seat 5: Boloss007 (60921)
+Seat 6: RobertMm79 (47560)
+Seat 7: Aurel300980 (183091)
+*** ANTE/BLINDS ***
+Stuffic posts ante 400
+Boloss007 posts ante 400
+erstgi posts ante 400
+Papoumano posts ante 400
+P1xel7 posts ante 400
+RobertMm79 posts ante 400
+Aurel300980 posts ante 400
+Stuffic posts small blind 1750
+Boloss007 posts big blind 3500
+Dealt to P1xel7 [Qh Qs]
+*** PRE-FLOP *** 
+RobertMm79 folds
+Aurel300980 folds
+erstgi folds
+Papoumano calls 3500
+P1xel7 raises 5250 to 8750
+Stuffic folds
+Boloss007 folds
+Papoumano calls 5250
+*** FLOP *** [Kd Js 6s]
+Papoumano checks
+P1xel7 bets 8943
+Papoumano folds
+P1xel7 collected 34493 from pot
+*** SUMMARY ***
+Total pot 34493 | No rake
+Board: [Kd Js 6s]
+Seat 3: P1xel7 (button) won 34493
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3173497738117513320-44-1706818490 - Holdem no limit (500/2000/4000) - 2024/02/01 20:14:50 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #4 is the button
+Seat 1: erstgi (84836)
+Seat 2: Papoumano (202278)
+Seat 3: P1xel7 (86775)
+Seat 4: Stuffic (38433)
+Seat 5: Boloss007 (57021)
+Seat 6: RobertMm79 (47160)
+Seat 7: Aurel300980 (182691)
+Seat 8: usospeed (201791)
+*** ANTE/BLINDS ***
+Boloss007 posts ante 500
+RobertMm79 posts ante 500
+erstgi posts ante 500
+Papoumano posts ante 500
+P1xel7 posts ante 500
+Stuffic posts ante 500
+Aurel300980 posts ante 500
+usospeed posts ante 500
+Boloss007 posts small blind 2000
+RobertMm79 posts big blind 4000
+Dealt to P1xel7 [2h 8h]
+*** PRE-FLOP *** 
+Aurel300980 folds
+usospeed calls 4000
+erstgi folds
+Papoumano folds
+P1xel7 folds
+Stuffic folds
+Boloss007 calls 2000
+RobertMm79 checks
+*** FLOP *** [5d 4s Ah]
+Boloss007 checks
+RobertMm79 checks
+usospeed bets 4000
+Boloss007 calls 4000
+RobertMm79 folds
+*** TURN *** [5d 4s Ah][8d]
+Boloss007 checks
+usospeed bets 4000
+Boloss007 calls 4000
+*** RIVER *** [5d 4s Ah 8d][7d]
+Boloss007 bets 4000
+usospeed calls 4000
+*** SHOW DOWN ***
+Boloss007 shows [2c Qc] (High card : Ace)
+usospeed shows [4c Kc] (One pair : 4)
+usospeed collected 40000 from pot
+*** SUMMARY ***
+Total pot 40000 | No rake
+Board: [5d 4s Ah 8d 7d]
+Seat 5: Boloss007 (small blind) showed [2c Qc] and lost with High card : Ace
+Seat 8: usospeed showed [4c Kc] and won 40000 with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3173497738117513320-45-1706818552 - Holdem no limit (500/2000/4000) - 2024/02/01 20:15:52 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #5 is the button
+Seat 1: erstgi (84336)
+Seat 2: Papoumano (201778)
+Seat 3: P1xel7 (86275)
+Seat 4: Stuffic (37933)
+Seat 5: Boloss007 (40521)
+Seat 6: RobertMm79 (42660)
+Seat 7: Aurel300980 (182191)
+Seat 8: usospeed (225291)
+*** ANTE/BLINDS ***
+RobertMm79 posts ante 500
+Aurel300980 posts ante 500
+erstgi posts ante 500
+Papoumano posts ante 500
+P1xel7 posts ante 500
+Stuffic posts ante 500
+Boloss007 posts ante 500
+usospeed posts ante 500
+RobertMm79 posts small blind 2000
+Aurel300980 posts big blind 4000
+Dealt to P1xel7 [Jh Ad]
+*** PRE-FLOP *** 
+usospeed folds
+erstgi calls 4000
+Papoumano folds
+P1xel7 raises 12000 to 16000
+Stuffic folds
+Boloss007 folds
+RobertMm79 folds
+Aurel300980 folds
+erstgi calls 12000
+*** FLOP *** [Kh Tc Qh]
+erstgi checks
+P1xel7 checks
+*** TURN *** [Kh Tc Qh][Th]
+erstgi bets 27300
+P1xel7 calls 27300
+*** RIVER *** [Kh Tc Qh Th][7d]
+erstgi bets 40536 and is all-in
+P1xel7 calls 40536
+*** SHOW DOWN ***
+erstgi shows [Ah Jd] (Straight Ace high)
+P1xel7 shows [Jh Ad] (Straight Ace high)
+P1xel7 collected 88836 from pot
+erstgi collected 88836 from pot
+*** SUMMARY ***
+Total pot 177672 | No rake
+Board: [Kh Tc Qh Th 7d]
+Seat 1: erstgi showed [Ah Jd] and won 88836 with Straight Ace high
+Seat 3: P1xel7 showed [Jh Ad] and won 88836 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3173497738117513320-46-1706818616 - Holdem no limit (600/2500/5000) - 2024/02/01 20:16:56 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #6 is the button
+Seat 1: erstgi (88836)
+Seat 2: Papoumano (201278)
+Seat 3: P1xel7 (90775)
+Seat 4: Stuffic (37433)
+Seat 5: Boloss007 (40021)
+Seat 6: RobertMm79 (40160)
+Seat 7: Aurel300980 (177691)
+Seat 8: usospeed (224791)
+*** ANTE/BLINDS ***
+Aurel300980 posts ante 600
+usospeed posts ante 600
+erstgi posts ante 600
+Papoumano posts ante 600
+P1xel7 posts ante 600
+Stuffic posts ante 600
+Boloss007 posts ante 600
+RobertMm79 posts ante 600
+Aurel300980 posts small blind 2500
+usospeed posts big blind 5000
+Dealt to P1xel7 [7d 8c]
+*** PRE-FLOP *** 
+erstgi calls 5000
+Papoumano folds
+P1xel7 folds
+Stuffic calls 5000
+Boloss007 folds
+RobertMm79 folds
+Aurel300980 calls 2500
+usospeed checks
+*** FLOP *** [Jc Kh Jh]
+Aurel300980 bets 5000
+usospeed calls 5000
+erstgi calls 5000
+Stuffic calls 5000
+*** TURN *** [Jc Kh Jh][9s]
+Aurel300980 checks
+usospeed bets 44800
+erstgi calls 44800
+Stuffic calls 26833 and is all-in
+Aurel300980 calls 44800
+*** RIVER *** [Jc Kh Jh 9s][3h]
+Aurel300980 bets 122291 and is all-in
+usospeed raises 47100 to 169391 and is all-in
+erstgi calls 33436 and is all-in
+*** SHOW DOWN ***
+erstgi shows [Th 8h] (Flush King high)
+Stuffic shows [9d Qd] (Two pairs : Jacks and 9)
+Aurel300980 shows [Qh Ah] (Flush Ace high)
+usospeed shows [Ks 6s] (Two pairs : Kings and Jacks)
+usospeed collected 47100 from side pot 1
+Aurel300980 collected 484051 from main pot
+*** SUMMARY ***
+Total pot 531151 | No rake
+Board: [Jc Kh Jh 9s 3h]
+Seat 1: erstgi showed [Th 8h] and lost with Flush King high
+Seat 4: Stuffic showed [9d Qd] and lost with Two pairs : Jacks and 9
+Seat 7: Aurel300980 (small blind) showed [Qh Ah] and won 484051 with Flush Ace high
+Seat 8: usospeed (big blind) showed [Ks 6s] and won 47100 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3173497738117513320-47-1706818685 - Holdem no limit (600/2500/5000) - 2024/02/01 20:18:05 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #7 is the button
+Seat 2: Papoumano (200678)
+Seat 3: P1xel7 (90175)
+Seat 5: Boloss007 (39421)
+Seat 6: RobertMm79 (39560)
+Seat 7: Aurel300980 (484051)
+Seat 8: usospeed (47100)
+*** ANTE/BLINDS ***
+usospeed posts ante 600
+Papoumano posts ante 600
+P1xel7 posts ante 600
+Boloss007 posts ante 600
+RobertMm79 posts ante 600
+Aurel300980 posts ante 600
+usospeed posts small blind 2500
+Papoumano posts big blind 5000
+Dealt to P1xel7 [4s Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Boloss007 folds
+RobertMm79 folds
+Aurel300980 calls 5000
+usospeed raises 5000 to 10000
+Papoumano folds
+Aurel300980 calls 5000
+*** FLOP *** [7d 7c 7h]
+usospeed bets 36500 and is all-in
+Aurel300980 calls 36500
+*** TURN *** [7d 7c 7h][6d]
+*** RIVER *** [7d 7c 7h 6d][Qh]
+*** SHOW DOWN ***
+usospeed shows [Ts 3h] (Trips of 7)
+Aurel300980 shows [8c Qd] (Full of 7 and Queens)
+Aurel300980 collected 101600 from pot
+*** SUMMARY ***
+Total pot 101600 | No rake
+Board: [7d 7c 7h 6d Qh]
+Seat 7: Aurel300980 (button) showed [8c Qd] and won 101600 with Full of 7 and Queens
+Seat 8: usospeed (small blind) showed [Ts 3h] and lost with Trips of 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3173497738117513320-48-1706818727 - Holdem no limit (600/2500/5000) - 2024/02/01 20:18:47 UTC
+Table: 'Freeroll(738887521)#0103' 8-max (real money) Seat #8 is the button
+Seat 1: aureldu-85 (3760)
+Seat 2: Papoumano (195078)
+Seat 3: P1xel7 (89575)
+Seat 4: limphie (376867)
+Seat 5: Boloss007 (38821)
+Seat 6: RobertMm79 (38960)
+Seat 7: Aurel300980 (538551)
+*** ANTE/BLINDS ***
+Papoumano posts ante 600
+P1xel7 posts ante 600
+limphie posts ante 600
+Boloss007 posts ante 600
+RobertMm79 posts ante 600
+Aurel300980 posts ante 600
+Papoumano posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [Jd 3d]
+*** PRE-FLOP *** 
+limphie folds
+Boloss007 folds
+RobertMm79 folds
+Aurel300980 folds
+Papoumano calls 2500
+P1xel7 checks
+*** FLOP *** [Js 7c Kc]
+Papoumano bets 5000
+P1xel7 calls 5000
+*** TURN *** [Js 7c Kc][Jc]
+Papoumano bets 5000
+P1xel7 raises 14300 to 19300
+Papoumano calls 14300
+*** RIVER *** [Js 7c Kc Jc][4d]
+Papoumano checks
+P1xel7 bets 59675 and is all-in
+Papoumano calls 59675
+*** SHOW DOWN ***
+P1xel7 shows [Jd 3d] (Trips of Jacks)
+Papoumano shows [Jh 9h] (Trips of Jacks)
+Papoumano collected 181550 from pot
+*** SUMMARY ***
+Total pot 181550 | No rake
+Board: [Js 7c Kc Jc 4d]
+Seat 2: Papoumano (small blind) showed [Jh 9h] and won 181550 with Trips of Jacks
+Seat 3: P1xel7 (big blind) showed [Jd 3d] and lost with Trips of Jacks
+
+

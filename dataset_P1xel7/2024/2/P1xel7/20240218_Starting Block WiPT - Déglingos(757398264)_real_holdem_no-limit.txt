@@ -1,0 +1,33 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3253000773927174145-1-1708283055 - Holdem no limit (10/20) - 2024/02/18 19:04:15 UTC
+Table: 'Starting Block WiPT - Déglingos(757398264)#0' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (500)
+Seat 2: Yello61 (500)
+Seat 3: Rendekalatun (500)
+Seat 4: Sowjea (500)
+Seat 5: herbebleue (500)
+Seat 6: TheoJ27 (500)
+*** ANTE/BLINDS ***
+Sowjea posts small blind 10
+herbebleue posts big blind 20
+Dealt to P1xel7 [As Jh]
+*** PRE-FLOP *** 
+TheoJ27 folds
+P1xel7 raises 480 to 500 and is all-in
+Yello61 folds
+Rendekalatun folds
+Sowjea calls 490 and is all-in
+herbebleue folds
+*** FLOP *** [Ks Td 4d]
+*** TURN *** [Ks Td 4d][2d]
+*** RIVER *** [Ks Td 4d 2d][3s]
+*** SHOW DOWN ***
+P1xel7 shows [As Jh] (High card : Ace)
+Sowjea shows [Kh Qh] (One pair : Kings)
+Sowjea collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [Ks Td 4d 2d 3s]
+Seat 1: P1xel7 showed [As Jh] and lost with High card : Ace
+Seat 4: Sowjea (small blind) showed [Kh Qh] and won 1020 with One pair : Kings
+
+

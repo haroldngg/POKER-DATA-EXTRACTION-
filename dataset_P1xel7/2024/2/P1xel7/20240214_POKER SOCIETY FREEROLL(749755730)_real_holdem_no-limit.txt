@@ -1,0 +1,6347 @@
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 1 - HandId: #3220176340338606556-1-1707940825 - Holdem no limit (12/50/100) - 2024/02/14 20:00:25 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #1 is the button
+Seat 1: hudasdu59 (20000)
+Seat 2: P1xel7 (20000)
+Seat 3: audfab13 (20000)
+Seat 4: alfonso37 (20000)
+Seat 5: BaLeK_46 (20000)
+Seat 6: DJOKILLAH61 (20000)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 12
+audfab13 posts ante 12
+hudasdu59 posts ante 12
+alfonso37 posts ante 12
+BaLeK_46 posts ante 12
+DJOKILLAH61 posts ante 12
+P1xel7 posts small blind 50
+audfab13 posts big blind 100
+Dealt to P1xel7 [Ac 5h]
+*** PRE-FLOP *** 
+alfonso37 folds
+BaLeK_46 folds
+DJOKILLAH61 raises 150 to 250
+hudasdu59 folds
+P1xel7 calls 200
+audfab13 calls 150
+*** FLOP *** [6h Jh 5s]
+P1xel7 checks
+audfab13 bets 822
+DJOKILLAH61 calls 822
+P1xel7 folds
+*** TURN *** [6h Jh 5s][2s]
+audfab13 bets 2466
+DJOKILLAH61 calls 2466
+*** RIVER *** [6h Jh 5s 2s][7d]
+audfab13 bets 16450 and is all-in
+DJOKILLAH61 calls 16450 and is all-in
+*** SHOW DOWN ***
+DJOKILLAH61 shows [Js Jd] (Trips of Jacks)
+audfab13 shows [4h 3d] (Straight 7 high)
+audfab13 collected 40298 from pot
+*** SUMMARY ***
+Total pot 40298 | No rake
+Board: [6h Jh 5s 2s 7d]
+Seat 3: audfab13 (big blind) showed [4h 3d] and won 40298 with Straight 7 high
+Seat 6: DJOKILLAH61 showed [Js Jd] and lost with Trips of Jacks
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 1 - HandId: #3220176340338606556-2-1707941037 - Holdem no limit (12/50/100) - 2024/02/14 20:03:57 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #2 is the button
+Seat 1: hudasdu59 (19988)
+Seat 2: P1xel7 (19738)
+Seat 3: audfab13 (40298)
+Seat 4: alfonso37 (19988)
+Seat 5: BaLeK_46 (19988)
+*** ANTE/BLINDS ***
+audfab13 posts ante 12
+alfonso37 posts ante 12
+hudasdu59 posts ante 12
+P1xel7 posts ante 12
+BaLeK_46 posts ante 12
+audfab13 posts small blind 50
+alfonso37 posts big blind 100
+Dealt to P1xel7 [7h 9s]
+*** PRE-FLOP *** 
+BaLeK_46 folds
+hudasdu59 folds
+P1xel7 folds
+audfab13 calls 50
+alfonso37 checks
+*** FLOP *** [Ts 6c 3s]
+audfab13 checks
+alfonso37 checks
+*** TURN *** [Ts 6c 3s][7c]
+audfab13 checks
+alfonso37 checks
+*** RIVER *** [Ts 6c 3s 7c][8d]
+audfab13 checks
+alfonso37 bets 260
+audfab13 folds
+alfonso37 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Ts 6c 3s 7c 8d]
+Seat 4: alfonso37 (big blind) won 520
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 2 - HandId: #3220176340338606556-3-1707941111 - Holdem no limit (14/60/120) - 2024/02/14 20:05:11 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #3 is the button
+Seat 1: hudasdu59 (19976)
+Seat 2: P1xel7 (19726)
+Seat 3: audfab13 (40186)
+Seat 4: alfonso37 (20136)
+Seat 5: BaLeK_46 (19976)
+Seat 6: FDSpecimen27 (20000)
+*** ANTE/BLINDS ***
+alfonso37 posts ante 14
+BaLeK_46 posts ante 14
+hudasdu59 posts ante 14
+P1xel7 posts ante 14
+audfab13 posts ante 14
+FDSpecimen27 posts ante 14
+alfonso37 posts small blind 60
+BaLeK_46 posts big blind 120
+Dealt to P1xel7 [9d 5d]
+*** PRE-FLOP *** 
+FDSpecimen27 calls 120
+hudasdu59 folds
+P1xel7 folds
+audfab13 calls 120
+alfonso37 calls 60
+BaLeK_46 checks
+*** FLOP *** [Qs 3s 7c]
+alfonso37 checks
+BaLeK_46 checks
+FDSpecimen27 checks
+audfab13 checks
+*** TURN *** [Qs 3s 7c][4d]
+alfonso37 checks
+BaLeK_46 checks
+FDSpecimen27 checks
+audfab13 checks
+*** RIVER *** [Qs 3s 7c 4d][Jd]
+alfonso37 checks
+BaLeK_46 checks
+FDSpecimen27 checks
+audfab13 bets 120
+alfonso37 calls 120
+BaLeK_46 folds
+FDSpecimen27 folds
+*** SHOW DOWN ***
+alfonso37 shows [7h Th] (One pair : 7)
+audfab13 shows [8h Jh] (One pair : Jacks)
+audfab13 collected 804 from pot
+*** SUMMARY ***
+Total pot 804 | No rake
+Board: [Qs 3s 7c 4d Jd]
+Seat 3: audfab13 (button) showed [8h Jh] and won 804 with One pair : Jacks
+Seat 4: alfonso37 (small blind) showed [7h Th] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 2 - HandId: #3220176340338606556-4-1707941215 - Holdem no limit (14/60/120) - 2024/02/14 20:06:55 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #4 is the button
+Seat 1: hudasdu59 (19962)
+Seat 2: P1xel7 (19712)
+Seat 3: audfab13 (40736)
+Seat 4: alfonso37 (19882)
+Seat 5: BaLeK_46 (19842)
+Seat 6: FDSpecimen27 (19866)
+*** ANTE/BLINDS ***
+BaLeK_46 posts ante 14
+FDSpecimen27 posts ante 14
+hudasdu59 posts ante 14
+P1xel7 posts ante 14
+audfab13 posts ante 14
+alfonso37 posts ante 14
+BaLeK_46 posts small blind 60
+FDSpecimen27 posts big blind 120
+Dealt to P1xel7 [9d Tc]
+*** PRE-FLOP *** 
+hudasdu59 folds
+P1xel7 folds
+audfab13 folds
+alfonso37 folds
+BaLeK_46 raises 120 to 240
+FDSpecimen27 calls 120
+*** FLOP *** [3s Ac 2s]
+BaLeK_46 checks
+FDSpecimen27 checks
+*** TURN *** [3s Ac 2s][Qs]
+BaLeK_46 checks
+FDSpecimen27 bets 120
+BaLeK_46 calls 120
+*** RIVER *** [3s Ac 2s Qs][4h]
+BaLeK_46 checks
+FDSpecimen27 checks
+*** SHOW DOWN ***
+BaLeK_46 shows [Td Qd] (One pair : Queens)
+FDSpecimen27 shows [Kd Qc] (One pair : Queens)
+FDSpecimen27 collected 804 from pot
+*** SUMMARY ***
+Total pot 804 | No rake
+Board: [3s Ac 2s Qs 4h]
+Seat 5: BaLeK_46 (small blind) showed [Td Qd] and lost with One pair : Queens
+Seat 6: FDSpecimen27 (big blind) showed [Kd Qc] and won 804 with One pair : Queens
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 2 - HandId: #3220176340338606556-5-1707941302 - Holdem no limit (14/60/120) - 2024/02/14 20:08:22 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #5 is the button
+Seat 1: hudasdu59 (19948)
+Seat 2: P1xel7 (19698)
+Seat 3: audfab13 (40722)
+Seat 4: alfonso37 (19868)
+Seat 5: BaLeK_46 (19468)
+Seat 6: FDSpecimen27 (20296)
+*** ANTE/BLINDS ***
+FDSpecimen27 posts ante 14
+hudasdu59 posts ante 14
+P1xel7 posts ante 14
+audfab13 posts ante 14
+alfonso37 posts ante 14
+BaLeK_46 posts ante 14
+FDSpecimen27 posts small blind 60
+hudasdu59 posts big blind 120
+Dealt to P1xel7 [2s 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+audfab13 folds
+alfonso37 calls 120
+BaLeK_46 folds
+FDSpecimen27 calls 60
+hudasdu59 checks
+*** FLOP *** [4d 9h 5h]
+FDSpecimen27 checks
+hudasdu59 checks
+alfonso37 checks
+*** TURN *** [4d 9h 5h][Qd]
+FDSpecimen27 checks
+hudasdu59 checks
+alfonso37 checks
+*** RIVER *** [4d 9h 5h Qd][3h]
+FDSpecimen27 checks
+hudasdu59 checks
+alfonso37 checks
+*** SHOW DOWN ***
+alfonso37 shows [Kh 5c] (One pair : 5)
+FDSpecimen27 shows [As Js] (High card : Ace)
+hudasdu59 shows [6h 7d] (Straight 7 high)
+hudasdu59 collected 444 from pot
+*** SUMMARY ***
+Total pot 444 | No rake
+Board: [4d 9h 5h Qd 3h]
+Seat 1: hudasdu59 (big blind) showed [6h 7d] and won 444 with Straight 7 high
+Seat 4: alfonso37 showed [Kh 5c] and lost with One pair : 5
+Seat 6: FDSpecimen27 (small blind) showed [As Js] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176340338606556-6-1707941373 - Holdem no limit (16/70/140) - 2024/02/14 20:09:33 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #6 is the button
+Seat 1: hudasdu59 (20258)
+Seat 2: P1xel7 (19684)
+Seat 3: audfab13 (40708)
+Seat 4: alfonso37 (19734)
+Seat 5: BaLeK_46 (19454)
+Seat 6: FDSpecimen27 (20162)
+*** ANTE/BLINDS ***
+hudasdu59 posts ante 16
+P1xel7 posts ante 16
+audfab13 posts ante 16
+alfonso37 posts ante 16
+BaLeK_46 posts ante 16
+FDSpecimen27 posts ante 16
+hudasdu59 posts small blind 70
+P1xel7 posts big blind 140
+Dealt to P1xel7 [Qs Ks]
+*** PRE-FLOP *** 
+audfab13 calls 140
+alfonso37 folds
+BaLeK_46 folds
+FDSpecimen27 calls 140
+hudasdu59 folds
+P1xel7 raises 700 to 840
+audfab13 raises 39852 to 40692 and is all-in
+FDSpecimen27 folds
+P1xel7 calls 18828 and is all-in
+*** FLOP *** [Kd Ah 8h]
+*** TURN *** [Kd Ah 8h][8c]
+*** RIVER *** [Kd Ah 8h 8c][4s]
+*** SHOW DOWN ***
+P1xel7 shows [Qs Ks] (Two pairs : Kings and 8)
+audfab13 shows [6d 6h] (Two pairs : 8 and 6)
+audfab13 collected 21024 from side pot 1
+P1xel7 collected 39642 from main pot
+*** SUMMARY ***
+Total pot 60666 | No rake
+Board: [Kd Ah 8h 8c 4s]
+Seat 2: P1xel7 (big blind) showed [Qs Ks] and won 39642 with Two pairs : Kings and 8
+Seat 3: audfab13 showed [6d 6h] and won 21024 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176340338606556-7-1707941443 - Holdem no limit (16/70/140) - 2024/02/14 20:10:43 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #1 is the button
+Seat 1: hudasdu59 (20172)
+Seat 2: P1xel7 (39642)
+Seat 3: audfab13 (21024)
+Seat 4: alfonso37 (19718)
+Seat 5: BaLeK_46 (19438)
+Seat 6: FDSpecimen27 (20006)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 16
+audfab13 posts ante 16
+hudasdu59 posts ante 16
+alfonso37 posts ante 16
+BaLeK_46 posts ante 16
+FDSpecimen27 posts ante 16
+P1xel7 posts small blind 70
+audfab13 posts big blind 140
+Dealt to P1xel7 [As 6d]
+*** PRE-FLOP *** 
+alfonso37 folds
+BaLeK_46 calls 140
+FDSpecimen27 folds
+hudasdu59 folds
+P1xel7 folds
+audfab13 raises 20868 to 21008 and is all-in
+BaLeK_46 folds
+audfab13 collected 21314 from pot
+*** SUMMARY ***
+Total pot 21314 | No rake
+Seat 3: audfab13 (big blind) won 21314
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176340338606556-8-1707941476 - Holdem no limit (16/70/140) - 2024/02/14 20:11:16 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #2 is the button
+Seat 1: hudasdu59 (20156)
+Seat 2: P1xel7 (39556)
+Seat 3: audfab13 (21314)
+Seat 4: alfonso37 (19702)
+Seat 5: BaLeK_46 (19282)
+Seat 6: FDSpecimen27 (19990)
+*** ANTE/BLINDS ***
+audfab13 posts ante 16
+alfonso37 posts ante 16
+hudasdu59 posts ante 16
+P1xel7 posts ante 16
+BaLeK_46 posts ante 16
+FDSpecimen27 posts ante 16
+audfab13 posts small blind 70
+alfonso37 posts big blind 140
+Dealt to P1xel7 [5h Jh]
+*** PRE-FLOP *** 
+BaLeK_46 calls 140
+FDSpecimen27 folds
+hudasdu59 folds
+P1xel7 folds
+audfab13 calls 70
+alfonso37 checks
+*** FLOP *** [4h 9d 4s]
+audfab13 bets 21158 and is all-in
+alfonso37 folds
+BaLeK_46 folds
+audfab13 collected 21674 from pot
+*** SUMMARY ***
+Total pot 21674 | No rake
+Board: [4h 9d 4s]
+Seat 3: audfab13 (small blind) won 21674
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 3 - HandId: #3220176340338606556-9-1707941506 - Holdem no limit (16/70/140) - 2024/02/14 20:11:46 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #3 is the button
+Seat 1: hudasdu59 (20140)
+Seat 2: P1xel7 (39540)
+Seat 3: audfab13 (21674)
+Seat 4: alfonso37 (19546)
+Seat 5: BaLeK_46 (19126)
+Seat 6: FDSpecimen27 (19974)
+*** ANTE/BLINDS ***
+alfonso37 posts ante 16
+BaLeK_46 posts ante 16
+hudasdu59 posts ante 16
+P1xel7 posts ante 16
+audfab13 posts ante 16
+FDSpecimen27 posts ante 16
+alfonso37 posts small blind 70
+BaLeK_46 posts big blind 140
+Dealt to P1xel7 [Qc 2s]
+*** PRE-FLOP *** 
+FDSpecimen27 folds
+hudasdu59 folds
+P1xel7 folds
+audfab13 calls 140
+alfonso37 folds
+BaLeK_46 checks
+*** FLOP *** [9c 7c 8c]
+BaLeK_46 checks
+audfab13 checks
+*** TURN *** [9c 7c 8c][3d]
+BaLeK_46 bets 140
+audfab13 folds
+BaLeK_46 collected 586 from pot
+*** SUMMARY ***
+Total pot 586 | No rake
+Board: [9c 7c 8c 3d]
+Seat 5: BaLeK_46 (big blind) won 586
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 4 - HandId: #3220176340338606556-10-1707941558 - Holdem no limit (20/80/160) - 2024/02/14 20:12:38 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #4 is the button
+Seat 1: hudasdu59 (20124)
+Seat 2: P1xel7 (39524)
+Seat 3: audfab13 (21518)
+Seat 4: alfonso37 (19460)
+Seat 5: BaLeK_46 (19416)
+Seat 6: FDSpecimen27 (19958)
+*** ANTE/BLINDS ***
+BaLeK_46 posts ante 20
+FDSpecimen27 posts ante 20
+hudasdu59 posts ante 20
+P1xel7 posts ante 20
+audfab13 posts ante 20
+alfonso37 posts ante 20
+BaLeK_46 posts small blind 80
+FDSpecimen27 posts big blind 160
+Dealt to P1xel7 [4h Qc]
+*** PRE-FLOP *** 
+hudasdu59 folds
+P1xel7 folds
+audfab13 folds
+alfonso37 folds
+BaLeK_46 calls 80
+FDSpecimen27 checks
+*** FLOP *** [As Qh 8c]
+BaLeK_46 checks
+FDSpecimen27 bets 160
+BaLeK_46 folds
+FDSpecimen27 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [As Qh 8c]
+Seat 6: FDSpecimen27 (big blind) won 600
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 4 - HandId: #3220176340338606556-11-1707941595 - Holdem no limit (20/80/160) - 2024/02/14 20:13:15 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #5 is the button
+Seat 1: hudasdu59 (20104)
+Seat 2: P1xel7 (39504)
+Seat 3: audfab13 (21498)
+Seat 4: alfonso37 (19440)
+Seat 5: BaLeK_46 (19236)
+Seat 6: FDSpecimen27 (20218)
+*** ANTE/BLINDS ***
+FDSpecimen27 posts ante 20
+hudasdu59 posts ante 20
+P1xel7 posts ante 20
+audfab13 posts ante 20
+alfonso37 posts ante 20
+BaLeK_46 posts ante 20
+FDSpecimen27 posts small blind 80
+hudasdu59 posts big blind 160
+Dealt to P1xel7 [Jd 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+audfab13 calls 160
+alfonso37 folds
+BaLeK_46 calls 160
+FDSpecimen27 calls 80
+hudasdu59 folds
+*** FLOP *** [8h 2h 8d]
+FDSpecimen27 checks
+audfab13 checks
+BaLeK_46 checks
+*** TURN *** [8h 2h 8d][Qc]
+FDSpecimen27 checks
+audfab13 checks
+BaLeK_46 checks
+*** RIVER *** [8h 2h 8d Qc][Kh]
+FDSpecimen27 checks
+audfab13 bets 160
+BaLeK_46 folds
+FDSpecimen27 folds
+audfab13 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Board: [8h 2h 8d Qc Kh]
+Seat 3: audfab13 won 920
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 4 - HandId: #3220176340338606556-12-1707941640 - Holdem no limit (20/80/160) - 2024/02/14 20:14:00 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #6 is the button
+Seat 1: hudasdu59 (19924)
+Seat 2: P1xel7 (39484)
+Seat 3: audfab13 (22078)
+Seat 4: alfonso37 (19420)
+Seat 5: BaLeK_46 (19056)
+Seat 6: FDSpecimen27 (20038)
+*** ANTE/BLINDS ***
+hudasdu59 posts ante 20
+P1xel7 posts ante 20
+audfab13 posts ante 20
+alfonso37 posts ante 20
+BaLeK_46 posts ante 20
+FDSpecimen27 posts ante 20
+hudasdu59 posts small blind 80
+P1xel7 posts big blind 160
+Dealt to P1xel7 [7c 2s]
+*** PRE-FLOP *** 
+audfab13 folds
+alfonso37 raises 320 to 480
+BaLeK_46 raises 960 to 1440
+FDSpecimen27 folds
+hudasdu59 folds
+P1xel7 folds
+alfonso37 calls 960
+*** FLOP *** [3c Js 4c]
+alfonso37 checks
+BaLeK_46 bets 160
+alfonso37 calls 160
+*** TURN *** [3c Js 4c][4d]
+alfonso37 checks
+BaLeK_46 bets 1246
+alfonso37 calls 1246
+*** RIVER *** [3c Js 4c 4d][7h]
+alfonso37 checks
+BaLeK_46 checks
+*** SHOW DOWN ***
+alfonso37 shows [Qh Kh] (One pair : 4)
+BaLeK_46 shows [6d 6s] (Two pairs : 6 and 4)
+BaLeK_46 collected 6052 from pot
+*** SUMMARY ***
+Total pot 6052 | No rake
+Board: [3c Js 4c 4d 7h]
+Seat 4: alfonso37 showed [Qh Kh] and lost with One pair : 4
+Seat 5: BaLeK_46 showed [6d 6s] and won 6052 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 4 - HandId: #3220176340338606556-13-1707941707 - Holdem no limit (20/80/160) - 2024/02/14 20:15:07 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0475' 6-max (real money) Seat #1 is the button
+Seat 1: hudasdu59 (19824)
+Seat 2: P1xel7 (39304)
+Seat 3: audfab13 (22058)
+Seat 4: alfonso37 (16554)
+Seat 5: BaLeK_46 (22242)
+Seat 6: FDSpecimen27 (20018)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 20
+audfab13 posts ante 20
+hudasdu59 posts ante 20
+alfonso37 posts ante 20
+BaLeK_46 posts ante 20
+FDSpecimen27 posts ante 20
+P1xel7 posts small blind 80
+audfab13 posts big blind 160
+Dealt to P1xel7 [Js Qh]
+*** PRE-FLOP *** 
+alfonso37 folds
+BaLeK_46 calls 160
+FDSpecimen27 calls 160
+hudasdu59 folds
+P1xel7 raises 960 to 1120
+audfab13 folds
+BaLeK_46 calls 960
+FDSpecimen27 calls 960
+*** FLOP *** [6c 9h 4c]
+P1xel7 checks
+BaLeK_46 bets 1274
+FDSpecimen27 folds
+P1xel7 folds
+BaLeK_46 collected 4914 from pot
+*** SUMMARY ***
+Total pot 4914 | No rake
+Board: [6c 9h 4c]
+Seat 5: BaLeK_46 won 4914
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176340338606347-21-1707941791 - Holdem no limit (25/100/200) - 2024/02/14 20:16:31 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: alexmrts1 (18029)
+Seat 2: HRMatador953 (43717)
+Seat 3: TheBadGuest (18876)
+Seat 4: Kevfish71 (19004)
+Seat 5: P1xel7 (38164)
+Seat 6: Woody91420 (40374)
+*** ANTE/BLINDS ***
+alexmrts1 posts ante 25
+HRMatador953 posts ante 25
+TheBadGuest posts ante 25
+Kevfish71 posts ante 25
+P1xel7 posts ante 25
+Woody91420 posts ante 25
+alexmrts1 posts small blind 100
+HRMatador953 posts big blind 200
+Dealt to P1xel7 [Jh Ts]
+*** PRE-FLOP *** 
+TheBadGuest raises 300 to 500
+Kevfish71 folds
+P1xel7 calls 500
+Woody91420 calls 500
+alexmrts1 folds
+HRMatador953 calls 300
+*** FLOP *** [5h 2h 2s]
+HRMatador953 checks
+TheBadGuest checks
+P1xel7 checks
+Woody91420 checks
+*** TURN *** [5h 2h 2s][7h]
+HRMatador953 checks
+TheBadGuest bets 1463
+P1xel7 folds
+Woody91420 folds
+HRMatador953 folds
+TheBadGuest collected 3713 from pot
+*** SUMMARY ***
+Total pot 3713 | No rake
+Board: [5h 2h 2s 7h]
+Seat 3: TheBadGuest won 3713
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176340338606347-22-1707941850 - Holdem no limit (25/100/200) - 2024/02/14 20:17:30 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: alexmrts1 (17904)
+Seat 2: HRMatador953 (43192)
+Seat 3: TheBadGuest (20601)
+Seat 4: Kevfish71 (18979)
+Seat 5: P1xel7 (37639)
+Seat 6: Woody91420 (39849)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 25
+TheBadGuest posts ante 25
+alexmrts1 posts ante 25
+Kevfish71 posts ante 25
+P1xel7 posts ante 25
+Woody91420 posts ante 25
+HRMatador953 posts small blind 100
+TheBadGuest posts big blind 200
+Dealt to P1xel7 [9h 7s]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+alexmrts1 folds
+HRMatador953 raises 300 to 500
+TheBadGuest folds
+HRMatador953 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 2: HRMatador953 (small blind) won 850
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176340338606347-23-1707941870 - Holdem no limit (25/100/200) - 2024/02/14 20:17:50 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: alexmrts1 (17879)
+Seat 2: HRMatador953 (43517)
+Seat 3: TheBadGuest (20376)
+Seat 4: Kevfish71 (18954)
+Seat 5: P1xel7 (37614)
+Seat 6: Woody91420 (39824)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 25
+Kevfish71 posts ante 25
+alexmrts1 posts ante 25
+HRMatador953 posts ante 25
+P1xel7 posts ante 25
+Woody91420 posts ante 25
+TheBadGuest posts small blind 100
+Kevfish71 posts big blind 200
+Dealt to P1xel7 [Kh Th]
+*** PRE-FLOP *** 
+P1xel7 raises 240 to 440
+Woody91420 calls 440
+alexmrts1 folds
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+*** FLOP *** [2d 4s Kc]
+P1xel7 bets 466
+Woody91420 calls 466
+*** TURN *** [2d 4s Kc][Ad]
+P1xel7 bets 792
+Woody91420 calls 792
+*** RIVER *** [2d 4s Kc Ad][5s]
+P1xel7 checks
+Woody91420 bets 3846
+P1xel7 calls 3846
+*** SHOW DOWN ***
+P1xel7 shows [Kh Th] (One pair : Kings)
+Woody91420 shows [Ks Kd] (Trips of Kings)
+Woody91420 collected 11538 from pot
+*** SUMMARY ***
+Total pot 11538 | No rake
+Board: [2d 4s Kc Ad 5s]
+Seat 5: P1xel7 showed [Kh Th] and lost with One pair : Kings
+Seat 6: Woody91420 showed [Ks Kd] and won 11538 with Trips of Kings
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176340338606347-24-1707941942 - Holdem no limit (25/100/200) - 2024/02/14 20:19:02 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: alexmrts1 (17854)
+Seat 2: HRMatador953 (43492)
+Seat 3: TheBadGuest (20251)
+Seat 4: Kevfish71 (18729)
+Seat 5: P1xel7 (32045)
+Seat 6: Woody91420 (45793)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 25
+P1xel7 posts ante 25
+alexmrts1 posts ante 25
+HRMatador953 posts ante 25
+TheBadGuest posts ante 25
+Woody91420 posts ante 25
+Kevfish71 posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [4h 9s]
+*** PRE-FLOP *** 
+Woody91420 folds
+alexmrts1 folds
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 5: P1xel7 (big blind) won 450
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 5 - HandId: #3220176340338606347-25-1707942002 - Holdem no limit (25/100/200) - 2024/02/14 20:20:02 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: alexmrts1 (17829)
+Seat 2: HRMatador953 (43467)
+Seat 3: TheBadGuest (20226)
+Seat 4: Kevfish71 (18604)
+Seat 5: P1xel7 (32270)
+Seat 6: Woody91420 (45768)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+Woody91420 posts ante 25
+alexmrts1 posts ante 25
+HRMatador953 posts ante 25
+TheBadGuest posts ante 25
+Kevfish71 posts ante 25
+P1xel7 posts small blind 100
+Woody91420 posts big blind 200
+Dealt to P1xel7 [9s Ah]
+*** PRE-FLOP *** 
+alexmrts1 folds
+HRMatador953 raises 200 to 400
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 calls 300
+Woody91420 calls 200
+*** FLOP *** [Qs 7c 2d]
+P1xel7 checks
+Woody91420 checks
+HRMatador953 checks
+*** TURN *** [Qs 7c 2d][Kc]
+P1xel7 checks
+Woody91420 bets 878
+HRMatador953 folds
+P1xel7 folds
+Woody91420 collected 2228 from pot
+*** SUMMARY ***
+Total pot 2228 | No rake
+Board: [Qs 7c 2d Kc]
+Seat 6: Woody91420 (big blind) won 2228
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176340338606347-26-1707942065 - Holdem no limit (30/125/250) - 2024/02/14 20:21:05 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 1: alexmrts1 (17804)
+Seat 2: HRMatador953 (43042)
+Seat 3: TheBadGuest (20201)
+Seat 4: Kevfish71 (18579)
+Seat 5: P1xel7 (31845)
+Seat 6: Woody91420 (46693)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 30
+alexmrts1 posts ante 30
+HRMatador953 posts ante 30
+TheBadGuest posts ante 30
+Kevfish71 posts ante 30
+P1xel7 posts ante 30
+Woody91420 posts small blind 125
+alexmrts1 posts big blind 250
+Dealt to P1xel7 [5c Tc]
+*** PRE-FLOP *** 
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+alexmrts1 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 1: alexmrts1 (big blind) won 555
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176340338606347-27-1707942072 - Holdem no limit (30/125/250) - 2024/02/14 20:21:12 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: alexmrts1 (18079)
+Seat 2: HRMatador953 (43012)
+Seat 3: TheBadGuest (20171)
+Seat 4: Kevfish71 (18549)
+Seat 5: P1xel7 (31815)
+Seat 6: Woody91420 (46538)
+*** ANTE/BLINDS ***
+alexmrts1 posts ante 30
+HRMatador953 posts ante 30
+TheBadGuest posts ante 30
+Kevfish71 posts ante 30
+P1xel7 posts ante 30
+Woody91420 posts ante 30
+alexmrts1 posts small blind 125
+HRMatador953 posts big blind 250
+Dealt to P1xel7 [8c 9c]
+*** PRE-FLOP *** 
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 raises 375 to 625
+Woody91420 folds
+alexmrts1 calls 500
+HRMatador953 folds
+*** FLOP *** [9d 7d 2c]
+alexmrts1 checks
+P1xel7 bets 840
+alexmrts1 folds
+P1xel7 collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Board: [9d 7d 2c]
+Seat 5: P1xel7 won 2520
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176340338606347-28-1707942097 - Holdem no limit (30/125/250) - 2024/02/14 20:21:37 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: alexmrts1 (17424)
+Seat 2: HRMatador953 (42732)
+Seat 3: TheBadGuest (20141)
+Seat 4: Kevfish71 (18519)
+Seat 5: P1xel7 (32840)
+Seat 6: Woody91420 (46508)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 30
+TheBadGuest posts ante 30
+alexmrts1 posts ante 30
+Kevfish71 posts ante 30
+P1xel7 posts ante 30
+Woody91420 posts ante 30
+HRMatador953 posts small blind 125
+TheBadGuest posts big blind 250
+Dealt to P1xel7 [Kh 2d]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 folds
+Woody91420 raises 805 to 1055
+alexmrts1 calls 1055
+HRMatador953 folds
+TheBadGuest folds
+*** FLOP *** [Qd Ac Tc]
+Woody91420 checks
+alexmrts1 checks
+*** TURN *** [Qd Ac Tc][Ks]
+Woody91420 checks
+alexmrts1 bets 2665
+Woody91420 folds
+alexmrts1 collected 5330 from pot
+*** SUMMARY ***
+Total pot 5330 | No rake
+Board: [Qd Ac Tc Ks]
+Seat 1: alexmrts1 (button) won 5330
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176340338606347-29-1707942139 - Holdem no limit (30/125/250) - 2024/02/14 20:22:19 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: alexmrts1 (19004)
+Seat 2: HRMatador953 (42577)
+Seat 3: TheBadGuest (19861)
+Seat 4: Kevfish71 (18489)
+Seat 5: P1xel7 (32810)
+Seat 6: Woody91420 (45423)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 30
+Kevfish71 posts ante 30
+alexmrts1 posts ante 30
+HRMatador953 posts ante 30
+P1xel7 posts ante 30
+Woody91420 posts ante 30
+TheBadGuest posts small blind 125
+Kevfish71 posts big blind 250
+Dealt to P1xel7 [5h 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 folds
+alexmrts1 raises 250 to 500
+HRMatador953 calls 500
+TheBadGuest folds
+Kevfish71 folds
+*** FLOP *** [6s Qh 7s]
+alexmrts1 checks
+HRMatador953 bets 1011
+alexmrts1 folds
+HRMatador953 collected 2566 from pot
+*** SUMMARY ***
+Total pot 2566 | No rake
+Board: [6s Qh 7s]
+Seat 2: HRMatador953 (button) won 2566
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176340338606347-30-1707942167 - Holdem no limit (30/125/250) - 2024/02/14 20:22:47 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: alexmrts1 (18474)
+Seat 2: HRMatador953 (43602)
+Seat 3: TheBadGuest (19706)
+Seat 4: Kevfish71 (18209)
+Seat 5: P1xel7 (32780)
+Seat 6: Woody91420 (45393)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 30
+P1xel7 posts ante 30
+alexmrts1 posts ante 30
+HRMatador953 posts ante 30
+TheBadGuest posts ante 30
+Woody91420 posts ante 30
+Kevfish71 posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [6s Ks]
+*** PRE-FLOP *** 
+Woody91420 folds
+alexmrts1 calls 250
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 checks
+*** FLOP *** [6d 3s 4c]
+P1xel7 bets 250
+alexmrts1 calls 250
+*** TURN *** [6d 3s 4c][2c]
+P1xel7 bets 457
+alexmrts1 calls 457
+*** RIVER *** [6d 3s 4c 2c][4d]
+P1xel7 bets 777
+alexmrts1 raises 777 to 1554
+P1xel7 calls 777
+*** SHOW DOWN ***
+alexmrts1 shows [2s Ac] (Two pairs : 4 and 2)
+P1xel7 shows [6s Ks] (Two pairs : 6 and 4)
+P1xel7 collected 5327 from pot
+*** SUMMARY ***
+Total pot 5327 | No rake
+Board: [6d 3s 4c 2c 4d]
+Seat 1: alexmrts1 showed [2s Ac] and lost with Two pairs : 4 and 2
+Seat 5: P1xel7 (big blind) showed [6s Ks] and won 5327 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176340338606347-31-1707942220 - Holdem no limit (30/125/250) - 2024/02/14 20:23:40 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: alexmrts1 (15933)
+Seat 2: HRMatador953 (43572)
+Seat 3: TheBadGuest (19676)
+Seat 4: Kevfish71 (18054)
+Seat 5: P1xel7 (35566)
+Seat 6: Woody91420 (45363)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+Woody91420 posts ante 30
+alexmrts1 posts ante 30
+HRMatador953 posts ante 30
+TheBadGuest posts ante 30
+Kevfish71 posts ante 30
+P1xel7 posts small blind 125
+Woody91420 posts big blind 250
+Dealt to P1xel7 [6d 2s]
+*** PRE-FLOP *** 
+alexmrts1 folds
+HRMatador953 raises 250 to 500
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 250
+*** FLOP *** [4c Jh 2d]
+Woody91420 checks
+HRMatador953 checks
+*** TURN *** [4c Jh 2d][Ad]
+Woody91420 checks
+HRMatador953 bets 457
+Woody91420 calls 457
+*** RIVER *** [4c Jh 2d Ad][8s]
+Woody91420 checks
+HRMatador953 checks
+*** SHOW DOWN ***
+HRMatador953 shows [7c Kd] (High card : Ace)
+Woody91420 shows [5c 5d] (One pair : 5)
+Woody91420 collected 2219 from pot
+*** SUMMARY ***
+Total pot 2219 | No rake
+Board: [4c Jh 2d Ad 8s]
+Seat 2: HRMatador953 showed [7c Kd] and lost with High card : Ace
+Seat 6: Woody91420 (big blind) showed [5c 5d] and won 2219 with One pair : 5
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 6 - HandId: #3220176340338606347-32-1707942254 - Holdem no limit (30/125/250) - 2024/02/14 20:24:14 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 1: alexmrts1 (15903)
+Seat 2: HRMatador953 (42585)
+Seat 3: TheBadGuest (19646)
+Seat 4: Kevfish71 (18024)
+Seat 5: P1xel7 (35411)
+Seat 6: Woody91420 (46595)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 30
+alexmrts1 posts ante 30
+HRMatador953 posts ante 30
+TheBadGuest posts ante 30
+Kevfish71 posts ante 30
+P1xel7 posts ante 30
+Woody91420 posts small blind 125
+alexmrts1 posts big blind 250
+Dealt to P1xel7 [2c Ks]
+*** PRE-FLOP *** 
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 125
+alexmrts1 checks
+*** FLOP *** [4c 6s 5d]
+Woody91420 checks
+alexmrts1 checks
+*** TURN *** [4c 6s 5d][5s]
+Woody91420 checks
+alexmrts1 checks
+*** RIVER *** [4c 6s 5d 5s][6d]
+Woody91420 checks
+alexmrts1 checks
+*** SHOW DOWN ***
+alexmrts1 shows [7c 9h] (Two pairs : 6 and 5)
+Woody91420 shows [Qd 2d] (Two pairs : 6 and 5)
+Woody91420 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [4c 6s 5d 5s 6d]
+Seat 1: alexmrts1 (big blind) showed [7c 9h] and lost with Two pairs : 6 and 5
+Seat 6: Woody91420 (small blind) showed [Qd 2d] and won 680 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176340338606347-33-1707942289 - Holdem no limit (35/150/300) - 2024/02/14 20:24:49 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: alexmrts1 (15623)
+Seat 2: HRMatador953 (42555)
+Seat 3: TheBadGuest (19616)
+Seat 4: Kevfish71 (17994)
+Seat 5: P1xel7 (35381)
+Seat 6: Woody91420 (46995)
+*** ANTE/BLINDS ***
+alexmrts1 posts ante 35
+HRMatador953 posts ante 35
+TheBadGuest posts ante 35
+Kevfish71 posts ante 35
+P1xel7 posts ante 35
+Woody91420 posts ante 35
+alexmrts1 posts small blind 150
+HRMatador953 posts big blind 300
+Dealt to P1xel7 [5s 7h]
+*** PRE-FLOP *** 
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 300
+alexmrts1 calls 150
+HRMatador953 checks
+*** FLOP *** [9c Jc Th]
+alexmrts1 checks
+HRMatador953 bets 722
+Woody91420 calls 722
+alexmrts1 folds
+*** TURN *** [9c Jc Th][Tc]
+HRMatador953 checks
+Woody91420 checks
+*** RIVER *** [9c Jc Th Tc][Qs]
+HRMatador953 bets 894
+Woody91420 calls 894
+*** SHOW DOWN ***
+Woody91420 shows [9d Qd] (Two pairs : Queens and Tens)
+HRMatador953 shows [Jd 8h] (Straight Queen high)
+HRMatador953 collected 4342 from pot
+*** SUMMARY ***
+Total pot 4342 | No rake
+Board: [9c Jc Th Tc Qs]
+Seat 2: HRMatador953 (big blind) showed [Jd 8h] and won 4342 with Straight Queen high
+Seat 6: Woody91420 (button) showed [9d Qd] and lost with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176340338606347-34-1707942347 - Holdem no limit (35/150/300) - 2024/02/14 20:25:47 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: alexmrts1 (15288)
+Seat 2: HRMatador953 (44946)
+Seat 3: TheBadGuest (19581)
+Seat 4: Kevfish71 (17959)
+Seat 5: P1xel7 (35346)
+Seat 6: Woody91420 (45044)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 35
+TheBadGuest posts ante 35
+alexmrts1 posts ante 35
+Kevfish71 posts ante 35
+P1xel7 posts ante 35
+Woody91420 posts ante 35
+HRMatador953 posts small blind 150
+TheBadGuest posts big blind 300
+Dealt to P1xel7 [Th 8h]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+alexmrts1 folds
+HRMatador953 raises 300 to 600
+TheBadGuest folds
+HRMatador953 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 2: HRMatador953 (small blind) won 1110
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176340338606347-35-1707942396 - Holdem no limit (35/150/300) - 2024/02/14 20:26:36 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: alexmrts1 (15253)
+Seat 2: HRMatador953 (45421)
+Seat 3: TheBadGuest (19246)
+Seat 4: Kevfish71 (17924)
+Seat 5: P1xel7 (35311)
+Seat 6: Woody91420 (45009)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 35
+Kevfish71 posts ante 35
+alexmrts1 posts ante 35
+HRMatador953 posts ante 35
+P1xel7 posts ante 35
+Woody91420 posts ante 35
+TheBadGuest posts small blind 150
+Kevfish71 posts big blind 300
+Dealt to P1xel7 [4d Ks]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 calls 300
+alexmrts1 folds
+HRMatador953 raises 300 to 600
+TheBadGuest folds
+Kevfish71 folds
+Woody91420 calls 300
+*** FLOP *** [Qc Kc Ac]
+Woody91420 checks
+HRMatador953 checks
+*** TURN *** [Qc Kc Ac][Jc]
+Woody91420 checks
+HRMatador953 checks
+*** RIVER *** [Qc Kc Ac Jc][Jh]
+Woody91420 checks
+HRMatador953 checks
+*** SHOW DOWN ***
+HRMatador953 shows [7s Qd] (Two pairs : Queens and Jacks)
+Woody91420 shows [Th 8h] (Straight Ace high)
+Woody91420 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [Qc Kc Ac Jc Jh]
+Seat 2: HRMatador953 (button) showed [7s Qd] and lost with Two pairs : Queens and Jacks
+Seat 6: Woody91420 showed [Th 8h] and won 1860 with Straight Ace high
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176340338606347-36-1707942443 - Holdem no limit (35/150/300) - 2024/02/14 20:27:23 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: alexmrts1 (15218)
+Seat 2: HRMatador953 (44786)
+Seat 3: TheBadGuest (19061)
+Seat 4: Kevfish71 (17589)
+Seat 5: P1xel7 (35276)
+Seat 6: Woody91420 (46234)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 35
+P1xel7 posts ante 35
+alexmrts1 posts ante 35
+HRMatador953 posts ante 35
+TheBadGuest posts ante 35
+Woody91420 posts ante 35
+Kevfish71 posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Kh 2c]
+*** PRE-FLOP *** 
+Woody91420 folds
+alexmrts1 folds
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 5: P1xel7 (big blind) won 660
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 7 - HandId: #3220176340338606347-37-1707942450 - Holdem no limit (35/150/300) - 2024/02/14 20:27:30 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: alexmrts1 (15183)
+Seat 2: HRMatador953 (44751)
+Seat 3: TheBadGuest (19026)
+Seat 4: Kevfish71 (17404)
+Seat 5: P1xel7 (35601)
+Seat 6: Woody91420 (46199)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Woody91420 posts ante 35
+alexmrts1 posts ante 35
+HRMatador953 posts ante 35
+TheBadGuest posts ante 35
+Kevfish71 posts ante 35
+P1xel7 posts small blind 150
+Woody91420 posts big blind 300
+Dealt to P1xel7 [Jc 8d]
+*** PRE-FLOP *** 
+alexmrts1 calls 300
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 checks
+*** FLOP *** [Th 5s Qd]
+Woody91420 checks
+alexmrts1 checks
+*** TURN *** [Th 5s Qd][6s]
+Woody91420 checks
+alexmrts1 checks
+*** RIVER *** [Th 5s Qd 6s][4d]
+Woody91420 checks
+alexmrts1 checks
+*** SHOW DOWN ***
+alexmrts1 shows [7h 9d] (High card : Queen)
+Woody91420 shows [7s Js] (High card : Queen)
+Woody91420 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Board: [Th 5s Qd 6s 4d]
+Seat 1: alexmrts1 showed [7h 9d] and lost with High card : Queen
+Seat 6: Woody91420 (big blind) showed [7s Js] and won 960 with High card : Queen
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176340338606347-38-1707942515 - Holdem no limit (40/175/350) - 2024/02/14 20:28:35 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 1: alexmrts1 (14848)
+Seat 2: HRMatador953 (44716)
+Seat 3: TheBadGuest (18991)
+Seat 4: Kevfish71 (17369)
+Seat 5: P1xel7 (35416)
+Seat 6: Woody91420 (46824)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 40
+alexmrts1 posts ante 40
+HRMatador953 posts ante 40
+TheBadGuest posts ante 40
+Kevfish71 posts ante 40
+P1xel7 posts ante 40
+Woody91420 posts small blind 175
+alexmrts1 posts big blind 350
+Dealt to P1xel7 [Ah 2c]
+*** PRE-FLOP *** 
+HRMatador953 raises 700 to 1050
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+alexmrts1 calls 700
+*** FLOP *** [Kd Th As]
+alexmrts1 bets 1635
+HRMatador953 folds
+alexmrts1 collected 4150 from pot
+*** SUMMARY ***
+Total pot 4150 | No rake
+Board: [Kd Th As]
+Seat 1: alexmrts1 (big blind) won 4150
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176340338606347-39-1707942537 - Holdem no limit (40/175/350) - 2024/02/14 20:28:57 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: alexmrts1 (16273)
+Seat 2: HRMatador953 (43626)
+Seat 3: TheBadGuest (18951)
+Seat 4: Kevfish71 (17329)
+Seat 5: P1xel7 (35376)
+Seat 6: Woody91420 (46609)
+*** ANTE/BLINDS ***
+alexmrts1 posts ante 40
+HRMatador953 posts ante 40
+TheBadGuest posts ante 40
+Kevfish71 posts ante 40
+P1xel7 posts ante 40
+Woody91420 posts ante 40
+alexmrts1 posts small blind 175
+HRMatador953 posts big blind 350
+Dealt to P1xel7 [7d Jh]
+*** PRE-FLOP *** 
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 350
+alexmrts1 calls 175
+HRMatador953 checks
+*** FLOP *** [Jc 4d 5d]
+alexmrts1 checks
+HRMatador953 checks
+Woody91420 checks
+*** TURN *** [Jc 4d 5d][2c]
+alexmrts1 checks
+HRMatador953 checks
+Woody91420 checks
+*** RIVER *** [Jc 4d 5d 2c][6s]
+alexmrts1 checks
+HRMatador953 checks
+Woody91420 bets 1290
+alexmrts1 folds
+HRMatador953 folds
+Woody91420 collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Board: [Jc 4d 5d 2c 6s]
+Seat 6: Woody91420 (button) won 2580
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176340338606347-40-1707942622 - Holdem no limit (40/175/350) - 2024/02/14 20:30:22 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: alexmrts1 (15883)
+Seat 2: HRMatador953 (43236)
+Seat 3: TheBadGuest (18911)
+Seat 4: Kevfish71 (17289)
+Seat 5: P1xel7 (35336)
+Seat 6: Woody91420 (47509)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 40
+TheBadGuest posts ante 40
+alexmrts1 posts ante 40
+Kevfish71 posts ante 40
+P1xel7 posts ante 40
+Woody91420 posts ante 40
+HRMatador953 posts small blind 175
+TheBadGuest posts big blind 350
+Dealt to P1xel7 [Ac 3c]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 raises 420 to 770
+Woody91420 calls 770
+alexmrts1 folds
+HRMatador953 calls 595
+TheBadGuest folds
+*** FLOP *** [2h 4c 5s]
+HRMatador953 checks
+P1xel7 bets 1015
+Woody91420 folds
+HRMatador953 calls 1015
+*** TURN *** [2h 4c 5s][Td]
+HRMatador953 checks
+P1xel7 bets 1233
+HRMatador953 calls 1233
+*** RIVER *** [2h 4c 5s Td][8s]
+HRMatador953 checks
+P1xel7 bets 3698
+HRMatador953 folds
+P1xel7 collected 11094 from pot
+*** SUMMARY ***
+Total pot 11094 | No rake
+Board: [2h 4c 5s Td 8s]
+Seat 5: P1xel7 won 11094
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176340338606347-41-1707942681 - Holdem no limit (40/175/350) - 2024/02/14 20:31:21 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: alexmrts1 (15843)
+Seat 2: HRMatador953 (40178)
+Seat 3: TheBadGuest (18521)
+Seat 4: Kevfish71 (17249)
+Seat 5: P1xel7 (39674)
+Seat 6: Woody91420 (46699)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 40
+Kevfish71 posts ante 40
+alexmrts1 posts ante 40
+HRMatador953 posts ante 40
+P1xel7 posts ante 40
+Woody91420 posts ante 40
+TheBadGuest posts small blind 175
+Kevfish71 posts big blind 350
+Dealt to P1xel7 [9c Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 calls 350
+alexmrts1 calls 350
+HRMatador953 calls 350
+TheBadGuest folds
+Kevfish71 folds
+*** FLOP *** [Ah 4s 8d]
+Woody91420 checks
+alexmrts1 checks
+HRMatador953 bets 1180
+Woody91420 folds
+alexmrts1 folds
+HRMatador953 collected 2995 from pot
+*** SUMMARY ***
+Total pot 2995 | No rake
+Board: [Ah 4s 8d]
+Seat 2: HRMatador953 (button) won 2995
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176340338606347-42-1707942701 - Holdem no limit (40/175/350) - 2024/02/14 20:31:41 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: alexmrts1 (15453)
+Seat 2: HRMatador953 (41603)
+Seat 3: TheBadGuest (18306)
+Seat 4: Kevfish71 (16859)
+Seat 5: P1xel7 (39634)
+Seat 6: Woody91420 (46309)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 40
+P1xel7 posts ante 40
+alexmrts1 posts ante 40
+HRMatador953 posts ante 40
+TheBadGuest posts ante 40
+Woody91420 posts ante 40
+Kevfish71 posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [9c Tc]
+*** PRE-FLOP *** 
+Woody91420 raises 1115 to 1465
+alexmrts1 folds
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 calls 1115
+*** FLOP *** [Kc 7d Qd]
+P1xel7 checks
+Woody91420 bets 3345
+P1xel7 folds
+Woody91420 collected 6690 from pot
+*** SUMMARY ***
+Total pot 6690 | No rake
+Board: [Kc 7d Qd]
+Seat 6: Woody91420 won 6690
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 8 - HandId: #3220176340338606347-43-1707942729 - Holdem no limit (40/175/350) - 2024/02/14 20:32:09 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: alexmrts1 (15413)
+Seat 2: HRMatador953 (41563)
+Seat 3: TheBadGuest (18266)
+Seat 4: Kevfish71 (16644)
+Seat 5: P1xel7 (38129)
+Seat 6: Woody91420 (48149)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Woody91420 posts ante 40
+alexmrts1 posts ante 40
+HRMatador953 posts ante 40
+TheBadGuest posts ante 40
+Kevfish71 posts ante 40
+P1xel7 posts small blind 175
+Woody91420 posts big blind 350
+Dealt to P1xel7 [As 4h]
+*** PRE-FLOP *** 
+alexmrts1 folds
+HRMatador953 raises 525 to 875
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+HRMatador953 collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Seat 2: HRMatador953 won 1640
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176340338606347-44-1707942753 - Holdem no limit (50/200/400) - 2024/02/14 20:32:33 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 1: alexmrts1 (15373)
+Seat 2: HRMatador953 (42288)
+Seat 3: TheBadGuest (18226)
+Seat 4: Kevfish71 (16604)
+Seat 5: P1xel7 (37914)
+Seat 6: Woody91420 (47759)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 50
+alexmrts1 posts ante 50
+HRMatador953 posts ante 50
+TheBadGuest posts ante 50
+Kevfish71 posts ante 50
+P1xel7 posts ante 50
+Woody91420 posts small blind 200
+alexmrts1 posts big blind 400
+Dealt to P1xel7 [8h 6d]
+*** PRE-FLOP *** 
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 200
+alexmrts1 checks
+*** FLOP *** [Kh 8c As]
+Woody91420 checks
+alexmrts1 checks
+*** TURN *** [Kh 8c As][9s]
+Woody91420 checks
+alexmrts1 bets 400
+Woody91420 folds
+alexmrts1 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Kh 8c As 9s]
+Seat 1: alexmrts1 (big blind) won 1500
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176340338606347-45-1707942776 - Holdem no limit (50/200/400) - 2024/02/14 20:32:56 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: alexmrts1 (16023)
+Seat 2: HRMatador953 (42238)
+Seat 3: TheBadGuest (18176)
+Seat 4: Kevfish71 (16554)
+Seat 5: P1xel7 (37864)
+Seat 6: Woody91420 (47309)
+*** ANTE/BLINDS ***
+alexmrts1 posts ante 50
+HRMatador953 posts ante 50
+TheBadGuest posts ante 50
+Kevfish71 posts ante 50
+P1xel7 posts ante 50
+Woody91420 posts ante 50
+alexmrts1 posts small blind 200
+HRMatador953 posts big blind 400
+Dealt to P1xel7 [8h 4c]
+*** PRE-FLOP *** 
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+alexmrts1 folds
+HRMatador953 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 2: HRMatador953 (big blind) won 900
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176340338606347-46-1707942782 - Holdem no limit (50/200/400) - 2024/02/14 20:33:02 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: alexmrts1 (15773)
+Seat 2: HRMatador953 (42688)
+Seat 3: TheBadGuest (18126)
+Seat 4: Kevfish71 (16504)
+Seat 5: P1xel7 (37814)
+Seat 6: Woody91420 (47259)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 50
+TheBadGuest posts ante 50
+alexmrts1 posts ante 50
+Kevfish71 posts ante 50
+P1xel7 posts ante 50
+Woody91420 posts ante 50
+HRMatador953 posts small blind 200
+TheBadGuest posts big blind 400
+Dealt to P1xel7 [Qs 4s]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+alexmrts1 calls 400
+HRMatador953 raises 800 to 1200
+TheBadGuest folds
+alexmrts1 calls 800
+*** FLOP *** [Ts 2s Kc]
+HRMatador953 checks
+alexmrts1 bets 400
+HRMatador953 calls 400
+*** TURN *** [Ts 2s Kc][2c]
+HRMatador953 checks
+alexmrts1 bets 400
+HRMatador953 calls 400
+*** RIVER *** [Ts 2s Kc 2c][3h]
+HRMatador953 checks
+alexmrts1 bets 400
+HRMatador953 calls 400
+*** SHOW DOWN ***
+alexmrts1 shows [Ac 8d] (One pair : 2)
+HRMatador953 shows [As 8s] (One pair : 2)
+HRMatador953 collected 2750 from pot
+alexmrts1 collected 2750 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Board: [Ts 2s Kc 2c 3h]
+Seat 1: alexmrts1 (button) showed [Ac 8d] and won 2750 with One pair : 2
+Seat 2: HRMatador953 (small blind) showed [As 8s] and won 2750 with One pair : 2
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176340338606347-47-1707942824 - Holdem no limit (50/200/400) - 2024/02/14 20:33:44 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: alexmrts1 (16073)
+Seat 2: HRMatador953 (42988)
+Seat 3: TheBadGuest (17676)
+Seat 4: Kevfish71 (16454)
+Seat 5: P1xel7 (37764)
+Seat 6: Woody91420 (47209)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 50
+Kevfish71 posts ante 50
+alexmrts1 posts ante 50
+HRMatador953 posts ante 50
+P1xel7 posts ante 50
+Woody91420 posts ante 50
+TheBadGuest posts small blind 200
+Kevfish71 posts big blind 400
+Dealt to P1xel7 [5h 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 folds
+alexmrts1 calls 400
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+alexmrts1 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 1: alexmrts1 won 1300
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176340338606347-48-1707942846 - Holdem no limit (50/200/400) - 2024/02/14 20:34:06 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: alexmrts1 (16923)
+Seat 2: HRMatador953 (42938)
+Seat 3: TheBadGuest (17426)
+Seat 4: Kevfish71 (16004)
+Seat 5: P1xel7 (37714)
+Seat 6: Woody91420 (47159)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 50
+P1xel7 posts ante 50
+alexmrts1 posts ante 50
+HRMatador953 posts ante 50
+TheBadGuest posts ante 50
+Woody91420 posts ante 50
+Kevfish71 posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [4d 3h]
+*** PRE-FLOP *** 
+Woody91420 folds
+alexmrts1 calls 400
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 raises 800 to 1200
+alexmrts1 folds
+P1xel7 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 5: P1xel7 (big blind) won 2100
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176340338606347-49-1707942892 - Holdem no limit (50/200/400) - 2024/02/14 20:34:52 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: alexmrts1 (16473)
+Seat 2: HRMatador953 (42888)
+Seat 3: TheBadGuest (17376)
+Seat 4: Kevfish71 (15754)
+Seat 5: P1xel7 (38564)
+Seat 6: Woody91420 (47109)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+Woody91420 posts ante 50
+alexmrts1 posts ante 50
+HRMatador953 posts ante 50
+TheBadGuest posts ante 50
+Kevfish71 posts ante 50
+P1xel7 posts small blind 200
+Woody91420 posts big blind 400
+Dealt to P1xel7 [4s 6c]
+*** PRE-FLOP *** 
+alexmrts1 calls 400
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 checks
+*** FLOP *** [Th Jd 4h]
+Woody91420 checks
+alexmrts1 checks
+*** TURN *** [Th Jd 4h][Qh]
+Woody91420 checks
+alexmrts1 bets 400
+Woody91420 folds
+alexmrts1 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [Th Jd 4h Qh]
+Seat 1: alexmrts1 won 1700
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 9 - HandId: #3220176340338606347-50-1707942940 - Holdem no limit (50/200/400) - 2024/02/14 20:35:40 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 1: alexmrts1 (17323)
+Seat 2: HRMatador953 (42838)
+Seat 3: TheBadGuest (17326)
+Seat 4: Kevfish71 (15704)
+Seat 5: P1xel7 (38314)
+Seat 6: Woody91420 (46659)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 50
+alexmrts1 posts ante 50
+HRMatador953 posts ante 50
+TheBadGuest posts ante 50
+Kevfish71 posts ante 50
+P1xel7 posts ante 50
+Woody91420 posts small blind 200
+alexmrts1 posts big blind 400
+Dealt to P1xel7 [8h Jc]
+*** PRE-FLOP *** 
+HRMatador953 raises 400 to 800
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 600
+alexmrts1 calls 400
+*** FLOP *** [2s 9h 8c]
+Woody91420 checks
+alexmrts1 checks
+HRMatador953 checks
+*** TURN *** [2s 9h 8c][5c]
+Woody91420 checks
+alexmrts1 checks
+HRMatador953 checks
+*** RIVER *** [2s 9h 8c 5c][Kd]
+Woody91420 checks
+alexmrts1 checks
+HRMatador953 checks
+*** SHOW DOWN ***
+alexmrts1 shows [Jh Th] (High card : King)
+HRMatador953 shows [Qh Tc] (High card : King)
+Woody91420 shows [Kc Qd] (One pair : Kings)
+Woody91420 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [2s 9h 8c 5c Kd]
+Seat 1: alexmrts1 (big blind) showed [Jh Th] and lost with High card : King
+Seat 2: HRMatador953 showed [Qh Tc] and lost with High card : King
+Seat 6: Woody91420 (small blind) showed [Kc Qd] and won 2700 with One pair : Kings
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 10 - HandId: #3220176340338606347-51-1707943000 - Holdem no limit (60/250/500) - 2024/02/14 20:36:40 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: alexmrts1 (16473)
+Seat 2: HRMatador953 (41988)
+Seat 3: TheBadGuest (17276)
+Seat 4: Kevfish71 (15654)
+Seat 5: P1xel7 (38264)
+Seat 6: Woody91420 (48509)
+*** ANTE/BLINDS ***
+alexmrts1 posts ante 60
+HRMatador953 posts ante 60
+TheBadGuest posts ante 60
+Kevfish71 posts ante 60
+P1xel7 posts ante 60
+Woody91420 posts ante 60
+alexmrts1 posts small blind 250
+HRMatador953 posts big blind 500
+Dealt to P1xel7 [8h 2s]
+*** PRE-FLOP *** 
+TheBadGuest calls 500
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 500
+alexmrts1 folds
+HRMatador953 checks
+*** FLOP *** [7s 4d Qh]
+HRMatador953 checks
+TheBadGuest checks
+Woody91420 checks
+*** TURN *** [7s 4d Qh][3h]
+HRMatador953 bets 739
+TheBadGuest folds
+Woody91420 folds
+HRMatador953 collected 2849 from pot
+*** SUMMARY ***
+Total pot 2849 | No rake
+Board: [7s 4d Qh 3h]
+Seat 2: HRMatador953 (big blind) won 2849
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 10 - HandId: #3220176340338606347-52-1707943035 - Holdem no limit (60/250/500) - 2024/02/14 20:37:15 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: alexmrts1 (16163)
+Seat 2: HRMatador953 (43538)
+Seat 3: TheBadGuest (16716)
+Seat 4: Kevfish71 (15594)
+Seat 5: P1xel7 (38204)
+Seat 6: Woody91420 (47949)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 60
+TheBadGuest posts ante 60
+alexmrts1 posts ante 60
+Kevfish71 posts ante 60
+P1xel7 posts ante 60
+Woody91420 posts ante 60
+HRMatador953 posts small blind 250
+TheBadGuest posts big blind 500
+Dealt to P1xel7 [Ac 5c]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 raises 750 to 1250
+Woody91420 folds
+alexmrts1 folds
+HRMatador953 folds
+TheBadGuest folds
+P1xel7 collected 2360 from pot
+*** SUMMARY ***
+Total pot 2360 | No rake
+Seat 5: P1xel7 won 2360
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 10 - HandId: #3220176340338606347-53-1707943061 - Holdem no limit (60/250/500) - 2024/02/14 20:37:41 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: alexmrts1 (16103)
+Seat 2: HRMatador953 (43228)
+Seat 3: TheBadGuest (16156)
+Seat 4: Kevfish71 (15534)
+Seat 5: P1xel7 (39254)
+Seat 6: Woody91420 (47889)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 60
+Kevfish71 posts ante 60
+alexmrts1 posts ante 60
+HRMatador953 posts ante 60
+P1xel7 posts ante 60
+Woody91420 posts ante 60
+TheBadGuest posts small blind 250
+Kevfish71 posts big blind 500
+Dealt to P1xel7 [3h Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 folds
+alexmrts1 folds
+HRMatador953 folds
+TheBadGuest raises 500 to 1000
+Kevfish71 folds
+TheBadGuest collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Seat 3: TheBadGuest (small blind) won 1860
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 10 - HandId: #3220176340338606347-54-1707943077 - Holdem no limit (60/250/500) - 2024/02/14 20:37:57 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: alexmrts1 (16043)
+Seat 2: HRMatador953 (43168)
+Seat 3: TheBadGuest (16956)
+Seat 4: Kevfish71 (14974)
+Seat 5: P1xel7 (39194)
+Seat 6: Woody91420 (47829)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 60
+P1xel7 posts ante 60
+alexmrts1 posts ante 60
+HRMatador953 posts ante 60
+TheBadGuest posts ante 60
+Woody91420 posts ante 60
+Kevfish71 posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [Qc 9s]
+*** PRE-FLOP *** 
+Woody91420 folds
+alexmrts1 calls 500
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 checks
+*** FLOP *** [8h 9d Kc]
+P1xel7 checks
+alexmrts1 checks
+*** TURN *** [8h 9d Kc][6d]
+P1xel7 bets 650
+alexmrts1 folds
+P1xel7 collected 2260 from pot
+*** SUMMARY ***
+Total pot 2260 | No rake
+Board: [8h 9d Kc 6d]
+Seat 5: P1xel7 (big blind) won 2260
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 10 - HandId: #3220176340338606347-55-1707943106 - Holdem no limit (60/250/500) - 2024/02/14 20:38:26 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: alexmrts1 (15483)
+Seat 2: HRMatador953 (43108)
+Seat 3: TheBadGuest (16896)
+Seat 4: Kevfish71 (14664)
+Seat 5: P1xel7 (40244)
+Seat 6: Woody91420 (47769)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+Woody91420 posts ante 60
+alexmrts1 posts ante 60
+HRMatador953 posts ante 60
+TheBadGuest posts ante 60
+Kevfish71 posts ante 60
+P1xel7 posts small blind 250
+Woody91420 posts big blind 500
+Dealt to P1xel7 [7s 4s]
+*** PRE-FLOP *** 
+alexmrts1 folds
+HRMatador953 folds
+TheBadGuest raises 500 to 1000
+Kevfish71 folds
+P1xel7 folds
+Woody91420 raises 2610 to 3610
+TheBadGuest calls 2610
+*** FLOP *** [8h 6d Kd]
+Woody91420 checks
+TheBadGuest checks
+*** TURN *** [8h 6d Kd][Jc]
+Woody91420 checks
+TheBadGuest checks
+*** RIVER *** [8h 6d Kd Jc][9c]
+Woody91420 checks
+TheBadGuest bets 1250
+Woody91420 calls 1250
+*** SHOW DOWN ***
+Woody91420 shows [7h 7d] (One pair : 7)
+TheBadGuest shows [Js 5s] (One pair : Jacks)
+TheBadGuest collected 10330 from pot
+*** SUMMARY ***
+Total pot 10330 | No rake
+Board: [8h 6d Kd Jc 9c]
+Seat 3: TheBadGuest showed [Js 5s] and won 10330 with One pair : Jacks
+Seat 6: Woody91420 (big blind) showed [7h 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 10 - HandId: #3220176340338606347-56-1707943170 - Holdem no limit (60/250/500) - 2024/02/14 20:39:30 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 1: alexmrts1 (15423)
+Seat 2: HRMatador953 (43048)
+Seat 3: TheBadGuest (22306)
+Seat 4: Kevfish71 (14604)
+Seat 5: P1xel7 (39934)
+Seat 6: Woody91420 (42849)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 60
+alexmrts1 posts ante 60
+HRMatador953 posts ante 60
+TheBadGuest posts ante 60
+Kevfish71 posts ante 60
+P1xel7 posts ante 60
+Woody91420 posts small blind 250
+alexmrts1 posts big blind 500
+Dealt to P1xel7 [Js 8d]
+*** PRE-FLOP *** 
+HRMatador953 folds
+TheBadGuest calls 500
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 250
+alexmrts1 checks
+*** FLOP *** [7h Kc 2d]
+Woody91420 checks
+alexmrts1 checks
+TheBadGuest checks
+*** TURN *** [7h Kc 2d][4s]
+Woody91420 checks
+alexmrts1 checks
+TheBadGuest checks
+*** RIVER *** [7h Kc 2d 4s][9d]
+Woody91420 checks
+alexmrts1 bets 1860
+TheBadGuest folds
+Woody91420 folds
+alexmrts1 collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [7h Kc 2d 4s 9d]
+Seat 1: alexmrts1 (big blind) won 3720
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176340338606347-57-1707943265 - Holdem no limit (70/300/600) - 2024/02/14 20:41:05 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: alexmrts1 (16723)
+Seat 2: HRMatador953 (42988)
+Seat 3: TheBadGuest (21746)
+Seat 4: Kevfish71 (14544)
+Seat 5: P1xel7 (39874)
+Seat 6: Woody91420 (42289)
+*** ANTE/BLINDS ***
+alexmrts1 posts ante 70
+HRMatador953 posts ante 70
+TheBadGuest posts ante 70
+Kevfish71 posts ante 70
+P1xel7 posts ante 70
+Woody91420 posts ante 70
+alexmrts1 posts small blind 300
+HRMatador953 posts big blind 600
+Dealt to P1xel7 [Qs Ts]
+*** PRE-FLOP *** 
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 raises 720 to 1320
+Woody91420 calls 1320
+alexmrts1 folds
+HRMatador953 calls 720
+*** FLOP *** [7s 9d 4h]
+HRMatador953 checks
+P1xel7 checks
+Woody91420 bets 4680
+HRMatador953 folds
+P1xel7 folds
+Woody91420 collected 9360 from pot
+*** SUMMARY ***
+Total pot 9360 | No rake
+Board: [7s 9d 4h]
+Seat 6: Woody91420 (button) won 9360
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176340338606347-58-1707943332 - Holdem no limit (70/300/600) - 2024/02/14 20:42:12 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: alexmrts1 (16353)
+Seat 2: HRMatador953 (41598)
+Seat 3: TheBadGuest (21676)
+Seat 4: Kevfish71 (14474)
+Seat 5: P1xel7 (38484)
+Seat 6: Woody91420 (45579)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 70
+TheBadGuest posts ante 70
+alexmrts1 posts ante 70
+Kevfish71 posts ante 70
+P1xel7 posts ante 70
+Woody91420 posts ante 70
+HRMatador953 posts small blind 300
+TheBadGuest posts big blind 600
+Dealt to P1xel7 [4d Ks]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+alexmrts1 folds
+HRMatador953 folds
+TheBadGuest collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Seat 3: TheBadGuest (big blind) won 1320
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176340338606347-59-1707943340 - Holdem no limit (70/300/600) - 2024/02/14 20:42:20 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: alexmrts1 (16283)
+Seat 2: HRMatador953 (41228)
+Seat 3: TheBadGuest (22326)
+Seat 4: Kevfish71 (14404)
+Seat 5: P1xel7 (38414)
+Seat 6: Woody91420 (45509)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 70
+Kevfish71 posts ante 70
+alexmrts1 posts ante 70
+HRMatador953 posts ante 70
+P1xel7 posts ante 70
+Woody91420 posts ante 70
+TheBadGuest posts small blind 300
+Kevfish71 posts big blind 600
+Dealt to P1xel7 [2c 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 folds
+alexmrts1 folds
+HRMatador953 raises 900 to 1500
+TheBadGuest folds
+Kevfish71 folds
+HRMatador953 collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Seat 2: HRMatador953 (button) won 2820
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176340338606347-60-1707943375 - Holdem no limit (70/300/600) - 2024/02/14 20:42:55 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: alexmrts1 (16213)
+Seat 2: HRMatador953 (42478)
+Seat 3: TheBadGuest (21956)
+Seat 4: Kevfish71 (13734)
+Seat 5: P1xel7 (38344)
+Seat 6: Woody91420 (45439)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 70
+P1xel7 posts ante 70
+alexmrts1 posts ante 70
+HRMatador953 posts ante 70
+TheBadGuest posts ante 70
+Woody91420 posts ante 70
+Kevfish71 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [3h Jd]
+*** PRE-FLOP *** 
+Woody91420 folds
+alexmrts1 calls 600
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 raises 1200 to 1800
+alexmrts1 calls 1200
+*** FLOP *** [2c 8d Ad]
+P1xel7 bets 1512
+alexmrts1 folds
+P1xel7 collected 5832 from pot
+*** SUMMARY ***
+Total pot 5832 | No rake
+Board: [2c 8d Ad]
+Seat 5: P1xel7 (big blind) won 5832
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 11 - HandId: #3220176340338606347-61-1707943417 - Holdem no limit (70/300/600) - 2024/02/14 20:43:37 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: alexmrts1 (14343)
+Seat 2: HRMatador953 (42408)
+Seat 3: TheBadGuest (21886)
+Seat 4: Kevfish71 (13364)
+Seat 5: P1xel7 (40794)
+Seat 6: Woody91420 (45369)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Woody91420 posts ante 70
+alexmrts1 posts ante 70
+HRMatador953 posts ante 70
+TheBadGuest posts ante 70
+Kevfish71 posts ante 70
+P1xel7 posts small blind 300
+Woody91420 posts big blind 600
+Dealt to P1xel7 [4s 4h]
+*** PRE-FLOP *** 
+alexmrts1 calls 600
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 raises 2400 to 3000
+Woody91420 folds
+alexmrts1 calls 2400
+*** FLOP *** [4d Qh Jh]
+P1xel7 checks
+alexmrts1 bets 2457
+P1xel7 calls 2457
+*** TURN *** [4d Qh Jh][Jd]
+P1xel7 checks
+alexmrts1 bets 8816 and is all-in
+P1xel7 calls 8816
+*** RIVER *** [4d Qh Jh Jd][6s]
+*** SHOW DOWN ***
+alexmrts1 shows [7c 7d] (Two pairs : Jacks and 7)
+P1xel7 shows [4s 4h] (Full of 4 and Jacks)
+P1xel7 collected 29566 from pot
+*** SUMMARY ***
+Total pot 29566 | No rake
+Board: [4d Qh Jh Jd 6s]
+Seat 1: alexmrts1 showed [7c 7d] and lost with Two pairs : Jacks and 7
+Seat 5: P1xel7 (small blind) showed [4s 4h] and won 29566 with Full of 4 and Jacks
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 12 - HandId: #3220176340338606347-62-1707943466 - Holdem no limit (80/350/700) - 2024/02/14 20:44:26 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 2: HRMatador953 (42338)
+Seat 3: TheBadGuest (21816)
+Seat 4: Kevfish71 (13294)
+Seat 5: P1xel7 (56017)
+Seat 6: Woody91420 (44699)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 80
+HRMatador953 posts ante 80
+TheBadGuest posts ante 80
+Kevfish71 posts ante 80
+P1xel7 posts ante 80
+Woody91420 posts small blind 350
+HRMatador953 posts big blind 700
+Dealt to P1xel7 [Js 3s]
+*** PRE-FLOP *** 
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 350
+HRMatador953 checks
+*** FLOP *** [Ad 6h 5s]
+Woody91420 checks
+HRMatador953 bets 1170
+Woody91420 folds
+HRMatador953 collected 2970 from pot
+*** SUMMARY ***
+Total pot 2970 | No rake
+Board: [Ad 6h 5s]
+Seat 2: HRMatador953 (big blind) won 2970
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 12 - HandId: #3220176340338606347-63-1707943496 - Holdem no limit (80/350/700) - 2024/02/14 20:44:56 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 2: HRMatador953 (43358)
+Seat 3: TheBadGuest (21736)
+Seat 4: Kevfish71 (13214)
+Seat 5: P1xel7 (55937)
+Seat 6: Woody91420 (43919)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 80
+TheBadGuest posts ante 80
+Kevfish71 posts ante 80
+P1xel7 posts ante 80
+Woody91420 posts ante 80
+HRMatador953 posts small blind 350
+TheBadGuest posts big blind 700
+Dealt to P1xel7 [Td 4s]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+HRMatador953 folds
+TheBadGuest collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Seat 3: TheBadGuest (big blind) won 1450
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 12 - HandId: #3220176340338606347-64-1707943503 - Holdem no limit (80/350/700) - 2024/02/14 20:45:03 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 2: HRMatador953 (42928)
+Seat 3: TheBadGuest (22406)
+Seat 4: Kevfish71 (13134)
+Seat 5: P1xel7 (55857)
+Seat 6: Woody91420 (43839)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 80
+Kevfish71 posts ante 80
+HRMatador953 posts ante 80
+P1xel7 posts ante 80
+Woody91420 posts ante 80
+TheBadGuest posts small blind 350
+Kevfish71 posts big blind 700
+Dealt to P1xel7 [Qd 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 calls 700
+HRMatador953 raises 2850 to 3550
+TheBadGuest folds
+Kevfish71 folds
+Woody91420 folds
+HRMatador953 collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | No rake
+Seat 2: HRMatador953 (button) won 5700
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 12 - HandId: #3220176340338606347-65-1707943546 - Holdem no limit (80/350/700) - 2024/02/14 20:45:46 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 2: HRMatador953 (44998)
+Seat 3: TheBadGuest (21976)
+Seat 4: Kevfish71 (12354)
+Seat 5: P1xel7 (55777)
+Seat 6: Woody91420 (43059)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 80
+P1xel7 posts ante 80
+HRMatador953 posts ante 80
+TheBadGuest posts ante 80
+Woody91420 posts ante 80
+Kevfish71 posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [6c 6h]
+*** PRE-FLOP *** 
+Woody91420 calls 700
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 checks
+*** FLOP *** [Qs 8h Qd]
+P1xel7 checks
+Woody91420 bets 2150
+P1xel7 calls 2150
+*** TURN *** [Qs 8h Qd][7s]
+P1xel7 checks
+Woody91420 bets 4193
+P1xel7 raises 8176 to 12369
+Woody91420 folds
+P1xel7 collected 23012 from pot
+*** SUMMARY ***
+Total pot 23012 | No rake
+Board: [Qs 8h Qd 7s]
+Seat 5: P1xel7 (big blind) won 23012
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 12 - HandId: #3220176340338606347-66-1707943612 - Holdem no limit (80/350/700) - 2024/02/14 20:46:52 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 2: HRMatador953 (44918)
+Seat 3: TheBadGuest (21896)
+Seat 4: Kevfish71 (11924)
+Seat 5: P1xel7 (63490)
+Seat 6: Woody91420 (35936)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Woody91420 posts ante 80
+HRMatador953 posts ante 80
+TheBadGuest posts ante 80
+Kevfish71 posts ante 80
+P1xel7 posts small blind 350
+Woody91420 posts big blind 700
+Dealt to P1xel7 [8d 7c]
+*** PRE-FLOP *** 
+HRMatador953 raises 1400 to 2100
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 1400
+*** FLOP *** [8s 2h Ks]
+Woody91420 checks
+HRMatador953 checks
+*** TURN *** [8s 2h Ks][Jc]
+Woody91420 bets 3218
+HRMatador953 calls 3218
+*** RIVER *** [8s 2h Ks Jc][4h]
+Woody91420 checks
+HRMatador953 bets 7401
+Woody91420 folds
+HRMatador953 collected 18787 from pot
+*** SUMMARY ***
+Total pot 18787 | No rake
+Board: [8s 2h Ks Jc 4h]
+Seat 2: HRMatador953 won 18787
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 12 - HandId: #3220176340338606347-67-1707943654 - Holdem no limit (80/350/700) - 2024/02/14 20:47:34 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 2: HRMatador953 (50906)
+Seat 3: TheBadGuest (21816)
+Seat 4: Kevfish71 (11844)
+Seat 5: P1xel7 (63060)
+Seat 6: Woody91420 (30538)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 80
+HRMatador953 posts ante 80
+TheBadGuest posts ante 80
+Kevfish71 posts ante 80
+P1xel7 posts ante 80
+Woody91420 posts small blind 350
+HRMatador953 posts big blind 700
+Dealt to P1xel7 [9d Jc]
+*** PRE-FLOP *** 
+TheBadGuest raises 1050 to 1750
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+HRMatador953 folds
+TheBadGuest collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Seat 3: TheBadGuest won 3200
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 12 - HandId: #3220176340338606347-68-1707943693 - Holdem no limit (80/350/700) - 2024/02/14 20:48:13 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: Pievert496 (5674)
+Seat 2: HRMatador953 (50126)
+Seat 3: TheBadGuest (23186)
+Seat 4: Kevfish71 (11764)
+Seat 5: P1xel7 (62980)
+Seat 6: Woody91420 (30108)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 80
+TheBadGuest posts ante 80
+Kevfish71 posts ante 80
+P1xel7 posts ante 80
+Woody91420 posts ante 80
+HRMatador953 posts small blind 350
+TheBadGuest posts big blind 700
+Dealt to P1xel7 [Kh Td]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 raises 1050 to 1750
+Woody91420 calls 1750
+HRMatador953 folds
+TheBadGuest raises 2625 to 4375
+P1xel7 folds
+Woody91420 folds
+TheBadGuest collected 8625 from pot
+*** SUMMARY ***
+Total pot 8625 | No rake
+Seat 3: TheBadGuest (big blind) won 8625
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 13 - HandId: #3220176340338606347-69-1707943739 - Holdem no limit (100/400/800) - 2024/02/14 20:48:59 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: Pievert496 (5674)
+Seat 2: HRMatador953 (49696)
+Seat 3: TheBadGuest (27356)
+Seat 4: Kevfish71 (11684)
+Seat 5: P1xel7 (61150)
+Seat 6: Woody91420 (28278)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 100
+Kevfish71 posts ante 100
+Pievert496 posts ante 100
+HRMatador953 posts ante 100
+P1xel7 posts ante 100
+Woody91420 posts ante 100
+TheBadGuest posts small blind 400
+Kevfish71 posts big blind 800
+Dealt to P1xel7 [8h 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 folds
+Pievert496 folds
+HRMatador953 raises 1200 to 2000
+TheBadGuest calls 1600
+Kevfish71 folds
+*** FLOP *** [6d Jd 5h]
+TheBadGuest checks
+HRMatador953 bets 3510
+TheBadGuest calls 3510
+*** TURN *** [6d Jd 5h][7h]
+TheBadGuest checks
+HRMatador953 bets 8073
+TheBadGuest calls 8073
+*** RIVER *** [6d Jd 5h 7h][4d]
+TheBadGuest bets 13673 and is all-in
+HRMatador953 folds
+TheBadGuest collected 42239 from pot
+*** SUMMARY ***
+Total pot 42239 | No rake
+Board: [6d Jd 5h 7h 4d]
+Seat 3: TheBadGuest (small blind) won 42239
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 13 - HandId: #3220176340338606347-70-1707943796 - Holdem no limit (100/400/800) - 2024/02/14 20:49:56 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: Pievert496 (5574)
+Seat 2: HRMatador953 (36013)
+Seat 3: TheBadGuest (42239)
+Seat 4: Kevfish71 (10784)
+Seat 5: P1xel7 (61050)
+Seat 6: Woody91420 (28178)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 100
+P1xel7 posts ante 100
+Pievert496 posts ante 100
+HRMatador953 posts ante 100
+TheBadGuest posts ante 100
+Woody91420 posts ante 100
+Kevfish71 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [5c 7h]
+*** PRE-FLOP *** 
+Woody91420 raises 2600 to 3400
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 collected 5200 from pot
+*** SUMMARY ***
+Total pot 5200 | No rake
+Seat 6: Woody91420 won 5200
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 13 - HandId: #3220176340338606347-71-1707943816 - Holdem no limit (100/400/800) - 2024/02/14 20:50:16 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: Pievert496 (5474)
+Seat 2: HRMatador953 (35913)
+Seat 3: TheBadGuest (42139)
+Seat 4: Kevfish71 (10284)
+Seat 5: P1xel7 (60150)
+Seat 6: Woody91420 (29878)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+Woody91420 posts ante 100
+Pievert496 posts ante 100
+HRMatador953 posts ante 100
+TheBadGuest posts ante 100
+Kevfish71 posts ante 100
+P1xel7 posts small blind 400
+Woody91420 posts big blind 800
+Dealt to P1xel7 [3d As]
+*** PRE-FLOP *** 
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 raises 960 to 1760
+Woody91420 raises 28018 to 29778 and is all-in
+P1xel7 folds
+Woody91420 collected 32138 from pot
+*** SUMMARY ***
+Total pot 32138 | No rake
+Seat 6: Woody91420 (big blind) won 32138
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 13 - HandId: #3220176340338606347-72-1707943858 - Holdem no limit (100/400/800) - 2024/02/14 20:50:58 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 1: Pievert496 (5374)
+Seat 2: HRMatador953 (35813)
+Seat 3: TheBadGuest (42039)
+Seat 4: Kevfish71 (10184)
+Seat 5: P1xel7 (58290)
+Seat 6: Woody91420 (32138)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 100
+Pievert496 posts ante 100
+HRMatador953 posts ante 100
+TheBadGuest posts ante 100
+Kevfish71 posts ante 100
+P1xel7 posts ante 100
+Woody91420 posts small blind 400
+Pievert496 posts big blind 800
+Dealt to P1xel7 [Jh Td]
+*** PRE-FLOP *** 
+HRMatador953 raises 1200 to 2000
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+Pievert496 folds
+HRMatador953 collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Seat 2: HRMatador953 won 3800
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 13 - HandId: #3220176340338606347-73-1707943877 - Holdem no limit (100/400/800) - 2024/02/14 20:51:17 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: Pievert496 (4474)
+Seat 2: HRMatador953 (37513)
+Seat 3: TheBadGuest (41939)
+Seat 4: Kevfish71 (10084)
+Seat 5: P1xel7 (58190)
+Seat 6: Woody91420 (31638)
+*** ANTE/BLINDS ***
+Pievert496 posts ante 100
+HRMatador953 posts ante 100
+TheBadGuest posts ante 100
+Kevfish71 posts ante 100
+P1xel7 posts ante 100
+Woody91420 posts ante 100
+Pievert496 posts small blind 400
+HRMatador953 posts big blind 800
+Dealt to P1xel7 [8h 6c]
+*** PRE-FLOP *** 
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+Pievert496 folds
+HRMatador953 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 2: HRMatador953 (big blind) won 1800
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 13 - HandId: #3220176340338606347-74-1707943907 - Holdem no limit (100/400/800) - 2024/02/14 20:51:47 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: Pievert496 (3974)
+Seat 2: HRMatador953 (38413)
+Seat 3: TheBadGuest (41839)
+Seat 4: Kevfish71 (9984)
+Seat 5: P1xel7 (58090)
+Seat 6: Woody91420 (31538)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 100
+TheBadGuest posts ante 100
+Pievert496 posts ante 100
+Kevfish71 posts ante 100
+P1xel7 posts ante 100
+Woody91420 posts ante 100
+HRMatador953 posts small blind 400
+TheBadGuest posts big blind 800
+Dealt to P1xel7 [7d As]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 800
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest checks
+*** FLOP *** [2d 8h 5d]
+TheBadGuest bets 1690
+Woody91420 folds
+TheBadGuest collected 4290 from pot
+*** SUMMARY ***
+Total pot 4290 | No rake
+Board: [2d 8h 5d]
+Seat 3: TheBadGuest (big blind) won 4290
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 13 - HandId: #3220176340338606347-75-1707943938 - Holdem no limit (100/400/800) - 2024/02/14 20:52:18 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: Pievert496 (3874)
+Seat 2: HRMatador953 (37913)
+Seat 3: TheBadGuest (43539)
+Seat 4: Kevfish71 (9884)
+Seat 5: P1xel7 (57990)
+Seat 6: Woody91420 (30638)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 100
+Kevfish71 posts ante 100
+Pievert496 posts ante 100
+HRMatador953 posts ante 100
+P1xel7 posts ante 100
+Woody91420 posts ante 100
+TheBadGuest posts small blind 400
+Kevfish71 posts big blind 800
+Dealt to P1xel7 [5d 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 raises 2600 to 3400
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest calls 3000
+Kevfish71 folds
+*** FLOP *** [9h 5s Ks]
+TheBadGuest checks
+Woody91420 bets 27138 and is all-in
+TheBadGuest calls 27138
+*** TURN *** [9h 5s Ks][2s]
+*** RIVER *** [9h 5s Ks 2s][7s]
+*** SHOW DOWN ***
+TheBadGuest shows [6d 6s] (Flush King high)
+Woody91420 shows [As Jc] (Flush Ace high)
+Woody91420 collected 62476 from pot
+*** SUMMARY ***
+Total pot 62476 | No rake
+Board: [9h 5s Ks 2s 7s]
+Seat 3: TheBadGuest (small blind) showed [6d 6s] and lost with Flush King high
+Seat 6: Woody91420 showed [As Jc] and won 62476 with Flush Ace high
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 14 - HandId: #3220176340338606347-76-1707943963 - Holdem no limit (120/500/1000) - 2024/02/14 20:52:43 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: Pievert496 (3774)
+Seat 2: HRMatador953 (37813)
+Seat 3: TheBadGuest (12901)
+Seat 4: Kevfish71 (8984)
+Seat 5: P1xel7 (57890)
+Seat 6: Woody91420 (62476)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 120
+P1xel7 posts ante 120
+Pievert496 posts ante 120
+HRMatador953 posts ante 120
+TheBadGuest posts ante 120
+Woody91420 posts ante 120
+Kevfish71 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [8c 6s]
+*** PRE-FLOP *** 
+Woody91420 raises 3220 to 4220
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest raises 8561 to 12781 and is all-in
+Kevfish71 folds
+P1xel7 folds
+Woody91420 calls 8561
+*** FLOP *** [7s 2c 4d]
+*** TURN *** [7s 2c 4d][8s]
+*** RIVER *** [7s 2c 4d 8s][Td]
+*** SHOW DOWN ***
+Woody91420 shows [Qd As] (High card : Ace)
+TheBadGuest shows [Jd Th] (One pair : Tens)
+TheBadGuest collected 27782 from pot
+*** SUMMARY ***
+Total pot 27782 | No rake
+Board: [7s 2c 4d 8s Td]
+Seat 3: TheBadGuest (button) showed [Jd Th] and won 27782 with One pair : Tens
+Seat 6: Woody91420 showed [Qd As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 14 - HandId: #3220176340338606347-77-1707943990 - Holdem no limit (120/500/1000) - 2024/02/14 20:53:10 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: Pievert496 (3654)
+Seat 2: HRMatador953 (37693)
+Seat 3: TheBadGuest (27782)
+Seat 4: Kevfish71 (8364)
+Seat 5: P1xel7 (56770)
+Seat 6: Woody91420 (49575)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Woody91420 posts ante 120
+Pievert496 posts ante 120
+HRMatador953 posts ante 120
+TheBadGuest posts ante 120
+Kevfish71 posts ante 120
+P1xel7 posts small blind 500
+Woody91420 posts big blind 1000
+Dealt to P1xel7 [Jc 3h]
+*** PRE-FLOP *** 
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest raises 2000 to 3000
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+TheBadGuest collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Seat 3: TheBadGuest won 5220
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 14 - HandId: #3220176340338606347-78-1707943999 - Holdem no limit (120/500/1000) - 2024/02/14 20:53:19 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 1: Pievert496 (3534)
+Seat 2: HRMatador953 (37573)
+Seat 3: TheBadGuest (29882)
+Seat 4: Kevfish71 (8244)
+Seat 5: P1xel7 (56150)
+Seat 6: Woody91420 (48455)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 120
+Pievert496 posts ante 120
+HRMatador953 posts ante 120
+TheBadGuest posts ante 120
+Kevfish71 posts ante 120
+P1xel7 posts ante 120
+Woody91420 posts small blind 500
+Pievert496 posts big blind 1000
+Dealt to P1xel7 [9c 4c]
+*** PRE-FLOP *** 
+HRMatador953 folds
+TheBadGuest calls 1000
+Kevfish71 folds
+P1xel7 folds
+Woody91420 raises 3720 to 4720
+Pievert496 folds
+TheBadGuest calls 3720
+*** FLOP *** [9s Kh Jd]
+Woody91420 bets 43615 and is all-in
+TheBadGuest calls 25042 and is all-in
+*** TURN *** [9s Kh Jd][2h]
+*** RIVER *** [9s Kh Jd 2h][4h]
+*** SHOW DOWN ***
+TheBadGuest shows [Jh 9d] (Two pairs : Jacks and 9)
+Woody91420 shows [Js As] (One pair : Jacks)
+Woody91420 collected 18573 from side pot 1
+TheBadGuest collected 61244 from main pot
+*** SUMMARY ***
+Total pot 79817 | No rake
+Board: [9s Kh Jd 2h 4h]
+Seat 3: TheBadGuest showed [Jh 9d] and won 61244 with Two pairs : Jacks and 9
+Seat 6: Woody91420 (small blind) showed [Js As] and won 18573 with One pair : Jacks
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 14 - HandId: #3220176340338606347-79-1707944028 - Holdem no limit (120/500/1000) - 2024/02/14 20:53:48 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: Pievert496 (2414)
+Seat 2: HRMatador953 (37453)
+Seat 3: TheBadGuest (61244)
+Seat 4: Kevfish71 (8124)
+Seat 5: P1xel7 (56030)
+Seat 6: Woody91420 (18573)
+*** ANTE/BLINDS ***
+Pievert496 posts ante 120
+HRMatador953 posts ante 120
+TheBadGuest posts ante 120
+Kevfish71 posts ante 120
+P1xel7 posts ante 120
+Woody91420 posts ante 120
+Pievert496 posts small blind 500
+HRMatador953 posts big blind 1000
+Dealt to P1xel7 [Tc Ks]
+*** PRE-FLOP *** 
+TheBadGuest calls 1000
+Kevfish71 folds
+P1xel7 raises 1500 to 2500
+Woody91420 raises 15953 to 18453 and is all-in
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest folds
+P1xel7 folds
+Woody91420 collected 24173 from pot
+*** SUMMARY ***
+Total pot 24173 | No rake
+Seat 6: Woody91420 (button) won 24173
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 14 - HandId: #3220176340338606347-80-1707944050 - Holdem no limit (120/500/1000) - 2024/02/14 20:54:10 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: Pievert496 (1794)
+Seat 2: HRMatador953 (36333)
+Seat 3: TheBadGuest (60124)
+Seat 4: Kevfish71 (8004)
+Seat 5: P1xel7 (53410)
+Seat 6: Woody91420 (24173)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 120
+TheBadGuest posts ante 120
+Pievert496 posts ante 120
+Kevfish71 posts ante 120
+P1xel7 posts ante 120
+Woody91420 posts ante 120
+HRMatador953 posts small blind 500
+TheBadGuest posts big blind 1000
+Dealt to P1xel7 [Ah 3d]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 3: TheBadGuest (big blind) won 2220
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 14 - HandId: #3220176340338606347-81-1707944059 - Holdem no limit (120/500/1000) - 2024/02/14 20:54:19 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: Pievert496 (1674)
+Seat 2: HRMatador953 (35713)
+Seat 3: TheBadGuest (61224)
+Seat 4: Kevfish71 (7884)
+Seat 5: P1xel7 (53290)
+Seat 6: Woody91420 (24053)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 120
+Kevfish71 posts ante 120
+Pievert496 posts ante 120
+HRMatador953 posts ante 120
+P1xel7 posts ante 120
+Woody91420 posts ante 120
+TheBadGuest posts small blind 500
+Kevfish71 posts big blind 1000
+Dealt to P1xel7 [3h Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 folds
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest calls 500
+Kevfish71 folds
+TheBadGuest collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Seat 3: TheBadGuest (small blind) won 2720
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 14 - HandId: #3220176340338606347-82-1707944080 - Holdem no limit (120/500/1000) - 2024/02/14 20:54:40 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: Pievert496 (1554)
+Seat 2: HRMatador953 (35593)
+Seat 3: TheBadGuest (62824)
+Seat 4: Kevfish71 (6764)
+Seat 5: P1xel7 (53170)
+Seat 6: Woody91420 (23933)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 120
+P1xel7 posts ante 120
+Pievert496 posts ante 120
+HRMatador953 posts ante 120
+TheBadGuest posts ante 120
+Woody91420 posts ante 120
+Kevfish71 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Qs 9h]
+*** PRE-FLOP *** 
+Woody91420 folds
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest calls 1000
+Kevfish71 folds
+P1xel7 raises 2000 to 3000
+TheBadGuest calls 2000
+*** FLOP *** [Jd 8h Kc]
+P1xel7 bets 2527
+TheBadGuest folds
+P1xel7 collected 9747 from pot
+*** SUMMARY ***
+Total pot 9747 | No rake
+Board: [Jd 8h Kc]
+Seat 5: P1xel7 (big blind) won 9747
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 14 - HandId: #3220176340338606347-83-1707944461 - Holdem no limit (120/500/1000) - 2024/02/14 21:01:01 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: Pievert496 (1434)
+Seat 2: HRMatador953 (35473)
+Seat 3: TheBadGuest (59704)
+Seat 4: Kevfish71 (6144)
+Seat 5: P1xel7 (57270)
+Seat 6: Woody91420 (23813)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Woody91420 posts ante 120
+Pievert496 posts ante 120
+HRMatador953 posts ante 120
+TheBadGuest posts ante 120
+Kevfish71 posts ante 120
+P1xel7 posts small blind 500
+Woody91420 posts big blind 1000
+Dealt to P1xel7 [2h Td]
+*** PRE-FLOP *** 
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest raises 1500 to 2500
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+TheBadGuest collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 3: TheBadGuest won 4720
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 14 - HandId: #3220176340338606347-84-1707944485 - Holdem no limit (120/500/1000) - 2024/02/14 21:01:25 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 1: Pievert496 (1314)
+Seat 2: HRMatador953 (35353)
+Seat 3: TheBadGuest (61804)
+Seat 4: Kevfish71 (6024)
+Seat 5: P1xel7 (56650)
+Seat 6: Woody91420 (22693)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 120
+Pievert496 posts ante 120
+HRMatador953 posts ante 120
+TheBadGuest posts ante 120
+Kevfish71 posts ante 120
+P1xel7 posts ante 120
+Woody91420 posts small blind 500
+Pievert496 posts big blind 1000
+Dealt to P1xel7 [9h Jc]
+*** PRE-FLOP *** 
+HRMatador953 raises 1000 to 2000
+TheBadGuest calls 2000
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+Pievert496 folds
+*** FLOP *** [Qd Td 8s]
+HRMatador953 bets 2177
+TheBadGuest raises 4177 to 6354
+HRMatador953 calls 4177
+*** TURN *** [Qd Td 8s][2h]
+HRMatador953 checks
+TheBadGuest bets 53330 and is all-in
+HRMatador953 folds
+TheBadGuest collected 72258 from pot
+*** SUMMARY ***
+Total pot 72258 | No rake
+Board: [Qd Td 8s 2h]
+Seat 3: TheBadGuest won 72258
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 14 - HandId: #3220176340338606347-85-1707944518 - Holdem no limit (120/500/1000) - 2024/02/14 21:01:58 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: Pievert496 (194)
+Seat 2: HRMatador953 (26879)
+Seat 3: TheBadGuest (72258)
+Seat 4: Kevfish71 (5904)
+Seat 5: P1xel7 (56530)
+Seat 6: Woody91420 (22073)
+*** ANTE/BLINDS ***
+Pievert496 posts ante 120
+HRMatador953 posts ante 120
+TheBadGuest posts ante 120
+Kevfish71 posts ante 120
+P1xel7 posts ante 120
+Woody91420 posts ante 120
+Pievert496 posts small blind 74 and is all-in
+HRMatador953 posts big blind 1000
+Dealt to P1xel7 [5h Th]
+*** PRE-FLOP *** 
+TheBadGuest raises 1000 to 2000
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+HRMatador953 folds
+*** FLOP *** [3h 7s 7d]
+*** TURN *** [3h 7s 7d][Js]
+*** RIVER *** [3h 7s 7d Js][8h]
+*** SHOW DOWN ***
+Pievert496 shows [Tc Jd] (Two pairs : Jacks and 7)
+TheBadGuest shows [Ad 6d] (One pair : 7)
+TheBadGuest collected 2852 from side pot 1
+Pievert496 collected 942 from main pot
+*** SUMMARY ***
+Total pot 3794 | No rake
+Board: [3h 7s 7d Js 8h]
+Seat 1: Pievert496 (small blind) showed [Tc Jd] and won 942 with Two pairs : Jacks and 7
+Seat 3: TheBadGuest showed [Ad 6d] and won 2852 with One pair : 7
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 15 - HandId: #3220176340338606347-86-1707944544 - Holdem no limit (140/600/1200) - 2024/02/14 21:02:24 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: Pievert496 (942)
+Seat 2: HRMatador953 (25759)
+Seat 3: TheBadGuest (72990)
+Seat 4: Kevfish71 (5784)
+Seat 5: P1xel7 (56410)
+Seat 6: Woody91420 (21953)
+*** ANTE/BLINDS ***
+HRMatador953 posts ante 140
+TheBadGuest posts ante 140
+Pievert496 posts ante 140
+Kevfish71 posts ante 140
+P1xel7 posts ante 140
+Woody91420 posts ante 140
+HRMatador953 posts small blind 600
+TheBadGuest posts big blind 1200
+Dealt to P1xel7 [6s 3h]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+Pievert496 folds
+HRMatador953 raises 24419 to 25619 and is all-in
+TheBadGuest folds
+HRMatador953 collected 27659 from pot
+*** SUMMARY ***
+Total pot 27659 | No rake
+Seat 2: HRMatador953 (small blind) won 27659
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 15 - HandId: #3220176340338606347-87-1707944581 - Holdem no limit (140/600/1200) - 2024/02/14 21:03:01 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #2 is the button
+Seat 1: Pievert496 (802)
+Seat 2: HRMatador953 (27659)
+Seat 3: TheBadGuest (71650)
+Seat 4: Kevfish71 (5644)
+Seat 5: P1xel7 (56270)
+Seat 6: Woody91420 (21813)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 140
+Kevfish71 posts ante 140
+Pievert496 posts ante 140
+HRMatador953 posts ante 140
+P1xel7 posts ante 140
+Woody91420 posts ante 140
+TheBadGuest posts small blind 600
+Kevfish71 posts big blind 1200
+Dealt to P1xel7 [5d 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 folds
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest raises 1200 to 2400
+Kevfish71 folds
+TheBadGuest collected 4440 from pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Seat 3: TheBadGuest (small blind) won 4440
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 15 - HandId: #3220176340338606347-88-1707944608 - Holdem no limit (140/600/1200) - 2024/02/14 21:03:28 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #3 is the button
+Seat 1: Pievert496 (662)
+Seat 2: HRMatador953 (27519)
+Seat 3: TheBadGuest (73550)
+Seat 4: Kevfish71 (4304)
+Seat 5: P1xel7 (56130)
+Seat 6: Woody91420 (21673)
+*** ANTE/BLINDS ***
+Kevfish71 posts ante 140
+P1xel7 posts ante 140
+Pievert496 posts ante 140
+HRMatador953 posts ante 140
+TheBadGuest posts ante 140
+Woody91420 posts ante 140
+Kevfish71 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [8c 7s]
+*** PRE-FLOP *** 
+Woody91420 folds
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest raises 1800 to 3000
+Kevfish71 folds
+P1xel7 calls 1800
+*** FLOP *** [4h 2d 8d]
+P1xel7 checks
+TheBadGuest bets 3000
+P1xel7 calls 3000
+*** TURN *** [4h 2d 8d][Kc]
+P1xel7 checks
+TheBadGuest checks
+*** RIVER *** [4h 2d 8d Kc][Td]
+P1xel7 checks
+TheBadGuest checks
+*** SHOW DOWN ***
+TheBadGuest shows [5c 5h] (One pair : 5)
+P1xel7 shows [8c 7s] (One pair : 8)
+P1xel7 collected 13440 from pot
+*** SUMMARY ***
+Total pot 13440 | No rake
+Board: [4h 2d 8d Kc Td]
+Seat 3: TheBadGuest (button) showed [5c 5h] and lost with One pair : 5
+Seat 5: P1xel7 (big blind) showed [8c 7s] and won 13440 with One pair : 8
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 15 - HandId: #3220176340338606347-89-1707944681 - Holdem no limit (140/600/1200) - 2024/02/14 21:04:41 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #4 is the button
+Seat 1: Pievert496 (522)
+Seat 2: HRMatador953 (27379)
+Seat 3: TheBadGuest (67410)
+Seat 4: Kevfish71 (3564)
+Seat 5: P1xel7 (63430)
+Seat 6: Woody91420 (21533)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+Woody91420 posts ante 140
+Pievert496 posts ante 140
+HRMatador953 posts ante 140
+TheBadGuest posts ante 140
+Kevfish71 posts ante 140
+P1xel7 posts small blind 600
+Woody91420 posts big blind 1200
+Dealt to P1xel7 [Ac 7s]
+*** PRE-FLOP *** 
+Pievert496 folds
+HRMatador953 folds
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 raises 62090 to 63290 and is all-in
+Woody91420 folds
+P1xel7 collected 65330 from pot
+*** SUMMARY ***
+Total pot 65330 | No rake
+Seat 5: P1xel7 (small blind) won 65330
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 15 - HandId: #3220176340338606347-90-1707944714 - Holdem no limit (140/600/1200) - 2024/02/14 21:05:14 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #5 is the button
+Seat 1: Pievert496 (382)
+Seat 2: HRMatador953 (27239)
+Seat 3: TheBadGuest (67270)
+Seat 4: Kevfish71 (3424)
+Seat 5: P1xel7 (65330)
+Seat 6: Woody91420 (20193)
+*** ANTE/BLINDS ***
+Woody91420 posts ante 140
+Pievert496 posts ante 140
+HRMatador953 posts ante 140
+TheBadGuest posts ante 140
+Kevfish71 posts ante 140
+P1xel7 posts ante 140
+Woody91420 posts small blind 600
+Pievert496 posts big blind 242 and is all-in
+Dealt to P1xel7 [Kh Ac]
+*** PRE-FLOP *** 
+HRMatador953 raises 26499 to 27099 and is all-in
+TheBadGuest folds
+Kevfish71 folds
+P1xel7 calls 27099
+Woody91420 folds
+*** FLOP *** [6c 4d 6d]
+*** TURN *** [6c 4d 6d][8d]
+*** RIVER *** [6c 4d 6d 8d][8h]
+*** SHOW DOWN ***
+HRMatador953 shows [9h Ks] (Two pairs : 8 and 6)
+Pievert496 shows [Ad 8s] (Full of 8 and 6)
+P1xel7 shows [Kh Ac] (Two pairs : 8 and 6)
+P1xel7 collected 54072 from side pot 1
+Pievert496 collected 1808 from main pot
+*** SUMMARY ***
+Total pot 55880 | No rake
+Board: [6c 4d 6d 8d 8h]
+Seat 1: Pievert496 (big blind) showed [Ad 8s] and won 1808 with Full of 8 and 6
+Seat 2: HRMatador953 showed [9h Ks] and lost with Two pairs : 8 and 6
+Seat 5: P1xel7 (button) showed [Kh Ac] and won 54072 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 15 - HandId: #3220176340338606347-91-1707944736 - Holdem no limit (140/600/1200) - 2024/02/14 21:05:36 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #6 is the button
+Seat 1: Pievert496 (1808)
+Seat 3: TheBadGuest (67130)
+Seat 4: Kevfish71 (3284)
+Seat 5: P1xel7 (92163)
+Seat 6: Woody91420 (19453)
+*** ANTE/BLINDS ***
+Pievert496 posts ante 140
+TheBadGuest posts ante 140
+Kevfish71 posts ante 140
+P1xel7 posts ante 140
+Woody91420 posts ante 140
+Pievert496 posts small blind 600
+TheBadGuest posts big blind 1200
+Dealt to P1xel7 [2h 8s]
+*** PRE-FLOP *** 
+Kevfish71 folds
+P1xel7 folds
+Woody91420 folds
+Pievert496 folds
+TheBadGuest collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Seat 3: TheBadGuest (big blind) won 2500
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 15 - HandId: #3220176340338606347-92-1707944744 - Holdem no limit (140/600/1200) - 2024/02/14 21:05:44 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0266' 6-max (real money) Seat #1 is the button
+Seat 1: Pievert496 (1068)
+Seat 3: TheBadGuest (68290)
+Seat 4: Kevfish71 (3144)
+Seat 5: P1xel7 (92023)
+Seat 6: Woody91420 (19313)
+*** ANTE/BLINDS ***
+TheBadGuest posts ante 140
+Kevfish71 posts ante 140
+Pievert496 posts ante 140
+P1xel7 posts ante 140
+Woody91420 posts ante 140
+TheBadGuest posts small blind 600
+Kevfish71 posts big blind 1200
+Dealt to P1xel7 [4h 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Woody91420 folds
+Pievert496 folds
+TheBadGuest raises 1800 to 3000
+Kevfish71 folds
+TheBadGuest collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | No rake
+Seat 3: TheBadGuest (small blind) won 4900
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 16 - HandId: #3220176340338606261-70-1707944810 - Holdem no limit (160/700/1400) - 2024/02/14 21:06:50 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #4 is the button
+Seat 1: fish_le_khan (49989)
+Seat 2: KT-WELDER (42584)
+Seat 4: vdddh2s (4430)
+Seat 5: --Ermac-- (155684)
+Seat 6: P1xel7 (91883)
+*** ANTE/BLINDS ***
+--Ermac-- posts ante 160
+P1xel7 posts ante 160
+fish_le_khan posts ante 160
+KT-WELDER posts ante 160
+vdddh2s posts ante 160
+--Ermac-- posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [2h 5c]
+*** PRE-FLOP *** 
+fish_le_khan raises 4300 to 5700
+KT-WELDER folds
+vdddh2s folds
+--Ermac-- folds
+P1xel7 folds
+fish_le_khan collected 8600 from pot
+*** SUMMARY ***
+Total pot 8600 | No rake
+Seat 1: fish_le_khan won 8600
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 16 - HandId: #3220176340338606261-71-1707944824 - Holdem no limit (160/700/1400) - 2024/02/14 21:07:04 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #5 is the button
+Seat 1: fish_le_khan (52729)
+Seat 2: KT-WELDER (42424)
+Seat 3: Wazz94 (64183)
+Seat 4: vdddh2s (4270)
+Seat 5: --Ermac-- (154824)
+Seat 6: P1xel7 (90323)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+fish_le_khan posts ante 160
+KT-WELDER posts ante 160
+Wazz94 posts ante 160
+vdddh2s posts ante 160
+--Ermac-- posts ante 160
+P1xel7 posts small blind 700
+fish_le_khan posts big blind 1400
+Dealt to P1xel7 [6h 2s]
+*** PRE-FLOP *** 
+KT-WELDER raises 1400 to 2800
+Wazz94 folds
+vdddh2s folds
+--Ermac-- folds
+P1xel7 folds
+fish_le_khan calls 1400
+*** FLOP *** [7c 9h Qh]
+fish_le_khan checks
+KT-WELDER bets 2541
+fish_le_khan calls 2541
+*** TURN *** [7c 9h Qh][2h]
+fish_le_khan checks
+KT-WELDER checks
+*** RIVER *** [7c 9h Qh 2h][Jd]
+fish_le_khan checks
+KT-WELDER bets 8022
+fish_le_khan folds
+KT-WELDER collected 20364 from pot
+*** SUMMARY ***
+Total pot 20364 | No rake
+Board: [7c 9h Qh 2h Jd]
+Seat 2: KT-WELDER won 20364
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 16 - HandId: #3220176340338606261-72-1707944876 - Holdem no limit (160/700/1400) - 2024/02/14 21:07:56 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #6 is the button
+Seat 1: fish_le_khan (47228)
+Seat 2: KT-WELDER (49265)
+Seat 3: Wazz94 (64023)
+Seat 4: vdddh2s (4110)
+Seat 5: --Ermac-- (154664)
+Seat 6: P1xel7 (89463)
+*** ANTE/BLINDS ***
+fish_le_khan posts ante 160
+KT-WELDER posts ante 160
+Wazz94 posts ante 160
+vdddh2s posts ante 160
+--Ermac-- posts ante 160
+P1xel7 posts ante 160
+fish_le_khan posts small blind 700
+KT-WELDER posts big blind 1400
+Dealt to P1xel7 [4d 9h]
+*** PRE-FLOP *** 
+Wazz94 calls 1400
+vdddh2s folds
+--Ermac-- folds
+P1xel7 folds
+fish_le_khan folds
+KT-WELDER checks
+*** FLOP *** [Tc 9c Ad]
+KT-WELDER checks
+Wazz94 bets 2899
+KT-WELDER folds
+Wazz94 collected 7359 from pot
+*** SUMMARY ***
+Total pot 7359 | No rake
+Board: [Tc 9c Ad]
+Seat 3: Wazz94 won 7359
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 16 - HandId: #3220176340338606261-73-1707944913 - Holdem no limit (160/700/1400) - 2024/02/14 21:08:33 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #1 is the button
+Seat 1: fish_le_khan (46368)
+Seat 2: KT-WELDER (47705)
+Seat 3: Wazz94 (66923)
+Seat 4: vdddh2s (3950)
+Seat 5: --Ermac-- (154504)
+Seat 6: P1xel7 (89303)
+*** ANTE/BLINDS ***
+KT-WELDER posts ante 160
+Wazz94 posts ante 160
+fish_le_khan posts ante 160
+vdddh2s posts ante 160
+--Ermac-- posts ante 160
+P1xel7 posts ante 160
+KT-WELDER posts small blind 700
+Wazz94 posts big blind 1400
+Dealt to P1xel7 [Kd 3s]
+*** PRE-FLOP *** 
+vdddh2s folds
+--Ermac-- folds
+P1xel7 folds
+fish_le_khan folds
+KT-WELDER calls 700
+Wazz94 checks
+*** FLOP *** [Ad Th 2h]
+KT-WELDER bets 1400
+Wazz94 folds
+KT-WELDER collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Board: [Ad Th 2h]
+Seat 2: KT-WELDER (small blind) won 5160
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 16 - HandId: #3220176340338606261-74-1707944931 - Holdem no limit (160/700/1400) - 2024/02/14 21:08:51 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #2 is the button
+Seat 1: fish_le_khan (46208)
+Seat 2: KT-WELDER (49905)
+Seat 3: Wazz94 (65363)
+Seat 4: vdddh2s (3790)
+Seat 5: --Ermac-- (154344)
+Seat 6: P1xel7 (89143)
+*** ANTE/BLINDS ***
+Wazz94 posts ante 160
+vdddh2s posts ante 160
+fish_le_khan posts ante 160
+KT-WELDER posts ante 160
+--Ermac-- posts ante 160
+P1xel7 posts ante 160
+Wazz94 posts small blind 700
+vdddh2s posts big blind 1400
+Dealt to P1xel7 [Qd 7s]
+*** PRE-FLOP *** 
+--Ermac-- folds
+P1xel7 folds
+fish_le_khan raises 1400 to 2800
+KT-WELDER folds
+Wazz94 calls 2100
+vdddh2s folds
+*** FLOP *** [5h Jc Qs]
+Wazz94 checks
+fish_le_khan bets 43248 and is all-in
+Wazz94 calls 43248
+*** TURN *** [5h Jc Qs][9s]
+*** RIVER *** [5h Jc Qs 9s][3s]
+*** SHOW DOWN ***
+fish_le_khan shows [Td Qc] (One pair : Queens)
+Wazz94 shows [Tc Kc] (Straight King high)
+Wazz94 collected 94456 from pot
+*** SUMMARY ***
+Total pot 94456 | No rake
+Board: [5h Jc Qs 9s 3s]
+Seat 1: fish_le_khan showed [Td Qc] and lost with One pair : Queens
+Seat 3: Wazz94 (small blind) showed [Tc Kc] and won 94456 with Straight King high
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 16 - HandId: #3220176340338606261-75-1707944972 - Holdem no limit (160/700/1400) - 2024/02/14 21:09:32 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #3 is the button
+Seat 2: KT-WELDER (49745)
+Seat 3: Wazz94 (113611)
+Seat 4: vdddh2s (2230)
+Seat 5: --Ermac-- (154184)
+Seat 6: P1xel7 (88983)
+*** ANTE/BLINDS ***
+vdddh2s posts ante 160
+--Ermac-- posts ante 160
+KT-WELDER posts ante 160
+Wazz94 posts ante 160
+P1xel7 posts ante 160
+vdddh2s posts small blind 700
+--Ermac-- posts big blind 1400
+Dealt to P1xel7 [2d Kd]
+*** PRE-FLOP *** 
+P1xel7 folds
+KT-WELDER raises 2100 to 3500
+Wazz94 folds
+vdddh2s folds
+--Ermac-- calls 2100
+*** FLOP *** [Jc 9d 9s]
+--Ermac-- checks
+KT-WELDER bets 2975
+--Ermac-- calls 2975
+*** TURN *** [Jc 9d 9s][Ad]
+--Ermac-- checks
+KT-WELDER checks
+*** RIVER *** [Jc 9d 9s Ad][6h]
+--Ermac-- checks
+KT-WELDER checks
+*** SHOW DOWN ***
+--Ermac-- shows [Tc Ks] (One pair : 9)
+KT-WELDER shows [Qc Kc] (One pair : 9)
+KT-WELDER collected 14450 from pot
+*** SUMMARY ***
+Total pot 14450 | No rake
+Board: [Jc 9d 9s Ad 6h]
+Seat 2: KT-WELDER showed [Qc Kc] and won 14450 with One pair : 9
+Seat 5: --Ermac-- (big blind) showed [Tc Ks] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 16 - HandId: #3220176340338606261-76-1707945009 - Holdem no limit (160/700/1400) - 2024/02/14 21:10:09 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #4 is the button
+Seat 1: SH_Zeus4690 (11812)
+Seat 2: KT-WELDER (57560)
+Seat 3: Wazz94 (113451)
+Seat 4: vdddh2s (1370)
+Seat 5: --Ermac-- (147549)
+Seat 6: P1xel7 (88823)
+*** ANTE/BLINDS ***
+--Ermac-- posts ante 160
+P1xel7 posts ante 160
+SH_Zeus4690 posts ante 160
+KT-WELDER posts ante 160
+Wazz94 posts ante 160
+vdddh2s posts ante 160
+--Ermac-- posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [8c Th]
+*** PRE-FLOP *** 
+SH_Zeus4690 folds
+KT-WELDER raises 2100 to 3500
+Wazz94 folds
+vdddh2s folds
+--Ermac-- folds
+P1xel7 calls 2100
+*** FLOP *** [Js 5h Ts]
+P1xel7 checks
+KT-WELDER bets 3031
+P1xel7 calls 3031
+*** TURN *** [Js 5h Ts][Kd]
+P1xel7 checks
+KT-WELDER bets 9569
+P1xel7 folds
+KT-WELDER collected 24291 from pot
+*** SUMMARY ***
+Total pot 24291 | No rake
+Board: [Js 5h Ts Kd]
+Seat 2: KT-WELDER won 24291
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 17 - HandId: #3220176340338606261-77-1707945060 - Holdem no limit (200/800/1600) - 2024/02/14 21:11:00 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #5 is the button
+Seat 1: SH_Zeus4690 (11652)
+Seat 2: KT-WELDER (65591)
+Seat 3: Wazz94 (113291)
+Seat 4: vdddh2s (1210)
+Seat 5: --Ermac-- (146689)
+Seat 6: P1xel7 (82132)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+SH_Zeus4690 posts ante 200
+KT-WELDER posts ante 200
+Wazz94 posts ante 200
+vdddh2s posts ante 200
+--Ermac-- posts ante 200
+P1xel7 posts small blind 800
+SH_Zeus4690 posts big blind 1600
+Dealt to P1xel7 [Qs 2s]
+*** PRE-FLOP *** 
+KT-WELDER folds
+Wazz94 raises 1600 to 3200
+vdddh2s folds
+--Ermac-- folds
+P1xel7 folds
+SH_Zeus4690 calls 1600
+*** FLOP *** [5d 9s 6c]
+SH_Zeus4690 checks
+Wazz94 bets 5460
+SH_Zeus4690 folds
+Wazz94 collected 13860 from pot
+*** SUMMARY ***
+Total pot 13860 | No rake
+Board: [5d 9s 6c]
+Seat 3: Wazz94 won 13860
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 17 - HandId: #3220176340338606261-78-1707945103 - Holdem no limit (200/800/1600) - 2024/02/14 21:11:43 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #6 is the button
+Seat 1: SH_Zeus4690 (8252)
+Seat 2: KT-WELDER (65391)
+Seat 3: Wazz94 (118291)
+Seat 4: vdddh2s (1010)
+Seat 5: --Ermac-- (146489)
+Seat 6: P1xel7 (81132)
+*** ANTE/BLINDS ***
+SH_Zeus4690 posts ante 200
+KT-WELDER posts ante 200
+Wazz94 posts ante 200
+vdddh2s posts ante 200
+--Ermac-- posts ante 200
+P1xel7 posts ante 200
+SH_Zeus4690 posts small blind 800
+KT-WELDER posts big blind 1600
+Dealt to P1xel7 [7h Kc]
+*** PRE-FLOP *** 
+Wazz94 folds
+vdddh2s folds
+--Ermac-- folds
+P1xel7 folds
+SH_Zeus4690 folds
+KT-WELDER collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 2: KT-WELDER (big blind) won 3600
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 17 - HandId: #3220176340338606261-79-1707945149 - Holdem no limit (200/800/1600) - 2024/02/14 21:12:29 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #1 is the button
+Seat 1: SH_Zeus4690 (7252)
+Seat 2: KT-WELDER (67191)
+Seat 3: Wazz94 (118091)
+Seat 4: vdddh2s (810)
+Seat 5: --Ermac-- (146289)
+Seat 6: P1xel7 (80932)
+*** ANTE/BLINDS ***
+KT-WELDER posts ante 200
+Wazz94 posts ante 200
+SH_Zeus4690 posts ante 200
+vdddh2s posts ante 200
+--Ermac-- posts ante 200
+P1xel7 posts ante 200
+KT-WELDER posts small blind 800
+Wazz94 posts big blind 1600
+Dealt to P1xel7 [5h 2c]
+*** PRE-FLOP *** 
+vdddh2s folds
+--Ermac-- folds
+P1xel7 folds
+SH_Zeus4690 folds
+KT-WELDER calls 800
+Wazz94 checks
+*** FLOP *** [3s Jh Ah]
+KT-WELDER checks
+Wazz94 checks
+*** TURN *** [3s Jh Ah][Jc]
+KT-WELDER checks
+Wazz94 checks
+*** RIVER *** [3s Jh Ah Jc][8s]
+KT-WELDER checks
+Wazz94 checks
+*** SHOW DOWN ***
+KT-WELDER shows [6s 2s] (One pair : Jacks)
+Wazz94 shows [5d 9c] (One pair : Jacks)
+Wazz94 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | No rake
+Board: [3s Jh Ah Jc 8s]
+Seat 2: KT-WELDER (small blind) showed [6s 2s] and lost with One pair : Jacks
+Seat 3: Wazz94 (big blind) showed [5d 9c] and won 4400 with One pair : Jacks
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 17 - HandId: #3220176340338606261-80-1707945179 - Holdem no limit (200/800/1600) - 2024/02/14 21:12:59 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #2 is the button
+Seat 1: SH_Zeus4690 (7052)
+Seat 2: KT-WELDER (65391)
+Seat 3: Wazz94 (120691)
+Seat 4: vdddh2s (610)
+Seat 5: --Ermac-- (146089)
+Seat 6: P1xel7 (80732)
+*** ANTE/BLINDS ***
+Wazz94 posts ante 200
+vdddh2s posts ante 200
+SH_Zeus4690 posts ante 200
+KT-WELDER posts ante 200
+--Ermac-- posts ante 200
+P1xel7 posts ante 200
+Wazz94 posts small blind 800
+vdddh2s posts big blind 410 and is all-in
+Dealt to P1xel7 [Ks Qs]
+*** PRE-FLOP *** 
+--Ermac-- folds
+P1xel7 raises 3200 to 4000
+SH_Zeus4690 folds
+KT-WELDER folds
+Wazz94 folds
+*** FLOP *** [8s Kd 5c]
+*** TURN *** [8s Kd 5c][4h]
+*** RIVER *** [8s Kd 5c 4h][Jc]
+*** SHOW DOWN ***
+vdddh2s shows [8d 5d] (Two pairs : 8 and 5)
+P1xel7 shows [Ks Qs] (One pair : Kings)
+P1xel7 collected 3980 from side pot 1
+vdddh2s collected 2430 from main pot
+*** SUMMARY ***
+Total pot 6410 | No rake
+Board: [8s Kd 5c 4h Jc]
+Seat 4: vdddh2s (big blind) showed [8d 5d] and won 2430 with Two pairs : 8 and 5
+Seat 6: P1xel7 showed [Ks Qs] and won 3980 with One pair : Kings
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 17 - HandId: #3220176340338606261-81-1707945223 - Holdem no limit (200/800/1600) - 2024/02/14 21:13:43 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #3 is the button
+Seat 1: SH_Zeus4690 (6852)
+Seat 2: KT-WELDER (65191)
+Seat 3: Wazz94 (119691)
+Seat 4: vdddh2s (2430)
+Seat 5: --Ermac-- (145889)
+Seat 6: P1xel7 (80512)
+*** ANTE/BLINDS ***
+vdddh2s posts ante 200
+--Ermac-- posts ante 200
+SH_Zeus4690 posts ante 200
+KT-WELDER posts ante 200
+Wazz94 posts ante 200
+P1xel7 posts ante 200
+vdddh2s posts small blind 800
+--Ermac-- posts big blind 1600
+Dealt to P1xel7 [7d Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+SH_Zeus4690 folds
+KT-WELDER folds
+Wazz94 raises 2400 to 4000
+vdddh2s folds
+--Ermac-- calls 2400
+*** FLOP *** [Kd 8s 6c]
+--Ermac-- checks
+Wazz94 bets 3500
+--Ermac-- folds
+Wazz94 collected 13500 from pot
+*** SUMMARY ***
+Total pot 13500 | No rake
+Board: [Kd 8s 6c]
+Seat 3: Wazz94 (button) won 13500
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 18 - HandId: #3220176340338606261-82-1707945273 - Holdem no limit (250/1000/2000) - 2024/02/14 21:14:33 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #4 is the button
+Seat 1: SH_Zeus4690 (6652)
+Seat 2: KT-WELDER (64991)
+Seat 3: Wazz94 (125491)
+Seat 4: vdddh2s (1430)
+Seat 5: --Ermac-- (141689)
+Seat 6: P1xel7 (80312)
+*** ANTE/BLINDS ***
+--Ermac-- posts ante 250
+P1xel7 posts ante 250
+SH_Zeus4690 posts ante 250
+KT-WELDER posts ante 250
+Wazz94 posts ante 250
+vdddh2s posts ante 250
+--Ermac-- posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [9d Th]
+*** PRE-FLOP *** 
+SH_Zeus4690 folds
+KT-WELDER folds
+Wazz94 folds
+vdddh2s folds
+--Ermac-- folds
+P1xel7 collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 6: P1xel7 (big blind) won 4500
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 18 - HandId: #3220176340338606261-83-1707945320 - Holdem no limit (250/1000/2000) - 2024/02/14 21:15:20 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #5 is the button
+Seat 1: SH_Zeus4690 (6402)
+Seat 2: KT-WELDER (64741)
+Seat 3: Wazz94 (125241)
+Seat 4: vdddh2s (1180)
+Seat 5: --Ermac-- (140439)
+Seat 6: P1xel7 (82562)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+SH_Zeus4690 posts ante 250
+KT-WELDER posts ante 250
+Wazz94 posts ante 250
+vdddh2s posts ante 250
+--Ermac-- posts ante 250
+P1xel7 posts small blind 1000
+SH_Zeus4690 posts big blind 2000
+Dealt to P1xel7 [2s Jh]
+*** PRE-FLOP *** 
+KT-WELDER folds
+Wazz94 folds
+vdddh2s folds
+--Ermac-- folds
+P1xel7 folds
+SH_Zeus4690 collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 1: SH_Zeus4690 (big blind) won 4500
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 18 - HandId: #3220176340338606261-84-1707945330 - Holdem no limit (250/1000/2000) - 2024/02/14 21:15:30 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #6 is the button
+Seat 1: SH_Zeus4690 (8652)
+Seat 2: KT-WELDER (64491)
+Seat 3: Wazz94 (124991)
+Seat 4: vdddh2s (930)
+Seat 5: --Ermac-- (140189)
+Seat 6: P1xel7 (81312)
+*** ANTE/BLINDS ***
+SH_Zeus4690 posts ante 250
+KT-WELDER posts ante 250
+Wazz94 posts ante 250
+vdddh2s posts ante 250
+--Ermac-- posts ante 250
+P1xel7 posts ante 250
+SH_Zeus4690 posts small blind 1000
+KT-WELDER posts big blind 2000
+Dealt to P1xel7 [5d Ad]
+*** PRE-FLOP *** 
+Wazz94 folds
+vdddh2s folds
+--Ermac-- raises 3000 to 5000
+P1xel7 calls 5000
+SH_Zeus4690 folds
+KT-WELDER raises 59241 to 64241 and is all-in
+--Ermac-- folds
+P1xel7 folds
+KT-WELDER collected 76741 from pot
+*** SUMMARY ***
+Total pot 76741 | No rake
+Seat 2: KT-WELDER (big blind) won 76741
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 18 - HandId: #3220176340338606261-85-1707945389 - Holdem no limit (250/1000/2000) - 2024/02/14 21:16:29 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0180' 6-max (real money) Seat #1 is the button
+Seat 1: SH_Zeus4690 (7402)
+Seat 2: KT-WELDER (76741)
+Seat 3: Wazz94 (124741)
+Seat 4: vdddh2s (680)
+Seat 5: --Ermac-- (134939)
+Seat 6: P1xel7 (76062)
+*** ANTE/BLINDS ***
+KT-WELDER posts ante 250
+Wazz94 posts ante 250
+SH_Zeus4690 posts ante 250
+vdddh2s posts ante 250
+--Ermac-- posts ante 250
+P1xel7 posts ante 250
+KT-WELDER posts small blind 1000
+Wazz94 posts big blind 2000
+Dealt to P1xel7 [3s 7s]
+*** PRE-FLOP *** 
+vdddh2s folds
+--Ermac-- folds
+P1xel7 folds
+SH_Zeus4690 folds
+KT-WELDER calls 1000
+Wazz94 checks
+*** FLOP *** [Jh Js 7d]
+KT-WELDER checks
+Wazz94 checks
+*** TURN *** [Jh Js 7d][6d]
+KT-WELDER bets 2000
+Wazz94 folds
+KT-WELDER collected 7500 from pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Board: [Jh Js 7d 6d]
+Seat 2: KT-WELDER (small blind) won 7500
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 18 - HandId: #3220176340338606196-98-1707945445 - Holdem no limit (250/1000/2000) - 2024/02/14 21:17:25 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #6 is the button
+Seat 1: YAYANseN (26206)
+Seat 2: Chrisss92 (26003)
+Seat 3: P1xel7 (75812)
+Seat 4: Marvin30300 (56624)
+Seat 5: intense... (39916)
+Seat 6: -Azzily- (98739)
+*** ANTE/BLINDS ***
+YAYANseN posts ante 250
+Chrisss92 posts ante 250
+P1xel7 posts ante 250
+Marvin30300 posts ante 250
+intense... posts ante 250
+-Azzily- posts ante 250
+YAYANseN posts small blind 1000
+Chrisss92 posts big blind 2000
+Dealt to P1xel7 [8h 2d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Marvin30300 calls 2000
+intense... folds
+-Azzily- folds
+YAYANseN raises 23956 to 25956 and is all-in
+Chrisss92 folds
+Marvin30300 calls 23956
+*** FLOP *** [3h Kh 7d]
+*** TURN *** [3h Kh 7d][4h]
+*** RIVER *** [3h Kh 7d 4h][Ts]
+*** SHOW DOWN ***
+YAYANseN shows [As Qc] (High card : Ace)
+Marvin30300 shows [7c 8d] (One pair : 7)
+Marvin30300 collected 55412 from pot
+*** SUMMARY ***
+Total pot 55412 | No rake
+Board: [3h Kh 7d 4h Ts]
+Seat 1: YAYANseN (small blind) showed [As Qc] and lost with High card : Ace
+Seat 4: Marvin30300 showed [7c 8d] and won 55412 with One pair : 7
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 18 - HandId: #3220176340338606196-99-1707945478 - Holdem no limit (250/1000/2000) - 2024/02/14 21:17:58 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #1 is the button
+Seat 2: Chrisss92 (23753)
+Seat 3: P1xel7 (75562)
+Seat 4: Marvin30300 (85830)
+Seat 5: intense... (39666)
+Seat 6: -Azzily- (98489)
+*** ANTE/BLINDS ***
+Chrisss92 posts ante 250
+P1xel7 posts ante 250
+Marvin30300 posts ante 250
+intense... posts ante 250
+-Azzily- posts ante 250
+Chrisss92 posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [6h 5s]
+*** PRE-FLOP *** 
+Marvin30300 calls 2000
+intense... raises 37416 to 39416 and is all-in
+-Azzily- folds
+Chrisss92 folds
+P1xel7 folds
+Marvin30300 calls 37416
+*** FLOP *** [3h Qc Js]
+*** TURN *** [3h Qc Js][Jh]
+*** RIVER *** [3h Qc Js Jh][8s]
+*** SHOW DOWN ***
+intense... shows [Kd Kh] (Two pairs : Kings and Jacks)
+Marvin30300 shows [Jd 9c] (Trips of Jacks)
+Marvin30300 collected 83082 from pot
+*** SUMMARY ***
+Total pot 83082 | No rake
+Board: [3h Qc Js Jh 8s]
+Seat 4: Marvin30300 showed [Jd 9c] and won 83082 with Trips of Jacks
+Seat 5: intense... showed [Kd Kh] and lost with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 19 - HandId: #3220176340338606196-100-1707945508 - Holdem no limit (300/1250/2500) - 2024/02/14 21:18:28 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #2 is the button
+Seat 2: Chrisss92 (22503)
+Seat 3: P1xel7 (73312)
+Seat 4: Marvin30300 (129246)
+Seat 6: -Azzily- (98239)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+Marvin30300 posts ante 300
+Chrisss92 posts ante 300
+-Azzily- posts ante 300
+P1xel7 posts small blind 1250
+Marvin30300 posts big blind 2500
+Dealt to P1xel7 [8c 7d]
+*** PRE-FLOP *** 
+-Azzily- folds
+Chrisss92 raises 19703 to 22203 and is all-in
+P1xel7 folds
+Marvin30300 folds
+Chrisss92 collected 27153 from pot
+*** SUMMARY ***
+Total pot 27153 | No rake
+Seat 2: Chrisss92 (button) won 27153
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 19 - HandId: #3220176340338606196-101-1707945524 - Holdem no limit (300/1250/2500) - 2024/02/14 21:18:44 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #3 is the button
+Seat 1: LaBilouteX (65793)
+Seat 2: Chrisss92 (27153)
+Seat 3: P1xel7 (71762)
+Seat 4: Marvin30300 (126446)
+Seat 5: LDeejer (36622)
+Seat 6: -Azzily- (97939)
+*** ANTE/BLINDS ***
+Marvin30300 posts ante 300
+LDeejer posts ante 300
+LaBilouteX posts ante 300
+Chrisss92 posts ante 300
+P1xel7 posts ante 300
+-Azzily- posts ante 300
+Marvin30300 posts small blind 1250
+LDeejer posts big blind 2500
+Dealt to P1xel7 [5c 2h]
+*** PRE-FLOP *** 
+-Azzily- folds
+LaBilouteX calls 2500
+Chrisss92 folds
+P1xel7 folds
+Marvin30300 calls 1250
+LDeejer checks
+*** FLOP *** [Kd As 5d]
+Marvin30300 bets 3255
+LDeejer folds
+LaBilouteX folds
+Marvin30300 collected 12555 from pot
+*** SUMMARY ***
+Total pot 12555 | No rake
+Board: [Kd As 5d]
+Seat 4: Marvin30300 (small blind) won 12555
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 19 - HandId: #3220176340338606196-102-1707945577 - Holdem no limit (300/1250/2500) - 2024/02/14 21:19:37 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #4 is the button
+Seat 1: LaBilouteX (62993)
+Seat 2: Chrisss92 (26853)
+Seat 3: P1xel7 (71462)
+Seat 4: Marvin30300 (132946)
+Seat 5: LDeejer (33822)
+Seat 6: -Azzily- (97639)
+*** ANTE/BLINDS ***
+LDeejer posts ante 300
+-Azzily- posts ante 300
+LaBilouteX posts ante 300
+Chrisss92 posts ante 300
+P1xel7 posts ante 300
+Marvin30300 posts ante 300
+LDeejer posts small blind 1250
+-Azzily- posts big blind 2500
+Dealt to P1xel7 [3s 9s]
+*** PRE-FLOP *** 
+LaBilouteX calls 2500
+Chrisss92 raises 24053 to 26553 and is all-in
+P1xel7 folds
+Marvin30300 folds
+LDeejer folds
+-Azzily- folds
+LaBilouteX calls 24053
+*** FLOP *** [Qc 5h Qd]
+*** TURN *** [Qc 5h Qd][Qs]
+*** RIVER *** [Qc 5h Qd Qs][6h]
+*** SHOW DOWN ***
+LaBilouteX shows [Td Kc] (Trips of Queens)
+Chrisss92 shows [5s Ah] (Full of Queens and 5)
+Chrisss92 collected 58656 from pot
+*** SUMMARY ***
+Total pot 58656 | No rake
+Board: [Qc 5h Qd Qs 6h]
+Seat 1: LaBilouteX showed [Td Kc] and lost with Trips of Queens
+Seat 2: Chrisss92 showed [5s Ah] and won 58656 with Full of Queens and 5
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 19 - HandId: #3220176340338606196-103-1707945631 - Holdem no limit (300/1250/2500) - 2024/02/14 21:20:31 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #5 is the button
+Seat 1: LaBilouteX (36140)
+Seat 2: Chrisss92 (58656)
+Seat 3: P1xel7 (71162)
+Seat 4: Marvin30300 (132646)
+Seat 5: LDeejer (32272)
+Seat 6: -Azzily- (94839)
+*** ANTE/BLINDS ***
+-Azzily- posts ante 300
+LaBilouteX posts ante 300
+Chrisss92 posts ante 300
+P1xel7 posts ante 300
+Marvin30300 posts ante 300
+LDeejer posts ante 300
+-Azzily- posts small blind 1250
+LaBilouteX posts big blind 2500
+Dealt to P1xel7 [Jc Td]
+*** PRE-FLOP *** 
+Chrisss92 folds
+P1xel7 raises 2500 to 5000
+Marvin30300 calls 5000
+LDeejer folds
+-Azzily- folds
+LaBilouteX calls 2500
+*** FLOP *** [2d 9h 7c]
+LaBilouteX checks
+P1xel7 checks
+Marvin30300 checks
+*** TURN *** [2d 9h 7c][8s]
+LaBilouteX bets 30840 and is all-in
+P1xel7 calls 30840
+Marvin30300 folds
+*** RIVER *** [2d 9h 7c 8s][5d]
+*** SHOW DOWN ***
+LaBilouteX shows [5h Th] (One pair : 5)
+P1xel7 shows [Jc Td] (Straight Jack high)
+P1xel7 collected 79730 from pot
+*** SUMMARY ***
+Total pot 79730 | No rake
+Board: [2d 9h 7c 8s 5d]
+Seat 1: LaBilouteX (big blind) showed [5h Th] and lost with One pair : 5
+Seat 3: P1xel7 showed [Jc Td] and won 79730 with Straight Jack high
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 19 - HandId: #3220176340338606196-104-1707945702 - Holdem no limit (300/1250/2500) - 2024/02/14 21:21:42 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #6 is the button
+Seat 2: Chrisss92 (58356)
+Seat 3: P1xel7 (114752)
+Seat 4: Marvin30300 (127346)
+Seat 5: LDeejer (31972)
+Seat 6: -Azzily- (93289)
+*** ANTE/BLINDS ***
+Chrisss92 posts ante 300
+P1xel7 posts ante 300
+Marvin30300 posts ante 300
+LDeejer posts ante 300
+-Azzily- posts ante 300
+Chrisss92 posts big blind 2500
+Dealt to P1xel7 [7h 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Marvin30300 raises 5000 to 7500
+LDeejer raises 24172 to 31672 and is all-in
+-Azzily- folds
+Chrisss92 folds
+Marvin30300 calls 24172
+*** FLOP *** [8d 9c Jh]
+*** TURN *** [8d 9c Jh][2d]
+*** RIVER *** [8d 9c Jh 2d][7s]
+*** SHOW DOWN ***
+Marvin30300 shows [Ts Ad] (Straight Jack high)
+LDeejer shows [Qc Tc] (Straight Queen high)
+LDeejer collected 67344 from pot
+*** SUMMARY ***
+Total pot 67344 | No rake
+Board: [8d 9c Jh 2d 7s]
+Seat 4: Marvin30300 showed [Ts Ad] and lost with Straight Jack high
+Seat 5: LDeejer showed [Qc Tc] and won 67344 with Straight Queen high
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 19 - HandId: #3220176340338606196-105-1707945742 - Holdem no limit (300/1250/2500) - 2024/02/14 21:22:22 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #1 is the button
+Seat 2: Chrisss92 (55556)
+Seat 3: P1xel7 (114452)
+Seat 4: Marvin30300 (95374)
+Seat 5: LDeejer (67344)
+Seat 6: -Azzily- (92989)
+*** ANTE/BLINDS ***
+Chrisss92 posts ante 300
+P1xel7 posts ante 300
+Marvin30300 posts ante 300
+LDeejer posts ante 300
+-Azzily- posts ante 300
+Chrisss92 posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [8c Kh]
+*** PRE-FLOP *** 
+Marvin30300 folds
+LDeejer folds
+-Azzily- folds
+Chrisss92 folds
+P1xel7 collected 5250 from pot
+*** SUMMARY ***
+Total pot 5250 | No rake
+Seat 3: P1xel7 (big blind) won 5250
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 20 - HandId: #3220176340338606196-106-1707945767 - Holdem no limit (350/1500/3000) - 2024/02/14 21:22:47 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #2 is the button
+Seat 2: Chrisss92 (54006)
+Seat 3: P1xel7 (116902)
+Seat 4: Marvin30300 (95074)
+Seat 5: LDeejer (67044)
+Seat 6: -Azzily- (92689)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+Marvin30300 posts ante 350
+Chrisss92 posts ante 350
+LDeejer posts ante 350
+-Azzily- posts ante 350
+P1xel7 posts small blind 1500
+Marvin30300 posts big blind 3000
+Dealt to P1xel7 [Qs 4s]
+*** PRE-FLOP *** 
+LDeejer folds
+-Azzily- folds
+Chrisss92 folds
+P1xel7 folds
+Marvin30300 collected 6250 from pot
+*** SUMMARY ***
+Total pot 6250 | No rake
+Seat 4: Marvin30300 (big blind) won 6250
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 20 - HandId: #3220176340338606196-107-1707945801 - Holdem no limit (350/1500/3000) - 2024/02/14 21:23:21 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #3 is the button
+Seat 1: JhoYeuuu (31936)
+Seat 2: Chrisss92 (53656)
+Seat 3: P1xel7 (115052)
+Seat 4: Marvin30300 (97974)
+Seat 5: LDeejer (66694)
+Seat 6: -Azzily- (92339)
+*** ANTE/BLINDS ***
+Marvin30300 posts ante 350
+LDeejer posts ante 350
+JhoYeuuu posts ante 350
+Chrisss92 posts ante 350
+P1xel7 posts ante 350
+-Azzily- posts ante 350
+Marvin30300 posts small blind 1500
+LDeejer posts big blind 3000
+Dealt to P1xel7 [Th 6h]
+*** PRE-FLOP *** 
+-Azzily- folds
+JhoYeuuu folds
+Chrisss92 folds
+P1xel7 folds
+Marvin30300 calls 1500
+LDeejer raises 6000 to 9000
+Marvin30300 calls 6000
+*** FLOP *** [Jc Kd 5d]
+Marvin30300 checks
+LDeejer bets 7035
+Marvin30300 raises 81589 to 88624 and is all-in
+LDeejer calls 50309 and is all-in
+*** TURN *** [Jc Kd 5d][Ad]
+*** RIVER *** [Jc Kd 5d Ad][8h]
+*** SHOW DOWN ***
+LDeejer shows [Js As] (Two pairs : Aces and Jacks)
+Marvin30300 shows [Td 3d] (Flush Ace high)
+Marvin30300 collected 166068 from pot
+*** SUMMARY ***
+Total pot 166068 | No rake
+Board: [Jc Kd 5d Ad 8h]
+Seat 4: Marvin30300 (small blind) showed [Td 3d] and won 166068 with Flush Ace high
+Seat 5: LDeejer (big blind) showed [Js As] and lost with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 20 - HandId: #3220176340338606196-108-1707945831 - Holdem no limit (350/1500/3000) - 2024/02/14 21:23:51 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #4 is the button
+Seat 1: JhoYeuuu (31586)
+Seat 2: Chrisss92 (53306)
+Seat 3: P1xel7 (114702)
+Seat 4: Marvin30300 (166068)
+Seat 6: -Azzily- (91989)
+*** ANTE/BLINDS ***
+-Azzily- posts ante 350
+JhoYeuuu posts ante 350
+Chrisss92 posts ante 350
+P1xel7 posts ante 350
+Marvin30300 posts ante 350
+-Azzily- posts big blind 3000
+Dealt to P1xel7 [Ad Kc]
+*** PRE-FLOP *** 
+JhoYeuuu folds
+Chrisss92 folds
+P1xel7 raises 3600 to 6600
+Marvin30300 calls 6600
+-Azzily- folds
+*** FLOP *** [2s 9c 8s]
+P1xel7 bets 6283
+Marvin30300 calls 6283
+*** TURN *** [2s 9c 8s][Ks]
+P1xel7 bets 10681
+Marvin30300 calls 10681
+*** RIVER *** [2s 9c 8s Ks][8d]
+P1xel7 bets 12970
+Marvin30300 calls 12970
+*** SHOW DOWN ***
+Marvin30300 shows [6c 6s] (Two pairs : 8 and 6)
+P1xel7 shows [Ad Kc] (Two pairs : Kings and 8)
+P1xel7 collected 77818 from pot
+*** SUMMARY ***
+Total pot 77818 | No rake
+Board: [2s 9c 8s Ks 8d]
+Seat 3: P1xel7 showed [Ad Kc] and won 77818 with Two pairs : Kings and 8
+Seat 4: Marvin30300 (button) showed [6c 6s] and lost with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 20 - HandId: #3220176340338606196-109-1707945886 - Holdem no limit (350/1500/3000) - 2024/02/14 21:24:46 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #5 is the button
+Seat 1: JhoYeuuu (31236)
+Seat 2: Chrisss92 (52956)
+Seat 3: P1xel7 (155636)
+Seat 4: Marvin30300 (129184)
+Seat 5: OeildeBitch (41774)
+Seat 6: -Azzily- (88639)
+*** ANTE/BLINDS ***
+-Azzily- posts ante 350
+JhoYeuuu posts ante 350
+Chrisss92 posts ante 350
+P1xel7 posts ante 350
+Marvin30300 posts ante 350
+-Azzily- posts small blind 1500
+JhoYeuuu posts big blind 3000
+Dealt to P1xel7 [4d 6d]
+*** PRE-FLOP *** 
+Chrisss92 folds
+P1xel7 folds
+Marvin30300 calls 3000
+-Azzily- raises 85289 to 88289 and is all-in
+JhoYeuuu folds
+Marvin30300 folds
+-Azzily- collected 96039 from pot
+*** SUMMARY ***
+Total pot 96039 | No rake
+Seat 6: -Azzily- (small blind) won 96039
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 20 - HandId: #3220176340338606196-110-1707945905 - Holdem no limit (350/1500/3000) - 2024/02/14 21:25:05 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #6 is the button
+Seat 1: JhoYeuuu (27886)
+Seat 2: Chrisss92 (52606)
+Seat 3: P1xel7 (155286)
+Seat 4: Marvin30300 (125834)
+Seat 5: OeildeBitch (41774)
+Seat 6: -Azzily- (96039)
+*** ANTE/BLINDS ***
+JhoYeuuu posts ante 350
+Chrisss92 posts ante 350
+P1xel7 posts ante 350
+Marvin30300 posts ante 350
+OeildeBitch posts ante 350
+-Azzily- posts ante 350
+JhoYeuuu posts small blind 1500
+Chrisss92 posts big blind 3000
+Dealt to P1xel7 [8c Ks]
+*** PRE-FLOP *** 
+P1xel7 folds
+Marvin30300 folds
+OeildeBitch raises 7500 to 10500
+-Azzily- folds
+JhoYeuuu folds
+Chrisss92 folds
+OeildeBitch collected 17100 from pot
+*** SUMMARY ***
+Total pot 17100 | No rake
+Seat 5: OeildeBitch won 17100
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 20 - HandId: #3220176340338606196-111-1707945929 - Holdem no limit (350/1500/3000) - 2024/02/14 21:25:29 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #1 is the button
+Seat 1: JhoYeuuu (26036)
+Seat 2: Chrisss92 (49256)
+Seat 3: P1xel7 (154936)
+Seat 4: Marvin30300 (125484)
+Seat 5: OeildeBitch (48024)
+Seat 6: -Azzily- (95689)
+*** ANTE/BLINDS ***
+Chrisss92 posts ante 350
+P1xel7 posts ante 350
+JhoYeuuu posts ante 350
+Marvin30300 posts ante 350
+OeildeBitch posts ante 350
+-Azzily- posts ante 350
+Chrisss92 posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [Qd 7s]
+*** PRE-FLOP *** 
+Marvin30300 calls 3000
+OeildeBitch calls 3000
+-Azzily- folds
+JhoYeuuu folds
+Chrisss92 folds
+P1xel7 checks
+*** FLOP *** [8c Jc 6d]
+P1xel7 checks
+Marvin30300 checks
+OeildeBitch checks
+*** TURN *** [8c Jc 6d][Ks]
+P1xel7 checks
+Marvin30300 checks
+OeildeBitch checks
+*** RIVER *** [8c Jc 6d Ks][Kc]
+P1xel7 checks
+Marvin30300 checks
+OeildeBitch checks
+*** SHOW DOWN ***
+P1xel7 shows [Qd 7s] (One pair : Kings)
+Marvin30300 shows [Ts 2s] (One pair : Kings)
+OeildeBitch shows [6s 7d] (Two pairs : Kings and 6)
+OeildeBitch collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Board: [8c Jc 6d Ks Kc]
+Seat 3: P1xel7 (big blind) showed [Qd 7s] and lost with One pair : Kings
+Seat 4: Marvin30300 showed [Ts 2s] and lost with One pair : Kings
+Seat 5: OeildeBitch showed [6s 7d] and won 12600 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 21 - HandId: #3220176340338606196-112-1707946064 - Holdem no limit (400/1750/3500) - 2024/02/14 21:27:44 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #2 is the button
+Seat 1: JhoYeuuu (25686)
+Seat 2: Chrisss92 (47406)
+Seat 3: P1xel7 (151586)
+Seat 4: Marvin30300 (122134)
+Seat 5: OeildeBitch (57274)
+Seat 6: -Azzily- (95339)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+Marvin30300 posts ante 400
+JhoYeuuu posts ante 400
+Chrisss92 posts ante 400
+OeildeBitch posts ante 400
+-Azzily- posts ante 400
+P1xel7 posts small blind 1750
+Marvin30300 posts big blind 3500
+Dealt to P1xel7 [Qs Kd]
+*** PRE-FLOP *** 
+OeildeBitch calls 3500
+-Azzily- folds
+JhoYeuuu folds
+Chrisss92 folds
+P1xel7 raises 14000 to 17500
+Marvin30300 folds
+OeildeBitch folds
+P1xel7 collected 26900 from pot
+*** SUMMARY ***
+Total pot 26900 | No rake
+Seat 3: P1xel7 (small blind) won 26900
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 21 - HandId: #3220176340338606196-113-1707946100 - Holdem no limit (400/1750/3500) - 2024/02/14 21:28:20 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #3 is the button
+Seat 1: JhoYeuuu (25286)
+Seat 2: Chrisss92 (47006)
+Seat 3: P1xel7 (160586)
+Seat 4: Marvin30300 (118234)
+Seat 5: OeildeBitch (53374)
+Seat 6: -Azzily- (94939)
+*** ANTE/BLINDS ***
+Marvin30300 posts ante 400
+OeildeBitch posts ante 400
+JhoYeuuu posts ante 400
+Chrisss92 posts ante 400
+P1xel7 posts ante 400
+-Azzily- posts ante 400
+Marvin30300 posts small blind 1750
+OeildeBitch posts big blind 3500
+Dealt to P1xel7 [Td 3h]
+*** PRE-FLOP *** 
+-Azzily- folds
+JhoYeuuu folds
+Chrisss92 folds
+P1xel7 folds
+Marvin30300 raises 9400 to 12900
+OeildeBitch folds
+Marvin30300 collected 18800 from pot
+*** SUMMARY ***
+Total pot 18800 | No rake
+Seat 4: Marvin30300 (small blind) won 18800
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 21 - HandId: #3220176340338606196-114-1707946129 - Holdem no limit (400/1750/3500) - 2024/02/14 21:28:49 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #4 is the button
+Seat 1: JhoYeuuu (24886)
+Seat 2: Chrisss92 (46606)
+Seat 3: P1xel7 (160186)
+Seat 4: Marvin30300 (123734)
+Seat 5: OeildeBitch (49474)
+Seat 6: -Azzily- (94539)
+*** ANTE/BLINDS ***
+OeildeBitch posts ante 400
+-Azzily- posts ante 400
+JhoYeuuu posts ante 400
+Chrisss92 posts ante 400
+P1xel7 posts ante 400
+Marvin30300 posts ante 400
+OeildeBitch posts small blind 1750
+-Azzily- posts big blind 3500
+Dealt to P1xel7 [Jd Ac]
+*** PRE-FLOP *** 
+JhoYeuuu folds
+Chrisss92 folds
+P1xel7 raises 4200 to 7700
+Marvin30300 folds
+OeildeBitch folds
+-Azzily- folds
+P1xel7 collected 15350 from pot
+*** SUMMARY ***
+Total pot 15350 | No rake
+Seat 3: P1xel7 won 15350
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 21 - HandId: #3220176340338606196-115-1707946185 - Holdem no limit (400/1750/3500) - 2024/02/14 21:29:45 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #5 is the button
+Seat 1: JhoYeuuu (24486)
+Seat 2: Chrisss92 (46206)
+Seat 3: P1xel7 (167436)
+Seat 4: Marvin30300 (123334)
+Seat 5: OeildeBitch (47324)
+Seat 6: -Azzily- (90639)
+*** ANTE/BLINDS ***
+-Azzily- posts ante 400
+JhoYeuuu posts ante 400
+Chrisss92 posts ante 400
+P1xel7 posts ante 400
+Marvin30300 posts ante 400
+OeildeBitch posts ante 400
+-Azzily- posts small blind 1750
+JhoYeuuu posts big blind 3500
+Dealt to P1xel7 [7d 3c]
+*** PRE-FLOP *** 
+Chrisss92 folds
+P1xel7 folds
+Marvin30300 folds
+OeildeBitch folds
+-Azzily- folds
+JhoYeuuu collected 7650 from pot
+*** SUMMARY ***
+Total pot 7650 | No rake
+Seat 1: JhoYeuuu (big blind) won 7650
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 21 - HandId: #3220176340338606196-116-1707946213 - Holdem no limit (400/1750/3500) - 2024/02/14 21:30:13 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #6 is the button
+Seat 1: JhoYeuuu (28236)
+Seat 2: Chrisss92 (45806)
+Seat 3: P1xel7 (167036)
+Seat 4: Marvin30300 (122934)
+Seat 5: OeildeBitch (46924)
+Seat 6: -Azzily- (88489)
+*** ANTE/BLINDS ***
+JhoYeuuu posts ante 400
+Chrisss92 posts ante 400
+P1xel7 posts ante 400
+Marvin30300 posts ante 400
+OeildeBitch posts ante 400
+-Azzily- posts ante 400
+JhoYeuuu posts small blind 1750
+Chrisss92 posts big blind 3500
+Dealt to P1xel7 [Kh 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Marvin30300 raises 3500 to 7000
+OeildeBitch calls 7000
+-Azzily- calls 7000
+JhoYeuuu raises 20836 to 27836 and is all-in
+Chrisss92 folds
+Marvin30300 raises 94698 to 122534 and is all-in
+OeildeBitch calls 39524 and is all-in
+-Azzily- folds
+*** FLOP *** [Tc 3h 7c]
+*** TURN *** [Tc 3h 7c][7s]
+*** RIVER *** [Tc 3h 7c 7s][Td]
+*** SHOW DOWN ***
+JhoYeuuu shows [As Qs] (Two pairs : Tens and 7)
+Marvin30300 shows [5c Ac] (Two pairs : Tens and 7)
+OeildeBitch shows [3d 3s] (Full of 3 and Tens)
+OeildeBitch collected 133784 from main pot
+Marvin30300 collected 76010 from side pot 1
+*** SUMMARY ***
+Total pot 209794 | No rake
+Board: [Tc 3h 7c 7s Td]
+Seat 1: JhoYeuuu (small blind) showed [As Qs] and lost with Two pairs : Tens and 7
+Seat 4: Marvin30300 showed [5c Ac] and won 76010 with Two pairs : Tens and 7
+Seat 5: OeildeBitch showed [3d 3s] and won 133784 with Full of 3 and Tens
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 22 - HandId: #3220176340338606196-117-1707946267 - Holdem no limit (500/2000/4000) - 2024/02/14 21:31:07 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0115' 6-max (real money) Seat #1 is the button
+Seat 2: Chrisss92 (41906)
+Seat 3: P1xel7 (166636)
+Seat 4: Marvin30300 (76010)
+Seat 5: OeildeBitch (133784)
+Seat 6: -Azzily- (81089)
+*** ANTE/BLINDS ***
+Chrisss92 posts ante 500
+P1xel7 posts ante 500
+Marvin30300 posts ante 500
+OeildeBitch posts ante 500
+-Azzily- posts ante 500
+Chrisss92 posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [6h 4d]
+*** PRE-FLOP *** 
+Marvin30300 folds
+OeildeBitch folds
+-Azzily- folds
+Chrisss92 calls 2000
+P1xel7 checks
+*** FLOP *** [9s 8c Th]
+Chrisss92 checks
+P1xel7 bets 4000
+Chrisss92 raises 18500 to 22500
+P1xel7 folds
+Chrisss92 collected 37000 from pot
+*** SUMMARY ***
+Total pot 37000 | No rake
+Board: [9s 8c Th]
+Seat 2: Chrisss92 (small blind) won 37000
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 22 - HandId: #3220176340338606186-112-1707946361 - Holdem no limit (500/2000/4000) - 2024/02/14 21:32:41 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0105' 6-max (real money) Seat #1 is the button
+Seat 1: Le_Youb (47001)
+Seat 2: Frazeraxekr (183049)
+Seat 3: --Ermac-- (111164)
+Seat 4: matpoker34 (269143)
+Seat 5: Mr.Zombie (65340)
+Seat 6: P1xel7 (158136)
+*** ANTE/BLINDS ***
+Frazeraxekr posts ante 500
+--Ermac-- posts ante 500
+Le_Youb posts ante 500
+matpoker34 posts ante 500
+Mr.Zombie posts ante 500
+P1xel7 posts ante 500
+Frazeraxekr posts small blind 2000
+--Ermac-- posts big blind 4000
+Dealt to P1xel7 [9d 7h]
+*** PRE-FLOP *** 
+matpoker34 folds
+Mr.Zombie folds
+P1xel7 folds
+Le_Youb folds
+Frazeraxekr folds
+--Ermac-- collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 3: --Ermac-- (big blind) won 9000
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 22 - HandId: #3220176340338606186-113-1707946381 - Holdem no limit (500/2000/4000) - 2024/02/14 21:33:01 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0105' 6-max (real money) Seat #2 is the button
+Seat 1: Le_Youb (46501)
+Seat 2: Frazeraxekr (180549)
+Seat 3: --Ermac-- (115664)
+Seat 4: matpoker34 (268643)
+Seat 5: Mr.Zombie (64840)
+Seat 6: P1xel7 (157636)
+*** ANTE/BLINDS ***
+--Ermac-- posts ante 500
+matpoker34 posts ante 500
+Le_Youb posts ante 500
+Frazeraxekr posts ante 500
+Mr.Zombie posts ante 500
+P1xel7 posts ante 500
+--Ermac-- posts small blind 2000
+matpoker34 posts big blind 4000
+Dealt to P1xel7 [6h 9c]
+*** PRE-FLOP *** 
+Mr.Zombie folds
+P1xel7 folds
+Le_Youb folds
+Frazeraxekr folds
+--Ermac-- calls 2000
+matpoker34 checks
+*** FLOP *** [Ad 4c 3d]
+--Ermac-- bets 4000
+matpoker34 folds
+--Ermac-- collected 15000 from pot
+*** SUMMARY ***
+Total pot 15000 | No rake
+Board: [Ad 4c 3d]
+Seat 3: --Ermac-- (small blind) won 15000
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 22 - HandId: #3220176340338606186-114-1707946402 - Holdem no limit (500/2000/4000) - 2024/02/14 21:33:22 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0105' 6-max (real money) Seat #3 is the button
+Seat 1: Le_Youb (46001)
+Seat 2: Frazeraxekr (180049)
+Seat 3: --Ermac-- (122164)
+Seat 4: matpoker34 (264143)
+Seat 5: Mr.Zombie (64340)
+Seat 6: P1xel7 (157136)
+*** ANTE/BLINDS ***
+matpoker34 posts ante 500
+Mr.Zombie posts ante 500
+Le_Youb posts ante 500
+Frazeraxekr posts ante 500
+--Ermac-- posts ante 500
+P1xel7 posts ante 500
+matpoker34 posts small blind 2000
+Mr.Zombie posts big blind 4000
+Dealt to P1xel7 [6c Ah]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le_Youb folds
+Frazeraxekr calls 4000
+--Ermac-- folds
+matpoker34 calls 2000
+Mr.Zombie checks
+*** FLOP *** [3d 3s Td]
+matpoker34 checks
+Mr.Zombie checks
+Frazeraxekr checks
+*** TURN *** [3d 3s Td][Tc]
+matpoker34 checks
+Mr.Zombie checks
+Frazeraxekr checks
+*** RIVER *** [3d 3s Td Tc][5s]
+matpoker34 checks
+Mr.Zombie checks
+Frazeraxekr checks
+*** SHOW DOWN ***
+matpoker34 shows [6d 4d] (Two pairs : Tens and 3)
+Mr.Zombie shows [7h 4c] (Two pairs : Tens and 3)
+Frazeraxekr shows [Kd 8d] (Two pairs : Tens and 3)
+Frazeraxekr collected 15000 from pot
+*** SUMMARY ***
+Total pot 15000 | No rake
+Board: [3d 3s Td Tc 5s]
+Seat 2: Frazeraxekr showed [Kd 8d] and won 15000 with Two pairs : Tens and 3
+Seat 4: matpoker34 (small blind) showed [6d 4d] and lost with Two pairs : Tens and 3
+Seat 5: Mr.Zombie (big blind) showed [7h 4c] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 22 - HandId: #3220176340338606186-115-1707946453 - Holdem no limit (500/2000/4000) - 2024/02/14 21:34:13 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0105' 6-max (real money) Seat #4 is the button
+Seat 1: Le_Youb (45501)
+Seat 2: Frazeraxekr (190549)
+Seat 3: --Ermac-- (121664)
+Seat 4: matpoker34 (259643)
+Seat 5: Mr.Zombie (59840)
+Seat 6: P1xel7 (156636)
+*** ANTE/BLINDS ***
+Mr.Zombie posts ante 500
+P1xel7 posts ante 500
+Le_Youb posts ante 500
+Frazeraxekr posts ante 500
+--Ermac-- posts ante 500
+matpoker34 posts ante 500
+Mr.Zombie posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [Kc 8d]
+*** PRE-FLOP *** 
+Le_Youb raises 41001 to 45001 and is all-in
+Frazeraxekr folds
+--Ermac-- folds
+matpoker34 folds
+Mr.Zombie folds
+P1xel7 folds
+Le_Youb collected 54001 from pot
+*** SUMMARY ***
+Total pot 54001 | No rake
+Seat 1: Le_Youb won 54001
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 23 - HandId: #3220176340338606186-116-1707946476 - Holdem no limit (600/2500/5000) - 2024/02/14 21:34:36 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0105' 6-max (real money) Seat #5 is the button
+Seat 1: Le_Youb (54001)
+Seat 2: Frazeraxekr (190049)
+Seat 3: --Ermac-- (121164)
+Seat 4: matpoker34 (259143)
+Seat 5: Mr.Zombie (57340)
+Seat 6: P1xel7 (152136)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 600
+Le_Youb posts ante 600
+Frazeraxekr posts ante 600
+--Ermac-- posts ante 600
+matpoker34 posts ante 600
+Mr.Zombie posts ante 600
+P1xel7 posts small blind 2500
+Le_Youb posts big blind 5000
+Dealt to P1xel7 [8c Qh]
+*** PRE-FLOP *** 
+Frazeraxekr folds
+--Ermac-- folds
+matpoker34 calls 5000
+Mr.Zombie folds
+P1xel7 folds
+Le_Youb checks
+*** FLOP *** [6s 6h Td]
+Le_Youb checks
+matpoker34 bets 16100
+Le_Youb folds
+matpoker34 collected 32200 from pot
+*** SUMMARY ***
+Total pot 32200 | No rake
+Board: [6s 6h Td]
+Seat 4: matpoker34 won 32200
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 23 - HandId: #3220176340338606186-117-1707946522 - Holdem no limit (600/2500/5000) - 2024/02/14 21:35:22 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0105' 6-max (real money) Seat #6 is the button
+Seat 1: Le_Youb (48401)
+Seat 2: Frazeraxekr (189449)
+Seat 3: --Ermac-- (120564)
+Seat 4: matpoker34 (269643)
+Seat 5: Mr.Zombie (56740)
+Seat 6: P1xel7 (149036)
+*** ANTE/BLINDS ***
+Le_Youb posts ante 600
+Frazeraxekr posts ante 600
+--Ermac-- posts ante 600
+matpoker34 posts ante 600
+Mr.Zombie posts ante 600
+P1xel7 posts ante 600
+Le_Youb posts small blind 2500
+Frazeraxekr posts big blind 5000
+Dealt to P1xel7 [2h 2s]
+*** PRE-FLOP *** 
+--Ermac-- folds
+matpoker34 calls 5000
+Mr.Zombie folds
+P1xel7 raises 15000 to 20000
+Le_Youb folds
+Frazeraxekr folds
+matpoker34 folds
+P1xel7 collected 36100 from pot
+*** SUMMARY ***
+Total pot 36100 | No rake
+Seat 6: P1xel7 (button) won 36100
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 23 - HandId: #3220176340338606095-160-1707946596 - Holdem no limit (600/2500/5000) - 2024/02/14 21:36:36 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #4 is the button
+Seat 1: vichna (157899)
+Seat 2: P1xel7 (164536)
+Seat 3: TaupeKicker (320531)
+Seat 4: Onebeer (372533)
+Seat 5: .Fiyah. (299843)
+Seat 6: YOMOB (165290)
+*** ANTE/BLINDS ***
+.Fiyah. posts ante 600
+YOMOB posts ante 600
+vichna posts ante 600
+P1xel7 posts ante 600
+TaupeKicker posts ante 600
+Onebeer posts ante 600
+.Fiyah. posts small blind 2500
+YOMOB posts big blind 5000
+Dealt to P1xel7 [6h 3h]
+*** PRE-FLOP *** 
+vichna raises 5000 to 10000
+P1xel7 folds
+TaupeKicker folds
+Onebeer folds
+.Fiyah. folds
+YOMOB folds
+vichna collected 21100 from pot
+*** SUMMARY ***
+Total pot 21100 | No rake
+Seat 1: vichna won 21100
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 23 - HandId: #3220176340338606095-161-1707946619 - Holdem no limit (600/2500/5000) - 2024/02/14 21:36:59 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #5 is the button
+Seat 1: vichna (168399)
+Seat 2: P1xel7 (163936)
+Seat 3: TaupeKicker (319931)
+Seat 4: Onebeer (371933)
+Seat 5: .Fiyah. (296743)
+Seat 6: YOMOB (159690)
+*** ANTE/BLINDS ***
+YOMOB posts ante 600
+vichna posts ante 600
+P1xel7 posts ante 600
+TaupeKicker posts ante 600
+Onebeer posts ante 600
+.Fiyah. posts ante 600
+YOMOB posts small blind 2500
+vichna posts big blind 5000
+Dealt to P1xel7 [4c Ad]
+*** PRE-FLOP *** 
+P1xel7 folds
+TaupeKicker raises 5000 to 10000
+Onebeer folds
+.Fiyah. calls 10000
+YOMOB folds
+vichna calls 5000
+*** FLOP *** [Jc 6c Qd]
+vichna checks
+TaupeKicker checks
+.Fiyah. bets 18050
+vichna folds
+TaupeKicker folds
+.Fiyah. collected 54150 from pot
+*** SUMMARY ***
+Total pot 54150 | No rake
+Board: [Jc 6c Qd]
+Seat 5: .Fiyah. (button) won 54150
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 23 - HandId: #3220176340338606095-162-1707946696 - Holdem no limit (600/2500/5000) - 2024/02/14 21:38:16 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #6 is the button
+Seat 1: vichna (157799)
+Seat 2: P1xel7 (163336)
+Seat 3: TaupeKicker (309331)
+Seat 4: Onebeer (371333)
+Seat 5: .Fiyah. (322243)
+Seat 6: YOMOB (156590)
+*** ANTE/BLINDS ***
+vichna posts ante 600
+P1xel7 posts ante 600
+TaupeKicker posts ante 600
+Onebeer posts ante 600
+.Fiyah. posts ante 600
+YOMOB posts ante 600
+vichna posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [Th 8c]
+*** PRE-FLOP *** 
+TaupeKicker raises 7500 to 12500
+Onebeer folds
+.Fiyah. folds
+YOMOB calls 12500
+vichna folds
+P1xel7 calls 7500
+*** FLOP *** [6h 3h 2d]
+P1xel7 checks
+TaupeKicker bets 21800
+YOMOB folds
+P1xel7 calls 21800
+*** TURN *** [6h 3h 2d][Kh]
+P1xel7 checks
+TaupeKicker bets 43600
+P1xel7 folds
+TaupeKicker collected 130800 from pot
+*** SUMMARY ***
+Total pot 130800 | No rake
+Board: [6h 3h 2d Kh]
+Seat 3: TaupeKicker won 130800
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 24 - HandId: #3220176340338606095-163-1707946764 - Holdem no limit (700/3000/6000) - 2024/02/14 21:39:24 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #1 is the button
+Seat 1: vichna (154699)
+Seat 2: P1xel7 (128436)
+Seat 3: TaupeKicker (361631)
+Seat 4: Onebeer (370733)
+Seat 5: .Fiyah. (321643)
+Seat 6: YOMOB (143490)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 700
+TaupeKicker posts ante 700
+vichna posts ante 700
+Onebeer posts ante 700
+.Fiyah. posts ante 700
+YOMOB posts ante 700
+P1xel7 posts small blind 3000
+TaupeKicker posts big blind 6000
+Dealt to P1xel7 [8h Kh]
+*** PRE-FLOP *** 
+Onebeer folds
+.Fiyah. folds
+YOMOB folds
+vichna calls 6000
+P1xel7 folds
+TaupeKicker checks
+*** FLOP *** [Th Jc Qd]
+TaupeKicker checks
+vichna checks
+*** TURN *** [Th Jc Qd][Td]
+TaupeKicker bets 12480
+vichna calls 12480
+*** RIVER *** [Th Jc Qd Td][9d]
+TaupeKicker bets 35328
+vichna folds
+TaupeKicker collected 79488 from pot
+*** SUMMARY ***
+Total pot 79488 | No rake
+Board: [Th Jc Qd Td 9d]
+Seat 3: TaupeKicker (big blind) won 79488
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 24 - HandId: #3220176340338606095-164-1707946826 - Holdem no limit (700/3000/6000) - 2024/02/14 21:40:26 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #2 is the button
+Seat 1: vichna (135519)
+Seat 2: P1xel7 (124736)
+Seat 3: TaupeKicker (386611)
+Seat 4: Onebeer (370033)
+Seat 5: .Fiyah. (320943)
+Seat 6: YOMOB (142790)
+*** ANTE/BLINDS ***
+TaupeKicker posts ante 700
+Onebeer posts ante 700
+vichna posts ante 700
+P1xel7 posts ante 700
+.Fiyah. posts ante 700
+YOMOB posts ante 700
+TaupeKicker posts small blind 3000
+Onebeer posts big blind 6000
+Dealt to P1xel7 [3d 4d]
+*** PRE-FLOP *** 
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker raises 6000 to 12000
+Onebeer folds
+TaupeKicker collected 22200 from pot
+*** SUMMARY ***
+Total pot 22200 | No rake
+Seat 3: TaupeKicker (small blind) won 22200
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 24 - HandId: #3220176340338606095-165-1707946848 - Holdem no limit (700/3000/6000) - 2024/02/14 21:40:48 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #3 is the button
+Seat 1: vichna (134819)
+Seat 2: P1xel7 (124036)
+Seat 3: TaupeKicker (396111)
+Seat 4: Onebeer (363333)
+Seat 5: .Fiyah. (320243)
+Seat 6: YOMOB (142090)
+*** ANTE/BLINDS ***
+Onebeer posts ante 700
+.Fiyah. posts ante 700
+vichna posts ante 700
+P1xel7 posts ante 700
+TaupeKicker posts ante 700
+YOMOB posts ante 700
+Onebeer posts small blind 3000
+.Fiyah. posts big blind 6000
+Dealt to P1xel7 [2d 3d]
+*** PRE-FLOP *** 
+YOMOB calls 6000
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+Onebeer folds
+.Fiyah. checks
+*** FLOP *** [7h Kc 6h]
+.Fiyah. checks
+YOMOB checks
+*** TURN *** [7h Kc 6h][8d]
+.Fiyah. bets 9600
+YOMOB folds
+.Fiyah. shows [Kh 8h] (Two pairs : Kings and 8)
+.Fiyah. collected 28800 from pot
+*** SUMMARY ***
+Total pot 28800 | No rake
+Board: [7h Kc 6h 8d]
+Seat 5: .Fiyah. (big blind) showed [Kh 8h] and won 28800 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 24 - HandId: #3220176340338606095-166-1707946880 - Holdem no limit (700/3000/6000) - 2024/02/14 21:41:20 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #4 is the button
+Seat 1: vichna (134119)
+Seat 2: P1xel7 (123336)
+Seat 3: TaupeKicker (395411)
+Seat 4: Onebeer (359633)
+Seat 5: .Fiyah. (332743)
+Seat 6: YOMOB (135390)
+*** ANTE/BLINDS ***
+.Fiyah. posts ante 700
+YOMOB posts ante 700
+vichna posts ante 700
+P1xel7 posts ante 700
+TaupeKicker posts ante 700
+Onebeer posts ante 700
+.Fiyah. posts small blind 3000
+YOMOB posts big blind 6000
+Dealt to P1xel7 [2c Qh]
+*** PRE-FLOP *** 
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+Onebeer folds
+.Fiyah. calls 3000
+YOMOB checks
+*** FLOP *** [Th 3s Qs]
+.Fiyah. checks
+YOMOB bets 10530
+.Fiyah. folds
+YOMOB collected 26730 from pot
+*** SUMMARY ***
+Total pot 26730 | No rake
+Board: [Th 3s Qs]
+Seat 6: YOMOB (big blind) won 26730
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 24 - HandId: #3220176340338606095-167-1707946908 - Holdem no limit (700/3000/6000) - 2024/02/14 21:41:48 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #5 is the button
+Seat 1: vichna (133419)
+Seat 2: P1xel7 (122636)
+Seat 3: TaupeKicker (394711)
+Seat 4: Onebeer (358933)
+Seat 5: .Fiyah. (326043)
+Seat 6: YOMOB (144890)
+*** ANTE/BLINDS ***
+YOMOB posts ante 700
+vichna posts ante 700
+P1xel7 posts ante 700
+TaupeKicker posts ante 700
+Onebeer posts ante 700
+.Fiyah. posts ante 700
+YOMOB posts small blind 3000
+vichna posts big blind 6000
+Dealt to P1xel7 [Kh 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+TaupeKicker folds
+Onebeer folds
+.Fiyah. calls 6000
+YOMOB folds
+vichna checks
+*** FLOP *** [Qd Qs 6c]
+vichna checks
+.Fiyah. checks
+*** TURN *** [Qd Qs 6c][As]
+vichna checks
+.Fiyah. bets 9600
+vichna folds
+.Fiyah. collected 28800 from pot
+*** SUMMARY ***
+Total pot 28800 | No rake
+Board: [Qd Qs 6c As]
+Seat 5: .Fiyah. (button) won 28800
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 25 - HandId: #3220176340338606095-168-1707946945 - Holdem no limit (800/3500/7000) - 2024/02/14 21:42:25 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #6 is the button
+Seat 1: vichna (126719)
+Seat 2: P1xel7 (121936)
+Seat 3: TaupeKicker (394011)
+Seat 4: Onebeer (358233)
+Seat 5: .Fiyah. (338543)
+Seat 6: YOMOB (141190)
+*** ANTE/BLINDS ***
+vichna posts ante 800
+P1xel7 posts ante 800
+TaupeKicker posts ante 800
+Onebeer posts ante 800
+.Fiyah. posts ante 800
+YOMOB posts ante 800
+vichna posts small blind 3500
+P1xel7 posts big blind 7000
+Dealt to P1xel7 [6h Ts]
+*** PRE-FLOP *** 
+TaupeKicker folds
+Onebeer raises 7000 to 14000
+.Fiyah. folds
+YOMOB folds
+vichna calls 10500
+P1xel7 folds
+*** FLOP *** [3h 5c Ah]
+vichna bets 7000
+Onebeer folds
+vichna collected 46800 from pot
+*** SUMMARY ***
+Total pot 46800 | No rake
+Board: [3h 5c Ah]
+Seat 1: vichna (small blind) won 46800
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 25 - HandId: #3220176340338606095-169-1707946963 - Holdem no limit (800/3500/7000) - 2024/02/14 21:42:43 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #1 is the button
+Seat 1: vichna (151719)
+Seat 2: P1xel7 (114136)
+Seat 3: TaupeKicker (393211)
+Seat 4: Onebeer (343433)
+Seat 5: .Fiyah. (337743)
+Seat 6: YOMOB (140390)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 800
+TaupeKicker posts ante 800
+vichna posts ante 800
+Onebeer posts ante 800
+.Fiyah. posts ante 800
+YOMOB posts ante 800
+P1xel7 posts small blind 3500
+TaupeKicker posts big blind 7000
+Dealt to P1xel7 [8d 9h]
+*** PRE-FLOP *** 
+Onebeer raises 14000 to 21000
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+Onebeer collected 36300 from pot
+*** SUMMARY ***
+Total pot 36300 | No rake
+Seat 4: Onebeer won 36300
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 25 - HandId: #3220176340338606095-170-1707946981 - Holdem no limit (800/3500/7000) - 2024/02/14 21:43:01 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #2 is the button
+Seat 1: vichna (150919)
+Seat 2: P1xel7 (109836)
+Seat 3: TaupeKicker (385411)
+Seat 4: Onebeer (357933)
+Seat 5: .Fiyah. (336943)
+Seat 6: YOMOB (139590)
+*** ANTE/BLINDS ***
+TaupeKicker posts ante 800
+Onebeer posts ante 800
+vichna posts ante 800
+P1xel7 posts ante 800
+.Fiyah. posts ante 800
+YOMOB posts ante 800
+TaupeKicker posts small blind 3500
+Onebeer posts big blind 7000
+Dealt to P1xel7 [Th 9s]
+*** PRE-FLOP *** 
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+Onebeer collected 15300 from pot
+*** SUMMARY ***
+Total pot 15300 | No rake
+Seat 4: Onebeer (big blind) won 15300
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 25 - HandId: #3220176340338606095-171-1707946990 - Holdem no limit (800/3500/7000) - 2024/02/14 21:43:10 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #3 is the button
+Seat 1: vichna (150119)
+Seat 2: P1xel7 (109036)
+Seat 3: TaupeKicker (381111)
+Seat 4: Onebeer (365433)
+Seat 5: .Fiyah. (336143)
+Seat 6: YOMOB (138790)
+*** ANTE/BLINDS ***
+Onebeer posts ante 800
+.Fiyah. posts ante 800
+vichna posts ante 800
+P1xel7 posts ante 800
+TaupeKicker posts ante 800
+YOMOB posts ante 800
+Onebeer posts small blind 3500
+.Fiyah. posts big blind 7000
+Dealt to P1xel7 [8c 3s]
+*** PRE-FLOP *** 
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+Onebeer folds
+.Fiyah. collected 15300 from pot
+*** SUMMARY ***
+Total pot 15300 | No rake
+Seat 5: .Fiyah. (big blind) won 15300
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 25 - HandId: #3220176340338606095-172-1707947009 - Holdem no limit (800/3500/7000) - 2024/02/14 21:43:29 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #4 is the button
+Seat 1: vichna (149319)
+Seat 2: P1xel7 (108236)
+Seat 3: TaupeKicker (380311)
+Seat 4: Onebeer (361133)
+Seat 5: .Fiyah. (343643)
+Seat 6: YOMOB (137990)
+*** ANTE/BLINDS ***
+.Fiyah. posts ante 800
+YOMOB posts ante 800
+vichna posts ante 800
+P1xel7 posts ante 800
+TaupeKicker posts ante 800
+Onebeer posts ante 800
+.Fiyah. posts small blind 3500
+YOMOB posts big blind 7000
+Dealt to P1xel7 [8c 2c]
+*** PRE-FLOP *** 
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+Onebeer folds
+.Fiyah. calls 3500
+YOMOB checks
+*** FLOP *** [9s 3c 3s]
+.Fiyah. checks
+YOMOB checks
+*** TURN *** [9s 3c 3s][Js]
+.Fiyah. checks
+YOMOB checks
+*** RIVER *** [9s 3c 3s Js][8h]
+.Fiyah. checks
+YOMOB bets 12220
+.Fiyah. folds
+YOMOB collected 31020 from pot
+*** SUMMARY ***
+Total pot 31020 | No rake
+Board: [9s 3c 3s Js 8h]
+Seat 6: YOMOB (big blind) won 31020
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 25 - HandId: #3220176340338606095-173-1707947039 - Holdem no limit (800/3500/7000) - 2024/02/14 21:43:59 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #5 is the button
+Seat 1: vichna (148519)
+Seat 2: P1xel7 (107436)
+Seat 3: TaupeKicker (379511)
+Seat 4: Onebeer (360333)
+Seat 5: .Fiyah. (335843)
+Seat 6: YOMOB (148990)
+*** ANTE/BLINDS ***
+YOMOB posts ante 800
+vichna posts ante 800
+P1xel7 posts ante 800
+TaupeKicker posts ante 800
+Onebeer posts ante 800
+.Fiyah. posts ante 800
+YOMOB posts small blind 3500
+vichna posts big blind 7000
+Dealt to P1xel7 [5h Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+TaupeKicker folds
+Onebeer folds
+.Fiyah. raises 7000 to 14000
+YOMOB folds
+vichna folds
+.Fiyah. collected 29300 from pot
+*** SUMMARY ***
+Total pot 29300 | No rake
+Seat 5: .Fiyah. (button) won 29300
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 25 - HandId: #3220176340338606095-174-1707947056 - Holdem no limit (800/3500/7000) - 2024/02/14 21:44:16 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #6 is the button
+Seat 1: vichna (140719)
+Seat 2: P1xel7 (106636)
+Seat 3: TaupeKicker (378711)
+Seat 4: Onebeer (359533)
+Seat 5: .Fiyah. (350343)
+Seat 6: YOMOB (144690)
+*** ANTE/BLINDS ***
+vichna posts ante 800
+P1xel7 posts ante 800
+TaupeKicker posts ante 800
+Onebeer posts ante 800
+.Fiyah. posts ante 800
+YOMOB posts ante 800
+vichna posts small blind 3500
+P1xel7 posts big blind 7000
+Dealt to P1xel7 [9h 7s]
+*** PRE-FLOP *** 
+TaupeKicker folds
+Onebeer folds
+.Fiyah. folds
+YOMOB folds
+vichna calls 3500
+P1xel7 raises 98836 to 105836 and is all-in
+vichna folds
+P1xel7 collected 117636 from pot
+*** SUMMARY ***
+Total pot 117636 | No rake
+Seat 2: P1xel7 (big blind) won 117636
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 25 - HandId: #3220176340338606095-175-1707947084 - Holdem no limit (800/3500/7000) - 2024/02/14 21:44:44 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #1 is the button
+Seat 1: vichna (132919)
+Seat 2: P1xel7 (117636)
+Seat 3: TaupeKicker (377911)
+Seat 4: Onebeer (358733)
+Seat 5: .Fiyah. (349543)
+Seat 6: YOMOB (143890)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 800
+TaupeKicker posts ante 800
+vichna posts ante 800
+Onebeer posts ante 800
+.Fiyah. posts ante 800
+YOMOB posts ante 800
+P1xel7 posts small blind 3500
+TaupeKicker posts big blind 7000
+Dealt to P1xel7 [As 9h]
+*** PRE-FLOP *** 
+Onebeer folds
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 raises 109836 to 116836 and is all-in
+TaupeKicker folds
+P1xel7 collected 128636 from pot
+*** SUMMARY ***
+Total pot 128636 | No rake
+Seat 2: P1xel7 (small blind) won 128636
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 25 - HandId: #3220176340338606095-176-1707947098 - Holdem no limit (800/3500/7000) - 2024/02/14 21:44:58 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #2 is the button
+Seat 1: vichna (132119)
+Seat 2: P1xel7 (128636)
+Seat 3: TaupeKicker (370111)
+Seat 4: Onebeer (357933)
+Seat 5: .Fiyah. (348743)
+Seat 6: YOMOB (143090)
+*** ANTE/BLINDS ***
+TaupeKicker posts ante 800
+Onebeer posts ante 800
+vichna posts ante 800
+P1xel7 posts ante 800
+.Fiyah. posts ante 800
+YOMOB posts ante 800
+TaupeKicker posts small blind 3500
+Onebeer posts big blind 7000
+Dealt to P1xel7 [Kc 4d]
+*** PRE-FLOP *** 
+.Fiyah. folds
+YOMOB calls 7000
+vichna folds
+P1xel7 folds
+TaupeKicker raises 7000 to 14000
+Onebeer folds
+YOMOB calls 7000
+*** FLOP *** [3d 4c 4s]
+TaupeKicker bets 25870
+YOMOB folds
+TaupeKicker collected 65670 from pot
+*** SUMMARY ***
+Total pot 65670 | No rake
+Board: [3d 4c 4s]
+Seat 3: TaupeKicker (small blind) won 65670
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 25 - HandId: #3220176340338606095-177-1707947151 - Holdem no limit (800/3500/7000) - 2024/02/14 21:45:51 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #3 is the button
+Seat 1: vichna (131319)
+Seat 2: P1xel7 (127836)
+Seat 3: TaupeKicker (395111)
+Seat 4: Onebeer (350133)
+Seat 5: .Fiyah. (347943)
+Seat 6: YOMOB (128290)
+*** ANTE/BLINDS ***
+Onebeer posts ante 800
+.Fiyah. posts ante 800
+vichna posts ante 800
+P1xel7 posts ante 800
+TaupeKicker posts ante 800
+YOMOB posts ante 800
+Onebeer posts small blind 3500
+.Fiyah. posts big blind 7000
+Dealt to P1xel7 [7d 6s]
+*** PRE-FLOP *** 
+YOMOB folds
+vichna raises 7000 to 14000
+P1xel7 folds
+TaupeKicker folds
+Onebeer folds
+.Fiyah. calls 7000
+*** FLOP *** [Jh 5d Qc]
+.Fiyah. checks
+vichna checks
+*** TURN *** [Jh 5d Qc][3d]
+.Fiyah. checks
+vichna checks
+*** RIVER *** [Jh 5d Qc 3d][Kd]
+.Fiyah. checks
+vichna checks
+*** SHOW DOWN ***
+.Fiyah. shows [9s 7c] (High card : King)
+vichna shows [Ac 4h] (High card : Ace)
+vichna collected 36300 from pot
+*** SUMMARY ***
+Total pot 36300 | No rake
+Board: [Jh 5d Qc 3d Kd]
+Seat 1: vichna showed [Ac 4h] and won 36300 with High card : Ace
+Seat 5: .Fiyah. (big blind) showed [9s 7c] and lost with High card : King
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 26 - HandId: #3220176340338606095-178-1707947184 - Holdem no limit (1000/4000/8000) - 2024/02/14 21:46:24 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #4 is the button
+Seat 1: vichna (152819)
+Seat 2: P1xel7 (127036)
+Seat 3: TaupeKicker (394311)
+Seat 4: Onebeer (345833)
+Seat 5: .Fiyah. (333143)
+Seat 6: YOMOB (127490)
+*** ANTE/BLINDS ***
+.Fiyah. posts ante 1000
+YOMOB posts ante 1000
+vichna posts ante 1000
+P1xel7 posts ante 1000
+TaupeKicker posts ante 1000
+Onebeer posts ante 1000
+.Fiyah. posts small blind 4000
+YOMOB posts big blind 8000
+Dealt to P1xel7 [Th 7h]
+*** PRE-FLOP *** 
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+Onebeer raises 8000 to 16000
+.Fiyah. folds
+YOMOB folds
+Onebeer collected 34000 from pot
+*** SUMMARY ***
+Total pot 34000 | No rake
+Seat 4: Onebeer (button) won 34000
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 26 - HandId: #3220176340338606095-179-1707947200 - Holdem no limit (1000/4000/8000) - 2024/02/14 21:46:40 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #5 is the button
+Seat 1: vichna (151819)
+Seat 2: P1xel7 (126036)
+Seat 3: TaupeKicker (393311)
+Seat 4: Onebeer (362833)
+Seat 5: .Fiyah. (328143)
+Seat 6: YOMOB (118490)
+*** ANTE/BLINDS ***
+YOMOB posts ante 1000
+vichna posts ante 1000
+P1xel7 posts ante 1000
+TaupeKicker posts ante 1000
+Onebeer posts ante 1000
+.Fiyah. posts ante 1000
+YOMOB posts small blind 4000
+vichna posts big blind 8000
+Dealt to P1xel7 [Ad 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+TaupeKicker raises 8000 to 16000
+Onebeer folds
+.Fiyah. folds
+YOMOB folds
+vichna calls 8000
+*** FLOP *** [3h 7h 6c]
+vichna checks
+TaupeKicker bets 21000
+vichna folds
+TaupeKicker collected 63000 from pot
+*** SUMMARY ***
+Total pot 63000 | No rake
+Board: [3h 7h 6c]
+Seat 3: TaupeKicker won 63000
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 26 - HandId: #3220176340338606095-180-1707947225 - Holdem no limit (1000/4000/8000) - 2024/02/14 21:47:05 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #6 is the button
+Seat 1: vichna (134819)
+Seat 2: P1xel7 (125036)
+Seat 3: TaupeKicker (418311)
+Seat 4: Onebeer (361833)
+Seat 5: .Fiyah. (327143)
+Seat 6: YOMOB (113490)
+*** ANTE/BLINDS ***
+vichna posts ante 1000
+P1xel7 posts ante 1000
+TaupeKicker posts ante 1000
+Onebeer posts ante 1000
+.Fiyah. posts ante 1000
+YOMOB posts ante 1000
+vichna posts small blind 4000
+P1xel7 posts big blind 8000
+Dealt to P1xel7 [5d Qd]
+*** PRE-FLOP *** 
+TaupeKicker folds
+Onebeer folds
+.Fiyah. folds
+YOMOB calls 8000
+vichna folds
+P1xel7 raises 116036 to 124036 and is all-in
+YOMOB folds
+P1xel7 collected 142036 from pot
+*** SUMMARY ***
+Total pot 142036 | No rake
+Seat 2: P1xel7 (big blind) won 142036
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 26 - HandId: #3220176340338606095-181-1707947250 - Holdem no limit (1000/4000/8000) - 2024/02/14 21:47:30 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #1 is the button
+Seat 1: vichna (129819)
+Seat 2: P1xel7 (142036)
+Seat 3: TaupeKicker (417311)
+Seat 4: Onebeer (360833)
+Seat 5: .Fiyah. (326143)
+Seat 6: YOMOB (104490)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1000
+TaupeKicker posts ante 1000
+vichna posts ante 1000
+Onebeer posts ante 1000
+.Fiyah. posts ante 1000
+YOMOB posts ante 1000
+P1xel7 posts small blind 4000
+TaupeKicker posts big blind 8000
+Dealt to P1xel7 [5h 9d]
+*** PRE-FLOP *** 
+Onebeer raises 20000 to 28000
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+Onebeer collected 46000 from pot
+*** SUMMARY ***
+Total pot 46000 | No rake
+Seat 4: Onebeer won 46000
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 26 - HandId: #3220176340338606095-182-1707947260 - Holdem no limit (1000/4000/8000) - 2024/02/14 21:47:40 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #2 is the button
+Seat 1: vichna (128819)
+Seat 2: P1xel7 (137036)
+Seat 3: TaupeKicker (408311)
+Seat 4: Onebeer (377833)
+Seat 5: .Fiyah. (325143)
+Seat 6: YOMOB (103490)
+*** ANTE/BLINDS ***
+TaupeKicker posts ante 1000
+Onebeer posts ante 1000
+vichna posts ante 1000
+P1xel7 posts ante 1000
+.Fiyah. posts ante 1000
+YOMOB posts ante 1000
+TaupeKicker posts small blind 4000
+Onebeer posts big blind 8000
+Dealt to P1xel7 [7d Jh]
+*** PRE-FLOP *** 
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker raises 12000 to 20000
+Onebeer raises 356833 to 376833 and is all-in
+TaupeKicker calls 356833
+*** FLOP *** [Kh 8s 9h]
+*** TURN *** [Kh 8s 9h][9c]
+*** RIVER *** [Kh 8s 9h 9c][Kc]
+*** SHOW DOWN ***
+Onebeer shows [Js As] (Two pairs : Kings and 9)
+TaupeKicker shows [Ac Kd] (Full of Kings and 9)
+TaupeKicker collected 759666 from pot
+*** SUMMARY ***
+Total pot 759666 | No rake
+Board: [Kh 8s 9h 9c Kc]
+Seat 3: TaupeKicker (small blind) showed [Ac Kd] and won 759666 with Full of Kings and 9
+Seat 4: Onebeer (big blind) showed [Js As] and lost with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 26 - HandId: #3220176340338606095-183-1707947304 - Holdem no limit (1000/4000/8000) - 2024/02/14 21:48:24 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #3 is the button
+Seat 1: vichna (127819)
+Seat 2: P1xel7 (136036)
+Seat 3: TaupeKicker (790144)
+Seat 5: .Fiyah. (324143)
+Seat 6: YOMOB (102490)
+*** ANTE/BLINDS ***
+.Fiyah. posts ante 1000
+vichna posts ante 1000
+P1xel7 posts ante 1000
+TaupeKicker posts ante 1000
+YOMOB posts ante 1000
+.Fiyah. posts big blind 8000
+Dealt to P1xel7 [5h Ad]
+*** PRE-FLOP *** 
+YOMOB calls 8000
+vichna folds
+P1xel7 folds
+TaupeKicker raises 12000 to 20000
+.Fiyah. calls 12000
+YOMOB folds
+*** FLOP *** [9s Tc 5c]
+.Fiyah. checks
+TaupeKicker bets 34450
+.Fiyah. raises 268693 to 303143 and is all-in
+TaupeKicker folds
+.Fiyah. collected 390593 from pot
+*** SUMMARY ***
+Total pot 390593 | No rake
+Board: [9s Tc 5c]
+Seat 5: .Fiyah. (big blind) won 390593
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 27 - HandId: #3220176340338606095-184-1707947442 - Holdem no limit (1200/5000/10000) - 2024/02/14 21:50:42 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #4 is the button
+Seat 1: vichna (126819)
+Seat 2: P1xel7 (135036)
+Seat 3: TaupeKicker (734694)
+Seat 4: OhPineZ (47827)
+Seat 5: .Fiyah. (390593)
+Seat 6: YOMOB (93490)
+*** ANTE/BLINDS ***
+.Fiyah. posts ante 1200
+YOMOB posts ante 1200
+vichna posts ante 1200
+P1xel7 posts ante 1200
+TaupeKicker posts ante 1200
+.Fiyah. posts small blind 5000
+YOMOB posts big blind 10000
+Dealt to P1xel7 [2h 3c]
+*** PRE-FLOP *** 
+vichna folds
+P1xel7 folds
+TaupeKicker raises 10000 to 20000
+.Fiyah. folds
+YOMOB folds
+TaupeKicker collected 41000 from pot
+*** SUMMARY ***
+Total pot 41000 | No rake
+Seat 3: TaupeKicker won 41000
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 27 - HandId: #3220176340338606095-185-1707947462 - Holdem no limit (1200/5000/10000) - 2024/02/14 21:51:02 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #5 is the button
+Seat 1: vichna (125619)
+Seat 2: P1xel7 (133836)
+Seat 3: TaupeKicker (754494)
+Seat 4: OhPineZ (47827)
+Seat 5: .Fiyah. (384393)
+Seat 6: YOMOB (82290)
+*** ANTE/BLINDS ***
+YOMOB posts ante 1200
+vichna posts ante 1200
+P1xel7 posts ante 1200
+TaupeKicker posts ante 1200
+OhPineZ posts ante 1200
+.Fiyah. posts ante 1200
+YOMOB posts small blind 5000
+vichna posts big blind 10000
+Dealt to P1xel7 [3s 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+TaupeKicker folds
+OhPineZ folds
+.Fiyah. folds
+YOMOB folds
+vichna collected 22200 from pot
+*** SUMMARY ***
+Total pot 22200 | No rake
+Seat 1: vichna (big blind) won 22200
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 27 - HandId: #3220176340338606095-186-1707947494 - Holdem no limit (1200/5000/10000) - 2024/02/14 21:51:34 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #6 is the button
+Seat 1: vichna (136619)
+Seat 2: P1xel7 (132636)
+Seat 3: TaupeKicker (753294)
+Seat 4: OhPineZ (46627)
+Seat 5: .Fiyah. (383193)
+Seat 6: YOMOB (76090)
+*** ANTE/BLINDS ***
+vichna posts ante 1200
+P1xel7 posts ante 1200
+TaupeKicker posts ante 1200
+OhPineZ posts ante 1200
+.Fiyah. posts ante 1200
+YOMOB posts ante 1200
+vichna posts small blind 5000
+P1xel7 posts big blind 10000
+Dealt to P1xel7 [5c Jh]
+*** PRE-FLOP *** 
+TaupeKicker raises 15000 to 25000
+OhPineZ raises 20427 to 45427 and is all-in
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker calls 20427
+*** FLOP *** [3d 3s Jc]
+*** TURN *** [3d 3s Jc][8c]
+*** RIVER *** [3d 3s Jc 8c][Qd]
+*** SHOW DOWN ***
+TaupeKicker shows [Kd 2d] (One pair : 3)
+OhPineZ shows [Ac 5s] (One pair : 3)
+OhPineZ collected 113054 from pot
+*** SUMMARY ***
+Total pot 113054 | No rake
+Board: [3d 3s Jc 8c Qd]
+Seat 3: TaupeKicker showed [Kd 2d] and lost with One pair : 3
+Seat 4: OhPineZ showed [Ac 5s] and won 113054 with One pair : 3
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 27 - HandId: #3220176340338606095-187-1707947519 - Holdem no limit (1200/5000/10000) - 2024/02/14 21:51:59 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #1 is the button
+Seat 1: vichna (130419)
+Seat 2: P1xel7 (121436)
+Seat 3: TaupeKicker (706667)
+Seat 4: OhPineZ (113054)
+Seat 5: .Fiyah. (381993)
+Seat 6: YOMOB (74890)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1200
+TaupeKicker posts ante 1200
+vichna posts ante 1200
+OhPineZ posts ante 1200
+.Fiyah. posts ante 1200
+YOMOB posts ante 1200
+P1xel7 posts small blind 5000
+TaupeKicker posts big blind 10000
+Dealt to P1xel7 [2s 9s]
+*** PRE-FLOP *** 
+OhPineZ folds
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker collected 22200 from pot
+*** SUMMARY ***
+Total pot 22200 | No rake
+Seat 3: TaupeKicker (big blind) won 22200
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 27 - HandId: #3220176340338606095-188-1707947531 - Holdem no limit (1200/5000/10000) - 2024/02/14 21:52:11 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #2 is the button
+Seat 1: vichna (129219)
+Seat 2: P1xel7 (115236)
+Seat 3: TaupeKicker (717667)
+Seat 4: OhPineZ (111854)
+Seat 5: .Fiyah. (380793)
+Seat 6: YOMOB (73690)
+*** ANTE/BLINDS ***
+TaupeKicker posts ante 1200
+OhPineZ posts ante 1200
+vichna posts ante 1200
+P1xel7 posts ante 1200
+.Fiyah. posts ante 1200
+YOMOB posts ante 1200
+TaupeKicker posts small blind 5000
+OhPineZ posts big blind 10000
+Dealt to P1xel7 [2s 7h]
+*** PRE-FLOP *** 
+.Fiyah. folds
+YOMOB calls 10000
+vichna calls 10000
+P1xel7 folds
+TaupeKicker folds
+OhPineZ checks
+*** FLOP *** [8d 9s 9h]
+OhPineZ bets 100654 and is all-in
+YOMOB folds
+vichna folds
+OhPineZ collected 142854 from pot
+*** SUMMARY ***
+Total pot 142854 | No rake
+Board: [8d 9s 9h]
+Seat 4: OhPineZ (big blind) won 142854
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 27 - HandId: #3220176340338606095-189-1707947603 - Holdem no limit (1200/5000/10000) - 2024/02/14 21:53:23 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #3 is the button
+Seat 1: vichna (118019)
+Seat 2: P1xel7 (114036)
+Seat 3: TaupeKicker (711467)
+Seat 4: OhPineZ (142854)
+Seat 5: .Fiyah. (379593)
+Seat 6: YOMOB (62490)
+*** ANTE/BLINDS ***
+OhPineZ posts ante 1200
+.Fiyah. posts ante 1200
+vichna posts ante 1200
+P1xel7 posts ante 1200
+TaupeKicker posts ante 1200
+YOMOB posts ante 1200
+OhPineZ posts small blind 5000
+.Fiyah. posts big blind 10000
+Dealt to P1xel7 [Ts Jc]
+*** PRE-FLOP *** 
+YOMOB folds
+vichna calls 10000
+P1xel7 folds
+TaupeKicker raises 10000 to 20000
+OhPineZ raises 121654 to 141654 and is all-in
+.Fiyah. folds
+vichna folds
+TaupeKicker folds
+OhPineZ collected 188854 from pot
+*** SUMMARY ***
+Total pot 188854 | No rake
+Seat 4: OhPineZ (small blind) won 188854
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 27 - HandId: #3220176340338606095-190-1707947654 - Holdem no limit (1200/5000/10000) - 2024/02/14 21:54:14 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #4 is the button
+Seat 1: vichna (106819)
+Seat 2: P1xel7 (112836)
+Seat 3: TaupeKicker (690267)
+Seat 4: OhPineZ (188854)
+Seat 5: .Fiyah. (368393)
+Seat 6: YOMOB (61290)
+*** ANTE/BLINDS ***
+.Fiyah. posts ante 1200
+YOMOB posts ante 1200
+vichna posts ante 1200
+P1xel7 posts ante 1200
+TaupeKicker posts ante 1200
+OhPineZ posts ante 1200
+.Fiyah. posts small blind 5000
+YOMOB posts big blind 10000
+Dealt to P1xel7 [6c 4s]
+*** PRE-FLOP *** 
+vichna raises 10000 to 20000
+P1xel7 folds
+TaupeKicker calls 20000
+OhPineZ folds
+.Fiyah. folds
+YOMOB calls 10000
+*** FLOP *** [4h Qc 7s]
+YOMOB checks
+vichna checks
+TaupeKicker checks
+*** TURN *** [4h Qc 7s][9d]
+YOMOB checks
+vichna checks
+TaupeKicker bets 36100
+YOMOB folds
+vichna raises 49519 to 85619 and is all-in
+TaupeKicker folds
+vichna collected 193919 from pot
+*** SUMMARY ***
+Total pot 193919 | No rake
+Board: [4h Qc 7s 9d]
+Seat 1: vichna won 193919
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 28 - HandId: #3220176340338606095-191-1707948060 - Holdem no limit (1400/6000/12000) - 2024/02/14 22:01:00 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #5 is the button
+Seat 1: vichna (193919)
+Seat 2: P1xel7 (111636)
+Seat 3: TaupeKicker (632967)
+Seat 4: OhPineZ (187654)
+Seat 5: .Fiyah. (362193)
+Seat 6: YOMOB (40090)
+*** ANTE/BLINDS ***
+YOMOB posts ante 1400
+vichna posts ante 1400
+P1xel7 posts ante 1400
+TaupeKicker posts ante 1400
+OhPineZ posts ante 1400
+.Fiyah. posts ante 1400
+YOMOB posts small blind 6000
+vichna posts big blind 12000
+Dealt to P1xel7 [9c 2d]
+*** PRE-FLOP *** 
+P1xel7 folds
+TaupeKicker folds
+OhPineZ raises 12000 to 24000
+.Fiyah. folds
+YOMOB calls 18000
+vichna folds
+*** FLOP *** [4h 5d 3d]
+YOMOB checks
+OhPineZ bets 17100
+YOMOB calls 14690 and is all-in
+*** TURN *** [4h 5d 3d][3s]
+*** RIVER *** [4h 5d 3d 3s][9s]
+*** SHOW DOWN ***
+OhPineZ shows [As 7s] (One pair : 3)
+YOMOB shows [Td 9d] (Two pairs : 9 and 3)
+YOMOB collected 97780 from main pot
+OhPineZ collected 2410 from side pot 1
+*** SUMMARY ***
+Total pot 100190 | No rake
+Board: [4h 5d 3d 3s 9s]
+Seat 4: OhPineZ showed [As 7s] and won 2410 with One pair : 3
+Seat 6: YOMOB (small blind) showed [Td 9d] and won 97780 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 28 - HandId: #3220176340338606095-192-1707948116 - Holdem no limit (1400/6000/12000) - 2024/02/14 22:01:56 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #6 is the button
+Seat 1: vichna (180519)
+Seat 2: P1xel7 (110236)
+Seat 3: TaupeKicker (631567)
+Seat 4: OhPineZ (147564)
+Seat 5: .Fiyah. (360793)
+Seat 6: YOMOB (97780)
+*** ANTE/BLINDS ***
+vichna posts ante 1400
+P1xel7 posts ante 1400
+TaupeKicker posts ante 1400
+OhPineZ posts ante 1400
+.Fiyah. posts ante 1400
+YOMOB posts ante 1400
+vichna posts small blind 6000
+P1xel7 posts big blind 12000
+Dealt to P1xel7 [9c Ks]
+*** PRE-FLOP *** 
+TaupeKicker folds
+OhPineZ folds
+.Fiyah. folds
+YOMOB folds
+vichna calls 6000
+P1xel7 raises 96836 to 108836 and is all-in
+vichna folds
+P1xel7 collected 129236 from pot
+*** SUMMARY ***
+Total pot 129236 | No rake
+Seat 2: P1xel7 (big blind) won 129236
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 28 - HandId: #3220176340338606095-193-1707948150 - Holdem no limit (1400/6000/12000) - 2024/02/14 22:02:30 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #1 is the button
+Seat 1: vichna (167119)
+Seat 2: P1xel7 (129236)
+Seat 3: TaupeKicker (630167)
+Seat 4: OhPineZ (146164)
+Seat 5: .Fiyah. (359393)
+Seat 6: YOMOB (96380)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1400
+TaupeKicker posts ante 1400
+vichna posts ante 1400
+OhPineZ posts ante 1400
+.Fiyah. posts ante 1400
+YOMOB posts ante 1400
+P1xel7 posts small blind 6000
+TaupeKicker posts big blind 12000
+Dealt to P1xel7 [Th 3h]
+*** PRE-FLOP *** 
+OhPineZ folds
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker collected 26400 from pot
+*** SUMMARY ***
+Total pot 26400 | No rake
+Seat 3: TaupeKicker (big blind) won 26400
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 28 - HandId: #3220176340338606095-194-1707948173 - Holdem no limit (1400/6000/12000) - 2024/02/14 22:02:53 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #2 is the button
+Seat 1: vichna (165719)
+Seat 2: P1xel7 (121836)
+Seat 3: TaupeKicker (643167)
+Seat 4: OhPineZ (144764)
+Seat 5: .Fiyah. (357993)
+Seat 6: YOMOB (94980)
+*** ANTE/BLINDS ***
+TaupeKicker posts ante 1400
+OhPineZ posts ante 1400
+vichna posts ante 1400
+P1xel7 posts ante 1400
+.Fiyah. posts ante 1400
+YOMOB posts ante 1400
+TaupeKicker posts small blind 6000
+OhPineZ posts big blind 12000
+Dealt to P1xel7 [3c 6d]
+*** PRE-FLOP *** 
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+OhPineZ collected 26400 from pot
+*** SUMMARY ***
+Total pot 26400 | No rake
+Seat 4: OhPineZ (big blind) won 26400
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 28 - HandId: #3220176340338606095-195-1707948189 - Holdem no limit (1400/6000/12000) - 2024/02/14 22:03:09 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #3 is the button
+Seat 1: vichna (164319)
+Seat 2: P1xel7 (120436)
+Seat 3: TaupeKicker (635767)
+Seat 4: OhPineZ (157764)
+Seat 5: .Fiyah. (356593)
+Seat 6: YOMOB (93580)
+*** ANTE/BLINDS ***
+OhPineZ posts ante 1400
+.Fiyah. posts ante 1400
+vichna posts ante 1400
+P1xel7 posts ante 1400
+TaupeKicker posts ante 1400
+YOMOB posts ante 1400
+OhPineZ posts small blind 6000
+.Fiyah. posts big blind 12000
+Dealt to P1xel7 [Kd Ad]
+*** PRE-FLOP *** 
+YOMOB folds
+vichna folds
+P1xel7 raises 107036 to 119036 and is all-in
+TaupeKicker folds
+OhPineZ folds
+.Fiyah. folds
+P1xel7 collected 145436 from pot
+*** SUMMARY ***
+Total pot 145436 | No rake
+Seat 2: P1xel7 won 145436
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 28 - HandId: #3220176340338606095-196-1707948225 - Holdem no limit (1400/6000/12000) - 2024/02/14 22:03:45 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #4 is the button
+Seat 1: vichna (162919)
+Seat 2: P1xel7 (145436)
+Seat 3: TaupeKicker (634367)
+Seat 4: OhPineZ (150364)
+Seat 5: .Fiyah. (343193)
+Seat 6: YOMOB (92180)
+*** ANTE/BLINDS ***
+.Fiyah. posts ante 1400
+YOMOB posts ante 1400
+vichna posts ante 1400
+P1xel7 posts ante 1400
+TaupeKicker posts ante 1400
+OhPineZ posts ante 1400
+.Fiyah. posts small blind 6000
+YOMOB posts big blind 12000
+Dealt to P1xel7 [Qs 4c]
+*** PRE-FLOP *** 
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+OhPineZ raises 12000 to 24000
+.Fiyah. folds
+YOMOB folds
+OhPineZ collected 50400 from pot
+*** SUMMARY ***
+Total pot 50400 | No rake
+Seat 4: OhPineZ (button) won 50400
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 28 - HandId: #3220176340338606095-197-1707948252 - Holdem no limit (1400/6000/12000) - 2024/02/14 22:04:12 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #5 is the button
+Seat 1: vichna (161519)
+Seat 2: P1xel7 (144036)
+Seat 3: TaupeKicker (632967)
+Seat 4: OhPineZ (175364)
+Seat 5: .Fiyah. (335793)
+Seat 6: YOMOB (78780)
+*** ANTE/BLINDS ***
+YOMOB posts ante 1400
+vichna posts ante 1400
+P1xel7 posts ante 1400
+TaupeKicker posts ante 1400
+OhPineZ posts ante 1400
+.Fiyah. posts ante 1400
+YOMOB posts small blind 6000
+vichna posts big blind 12000
+Dealt to P1xel7 [Kh 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+TaupeKicker folds
+OhPineZ folds
+.Fiyah. calls 12000
+YOMOB folds
+vichna checks
+*** FLOP *** [Qh 8c 5s]
+vichna bets 12000
+.Fiyah. calls 12000
+*** TURN *** [Qh 8c 5s][7h]
+vichna checks
+.Fiyah. bets 31200
+vichna raises 31200 to 62400
+.Fiyah. calls 31200
+*** RIVER *** [Qh 8c 5s 7h][5d]
+vichna bets 65520
+.Fiyah. calls 65520
+*** SHOW DOWN ***
+.Fiyah. shows [Qs 9h] (Two pairs : Queens and 5)
+vichna shows [5c Qd] (Full of 5 and Queens)
+vichna collected 318240 from pot
+*** SUMMARY ***
+Total pot 318240 | No rake
+Board: [Qh 8c 5s 7h 5d]
+Seat 1: vichna (big blind) showed [5c Qd] and won 318240 with Full of 5 and Queens
+Seat 5: .Fiyah. (button) showed [Qs 9h] and lost with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 29 - HandId: #3220176340338606095-198-1707948318 - Holdem no limit (1600/7000/14000) - 2024/02/14 22:05:18 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #6 is the button
+Seat 1: vichna (326439)
+Seat 2: P1xel7 (142636)
+Seat 3: TaupeKicker (631567)
+Seat 4: OhPineZ (173964)
+Seat 5: .Fiyah. (182473)
+Seat 6: YOMOB (71380)
+*** ANTE/BLINDS ***
+vichna posts ante 1600
+P1xel7 posts ante 1600
+TaupeKicker posts ante 1600
+OhPineZ posts ante 1600
+.Fiyah. posts ante 1600
+YOMOB posts ante 1600
+vichna posts small blind 7000
+P1xel7 posts big blind 14000
+Dealt to P1xel7 [Qh 3c]
+*** PRE-FLOP *** 
+TaupeKicker folds
+OhPineZ folds
+.Fiyah. folds
+YOMOB folds
+vichna calls 7000
+P1xel7 checks
+*** FLOP *** [Jc Ad Kc]
+vichna bets 14000
+P1xel7 folds
+vichna collected 51600 from pot
+*** SUMMARY ***
+Total pot 51600 | No rake
+Board: [Jc Ad Kc]
+Seat 1: vichna (small blind) won 51600
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 29 - HandId: #3220176340338606095-199-1707948366 - Holdem no limit (1600/7000/14000) - 2024/02/14 22:06:06 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #1 is the button
+Seat 1: vichna (348439)
+Seat 2: P1xel7 (127036)
+Seat 3: TaupeKicker (629967)
+Seat 4: OhPineZ (172364)
+Seat 5: .Fiyah. (180873)
+Seat 6: YOMOB (69780)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1600
+TaupeKicker posts ante 1600
+vichna posts ante 1600
+OhPineZ posts ante 1600
+.Fiyah. posts ante 1600
+YOMOB posts ante 1600
+P1xel7 posts small blind 7000
+TaupeKicker posts big blind 14000
+Dealt to P1xel7 [Tc 8d]
+*** PRE-FLOP *** 
+OhPineZ folds
+.Fiyah. folds
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker collected 30600 from pot
+*** SUMMARY ***
+Total pot 30600 | No rake
+Seat 3: TaupeKicker (big blind) won 30600
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 29 - HandId: #3220176340338606095-200-1707948401 - Holdem no limit (1600/7000/14000) - 2024/02/14 22:06:41 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #2 is the button
+Seat 1: vichna (346839)
+Seat 2: P1xel7 (118436)
+Seat 3: TaupeKicker (644967)
+Seat 4: OhPineZ (170764)
+Seat 5: .Fiyah. (179273)
+Seat 6: YOMOB (68180)
+*** ANTE/BLINDS ***
+TaupeKicker posts ante 1600
+OhPineZ posts ante 1600
+vichna posts ante 1600
+P1xel7 posts ante 1600
+.Fiyah. posts ante 1600
+YOMOB posts ante 1600
+TaupeKicker posts small blind 7000
+OhPineZ posts big blind 14000
+Dealt to P1xel7 [4c 9h]
+*** PRE-FLOP *** 
+.Fiyah. raises 163673 to 177673 and is all-in
+YOMOB folds
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+OhPineZ folds
+.Fiyah. collected 208273 from pot
+*** SUMMARY ***
+Total pot 208273 | No rake
+Seat 5: .Fiyah. won 208273
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 29 - HandId: #3220176340338606095-201-1707948434 - Holdem no limit (1600/7000/14000) - 2024/02/14 22:07:14 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #3 is the button
+Seat 1: vichna (345239)
+Seat 2: P1xel7 (116836)
+Seat 3: TaupeKicker (636367)
+Seat 4: OhPineZ (155164)
+Seat 5: .Fiyah. (208273)
+Seat 6: YOMOB (66580)
+*** ANTE/BLINDS ***
+OhPineZ posts ante 1600
+.Fiyah. posts ante 1600
+vichna posts ante 1600
+P1xel7 posts ante 1600
+TaupeKicker posts ante 1600
+YOMOB posts ante 1600
+OhPineZ posts small blind 7000
+.Fiyah. posts big blind 14000
+Dealt to P1xel7 [4d Qc]
+*** PRE-FLOP *** 
+YOMOB calls 14000
+vichna folds
+P1xel7 folds
+TaupeKicker folds
+OhPineZ folds
+.Fiyah. checks
+*** FLOP *** [Js 6c 7d]
+.Fiyah. checks
+YOMOB checks
+*** TURN *** [Js 6c 7d][3h]
+.Fiyah. bets 22300
+YOMOB folds
+.Fiyah. collected 66900 from pot
+*** SUMMARY ***
+Total pot 66900 | No rake
+Board: [Js 6c 7d 3h]
+Seat 5: .Fiyah. (big blind) won 66900
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 29 - HandId: #3220176340338606095-202-1707948480 - Holdem no limit (1600/7000/14000) - 2024/02/14 22:08:00 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #4 is the button
+Seat 1: vichna (343639)
+Seat 2: P1xel7 (115236)
+Seat 3: TaupeKicker (634767)
+Seat 4: OhPineZ (146564)
+Seat 5: .Fiyah. (237273)
+Seat 6: YOMOB (50980)
+*** ANTE/BLINDS ***
+.Fiyah. posts ante 1600
+YOMOB posts ante 1600
+vichna posts ante 1600
+P1xel7 posts ante 1600
+TaupeKicker posts ante 1600
+OhPineZ posts ante 1600
+.Fiyah. posts small blind 7000
+YOMOB posts big blind 14000
+Dealt to P1xel7 [9h 6s]
+*** PRE-FLOP *** 
+vichna folds
+P1xel7 folds
+TaupeKicker raises 21000 to 35000
+OhPineZ folds
+.Fiyah. folds
+YOMOB folds
+TaupeKicker collected 65600 from pot
+*** SUMMARY ***
+Total pot 65600 | No rake
+Seat 3: TaupeKicker won 65600
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 30 - HandId: #3220176340338606095-203-1707948511 - Holdem no limit (2000/8000/16000) - 2024/02/14 22:08:31 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #5 is the button
+Seat 1: vichna (342039)
+Seat 2: P1xel7 (113636)
+Seat 3: TaupeKicker (663767)
+Seat 4: OhPineZ (144964)
+Seat 5: .Fiyah. (228673)
+Seat 6: YOMOB (35380)
+*** ANTE/BLINDS ***
+YOMOB posts ante 2000
+vichna posts ante 2000
+P1xel7 posts ante 2000
+TaupeKicker posts ante 2000
+OhPineZ posts ante 2000
+.Fiyah. posts ante 2000
+YOMOB posts small blind 8000
+vichna posts big blind 16000
+Dealt to P1xel7 [Kd 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+TaupeKicker folds
+OhPineZ folds
+.Fiyah. calls 16000
+YOMOB calls 8000
+vichna checks
+*** FLOP *** [7d Tc 2h]
+YOMOB checks
+vichna bets 39000
+.Fiyah. folds
+YOMOB folds
+vichna collected 99000 from pot
+*** SUMMARY ***
+Total pot 99000 | No rake
+Board: [7d Tc 2h]
+Seat 1: vichna (big blind) won 99000
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 30 - HandId: #3220176340338606095-204-1707948555 - Holdem no limit (2000/8000/16000) - 2024/02/14 22:09:15 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #6 is the button
+Seat 1: vichna (384039)
+Seat 2: P1xel7 (111636)
+Seat 3: TaupeKicker (661767)
+Seat 4: OhPineZ (142964)
+Seat 5: .Fiyah. (210673)
+Seat 6: YOMOB (17380)
+*** ANTE/BLINDS ***
+vichna posts ante 2000
+P1xel7 posts ante 2000
+TaupeKicker posts ante 2000
+OhPineZ posts ante 2000
+.Fiyah. posts ante 2000
+YOMOB posts ante 2000
+vichna posts small blind 8000
+P1xel7 posts big blind 16000
+Dealt to P1xel7 [9s 4c]
+*** PRE-FLOP *** 
+TaupeKicker raises 16000 to 32000
+OhPineZ folds
+.Fiyah. folds
+YOMOB calls 15380 and is all-in
+vichna folds
+P1xel7 folds
+*** FLOP *** [As 8s 7s]
+*** TURN *** [As 8s 7s][3d]
+*** RIVER *** [As 8s 7s 3d][3s]
+*** SHOW DOWN ***
+YOMOB shows [Qh Jc] (One pair : 3)
+TaupeKicker shows [Jh 8h] (Two pairs : 8 and 3)
+TaupeKicker collected 83380 from pot
+*** SUMMARY ***
+Total pot 83380 | No rake
+Board: [As 8s 7s 3d 3s]
+Seat 3: TaupeKicker showed [Jh 8h] and won 83380 with Two pairs : 8 and 3
+Seat 6: YOMOB (button) showed [Qh Jc] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 30 - HandId: #3220176340338606095-205-1707948592 - Holdem no limit (2000/8000/16000) - 2024/02/14 22:09:52 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #1 is the button
+Seat 1: vichna (374039)
+Seat 2: P1xel7 (93636)
+Seat 3: TaupeKicker (711147)
+Seat 4: OhPineZ (140964)
+Seat 5: .Fiyah. (208673)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 2000
+TaupeKicker posts ante 2000
+vichna posts ante 2000
+OhPineZ posts ante 2000
+.Fiyah. posts ante 2000
+P1xel7 posts small blind 8000
+TaupeKicker posts big blind 16000
+Dealt to P1xel7 [7d 8c]
+*** PRE-FLOP *** 
+OhPineZ folds
+.Fiyah. folds
+vichna calls 16000
+P1xel7 folds
+TaupeKicker checks
+*** FLOP *** [4d 8s 3s]
+TaupeKicker checks
+vichna checks
+*** TURN *** [4d 8s 3s][2s]
+TaupeKicker bets 40000
+vichna folds
+TaupeKicker collected 90000 from pot
+*** SUMMARY ***
+Total pot 90000 | No rake
+Board: [4d 8s 3s 2s]
+Seat 3: TaupeKicker (big blind) won 90000
+
+
+Winamax Poker - Tournament "POKER SOCIETY FREEROLL" buyIn: 0€ + 0€ level: 30 - HandId: #3220176340338606095-206-1707948650 - Holdem no limit (2000/8000/16000) - 2024/02/14 22:10:50 UTC
+Table: 'POKER SOCIETY FREEROLL(749755730)#0014' 6-max (real money) Seat #2 is the button
+Seat 1: vichna (356039)
+Seat 2: P1xel7 (83636)
+Seat 3: TaupeKicker (743147)
+Seat 4: OhPineZ (138964)
+Seat 5: .Fiyah. (206673)
+Seat 6: m_doineau (195377)
+*** ANTE/BLINDS ***
+TaupeKicker posts ante 2000
+OhPineZ posts ante 2000
+vichna posts ante 2000
+P1xel7 posts ante 2000
+.Fiyah. posts ante 2000
+m_doineau posts ante 2000
+TaupeKicker posts small blind 8000
+OhPineZ posts big blind 16000
+Dealt to P1xel7 [Qh Kh]
+*** PRE-FLOP *** 
+.Fiyah. raises 188673 to 204673 and is all-in
+m_doineau folds
+vichna folds
+P1xel7 calls 81636 and is all-in
+TaupeKicker folds
+OhPineZ folds
+*** FLOP *** [9h Tc 4s]
+*** TURN *** [9h Tc 4s][Td]
+*** RIVER *** [9h Tc 4s Td][4c]
+*** SHOW DOWN ***
+P1xel7 shows [Qh Kh] (Two pairs : Tens and 4)
+.Fiyah. shows [5s 5h] (Two pairs : Tens and 5)
+.Fiyah. collected 322309 from pot
+*** SUMMARY ***
+Total pot 322309 | No rake
+Board: [9h Tc 4s Td 4c]
+Seat 2: P1xel7 (button) showed [Qh Kh] and lost with Two pairs : Tens and 4
+Seat 5: .Fiyah. showed [5s 5h] and won 322309 with Two pairs : Tens and 5
+
+

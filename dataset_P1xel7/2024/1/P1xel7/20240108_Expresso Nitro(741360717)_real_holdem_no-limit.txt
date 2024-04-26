@@ -1,0 +1,233 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184120034054111233-1-1704744123 - Holdem no limit (10/20) - 2024/01/08 20:02:03 UTC
+Table: 'Expresso Nitro(741360717)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (300)
+Seat 2: lo92N (300)
+Seat 3: Rroonnee (300)
+*** ANTE/BLINDS ***
+Rroonnee posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [4s Ks]
+*** PRE-FLOP *** 
+lo92N calls 20
+Rroonnee calls 10
+P1xel7 checks
+*** FLOP *** [9c Kd 3h]
+Rroonnee checks
+P1xel7 checks
+lo92N checks
+*** TURN *** [9c Kd 3h][7s]
+Rroonnee checks
+P1xel7 bets 30
+lo92N calls 30
+Rroonnee folds
+*** RIVER *** [9c Kd 3h 7s][2h]
+P1xel7 bets 30
+lo92N calls 30
+*** SHOW DOWN ***
+lo92N shows [Jc 7c] (One pair : 7)
+P1xel7 shows [4s Ks] (One pair : Kings)
+P1xel7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [9c Kd 3h 7s 2h]
+Seat 1: P1xel7 (big blind) showed [4s Ks] and won 180 with One pair : Kings
+Seat 2: lo92N (button) showed [Jc 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184120034054111233-2-1704744170 - Holdem no limit (10/20) - 2024/01/08 20:02:50 UTC
+Table: 'Expresso Nitro(741360717)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (400)
+Seat 2: lo92N (220)
+Seat 3: Rroonnee (280)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+lo92N posts big blind 20
+Dealt to P1xel7 [Ts Qs]
+*** PRE-FLOP *** 
+Rroonnee folds
+P1xel7 raises 30 to 50
+lo92N folds
+P1xel7 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: P1xel7 (small blind) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184120034054111233-3-1704744186 - Holdem no limit (15/30) - 2024/01/08 20:03:06 UTC
+Table: 'Expresso Nitro(741360717)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (420)
+Seat 2: lo92N (200)
+Seat 3: Rroonnee (280)
+*** ANTE/BLINDS ***
+lo92N posts small blind 15
+Rroonnee posts big blind 30
+Dealt to P1xel7 [4d 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+lo92N folds
+Rroonnee collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: Rroonnee (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184120034054111233-4-1704744191 - Holdem no limit (15/30) - 2024/01/08 20:03:11 UTC
+Table: 'Expresso Nitro(741360717)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (420)
+Seat 2: lo92N (185)
+Seat 3: Rroonnee (295)
+*** ANTE/BLINDS ***
+Rroonnee posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [8c Kh]
+*** PRE-FLOP *** 
+lo92N raises 30 to 60
+Rroonnee folds
+P1xel7 calls 30
+*** FLOP *** [9h 3s 8s]
+P1xel7 checks
+lo92N checks
+*** TURN *** [9h 3s 8s][Td]
+P1xel7 bets 150
+lo92N folds
+P1xel7 collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Board: [9h 3s 8s Td]
+Seat 1: P1xel7 (big blind) won 285
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184120034054111233-5-1704744212 - Holdem no limit (15/30) - 2024/01/08 20:03:32 UTC
+Table: 'Expresso Nitro(741360717)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (495)
+Seat 2: lo92N (125)
+Seat 3: Rroonnee (280)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+lo92N posts big blind 30
+Dealt to P1xel7 [5s 9c]
+*** PRE-FLOP *** 
+Rroonnee calls 30
+P1xel7 folds
+lo92N checks
+*** FLOP *** [2h 6c 8d]
+lo92N checks
+Rroonnee bets 30
+lo92N calls 30
+*** TURN *** [2h 6c 8d][2d]
+lo92N checks
+Rroonnee bets 30
+lo92N calls 30
+*** RIVER *** [2h 6c 8d 2d][Ts]
+lo92N checks
+Rroonnee bets 30
+lo92N folds
+Rroonnee collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Board: [2h 6c 8d 2d Ts]
+Seat 3: Rroonnee (button) won 225
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184120034054111233-6-1704744231 - Holdem no limit (15/30) - 2024/01/08 20:03:51 UTC
+Table: 'Expresso Nitro(741360717)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (480)
+Seat 2: lo92N (35)
+Seat 3: Rroonnee (385)
+*** ANTE/BLINDS ***
+lo92N posts small blind 15
+Rroonnee posts big blind 30
+Dealt to P1xel7 [Td 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+lo92N raises 5 to 35 and is all-in
+Rroonnee calls 5
+*** FLOP *** [7d Ks 9h]
+*** TURN *** [7d Ks 9h][4h]
+*** RIVER *** [7d Ks 9h 4h][Jd]
+*** SHOW DOWN ***
+lo92N shows [5h Kh] (One pair : Kings)
+Rroonnee shows [2s Kd] (One pair : Kings)
+Rroonnee collected 35 from pot
+lo92N collected 35 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [7d Ks 9h 4h Jd]
+Seat 2: lo92N (small blind) showed [5h Kh] and won 35 with One pair : Kings
+Seat 3: Rroonnee (big blind) showed [2s Kd] and won 35 with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184120034054111233-7-1704744243 - Holdem no limit (20/40) - 2024/01/08 20:04:03 UTC
+Table: 'Expresso Nitro(741360717)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (480)
+Seat 2: lo92N (35)
+Seat 3: Rroonnee (385)
+*** ANTE/BLINDS ***
+Rroonnee posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Ac Kc]
+*** PRE-FLOP *** 
+lo92N calls 35 and is all-in
+Rroonnee calls 20
+P1xel7 raises 60 to 100
+Rroonnee calls 60
+*** FLOP *** [5s 8c 9c]
+Rroonnee bets 285 and is all-in
+P1xel7 calls 285
+*** TURN *** [5s 8c 9c][3d]
+*** RIVER *** [5s 8c 9c 3d][Jd]
+*** SHOW DOWN ***
+P1xel7 shows [Ac Kc] (High card : Ace)
+lo92N shows [Ah 8d] (One pair : 8)
+Rroonnee shows [Jh 7h] (One pair : Jacks)
+Rroonnee collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Board: [5s 8c 9c 3d Jd]
+Seat 1: P1xel7 (big blind) showed [Ac Kc] and lost with High card : Ace
+Seat 2: lo92N (button) showed [Ah 8d] and lost with One pair : 8
+Seat 3: Rroonnee (small blind) showed [Jh 7h] and won 805 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184120034054111233-8-1704744267 - Holdem no limit (20/40) - 2024/01/08 20:04:27 UTC
+Table: 'Expresso Nitro(741360717)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (95)
+Seat 3: Rroonnee (805)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Rroonnee posts big blind 40
+Dealt to P1xel7 [6h 2d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Rroonnee collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: Rroonnee (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184120034054111233-9-1704744271 - Holdem no limit (20/40) - 2024/01/08 20:04:31 UTC
+Table: 'Expresso Nitro(741360717)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (75)
+Seat 3: Rroonnee (825)
+*** ANTE/BLINDS ***
+Rroonnee posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [7d Ac]
+*** PRE-FLOP *** 
+Rroonnee calls 20
+P1xel7 raises 35 to 75 and is all-in
+Rroonnee calls 35
+*** FLOP *** [8h Ts Qh]
+*** TURN *** [8h Ts Qh][Kd]
+*** RIVER *** [8h Ts Qh Kd][8c]
+*** SHOW DOWN ***
+P1xel7 shows [7d Ac] (One pair : 8)
+Rroonnee shows [9h 8d] (Trips of 8)
+Rroonnee collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [8h Ts Qh Kd 8c]
+Seat 1: P1xel7 (big blind) showed [7d Ac] and lost with One pair : 8
+Seat 3: Rroonnee (small blind) (button) showed [9h 8d] and won 150 with Trips of 8
+
+

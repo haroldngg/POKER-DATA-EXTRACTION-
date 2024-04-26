@@ -1,0 +1,659 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3013301475225894913-1-1695657984 - Holdem no limit (10/20) - 2023/09/25 16:06:24 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #3 is the button
+Seat 1: CEDCRI (1500)
+Seat 2: fafa01 (1500)
+Seat 3: Paco8888 (1500)
+Seat 4: Elijabaley (1500)
+Seat 5: P1xel7 (1500)
+Seat 6: blanc-Prune6 (1500)
+*** ANTE/BLINDS ***
+Elijabaley posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [3c 2h]
+*** PRE-FLOP *** 
+blanc-Prune6 calls 20
+CEDCRI folds
+fafa01 calls 20
+Paco8888 raises 110 to 130
+Elijabaley folds
+P1xel7 folds
+blanc-Prune6 calls 110
+fafa01 folds
+*** FLOP *** [Qc 4s Qd]
+blanc-Prune6 checks
+Paco8888 bets 109
+blanc-Prune6 folds
+Paco8888 collected 419 from pot
+*** SUMMARY ***
+Total pot 419 | No rake
+Board: [Qc 4s Qd]
+Seat 3: Paco8888 (button) won 419
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3013301475225894913-2-1695658031 - Holdem no limit (10/20) - 2023/09/25 16:07:11 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #4 is the button
+Seat 1: CEDCRI (1500)
+Seat 2: fafa01 (1480)
+Seat 3: Paco8888 (1680)
+Seat 4: Elijabaley (1490)
+Seat 5: P1xel7 (1480)
+Seat 6: blanc-Prune6 (1370)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+blanc-Prune6 posts big blind 20
+Dealt to P1xel7 [2d 7s]
+*** PRE-FLOP *** 
+CEDCRI calls 20
+fafa01 calls 20
+Paco8888 calls 20
+Elijabaley folds
+P1xel7 folds
+blanc-Prune6 checks
+*** FLOP *** [8s Th 7d]
+blanc-Prune6 checks
+CEDCRI checks
+fafa01 checks
+Paco8888 bets 90
+blanc-Prune6 folds
+CEDCRI calls 90
+fafa01 calls 90
+*** TURN *** [8s Th 7d][Ts]
+CEDCRI checks
+fafa01 checks
+Paco8888 bets 360
+CEDCRI calls 360
+fafa01 folds
+*** RIVER *** [8s Th 7d Ts][As]
+CEDCRI checks
+Paco8888 bets 702
+CEDCRI calls 702
+*** SHOW DOWN ***
+Paco8888 shows [2h 6c] (One pair : Tens)
+CEDCRI shows [Qd Ac] (Two pairs : Aces and Tens)
+CEDCRI collected 2484 from pot
+*** SUMMARY ***
+Total pot 2484 | No rake
+Board: [8s Th 7d Ts As]
+Seat 1: CEDCRI showed [Qd Ac] and won 2484 with Two pairs : Aces and Tens
+Seat 3: Paco8888 showed [2h 6c] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #3013301475225894913-3-1695658144 - Holdem no limit (15/30) - 2023/09/25 16:09:04 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #5 is the button
+Seat 1: CEDCRI (2812)
+Seat 2: fafa01 (1370)
+Seat 3: Paco8888 (508)
+Seat 4: Elijabaley (1490)
+Seat 5: P1xel7 (1470)
+Seat 6: blanc-Prune6 (1350)
+*** ANTE/BLINDS ***
+blanc-Prune6 posts small blind 15
+CEDCRI posts big blind 30
+Dealt to P1xel7 [8c Jh]
+*** PRE-FLOP *** 
+fafa01 folds
+Paco8888 raises 478 to 508 and is all-in
+Elijabaley folds
+P1xel7 folds
+blanc-Prune6 folds
+CEDCRI folds
+Paco8888 collected 553 from pot
+*** SUMMARY ***
+Total pot 553 | No rake
+Seat 3: Paco8888 won 553
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #3013301475225894913-4-1695658213 - Holdem no limit (20/40) - 2023/09/25 16:10:13 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #6 is the button
+Seat 1: CEDCRI (2782)
+Seat 2: fafa01 (1370)
+Seat 3: Paco8888 (553)
+Seat 4: Elijabaley (1490)
+Seat 5: P1xel7 (1470)
+Seat 6: blanc-Prune6 (1335)
+*** ANTE/BLINDS ***
+CEDCRI posts small blind 20
+fafa01 posts big blind 40
+Dealt to P1xel7 [Kd As]
+*** PRE-FLOP *** 
+Paco8888 folds
+Elijabaley folds
+P1xel7 raises 60 to 100
+blanc-Prune6 folds
+CEDCRI calls 80
+fafa01 folds
+*** FLOP *** [3h 9s Jd]
+CEDCRI checks
+P1xel7 bets 84
+CEDCRI calls 84
+*** TURN *** [3h 9s Jd][2s]
+CEDCRI checks
+P1xel7 bets 143
+CEDCRI calls 143
+*** RIVER *** [3h 9s Jd 2s][Ac]
+CEDCRI folds
+P1xel7 collected 694 from pot
+*** SUMMARY ***
+Total pot 694 | No rake
+Board: [3h 9s Jd 2s Ac]
+Seat 5: P1xel7 won 694
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #3013301475225894913-5-1695658245 - Holdem no limit (20/40) - 2023/09/25 16:10:45 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #1 is the button
+Seat 1: CEDCRI (2455)
+Seat 2: fafa01 (1330)
+Seat 3: Paco8888 (553)
+Seat 4: Elijabaley (1490)
+Seat 5: P1xel7 (1837)
+Seat 6: blanc-Prune6 (1335)
+*** ANTE/BLINDS ***
+fafa01 posts small blind 20
+Paco8888 posts big blind 40
+Dealt to P1xel7 [9h Th]
+*** PRE-FLOP *** 
+Elijabaley raises 80 to 120
+P1xel7 folds
+blanc-Prune6 folds
+CEDCRI calls 120
+fafa01 folds
+Paco8888 raises 433 to 553 and is all-in
+Elijabaley calls 433
+CEDCRI calls 433
+*** FLOP *** [2h 4d 5s]
+Elijabaley checks
+CEDCRI checks
+*** TURN *** [2h 4d 5s][Kc]
+Elijabaley checks
+CEDCRI bets 1902 and is all-in
+Elijabaley folds
+*** RIVER *** [2h 4d 5s Kc][Qc]
+*** SHOW DOWN ***
+Paco8888 shows [7c Td] (High card : King)
+CEDCRI shows [Jd Kh] (One pair : Kings)
+CEDCRI collected 3581 from pot
+*** SUMMARY ***
+Total pot 3581 | No rake
+Board: [2h 4d 5s Kc Qc]
+Seat 1: CEDCRI (button) showed [Jd Kh] and won 3581 with One pair : Kings
+Seat 3: Paco8888 (big blind) showed [7c Td] and lost with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #3013301475225894913-6-1695658294 - Holdem no limit (30/60) - 2023/09/25 16:11:34 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #2 is the button
+Seat 1: CEDCRI (3581)
+Seat 2: fafa01 (1310)
+Seat 4: Elijabaley (937)
+Seat 5: P1xel7 (1837)
+Seat 6: blanc-Prune6 (1335)
+*** ANTE/BLINDS ***
+Elijabaley posts big blind 60
+Dealt to P1xel7 [9d As]
+*** PRE-FLOP *** 
+P1xel7 raises 75 to 135
+blanc-Prune6 folds
+CEDCRI calls 135
+fafa01 folds
+Elijabaley calls 75
+*** FLOP *** [8h 4c 7s]
+Elijabaley checks
+P1xel7 bets 101
+CEDCRI calls 101
+Elijabaley calls 101
+*** TURN *** [8h 4c 7s][Ac]
+Elijabaley checks
+P1xel7 bets 708
+CEDCRI calls 708
+Elijabaley calls 701 and is all-in
+*** RIVER *** [8h 4c 7s Ac][5h]
+P1xel7 bets 893 and is all-in
+CEDCRI folds
+*** SHOW DOWN ***
+Elijabaley shows [5c Qc] (One pair : 5)
+P1xel7 shows [9d As] (One pair : Aces)
+P1xel7 collected 3718 from pot
+*** SUMMARY ***
+Total pot 3718 | No rake
+Board: [8h 4c 7s Ac 5h]
+Seat 4: Elijabaley (big blind) showed [5c Qc] and lost with One pair : 5
+Seat 5: P1xel7 showed [9d As] and won 3718 with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #3013301475225894913-7-1695658338 - Holdem no limit (30/60) - 2023/09/25 16:12:18 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #3 is the button
+Seat 1: CEDCRI (2637)
+Seat 2: fafa01 (1310)
+Seat 5: P1xel7 (3718)
+Seat 6: blanc-Prune6 (1335)
+*** ANTE/BLINDS ***
+P1xel7 posts big blind 60
+Dealt to P1xel7 [7c Qs]
+*** PRE-FLOP *** 
+blanc-Prune6 folds
+CEDCRI calls 60
+fafa01 folds
+P1xel7 raises 90 to 150
+CEDCRI calls 90
+*** FLOP *** [9h 2d Jc]
+P1xel7 bets 105
+CEDCRI calls 105
+*** TURN *** [9h 2d Jc][9d]
+P1xel7 bets 255
+CEDCRI folds
+P1xel7 collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Board: [9h 2d Jc 9d]
+Seat 5: P1xel7 (big blind) won 765
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #3013301475225894913-8-1695658360 - Holdem no limit (40/80) - 2023/09/25 16:12:40 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #4 is the button
+Seat 1: CEDCRI (2382)
+Seat 2: fafa01 (1310)
+Seat 5: P1xel7 (3973)
+Seat 6: blanc-Prune6 (1335)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+blanc-Prune6 posts big blind 80
+Dealt to P1xel7 [2d Qd]
+*** PRE-FLOP *** 
+CEDCRI folds
+fafa01 folds
+P1xel7 raises 96 to 176
+blanc-Prune6 calls 96
+*** FLOP *** [8d 5c Kc]
+P1xel7 bets 123
+blanc-Prune6 raises 346 to 469
+P1xel7 folds
+blanc-Prune6 collected 944 from pot
+*** SUMMARY ***
+Total pot 944 | No rake
+Board: [8d 5c Kc]
+Seat 6: blanc-Prune6 (big blind) won 944
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #3013301475225894913-9-1695658397 - Holdem no limit (40/80) - 2023/09/25 16:13:17 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #5 is the button
+Seat 1: CEDCRI (2382)
+Seat 2: fafa01 (1310)
+Seat 5: P1xel7 (3674)
+Seat 6: blanc-Prune6 (1634)
+*** ANTE/BLINDS ***
+blanc-Prune6 posts small blind 40
+CEDCRI posts big blind 80
+Dealt to P1xel7 [3d Qd]
+*** PRE-FLOP *** 
+fafa01 folds
+P1xel7 folds
+blanc-Prune6 calls 40
+CEDCRI checks
+*** FLOP *** [Tc Ks Kh]
+blanc-Prune6 checks
+CEDCRI checks
+*** TURN *** [Tc Ks Kh][Kc]
+blanc-Prune6 checks
+CEDCRI checks
+*** RIVER *** [Tc Ks Kh Kc][Jc]
+blanc-Prune6 bets 160
+CEDCRI calls 160
+*** SHOW DOWN ***
+CEDCRI shows [4h 5d] (Trips of Kings)
+blanc-Prune6 shows [6s Jh] (Full of Kings and Jacks)
+blanc-Prune6 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Tc Ks Kh Kc Jc]
+Seat 1: CEDCRI (big blind) showed [4h 5d] and lost with Trips of Kings
+Seat 6: blanc-Prune6 (small blind) showed [6s Jh] and won 480 with Full of Kings and Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #3013301475225894913-10-1695658430 - Holdem no limit (40/80) - 2023/09/25 16:13:50 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #6 is the button
+Seat 1: CEDCRI (2142)
+Seat 2: fafa01 (1310)
+Seat 5: P1xel7 (3674)
+Seat 6: blanc-Prune6 (1874)
+*** ANTE/BLINDS ***
+CEDCRI posts small blind 40
+fafa01 posts big blind 80
+Dealt to P1xel7 [8d 4d]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 200
+blanc-Prune6 calls 200
+CEDCRI calls 160
+fafa01 folds
+*** FLOP *** [5d Jh Qh]
+CEDCRI checks
+P1xel7 checks
+blanc-Prune6 bets 238
+CEDCRI calls 238
+P1xel7 folds
+*** TURN *** [5d Jh Qh][Kc]
+CEDCRI checks
+blanc-Prune6 bets 405
+CEDCRI raises 1299 to 1704 and is all-in
+blanc-Prune6 calls 1031 and is all-in
+*** RIVER *** [5d Jh Qh Kc][9h]
+*** SHOW DOWN ***
+blanc-Prune6 shows [Ac Jc] (One pair : Jacks)
+CEDCRI shows [2d Kh] (One pair : Kings)
+CEDCRI collected 4296 from pot
+*** SUMMARY ***
+Total pot 4296 | No rake
+Board: [5d Jh Qh Kc 9h]
+Seat 1: CEDCRI (small blind) showed [2d Kh] and won 4296 with One pair : Kings
+Seat 6: blanc-Prune6 (button) showed [Ac Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #3013301475225894913-11-1695658459 - Holdem no limit (60/120) - 2023/09/25 16:14:19 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #1 is the button
+Seat 1: CEDCRI (4296)
+Seat 2: fafa01 (1230)
+Seat 5: P1xel7 (3474)
+*** ANTE/BLINDS ***
+fafa01 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [2h Tc]
+*** PRE-FLOP *** 
+CEDCRI calls 120
+fafa01 folds
+P1xel7 checks
+*** FLOP *** [3h 7c Qd]
+P1xel7 checks
+CEDCRI checks
+*** TURN *** [3h 7c Qd][7d]
+P1xel7 checks
+CEDCRI checks
+*** RIVER *** [3h 7c Qd 7d][8h]
+P1xel7 checks
+CEDCRI checks
+*** SHOW DOWN ***
+P1xel7 shows [2h Tc] (One pair : 7)
+CEDCRI shows [8d Jc] (Two pairs : 8 and 7)
+CEDCRI collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [3h 7c Qd 7d 8h]
+Seat 1: CEDCRI (button) showed [8d Jc] and won 300 with Two pairs : 8 and 7
+Seat 5: P1xel7 (big blind) showed [2h Tc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #3013301475225894913-12-1695658481 - Holdem no limit (60/120) - 2023/09/25 16:14:41 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #2 is the button
+Seat 1: CEDCRI (4476)
+Seat 2: fafa01 (1170)
+Seat 5: P1xel7 (3354)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+CEDCRI posts big blind 120
+Dealt to P1xel7 [Js Jh]
+*** PRE-FLOP *** 
+fafa01 folds
+P1xel7 raises 180 to 300
+CEDCRI folds
+P1xel7 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 5: P1xel7 (small blind) won 420
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #3013301475225894913-13-1695658490 - Holdem no limit (60/120) - 2023/09/25 16:14:50 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #5 is the button
+Seat 1: CEDCRI (4356)
+Seat 2: fafa01 (1170)
+Seat 5: P1xel7 (3474)
+*** ANTE/BLINDS ***
+CEDCRI posts small blind 60
+fafa01 posts big blind 120
+Dealt to P1xel7 [9d 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+CEDCRI calls 60
+fafa01 checks
+*** FLOP *** [8c 6s 3d]
+CEDCRI checks
+fafa01 checks
+*** TURN *** [8c 6s 3d][7d]
+CEDCRI bets 120
+fafa01 calls 120
+*** RIVER *** [8c 6s 3d 7d][6c]
+CEDCRI bets 120
+fafa01 folds
+CEDCRI collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [8c 6s 3d 7d 6c]
+Seat 1: CEDCRI (small blind) won 600
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #3013301475225894913-14-1695658521 - Holdem no limit (60/120) - 2023/09/25 16:15:21 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #1 is the button
+Seat 1: CEDCRI (4596)
+Seat 2: fafa01 (930)
+Seat 5: P1xel7 (3474)
+*** ANTE/BLINDS ***
+fafa01 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [3c As]
+*** PRE-FLOP *** 
+CEDCRI calls 120
+fafa01 calls 60
+P1xel7 raises 240 to 360
+CEDCRI calls 240
+fafa01 folds
+*** FLOP *** [7d Ad 3s]
+P1xel7 checks
+CEDCRI checks
+*** TURN *** [7d Ad 3s][Jh]
+P1xel7 bets 294
+CEDCRI calls 294
+*** RIVER *** [7d Ad 3s Jh][6h]
+P1xel7 bets 928
+CEDCRI calls 928
+*** SHOW DOWN ***
+CEDCRI shows [Qh Jd] (One pair : Jacks)
+P1xel7 shows [3c As] (Two pairs : Aces and 3)
+P1xel7 collected 3284 from pot
+*** SUMMARY ***
+Total pot 3284 | No rake
+Board: [7d Ad 3s Jh 6h]
+Seat 1: CEDCRI (button) showed [Qh Jd] and lost with One pair : Jacks
+Seat 5: P1xel7 (big blind) showed [3c As] and won 3284 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #3013301475225894913-15-1695658568 - Holdem no limit (10/60/120) - 2023/09/25 16:16:08 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #2 is the button
+Seat 1: CEDCRI (3014)
+Seat 2: fafa01 (810)
+Seat 5: P1xel7 (5176)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+CEDCRI posts ante 10
+fafa01 posts ante 10
+P1xel7 posts small blind 60
+CEDCRI posts big blind 120
+Dealt to P1xel7 [6h 6d]
+*** PRE-FLOP *** 
+fafa01 calls 120
+P1xel7 raises 684 to 804
+CEDCRI folds
+fafa01 folds
+P1xel7 collected 1074 from pot
+*** SUMMARY ***
+Total pot 1074 | No rake
+Seat 5: P1xel7 (small blind) won 1074
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #3013301475225894913-16-1695658593 - Holdem no limit (10/60/120) - 2023/09/25 16:16:33 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #5 is the button
+Seat 1: CEDCRI (2884)
+Seat 2: fafa01 (680)
+Seat 5: P1xel7 (5436)
+*** ANTE/BLINDS ***
+CEDCRI posts ante 10
+fafa01 posts ante 10
+P1xel7 posts ante 10
+CEDCRI posts small blind 60
+fafa01 posts big blind 120
+Dealt to P1xel7 [5d 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+CEDCRI folds
+fafa01 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 2: fafa01 (big blind) won 210
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 7 - HandId: #3013301475225894913-17-1695658600 - Holdem no limit (10/60/120) - 2023/09/25 16:16:40 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #1 is the button
+Seat 1: CEDCRI (2814)
+Seat 2: fafa01 (760)
+Seat 5: P1xel7 (5426)
+*** ANTE/BLINDS ***
+fafa01 posts ante 10
+P1xel7 posts ante 10
+CEDCRI posts ante 10
+fafa01 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [Js 5d]
+*** PRE-FLOP *** 
+CEDCRI folds
+fafa01 calls 60
+P1xel7 raises 5296 to 5416 and is all-in
+fafa01 folds
+P1xel7 collected 5566 from pot
+*** SUMMARY ***
+Total pot 5566 | No rake
+Seat 5: P1xel7 (big blind) won 5566
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #3013301475225894913-18-1695658616 - Holdem no limit (16/80/160) - 2023/09/25 16:16:56 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #2 is the button
+Seat 1: CEDCRI (2804)
+Seat 2: fafa01 (630)
+Seat 5: P1xel7 (5566)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 16
+CEDCRI posts ante 16
+fafa01 posts ante 16
+P1xel7 posts small blind 80
+CEDCRI posts big blind 160
+Dealt to P1xel7 [Ah Kc]
+*** PRE-FLOP *** 
+fafa01 folds
+P1xel7 raises 240 to 400
+CEDCRI folds
+P1xel7 collected 608 from pot
+*** SUMMARY ***
+Total pot 608 | No rake
+Seat 5: P1xel7 (small blind) won 608
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #3013301475225894913-19-1695658629 - Holdem no limit (16/80/160) - 2023/09/25 16:17:09 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #5 is the button
+Seat 1: CEDCRI (2628)
+Seat 2: fafa01 (614)
+Seat 5: P1xel7 (5758)
+*** ANTE/BLINDS ***
+CEDCRI posts ante 16
+fafa01 posts ante 16
+P1xel7 posts ante 16
+CEDCRI posts small blind 80
+fafa01 posts big blind 160
+Dealt to P1xel7 [2c Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 304 to 464
+CEDCRI calls 384
+fafa01 raises 134 to 598 and is all-in
+P1xel7 calls 134
+CEDCRI calls 134
+*** FLOP *** [Kh 6d Ts]
+CEDCRI checks
+P1xel7 bets 645
+CEDCRI folds
+*** TURN *** [Kh 6d Ts][2h]
+*** RIVER *** [Kh 6d Ts 2h][Td]
+*** SHOW DOWN ***
+fafa01 shows [Qd 7h] (One pair : Tens)
+P1xel7 shows [2c Ac] (Two pairs : Tens and 2)
+P1xel7 collected 2487 from pot
+*** SUMMARY ***
+Total pot 2487 | No rake
+Board: [Kh 6d Ts 2h Td]
+Seat 2: fafa01 (big blind) showed [Qd 7h] and lost with One pair : Tens
+Seat 5: P1xel7 (button) showed [2c Ac] and won 2487 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #3013301475225894913-20-1695658657 - Holdem no limit (16/80/160) - 2023/09/25 16:17:37 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #5 is the button
+Seat 1: CEDCRI (2014)
+Seat 5: P1xel7 (6986)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 16
+CEDCRI posts ante 16
+P1xel7 posts small blind 80
+CEDCRI posts big blind 160
+Dealt to P1xel7 [Ac Jd]
+*** PRE-FLOP *** 
+P1xel7 raises 240 to 400
+CEDCRI folds
+P1xel7 collected 592 from pot
+*** SUMMARY ***
+Total pot 592 | No rake
+Seat 5: P1xel7 (small blind) (button) won 592
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #3013301475225894913-21-1695658665 - Holdem no limit (16/80/160) - 2023/09/25 16:17:45 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #1 is the button
+Seat 1: CEDCRI (1838)
+Seat 5: P1xel7 (7162)
+*** ANTE/BLINDS ***
+CEDCRI posts ante 16
+P1xel7 posts ante 16
+CEDCRI posts small blind 80
+P1xel7 posts big blind 160
+Dealt to P1xel7 [5s 2d]
+*** PRE-FLOP *** 
+CEDCRI calls 80
+P1xel7 checks
+*** FLOP *** [9d Kc Ah]
+P1xel7 checks
+CEDCRI bets 160
+P1xel7 folds
+CEDCRI collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | No rake
+Board: [9d Kc Ah]
+Seat 1: CEDCRI (small blind) (button) won 512
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 8 - HandId: #3013301475225894913-22-1695658675 - Holdem no limit (16/80/160) - 2023/09/25 16:17:55 UTC
+Table: 'Starting Block WiPT(701588922)#0' 6-max (real money) Seat #5 is the button
+Seat 1: CEDCRI (2014)
+Seat 5: P1xel7 (6986)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 16
+CEDCRI posts ante 16
+P1xel7 posts small blind 80
+CEDCRI posts big blind 160
+Dealt to P1xel7 [Kh 7d]
+*** PRE-FLOP *** 
+P1xel7 raises 240 to 400
+CEDCRI raises 1598 to 1998 and is all-in
+P1xel7 calls 1598
+*** FLOP *** [6h 9s 7c]
+*** TURN *** [6h 9s 7c][6c]
+*** RIVER *** [6h 9s 7c 6c][Qs]
+*** SHOW DOWN ***
+CEDCRI shows [Td Ac] (One pair : 6)
+P1xel7 shows [Kh 7d] (Two pairs : 7 and 6)
+P1xel7 collected 4028 from pot
+*** SUMMARY ***
+Total pot 4028 | No rake
+Board: [6h 9s 7c 6c Qs]
+Seat 1: CEDCRI (big blind) showed [Td Ac] and lost with One pair : 6
+Seat 5: P1xel7 (small blind) (button) showed [Kh 7d] and won 4028 with Two pairs : 7 and 6
+
+

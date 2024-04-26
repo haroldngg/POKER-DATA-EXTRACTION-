@@ -1,0 +1,265 @@
+Winamax Poker - Tournament "Tremplin Clermont Ferrand" buyIn: 0€ + 0€ level: 5 - HandId: #2977860818143543680-29-1702841724 - Holdem no limit (40/80) - 2023/12/17 19:35:24 UTC
+Table: 'Tremplin Clermont Ferrand(693337251)#0383' 8-max (real money) Seat #6 is the button
+Seat 1: vestalouce (4670)
+Seat 2: R4phy87 (3875)
+Seat 3: FACCAM (4920)
+Seat 4: Vasypayemoi (4420)
+Seat 5: djo63530 (2715)
+Seat 6: Wyzooo (4403)
+Seat 7: nowund38 (4997)
+Seat 8: P1xel7 (3000)
+*** ANTE/BLINDS ***
+nowund38 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Qh Kc]
+*** PRE-FLOP *** 
+vestalouce folds
+R4phy87 folds
+FACCAM folds
+Vasypayemoi raises 200 to 280
+djo63530 folds
+Wyzooo folds
+nowund38 folds
+P1xel7 calls 200
+*** FLOP *** [Ts Js 3h]
+P1xel7 checks
+Vasypayemoi bets 600
+P1xel7 folds
+Vasypayemoi collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Ts Js 3h]
+Seat 4: Vasypayemoi won 1200
+
+
+Winamax Poker - Tournament "Tremplin Clermont Ferrand" buyIn: 0€ + 0€ level: 5 - HandId: #2977860818143543680-30-1702841754 - Holdem no limit (40/80) - 2023/12/17 19:35:54 UTC
+Table: 'Tremplin Clermont Ferrand(693337251)#0383' 8-max (real money) Seat #7 is the button
+Seat 1: vestalouce (4670)
+Seat 2: R4phy87 (3875)
+Seat 3: FACCAM (4920)
+Seat 4: Vasypayemoi (4740)
+Seat 5: djo63530 (2715)
+Seat 6: Wyzooo (4403)
+Seat 7: nowund38 (4957)
+Seat 8: P1xel7 (2720)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+vestalouce posts big blind 80
+Dealt to P1xel7 [Qs 6d]
+*** PRE-FLOP *** 
+R4phy87 raises 80 to 160
+FACCAM folds
+Vasypayemoi calls 160
+djo63530 folds
+Wyzooo folds
+nowund38 folds
+P1xel7 folds
+vestalouce calls 80
+*** FLOP *** [5s 3s 9h]
+vestalouce checks
+R4phy87 bets 338
+Vasypayemoi calls 338
+vestalouce calls 338
+*** TURN *** [5s 3s 9h][Jc]
+vestalouce checks
+R4phy87 bets 1534
+Vasypayemoi folds
+vestalouce folds
+R4phy87 collected 3068 from pot
+*** SUMMARY ***
+Total pot 3068 | No rake
+Board: [5s 3s 9h Jc]
+Seat 2: R4phy87 won 3068
+
+
+Winamax Poker - Tournament "Tremplin Clermont Ferrand" buyIn: 0€ + 0€ level: 5 - HandId: #2977860818143543680-31-1702841780 - Holdem no limit (40/80) - 2023/12/17 19:36:20 UTC
+Table: 'Tremplin Clermont Ferrand(693337251)#0383' 8-max (real money) Seat #8 is the button
+Seat 1: vestalouce (4172)
+Seat 2: R4phy87 (4911)
+Seat 3: FACCAM (4920)
+Seat 4: Vasypayemoi (4242)
+Seat 5: djo63530 (2715)
+Seat 6: Wyzooo (4403)
+Seat 7: nowund38 (4957)
+Seat 8: P1xel7 (2680)
+*** ANTE/BLINDS ***
+vestalouce posts small blind 40
+R4phy87 posts big blind 80
+Dealt to P1xel7 [4d 4s]
+*** PRE-FLOP *** 
+FACCAM raises 80 to 160
+Vasypayemoi folds
+djo63530 folds
+Wyzooo calls 160
+nowund38 calls 160
+P1xel7 folds
+vestalouce calls 120
+R4phy87 calls 80
+*** FLOP *** [7c 7d As]
+vestalouce checks
+R4phy87 checks
+FACCAM checks
+Wyzooo checks
+nowund38 checks
+*** TURN *** [7c 7d As][Jc]
+vestalouce checks
+R4phy87 checks
+FACCAM checks
+Wyzooo bets 280
+nowund38 folds
+vestalouce folds
+R4phy87 calls 280
+FACCAM calls 280
+*** RIVER *** [7c 7d As Jc][Kh]
+R4phy87 bets 1066
+FACCAM folds
+Wyzooo calls 1066
+*** SHOW DOWN ***
+R4phy87 shows [Jd Ks] (Two pairs : Kings and Jacks)
+Wyzooo shows [Tc Ac] (Two pairs : Aces and 7)
+Wyzooo collected 3772 from pot
+*** SUMMARY ***
+Total pot 3772 | No rake
+Board: [7c 7d As Jc Kh]
+Seat 2: R4phy87 (big blind) showed [Jd Ks] and lost with Two pairs : Kings and Jacks
+Seat 6: Wyzooo showed [Tc Ac] and won 3772 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Tremplin Clermont Ferrand" buyIn: 0€ + 0€ level: 5 - HandId: #2977860818143543680-32-1702841919 - Holdem no limit (40/80) - 2023/12/17 19:38:39 UTC
+Table: 'Tremplin Clermont Ferrand(693337251)#0383' 8-max (real money) Seat #1 is the button
+Seat 1: vestalouce (4012)
+Seat 2: R4phy87 (3405)
+Seat 3: FACCAM (4480)
+Seat 4: Vasypayemoi (4242)
+Seat 5: djo63530 (2715)
+Seat 6: Wyzooo (6669)
+Seat 7: nowund38 (4797)
+Seat 8: P1xel7 (2680)
+*** ANTE/BLINDS ***
+R4phy87 posts small blind 40
+FACCAM posts big blind 80
+Dealt to P1xel7 [Jd 6s]
+*** PRE-FLOP *** 
+Vasypayemoi folds
+djo63530 folds
+Wyzooo calls 80
+nowund38 raises 80 to 160
+P1xel7 folds
+vestalouce folds
+R4phy87 calls 120
+FACCAM folds
+Wyzooo calls 80
+*** FLOP *** [Ac 9s Qh]
+R4phy87 checks
+Wyzooo checks
+nowund38 bets 196
+R4phy87 calls 196
+Wyzooo folds
+*** TURN *** [Ac 9s Qh][4h]
+R4phy87 checks
+nowund38 bets 333
+R4phy87 calls 333
+*** RIVER *** [Ac 9s Qh 4h][Js]
+R4phy87 checks
+nowund38 bets 566
+R4phy87 calls 566
+*** SHOW DOWN ***
+R4phy87 shows [Ks Jc] (One pair : Jacks)
+nowund38 shows [9c 9h] (Trips of 9)
+nowund38 collected 2750 from pot
+*** SUMMARY ***
+Total pot 2750 | No rake
+Board: [Ac 9s Qh 4h Js]
+Seat 2: R4phy87 (small blind) showed [Ks Jc] and lost with One pair : Jacks
+Seat 7: nowund38 showed [9c 9h] and won 2750 with Trips of 9
+
+
+Winamax Poker - Tournament "Tremplin Clermont Ferrand" buyIn: 0€ + 0€ level: 5 - HandId: #2977860818143543680-33-1702841979 - Holdem no limit (40/80) - 2023/12/17 19:39:39 UTC
+Table: 'Tremplin Clermont Ferrand(693337251)#0383' 8-max (real money) Seat #2 is the button
+Seat 1: vestalouce (4012)
+Seat 2: R4phy87 (2150)
+Seat 3: FACCAM (4400)
+Seat 4: Vasypayemoi (4242)
+Seat 5: djo63530 (2715)
+Seat 6: Wyzooo (6509)
+Seat 7: nowund38 (6292)
+Seat 8: P1xel7 (2680)
+*** ANTE/BLINDS ***
+FACCAM posts small blind 40
+Vasypayemoi posts big blind 80
+Dealt to P1xel7 [4c 4s]
+*** PRE-FLOP *** 
+djo63530 folds
+Wyzooo folds
+nowund38 calls 80
+P1xel7 folds
+vestalouce calls 80
+R4phy87 folds
+FACCAM calls 40
+Vasypayemoi checks
+*** FLOP *** [Th 9s Jc]
+FACCAM checks
+Vasypayemoi checks
+nowund38 bets 80
+vestalouce calls 80
+FACCAM folds
+Vasypayemoi folds
+*** TURN *** [Th 9s Jc][5c]
+nowund38 bets 80
+vestalouce calls 80
+*** RIVER *** [Th 9s Jc 5c][2d]
+nowund38 bets 80
+vestalouce raises 492 to 572
+nowund38 calls 492
+*** SHOW DOWN ***
+vestalouce shows [8d Ad] (High card : Ace)
+nowund38 shows [Kd Tc] (One pair : Tens)
+nowund38 collected 1784 from pot
+*** SUMMARY ***
+Total pot 1784 | No rake
+Board: [Th 9s Jc 5c 2d]
+Seat 1: vestalouce showed [8d Ad] and lost with High card : Ace
+Seat 7: nowund38 showed [Kd Tc] and won 1784 with One pair : Tens
+
+
+Winamax Poker - Tournament "Tremplin Clermont Ferrand" buyIn: 0€ + 0€ level: 6 - HandId: #2977860818143543660-52-1702842073 - Holdem no limit (60/120) - 2023/12/17 19:41:13 UTC
+Table: 'Tremplin Clermont Ferrand(693337251)#0363' 8-max (real money) Seat #1 is the button
+Seat 1: TM Warrior87 (2340)
+Seat 2: niclabsas42 (28318)
+Seat 3: BeraatTehna (2505)
+Seat 4: PF_tchiqui76 (9520)
+Seat 5: P1xel7 (2680)
+Seat 6: eva-63 (2565)
+Seat 7: Zaza73_69 (2415)
+Seat 8: Pascalain13 (23825)
+*** ANTE/BLINDS ***
+niclabsas42 posts small blind 60
+BeraatTehna posts big blind 120
+Dealt to P1xel7 [5h 5c]
+*** PRE-FLOP *** 
+PF_tchiqui76 folds
+P1xel7 raises 180 to 300
+eva-63 folds
+Zaza73_69 folds
+Pascalain13 calls 300
+TM Warrior87 folds
+niclabsas42 calls 240
+BeraatTehna folds
+*** FLOP *** [8d 8s 8h]
+niclabsas42 checks
+P1xel7 bets 2380 and is all-in
+Pascalain13 folds
+niclabsas42 calls 2380
+*** TURN *** [8d 8s 8h][4c]
+*** RIVER *** [8d 8s 8h 4c][3c]
+*** SHOW DOWN ***
+P1xel7 shows [5h 5c] (Full of 8 and 5)
+niclabsas42 shows [Qd 8c] (Quads of 8)
+niclabsas42 collected 5780 from pot
+*** SUMMARY ***
+Total pot 5780 | No rake
+Board: [8d 8s 8h 4c 3c]
+Seat 2: niclabsas42 (small blind) showed [Qd 8c] and won 5780 with Quads of 8
+Seat 5: P1xel7 showed [5h 5c] and lost with Full of 8 and 5
+
+

@@ -1,0 +1,260 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268454487164977153-1-1709060711 - Holdem no limit (10/20) - 2024/02/27 19:05:11 UTC
+Table: 'Starting Block WiPT - Déglingos(760996362)#0' 6-max (real money) Seat #4 is the button
+Seat 1: RUI COSTA91 (500)
+Seat 2: Lincoln OK (500)
+Seat 3: Ineedi23 (500)
+Seat 4: Mr.Pulp0 (500)
+Seat 5: moodzio (500)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+moodzio posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Kd Jh]
+*** PRE-FLOP *** 
+RUI COSTA91 calls 20
+Lincoln OK folds
+Ineedi23 raises 480 to 500 and is all-in
+Mr.Pulp0 calls 500 and is all-in
+moodzio calls 490 and is all-in
+P1xel7 folds
+RUI COSTA91 calls 480 and is all-in
+*** FLOP *** [4c 3h 9h]
+*** TURN *** [4c 3h 9h][Jd]
+*** RIVER *** [4c 3h 9h Jd][Tc]
+*** SHOW DOWN ***
+RUI COSTA91 shows [Ac 9d] (One pair : 9)
+Ineedi23 shows [5d 4s] (One pair : 4)
+moodzio shows [7c As] (High card : Ace)
+Mr.Pulp0 shows [Ts 5s] (One pair : Tens)
+Mr.Pulp0 collected 2020 from pot
+*** SUMMARY ***
+Total pot 2020 | No rake
+Board: [4c 3h 9h Jd Tc]
+Seat 1: RUI COSTA91 showed [Ac 9d] and lost with One pair : 9
+Seat 3: Ineedi23 showed [5d 4s] and lost with One pair : 4
+Seat 4: Mr.Pulp0 (button) showed [Ts 5s] and won 2020 with One pair : Tens
+Seat 5: moodzio (small blind) showed [7c As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268454487164977153-2-1709060743 - Holdem no limit (10/20) - 2024/02/27 19:05:43 UTC
+Table: 'Starting Block WiPT - Déglingos(760996362)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Lincoln OK (500)
+Seat 4: Mr.Pulp0 (2020)
+Seat 6: P1xel7 (480)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Lincoln OK posts big blind 20
+Dealt to P1xel7 [6s Td]
+*** PRE-FLOP *** 
+Mr.Pulp0 raises 20 to 40
+P1xel7 folds
+Lincoln OK calls 20
+*** FLOP *** [Js 5s 9d]
+Lincoln OK checks
+Mr.Pulp0 bets 45
+Lincoln OK folds
+Mr.Pulp0 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Js 5s 9d]
+Seat 4: Mr.Pulp0 won 135
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268454487164977153-3-1709060758 - Holdem no limit (10/20) - 2024/02/27 19:05:58 UTC
+Table: 'Starting Block WiPT - Déglingos(760996362)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Lincoln OK (460)
+Seat 4: Mr.Pulp0 (2070)
+Seat 6: P1xel7 (470)
+*** ANTE/BLINDS ***
+Lincoln OK posts small blind 10
+Mr.Pulp0 posts big blind 20
+Dealt to P1xel7 [8c 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Lincoln OK calls 10
+Mr.Pulp0 raises 2050 to 2070 and is all-in
+Lincoln OK calls 440 and is all-in
+*** FLOP *** [Kh 2h Qh]
+*** TURN *** [Kh 2h Qh][4h]
+*** RIVER *** [Kh 2h Qh 4h][8h]
+*** SHOW DOWN ***
+Lincoln OK shows [9c As] (Flush King high)
+Mr.Pulp0 shows [8d Kc] (Flush King high)
+Mr.Pulp0 collected 2070 from side pot 1
+Lincoln OK collected 460 from main pot
+*** SUMMARY ***
+Total pot 2530 | No rake
+Board: [Kh 2h Qh 4h 8h]
+Seat 2: Lincoln OK (small blind) showed [9c As] and won 460 with Flush King high
+Seat 4: Mr.Pulp0 (big blind) showed [8d Kc] and won 2070 with Flush King high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3268454487164977153-4-1709060790 - Holdem no limit (10/20) - 2024/02/27 19:06:30 UTC
+Table: 'Starting Block WiPT - Déglingos(760996362)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Lincoln OK (460)
+Seat 4: Mr.Pulp0 (2070)
+Seat 6: P1xel7 (470)
+*** ANTE/BLINDS ***
+Mr.Pulp0 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [3c 2h]
+*** PRE-FLOP *** 
+Lincoln OK calls 20
+Mr.Pulp0 raises 2050 to 2070 and is all-in
+P1xel7 folds
+Lincoln OK calls 440 and is all-in
+*** FLOP *** [8h 2d 3d]
+*** TURN *** [8h 2d 3d][9c]
+*** RIVER *** [8h 2d 3d 9c][Js]
+*** SHOW DOWN ***
+Lincoln OK shows [6h 7d] (High card : Jack)
+Mr.Pulp0 shows [7s 5d] (High card : Jack)
+Mr.Pulp0 collected 1610 from side pot 1
+Lincoln OK collected 940 from main pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [8h 2d 3d 9c Js]
+Seat 2: Lincoln OK (button) showed [6h 7d] and won 940 with High card : Jack
+Seat 4: Mr.Pulp0 (small blind) showed [7s 5d] and won 1610 with High card : Jack
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268454487164977153-5-1709060811 - Holdem no limit (15/30) - 2024/02/27 19:06:51 UTC
+Table: 'Starting Block WiPT - Déglingos(760996362)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Lincoln OK (940)
+Seat 4: Mr.Pulp0 (1610)
+Seat 6: P1xel7 (450)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Lincoln OK posts big blind 30
+Dealt to P1xel7 [6d 9h]
+*** PRE-FLOP *** 
+Mr.Pulp0 raises 1580 to 1610 and is all-in
+P1xel7 folds
+Lincoln OK calls 910 and is all-in
+*** FLOP *** [2c Kd Ad]
+*** TURN *** [2c Kd Ad][4h]
+*** RIVER *** [2c Kd Ad 4h][5c]
+*** SHOW DOWN ***
+Lincoln OK shows [Js Ac] (One pair : Aces)
+Mr.Pulp0 shows [7h Qs] (High card : Ace)
+Mr.Pulp0 collected 670 from side pot 1
+Lincoln OK collected 1895 from main pot
+*** SUMMARY ***
+Total pot 2565 | No rake
+Board: [2c Kd Ad 4h 5c]
+Seat 2: Lincoln OK (big blind) showed [Js Ac] and won 1895 with One pair : Aces
+Seat 4: Mr.Pulp0 (button) showed [7h Qs] and won 670 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268454487164977153-6-1709060831 - Holdem no limit (15/30) - 2024/02/27 19:07:11 UTC
+Table: 'Starting Block WiPT - Déglingos(760996362)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Lincoln OK (1895)
+Seat 4: Mr.Pulp0 (670)
+Seat 6: P1xel7 (435)
+*** ANTE/BLINDS ***
+Lincoln OK posts small blind 15
+Mr.Pulp0 posts big blind 30
+Dealt to P1xel7 [Jc 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Lincoln OK calls 15
+Mr.Pulp0 raises 640 to 670 and is all-in
+Lincoln OK folds
+Mr.Pulp0 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 4: Mr.Pulp0 (big blind) won 700
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268454487164977153-7-1709060861 - Holdem no limit (15/30) - 2024/02/27 19:07:41 UTC
+Table: 'Starting Block WiPT - Déglingos(760996362)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Lincoln OK (1865)
+Seat 4: Mr.Pulp0 (700)
+Seat 6: P1xel7 (435)
+*** ANTE/BLINDS ***
+Mr.Pulp0 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [5s 9s]
+*** PRE-FLOP *** 
+Lincoln OK folds
+Mr.Pulp0 raises 670 to 700 and is all-in
+P1xel7 folds
+Mr.Pulp0 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | No rake
+Seat 4: Mr.Pulp0 (small blind) won 730
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3268454487164977153-8-1709060875 - Holdem no limit (15/30) - 2024/02/27 19:07:55 UTC
+Table: 'Starting Block WiPT - Déglingos(760996362)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Lincoln OK (1865)
+Seat 4: Mr.Pulp0 (730)
+Seat 6: P1xel7 (405)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Lincoln OK posts big blind 30
+Dealt to P1xel7 [5h Ac]
+*** PRE-FLOP *** 
+Mr.Pulp0 raises 700 to 730 and is all-in
+P1xel7 folds
+Lincoln OK calls 700
+*** FLOP *** [Kd Qc 3h]
+*** TURN *** [Kd Qc 3h][7s]
+*** RIVER *** [Kd Qc 3h 7s][Jd]
+*** SHOW DOWN ***
+Lincoln OK shows [2h Qh] (One pair : Queens)
+Mr.Pulp0 shows [Qs 5c] (One pair : Queens)
+Mr.Pulp0 collected 738 from pot
+Lincoln OK collected 737 from pot
+*** SUMMARY ***
+Total pot 1475 | No rake
+Board: [Kd Qc 3h 7s Jd]
+Seat 2: Lincoln OK (big blind) showed [2h Qh] and won 737 with One pair : Queens
+Seat 4: Mr.Pulp0 (button) showed [Qs 5c] and won 738 with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268454487164977153-9-1709060896 - Holdem no limit (20/40) - 2024/02/27 19:08:16 UTC
+Table: 'Starting Block WiPT - Déglingos(760996362)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Lincoln OK (1872)
+Seat 4: Mr.Pulp0 (738)
+Seat 6: P1xel7 (390)
+*** ANTE/BLINDS ***
+Lincoln OK posts small blind 20
+Mr.Pulp0 posts big blind 40
+Dealt to P1xel7 [Th 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Lincoln OK folds
+Mr.Pulp0 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: Mr.Pulp0 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3268454487164977153-10-1709060905 - Holdem no limit (20/40) - 2024/02/27 19:08:25 UTC
+Table: 'Starting Block WiPT - Déglingos(760996362)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Lincoln OK (1852)
+Seat 4: Mr.Pulp0 (758)
+Seat 6: P1xel7 (390)
+*** ANTE/BLINDS ***
+Mr.Pulp0 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Ac Jc]
+*** PRE-FLOP *** 
+Lincoln OK folds
+Mr.Pulp0 raises 718 to 758 and is all-in
+P1xel7 calls 350 and is all-in
+*** FLOP *** [7c 5c Kh]
+*** TURN *** [7c 5c Kh][2d]
+*** RIVER *** [7c 5c Kh 2d][8h]
+*** SHOW DOWN ***
+P1xel7 shows [Ac Jc] (High card : Ace)
+Mr.Pulp0 shows [Ks 3c] (One pair : Kings)
+Mr.Pulp0 collected 1148 from pot
+*** SUMMARY ***
+Total pot 1148 | No rake
+Board: [7c 5c Kh 2d 8h]
+Seat 4: Mr.Pulp0 (small blind) showed [Ks 3c] and won 1148 with One pair : Kings
+Seat 6: P1xel7 (big blind) showed [Ac Jc] and lost with High card : Ace
+
+

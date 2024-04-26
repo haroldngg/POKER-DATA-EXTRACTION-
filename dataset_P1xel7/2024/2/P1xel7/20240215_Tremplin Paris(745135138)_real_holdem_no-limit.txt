@@ -1,0 +1,1314 @@
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3200331048810447293-23-1708024823 - Holdem no limit (20/40) - 2024/02/15 19:20:23 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #7 is the button
+Seat 1: RoscoDunn (6036)
+Seat 2: Vidal92i (2865)
+Seat 3: chironex f (3810)
+Seat 4: Galau (2850)
+Seat 5: FB-Kaiser888 (2850)
+Seat 6: P1xel7 (3000)
+Seat 7: Chaouki20600 (8921)
+Seat 8: leFosoyeur90 (4090)
+*** ANTE/BLINDS ***
+leFosoyeur90 posts small blind 20
+RoscoDunn posts big blind 40
+Dealt to P1xel7 [As 7s]
+*** PRE-FLOP *** 
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 raises 40 to 80
+Chaouki20600 raises 220 to 300
+leFosoyeur90 folds
+RoscoDunn folds
+P1xel7 folds
+Chaouki20600 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 7: Chaouki20600 (button) won 440
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3200331048810447293-24-1708024842 - Holdem no limit (20/40) - 2024/02/15 19:20:42 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #8 is the button
+Seat 1: RoscoDunn (5996)
+Seat 2: Vidal92i (2865)
+Seat 3: chironex f (3810)
+Seat 4: Galau (2850)
+Seat 5: FB-Kaiser888 (2850)
+Seat 6: P1xel7 (2920)
+Seat 7: Chaouki20600 (9061)
+Seat 8: leFosoyeur90 (4070)
+*** ANTE/BLINDS ***
+RoscoDunn posts small blind 20
+Vidal92i posts big blind 40
+Dealt to P1xel7 [9s 5d]
+*** PRE-FLOP *** 
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+Chaouki20600 calls 40
+leFosoyeur90 calls 40
+RoscoDunn calls 20
+Vidal92i folds
+*** FLOP *** [3h Kh 4c]
+RoscoDunn checks
+Chaouki20600 checks
+leFosoyeur90 bets 160
+RoscoDunn calls 160
+Chaouki20600 folds
+*** TURN *** [3h Kh 4c][Ad]
+RoscoDunn checks
+leFosoyeur90 bets 480
+RoscoDunn calls 480
+*** RIVER *** [3h Kh 4c Ad][6d]
+RoscoDunn checks
+leFosoyeur90 checks
+*** SHOW DOWN ***
+RoscoDunn shows [Kc 9d] (One pair : Kings)
+leFosoyeur90 shows [Ah 5s] (One pair : Aces)
+leFosoyeur90 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [3h Kh 4c Ad 6d]
+Seat 1: RoscoDunn (small blind) showed [Kc 9d] and lost with One pair : Kings
+Seat 8: leFosoyeur90 (button) showed [Ah 5s] and won 1440 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3200331048810447293-25-1708024913 - Holdem no limit (20/40) - 2024/02/15 19:21:53 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #1 is the button
+Seat 1: RoscoDunn (5316)
+Seat 2: Vidal92i (2825)
+Seat 3: chironex f (3810)
+Seat 4: Galau (2850)
+Seat 5: FB-Kaiser888 (2850)
+Seat 6: P1xel7 (2920)
+Seat 7: Chaouki20600 (9021)
+Seat 8: leFosoyeur90 (4830)
+*** ANTE/BLINDS ***
+Vidal92i posts small blind 20
+chironex f posts big blind 40
+Dealt to P1xel7 [5d Jh]
+*** PRE-FLOP *** 
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+Chaouki20600 calls 40
+leFosoyeur90 calls 40
+RoscoDunn raises 80 to 120
+Vidal92i folds
+chironex f folds
+Chaouki20600 raises 8901 to 9021 and is all-in
+leFosoyeur90 folds
+RoscoDunn folds
+Chaouki20600 collected 9241 from pot
+*** SUMMARY ***
+Total pot 9241 | No rake
+Seat 7: Chaouki20600 won 9241
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3200331048810447293-26-1708024965 - Holdem no limit (20/40) - 2024/02/15 19:22:45 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #2 is the button
+Seat 1: RoscoDunn (5196)
+Seat 2: Vidal92i (2805)
+Seat 3: chironex f (3770)
+Seat 4: Galau (2850)
+Seat 5: FB-Kaiser888 (2850)
+Seat 6: P1xel7 (2920)
+Seat 7: Chaouki20600 (9241)
+Seat 8: leFosoyeur90 (4790)
+*** ANTE/BLINDS ***
+chironex f posts small blind 20
+Galau posts big blind 40
+Dealt to P1xel7 [7s 9d]
+*** PRE-FLOP *** 
+FB-Kaiser888 folds
+P1xel7 folds
+Chaouki20600 raises 9201 to 9241 and is all-in
+leFosoyeur90 calls 4790 and is all-in
+RoscoDunn folds
+Vidal92i folds
+chironex f folds
+Galau folds
+*** FLOP *** [Qs Jd 7c]
+*** TURN *** [Qs Jd 7c][2s]
+*** RIVER *** [Qs Jd 7c 2s][Tc]
+*** SHOW DOWN ***
+Chaouki20600 shows [9h 6c] (High card : Queen)
+leFosoyeur90 shows [Ac Kh] (Straight Ace high)
+leFosoyeur90 collected 9640 from main pot
+Chaouki20600 collected 4451 from side pot 1
+*** SUMMARY ***
+Total pot 14091 | No rake
+Board: [Qs Jd 7c 2s Tc]
+Seat 7: Chaouki20600 showed [9h 6c] and won 4451 with High card : Queen
+Seat 8: leFosoyeur90 showed [Ac Kh] and won 9640 with Straight Ace high
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3200331048810447293-27-1708025015 - Holdem no limit (20/40) - 2024/02/15 19:23:35 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #3 is the button
+Seat 1: RoscoDunn (5196)
+Seat 2: Vidal92i (2805)
+Seat 3: chironex f (3750)
+Seat 4: Galau (2810)
+Seat 5: FB-Kaiser888 (2850)
+Seat 6: P1xel7 (2920)
+Seat 7: Chaouki20600 (4451)
+Seat 8: leFosoyeur90 (9640)
+*** ANTE/BLINDS ***
+Galau posts small blind 20
+FB-Kaiser888 posts big blind 40
+Dealt to P1xel7 [4d 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Chaouki20600 folds
+leFosoyeur90 raises 60 to 100
+RoscoDunn folds
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+leFosoyeur90 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 8: leFosoyeur90 won 160
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-28-1708025078 - Holdem no limit (30/60) - 2024/02/15 19:24:38 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #4 is the button
+Seat 1: RoscoDunn (5196)
+Seat 2: Vidal92i (2805)
+Seat 3: chironex f (3750)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2810)
+Seat 6: P1xel7 (2920)
+Seat 7: Chaouki20600 (4451)
+Seat 8: leFosoyeur90 (9700)
+*** ANTE/BLINDS ***
+FB-Kaiser888 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [5h 7d]
+*** PRE-FLOP *** 
+Chaouki20600 folds
+leFosoyeur90 folds
+RoscoDunn raises 90 to 150
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+RoscoDunn collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: RoscoDunn won 240
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-29-1708025105 - Holdem no limit (30/60) - 2024/02/15 19:25:05 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #5 is the button
+Seat 1: RoscoDunn (5286)
+Seat 2: Vidal92i (2805)
+Seat 3: chironex f (3750)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2780)
+Seat 6: P1xel7 (2860)
+Seat 7: Chaouki20600 (4451)
+Seat 8: leFosoyeur90 (9700)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Chaouki20600 posts big blind 60
+Dealt to P1xel7 [5h 4d]
+*** PRE-FLOP *** 
+leFosoyeur90 folds
+RoscoDunn raises 60 to 120
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+Chaouki20600 raises 4331 to 4451 and is all-in
+RoscoDunn folds
+Chaouki20600 collected 4601 from pot
+*** SUMMARY ***
+Total pot 4601 | No rake
+Seat 7: Chaouki20600 (big blind) won 4601
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-30-1708025144 - Holdem no limit (30/60) - 2024/02/15 19:25:44 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #6 is the button
+Seat 1: RoscoDunn (5166)
+Seat 2: Vidal92i (2805)
+Seat 3: chironex f (3750)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2780)
+Seat 6: P1xel7 (2830)
+Seat 7: Chaouki20600 (4601)
+Seat 8: leFosoyeur90 (9700)
+*** ANTE/BLINDS ***
+Chaouki20600 posts small blind 30
+leFosoyeur90 posts big blind 60
+Dealt to P1xel7 [2h Ad]
+*** PRE-FLOP *** 
+RoscoDunn folds
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 raises 72 to 132
+Chaouki20600 raises 4469 to 4601 and is all-in
+leFosoyeur90 calls 4541
+P1xel7 folds
+*** FLOP *** [5h 4c 8h]
+*** TURN *** [5h 4c 8h][Td]
+*** RIVER *** [5h 4c 8h Td][9h]
+*** SHOW DOWN ***
+Chaouki20600 shows [7s Ac] (High card : Ace)
+leFosoyeur90 shows [As 8s] (One pair : 8)
+leFosoyeur90 collected 9334 from pot
+*** SUMMARY ***
+Total pot 9334 | No rake
+Board: [5h 4c 8h Td 9h]
+Seat 7: Chaouki20600 (small blind) showed [7s Ac] and lost with High card : Ace
+Seat 8: leFosoyeur90 (big blind) showed [As 8s] and won 9334 with One pair : 8
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-31-1708025186 - Holdem no limit (30/60) - 2024/02/15 19:26:26 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #7 is the button
+Seat 1: RoscoDunn (5166)
+Seat 2: Vidal92i (2805)
+Seat 3: chironex f (3750)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2780)
+Seat 6: P1xel7 (2698)
+Seat 8: leFosoyeur90 (14433)
+*** ANTE/BLINDS ***
+leFosoyeur90 posts small blind 30
+RoscoDunn posts big blind 60
+Dealt to P1xel7 [Th 5s]
+*** PRE-FLOP *** 
+Vidal92i folds
+chironex f calls 60
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+leFosoyeur90 calls 30
+RoscoDunn checks
+*** FLOP *** [9h Jd 6c]
+leFosoyeur90 checks
+RoscoDunn bets 117
+chironex f calls 117
+leFosoyeur90 calls 117
+*** TURN *** [9h Jd 6c][4s]
+leFosoyeur90 bets 345
+RoscoDunn folds
+chironex f calls 345
+*** RIVER *** [9h Jd 6c 4s][7c]
+leFosoyeur90 bets 794
+chironex f calls 794
+*** SHOW DOWN ***
+leFosoyeur90 shows [Qc Kd] (High card : King)
+chironex f shows [Ad 7d] (One pair : 7)
+chironex f collected 2809 from pot
+*** SUMMARY ***
+Total pot 2809 | No rake
+Board: [9h Jd 6c 4s 7c]
+Seat 3: chironex f showed [Ad 7d] and won 2809 with One pair : 7
+Seat 8: leFosoyeur90 (small blind) showed [Qc Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-32-1708025243 - Holdem no limit (30/60) - 2024/02/15 19:27:23 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #8 is the button
+Seat 1: RoscoDunn (4989)
+Seat 2: Vidal92i (2805)
+Seat 3: chironex f (5243)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2780)
+Seat 6: P1xel7 (2698)
+Seat 7: ace7676 (3000)
+Seat 8: leFosoyeur90 (13117)
+*** ANTE/BLINDS ***
+RoscoDunn posts small blind 30
+Vidal92i posts big blind 60
+Dealt to P1xel7 [Qs 7s]
+*** PRE-FLOP *** 
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+ace7676 raises 150 to 210
+leFosoyeur90 folds
+RoscoDunn folds
+Vidal92i folds
+ace7676 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 7: ace7676 won 300
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-33-1708025262 - Holdem no limit (30/60) - 2024/02/15 19:27:42 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #1 is the button
+Seat 1: RoscoDunn (4959)
+Seat 2: Vidal92i (2745)
+Seat 3: chironex f (5243)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2780)
+Seat 6: P1xel7 (2698)
+Seat 7: ace7676 (3090)
+Seat 8: leFosoyeur90 (13117)
+*** ANTE/BLINDS ***
+Vidal92i posts small blind 30
+chironex f posts big blind 60
+Dealt to P1xel7 [Jh Qh]
+*** PRE-FLOP *** 
+Galau folds
+FB-Kaiser888 folds
+P1xel7 raises 60 to 120
+ace7676 calls 120
+leFosoyeur90 calls 120
+RoscoDunn calls 120
+Vidal92i folds
+chironex f calls 60
+*** FLOP *** [5h As 3d]
+chironex f checks
+P1xel7 checks
+ace7676 checks
+leFosoyeur90 checks
+RoscoDunn checks
+*** TURN *** [5h As 3d][Js]
+chironex f checks
+P1xel7 checks
+ace7676 checks
+leFosoyeur90 bets 410
+RoscoDunn folds
+chironex f folds
+P1xel7 calls 410
+ace7676 calls 410
+*** RIVER *** [5h As 3d Js][Ah]
+P1xel7 checks
+ace7676 checks
+leFosoyeur90 checks
+*** SHOW DOWN ***
+ace7676 shows [8c 2c] (One pair : Aces)
+leFosoyeur90 shows [4d 6h] (One pair : Aces)
+P1xel7 shows [Jh Qh] (Two pairs : Aces and Jacks)
+P1xel7 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [5h As 3d Js Ah]
+Seat 6: P1xel7 showed [Jh Qh] and won 1860 with Two pairs : Aces and Jacks
+Seat 7: ace7676 showed [8c 2c] and lost with One pair : Aces
+Seat 8: leFosoyeur90 showed [4d 6h] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-34-1708025372 - Holdem no limit (30/60) - 2024/02/15 19:29:32 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #2 is the button
+Seat 1: RoscoDunn (4839)
+Seat 2: Vidal92i (2715)
+Seat 3: chironex f (5123)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2780)
+Seat 6: P1xel7 (4028)
+Seat 7: ace7676 (2560)
+Seat 8: leFosoyeur90 (12587)
+*** ANTE/BLINDS ***
+chironex f posts small blind 30
+Galau posts big blind 60
+Dealt to P1xel7 [5h Qd]
+*** PRE-FLOP *** 
+FB-Kaiser888 folds
+P1xel7 folds
+ace7676 folds
+leFosoyeur90 folds
+RoscoDunn folds
+Vidal92i folds
+chironex f folds
+Galau collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 4: Galau (big blind) won 90
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-35-1708025402 - Holdem no limit (30/60) - 2024/02/15 19:30:02 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #3 is the button
+Seat 1: RoscoDunn (4839)
+Seat 2: Vidal92i (2715)
+Seat 3: chironex f (5093)
+Seat 4: Galau (2820)
+Seat 5: FB-Kaiser888 (2780)
+Seat 6: P1xel7 (4028)
+Seat 7: ace7676 (2560)
+Seat 8: leFosoyeur90 (12587)
+*** ANTE/BLINDS ***
+Galau posts small blind 30
+FB-Kaiser888 posts big blind 60
+Dealt to P1xel7 [3d 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+ace7676 folds
+leFosoyeur90 raises 150 to 210
+RoscoDunn folds
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+leFosoyeur90 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 8: leFosoyeur90 won 300
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-36-1708025434 - Holdem no limit (30/60) - 2024/02/15 19:30:34 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #4 is the button
+Seat 1: RoscoDunn (4839)
+Seat 2: Vidal92i (2715)
+Seat 3: chironex f (5093)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2720)
+Seat 6: P1xel7 (4028)
+Seat 7: ace7676 (2560)
+Seat 8: leFosoyeur90 (12677)
+*** ANTE/BLINDS ***
+FB-Kaiser888 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Jh Kh]
+*** PRE-FLOP *** 
+ace7676 folds
+leFosoyeur90 folds
+RoscoDunn folds
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-37-1708025467 - Holdem no limit (30/60) - 2024/02/15 19:31:07 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #5 is the button
+Seat 1: RoscoDunn (4839)
+Seat 2: Vidal92i (2715)
+Seat 3: chironex f (5093)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2690)
+Seat 6: P1xel7 (4058)
+Seat 7: ace7676 (2560)
+Seat 8: leFosoyeur90 (12677)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+ace7676 posts big blind 60
+Dealt to P1xel7 [7c 2s]
+*** PRE-FLOP *** 
+leFosoyeur90 raises 90 to 150
+RoscoDunn calls 150
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+ace7676 raises 480 to 630
+leFosoyeur90 calls 480
+RoscoDunn folds
+*** FLOP *** [Ad 7d 9d]
+ace7676 bets 1440
+leFosoyeur90 calls 1440
+*** TURN *** [Ad 7d 9d][Jc]
+ace7676 bets 490 and is all-in
+leFosoyeur90 calls 490
+*** RIVER *** [Ad 7d 9d Jc][Kh]
+*** SHOW DOWN ***
+ace7676 shows [8c 6d] (High card : Ace)
+leFosoyeur90 shows [7h Jd] (Two pairs : Jacks and 7)
+leFosoyeur90 collected 5300 from pot
+*** SUMMARY ***
+Total pot 5300 | No rake
+Board: [Ad 7d 9d Jc Kh]
+Seat 7: ace7676 (big blind) showed [8c 6d] and lost with High card : Ace
+Seat 8: leFosoyeur90 showed [7h Jd] and won 5300 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3200331048810447293-38-1708025532 - Holdem no limit (30/60) - 2024/02/15 19:32:12 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #6 is the button
+Seat 1: RoscoDunn (4689)
+Seat 2: Vidal92i (2715)
+Seat 3: chironex f (5093)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2690)
+Seat 6: P1xel7 (4028)
+Seat 8: leFosoyeur90 (15417)
+*** ANTE/BLINDS ***
+leFosoyeur90 posts big blind 60
+Dealt to P1xel7 [5s As]
+*** PRE-FLOP *** 
+RoscoDunn calls 60
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 raises 60 to 120
+leFosoyeur90 calls 60
+RoscoDunn calls 60
+*** FLOP *** [7s Td Th]
+leFosoyeur90 checks
+RoscoDunn bets 360
+P1xel7 folds
+leFosoyeur90 calls 360
+*** TURN *** [7s Td Th][6s]
+leFosoyeur90 checks
+RoscoDunn checks
+*** RIVER *** [7s Td Th 6s][7d]
+leFosoyeur90 bets 702
+RoscoDunn folds
+leFosoyeur90 collected 1782 from pot
+*** SUMMARY ***
+Total pot 1782 | No rake
+Board: [7s Td Th 6s 7d]
+Seat 8: leFosoyeur90 (big blind) won 1782
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-39-1708025595 - Holdem no limit (40/80) - 2024/02/15 19:33:15 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #7 is the button
+Seat 1: RoscoDunn (4209)
+Seat 2: Vidal92i (2715)
+Seat 3: chironex f (5093)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2690)
+Seat 6: P1xel7 (3908)
+Seat 7: Cruchcruch (3000)
+Seat 8: leFosoyeur90 (16017)
+*** ANTE/BLINDS ***
+leFosoyeur90 posts small blind 40
+RoscoDunn posts big blind 80
+Dealt to P1xel7 [Ks 8c]
+*** PRE-FLOP *** 
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+leFosoyeur90 raises 120 to 200
+RoscoDunn folds
+leFosoyeur90 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 8: leFosoyeur90 (small blind) won 280
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-40-1708025623 - Holdem no limit (40/80) - 2024/02/15 19:33:43 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #8 is the button
+Seat 1: RoscoDunn (4129)
+Seat 2: Vidal92i (2715)
+Seat 3: chironex f (5093)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2690)
+Seat 6: P1xel7 (3908)
+Seat 7: Cruchcruch (3000)
+Seat 8: leFosoyeur90 (16097)
+*** ANTE/BLINDS ***
+RoscoDunn posts small blind 40
+Vidal92i posts big blind 80
+Dealt to P1xel7 [2c Ac]
+*** PRE-FLOP *** 
+chironex f raises 160 to 240
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+Cruchcruch folds
+leFosoyeur90 folds
+RoscoDunn calls 200
+Vidal92i folds
+*** FLOP *** [7s Ks 7d]
+RoscoDunn checks
+chironex f bets 560
+RoscoDunn folds
+chironex f collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [7s Ks 7d]
+Seat 3: chironex f won 1120
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-41-1708025667 - Holdem no limit (40/80) - 2024/02/15 19:34:27 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #1 is the button
+Seat 1: RoscoDunn (3889)
+Seat 2: Vidal92i (2635)
+Seat 3: chironex f (5413)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2690)
+Seat 6: P1xel7 (3908)
+Seat 7: Cruchcruch (3000)
+Seat 8: leFosoyeur90 (16097)
+*** ANTE/BLINDS ***
+Vidal92i posts small blind 40
+chironex f posts big blind 80
+Dealt to P1xel7 [9c Js]
+*** PRE-FLOP *** 
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+Cruchcruch calls 80
+leFosoyeur90 calls 80
+RoscoDunn raises 3809 to 3889 and is all-in
+Vidal92i folds
+chironex f calls 3809
+Cruchcruch calls 2920 and is all-in
+leFosoyeur90 folds
+*** FLOP *** [2d Ks Ah]
+*** TURN *** [2d Ks Ah][3h]
+*** RIVER *** [2d Ks Ah 3h][Th]
+*** SHOW DOWN ***
+RoscoDunn shows [8c 8h] (One pair : 8)
+Cruchcruch shows [Kd 7c] (One pair : Kings)
+chironex f shows [As Qs] (One pair : Aces)
+chironex f collected 10898 from pot
+*** SUMMARY ***
+Total pot 10898 | No rake
+Board: [2d Ks Ah 3h Th]
+Seat 1: RoscoDunn (button) showed [8c 8h] and lost with One pair : 8
+Seat 3: chironex f (big blind) showed [As Qs] and won 10898 with One pair : Aces
+Seat 7: Cruchcruch showed [Kd 7c] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-42-1708025702 - Holdem no limit (40/80) - 2024/02/15 19:35:02 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #2 is the button
+Seat 2: Vidal92i (2595)
+Seat 3: chironex f (12422)
+Seat 4: Galau (2790)
+Seat 5: FB-Kaiser888 (2690)
+Seat 6: P1xel7 (3908)
+Seat 8: leFosoyeur90 (16017)
+*** ANTE/BLINDS ***
+chironex f posts small blind 40
+Galau posts big blind 80
+Dealt to P1xel7 [Jd 2c]
+*** PRE-FLOP *** 
+FB-Kaiser888 folds
+P1xel7 folds
+leFosoyeur90 raises 120 to 200
+Vidal92i folds
+chironex f calls 160
+Galau folds
+*** FLOP *** [Qs 7s Kc]
+chironex f checks
+leFosoyeur90 bets 312
+chironex f raises 312 to 624
+leFosoyeur90 folds
+chironex f collected 1416 from pot
+*** SUMMARY ***
+Total pot 1416 | No rake
+Board: [Qs 7s Kc]
+Seat 3: chironex f (small blind) won 1416
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-43-1708025732 - Holdem no limit (40/80) - 2024/02/15 19:35:32 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #3 is the button
+Seat 1: tigre2015 (8906)
+Seat 2: Vidal92i (2595)
+Seat 3: chironex f (13014)
+Seat 4: Galau (2710)
+Seat 5: FB-Kaiser888 (2690)
+Seat 6: P1xel7 (3908)
+Seat 8: leFosoyeur90 (15505)
+*** ANTE/BLINDS ***
+Galau posts small blind 40
+FB-Kaiser888 posts big blind 80
+Dealt to P1xel7 [Kc 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+leFosoyeur90 folds
+tigre2015 folds
+Vidal92i folds
+chironex f raises 80 to 160
+Galau folds
+FB-Kaiser888 folds
+chironex f collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: chironex f (button) won 280
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-44-1708025745 - Holdem no limit (40/80) - 2024/02/15 19:35:45 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #4 is the button
+Seat 1: tigre2015 (8906)
+Seat 2: Vidal92i (2595)
+Seat 3: chironex f (13134)
+Seat 4: Galau (2670)
+Seat 5: FB-Kaiser888 (2610)
+Seat 6: P1xel7 (3908)
+Seat 8: leFosoyeur90 (15505)
+*** ANTE/BLINDS ***
+FB-Kaiser888 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [5c 2c]
+*** PRE-FLOP *** 
+leFosoyeur90 folds
+tigre2015 raises 160 to 240
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+tigre2015 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 1: tigre2015 won 360
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-45-1708025772 - Holdem no limit (40/80) - 2024/02/15 19:36:12 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #5 is the button
+Seat 1: tigre2015 (9026)
+Seat 2: Vidal92i (2595)
+Seat 3: chironex f (13134)
+Seat 4: Galau (2670)
+Seat 5: FB-Kaiser888 (2570)
+Seat 6: P1xel7 (3828)
+Seat 8: leFosoyeur90 (15505)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+leFosoyeur90 posts big blind 80
+Dealt to P1xel7 [4s Kh]
+*** PRE-FLOP *** 
+tigre2015 folds
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+leFosoyeur90 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 8: leFosoyeur90 (big blind) won 120
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-46-1708025785 - Holdem no limit (40/80) - 2024/02/15 19:36:25 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #6 is the button
+Seat 1: tigre2015 (9026)
+Seat 2: Vidal92i (2595)
+Seat 3: chironex f (13134)
+Seat 4: Galau (2670)
+Seat 5: FB-Kaiser888 (2570)
+Seat 6: P1xel7 (3788)
+Seat 8: leFosoyeur90 (15545)
+*** ANTE/BLINDS ***
+leFosoyeur90 posts small blind 40
+tigre2015 posts big blind 80
+Dealt to P1xel7 [9h Kc]
+*** PRE-FLOP *** 
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 raises 80 to 160
+leFosoyeur90 calls 120
+tigre2015 calls 80
+*** FLOP *** [4s 7c 6s]
+leFosoyeur90 checks
+tigre2015 bets 480
+P1xel7 folds
+leFosoyeur90 calls 480
+*** TURN *** [4s 7c 6s][9c]
+leFosoyeur90 checks
+tigre2015 bets 936
+leFosoyeur90 calls 936
+*** RIVER *** [4s 7c 6s 9c][3c]
+leFosoyeur90 checks
+tigre2015 checks
+*** SHOW DOWN ***
+leFosoyeur90 shows [As Tc] (High card : Ace)
+tigre2015 shows [7s 2s] (One pair : 7)
+tigre2015 collected 3312 from pot
+*** SUMMARY ***
+Total pot 3312 | No rake
+Board: [4s 7c 6s 9c 3c]
+Seat 1: tigre2015 (big blind) showed [7s 2s] and won 3312 with One pair : 7
+Seat 8: leFosoyeur90 (small blind) showed [As Tc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-47-1708025829 - Holdem no limit (40/80) - 2024/02/15 19:37:09 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #8 is the button
+Seat 1: tigre2015 (10762)
+Seat 2: Vidal92i (2595)
+Seat 3: chironex f (13134)
+Seat 4: Galau (2670)
+Seat 5: FB-Kaiser888 (2570)
+Seat 6: P1xel7 (3628)
+Seat 8: leFosoyeur90 (13969)
+*** ANTE/BLINDS ***
+tigre2015 posts small blind 40
+Vidal92i posts big blind 80
+Dealt to P1xel7 [Td Th]
+*** PRE-FLOP *** 
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 raises 96 to 176
+leFosoyeur90 folds
+tigre2015 calls 136
+Vidal92i folds
+*** FLOP *** [Ac 4s Jh]
+tigre2015 bets 281
+P1xel7 calls 281
+*** TURN *** [Ac 4s Jh][9d]
+tigre2015 bets 348
+P1xel7 folds
+tigre2015 collected 1342 from pot
+*** SUMMARY ***
+Total pot 1342 | No rake
+Board: [Ac 4s Jh 9d]
+Seat 1: tigre2015 (small blind) won 1342
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-48-1708025858 - Holdem no limit (40/80) - 2024/02/15 19:37:38 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #1 is the button
+Seat 1: tigre2015 (11299)
+Seat 2: Vidal92i (2515)
+Seat 3: chironex f (13134)
+Seat 4: Galau (2670)
+Seat 5: FB-Kaiser888 (2570)
+Seat 6: P1xel7 (3171)
+Seat 8: leFosoyeur90 (13969)
+*** ANTE/BLINDS ***
+Vidal92i posts small blind 40
+chironex f posts big blind 80
+Dealt to P1xel7 [8h 9c]
+*** PRE-FLOP *** 
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+leFosoyeur90 raises 120 to 200
+tigre2015 calls 200
+Vidal92i folds
+chironex f raises 500 to 700
+leFosoyeur90 calls 500
+tigre2015 calls 500
+*** FLOP *** [Kh Ac Ts]
+chironex f bets 1605
+leFosoyeur90 folds
+tigre2015 calls 1605
+*** TURN *** [Kh Ac Ts][9h]
+chironex f bets 4013
+tigre2015 raises 4981 to 8994 and is all-in
+chironex f raises 1835 to 10829 and is all-in
+*** RIVER *** [Kh Ac Ts 9h][Jc]
+*** SHOW DOWN ***
+tigre2015 shows [Ks Qh] (Straight Ace high)
+chironex f shows [Kc As] (Two pairs : Aces and Kings)
+chironex f collected 1835 from side pot 1
+tigre2015 collected 23338 from main pot
+*** SUMMARY ***
+Total pot 25173 | No rake
+Board: [Kh Ac Ts 9h Jc]
+Seat 1: tigre2015 (button) showed [Ks Qh] and won 23338 with Straight Ace high
+Seat 3: chironex f (big blind) showed [Kc As] and won 1835 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-49-1708025917 - Holdem no limit (40/80) - 2024/02/15 19:38:37 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #2 is the button
+Seat 1: tigre2015 (23338)
+Seat 2: Vidal92i (2475)
+Seat 3: chironex f (1835)
+Seat 4: Galau (2670)
+Seat 5: FB-Kaiser888 (2570)
+Seat 6: P1xel7 (3171)
+Seat 8: leFosoyeur90 (13269)
+*** ANTE/BLINDS ***
+chironex f posts small blind 40
+Galau posts big blind 80
+Dealt to P1xel7 [Ad 9d]
+*** PRE-FLOP *** 
+FB-Kaiser888 folds
+P1xel7 raises 80 to 160
+leFosoyeur90 folds
+tigre2015 folds
+Vidal92i folds
+chironex f folds
+Galau folds
+P1xel7 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: P1xel7 won 280
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-50-1708025935 - Holdem no limit (40/80) - 2024/02/15 19:38:55 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #3 is the button
+Seat 1: tigre2015 (23338)
+Seat 2: Vidal92i (2475)
+Seat 3: chironex f (1795)
+Seat 4: Galau (2590)
+Seat 5: FB-Kaiser888 (2570)
+Seat 6: P1xel7 (3291)
+Seat 8: leFosoyeur90 (13269)
+*** ANTE/BLINDS ***
+Galau posts small blind 40
+FB-Kaiser888 posts big blind 80
+Dealt to P1xel7 [7s Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+leFosoyeur90 folds
+tigre2015 folds
+Vidal92i folds
+chironex f raises 80 to 160
+Galau folds
+FB-Kaiser888 folds
+chironex f collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: chironex f (button) won 280
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-51-1708025953 - Holdem no limit (40/80) - 2024/02/15 19:39:13 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #4 is the button
+Seat 1: tigre2015 (23338)
+Seat 2: Vidal92i (2475)
+Seat 3: chironex f (1915)
+Seat 4: Galau (2550)
+Seat 5: FB-Kaiser888 (2490)
+Seat 6: P1xel7 (3291)
+Seat 7: dylme (3000)
+Seat 8: leFosoyeur90 (13269)
+*** ANTE/BLINDS ***
+FB-Kaiser888 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [7h Kc]
+*** PRE-FLOP *** 
+dylme calls 80
+leFosoyeur90 raises 280 to 360
+tigre2015 folds
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+dylme calls 280
+*** FLOP *** [9h 8c 6c]
+dylme checks
+leFosoyeur90 bets 840
+dylme folds
+leFosoyeur90 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Board: [9h 8c 6c]
+Seat 8: leFosoyeur90 won 1680
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3200331048810447293-52-1708025986 - Holdem no limit (40/80) - 2024/02/15 19:39:46 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #5 is the button
+Seat 1: tigre2015 (23338)
+Seat 2: Vidal92i (2475)
+Seat 3: chironex f (1915)
+Seat 4: Galau (2550)
+Seat 5: FB-Kaiser888 (2450)
+Seat 6: P1xel7 (3211)
+Seat 7: dylme (2640)
+Seat 8: leFosoyeur90 (13749)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+dylme posts big blind 80
+Dealt to P1xel7 [As 7d]
+*** PRE-FLOP *** 
+leFosoyeur90 folds
+tigre2015 folds
+Vidal92i folds
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 raises 96 to 176
+dylme calls 96
+*** FLOP *** [Ts 2h 9d]
+P1xel7 bets 123
+dylme raises 346 to 469
+P1xel7 folds
+dylme collected 944 from pot
+*** SUMMARY ***
+Total pot 944 | No rake
+Board: [Ts 2h 9d]
+Seat 7: dylme (big blind) won 944
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3200331048810447293-53-1708026028 - Holdem no limit (60/120) - 2024/02/15 19:40:28 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #6 is the button
+Seat 1: tigre2015 (23338)
+Seat 2: Vidal92i (2475)
+Seat 3: chironex f (1915)
+Seat 4: Galau (2550)
+Seat 5: FB-Kaiser888 (2450)
+Seat 6: P1xel7 (2912)
+Seat 7: dylme (2939)
+Seat 8: leFosoyeur90 (13749)
+*** ANTE/BLINDS ***
+dylme posts small blind 60
+leFosoyeur90 posts big blind 120
+Dealt to P1xel7 [Kh 5h]
+*** PRE-FLOP *** 
+tigre2015 folds
+Vidal92i folds
+chironex f raises 120 to 240
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+dylme calls 180
+leFosoyeur90 calls 120
+*** FLOP *** [3s 7s 4s]
+dylme checks
+leFosoyeur90 bets 720
+chironex f calls 720
+dylme folds
+*** TURN *** [3s 7s 4s][Ks]
+leFosoyeur90 bets 1404
+chironex f calls 955 and is all-in
+*** RIVER *** [3s 7s 4s Ks][Qs]
+*** SHOW DOWN ***
+chironex f shows [As 2d] (Flush Ace high)
+leFosoyeur90 shows [3c Jd] (Flush King high)
+leFosoyeur90 collected 449 from side pot 1
+chironex f collected 4070 from main pot
+*** SUMMARY ***
+Total pot 4519 | No rake
+Board: [3s 7s 4s Ks Qs]
+Seat 3: chironex f showed [As 2d] and won 4070 with Flush Ace high
+Seat 8: leFosoyeur90 (big blind) showed [3c Jd] and won 449 with Flush King high
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3200331048810447293-54-1708026085 - Holdem no limit (60/120) - 2024/02/15 19:41:25 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #7 is the button
+Seat 1: tigre2015 (23338)
+Seat 2: Vidal92i (2475)
+Seat 3: chironex f (4070)
+Seat 4: Galau (2550)
+Seat 5: FB-Kaiser888 (2450)
+Seat 6: P1xel7 (2912)
+Seat 7: dylme (2699)
+Seat 8: leFosoyeur90 (11834)
+*** ANTE/BLINDS ***
+leFosoyeur90 posts small blind 60
+tigre2015 posts big blind 120
+Dealt to P1xel7 [7d Kd]
+*** PRE-FLOP *** 
+Vidal92i folds
+chironex f raises 120 to 240
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+dylme calls 240
+leFosoyeur90 calls 180
+tigre2015 calls 120
+*** FLOP *** [Js Tc 9h]
+leFosoyeur90 checks
+tigre2015 checks
+chironex f checks
+dylme bets 480
+leFosoyeur90 calls 480
+tigre2015 folds
+chironex f calls 480
+*** TURN *** [Js Tc 9h][5c]
+leFosoyeur90 checks
+chironex f checks
+dylme checks
+*** RIVER *** [Js Tc 9h 5c][Ad]
+leFosoyeur90 checks
+chironex f bets 600
+dylme calls 600
+leFosoyeur90 folds
+*** SHOW DOWN ***
+chironex f shows [Ac 3c] (One pair : Aces)
+dylme shows [Qc Ah] (One pair : Aces)
+dylme collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Board: [Js Tc 9h 5c Ad]
+Seat 3: chironex f showed [Ac 3c] and lost with One pair : Aces
+Seat 7: dylme (button) showed [Qc Ah] and won 3600 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3200331048810447293-55-1708026168 - Holdem no limit (60/120) - 2024/02/15 19:42:48 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #8 is the button
+Seat 1: tigre2015 (23098)
+Seat 2: Vidal92i (2475)
+Seat 3: chironex f (2750)
+Seat 4: Galau (2550)
+Seat 5: FB-Kaiser888 (2450)
+Seat 6: P1xel7 (2912)
+Seat 7: dylme (4979)
+Seat 8: leFosoyeur90 (11114)
+*** ANTE/BLINDS ***
+tigre2015 posts small blind 60
+Vidal92i posts big blind 120
+Dealt to P1xel7 [3c 6d]
+*** PRE-FLOP *** 
+chironex f folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+dylme calls 120
+leFosoyeur90 calls 120
+tigre2015 raises 480 to 600
+Vidal92i folds
+dylme calls 480
+leFosoyeur90 calls 480
+*** FLOP *** [6c Jh 8h]
+tigre2015 checks
+dylme checks
+leFosoyeur90 checks
+*** TURN *** [6c Jh 8h][Jc]
+tigre2015 checks
+dylme checks
+leFosoyeur90 bets 1248
+tigre2015 folds
+dylme folds
+leFosoyeur90 collected 3168 from pot
+*** SUMMARY ***
+Total pot 3168 | No rake
+Board: [6c Jh 8h Jc]
+Seat 8: leFosoyeur90 (button) won 3168
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3200331048810447293-56-1708026269 - Holdem no limit (60/120) - 2024/02/15 19:44:29 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #1 is the button
+Seat 1: tigre2015 (22498)
+Seat 2: Vidal92i (2355)
+Seat 3: chironex f (2750)
+Seat 4: Galau (2550)
+Seat 5: FB-Kaiser888 (2450)
+Seat 6: P1xel7 (2912)
+Seat 7: dylme (4379)
+Seat 8: leFosoyeur90 (12434)
+*** ANTE/BLINDS ***
+Vidal92i posts small blind 60
+chironex f posts big blind 120
+Dealt to P1xel7 [4c 9d]
+*** PRE-FLOP *** 
+Galau folds
+FB-Kaiser888 folds
+P1xel7 folds
+dylme folds
+leFosoyeur90 raises 120 to 240
+tigre2015 calls 240
+Vidal92i folds
+chironex f folds
+*** FLOP *** [Ah Qh Kd]
+leFosoyeur90 bets 429
+tigre2015 calls 429
+*** TURN *** [Ah Qh Kd][2h]
+leFosoyeur90 checks
+tigre2015 checks
+*** RIVER *** [Ah Qh Kd 2h][Qd]
+leFosoyeur90 checks
+tigre2015 bets 1518
+leFosoyeur90 folds
+tigre2015 collected 3036 from pot
+*** SUMMARY ***
+Total pot 3036 | No rake
+Board: [Ah Qh Kd 2h Qd]
+Seat 1: tigre2015 (button) won 3036
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3200331048810447293-57-1708026351 - Holdem no limit (60/120) - 2024/02/15 19:45:51 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #2 is the button
+Seat 1: tigre2015 (23347)
+Seat 2: Vidal92i (2295)
+Seat 3: chironex f (2630)
+Seat 4: Galau (2550)
+Seat 5: FB-Kaiser888 (2450)
+Seat 6: P1xel7 (2912)
+Seat 7: dylme (4379)
+Seat 8: leFosoyeur90 (11765)
+*** ANTE/BLINDS ***
+chironex f posts small blind 60
+Galau posts big blind 120
+Dealt to P1xel7 [3h 9d]
+*** PRE-FLOP *** 
+FB-Kaiser888 folds
+P1xel7 folds
+dylme folds
+leFosoyeur90 folds
+tigre2015 calls 120
+Vidal92i folds
+chironex f raises 120 to 240
+Galau folds
+tigre2015 calls 120
+*** FLOP *** [Ks 8h Jh]
+chironex f bets 240
+tigre2015 calls 240
+*** TURN *** [Ks 8h Jh][4d]
+chironex f bets 240
+tigre2015 calls 240
+*** RIVER *** [Ks 8h Jh 4d][Kh]
+chironex f bets 1248
+tigre2015 raises 2200 to 3448
+chironex f calls 662 and is all-in
+*** SHOW DOWN ***
+chironex f shows [Kd 7s] (Trips of Kings)
+tigre2015 shows [7h Qh] (Flush King high)
+tigre2015 collected 6918 from pot
+*** SUMMARY ***
+Total pot 6918 | No rake
+Board: [Ks 8h Jh 4d Kh]
+Seat 1: tigre2015 showed [7h Qh] and won 6918 with Flush King high
+Seat 3: chironex f (small blind) showed [Kd 7s] and lost with Trips of Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3200331048810447293-58-1708026402 - Holdem no limit (60/120) - 2024/02/15 19:46:42 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #3 is the button
+Seat 1: tigre2015 (26097)
+Seat 2: Vidal92i (2295)
+Seat 4: Galau (2430)
+Seat 5: FB-Kaiser888 (2450)
+Seat 6: P1xel7 (2912)
+Seat 7: dylme (4379)
+Seat 8: leFosoyeur90 (11765)
+*** ANTE/BLINDS ***
+Galau posts small blind 60
+FB-Kaiser888 posts big blind 120
+Dealt to P1xel7 [Ks 4c]
+*** PRE-FLOP *** 
+P1xel7 folds
+dylme folds
+leFosoyeur90 folds
+tigre2015 raises 120 to 240
+Vidal92i folds
+Galau folds
+FB-Kaiser888 folds
+tigre2015 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 1: tigre2015 won 420
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3200331048810447293-59-1708026424 - Holdem no limit (60/120) - 2024/02/15 19:47:04 UTC
+Table: 'Tremplin Paris(745135138)#0444' 8-max (real money) Seat #4 is the button
+Seat 1: tigre2015 (26277)
+Seat 2: Vidal92i (2295)
+Seat 4: Galau (2370)
+Seat 5: FB-Kaiser888 (2330)
+Seat 6: P1xel7 (2912)
+Seat 7: dylme (4379)
+Seat 8: leFosoyeur90 (11765)
+*** ANTE/BLINDS ***
+FB-Kaiser888 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [As 9s]
+*** PRE-FLOP *** 
+dylme calls 120
+leFosoyeur90 calls 120
+tigre2015 calls 120
+Vidal92i folds
+Galau folds
+FB-Kaiser888 folds
+P1xel7 raises 2792 to 2912 and is all-in
+dylme folds
+leFosoyeur90 calls 2792
+tigre2015 folds
+*** FLOP *** [6d 3d 8h]
+*** TURN *** [6d 3d 8h][Jd]
+*** RIVER *** [6d 3d 8h Jd][2s]
+*** SHOW DOWN ***
+P1xel7 shows [As 9s] (High card : Ace)
+leFosoyeur90 shows [Jh Td] (One pair : Jacks)
+leFosoyeur90 collected 6124 from pot
+*** SUMMARY ***
+Total pot 6124 | No rake
+Board: [6d 3d 8h Jd 2s]
+Seat 6: P1xel7 (big blind) showed [As 9s] and lost with High card : Ace
+Seat 8: leFosoyeur90 showed [Jh Td] and won 6124 with One pair : Jacks
+
+

@@ -1,0 +1,5302 @@
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 1 - HandId: #3217591431451378314-4-1708974351 - Holdem no limit (10/20) - 2024/02/26 19:05:51 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #5 is the button
+Seat 1: Eliasaurus (3000)
+Seat 2: Loriaan (3010)
+Seat 3: Zorgueul74 (3000)
+Seat 4: wmx-9bzjqyn (6040)
+Seat 5: chatougne (2970)
+Seat 6: Mtauto (2980)
+Seat 7: arcmedia (3000)
+Seat 8: P1xel7 (3000)
+*** ANTE/BLINDS ***
+Mtauto posts small blind 10
+arcmedia posts big blind 20
+Dealt to P1xel7 [8h Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Eliasaurus folds
+Loriaan raises 20 to 40
+Zorgueul74 folds
+wmx-9bzjqyn folds
+chatougne calls 40
+Mtauto calls 30
+arcmedia folds
+*** FLOP *** [3s Ad Jh]
+Mtauto checks
+Loriaan bets 2970 and is all-in
+chatougne folds
+Mtauto folds
+Loriaan collected 3110 from pot
+*** SUMMARY ***
+Total pot 3110 | No rake
+Board: [3s Ad Jh]
+Seat 2: Loriaan won 3110
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 1 - HandId: #3217591431451378314-5-1708974390 - Holdem no limit (10/20) - 2024/02/26 19:06:30 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #6 is the button
+Seat 1: Eliasaurus (3000)
+Seat 2: Loriaan (3110)
+Seat 3: Zorgueul74 (3000)
+Seat 4: wmx-9bzjqyn (6040)
+Seat 5: chatougne (2930)
+Seat 6: Mtauto (2940)
+Seat 7: arcmedia (2980)
+Seat 8: P1xel7 (3000)
+*** ANTE/BLINDS ***
+arcmedia posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [2d 3c]
+*** PRE-FLOP *** 
+Eliasaurus folds
+Loriaan folds
+Zorgueul74 calls 20
+wmx-9bzjqyn calls 20
+chatougne folds
+Mtauto folds
+arcmedia folds
+P1xel7 checks
+*** FLOP *** [Kc 6h 7h]
+P1xel7 checks
+Zorgueul74 checks
+wmx-9bzjqyn bets 6020 and is all-in
+P1xel7 folds
+Zorgueul74 folds
+wmx-9bzjqyn collected 6090 from pot
+*** SUMMARY ***
+Total pot 6090 | No rake
+Board: [Kc 6h 7h]
+Seat 4: wmx-9bzjqyn won 6090
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 1 - HandId: #3217591431451378314-6-1708974433 - Holdem no limit (10/20) - 2024/02/26 19:07:13 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #7 is the button
+Seat 1: Eliasaurus (3000)
+Seat 2: Loriaan (3110)
+Seat 3: Zorgueul74 (2980)
+Seat 4: wmx-9bzjqyn (6090)
+Seat 5: chatougne (2930)
+Seat 6: Mtauto (2940)
+Seat 7: arcmedia (2970)
+Seat 8: P1xel7 (2980)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Eliasaurus posts big blind 20
+Dealt to P1xel7 [3h Ad]
+*** PRE-FLOP *** 
+Loriaan folds
+Zorgueul74 calls 20
+wmx-9bzjqyn calls 20
+chatougne calls 20
+Mtauto calls 20
+arcmedia folds
+P1xel7 calls 10
+Eliasaurus checks
+*** FLOP *** [7h Ac Qh]
+P1xel7 checks
+Eliasaurus checks
+Zorgueul74 checks
+wmx-9bzjqyn checks
+chatougne checks
+Mtauto checks
+*** TURN *** [7h Ac Qh][5h]
+P1xel7 checks
+Eliasaurus checks
+Zorgueul74 checks
+wmx-9bzjqyn checks
+chatougne bets 30
+Mtauto folds
+P1xel7 calls 30
+Eliasaurus folds
+Zorgueul74 calls 30
+wmx-9bzjqyn folds
+*** RIVER *** [7h Ac Qh 5h][Ah]
+P1xel7 checks
+Zorgueul74 checks
+chatougne bets 210
+P1xel7 folds
+Zorgueul74 folds
+chatougne collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [7h Ac Qh 5h Ah]
+Seat 5: chatougne won 420
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 1 - HandId: #3217591431451378314-7-1708974498 - Holdem no limit (10/20) - 2024/02/26 19:08:18 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #8 is the button
+Seat 1: Eliasaurus (2980)
+Seat 2: Loriaan (3110)
+Seat 3: Zorgueul74 (2930)
+Seat 4: wmx-9bzjqyn (6070)
+Seat 5: chatougne (3090)
+Seat 6: Mtauto (2920)
+Seat 7: arcmedia (2970)
+Seat 8: P1xel7 (2930)
+*** ANTE/BLINDS ***
+Eliasaurus posts small blind 10
+Loriaan posts big blind 20
+Dealt to P1xel7 [Th Js]
+*** PRE-FLOP *** 
+Zorgueul74 calls 20
+wmx-9bzjqyn folds
+chatougne raises 40 to 60
+Mtauto folds
+arcmedia folds
+P1xel7 folds
+Eliasaurus folds
+Loriaan calls 40
+Zorgueul74 calls 40
+*** FLOP *** [7h 2s Qs]
+Loriaan checks
+Zorgueul74 checks
+chatougne bets 67
+Loriaan folds
+Zorgueul74 folds
+chatougne collected 257 from pot
+*** SUMMARY ***
+Total pot 257 | No rake
+Board: [7h 2s Qs]
+Seat 5: chatougne won 257
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3217591431451378314-8-1708974540 - Holdem no limit (15/30) - 2024/02/26 19:09:00 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #1 is the button
+Seat 1: Eliasaurus (2970)
+Seat 2: Loriaan (3050)
+Seat 3: Zorgueul74 (2870)
+Seat 4: wmx-9bzjqyn (6070)
+Seat 5: chatougne (3220)
+Seat 6: Mtauto (2920)
+Seat 7: arcmedia (2970)
+Seat 8: P1xel7 (2930)
+*** ANTE/BLINDS ***
+Loriaan posts small blind 15
+Zorgueul74 posts big blind 30
+Dealt to P1xel7 [8c 6h]
+*** PRE-FLOP *** 
+wmx-9bzjqyn calls 30
+chatougne folds
+Mtauto folds
+arcmedia folds
+P1xel7 folds
+Eliasaurus folds
+Loriaan folds
+Zorgueul74 checks
+*** FLOP *** [Kd Qc Qd]
+Zorgueul74 checks
+wmx-9bzjqyn bets 75
+Zorgueul74 folds
+wmx-9bzjqyn collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Board: [Kd Qc Qd]
+Seat 4: wmx-9bzjqyn won 150
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3217591431451378314-9-1708974578 - Holdem no limit (15/30) - 2024/02/26 19:09:38 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #2 is the button
+Seat 1: Eliasaurus (2970)
+Seat 2: Loriaan (3035)
+Seat 3: Zorgueul74 (2840)
+Seat 4: wmx-9bzjqyn (6115)
+Seat 5: chatougne (3220)
+Seat 6: Mtauto (2920)
+Seat 7: arcmedia (2970)
+Seat 8: P1xel7 (2930)
+*** ANTE/BLINDS ***
+Zorgueul74 posts small blind 15
+wmx-9bzjqyn posts big blind 30
+Dealt to P1xel7 [5c Qs]
+*** PRE-FLOP *** 
+chatougne folds
+Mtauto folds
+arcmedia folds
+P1xel7 folds
+Eliasaurus folds
+Loriaan folds
+Zorgueul74 calls 15
+wmx-9bzjqyn checks
+*** FLOP *** [Ac Ah Ks]
+Zorgueul74 checks
+wmx-9bzjqyn bets 60
+Zorgueul74 folds
+wmx-9bzjqyn collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Ac Ah Ks]
+Seat 4: wmx-9bzjqyn (big blind) won 120
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3217591431451378314-10-1708974613 - Holdem no limit (15/30) - 2024/02/26 19:10:13 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #3 is the button
+Seat 1: Eliasaurus (2970)
+Seat 2: Loriaan (3035)
+Seat 3: Zorgueul74 (2810)
+Seat 4: wmx-9bzjqyn (6145)
+Seat 5: chatougne (3220)
+Seat 6: Mtauto (2920)
+Seat 7: arcmedia (2970)
+Seat 8: P1xel7 (2930)
+*** ANTE/BLINDS ***
+wmx-9bzjqyn posts small blind 15
+chatougne posts big blind 30
+Dealt to P1xel7 [8s 6c]
+*** PRE-FLOP *** 
+Mtauto folds
+arcmedia folds
+P1xel7 folds
+Eliasaurus calls 30
+Loriaan calls 30
+Zorgueul74 calls 30
+wmx-9bzjqyn calls 15
+chatougne checks
+*** FLOP *** [Ah Th 9c]
+wmx-9bzjqyn checks
+chatougne bets 30
+Eliasaurus folds
+Loriaan folds
+Zorgueul74 folds
+wmx-9bzjqyn calls 30
+*** TURN *** [Ah Th 9c][7d]
+wmx-9bzjqyn checks
+chatougne bets 30
+wmx-9bzjqyn calls 30
+*** RIVER *** [Ah Th 9c 7d][7h]
+wmx-9bzjqyn checks
+chatougne bets 30
+wmx-9bzjqyn calls 30
+*** SHOW DOWN ***
+chatougne shows [2h Ts] (Two pairs : Tens and 7)
+wmx-9bzjqyn shows [7c 8h] (Trips of 7)
+wmx-9bzjqyn collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Ah Th 9c 7d 7h]
+Seat 4: wmx-9bzjqyn (small blind) showed [7c 8h] and won 330 with Trips of 7
+Seat 5: chatougne (big blind) showed [2h Ts] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3217591431451378314-11-1708974679 - Holdem no limit (15/30) - 2024/02/26 19:11:19 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #4 is the button
+Seat 1: Eliasaurus (2940)
+Seat 2: Loriaan (3005)
+Seat 3: Zorgueul74 (2780)
+Seat 4: wmx-9bzjqyn (6355)
+Seat 5: chatougne (3100)
+Seat 6: Mtauto (2920)
+Seat 7: arcmedia (2970)
+Seat 8: P1xel7 (2930)
+*** ANTE/BLINDS ***
+chatougne posts small blind 15
+Mtauto posts big blind 30
+Dealt to P1xel7 [9h 7c]
+*** PRE-FLOP *** 
+arcmedia folds
+P1xel7 folds
+Eliasaurus calls 30
+Loriaan raises 105 to 135
+Zorgueul74 folds
+wmx-9bzjqyn calls 135
+chatougne calls 120
+Mtauto calls 105
+Eliasaurus calls 105
+*** FLOP *** [2s 8s Jd]
+chatougne checks
+Mtauto checks
+Eliasaurus checks
+Loriaan bets 30
+wmx-9bzjqyn calls 30
+chatougne calls 30
+Mtauto calls 30
+Eliasaurus calls 30
+*** TURN *** [2s 8s Jd][5c]
+chatougne checks
+Mtauto checks
+Eliasaurus bets 289
+Loriaan folds
+wmx-9bzjqyn calls 289
+chatougne folds
+Mtauto folds
+*** RIVER *** [2s 8s Jd 5c][7s]
+Eliasaurus checks
+wmx-9bzjqyn checks
+*** SHOW DOWN ***
+wmx-9bzjqyn shows [Kh Jh] (One pair : Jacks)
+Eliasaurus shows [Ac Jc] (One pair : Jacks)
+Eliasaurus collected 1403 from pot
+*** SUMMARY ***
+Total pot 1403 | No rake
+Board: [2s 8s Jd 5c 7s]
+Seat 1: Eliasaurus showed [Ac Jc] and won 1403 with One pair : Jacks
+Seat 4: wmx-9bzjqyn (button) showed [Kh Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3217591431451378314-12-1708974787 - Holdem no limit (15/30) - 2024/02/26 19:13:07 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #5 is the button
+Seat 1: Eliasaurus (3889)
+Seat 2: Loriaan (2840)
+Seat 3: Zorgueul74 (2780)
+Seat 4: wmx-9bzjqyn (5901)
+Seat 5: chatougne (2935)
+Seat 6: Mtauto (2755)
+Seat 7: arcmedia (2970)
+Seat 8: P1xel7 (2930)
+*** ANTE/BLINDS ***
+Mtauto posts small blind 15
+arcmedia posts big blind 30
+Dealt to P1xel7 [7s 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Eliasaurus folds
+Loriaan folds
+Zorgueul74 calls 30
+wmx-9bzjqyn calls 30
+chatougne folds
+Mtauto calls 15
+arcmedia raises 120 to 150
+Zorgueul74 calls 120
+wmx-9bzjqyn calls 120
+Mtauto calls 120
+*** FLOP *** [Th 3h Qh]
+Mtauto checks
+arcmedia bets 300
+Zorgueul74 folds
+wmx-9bzjqyn folds
+Mtauto folds
+arcmedia collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [Th 3h Qh]
+Seat 7: arcmedia (big blind) won 900
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3217591431451378314-13-1708974840 - Holdem no limit (15/30) - 2024/02/26 19:14:00 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #6 is the button
+Seat 1: Eliasaurus (3889)
+Seat 2: Loriaan (2840)
+Seat 3: Zorgueul74 (2630)
+Seat 4: wmx-9bzjqyn (5751)
+Seat 5: chatougne (2935)
+Seat 6: Mtauto (2605)
+Seat 7: arcmedia (3420)
+Seat 8: P1xel7 (2930)
+*** ANTE/BLINDS ***
+arcmedia posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [5d Th]
+*** PRE-FLOP *** 
+Eliasaurus calls 30
+Loriaan folds
+Zorgueul74 calls 30
+wmx-9bzjqyn calls 30
+chatougne calls 30
+Mtauto folds
+arcmedia raises 60 to 90
+P1xel7 folds
+Eliasaurus calls 60
+Zorgueul74 calls 60
+wmx-9bzjqyn calls 60
+chatougne calls 60
+*** FLOP *** [Tc Qh 6c]
+arcmedia checks
+Eliasaurus checks
+Zorgueul74 checks
+wmx-9bzjqyn bets 480
+chatougne calls 480
+arcmedia folds
+Eliasaurus folds
+Zorgueul74 folds
+*** TURN *** [Tc Qh 6c][4s]
+wmx-9bzjqyn bets 1440
+chatougne calls 1440
+*** RIVER *** [Tc Qh 6c 4s][Ac]
+wmx-9bzjqyn bets 3741 and is all-in
+chatougne calls 925 and is all-in
+*** SHOW DOWN ***
+chatougne shows [Qd 3d] (One pair : Queens)
+wmx-9bzjqyn shows [Qs Td] (Two pairs : Queens and Tens)
+wmx-9bzjqyn collected 8986 from pot
+*** SUMMARY ***
+Total pot 8986 | No rake
+Board: [Tc Qh 6c 4s Ac]
+Seat 4: wmx-9bzjqyn showed [Qs Td] and won 8986 with Two pairs : Queens and Tens
+Seat 5: chatougne showed [Qd 3d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3217591431451378314-14-1708974911 - Holdem no limit (15/30) - 2024/02/26 19:15:11 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #7 is the button
+Seat 1: Eliasaurus (3799)
+Seat 2: Loriaan (2840)
+Seat 3: Zorgueul74 (2540)
+Seat 4: wmx-9bzjqyn (8986)
+Seat 6: Mtauto (2605)
+Seat 7: arcmedia (3330)
+Seat 8: P1xel7 (2900)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Eliasaurus posts big blind 30
+Dealt to P1xel7 [4s 3s]
+*** PRE-FLOP *** 
+Loriaan folds
+Zorgueul74 calls 30
+wmx-9bzjqyn calls 30
+Mtauto calls 30
+arcmedia folds
+P1xel7 calls 15
+Eliasaurus checks
+*** FLOP *** [2h Kd 6d]
+P1xel7 checks
+Eliasaurus checks
+Zorgueul74 checks
+wmx-9bzjqyn checks
+Mtauto checks
+*** TURN *** [2h Kd 6d][8d]
+P1xel7 checks
+Eliasaurus checks
+Zorgueul74 bets 30
+wmx-9bzjqyn calls 30
+Mtauto folds
+P1xel7 folds
+Eliasaurus calls 30
+*** RIVER *** [2h Kd 6d 8d][Qs]
+Eliasaurus checks
+Zorgueul74 bets 240
+wmx-9bzjqyn folds
+Eliasaurus calls 240
+*** SHOW DOWN ***
+Eliasaurus shows [Ks Kh] (Trips of Kings)
+Zorgueul74 shows [7d 5d] (Flush King high)
+Zorgueul74 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [2h Kd 6d 8d Qs]
+Seat 1: Eliasaurus (big blind) showed [Ks Kh] and lost with Trips of Kings
+Seat 3: Zorgueul74 showed [7d 5d] and won 720 with Flush King high
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 2 - HandId: #3217591431451378314-15-1708974972 - Holdem no limit (15/30) - 2024/02/26 19:16:12 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #8 is the button
+Seat 1: Eliasaurus (3499)
+Seat 2: Loriaan (2840)
+Seat 3: Zorgueul74 (2960)
+Seat 4: wmx-9bzjqyn (8926)
+Seat 5: Excalibur29 (2846)
+Seat 6: Mtauto (2575)
+Seat 7: arcmedia (3330)
+Seat 8: P1xel7 (2870)
+*** ANTE/BLINDS ***
+Eliasaurus posts small blind 15
+Loriaan posts big blind 30
+Dealt to P1xel7 [Th Ts]
+*** PRE-FLOP *** 
+Zorgueul74 calls 30
+wmx-9bzjqyn folds
+Excalibur29 folds
+Mtauto folds
+arcmedia calls 30
+P1xel7 raises 150 to 180
+Eliasaurus folds
+Loriaan calls 150
+Zorgueul74 calls 150
+arcmedia calls 150
+*** FLOP *** [Ah 2h 2s]
+Loriaan bets 735
+Zorgueul74 calls 735
+arcmedia calls 735
+P1xel7 folds
+*** TURN *** [Ah 2h 2s][5d]
+Loriaan bets 1925 and is all-in
+Zorgueul74 folds
+arcmedia calls 1925
+*** RIVER *** [Ah 2h 2s 5d][9s]
+*** SHOW DOWN ***
+Loriaan shows [7s Ad] (Two pairs : Aces and 2)
+arcmedia shows [4d Ac] (Two pairs : Aces and 2)
+arcmedia collected 3395 from pot
+Loriaan collected 3395 from pot
+*** SUMMARY ***
+Total pot 6790 | No rake
+Board: [Ah 2h 2s 5d 9s]
+Seat 2: Loriaan (big blind) showed [7s Ad] and won 3395 with Two pairs : Aces and 2
+Seat 7: arcmedia showed [4d Ac] and won 3395 with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3217591431451378314-16-1708975050 - Holdem no limit (20/40) - 2024/02/26 19:17:30 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #1 is the button
+Seat 1: Eliasaurus (3484)
+Seat 2: Loriaan (3395)
+Seat 3: Zorgueul74 (2045)
+Seat 4: wmx-9bzjqyn (8926)
+Seat 5: Excalibur29 (2846)
+Seat 6: Mtauto (2575)
+Seat 7: arcmedia (3885)
+Seat 8: P1xel7 (2690)
+*** ANTE/BLINDS ***
+Loriaan posts small blind 20
+Zorgueul74 posts big blind 40
+Dealt to P1xel7 [2d Tc]
+*** PRE-FLOP *** 
+wmx-9bzjqyn folds
+Excalibur29 calls 40
+Mtauto calls 40
+arcmedia folds
+P1xel7 folds
+Eliasaurus calls 40
+Loriaan calls 20
+Zorgueul74 checks
+*** FLOP *** [6h Th 4h]
+Loriaan checks
+Zorgueul74 checks
+Excalibur29 checks
+Mtauto checks
+Eliasaurus checks
+*** TURN *** [6h Th 4h][7c]
+Loriaan checks
+Zorgueul74 bets 40
+Excalibur29 calls 40
+Mtauto calls 40
+Eliasaurus folds
+Loriaan calls 40
+*** RIVER *** [6h Th 4h 7c][2c]
+Loriaan checks
+Zorgueul74 bets 360
+Excalibur29 folds
+Mtauto folds
+Loriaan folds
+Zorgueul74 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [6h Th 4h 7c 2c]
+Seat 3: Zorgueul74 (big blind) won 720
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3217591431451378314-17-1708975163 - Holdem no limit (20/40) - 2024/02/26 19:19:23 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #2 is the button
+Seat 1: Eliasaurus (3444)
+Seat 2: Loriaan (3315)
+Seat 3: Zorgueul74 (2325)
+Seat 4: wmx-9bzjqyn (8926)
+Seat 5: Excalibur29 (2766)
+Seat 6: Mtauto (2495)
+Seat 7: arcmedia (3885)
+Seat 8: P1xel7 (2690)
+*** ANTE/BLINDS ***
+Zorgueul74 posts small blind 20
+wmx-9bzjqyn posts big blind 40
+Dealt to P1xel7 [4d 5s]
+*** PRE-FLOP *** 
+Excalibur29 folds
+Mtauto calls 40
+arcmedia folds
+P1xel7 folds
+Eliasaurus folds
+Loriaan folds
+Zorgueul74 calls 20
+wmx-9bzjqyn checks
+*** FLOP *** [Tc Ks 8c]
+Zorgueul74 checks
+wmx-9bzjqyn checks
+Mtauto bets 40
+Zorgueul74 calls 40
+wmx-9bzjqyn calls 40
+*** TURN *** [Tc Ks 8c][3s]
+Zorgueul74 bets 40
+wmx-9bzjqyn calls 40
+Mtauto folds
+*** RIVER *** [Tc Ks 8c 3s][7c]
+Zorgueul74 checks
+wmx-9bzjqyn bets 320
+Zorgueul74 folds
+wmx-9bzjqyn collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [Tc Ks 8c 3s 7c]
+Seat 4: wmx-9bzjqyn (big blind) won 640
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3217591431451378314-18-1708975230 - Holdem no limit (20/40) - 2024/02/26 19:20:30 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #3 is the button
+Seat 1: Eliasaurus (3444)
+Seat 2: Loriaan (3315)
+Seat 3: Zorgueul74 (2205)
+Seat 4: wmx-9bzjqyn (9126)
+Seat 5: Excalibur29 (2766)
+Seat 6: Mtauto (2415)
+Seat 7: arcmedia (3885)
+Seat 8: P1xel7 (2690)
+*** ANTE/BLINDS ***
+wmx-9bzjqyn posts small blind 20
+Excalibur29 posts big blind 40
+Dealt to P1xel7 [9h 4h]
+*** PRE-FLOP *** 
+Mtauto folds
+arcmedia folds
+P1xel7 folds
+Eliasaurus calls 40
+Loriaan folds
+Zorgueul74 calls 40
+wmx-9bzjqyn calls 20
+Excalibur29 checks
+*** FLOP *** [6s 9d 6h]
+wmx-9bzjqyn checks
+Excalibur29 checks
+Eliasaurus checks
+Zorgueul74 checks
+*** TURN *** [6s 9d 6h][8d]
+wmx-9bzjqyn bets 160
+Excalibur29 folds
+Eliasaurus folds
+Zorgueul74 folds
+wmx-9bzjqyn collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [6s 9d 6h 8d]
+Seat 4: wmx-9bzjqyn (small blind) won 320
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3217591431451378314-19-1708975304 - Holdem no limit (20/40) - 2024/02/26 19:21:44 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #4 is the button
+Seat 1: Eliasaurus (3404)
+Seat 2: Loriaan (3315)
+Seat 3: Zorgueul74 (2165)
+Seat 4: wmx-9bzjqyn (9246)
+Seat 5: Excalibur29 (2726)
+Seat 6: Mtauto (2415)
+Seat 7: arcmedia (3885)
+Seat 8: P1xel7 (2690)
+*** ANTE/BLINDS ***
+Excalibur29 posts small blind 20
+Mtauto posts big blind 40
+Dealt to P1xel7 [5h Qh]
+*** PRE-FLOP *** 
+arcmedia raises 60 to 100
+P1xel7 folds
+Eliasaurus folds
+Loriaan calls 100
+Zorgueul74 folds
+wmx-9bzjqyn folds
+Excalibur29 calls 80
+Mtauto calls 60
+*** FLOP *** [Ks 9s 8d]
+Excalibur29 checks
+Mtauto checks
+arcmedia checks
+Loriaan checks
+*** TURN *** [Ks 9s 8d][2s]
+Excalibur29 checks
+Mtauto checks
+arcmedia checks
+Loriaan checks
+*** RIVER *** [Ks 9s 8d 2s][As]
+Excalibur29 checks
+Mtauto bets 40
+arcmedia folds
+Loriaan calls 40
+Excalibur29 calls 40
+*** SHOW DOWN ***
+Loriaan shows [7h 7s] (Flush Ace high)
+Mtauto shows [8s 3c] (Flush Ace high)
+Excalibur29 shows [Ts Ac] (Flush Ace high)
+Excalibur29 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Ks 9s 8d 2s As]
+Seat 2: Loriaan showed [7h 7s] and lost with Flush Ace high
+Seat 5: Excalibur29 (small blind) showed [Ts Ac] and won 520 with Flush Ace high
+Seat 6: Mtauto (big blind) showed [8s 3c] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3217591431451378314-20-1708975391 - Holdem no limit (20/40) - 2024/02/26 19:23:11 UTC
+Table: 'Tremplin Paris(749153884)#0649' 8-max (real money) Seat #5 is the button
+Seat 1: Eliasaurus (3404)
+Seat 2: Loriaan (3175)
+Seat 3: Zorgueul74 (2165)
+Seat 4: wmx-9bzjqyn (9246)
+Seat 5: Excalibur29 (3106)
+Seat 6: Mtauto (2275)
+Seat 7: arcmedia (3785)
+Seat 8: P1xel7 (2690)
+*** ANTE/BLINDS ***
+Mtauto posts small blind 20
+arcmedia posts big blind 40
+Dealt to P1xel7 [3s 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Eliasaurus folds
+Loriaan folds
+Zorgueul74 raises 40 to 80
+wmx-9bzjqyn calls 80
+Excalibur29 calls 80
+Mtauto folds
+arcmedia calls 40
+*** FLOP *** [9d 9h Td]
+arcmedia checks
+Zorgueul74 checks
+wmx-9bzjqyn bets 340
+Excalibur29 calls 340
+arcmedia folds
+Zorgueul74 folds
+*** TURN *** [9d 9h Td][Jh]
+wmx-9bzjqyn checks
+Excalibur29 bets 357
+wmx-9bzjqyn calls 357
+*** RIVER *** [9d 9h Td Jh][7s]
+wmx-9bzjqyn checks
+Excalibur29 checks
+*** SHOW DOWN ***
+wmx-9bzjqyn shows [2c Tc] (Two pairs : Tens and 9)
+Excalibur29 shows [Kc Ts] (Two pairs : Tens and 9)
+Excalibur29 collected 1734 from pot
+*** SUMMARY ***
+Total pot 1734 | No rake
+Board: [9d 9h Td Jh 7s]
+Seat 4: wmx-9bzjqyn showed [2c Tc] and lost with Two pairs : Tens and 9
+Seat 5: Excalibur29 (button) showed [Kc Ts] and won 1734 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-42-1708975542 - Holdem no limit (30/60) - 2024/02/26 19:25:42 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #1 is the button
+Seat 1: elquentinoo (2670)
+Seat 2: Deadbeat (2700)
+Seat 3: bra35 (11820)
+Seat 4: Da Silva Max (2750)
+Seat 6: Hello.Elo. (2900)
+Seat 7: Kristofe77 (4160)
+Seat 8: P1xel7 (2690)
+*** ANTE/BLINDS ***
+Deadbeat posts small blind 30
+bra35 posts big blind 60
+Dealt to P1xel7 [8s 4h]
+*** PRE-FLOP *** 
+Da Silva Max folds
+Hello.Elo. calls 60
+Kristofe77 raises 90 to 150
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 folds
+Hello.Elo. calls 90
+*** FLOP *** [Kd 2h Ts]
+Hello.Elo. checks
+Kristofe77 bets 254
+Hello.Elo. calls 254
+*** TURN *** [Kd 2h Ts][8h]
+Hello.Elo. checks
+Kristofe77 bets 584
+Hello.Elo. calls 584
+*** RIVER *** [Kd 2h Ts 8h][4d]
+Hello.Elo. checks
+Kristofe77 bets 723
+Hello.Elo. calls 723
+*** SHOW DOWN ***
+Hello.Elo. shows [Td Qh] (One pair : Tens)
+Kristofe77 shows [Qc Kc] (One pair : Kings)
+Kristofe77 collected 3512 from pot
+*** SUMMARY ***
+Total pot 3512 | No rake
+Board: [Kd 2h Ts 8h 4d]
+Seat 6: Hello.Elo. showed [Td Qh] and lost with One pair : Tens
+Seat 7: Kristofe77 showed [Qc Kc] and won 3512 with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-43-1708975574 - Holdem no limit (30/60) - 2024/02/26 19:26:14 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #2 is the button
+Seat 1: elquentinoo (2670)
+Seat 2: Deadbeat (2670)
+Seat 3: bra35 (11760)
+Seat 4: Da Silva Max (2750)
+Seat 6: Hello.Elo. (1189)
+Seat 7: Kristofe77 (5961)
+Seat 8: P1xel7 (2690)
+*** ANTE/BLINDS ***
+bra35 posts small blind 30
+Da Silva Max posts big blind 60
+Dealt to P1xel7 [3s Ac]
+*** PRE-FLOP *** 
+Hello.Elo. folds
+Kristofe77 folds
+P1xel7 raises 90 to 150
+elquentinoo folds
+Deadbeat folds
+bra35 folds
+Da Silva Max folds
+P1xel7 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: P1xel7 won 240
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-44-1708975585 - Holdem no limit (30/60) - 2024/02/26 19:26:25 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #3 is the button
+Seat 1: elquentinoo (2670)
+Seat 2: Deadbeat (2670)
+Seat 3: bra35 (11730)
+Seat 4: Da Silva Max (2690)
+Seat 6: Hello.Elo. (1189)
+Seat 7: Kristofe77 (5961)
+Seat 8: P1xel7 (2780)
+*** ANTE/BLINDS ***
+Da Silva Max posts small blind 30
+Hello.Elo. posts big blind 60
+Dealt to P1xel7 [As Td]
+*** PRE-FLOP *** 
+Kristofe77 raises 60 to 120
+P1xel7 raises 240 to 360
+elquentinoo folds
+Deadbeat folds
+bra35 folds
+Da Silva Max folds
+Hello.Elo. calls 300
+Kristofe77 calls 240
+*** FLOP *** [4s 5d 6c]
+Hello.Elo. checks
+Kristofe77 checks
+P1xel7 checks
+*** TURN *** [4s 5d 6c][Kd]
+Hello.Elo. checks
+Kristofe77 checks
+P1xel7 checks
+*** RIVER *** [4s 5d 6c Kd][9s]
+Hello.Elo. checks
+Kristofe77 checks
+P1xel7 checks
+*** SHOW DOWN ***
+Kristofe77 shows [Ad Qc] (High card : Ace)
+P1xel7 shows [As Td] (High card : Ace)
+Hello.Elo. shows [9d Ac] (One pair : 9)
+Hello.Elo. collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Board: [4s 5d 6c Kd 9s]
+Seat 6: Hello.Elo. (big blind) showed [9d Ac] and won 1110 with One pair : 9
+Seat 7: Kristofe77 showed [Ad Qc] and lost with High card : Ace
+Seat 8: P1xel7 showed [As Td] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-45-1708975627 - Holdem no limit (30/60) - 2024/02/26 19:27:07 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #4 is the button
+Seat 1: elquentinoo (2670)
+Seat 2: Deadbeat (2670)
+Seat 3: bra35 (11730)
+Seat 4: Da Silva Max (2660)
+Seat 5: Alexzanoaga (3000)
+Seat 6: Hello.Elo. (1939)
+Seat 7: Kristofe77 (5601)
+Seat 8: P1xel7 (2420)
+*** ANTE/BLINDS ***
+Hello.Elo. posts small blind 30
+Kristofe77 posts big blind 60
+Dealt to P1xel7 [Th 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 calls 60
+Da Silva Max folds
+Hello.Elo. calls 30
+Kristofe77 checks
+*** FLOP *** [Qd Ad Kh]
+Hello.Elo. checks
+Kristofe77 checks
+bra35 checks
+*** TURN *** [Qd Ad Kh][Js]
+Hello.Elo. checks
+Kristofe77 checks
+bra35 bets 180
+Hello.Elo. calls 180
+Kristofe77 folds
+*** RIVER *** [Qd Ad Kh Js][6s]
+Hello.Elo. checks
+bra35 bets 540
+Hello.Elo. folds
+bra35 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Qd Ad Kh Js 6s]
+Seat 3: bra35 won 1080
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-46-1708975666 - Holdem no limit (30/60) - 2024/02/26 19:27:46 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #6 is the button
+Seat 1: elquentinoo (2670)
+Seat 2: Deadbeat (2670)
+Seat 3: bra35 (12030)
+Seat 4: Da Silva Max (2660)
+Seat 5: Alexzanoaga (3000)
+Seat 6: Hello.Elo. (1699)
+Seat 7: Kristofe77 (5541)
+Seat 8: P1xel7 (2420)
+*** ANTE/BLINDS ***
+Kristofe77 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [7d Th]
+*** PRE-FLOP *** 
+elquentinoo folds
+Deadbeat folds
+bra35 raises 150 to 210
+Da Silva Max folds
+Alexzanoaga calls 210
+Hello.Elo. calls 210
+Kristofe77 calls 180
+P1xel7 folds
+*** FLOP *** [Qh As Kc]
+Kristofe77 bets 315
+bra35 calls 315
+Alexzanoaga calls 315
+Hello.Elo. calls 315
+*** TURN *** [Qh As Kc][Ks]
+Kristofe77 checks
+bra35 checks
+Alexzanoaga bets 756
+Hello.Elo. calls 756
+Kristofe77 folds
+bra35 folds
+*** RIVER *** [Qh As Kc Ks][8h]
+Alexzanoaga bets 1719 and is all-in
+Hello.Elo. calls 418 and is all-in
+*** SHOW DOWN ***
+Alexzanoaga shows [Jc Td] (Straight Ace high)
+Hello.Elo. shows [Qs Qd] (Full of Queens and Kings)
+Hello.Elo. collected 4508 from main pot
+Alexzanoaga collected 1301 from side pot 1
+*** SUMMARY ***
+Total pot 5809 | No rake
+Board: [Qh As Kc Ks 8h]
+Seat 5: Alexzanoaga showed [Jc Td] and won 1301 with Straight Ace high
+Seat 6: Hello.Elo. (button) showed [Qs Qd] and won 4508 with Full of Queens and Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-47-1708975716 - Holdem no limit (30/60) - 2024/02/26 19:28:36 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #7 is the button
+Seat 1: elquentinoo (2670)
+Seat 2: Deadbeat (2670)
+Seat 3: bra35 (11505)
+Seat 4: Da Silva Max (2660)
+Seat 5: Alexzanoaga (1301)
+Seat 6: Hello.Elo. (4508)
+Seat 7: Kristofe77 (5016)
+Seat 8: P1xel7 (2360)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+elquentinoo posts big blind 60
+Dealt to P1xel7 [9h 7c]
+*** PRE-FLOP *** 
+Deadbeat folds
+bra35 folds
+Da Silva Max folds
+Alexzanoaga calls 60
+Hello.Elo. calls 60
+Kristofe77 calls 60
+P1xel7 calls 30
+elquentinoo folds
+*** FLOP *** [2s 3h 3d]
+P1xel7 checks
+Alexzanoaga checks
+Hello.Elo. checks
+Kristofe77 checks
+*** TURN *** [2s 3h 3d][3s]
+P1xel7 checks
+Alexzanoaga checks
+Hello.Elo. checks
+Kristofe77 checks
+*** RIVER *** [2s 3h 3d 3s][9s]
+P1xel7 checks
+Alexzanoaga checks
+Hello.Elo. checks
+Kristofe77 checks
+*** SHOW DOWN ***
+Alexzanoaga shows [Jd Ks] (Trips of 3)
+Hello.Elo. shows [Jh Qs] (Trips of 3)
+Kristofe77 shows [Jc Tc] (Trips of 3)
+P1xel7 shows [9h 7c] (Full of 3 and 9)
+P1xel7 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [2s 3h 3d 3s 9s]
+Seat 5: Alexzanoaga showed [Jd Ks] and lost with Trips of 3
+Seat 6: Hello.Elo. showed [Jh Qs] and lost with Trips of 3
+Seat 7: Kristofe77 (button) showed [Jc Tc] and lost with Trips of 3
+Seat 8: P1xel7 (small blind) showed [9h 7c] and won 300 with Full of 3 and 9
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-48-1708975761 - Holdem no limit (30/60) - 2024/02/26 19:29:21 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #8 is the button
+Seat 1: elquentinoo (2610)
+Seat 2: Deadbeat (2670)
+Seat 3: bra35 (11505)
+Seat 4: Da Silva Max (2660)
+Seat 5: Alexzanoaga (1241)
+Seat 6: Hello.Elo. (4448)
+Seat 7: Kristofe77 (4956)
+Seat 8: P1xel7 (2600)
+*** ANTE/BLINDS ***
+elquentinoo posts small blind 30
+Deadbeat posts big blind 60
+Dealt to P1xel7 [2c Jc]
+*** PRE-FLOP *** 
+bra35 raises 150 to 210
+Da Silva Max folds
+Alexzanoaga folds
+Hello.Elo. folds
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 3: bra35 won 300
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-49-1708975781 - Holdem no limit (30/60) - 2024/02/26 19:29:41 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #1 is the button
+Seat 1: elquentinoo (2580)
+Seat 2: Deadbeat (2610)
+Seat 3: bra35 (11595)
+Seat 4: Da Silva Max (2660)
+Seat 5: Alexzanoaga (1241)
+Seat 6: Hello.Elo. (4448)
+Seat 7: Kristofe77 (4956)
+Seat 8: P1xel7 (2600)
+*** ANTE/BLINDS ***
+Deadbeat posts small blind 30
+bra35 posts big blind 60
+Dealt to P1xel7 [7d Ac]
+*** PRE-FLOP *** 
+Da Silva Max folds
+Alexzanoaga raises 60 to 120
+Hello.Elo. folds
+Kristofe77 calls 120
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 folds
+*** FLOP *** [5c Jd 2c]
+Alexzanoaga bets 115
+Kristofe77 folds
+Alexzanoaga collected 445 from pot
+*** SUMMARY ***
+Total pot 445 | No rake
+Board: [5c Jd 2c]
+Seat 5: Alexzanoaga won 445
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-50-1708975801 - Holdem no limit (30/60) - 2024/02/26 19:30:01 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #2 is the button
+Seat 1: elquentinoo (2580)
+Seat 2: Deadbeat (2580)
+Seat 3: bra35 (11535)
+Seat 4: Da Silva Max (2660)
+Seat 5: Alexzanoaga (1451)
+Seat 6: Hello.Elo. (4448)
+Seat 7: Kristofe77 (4836)
+Seat 8: P1xel7 (2600)
+*** ANTE/BLINDS ***
+bra35 posts small blind 30
+Da Silva Max posts big blind 60
+Dealt to P1xel7 [4s 9s]
+*** PRE-FLOP *** 
+Alexzanoaga folds
+Hello.Elo. folds
+Kristofe77 raises 120 to 180
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 calls 150
+Da Silva Max folds
+*** FLOP *** [7s 7h Tc]
+bra35 checks
+Kristofe77 bets 273
+bra35 folds
+Kristofe77 collected 693 from pot
+*** SUMMARY ***
+Total pot 693 | No rake
+Board: [7s 7h Tc]
+Seat 7: Kristofe77 won 693
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-51-1708975817 - Holdem no limit (30/60) - 2024/02/26 19:30:17 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #3 is the button
+Seat 1: elquentinoo (2580)
+Seat 2: Deadbeat (2580)
+Seat 3: bra35 (11355)
+Seat 4: Da Silva Max (2600)
+Seat 5: Alexzanoaga (1451)
+Seat 6: Hello.Elo. (4448)
+Seat 7: Kristofe77 (5076)
+Seat 8: P1xel7 (2600)
+*** ANTE/BLINDS ***
+Da Silva Max posts small blind 30
+Alexzanoaga posts big blind 60
+Dealt to P1xel7 [9c 4d]
+*** PRE-FLOP *** 
+Hello.Elo. calls 60
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 calls 60
+Da Silva Max folds
+Alexzanoaga raises 60 to 120
+Hello.Elo. calls 60
+bra35 raises 11235 to 11355 and is all-in
+Alexzanoaga calls 1331 and is all-in
+Hello.Elo. folds
+*** FLOP *** [3h Ac Kc]
+*** TURN *** [3h Ac Kc][7c]
+*** RIVER *** [3h Ac Kc 7c][8d]
+*** SHOW DOWN ***
+bra35 shows [Qs Ts] (High card : Ace)
+Alexzanoaga shows [Qc Kh] (One pair : Kings)
+Alexzanoaga collected 3052 from main pot
+bra35 collected 9904 from side pot 1
+*** SUMMARY ***
+Total pot 12956 | No rake
+Board: [3h Ac Kc 7c 8d]
+Seat 3: bra35 (button) showed [Qs Ts] and won 9904 with High card : Ace
+Seat 5: Alexzanoaga (big blind) showed [Qc Kh] and won 3052 with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-52-1708975855 - Holdem no limit (30/60) - 2024/02/26 19:30:55 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #4 is the button
+Seat 1: elquentinoo (2580)
+Seat 2: Deadbeat (2580)
+Seat 3: bra35 (9904)
+Seat 4: Da Silva Max (2570)
+Seat 5: Alexzanoaga (3052)
+Seat 6: Hello.Elo. (4328)
+Seat 7: Kristofe77 (5076)
+Seat 8: P1xel7 (2600)
+*** ANTE/BLINDS ***
+Alexzanoaga posts small blind 30
+Hello.Elo. posts big blind 60
+Dealt to P1xel7 [Kd Ts]
+*** PRE-FLOP *** 
+Kristofe77 folds
+P1xel7 raises 120 to 180
+elquentinoo folds
+Deadbeat folds
+bra35 raises 9724 to 9904 and is all-in
+Da Silva Max folds
+Alexzanoaga calls 3022 and is all-in
+Hello.Elo. folds
+P1xel7 folds
+*** FLOP *** [9d 6h 4d]
+*** TURN *** [9d 6h 4d][5c]
+*** RIVER *** [9d 6h 4d 5c][7d]
+*** SHOW DOWN ***
+bra35 shows [Ks Ad] (High card : Ace)
+Alexzanoaga shows [Td Th] (One pair : Tens)
+Alexzanoaga collected 6344 from main pot
+bra35 collected 6852 from side pot 1
+*** SUMMARY ***
+Total pot 13196 | No rake
+Board: [9d 6h 4d 5c 7d]
+Seat 3: bra35 showed [Ks Ad] and won 6852 with High card : Ace
+Seat 5: Alexzanoaga (small blind) showed [Td Th] and won 6344 with One pair : Tens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-53-1708975877 - Holdem no limit (30/60) - 2024/02/26 19:31:17 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #5 is the button
+Seat 1: elquentinoo (2580)
+Seat 2: Deadbeat (2580)
+Seat 3: bra35 (6852)
+Seat 4: Da Silva Max (2570)
+Seat 5: Alexzanoaga (6344)
+Seat 6: Hello.Elo. (4268)
+Seat 7: Kristofe77 (5076)
+Seat 8: P1xel7 (2420)
+*** ANTE/BLINDS ***
+Hello.Elo. posts small blind 30
+Kristofe77 posts big blind 60
+Dealt to P1xel7 [Jh 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 raises 6792 to 6852 and is all-in
+Da Silva Max folds
+Alexzanoaga folds
+Hello.Elo. folds
+Kristofe77 folds
+bra35 collected 6942 from pot
+*** SUMMARY ***
+Total pot 6942 | No rake
+Seat 3: bra35 won 6942
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-54-1708975892 - Holdem no limit (30/60) - 2024/02/26 19:31:32 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #6 is the button
+Seat 1: elquentinoo (2580)
+Seat 2: Deadbeat (2580)
+Seat 3: bra35 (6942)
+Seat 4: Da Silva Max (2570)
+Seat 5: Alexzanoaga (6344)
+Seat 6: Hello.Elo. (4238)
+Seat 7: Kristofe77 (5016)
+Seat 8: P1xel7 (2420)
+*** ANTE/BLINDS ***
+Kristofe77 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [9h Qh]
+*** PRE-FLOP *** 
+elquentinoo folds
+Deadbeat folds
+bra35 folds
+Da Silva Max folds
+Alexzanoaga raises 60 to 120
+Hello.Elo. calls 120
+Kristofe77 folds
+P1xel7 calls 60
+*** FLOP *** [5s 4c 6s]
+P1xel7 checks
+Alexzanoaga bets 137
+Hello.Elo. calls 137
+P1xel7 folds
+*** TURN *** [5s 4c 6s][8h]
+Alexzanoaga checks
+Hello.Elo. checks
+*** RIVER *** [5s 4c 6s 8h][9c]
+Alexzanoaga checks
+Hello.Elo. checks
+*** SHOW DOWN ***
+Alexzanoaga shows [Ah 4s] (One pair : 4)
+Hello.Elo. shows [6d Qs] (One pair : 6)
+Hello.Elo. collected 664 from pot
+*** SUMMARY ***
+Total pot 664 | No rake
+Board: [5s 4c 6s 8h 9c]
+Seat 5: Alexzanoaga showed [Ah 4s] and lost with One pair : 4
+Seat 6: Hello.Elo. (button) showed [6d Qs] and won 664 with One pair : 6
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3217591431451378239-55-1708975938 - Holdem no limit (30/60) - 2024/02/26 19:32:18 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #7 is the button
+Seat 1: elquentinoo (2580)
+Seat 2: Deadbeat (2580)
+Seat 3: bra35 (6942)
+Seat 4: Da Silva Max (2570)
+Seat 5: Alexzanoaga (6087)
+Seat 6: Hello.Elo. (4645)
+Seat 7: Kristofe77 (4986)
+Seat 8: P1xel7 (2300)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+elquentinoo posts big blind 60
+Dealt to P1xel7 [8c 5h]
+*** PRE-FLOP *** 
+Deadbeat folds
+bra35 raises 150 to 210
+Da Silva Max folds
+Alexzanoaga calls 210
+Hello.Elo. calls 210
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+*** FLOP *** [3s 8d Ah]
+bra35 checks
+Alexzanoaga bets 252
+Hello.Elo. folds
+bra35 calls 252
+*** TURN *** [3s 8d Ah][9s]
+bra35 checks
+Alexzanoaga bets 428
+bra35 calls 428
+*** RIVER *** [3s 8d Ah 9s][2c]
+bra35 checks
+Alexzanoaga checks
+*** SHOW DOWN ***
+bra35 shows [Qd 9d] (One pair : 9)
+Alexzanoaga shows [Ad 5d] (One pair : Aces)
+Alexzanoaga collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Board: [3s 8d Ah 9s 2c]
+Seat 3: bra35 showed [Qd 9d] and lost with One pair : 9
+Seat 5: Alexzanoaga showed [Ad 5d] and won 2080 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-56-1708975962 - Holdem no limit (40/80) - 2024/02/26 19:32:42 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #8 is the button
+Seat 1: elquentinoo (2520)
+Seat 2: Deadbeat (2580)
+Seat 3: bra35 (6052)
+Seat 4: Da Silva Max (2570)
+Seat 5: Alexzanoaga (7277)
+Seat 6: Hello.Elo. (4435)
+Seat 7: Kristofe77 (4986)
+Seat 8: P1xel7 (2270)
+*** ANTE/BLINDS ***
+elquentinoo posts small blind 40
+Deadbeat posts big blind 80
+Dealt to P1xel7 [7h 6c]
+*** PRE-FLOP *** 
+bra35 raises 5972 to 6052 and is all-in
+Da Silva Max folds
+Alexzanoaga folds
+Hello.Elo. folds
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 collected 6172 from pot
+*** SUMMARY ***
+Total pot 6172 | No rake
+Seat 3: bra35 won 6172
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-57-1708975981 - Holdem no limit (40/80) - 2024/02/26 19:33:01 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #1 is the button
+Seat 1: elquentinoo (2480)
+Seat 2: Deadbeat (2500)
+Seat 3: bra35 (6172)
+Seat 4: Da Silva Max (2570)
+Seat 5: Alexzanoaga (7277)
+Seat 6: Hello.Elo. (4435)
+Seat 7: Kristofe77 (4986)
+Seat 8: P1xel7 (2270)
+*** ANTE/BLINDS ***
+Deadbeat posts small blind 40
+bra35 posts big blind 80
+Dealt to P1xel7 [Js Qh]
+*** PRE-FLOP *** 
+Da Silva Max folds
+Alexzanoaga raises 80 to 160
+Hello.Elo. calls 160
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 folds
+*** FLOP *** [Qd 4c 3c]
+Alexzanoaga bets 80
+Hello.Elo. calls 80
+*** TURN *** [Qd 4c 3c][7s]
+Alexzanoaga checks
+Hello.Elo. checks
+*** RIVER *** [Qd 4c 3c 7s][Jc]
+Alexzanoaga bets 80
+Hello.Elo. calls 80
+*** SHOW DOWN ***
+Hello.Elo. shows [Ac 8d] (High card : Ace)
+Alexzanoaga shows [Ad Tc] (High card : Ace)
+Alexzanoaga collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [Qd 4c 3c 7s Jc]
+Seat 5: Alexzanoaga showed [Ad Tc] and won 760 with High card : Ace
+Seat 6: Hello.Elo. showed [Ac 8d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-58-1708976006 - Holdem no limit (40/80) - 2024/02/26 19:33:26 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #2 is the button
+Seat 1: elquentinoo (2480)
+Seat 2: Deadbeat (2460)
+Seat 3: bra35 (6092)
+Seat 4: Da Silva Max (2570)
+Seat 5: Alexzanoaga (7717)
+Seat 6: Hello.Elo. (4115)
+Seat 7: Kristofe77 (4986)
+Seat 8: P1xel7 (2270)
+*** ANTE/BLINDS ***
+bra35 posts small blind 40
+Da Silva Max posts big blind 80
+Dealt to P1xel7 [6h Js]
+*** PRE-FLOP *** 
+Alexzanoaga calls 80
+Hello.Elo. calls 80
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 calls 40
+Da Silva Max folds
+*** FLOP *** [Tc Qc 8h]
+bra35 checks
+Alexzanoaga checks
+Hello.Elo. checks
+*** TURN *** [Tc Qc 8h][6s]
+bra35 checks
+Alexzanoaga bets 112
+Hello.Elo. calls 112
+bra35 calls 112
+*** RIVER *** [Tc Qc 8h 6s][Kd]
+bra35 checks
+Alexzanoaga checks
+Hello.Elo. checks
+*** SHOW DOWN ***
+Alexzanoaga shows [Th Ad] (One pair : Tens)
+Hello.Elo. shows [2c 8c] (One pair : 8)
+bra35 shows [5c Kc] (One pair : Kings)
+bra35 collected 656 from pot
+*** SUMMARY ***
+Total pot 656 | No rake
+Board: [Tc Qc 8h 6s Kd]
+Seat 3: bra35 (small blind) showed [5c Kc] and won 656 with One pair : Kings
+Seat 5: Alexzanoaga showed [Th Ad] and lost with One pair : Tens
+Seat 6: Hello.Elo. showed [2c 8c] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-59-1708976046 - Holdem no limit (40/80) - 2024/02/26 19:34:06 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #3 is the button
+Seat 1: elquentinoo (2480)
+Seat 2: Deadbeat (2460)
+Seat 3: bra35 (6556)
+Seat 4: Da Silva Max (2490)
+Seat 5: Alexzanoaga (7525)
+Seat 6: Hello.Elo. (3923)
+Seat 7: Kristofe77 (4986)
+Seat 8: P1xel7 (2270)
+*** ANTE/BLINDS ***
+Da Silva Max posts small blind 40
+Alexzanoaga posts big blind 80
+Dealt to P1xel7 [9d 7s]
+*** PRE-FLOP *** 
+Hello.Elo. folds
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 raises 6476 to 6556 and is all-in
+Da Silva Max folds
+Alexzanoaga folds
+bra35 collected 6676 from pot
+*** SUMMARY ***
+Total pot 6676 | No rake
+Seat 3: bra35 (button) won 6676
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-60-1708976064 - Holdem no limit (40/80) - 2024/02/26 19:34:24 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #4 is the button
+Seat 1: elquentinoo (2480)
+Seat 2: Deadbeat (2460)
+Seat 3: bra35 (6676)
+Seat 4: Da Silva Max (2450)
+Seat 5: Alexzanoaga (7445)
+Seat 6: Hello.Elo. (3923)
+Seat 7: Kristofe77 (4986)
+Seat 8: P1xel7 (2270)
+*** ANTE/BLINDS ***
+Alexzanoaga posts small blind 40
+Hello.Elo. posts big blind 80
+Dealt to P1xel7 [Js 4c]
+*** PRE-FLOP *** 
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 calls 80
+Da Silva Max folds
+Alexzanoaga calls 40
+Hello.Elo. checks
+*** FLOP *** [2s Ks Ts]
+Alexzanoaga checks
+Hello.Elo. checks
+bra35 checks
+*** TURN *** [2s Ks Ts][5d]
+Alexzanoaga bets 84
+Hello.Elo. folds
+bra35 folds
+Alexzanoaga collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | No rake
+Board: [2s Ks Ts 5d]
+Seat 5: Alexzanoaga (small blind) won 324
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-61-1708976084 - Holdem no limit (40/80) - 2024/02/26 19:34:44 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #5 is the button
+Seat 1: elquentinoo (2480)
+Seat 2: Deadbeat (2460)
+Seat 3: bra35 (6596)
+Seat 4: Da Silva Max (2450)
+Seat 5: Alexzanoaga (7605)
+Seat 6: Hello.Elo. (3843)
+Seat 7: Kristofe77 (4986)
+Seat 8: P1xel7 (2270)
+*** ANTE/BLINDS ***
+Hello.Elo. posts small blind 40
+Kristofe77 posts big blind 80
+Dealt to P1xel7 [3c Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 folds
+Da Silva Max folds
+Alexzanoaga calls 80
+Hello.Elo. calls 40
+Kristofe77 checks
+*** FLOP *** [Qc 6s 4s]
+Hello.Elo. checks
+Kristofe77 checks
+Alexzanoaga checks
+*** TURN *** [Qc 6s 4s][9d]
+Hello.Elo. checks
+Kristofe77 checks
+Alexzanoaga bets 156
+Hello.Elo. calls 156
+Kristofe77 folds
+*** RIVER *** [Qc 6s 4s 9d][Ah]
+Hello.Elo. checks
+Alexzanoaga bets 359
+Hello.Elo. calls 359
+*** SHOW DOWN ***
+Alexzanoaga shows [9h 5h] (One pair : 9)
+Hello.Elo. shows [Qh 4d] (Two pairs : Queens and 4)
+Hello.Elo. collected 1270 from pot
+*** SUMMARY ***
+Total pot 1270 | No rake
+Board: [Qc 6s 4s 9d Ah]
+Seat 5: Alexzanoaga (button) showed [9h 5h] and lost with One pair : 9
+Seat 6: Hello.Elo. (small blind) showed [Qh 4d] and won 1270 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-62-1708976112 - Holdem no limit (40/80) - 2024/02/26 19:35:12 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #6 is the button
+Seat 1: elquentinoo (2480)
+Seat 2: Deadbeat (2460)
+Seat 3: bra35 (6596)
+Seat 4: Da Silva Max (2450)
+Seat 5: Alexzanoaga (7010)
+Seat 6: Hello.Elo. (4518)
+Seat 7: Kristofe77 (4906)
+Seat 8: P1xel7 (2270)
+*** ANTE/BLINDS ***
+Kristofe77 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Qh As]
+*** PRE-FLOP *** 
+elquentinoo folds
+Deadbeat folds
+bra35 folds
+Da Silva Max folds
+Alexzanoaga folds
+Hello.Elo. folds
+Kristofe77 folds
+P1xel7 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 8: P1xel7 (big blind) won 120
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-63-1708976123 - Holdem no limit (40/80) - 2024/02/26 19:35:23 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #7 is the button
+Seat 1: elquentinoo (2480)
+Seat 2: Deadbeat (2460)
+Seat 3: bra35 (6596)
+Seat 4: Da Silva Max (2450)
+Seat 5: Alexzanoaga (7010)
+Seat 6: Hello.Elo. (4518)
+Seat 7: Kristofe77 (4866)
+Seat 8: P1xel7 (2310)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+elquentinoo posts big blind 80
+Dealt to P1xel7 [8h Js]
+*** PRE-FLOP *** 
+Deadbeat folds
+bra35 folds
+Da Silva Max folds
+Alexzanoaga folds
+Hello.Elo. folds
+Kristofe77 folds
+P1xel7 raises 80 to 160
+elquentinoo folds
+P1xel7 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 8: P1xel7 (small blind) won 240
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-64-1708976174 - Holdem no limit (40/80) - 2024/02/26 19:36:14 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #8 is the button
+Seat 1: elquentinoo (2400)
+Seat 2: Deadbeat (2460)
+Seat 3: bra35 (6596)
+Seat 4: Da Silva Max (2450)
+Seat 5: Alexzanoaga (7010)
+Seat 6: Hello.Elo. (4518)
+Seat 7: Kristofe77 (4866)
+Seat 8: P1xel7 (2390)
+*** ANTE/BLINDS ***
+elquentinoo posts small blind 40
+Deadbeat posts big blind 80
+Dealt to P1xel7 [Qd 5d]
+*** PRE-FLOP *** 
+bra35 raises 200 to 280
+Da Silva Max folds
+Alexzanoaga raises 200 to 480
+Hello.Elo. calls 480
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 calls 200
+*** FLOP *** [Jc 8h Tc]
+bra35 checks
+Alexzanoaga checks
+Hello.Elo. checks
+*** TURN *** [Jc 8h Tc][2d]
+bra35 checks
+Alexzanoaga bets 120
+Hello.Elo. folds
+bra35 calls 120
+*** RIVER *** [Jc 8h Tc 2d][9s]
+bra35 checks
+Alexzanoaga checks
+*** SHOW DOWN ***
+Alexzanoaga shows [3h 3s] (One pair : 3)
+bra35 shows [8d Ac] (One pair : 8)
+bra35 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [Jc 8h Tc 2d 9s]
+Seat 3: bra35 showed [8d Ac] and won 1800 with One pair : 8
+Seat 5: Alexzanoaga showed [3h 3s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-65-1708976213 - Holdem no limit (40/80) - 2024/02/26 19:36:53 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #1 is the button
+Seat 1: elquentinoo (2360)
+Seat 2: Deadbeat (2380)
+Seat 3: bra35 (7796)
+Seat 4: Da Silva Max (2450)
+Seat 5: Alexzanoaga (6410)
+Seat 6: Hello.Elo. (4038)
+Seat 7: Kristofe77 (4866)
+Seat 8: P1xel7 (2390)
+*** ANTE/BLINDS ***
+Deadbeat posts small blind 40
+bra35 posts big blind 80
+Dealt to P1xel7 [8c Qc]
+*** PRE-FLOP *** 
+Da Silva Max folds
+Alexzanoaga raises 120 to 200
+Hello.Elo. calls 200
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 raises 640 to 840
+Alexzanoaga calls 640
+Hello.Elo. calls 640
+*** FLOP *** [8d Qh 7d]
+bra35 bets 2560
+Alexzanoaga calls 2560
+Hello.Elo. calls 2560
+*** TURN *** [8d Qh 7d][Jc]
+bra35 bets 4396 and is all-in
+Alexzanoaga calls 3010 and is all-in
+Hello.Elo. calls 638 and is all-in
+*** RIVER *** [8d Qh 7d Jc][Kh]
+*** SHOW DOWN ***
+Hello.Elo. shows [6c 7c] (One pair : 7)
+bra35 shows [Kd Kc] (Trips of Kings)
+Alexzanoaga shows [9d Ts] (Straight King high)
+Alexzanoaga collected 16898 from main pot
+bra35 collected 1386 from side pot 1
+*** SUMMARY ***
+Total pot 18284 | No rake
+Board: [8d Qh 7d Jc Kh]
+Seat 3: bra35 (big blind) showed [Kd Kc] and won 1386 with Trips of Kings
+Seat 5: Alexzanoaga showed [9d Ts] and won 16898 with Straight King high
+Seat 6: Hello.Elo. showed [6c 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-66-1708976239 - Holdem no limit (40/80) - 2024/02/26 19:37:19 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #2 is the button
+Seat 1: elquentinoo (2360)
+Seat 2: Deadbeat (2340)
+Seat 3: bra35 (1386)
+Seat 4: Da Silva Max (2450)
+Seat 5: Alexzanoaga (16898)
+Seat 7: Kristofe77 (4866)
+Seat 8: P1xel7 (2390)
+*** ANTE/BLINDS ***
+bra35 posts small blind 40
+Da Silva Max posts big blind 80
+Dealt to P1xel7 [Ah Tc]
+*** PRE-FLOP *** 
+Alexzanoaga calls 80
+Kristofe77 raises 120 to 200
+P1xel7 raises 400 to 600
+elquentinoo folds
+Deadbeat folds
+bra35 folds
+Da Silva Max folds
+Alexzanoaga folds
+Kristofe77 calls 400
+*** FLOP *** [Kc 3h 5s]
+Kristofe77 checks
+P1xel7 bets 700
+Kristofe77 folds
+P1xel7 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [Kc 3h 5s]
+Seat 8: P1xel7 won 2100
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-67-1708976269 - Holdem no limit (40/80) - 2024/02/26 19:37:49 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #3 is the button
+Seat 1: elquentinoo (2360)
+Seat 2: Deadbeat (2340)
+Seat 3: bra35 (1346)
+Seat 4: Da Silva Max (2370)
+Seat 5: Alexzanoaga (16818)
+Seat 7: Kristofe77 (4266)
+Seat 8: P1xel7 (3190)
+*** ANTE/BLINDS ***
+Da Silva Max posts small blind 40
+Alexzanoaga posts big blind 80
+Dealt to P1xel7 [9c Kc]
+*** PRE-FLOP *** 
+Kristofe77 folds
+P1xel7 raises 160 to 240
+elquentinoo folds
+Deadbeat folds
+bra35 folds
+Da Silva Max calls 200
+Alexzanoaga calls 160
+*** FLOP *** [Kd 8s Ah]
+Da Silva Max bets 2130 and is all-in
+Alexzanoaga folds
+P1xel7 folds
+Da Silva Max collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Board: [Kd 8s Ah]
+Seat 4: Da Silva Max (small blind) won 2850
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-68-1708976297 - Holdem no limit (40/80) - 2024/02/26 19:38:17 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #4 is the button
+Seat 1: elquentinoo (2360)
+Seat 2: Deadbeat (2340)
+Seat 3: bra35 (1346)
+Seat 4: Da Silva Max (2850)
+Seat 5: Alexzanoaga (16578)
+Seat 7: Kristofe77 (4266)
+Seat 8: P1xel7 (2950)
+*** ANTE/BLINDS ***
+Alexzanoaga posts small blind 40
+Kristofe77 posts big blind 80
+Dealt to P1xel7 [7s Ah]
+*** PRE-FLOP *** 
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+bra35 raises 1266 to 1346 and is all-in
+Da Silva Max raises 1504 to 2850 and is all-in
+Alexzanoaga calls 2810
+Kristofe77 folds
+*** FLOP *** [9s 3c Jc]
+*** TURN *** [9s 3c Jc][4c]
+*** RIVER *** [9s 3c Jc 4c][4d]
+*** SHOW DOWN ***
+Alexzanoaga shows [Ac 5h] (One pair : 4)
+bra35 shows [4s 6s] (Trips of 4)
+Da Silva Max shows [6d 6c] (Two pairs : 6 and 4)
+Da Silva Max collected 3008 from side pot 1
+bra35 collected 4118 from main pot
+*** SUMMARY ***
+Total pot 7126 | No rake
+Board: [9s 3c Jc 4c 4d]
+Seat 3: bra35 showed [4s 6s] and won 4118 with Trips of 4
+Seat 4: Da Silva Max (button) showed [6d 6c] and won 3008 with Two pairs : 6 and 4
+Seat 5: Alexzanoaga (small blind) showed [Ac 5h] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-69-1708976318 - Holdem no limit (40/80) - 2024/02/26 19:38:38 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #5 is the button
+Seat 1: elquentinoo (2360)
+Seat 2: Deadbeat (2340)
+Seat 3: bra35 (4118)
+Seat 4: Da Silva Max (3008)
+Seat 5: Alexzanoaga (13728)
+Seat 7: Kristofe77 (4186)
+Seat 8: P1xel7 (2950)
+*** ANTE/BLINDS ***
+Kristofe77 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Td 9d]
+*** PRE-FLOP *** 
+elquentinoo folds
+Deadbeat folds
+bra35 raises 4038 to 4118 and is all-in
+Da Silva Max calls 3008 and is all-in
+Alexzanoaga folds
+Kristofe77 folds
+P1xel7 folds
+*** FLOP *** [Tc Jd 6d]
+*** TURN *** [Tc Jd 6d][9s]
+*** RIVER *** [Tc Jd 6d 9s][Js]
+*** SHOW DOWN ***
+bra35 shows [Qh Jh] (Trips of Jacks)
+Da Silva Max shows [9h 9c] (Full of 9 and Jacks)
+Da Silva Max collected 6136 from main pot
+bra35 collected 1110 from side pot 1
+*** SUMMARY ***
+Total pot 7246 | No rake
+Board: [Tc Jd 6d 9s Js]
+Seat 3: bra35 showed [Qh Jh] and won 1110 with Trips of Jacks
+Seat 4: Da Silva Max showed [9h 9c] and won 6136 with Full of 9 and Jacks
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-70-1708976334 - Holdem no limit (40/80) - 2024/02/26 19:38:54 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #7 is the button
+Seat 1: elquentinoo (2360)
+Seat 2: Deadbeat (2340)
+Seat 3: bra35 (1110)
+Seat 4: Da Silva Max (6136)
+Seat 5: Alexzanoaga (13728)
+Seat 7: Kristofe77 (4146)
+Seat 8: P1xel7 (2870)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+elquentinoo posts big blind 80
+Dealt to P1xel7 [7h 8c]
+*** PRE-FLOP *** 
+Deadbeat folds
+bra35 raises 1030 to 1110 and is all-in
+Da Silva Max folds
+Alexzanoaga calls 1110
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+*** FLOP *** [Ah 3h Ac]
+*** TURN *** [Ah 3h Ac][Qd]
+*** RIVER *** [Ah 3h Ac Qd][Qc]
+*** SHOW DOWN ***
+bra35 shows [4d 7d] (Two pairs : Aces and Queens)
+Alexzanoaga shows [2s Ks] (Two pairs : Aces and Queens)
+Alexzanoaga collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Board: [Ah 3h Ac Qd Qc]
+Seat 3: bra35 showed [4d 7d] and lost with Two pairs : Aces and Queens
+Seat 5: Alexzanoaga showed [2s Ks] and won 2340 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-71-1708976351 - Holdem no limit (40/80) - 2024/02/26 19:39:11 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #8 is the button
+Seat 1: elquentinoo (2280)
+Seat 2: Deadbeat (2340)
+Seat 4: Da Silva Max (6136)
+Seat 5: Alexzanoaga (14958)
+Seat 6: MarcusKJ (3014)
+Seat 7: Kristofe77 (4146)
+Seat 8: P1xel7 (2830)
+*** ANTE/BLINDS ***
+elquentinoo posts small blind 40
+Deadbeat posts big blind 80
+Dealt to P1xel7 [Jc Td]
+*** PRE-FLOP *** 
+Da Silva Max folds
+Alexzanoaga calls 80
+MarcusKJ folds
+Kristofe77 folds
+P1xel7 raises 160 to 240
+elquentinoo folds
+Deadbeat folds
+Alexzanoaga calls 160
+*** FLOP *** [3c 2h 7c]
+Alexzanoaga checks
+P1xel7 checks
+*** TURN *** [3c 2h 7c][3s]
+Alexzanoaga bets 210
+P1xel7 calls 210
+*** RIVER *** [3c 2h 7c 3s][Jh]
+Alexzanoaga bets 663
+P1xel7 calls 663
+*** SHOW DOWN ***
+Alexzanoaga shows [5d Kh] (One pair : 3)
+P1xel7 shows [Jc Td] (Two pairs : Jacks and 3)
+P1xel7 collected 2346 from pot
+*** SUMMARY ***
+Total pot 2346 | No rake
+Board: [3c 2h 7c 3s Jh]
+Seat 5: Alexzanoaga showed [5d Kh] and lost with One pair : 3
+Seat 8: P1xel7 (button) showed [Jc Td] and won 2346 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3217591431451378239-72-1708976396 - Holdem no limit (40/80) - 2024/02/26 19:39:56 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #1 is the button
+Seat 1: elquentinoo (2240)
+Seat 2: Deadbeat (2260)
+Seat 4: Da Silva Max (6136)
+Seat 5: Alexzanoaga (13845)
+Seat 6: MarcusKJ (3014)
+Seat 7: Kristofe77 (4146)
+Seat 8: P1xel7 (4063)
+*** ANTE/BLINDS ***
+Deadbeat posts small blind 40
+Da Silva Max posts big blind 80
+Dealt to P1xel7 [9d Qd]
+*** PRE-FLOP *** 
+Alexzanoaga calls 80
+MarcusKJ folds
+Kristofe77 calls 80
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+Da Silva Max checks
+*** FLOP *** [5d Ad 2h]
+Da Silva Max checks
+Alexzanoaga bets 98
+Kristofe77 folds
+Da Silva Max folds
+Alexzanoaga collected 378 from pot
+*** SUMMARY ***
+Total pot 378 | No rake
+Board: [5d Ad 2h]
+Seat 5: Alexzanoaga won 378
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451378239-73-1708976436 - Holdem no limit (60/120) - 2024/02/26 19:40:36 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #2 is the button
+Seat 1: elquentinoo (2240)
+Seat 2: Deadbeat (2220)
+Seat 4: Da Silva Max (6056)
+Seat 5: Alexzanoaga (14045)
+Seat 6: MarcusKJ (3014)
+Seat 7: Kristofe77 (4066)
+Seat 8: P1xel7 (4063)
+*** ANTE/BLINDS ***
+Da Silva Max posts small blind 60
+Alexzanoaga posts big blind 120
+Dealt to P1xel7 [As Qd]
+*** PRE-FLOP *** 
+MarcusKJ folds
+Kristofe77 folds
+P1xel7 raises 240 to 360
+elquentinoo folds
+Deadbeat folds
+Da Silva Max calls 300
+Alexzanoaga calls 240
+*** FLOP *** [5s Th Qc]
+Da Silva Max checks
+Alexzanoaga bets 378
+P1xel7 raises 1393 to 1771
+Da Silva Max folds
+Alexzanoaga folds
+P1xel7 collected 3229 from pot
+*** SUMMARY ***
+Total pot 3229 | No rake
+Board: [5s Th Qc]
+Seat 8: P1xel7 won 3229
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451378239-74-1708976465 - Holdem no limit (60/120) - 2024/02/26 19:41:05 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #4 is the button
+Seat 1: elquentinoo (2240)
+Seat 2: Deadbeat (2220)
+Seat 4: Da Silva Max (5696)
+Seat 5: Alexzanoaga (13307)
+Seat 6: MarcusKJ (3014)
+Seat 7: Kristofe77 (4066)
+Seat 8: P1xel7 (5161)
+*** ANTE/BLINDS ***
+Alexzanoaga posts small blind 60
+MarcusKJ posts big blind 120
+Dealt to P1xel7 [3h 8c]
+*** PRE-FLOP *** 
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+Da Silva Max folds
+Alexzanoaga raises 180 to 300
+MarcusKJ folds
+Alexzanoaga collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 5: Alexzanoaga (small blind) won 420
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451378239-75-1708976494 - Holdem no limit (60/120) - 2024/02/26 19:41:34 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #5 is the button
+Seat 1: elquentinoo (2240)
+Seat 2: Deadbeat (2220)
+Seat 4: Da Silva Max (5696)
+Seat 5: Alexzanoaga (13427)
+Seat 6: MarcusKJ (2894)
+Seat 7: Kristofe77 (4066)
+Seat 8: P1xel7 (5161)
+*** ANTE/BLINDS ***
+MarcusKJ posts small blind 60
+Kristofe77 posts big blind 120
+Dealt to P1xel7 [Td 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+Da Silva Max folds
+Alexzanoaga folds
+MarcusKJ folds
+Kristofe77 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 7: Kristofe77 (big blind) won 180
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451378239-76-1708976516 - Holdem no limit (60/120) - 2024/02/26 19:41:56 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #6 is the button
+Seat 1: elquentinoo (2240)
+Seat 2: Deadbeat (2220)
+Seat 4: Da Silva Max (5696)
+Seat 5: Alexzanoaga (13427)
+Seat 6: MarcusKJ (2834)
+Seat 7: Kristofe77 (4126)
+Seat 8: P1xel7 (5161)
+*** ANTE/BLINDS ***
+Kristofe77 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [6c 5d]
+*** PRE-FLOP *** 
+elquentinoo folds
+Deadbeat folds
+Da Silva Max raises 5576 to 5696 and is all-in
+Alexzanoaga folds
+MarcusKJ folds
+Kristofe77 folds
+P1xel7 folds
+Da Silva Max collected 5876 from pot
+*** SUMMARY ***
+Total pot 5876 | No rake
+Seat 4: Da Silva Max won 5876
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451378239-77-1708976536 - Holdem no limit (60/120) - 2024/02/26 19:42:16 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #7 is the button
+Seat 1: elquentinoo (2240)
+Seat 2: Deadbeat (2220)
+Seat 3: UCantonu (3000)
+Seat 4: Da Silva Max (5876)
+Seat 5: Alexzanoaga (13427)
+Seat 6: MarcusKJ (2834)
+Seat 7: Kristofe77 (4066)
+Seat 8: P1xel7 (5041)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+elquentinoo posts big blind 120
+Dealt to P1xel7 [Qc Ts]
+*** PRE-FLOP *** 
+Deadbeat folds
+UCantonu raises 300 to 420
+Da Silva Max folds
+Alexzanoaga raises 630 to 1050
+MarcusKJ folds
+Kristofe77 folds
+P1xel7 folds
+elquentinoo folds
+UCantonu raises 1950 to 3000 and is all-in
+Alexzanoaga calls 1950
+*** FLOP *** [4c 6c Jd]
+*** TURN *** [4c 6c Jd][5h]
+*** RIVER *** [4c 6c Jd 5h][5c]
+*** SHOW DOWN ***
+UCantonu shows [3s As] (One pair : 5)
+Alexzanoaga shows [9h 9c] (Two pairs : 9 and 5)
+Alexzanoaga collected 6180 from pot
+*** SUMMARY ***
+Total pot 6180 | No rake
+Board: [4c 6c Jd 5h 5c]
+Seat 3: UCantonu showed [3s As] and lost with One pair : 5
+Seat 5: Alexzanoaga showed [9h 9c] and won 6180 with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451378239-78-1708976563 - Holdem no limit (60/120) - 2024/02/26 19:42:43 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #8 is the button
+Seat 1: elquentinoo (2120)
+Seat 2: Deadbeat (2220)
+Seat 4: Da Silva Max (5876)
+Seat 5: Alexzanoaga (16607)
+Seat 6: MarcusKJ (2834)
+Seat 7: Kristofe77 (4066)
+Seat 8: P1xel7 (4981)
+*** ANTE/BLINDS ***
+elquentinoo posts small blind 60
+Deadbeat posts big blind 120
+Dealt to P1xel7 [5c 6c]
+*** PRE-FLOP *** 
+Da Silva Max calls 120
+Alexzanoaga calls 120
+MarcusKJ folds
+Kristofe77 calls 120
+P1xel7 calls 120
+elquentinoo folds
+Deadbeat folds
+*** FLOP *** [7h 3s Jc]
+Da Silva Max checks
+Alexzanoaga bets 231
+Kristofe77 calls 231
+P1xel7 calls 231
+Da Silva Max calls 231
+*** TURN *** [7h 3s Jc][8c]
+Da Silva Max checks
+Alexzanoaga checks
+Kristofe77 bets 554
+P1xel7 calls 554
+Da Silva Max folds
+Alexzanoaga folds
+*** RIVER *** [7h 3s Jc 8c][Kh]
+Kristofe77 bets 1750
+P1xel7 folds
+Kristofe77 collected 4442 from pot
+*** SUMMARY ***
+Total pot 4442 | No rake
+Board: [7h 3s Jc 8c Kh]
+Seat 7: Kristofe77 won 4442
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451378239-79-1708976618 - Holdem no limit (60/120) - 2024/02/26 19:43:38 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #1 is the button
+Seat 1: elquentinoo (2060)
+Seat 2: Deadbeat (2100)
+Seat 4: Da Silva Max (5525)
+Seat 5: Alexzanoaga (16256)
+Seat 6: MarcusKJ (2834)
+Seat 7: Kristofe77 (5853)
+Seat 8: P1xel7 (4076)
+*** ANTE/BLINDS ***
+Deadbeat posts small blind 60
+Da Silva Max posts big blind 120
+Dealt to P1xel7 [Jh 2c]
+*** PRE-FLOP *** 
+Alexzanoaga folds
+MarcusKJ folds
+Kristofe77 raises 180 to 300
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+Da Silva Max folds
+Kristofe77 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Seat 7: Kristofe77 won 480
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451378239-80-1708976634 - Holdem no limit (60/120) - 2024/02/26 19:43:54 UTC
+Table: 'Tremplin Paris(749153884)#0574' 8-max (real money) Seat #2 is the button
+Seat 1: elquentinoo (2060)
+Seat 2: Deadbeat (2040)
+Seat 4: Da Silva Max (5405)
+Seat 5: Alexzanoaga (16256)
+Seat 6: MarcusKJ (2834)
+Seat 7: Kristofe77 (6033)
+Seat 8: P1xel7 (4076)
+*** ANTE/BLINDS ***
+Da Silva Max posts small blind 60
+Alexzanoaga posts big blind 120
+Dealt to P1xel7 [2d 4d]
+*** PRE-FLOP *** 
+MarcusKJ folds
+Kristofe77 calls 120
+P1xel7 folds
+elquentinoo folds
+Deadbeat folds
+Da Silva Max folds
+Alexzanoaga checks
+*** FLOP *** [9c 5c As]
+Alexzanoaga checks
+Kristofe77 checks
+*** TURN *** [9c 5c As][Jd]
+Alexzanoaga checks
+Kristofe77 checks
+*** RIVER *** [9c 5c As Jd][9s]
+Alexzanoaga checks
+Kristofe77 bets 195
+Alexzanoaga folds
+Kristofe77 collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Board: [9c 5c As Jd 9s]
+Seat 7: Kristofe77 won 495
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451377858-59-1708976750 - Holdem no limit (60/120) - 2024/02/26 19:45:50 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: tooba91 (13382)
+Seat 2: P1xel7 (4076)
+Seat 3: Viconte38 (2355)
+Seat 4: Biba2503 (2325)
+Seat 5: Kevkev2110 (2315)
+Seat 6: parastas23 (14406)
+Seat 7: Swelia (1217)
+Seat 8: mp29670 (3000)
+*** ANTE/BLINDS ***
+Swelia posts small blind 60
+mp29670 posts big blind 120
+Dealt to P1xel7 [2h 4h]
+*** PRE-FLOP *** 
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 120 to 240
+Swelia raises 977 to 1217 and is all-in
+mp29670 calls 1097
+parastas23 folds
+*** FLOP *** [6c 7h 6h]
+*** TURN *** [6c 7h 6h][5c]
+*** RIVER *** [6c 7h 6h 5c][9d]
+*** SHOW DOWN ***
+mp29670 shows [Tc Jc] (One pair : 6)
+Swelia shows [Jh 7c] (Two pairs : 7 and 6)
+Swelia collected 2674 from pot
+*** SUMMARY ***
+Total pot 2674 | No rake
+Board: [6c 7h 6h 5c 9d]
+Seat 7: Swelia (small blind) showed [Jh 7c] and won 2674 with Two pairs : 7 and 6
+Seat 8: mp29670 (big blind) showed [Tc Jc] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451377858-60-1708976775 - Holdem no limit (60/120) - 2024/02/26 19:46:15 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #7 is the button
+Seat 1: tooba91 (13382)
+Seat 2: P1xel7 (4076)
+Seat 3: Viconte38 (2355)
+Seat 4: Biba2503 (2325)
+Seat 5: Kevkev2110 (2315)
+Seat 6: parastas23 (14166)
+Seat 7: Swelia (2674)
+Seat 8: mp29670 (1783)
+*** ANTE/BLINDS ***
+mp29670 posts small blind 60
+tooba91 posts big blind 120
+Dealt to P1xel7 [Ks 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 folds
+Swelia folds
+mp29670 folds
+tooba91 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: tooba91 (big blind) won 180
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451377858-61-1708976789 - Holdem no limit (60/120) - 2024/02/26 19:46:29 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #8 is the button
+Seat 1: tooba91 (13442)
+Seat 2: P1xel7 (4076)
+Seat 3: Viconte38 (2355)
+Seat 4: Biba2503 (2325)
+Seat 5: Kevkev2110 (2315)
+Seat 6: parastas23 (14166)
+Seat 7: Swelia (2674)
+Seat 8: mp29670 (1723)
+*** ANTE/BLINDS ***
+tooba91 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [5s 8s]
+*** PRE-FLOP *** 
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 120 to 240
+Swelia raises 660 to 900
+mp29670 folds
+tooba91 folds
+P1xel7 folds
+parastas23 calls 660
+*** FLOP *** [6c Kh 6d]
+parastas23 checks
+Swelia bets 1774 and is all-in
+parastas23 folds
+Swelia collected 3754 from pot
+*** SUMMARY ***
+Total pot 3754 | No rake
+Board: [6c Kh 6d]
+Seat 7: Swelia won 3754
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451377858-62-1708976811 - Holdem no limit (60/120) - 2024/02/26 19:46:51 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #1 is the button
+Seat 1: tooba91 (13382)
+Seat 2: P1xel7 (3956)
+Seat 3: Viconte38 (2355)
+Seat 4: Biba2503 (2325)
+Seat 5: Kevkev2110 (2315)
+Seat 6: parastas23 (13266)
+Seat 7: Swelia (3754)
+Seat 8: mp29670 (1723)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+Viconte38 posts big blind 120
+Dealt to P1xel7 [8h 8c]
+*** PRE-FLOP *** 
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 300 to 420
+Swelia raises 1020 to 1440
+mp29670 raises 283 to 1723 and is all-in
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+parastas23 raises 1020 to 2743
+Swelia raises 1011 to 3754 and is all-in
+parastas23 calls 1011
+*** FLOP *** [Ts Td Qd]
+*** TURN *** [Ts Td Qd][3h]
+*** RIVER *** [Ts Td Qd 3h][6h]
+*** SHOW DOWN ***
+Swelia shows [Js Ac] (One pair : Tens)
+mp29670 shows [Kh 7h] (One pair : Tens)
+parastas23 shows [Qh Ad] (Two pairs : Queens and Tens)
+parastas23 collected 9411 from pot
+*** SUMMARY ***
+Total pot 9411 | No rake
+Board: [Ts Td Qd 3h 6h]
+Seat 6: parastas23 showed [Qh Ad] and won 9411 with Two pairs : Queens and Tens
+Seat 7: Swelia showed [Js Ac] and lost with One pair : Tens
+Seat 8: mp29670 showed [Kh 7h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451377858-63-1708976840 - Holdem no limit (60/120) - 2024/02/26 19:47:20 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #2 is the button
+Seat 1: tooba91 (13382)
+Seat 2: P1xel7 (3896)
+Seat 3: Viconte38 (2235)
+Seat 4: Biba2503 (2325)
+Seat 5: Kevkev2110 (2315)
+Seat 6: parastas23 (18923)
+*** ANTE/BLINDS ***
+Viconte38 posts small blind 60
+Biba2503 posts big blind 120
+Dealt to P1xel7 [7d 4c]
+*** PRE-FLOP *** 
+Kevkev2110 folds
+parastas23 raises 120 to 240
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+parastas23 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 6: parastas23 won 420
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451377858-64-1708976854 - Holdem no limit (60/120) - 2024/02/26 19:47:34 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #3 is the button
+Seat 1: tooba91 (13382)
+Seat 2: P1xel7 (3896)
+Seat 3: Viconte38 (2175)
+Seat 4: Biba2503 (2205)
+Seat 5: Kevkev2110 (2315)
+Seat 6: parastas23 (19103)
+Seat 7: Cemlord73 (3000)
+*** ANTE/BLINDS ***
+Biba2503 posts small blind 60
+Kevkev2110 posts big blind 120
+Dealt to P1xel7 [6d Kh]
+*** PRE-FLOP *** 
+parastas23 folds
+Cemlord73 folds
+tooba91 raises 300 to 420
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+tooba91 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 1: tooba91 won 600
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451377858-65-1708976875 - Holdem no limit (60/120) - 2024/02/26 19:47:55 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #4 is the button
+Seat 1: tooba91 (13562)
+Seat 2: P1xel7 (3896)
+Seat 3: Viconte38 (2175)
+Seat 4: Biba2503 (2145)
+Seat 5: Kevkev2110 (2195)
+Seat 6: parastas23 (19103)
+Seat 7: Cemlord73 (3000)
+*** ANTE/BLINDS ***
+Kevkev2110 posts small blind 60
+parastas23 posts big blind 120
+Dealt to P1xel7 [Ac Qh]
+*** PRE-FLOP *** 
+Cemlord73 folds
+tooba91 folds
+P1xel7 raises 240 to 360
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 calls 240
+*** FLOP *** [8c 3d 4s]
+parastas23 checks
+P1xel7 bets 420
+parastas23 folds
+P1xel7 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [8c 3d 4s]
+Seat 2: P1xel7 won 1200
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3217591431451377858-66-1708976899 - Holdem no limit (60/120) - 2024/02/26 19:48:19 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #5 is the button
+Seat 1: tooba91 (13562)
+Seat 2: P1xel7 (4316)
+Seat 3: Viconte38 (2175)
+Seat 4: Biba2503 (2145)
+Seat 5: Kevkev2110 (2135)
+Seat 6: parastas23 (18743)
+Seat 7: Cemlord73 (3000)
+*** ANTE/BLINDS ***
+parastas23 posts small blind 60
+Cemlord73 posts big blind 120
+Dealt to P1xel7 [4d Th]
+*** PRE-FLOP *** 
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 120 to 240
+Cemlord73 folds
+parastas23 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 6: parastas23 (small blind) won 360
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-67-1708976917 - Holdem no limit (75/150) - 2024/02/26 19:48:37 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: tooba91 (13562)
+Seat 2: P1xel7 (4316)
+Seat 3: Viconte38 (2175)
+Seat 4: Biba2503 (2145)
+Seat 5: Kevkev2110 (2135)
+Seat 6: parastas23 (18863)
+Seat 7: Cemlord73 (2880)
+*** ANTE/BLINDS ***
+Cemlord73 posts small blind 75
+tooba91 posts big blind 150
+Dealt to P1xel7 [4h Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+Cemlord73 calls 225
+tooba91 calls 150
+*** FLOP *** [6c 4d Qs]
+Cemlord73 bets 585
+tooba91 folds
+parastas23 calls 585
+*** TURN *** [6c 4d Qs][9s]
+Cemlord73 checks
+parastas23 checks
+*** RIVER *** [6c 4d Qs 9s][Kd]
+Cemlord73 checks
+parastas23 checks
+*** SHOW DOWN ***
+Cemlord73 shows [7s As] (High card : Ace)
+parastas23 shows [Ts 4s] (One pair : 4)
+parastas23 collected 2070 from pot
+*** SUMMARY ***
+Total pot 2070 | No rake
+Board: [6c 4d Qs 9s Kd]
+Seat 6: parastas23 (button) showed [Ts 4s] and won 2070 with One pair : 4
+Seat 7: Cemlord73 (small blind) showed [7s As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-68-1708976962 - Holdem no limit (75/150) - 2024/02/26 19:49:22 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #7 is the button
+Seat 1: tooba91 (13262)
+Seat 2: P1xel7 (4316)
+Seat 3: Viconte38 (2175)
+Seat 4: Biba2503 (2145)
+Seat 5: Kevkev2110 (2135)
+Seat 6: parastas23 (20048)
+Seat 7: Cemlord73 (1995)
+Seat 8: Moez1919 (3000)
+*** ANTE/BLINDS ***
+tooba91 posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [Ts Jc]
+*** PRE-FLOP *** 
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 folds
+Cemlord73 folds
+tooba91 calls 75
+P1xel7 raises 300 to 450
+tooba91 calls 300
+*** FLOP *** [6c Jd 9c]
+tooba91 checks
+P1xel7 bets 450
+tooba91 calls 450
+*** TURN *** [6c Jd 9c][8c]
+tooba91 checks
+P1xel7 bets 1440
+tooba91 folds
+P1xel7 collected 3240 from pot
+*** SUMMARY ***
+Total pot 3240 | No rake
+Board: [6c Jd 9c 8c]
+Seat 2: P1xel7 (big blind) won 3240
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-69-1708977003 - Holdem no limit (75/150) - 2024/02/26 19:50:03 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #1 is the button
+Seat 1: tooba91 (12362)
+Seat 2: P1xel7 (5216)
+Seat 3: Viconte38 (2175)
+Seat 4: Biba2503 (2145)
+Seat 5: Kevkev2110 (2135)
+Seat 6: parastas23 (20048)
+Seat 7: Cemlord73 (1995)
+Seat 8: Moez1919 (3000)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 75
+Viconte38 posts big blind 150
+Dealt to P1xel7 [7h 6h]
+*** PRE-FLOP *** 
+Biba2503 folds
+Kevkev2110 folds
+parastas23 folds
+Cemlord73 folds
+Moez1919 calls 150
+tooba91 calls 150
+P1xel7 calls 75
+Viconte38 folds
+*** FLOP *** [8s Jh Qs]
+P1xel7 checks
+Moez1919 bets 150
+tooba91 folds
+P1xel7 folds
+Moez1919 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [8s Jh Qs]
+Seat 8: Moez1919 won 750
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-70-1708977030 - Holdem no limit (75/150) - 2024/02/26 19:50:30 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #2 is the button
+Seat 1: tooba91 (12212)
+Seat 2: P1xel7 (5066)
+Seat 3: Viconte38 (2025)
+Seat 4: Biba2503 (2145)
+Seat 5: Kevkev2110 (2135)
+Seat 6: parastas23 (20048)
+Seat 7: Cemlord73 (1995)
+Seat 8: Moez1919 (3450)
+*** ANTE/BLINDS ***
+Viconte38 posts small blind 75
+Biba2503 posts big blind 150
+Dealt to P1xel7 [3s 3c]
+*** PRE-FLOP *** 
+Kevkev2110 folds
+parastas23 folds
+Cemlord73 raises 1845 to 1995 and is all-in
+Moez1919 folds
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Cemlord73 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 7: Cemlord73 won 2220
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-71-1708977050 - Holdem no limit (75/150) - 2024/02/26 19:50:50 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #3 is the button
+Seat 1: tooba91 (12212)
+Seat 2: P1xel7 (5066)
+Seat 3: Viconte38 (1950)
+Seat 4: Biba2503 (1995)
+Seat 5: Kevkev2110 (2135)
+Seat 6: parastas23 (20048)
+Seat 7: Cemlord73 (2220)
+Seat 8: Moez1919 (3450)
+*** ANTE/BLINDS ***
+Biba2503 posts small blind 75
+Kevkev2110 posts big blind 150
+Dealt to P1xel7 [Jd 4d]
+*** PRE-FLOP *** 
+parastas23 raises 150 to 300
+Cemlord73 folds
+Moez1919 calls 300
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+*** FLOP *** [Kh 5c 3d]
+parastas23 bets 150
+Moez1919 calls 150
+*** TURN *** [Kh 5c 3d][4c]
+parastas23 bets 150
+Moez1919 calls 150
+*** RIVER *** [Kh 5c 3d 4c][2h]
+parastas23 bets 1425
+Moez1919 folds
+parastas23 collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Board: [Kh 5c 3d 4c 2h]
+Seat 6: parastas23 won 2850
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-72-1708977086 - Holdem no limit (75/150) - 2024/02/26 19:51:26 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #4 is the button
+Seat 1: tooba91 (12212)
+Seat 2: P1xel7 (5066)
+Seat 3: Viconte38 (1950)
+Seat 4: Biba2503 (1920)
+Seat 5: Kevkev2110 (1985)
+Seat 6: parastas23 (20873)
+Seat 7: Cemlord73 (2220)
+Seat 8: Moez1919 (2850)
+*** ANTE/BLINDS ***
+Kevkev2110 posts small blind 75
+parastas23 posts big blind 150
+Dealt to P1xel7 [Kd 4c]
+*** PRE-FLOP *** 
+Cemlord73 calls 150
+Moez1919 calls 150
+tooba91 calls 150
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 checks
+*** FLOP *** [3h 2d Jh]
+parastas23 checks
+Cemlord73 checks
+Moez1919 bets 675
+tooba91 folds
+parastas23 folds
+Cemlord73 folds
+Moez1919 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | No rake
+Board: [3h 2d Jh]
+Seat 8: Moez1919 won 1350
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-73-1708977132 - Holdem no limit (75/150) - 2024/02/26 19:52:12 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #5 is the button
+Seat 1: tooba91 (12062)
+Seat 2: P1xel7 (5066)
+Seat 3: Viconte38 (1950)
+Seat 4: Biba2503 (1920)
+Seat 5: Kevkev2110 (1910)
+Seat 6: parastas23 (20723)
+Seat 7: Cemlord73 (2070)
+Seat 8: Moez1919 (3375)
+*** ANTE/BLINDS ***
+parastas23 posts small blind 75
+Cemlord73 posts big blind 150
+Dealt to P1xel7 [Ac 6d]
+*** PRE-FLOP *** 
+Moez1919 calls 150
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 450 to 600
+Cemlord73 folds
+Moez1919 calls 450
+*** FLOP *** [Ts Jd Ks]
+parastas23 bets 1350
+Moez1919 raises 1425 to 2775 and is all-in
+parastas23 calls 1425
+*** TURN *** [Ts Jd Ks][Qh]
+*** RIVER *** [Ts Jd Ks Qh][8s]
+*** SHOW DOWN ***
+Moez1919 shows [3d Tc] (One pair : Tens)
+parastas23 shows [9d Ad] (Straight Ace high)
+parastas23 collected 6900 from pot
+*** SUMMARY ***
+Total pot 6900 | No rake
+Board: [Ts Jd Ks Qh 8s]
+Seat 6: parastas23 (small blind) showed [9d Ad] and won 6900 with Straight Ace high
+Seat 8: Moez1919 showed [3d Tc] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-74-1708977159 - Holdem no limit (75/150) - 2024/02/26 19:52:39 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: tooba91 (12062)
+Seat 2: P1xel7 (5066)
+Seat 3: Viconte38 (1950)
+Seat 4: Biba2503 (1920)
+Seat 5: Kevkev2110 (1910)
+Seat 6: parastas23 (24248)
+Seat 7: Cemlord73 (1920)
+*** ANTE/BLINDS ***
+Cemlord73 posts small blind 75
+tooba91 posts big blind 150
+Dealt to P1xel7 [Ah 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+Cemlord73 folds
+tooba91 calls 150
+*** FLOP *** [Ac 2d 4h]
+tooba91 checks
+parastas23 bets 150
+tooba91 folds
+parastas23 collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Board: [Ac 2d 4h]
+Seat 6: parastas23 (button) won 825
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-75-1708977186 - Holdem no limit (75/150) - 2024/02/26 19:53:06 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #7 is the button
+Seat 1: tooba91 (11762)
+Seat 2: P1xel7 (5066)
+Seat 3: Viconte38 (1950)
+Seat 4: Biba2503 (1920)
+Seat 5: Kevkev2110 (1910)
+Seat 6: parastas23 (24623)
+Seat 7: Cemlord73 (1845)
+Seat 8: alexfake (1425)
+*** ANTE/BLINDS ***
+tooba91 posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [Td Kd]
+*** PRE-FLOP *** 
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+Cemlord73 folds
+tooba91 calls 225
+P1xel7 calls 150
+*** FLOP *** [7d 4s Jd]
+tooba91 checks
+P1xel7 checks
+parastas23 bets 150
+tooba91 folds
+P1xel7 calls 150
+*** TURN *** [7d 4s Jd][Th]
+P1xel7 checks
+parastas23 checks
+*** RIVER *** [7d 4s Jd Th][Qs]
+P1xel7 checks
+parastas23 checks
+*** SHOW DOWN ***
+parastas23 shows [6c Ah] (High card : Ace)
+P1xel7 shows [Td Kd] (One pair : Tens)
+P1xel7 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [7d 4s Jd Th Qs]
+Seat 2: P1xel7 (big blind) showed [Td Kd] and won 1200 with One pair : Tens
+Seat 6: parastas23 showed [6c Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-76-1708977228 - Holdem no limit (75/150) - 2024/02/26 19:53:48 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #1 is the button
+Seat 1: tooba91 (11462)
+Seat 2: P1xel7 (5816)
+Seat 3: Viconte38 (1950)
+Seat 4: Biba2503 (1920)
+Seat 5: Kevkev2110 (1910)
+Seat 6: parastas23 (24173)
+Seat 7: Cemlord73 (1845)
+Seat 8: alexfake (1425)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 75
+Viconte38 posts big blind 150
+Dealt to P1xel7 [Th 9d]
+*** PRE-FLOP *** 
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 375 to 525
+Cemlord73 raises 1320 to 1845 and is all-in
+alexfake folds
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+parastas23 calls 1320
+*** FLOP *** [Qs 9h 6c]
+*** TURN *** [Qs 9h 6c][Jd]
+*** RIVER *** [Qs 9h 6c Jd][6h]
+*** SHOW DOWN ***
+Cemlord73 shows [Ad 7h] (One pair : 6)
+parastas23 shows [Qc Jc] (Two pairs : Queens and Jacks)
+parastas23 collected 3915 from pot
+*** SUMMARY ***
+Total pot 3915 | No rake
+Board: [Qs 9h 6c Jd 6h]
+Seat 6: parastas23 showed [Qc Jc] and won 3915 with Two pairs : Queens and Jacks
+Seat 7: Cemlord73 showed [Ad 7h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-77-1708977248 - Holdem no limit (75/150) - 2024/02/26 19:54:08 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #2 is the button
+Seat 1: tooba91 (11462)
+Seat 2: P1xel7 (5741)
+Seat 3: Viconte38 (1800)
+Seat 4: Biba2503 (1920)
+Seat 5: Kevkev2110 (1910)
+Seat 6: parastas23 (26243)
+Seat 8: alexfake (1425)
+*** ANTE/BLINDS ***
+Viconte38 posts small blind 75
+Biba2503 posts big blind 150
+Dealt to P1xel7 [Qc 6d]
+*** PRE-FLOP *** 
+Kevkev2110 folds
+parastas23 raises 375 to 525
+alexfake folds
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+parastas23 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 6: parastas23 won 750
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-78-1708977264 - Holdem no limit (75/150) - 2024/02/26 19:54:24 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #3 is the button
+Seat 1: tooba91 (11462)
+Seat 2: P1xel7 (5741)
+Seat 3: Viconte38 (1725)
+Seat 4: Biba2503 (1770)
+Seat 5: Kevkev2110 (1910)
+Seat 6: parastas23 (26468)
+Seat 7: Chihiro12 (3000)
+Seat 8: alexfake (1425)
+*** ANTE/BLINDS ***
+Biba2503 posts small blind 75
+Kevkev2110 posts big blind 150
+Dealt to P1xel7 [Qh 8d]
+*** PRE-FLOP *** 
+parastas23 calls 150
+Chihiro12 folds
+alexfake folds
+tooba91 raises 300 to 450
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 calls 300
+*** FLOP *** [Qd Tc Ts]
+parastas23 checks
+tooba91 bets 394
+parastas23 folds
+tooba91 collected 1519 from pot
+*** SUMMARY ***
+Total pot 1519 | No rake
+Board: [Qd Tc Ts]
+Seat 1: tooba91 won 1519
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-80-1708977675 - Holdem no limit (75/150) - 2024/02/26 20:01:15 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #5 is the button
+Seat 1: tooba91 (12137)
+Seat 2: P1xel7 (5741)
+Seat 3: Viconte38 (1725)
+Seat 4: Biba2503 (1695)
+Seat 5: Kevkev2110 (1685)
+Seat 6: parastas23 (26093)
+Seat 7: Chihiro12 (3000)
+*** ANTE/BLINDS ***
+parastas23 posts small blind 75
+Chihiro12 posts big blind 150
+Dealt to P1xel7 [2s Kd]
+*** PRE-FLOP *** 
+tooba91 calls 150
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+Chihiro12 calls 150
+tooba91 calls 150
+*** FLOP *** [3s Jd 6c]
+parastas23 checks
+Chihiro12 checks
+tooba91 checks
+*** TURN *** [3s Jd 6c][7d]
+parastas23 bets 150
+Chihiro12 folds
+tooba91 folds
+parastas23 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [3s Jd 6c 7d]
+Seat 6: parastas23 (small blind) won 1050
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3217591431451377858-81-1708977719 - Holdem no limit (75/150) - 2024/02/26 20:01:59 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: tooba91 (11837)
+Seat 2: P1xel7 (5741)
+Seat 3: Viconte38 (1725)
+Seat 4: Biba2503 (1695)
+Seat 5: Kevkev2110 (1685)
+Seat 6: parastas23 (26693)
+Seat 7: Chihiro12 (2700)
+Seat 8: tomtom69690 (3000)
+*** ANTE/BLINDS ***
+Chihiro12 posts small blind 75
+tomtom69690 posts big blind 150
+Dealt to P1xel7 [8c 5s]
+*** PRE-FLOP *** 
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+Chihiro12 folds
+tomtom69690 calls 150
+*** FLOP *** [4c 2s Kd]
+tomtom69690 checks
+parastas23 bets 150
+tomtom69690 raises 581 to 731
+parastas23 folds
+tomtom69690 collected 1556 from pot
+*** SUMMARY ***
+Total pot 1556 | No rake
+Board: [4c 2s Kd]
+Seat 8: tomtom69690 (big blind) won 1556
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-82-1708977746 - Holdem no limit (15/75/150) - 2024/02/26 20:02:26 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #7 is the button
+Seat 1: tooba91 (11837)
+Seat 2: P1xel7 (5741)
+Seat 3: Viconte38 (1725)
+Seat 4: Biba2503 (1695)
+Seat 5: Kevkev2110 (1685)
+Seat 6: parastas23 (26243)
+Seat 7: Chihiro12 (2625)
+Seat 8: tomtom69690 (3525)
+*** ANTE/BLINDS ***
+tomtom69690 posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+Chihiro12 posts ante 15
+tomtom69690 posts small blind 75
+tooba91 posts big blind 150
+Dealt to P1xel7 [7s 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+Chihiro12 folds
+tomtom69690 raises 3210 to 3510 and is all-in
+tooba91 folds
+parastas23 calls 3210
+*** FLOP *** [6h 8h 2h]
+*** TURN *** [6h 8h 2h][9s]
+*** RIVER *** [6h 8h 2h 9s][Ah]
+*** SHOW DOWN ***
+tomtom69690 shows [4c 4s] (One pair : 4)
+parastas23 shows [9c Td] (One pair : 9)
+parastas23 collected 7290 from pot
+*** SUMMARY ***
+Total pot 7290 | No rake
+Board: [6h 8h 2h 9s Ah]
+Seat 6: parastas23 showed [9c Td] and won 7290 with One pair : 9
+Seat 8: tomtom69690 (small blind) showed [4c 4s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-83-1708977775 - Holdem no limit (15/75/150) - 2024/02/26 20:02:55 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #8 is the button
+Seat 1: tooba91 (11672)
+Seat 2: P1xel7 (5726)
+Seat 3: Viconte38 (1710)
+Seat 4: Biba2503 (1680)
+Seat 5: Kevkev2110 (1670)
+Seat 6: parastas23 (30008)
+Seat 7: Chihiro12 (2610)
+*** ANTE/BLINDS ***
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+Chihiro12 posts ante 15
+tooba91 posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [9s Th]
+*** PRE-FLOP *** 
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+Chihiro12 folds
+tooba91 folds
+P1xel7 calls 150
+*** FLOP *** [8d Qs Kc]
+P1xel7 checks
+parastas23 bets 150
+P1xel7 calls 150
+*** TURN *** [8d Qs Kc][Ts]
+P1xel7 checks
+parastas23 checks
+*** RIVER *** [8d Qs Kc Ts][7h]
+P1xel7 bets 900
+parastas23 folds
+P1xel7 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Board: [8d Qs Kc Ts 7h]
+Seat 2: P1xel7 (big blind) won 1980
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-84-1708977820 - Holdem no limit (15/75/150) - 2024/02/26 20:03:40 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #1 is the button
+Seat 1: tooba91 (11582)
+Seat 2: P1xel7 (6341)
+Seat 3: Viconte38 (1695)
+Seat 4: Biba2503 (1665)
+Seat 5: Kevkev2110 (1655)
+Seat 6: parastas23 (29543)
+Seat 7: Chihiro12 (2595)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+tooba91 posts ante 15
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+Chihiro12 posts ante 15
+P1xel7 posts small blind 75
+Viconte38 posts big blind 150
+Dealt to P1xel7 [Th Td]
+*** PRE-FLOP *** 
+Biba2503 folds
+Kevkev2110 folds
+parastas23 folds
+Chihiro12 calls 150
+tooba91 folds
+P1xel7 raises 525 to 675
+Viconte38 folds
+Chihiro12 calls 525
+*** FLOP *** [3d Jc 7d]
+P1xel7 bets 675
+Chihiro12 folds
+P1xel7 collected 2280 from pot
+*** SUMMARY ***
+Total pot 2280 | No rake
+Board: [3d Jc 7d]
+Seat 2: P1xel7 (small blind) won 2280
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-85-1708977848 - Holdem no limit (15/75/150) - 2024/02/26 20:04:08 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #2 is the button
+Seat 1: tooba91 (11567)
+Seat 2: P1xel7 (7256)
+Seat 3: Viconte38 (1530)
+Seat 4: Biba2503 (1650)
+Seat 5: Kevkev2110 (1640)
+Seat 6: parastas23 (29528)
+Seat 7: Chihiro12 (1905)
+Seat 8: Kakaiiivibel (9450)
+*** ANTE/BLINDS ***
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+Chihiro12 posts ante 15
+Kakaiiivibel posts ante 15
+Viconte38 posts small blind 75
+Biba2503 posts big blind 150
+Dealt to P1xel7 [2c Jd]
+*** PRE-FLOP *** 
+Kevkev2110 folds
+parastas23 raises 495 to 645
+Chihiro12 raises 1245 to 1890 and is all-in
+Kakaiiivibel folds
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+parastas23 calls 1245
+*** FLOP *** [5d 3d 7s]
+*** TURN *** [5d 3d 7s][3h]
+*** RIVER *** [5d 3d 7s 3h][Kc]
+*** SHOW DOWN ***
+Chihiro12 shows [9h 9c] (Two pairs : 9 and 3)
+parastas23 shows [3c 3s] (Quads of 3)
+parastas23 collected 4125 from pot
+*** SUMMARY ***
+Total pot 4125 | No rake
+Board: [5d 3d 7s 3h Kc]
+Seat 6: parastas23 showed [3c 3s] and won 4125 with Quads of 3
+Seat 7: Chihiro12 showed [9h 9c] and lost with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-86-1708977873 - Holdem no limit (15/75/150) - 2024/02/26 20:04:33 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #3 is the button
+Seat 1: tooba91 (11552)
+Seat 2: P1xel7 (7241)
+Seat 3: Viconte38 (1440)
+Seat 4: Biba2503 (1485)
+Seat 5: Kevkev2110 (1625)
+Seat 6: parastas23 (31748)
+Seat 8: Kakaiiivibel (9435)
+*** ANTE/BLINDS ***
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+parastas23 posts ante 15
+Kakaiiivibel posts ante 15
+Biba2503 posts small blind 75
+Kevkev2110 posts big blind 150
+Dealt to P1xel7 [Ks Ad]
+*** PRE-FLOP *** 
+parastas23 folds
+Kakaiiivibel raises 480 to 630
+tooba91 folds
+P1xel7 raises 870 to 1500
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+Kakaiiivibel raises 870 to 2370
+P1xel7 calls 870
+*** FLOP *** [5s Qd Jh]
+Kakaiiivibel bets 1775
+P1xel7 calls 1775
+*** TURN *** [5s Qd Jh][6c]
+Kakaiiivibel checks
+P1xel7 bets 3081 and is all-in
+Kakaiiivibel raises 2194 to 5275 and is all-in
+*** RIVER *** [5s Qd Jh 6c][Ts]
+*** SHOW DOWN ***
+P1xel7 shows [Ks Ad] (Straight Ace high)
+Kakaiiivibel shows [Ah Ac] (One pair : Aces)
+Kakaiiivibel collected 2194 from side pot 1
+P1xel7 collected 14782 from main pot
+*** SUMMARY ***
+Total pot 16976 | No rake
+Board: [5s Qd Jh 6c Ts]
+Seat 2: P1xel7 showed [Ks Ad] and won 14782 with Straight Ace high
+Seat 8: Kakaiiivibel showed [Ah Ac] and won 2194 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-87-1708977932 - Holdem no limit (15/75/150) - 2024/02/26 20:05:32 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #4 is the button
+Seat 1: tooba91 (11537)
+Seat 2: P1xel7 (14782)
+Seat 3: Viconte38 (1425)
+Seat 4: Biba2503 (1395)
+Seat 5: Kevkev2110 (1460)
+Seat 6: parastas23 (31733)
+Seat 8: Kakaiiivibel (2194)
+*** ANTE/BLINDS ***
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+Kakaiiivibel posts ante 15
+Kevkev2110 posts small blind 75
+parastas23 posts big blind 150
+Dealt to P1xel7 [Qd 5d]
+*** PRE-FLOP *** 
+Kakaiiivibel raises 2029 to 2179 and is all-in
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 calls 2029
+*** FLOP *** [5s Kc 9d]
+*** TURN *** [5s Kc 9d][Kh]
+*** RIVER *** [5s Kc 9d Kh][Ac]
+*** SHOW DOWN ***
+Kakaiiivibel shows [3h 7h] (One pair : Kings)
+parastas23 shows [2h Ah] (Two pairs : Aces and Kings)
+parastas23 collected 4538 from pot
+*** SUMMARY ***
+Total pot 4538 | No rake
+Board: [5s Kc 9d Kh Ac]
+Seat 6: parastas23 (big blind) showed [2h Ah] and won 4538 with Two pairs : Aces and Kings
+Seat 8: Kakaiiivibel showed [3h 7h] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-88-1708977955 - Holdem no limit (15/75/150) - 2024/02/26 20:05:55 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #5 is the button
+Seat 1: tooba91 (11522)
+Seat 2: P1xel7 (14767)
+Seat 3: Viconte38 (1410)
+Seat 4: Biba2503 (1380)
+Seat 5: Kevkev2110 (1370)
+Seat 6: parastas23 (34077)
+*** ANTE/BLINDS ***
+parastas23 posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts small blind 75
+tooba91 posts big blind 150
+Dealt to P1xel7 [7h Qc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+tooba91 folds
+parastas23 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | No rake
+Seat 6: parastas23 (small blind) won 540
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-89-1708977966 - Holdem no limit (15/75/150) - 2024/02/26 20:06:06 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: tooba91 (11357)
+Seat 2: P1xel7 (14752)
+Seat 3: Viconte38 (1395)
+Seat 4: Biba2503 (1365)
+Seat 5: Kevkev2110 (1355)
+Seat 6: parastas23 (34302)
+Seat 8: vide... (2130)
+*** ANTE/BLINDS ***
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+tooba91 posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [6d 3h]
+*** PRE-FLOP *** 
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+tooba91 folds
+P1xel7 folds
+parastas23 collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | No rake
+Seat 6: parastas23 (button) won 615
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-90-1708977984 - Holdem no limit (15/75/150) - 2024/02/26 20:06:24 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #1 is the button
+Seat 1: tooba91 (11267)
+Seat 2: P1xel7 (14587)
+Seat 3: Viconte38 (1380)
+Seat 4: Biba2503 (1350)
+Seat 5: Kevkev2110 (1340)
+Seat 6: parastas23 (34602)
+Seat 8: vide... (2130)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+tooba91 posts ante 15
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+vide... posts ante 15
+P1xel7 posts small blind 75
+Viconte38 posts big blind 150
+Dealt to P1xel7 [3s 6d]
+*** PRE-FLOP *** 
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+vide... folds
+tooba91 calls 300
+P1xel7 folds
+Viconte38 folds
+*** FLOP *** [4h 9s Jd]
+parastas23 bets 150
+tooba91 calls 150
+*** TURN *** [4h 9s Jd][Ks]
+parastas23 bets 150
+tooba91 calls 150
+*** RIVER *** [4h 9s Jd Ks][8c]
+parastas23 checks
+tooba91 bets 536
+parastas23 folds
+tooba91 collected 2066 from pot
+*** SUMMARY ***
+Total pot 2066 | No rake
+Board: [4h 9s Jd Ks 8c]
+Seat 1: tooba91 (button) won 2066
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-91-1708978016 - Holdem no limit (15/75/150) - 2024/02/26 20:06:56 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #2 is the button
+Seat 1: tooba91 (12182)
+Seat 2: P1xel7 (14497)
+Seat 3: Viconte38 (1215)
+Seat 4: Biba2503 (1335)
+Seat 5: Kevkev2110 (1325)
+Seat 6: parastas23 (33987)
+Seat 8: vide... (2115)
+*** ANTE/BLINDS ***
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+vide... posts ante 15
+Viconte38 posts small blind 75
+Biba2503 posts big blind 150
+Dealt to P1xel7 [Qs Ah]
+*** PRE-FLOP *** 
+Kevkev2110 folds
+parastas23 folds
+vide... folds
+tooba91 folds
+P1xel7 raises 150 to 300
+Viconte38 folds
+Biba2503 folds
+P1xel7 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 2: P1xel7 (button) won 630
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-92-1708978028 - Holdem no limit (15/75/150) - 2024/02/26 20:07:08 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #3 is the button
+Seat 1: tooba91 (12167)
+Seat 2: P1xel7 (14812)
+Seat 3: Viconte38 (1125)
+Seat 4: Biba2503 (1170)
+Seat 5: Kevkev2110 (1310)
+Seat 6: parastas23 (33972)
+Seat 8: vide... (2100)
+*** ANTE/BLINDS ***
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+parastas23 posts ante 15
+vide... posts ante 15
+Biba2503 posts small blind 75
+Kevkev2110 posts big blind 150
+Dealt to P1xel7 [2d 3d]
+*** PRE-FLOP *** 
+parastas23 folds
+vide... folds
+tooba91 folds
+P1xel7 raises 150 to 300
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+P1xel7 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | No rake
+Seat 2: P1xel7 won 630
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-93-1708978052 - Holdem no limit (15/75/150) - 2024/02/26 20:07:32 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #4 is the button
+Seat 1: tooba91 (12152)
+Seat 2: P1xel7 (15127)
+Seat 3: Viconte38 (1110)
+Seat 4: Biba2503 (1080)
+Seat 5: Kevkev2110 (1145)
+Seat 6: parastas23 (33957)
+Seat 7: Karter6 (7258)
+Seat 8: vide... (2085)
+*** ANTE/BLINDS ***
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+Karter6 posts ante 15
+vide... posts ante 15
+Kevkev2110 posts small blind 75
+parastas23 posts big blind 150
+Dealt to P1xel7 [Qd Kc]
+*** PRE-FLOP *** 
+Karter6 folds
+vide... folds
+tooba91 raises 495 to 645
+P1xel7 raises 968 to 1613
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 4066 to 5679
+tooba91 folds
+P1xel7 folds
+parastas23 collected 8132 from pot
+*** SUMMARY ***
+Total pot 8132 | No rake
+Seat 6: parastas23 (big blind) won 8132
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-94-1708978105 - Holdem no limit (15/75/150) - 2024/02/26 20:08:25 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #5 is the button
+Seat 1: tooba91 (11492)
+Seat 2: P1xel7 (13499)
+Seat 3: Viconte38 (1095)
+Seat 4: Biba2503 (1065)
+Seat 5: Kevkev2110 (1055)
+Seat 6: parastas23 (36395)
+Seat 7: Karter6 (7243)
+Seat 8: vide... (2070)
+*** ANTE/BLINDS ***
+parastas23 posts ante 15
+Karter6 posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+vide... posts ante 15
+parastas23 posts small blind 75
+Karter6 posts big blind 150
+Dealt to P1xel7 [4s 7h]
+*** PRE-FLOP *** 
+vide... folds
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+Karter6 calls 150
+*** FLOP *** [Qc 7s 6s]
+parastas23 bets 720
+Karter6 folds
+parastas23 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [Qc 7s 6s]
+Seat 6: parastas23 (small blind) won 1440
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-95-1708978139 - Holdem no limit (15/75/150) - 2024/02/26 20:08:59 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: tooba91 (11477)
+Seat 2: P1xel7 (13484)
+Seat 3: Viconte38 (1080)
+Seat 4: Biba2503 (1050)
+Seat 5: Kevkev2110 (1040)
+Seat 6: parastas23 (36800)
+Seat 7: Karter6 (6928)
+Seat 8: vide... (2055)
+*** ANTE/BLINDS ***
+Karter6 posts ante 15
+vide... posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+Karter6 posts small blind 75
+vide... posts big blind 150
+Dealt to P1xel7 [Jd 8s]
+*** PRE-FLOP *** 
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+Karter6 folds
+vide... folds
+parastas23 collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | No rake
+Seat 6: parastas23 (button) won 645
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-96-1708978150 - Holdem no limit (15/75/150) - 2024/02/26 20:09:10 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #7 is the button
+Seat 1: tooba91 (11462)
+Seat 2: P1xel7 (13469)
+Seat 3: Viconte38 (1065)
+Seat 4: Biba2503 (1035)
+Seat 5: Kevkev2110 (1025)
+Seat 6: parastas23 (37130)
+Seat 7: Karter6 (6838)
+Seat 8: vide... (1890)
+*** ANTE/BLINDS ***
+vide... posts ante 15
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+Karter6 posts ante 15
+vide... posts small blind 75
+tooba91 posts big blind 150
+Dealt to P1xel7 [3s Qh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 150 to 300
+Karter6 calls 300
+vide... folds
+tooba91 folds
+*** FLOP *** [Ad 4s Kc]
+parastas23 bets 150
+Karter6 folds
+parastas23 collected 1095 from pot
+*** SUMMARY ***
+Total pot 1095 | No rake
+Board: [Ad 4s Kc]
+Seat 6: parastas23 won 1095
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3217591431451377858-97-1708978176 - Holdem no limit (15/75/150) - 2024/02/26 20:09:36 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #8 is the button
+Seat 1: tooba91 (11297)
+Seat 2: P1xel7 (13454)
+Seat 3: Viconte38 (1050)
+Seat 4: Biba2503 (1020)
+Seat 5: Kevkev2110 (1010)
+Seat 6: parastas23 (37760)
+Seat 7: Karter6 (6523)
+Seat 8: vide... (1800)
+*** ANTE/BLINDS ***
+tooba91 posts ante 15
+P1xel7 posts ante 15
+Viconte38 posts ante 15
+Biba2503 posts ante 15
+Kevkev2110 posts ante 15
+parastas23 posts ante 15
+Karter6 posts ante 15
+vide... posts ante 15
+tooba91 posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [Kh Tc]
+*** PRE-FLOP *** 
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 calls 150
+Karter6 calls 150
+vide... folds
+tooba91 calls 75
+P1xel7 checks
+*** FLOP *** [8c 9h 3s]
+tooba91 checks
+P1xel7 checks
+parastas23 checks
+Karter6 checks
+*** TURN *** [8c 9h 3s][Jc]
+tooba91 checks
+P1xel7 checks
+parastas23 checks
+Karter6 bets 468
+tooba91 folds
+P1xel7 calls 468
+parastas23 calls 468
+*** RIVER *** [8c 9h 3s Jc][2h]
+P1xel7 checks
+parastas23 checks
+Karter6 checks
+*** SHOW DOWN ***
+P1xel7 shows [Kh Tc] (High card : King)
+Karter6 shows [As 7d] (High card : Ace)
+parastas23 shows [5c 2c] (One pair : 2)
+parastas23 collected 2124 from pot
+*** SUMMARY ***
+Total pot 2124 | No rake
+Board: [8c 9h 3s Jc 2h]
+Seat 2: P1xel7 (big blind) showed [Kh Tc] and lost with High card : King
+Seat 6: parastas23 showed [5c 2c] and won 2124 with One pair : 2
+Seat 7: Karter6 showed [As 7d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-98-1708978254 - Holdem no limit (20/100/200) - 2024/02/26 20:10:54 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #1 is the button
+Seat 1: tooba91 (11132)
+Seat 2: P1xel7 (12821)
+Seat 3: Viconte38 (1035)
+Seat 4: Biba2503 (1005)
+Seat 5: Kevkev2110 (995)
+Seat 6: parastas23 (39251)
+Seat 7: Karter6 (5890)
+Seat 8: vide... (1785)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+tooba91 posts ante 20
+Biba2503 posts ante 20
+Kevkev2110 posts ante 20
+parastas23 posts ante 20
+Karter6 posts ante 20
+vide... posts ante 20
+P1xel7 posts small blind 100
+Viconte38 posts big blind 200
+Dealt to P1xel7 [8s 6h]
+*** PRE-FLOP *** 
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 660 to 860
+Karter6 folds
+vide... folds
+tooba91 calls 860
+P1xel7 folds
+Viconte38 folds
+*** FLOP *** [3s Ad Jh]
+parastas23 bets 2180
+tooba91 calls 2180
+*** TURN *** [3s Ad Jh][5h]
+parastas23 bets 6540
+tooba91 folds
+parastas23 collected 13080 from pot
+*** SUMMARY ***
+Total pot 13080 | No rake
+Board: [3s Ad Jh 5h]
+Seat 6: parastas23 won 13080
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-99-1708978284 - Holdem no limit (20/100/200) - 2024/02/26 20:11:24 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #2 is the button
+Seat 1: tooba91 (8072)
+Seat 2: P1xel7 (12701)
+Seat 3: Viconte38 (815)
+Seat 4: Biba2503 (985)
+Seat 5: Kevkev2110 (975)
+Seat 6: parastas23 (42731)
+Seat 7: Karter6 (5870)
+Seat 8: vide... (1765)
+*** ANTE/BLINDS ***
+Viconte38 posts ante 20
+Biba2503 posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Kevkev2110 posts ante 20
+parastas23 posts ante 20
+Karter6 posts ante 20
+vide... posts ante 20
+Viconte38 posts small blind 100
+Biba2503 posts big blind 200
+Dealt to P1xel7 [Ts 4d]
+*** PRE-FLOP *** 
+Kevkev2110 folds
+parastas23 raises 200 to 400
+Karter6 calls 400
+vide... folds
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+*** FLOP *** [6c 8s 8d]
+parastas23 bets 1260
+Karter6 folds
+parastas23 collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Board: [6c 8s 8d]
+Seat 6: parastas23 won 2520
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-100-1708978314 - Holdem no limit (20/100/200) - 2024/02/26 20:11:54 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #3 is the button
+Seat 1: tooba91 (8052)
+Seat 2: P1xel7 (12681)
+Seat 3: Viconte38 (695)
+Seat 4: Biba2503 (765)
+Seat 5: Kevkev2110 (955)
+Seat 6: parastas23 (43571)
+Seat 7: Karter6 (5450)
+Seat 8: vide... (1745)
+*** ANTE/BLINDS ***
+Biba2503 posts ante 20
+Kevkev2110 posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+parastas23 posts ante 20
+Karter6 posts ante 20
+vide... posts ante 20
+Biba2503 posts small blind 100
+Kevkev2110 posts big blind 200
+Dealt to P1xel7 [4h Tc]
+*** PRE-FLOP *** 
+parastas23 folds
+Karter6 folds
+vide... folds
+tooba91 raises 400 to 600
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+tooba91 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Seat 1: tooba91 won 1060
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-101-1708978326 - Holdem no limit (20/100/200) - 2024/02/26 20:12:06 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #4 is the button
+Seat 1: tooba91 (8492)
+Seat 2: P1xel7 (12661)
+Seat 3: Viconte38 (675)
+Seat 4: Biba2503 (645)
+Seat 5: Kevkev2110 (735)
+Seat 6: parastas23 (43551)
+Seat 7: Karter6 (5430)
+Seat 8: vide... (1725)
+*** ANTE/BLINDS ***
+Kevkev2110 posts ante 20
+parastas23 posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+Biba2503 posts ante 20
+Karter6 posts ante 20
+vide... posts ante 20
+Kevkev2110 posts small blind 100
+parastas23 posts big blind 200
+Dealt to P1xel7 [2d 8s]
+*** PRE-FLOP *** 
+Karter6 folds
+vide... folds
+tooba91 raises 400 to 600
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 calls 400
+*** FLOP *** [Td Kd Qh]
+parastas23 checks
+tooba91 bets 730
+parastas23 folds
+tooba91 collected 2190 from pot
+*** SUMMARY ***
+Total pot 2190 | No rake
+Board: [Td Kd Qh]
+Seat 1: tooba91 won 2190
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-102-1708978362 - Holdem no limit (20/100/200) - 2024/02/26 20:12:42 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #5 is the button
+Seat 1: tooba91 (9332)
+Seat 2: P1xel7 (12641)
+Seat 3: Viconte38 (655)
+Seat 4: Biba2503 (625)
+Seat 5: Kevkev2110 (615)
+Seat 6: parastas23 (42931)
+Seat 7: Karter6 (5410)
+Seat 8: vide... (1705)
+*** ANTE/BLINDS ***
+parastas23 posts ante 20
+Karter6 posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+Biba2503 posts ante 20
+Kevkev2110 posts ante 20
+vide... posts ante 20
+parastas23 posts small blind 100
+Karter6 posts big blind 200
+Dealt to P1xel7 [8s 6h]
+*** PRE-FLOP *** 
+vide... folds
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 200 to 400
+Karter6 folds
+parastas23 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Seat 6: parastas23 (small blind) won 760
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-103-1708978386 - Holdem no limit (20/100/200) - 2024/02/26 20:13:06 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: tooba91 (9312)
+Seat 2: P1xel7 (12621)
+Seat 3: Viconte38 (635)
+Seat 4: Biba2503 (605)
+Seat 5: Kevkev2110 (595)
+Seat 6: parastas23 (43271)
+Seat 7: Karter6 (5190)
+Seat 8: vide... (1685)
+*** ANTE/BLINDS ***
+Karter6 posts ante 20
+vide... posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+Biba2503 posts ante 20
+Kevkev2110 posts ante 20
+parastas23 posts ante 20
+Karter6 posts small blind 100
+vide... posts big blind 200
+Dealt to P1xel7 [8c 3h]
+*** PRE-FLOP *** 
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 200 to 400
+Karter6 calls 300
+vide... folds
+*** FLOP *** [2s 5h 7h]
+Karter6 bets 406
+parastas23 calls 406
+*** TURN *** [2s 5h 7h][5c]
+Karter6 checks
+parastas23 checks
+*** RIVER *** [2s 5h 7h 5c][6h]
+Karter6 bets 1282
+parastas23 folds
+Karter6 collected 3254 from pot
+*** SUMMARY ***
+Total pot 3254 | No rake
+Board: [2s 5h 7h 5c 6h]
+Seat 7: Karter6 (small blind) won 3254
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-104-1708978443 - Holdem no limit (20/100/200) - 2024/02/26 20:14:03 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #7 is the button
+Seat 1: tooba91 (9292)
+Seat 2: P1xel7 (12601)
+Seat 3: Viconte38 (615)
+Seat 4: Biba2503 (585)
+Seat 5: Kevkev2110 (575)
+Seat 6: parastas23 (42445)
+Seat 7: Karter6 (6336)
+Seat 8: vide... (1465)
+*** ANTE/BLINDS ***
+vide... posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+Biba2503 posts ante 20
+Kevkev2110 posts ante 20
+parastas23 posts ante 20
+Karter6 posts ante 20
+vide... posts small blind 100
+tooba91 posts big blind 200
+Dealt to P1xel7 [9s Td]
+*** PRE-FLOP *** 
+P1xel7 raises 400 to 600
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 calls 600
+Karter6 calls 600
+vide... folds
+tooba91 folds
+*** FLOP *** [6h 6s 3c]
+P1xel7 checks
+parastas23 checks
+Karter6 checks
+*** TURN *** [6h 6s 3c][Ah]
+P1xel7 bets 700
+parastas23 calls 700
+Karter6 calls 700
+*** RIVER *** [6h 6s 3c Ah][3s]
+P1xel7 checks
+parastas23 checks
+Karter6 bets 1526
+P1xel7 folds
+parastas23 folds
+Karter6 collected 5886 from pot
+*** SUMMARY ***
+Total pot 5886 | No rake
+Board: [6h 6s 3c Ah 3s]
+Seat 7: Karter6 (button) won 5886
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-105-1708978513 - Holdem no limit (20/100/200) - 2024/02/26 20:15:13 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #8 is the button
+Seat 1: tooba91 (9072)
+Seat 2: P1xel7 (11281)
+Seat 3: Viconte38 (595)
+Seat 4: Biba2503 (565)
+Seat 5: Kevkev2110 (555)
+Seat 6: parastas23 (41125)
+Seat 7: Karter6 (9376)
+Seat 8: vide... (1345)
+*** ANTE/BLINDS ***
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+Biba2503 posts ante 20
+Kevkev2110 posts ante 20
+parastas23 posts ante 20
+Karter6 posts ante 20
+vide... posts ante 20
+tooba91 posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [8c 7h]
+*** PRE-FLOP *** 
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 200 to 400
+Karter6 folds
+vide... folds
+tooba91 calls 300
+P1xel7 calls 200
+*** FLOP *** [3d Ah 4d]
+tooba91 checks
+P1xel7 checks
+parastas23 checks
+*** TURN *** [3d Ah 4d][Jh]
+tooba91 checks
+P1xel7 checks
+parastas23 bets 680
+tooba91 calls 680
+P1xel7 folds
+*** RIVER *** [3d Ah 4d Jh][Td]
+tooba91 checks
+parastas23 bets 2720
+tooba91 folds
+parastas23 collected 5440 from pot
+*** SUMMARY ***
+Total pot 5440 | No rake
+Board: [3d Ah 4d Jh Td]
+Seat 6: parastas23 won 5440
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-106-1708978591 - Holdem no limit (20/100/200) - 2024/02/26 20:16:31 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #1 is the button
+Seat 1: tooba91 (7972)
+Seat 2: P1xel7 (10861)
+Seat 3: Viconte38 (575)
+Seat 4: Biba2503 (545)
+Seat 5: Kevkev2110 (535)
+Seat 6: parastas23 (42745)
+Seat 7: Karter6 (9356)
+Seat 8: vide... (1325)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+tooba91 posts ante 20
+Biba2503 posts ante 20
+Kevkev2110 posts ante 20
+parastas23 posts ante 20
+Karter6 posts ante 20
+vide... posts ante 20
+P1xel7 posts small blind 100
+Viconte38 posts big blind 200
+Dealt to P1xel7 [Qh 3s]
+*** PRE-FLOP *** 
+Biba2503 folds
+Kevkev2110 folds
+parastas23 folds
+Karter6 folds
+vide... folds
+tooba91 raises 400 to 600
+P1xel7 folds
+Viconte38 folds
+tooba91 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Seat 1: tooba91 (button) won 1060
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-107-1708978610 - Holdem no limit (20/100/200) - 2024/02/26 20:16:50 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #2 is the button
+Seat 1: tooba91 (8412)
+Seat 2: P1xel7 (10741)
+Seat 3: Viconte38 (355)
+Seat 4: Biba2503 (525)
+Seat 5: Kevkev2110 (515)
+Seat 6: parastas23 (42725)
+Seat 7: Karter6 (9336)
+Seat 8: vide... (1305)
+*** ANTE/BLINDS ***
+Viconte38 posts ante 20
+Biba2503 posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Kevkev2110 posts ante 20
+parastas23 posts ante 20
+Karter6 posts ante 20
+vide... posts ante 20
+Viconte38 posts small blind 100
+Biba2503 posts big blind 200
+Dealt to P1xel7 [Kc Ks]
+*** PRE-FLOP *** 
+Kevkev2110 folds
+parastas23 raises 660 to 860
+Karter6 calls 860
+vide... folds
+tooba91 folds
+P1xel7 raises 1540 to 2400
+Viconte38 folds
+Biba2503 folds
+parastas23 calls 1540
+Karter6 raises 6916 to 9316 and is all-in
+P1xel7 calls 6916
+parastas23 calls 6916
+*** FLOP *** [6d 4h Jd]
+parastas23 checks
+P1xel7 bets 1405 and is all-in
+parastas23 calls 1405
+*** TURN *** [6d 4h Jd][Qc]
+*** RIVER *** [6d 4h Jd Qc][2h]
+*** SHOW DOWN ***
+parastas23 shows [5s As] (High card : Ace)
+Karter6 shows [8c 8h] (One pair : 8)
+P1xel7 shows [Kc Ks] (One pair : Kings)
+P1xel7 collected 31218 from pot
+*** SUMMARY ***
+Total pot 31218 | No rake
+Board: [6d 4h Jd Qc 2h]
+Seat 2: P1xel7 (button) showed [Kc Ks] and won 31218 with One pair : Kings
+Seat 6: parastas23 showed [5s As] and lost with High card : Ace
+Seat 7: Karter6 showed [8c 8h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-108-1708978646 - Holdem no limit (20/100/200) - 2024/02/26 20:17:26 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #3 is the button
+Seat 1: tooba91 (8392)
+Seat 2: P1xel7 (31218)
+Seat 3: Viconte38 (235)
+Seat 4: Biba2503 (305)
+Seat 5: Kevkev2110 (495)
+Seat 6: parastas23 (31984)
+Seat 8: vide... (1285)
+*** ANTE/BLINDS ***
+Biba2503 posts ante 20
+Kevkev2110 posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+parastas23 posts ante 20
+vide... posts ante 20
+Biba2503 posts small blind 100
+Kevkev2110 posts big blind 200
+Dealt to P1xel7 [Jh 3d]
+*** PRE-FLOP *** 
+parastas23 folds
+vide... folds
+tooba91 folds
+P1xel7 raises 200 to 400
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+P1xel7 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | No rake
+Seat 2: P1xel7 won 840
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-109-1708978658 - Holdem no limit (20/100/200) - 2024/02/26 20:17:38 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #4 is the button
+Seat 1: tooba91 (8372)
+Seat 2: P1xel7 (31638)
+Seat 3: Viconte38 (215)
+Seat 4: Biba2503 (185)
+Seat 5: Kevkev2110 (275)
+Seat 6: parastas23 (31964)
+Seat 7: fabrizio03 (1020)
+Seat 8: vide... (1265)
+*** ANTE/BLINDS ***
+Kevkev2110 posts ante 20
+parastas23 posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+Biba2503 posts ante 20
+fabrizio03 posts ante 20
+vide... posts ante 20
+Kevkev2110 posts small blind 100
+parastas23 posts big blind 200
+Dealt to P1xel7 [Kc 4s]
+*** PRE-FLOP *** 
+fabrizio03 folds
+vide... folds
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Seat 6: parastas23 (big blind) won 460
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-110-1708978669 - Holdem no limit (20/100/200) - 2024/02/26 20:17:49 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #5 is the button
+Seat 1: tooba91 (8352)
+Seat 2: P1xel7 (31618)
+Seat 3: Viconte38 (195)
+Seat 4: Biba2503 (165)
+Seat 5: Kevkev2110 (155)
+Seat 6: parastas23 (32204)
+Seat 7: fabrizio03 (1000)
+Seat 8: vide... (1245)
+*** ANTE/BLINDS ***
+parastas23 posts ante 20
+fabrizio03 posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+Biba2503 posts ante 20
+Kevkev2110 posts ante 20
+vide... posts ante 20
+parastas23 posts small blind 100
+fabrizio03 posts big blind 200
+Dealt to P1xel7 [3c 2d]
+*** PRE-FLOP *** 
+vide... folds
+tooba91 folds
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 200 to 400
+fabrizio03 folds
+parastas23 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Seat 6: parastas23 (small blind) won 760
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3217591431451377858-111-1708978683 - Holdem no limit (20/100/200) - 2024/02/26 20:18:03 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: tooba91 (8332)
+Seat 2: P1xel7 (31598)
+Seat 3: Viconte38 (175)
+Seat 4: Biba2503 (145)
+Seat 5: Kevkev2110 (135)
+Seat 6: parastas23 (32544)
+Seat 7: fabrizio03 (780)
+Seat 8: vide... (1225)
+*** ANTE/BLINDS ***
+fabrizio03 posts ante 20
+vide... posts ante 20
+tooba91 posts ante 20
+P1xel7 posts ante 20
+Viconte38 posts ante 20
+Biba2503 posts ante 20
+Kevkev2110 posts ante 20
+parastas23 posts ante 20
+fabrizio03 posts small blind 100
+vide... posts big blind 200
+Dealt to P1xel7 [Kh 9h]
+*** PRE-FLOP *** 
+tooba91 raises 760 to 960
+P1xel7 folds
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 calls 960
+fabrizio03 folds
+vide... folds
+*** FLOP *** [4s 7d Qs]
+tooba91 bets 833
+parastas23 calls 833
+*** TURN *** [4s 7d Qs][Qc]
+tooba91 bets 1416
+parastas23 calls 1416
+*** RIVER *** [4s 7d Qs Qc][6d]
+tooba91 bets 2407
+parastas23 raises 26908 to 29315 and is all-in
+tooba91 calls 2696 and is all-in
+*** SHOW DOWN ***
+tooba91 shows [Ac Ks] (One pair : Queens)
+parastas23 shows [9d Qd] (Trips of Queens)
+parastas23 collected 41296 from pot
+*** SUMMARY ***
+Total pot 41296 | No rake
+Board: [4s 7d Qs Qc 6d]
+Seat 1: tooba91 showed [Ac Ks] and lost with One pair : Queens
+Seat 6: parastas23 (button) showed [9d Qd] and won 41296 with Trips of Queens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-112-1708978775 - Holdem no limit (25/125/250) - 2024/02/26 20:19:35 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #7 is the button
+Seat 2: P1xel7 (31578)
+Seat 3: Viconte38 (155)
+Seat 4: Biba2503 (125)
+Seat 5: Kevkev2110 (115)
+Seat 6: parastas23 (41296)
+Seat 7: fabrizio03 (660)
+Seat 8: vide... (1005)
+*** ANTE/BLINDS ***
+vide... posts ante 25
+P1xel7 posts ante 25
+Viconte38 posts ante 25
+Biba2503 posts ante 25
+Kevkev2110 posts ante 25
+parastas23 posts ante 25
+fabrizio03 posts ante 25
+vide... posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [9h Kd]
+*** PRE-FLOP *** 
+Viconte38 folds
+Biba2503 folds
+Kevkev2110 folds
+parastas23 raises 250 to 500
+fabrizio03 folds
+vide... folds
+P1xel7 calls 250
+*** FLOP *** [8h 5h 4h]
+P1xel7 checks
+parastas23 bets 250
+P1xel7 calls 250
+*** TURN *** [8h 5h 4h][7d]
+P1xel7 checks
+parastas23 bets 250
+P1xel7 calls 250
+*** RIVER *** [8h 5h 4h 7d][Qd]
+P1xel7 bets 1375
+parastas23 raises 38896 to 40271 and is all-in
+P1xel7 folds
+parastas23 collected 43946 from pot
+*** SUMMARY ***
+Total pot 43946 | No rake
+Board: [8h 5h 4h 7d Qd]
+Seat 6: parastas23 won 43946
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-113-1708978814 - Holdem no limit (25/125/250) - 2024/02/26 20:20:14 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #8 is the button
+Seat 1: Bfc33 (1095)
+Seat 2: P1xel7 (29178)
+Seat 3: Viconte38 (130)
+Seat 4: Biba2503 (100)
+Seat 5: Kevkev2110 (90)
+Seat 6: parastas23 (43946)
+Seat 7: fabrizio03 (635)
+Seat 8: vide... (855)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+Viconte38 posts ante 25
+Biba2503 posts ante 25
+Kevkev2110 posts ante 25
+parastas23 posts ante 25
+fabrizio03 posts ante 25
+vide... posts ante 25
+P1xel7 posts small blind 125
+Viconte38 posts big blind 105 and is all-in
+Dealt to P1xel7 [8s Ks]
+*** PRE-FLOP *** 
+Biba2503 folds
+Kevkev2110 folds
+parastas23 folds
+fabrizio03 folds
+vide... folds
+*** FLOP *** [8h 3c 8d]
+*** TURN *** [8h 3c 8d][9d]
+*** RIVER *** [8h 3c 8d 9d][Js]
+*** SHOW DOWN ***
+P1xel7 shows [8s Ks] (Trips of 8)
+Viconte38 shows [8c Kd] (Trips of 8)
+Viconte38 collected 193 from main pot
+P1xel7 collected 212 from side pot 1
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [8h 3c 8d 9d Js]
+Seat 2: P1xel7 (small blind) showed [8s Ks] and won 212 with Trips of 8
+Seat 3: Viconte38 (big blind) showed [8c Kd] and won 193 with Trips of 8
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-114-1708978828 - Holdem no limit (25/125/250) - 2024/02/26 20:20:28 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #2 is the button
+Seat 1: Bfc33 (1095)
+Seat 2: P1xel7 (29240)
+Seat 3: Viconte38 (193)
+Seat 4: Biba2503 (75)
+Seat 5: Kevkev2110 (65)
+Seat 6: parastas23 (43921)
+Seat 7: fabrizio03 (610)
+Seat 8: vide... (830)
+*** ANTE/BLINDS ***
+Viconte38 posts ante 25
+Biba2503 posts ante 25
+Bfc33 posts ante 25
+P1xel7 posts ante 25
+Kevkev2110 posts ante 25
+parastas23 posts ante 25
+fabrizio03 posts ante 25
+vide... posts ante 25
+Viconte38 posts small blind 125
+Biba2503 posts big blind 50 and is all-in
+Dealt to P1xel7 [5h Ts]
+*** PRE-FLOP *** 
+Kevkev2110 folds
+parastas23 folds
+fabrizio03 folds
+vide... folds
+Bfc33 folds
+P1xel7 calls 250
+Viconte38 folds
+*** FLOP *** [8s 7h Jc]
+*** TURN *** [8s 7h Jc][6h]
+*** RIVER *** [8s 7h Jc 6h][4c]
+*** SHOW DOWN ***
+Biba2503 shows [Js 8h] (Two pairs : Jacks and 8)
+P1xel7 shows [5h Ts] (Straight 8 high)
+P1xel7 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Board: [8s 7h Jc 6h 4c]
+Seat 2: P1xel7 (button) showed [5h Ts] and won 625 with Straight 8 high
+Seat 4: Biba2503 (big blind) showed [Js 8h] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-115-1708978843 - Holdem no limit (25/125/250) - 2024/02/26 20:20:43 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #3 is the button
+Seat 1: Bfc33 (1070)
+Seat 2: P1xel7 (29590)
+Seat 3: Viconte38 (43)
+Seat 5: Kevkev2110 (40)
+Seat 6: parastas23 (43896)
+Seat 7: fabrizio03 (585)
+Seat 8: vide... (805)
+*** ANTE/BLINDS ***
+Kevkev2110 posts ante 25
+Bfc33 posts ante 25
+P1xel7 posts ante 25
+Viconte38 posts ante 25
+parastas23 posts ante 25
+fabrizio03 posts ante 25
+vide... posts ante 25
+Kevkev2110 posts big blind 15 and is all-in
+Dealt to P1xel7 [5d Td]
+*** PRE-FLOP *** 
+parastas23 raises 485 to 500
+fabrizio03 folds
+vide... folds
+Bfc33 folds
+P1xel7 calls 500
+Viconte38 folds
+*** FLOP *** [Ad Qc 7c]
+parastas23 bets 250
+P1xel7 folds
+*** TURN *** [Ad Qc 7c][4c]
+*** RIVER *** [Ad Qc 7c 4c][Js]
+*** SHOW DOWN ***
+Kevkev2110 shows [Jh Qh] (Two pairs : Queens and Jacks)
+parastas23 shows [6h 5c] (High card : Ace)
+parastas23 collected 1220 from side pot 1
+Kevkev2110 collected 220 from main pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [Ad Qc 7c 4c Js]
+Seat 5: Kevkev2110 (big blind) showed [Jh Qh] and won 220 with Two pairs : Queens and Jacks
+Seat 6: parastas23 showed [6h 5c] and won 1220 with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-116-1708978861 - Holdem no limit (25/125/250) - 2024/02/26 20:21:01 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #4 is the button
+Seat 1: Bfc33 (1045)
+Seat 2: P1xel7 (29065)
+Seat 3: Viconte38 (18)
+Seat 4: Maystro9030 (43300)
+Seat 5: Kevkev2110 (220)
+Seat 6: parastas23 (44341)
+Seat 7: fabrizio03 (560)
+Seat 8: vide... (780)
+*** ANTE/BLINDS ***
+Kevkev2110 posts ante 25
+parastas23 posts ante 25
+Bfc33 posts ante 25
+P1xel7 posts ante 25
+Viconte38 posts ante 18 and is all-in
+fabrizio03 posts ante 25
+vide... posts ante 25
+Kevkev2110 posts small blind 125
+parastas23 posts big blind 250
+Dealt to P1xel7 [Qd Th]
+*** PRE-FLOP *** 
+fabrizio03 folds
+vide... folds
+Bfc33 folds
+P1xel7 raises 375 to 625
+Kevkev2110 folds
+parastas23 calls 375
+*** FLOP *** [Kh 6d Kc]
+parastas23 checks
+P1xel7 bets 875
+parastas23 calls 875
+*** TURN *** [Kh 6d Kc][Ah]
+parastas23 checks
+P1xel7 bets 1125
+parastas23 calls 1125
+*** RIVER *** [Kh 6d Kc Ah][9s]
+parastas23 checks
+P1xel7 checks
+*** SHOW DOWN ***
+P1xel7 shows [Qd Th] (One pair : Kings)
+Viconte38 shows [8c Jd] (One pair : Kings)
+parastas23 shows [Qc Jc] (One pair : Kings)
+parastas23 collected 5543 from pot
+*** SUMMARY ***
+Total pot 5543 | No rake
+Board: [Kh 6d Kc Ah 9s]
+Seat 2: P1xel7 showed [Qd Th] and lost with One pair : Kings
+Seat 3: Viconte38 showed [8c Jd] and lost with One pair : Kings
+Seat 6: parastas23 (big blind) showed [Qc Jc] and won 5543 with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-117-1708978889 - Holdem no limit (25/125/250) - 2024/02/26 20:21:29 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #5 is the button
+Seat 1: Bfc33 (1020)
+Seat 2: P1xel7 (26415)
+Seat 4: Maystro9030 (43300)
+Seat 5: Kevkev2110 (70)
+Seat 6: parastas23 (47234)
+Seat 7: fabrizio03 (535)
+Seat 8: vide... (755)
+*** ANTE/BLINDS ***
+parastas23 posts ante 25
+fabrizio03 posts ante 25
+Bfc33 posts ante 25
+P1xel7 posts ante 25
+Maystro9030 posts ante 25
+Kevkev2110 posts ante 25
+vide... posts ante 25
+parastas23 posts small blind 125
+fabrizio03 posts big blind 250
+Dealt to P1xel7 [4h Kc]
+*** PRE-FLOP *** 
+vide... folds
+Bfc33 folds
+P1xel7 folds
+Maystro9030 raises 500 to 750
+Kevkev2110 folds
+parastas23 calls 625
+fabrizio03 folds
+*** FLOP *** [4c Kd 3d]
+parastas23 checks
+Maystro9030 checks
+*** TURN *** [4c Kd 3d][Ac]
+parastas23 checks
+Maystro9030 bets 1251
+parastas23 folds
+Maystro9030 collected 3176 from pot
+*** SUMMARY ***
+Total pot 3176 | No rake
+Board: [4c Kd 3d Ac]
+Seat 4: Maystro9030 won 3176
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-118-1708978919 - Holdem no limit (25/125/250) - 2024/02/26 20:21:59 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: Bfc33 (995)
+Seat 2: P1xel7 (26390)
+Seat 4: Maystro9030 (44450)
+Seat 5: Kevkev2110 (45)
+Seat 6: parastas23 (46459)
+Seat 7: fabrizio03 (260)
+Seat 8: vide... (730)
+*** ANTE/BLINDS ***
+fabrizio03 posts ante 25
+vide... posts ante 25
+Bfc33 posts ante 25
+P1xel7 posts ante 25
+Maystro9030 posts ante 25
+Kevkev2110 posts ante 25
+parastas23 posts ante 25
+fabrizio03 posts small blind 125
+vide... posts big blind 250
+Dealt to P1xel7 [6s Jc]
+*** PRE-FLOP *** 
+Bfc33 folds
+P1xel7 folds
+Maystro9030 folds
+Kevkev2110 folds
+parastas23 raises 250 to 500
+fabrizio03 folds
+vide... folds
+parastas23 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Seat 6: parastas23 (button) won 1050
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-119-1708978946 - Holdem no limit (25/125/250) - 2024/02/26 20:22:26 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #7 is the button
+Seat 1: Bfc33 (970)
+Seat 2: P1xel7 (26365)
+Seat 3: Foirou60 (5445)
+Seat 4: Maystro9030 (44425)
+Seat 5: Kevkev2110 (20)
+Seat 6: parastas23 (46984)
+Seat 7: fabrizio03 (110)
+Seat 8: vide... (455)
+*** ANTE/BLINDS ***
+vide... posts ante 25
+Bfc33 posts ante 25
+P1xel7 posts ante 25
+Foirou60 posts ante 25
+Maystro9030 posts ante 25
+Kevkev2110 posts ante 20 and is all-in
+parastas23 posts ante 25
+fabrizio03 posts ante 25
+vide... posts small blind 125
+Bfc33 posts big blind 250
+Dealt to P1xel7 [Qs 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Foirou60 folds
+Maystro9030 raises 44150 to 44400 and is all-in
+parastas23 folds
+fabrizio03 folds
+vide... folds
+Bfc33 folds
+*** FLOP *** [9h 7s 9s]
+*** TURN *** [9h 7s 9s][8h]
+*** RIVER *** [9h 7s 9s 8h][4c]
+*** SHOW DOWN ***
+Maystro9030 shows [Qd Ac] (One pair : 9)
+Kevkev2110 shows [Kc 7d] (Two pairs : 9 and 7)
+Kevkev2110 collected 160 from main pot
+Maystro9030 collected 44810 from side pot 1
+*** SUMMARY ***
+Total pot 44970 | No rake
+Board: [9h 7s 9s 8h 4c]
+Seat 4: Maystro9030 showed [Qd Ac] and won 44810 with One pair : 9
+Seat 5: Kevkev2110 showed [Kc 7d] and won 160 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-120-1708978982 - Holdem no limit (25/125/250) - 2024/02/26 20:23:02 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #8 is the button
+Seat 1: Bfc33 (695)
+Seat 2: P1xel7 (26340)
+Seat 3: Foirou60 (5420)
+Seat 4: Maystro9030 (44810)
+Seat 5: Kevkev2110 (160)
+Seat 6: parastas23 (46959)
+Seat 7: fabrizio03 (85)
+Seat 8: vide... (305)
+*** ANTE/BLINDS ***
+Bfc33 posts ante 25
+P1xel7 posts ante 25
+Foirou60 posts ante 25
+Maystro9030 posts ante 25
+Kevkev2110 posts ante 25
+parastas23 posts ante 25
+fabrizio03 posts ante 25
+vide... posts ante 25
+Bfc33 posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [Ks Kc]
+*** PRE-FLOP *** 
+Foirou60 raises 825 to 1075
+Maystro9030 calls 1075
+Kevkev2110 folds
+parastas23 folds
+fabrizio03 folds
+vide... folds
+Bfc33 folds
+P1xel7 calls 825
+*** FLOP *** [3c Ac 3h]
+P1xel7 checks
+Foirou60 checks
+Maystro9030 checks
+*** TURN *** [3c Ac 3h][4h]
+P1xel7 bets 1250
+Foirou60 calls 1250
+Maystro9030 folds
+*** RIVER *** [3c Ac 3h 4h][8s]
+P1xel7 bets 2118
+Foirou60 folds
+P1xel7 collected 8168 from pot
+*** SUMMARY ***
+Total pot 8168 | No rake
+Board: [3c Ac 3h 4h 8s]
+Seat 2: P1xel7 (big blind) won 8168
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-121-1708979086 - Holdem no limit (25/125/250) - 2024/02/26 20:24:46 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #1 is the button
+Seat 1: Bfc33 (545)
+Seat 2: P1xel7 (30040)
+Seat 3: Foirou60 (3070)
+Seat 4: Maystro9030 (43710)
+Seat 5: Kevkev2110 (135)
+Seat 6: parastas23 (46934)
+Seat 7: fabrizio03 (60)
+Seat 8: vide... (280)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+Foirou60 posts ante 25
+Bfc33 posts ante 25
+Maystro9030 posts ante 25
+Kevkev2110 posts ante 25
+parastas23 posts ante 25
+fabrizio03 posts ante 25
+vide... posts ante 25
+P1xel7 posts small blind 125
+Foirou60 posts big blind 250
+Dealt to P1xel7 [4s 5h]
+*** PRE-FLOP *** 
+Maystro9030 folds
+Kevkev2110 folds
+parastas23 folds
+fabrizio03 folds
+vide... folds
+Bfc33 folds
+P1xel7 folds
+Foirou60 collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Seat 3: Foirou60 (big blind) won 575
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-122-1708979100 - Holdem no limit (25/125/250) - 2024/02/26 20:25:00 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #2 is the button
+Seat 1: Bfc33 (520)
+Seat 2: P1xel7 (29890)
+Seat 3: Foirou60 (3370)
+Seat 4: Maystro9030 (43685)
+Seat 5: Kevkev2110 (110)
+Seat 6: parastas23 (46909)
+Seat 7: fabrizio03 (35)
+Seat 8: vide... (255)
+*** ANTE/BLINDS ***
+Foirou60 posts ante 25
+Maystro9030 posts ante 25
+Bfc33 posts ante 25
+P1xel7 posts ante 25
+Kevkev2110 posts ante 25
+parastas23 posts ante 25
+fabrizio03 posts ante 25
+vide... posts ante 25
+Foirou60 posts small blind 125
+Maystro9030 posts big blind 250
+Dealt to P1xel7 [As Td]
+*** PRE-FLOP *** 
+Kevkev2110 folds
+parastas23 folds
+fabrizio03 folds
+vide... folds
+Bfc33 folds
+P1xel7 raises 500 to 750
+Foirou60 raises 2595 to 3345 and is all-in
+Maystro9030 calls 3095
+P1xel7 calls 2595
+*** FLOP *** [2d Jh Qh]
+Maystro9030 checks
+P1xel7 checks
+*** TURN *** [2d Jh Qh][8d]
+Maystro9030 checks
+P1xel7 checks
+*** RIVER *** [2d Jh Qh 8d][6d]
+Maystro9030 bets 6653
+P1xel7 folds
+*** SHOW DOWN ***
+Foirou60 shows [7h 7c] (One pair : 7)
+Maystro9030 shows [6c 7d] (One pair : 6)
+Maystro9030 collected 6653 from side pot 1
+Foirou60 collected 10235 from main pot
+*** SUMMARY ***
+Total pot 16888 | No rake
+Board: [2d Jh Qh 8d 6d]
+Seat 3: Foirou60 (small blind) showed [7h 7c] and won 10235 with One pair : 7
+Seat 4: Maystro9030 (big blind) showed [6c 7d] and won 6653 with One pair : 6
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-123-1708979148 - Holdem no limit (25/125/250) - 2024/02/26 20:25:48 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #3 is the button
+Seat 1: Bfc33 (495)
+Seat 2: P1xel7 (26520)
+Seat 3: Foirou60 (10235)
+Seat 4: Maystro9030 (40315)
+Seat 5: Kevkev2110 (85)
+Seat 6: parastas23 (46884)
+Seat 7: fabrizio03 (10)
+Seat 8: vide... (230)
+*** ANTE/BLINDS ***
+Maystro9030 posts ante 25
+Kevkev2110 posts ante 25
+Bfc33 posts ante 25
+P1xel7 posts ante 25
+Foirou60 posts ante 25
+parastas23 posts ante 25
+fabrizio03 posts ante 10 and is all-in
+vide... posts ante 25
+Maystro9030 posts small blind 125
+Kevkev2110 posts big blind 60 and is all-in
+Dealt to P1xel7 [Kc Ad]
+*** PRE-FLOP *** 
+parastas23 folds
+vide... folds
+Bfc33 folds
+P1xel7 raises 625 to 750
+Foirou60 folds
+Maystro9030 folds
+*** FLOP *** [8s As 4s]
+*** TURN *** [8s As 4s][Tc]
+*** RIVER *** [8s As 4s Tc][6c]
+*** SHOW DOWN ***
+Kevkev2110 shows [Qc 4d] (One pair : 4)
+fabrizio03 shows [5c Ts] (One pair : Tens)
+P1xel7 shows [Kc Ad] (One pair : Aces)
+P1xel7 collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | No rake
+Board: [8s As 4s Tc 6c]
+Seat 2: P1xel7 showed [Kc Ad] and won 1120 with One pair : Aces
+Seat 5: Kevkev2110 (big blind) showed [Qc 4d] and lost with One pair : 4
+Seat 7: fabrizio03 showed [5c Ts] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3217591431451377858-124-1708979176 - Holdem no limit (25/125/250) - 2024/02/26 20:26:16 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #4 is the button
+Seat 1: Bfc33 (470)
+Seat 2: P1xel7 (26865)
+Seat 3: Foirou60 (10210)
+Seat 4: Maystro9030 (40165)
+Seat 6: parastas23 (46859)
+Seat 8: vide... (205)
+*** ANTE/BLINDS ***
+parastas23 posts ante 25
+Bfc33 posts ante 25
+P1xel7 posts ante 25
+Foirou60 posts ante 25
+Maystro9030 posts ante 25
+vide... posts ante 25
+parastas23 posts big blind 250
+Dealt to P1xel7 [Kd Ts]
+*** PRE-FLOP *** 
+vide... folds
+Bfc33 folds
+P1xel7 raises 500 to 750
+Foirou60 folds
+Maystro9030 raises 1500 to 2250
+parastas23 folds
+P1xel7 calls 1500
+*** FLOP *** [Ah 4s 3c]
+P1xel7 checks
+Maystro9030 bets 3185
+P1xel7 folds
+Maystro9030 collected 8085 from pot
+*** SUMMARY ***
+Total pot 8085 | No rake
+Board: [Ah 4s 3c]
+Seat 4: Maystro9030 (button) won 8085
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3217591431451377858-125-1708979225 - Holdem no limit (35/150/300) - 2024/02/26 20:27:05 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #5 is the button
+Seat 1: Bfc33 (445)
+Seat 2: P1xel7 (24590)
+Seat 3: Foirou60 (10185)
+Seat 4: Maystro9030 (42790)
+Seat 5: lunemeze (22480)
+Seat 6: parastas23 (46584)
+Seat 7: Allinver (3053)
+Seat 8: vide... (180)
+*** ANTE/BLINDS ***
+parastas23 posts ante 35
+Allinver posts ante 35
+Bfc33 posts ante 35
+P1xel7 posts ante 35
+Foirou60 posts ante 35
+Maystro9030 posts ante 35
+vide... posts ante 35
+parastas23 posts small blind 150
+Allinver posts big blind 300
+Dealt to P1xel7 [Ac 3d]
+*** PRE-FLOP *** 
+vide... folds
+Bfc33 folds
+P1xel7 folds
+Foirou60 folds
+Maystro9030 raises 600 to 900
+parastas23 folds
+Allinver folds
+Maystro9030 collected 1595 from pot
+*** SUMMARY ***
+Total pot 1595 | No rake
+Seat 4: Maystro9030 won 1595
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3217591431451377858-126-1708979256 - Holdem no limit (35/150/300) - 2024/02/26 20:27:36 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: Bfc33 (410)
+Seat 2: P1xel7 (24555)
+Seat 3: Foirou60 (10150)
+Seat 4: Maystro9030 (43450)
+Seat 5: lunemeze (22480)
+Seat 6: parastas23 (46399)
+Seat 7: Allinver (2718)
+Seat 8: vide... (145)
+*** ANTE/BLINDS ***
+Allinver posts ante 35
+vide... posts ante 35
+Bfc33 posts ante 35
+P1xel7 posts ante 35
+Foirou60 posts ante 35
+Maystro9030 posts ante 35
+lunemeze posts ante 35
+parastas23 posts ante 35
+Allinver posts small blind 150
+vide... posts big blind 110 and is all-in
+Dealt to P1xel7 [2d 7h]
+*** PRE-FLOP *** 
+Bfc33 folds
+P1xel7 folds
+Foirou60 folds
+Maystro9030 folds
+lunemeze raises 450 to 600
+parastas23 folds
+Allinver folds
+*** FLOP *** [6s Ts Jh]
+*** TURN *** [6s Ts Jh][9d]
+*** RIVER *** [6s Ts Jh 9d][Kh]
+*** SHOW DOWN ***
+vide... shows [2s 6d] (One pair : 6)
+lunemeze shows [7d 8h] (Straight Jack high)
+lunemeze collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | No rake
+Board: [6s Ts Jh 9d Kh]
+Seat 5: lunemeze showed [7d 8h] and won 1140 with Straight Jack high
+Seat 8: vide... (big blind) showed [2s 6d] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3217591431451377858-127-1708979297 - Holdem no limit (35/150/300) - 2024/02/26 20:28:17 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #7 is the button
+Seat 1: Bfc33 (375)
+Seat 2: P1xel7 (24520)
+Seat 3: Foirou60 (10115)
+Seat 4: Maystro9030 (43415)
+Seat 5: lunemeze (22985)
+Seat 6: parastas23 (46364)
+Seat 7: Allinver (2533)
+*** ANTE/BLINDS ***
+Bfc33 posts ante 35
+P1xel7 posts ante 35
+Foirou60 posts ante 35
+Maystro9030 posts ante 35
+lunemeze posts ante 35
+parastas23 posts ante 35
+Allinver posts ante 35
+Bfc33 posts big blind 300
+Dealt to P1xel7 [6s Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Foirou60 raises 600 to 900
+Maystro9030 folds
+lunemeze folds
+parastas23 folds
+Allinver folds
+Bfc33 folds
+Foirou60 collected 1445 from pot
+*** SUMMARY ***
+Total pot 1445 | No rake
+Seat 3: Foirou60 won 1445
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3217591431451377858-128-1708979317 - Holdem no limit (35/150/300) - 2024/02/26 20:28:37 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #8 is the button
+Seat 1: Bfc33 (40)
+Seat 2: P1xel7 (24485)
+Seat 3: Foirou60 (10625)
+Seat 4: Maystro9030 (43380)
+Seat 5: lunemeze (22950)
+Seat 6: parastas23 (46329)
+Seat 7: Allinver (2498)
+*** ANTE/BLINDS ***
+Bfc33 posts ante 35
+P1xel7 posts ante 35
+Foirou60 posts ante 35
+Maystro9030 posts ante 35
+lunemeze posts ante 35
+parastas23 posts ante 35
+Allinver posts ante 35
+Bfc33 posts small blind 5 and is all-in
+P1xel7 posts big blind 300
+Dealt to P1xel7 [5d Jc]
+*** PRE-FLOP *** 
+Foirou60 folds
+Maystro9030 folds
+lunemeze raises 300 to 600
+parastas23 calls 600
+Allinver raises 1863 to 2463 and is all-in
+P1xel7 folds
+lunemeze folds
+parastas23 calls 1863
+*** FLOP *** [Th 7d Ks]
+*** TURN *** [Th 7d Ks][6s]
+*** RIVER *** [Th 7d Ks 6s][3h]
+*** SHOW DOWN ***
+Bfc33 shows [2h Js] (High card : King)
+parastas23 shows [Ad 8h] (High card : Ace)
+Allinver shows [6h 6c] (Trips of 6)
+Allinver collected 6076 from pot
+*** SUMMARY ***
+Total pot 6076 | No rake
+Board: [Th 7d Ks 6s 3h]
+Seat 1: Bfc33 (small blind) showed [2h Js] and lost with High card : King
+Seat 6: parastas23 showed [Ad 8h] and lost with High card : Ace
+Seat 7: Allinver showed [6h 6c] and won 6076 with Trips of 6
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3217591431451377858-129-1708979347 - Holdem no limit (35/150/300) - 2024/02/26 20:29:07 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #1 is the button
+Seat 2: P1xel7 (24150)
+Seat 3: Foirou60 (10590)
+Seat 4: Maystro9030 (43345)
+Seat 5: lunemeze (22315)
+Seat 6: parastas23 (43831)
+Seat 7: Allinver (6076)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Foirou60 posts ante 35
+Maystro9030 posts ante 35
+lunemeze posts ante 35
+parastas23 posts ante 35
+Allinver posts ante 35
+P1xel7 posts small blind 150
+Foirou60 posts big blind 300
+Dealt to P1xel7 [Qh Td]
+*** PRE-FLOP *** 
+Maystro9030 raises 43010 to 43310 and is all-in
+lunemeze folds
+parastas23 folds
+Allinver folds
+P1xel7 folds
+Foirou60 folds
+Maystro9030 collected 43970 from pot
+*** SUMMARY ***
+Total pot 43970 | No rake
+Seat 4: Maystro9030 won 43970
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3217591431451377858-130-1708979363 - Holdem no limit (35/150/300) - 2024/02/26 20:29:23 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #2 is the button
+Seat 1: Aziz21000 (9739)
+Seat 2: P1xel7 (23965)
+Seat 3: Foirou60 (10255)
+Seat 4: Maystro9030 (43970)
+Seat 5: lunemeze (22280)
+Seat 6: parastas23 (43796)
+Seat 7: Allinver (6041)
+Seat 8: janfinho (8844)
+*** ANTE/BLINDS ***
+Foirou60 posts ante 35
+Maystro9030 posts ante 35
+Aziz21000 posts ante 35
+P1xel7 posts ante 35
+lunemeze posts ante 35
+parastas23 posts ante 35
+Allinver posts ante 35
+janfinho posts ante 35
+Foirou60 posts small blind 150
+Maystro9030 posts big blind 300
+Dealt to P1xel7 [9c 2c]
+*** PRE-FLOP *** 
+lunemeze raises 1030 to 1330
+parastas23 folds
+Allinver folds
+janfinho folds
+Aziz21000 folds
+P1xel7 folds
+Foirou60 calls 1180
+Maystro9030 calls 1030
+*** FLOP *** [4d 3h Ts]
+Foirou60 checks
+Maystro9030 bets 2776
+lunemeze raises 2776 to 5552
+Foirou60 folds
+Maystro9030 calls 2776
+*** TURN *** [4d 3h Ts][6c]
+Maystro9030 checks
+lunemeze bets 9993
+Maystro9030 calls 9993
+*** RIVER *** [4d 3h Ts 6c][9h]
+Maystro9030 bets 12376
+lunemeze calls 5370 and is all-in
+*** SHOW DOWN ***
+Maystro9030 shows [3c Ac] (One pair : 3)
+lunemeze shows [Js Jh] (One pair : Jacks)
+lunemeze collected 46100 from main pot
+Maystro9030 collected 7006 from side pot 1
+*** SUMMARY ***
+Total pot 53106 | No rake
+Board: [4d 3h Ts 6c 9h]
+Seat 4: Maystro9030 (big blind) showed [3c Ac] and won 7006 with One pair : 3
+Seat 5: lunemeze showed [Js Jh] and won 46100 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3217591431451377858-131-1708979434 - Holdem no limit (35/150/300) - 2024/02/26 20:30:34 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #3 is the button
+Seat 1: Aziz21000 (9704)
+Seat 2: P1xel7 (23930)
+Seat 3: Foirou60 (8890)
+Seat 4: Maystro9030 (21690)
+Seat 5: lunemeze (46100)
+Seat 6: parastas23 (43761)
+Seat 7: Allinver (6006)
+Seat 8: janfinho (8809)
+*** ANTE/BLINDS ***
+Maystro9030 posts ante 35
+lunemeze posts ante 35
+Aziz21000 posts ante 35
+P1xel7 posts ante 35
+Foirou60 posts ante 35
+parastas23 posts ante 35
+Allinver posts ante 35
+janfinho posts ante 35
+Maystro9030 posts small blind 150
+lunemeze posts big blind 300
+Dealt to P1xel7 [9d 2d]
+*** PRE-FLOP *** 
+parastas23 folds
+Allinver folds
+janfinho folds
+Aziz21000 folds
+P1xel7 folds
+Foirou60 folds
+Maystro9030 raises 21355 to 21655 and is all-in
+lunemeze folds
+Maystro9030 collected 22235 from pot
+*** SUMMARY ***
+Total pot 22235 | No rake
+Seat 4: Maystro9030 (small blind) won 22235
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3217591431451377858-132-1708979460 - Holdem no limit (35/150/300) - 2024/02/26 20:31:00 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #4 is the button
+Seat 1: Aziz21000 (9669)
+Seat 2: P1xel7 (23895)
+Seat 3: Foirou60 (8855)
+Seat 4: Maystro9030 (22235)
+Seat 5: lunemeze (45765)
+Seat 6: parastas23 (43726)
+Seat 7: Allinver (5971)
+Seat 8: janfinho (8774)
+*** ANTE/BLINDS ***
+lunemeze posts ante 35
+parastas23 posts ante 35
+Aziz21000 posts ante 35
+P1xel7 posts ante 35
+Foirou60 posts ante 35
+Maystro9030 posts ante 35
+Allinver posts ante 35
+janfinho posts ante 35
+lunemeze posts small blind 150
+parastas23 posts big blind 300
+Dealt to P1xel7 [5s Qs]
+*** PRE-FLOP *** 
+Allinver folds
+janfinho folds
+Aziz21000 calls 300
+P1xel7 folds
+Foirou60 calls 300
+Maystro9030 raises 21900 to 22200 and is all-in
+lunemeze folds
+parastas23 folds
+Aziz21000 calls 9334 and is all-in
+Foirou60 folds
+*** FLOP *** [8c 5d Js]
+*** TURN *** [8c 5d Js][Qc]
+*** RIVER *** [8c 5d Js Qc][3s]
+*** SHOW DOWN ***
+Aziz21000 shows [7d Ac] (High card : Ace)
+Maystro9030 shows [5h 5c] (Trips of 5)
+Maystro9030 collected 32864 from pot
+*** SUMMARY ***
+Total pot 32864 | No rake
+Board: [8c 5d Js Qc 3s]
+Seat 1: Aziz21000 showed [7d Ac] and lost with High card : Ace
+Seat 4: Maystro9030 (button) showed [5h 5c] and won 32864 with Trips of 5
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3217591431451377858-133-1708979495 - Holdem no limit (35/150/300) - 2024/02/26 20:31:35 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #5 is the button
+Seat 2: P1xel7 (23860)
+Seat 3: Foirou60 (8520)
+Seat 4: Maystro9030 (32864)
+Seat 5: lunemeze (45580)
+Seat 6: parastas23 (43391)
+Seat 7: Allinver (5936)
+Seat 8: janfinho (8739)
+*** ANTE/BLINDS ***
+parastas23 posts ante 35
+Allinver posts ante 35
+P1xel7 posts ante 35
+Foirou60 posts ante 35
+Maystro9030 posts ante 35
+lunemeze posts ante 35
+janfinho posts ante 35
+parastas23 posts small blind 150
+Allinver posts big blind 300
+Dealt to P1xel7 [Kh 8s]
+*** PRE-FLOP *** 
+janfinho folds
+P1xel7 folds
+Foirou60 calls 300
+Maystro9030 calls 300
+lunemeze folds
+parastas23 folds
+Allinver checks
+*** FLOP *** [4s 9d Ah]
+Allinver checks
+Foirou60 checks
+Maystro9030 checks
+*** TURN *** [4s 9d Ah][6s]
+Allinver checks
+Foirou60 checks
+Maystro9030 checks
+*** RIVER *** [4s 9d Ah 6s][6h]
+Allinver checks
+Foirou60 checks
+Maystro9030 checks
+*** SHOW DOWN ***
+Foirou60 shows [7d Kd] (One pair : 6)
+Maystro9030 shows [Qs Jh] (One pair : 6)
+Allinver shows [4h Td] (Two pairs : 6 and 4)
+Allinver collected 1295 from pot
+*** SUMMARY ***
+Total pot 1295 | No rake
+Board: [4s 9d Ah 6s 6h]
+Seat 3: Foirou60 showed [7d Kd] and lost with One pair : 6
+Seat 4: Maystro9030 showed [Qs Jh] and lost with One pair : 6
+Seat 7: Allinver (big blind) showed [4h Td] and won 1295 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3217591431451377858-134-1708979587 - Holdem no limit (35/150/300) - 2024/02/26 20:33:07 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #6 is the button
+Seat 1: KrysKong_ (10662)
+Seat 2: P1xel7 (23825)
+Seat 3: Foirou60 (8185)
+Seat 4: Maystro9030 (32529)
+Seat 5: lunemeze (45545)
+Seat 6: parastas23 (43206)
+Seat 7: Allinver (6896)
+Seat 8: janfinho (8704)
+*** ANTE/BLINDS ***
+Allinver posts ante 35
+janfinho posts ante 35
+KrysKong_ posts ante 35
+P1xel7 posts ante 35
+Foirou60 posts ante 35
+Maystro9030 posts ante 35
+lunemeze posts ante 35
+parastas23 posts ante 35
+Allinver posts small blind 150
+janfinho posts big blind 300
+Dealt to P1xel7 [Qd 6c]
+*** PRE-FLOP *** 
+KrysKong_ folds
+P1xel7 folds
+Foirou60 folds
+Maystro9030 calls 300
+lunemeze folds
+parastas23 folds
+Allinver calls 150
+janfinho checks
+*** FLOP *** [7c Ah 8h]
+Allinver checks
+janfinho checks
+Maystro9030 checks
+*** TURN *** [7c Ah 8h][9d]
+Allinver checks
+janfinho checks
+Maystro9030 checks
+*** RIVER *** [7c Ah 8h 9d][Qh]
+Allinver checks
+janfinho checks
+Maystro9030 checks
+*** SHOW DOWN ***
+Allinver shows [5h 5s] (One pair : 5)
+janfinho shows [7h 4s] (One pair : 7)
+Maystro9030 shows [Th 7s] (One pair : 7)
+Maystro9030 collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Board: [7c Ah 8h 9d Qh]
+Seat 4: Maystro9030 showed [Th 7s] and won 1180 with One pair : 7
+Seat 7: Allinver (small blind) showed [5h 5s] and lost with One pair : 5
+Seat 8: janfinho (big blind) showed [7h 4s] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3217591431451377858-135-1708979665 - Holdem no limit (40/200/400) - 2024/02/26 20:34:25 UTC
+Table: 'Tremplin Paris(749153884)#0193' 8-max (real money) Seat #7 is the button
+Seat 1: KrysKong_ (10627)
+Seat 2: P1xel7 (23790)
+Seat 3: Foirou60 (8150)
+Seat 4: Maystro9030 (33374)
+Seat 5: lunemeze (45510)
+Seat 6: parastas23 (43171)
+Seat 7: Allinver (6561)
+Seat 8: janfinho (8369)
+*** ANTE/BLINDS ***
+janfinho posts ante 40
+KrysKong_ posts ante 40
+P1xel7 posts ante 40
+Foirou60 posts ante 40
+Maystro9030 posts ante 40
+lunemeze posts ante 40
+parastas23 posts ante 40
+Allinver posts ante 40
+janfinho posts small blind 200
+KrysKong_ posts big blind 400
+Dealt to P1xel7 [9h 9s]
+*** PRE-FLOP *** 
+P1xel7 raises 800 to 1200
+Foirou60 folds
+Maystro9030 folds
+lunemeze raises 2400 to 3600
+parastas23 folds
+Allinver folds
+janfinho folds
+KrysKong_ folds
+P1xel7 calls 2400
+*** FLOP *** [8s 7s 5h]
+P1xel7 bets 5278
+lunemeze raises 18676 to 23954
+P1xel7 calls 14872 and is all-in
+*** TURN *** [8s 7s 5h][Th]
+*** RIVER *** [8s 7s 5h Th][Tc]
+*** SHOW DOWN ***
+P1xel7 shows [9h 9s] (Two pairs : Tens and 9)
+lunemeze shows [Kh Ks] (Two pairs : Kings and Tens)
+lunemeze collected 52224 from pot
+*** SUMMARY ***
+Total pot 52224 | No rake
+Board: [8s 7s 5h Th Tc]
+Seat 2: P1xel7 showed [9h 9s] and lost with Two pairs : Tens and 9
+Seat 5: lunemeze showed [Kh Ks] and won 52224 with Two pairs : Kings and Tens
+
+

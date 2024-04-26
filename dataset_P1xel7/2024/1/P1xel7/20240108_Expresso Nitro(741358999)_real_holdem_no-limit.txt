@@ -1,0 +1,314 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184112655300296705-1-1704743936 - Holdem no limit (10/20) - 2024/01/08 19:58:56 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (300)
+Seat 2: RacingRcL (300)
+Seat 3: DizizLaPeste (300)
+*** ANTE/BLINDS ***
+RacingRcL posts small blind 10
+DizizLaPeste posts big blind 20
+Dealt to P1xel7 [Ad 3c]
+*** PRE-FLOP *** 
+P1xel7 raises 20 to 40
+RacingRcL folds
+DizizLaPeste folds
+P1xel7 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 1: P1xel7 (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184112655300296705-2-1704743943 - Holdem no limit (10/20) - 2024/01/08 19:59:03 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (330)
+Seat 2: RacingRcL (290)
+Seat 3: DizizLaPeste (280)
+*** ANTE/BLINDS ***
+DizizLaPeste posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [9d Js]
+*** PRE-FLOP *** 
+RacingRcL calls 20
+DizizLaPeste folds
+P1xel7 checks
+*** FLOP *** [5s 7d 6d]
+P1xel7 checks
+RacingRcL checks
+*** TURN *** [5s 7d 6d][8c]
+P1xel7 checks
+RacingRcL checks
+*** RIVER *** [5s 7d 6d 8c][Kd]
+P1xel7 bets 20
+RacingRcL calls 20
+*** SHOW DOWN ***
+RacingRcL shows [Qs 8d] (One pair : 8)
+P1xel7 shows [9d Js] (Straight 9 high)
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5s 7d 6d 8c Kd]
+Seat 1: P1xel7 (big blind) showed [9d Js] and won 90 with Straight 9 high
+Seat 2: RacingRcL (button) showed [Qs 8d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184112655300296705-3-1704743967 - Holdem no limit (10/20) - 2024/01/08 19:59:27 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (380)
+Seat 2: RacingRcL (250)
+Seat 3: DizizLaPeste (270)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+RacingRcL posts big blind 20
+Dealt to P1xel7 [4s Ac]
+*** PRE-FLOP *** 
+DizizLaPeste folds
+P1xel7 raises 20 to 40
+RacingRcL folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: P1xel7 (small blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184112655300296705-4-1704743973 - Holdem no limit (10/20) - 2024/01/08 19:59:33 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (400)
+Seat 2: RacingRcL (230)
+Seat 3: DizizLaPeste (270)
+*** ANTE/BLINDS ***
+RacingRcL posts small blind 10
+DizizLaPeste posts big blind 20
+Dealt to P1xel7 [4h 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+RacingRcL calls 10
+DizizLaPeste raises 25 to 45
+RacingRcL raises 185 to 230 and is all-in
+DizizLaPeste calls 185
+*** FLOP *** [5d Qd 5s]
+*** TURN *** [5d Qd 5s][Jd]
+*** RIVER *** [5d Qd 5s Jd][4d]
+*** SHOW DOWN ***
+DizizLaPeste shows [Kc Td] (Flush Queen high)
+RacingRcL shows [Ad 7d] (Flush Ace high)
+RacingRcL collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | No rake
+Board: [5d Qd 5s Jd 4d]
+Seat 2: RacingRcL (small blind) showed [Ad 7d] and won 460 with Flush Ace high
+Seat 3: DizizLaPeste (big blind) showed [Kc Td] and lost with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3184112655300296705-5-1704743992 - Holdem no limit (10/20) - 2024/01/08 19:59:52 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (400)
+Seat 2: RacingRcL (460)
+Seat 3: DizizLaPeste (40)
+*** ANTE/BLINDS ***
+DizizLaPeste posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [3d Qs]
+*** PRE-FLOP *** 
+RacingRcL calls 20
+DizizLaPeste raises 20 to 40 and is all-in
+P1xel7 folds
+RacingRcL raises 20 to 60
+*** FLOP *** [Tc 2c 4c]
+*** TURN *** [Tc 2c 4c][Js]
+*** RIVER *** [Tc 2c 4c Js][7d]
+*** SHOW DOWN ***
+DizizLaPeste shows [Qc Ks] (High card : King)
+RacingRcL shows [8s Ad] (High card : Ace)
+RacingRcL collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Tc 2c 4c Js 7d]
+Seat 2: RacingRcL (button) showed [8s Ad] and won 120 with High card : Ace
+Seat 3: DizizLaPeste (small blind) showed [Qc Ks] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184112655300296705-6-1704744007 - Holdem no limit (15/30) - 2024/01/08 20:00:07 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (380)
+Seat 2: RacingRcL (520)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+RacingRcL posts big blind 30
+Dealt to P1xel7 [Kd 3d]
+*** PRE-FLOP *** 
+P1xel7 raises 30 to 60
+RacingRcL calls 30
+*** FLOP *** [Th Qs 7s]
+RacingRcL checks
+P1xel7 bets 75
+RacingRcL folds
+P1xel7 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | No rake
+Board: [Th Qs 7s]
+Seat 1: P1xel7 (small blind) (button) won 195
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184112655300296705-7-1704744018 - Holdem no limit (15/30) - 2024/01/08 20:00:18 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (440)
+Seat 2: RacingRcL (460)
+*** ANTE/BLINDS ***
+RacingRcL posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [6s Qc]
+*** PRE-FLOP *** 
+RacingRcL calls 15
+P1xel7 checks
+*** FLOP *** [5s Tc 8c]
+P1xel7 checks
+RacingRcL checks
+*** TURN *** [5s Tc 8c][6d]
+P1xel7 bets 30
+RacingRcL folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [5s Tc 8c 6d]
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184112655300296705-8-1704744029 - Holdem no limit (15/30) - 2024/01/08 20:00:29 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (470)
+Seat 2: RacingRcL (430)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+RacingRcL posts big blind 30
+Dealt to P1xel7 [3h Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+RacingRcL collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: RacingRcL (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184112655300296705-9-1704744033 - Holdem no limit (15/30) - 2024/01/08 20:00:33 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (455)
+Seat 2: RacingRcL (445)
+*** ANTE/BLINDS ***
+RacingRcL posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Qc 5s]
+*** PRE-FLOP *** 
+RacingRcL calls 15
+P1xel7 checks
+*** FLOP *** [Kd 4h 6d]
+P1xel7 bets 30
+RacingRcL calls 30
+*** TURN *** [Kd 4h 6d][2s]
+P1xel7 checks
+RacingRcL checks
+*** RIVER *** [Kd 4h 6d 2s][Kh]
+P1xel7 checks
+RacingRcL checks
+*** SHOW DOWN ***
+RacingRcL shows [5h 7d] (One pair : Kings)
+P1xel7 shows [Qc 5s] (One pair : Kings)
+P1xel7 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kd 4h 6d 2s Kh]
+Seat 1: P1xel7 (big blind) showed [Qc 5s] and won 120 with One pair : Kings
+Seat 2: RacingRcL (small blind) (button) showed [5h 7d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 2 - HandId: #3184112655300296705-10-1704744050 - Holdem no limit (15/30) - 2024/01/08 20:00:50 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (515)
+Seat 2: RacingRcL (385)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+RacingRcL posts big blind 30
+Dealt to P1xel7 [6d Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+RacingRcL collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: RacingRcL (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184112655300296705-11-1704744055 - Holdem no limit (20/40) - 2024/01/08 20:00:55 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (500)
+Seat 2: RacingRcL (400)
+*** ANTE/BLINDS ***
+RacingRcL posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Qc 6s]
+*** PRE-FLOP *** 
+RacingRcL calls 20
+P1xel7 checks
+*** FLOP *** [Qd 8h Jh]
+P1xel7 checks
+RacingRcL checks
+*** TURN *** [Qd 8h Jh][7h]
+P1xel7 bets 80
+RacingRcL folds
+P1xel7 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Qd 8h Jh 7h]
+Seat 1: P1xel7 (big blind) won 160
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184112655300296705-12-1704744078 - Holdem no limit (20/40) - 2024/01/08 20:01:18 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (540)
+Seat 2: RacingRcL (360)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+RacingRcL posts big blind 40
+Dealt to P1xel7 [Jd 9d]
+*** PRE-FLOP *** 
+P1xel7 raises 40 to 80
+RacingRcL calls 40
+*** FLOP *** [6c 4s Kc]
+RacingRcL checks
+P1xel7 bets 80
+RacingRcL calls 80
+*** TURN *** [6c 4s Kc][4h]
+RacingRcL checks
+P1xel7 bets 80
+RacingRcL raises 120 to 200 and is all-in
+P1xel7 folds
+RacingRcL collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6c 4s Kc 4h]
+Seat 2: RacingRcL (big blind) won 600
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 3 - HandId: #3184112655300296705-13-1704744096 - Holdem no limit (20/40) - 2024/01/08 20:01:36 UTC
+Table: 'Expresso Nitro(741358999)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (300)
+Seat 2: RacingRcL (600)
+*** ANTE/BLINDS ***
+RacingRcL posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [9d Kd]
+*** PRE-FLOP *** 
+RacingRcL calls 20
+P1xel7 raises 260 to 300 and is all-in
+RacingRcL calls 260
+*** FLOP *** [Qc 6s 5c]
+*** TURN *** [Qc 6s 5c][Ts]
+*** RIVER *** [Qc 6s 5c Ts][Td]
+*** SHOW DOWN ***
+P1xel7 shows [9d Kd] (One pair : Tens)
+RacingRcL shows [8s Tc] (Trips of Tens)
+RacingRcL collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qc 6s 5c Ts Td]
+Seat 1: P1xel7 (big blind) showed [9d Kd] and lost with One pair : Tens
+Seat 2: RacingRcL (small blind) (button) showed [8s Tc] and won 600 with Trips of Tens
+
+

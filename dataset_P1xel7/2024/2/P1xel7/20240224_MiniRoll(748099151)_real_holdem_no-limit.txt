@@ -1,0 +1,4425 @@
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3213061387710365699-28-1708795434 - Holdem no limit (35/150/300) - 2024/02/24 17:23:54 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 2: Cygne_312074 (23701)
+Seat 3: rigoloto (18845)
+Seat 4: Zambrocales (79855)
+Seat 5: M1ll3R (14181)
+Seat 6: P1xel7 (20000)
+Seat 7: ISILDURRR (36947)
+Seat 8: MtRuShmoore (19600)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 35
+Cygne_312074 posts ante 35
+rigoloto posts ante 35
+Zambrocales posts ante 35
+M1ll3R posts ante 35
+P1xel7 posts ante 35
+ISILDURRR posts ante 35
+MtRuShmoore posts small blind 150
+Cygne_312074 posts big blind 300
+Dealt to P1xel7 [9s 3d]
+*** PRE-FLOP *** 
+rigoloto folds
+Zambrocales folds
+M1ll3R folds
+P1xel7 folds
+ISILDURRR raises 375 to 675
+MtRuShmoore folds
+Cygne_312074 calls 375
+*** FLOP *** [7d 9h Qh]
+Cygne_312074 checks
+ISILDURRR checks
+*** TURN *** [7d 9h Qh][Tc]
+Cygne_312074 checks
+ISILDURRR checks
+*** RIVER *** [7d 9h Qh Tc][As]
+Cygne_312074 checks
+ISILDURRR bets 450
+Cygne_312074 folds
+ISILDURRR collected 2195 from pot
+*** SUMMARY ***
+Total pot 2195 | No rake
+Board: [7d 9h Qh Tc As]
+Seat 7: ISILDURRR (button) won 2195
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3213061387710365699-29-1708795510 - Holdem no limit (35/150/300) - 2024/02/24 17:25:10 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 1: ODIRAC (20000)
+Seat 2: Cygne_312074 (22991)
+Seat 3: rigoloto (18810)
+Seat 4: Zambrocales (79820)
+Seat 5: M1ll3R (14146)
+Seat 6: P1xel7 (19965)
+Seat 7: ISILDURRR (37982)
+Seat 8: MtRuShmoore (19415)
+*** ANTE/BLINDS ***
+Cygne_312074 posts ante 35
+rigoloto posts ante 35
+Zambrocales posts ante 35
+M1ll3R posts ante 35
+P1xel7 posts ante 35
+ISILDURRR posts ante 35
+MtRuShmoore posts ante 35
+Cygne_312074 posts small blind 150
+rigoloto posts big blind 300
+Dealt to P1xel7 [2c Kc]
+*** PRE-FLOP *** 
+Zambrocales folds
+M1ll3R folds
+P1xel7 folds
+ISILDURRR folds
+MtRuShmoore calls 300
+Cygne_312074 folds
+rigoloto checks
+*** FLOP *** [Ad 2h Td]
+rigoloto checks
+MtRuShmoore bets 300
+rigoloto folds
+MtRuShmoore collected 1295 from pot
+*** SUMMARY ***
+Total pot 1295 | No rake
+Board: [Ad 2h Td]
+Seat 8: MtRuShmoore (button) won 1295
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3213061387710365699-30-1708795546 - Holdem no limit (35/150/300) - 2024/02/24 17:25:46 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #2 is the button
+Seat 1: ODIRAC (20000)
+Seat 2: Cygne_312074 (22806)
+Seat 3: rigoloto (18475)
+Seat 4: Zambrocales (79785)
+Seat 5: M1ll3R (14111)
+Seat 6: P1xel7 (19930)
+Seat 7: ISILDURRR (37947)
+Seat 8: MtRuShmoore (20075)
+*** ANTE/BLINDS ***
+rigoloto posts ante 35
+Zambrocales posts ante 35
+ODIRAC posts ante 35
+Cygne_312074 posts ante 35
+M1ll3R posts ante 35
+P1xel7 posts ante 35
+ISILDURRR posts ante 35
+MtRuShmoore posts ante 35
+rigoloto posts small blind 150
+Zambrocales posts big blind 300
+Dealt to P1xel7 [5h 3h]
+*** PRE-FLOP *** 
+M1ll3R raises 300 to 600
+P1xel7 folds
+ISILDURRR folds
+MtRuShmoore folds
+ODIRAC calls 600
+Cygne_312074 calls 600
+rigoloto folds
+Zambrocales folds
+*** FLOP *** [Tc Js 8h]
+M1ll3R checks
+ODIRAC bets 300
+Cygne_312074 calls 300
+M1ll3R calls 300
+*** TURN *** [Tc Js 8h][9c]
+M1ll3R checks
+ODIRAC bets 3430
+Cygne_312074 raises 18441 to 21871 and is all-in
+M1ll3R folds
+ODIRAC folds
+Cygne_312074 collected 28731 from pot
+*** SUMMARY ***
+Total pot 28731 | No rake
+Board: [Tc Js 8h 9c]
+Seat 2: Cygne_312074 (button) won 28731
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3213061387710365699-31-1708795624 - Holdem no limit (40/175/350) - 2024/02/24 17:27:04 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 1: ODIRAC (15635)
+Seat 2: Cygne_312074 (28731)
+Seat 3: rigoloto (18290)
+Seat 4: Zambrocales (79450)
+Seat 5: M1ll3R (13176)
+Seat 6: P1xel7 (19895)
+Seat 7: ISILDURRR (37912)
+Seat 8: MtRuShmoore (20040)
+*** ANTE/BLINDS ***
+Zambrocales posts ante 40
+M1ll3R posts ante 40
+ODIRAC posts ante 40
+Cygne_312074 posts ante 40
+rigoloto posts ante 40
+P1xel7 posts ante 40
+ISILDURRR posts ante 40
+MtRuShmoore posts ante 40
+Zambrocales posts small blind 175
+M1ll3R posts big blind 350
+Dealt to P1xel7 [Tc 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+ISILDURRR folds
+MtRuShmoore folds
+ODIRAC folds
+Cygne_312074 calls 350
+rigoloto folds
+Zambrocales folds
+M1ll3R checks
+*** FLOP *** [5h Ah 4s]
+M1ll3R checks
+Cygne_312074 checks
+*** TURN *** [5h Ah 4s][Qc]
+M1ll3R bets 1040
+Cygne_312074 calls 1040
+*** RIVER *** [5h Ah 4s Qc][2h]
+M1ll3R bets 2849
+Cygne_312074 calls 2849
+*** SHOW DOWN ***
+Cygne_312074 shows [Js Qd] (One pair : Queens)
+M1ll3R shows [3c Ac] (Straight 5 high)
+M1ll3R collected 8973 from pot
+*** SUMMARY ***
+Total pot 8973 | No rake
+Board: [5h Ah 4s Qc 2h]
+Seat 2: Cygne_312074 showed [Js Qd] and lost with One pair : Queens
+Seat 5: M1ll3R (big blind) showed [3c Ac] and won 8973 with Straight 5 high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3213061387710365699-32-1708795680 - Holdem no limit (40/175/350) - 2024/02/24 17:28:00 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #4 is the button
+Seat 1: ODIRAC (15595)
+Seat 2: Cygne_312074 (24452)
+Seat 3: rigoloto (18250)
+Seat 4: Zambrocales (79235)
+Seat 5: M1ll3R (17870)
+Seat 6: P1xel7 (19855)
+Seat 8: MtRuShmoore (20000)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 40
+P1xel7 posts ante 40
+ODIRAC posts ante 40
+Cygne_312074 posts ante 40
+rigoloto posts ante 40
+Zambrocales posts ante 40
+MtRuShmoore posts ante 40
+M1ll3R posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [4s Jh]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+ODIRAC calls 350
+Cygne_312074 calls 350
+rigoloto folds
+Zambrocales folds
+M1ll3R folds
+P1xel7 checks
+*** FLOP *** [Ks Qd 2s]
+P1xel7 checks
+ODIRAC checks
+Cygne_312074 bets 350
+P1xel7 folds
+ODIRAC calls 350
+*** TURN *** [Ks Qd 2s][Js]
+ODIRAC bets 14855 and is all-in
+Cygne_312074 calls 14855
+*** RIVER *** [Ks Qd 2s Js][Jc]
+*** SHOW DOWN ***
+Cygne_312074 shows [8s Qh] (Two pairs : Queens and Jacks)
+ODIRAC shows [Ts 9c] (Straight King high)
+ODIRAC collected 31915 from pot
+*** SUMMARY ***
+Total pot 31915 | No rake
+Board: [Ks Qd 2s Js Jc]
+Seat 1: ODIRAC showed [Ts 9c] and won 31915 with Straight King high
+Seat 2: Cygne_312074 showed [8s Qh] and lost with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3213061387710365699-33-1708795736 - Holdem no limit (40/175/350) - 2024/02/24 17:28:56 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 1: ODIRAC (31915)
+Seat 2: Cygne_312074 (8857)
+Seat 3: rigoloto (18210)
+Seat 4: Zambrocales (79195)
+Seat 5: M1ll3R (17655)
+Seat 6: P1xel7 (19465)
+Seat 8: MtRuShmoore (19960)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+MtRuShmoore posts ante 40
+ODIRAC posts ante 40
+Cygne_312074 posts ante 40
+rigoloto posts ante 40
+Zambrocales posts ante 40
+M1ll3R posts ante 40
+P1xel7 posts small blind 175
+MtRuShmoore posts big blind 350
+Dealt to P1xel7 [Ts 5d]
+*** PRE-FLOP *** 
+ODIRAC calls 350
+Cygne_312074 folds
+rigoloto folds
+Zambrocales raises 1400 to 1750
+M1ll3R calls 1750
+P1xel7 folds
+MtRuShmoore folds
+ODIRAC calls 1400
+*** FLOP *** [7s 7c 5h]
+ODIRAC bets 3936
+Zambrocales calls 3936
+M1ll3R raises 11929 to 15865 and is all-in
+ODIRAC calls 11929
+Zambrocales folds
+*** TURN *** [7s 7c 5h][Td]
+*** RIVER *** [7s 7c 5h Td][6c]
+*** SHOW DOWN ***
+ODIRAC shows [6h 8h] (Two pairs : 7 and 6)
+M1ll3R shows [Th Tc] (Full of Tens and 7)
+M1ll3R collected 41721 from pot
+*** SUMMARY ***
+Total pot 41721 | No rake
+Board: [7s 7c 5h Td 6c]
+Seat 1: ODIRAC showed [6h 8h] and lost with Two pairs : 7 and 6
+Seat 5: M1ll3R (button) showed [Th Tc] and won 41721 with Full of Tens and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3213061387710365699-34-1708795821 - Holdem no limit (40/175/350) - 2024/02/24 17:30:21 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 1: ODIRAC (14260)
+Seat 2: Cygne_312074 (8817)
+Seat 3: rigoloto (18170)
+Seat 4: Zambrocales (73469)
+Seat 5: M1ll3R (41721)
+Seat 6: P1xel7 (19250)
+Seat 8: MtRuShmoore (19570)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 40
+ODIRAC posts ante 40
+Cygne_312074 posts ante 40
+rigoloto posts ante 40
+Zambrocales posts ante 40
+M1ll3R posts ante 40
+P1xel7 posts ante 40
+MtRuShmoore posts small blind 175
+ODIRAC posts big blind 350
+Dealt to P1xel7 [5h 6c]
+*** PRE-FLOP *** 
+Cygne_312074 folds
+rigoloto folds
+Zambrocales folds
+M1ll3R folds
+P1xel7 folds
+MtRuShmoore folds
+ODIRAC collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Seat 1: ODIRAC (big blind) won 805
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3213061387710365699-35-1708795836 - Holdem no limit (40/175/350) - 2024/02/24 17:30:36 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 1: ODIRAC (14675)
+Seat 2: Cygne_312074 (8777)
+Seat 3: rigoloto (18130)
+Seat 4: Zambrocales (73429)
+Seat 5: M1ll3R (41681)
+Seat 6: P1xel7 (19210)
+Seat 7: prisca93 (20000)
+Seat 8: MtRuShmoore (19355)
+*** ANTE/BLINDS ***
+ODIRAC posts ante 40
+Cygne_312074 posts ante 40
+rigoloto posts ante 40
+Zambrocales posts ante 40
+M1ll3R posts ante 40
+P1xel7 posts ante 40
+prisca93 posts ante 40
+MtRuShmoore posts ante 40
+ODIRAC posts small blind 175
+Cygne_312074 posts big blind 350
+Dealt to P1xel7 [Ah Jc]
+*** PRE-FLOP *** 
+rigoloto folds
+Zambrocales folds
+M1ll3R raises 350 to 700
+P1xel7 raises 1925 to 2625
+prisca93 folds
+MtRuShmoore folds
+ODIRAC calls 2450
+Cygne_312074 raises 6112 to 8737 and is all-in
+M1ll3R folds
+P1xel7 calls 6112
+ODIRAC calls 6112
+*** FLOP *** [8c Qd Qc]
+ODIRAC checks
+P1xel7 checks
+*** TURN *** [8c Qd Qc][5c]
+ODIRAC bets 5898 and is all-in
+P1xel7 calls 5898
+*** RIVER *** [8c Qd Qc 5c][Jh]
+*** SHOW DOWN ***
+ODIRAC shows [5h Kd] (Two pairs : Queens and 5)
+Cygne_312074 shows [7s 7h] (Two pairs : Queens and 7)
+P1xel7 shows [Ah Jc] (Two pairs : Queens and Jacks)
+P1xel7 collected 39027 from pot
+*** SUMMARY ***
+Total pot 39027 | No rake
+Board: [8c Qd Qc 5c Jh]
+Seat 1: ODIRAC (small blind) showed [5h Kd] and lost with Two pairs : Queens and 5
+Seat 2: Cygne_312074 (big blind) showed [7s 7h] and lost with Two pairs : Queens and 7
+Seat 6: P1xel7 showed [Ah Jc] and won 39027 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3213061387710365699-36-1708795912 - Holdem no limit (50/200/400) - 2024/02/24 17:31:52 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #1 is the button
+Seat 3: rigoloto (18090)
+Seat 4: Zambrocales (73389)
+Seat 5: M1ll3R (40941)
+Seat 6: P1xel7 (43562)
+Seat 7: prisca93 (19960)
+Seat 8: MtRuShmoore (19315)
+*** ANTE/BLINDS ***
+rigoloto posts ante 50
+Zambrocales posts ante 50
+M1ll3R posts ante 50
+P1xel7 posts ante 50
+prisca93 posts ante 50
+MtRuShmoore posts ante 50
+rigoloto posts big blind 400
+Dealt to P1xel7 [6h 4d]
+*** PRE-FLOP *** 
+Zambrocales folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore raises 400 to 800
+rigoloto folds
+MtRuShmoore collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 8: MtRuShmoore won 1500
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3213061387710365699-37-1708795923 - Holdem no limit (50/200/400) - 2024/02/24 17:32:03 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #2 is the button
+Seat 2: Mylou-85 (19530)
+Seat 3: rigoloto (17640)
+Seat 4: Zambrocales (73339)
+Seat 5: M1ll3R (40891)
+Seat 6: P1xel7 (43512)
+Seat 7: prisca93 (19910)
+Seat 8: MtRuShmoore (19965)
+*** ANTE/BLINDS ***
+rigoloto posts ante 50
+Zambrocales posts ante 50
+M1ll3R posts ante 50
+P1xel7 posts ante 50
+prisca93 posts ante 50
+MtRuShmoore posts ante 50
+rigoloto posts small blind 200
+Zambrocales posts big blind 400
+Dealt to P1xel7 [9d Kd]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 raises 600 to 1000
+prisca93 folds
+MtRuShmoore calls 1000
+rigoloto folds
+Zambrocales calls 600
+*** FLOP *** [6c Ad Jh]
+Zambrocales checks
+P1xel7 checks
+MtRuShmoore checks
+*** TURN *** [6c Ad Jh][8h]
+Zambrocales checks
+P1xel7 checks
+MtRuShmoore checks
+*** RIVER *** [6c Ad Jh 8h][Js]
+Zambrocales checks
+P1xel7 checks
+MtRuShmoore checks
+*** SHOW DOWN ***
+P1xel7 shows [9d Kd] (One pair : Jacks)
+MtRuShmoore shows [Qs 9s] (One pair : Jacks)
+Zambrocales shows [8s Ks] (Two pairs : Jacks and 8)
+Zambrocales collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | No rake
+Board: [6c Ad Jh 8h Js]
+Seat 4: Zambrocales (big blind) showed [8s Ks] and won 3500 with Two pairs : Jacks and 8
+Seat 6: P1xel7 showed [9d Kd] and lost with One pair : Jacks
+Seat 8: MtRuShmoore showed [Qs 9s] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3213061387710365699-38-1708795992 - Holdem no limit (50/200/400) - 2024/02/24 17:33:12 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 2: Mylou-85 (19530)
+Seat 3: rigoloto (17390)
+Seat 4: Zambrocales (75789)
+Seat 5: M1ll3R (40841)
+Seat 6: P1xel7 (42462)
+Seat 7: prisca93 (19860)
+Seat 8: MtRuShmoore (18915)
+*** ANTE/BLINDS ***
+Zambrocales posts ante 50
+M1ll3R posts ante 50
+Mylou-85 posts ante 50
+rigoloto posts ante 50
+P1xel7 posts ante 50
+prisca93 posts ante 50
+MtRuShmoore posts ante 50
+Zambrocales posts small blind 200
+M1ll3R posts big blind 400
+Dealt to P1xel7 [3d 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Mylou-85 folds
+rigoloto folds
+Zambrocales folds
+M1ll3R collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 5: M1ll3R (big blind) won 950
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3213061387710365699-39-1708796009 - Holdem no limit (50/200/400) - 2024/02/24 17:33:29 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #4 is the button
+Seat 2: Mylou-85 (19480)
+Seat 3: rigoloto (17340)
+Seat 4: Zambrocales (75539)
+Seat 5: M1ll3R (41341)
+Seat 6: P1xel7 (42412)
+Seat 7: prisca93 (19810)
+Seat 8: MtRuShmoore (18865)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 50
+P1xel7 posts ante 50
+Mylou-85 posts ante 50
+rigoloto posts ante 50
+Zambrocales posts ante 50
+prisca93 posts ante 50
+MtRuShmoore posts ante 50
+M1ll3R posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [4s 4d]
+*** PRE-FLOP *** 
+prisca93 folds
+MtRuShmoore folds
+Mylou-85 folds
+rigoloto folds
+Zambrocales folds
+M1ll3R raises 1000 to 1400
+P1xel7 calls 1000
+*** FLOP *** [8d 8s 7d]
+M1ll3R bets 945
+P1xel7 calls 945
+*** TURN *** [8d 8s 7d][Js]
+M1ll3R checks
+P1xel7 bets 1764
+M1ll3R folds
+P1xel7 collected 6804 from pot
+*** SUMMARY ***
+Total pot 6804 | No rake
+Board: [8d 8s 7d Js]
+Seat 6: P1xel7 (big blind) won 6804
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3213061387710365699-40-1708796075 - Holdem no limit (50/200/400) - 2024/02/24 17:34:35 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 2: Mylou-85 (19430)
+Seat 3: rigoloto (17290)
+Seat 4: Zambrocales (75489)
+Seat 5: M1ll3R (38946)
+Seat 6: P1xel7 (45057)
+Seat 7: prisca93 (19760)
+Seat 8: MtRuShmoore (18815)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+prisca93 posts ante 50
+Mylou-85 posts ante 50
+rigoloto posts ante 50
+Zambrocales posts ante 50
+M1ll3R posts ante 50
+MtRuShmoore posts ante 50
+P1xel7 posts small blind 200
+prisca93 posts big blind 400
+Dealt to P1xel7 [4c 5c]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+Mylou-85 calls 400
+rigoloto folds
+Zambrocales folds
+M1ll3R calls 400
+P1xel7 calls 200
+prisca93 checks
+*** FLOP *** [Qd 4d 2d]
+P1xel7 checks
+prisca93 bets 975
+Mylou-85 calls 975
+M1ll3R folds
+P1xel7 folds
+*** TURN *** [Qd 4d 2d][9c]
+prisca93 bets 1365
+Mylou-85 folds
+prisca93 collected 5265 from pot
+*** SUMMARY ***
+Total pot 5265 | No rake
+Board: [Qd 4d 2d 9c]
+Seat 7: prisca93 (big blind) won 5265
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3213061387710365699-41-1708796127 - Holdem no limit (50/200/400) - 2024/02/24 17:35:27 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 1: Kaalifa (20000)
+Seat 2: Mylou-85 (18005)
+Seat 3: rigoloto (17240)
+Seat 4: Zambrocales (75439)
+Seat 5: M1ll3R (38496)
+Seat 6: P1xel7 (44607)
+Seat 7: prisca93 (22235)
+Seat 8: MtRuShmoore (18765)
+*** ANTE/BLINDS ***
+prisca93 posts ante 50
+MtRuShmoore posts ante 50
+Kaalifa posts ante 50
+Mylou-85 posts ante 50
+rigoloto posts ante 50
+Zambrocales posts ante 50
+M1ll3R posts ante 50
+P1xel7 posts ante 50
+prisca93 posts small blind 200
+MtRuShmoore posts big blind 400
+Dealt to P1xel7 [Ac 5d]
+*** PRE-FLOP *** 
+Kaalifa folds
+Mylou-85 folds
+rigoloto folds
+Zambrocales folds
+M1ll3R folds
+P1xel7 raises 600 to 1000
+prisca93 folds
+MtRuShmoore folds
+P1xel7 collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Seat 6: P1xel7 (button) won 2000
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3213061387710365699-42-1708796156 - Holdem no limit (50/200/400) - 2024/02/24 17:35:56 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 1: Kaalifa (19950)
+Seat 2: Mylou-85 (17955)
+Seat 3: rigoloto (17190)
+Seat 4: Zambrocales (75389)
+Seat 5: M1ll3R (38446)
+Seat 6: P1xel7 (45557)
+Seat 7: prisca93 (21985)
+Seat 8: MtRuShmoore (18315)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 50
+Kaalifa posts ante 50
+Mylou-85 posts ante 50
+rigoloto posts ante 50
+Zambrocales posts ante 50
+M1ll3R posts ante 50
+P1xel7 posts ante 50
+prisca93 posts ante 50
+MtRuShmoore posts small blind 200
+Kaalifa posts big blind 400
+Dealt to P1xel7 [Ac Tc]
+*** PRE-FLOP *** 
+Mylou-85 raises 400 to 800
+rigoloto folds
+Zambrocales folds
+M1ll3R folds
+P1xel7 raises 1200 to 2000
+prisca93 folds
+MtRuShmoore folds
+Kaalifa folds
+Mylou-85 raises 15905 to 17905 and is all-in
+P1xel7 folds
+Mylou-85 collected 20905 from pot
+*** SUMMARY ***
+Total pot 20905 | No rake
+Seat 2: Mylou-85 won 20905
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3213061387710365699-43-1708796226 - Holdem no limit (60/250/500) - 2024/02/24 17:37:06 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 1: Kaalifa (19500)
+Seat 2: Mylou-85 (20905)
+Seat 3: rigoloto (17140)
+Seat 4: Zambrocales (75339)
+Seat 5: M1ll3R (38396)
+Seat 6: P1xel7 (43507)
+Seat 7: prisca93 (21935)
+Seat 8: MtRuShmoore (18065)
+*** ANTE/BLINDS ***
+Kaalifa posts ante 60
+Mylou-85 posts ante 60
+rigoloto posts ante 60
+Zambrocales posts ante 60
+M1ll3R posts ante 60
+P1xel7 posts ante 60
+prisca93 posts ante 60
+MtRuShmoore posts ante 60
+Kaalifa posts small blind 250
+Mylou-85 posts big blind 500
+Dealt to P1xel7 [Jd 9c]
+*** PRE-FLOP *** 
+rigoloto folds
+Zambrocales folds
+M1ll3R raises 500 to 1000
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Kaalifa calls 750
+Mylou-85 folds
+*** FLOP *** [Jc 8s Ah]
+Kaalifa checks
+M1ll3R bets 2250
+Kaalifa folds
+M1ll3R collected 5230 from pot
+*** SUMMARY ***
+Total pot 5230 | No rake
+Board: [Jc 8s Ah]
+Seat 5: M1ll3R won 5230
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3213061387710365699-44-1708796275 - Holdem no limit (60/250/500) - 2024/02/24 17:37:55 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #1 is the button
+Seat 1: Kaalifa (18440)
+Seat 2: Mylou-85 (20345)
+Seat 3: rigoloto (17080)
+Seat 5: M1ll3R (40316)
+Seat 6: P1xel7 (43447)
+Seat 7: prisca93 (21875)
+Seat 8: MtRuShmoore (18005)
+*** ANTE/BLINDS ***
+Mylou-85 posts ante 60
+rigoloto posts ante 60
+Kaalifa posts ante 60
+M1ll3R posts ante 60
+P1xel7 posts ante 60
+prisca93 posts ante 60
+MtRuShmoore posts ante 60
+Mylou-85 posts small blind 250
+rigoloto posts big blind 500
+Dealt to P1xel7 [5c 9h]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Kaalifa raises 750 to 1250
+Mylou-85 folds
+rigoloto folds
+Kaalifa collected 2420 from pot
+*** SUMMARY ***
+Total pot 2420 | No rake
+Seat 1: Kaalifa (button) won 2420
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3213061387710365699-45-1708796302 - Holdem no limit (60/250/500) - 2024/02/24 17:38:22 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #2 is the button
+Seat 1: Kaalifa (19550)
+Seat 2: Mylou-85 (20035)
+Seat 3: rigoloto (16520)
+Seat 5: M1ll3R (40256)
+Seat 6: P1xel7 (43387)
+Seat 7: prisca93 (21815)
+Seat 8: MtRuShmoore (17945)
+*** ANTE/BLINDS ***
+rigoloto posts ante 60
+M1ll3R posts ante 60
+Kaalifa posts ante 60
+Mylou-85 posts ante 60
+P1xel7 posts ante 60
+prisca93 posts ante 60
+MtRuShmoore posts ante 60
+rigoloto posts small blind 250
+M1ll3R posts big blind 500
+Dealt to P1xel7 [Kc As]
+*** PRE-FLOP *** 
+P1xel7 raises 750 to 1250
+prisca93 folds
+MtRuShmoore folds
+Kaalifa raises 2500 to 3750
+Mylou-85 folds
+rigoloto folds
+M1ll3R folds
+P1xel7 calls 2500
+*** FLOP *** [Jh 5d Qd]
+P1xel7 checks
+Kaalifa bets 3035
+P1xel7 calls 3035
+*** TURN *** [Jh 5d Qd][3d]
+P1xel7 checks
+Kaalifa checks
+*** RIVER *** [Jh 5d Qd 3d][4h]
+P1xel7 bets 7370
+Kaalifa folds
+P1xel7 collected 22110 from pot
+*** SUMMARY ***
+Total pot 22110 | No rake
+Board: [Jh 5d Qd 3d 4h]
+Seat 6: P1xel7 won 22110
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3213061387710365699-46-1708796390 - Holdem no limit (60/250/500) - 2024/02/24 17:39:50 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 1: Kaalifa (12705)
+Seat 2: Mylou-85 (19975)
+Seat 3: rigoloto (16210)
+Seat 5: M1ll3R (39696)
+Seat 6: P1xel7 (51282)
+Seat 7: prisca93 (21755)
+Seat 8: MtRuShmoore (17885)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 60
+P1xel7 posts ante 60
+Kaalifa posts ante 60
+Mylou-85 posts ante 60
+rigoloto posts ante 60
+prisca93 posts ante 60
+MtRuShmoore posts ante 60
+M1ll3R posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [Ad Jd]
+*** PRE-FLOP *** 
+prisca93 folds
+MtRuShmoore folds
+Kaalifa raises 12145 to 12645 and is all-in
+Mylou-85 folds
+rigoloto folds
+M1ll3R folds
+P1xel7 calls 12145
+*** FLOP *** [2h 2d Qc]
+*** TURN *** [2h 2d Qc][6c]
+*** RIVER *** [2h 2d Qc 6c][7c]
+*** SHOW DOWN ***
+Kaalifa shows [5d Kh] (One pair : 2)
+P1xel7 shows [Ad Jd] (One pair : 2)
+P1xel7 collected 25960 from pot
+*** SUMMARY ***
+Total pot 25960 | No rake
+Board: [2h 2d Qc 6c 7c]
+Seat 1: Kaalifa showed [5d Kh] and lost with One pair : 2
+Seat 6: P1xel7 (big blind) showed [Ad Jd] and won 25960 with One pair : 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3213061387710365699-47-1708796440 - Holdem no limit (60/250/500) - 2024/02/24 17:40:40 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 2: Mylou-85 (19915)
+Seat 3: rigoloto (16150)
+Seat 5: M1ll3R (39386)
+Seat 6: P1xel7 (64537)
+Seat 7: prisca93 (21695)
+Seat 8: MtRuShmoore (17825)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+prisca93 posts ante 60
+Mylou-85 posts ante 60
+rigoloto posts ante 60
+M1ll3R posts ante 60
+MtRuShmoore posts ante 60
+P1xel7 posts small blind 250
+prisca93 posts big blind 500
+Dealt to P1xel7 [8c 6c]
+*** PRE-FLOP *** 
+MtRuShmoore raises 625 to 1125
+Mylou-85 folds
+rigoloto folds
+M1ll3R folds
+P1xel7 folds
+prisca93 calls 625
+*** FLOP *** [7c 6s Th]
+prisca93 checks
+MtRuShmoore checks
+*** TURN *** [7c 6s Th][2h]
+prisca93 checks
+MtRuShmoore checks
+*** RIVER *** [7c 6s Th 2h][Kh]
+prisca93 checks
+MtRuShmoore bets 2288
+prisca93 folds
+MtRuShmoore collected 5148 from pot
+*** SUMMARY ***
+Total pot 5148 | No rake
+Board: [7c 6s Th 2h Kh]
+Seat 8: MtRuShmoore won 5148
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3213061387710365699-48-1708796495 - Holdem no limit (70/300/600) - 2024/02/24 17:41:35 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 2: Mylou-85 (19855)
+Seat 3: rigoloto (16090)
+Seat 4: KGuy (47389)
+Seat 5: M1ll3R (39326)
+Seat 6: P1xel7 (64227)
+Seat 7: prisca93 (20510)
+Seat 8: MtRuShmoore (19500)
+*** ANTE/BLINDS ***
+prisca93 posts ante 70
+MtRuShmoore posts ante 70
+Mylou-85 posts ante 70
+rigoloto posts ante 70
+KGuy posts ante 70
+M1ll3R posts ante 70
+P1xel7 posts ante 70
+prisca93 posts small blind 300
+MtRuShmoore posts big blind 600
+Dealt to P1xel7 [8c 9h]
+*** PRE-FLOP *** 
+Mylou-85 calls 600
+rigoloto folds
+KGuy folds
+M1ll3R folds
+P1xel7 folds
+prisca93 calls 300
+MtRuShmoore raises 1800 to 2400
+Mylou-85 calls 1800
+prisca93 folds
+*** FLOP *** [2c 5s Ad]
+MtRuShmoore checks
+Mylou-85 checks
+*** TURN *** [2c 5s Ad][5c]
+MtRuShmoore checks
+Mylou-85 checks
+*** RIVER *** [2c 5s Ad 5c][9s]
+MtRuShmoore checks
+Mylou-85 checks
+*** SHOW DOWN ***
+Mylou-85 shows [Td Qs] (One pair : 5)
+MtRuShmoore shows [6h 6s] (Two pairs : 6 and 5)
+MtRuShmoore collected 5890 from pot
+*** SUMMARY ***
+Total pot 5890 | No rake
+Board: [2c 5s Ad 5c 9s]
+Seat 2: Mylou-85 showed [Td Qs] and lost with One pair : 5
+Seat 8: MtRuShmoore (big blind) showed [6h 6s] and won 5890 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3213061387710365699-49-1708796551 - Holdem no limit (70/300/600) - 2024/02/24 17:42:31 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 2: Mylou-85 (17385)
+Seat 3: rigoloto (16020)
+Seat 4: KGuy (47319)
+Seat 5: M1ll3R (39256)
+Seat 6: P1xel7 (64157)
+Seat 7: prisca93 (19840)
+Seat 8: MtRuShmoore (22920)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 70
+Mylou-85 posts ante 70
+rigoloto posts ante 70
+KGuy posts ante 70
+M1ll3R posts ante 70
+P1xel7 posts ante 70
+prisca93 posts ante 70
+MtRuShmoore posts small blind 300
+Mylou-85 posts big blind 600
+Dealt to P1xel7 [2c 2s]
+*** PRE-FLOP *** 
+rigoloto folds
+KGuy folds
+M1ll3R folds
+P1xel7 raises 900 to 1500
+prisca93 folds
+MtRuShmoore folds
+Mylou-85 folds
+P1xel7 collected 2890 from pot
+*** SUMMARY ***
+Total pot 2890 | No rake
+Seat 6: P1xel7 won 2890
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3213061387710365699-50-1708796595 - Holdem no limit (70/300/600) - 2024/02/24 17:43:15 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 2: Mylou-85 (16715)
+Seat 3: rigoloto (15950)
+Seat 4: KGuy (47249)
+Seat 5: M1ll3R (39186)
+Seat 6: P1xel7 (65477)
+Seat 7: prisca93 (19770)
+Seat 8: MtRuShmoore (22550)
+*** ANTE/BLINDS ***
+Mylou-85 posts ante 70
+rigoloto posts ante 70
+KGuy posts ante 70
+M1ll3R posts ante 70
+P1xel7 posts ante 70
+prisca93 posts ante 70
+MtRuShmoore posts ante 70
+Mylou-85 posts small blind 300
+rigoloto posts big blind 600
+Dealt to P1xel7 [2s 3c]
+*** PRE-FLOP *** 
+KGuy folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Mylou-85 folds
+rigoloto collected 1390 from pot
+*** SUMMARY ***
+Total pot 1390 | No rake
+Seat 3: rigoloto (big blind) won 1390
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3213061387710365699-51-1708796609 - Holdem no limit (70/300/600) - 2024/02/24 17:43:29 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #2 is the button
+Seat 2: Mylou-85 (16345)
+Seat 3: rigoloto (16670)
+Seat 4: KGuy (47179)
+Seat 5: M1ll3R (39116)
+Seat 6: P1xel7 (65407)
+Seat 7: prisca93 (19700)
+Seat 8: MtRuShmoore (22480)
+*** ANTE/BLINDS ***
+rigoloto posts ante 70
+KGuy posts ante 70
+Mylou-85 posts ante 70
+M1ll3R posts ante 70
+P1xel7 posts ante 70
+prisca93 posts ante 70
+MtRuShmoore posts ante 70
+rigoloto posts small blind 300
+KGuy posts big blind 600
+Dealt to P1xel7 [7c 9s]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 folds
+prisca93 raises 600 to 1200
+MtRuShmoore calls 1200
+Mylou-85 folds
+rigoloto folds
+KGuy folds
+*** FLOP *** [9h 7d 5c]
+prisca93 checks
+MtRuShmoore checks
+*** TURN *** [9h 7d 5c][6d]
+prisca93 checks
+MtRuShmoore bets 2464
+prisca93 folds
+MtRuShmoore collected 6254 from pot
+*** SUMMARY ***
+Total pot 6254 | No rake
+Board: [9h 7d 5c 6d]
+Seat 8: MtRuShmoore won 6254
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3213061387710365699-52-1708796648 - Holdem no limit (70/300/600) - 2024/02/24 17:44:08 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 2: Mylou-85 (16275)
+Seat 3: rigoloto (16300)
+Seat 4: KGuy (46509)
+Seat 5: M1ll3R (39046)
+Seat 6: P1xel7 (65337)
+Seat 7: prisca93 (18430)
+Seat 8: MtRuShmoore (25000)
+*** ANTE/BLINDS ***
+KGuy posts ante 70
+M1ll3R posts ante 70
+Mylou-85 posts ante 70
+rigoloto posts ante 70
+P1xel7 posts ante 70
+prisca93 posts ante 70
+MtRuShmoore posts ante 70
+KGuy posts small blind 300
+M1ll3R posts big blind 600
+Dealt to P1xel7 [7h Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Mylou-85 calls 600
+rigoloto folds
+KGuy calls 300
+M1ll3R checks
+*** FLOP *** [Th 7c 4d]
+KGuy checks
+M1ll3R checks
+Mylou-85 bets 802
+KGuy folds
+M1ll3R folds
+Mylou-85 collected 3092 from pot
+*** SUMMARY ***
+Total pot 3092 | No rake
+Board: [Th 7c 4d]
+Seat 2: Mylou-85 won 3092
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3213061387710365699-53-1708796709 - Holdem no limit (70/300/600) - 2024/02/24 17:45:09 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #4 is the button
+Seat 1: lutin91 (20000)
+Seat 2: Mylou-85 (17895)
+Seat 3: rigoloto (16230)
+Seat 4: KGuy (45839)
+Seat 5: M1ll3R (38376)
+Seat 6: P1xel7 (65267)
+Seat 7: prisca93 (18360)
+Seat 8: MtRuShmoore (24930)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 70
+P1xel7 posts ante 70
+lutin91 posts ante 70
+Mylou-85 posts ante 70
+rigoloto posts ante 70
+KGuy posts ante 70
+prisca93 posts ante 70
+MtRuShmoore posts ante 70
+M1ll3R posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [3s 2d]
+*** PRE-FLOP *** 
+prisca93 folds
+MtRuShmoore folds
+lutin91 calls 600
+Mylou-85 folds
+rigoloto folds
+KGuy folds
+M1ll3R calls 300
+P1xel7 checks
+*** FLOP *** [Th 5s 3c]
+M1ll3R bets 2053
+P1xel7 calls 2053
+lutin91 folds
+*** TURN *** [Th 5s 3c][4d]
+M1ll3R bets 5625
+P1xel7 folds
+M1ll3R collected 12091 from pot
+*** SUMMARY ***
+Total pot 12091 | No rake
+Board: [Th 5s 3c 4d]
+Seat 5: M1ll3R (small blind) won 12091
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3213061387710365699-54-1708796770 - Holdem no limit (80/350/700) - 2024/02/24 17:46:10 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 1: lutin91 (19330)
+Seat 2: Mylou-85 (17825)
+Seat 3: rigoloto (16160)
+Seat 4: KGuy (45769)
+Seat 5: M1ll3R (42119)
+Seat 6: P1xel7 (62544)
+Seat 7: prisca93 (18290)
+Seat 8: MtRuShmoore (24860)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+prisca93 posts ante 80
+lutin91 posts ante 80
+Mylou-85 posts ante 80
+rigoloto posts ante 80
+KGuy posts ante 80
+M1ll3R posts ante 80
+MtRuShmoore posts ante 80
+P1xel7 posts small blind 350
+prisca93 posts big blind 700
+Dealt to P1xel7 [4h 7c]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+lutin91 folds
+Mylou-85 folds
+rigoloto folds
+KGuy folds
+M1ll3R folds
+P1xel7 folds
+prisca93 collected 1690 from pot
+*** SUMMARY ***
+Total pot 1690 | No rake
+Seat 7: prisca93 (big blind) won 1690
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3213061387710365699-55-1708796791 - Holdem no limit (80/350/700) - 2024/02/24 17:46:31 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 1: lutin91 (19250)
+Seat 2: Mylou-85 (17745)
+Seat 3: rigoloto (16080)
+Seat 4: KGuy (45689)
+Seat 5: M1ll3R (42039)
+Seat 6: P1xel7 (62114)
+Seat 7: prisca93 (19200)
+Seat 8: MtRuShmoore (24780)
+*** ANTE/BLINDS ***
+prisca93 posts ante 80
+MtRuShmoore posts ante 80
+lutin91 posts ante 80
+Mylou-85 posts ante 80
+rigoloto posts ante 80
+KGuy posts ante 80
+M1ll3R posts ante 80
+P1xel7 posts ante 80
+prisca93 posts small blind 350
+MtRuShmoore posts big blind 700
+Dealt to P1xel7 [4d 3c]
+*** PRE-FLOP *** 
+lutin91 folds
+Mylou-85 folds
+rigoloto folds
+KGuy folds
+M1ll3R folds
+P1xel7 folds
+prisca93 raises 1400 to 2100
+MtRuShmoore folds
+prisca93 collected 3440 from pot
+*** SUMMARY ***
+Total pot 3440 | No rake
+Seat 7: prisca93 (small blind) won 3440
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3213061387710365699-56-1708796835 - Holdem no limit (80/350/700) - 2024/02/24 17:47:15 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 1: lutin91 (19170)
+Seat 2: Mylou-85 (17665)
+Seat 3: rigoloto (16000)
+Seat 4: KGuy (45609)
+Seat 5: M1ll3R (41959)
+Seat 6: P1xel7 (62034)
+Seat 7: prisca93 (20460)
+Seat 8: MtRuShmoore (24000)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 80
+lutin91 posts ante 80
+Mylou-85 posts ante 80
+rigoloto posts ante 80
+KGuy posts ante 80
+M1ll3R posts ante 80
+P1xel7 posts ante 80
+prisca93 posts ante 80
+MtRuShmoore posts small blind 350
+lutin91 posts big blind 700
+Dealt to P1xel7 [5h 7s]
+*** PRE-FLOP *** 
+Mylou-85 calls 700
+rigoloto folds
+KGuy folds
+M1ll3R folds
+P1xel7 folds
+prisca93 raises 1050 to 1750
+MtRuShmoore folds
+lutin91 folds
+Mylou-85 folds
+prisca93 collected 4140 from pot
+*** SUMMARY ***
+Total pot 4140 | No rake
+Seat 7: prisca93 (button) won 4140
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3213061387710365699-57-1708796872 - Holdem no limit (80/350/700) - 2024/02/24 17:47:52 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 1: lutin91 (18390)
+Seat 2: Mylou-85 (16885)
+Seat 3: rigoloto (15920)
+Seat 4: KGuy (45529)
+Seat 5: M1ll3R (41879)
+Seat 6: P1xel7 (61954)
+Seat 7: prisca93 (22770)
+Seat 8: MtRuShmoore (23570)
+*** ANTE/BLINDS ***
+lutin91 posts ante 80
+Mylou-85 posts ante 80
+rigoloto posts ante 80
+KGuy posts ante 80
+M1ll3R posts ante 80
+P1xel7 posts ante 80
+prisca93 posts ante 80
+MtRuShmoore posts ante 80
+lutin91 posts small blind 350
+Mylou-85 posts big blind 700
+Dealt to P1xel7 [Kh Jc]
+*** PRE-FLOP *** 
+rigoloto folds
+KGuy raises 875 to 1575
+M1ll3R folds
+P1xel7 calls 1575
+prisca93 folds
+MtRuShmoore folds
+lutin91 calls 1225
+Mylou-85 folds
+*** FLOP *** [4c 9d 3d]
+lutin91 checks
+KGuy bets 3942
+P1xel7 folds
+lutin91 folds
+KGuy collected 10007 from pot
+*** SUMMARY ***
+Total pot 10007 | No rake
+Board: [4c 9d 3d]
+Seat 4: KGuy won 10007
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3213061387710365699-58-1708796922 - Holdem no limit (80/350/700) - 2024/02/24 17:48:42 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #1 is the button
+Seat 1: lutin91 (16735)
+Seat 2: Mylou-85 (16105)
+Seat 3: rigoloto (15840)
+Seat 4: KGuy (49939)
+Seat 5: M1ll3R (41799)
+Seat 6: P1xel7 (60299)
+Seat 7: prisca93 (22690)
+Seat 8: MtRuShmoore (23490)
+*** ANTE/BLINDS ***
+Mylou-85 posts ante 80
+rigoloto posts ante 80
+lutin91 posts ante 80
+KGuy posts ante 80
+M1ll3R posts ante 80
+P1xel7 posts ante 80
+prisca93 posts ante 80
+MtRuShmoore posts ante 80
+Mylou-85 posts small blind 350
+rigoloto posts big blind 700
+Dealt to P1xel7 [2d 6c]
+*** PRE-FLOP *** 
+KGuy folds
+M1ll3R folds
+P1xel7 folds
+prisca93 calls 700
+MtRuShmoore folds
+lutin91 folds
+Mylou-85 folds
+rigoloto checks
+*** FLOP *** [Jd 6s 8s]
+rigoloto checks
+prisca93 checks
+*** TURN *** [Jd 6s 8s][3h]
+rigoloto checks
+prisca93 bets 700
+rigoloto folds
+prisca93 collected 3090 from pot
+*** SUMMARY ***
+Total pot 3090 | No rake
+Board: [Jd 6s 8s 3h]
+Seat 7: prisca93 won 3090
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3213061387710365699-59-1708796966 - Holdem no limit (80/350/700) - 2024/02/24 17:49:26 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #2 is the button
+Seat 1: lutin91 (16655)
+Seat 2: Mylou-85 (15675)
+Seat 3: rigoloto (15060)
+Seat 4: KGuy (49859)
+Seat 5: M1ll3R (41719)
+Seat 6: P1xel7 (60219)
+Seat 7: prisca93 (24300)
+Seat 8: MtRuShmoore (23410)
+*** ANTE/BLINDS ***
+rigoloto posts ante 80
+KGuy posts ante 80
+lutin91 posts ante 80
+Mylou-85 posts ante 80
+M1ll3R posts ante 80
+P1xel7 posts ante 80
+prisca93 posts ante 80
+MtRuShmoore posts ante 80
+rigoloto posts small blind 350
+KGuy posts big blind 700
+Dealt to P1xel7 [3h Ac]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+lutin91 folds
+Mylou-85 folds
+rigoloto folds
+KGuy collected 1690 from pot
+*** SUMMARY ***
+Total pot 1690 | No rake
+Seat 4: KGuy (big blind) won 1690
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3213061387710365699-60-1708796996 - Holdem no limit (80/350/700) - 2024/02/24 17:49:56 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 1: lutin91 (16575)
+Seat 2: Mylou-85 (15595)
+Seat 3: rigoloto (14630)
+Seat 4: KGuy (50769)
+Seat 5: M1ll3R (41639)
+Seat 6: P1xel7 (60139)
+Seat 7: prisca93 (24220)
+Seat 8: MtRuShmoore (23330)
+*** ANTE/BLINDS ***
+KGuy posts ante 80
+M1ll3R posts ante 80
+lutin91 posts ante 80
+Mylou-85 posts ante 80
+rigoloto posts ante 80
+P1xel7 posts ante 80
+prisca93 posts ante 80
+MtRuShmoore posts ante 80
+KGuy posts small blind 350
+M1ll3R posts big blind 700
+Dealt to P1xel7 [2c Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+prisca93 calls 700
+MtRuShmoore folds
+lutin91 folds
+Mylou-85 calls 700
+rigoloto folds
+KGuy raises 3440 to 4140
+M1ll3R folds
+prisca93 folds
+Mylou-85 raises 11375 to 15515 and is all-in
+KGuy calls 11375
+*** FLOP *** [5c Qc 9d]
+*** TURN *** [5c Qc 9d][3d]
+*** RIVER *** [5c Qc 9d 3d][9s]
+*** SHOW DOWN ***
+KGuy shows [8c 8d] (Two pairs : 9 and 8)
+Mylou-85 shows [Qd Td] (Two pairs : Queens and 9)
+Mylou-85 collected 33070 from pot
+*** SUMMARY ***
+Total pot 33070 | No rake
+Board: [5c Qc 9d 3d 9s]
+Seat 2: Mylou-85 showed [Qd Td] and won 33070 with Two pairs : Queens and 9
+Seat 4: KGuy (small blind) showed [8c 8d] and lost with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3213061387710365699-61-1708797049 - Holdem no limit (80/350/700) - 2024/02/24 17:50:49 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #4 is the button
+Seat 1: lutin91 (16495)
+Seat 2: Mylou-85 (33070)
+Seat 3: rigoloto (14550)
+Seat 4: KGuy (35174)
+Seat 5: M1ll3R (40859)
+Seat 6: P1xel7 (60059)
+Seat 7: prisca93 (23440)
+Seat 8: MtRuShmoore (23250)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 80
+P1xel7 posts ante 80
+lutin91 posts ante 80
+Mylou-85 posts ante 80
+rigoloto posts ante 80
+KGuy posts ante 80
+prisca93 posts ante 80
+MtRuShmoore posts ante 80
+M1ll3R posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [5s Kc]
+*** PRE-FLOP *** 
+prisca93 folds
+MtRuShmoore folds
+lutin91 calls 700
+Mylou-85 folds
+rigoloto folds
+KGuy calls 700
+M1ll3R folds
+P1xel7 checks
+*** FLOP *** [6c 4d 3d]
+P1xel7 checks
+lutin91 checks
+KGuy bets 1082
+P1xel7 calls 1082
+lutin91 folds
+*** TURN *** [6c 4d 3d][8d]
+P1xel7 checks
+KGuy bets 3415
+P1xel7 folds
+KGuy collected 8669 from pot
+*** SUMMARY ***
+Total pot 8669 | No rake
+Board: [6c 4d 3d 8d]
+Seat 4: KGuy (button) won 8669
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3213061387710365699-62-1708797110 - Holdem no limit (100/400/800) - 2024/02/24 17:51:50 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 1: lutin91 (15715)
+Seat 2: Mylou-85 (32990)
+Seat 3: rigoloto (14470)
+Seat 4: KGuy (38566)
+Seat 5: M1ll3R (40429)
+Seat 6: P1xel7 (58197)
+Seat 7: prisca93 (23360)
+Seat 8: MtRuShmoore (23170)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+prisca93 posts ante 100
+lutin91 posts ante 100
+Mylou-85 posts ante 100
+rigoloto posts ante 100
+KGuy posts ante 100
+M1ll3R posts ante 100
+MtRuShmoore posts ante 100
+P1xel7 posts small blind 400
+prisca93 posts big blind 800
+Dealt to P1xel7 [Td 6s]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+lutin91 folds
+Mylou-85 folds
+rigoloto folds
+KGuy raises 1000 to 1800
+M1ll3R raises 3600 to 5400
+P1xel7 folds
+prisca93 folds
+KGuy folds
+M1ll3R collected 9200 from pot
+*** SUMMARY ***
+Total pot 9200 | No rake
+Seat 5: M1ll3R (button) won 9200
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3213061387710365699-63-1708797146 - Holdem no limit (100/400/800) - 2024/02/24 17:52:26 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 2: Mylou-85 (32890)
+Seat 3: rigoloto (14370)
+Seat 4: KGuy (36666)
+Seat 5: M1ll3R (44129)
+Seat 6: P1xel7 (57697)
+Seat 7: prisca93 (22460)
+Seat 8: MtRuShmoore (23070)
+*** ANTE/BLINDS ***
+prisca93 posts ante 100
+MtRuShmoore posts ante 100
+Mylou-85 posts ante 100
+rigoloto posts ante 100
+KGuy posts ante 100
+M1ll3R posts ante 100
+P1xel7 posts ante 100
+prisca93 posts small blind 400
+MtRuShmoore posts big blind 800
+Dealt to P1xel7 [7d Th]
+*** PRE-FLOP *** 
+Mylou-85 folds
+rigoloto folds
+KGuy raises 1000 to 1800
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+KGuy collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Seat 4: KGuy won 3700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3213061387710365699-64-1708797178 - Holdem no limit (100/400/800) - 2024/02/24 17:52:58 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 2: Mylou-85 (32790)
+Seat 3: rigoloto (14270)
+Seat 4: KGuy (38466)
+Seat 5: M1ll3R (44029)
+Seat 6: P1xel7 (57597)
+Seat 7: prisca93 (21960)
+Seat 8: MtRuShmoore (22170)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 100
+Mylou-85 posts ante 100
+rigoloto posts ante 100
+KGuy posts ante 100
+M1ll3R posts ante 100
+P1xel7 posts ante 100
+prisca93 posts ante 100
+MtRuShmoore posts small blind 400
+Mylou-85 posts big blind 800
+Dealt to P1xel7 [Kd 6c]
+*** PRE-FLOP *** 
+rigoloto folds
+KGuy folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Mylou-85 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 2: Mylou-85 (big blind) won 1900
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3213061387710365699-65-1708797191 - Holdem no limit (100/400/800) - 2024/02/24 17:53:11 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 2: Mylou-85 (33790)
+Seat 3: rigoloto (14170)
+Seat 4: KGuy (38366)
+Seat 5: M1ll3R (43929)
+Seat 6: P1xel7 (57497)
+Seat 7: prisca93 (21860)
+Seat 8: MtRuShmoore (21670)
+*** ANTE/BLINDS ***
+Mylou-85 posts ante 100
+rigoloto posts ante 100
+KGuy posts ante 100
+M1ll3R posts ante 100
+P1xel7 posts ante 100
+prisca93 posts ante 100
+MtRuShmoore posts ante 100
+Mylou-85 posts small blind 400
+rigoloto posts big blind 800
+Dealt to P1xel7 [8d 4d]
+*** PRE-FLOP *** 
+KGuy folds
+M1ll3R folds
+P1xel7 folds
+prisca93 calls 800
+MtRuShmoore folds
+Mylou-85 folds
+rigoloto checks
+*** FLOP *** [2d 8h Ac]
+rigoloto checks
+prisca93 bets 800
+rigoloto folds
+prisca93 collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | No rake
+Board: [2d 8h Ac]
+Seat 7: prisca93 won 3500
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3213061387710365699-66-1708797216 - Holdem no limit (100/400/800) - 2024/02/24 17:53:36 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #2 is the button
+Seat 2: Mylou-85 (33290)
+Seat 3: rigoloto (13270)
+Seat 4: KGuy (38266)
+Seat 5: M1ll3R (43829)
+Seat 6: P1xel7 (57397)
+Seat 7: prisca93 (23660)
+Seat 8: MtRuShmoore (21570)
+*** ANTE/BLINDS ***
+rigoloto posts ante 100
+KGuy posts ante 100
+Mylou-85 posts ante 100
+M1ll3R posts ante 100
+P1xel7 posts ante 100
+prisca93 posts ante 100
+MtRuShmoore posts ante 100
+rigoloto posts small blind 400
+KGuy posts big blind 800
+Dealt to P1xel7 [4s 5h]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Mylou-85 folds
+rigoloto folds
+KGuy collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 4: KGuy (big blind) won 1900
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3213061387710365699-67-1708797243 - Holdem no limit (100/400/800) - 2024/02/24 17:54:03 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 2: Mylou-85 (33190)
+Seat 3: rigoloto (12770)
+Seat 4: KGuy (39266)
+Seat 5: M1ll3R (43729)
+Seat 6: P1xel7 (57297)
+Seat 7: prisca93 (23560)
+Seat 8: MtRuShmoore (21470)
+*** ANTE/BLINDS ***
+KGuy posts ante 100
+M1ll3R posts ante 100
+Mylou-85 posts ante 100
+rigoloto posts ante 100
+P1xel7 posts ante 100
+prisca93 posts ante 100
+MtRuShmoore posts ante 100
+KGuy posts small blind 400
+M1ll3R posts big blind 800
+Dealt to P1xel7 [Td 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Mylou-85 folds
+rigoloto folds
+KGuy folds
+M1ll3R collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 5: M1ll3R (big blind) won 1900
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3213061387710365699-68-1708797271 - Holdem no limit (100/400/800) - 2024/02/24 17:54:31 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #4 is the button
+Seat 2: Mylou-85 (33090)
+Seat 3: rigoloto (12670)
+Seat 4: KGuy (38766)
+Seat 5: M1ll3R (44729)
+Seat 6: P1xel7 (57197)
+Seat 7: prisca93 (23460)
+Seat 8: MtRuShmoore (21370)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 100
+P1xel7 posts ante 100
+Mylou-85 posts ante 100
+rigoloto posts ante 100
+KGuy posts ante 100
+prisca93 posts ante 100
+MtRuShmoore posts ante 100
+M1ll3R posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [Ts 3c]
+*** PRE-FLOP *** 
+prisca93 folds
+MtRuShmoore folds
+Mylou-85 folds
+rigoloto folds
+KGuy raises 1000 to 1800
+M1ll3R folds
+P1xel7 folds
+KGuy collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Seat 4: KGuy (button) won 3700
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3213061387710365699-69-1708797296 - Holdem no limit (100/400/800) - 2024/02/24 17:54:56 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 2: Mylou-85 (32990)
+Seat 3: rigoloto (12570)
+Seat 4: KGuy (40566)
+Seat 5: M1ll3R (44229)
+Seat 6: P1xel7 (56297)
+Seat 7: prisca93 (23360)
+Seat 8: MtRuShmoore (21270)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+prisca93 posts ante 100
+Mylou-85 posts ante 100
+rigoloto posts ante 100
+KGuy posts ante 100
+M1ll3R posts ante 100
+MtRuShmoore posts ante 100
+P1xel7 posts small blind 400
+prisca93 posts big blind 800
+Dealt to P1xel7 [5h Kh]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+Mylou-85 folds
+rigoloto folds
+KGuy folds
+M1ll3R raises 800 to 1600
+P1xel7 folds
+prisca93 calls 800
+*** FLOP *** [Jh 6h Qd]
+prisca93 checks
+M1ll3R checks
+*** TURN *** [Jh 6h Qd][3s]
+prisca93 checks
+M1ll3R bets 3741
+prisca93 folds
+M1ll3R collected 8041 from pot
+*** SUMMARY ***
+Total pot 8041 | No rake
+Board: [Jh 6h Qd 3s]
+Seat 5: M1ll3R (button) won 8041
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3213061387710365699-70-1708797660 - Holdem no limit (100/400/800) - 2024/02/24 18:01:00 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 1: mafioso27 (20000)
+Seat 2: Mylou-85 (32890)
+Seat 3: rigoloto (12470)
+Seat 4: KGuy (40466)
+Seat 5: M1ll3R (46829)
+Seat 6: P1xel7 (55797)
+Seat 7: prisca93 (21660)
+Seat 8: MtRuShmoore (21170)
+*** ANTE/BLINDS ***
+prisca93 posts ante 100
+MtRuShmoore posts ante 100
+mafioso27 posts ante 100
+Mylou-85 posts ante 100
+rigoloto posts ante 100
+KGuy posts ante 100
+M1ll3R posts ante 100
+P1xel7 posts ante 100
+prisca93 posts small blind 400
+MtRuShmoore posts big blind 800
+Dealt to P1xel7 [Jd 5h]
+*** PRE-FLOP *** 
+mafioso27 folds
+Mylou-85 folds
+rigoloto folds
+KGuy folds
+M1ll3R raises 800 to 1600
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+M1ll3R collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 5: M1ll3R won 3600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3213061387710365699-71-1708797733 - Holdem no limit (120/500/1000) - 2024/02/24 18:02:13 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 1: mafioso27 (19900)
+Seat 3: rigoloto (12370)
+Seat 4: KGuy (40366)
+Seat 5: M1ll3R (48729)
+Seat 6: P1xel7 (55697)
+Seat 7: prisca93 (21160)
+Seat 8: MtRuShmoore (20270)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 120
+mafioso27 posts ante 120
+rigoloto posts ante 120
+KGuy posts ante 120
+M1ll3R posts ante 120
+P1xel7 posts ante 120
+prisca93 posts ante 120
+MtRuShmoore posts small blind 500
+mafioso27 posts big blind 1000
+Dealt to P1xel7 [4h 8d]
+*** PRE-FLOP *** 
+rigoloto folds
+KGuy folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore calls 500
+mafioso27 raises 18780 to 19780 and is all-in
+MtRuShmoore folds
+mafioso27 collected 21620 from pot
+*** SUMMARY ***
+Total pot 21620 | No rake
+Seat 1: mafioso27 (big blind) won 21620
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3213061387710365699-72-1708797795 - Holdem no limit (120/500/1000) - 2024/02/24 18:03:15 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 1: mafioso27 (21620)
+Seat 2: neneloe84 (20000)
+Seat 4: KGuy (40246)
+Seat 5: M1ll3R (48609)
+Seat 6: P1xel7 (55577)
+Seat 7: prisca93 (21040)
+Seat 8: MtRuShmoore (19150)
+*** ANTE/BLINDS ***
+mafioso27 posts ante 120
+neneloe84 posts ante 120
+KGuy posts ante 120
+M1ll3R posts ante 120
+P1xel7 posts ante 120
+prisca93 posts ante 120
+MtRuShmoore posts ante 120
+mafioso27 posts small blind 500
+neneloe84 posts big blind 1000
+Dealt to P1xel7 [4h 5s]
+*** PRE-FLOP *** 
+KGuy folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 calls 500
+neneloe84 checks
+*** FLOP *** [Ts 4s Qs]
+mafioso27 checks
+neneloe84 checks
+*** TURN *** [Ts 4s Qs][8d]
+mafioso27 bets 1000
+neneloe84 calls 1000
+*** RIVER *** [Ts 4s Qs 8d][Td]
+mafioso27 bets 1694
+neneloe84 calls 1694
+*** SHOW DOWN ***
+neneloe84 shows [8c Kc] (Two pairs : Tens and 8)
+mafioso27 shows [9d Js] (Straight Queen high)
+mafioso27 collected 8228 from pot
+*** SUMMARY ***
+Total pot 8228 | No rake
+Board: [Ts 4s Qs 8d Td]
+Seat 1: mafioso27 (small blind) showed [9d Js] and won 8228 with Straight Queen high
+Seat 2: neneloe84 (big blind) showed [8c Kc] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3213061387710365699-73-1708797857 - Holdem no limit (120/500/1000) - 2024/02/24 18:04:17 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #1 is the button
+Seat 1: mafioso27 (26034)
+Seat 2: neneloe84 (16186)
+Seat 3: labet defold (20000)
+Seat 5: M1ll3R (48489)
+Seat 6: P1xel7 (55457)
+Seat 7: prisca93 (20920)
+Seat 8: MtRuShmoore (19030)
+*** ANTE/BLINDS ***
+neneloe84 posts ante 120
+labet defold posts ante 120
+mafioso27 posts ante 120
+M1ll3R posts ante 120
+P1xel7 posts ante 120
+prisca93 posts ante 120
+MtRuShmoore posts ante 120
+neneloe84 posts small blind 500
+labet defold posts big blind 1000
+Dealt to P1xel7 [4h 4s]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 raises 1500 to 2500
+prisca93 folds
+MtRuShmoore folds
+mafioso27 folds
+neneloe84 calls 2000
+labet defold folds
+*** FLOP *** [5c 3s Tc]
+neneloe84 checks
+P1xel7 bets 1500
+neneloe84 calls 1500
+*** TURN *** [5c 3s Tc][3h]
+neneloe84 checks
+P1xel7 bets 5500
+neneloe84 calls 5500
+*** RIVER *** [5c 3s Tc 3h][7d]
+neneloe84 checks
+P1xel7 bets 45837 and is all-in
+neneloe84 folds
+P1xel7 collected 66677 from pot
+*** SUMMARY ***
+Total pot 66677 | No rake
+Board: [5c 3s Tc 3h 7d]
+Seat 6: P1xel7 won 66677
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3213061387710365699-74-1708797936 - Holdem no limit (120/500/1000) - 2024/02/24 18:05:36 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #2 is the button
+Seat 1: mafioso27 (25914)
+Seat 2: neneloe84 (6566)
+Seat 3: labet defold (18880)
+Seat 4: MeACulp-A (20000)
+Seat 5: M1ll3R (48369)
+Seat 6: P1xel7 (66677)
+Seat 7: prisca93 (20800)
+Seat 8: MtRuShmoore (18910)
+*** ANTE/BLINDS ***
+labet defold posts ante 120
+MeACulp-A posts ante 120
+mafioso27 posts ante 120
+neneloe84 posts ante 120
+M1ll3R posts ante 120
+P1xel7 posts ante 120
+prisca93 posts ante 120
+MtRuShmoore posts ante 120
+labet defold posts small blind 500
+MeACulp-A posts big blind 1000
+Dealt to P1xel7 [9c 8h]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 raises 24794 to 25794 and is all-in
+neneloe84 calls 6446 and is all-in
+labet defold folds
+MeACulp-A folds
+*** FLOP *** [4s 3c 7s]
+*** TURN *** [4s 3c 7s][As]
+*** RIVER *** [4s 3c 7s As][7h]
+*** SHOW DOWN ***
+mafioso27 shows [Ks Kh] (Two pairs : Kings and 7)
+neneloe84 shows [Kd Ac] (Two pairs : Aces and 7)
+neneloe84 collected 15352 from main pot
+mafioso27 collected 19348 from side pot 1
+*** SUMMARY ***
+Total pot 34700 | No rake
+Board: [4s 3c 7s As 7h]
+Seat 1: mafioso27 showed [Ks Kh] and won 19348 with Two pairs : Kings and 7
+Seat 2: neneloe84 (button) showed [Kd Ac] and won 15352 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3213061387710365699-75-1708797976 - Holdem no limit (120/500/1000) - 2024/02/24 18:06:16 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 1: mafioso27 (19348)
+Seat 2: neneloe84 (15352)
+Seat 3: labet defold (18260)
+Seat 4: MeACulp-A (18880)
+Seat 5: M1ll3R (48249)
+Seat 6: P1xel7 (66557)
+Seat 7: prisca93 (20680)
+Seat 8: MtRuShmoore (18790)
+*** ANTE/BLINDS ***
+MeACulp-A posts ante 120
+M1ll3R posts ante 120
+mafioso27 posts ante 120
+neneloe84 posts ante 120
+labet defold posts ante 120
+P1xel7 posts ante 120
+prisca93 posts ante 120
+MtRuShmoore posts ante 120
+MeACulp-A posts small blind 500
+M1ll3R posts big blind 1000
+Dealt to P1xel7 [8c 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 folds
+neneloe84 calls 1000
+labet defold folds
+MeACulp-A folds
+M1ll3R raises 47129 to 48129 and is all-in
+neneloe84 folds
+M1ll3R collected 50589 from pot
+*** SUMMARY ***
+Total pot 50589 | No rake
+Seat 5: M1ll3R (big blind) won 50589
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3213061387710365699-76-1708798023 - Holdem no limit (140/600/1200) - 2024/02/24 18:07:03 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #4 is the button
+Seat 1: mafioso27 (19228)
+Seat 2: neneloe84 (14232)
+Seat 3: labet defold (18140)
+Seat 4: MeACulp-A (18260)
+Seat 5: M1ll3R (50589)
+Seat 6: P1xel7 (66437)
+Seat 7: prisca93 (20560)
+Seat 8: MtRuShmoore (18670)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 140
+P1xel7 posts ante 140
+mafioso27 posts ante 140
+neneloe84 posts ante 140
+labet defold posts ante 140
+MeACulp-A posts ante 140
+prisca93 posts ante 140
+MtRuShmoore posts ante 140
+M1ll3R posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [7c Qd]
+*** PRE-FLOP *** 
+prisca93 folds
+MtRuShmoore folds
+mafioso27 raises 17888 to 19088 and is all-in
+neneloe84 folds
+labet defold folds
+MeACulp-A folds
+M1ll3R folds
+P1xel7 folds
+mafioso27 collected 22008 from pot
+*** SUMMARY ***
+Total pot 22008 | No rake
+Seat 1: mafioso27 won 22008
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3213061387710365699-77-1708798051 - Holdem no limit (140/600/1200) - 2024/02/24 18:07:31 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 1: mafioso27 (22008)
+Seat 2: neneloe84 (14092)
+Seat 3: labet defold (18000)
+Seat 4: MeACulp-A (18120)
+Seat 5: M1ll3R (49849)
+Seat 6: P1xel7 (65097)
+Seat 7: prisca93 (20420)
+Seat 8: MtRuShmoore (18530)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+prisca93 posts ante 140
+mafioso27 posts ante 140
+neneloe84 posts ante 140
+labet defold posts ante 140
+MeACulp-A posts ante 140
+M1ll3R posts ante 140
+MtRuShmoore posts ante 140
+P1xel7 posts small blind 600
+prisca93 posts big blind 1200
+Dealt to P1xel7 [2d 3h]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+mafioso27 folds
+neneloe84 folds
+labet defold calls 1200
+MeACulp-A raises 16780 to 17980 and is all-in
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+labet defold folds
+MeACulp-A collected 22100 from pot
+*** SUMMARY ***
+Total pot 22100 | No rake
+Seat 4: MeACulp-A won 22100
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3213061387710365699-78-1708798084 - Holdem no limit (140/600/1200) - 2024/02/24 18:08:04 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 1: mafioso27 (21868)
+Seat 2: neneloe84 (13952)
+Seat 3: labet defold (16660)
+Seat 4: MeACulp-A (22100)
+Seat 5: M1ll3R (49709)
+Seat 6: P1xel7 (64357)
+Seat 7: prisca93 (19080)
+Seat 8: MtRuShmoore (18390)
+*** ANTE/BLINDS ***
+prisca93 posts ante 140
+MtRuShmoore posts ante 140
+mafioso27 posts ante 140
+neneloe84 posts ante 140
+labet defold posts ante 140
+MeACulp-A posts ante 140
+M1ll3R posts ante 140
+P1xel7 posts ante 140
+prisca93 posts small blind 600
+MtRuShmoore posts big blind 1200
+Dealt to P1xel7 [Qh 3c]
+*** PRE-FLOP *** 
+mafioso27 folds
+neneloe84 calls 1200
+labet defold folds
+MeACulp-A calls 1200
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore checks
+*** FLOP *** [Td Ks Tc]
+MtRuShmoore checks
+neneloe84 checks
+MeACulp-A checks
+*** TURN *** [Td Ks Tc][Ah]
+MtRuShmoore checks
+neneloe84 checks
+MeACulp-A bets 3458
+MtRuShmoore folds
+neneloe84 folds
+MeACulp-A collected 8778 from pot
+*** SUMMARY ***
+Total pot 8778 | No rake
+Board: [Td Ks Tc Ah]
+Seat 4: MeACulp-A won 8778
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3213061387710365699-79-1708798159 - Holdem no limit (140/600/1200) - 2024/02/24 18:09:19 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 1: mafioso27 (21728)
+Seat 2: neneloe84 (12612)
+Seat 3: labet defold (16520)
+Seat 4: MeACulp-A (26080)
+Seat 5: M1ll3R (49569)
+Seat 6: P1xel7 (64217)
+Seat 7: prisca93 (18340)
+Seat 8: MtRuShmoore (17050)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 140
+mafioso27 posts ante 140
+neneloe84 posts ante 140
+labet defold posts ante 140
+MeACulp-A posts ante 140
+M1ll3R posts ante 140
+P1xel7 posts ante 140
+prisca93 posts ante 140
+MtRuShmoore posts small blind 600
+mafioso27 posts big blind 1200
+Dealt to P1xel7 [7c Tc]
+*** PRE-FLOP *** 
+neneloe84 calls 1200
+labet defold folds
+MeACulp-A folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore raises 15710 to 16910 and is all-in
+mafioso27 folds
+neneloe84 folds
+MtRuShmoore collected 20430 from pot
+*** SUMMARY ***
+Total pot 20430 | No rake
+Seat 8: MtRuShmoore (small blind) won 20430
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3213061387710365699-80-1708798189 - Holdem no limit (140/600/1200) - 2024/02/24 18:09:49 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 1: mafioso27 (20388)
+Seat 2: neneloe84 (11272)
+Seat 3: labet defold (16380)
+Seat 4: MeACulp-A (25940)
+Seat 5: M1ll3R (49429)
+Seat 6: P1xel7 (64077)
+Seat 7: prisca93 (18200)
+Seat 8: MtRuShmoore (20430)
+*** ANTE/BLINDS ***
+mafioso27 posts ante 140
+neneloe84 posts ante 140
+labet defold posts ante 140
+MeACulp-A posts ante 140
+M1ll3R posts ante 140
+P1xel7 posts ante 140
+prisca93 posts ante 140
+MtRuShmoore posts ante 140
+mafioso27 posts small blind 600
+neneloe84 posts big blind 1200
+Dealt to P1xel7 [7c 4h]
+*** PRE-FLOP *** 
+labet defold folds
+MeACulp-A calls 1200
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 calls 600
+neneloe84 checks
+*** FLOP *** [Qh Qd Kc]
+mafioso27 checks
+neneloe84 checks
+MeACulp-A bets 1200
+mafioso27 folds
+neneloe84 folds
+MeACulp-A collected 5920 from pot
+*** SUMMARY ***
+Total pot 5920 | No rake
+Board: [Qh Qd Kc]
+Seat 4: MeACulp-A won 5920
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3213061387710365699-81-1708798223 - Holdem no limit (140/600/1200) - 2024/02/24 18:10:23 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #1 is the button
+Seat 1: mafioso27 (19048)
+Seat 2: neneloe84 (9932)
+Seat 3: labet defold (16240)
+Seat 5: M1ll3R (49289)
+Seat 6: P1xel7 (63937)
+Seat 7: prisca93 (18060)
+Seat 8: MtRuShmoore (20290)
+*** ANTE/BLINDS ***
+neneloe84 posts ante 140
+labet defold posts ante 140
+mafioso27 posts ante 140
+M1ll3R posts ante 140
+P1xel7 posts ante 140
+prisca93 posts ante 140
+MtRuShmoore posts ante 140
+neneloe84 posts small blind 600
+labet defold posts big blind 1200
+Dealt to P1xel7 [7h Qh]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 folds
+neneloe84 calls 600
+labet defold checks
+*** FLOP *** [Kd 3d 4s]
+neneloe84 checks
+labet defold checks
+*** TURN *** [Kd 3d 4s][Qc]
+neneloe84 checks
+labet defold checks
+*** RIVER *** [Kd 3d 4s Qc][4c]
+neneloe84 bets 1200
+labet defold folds
+neneloe84 collected 4580 from pot
+*** SUMMARY ***
+Total pot 4580 | No rake
+Board: [Kd 3d 4s Qc 4c]
+Seat 2: neneloe84 (small blind) won 4580
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3213061387710365699-82-1708798274 - Holdem no limit (140/600/1200) - 2024/02/24 18:11:14 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #2 is the button
+Seat 1: mafioso27 (18908)
+Seat 2: neneloe84 (11972)
+Seat 3: labet defold (14900)
+Seat 5: M1ll3R (49149)
+Seat 6: P1xel7 (63797)
+Seat 7: prisca93 (17920)
+Seat 8: MtRuShmoore (20150)
+*** ANTE/BLINDS ***
+labet defold posts ante 140
+M1ll3R posts ante 140
+mafioso27 posts ante 140
+neneloe84 posts ante 140
+P1xel7 posts ante 140
+prisca93 posts ante 140
+MtRuShmoore posts ante 140
+labet defold posts small blind 600
+M1ll3R posts big blind 1200
+Dealt to P1xel7 [5s 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 raises 17568 to 18768 and is all-in
+neneloe84 folds
+labet defold calls 14160 and is all-in
+M1ll3R folds
+*** FLOP *** [Qc 2h Ac]
+*** TURN *** [Qc 2h Ac][8c]
+*** RIVER *** [Qc 2h Ac 8c][Js]
+*** SHOW DOWN ***
+labet defold shows [3h 3c] (One pair : 3)
+mafioso27 shows [Qd Kc] (One pair : Queens)
+mafioso27 collected 35708 from pot
+*** SUMMARY ***
+Total pot 35708 | No rake
+Board: [Qc 2h Ac 8c Js]
+Seat 1: mafioso27 showed [Qd Kc] and won 35708 with One pair : Queens
+Seat 3: labet defold (small blind) showed [3h 3c] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3213061387710365699-83-1708798309 - Holdem no limit (140/600/1200) - 2024/02/24 18:11:49 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 1: mafioso27 (35708)
+Seat 2: neneloe84 (11832)
+Seat 5: M1ll3R (47809)
+Seat 6: P1xel7 (63657)
+Seat 7: prisca93 (17780)
+Seat 8: MtRuShmoore (20010)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 140
+P1xel7 posts ante 140
+mafioso27 posts ante 140
+neneloe84 posts ante 140
+prisca93 posts ante 140
+MtRuShmoore posts ante 140
+M1ll3R posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [6d 3s]
+*** PRE-FLOP *** 
+prisca93 folds
+MtRuShmoore folds
+mafioso27 calls 1200
+neneloe84 folds
+M1ll3R folds
+P1xel7 checks
+*** FLOP *** [4d Kd 6h]
+P1xel7 checks
+mafioso27 checks
+*** TURN *** [4d Kd 6h][6s]
+P1xel7 bets 3000
+mafioso27 folds
+P1xel7 collected 6840 from pot
+*** SUMMARY ***
+Total pot 6840 | No rake
+Board: [4d Kd 6h 6s]
+Seat 6: P1xel7 (big blind) won 6840
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3213061387710365699-84-1708798343 - Holdem no limit (160/700/1400) - 2024/02/24 18:12:23 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 1: mafioso27 (34368)
+Seat 2: neneloe84 (11692)
+Seat 5: M1ll3R (47069)
+Seat 6: P1xel7 (66157)
+Seat 7: prisca93 (17640)
+Seat 8: MtRuShmoore (19870)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+prisca93 posts ante 160
+mafioso27 posts ante 160
+neneloe84 posts ante 160
+M1ll3R posts ante 160
+MtRuShmoore posts ante 160
+P1xel7 posts small blind 700
+prisca93 posts big blind 1400
+Dealt to P1xel7 [Qs 7d]
+*** PRE-FLOP *** 
+MtRuShmoore raises 1750 to 3150
+mafioso27 calls 3150
+neneloe84 raises 8382 to 11532 and is all-in
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore raises 8178 to 19710 and is all-in
+mafioso27 raises 14498 to 34208 and is all-in
+*** FLOP *** [Ks Jc Jh]
+*** TURN *** [Ks Jc Jh][9h]
+*** RIVER *** [Ks Jc Jh 9h][5s]
+*** SHOW DOWN ***
+neneloe84 shows [3h 3s] (Two pairs : Jacks and 3)
+mafioso27 shows [Kh Qc] (Two pairs : Kings and Jacks)
+MtRuShmoore shows [Ad Jd] (Trips of Jacks)
+MtRuShmoore collected 54012 from main pot
+mafioso27 collected 14498 from side pot 1
+*** SUMMARY ***
+Total pot 68510 | No rake
+Board: [Ks Jc Jh 9h 5s]
+Seat 1: mafioso27 showed [Kh Qc] and won 14498 with Two pairs : Kings and Jacks
+Seat 2: neneloe84 showed [3h 3s] and lost with Two pairs : Jacks and 3
+Seat 8: MtRuShmoore showed [Ad Jd] and won 54012 with Trips of Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3213061387710365699-85-1708798381 - Holdem no limit (160/700/1400) - 2024/02/24 18:13:01 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 1: mafioso27 (14498)
+Seat 4: mpintoo17 (89542)
+Seat 5: M1ll3R (46909)
+Seat 6: P1xel7 (65297)
+Seat 7: prisca93 (16080)
+Seat 8: MtRuShmoore (54012)
+*** ANTE/BLINDS ***
+prisca93 posts ante 160
+MtRuShmoore posts ante 160
+mafioso27 posts ante 160
+mpintoo17 posts ante 160
+M1ll3R posts ante 160
+P1xel7 posts ante 160
+prisca93 posts small blind 700
+MtRuShmoore posts big blind 1400
+Dealt to P1xel7 [6d Ts]
+*** PRE-FLOP *** 
+mafioso27 folds
+mpintoo17 folds
+M1ll3R folds
+P1xel7 folds
+prisca93 raises 14520 to 15920 and is all-in
+MtRuShmoore folds
+prisca93 collected 18280 from pot
+*** SUMMARY ***
+Total pot 18280 | No rake
+Seat 7: prisca93 (small blind) won 18280
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3213061387710365699-86-1708798417 - Holdem no limit (160/700/1400) - 2024/02/24 18:13:37 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 1: mafioso27 (14338)
+Seat 3: blakarebel01 (29494)
+Seat 4: mpintoo17 (89382)
+Seat 5: M1ll3R (46749)
+Seat 6: P1xel7 (65137)
+Seat 7: prisca93 (18280)
+Seat 8: MtRuShmoore (52452)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 160
+mafioso27 posts ante 160
+blakarebel01 posts ante 160
+mpintoo17 posts ante 160
+M1ll3R posts ante 160
+P1xel7 posts ante 160
+prisca93 posts ante 160
+MtRuShmoore posts small blind 700
+mafioso27 posts big blind 1400
+Dealt to P1xel7 [9s 8d]
+*** PRE-FLOP *** 
+blakarebel01 calls 1400
+mpintoo17 folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 checks
+*** FLOP *** [7h Kc Qd]
+mafioso27 checks
+blakarebel01 bets 1617
+mafioso27 calls 1617
+*** TURN *** [7h Kc Qd][5d]
+mafioso27 checks
+blakarebel01 bets 2749
+mafioso27 folds
+blakarebel01 collected 10603 from pot
+*** SUMMARY ***
+Total pot 10603 | No rake
+Board: [7h Kc Qd 5d]
+Seat 3: blakarebel01 won 10603
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3213061387710365699-87-1708798456 - Holdem no limit (160/700/1400) - 2024/02/24 18:14:16 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 1: mafioso27 (11161)
+Seat 3: blakarebel01 (34171)
+Seat 4: mpintoo17 (89222)
+Seat 5: M1ll3R (46589)
+Seat 6: P1xel7 (64977)
+Seat 7: prisca93 (18120)
+Seat 8: MtRuShmoore (51592)
+*** ANTE/BLINDS ***
+mafioso27 posts ante 160
+blakarebel01 posts ante 160
+mpintoo17 posts ante 160
+M1ll3R posts ante 160
+P1xel7 posts ante 160
+prisca93 posts ante 160
+MtRuShmoore posts ante 160
+mafioso27 posts small blind 700
+blakarebel01 posts big blind 1400
+Dealt to P1xel7 [4h 8c]
+*** PRE-FLOP *** 
+mpintoo17 calls 1400
+M1ll3R folds
+P1xel7 folds
+prisca93 raises 16560 to 17960 and is all-in
+MtRuShmoore folds
+mafioso27 folds
+blakarebel01 folds
+mpintoo17 calls 16560
+*** FLOP *** [Tc Ks 4d]
+*** TURN *** [Tc Ks 4d][Qh]
+*** RIVER *** [Tc Ks 4d Qh][2c]
+*** SHOW DOWN ***
+mpintoo17 shows [Kh Qc] (Two pairs : Kings and Queens)
+prisca93 shows [Ah Jh] (Straight Ace high)
+prisca93 collected 39140 from pot
+*** SUMMARY ***
+Total pot 39140 | No rake
+Board: [Tc Ks 4d Qh 2c]
+Seat 4: mpintoo17 showed [Kh Qc] and lost with Two pairs : Kings and Queens
+Seat 7: prisca93 showed [Ah Jh] and won 39140 with Straight Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3213061387710365699-88-1708798486 - Holdem no limit (160/700/1400) - 2024/02/24 18:14:46 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #1 is the button
+Seat 1: mafioso27 (10301)
+Seat 2: torchonsale (32940)
+Seat 3: blakarebel01 (32611)
+Seat 4: mpintoo17 (71102)
+Seat 5: M1ll3R (46429)
+Seat 6: P1xel7 (64817)
+Seat 7: prisca93 (39140)
+Seat 8: MtRuShmoore (51432)
+*** ANTE/BLINDS ***
+blakarebel01 posts ante 160
+mpintoo17 posts ante 160
+mafioso27 posts ante 160
+M1ll3R posts ante 160
+P1xel7 posts ante 160
+prisca93 posts ante 160
+MtRuShmoore posts ante 160
+blakarebel01 posts small blind 700
+mpintoo17 posts big blind 1400
+Dealt to P1xel7 [8c 6h]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore raises 2800 to 4200
+mafioso27 folds
+blakarebel01 folds
+mpintoo17 folds
+MtRuShmoore collected 7420 from pot
+*** SUMMARY ***
+Total pot 7420 | No rake
+Seat 8: MtRuShmoore won 7420
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3213061387710365699-89-1708798508 - Holdem no limit (160/700/1400) - 2024/02/24 18:15:08 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 1: mafioso27 (10141)
+Seat 2: torchonsale (32940)
+Seat 3: blakarebel01 (31751)
+Seat 4: mpintoo17 (69542)
+Seat 5: M1ll3R (46269)
+Seat 6: P1xel7 (64657)
+Seat 7: prisca93 (38980)
+Seat 8: MtRuShmoore (54492)
+*** ANTE/BLINDS ***
+mpintoo17 posts ante 160
+M1ll3R posts ante 160
+mafioso27 posts ante 160
+torchonsale posts ante 160
+blakarebel01 posts ante 160
+P1xel7 posts ante 160
+prisca93 posts ante 160
+MtRuShmoore posts ante 160
+mpintoo17 posts small blind 700
+M1ll3R posts big blind 1400
+Dealt to P1xel7 [Th 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 folds
+torchonsale folds
+blakarebel01 folds
+mpintoo17 calls 700
+M1ll3R checks
+*** FLOP *** [Jh 7c Kh]
+mpintoo17 checks
+M1ll3R checks
+*** TURN *** [Jh 7c Kh][Qs]
+mpintoo17 checks
+M1ll3R bets 3550
+mpintoo17 folds
+M1ll3R collected 7630 from pot
+*** SUMMARY ***
+Total pot 7630 | No rake
+Board: [Jh 7c Kh Qs]
+Seat 5: M1ll3R (big blind) won 7630
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3213061387710365699-90-1708798596 - Holdem no limit (160/700/1400) - 2024/02/24 18:16:36 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #4 is the button
+Seat 1: mafioso27 (9981)
+Seat 2: torchonsale (32780)
+Seat 3: blakarebel01 (31591)
+Seat 4: mpintoo17 (67982)
+Seat 5: M1ll3R (48789)
+Seat 6: P1xel7 (64497)
+Seat 7: prisca93 (38820)
+Seat 8: MtRuShmoore (54332)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 160
+P1xel7 posts ante 160
+mafioso27 posts ante 160
+torchonsale posts ante 160
+blakarebel01 posts ante 160
+mpintoo17 posts ante 160
+prisca93 posts ante 160
+MtRuShmoore posts ante 160
+M1ll3R posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [9h Jd]
+*** PRE-FLOP *** 
+prisca93 folds
+MtRuShmoore folds
+mafioso27 calls 1400
+torchonsale calls 1400
+blakarebel01 calls 1400
+mpintoo17 folds
+M1ll3R folds
+P1xel7 checks
+*** FLOP *** [5s Ah 6c]
+P1xel7 checks
+mafioso27 checks
+torchonsale bets 31220 and is all-in
+blakarebel01 folds
+P1xel7 folds
+mafioso27 folds
+torchonsale collected 38800 from pot
+*** SUMMARY ***
+Total pot 38800 | No rake
+Board: [5s Ah 6c]
+Seat 2: torchonsale won 38800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3213061387710365699-91-1708798632 - Holdem no limit (200/800/1600) - 2024/02/24 18:17:12 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 1: mafioso27 (8421)
+Seat 2: torchonsale (38800)
+Seat 3: blakarebel01 (30031)
+Seat 4: mpintoo17 (67822)
+Seat 5: M1ll3R (47929)
+Seat 6: P1xel7 (62937)
+Seat 7: prisca93 (38660)
+Seat 8: MtRuShmoore (54172)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+prisca93 posts ante 200
+mafioso27 posts ante 200
+torchonsale posts ante 200
+blakarebel01 posts ante 200
+mpintoo17 posts ante 200
+M1ll3R posts ante 200
+MtRuShmoore posts ante 200
+P1xel7 posts small blind 800
+prisca93 posts big blind 1600
+Dealt to P1xel7 [Jh Kc]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+mafioso27 raises 6621 to 8221 and is all-in
+torchonsale raises 6621 to 14842
+blakarebel01 folds
+mpintoo17 calls 14842
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+*** FLOP *** [5d 9s 7s]
+torchonsale bets 23758 and is all-in
+mpintoo17 calls 23758
+*** TURN *** [5d 9s 7s][3c]
+*** RIVER *** [5d 9s 7s 3c][4c]
+*** SHOW DOWN ***
+mpintoo17 shows [Kh Ad] (High card : Ace)
+mafioso27 shows [4s As] (One pair : 4)
+torchonsale shows [4d Ac] (One pair : 4)
+torchonsale collected 75090 from side pot 1
+mafioso27 collected 14331 from main pot
+*** SUMMARY ***
+Total pot 89421 | No rake
+Board: [5d 9s 7s 3c 4c]
+Seat 1: mafioso27 showed [4s As] and won 14331 with One pair : 4
+Seat 2: torchonsale showed [4d Ac] and won 75090 with One pair : 4
+Seat 4: mpintoo17 showed [Kh Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3213061387710365699-92-1708798667 - Holdem no limit (200/800/1600) - 2024/02/24 18:17:47 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 1: mafioso27 (14331)
+Seat 2: torchonsale (75090)
+Seat 3: blakarebel01 (29831)
+Seat 4: mpintoo17 (29022)
+Seat 5: M1ll3R (47729)
+Seat 6: P1xel7 (61937)
+Seat 7: prisca93 (36860)
+Seat 8: MtRuShmoore (53972)
+*** ANTE/BLINDS ***
+prisca93 posts ante 200
+MtRuShmoore posts ante 200
+mafioso27 posts ante 200
+torchonsale posts ante 200
+blakarebel01 posts ante 200
+mpintoo17 posts ante 200
+M1ll3R posts ante 200
+P1xel7 posts ante 200
+prisca93 posts small blind 800
+MtRuShmoore posts big blind 1600
+Dealt to P1xel7 [3s Jh]
+*** PRE-FLOP *** 
+mafioso27 raises 12531 to 14131 and is all-in
+torchonsale folds
+blakarebel01 folds
+mpintoo17 folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 collected 18131 from pot
+*** SUMMARY ***
+Total pot 18131 | No rake
+Seat 1: mafioso27 won 18131
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3213061387710365699-93-1708798700 - Holdem no limit (200/800/1600) - 2024/02/24 18:18:20 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 1: mafioso27 (18131)
+Seat 3: blakarebel01 (29631)
+Seat 4: mpintoo17 (28822)
+Seat 5: M1ll3R (47529)
+Seat 6: P1xel7 (61737)
+Seat 7: prisca93 (35860)
+Seat 8: MtRuShmoore (52172)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 200
+mafioso27 posts ante 200
+blakarebel01 posts ante 200
+mpintoo17 posts ante 200
+M1ll3R posts ante 200
+P1xel7 posts ante 200
+prisca93 posts ante 200
+MtRuShmoore posts small blind 800
+mafioso27 posts big blind 1600
+Dealt to P1xel7 [7d 8s]
+*** PRE-FLOP *** 
+blakarebel01 folds
+mpintoo17 folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Seat 1: mafioso27 (big blind) won 3800
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3213061387710365699-94-1708798723 - Holdem no limit (200/800/1600) - 2024/02/24 18:18:43 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 1: mafioso27 (20131)
+Seat 3: blakarebel01 (29431)
+Seat 4: mpintoo17 (28622)
+Seat 5: M1ll3R (47329)
+Seat 6: P1xel7 (61537)
+Seat 7: prisca93 (35660)
+Seat 8: MtRuShmoore (51172)
+*** ANTE/BLINDS ***
+mafioso27 posts ante 200
+blakarebel01 posts ante 200
+mpintoo17 posts ante 200
+M1ll3R posts ante 200
+P1xel7 posts ante 200
+prisca93 posts ante 200
+MtRuShmoore posts ante 200
+mafioso27 posts small blind 800
+blakarebel01 posts big blind 1600
+Dealt to P1xel7 [4d Qh]
+*** PRE-FLOP *** 
+mpintoo17 folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 calls 800
+blakarebel01 checks
+*** FLOP *** [7d 6s 6d]
+mafioso27 checks
+blakarebel01 bets 2990
+mafioso27 folds
+blakarebel01 collected 7590 from pot
+*** SUMMARY ***
+Total pot 7590 | No rake
+Board: [7d 6s 6d]
+Seat 3: blakarebel01 (big blind) won 7590
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3213061387710365699-95-1708798755 - Holdem no limit (200/800/1600) - 2024/02/24 18:19:15 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #1 is the button
+Seat 1: mafioso27 (18331)
+Seat 3: blakarebel01 (32231)
+Seat 4: mpintoo17 (28422)
+Seat 5: M1ll3R (47129)
+Seat 6: P1xel7 (61337)
+Seat 7: prisca93 (35460)
+Seat 8: MtRuShmoore (50972)
+*** ANTE/BLINDS ***
+blakarebel01 posts ante 200
+mpintoo17 posts ante 200
+mafioso27 posts ante 200
+M1ll3R posts ante 200
+P1xel7 posts ante 200
+prisca93 posts ante 200
+MtRuShmoore posts ante 200
+blakarebel01 posts small blind 800
+mpintoo17 posts big blind 1600
+Dealt to P1xel7 [Th Ad]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 raises 3200 to 4800
+prisca93 folds
+MtRuShmoore folds
+mafioso27 folds
+blakarebel01 folds
+mpintoo17 folds
+P1xel7 collected 8600 from pot
+*** SUMMARY ***
+Total pot 8600 | No rake
+Seat 6: P1xel7 won 8600
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3213061387710365699-96-1708798795 - Holdem no limit (200/800/1600) - 2024/02/24 18:19:55 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 1: mafioso27 (18131)
+Seat 2: FoHXC7515 (84701)
+Seat 3: blakarebel01 (31231)
+Seat 4: mpintoo17 (26622)
+Seat 5: M1ll3R (46929)
+Seat 6: P1xel7 (64937)
+Seat 7: prisca93 (35260)
+Seat 8: MtRuShmoore (50772)
+*** ANTE/BLINDS ***
+mpintoo17 posts ante 200
+M1ll3R posts ante 200
+mafioso27 posts ante 200
+FoHXC7515 posts ante 200
+blakarebel01 posts ante 200
+P1xel7 posts ante 200
+prisca93 posts ante 200
+MtRuShmoore posts ante 200
+mpintoo17 posts small blind 800
+M1ll3R posts big blind 1600
+Dealt to P1xel7 [3h 8c]
+*** PRE-FLOP *** 
+P1xel7 folds
+prisca93 raises 2400 to 4000
+MtRuShmoore folds
+mafioso27 folds
+FoHXC7515 folds
+blakarebel01 folds
+mpintoo17 folds
+M1ll3R folds
+prisca93 collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | No rake
+Seat 7: prisca93 won 8000
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3213061387710365699-97-1708798835 - Holdem no limit (200/800/1600) - 2024/02/24 18:20:35 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #4 is the button
+Seat 1: mafioso27 (17931)
+Seat 2: FoHXC7515 (84501)
+Seat 3: blakarebel01 (31031)
+Seat 4: mpintoo17 (25622)
+Seat 5: M1ll3R (45129)
+Seat 6: P1xel7 (64737)
+Seat 7: prisca93 (39060)
+Seat 8: MtRuShmoore (50572)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 200
+P1xel7 posts ante 200
+mafioso27 posts ante 200
+FoHXC7515 posts ante 200
+blakarebel01 posts ante 200
+mpintoo17 posts ante 200
+prisca93 posts ante 200
+MtRuShmoore posts ante 200
+M1ll3R posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [6h Ad]
+*** PRE-FLOP *** 
+prisca93 folds
+MtRuShmoore folds
+mafioso27 folds
+FoHXC7515 raises 2000 to 3600
+blakarebel01 folds
+mpintoo17 folds
+M1ll3R folds
+P1xel7 calls 2000
+*** FLOP *** [3c Ah Th]
+P1xel7 checks
+FoHXC7515 bets 6240
+P1xel7 calls 6240
+*** TURN *** [3c Ah Th][9d]
+P1xel7 checks
+FoHXC7515 checks
+*** RIVER *** [3c Ah Th 9d][Qh]
+P1xel7 bets 5600
+FoHXC7515 calls 5600
+*** SHOW DOWN ***
+FoHXC7515 shows [Jd Qc] (One pair : Queens)
+P1xel7 shows [6h Ad] (One pair : Aces)
+P1xel7 collected 33280 from pot
+*** SUMMARY ***
+Total pot 33280 | No rake
+Board: [3c Ah Th 9d Qh]
+Seat 2: FoHXC7515 showed [Jd Qc] and lost with One pair : Queens
+Seat 6: P1xel7 (big blind) showed [6h Ad] and won 33280 with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3213061387710365699-98-1708798913 - Holdem no limit (200/800/1600) - 2024/02/24 18:21:53 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 1: mafioso27 (17731)
+Seat 2: FoHXC7515 (68861)
+Seat 3: blakarebel01 (30831)
+Seat 4: mpintoo17 (25422)
+Seat 5: M1ll3R (44129)
+Seat 6: P1xel7 (82377)
+Seat 7: prisca93 (38860)
+Seat 8: MtRuShmoore (50372)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+prisca93 posts ante 200
+mafioso27 posts ante 200
+FoHXC7515 posts ante 200
+blakarebel01 posts ante 200
+mpintoo17 posts ante 200
+M1ll3R posts ante 200
+MtRuShmoore posts ante 200
+P1xel7 posts small blind 800
+prisca93 posts big blind 1600
+Dealt to P1xel7 [Kh 2d]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+mafioso27 calls 1600
+FoHXC7515 raises 3200 to 4800
+blakarebel01 folds
+mpintoo17 calls 4800
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+mafioso27 calls 3200
+*** FLOP *** [Js 8d 7s]
+mafioso27 checks
+FoHXC7515 bets 9200
+mpintoo17 calls 9200
+mafioso27 folds
+*** TURN *** [Js 8d 7s][8s]
+FoHXC7515 bets 36800
+mpintoo17 calls 11222 and is all-in
+*** RIVER *** [Js 8d 7s 8s][Qd]
+*** SHOW DOWN ***
+FoHXC7515 shows [Ah Jh] (Two pairs : Jacks and 8)
+mpintoo17 shows [Qc Ts] (Two pairs : Queens and 8)
+mpintoo17 collected 59244 from main pot
+FoHXC7515 collected 25578 from side pot 1
+*** SUMMARY ***
+Total pot 84822 | No rake
+Board: [Js 8d 7s 8s Qd]
+Seat 2: FoHXC7515 showed [Ah Jh] and won 25578 with Two pairs : Jacks and 8
+Seat 4: mpintoo17 showed [Qc Ts] and won 59244 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3213061387710365699-99-1708798982 - Holdem no limit (250/1000/2000) - 2024/02/24 18:23:02 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 1: mafioso27 (12731)
+Seat 2: FoHXC7515 (43439)
+Seat 3: blakarebel01 (30631)
+Seat 4: mpintoo17 (59244)
+Seat 5: M1ll3R (43929)
+Seat 6: P1xel7 (81377)
+Seat 7: prisca93 (37060)
+Seat 8: MtRuShmoore (50172)
+*** ANTE/BLINDS ***
+prisca93 posts ante 250
+MtRuShmoore posts ante 250
+mafioso27 posts ante 250
+FoHXC7515 posts ante 250
+blakarebel01 posts ante 250
+mpintoo17 posts ante 250
+M1ll3R posts ante 250
+P1xel7 posts ante 250
+prisca93 posts small blind 1000
+MtRuShmoore posts big blind 2000
+Dealt to P1xel7 [Tc Kc]
+*** PRE-FLOP *** 
+mafioso27 folds
+FoHXC7515 folds
+blakarebel01 folds
+mpintoo17 calls 2000
+M1ll3R raises 5000 to 7000
+P1xel7 calls 7000
+prisca93 folds
+MtRuShmoore folds
+mpintoo17 calls 5000
+*** FLOP *** [Jd Qd Ad]
+mpintoo17 checks
+M1ll3R checks
+P1xel7 bets 7000
+mpintoo17 calls 7000
+M1ll3R folds
+*** TURN *** [Jd Qd Ad][Qs]
+mpintoo17 checks
+P1xel7 bets 9000
+mpintoo17 calls 9000
+*** RIVER *** [Jd Qd Ad Qs][4d]
+mpintoo17 checks
+P1xel7 checks
+*** SHOW DOWN ***
+P1xel7 shows [Tc Kc] (Straight Ace high)
+mpintoo17 shows [Qc Qh] (Quads of Queens)
+mpintoo17 collected 58000 from pot
+*** SUMMARY ***
+Total pot 58000 | No rake
+Board: [Jd Qd Ad Qs 4d]
+Seat 4: mpintoo17 showed [Qc Qh] and won 58000 with Quads of Queens
+Seat 6: P1xel7 (button) showed [Tc Kc] and lost with Straight Ace high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3213061387710365699-100-1708799084 - Holdem no limit (250/1000/2000) - 2024/02/24 18:24:44 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 1: mafioso27 (12481)
+Seat 3: blakarebel01 (30381)
+Seat 4: mpintoo17 (93994)
+Seat 5: M1ll3R (36679)
+Seat 6: P1xel7 (58127)
+Seat 7: prisca93 (35810)
+Seat 8: MtRuShmoore (47922)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 250
+mafioso27 posts ante 250
+blakarebel01 posts ante 250
+mpintoo17 posts ante 250
+M1ll3R posts ante 250
+P1xel7 posts ante 250
+prisca93 posts ante 250
+MtRuShmoore posts small blind 1000
+mafioso27 posts big blind 2000
+Dealt to P1xel7 [5h 4c]
+*** PRE-FLOP *** 
+blakarebel01 calls 2000
+mpintoo17 folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+mafioso27 raises 10231 to 12231 and is all-in
+blakarebel01 calls 10231
+*** FLOP *** [Kd 6s Jh]
+*** TURN *** [Kd 6s Jh][9s]
+*** RIVER *** [Kd 6s Jh 9s][8d]
+*** SHOW DOWN ***
+mafioso27 shows [8s 8h] (Trips of 8)
+blakarebel01 shows [Td Qd] (Straight King high)
+blakarebel01 collected 27212 from pot
+*** SUMMARY ***
+Total pot 27212 | No rake
+Board: [Kd 6s Jh 9s 8d]
+Seat 1: mafioso27 (big blind) showed [8s 8h] and lost with Trips of 8
+Seat 3: blakarebel01 showed [Td Qd] and won 27212 with Straight King high
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3213061387710365699-101-1708799116 - Holdem no limit (250/1000/2000) - 2024/02/24 18:25:16 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 2: ChoPaL (46134)
+Seat 3: blakarebel01 (45112)
+Seat 4: mpintoo17 (93744)
+Seat 5: M1ll3R (36429)
+Seat 6: P1xel7 (57877)
+Seat 7: prisca93 (35560)
+Seat 8: MtRuShmoore (46672)
+*** ANTE/BLINDS ***
+ChoPaL posts ante 250
+blakarebel01 posts ante 250
+mpintoo17 posts ante 250
+M1ll3R posts ante 250
+P1xel7 posts ante 250
+prisca93 posts ante 250
+MtRuShmoore posts ante 250
+ChoPaL posts big blind 2000
+Dealt to P1xel7 [Ac 8c]
+*** PRE-FLOP *** 
+blakarebel01 folds
+mpintoo17 folds
+M1ll3R folds
+P1xel7 raises 3000 to 5000
+prisca93 folds
+MtRuShmoore folds
+ChoPaL folds
+P1xel7 collected 8750 from pot
+*** SUMMARY ***
+Total pot 8750 | No rake
+Seat 6: P1xel7 won 8750
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3213061387710365699-102-1708799138 - Holdem no limit (250/1000/2000) - 2024/02/24 18:25:38 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #1 is the button
+Seat 2: ChoPaL (43884)
+Seat 3: blakarebel01 (44862)
+Seat 4: mpintoo17 (93494)
+Seat 5: M1ll3R (36179)
+Seat 6: P1xel7 (61377)
+Seat 7: prisca93 (35310)
+Seat 8: MtRuShmoore (46422)
+*** ANTE/BLINDS ***
+ChoPaL posts ante 250
+blakarebel01 posts ante 250
+mpintoo17 posts ante 250
+M1ll3R posts ante 250
+P1xel7 posts ante 250
+prisca93 posts ante 250
+MtRuShmoore posts ante 250
+ChoPaL posts small blind 1000
+blakarebel01 posts big blind 2000
+Dealt to P1xel7 [7s 4c]
+*** PRE-FLOP *** 
+mpintoo17 folds
+M1ll3R raises 2000 to 4000
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+ChoPaL folds
+blakarebel01 raises 8000 to 12000
+M1ll3R raises 23929 to 35929 and is all-in
+blakarebel01 calls 23929
+*** FLOP *** [2h 3c 4h]
+*** TURN *** [2h 3c 4h][2s]
+*** RIVER *** [2h 3c 4h 2s][Jh]
+*** SHOW DOWN ***
+blakarebel01 shows [9c 9s] (Two pairs : 9 and 2)
+M1ll3R shows [Kc Ks] (Two pairs : Kings and 2)
+M1ll3R collected 74608 from pot
+*** SUMMARY ***
+Total pot 74608 | No rake
+Board: [2h 3c 4h 2s Jh]
+Seat 3: blakarebel01 (big blind) showed [9c 9s] and lost with Two pairs : 9 and 2
+Seat 5: M1ll3R showed [Kc Ks] and won 74608 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3213061387710365699-103-1708799197 - Holdem no limit (250/1000/2000) - 2024/02/24 18:26:37 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #2 is the button
+Seat 2: ChoPaL (42634)
+Seat 3: blakarebel01 (8683)
+Seat 4: mpintoo17 (93244)
+Seat 5: M1ll3R (74608)
+Seat 6: P1xel7 (61127)
+Seat 7: prisca93 (35060)
+Seat 8: MtRuShmoore (46172)
+*** ANTE/BLINDS ***
+blakarebel01 posts ante 250
+mpintoo17 posts ante 250
+ChoPaL posts ante 250
+M1ll3R posts ante 250
+P1xel7 posts ante 250
+prisca93 posts ante 250
+MtRuShmoore posts ante 250
+blakarebel01 posts small blind 1000
+mpintoo17 posts big blind 2000
+Dealt to P1xel7 [4s Jh]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+ChoPaL folds
+blakarebel01 folds
+mpintoo17 collected 4750 from pot
+*** SUMMARY ***
+Total pot 4750 | No rake
+Seat 4: mpintoo17 (big blind) won 4750
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3213061387710365699-104-1708799218 - Holdem no limit (250/1000/2000) - 2024/02/24 18:26:58 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 2: ChoPaL (42384)
+Seat 3: blakarebel01 (7433)
+Seat 4: mpintoo17 (95744)
+Seat 5: M1ll3R (74358)
+Seat 6: P1xel7 (60877)
+Seat 7: prisca93 (34810)
+Seat 8: MtRuShmoore (45922)
+*** ANTE/BLINDS ***
+mpintoo17 posts ante 250
+M1ll3R posts ante 250
+ChoPaL posts ante 250
+blakarebel01 posts ante 250
+P1xel7 posts ante 250
+prisca93 posts ante 250
+MtRuShmoore posts ante 250
+mpintoo17 posts small blind 1000
+M1ll3R posts big blind 2000
+Dealt to P1xel7 [4s 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+ChoPaL folds
+blakarebel01 raises 5183 to 7183 and is all-in
+mpintoo17 calls 6183
+M1ll3R folds
+*** FLOP *** [4c 8s 9s]
+*** TURN *** [4c 8s 9s][Ah]
+*** RIVER *** [4c 8s 9s Ah][Qh]
+*** SHOW DOWN ***
+blakarebel01 shows [Ts 7c] (High card : Ace)
+mpintoo17 shows [Kc 4h] (One pair : 4)
+mpintoo17 collected 18116 from pot
+*** SUMMARY ***
+Total pot 18116 | No rake
+Board: [4c 8s 9s Ah Qh]
+Seat 3: blakarebel01 (button) showed [Ts 7c] and lost with High card : Ace
+Seat 4: mpintoo17 (small blind) showed [Kc 4h] and won 18116 with One pair : 4
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 15 - HandId: #3213061387710365699-105-1708799251 - Holdem no limit (300/1250/2500) - 2024/02/24 18:27:31 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #4 is the button
+Seat 2: ChoPaL (42134)
+Seat 4: mpintoo17 (106427)
+Seat 5: M1ll3R (72108)
+Seat 6: P1xel7 (60627)
+Seat 7: prisca93 (34560)
+Seat 8: MtRuShmoore (45672)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 300
+P1xel7 posts ante 300
+ChoPaL posts ante 300
+mpintoo17 posts ante 300
+prisca93 posts ante 300
+MtRuShmoore posts ante 300
+M1ll3R posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Qh 3h]
+*** PRE-FLOP *** 
+prisca93 folds
+MtRuShmoore raises 3125 to 5625
+ChoPaL folds
+mpintoo17 calls 5625
+M1ll3R folds
+P1xel7 calls 3125
+*** FLOP *** [2c 5h Th]
+P1xel7 checks
+MtRuShmoore checks
+mpintoo17 checks
+*** TURN *** [2c 5h Th][Kc]
+P1xel7 bets 6250
+MtRuShmoore folds
+mpintoo17 folds
+P1xel7 collected 26175 from pot
+*** SUMMARY ***
+Total pot 26175 | No rake
+Board: [2c 5h Th Kc]
+Seat 6: P1xel7 (big blind) won 26175
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 15 - HandId: #3213061387710365699-106-1708799314 - Holdem no limit (300/1250/2500) - 2024/02/24 18:28:34 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 2: ChoPaL (41834)
+Seat 3: Phaeliks (120303)
+Seat 4: mpintoo17 (100502)
+Seat 5: M1ll3R (70558)
+Seat 6: P1xel7 (74627)
+Seat 7: prisca93 (34260)
+Seat 8: MtRuShmoore (39747)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+prisca93 posts ante 300
+ChoPaL posts ante 300
+Phaeliks posts ante 300
+mpintoo17 posts ante 300
+M1ll3R posts ante 300
+MtRuShmoore posts ante 300
+P1xel7 posts small blind 1250
+prisca93 posts big blind 2500
+Dealt to P1xel7 [2d Ad]
+*** PRE-FLOP *** 
+MtRuShmoore raises 3125 to 5625
+ChoPaL folds
+Phaeliks folds
+mpintoo17 folds
+M1ll3R folds
+P1xel7 raises 68702 to 74327 and is all-in
+prisca93 folds
+MtRuShmoore calls 33822 and is all-in
+*** FLOP *** [Td Qh 3d]
+*** TURN *** [Td Qh 3d][Js]
+*** RIVER *** [Td Qh 3d Js][8c]
+*** SHOW DOWN ***
+P1xel7 shows [2d Ad] (High card : Ace)
+MtRuShmoore shows [Ac As] (One pair : Aces)
+MtRuShmoore collected 83494 from main pot
+P1xel7 collected 34880 from side pot 1
+*** SUMMARY ***
+Total pot 118374 | No rake
+Board: [Td Qh 3d Js 8c]
+Seat 6: P1xel7 (small blind) showed [2d Ad] and won 34880 with High card : Ace
+Seat 8: MtRuShmoore showed [Ac As] and won 83494 with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 15 - HandId: #3213061387710365699-107-1708799361 - Holdem no limit (300/1250/2500) - 2024/02/24 18:29:21 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 1: Guizoou (770)
+Seat 2: ChoPaL (41534)
+Seat 3: Phaeliks (120003)
+Seat 4: mpintoo17 (100202)
+Seat 5: M1ll3R (70258)
+Seat 6: P1xel7 (34880)
+Seat 7: prisca93 (31460)
+Seat 8: MtRuShmoore (83494)
+*** ANTE/BLINDS ***
+prisca93 posts ante 300
+MtRuShmoore posts ante 300
+Guizoou posts ante 300
+ChoPaL posts ante 300
+Phaeliks posts ante 300
+mpintoo17 posts ante 300
+M1ll3R posts ante 300
+P1xel7 posts ante 300
+prisca93 posts small blind 1250
+MtRuShmoore posts big blind 2500
+Dealt to P1xel7 [Jc 2s]
+*** PRE-FLOP *** 
+Guizoou folds
+ChoPaL folds
+Phaeliks folds
+mpintoo17 calls 2500
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore checks
+*** FLOP *** [3c 8h Jd]
+MtRuShmoore checks
+mpintoo17 checks
+*** TURN *** [3c 8h Jd][9s]
+MtRuShmoore checks
+mpintoo17 checks
+*** RIVER *** [3c 8h Jd 9s][Ks]
+MtRuShmoore checks
+mpintoo17 checks
+*** SHOW DOWN ***
+MtRuShmoore shows [5d 4h] (High card : King)
+mpintoo17 shows [Jh Qd] (One pair : Jacks)
+mpintoo17 collected 8650 from pot
+*** SUMMARY ***
+Total pot 8650 | No rake
+Board: [3c 8h Jd 9s Ks]
+Seat 4: mpintoo17 showed [Jh Qd] and won 8650 with One pair : Jacks
+Seat 8: MtRuShmoore (big blind) showed [5d 4h] and lost with High card : King
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 15 - HandId: #3213061387710365699-108-1708799453 - Holdem no limit (300/1250/2500) - 2024/02/24 18:30:53 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 1: Guizoou (470)
+Seat 2: ChoPaL (41234)
+Seat 3: Phaeliks (119703)
+Seat 4: mpintoo17 (106052)
+Seat 5: M1ll3R (69958)
+Seat 6: P1xel7 (34580)
+Seat 7: prisca93 (29910)
+Seat 8: MtRuShmoore (80694)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 300
+Guizoou posts ante 300
+ChoPaL posts ante 300
+Phaeliks posts ante 300
+mpintoo17 posts ante 300
+M1ll3R posts ante 300
+P1xel7 posts ante 300
+prisca93 posts ante 300
+MtRuShmoore posts small blind 1250
+Guizoou posts big blind 170 and is all-in
+Dealt to P1xel7 [3c 2c]
+*** PRE-FLOP *** 
+ChoPaL folds
+Phaeliks folds
+mpintoo17 folds
+M1ll3R folds
+P1xel7 folds
+prisca93 raises 28360 to 29610 and is all-in
+MtRuShmoore folds
+*** FLOP *** [Qh As 8s]
+*** TURN *** [Qh As 8s][Ks]
+*** RIVER *** [Qh As 8s Ks][Td]
+*** SHOW DOWN ***
+Guizoou shows [Jd 7h] (Straight Ace high)
+prisca93 shows [Ts Ad] (Two pairs : Aces and Tens)
+prisca93 collected 30520 from side pot 1
+Guizoou collected 2910 from main pot
+*** SUMMARY ***
+Total pot 33430 | No rake
+Board: [Qh As 8s Ks Td]
+Seat 1: Guizoou (big blind) showed [Jd 7h] and won 2910 with Straight Ace high
+Seat 7: prisca93 (button) showed [Ts Ad] and won 30520 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3213061387710365699-109-1708799529 - Holdem no limit (350/1500/3000) - 2024/02/24 18:32:09 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 1: Guizoou (2910)
+Seat 2: ChoPaL (40934)
+Seat 3: Phaeliks (119403)
+Seat 4: mpintoo17 (105752)
+Seat 5: M1ll3R (69658)
+Seat 6: P1xel7 (34280)
+Seat 7: prisca93 (30520)
+Seat 8: MtRuShmoore (79144)
+*** ANTE/BLINDS ***
+Guizoou posts ante 350
+ChoPaL posts ante 350
+Phaeliks posts ante 350
+mpintoo17 posts ante 350
+M1ll3R posts ante 350
+P1xel7 posts ante 350
+prisca93 posts ante 350
+MtRuShmoore posts ante 350
+Guizoou posts small blind 1500
+ChoPaL posts big blind 3000
+Dealt to P1xel7 [9d 8d]
+*** PRE-FLOP *** 
+Phaeliks raises 6000 to 9000
+mpintoo17 folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Guizoou folds
+ChoPaL raises 31584 to 40584 and is all-in
+Phaeliks calls 31584
+*** FLOP *** [Jc 7s 5d]
+*** TURN *** [Jc 7s 5d][8h]
+*** RIVER *** [Jc 7s 5d 8h][7h]
+*** SHOW DOWN ***
+ChoPaL shows [Ts Td] (Two pairs : Tens and 7)
+Phaeliks shows [Qd Qs] (Two pairs : Queens and 7)
+Phaeliks collected 85468 from pot
+*** SUMMARY ***
+Total pot 85468 | No rake
+Board: [Jc 7s 5d 8h 7h]
+Seat 2: ChoPaL (big blind) showed [Ts Td] and lost with Two pairs : Tens and 7
+Seat 3: Phaeliks showed [Qd Qs] and won 85468 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3213061387710365699-110-1708799604 - Holdem no limit (350/1500/3000) - 2024/02/24 18:33:24 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #1 is the button
+Seat 1: Guizoou (1060)
+Seat 3: Phaeliks (163937)
+Seat 4: mpintoo17 (105402)
+Seat 5: M1ll3R (69308)
+Seat 6: P1xel7 (33930)
+Seat 7: prisca93 (30170)
+Seat 8: MtRuShmoore (78794)
+*** ANTE/BLINDS ***
+Phaeliks posts ante 350
+Guizoou posts ante 350
+mpintoo17 posts ante 350
+M1ll3R posts ante 350
+P1xel7 posts ante 350
+prisca93 posts ante 350
+MtRuShmoore posts ante 350
+Phaeliks posts big blind 3000
+Dealt to P1xel7 [Kh 5c]
+*** PRE-FLOP *** 
+mpintoo17 folds
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore raises 6000 to 9000
+Guizoou folds
+Phaeliks folds
+MtRuShmoore collected 14450 from pot
+*** SUMMARY ***
+Total pot 14450 | No rake
+Seat 8: MtRuShmoore won 14450
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3213061387710365699-111-1708799629 - Holdem no limit (350/1500/3000) - 2024/02/24 18:33:49 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #2 is the button
+Seat 1: Guizoou (710)
+Seat 3: Phaeliks (160587)
+Seat 4: mpintoo17 (105052)
+Seat 5: M1ll3R (68958)
+Seat 6: P1xel7 (33580)
+Seat 7: prisca93 (29820)
+Seat 8: MtRuShmoore (83894)
+*** ANTE/BLINDS ***
+Phaeliks posts ante 350
+mpintoo17 posts ante 350
+Guizoou posts ante 350
+M1ll3R posts ante 350
+P1xel7 posts ante 350
+prisca93 posts ante 350
+MtRuShmoore posts ante 350
+Phaeliks posts small blind 1500
+mpintoo17 posts big blind 3000
+Dealt to P1xel7 [6c Js]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 folds
+prisca93 calls 3000
+MtRuShmoore folds
+Guizoou folds
+Phaeliks calls 1500
+mpintoo17 checks
+*** FLOP *** [Ac Ah 3h]
+Phaeliks checks
+mpintoo17 checks
+prisca93 checks
+*** TURN *** [Ac Ah 3h][Qc]
+Phaeliks bets 3000
+mpintoo17 folds
+prisca93 folds
+Phaeliks collected 14450 from pot
+*** SUMMARY ***
+Total pot 14450 | No rake
+Board: [Ac Ah 3h Qc]
+Seat 3: Phaeliks (small blind) won 14450
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3213061387710365699-112-1708799684 - Holdem no limit (350/1500/3000) - 2024/02/24 18:34:44 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #3 is the button
+Seat 1: Guizoou (360)
+Seat 3: Phaeliks (168687)
+Seat 4: mpintoo17 (101702)
+Seat 5: M1ll3R (68608)
+Seat 6: P1xel7 (33230)
+Seat 7: prisca93 (26470)
+Seat 8: MtRuShmoore (83544)
+*** ANTE/BLINDS ***
+mpintoo17 posts ante 350
+M1ll3R posts ante 350
+Guizoou posts ante 350
+Phaeliks posts ante 350
+P1xel7 posts ante 350
+prisca93 posts ante 350
+MtRuShmoore posts ante 350
+mpintoo17 posts small blind 1500
+M1ll3R posts big blind 3000
+Dealt to P1xel7 [Qh Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+prisca93 raises 23120 to 26120 and is all-in
+MtRuShmoore folds
+Guizoou folds
+Phaeliks folds
+mpintoo17 folds
+M1ll3R folds
+prisca93 collected 33070 from pot
+*** SUMMARY ***
+Total pot 33070 | No rake
+Seat 7: prisca93 won 33070
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3213061387710365699-113-1708799728 - Holdem no limit (350/1500/3000) - 2024/02/24 18:35:28 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #4 is the button
+Seat 1: Guizoou (10)
+Seat 3: Phaeliks (168337)
+Seat 4: mpintoo17 (99852)
+Seat 5: M1ll3R (65258)
+Seat 6: P1xel7 (32880)
+Seat 7: prisca93 (33070)
+Seat 8: MtRuShmoore (83194)
+*** ANTE/BLINDS ***
+M1ll3R posts ante 350
+P1xel7 posts ante 350
+Guizoou posts ante 10 and is all-in
+Phaeliks posts ante 350
+mpintoo17 posts ante 350
+prisca93 posts ante 350
+MtRuShmoore posts ante 350
+M1ll3R posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [3h 7s]
+*** PRE-FLOP *** 
+prisca93 calls 3000
+MtRuShmoore folds
+Phaeliks folds
+mpintoo17 folds
+M1ll3R folds
+P1xel7 checks
+*** FLOP *** [9d 9s 4d]
+P1xel7 checks
+prisca93 checks
+*** TURN *** [9d 9s 4d][7h]
+P1xel7 bets 6000
+prisca93 folds
+*** RIVER *** [9d 9s 4d 7h][6d]
+*** SHOW DOWN ***
+Guizoou shows [5h Qs] (One pair : 9)
+P1xel7 shows [3h 7s] (Two pairs : 9 and 7)
+P1xel7 collected 15610 from pot
+*** SUMMARY ***
+Total pot 15610 | No rake
+Board: [9d 9s 4d 7h 6d]
+Seat 1: Guizoou showed [5h Qs] and lost with One pair : 9
+Seat 6: P1xel7 (big blind) showed [3h 7s] and won 15610 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3213061387710365699-114-1708799766 - Holdem no limit (350/1500/3000) - 2024/02/24 18:36:06 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #5 is the button
+Seat 3: Phaeliks (167987)
+Seat 4: mpintoo17 (99502)
+Seat 5: M1ll3R (63408)
+Seat 6: P1xel7 (39140)
+Seat 7: prisca93 (29720)
+Seat 8: MtRuShmoore (82844)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+prisca93 posts ante 350
+Phaeliks posts ante 350
+mpintoo17 posts ante 350
+M1ll3R posts ante 350
+MtRuShmoore posts ante 350
+P1xel7 posts small blind 1500
+prisca93 posts big blind 3000
+Dealt to P1xel7 [2h Ts]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+Phaeliks raises 3750 to 6750
+mpintoo17 calls 6750
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+*** FLOP *** [Th 8d 6s]
+Phaeliks checks
+mpintoo17 checks
+*** TURN *** [Th 8d 6s][Jh]
+Phaeliks checks
+mpintoo17 checks
+*** RIVER *** [Th 8d 6s Jh][Jd]
+Phaeliks bets 7035
+mpintoo17 calls 7035
+*** SHOW DOWN ***
+mpintoo17 shows [Qc Ad] (One pair : Jacks)
+Phaeliks shows [4h 4s] (Two pairs : Jacks and 4)
+Phaeliks collected 34170 from pot
+*** SUMMARY ***
+Total pot 34170 | No rake
+Board: [Th 8d 6s Jh Jd]
+Seat 3: Phaeliks showed [4h 4s] and won 34170 with Two pairs : Jacks and 4
+Seat 4: mpintoo17 showed [Qc Ad] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 17 - HandId: #3213061387710365699-115-1708799822 - Holdem no limit (400/1750/3500) - 2024/02/24 18:37:02 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #6 is the button
+Seat 3: Phaeliks (188022)
+Seat 4: mpintoo17 (85367)
+Seat 5: M1ll3R (63058)
+Seat 6: P1xel7 (37290)
+Seat 7: prisca93 (26370)
+Seat 8: MtRuShmoore (82494)
+*** ANTE/BLINDS ***
+prisca93 posts ante 400
+MtRuShmoore posts ante 400
+Phaeliks posts ante 400
+mpintoo17 posts ante 400
+M1ll3R posts ante 400
+P1xel7 posts ante 400
+prisca93 posts small blind 1750
+MtRuShmoore posts big blind 3500
+Dealt to P1xel7 [Tc Qh]
+*** PRE-FLOP *** 
+Phaeliks folds
+mpintoo17 calls 3500
+M1ll3R calls 3500
+P1xel7 folds
+prisca93 folds
+MtRuShmoore checks
+*** FLOP *** [6s 3c 4c]
+MtRuShmoore checks
+mpintoo17 checks
+M1ll3R checks
+*** TURN *** [6s 3c 4c][2d]
+MtRuShmoore bets 10988
+mpintoo17 folds
+M1ll3R folds
+MtRuShmoore collected 25638 from pot
+*** SUMMARY ***
+Total pot 25638 | No rake
+Board: [6s 3c 4c 2d]
+Seat 8: MtRuShmoore (big blind) won 25638
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 17 - HandId: #3213061387710365699-116-1708799898 - Holdem no limit (400/1750/3500) - 2024/02/24 18:38:18 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #7 is the button
+Seat 3: Phaeliks (187622)
+Seat 4: mpintoo17 (81467)
+Seat 5: M1ll3R (59158)
+Seat 6: P1xel7 (36890)
+Seat 7: prisca93 (24220)
+Seat 8: MtRuShmoore (93244)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 400
+Phaeliks posts ante 400
+mpintoo17 posts ante 400
+M1ll3R posts ante 400
+P1xel7 posts ante 400
+prisca93 posts ante 400
+MtRuShmoore posts small blind 1750
+Phaeliks posts big blind 3500
+Dealt to P1xel7 [Kd 3c]
+*** PRE-FLOP *** 
+mpintoo17 calls 3500
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Phaeliks checks
+*** FLOP *** [5c Kc 2s]
+Phaeliks checks
+mpintoo17 checks
+*** TURN *** [5c Kc 2s][Jh]
+Phaeliks checks
+mpintoo17 checks
+*** RIVER *** [5c Kc 2s Jh][Ah]
+Phaeliks checks
+mpintoo17 bets 11150
+Phaeliks folds
+mpintoo17 collected 22300 from pot
+*** SUMMARY ***
+Total pot 22300 | No rake
+Board: [5c Kc 2s Jh Ah]
+Seat 4: mpintoo17 won 22300
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 17 - HandId: #3213061387710365699-117-1708799954 - Holdem no limit (400/1750/3500) - 2024/02/24 18:39:14 UTC
+Table: 'MiniRoll(748099151)#002' 8-max (real money) Seat #8 is the button
+Seat 3: Phaeliks (183722)
+Seat 4: mpintoo17 (88717)
+Seat 5: M1ll3R (58758)
+Seat 6: P1xel7 (36490)
+Seat 7: prisca93 (23820)
+Seat 8: MtRuShmoore (91094)
+*** ANTE/BLINDS ***
+Phaeliks posts ante 400
+mpintoo17 posts ante 400
+M1ll3R posts ante 400
+P1xel7 posts ante 400
+prisca93 posts ante 400
+MtRuShmoore posts ante 400
+Phaeliks posts small blind 1750
+mpintoo17 posts big blind 3500
+Dealt to P1xel7 [Ac 3c]
+*** PRE-FLOP *** 
+M1ll3R folds
+P1xel7 folds
+prisca93 folds
+MtRuShmoore folds
+Phaeliks raises 7000 to 10500
+mpintoo17 folds
+Phaeliks collected 16400 from pot
+*** SUMMARY ***
+Total pot 16400 | No rake
+Seat 3: Phaeliks (small blind) won 16400
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 17 - HandId: #3213061387710365698-102-1708800006 - Holdem no limit (400/1750/3500) - 2024/02/24 18:40:06 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #8 is the button
+Seat 1: mpintoo17 (84817)
+Seat 2: giani02 (99851)
+Seat 3: Mylou-85 (75650)
+Seat 4: Diegales90 (103388)
+Seat 5: MtRuShmoore (90694)
+Seat 6: TR-Titan7915 (429959)
+Seat 7: MaryBo (143326)
+Seat 8: P1xel7 (36090)
+*** ANTE/BLINDS ***
+mpintoo17 posts ante 400
+giani02 posts ante 400
+Mylou-85 posts ante 400
+Diegales90 posts ante 400
+MtRuShmoore posts ante 400
+TR-Titan7915 posts ante 400
+MaryBo posts ante 400
+P1xel7 posts ante 400
+mpintoo17 posts small blind 1750
+giani02 posts big blind 3500
+Dealt to P1xel7 [6c 7c]
+*** PRE-FLOP *** 
+Mylou-85 calls 3500
+Diegales90 folds
+MtRuShmoore folds
+TR-Titan7915 calls 3500
+MaryBo raises 5250 to 8750
+P1xel7 folds
+mpintoo17 calls 7000
+giani02 folds
+Mylou-85 calls 5250
+TR-Titan7915 calls 5250
+*** FLOP *** [Ad 6d 4d]
+mpintoo17 checks
+Mylou-85 bets 10425
+TR-Titan7915 folds
+MaryBo folds
+mpintoo17 calls 10425
+*** TURN *** [Ad 6d 4d][Tc]
+mpintoo17 checks
+Mylou-85 bets 3500
+mpintoo17 calls 3500
+*** RIVER *** [Ad 6d 4d Tc][7d]
+mpintoo17 checks
+Mylou-85 checks
+*** SHOW DOWN ***
+Mylou-85 shows [Qc As] (One pair : Aces)
+mpintoo17 shows [Ts Jd] (Flush Ace high)
+mpintoo17 collected 69550 from pot
+*** SUMMARY ***
+Total pot 69550 | No rake
+Board: [Ad 6d 4d Tc 7d]
+Seat 1: mpintoo17 (small blind) showed [Ts Jd] and won 69550 with Flush Ace high
+Seat 3: Mylou-85 showed [Qc As] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 17 - HandId: #3213061387710365698-103-1708800107 - Holdem no limit (400/1750/3500) - 2024/02/24 18:41:47 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #1 is the button
+Seat 1: mpintoo17 (131292)
+Seat 2: giani02 (95951)
+Seat 3: Mylou-85 (52575)
+Seat 4: Diegales90 (102988)
+Seat 5: MtRuShmoore (90294)
+Seat 6: TR-Titan7915 (420809)
+Seat 7: MaryBo (134176)
+Seat 8: P1xel7 (35690)
+*** ANTE/BLINDS ***
+giani02 posts ante 400
+Mylou-85 posts ante 400
+mpintoo17 posts ante 400
+Diegales90 posts ante 400
+MtRuShmoore posts ante 400
+TR-Titan7915 posts ante 400
+MaryBo posts ante 400
+P1xel7 posts ante 400
+giani02 posts small blind 1750
+Mylou-85 posts big blind 3500
+Dealt to P1xel7 [Ac Kd]
+*** PRE-FLOP *** 
+Diegales90 folds
+MtRuShmoore folds
+TR-Titan7915 raises 4375 to 7875
+MaryBo folds
+P1xel7 raises 27415 to 35290 and is all-in
+mpintoo17 folds
+giani02 folds
+Mylou-85 folds
+TR-Titan7915 calls 27415
+*** FLOP *** [Ad Jd As]
+*** TURN *** [Ad Jd As][Qs]
+*** RIVER *** [Ad Jd As Qs][5h]
+*** SHOW DOWN ***
+TR-Titan7915 shows [6d 8s] (One pair : Aces)
+P1xel7 shows [Ac Kd] (Trips of Aces)
+P1xel7 collected 79030 from pot
+*** SUMMARY ***
+Total pot 79030 | No rake
+Board: [Ad Jd As Qs 5h]
+Seat 6: TR-Titan7915 showed [6d 8s] and lost with One pair : Aces
+Seat 8: P1xel7 showed [Ac Kd] and won 79030 with Trips of Aces
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3213061387710365698-104-1708800160 - Holdem no limit (500/2000/4000) - 2024/02/24 18:42:40 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #2 is the button
+Seat 1: mpintoo17 (130892)
+Seat 2: giani02 (93801)
+Seat 3: Mylou-85 (48675)
+Seat 4: Diegales90 (102588)
+Seat 5: MtRuShmoore (89894)
+Seat 6: TR-Titan7915 (385119)
+Seat 7: MaryBo (133776)
+Seat 8: P1xel7 (79030)
+*** ANTE/BLINDS ***
+Mylou-85 posts ante 500
+Diegales90 posts ante 500
+mpintoo17 posts ante 500
+giani02 posts ante 500
+MtRuShmoore posts ante 500
+TR-Titan7915 posts ante 500
+MaryBo posts ante 500
+P1xel7 posts ante 500
+Mylou-85 posts small blind 2000
+Diegales90 posts big blind 4000
+Dealt to P1xel7 [Ts Jd]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+TR-Titan7915 raises 380619 to 384619 and is all-in
+MaryBo folds
+P1xel7 folds
+mpintoo17 folds
+giani02 folds
+Mylou-85 folds
+Diegales90 folds
+TR-Titan7915 collected 394619 from pot
+*** SUMMARY ***
+Total pot 394619 | No rake
+Seat 6: TR-Titan7915 won 394619
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3213061387710365698-105-1708800198 - Holdem no limit (500/2000/4000) - 2024/02/24 18:43:18 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #3 is the button
+Seat 1: mpintoo17 (130392)
+Seat 2: giani02 (93301)
+Seat 3: Mylou-85 (46175)
+Seat 4: Diegales90 (98088)
+Seat 5: MtRuShmoore (89394)
+Seat 6: TR-Titan7915 (394619)
+Seat 7: MaryBo (133276)
+Seat 8: P1xel7 (78530)
+*** ANTE/BLINDS ***
+Diegales90 posts ante 500
+MtRuShmoore posts ante 500
+mpintoo17 posts ante 500
+giani02 posts ante 500
+Mylou-85 posts ante 500
+TR-Titan7915 posts ante 500
+MaryBo posts ante 500
+P1xel7 posts ante 500
+Diegales90 posts small blind 2000
+MtRuShmoore posts big blind 4000
+Dealt to P1xel7 [Qh 6s]
+*** PRE-FLOP *** 
+TR-Titan7915 folds
+MaryBo raises 6000 to 10000
+P1xel7 folds
+mpintoo17 folds
+giani02 folds
+Mylou-85 folds
+Diegales90 folds
+MtRuShmoore calls 6000
+*** FLOP *** [6h Ts Jc]
+MtRuShmoore checks
+MaryBo bets 9100
+MtRuShmoore calls 9100
+*** TURN *** [6h Ts Jc][Kc]
+MtRuShmoore checks
+MaryBo bets 28730
+MtRuShmoore folds
+MaryBo collected 72930 from pot
+*** SUMMARY ***
+Total pot 72930 | No rake
+Board: [6h Ts Jc Kc]
+Seat 7: MaryBo won 72930
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3213061387710365698-106-1708800256 - Holdem no limit (500/2000/4000) - 2024/02/24 18:44:16 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #4 is the button
+Seat 1: mpintoo17 (129892)
+Seat 2: giani02 (92801)
+Seat 3: Mylou-85 (45675)
+Seat 4: Diegales90 (95588)
+Seat 5: MtRuShmoore (69794)
+Seat 6: TR-Titan7915 (394119)
+Seat 8: P1xel7 (78030)
+*** ANTE/BLINDS ***
+MtRuShmoore posts ante 500
+TR-Titan7915 posts ante 500
+mpintoo17 posts ante 500
+giani02 posts ante 500
+Mylou-85 posts ante 500
+Diegales90 posts ante 500
+P1xel7 posts ante 500
+MtRuShmoore posts small blind 2000
+TR-Titan7915 posts big blind 4000
+Dealt to P1xel7 [9d Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+mpintoo17 calls 4000
+giani02 folds
+Mylou-85 folds
+Diegales90 folds
+MtRuShmoore folds
+TR-Titan7915 checks
+*** FLOP *** [2h 5s 6c]
+TR-Titan7915 checks
+mpintoo17 checks
+*** TURN *** [2h 5s 6c][Jh]
+TR-Titan7915 bets 4000
+mpintoo17 calls 4000
+*** RIVER *** [2h 5s 6c Jh][8c]
+TR-Titan7915 bets 133733
+mpintoo17 folds
+TR-Titan7915 collected 155233 from pot
+*** SUMMARY ***
+Total pot 155233 | No rake
+Board: [2h 5s 6c Jh 8c]
+Seat 6: TR-Titan7915 (big blind) won 155233
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3213061387710365698-107-1708800320 - Holdem no limit (500/2000/4000) - 2024/02/24 18:45:20 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #5 is the button
+Seat 1: mpintoo17 (121392)
+Seat 2: giani02 (92301)
+Seat 3: Mylou-85 (45175)
+Seat 4: Diegales90 (95088)
+Seat 5: MtRuShmoore (67294)
+Seat 6: TR-Titan7915 (407119)
+Seat 8: P1xel7 (77530)
+*** ANTE/BLINDS ***
+TR-Titan7915 posts ante 500
+P1xel7 posts ante 500
+mpintoo17 posts ante 500
+giani02 posts ante 500
+Mylou-85 posts ante 500
+Diegales90 posts ante 500
+MtRuShmoore posts ante 500
+TR-Titan7915 posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [5d Jc]
+*** PRE-FLOP *** 
+mpintoo17 folds
+giani02 folds
+Mylou-85 folds
+Diegales90 folds
+MtRuShmoore folds
+TR-Titan7915 raises 402619 to 406619 and is all-in
+P1xel7 folds
+TR-Titan7915 collected 414119 from pot
+*** SUMMARY ***
+Total pot 414119 | No rake
+Seat 6: TR-Titan7915 (small blind) won 414119
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3213061387710365698-108-1708800345 - Holdem no limit (500/2000/4000) - 2024/02/24 18:45:45 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #6 is the button
+Seat 1: mpintoo17 (120892)
+Seat 2: giani02 (91801)
+Seat 3: Mylou-85 (44675)
+Seat 4: Diegales90 (94588)
+Seat 5: MtRuShmoore (66794)
+Seat 6: TR-Titan7915 (414119)
+Seat 8: P1xel7 (73030)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+mpintoo17 posts ante 500
+giani02 posts ante 500
+Mylou-85 posts ante 500
+Diegales90 posts ante 500
+MtRuShmoore posts ante 500
+TR-Titan7915 posts ante 500
+P1xel7 posts small blind 2000
+mpintoo17 posts big blind 4000
+Dealt to P1xel7 [Kc 6c]
+*** PRE-FLOP *** 
+giani02 folds
+Mylou-85 folds
+Diegales90 folds
+MtRuShmoore folds
+TR-Titan7915 raises 409619 to 413619 and is all-in
+P1xel7 folds
+mpintoo17 folds
+TR-Titan7915 shows [8c 2h] (High card : 8)
+TR-Titan7915 collected 423119 from pot
+*** SUMMARY ***
+Total pot 423119 | No rake
+Seat 6: TR-Titan7915 (button) showed [8c 2h] and won 423119 with High card : 8
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3213061387710365698-109-1708800369 - Holdem no limit (500/2000/4000) - 2024/02/24 18:46:09 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #8 is the button
+Seat 1: mpintoo17 (116392)
+Seat 2: giani02 (91301)
+Seat 3: Mylou-85 (44175)
+Seat 4: Diegales90 (94088)
+Seat 5: MtRuShmoore (66294)
+Seat 6: TR-Titan7915 (423119)
+Seat 8: P1xel7 (70530)
+*** ANTE/BLINDS ***
+mpintoo17 posts ante 500
+giani02 posts ante 500
+Mylou-85 posts ante 500
+Diegales90 posts ante 500
+MtRuShmoore posts ante 500
+TR-Titan7915 posts ante 500
+P1xel7 posts ante 500
+mpintoo17 posts small blind 2000
+giani02 posts big blind 4000
+Dealt to P1xel7 [4h 9h]
+*** PRE-FLOP *** 
+Mylou-85 folds
+Diegales90 folds
+MtRuShmoore folds
+TR-Titan7915 folds
+P1xel7 folds
+mpintoo17 folds
+giani02 collected 9500 from pot
+*** SUMMARY ***
+Total pot 9500 | No rake
+Seat 2: giani02 (big blind) won 9500
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3213061387710365698-110-1708800399 - Holdem no limit (500/2000/4000) - 2024/02/24 18:46:39 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #1 is the button
+Seat 1: mpintoo17 (113892)
+Seat 2: giani02 (96301)
+Seat 3: Mylou-85 (43675)
+Seat 4: Diegales90 (93588)
+Seat 5: MtRuShmoore (65794)
+Seat 6: TR-Titan7915 (422619)
+Seat 8: P1xel7 (70030)
+*** ANTE/BLINDS ***
+giani02 posts ante 500
+Mylou-85 posts ante 500
+mpintoo17 posts ante 500
+Diegales90 posts ante 500
+MtRuShmoore posts ante 500
+TR-Titan7915 posts ante 500
+P1xel7 posts ante 500
+giani02 posts small blind 2000
+Mylou-85 posts big blind 4000
+Dealt to P1xel7 [7d 9c]
+*** PRE-FLOP *** 
+Diegales90 folds
+MtRuShmoore folds
+TR-Titan7915 folds
+P1xel7 folds
+mpintoo17 calls 4000
+giani02 folds
+Mylou-85 checks
+*** FLOP *** [3s Jc Ts]
+Mylou-85 bets 6750
+mpintoo17 folds
+Mylou-85 collected 20250 from pot
+*** SUMMARY ***
+Total pot 20250 | No rake
+Board: [3s Jc Ts]
+Seat 3: Mylou-85 (big blind) won 20250
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 19 - HandId: #3213061387710365698-111-1708800455 - Holdem no limit (600/2500/5000) - 2024/02/24 18:47:35 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #2 is the button
+Seat 1: mpintoo17 (109392)
+Seat 2: giani02 (93801)
+Seat 3: Mylou-85 (52675)
+Seat 4: Diegales90 (93088)
+Seat 5: MtRuShmoore (65294)
+Seat 6: TR-Titan7915 (422119)
+Seat 8: P1xel7 (69530)
+*** ANTE/BLINDS ***
+Mylou-85 posts ante 600
+Diegales90 posts ante 600
+mpintoo17 posts ante 600
+giani02 posts ante 600
+MtRuShmoore posts ante 600
+TR-Titan7915 posts ante 600
+P1xel7 posts ante 600
+Mylou-85 posts small blind 2500
+Diegales90 posts big blind 5000
+Dealt to P1xel7 [Td Jh]
+*** PRE-FLOP *** 
+MtRuShmoore folds
+TR-Titan7915 raises 12500 to 17500
+P1xel7 folds
+mpintoo17 folds
+giani02 folds
+Mylou-85 raises 12500 to 30000
+Diegales90 folds
+TR-Titan7915 raises 391519 to 421519 and is all-in
+Mylou-85 calls 22075 and is all-in
+*** FLOP *** [7h 5s 9h]
+*** TURN *** [7h 5s 9h][Jc]
+*** RIVER *** [7h 5s 9h Jc][6s]
+*** SHOW DOWN ***
+Mylou-85 shows [Ac Ad] (One pair : Aces)
+TR-Titan7915 shows [Kc Js] (One pair : Jacks)
+TR-Titan7915 collected 369444 from side pot 1
+Mylou-85 collected 113350 from main pot
+*** SUMMARY ***
+Total pot 482794 | No rake
+Board: [7h 5s 9h Jc 6s]
+Seat 3: Mylou-85 (small blind) showed [Ac Ad] and won 113350 with One pair : Aces
+Seat 6: TR-Titan7915 showed [Kc Js] and won 369444 with One pair : Jacks
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 19 - HandId: #3213061387710365698-112-1708800490 - Holdem no limit (600/2500/5000) - 2024/02/24 18:48:10 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #3 is the button
+Seat 1: mpintoo17 (108792)
+Seat 2: giani02 (93201)
+Seat 3: Mylou-85 (113350)
+Seat 4: Diegales90 (87488)
+Seat 5: MtRuShmoore (64694)
+Seat 6: TR-Titan7915 (369444)
+Seat 8: P1xel7 (68930)
+*** ANTE/BLINDS ***
+Diegales90 posts ante 600
+MtRuShmoore posts ante 600
+mpintoo17 posts ante 600
+giani02 posts ante 600
+Mylou-85 posts ante 600
+TR-Titan7915 posts ante 600
+P1xel7 posts ante 600
+Diegales90 posts small blind 2500
+MtRuShmoore posts big blind 5000
+Dealt to P1xel7 [6d Ad]
+*** PRE-FLOP *** 
+TR-Titan7915 raises 363844 to 368844 and is all-in
+P1xel7 folds
+mpintoo17 folds
+giani02 folds
+Mylou-85 folds
+Diegales90 folds
+MtRuShmoore calls 59094 and is all-in
+*** FLOP *** [Jd Ah 9d]
+*** TURN *** [Jd Ah 9d][4d]
+*** RIVER *** [Jd Ah 9d 4d][Ts]
+*** SHOW DOWN ***
+MtRuShmoore shows [5h Kh] (High card : Ace)
+TR-Titan7915 shows [Jc Tc] (Two pairs : Jacks and Tens)
+TR-Titan7915 collected 439638 from pot
+*** SUMMARY ***
+Total pot 439638 | No rake
+Board: [Jd Ah 9d 4d Ts]
+Seat 5: MtRuShmoore (big blind) showed [5h Kh] and lost with High card : Ace
+Seat 6: TR-Titan7915 showed [Jc Tc] and won 439638 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 19 - HandId: #3213061387710365698-113-1708800510 - Holdem no limit (600/2500/5000) - 2024/02/24 18:48:30 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #4 is the button
+Seat 1: mpintoo17 (108192)
+Seat 2: giani02 (92601)
+Seat 3: Mylou-85 (112750)
+Seat 4: Diegales90 (84388)
+Seat 6: TR-Titan7915 (439638)
+Seat 8: P1xel7 (68330)
+*** ANTE/BLINDS ***
+TR-Titan7915 posts ante 600
+mpintoo17 posts ante 600
+giani02 posts ante 600
+Mylou-85 posts ante 600
+Diegales90 posts ante 600
+P1xel7 posts ante 600
+TR-Titan7915 posts big blind 5000
+Dealt to P1xel7 [3c Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+mpintoo17 folds
+giani02 raises 5000 to 10000
+Mylou-85 calls 10000
+Diegales90 folds
+TR-Titan7915 calls 5000
+*** FLOP *** [3d 9s Kc]
+TR-Titan7915 checks
+giani02 bets 12500
+Mylou-85 folds
+TR-Titan7915 folds
+giani02 collected 46100 from pot
+*** SUMMARY ***
+Total pot 46100 | No rake
+Board: [3d 9s Kc]
+Seat 2: giani02 won 46100
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 19 - HandId: #3213061387710365698-114-1708800567 - Holdem no limit (600/2500/5000) - 2024/02/24 18:49:27 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #5 is the button
+Seat 1: mpintoo17 (107592)
+Seat 2: giani02 (115601)
+Seat 3: Mylou-85 (102150)
+Seat 4: Diegales90 (83788)
+Seat 6: TR-Titan7915 (429038)
+Seat 8: P1xel7 (67730)
+*** ANTE/BLINDS ***
+TR-Titan7915 posts ante 600
+P1xel7 posts ante 600
+mpintoo17 posts ante 600
+giani02 posts ante 600
+Mylou-85 posts ante 600
+Diegales90 posts ante 600
+TR-Titan7915 posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [9s Jc]
+*** PRE-FLOP *** 
+mpintoo17 folds
+giani02 folds
+Mylou-85 folds
+Diegales90 folds
+TR-Titan7915 raises 423438 to 428438 and is all-in
+P1xel7 folds
+TR-Titan7915 collected 437038 from pot
+*** SUMMARY ***
+Total pot 437038 | No rake
+Seat 6: TR-Titan7915 (small blind) won 437038
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 19 - HandId: #3213061387710365698-115-1708800592 - Holdem no limit (600/2500/5000) - 2024/02/24 18:49:52 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #6 is the button
+Seat 1: mpintoo17 (106992)
+Seat 2: giani02 (115001)
+Seat 3: Mylou-85 (101550)
+Seat 4: Diegales90 (83188)
+Seat 6: TR-Titan7915 (437038)
+Seat 8: P1xel7 (62130)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 600
+mpintoo17 posts ante 600
+giani02 posts ante 600
+Mylou-85 posts ante 600
+Diegales90 posts ante 600
+TR-Titan7915 posts ante 600
+P1xel7 posts small blind 2500
+mpintoo17 posts big blind 5000
+Dealt to P1xel7 [Tc Kd]
+*** PRE-FLOP *** 
+giani02 folds
+Mylou-85 folds
+Diegales90 folds
+TR-Titan7915 raises 431438 to 436438 and is all-in
+P1xel7 calls 59030 and is all-in
+mpintoo17 folds
+*** FLOP *** [8h Qc Ks]
+*** TURN *** [8h Qc Ks][Ad]
+*** RIVER *** [8h Qc Ks Ad][Ac]
+*** SHOW DOWN ***
+TR-Titan7915 shows [7s Td] (One pair : Aces)
+P1xel7 shows [Tc Kd] (Two pairs : Aces and Kings)
+P1xel7 collected 131660 from main pot
+TR-Titan7915 collected 374908 from side pot 1
+*** SUMMARY ***
+Total pot 506568 | No rake
+Board: [8h Qc Ks Ad Ac]
+Seat 6: TR-Titan7915 (button) showed [7s Td] and won 374908 with One pair : Aces
+Seat 8: P1xel7 (small blind) showed [Tc Kd] and won 131660 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 19 - HandId: #3213061387710365698-116-1708800620 - Holdem no limit (600/2500/5000) - 2024/02/24 18:50:20 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #8 is the button
+Seat 1: mpintoo17 (101392)
+Seat 2: giani02 (114401)
+Seat 3: Mylou-85 (100950)
+Seat 4: Diegales90 (82588)
+Seat 6: TR-Titan7915 (374908)
+Seat 8: P1xel7 (131660)
+*** ANTE/BLINDS ***
+mpintoo17 posts ante 600
+giani02 posts ante 600
+Mylou-85 posts ante 600
+Diegales90 posts ante 600
+TR-Titan7915 posts ante 600
+P1xel7 posts ante 600
+mpintoo17 posts small blind 2500
+giani02 posts big blind 5000
+Dealt to P1xel7 [9s 6s]
+*** PRE-FLOP *** 
+Mylou-85 folds
+Diegales90 folds
+TR-Titan7915 raises 12500 to 17500
+P1xel7 folds
+mpintoo17 calls 15000
+giani02 folds
+*** FLOP *** [Tc 3d 2c]
+mpintoo17 checks
+TR-Titan7915 bets 21800
+mpintoo17 calls 21800
+*** TURN *** [Tc 3d 2c][Kh]
+mpintoo17 checks
+TR-Titan7915 bets 43600
+mpintoo17 calls 43600
+*** RIVER *** [Tc 3d 2c Kh][7h]
+mpintoo17 checks
+TR-Titan7915 bets 291408 and is all-in
+mpintoo17 calls 17892 and is all-in
+*** SHOW DOWN ***
+mpintoo17 shows [7c 7d] (Trips of 7)
+TR-Titan7915 shows [8d 5d] (High card : King)
+TR-Titan7915 collected 273516 from side pot 1
+mpintoo17 collected 210184 from main pot
+*** SUMMARY ***
+Total pot 483700 | No rake
+Board: [Tc 3d 2c Kh 7h]
+Seat 1: mpintoo17 (small blind) showed [7c 7d] and won 210184 with Trips of 7
+Seat 6: TR-Titan7915 showed [8d 5d] and won 273516 with High card : King
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 19 - HandId: #3213061387710365698-117-1708800674 - Holdem no limit (600/2500/5000) - 2024/02/24 18:51:14 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #1 is the button
+Seat 1: mpintoo17 (210184)
+Seat 2: giani02 (108801)
+Seat 3: Mylou-85 (100350)
+Seat 4: Diegales90 (81988)
+Seat 6: TR-Titan7915 (273516)
+Seat 8: P1xel7 (131060)
+*** ANTE/BLINDS ***
+giani02 posts ante 600
+Mylou-85 posts ante 600
+mpintoo17 posts ante 600
+Diegales90 posts ante 600
+TR-Titan7915 posts ante 600
+P1xel7 posts ante 600
+giani02 posts small blind 2500
+Mylou-85 posts big blind 5000
+Dealt to P1xel7 [5d 8c]
+*** PRE-FLOP *** 
+Diegales90 folds
+TR-Titan7915 raises 267916 to 272916 and is all-in
+P1xel7 folds
+mpintoo17 folds
+giani02 folds
+Mylou-85 folds
+TR-Titan7915 shows [9s 7s] (High card : 9)
+TR-Titan7915 collected 284016 from pot
+*** SUMMARY ***
+Total pot 284016 | No rake
+Seat 6: TR-Titan7915 showed [9s 7s] and won 284016 with High card : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 19 - HandId: #3213061387710365698-118-1708800707 - Holdem no limit (600/2500/5000) - 2024/02/24 18:51:47 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #2 is the button
+Seat 1: mpintoo17 (209584)
+Seat 2: giani02 (105701)
+Seat 3: Mylou-85 (94750)
+Seat 4: Diegales90 (81388)
+Seat 6: TR-Titan7915 (284016)
+Seat 8: P1xel7 (130460)
+*** ANTE/BLINDS ***
+Mylou-85 posts ante 600
+Diegales90 posts ante 600
+mpintoo17 posts ante 600
+giani02 posts ante 600
+TR-Titan7915 posts ante 600
+P1xel7 posts ante 600
+Mylou-85 posts small blind 2500
+Diegales90 posts big blind 5000
+Dealt to P1xel7 [3d Jd]
+*** PRE-FLOP *** 
+TR-Titan7915 raises 278416 to 283416 and is all-in
+P1xel7 folds
+mpintoo17 folds
+giani02 folds
+Mylou-85 folds
+Diegales90 folds
+TR-Titan7915 shows [6h 9c] (High card : 9)
+TR-Titan7915 collected 294516 from pot
+*** SUMMARY ***
+Total pot 294516 | No rake
+Seat 6: TR-Titan7915 showed [6h 9c] and won 294516 with High card : 9
+
+
+Winamax Poker - Tournament "MiniRoll" buyIn: 0.22€ + 0.03€ level: 20 - HandId: #3213061387710365698-119-1708800727 - Holdem no limit (700/3000/6000) - 2024/02/24 18:52:07 UTC
+Table: 'MiniRoll(748099151)#001' 8-max (real money) Seat #3 is the button
+Seat 1: mpintoo17 (208984)
+Seat 2: giani02 (105101)
+Seat 3: Mylou-85 (91650)
+Seat 4: Diegales90 (75788)
+Seat 6: TR-Titan7915 (294516)
+Seat 8: P1xel7 (129860)
+*** ANTE/BLINDS ***
+Diegales90 posts ante 700
+TR-Titan7915 posts ante 700
+mpintoo17 posts ante 700
+giani02 posts ante 700
+Mylou-85 posts ante 700
+P1xel7 posts ante 700
+Diegales90 posts small blind 3000
+TR-Titan7915 posts big blind 6000
+Dealt to P1xel7 [Td Ad]
+*** PRE-FLOP *** 
+P1xel7 raises 6000 to 12000
+mpintoo17 folds
+giani02 folds
+Mylou-85 folds
+Diegales90 folds
+TR-Titan7915 calls 6000
+*** FLOP *** [Th 5h 9s]
+TR-Titan7915 checks
+P1xel7 bets 9000
+TR-Titan7915 calls 9000
+*** TURN *** [Th 5h 9s][5c]
+TR-Titan7915 bets 272816 and is all-in
+P1xel7 calls 108160 and is all-in
+*** RIVER *** [Th 5h 9s 5c][Qc]
+*** SHOW DOWN ***
+P1xel7 shows [Td Ad] (Two pairs : Tens and 5)
+TR-Titan7915 shows [Qs 6h] (Two pairs : Queens and 5)
+TR-Titan7915 collected 430176 from pot
+*** SUMMARY ***
+Total pot 430176 | No rake
+Board: [Th 5h 9s 5c Qc]
+Seat 6: TR-Titan7915 (big blind) showed [Qs 6h] and won 430176 with Two pairs : Queens and 5
+Seat 8: P1xel7 showed [Td Ad] and lost with Two pairs : Tens and 5
+
+

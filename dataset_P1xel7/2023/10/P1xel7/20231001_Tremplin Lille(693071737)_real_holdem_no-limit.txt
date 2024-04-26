@@ -1,0 +1,1207 @@
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 1 - HandId: #2976720444196913233-1-1696183225 - Holdem no limit (10/20) - 2023/10/01 18:00:25 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #2 is the button
+Seat 1: Penchax1 (3000)
+Seat 2: Loup08200 (3000)
+Seat 3: ItsMyFierte (3000)
+Seat 4: Doublewhisky (3000)
+Seat 5: amorphe 7169 (3000)
+Seat 6: P1xel7 (3000)
+Seat 7: jackadette (3000)
+Seat 8: beber77420 (3000)
+*** ANTE/BLINDS ***
+ItsMyFierte posts small blind 10
+Doublewhisky posts big blind 20
+Dealt to P1xel7 [Kc 8s]
+*** PRE-FLOP *** 
+amorphe 7169 folds
+P1xel7 folds
+jackadette folds
+beber77420 folds
+Penchax1 folds
+Loup08200 folds
+ItsMyFierte raises 20 to 40
+Doublewhisky folds
+ItsMyFierte collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: ItsMyFierte (small blind) won 60
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 1 - HandId: #2976720444196913233-2-1696183637 - Holdem no limit (10/20) - 2023/10/01 18:07:17 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #3 is the button
+Seat 1: Penchax1 (3000)
+Seat 2: Loup08200 (3000)
+Seat 3: ItsMyFierte (3020)
+Seat 4: Doublewhisky (2980)
+Seat 5: amorphe 7169 (3000)
+Seat 6: P1xel7 (3000)
+Seat 7: jackadette (3000)
+Seat 8: beber77420 (3000)
+*** ANTE/BLINDS ***
+Doublewhisky posts small blind 10
+amorphe 7169 posts big blind 20
+Dealt to P1xel7 [Js Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 24 to 44
+jackadette folds
+beber77420 folds
+Penchax1 folds
+Loup08200 folds
+ItsMyFierte folds
+Doublewhisky folds
+amorphe 7169 folds
+P1xel7 collected 74 from pot
+*** SUMMARY ***
+Total pot 74 | No rake
+Seat 6: P1xel7 won 74
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 1 - HandId: #2976720444196913233-3-1696183668 - Holdem no limit (10/20) - 2023/10/01 18:07:48 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #4 is the button
+Seat 1: Penchax1 (3000)
+Seat 2: Loup08200 (3000)
+Seat 3: ItsMyFierte (3020)
+Seat 4: Doublewhisky (2970)
+Seat 5: amorphe 7169 (2980)
+Seat 6: P1xel7 (3030)
+Seat 7: jackadette (3000)
+Seat 8: beber77420 (3000)
+*** ANTE/BLINDS ***
+amorphe 7169 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [2h 7d]
+*** PRE-FLOP *** 
+jackadette calls 20
+beber77420 folds
+Penchax1 calls 20
+Loup08200 folds
+ItsMyFierte folds
+Doublewhisky folds
+amorphe 7169 folds
+P1xel7 checks
+*** FLOP *** [9c 8d Th]
+P1xel7 checks
+jackadette checks
+Penchax1 checks
+*** TURN *** [9c 8d Th][5d]
+P1xel7 checks
+jackadette checks
+Penchax1 bets 46
+P1xel7 folds
+jackadette calls 46
+*** RIVER *** [9c 8d Th 5d][Qs]
+jackadette checks
+Penchax1 checks
+*** SHOW DOWN ***
+Penchax1 shows [Kd 2d] (High card : King)
+jackadette shows [Qh 6d] (One pair : Queens)
+jackadette collected 162 from pot
+*** SUMMARY ***
+Total pot 162 | No rake
+Board: [9c 8d Th 5d Qs]
+Seat 1: Penchax1 showed [Kd 2d] and lost with High card : King
+Seat 7: jackadette showed [Qh 6d] and won 162 with One pair : Queens
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-4-1696183720 - Holdem no limit (15/30) - 2023/10/01 18:08:40 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #5 is the button
+Seat 1: Penchax1 (2934)
+Seat 2: Loup08200 (3000)
+Seat 3: ItsMyFierte (3020)
+Seat 4: Doublewhisky (2970)
+Seat 5: amorphe 7169 (2970)
+Seat 6: P1xel7 (3010)
+Seat 7: jackadette (3096)
+Seat 8: beber77420 (3000)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+jackadette posts big blind 30
+Dealt to P1xel7 [Jc Kd]
+*** PRE-FLOP *** 
+beber77420 folds
+Penchax1 calls 30
+Loup08200 folds
+ItsMyFierte raises 45 to 75
+Doublewhisky folds
+amorphe 7169 calls 75
+P1xel7 calls 60
+jackadette calls 45
+Penchax1 raises 375 to 450
+ItsMyFierte calls 375
+amorphe 7169 calls 375
+P1xel7 folds
+jackadette folds
+*** FLOP *** [5c 5d Kc]
+Penchax1 bets 750
+ItsMyFierte folds
+amorphe 7169 folds
+Penchax1 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [5c 5d Kc]
+Seat 1: Penchax1 won 2250
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-5-1696183771 - Holdem no limit (15/30) - 2023/10/01 18:09:31 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #6 is the button
+Seat 1: Penchax1 (3984)
+Seat 2: Loup08200 (3000)
+Seat 3: ItsMyFierte (2570)
+Seat 4: Doublewhisky (2970)
+Seat 5: amorphe 7169 (2520)
+Seat 6: P1xel7 (2935)
+Seat 7: jackadette (3021)
+Seat 8: beber77420 (3000)
+*** ANTE/BLINDS ***
+jackadette posts small blind 15
+beber77420 posts big blind 30
+Dealt to P1xel7 [Tc 8d]
+*** PRE-FLOP *** 
+Penchax1 folds
+Loup08200 folds
+ItsMyFierte folds
+Doublewhisky folds
+amorphe 7169 raises 30 to 60
+P1xel7 folds
+jackadette calls 45
+beber77420 folds
+*** FLOP *** [Jh Jc 4d]
+jackadette checks
+amorphe 7169 checks
+*** TURN *** [Jh Jc 4d][As]
+jackadette checks
+amorphe 7169 checks
+*** RIVER *** [Jh Jc 4d As][3h]
+jackadette checks
+amorphe 7169 bets 150
+jackadette folds
+amorphe 7169 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Jh Jc 4d As 3h]
+Seat 5: amorphe 7169 won 300
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-6-1696183838 - Holdem no limit (15/30) - 2023/10/01 18:10:38 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #7 is the button
+Seat 1: Penchax1 (3984)
+Seat 2: Loup08200 (3000)
+Seat 3: ItsMyFierte (2570)
+Seat 4: Doublewhisky (2970)
+Seat 5: amorphe 7169 (2610)
+Seat 6: P1xel7 (2935)
+Seat 7: jackadette (2961)
+Seat 8: beber77420 (2970)
+*** ANTE/BLINDS ***
+beber77420 posts small blind 15
+Penchax1 posts big blind 30
+Dealt to P1xel7 [2d 2s]
+*** PRE-FLOP *** 
+Loup08200 folds
+ItsMyFierte raises 60 to 90
+Doublewhisky folds
+amorphe 7169 raises 225 to 315
+P1xel7 folds
+jackadette calls 315
+beber77420 folds
+Penchax1 folds
+ItsMyFierte calls 225
+*** FLOP *** [9s 2c Tc]
+ItsMyFierte checks
+amorphe 7169 bets 990
+jackadette calls 990
+ItsMyFierte raises 1265 to 2255 and is all-in
+amorphe 7169 raises 40 to 2295 and is all-in
+jackadette calls 1305
+*** TURN *** [9s 2c Tc][Th]
+*** RIVER *** [9s 2c Tc Th][5h]
+*** SHOW DOWN ***
+ItsMyFierte shows [Ks Js] (One pair : Tens)
+jackadette shows [Ac 7c] (One pair : Tens)
+amorphe 7169 shows [8d Ts] (Trips of Tens)
+amorphe 7169 collected 7835 from pot
+*** SUMMARY ***
+Total pot 7835 | No rake
+Board: [9s 2c Tc Th 5h]
+Seat 3: ItsMyFierte showed [Ks Js] and lost with One pair : Tens
+Seat 5: amorphe 7169 showed [8d Ts] and won 7835 with Trips of Tens
+Seat 7: jackadette (button) showed [Ac 7c] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-7-1696183874 - Holdem no limit (15/30) - 2023/10/01 18:11:14 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #8 is the button
+Seat 1: Penchax1 (3954)
+Seat 2: Loup08200 (3000)
+Seat 4: Doublewhisky (2970)
+Seat 5: amorphe 7169 (7835)
+Seat 6: P1xel7 (2935)
+Seat 7: jackadette (351)
+Seat 8: beber77420 (2955)
+*** ANTE/BLINDS ***
+Penchax1 posts small blind 15
+Loup08200 posts big blind 30
+Dealt to P1xel7 [Js 6h]
+*** PRE-FLOP *** 
+Doublewhisky folds
+amorphe 7169 raises 75 to 105
+P1xel7 folds
+jackadette calls 105
+beber77420 folds
+Penchax1 folds
+Loup08200 folds
+*** FLOP *** [6d 4d 4c]
+amorphe 7169 bets 255
+jackadette calls 246 and is all-in
+*** TURN *** [6d 4d 4c][3s]
+*** RIVER *** [6d 4d 4c 3s][Jc]
+*** SHOW DOWN ***
+amorphe 7169 shows [Qh Ks] (One pair : 4)
+jackadette shows [8s Jh] (Two pairs : Jacks and 4)
+jackadette collected 747 from main pot
+amorphe 7169 collected 9 from side pot 1
+*** SUMMARY ***
+Total pot 756 | No rake
+Board: [6d 4d 4c 3s Jc]
+Seat 5: amorphe 7169 showed [Qh Ks] and won 9 with One pair : 4
+Seat 7: jackadette showed [8s Jh] and won 747 with Two pairs : Jacks and 4
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-8-1696183898 - Holdem no limit (15/30) - 2023/10/01 18:11:38 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #1 is the button
+Seat 1: Penchax1 (3939)
+Seat 2: Loup08200 (2970)
+Seat 4: Doublewhisky (2970)
+Seat 5: amorphe 7169 (7484)
+Seat 6: P1xel7 (2935)
+Seat 7: jackadette (747)
+Seat 8: beber77420 (2955)
+*** ANTE/BLINDS ***
+Loup08200 posts small blind 15
+Doublewhisky posts big blind 30
+Dealt to P1xel7 [Ah 3c]
+*** PRE-FLOP *** 
+amorphe 7169 raises 75 to 105
+P1xel7 folds
+jackadette folds
+beber77420 folds
+Penchax1 raises 75 to 180
+Loup08200 folds
+Doublewhisky folds
+amorphe 7169 raises 405 to 585
+Penchax1 calls 405
+*** FLOP *** [9h As 6d]
+amorphe 7169 bets 1215
+Penchax1 raises 1215 to 2430
+amorphe 7169 calls 1215
+*** TURN *** [9h As 6d][7c]
+amorphe 7169 checks
+Penchax1 bets 924 and is all-in
+amorphe 7169 calls 924
+*** RIVER *** [9h As 6d 7c][Td]
+*** SHOW DOWN ***
+Penchax1 shows [Kd Ac] (One pair : Aces)
+amorphe 7169 shows [9d 8c] (Straight Ten high)
+amorphe 7169 collected 7923 from pot
+*** SUMMARY ***
+Total pot 7923 | No rake
+Board: [9h As 6d 7c Td]
+Seat 1: Penchax1 (button) showed [Kd Ac] and lost with One pair : Aces
+Seat 5: amorphe 7169 showed [9d 8c] and won 7923 with Straight Ten high
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-9-1696183941 - Holdem no limit (15/30) - 2023/10/01 18:12:21 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #2 is the button
+Seat 2: Loup08200 (2955)
+Seat 4: Doublewhisky (2940)
+Seat 5: amorphe 7169 (11468)
+Seat 6: P1xel7 (2935)
+Seat 7: jackadette (747)
+Seat 8: beber77420 (2955)
+*** ANTE/BLINDS ***
+Doublewhisky posts small blind 15
+amorphe 7169 posts big blind 30
+Dealt to P1xel7 [4h 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+jackadette raises 717 to 747 and is all-in
+beber77420 folds
+Loup08200 folds
+Doublewhisky folds
+amorphe 7169 raises 717 to 1464
+*** FLOP *** [6c Th 6d]
+*** TURN *** [6c Th 6d][Td]
+*** RIVER *** [6c Th 6d Td][4c]
+*** SHOW DOWN ***
+amorphe 7169 shows [3d 4d] (Two pairs : Tens and 6)
+jackadette shows [Ah Jc] (Two pairs : Tens and 6)
+jackadette collected 1509 from main pot
+amorphe 7169 collected 717 from side pot 1
+*** SUMMARY ***
+Total pot 2226 | No rake
+Board: [6c Th 6d Td 4c]
+Seat 5: amorphe 7169 (big blind) showed [3d 4d] and won 717 with Two pairs : Tens and 6
+Seat 7: jackadette showed [Ah Jc] and won 1509 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-10-1696183960 - Holdem no limit (15/30) - 2023/10/01 18:12:40 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #4 is the button
+Seat 1: djack32 (3050)
+Seat 2: Loup08200 (2955)
+Seat 4: Doublewhisky (2925)
+Seat 5: amorphe 7169 (10721)
+Seat 6: P1xel7 (2935)
+Seat 7: jackadette (1509)
+Seat 8: beber77420 (2955)
+*** ANTE/BLINDS ***
+amorphe 7169 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Ah 9d]
+*** PRE-FLOP *** 
+jackadette folds
+beber77420 folds
+djack32 folds
+Loup08200 folds
+Doublewhisky folds
+amorphe 7169 raises 60 to 90
+P1xel7 calls 60
+*** FLOP *** [4d 5d As]
+amorphe 7169 bets 180
+P1xel7 calls 180
+*** TURN *** [4d 5d As][6c]
+amorphe 7169 bets 540
+P1xel7 calls 540
+*** RIVER *** [4d 5d As 6c][2d]
+amorphe 7169 checks
+P1xel7 bets 567
+amorphe 7169 calls 567
+*** SHOW DOWN ***
+amorphe 7169 shows [Qd Qc] (One pair : Queens)
+P1xel7 shows [Ah 9d] (One pair : Aces)
+P1xel7 collected 2754 from pot
+*** SUMMARY ***
+Total pot 2754 | No rake
+Board: [4d 5d As 6c 2d]
+Seat 5: amorphe 7169 (small blind) showed [Qd Qc] and lost with One pair : Queens
+Seat 6: P1xel7 (big blind) showed [Ah 9d] and won 2754 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-11-1696184011 - Holdem no limit (15/30) - 2023/10/01 18:13:31 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #5 is the button
+Seat 1: djack32 (3050)
+Seat 2: Loup08200 (2955)
+Seat 3: smeu02 (3000)
+Seat 4: Doublewhisky (2925)
+Seat 5: amorphe 7169 (9344)
+Seat 6: P1xel7 (4312)
+Seat 7: jackadette (1509)
+Seat 8: beber77420 (2955)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+jackadette posts big blind 30
+Dealt to P1xel7 [3h Tc]
+*** PRE-FLOP *** 
+beber77420 folds
+djack32 calls 30
+Loup08200 folds
+smeu02 folds
+Doublewhisky folds
+amorphe 7169 folds
+P1xel7 folds
+jackadette checks
+*** FLOP *** [Js Qh 8h]
+jackadette checks
+djack32 checks
+*** TURN *** [Js Qh 8h][8c]
+jackadette bets 49
+djack32 calls 49
+*** RIVER *** [Js Qh 8h 8c][8s]
+jackadette bets 138
+djack32 calls 138
+*** SHOW DOWN ***
+djack32 shows [Ac 3c] (Trips of 8)
+jackadette shows [4c Qd] (Full of 8 and Queens)
+jackadette collected 449 from pot
+*** SUMMARY ***
+Total pot 449 | No rake
+Board: [Js Qh 8h 8c 8s]
+Seat 1: djack32 showed [Ac 3c] and lost with Trips of 8
+Seat 7: jackadette (big blind) showed [4c Qd] and won 449 with Full of 8 and Queens
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-12-1696184072 - Holdem no limit (15/30) - 2023/10/01 18:14:32 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #6 is the button
+Seat 1: djack32 (2833)
+Seat 2: Loup08200 (2955)
+Seat 3: smeu02 (3000)
+Seat 4: Doublewhisky (2925)
+Seat 5: amorphe 7169 (9344)
+Seat 6: P1xel7 (4297)
+Seat 7: jackadette (1741)
+Seat 8: beber77420 (2955)
+*** ANTE/BLINDS ***
+jackadette posts small blind 15
+beber77420 posts big blind 30
+Dealt to P1xel7 [3s 6s]
+*** PRE-FLOP *** 
+djack32 calls 30
+Loup08200 folds
+smeu02 calls 30
+Doublewhisky folds
+amorphe 7169 raises 135 to 165
+P1xel7 folds
+jackadette raises 420 to 585
+beber77420 folds
+djack32 folds
+smeu02 folds
+amorphe 7169 calls 420
+*** FLOP *** [7d Qh 5c]
+jackadette checks
+amorphe 7169 checks
+*** TURN *** [7d Qh 5c][Th]
+jackadette bets 630
+amorphe 7169 calls 630
+*** RIVER *** [7d Qh 5c Th][Ts]
+jackadette bets 526 and is all-in
+amorphe 7169 folds
+jackadette collected 3046 from pot
+*** SUMMARY ***
+Total pot 3046 | No rake
+Board: [7d Qh 5c Th Ts]
+Seat 7: jackadette (small blind) won 3046
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-13-1696184118 - Holdem no limit (15/30) - 2023/10/01 18:15:18 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #7 is the button
+Seat 1: djack32 (2803)
+Seat 2: Loup08200 (2955)
+Seat 3: smeu02 (2970)
+Seat 4: Doublewhisky (2925)
+Seat 5: amorphe 7169 (8129)
+Seat 6: P1xel7 (4297)
+Seat 7: jackadette (3046)
+Seat 8: beber77420 (2925)
+*** ANTE/BLINDS ***
+beber77420 posts small blind 15
+djack32 posts big blind 30
+Dealt to P1xel7 [7h 4d]
+*** PRE-FLOP *** 
+Loup08200 folds
+smeu02 raises 75 to 105
+Doublewhisky folds
+amorphe 7169 raises 255 to 360
+P1xel7 folds
+jackadette calls 360
+beber77420 folds
+djack32 folds
+smeu02 raises 2610 to 2970 and is all-in
+amorphe 7169 calls 2610
+jackadette folds
+*** FLOP *** [7c 7s Ks]
+*** TURN *** [7c 7s Ks][6c]
+*** RIVER *** [7c 7s Ks 6c][6d]
+*** SHOW DOWN ***
+amorphe 7169 shows [9d 2s] (Two pairs : 7 and 6)
+smeu02 shows [Jd Ac] (Two pairs : 7 and 6)
+smeu02 collected 6345 from pot
+*** SUMMARY ***
+Total pot 6345 | No rake
+Board: [7c 7s Ks 6c 6d]
+Seat 3: smeu02 showed [Jd Ac] and won 6345 with Two pairs : 7 and 6
+Seat 5: amorphe 7169 showed [9d 2s] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 2 - HandId: #2976720444196913233-14-1696184156 - Holdem no limit (15/30) - 2023/10/01 18:15:56 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #8 is the button
+Seat 1: djack32 (2773)
+Seat 2: Loup08200 (2955)
+Seat 3: smeu02 (6345)
+Seat 4: Doublewhisky (2925)
+Seat 5: amorphe 7169 (5159)
+Seat 6: P1xel7 (4297)
+Seat 7: jackadette (2686)
+Seat 8: beber77420 (2910)
+*** ANTE/BLINDS ***
+djack32 posts small blind 15
+Loup08200 posts big blind 30
+Dealt to P1xel7 [4d 3s]
+*** PRE-FLOP *** 
+smeu02 folds
+Doublewhisky folds
+amorphe 7169 raises 5129 to 5159 and is all-in
+P1xel7 folds
+jackadette folds
+beber77420 folds
+djack32 calls 2758 and is all-in
+Loup08200 folds
+*** FLOP *** [7c Ks Kh]
+*** TURN *** [7c Ks Kh][7d]
+*** RIVER *** [7c Ks Kh 7d][4s]
+*** SHOW DOWN ***
+djack32 shows [8d 8c] (Two pairs : Kings and 8)
+amorphe 7169 shows [2c Qd] (Two pairs : Kings and 7)
+amorphe 7169 collected 2386 from side pot 1
+djack32 collected 5576 from main pot
+*** SUMMARY ***
+Total pot 7962 | No rake
+Board: [7c Ks Kh 7d 4s]
+Seat 1: djack32 (small blind) showed [8d 8c] and won 5576 with Two pairs : Kings and 8
+Seat 5: amorphe 7169 showed [2c Qd] and won 2386 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-15-1696184187 - Holdem no limit (20/40) - 2023/10/01 18:16:27 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #1 is the button
+Seat 1: djack32 (5576)
+Seat 2: Loup08200 (2925)
+Seat 3: smeu02 (6345)
+Seat 4: Doublewhisky (2925)
+Seat 5: amorphe 7169 (2386)
+Seat 6: P1xel7 (4297)
+Seat 7: jackadette (2686)
+Seat 8: beber77420 (2910)
+*** ANTE/BLINDS ***
+Loup08200 posts small blind 20
+smeu02 posts big blind 40
+Dealt to P1xel7 [8h 6d]
+*** PRE-FLOP *** 
+Doublewhisky folds
+amorphe 7169 raises 100 to 140
+P1xel7 folds
+jackadette folds
+beber77420 folds
+djack32 folds
+Loup08200 folds
+smeu02 calls 100
+*** FLOP *** [7h Td 2c]
+smeu02 checks
+amorphe 7169 checks
+*** TURN *** [7h Td 2c][Jc]
+smeu02 checks
+amorphe 7169 checks
+*** RIVER *** [7h Td 2c Jc][7d]
+smeu02 checks
+amorphe 7169 bets 300
+smeu02 calls 300
+*** SHOW DOWN ***
+amorphe 7169 shows [9h 5h] (One pair : 7)
+smeu02 shows [9c As] (One pair : 7)
+smeu02 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [7h Td 2c Jc 7d]
+Seat 3: smeu02 (big blind) showed [9c As] and won 900 with One pair : 7
+Seat 5: amorphe 7169 showed [9h 5h] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-16-1696184236 - Holdem no limit (20/40) - 2023/10/01 18:17:16 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #2 is the button
+Seat 1: djack32 (5576)
+Seat 2: Loup08200 (2905)
+Seat 3: smeu02 (6805)
+Seat 4: Doublewhisky (2925)
+Seat 5: amorphe 7169 (1946)
+Seat 6: P1xel7 (4297)
+Seat 7: jackadette (2686)
+Seat 8: beber77420 (2910)
+*** ANTE/BLINDS ***
+smeu02 posts small blind 20
+Doublewhisky posts big blind 40
+Dealt to P1xel7 [Kd Ad]
+*** PRE-FLOP *** 
+amorphe 7169 raises 1906 to 1946 and is all-in
+P1xel7 calls 1946
+jackadette folds
+beber77420 folds
+djack32 folds
+Loup08200 folds
+smeu02 folds
+Doublewhisky folds
+*** FLOP *** [2c 5h Qc]
+*** TURN *** [2c 5h Qc][4s]
+*** RIVER *** [2c 5h Qc 4s][2s]
+*** SHOW DOWN ***
+amorphe 7169 shows [As 9d] (One pair : 2)
+P1xel7 shows [Kd Ad] (One pair : 2)
+P1xel7 collected 3952 from pot
+*** SUMMARY ***
+Total pot 3952 | No rake
+Board: [2c 5h Qc 4s 2s]
+Seat 5: amorphe 7169 showed [As 9d] and lost with One pair : 2
+Seat 6: P1xel7 showed [Kd Ad] and won 3952 with One pair : 2
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-17-1696184262 - Holdem no limit (20/40) - 2023/10/01 18:17:42 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #3 is the button
+Seat 1: djack32 (5576)
+Seat 2: Loup08200 (2905)
+Seat 3: smeu02 (6785)
+Seat 4: Doublewhisky (2885)
+Seat 6: P1xel7 (6303)
+Seat 7: jackadette (2686)
+Seat 8: beber77420 (2910)
+*** ANTE/BLINDS ***
+Doublewhisky posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [9h 4h]
+*** PRE-FLOP *** 
+jackadette calls 40
+beber77420 folds
+djack32 calls 40
+Loup08200 folds
+smeu02 calls 40
+Doublewhisky folds
+P1xel7 checks
+*** FLOP *** [4d 6c 2c]
+P1xel7 checks
+jackadette checks
+djack32 bets 40
+smeu02 calls 40
+P1xel7 calls 40
+jackadette calls 40
+*** TURN *** [4d 6c 2c][4s]
+P1xel7 checks
+jackadette checks
+djack32 bets 40
+smeu02 calls 40
+P1xel7 raises 180 to 220
+jackadette folds
+djack32 folds
+smeu02 folds
+P1xel7 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [4d 6c 2c 4s]
+Seat 6: P1xel7 (big blind) won 640
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-18-1696184332 - Holdem no limit (20/40) - 2023/10/01 18:18:52 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #4 is the button
+Seat 1: djack32 (5456)
+Seat 2: Loup08200 (2905)
+Seat 3: smeu02 (6665)
+Seat 4: Doublewhisky (2865)
+Seat 6: P1xel7 (6643)
+Seat 7: jackadette (2606)
+Seat 8: beber77420 (2910)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+jackadette posts big blind 40
+Dealt to P1xel7 [7h Td]
+*** PRE-FLOP *** 
+beber77420 folds
+djack32 folds
+Loup08200 folds
+smeu02 folds
+Doublewhisky folds
+P1xel7 folds
+jackadette collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 7: jackadette (big blind) won 60
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-19-1696184340 - Holdem no limit (20/40) - 2023/10/01 18:19:00 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #6 is the button
+Seat 1: djack32 (5456)
+Seat 2: Loup08200 (2905)
+Seat 3: smeu02 (6665)
+Seat 4: Doublewhisky (2865)
+Seat 6: P1xel7 (6623)
+Seat 7: jackadette (2626)
+Seat 8: beber77420 (2910)
+*** ANTE/BLINDS ***
+jackadette posts small blind 20
+beber77420 posts big blind 40
+Dealt to P1xel7 [2c Th]
+*** PRE-FLOP *** 
+djack32 calls 40
+Loup08200 folds
+smeu02 calls 40
+Doublewhisky folds
+P1xel7 folds
+jackadette calls 20
+beber77420 folds
+*** FLOP *** [9d 7s Kc]
+jackadette checks
+djack32 checks
+smeu02 checks
+*** TURN *** [9d 7s Kc][2h]
+jackadette checks
+djack32 checks
+smeu02 bets 40
+jackadette folds
+djack32 calls 40
+*** RIVER *** [9d 7s Kc 2h][2d]
+djack32 checks
+smeu02 bets 40
+djack32 folds
+smeu02 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Board: [9d 7s Kc 2h 2d]
+Seat 3: smeu02 won 280
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-20-1696184392 - Holdem no limit (20/40) - 2023/10/01 18:19:52 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #7 is the button
+Seat 1: djack32 (5376)
+Seat 2: Loup08200 (2905)
+Seat 3: smeu02 (6825)
+Seat 4: Doublewhisky (2865)
+Seat 6: P1xel7 (6623)
+Seat 7: jackadette (2586)
+Seat 8: beber77420 (2870)
+*** ANTE/BLINDS ***
+beber77420 posts small blind 20
+djack32 posts big blind 40
+Dealt to P1xel7 [4d Kc]
+*** PRE-FLOP *** 
+Loup08200 folds
+smeu02 calls 40
+Doublewhisky folds
+P1xel7 folds
+jackadette calls 40
+beber77420 folds
+djack32 raises 5336 to 5376 and is all-in
+smeu02 folds
+jackadette folds
+djack32 collected 5476 from pot
+*** SUMMARY ***
+Total pot 5476 | No rake
+Seat 1: djack32 (big blind) won 5476
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-21-1696184421 - Holdem no limit (20/40) - 2023/10/01 18:20:21 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #8 is the button
+Seat 1: djack32 (5476)
+Seat 2: Loup08200 (2905)
+Seat 3: smeu02 (6785)
+Seat 4: Doublewhisky (2865)
+Seat 5: fetadu77 (2915)
+Seat 6: P1xel7 (6623)
+Seat 7: jackadette (2546)
+Seat 8: beber77420 (2850)
+*** ANTE/BLINDS ***
+djack32 posts small blind 20
+Loup08200 posts big blind 40
+Dealt to P1xel7 [Ac Qd]
+*** PRE-FLOP *** 
+smeu02 calls 40
+Doublewhisky folds
+fetadu77 calls 40
+P1xel7 raises 160 to 200
+jackadette folds
+beber77420 folds
+djack32 folds
+Loup08200 folds
+smeu02 calls 160
+fetadu77 raises 2715 to 2915 and is all-in
+P1xel7 calls 2715
+smeu02 folds
+*** FLOP *** [Th 3d 3c]
+*** TURN *** [Th 3d 3c][Jc]
+*** RIVER *** [Th 3d 3c Jc][8s]
+*** SHOW DOWN ***
+P1xel7 shows [Ac Qd] (One pair : 3)
+fetadu77 shows [Kd Ad] (One pair : 3)
+fetadu77 collected 6090 from pot
+*** SUMMARY ***
+Total pot 6090 | No rake
+Board: [Th 3d 3c Jc 8s]
+Seat 5: fetadu77 showed [Kd Ad] and won 6090 with One pair : 3
+Seat 6: P1xel7 showed [Ac Qd] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-22-1696184456 - Holdem no limit (20/40) - 2023/10/01 18:20:56 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #1 is the button
+Seat 1: djack32 (5456)
+Seat 2: Loup08200 (2865)
+Seat 3: smeu02 (6585)
+Seat 4: Doublewhisky (2865)
+Seat 5: fetadu77 (6090)
+Seat 6: P1xel7 (3708)
+Seat 7: jackadette (2546)
+Seat 8: beber77420 (2850)
+*** ANTE/BLINDS ***
+Loup08200 posts small blind 20
+smeu02 posts big blind 40
+Dealt to P1xel7 [4c Ts]
+*** PRE-FLOP *** 
+Doublewhisky folds
+fetadu77 calls 40
+P1xel7 folds
+jackadette calls 40
+beber77420 folds
+djack32 calls 40
+Loup08200 folds
+smeu02 checks
+*** FLOP *** [6s Qc 2h]
+smeu02 checks
+fetadu77 checks
+jackadette checks
+djack32 checks
+*** TURN *** [6s Qc 2h][2d]
+smeu02 checks
+fetadu77 checks
+jackadette checks
+djack32 checks
+*** RIVER *** [6s Qc 2h 2d][8c]
+smeu02 bets 180
+fetadu77 folds
+jackadette folds
+djack32 raises 288 to 468
+smeu02 raises 288 to 756
+djack32 calls 288
+*** SHOW DOWN ***
+djack32 shows [2c Jc] (Trips of 2)
+smeu02 shows [Qs 2s] (Full of 2 and Queens)
+smeu02 collected 1692 from pot
+*** SUMMARY ***
+Total pot 1692 | No rake
+Board: [6s Qc 2h 2d 8c]
+Seat 1: djack32 (button) showed [2c Jc] and lost with Trips of 2
+Seat 3: smeu02 (big blind) showed [Qs 2s] and won 1692 with Full of 2 and Queens
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-23-1696184515 - Holdem no limit (20/40) - 2023/10/01 18:21:55 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #2 is the button
+Seat 1: djack32 (4660)
+Seat 2: Loup08200 (2845)
+Seat 3: smeu02 (7481)
+Seat 4: Doublewhisky (2865)
+Seat 5: fetadu77 (6050)
+Seat 6: P1xel7 (3708)
+Seat 7: jackadette (2506)
+Seat 8: beber77420 (2850)
+*** ANTE/BLINDS ***
+smeu02 posts small blind 20
+Doublewhisky posts big blind 40
+Dealt to P1xel7 [6s Jc]
+*** PRE-FLOP *** 
+fetadu77 folds
+P1xel7 folds
+jackadette folds
+beber77420 folds
+djack32 calls 40
+Loup08200 folds
+smeu02 calls 20
+Doublewhisky folds
+*** FLOP *** [2d 3s Qh]
+smeu02 checks
+djack32 bets 40
+smeu02 calls 40
+*** TURN *** [2d 3s Qh][Qs]
+smeu02 checks
+djack32 bets 40
+smeu02 calls 40
+*** RIVER *** [2d 3s Qh Qs][Ad]
+smeu02 checks
+djack32 bets 182
+smeu02 calls 182
+*** SHOW DOWN ***
+smeu02 shows [Jd As] (Two pairs : Aces and Queens)
+djack32 shows [7s Qd] (Trips of Queens)
+djack32 collected 644 from pot
+*** SUMMARY ***
+Total pot 644 | No rake
+Board: [2d 3s Qh Qs Ad]
+Seat 1: djack32 showed [7s Qd] and won 644 with Trips of Queens
+Seat 3: smeu02 (small blind) showed [Jd As] and lost with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-24-1696184553 - Holdem no limit (20/40) - 2023/10/01 18:22:33 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #3 is the button
+Seat 1: djack32 (5002)
+Seat 2: Loup08200 (2845)
+Seat 3: smeu02 (7179)
+Seat 4: Doublewhisky (2825)
+Seat 5: fetadu77 (6050)
+Seat 6: P1xel7 (3708)
+Seat 7: jackadette (2506)
+Seat 8: beber77420 (2850)
+*** ANTE/BLINDS ***
+Doublewhisky posts small blind 20
+fetadu77 posts big blind 40
+Dealt to P1xel7 [3d 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+jackadette folds
+beber77420 folds
+djack32 calls 40
+Loup08200 folds
+smeu02 calls 40
+Doublewhisky folds
+fetadu77 checks
+*** FLOP *** [As 5h 5c]
+fetadu77 checks
+djack32 checks
+smeu02 checks
+*** TURN *** [As 5h 5c][Ad]
+fetadu77 bets 140
+djack32 folds
+smeu02 calls 140
+*** RIVER *** [As 5h 5c Ad][2s]
+fetadu77 checks
+smeu02 checks
+*** SHOW DOWN ***
+smeu02 shows [Qc Ks] (Two pairs : Aces and 5)
+fetadu77 shows [Kh 3h] (Two pairs : Aces and 5)
+fetadu77 collected 210 from pot
+smeu02 collected 210 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [As 5h 5c Ad 2s]
+Seat 3: smeu02 (button) showed [Qc Ks] and won 210 with Two pairs : Aces and 5
+Seat 5: fetadu77 (big blind) showed [Kh 3h] and won 210 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-25-1696184597 - Holdem no limit (20/40) - 2023/10/01 18:23:17 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #4 is the button
+Seat 1: djack32 (4962)
+Seat 2: Loup08200 (2845)
+Seat 3: smeu02 (7209)
+Seat 4: Doublewhisky (2805)
+Seat 5: fetadu77 (6080)
+Seat 6: P1xel7 (3708)
+Seat 7: jackadette (2506)
+Seat 8: beber77420 (2850)
+*** ANTE/BLINDS ***
+fetadu77 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [8h 9c]
+*** PRE-FLOP *** 
+jackadette calls 40
+beber77420 folds
+djack32 calls 40
+Loup08200 folds
+smeu02 folds
+Doublewhisky folds
+fetadu77 calls 20
+P1xel7 checks
+*** FLOP *** [2c 4h Th]
+fetadu77 checks
+P1xel7 checks
+jackadette checks
+djack32 checks
+*** TURN *** [2c 4h Th][9s]
+fetadu77 checks
+P1xel7 bets 80
+jackadette folds
+djack32 folds
+fetadu77 folds
+P1xel7 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [2c 4h Th 9s]
+Seat 6: P1xel7 (big blind) won 240
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 3 - HandId: #2976720444196913233-26-1696184641 - Holdem no limit (20/40) - 2023/10/01 18:24:01 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #5 is the button
+Seat 1: djack32 (4922)
+Seat 2: Loup08200 (2845)
+Seat 3: smeu02 (7209)
+Seat 4: Doublewhisky (2805)
+Seat 5: fetadu77 (6040)
+Seat 6: P1xel7 (3828)
+Seat 7: jackadette (2466)
+Seat 8: beber77420 (2850)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+jackadette posts big blind 40
+Dealt to P1xel7 [Qc 3c]
+*** PRE-FLOP *** 
+beber77420 folds
+djack32 calls 40
+Loup08200 folds
+smeu02 folds
+Doublewhisky folds
+fetadu77 raises 60 to 100
+P1xel7 folds
+jackadette folds
+djack32 calls 60
+*** FLOP *** [Ts 3h 2c]
+djack32 checks
+fetadu77 bets 260
+djack32 folds
+fetadu77 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [Ts 3h 2c]
+Seat 5: fetadu77 (button) won 520
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 4 - HandId: #2976720444196913233-27-1696184678 - Holdem no limit (30/60) - 2023/10/01 18:24:38 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #6 is the button
+Seat 1: djack32 (4822)
+Seat 2: Loup08200 (2845)
+Seat 3: smeu02 (7209)
+Seat 4: Doublewhisky (2805)
+Seat 5: fetadu77 (6200)
+Seat 6: P1xel7 (3808)
+Seat 7: jackadette (2426)
+Seat 8: beber77420 (2850)
+*** ANTE/BLINDS ***
+jackadette posts small blind 30
+beber77420 posts big blind 60
+Dealt to P1xel7 [Td 4s]
+*** PRE-FLOP *** 
+djack32 folds
+Loup08200 folds
+smeu02 calls 60
+Doublewhisky folds
+fetadu77 calls 60
+P1xel7 folds
+jackadette calls 30
+beber77420 folds
+*** FLOP *** [7d 6h 2s]
+jackadette checks
+smeu02 checks
+fetadu77 bets 60
+jackadette folds
+smeu02 raises 60 to 120
+fetadu77 calls 60
+*** TURN *** [7d 6h 2s][9d]
+smeu02 bets 168
+fetadu77 calls 168
+*** RIVER *** [7d 6h 2s 9d][Kc]
+smeu02 bets 286
+fetadu77 folds
+smeu02 collected 1102 from pot
+*** SUMMARY ***
+Total pot 1102 | No rake
+Board: [7d 6h 2s 9d Kc]
+Seat 3: smeu02 won 1102
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 4 - HandId: #2976720444196913233-28-1696184757 - Holdem no limit (30/60) - 2023/10/01 18:25:57 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #7 is the button
+Seat 1: djack32 (4822)
+Seat 2: Loup08200 (2845)
+Seat 3: smeu02 (7677)
+Seat 4: Doublewhisky (2805)
+Seat 5: fetadu77 (5852)
+Seat 6: P1xel7 (3808)
+Seat 7: jackadette (2366)
+Seat 8: beber77420 (2790)
+*** ANTE/BLINDS ***
+beber77420 posts small blind 30
+djack32 posts big blind 60
+Dealt to P1xel7 [Ah 7h]
+*** PRE-FLOP *** 
+Loup08200 folds
+smeu02 folds
+Doublewhisky folds
+fetadu77 raises 120 to 180
+P1xel7 folds
+jackadette folds
+beber77420 folds
+djack32 folds
+fetadu77 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 5: fetadu77 won 270
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 4 - HandId: #2976720444196913233-29-1696184777 - Holdem no limit (30/60) - 2023/10/01 18:26:17 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #8 is the button
+Seat 1: djack32 (4762)
+Seat 2: Loup08200 (2845)
+Seat 3: smeu02 (7677)
+Seat 4: Doublewhisky (2805)
+Seat 5: fetadu77 (5942)
+Seat 6: P1xel7 (3808)
+Seat 7: jackadette (2366)
+Seat 8: beber77420 (2760)
+*** ANTE/BLINDS ***
+djack32 posts small blind 30
+Loup08200 posts big blind 60
+Dealt to P1xel7 [3c Ks]
+*** PRE-FLOP *** 
+smeu02 folds
+Doublewhisky folds
+fetadu77 raises 90 to 150
+P1xel7 folds
+jackadette folds
+beber77420 folds
+djack32 folds
+Loup08200 folds
+fetadu77 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: fetadu77 won 240
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 4 - HandId: #2976720444196913233-30-1696184796 - Holdem no limit (30/60) - 2023/10/01 18:26:36 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #1 is the button
+Seat 1: djack32 (4732)
+Seat 2: Loup08200 (2785)
+Seat 3: smeu02 (7677)
+Seat 4: Doublewhisky (2805)
+Seat 5: fetadu77 (6032)
+Seat 6: P1xel7 (3808)
+Seat 7: jackadette (2366)
+Seat 8: beber77420 (2760)
+*** ANTE/BLINDS ***
+Loup08200 posts small blind 30
+smeu02 posts big blind 60
+Dealt to P1xel7 [7d Td]
+*** PRE-FLOP *** 
+Doublewhisky folds
+fetadu77 folds
+P1xel7 folds
+jackadette calls 60
+beber77420 folds
+djack32 calls 60
+Loup08200 folds
+smeu02 checks
+*** FLOP *** [8h 8c 9s]
+smeu02 checks
+jackadette bets 210
+djack32 folds
+smeu02 folds
+jackadette collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [8h 8c 9s]
+Seat 7: jackadette won 420
+
+
+Winamax Poker - Tournament "Tremplin Lille" buyIn: 0€ + 0€ level: 4 - HandId: #2976720444196913233-31-1696184846 - Holdem no limit (30/60) - 2023/10/01 18:27:26 UTC
+Table: 'Tremplin Lille(693071737)#0080' 8-max (real money) Seat #2 is the button
+Seat 1: djack32 (4672)
+Seat 2: Loup08200 (2755)
+Seat 3: smeu02 (7617)
+Seat 4: Doublewhisky (2805)
+Seat 5: fetadu77 (6032)
+Seat 6: P1xel7 (3808)
+Seat 7: jackadette (2516)
+Seat 8: beber77420 (2760)
+*** ANTE/BLINDS ***
+smeu02 posts small blind 30
+Doublewhisky posts big blind 60
+Dealt to P1xel7 [Qh Qc]
+*** PRE-FLOP *** 
+fetadu77 raises 150 to 210
+P1xel7 raises 300 to 510
+jackadette folds
+beber77420 folds
+djack32 raises 4162 to 4672 and is all-in
+Loup08200 folds
+smeu02 folds
+Doublewhisky folds
+fetadu77 folds
+P1xel7 calls 3298 and is all-in
+*** FLOP *** [7d Kc Th]
+*** TURN *** [7d Kc Th][Js]
+*** RIVER *** [7d Kc Th Js][8c]
+*** SHOW DOWN ***
+P1xel7 shows [Qh Qc] (One pair : Queens)
+djack32 shows [Kd As] (One pair : Kings)
+djack32 collected 8780 from pot
+*** SUMMARY ***
+Total pot 8780 | No rake
+Board: [7d Kc Th Js 8c]
+Seat 1: djack32 showed [Kd As] and won 8780 with One pair : Kings
+Seat 6: P1xel7 showed [Qh Qc] and lost with One pair : Queens
+
+

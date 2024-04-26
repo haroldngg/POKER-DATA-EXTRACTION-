@@ -1,0 +1,5873 @@
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3201975493003837907-11-1708111124 - Holdem no limit (20/40) - 2024/02/16 19:18:44 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #6 is the button
+Seat 1: Chicharitou (2955)
+Seat 2: Steph.molist (2955)
+Seat 3: la-viking (9272)
+Seat 4: Anthonytriat (2895)
+Seat 5: P1xel7 (3000)
+Seat 6: SA-Matador26 (2905)
+Seat 7: key-mi78 (2915)
+Seat 8: KKAAciiiiii (3103)
+*** ANTE/BLINDS ***
+key-mi78 posts small blind 20
+KKAAciiiiii posts big blind 40
+Dealt to P1xel7 [9d 2c]
+*** PRE-FLOP *** 
+Chicharitou folds
+Steph.molist folds
+la-viking calls 40
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii raises 140 to 180
+la-viking calls 140
+*** FLOP *** [Js Ah Qh]
+KKAAciiiiii checks
+la-viking bets 380
+KKAAciiiiii raises 580 to 960
+la-viking calls 580
+*** TURN *** [Js Ah Qh][4h]
+KKAAciiiiii bets 1963 and is all-in
+la-viking calls 1963
+*** RIVER *** [Js Ah Qh 4h][4s]
+*** SHOW DOWN ***
+la-viking shows [Ac 7s] (Two pairs : Aces and 4)
+KKAAciiiiii shows [Kd Td] (Straight Ace high)
+KKAAciiiiii collected 6226 from pot
+*** SUMMARY ***
+Total pot 6226 | No rake
+Board: [Js Ah Qh 4h 4s]
+Seat 3: la-viking showed [Ac 7s] and lost with Two pairs : Aces and 4
+Seat 8: KKAAciiiiii (big blind) showed [Kd Td] and won 6226 with Straight Ace high
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3201975493003837907-12-1708111224 - Holdem no limit (20/40) - 2024/02/16 19:20:24 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #7 is the button
+Seat 1: Chicharitou (2955)
+Seat 2: Steph.molist (2955)
+Seat 3: la-viking (6169)
+Seat 4: Anthonytriat (2895)
+Seat 5: P1xel7 (3000)
+Seat 6: SA-Matador26 (2905)
+Seat 7: key-mi78 (2895)
+Seat 8: KKAAciiiiii (6226)
+*** ANTE/BLINDS ***
+KKAAciiiiii posts small blind 20
+Chicharitou posts big blind 40
+Dealt to P1xel7 [5s Tc]
+*** PRE-FLOP *** 
+Steph.molist folds
+la-viking calls 40
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii raises 200 to 240
+Chicharitou folds
+la-viking calls 200
+*** FLOP *** [3s Ts 6s]
+KKAAciiiiii bets 130
+la-viking calls 130
+*** TURN *** [3s Ts 6s][2c]
+KKAAciiiiii checks
+la-viking bets 780
+KKAAciiiiii folds
+la-viking collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [3s Ts 6s 2c]
+Seat 3: la-viking won 1560
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3201975493003837907-13-1708111335 - Holdem no limit (20/40) - 2024/02/16 19:22:15 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #8 is the button
+Seat 1: Chicharitou (2915)
+Seat 2: Steph.molist (2955)
+Seat 3: la-viking (6579)
+Seat 4: Anthonytriat (2895)
+Seat 5: P1xel7 (3000)
+Seat 6: SA-Matador26 (2905)
+Seat 7: key-mi78 (2895)
+Seat 8: KKAAciiiiii (5856)
+*** ANTE/BLINDS ***
+Chicharitou posts small blind 20
+Steph.molist posts big blind 40
+Dealt to P1xel7 [9h Ac]
+*** PRE-FLOP *** 
+la-viking calls 40
+Anthonytriat folds
+P1xel7 raises 120 to 160
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking calls 120
+*** FLOP *** [9d 4h Td]
+la-viking checks
+P1xel7 bets 95
+la-viking folds
+P1xel7 collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | No rake
+Board: [9d 4h Td]
+Seat 5: P1xel7 won 475
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3201975493003837907-14-1708111401 - Holdem no limit (20/40) - 2024/02/16 19:23:21 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #1 is the button
+Seat 1: Chicharitou (2895)
+Seat 2: Steph.molist (2915)
+Seat 3: la-viking (6419)
+Seat 4: Anthonytriat (2895)
+Seat 5: P1xel7 (3220)
+Seat 6: SA-Matador26 (2905)
+Seat 7: key-mi78 (2895)
+Seat 8: KKAAciiiiii (5856)
+*** ANTE/BLINDS ***
+Steph.molist posts small blind 20
+la-viking posts big blind 40
+Dealt to P1xel7 [6c Qd]
+*** PRE-FLOP *** 
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: la-viking (big blind) won 60
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 3 - HandId: #3201975493003837907-15-1708111414 - Holdem no limit (20/40) - 2024/02/16 19:23:34 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #2 is the button
+Seat 1: Chicharitou (2895)
+Seat 2: Steph.molist (2895)
+Seat 3: la-viking (6439)
+Seat 4: Anthonytriat (2895)
+Seat 5: P1xel7 (3220)
+Seat 6: SA-Matador26 (2905)
+Seat 7: key-mi78 (2895)
+Seat 8: KKAAciiiiii (5856)
+*** ANTE/BLINDS ***
+la-viking posts small blind 20
+Anthonytriat posts big blind 40
+Dealt to P1xel7 [3d Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii raises 48 to 88
+Chicharitou folds
+Steph.molist folds
+la-viking calls 68
+Anthonytriat folds
+*** FLOP *** [5c 6c Jc]
+la-viking bets 76
+KKAAciiiiii calls 76
+*** TURN *** [5c 6c Jc][5d]
+la-viking bets 368
+KKAAciiiiii folds
+la-viking collected 736 from pot
+*** SUMMARY ***
+Total pot 736 | No rake
+Board: [5c 6c Jc 5d]
+Seat 3: la-viking (small blind) won 736
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-16-1708111467 - Holdem no limit (30/60) - 2024/02/16 19:24:27 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #3 is the button
+Seat 1: Chicharitou (2895)
+Seat 2: Steph.molist (2895)
+Seat 3: la-viking (6643)
+Seat 4: Anthonytriat (2855)
+Seat 5: P1xel7 (3220)
+Seat 6: SA-Matador26 (2905)
+Seat 7: key-mi78 (2895)
+Seat 8: KKAAciiiiii (5692)
+*** ANTE/BLINDS ***
+Anthonytriat posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [9h 4d]
+*** PRE-FLOP *** 
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 5: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-17-1708111512 - Holdem no limit (30/60) - 2024/02/16 19:25:12 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #4 is the button
+Seat 1: Chicharitou (2895)
+Seat 2: Steph.molist (2895)
+Seat 3: la-viking (6643)
+Seat 4: Anthonytriat (2825)
+Seat 5: P1xel7 (3250)
+Seat 6: SA-Matador26 (2905)
+Seat 7: key-mi78 (2895)
+Seat 8: KKAAciiiiii (5692)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+SA-Matador26 posts big blind 60
+Dealt to P1xel7 [2h Jd]
+*** PRE-FLOP *** 
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking raises 60 to 120
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+la-viking collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: la-viking won 210
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-18-1708111536 - Holdem no limit (30/60) - 2024/02/16 19:25:36 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #5 is the button
+Seat 1: Chicharitou (2895)
+Seat 2: Steph.molist (2895)
+Seat 3: la-viking (6733)
+Seat 4: Anthonytriat (2825)
+Seat 5: P1xel7 (3220)
+Seat 6: SA-Matador26 (2845)
+Seat 7: key-mi78 (2895)
+Seat 8: KKAAciiiiii (5692)
+*** ANTE/BLINDS ***
+SA-Matador26 posts small blind 30
+key-mi78 posts big blind 60
+Dealt to P1xel7 [5c 9c]
+*** PRE-FLOP *** 
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking raises 60 to 120
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+la-viking collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: la-viking won 210
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-19-1708111561 - Holdem no limit (30/60) - 2024/02/16 19:26:01 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #6 is the button
+Seat 1: Chicharitou (2895)
+Seat 2: Steph.molist (2895)
+Seat 3: la-viking (6823)
+Seat 4: Anthonytriat (2825)
+Seat 5: P1xel7 (3220)
+Seat 6: SA-Matador26 (2815)
+Seat 7: key-mi78 (2835)
+Seat 8: KKAAciiiiii (5692)
+*** ANTE/BLINDS ***
+key-mi78 posts small blind 30
+KKAAciiiiii posts big blind 60
+Dealt to P1xel7 [As 9c]
+*** PRE-FLOP *** 
+Chicharitou folds
+Steph.molist folds
+la-viking calls 60
+Anthonytriat folds
+P1xel7 raises 180 to 240
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+la-viking calls 180
+*** FLOP *** [7c 6d Ad]
+la-viking checks
+P1xel7 checks
+*** TURN *** [7c 6d Ad][8h]
+la-viking bets 200
+P1xel7 calls 200
+*** RIVER *** [7c 6d Ad 8h][Kc]
+la-viking checks
+P1xel7 bets 240
+la-viking folds
+P1xel7 collected 1210 from pot
+*** SUMMARY ***
+Total pot 1210 | No rake
+Board: [7c 6d Ad 8h Kc]
+Seat 5: P1xel7 won 1210
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-20-1708111674 - Holdem no limit (30/60) - 2024/02/16 19:27:54 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #7 is the button
+Seat 1: Chicharitou (2895)
+Seat 2: Steph.molist (2895)
+Seat 3: la-viking (6383)
+Seat 4: Anthonytriat (2825)
+Seat 5: P1xel7 (3750)
+Seat 6: SA-Matador26 (2815)
+Seat 7: key-mi78 (2805)
+Seat 8: KKAAciiiiii (5632)
+*** ANTE/BLINDS ***
+KKAAciiiiii posts small blind 30
+Chicharitou posts big blind 60
+Dealt to P1xel7 [3s 2h]
+*** PRE-FLOP *** 
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii raises 72 to 132
+Chicharitou folds
+KKAAciiiiii collected 192 from pot
+*** SUMMARY ***
+Total pot 192 | No rake
+Seat 8: KKAAciiiiii (small blind) won 192
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-21-1708111702 - Holdem no limit (30/60) - 2024/02/16 19:28:22 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #8 is the button
+Seat 1: Chicharitou (2835)
+Seat 2: Steph.molist (2895)
+Seat 3: la-viking (6383)
+Seat 4: Anthonytriat (2825)
+Seat 5: P1xel7 (3750)
+Seat 6: SA-Matador26 (2815)
+Seat 7: key-mi78 (2805)
+Seat 8: KKAAciiiiii (5692)
+*** ANTE/BLINDS ***
+Chicharitou posts small blind 30
+Steph.molist posts big blind 60
+Dealt to P1xel7 [Kc 8c]
+*** PRE-FLOP *** 
+la-viking calls 60
+Anthonytriat folds
+P1xel7 raises 180 to 240
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking calls 180
+*** FLOP *** [2h Kd Ad]
+la-viking checks
+P1xel7 bets 200
+la-viking folds
+P1xel7 collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | No rake
+Board: [2h Kd Ad]
+Seat 5: P1xel7 won 770
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-22-1708111749 - Holdem no limit (30/60) - 2024/02/16 19:29:09 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #1 is the button
+Seat 1: Chicharitou (2805)
+Seat 2: Steph.molist (2835)
+Seat 3: la-viking (6143)
+Seat 4: Anthonytriat (2825)
+Seat 5: P1xel7 (4080)
+Seat 6: SA-Matador26 (2815)
+Seat 7: key-mi78 (2805)
+Seat 8: KKAAciiiiii (5692)
+*** ANTE/BLINDS ***
+Steph.molist posts small blind 30
+la-viking posts big blind 60
+Dealt to P1xel7 [Tc 2d]
+*** PRE-FLOP *** 
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii raises 72 to 132
+Chicharitou folds
+Steph.molist folds
+la-viking calls 72
+*** FLOP *** [Qd Td 3h]
+la-viking checks
+KKAAciiiiii bets 103
+la-viking calls 103
+*** TURN *** [Qd Td 3h][Ah]
+la-viking bets 500
+KKAAciiiiii calls 500
+*** RIVER *** [Qd Td 3h Ah][6c]
+la-viking bets 1500
+KKAAciiiiii folds
+la-viking collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Qd Td 3h Ah 6c]
+Seat 3: la-viking (big blind) won 3000
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-23-1708111791 - Holdem no limit (30/60) - 2024/02/16 19:29:51 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #2 is the button
+Seat 1: Chicharitou (2805)
+Seat 2: Steph.molist (2805)
+Seat 3: la-viking (6908)
+Seat 4: Anthonytriat (2825)
+Seat 5: P1xel7 (4080)
+Seat 6: SA-Matador26 (2815)
+Seat 7: key-mi78 (2805)
+Seat 8: KKAAciiiiii (4957)
+*** ANTE/BLINDS ***
+la-viking posts small blind 30
+Anthonytriat posts big blind 60
+Dealt to P1xel7 [9c Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 72 to 132
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | No rake
+Seat 5: P1xel7 won 222
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-24-1708111820 - Holdem no limit (30/60) - 2024/02/16 19:30:20 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #3 is the button
+Seat 1: Chicharitou (2805)
+Seat 2: Steph.molist (2805)
+Seat 3: la-viking (6878)
+Seat 4: Anthonytriat (2765)
+Seat 5: P1xel7 (4170)
+Seat 6: SA-Matador26 (2815)
+Seat 7: key-mi78 (2805)
+Seat 8: KKAAciiiiii (4957)
+*** ANTE/BLINDS ***
+Anthonytriat posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Th 2c]
+*** PRE-FLOP *** 
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii raises 72 to 132
+Chicharitou folds
+Steph.molist folds
+la-viking calls 132
+Anthonytriat folds
+P1xel7 folds
+*** FLOP *** [4s 8s 8c]
+KKAAciiiiii bets 124
+la-viking folds
+KKAAciiiiii collected 478 from pot
+*** SUMMARY ***
+Total pot 478 | No rake
+Board: [4s 8s 8c]
+Seat 8: KKAAciiiiii won 478
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-25-1708111863 - Holdem no limit (30/60) - 2024/02/16 19:31:03 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #4 is the button
+Seat 1: Chicharitou (2805)
+Seat 2: Steph.molist (2805)
+Seat 3: la-viking (6746)
+Seat 4: Anthonytriat (2735)
+Seat 5: P1xel7 (4110)
+Seat 6: SA-Matador26 (2815)
+Seat 7: key-mi78 (2805)
+Seat 8: KKAAciiiiii (5179)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+SA-Matador26 posts big blind 60
+Dealt to P1xel7 [4s Kc]
+*** PRE-FLOP *** 
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking raises 60 to 120
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+la-viking collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: la-viking won 210
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 4 - HandId: #3201975493003837907-26-1708111892 - Holdem no limit (30/60) - 2024/02/16 19:31:32 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #5 is the button
+Seat 1: Chicharitou (2805)
+Seat 2: Steph.molist (2805)
+Seat 3: la-viking (6836)
+Seat 4: Anthonytriat (2735)
+Seat 5: P1xel7 (4080)
+Seat 6: SA-Matador26 (2755)
+Seat 7: key-mi78 (2805)
+Seat 8: KKAAciiiiii (5179)
+*** ANTE/BLINDS ***
+SA-Matador26 posts small blind 30
+key-mi78 posts big blind 60
+Dealt to P1xel7 [Ac 6s]
+*** PRE-FLOP *** 
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking calls 60
+Anthonytriat folds
+P1xel7 calls 60
+SA-Matador26 folds
+key-mi78 folds
+*** FLOP *** [Jd Kd Ah]
+la-viking checks
+P1xel7 bets 74
+la-viking folds
+P1xel7 collected 284 from pot
+*** SUMMARY ***
+Total pot 284 | No rake
+Board: [Jd Kd Ah]
+Seat 5: P1xel7 (button) won 284
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-27-1708111955 - Holdem no limit (40/80) - 2024/02/16 19:32:35 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #6 is the button
+Seat 1: Chicharitou (2805)
+Seat 2: Steph.molist (2805)
+Seat 3: la-viking (6776)
+Seat 4: Anthonytriat (2735)
+Seat 5: P1xel7 (4230)
+Seat 6: SA-Matador26 (2725)
+Seat 7: key-mi78 (2745)
+Seat 8: KKAAciiiiii (5179)
+*** ANTE/BLINDS ***
+key-mi78 posts small blind 40
+KKAAciiiiii posts big blind 80
+Dealt to P1xel7 [As 6s]
+*** PRE-FLOP *** 
+Chicharitou folds
+Steph.molist folds
+la-viking calls 80
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii checks
+*** FLOP *** [5c 4d 8s]
+KKAAciiiiii checks
+la-viking bets 130
+KKAAciiiiii calls 130
+*** TURN *** [5c 4d 8s][9c]
+KKAAciiiiii bets 299
+la-viking calls 299
+*** RIVER *** [5c 4d 8s 9c][4c]
+KKAAciiiiii bets 794
+la-viking folds
+KKAAciiiiii collected 1852 from pot
+*** SUMMARY ***
+Total pot 1852 | No rake
+Board: [5c 4d 8s 9c 4c]
+Seat 8: KKAAciiiiii (big blind) won 1852
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-28-1708112016 - Holdem no limit (40/80) - 2024/02/16 19:33:36 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #7 is the button
+Seat 1: Chicharitou (2805)
+Seat 2: Steph.molist (2805)
+Seat 3: la-viking (6267)
+Seat 4: Anthonytriat (2735)
+Seat 5: P1xel7 (4230)
+Seat 6: SA-Matador26 (2725)
+Seat 7: key-mi78 (2705)
+Seat 8: KKAAciiiiii (5728)
+*** ANTE/BLINDS ***
+KKAAciiiiii posts small blind 40
+Chicharitou posts big blind 80
+Dealt to P1xel7 [4c As]
+*** PRE-FLOP *** 
+Steph.molist folds
+la-viking raises 80 to 160
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+la-viking collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: la-viking won 280
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-29-1708112042 - Holdem no limit (40/80) - 2024/02/16 19:34:02 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #8 is the button
+Seat 1: Chicharitou (2725)
+Seat 2: Steph.molist (2805)
+Seat 3: la-viking (6387)
+Seat 4: Anthonytriat (2735)
+Seat 5: P1xel7 (4230)
+Seat 6: SA-Matador26 (2725)
+Seat 7: key-mi78 (2705)
+Seat 8: KKAAciiiiii (5688)
+*** ANTE/BLINDS ***
+Chicharitou posts small blind 40
+Steph.molist posts big blind 80
+Dealt to P1xel7 [9d 9c]
+*** PRE-FLOP *** 
+la-viking folds
+Anthonytriat folds
+P1xel7 raises 120 to 200
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+P1xel7 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 5: P1xel7 won 320
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-30-1708112067 - Holdem no limit (40/80) - 2024/02/16 19:34:27 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #1 is the button
+Seat 1: Chicharitou (2685)
+Seat 2: Steph.molist (2725)
+Seat 3: la-viking (6387)
+Seat 4: Anthonytriat (2735)
+Seat 5: P1xel7 (4350)
+Seat 6: SA-Matador26 (2725)
+Seat 7: key-mi78 (2705)
+Seat 8: KKAAciiiiii (5688)
+*** ANTE/BLINDS ***
+Steph.molist posts small blind 40
+la-viking posts big blind 80
+Dealt to P1xel7 [Jh 7h]
+*** PRE-FLOP *** 
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: la-viking (big blind) won 120
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-31-1708112079 - Holdem no limit (40/80) - 2024/02/16 19:34:39 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #2 is the button
+Seat 1: Chicharitou (2685)
+Seat 2: Steph.molist (2685)
+Seat 3: la-viking (6427)
+Seat 4: Anthonytriat (2735)
+Seat 5: P1xel7 (4350)
+Seat 6: SA-Matador26 (2725)
+Seat 7: key-mi78 (2705)
+Seat 8: KKAAciiiiii (5688)
+*** ANTE/BLINDS ***
+la-viking posts small blind 40
+Anthonytriat posts big blind 80
+Dealt to P1xel7 [7s 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking raises 80 to 160
+Anthonytriat folds
+la-viking collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 3: la-viking (small blind) won 240
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-32-1708112108 - Holdem no limit (40/80) - 2024/02/16 19:35:08 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #3 is the button
+Seat 1: Chicharitou (2685)
+Seat 2: Steph.molist (2685)
+Seat 3: la-viking (6507)
+Seat 4: Anthonytriat (2655)
+Seat 5: P1xel7 (4350)
+Seat 6: SA-Matador26 (2725)
+Seat 7: key-mi78 (2705)
+Seat 8: KKAAciiiiii (5688)
+*** ANTE/BLINDS ***
+Anthonytriat posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Jc 9c]
+*** PRE-FLOP *** 
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking calls 80
+Anthonytriat folds
+P1xel7 raises 320 to 400
+la-viking folds
+P1xel7 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 5: P1xel7 (big blind) won 520
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-33-1708112150 - Holdem no limit (40/80) - 2024/02/16 19:35:50 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #4 is the button
+Seat 1: Chicharitou (2685)
+Seat 2: Steph.molist (2685)
+Seat 3: la-viking (6427)
+Seat 4: Anthonytriat (2615)
+Seat 5: P1xel7 (4470)
+Seat 6: SA-Matador26 (2725)
+Seat 7: key-mi78 (2705)
+Seat 8: KKAAciiiiii (5688)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+SA-Matador26 posts big blind 80
+Dealt to P1xel7 [4c 3h]
+*** PRE-FLOP *** 
+key-mi78 folds
+KKAAciiiiii raises 96 to 176
+Chicharitou folds
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+KKAAciiiiii collected 296 from pot
+*** SUMMARY ***
+Total pot 296 | No rake
+Seat 8: KKAAciiiiii won 296
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-34-1708112176 - Holdem no limit (40/80) - 2024/02/16 19:36:16 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #5 is the button
+Seat 1: Chicharitou (2685)
+Seat 2: Steph.molist (2685)
+Seat 3: la-viking (6427)
+Seat 4: Anthonytriat (2615)
+Seat 5: P1xel7 (4430)
+Seat 6: SA-Matador26 (2645)
+Seat 7: key-mi78 (2705)
+Seat 8: KKAAciiiiii (5808)
+*** ANTE/BLINDS ***
+SA-Matador26 posts small blind 40
+key-mi78 posts big blind 80
+Dealt to P1xel7 [Kh 2d]
+*** PRE-FLOP *** 
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 raises 80 to 160
+SA-Matador26 folds
+key-mi78 folds
+P1xel7 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 5: P1xel7 (button) won 280
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-35-1708112208 - Holdem no limit (40/80) - 2024/02/16 19:36:48 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #6 is the button
+Seat 1: Chicharitou (2685)
+Seat 2: Steph.molist (2685)
+Seat 3: la-viking (6427)
+Seat 4: Anthonytriat (2615)
+Seat 5: P1xel7 (4550)
+Seat 6: SA-Matador26 (2605)
+Seat 7: key-mi78 (2625)
+Seat 8: KKAAciiiiii (5808)
+*** ANTE/BLINDS ***
+key-mi78 posts small blind 40
+KKAAciiiiii posts big blind 80
+Dealt to P1xel7 [2s 6h]
+*** PRE-FLOP *** 
+Chicharitou folds
+Steph.molist folds
+la-viking calls 80
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii checks
+*** FLOP *** [9d 8d Js]
+KKAAciiiiii checks
+la-viking checks
+*** TURN *** [9d 8d Js][4d]
+KKAAciiiiii bets 100
+la-viking calls 100
+*** RIVER *** [9d 8d Js 4d][Qd]
+KKAAciiiiii checks
+la-viking bets 400
+KKAAciiiiii folds
+la-viking collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [9d 8d Js 4d Qd]
+Seat 3: la-viking won 800
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-36-1708112298 - Holdem no limit (40/80) - 2024/02/16 19:38:18 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #7 is the button
+Seat 1: Chicharitou (2685)
+Seat 2: Steph.molist (2685)
+Seat 3: la-viking (6647)
+Seat 4: Anthonytriat (2615)
+Seat 5: P1xel7 (4550)
+Seat 6: SA-Matador26 (2605)
+Seat 7: key-mi78 (2585)
+Seat 8: KKAAciiiiii (5628)
+*** ANTE/BLINDS ***
+KKAAciiiiii posts small blind 40
+Chicharitou posts big blind 80
+Dealt to P1xel7 [2c 8c]
+*** PRE-FLOP *** 
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 raises 120 to 200
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+P1xel7 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 5: P1xel7 won 320
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-37-1708112316 - Holdem no limit (40/80) - 2024/02/16 19:38:36 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #8 is the button
+Seat 1: Chicharitou (2605)
+Seat 2: Steph.molist (2685)
+Seat 3: la-viking (6647)
+Seat 4: Anthonytriat (2615)
+Seat 5: P1xel7 (4670)
+Seat 6: SA-Matador26 (2605)
+Seat 7: key-mi78 (2585)
+Seat 8: KKAAciiiiii (5588)
+*** ANTE/BLINDS ***
+Chicharitou posts small blind 40
+Steph.molist posts big blind 80
+Dealt to P1xel7 [9h 7h]
+*** PRE-FLOP *** 
+la-viking raises 80 to 160
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 3: la-viking won 280
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-38-1708112342 - Holdem no limit (40/80) - 2024/02/16 19:39:02 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #1 is the button
+Seat 1: Chicharitou (2565)
+Seat 2: Steph.molist (2605)
+Seat 3: la-viking (6767)
+Seat 4: Anthonytriat (2615)
+Seat 5: P1xel7 (4670)
+Seat 6: SA-Matador26 (2605)
+Seat 7: key-mi78 (2585)
+Seat 8: KKAAciiiiii (5588)
+*** ANTE/BLINDS ***
+Steph.molist posts small blind 40
+la-viking posts big blind 80
+Dealt to P1xel7 [2d 9c]
+*** PRE-FLOP *** 
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii raises 96 to 176
+Chicharitou folds
+Steph.molist folds
+la-viking calls 96
+*** FLOP *** [4h 2s Ts]
+la-viking bets 392
+KKAAciiiiii folds
+la-viking collected 784 from pot
+*** SUMMARY ***
+Total pot 784 | No rake
+Board: [4h 2s Ts]
+Seat 3: la-viking (big blind) won 784
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-39-1708112370 - Holdem no limit (40/80) - 2024/02/16 19:39:30 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #2 is the button
+Seat 1: Chicharitou (2565)
+Seat 2: Steph.molist (2565)
+Seat 3: la-viking (6983)
+Seat 4: Anthonytriat (2615)
+Seat 5: P1xel7 (4670)
+Seat 6: SA-Matador26 (2605)
+Seat 7: key-mi78 (2585)
+Seat 8: KKAAciiiiii (5412)
+*** ANTE/BLINDS ***
+la-viking posts small blind 40
+Anthonytriat posts big blind 80
+Dealt to P1xel7 [4h 4c]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 200
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking calls 160
+Anthonytriat folds
+*** FLOP *** [2h 5h Kd]
+la-viking checks
+P1xel7 bets 168
+la-viking calls 168
+*** TURN *** [2h 5h Kd][Qs]
+la-viking checks
+P1xel7 bets 286
+la-viking calls 286
+*** RIVER *** [2h 5h Kd Qs][Js]
+la-viking checks
+P1xel7 checks
+*** SHOW DOWN ***
+P1xel7 shows [4h 4c] (One pair : 4)
+la-viking shows [5s 9s] (One pair : 5)
+la-viking collected 1388 from pot
+*** SUMMARY ***
+Total pot 1388 | No rake
+Board: [2h 5h Kd Qs Js]
+Seat 3: la-viking (small blind) showed [5s 9s] and won 1388 with One pair : 5
+Seat 5: P1xel7 showed [4h 4c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 5 - HandId: #3201975493003837907-40-1708112409 - Holdem no limit (40/80) - 2024/02/16 19:40:09 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #3 is the button
+Seat 1: Chicharitou (2565)
+Seat 2: Steph.molist (2565)
+Seat 3: la-viking (7717)
+Seat 4: Anthonytriat (2535)
+Seat 5: P1xel7 (4016)
+Seat 6: SA-Matador26 (2605)
+Seat 7: key-mi78 (2585)
+Seat 8: KKAAciiiiii (5412)
+*** ANTE/BLINDS ***
+Anthonytriat posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [3d 6s]
+*** PRE-FLOP *** 
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii raises 96 to 176
+Chicharitou folds
+Steph.molist folds
+la-viking calls 176
+Anthonytriat folds
+P1xel7 folds
+*** FLOP *** [6c Ac Jh]
+KKAAciiiiii bets 165
+la-viking calls 165
+*** TURN *** [6c Ac Jh][Jd]
+KKAAciiiiii bets 521
+la-viking calls 521
+*** RIVER *** [6c Ac Jh Jd][3s]
+KKAAciiiiii bets 1383
+la-viking folds
+KKAAciiiiii collected 3227 from pot
+*** SUMMARY ***
+Total pot 3227 | No rake
+Board: [6c Ac Jh Jd 3s]
+Seat 8: KKAAciiiiii won 3227
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-41-1708112448 - Holdem no limit (60/120) - 2024/02/16 19:40:48 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #4 is the button
+Seat 1: Chicharitou (2565)
+Seat 2: Steph.molist (2565)
+Seat 3: la-viking (6855)
+Seat 4: Anthonytriat (2495)
+Seat 5: P1xel7 (3936)
+Seat 6: SA-Matador26 (2605)
+Seat 7: key-mi78 (2585)
+Seat 8: KKAAciiiiii (6394)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+SA-Matador26 posts big blind 120
+Dealt to P1xel7 [Js Jd]
+*** PRE-FLOP *** 
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 raises 120 to 240
+SA-Matador26 folds
+P1xel7 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 5: P1xel7 (small blind) won 360
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-42-1708112458 - Holdem no limit (60/120) - 2024/02/16 19:40:58 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #5 is the button
+Seat 1: Chicharitou (2565)
+Seat 2: Steph.molist (2565)
+Seat 3: la-viking (6855)
+Seat 4: Anthonytriat (2495)
+Seat 5: P1xel7 (4056)
+Seat 6: SA-Matador26 (2485)
+Seat 7: key-mi78 (2585)
+Seat 8: KKAAciiiiii (6394)
+*** ANTE/BLINDS ***
+SA-Matador26 posts small blind 60
+key-mi78 posts big blind 120
+Dealt to P1xel7 [Ah 7s]
+*** PRE-FLOP *** 
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking raises 120 to 240
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+la-viking collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: la-viking won 420
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-43-1708112479 - Holdem no limit (60/120) - 2024/02/16 19:41:19 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #6 is the button
+Seat 1: Chicharitou (2565)
+Seat 2: Steph.molist (2565)
+Seat 3: la-viking (7035)
+Seat 4: Anthonytriat (2495)
+Seat 5: P1xel7 (4056)
+Seat 6: SA-Matador26 (2425)
+Seat 7: key-mi78 (2465)
+Seat 8: KKAAciiiiii (6394)
+*** ANTE/BLINDS ***
+key-mi78 posts small blind 60
+KKAAciiiiii posts big blind 120
+Dealt to P1xel7 [Qc 6d]
+*** PRE-FLOP *** 
+Chicharitou folds
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 8: KKAAciiiiii (big blind) won 180
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-44-1708112494 - Holdem no limit (60/120) - 2024/02/16 19:41:34 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #7 is the button
+Seat 1: Chicharitou (2565)
+Seat 2: Steph.molist (2565)
+Seat 3: la-viking (7035)
+Seat 4: Anthonytriat (2495)
+Seat 5: P1xel7 (4056)
+Seat 6: SA-Matador26 (2425)
+Seat 7: key-mi78 (2405)
+Seat 8: KKAAciiiiii (6454)
+*** ANTE/BLINDS ***
+KKAAciiiiii posts small blind 60
+Chicharitou posts big blind 120
+Dealt to P1xel7 [Ts Td]
+*** PRE-FLOP *** 
+Steph.molist folds
+la-viking raises 120 to 240
+Anthonytriat folds
+P1xel7 raises 660 to 900
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou calls 780
+la-viking calls 660
+*** FLOP *** [2c 3h Jd]
+Chicharitou bets 1665 and is all-in
+la-viking folds
+P1xel7 folds
+Chicharitou collected 4425 from pot
+*** SUMMARY ***
+Total pot 4425 | No rake
+Board: [2c 3h Jd]
+Seat 1: Chicharitou (big blind) won 4425
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-45-1708112541 - Holdem no limit (60/120) - 2024/02/16 19:42:21 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #8 is the button
+Seat 1: Chicharitou (4425)
+Seat 2: Steph.molist (2565)
+Seat 3: la-viking (6135)
+Seat 4: Anthonytriat (2495)
+Seat 5: P1xel7 (3156)
+Seat 6: SA-Matador26 (2425)
+Seat 7: key-mi78 (2405)
+Seat 8: KKAAciiiiii (6394)
+*** ANTE/BLINDS ***
+Chicharitou posts small blind 60
+Steph.molist posts big blind 120
+Dealt to P1xel7 [9c 2s]
+*** PRE-FLOP *** 
+la-viking raises 120 to 240
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii calls 240
+Chicharitou calls 180
+Steph.molist folds
+*** FLOP *** [6s 8h 8s]
+Chicharitou bets 294
+la-viking calls 294
+KKAAciiiiii folds
+*** TURN *** [6s 8h 8s][5c]
+Chicharitou bets 500
+la-viking calls 500
+*** RIVER *** [6s 8h 8s 5c][Ad]
+Chicharitou checks
+la-viking bets 2428
+Chicharitou folds
+la-viking collected 4856 from pot
+*** SUMMARY ***
+Total pot 4856 | No rake
+Board: [6s 8h 8s 5c Ad]
+Seat 3: la-viking won 4856
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-46-1708112594 - Holdem no limit (60/120) - 2024/02/16 19:43:14 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #1 is the button
+Seat 1: Chicharitou (3391)
+Seat 2: Steph.molist (2445)
+Seat 3: la-viking (7529)
+Seat 4: Anthonytriat (2495)
+Seat 5: P1xel7 (3156)
+Seat 6: SA-Matador26 (2425)
+Seat 7: key-mi78 (2405)
+Seat 8: KKAAciiiiii (6154)
+*** ANTE/BLINDS ***
+Steph.molist posts small blind 60
+la-viking posts big blind 120
+Dealt to P1xel7 [Ah 8h]
+*** PRE-FLOP *** 
+Anthonytriat folds
+P1xel7 raises 180 to 300
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking calls 180
+*** FLOP *** [Kd Ts 9c]
+la-viking checks
+P1xel7 checks
+*** TURN *** [Kd Ts 9c][8s]
+la-viking checks
+P1xel7 bets 231
+la-viking calls 231
+*** RIVER *** [Kd Ts 9c 8s][6s]
+la-viking bets 1122
+P1xel7 folds
+la-viking collected 2244 from pot
+*** SUMMARY ***
+Total pot 2244 | No rake
+Board: [Kd Ts 9c 8s 6s]
+Seat 3: la-viking (big blind) won 2244
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-47-1708112642 - Holdem no limit (60/120) - 2024/02/16 19:44:02 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #2 is the button
+Seat 1: Chicharitou (3391)
+Seat 2: Steph.molist (2385)
+Seat 3: la-viking (8120)
+Seat 4: Anthonytriat (2495)
+Seat 5: P1xel7 (2625)
+Seat 6: SA-Matador26 (2425)
+Seat 7: key-mi78 (2405)
+Seat 8: KKAAciiiiii (6154)
+*** ANTE/BLINDS ***
+la-viking posts small blind 60
+Anthonytriat posts big blind 120
+Dealt to P1xel7 [Ac 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou calls 120
+Steph.molist folds
+la-viking calls 60
+Anthonytriat folds
+*** FLOP *** [Jd 4s 9h]
+la-viking bets 126
+Chicharitou calls 126
+*** TURN *** [Jd 4s 9h][4d]
+la-viking bets 612
+Chicharitou folds
+la-viking collected 1224 from pot
+*** SUMMARY ***
+Total pot 1224 | No rake
+Board: [Jd 4s 9h 4d]
+Seat 3: la-viking (small blind) won 1224
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-48-1708112696 - Holdem no limit (60/120) - 2024/02/16 19:44:56 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #3 is the button
+Seat 1: Chicharitou (3145)
+Seat 2: Steph.molist (2385)
+Seat 3: la-viking (8486)
+Seat 4: Anthonytriat (2375)
+Seat 5: P1xel7 (2625)
+Seat 6: SA-Matador26 (2425)
+Seat 7: key-mi78 (2405)
+Seat 8: KKAAciiiiii (6154)
+*** ANTE/BLINDS ***
+Anthonytriat posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [5s 2h]
+*** PRE-FLOP *** 
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking raises 120 to 240
+Anthonytriat folds
+P1xel7 folds
+la-viking collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 3: la-viking (button) won 420
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-49-1708112712 - Holdem no limit (60/120) - 2024/02/16 19:45:12 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #4 is the button
+Seat 1: Chicharitou (3145)
+Seat 2: Steph.molist (2385)
+Seat 3: la-viking (8666)
+Seat 4: Anthonytriat (2315)
+Seat 5: P1xel7 (2505)
+Seat 6: SA-Matador26 (2425)
+Seat 7: key-mi78 (2405)
+Seat 8: KKAAciiiiii (6154)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+SA-Matador26 posts big blind 120
+Dealt to P1xel7 [7d 3c]
+*** PRE-FLOP *** 
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou folds
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 raises 120 to 240
+SA-Matador26 folds
+P1xel7 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 5: P1xel7 (small blind) won 360
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-50-1708112739 - Holdem no limit (60/120) - 2024/02/16 19:45:39 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #5 is the button
+Seat 1: Chicharitou (3145)
+Seat 2: Steph.molist (2385)
+Seat 3: la-viking (8666)
+Seat 4: Anthonytriat (2315)
+Seat 5: P1xel7 (2625)
+Seat 6: SA-Matador26 (2305)
+Seat 7: key-mi78 (2405)
+Seat 8: KKAAciiiiii (6154)
+*** ANTE/BLINDS ***
+SA-Matador26 posts small blind 60
+key-mi78 posts big blind 120
+Dealt to P1xel7 [Jc 8c]
+*** PRE-FLOP *** 
+KKAAciiiiii raises 144 to 264
+Chicharitou folds
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 calls 264
+SA-Matador26 folds
+key-mi78 folds
+*** FLOP *** [8d 3c Qs]
+KKAAciiiiii checks
+P1xel7 checks
+*** TURN *** [8d 3c Qs][6c]
+KKAAciiiiii checks
+P1xel7 bets 248
+KKAAciiiiii folds
+P1xel7 collected 956 from pot
+*** SUMMARY ***
+Total pot 956 | No rake
+Board: [8d 3c Qs 6c]
+Seat 5: P1xel7 (button) won 956
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-51-1708112773 - Holdem no limit (60/120) - 2024/02/16 19:46:13 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #6 is the button
+Seat 1: Chicharitou (3145)
+Seat 2: Steph.molist (2385)
+Seat 3: la-viking (8666)
+Seat 4: Anthonytriat (2315)
+Seat 5: P1xel7 (3069)
+Seat 6: SA-Matador26 (2245)
+Seat 7: key-mi78 (2285)
+Seat 8: KKAAciiiiii (5890)
+*** ANTE/BLINDS ***
+key-mi78 posts small blind 60
+KKAAciiiiii posts big blind 120
+Dealt to P1xel7 [4h Jh]
+*** PRE-FLOP *** 
+Chicharitou folds
+Steph.molist folds
+la-viking calls 120
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii checks
+*** FLOP *** [8s Ac 7h]
+KKAAciiiiii checks
+la-viking bets 300
+KKAAciiiiii calls 300
+*** TURN *** [8s Ac 7h][8c]
+KKAAciiiiii checks
+la-viking checks
+*** RIVER *** [8s Ac 7h 8c][Kd]
+KKAAciiiiii checks
+la-viking bets 900
+KKAAciiiiii folds
+la-viking collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Board: [8s Ac 7h 8c Kd]
+Seat 3: la-viking won 1800
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-52-1708112805 - Holdem no limit (60/120) - 2024/02/16 19:46:45 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #7 is the button
+Seat 1: Chicharitou (3145)
+Seat 2: Steph.molist (2385)
+Seat 3: la-viking (9146)
+Seat 4: Anthonytriat (2315)
+Seat 5: P1xel7 (3069)
+Seat 6: SA-Matador26 (2245)
+Seat 7: key-mi78 (2225)
+Seat 8: KKAAciiiiii (5470)
+*** ANTE/BLINDS ***
+KKAAciiiiii posts small blind 60
+Chicharitou posts big blind 120
+Dealt to P1xel7 [Ac 2s]
+*** PRE-FLOP *** 
+Steph.molist folds
+la-viking folds
+Anthonytriat folds
+P1xel7 raises 144 to 264
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii calls 204
+Chicharitou folds
+*** FLOP *** [Jd Td 6h]
+KKAAciiiiii bets 227
+P1xel7 folds
+KKAAciiiiii collected 875 from pot
+*** SUMMARY ***
+Total pot 875 | No rake
+Board: [Jd Td 6h]
+Seat 8: KKAAciiiiii (small blind) won 875
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-53-1708112838 - Holdem no limit (60/120) - 2024/02/16 19:47:18 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #8 is the button
+Seat 1: Chicharitou (3025)
+Seat 2: Steph.molist (2385)
+Seat 3: la-viking (9146)
+Seat 4: Anthonytriat (2315)
+Seat 5: P1xel7 (2805)
+Seat 6: SA-Matador26 (2245)
+Seat 7: key-mi78 (2225)
+Seat 8: KKAAciiiiii (5854)
+*** ANTE/BLINDS ***
+Chicharitou posts small blind 60
+Steph.molist posts big blind 120
+Dealt to P1xel7 [Ac 6c]
+*** PRE-FLOP *** 
+la-viking folds
+Anthonytriat folds
+P1xel7 raises 120 to 240
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii calls 240
+Chicharitou folds
+Steph.molist folds
+*** FLOP *** [5s Qh 6h]
+P1xel7 bets 231
+KKAAciiiiii folds
+P1xel7 collected 891 from pot
+*** SUMMARY ***
+Total pot 891 | No rake
+Board: [5s Qh 6h]
+Seat 5: P1xel7 won 891
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 6 - HandId: #3201975493003837907-54-1708112861 - Holdem no limit (60/120) - 2024/02/16 19:47:41 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #1 is the button
+Seat 1: Chicharitou (2965)
+Seat 2: Steph.molist (2265)
+Seat 3: la-viking (9146)
+Seat 4: Anthonytriat (2315)
+Seat 5: P1xel7 (3225)
+Seat 6: SA-Matador26 (2245)
+Seat 7: key-mi78 (2225)
+Seat 8: KKAAciiiiii (5614)
+*** ANTE/BLINDS ***
+Steph.molist posts small blind 60
+la-viking posts big blind 120
+Dealt to P1xel7 [8s 5s]
+*** PRE-FLOP *** 
+Anthonytriat folds
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou raises 120 to 240
+Steph.molist folds
+la-viking folds
+Chicharitou collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Seat 1: Chicharitou (button) won 420
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837907-55-1708112924 - Holdem no limit (75/150) - 2024/02/16 19:48:44 UTC
+Table: 'Tremplin Paris(745518015)#0466' 8-max (real money) Seat #2 is the button
+Seat 1: Chicharitou (3145)
+Seat 2: Steph.molist (2205)
+Seat 3: la-viking (9026)
+Seat 4: Anthonytriat (2315)
+Seat 5: P1xel7 (3225)
+Seat 6: SA-Matador26 (2245)
+Seat 7: key-mi78 (2225)
+Seat 8: KKAAciiiiii (5614)
+*** ANTE/BLINDS ***
+la-viking posts small blind 75
+Anthonytriat posts big blind 150
+Dealt to P1xel7 [6d 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+SA-Matador26 folds
+key-mi78 folds
+KKAAciiiiii folds
+Chicharitou raises 225 to 375
+Steph.molist folds
+la-viking raises 225 to 600
+Anthonytriat folds
+Chicharitou calls 225
+*** FLOP *** [Td 5h 3d]
+la-viking bets 472
+Chicharitou raises 2073 to 2545 and is all-in
+la-viking calls 2073
+*** TURN *** [Td 5h 3d][Qh]
+*** RIVER *** [Td 5h 3d Qh][3h]
+*** SHOW DOWN ***
+Chicharitou shows [6s 9s] (One pair : 3)
+la-viking shows [Qd Kd] (Two pairs : Queens and 3)
+la-viking collected 6440 from pot
+*** SUMMARY ***
+Total pot 6440 | No rake
+Board: [Td 5h 3d Qh 3h]
+Seat 1: Chicharitou showed [6s 9s] and lost with One pair : 3
+Seat 3: la-viking (small blind) showed [Qd Kd] and won 6440 with Two pairs : Queens and 3
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-55-1708113020 - Holdem no limit (75/150) - 2024/02/16 19:50:20 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #8 is the button
+Seat 1: Weah 14 (10212)
+Seat 2: chichat (2415)
+Seat 4: Marco62750 (15157)
+Seat 5: Mepronizine9 (1300)
+Seat 6: QATA STROFF (7701)
+Seat 7: P1xel7 (3225)
+Seat 8: MATPbmx (2235)
+*** ANTE/BLINDS ***
+Weah 14 posts small blind 75
+chichat posts big blind 150
+Dealt to P1xel7 [3c 8c]
+*** PRE-FLOP *** 
+Marco62750 calls 150
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 75
+chichat folds
+*** FLOP *** [5s 2s 9h]
+Weah 14 checks
+Marco62750 checks
+*** TURN *** [5s 2s 9h][Kd]
+Weah 14 checks
+Marco62750 checks
+*** RIVER *** [5s 2s 9h Kd][As]
+Weah 14 checks
+Marco62750 checks
+*** SHOW DOWN ***
+Marco62750 shows [Qs 8d] (High card : Ace)
+Weah 14 shows [Jc 5h] (One pair : 5)
+Weah 14 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Board: [5s 2s 9h Kd As]
+Seat 1: Weah 14 (small blind) showed [Jc 5h] and won 450 with One pair : 5
+Seat 4: Marco62750 showed [Qs 8d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-56-1708113059 - Holdem no limit (75/150) - 2024/02/16 19:50:59 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #1 is the button
+Seat 1: Weah 14 (10512)
+Seat 2: chichat (2265)
+Seat 4: Marco62750 (15007)
+Seat 5: Mepronizine9 (1300)
+Seat 6: QATA STROFF (7701)
+Seat 7: P1xel7 (3225)
+Seat 8: MATPbmx (2235)
+*** ANTE/BLINDS ***
+chichat posts small blind 75
+Marco62750 posts big blind 150
+Dealt to P1xel7 [Ac Tc]
+*** PRE-FLOP *** 
+Mepronizine9 folds
+QATA STROFF calls 150
+P1xel7 calls 150
+MATPbmx folds
+Weah 14 folds
+chichat folds
+Marco62750 checks
+*** FLOP *** [Qd Td 9d]
+Marco62750 bets 525
+QATA STROFF raises 7026 to 7551 and is all-in
+P1xel7 folds
+Marco62750 calls 7026
+*** TURN *** [Qd Td 9d][Jc]
+*** RIVER *** [Qd Td 9d Jc][2c]
+*** SHOW DOWN ***
+Marco62750 shows [Ah Ad] (One pair : Aces)
+QATA STROFF shows [Ks Jd] (Straight King high)
+QATA STROFF collected 15627 from pot
+*** SUMMARY ***
+Total pot 15627 | No rake
+Board: [Qd Td 9d Jc 2c]
+Seat 4: Marco62750 (big blind) showed [Ah Ad] and lost with One pair : Aces
+Seat 6: QATA STROFF showed [Ks Jd] and won 15627 with Straight King high
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-57-1708113095 - Holdem no limit (75/150) - 2024/02/16 19:51:35 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #2 is the button
+Seat 1: Weah 14 (10512)
+Seat 2: chichat (2190)
+Seat 3: FaisGAAF (2135)
+Seat 4: Marco62750 (7306)
+Seat 5: Mepronizine9 (1300)
+Seat 6: QATA STROFF (15627)
+Seat 7: P1xel7 (3075)
+Seat 8: MATPbmx (2235)
+*** ANTE/BLINDS ***
+Marco62750 posts small blind 75
+Mepronizine9 posts big blind 150
+Dealt to P1xel7 [Kd 3d]
+*** PRE-FLOP *** 
+QATA STROFF calls 150
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 150
+chichat folds
+Marco62750 raises 600 to 750
+Mepronizine9 folds
+QATA STROFF calls 600
+Weah 14 raises 9762 to 10512 and is all-in
+Marco62750 calls 6556 and is all-in
+QATA STROFF folds
+*** FLOP *** [2h 4s 5h]
+*** TURN *** [2h 4s 5h][Ks]
+*** RIVER *** [2h 4s 5h Ks][5c]
+*** SHOW DOWN ***
+Marco62750 shows [9s 9c] (Two pairs : 9 and 5)
+Weah 14 shows [Jh Jc] (Two pairs : Jacks and 5)
+Weah 14 collected 18718 from pot
+*** SUMMARY ***
+Total pot 18718 | No rake
+Board: [2h 4s 5h Ks 5c]
+Seat 1: Weah 14 showed [Jh Jc] and won 18718 with Two pairs : Jacks and 5
+Seat 4: Marco62750 (small blind) showed [9s 9c] and lost with Two pairs : 9 and 5
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-58-1708113134 - Holdem no limit (75/150) - 2024/02/16 19:52:14 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #4 is the button
+Seat 1: Weah 14 (18718)
+Seat 2: chichat (2190)
+Seat 3: FaisGAAF (2135)
+Seat 5: Mepronizine9 (1150)
+Seat 6: QATA STROFF (14877)
+Seat 7: P1xel7 (3075)
+Seat 8: MATPbmx (2235)
+*** ANTE/BLINDS ***
+Mepronizine9 posts small blind 75
+QATA STROFF posts big blind 150
+Dealt to P1xel7 [2s Kd]
+*** PRE-FLOP *** 
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 150
+chichat folds
+FaisGAAF folds
+Mepronizine9 folds
+QATA STROFF checks
+*** FLOP *** [4c Kh 5d]
+QATA STROFF bets 150
+Weah 14 folds
+QATA STROFF collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Board: [4c Kh 5d]
+Seat 6: QATA STROFF (big blind) won 525
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-59-1708113156 - Holdem no limit (75/150) - 2024/02/16 19:52:36 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #5 is the button
+Seat 1: Weah 14 (18568)
+Seat 2: chichat (2190)
+Seat 3: FaisGAAF (2135)
+Seat 5: Mepronizine9 (1075)
+Seat 6: QATA STROFF (15102)
+Seat 7: P1xel7 (3075)
+Seat 8: MATPbmx (2235)
+*** ANTE/BLINDS ***
+QATA STROFF posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [Th Tc]
+*** PRE-FLOP *** 
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+Mepronizine9 folds
+QATA STROFF calls 75
+P1xel7 raises 300 to 450
+QATA STROFF calls 300
+*** FLOP *** [7d 7h 6d]
+QATA STROFF checks
+P1xel7 bets 585
+QATA STROFF calls 585
+*** TURN *** [7d 7h 6d][3d]
+QATA STROFF checks
+P1xel7 bets 2040 and is all-in
+QATA STROFF folds
+P1xel7 collected 4110 from pot
+*** SUMMARY ***
+Total pot 4110 | No rake
+Board: [7d 7h 6d 3d]
+Seat 7: P1xel7 (big blind) won 4110
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-60-1708113188 - Holdem no limit (75/150) - 2024/02/16 19:53:08 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #6 is the button
+Seat 1: Weah 14 (18568)
+Seat 2: chichat (2190)
+Seat 3: FaisGAAF (2135)
+Seat 4: NicoNirecav (3000)
+Seat 5: Mepronizine9 (1075)
+Seat 6: QATA STROFF (14067)
+Seat 7: P1xel7 (4110)
+Seat 8: MATPbmx (2235)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 75
+MATPbmx posts big blind 150
+Dealt to P1xel7 [8h 6s]
+*** PRE-FLOP *** 
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+NicoNirecav calls 150
+Mepronizine9 folds
+QATA STROFF calls 150
+P1xel7 folds
+MATPbmx folds
+*** FLOP *** [5h 3s 2h]
+NicoNirecav bets 525
+QATA STROFF folds
+NicoNirecav collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [5h 3s 2h]
+Seat 4: NicoNirecav won 1050
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-61-1708113228 - Holdem no limit (75/150) - 2024/02/16 19:53:48 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #7 is the button
+Seat 1: Weah 14 (18568)
+Seat 2: chichat (2190)
+Seat 3: FaisGAAF (2135)
+Seat 4: NicoNirecav (3375)
+Seat 5: Mepronizine9 (1075)
+Seat 6: QATA STROFF (13917)
+Seat 7: P1xel7 (4035)
+Seat 8: MATPbmx (2085)
+*** ANTE/BLINDS ***
+MATPbmx posts small blind 75
+Weah 14 posts big blind 150
+Dealt to P1xel7 [Jc 8c]
+*** PRE-FLOP *** 
+chichat folds
+FaisGAAF folds
+NicoNirecav calls 150
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 checks
+*** FLOP *** [Ac 2d 4d]
+Weah 14 checks
+NicoNirecav checks
+*** TURN *** [Ac 2d 4d][9h]
+Weah 14 checks
+NicoNirecav checks
+*** RIVER *** [Ac 2d 4d 9h][3d]
+Weah 14 checks
+NicoNirecav checks
+*** SHOW DOWN ***
+Weah 14 shows [7d 8s] (High card : Ace)
+NicoNirecav shows [6s Jh] (High card : Ace)
+NicoNirecav collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [Ac 2d 4d 9h 3d]
+Seat 1: Weah 14 (big blind) showed [7d 8s] and lost with High card : Ace
+Seat 4: NicoNirecav showed [6s Jh] and won 375 with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-62-1708113254 - Holdem no limit (75/150) - 2024/02/16 19:54:14 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #8 is the button
+Seat 1: Weah 14 (18418)
+Seat 2: chichat (2190)
+Seat 3: FaisGAAF (2135)
+Seat 4: NicoNirecav (3600)
+Seat 5: Mepronizine9 (1075)
+Seat 6: QATA STROFF (13917)
+Seat 7: P1xel7 (4035)
+Seat 8: MATPbmx (2010)
+*** ANTE/BLINDS ***
+Weah 14 posts small blind 75
+chichat posts big blind 150
+Dealt to P1xel7 [Kc 2h]
+*** PRE-FLOP *** 
+FaisGAAF folds
+NicoNirecav calls 150
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 75
+chichat folds
+*** FLOP *** [7c 8h Td]
+Weah 14 checks
+NicoNirecav bets 150
+Weah 14 folds
+NicoNirecav collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [7c 8h Td]
+Seat 4: NicoNirecav won 600
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-63-1708113273 - Holdem no limit (75/150) - 2024/02/16 19:54:33 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #1 is the button
+Seat 1: Weah 14 (18268)
+Seat 2: chichat (2040)
+Seat 3: FaisGAAF (2135)
+Seat 4: NicoNirecav (3900)
+Seat 5: Mepronizine9 (1075)
+Seat 6: QATA STROFF (13917)
+Seat 7: P1xel7 (4035)
+Seat 8: MATPbmx (2010)
+*** ANTE/BLINDS ***
+chichat posts small blind 75
+FaisGAAF posts big blind 150
+Dealt to P1xel7 [Qc 4c]
+*** PRE-FLOP *** 
+NicoNirecav calls 150
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 150
+chichat folds
+FaisGAAF checks
+*** FLOP *** [9d Ts 9h]
+FaisGAAF checks
+NicoNirecav bets 150
+Weah 14 calls 150
+FaisGAAF folds
+*** TURN *** [9d Ts 9h][Jc]
+NicoNirecav bets 289
+Weah 14 calls 289
+*** RIVER *** [9d Ts 9h Jc][3s]
+NicoNirecav bets 912
+Weah 14 folds
+NicoNirecav collected 2315 from pot
+*** SUMMARY ***
+Total pot 2315 | No rake
+Board: [9d Ts 9h Jc 3s]
+Seat 4: NicoNirecav won 2315
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-64-1708113661 - Holdem no limit (75/150) - 2024/02/16 20:01:01 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #2 is the button
+Seat 1: Weah 14 (17679)
+Seat 2: chichat (1965)
+Seat 3: FaisGAAF (1985)
+Seat 4: NicoNirecav (4714)
+Seat 5: Mepronizine9 (1075)
+Seat 6: QATA STROFF (13917)
+Seat 7: P1xel7 (4035)
+Seat 8: MATPbmx (2010)
+*** ANTE/BLINDS ***
+FaisGAAF posts small blind 75
+NicoNirecav posts big blind 150
+Dealt to P1xel7 [Kc 4s]
+*** PRE-FLOP *** 
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 150
+chichat folds
+FaisGAAF folds
+NicoNirecav checks
+*** FLOP *** [2c Qd Ad]
+NicoNirecav checks
+Weah 14 checks
+*** TURN *** [2c Qd Ad][Jh]
+NicoNirecav checks
+Weah 14 checks
+*** RIVER *** [2c Qd Ad Jh][9c]
+NicoNirecav checks
+Weah 14 checks
+*** SHOW DOWN ***
+NicoNirecav shows [5c 4c] (High card : Ace)
+Weah 14 shows [Td 4d] (High card : Ace)
+Weah 14 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Board: [2c Qd Ad Jh 9c]
+Seat 1: Weah 14 showed [Td 4d] and won 375 with High card : Ace
+Seat 4: NicoNirecav (big blind) showed [5c 4c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 7 - HandId: #3201975493003837650-65-1708113720 - Holdem no limit (75/150) - 2024/02/16 20:02:00 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #3 is the button
+Seat 1: Weah 14 (17904)
+Seat 2: chichat (1965)
+Seat 3: FaisGAAF (1910)
+Seat 4: NicoNirecav (4564)
+Seat 5: Mepronizine9 (1075)
+Seat 6: QATA STROFF (13917)
+Seat 7: P1xel7 (4035)
+Seat 8: MATPbmx (2010)
+*** ANTE/BLINDS ***
+NicoNirecav posts small blind 75
+Mepronizine9 posts big blind 150
+Dealt to P1xel7 [4s 5d]
+*** PRE-FLOP *** 
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 150
+chichat folds
+FaisGAAF folds
+NicoNirecav calls 75
+Mepronizine9 checks
+*** FLOP *** [Kh 8c As]
+NicoNirecav checks
+Mepronizine9 checks
+Weah 14 checks
+*** TURN *** [Kh 8c As][8d]
+NicoNirecav checks
+Mepronizine9 checks
+Weah 14 checks
+*** RIVER *** [Kh 8c As 8d][Jc]
+NicoNirecav checks
+Mepronizine9 checks
+Weah 14 bets 293
+NicoNirecav folds
+Mepronizine9 folds
+Weah 14 collected 743 from pot
+*** SUMMARY ***
+Total pot 743 | No rake
+Board: [Kh 8c As 8d Jc]
+Seat 1: Weah 14 won 743
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-66-1708113813 - Holdem no limit (15/75/150) - 2024/02/16 20:03:33 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #4 is the button
+Seat 1: Weah 14 (18204)
+Seat 2: chichat (1965)
+Seat 3: FaisGAAF (1910)
+Seat 4: NicoNirecav (4414)
+Seat 5: Mepronizine9 (925)
+Seat 6: QATA STROFF (13917)
+Seat 7: P1xel7 (4035)
+Seat 8: MATPbmx (2010)
+*** ANTE/BLINDS ***
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+NicoNirecav posts ante 15
+P1xel7 posts ante 15
+MATPbmx posts ante 15
+Mepronizine9 posts small blind 75
+QATA STROFF posts big blind 150
+Dealt to P1xel7 [Ac Kh]
+*** PRE-FLOP *** 
+P1xel7 raises 225 to 375
+MATPbmx folds
+Weah 14 calls 375
+chichat folds
+FaisGAAF folds
+NicoNirecav calls 375
+Mepronizine9 raises 535 to 910 and is all-in
+QATA STROFF folds
+P1xel7 raises 3110 to 4020 and is all-in
+Weah 14 folds
+NicoNirecav calls 3645
+*** FLOP *** [Qs 9h 6s]
+*** TURN *** [Qs 9h 6s][5s]
+*** RIVER *** [Qs 9h 6s 5s][4c]
+*** SHOW DOWN ***
+NicoNirecav shows [Kc 8s] (High card : King)
+Mepronizine9 shows [Qh As] (One pair : Queens)
+P1xel7 shows [Ac Kh] (High card : Ace)
+P1xel7 collected 6220 from side pot 1
+Mepronizine9 collected 3375 from main pot
+*** SUMMARY ***
+Total pot 9595 | No rake
+Board: [Qs 9h 6s 5s 4c]
+Seat 4: NicoNirecav (button) showed [Kc 8s] and lost with High card : King
+Seat 5: Mepronizine9 (small blind) showed [Qh As] and won 3375 with One pair : Queens
+Seat 7: P1xel7 showed [Ac Kh] and won 6220 with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-67-1708113863 - Holdem no limit (15/75/150) - 2024/02/16 20:04:23 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #5 is the button
+Seat 1: Weah 14 (17814)
+Seat 2: chichat (1950)
+Seat 3: FaisGAAF (1895)
+Seat 4: NicoNirecav (379)
+Seat 5: Mepronizine9 (3375)
+Seat 6: QATA STROFF (13752)
+Seat 7: P1xel7 (6220)
+Seat 8: MATPbmx (1995)
+*** ANTE/BLINDS ***
+QATA STROFF posts ante 15
+P1xel7 posts ante 15
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+NicoNirecav posts ante 15
+Mepronizine9 posts ante 15
+MATPbmx posts ante 15
+QATA STROFF posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [8d 4d]
+*** PRE-FLOP *** 
+MATPbmx folds
+Weah 14 calls 150
+chichat folds
+FaisGAAF folds
+NicoNirecav raises 214 to 364 and is all-in
+Mepronizine9 folds
+QATA STROFF calls 289
+P1xel7 folds
+Weah 14 calls 214
+*** FLOP *** [6d As 7d]
+QATA STROFF bets 150
+Weah 14 folds
+*** TURN *** [6d As 7d][Ks]
+*** RIVER *** [6d As 7d Ks][7h]
+*** SHOW DOWN ***
+NicoNirecav shows [9d Ac] (Two pairs : Aces and 7)
+QATA STROFF shows [4c Ah] (Two pairs : Aces and 7)
+QATA STROFF collected 831 from side pot 1
+NicoNirecav collected 681 from main pot
+*** SUMMARY ***
+Total pot 1512 | No rake
+Board: [6d As 7d Ks 7h]
+Seat 4: NicoNirecav showed [9d Ac] and won 681 with Two pairs : Aces and 7
+Seat 6: QATA STROFF (small blind) showed [4c Ah] and won 831 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-68-1708113895 - Holdem no limit (15/75/150) - 2024/02/16 20:04:55 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #6 is the button
+Seat 1: Weah 14 (17435)
+Seat 2: chichat (1935)
+Seat 3: FaisGAAF (1880)
+Seat 4: NicoNirecav (681)
+Seat 5: Mepronizine9 (3360)
+Seat 6: QATA STROFF (14054)
+Seat 7: P1xel7 (6055)
+Seat 8: MATPbmx (1980)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 15
+MATPbmx posts ante 15
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+NicoNirecav posts ante 15
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+P1xel7 posts small blind 75
+MATPbmx posts big blind 150
+Dealt to P1xel7 [Kc 5s]
+*** PRE-FLOP *** 
+Weah 14 calls 150
+chichat folds
+FaisGAAF folds
+NicoNirecav folds
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | No rake
+Seat 1: Weah 14 won 495
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-69-1708113909 - Holdem no limit (15/75/150) - 2024/02/16 20:05:09 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #7 is the button
+Seat 1: Weah 14 (17765)
+Seat 2: chichat (1920)
+Seat 3: FaisGAAF (1865)
+Seat 4: NicoNirecav (666)
+Seat 5: Mepronizine9 (3345)
+Seat 6: QATA STROFF (14039)
+Seat 7: P1xel7 (5965)
+Seat 8: MATPbmx (1815)
+*** ANTE/BLINDS ***
+MATPbmx posts ante 15
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+NicoNirecav posts ante 15
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+P1xel7 posts ante 15
+MATPbmx posts small blind 75
+Weah 14 posts big blind 150
+Dealt to P1xel7 [Ts Ks]
+*** PRE-FLOP *** 
+chichat folds
+FaisGAAF folds
+NicoNirecav raises 501 to 651 and is all-in
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 calls 651
+MATPbmx folds
+Weah 14 folds
+*** FLOP *** [8d Ac Ad]
+*** TURN *** [8d Ac Ad][8h]
+*** RIVER *** [8d Ac Ad 8h][Qd]
+*** SHOW DOWN ***
+NicoNirecav shows [Kc 5d] (Two pairs : Aces and 8)
+P1xel7 shows [Ts Ks] (Two pairs : Aces and 8)
+P1xel7 collected 824 from pot
+NicoNirecav collected 823 from pot
+*** SUMMARY ***
+Total pot 1647 | No rake
+Board: [8d Ac Ad 8h Qd]
+Seat 4: NicoNirecav showed [Kc 5d] and won 823 with Two pairs : Aces and 8
+Seat 7: P1xel7 (button) showed [Ts Ks] and won 824 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-70-1708113955 - Holdem no limit (15/75/150) - 2024/02/16 20:05:55 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #8 is the button
+Seat 1: Weah 14 (17600)
+Seat 2: chichat (1905)
+Seat 3: FaisGAAF (1850)
+Seat 4: NicoNirecav (823)
+Seat 5: Mepronizine9 (3330)
+Seat 6: QATA STROFF (14024)
+Seat 7: P1xel7 (6123)
+Seat 8: MATPbmx (1725)
+*** ANTE/BLINDS ***
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+NicoNirecav posts ante 15
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+P1xel7 posts ante 15
+MATPbmx posts ante 15
+Weah 14 posts small blind 75
+chichat posts big blind 150
+Dealt to P1xel7 [Tc 5d]
+*** PRE-FLOP *** 
+FaisGAAF folds
+NicoNirecav folds
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 raises 150 to 300
+chichat folds
+Weah 14 shows [Kc Jc] (High card : King)
+Weah 14 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | No rake
+Seat 1: Weah 14 (small blind) showed [Kc Jc] and won 570 with High card : King
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-71-1708113985 - Holdem no limit (15/75/150) - 2024/02/16 20:06:25 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #1 is the button
+Seat 1: Weah 14 (17855)
+Seat 2: chichat (1740)
+Seat 3: FaisGAAF (1835)
+Seat 4: NicoNirecav (808)
+Seat 5: Mepronizine9 (3315)
+Seat 6: QATA STROFF (14009)
+Seat 7: P1xel7 (6108)
+Seat 8: MATPbmx (1710)
+*** ANTE/BLINDS ***
+chichat posts ante 15
+FaisGAAF posts ante 15
+Weah 14 posts ante 15
+NicoNirecav posts ante 15
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+P1xel7 posts ante 15
+MATPbmx posts ante 15
+chichat posts small blind 75
+FaisGAAF posts big blind 150
+Dealt to P1xel7 [6d 4s]
+*** PRE-FLOP *** 
+NicoNirecav folds
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 raises 150 to 300
+chichat folds
+FaisGAAF folds
+Weah 14 collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | No rake
+Seat 1: Weah 14 (button) won 645
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-72-1708114017 - Holdem no limit (15/75/150) - 2024/02/16 20:06:57 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #2 is the button
+Seat 1: Weah 14 (18185)
+Seat 2: chichat (1650)
+Seat 3: FaisGAAF (1670)
+Seat 4: NicoNirecav (793)
+Seat 5: Mepronizine9 (3300)
+Seat 6: QATA STROFF (13994)
+Seat 7: P1xel7 (6093)
+Seat 8: MATPbmx (1695)
+*** ANTE/BLINDS ***
+FaisGAAF posts ante 15
+NicoNirecav posts ante 15
+Weah 14 posts ante 15
+chichat posts ante 15
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+P1xel7 posts ante 15
+MATPbmx posts ante 15
+FaisGAAF posts small blind 75
+NicoNirecav posts big blind 150
+Dealt to P1xel7 [As 6c]
+*** PRE-FLOP *** 
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 raises 675 to 825
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+NicoNirecav calls 628 and is all-in
+*** FLOP *** [7h 7c 9c]
+*** TURN *** [7h 7c 9c][Kd]
+*** RIVER *** [7h 7c 9c Kd][Ah]
+*** SHOW DOWN ***
+NicoNirecav shows [Kh 9d] (Two pairs : Kings and 9)
+P1xel7 shows [As 6c] (Two pairs : Aces and 7)
+P1xel7 collected 1798 from pot
+*** SUMMARY ***
+Total pot 1798 | No rake
+Board: [7h 7c 9c Kd Ah]
+Seat 4: NicoNirecav (big blind) showed [Kh 9d] and lost with Two pairs : Kings and 9
+Seat 7: P1xel7 showed [As 6c] and won 1798 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-73-1708114053 - Holdem no limit (15/75/150) - 2024/02/16 20:07:33 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #3 is the button
+Seat 1: Weah 14 (18170)
+Seat 2: chichat (1635)
+Seat 3: FaisGAAF (1580)
+Seat 5: Mepronizine9 (3285)
+Seat 6: QATA STROFF (13979)
+Seat 7: P1xel7 (7051)
+Seat 8: MATPbmx (1680)
+*** ANTE/BLINDS ***
+Mepronizine9 posts ante 15
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+QATA STROFF posts ante 15
+P1xel7 posts ante 15
+MATPbmx posts ante 15
+Mepronizine9 posts big blind 150
+Dealt to P1xel7 [3c Qh]
+*** PRE-FLOP *** 
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+Mepronizine9 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | No rake
+Seat 5: Mepronizine9 (big blind) won 255
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-74-1708114076 - Holdem no limit (15/75/150) - 2024/02/16 20:07:56 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #4 is the button
+Seat 1: Weah 14 (18155)
+Seat 2: chichat (1620)
+Seat 3: FaisGAAF (1565)
+Seat 4: Eloetjo64 (6471)
+Seat 5: Mepronizine9 (3375)
+Seat 6: QATA STROFF (13964)
+Seat 7: P1xel7 (7036)
+Seat 8: MATPbmx (1665)
+*** ANTE/BLINDS ***
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+P1xel7 posts ante 15
+MATPbmx posts ante 15
+Mepronizine9 posts small blind 75
+QATA STROFF posts big blind 150
+Dealt to P1xel7 [8d 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+Mepronizine9 folds
+QATA STROFF collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 6: QATA STROFF (big blind) won 330
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-75-1708114088 - Holdem no limit (15/75/150) - 2024/02/16 20:08:08 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #5 is the button
+Seat 1: Weah 14 (18140)
+Seat 2: chichat (1605)
+Seat 3: FaisGAAF (1550)
+Seat 4: Eloetjo64 (6471)
+Seat 5: Mepronizine9 (3285)
+Seat 6: QATA STROFF (14129)
+Seat 7: P1xel7 (7021)
+Seat 8: MATPbmx (1650)
+*** ANTE/BLINDS ***
+QATA STROFF posts ante 15
+P1xel7 posts ante 15
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+Eloetjo64 posts ante 15
+Mepronizine9 posts ante 15
+MATPbmx posts ante 15
+QATA STROFF posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [Ts 6h]
+*** PRE-FLOP *** 
+MATPbmx folds
+Weah 14 calls 150
+chichat folds
+FaisGAAF folds
+Eloetjo64 folds
+Mepronizine9 raises 645 to 795
+QATA STROFF folds
+P1xel7 folds
+Weah 14 folds
+Mepronizine9 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Seat 5: Mepronizine9 (button) won 1290
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-76-1708114106 - Holdem no limit (15/75/150) - 2024/02/16 20:08:26 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #6 is the button
+Seat 1: Weah 14 (17975)
+Seat 2: chichat (1590)
+Seat 3: FaisGAAF (1535)
+Seat 4: Eloetjo64 (6456)
+Seat 5: Mepronizine9 (3765)
+Seat 6: QATA STROFF (14039)
+Seat 7: P1xel7 (6856)
+Seat 8: MATPbmx (1635)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 15
+MATPbmx posts ante 15
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+Eloetjo64 posts ante 15
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+P1xel7 posts small blind 75
+MATPbmx posts big blind 150
+Dealt to P1xel7 [2d 8d]
+*** PRE-FLOP *** 
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+Eloetjo64 calls 150
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 calls 75
+MATPbmx folds
+*** FLOP *** [Tc Qs 5s]
+P1xel7 checks
+Eloetjo64 bets 150
+P1xel7 folds
+Eloetjo64 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Tc Qs 5s]
+Seat 4: Eloetjo64 won 720
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-77-1708114146 - Holdem no limit (15/75/150) - 2024/02/16 20:09:06 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #7 is the button
+Seat 1: Weah 14 (17960)
+Seat 2: chichat (1575)
+Seat 3: FaisGAAF (1520)
+Seat 4: Eloetjo64 (6861)
+Seat 5: Mepronizine9 (3750)
+Seat 6: QATA STROFF (14024)
+Seat 7: P1xel7 (6691)
+Seat 8: MATPbmx (1470)
+*** ANTE/BLINDS ***
+MATPbmx posts ante 15
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+Eloetjo64 posts ante 15
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+P1xel7 posts ante 15
+MATPbmx posts small blind 75
+Weah 14 posts big blind 150
+Dealt to P1xel7 [9s 3c]
+*** PRE-FLOP *** 
+chichat folds
+FaisGAAF folds
+Eloetjo64 raises 150 to 300
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 150
+*** FLOP *** [3s 7d Ac]
+Weah 14 checks
+Eloetjo64 checks
+*** TURN *** [3s 7d Ac][Jc]
+Weah 14 checks
+Eloetjo64 checks
+*** RIVER *** [3s 7d Ac Jc][Th]
+Weah 14 checks
+Eloetjo64 checks
+*** SHOW DOWN ***
+Weah 14 shows [5d 4c] (High card : Ace)
+Eloetjo64 shows [2c Qc] (High card : Ace)
+Eloetjo64 collected 795 from pot
+*** SUMMARY ***
+Total pot 795 | No rake
+Board: [3s 7d Ac Jc Th]
+Seat 1: Weah 14 (big blind) showed [5d 4c] and lost with High card : Ace
+Seat 4: Eloetjo64 showed [2c Qc] and won 795 with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-78-1708114169 - Holdem no limit (15/75/150) - 2024/02/16 20:09:29 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #8 is the button
+Seat 1: Weah 14 (17645)
+Seat 2: chichat (1560)
+Seat 3: FaisGAAF (1505)
+Seat 4: Eloetjo64 (7341)
+Seat 5: Mepronizine9 (3735)
+Seat 6: QATA STROFF (14009)
+Seat 7: P1xel7 (6676)
+Seat 8: MATPbmx (1380)
+*** ANTE/BLINDS ***
+Weah 14 posts ante 15
+chichat posts ante 15
+FaisGAAF posts ante 15
+Eloetjo64 posts ante 15
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+P1xel7 posts ante 15
+MATPbmx posts ante 15
+Weah 14 posts small blind 75
+chichat posts big blind 150
+Dealt to P1xel7 [4h Td]
+*** PRE-FLOP *** 
+FaisGAAF folds
+Eloetjo64 raises 150 to 300
+Mepronizine9 folds
+QATA STROFF raises 150 to 450
+P1xel7 folds
+MATPbmx folds
+Weah 14 folds
+chichat folds
+Eloetjo64 calls 150
+*** FLOP *** [3d 8s Ac]
+Eloetjo64 checks
+QATA STROFF bets 1245
+Eloetjo64 folds
+QATA STROFF collected 2490 from pot
+*** SUMMARY ***
+Total pot 2490 | No rake
+Board: [3d 8s Ac]
+Seat 6: QATA STROFF won 2490
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 8 - HandId: #3201975493003837650-79-1708114208 - Holdem no limit (15/75/150) - 2024/02/16 20:10:08 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #1 is the button
+Seat 1: Weah 14 (17555)
+Seat 2: chichat (1395)
+Seat 3: FaisGAAF (1490)
+Seat 4: Eloetjo64 (6876)
+Seat 5: Mepronizine9 (3720)
+Seat 6: QATA STROFF (14789)
+Seat 7: P1xel7 (6661)
+Seat 8: MATPbmx (1365)
+*** ANTE/BLINDS ***
+chichat posts ante 15
+FaisGAAF posts ante 15
+Weah 14 posts ante 15
+Eloetjo64 posts ante 15
+Mepronizine9 posts ante 15
+QATA STROFF posts ante 15
+P1xel7 posts ante 15
+MATPbmx posts ante 15
+chichat posts small blind 75
+FaisGAAF posts big blind 150
+Dealt to P1xel7 [9s 3c]
+*** PRE-FLOP *** 
+Eloetjo64 raises 150 to 300
+Mepronizine9 folds
+QATA STROFF calls 300
+P1xel7 folds
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+*** FLOP *** [Qd 2d Jd]
+Eloetjo64 bets 150
+QATA STROFF folds
+Eloetjo64 collected 1095 from pot
+*** SUMMARY ***
+Total pot 1095 | No rake
+Board: [Qd 2d Jd]
+Seat 4: Eloetjo64 won 1095
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-80-1708114263 - Holdem no limit (20/100/200) - 2024/02/16 20:11:03 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #2 is the button
+Seat 1: Weah 14 (17540)
+Seat 2: chichat (1305)
+Seat 3: FaisGAAF (1325)
+Seat 4: Eloetjo64 (7506)
+Seat 5: Mepronizine9 (3705)
+Seat 6: QATA STROFF (14474)
+Seat 7: P1xel7 (6646)
+Seat 8: MATPbmx (1350)
+*** ANTE/BLINDS ***
+FaisGAAF posts ante 20
+Eloetjo64 posts ante 20
+Weah 14 posts ante 20
+chichat posts ante 20
+Mepronizine9 posts ante 20
+QATA STROFF posts ante 20
+P1xel7 posts ante 20
+MATPbmx posts ante 20
+FaisGAAF posts small blind 100
+Eloetjo64 posts big blind 200
+Dealt to P1xel7 [7d 5h]
+*** PRE-FLOP *** 
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 200
+chichat folds
+FaisGAAF folds
+Eloetjo64 checks
+*** FLOP *** [Qc Jh 4c]
+Eloetjo64 bets 200
+Weah 14 folds
+Eloetjo64 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | No rake
+Board: [Qc Jh 4c]
+Seat 4: Eloetjo64 (big blind) won 860
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-81-1708114300 - Holdem no limit (20/100/200) - 2024/02/16 20:11:40 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #3 is the button
+Seat 1: Weah 14 (17320)
+Seat 2: chichat (1285)
+Seat 3: FaisGAAF (1205)
+Seat 4: Eloetjo64 (7946)
+Seat 5: Mepronizine9 (3685)
+Seat 6: QATA STROFF (14454)
+Seat 7: P1xel7 (6626)
+Seat 8: MATPbmx (1330)
+*** ANTE/BLINDS ***
+Eloetjo64 posts ante 20
+Mepronizine9 posts ante 20
+Weah 14 posts ante 20
+chichat posts ante 20
+FaisGAAF posts ante 20
+QATA STROFF posts ante 20
+P1xel7 posts ante 20
+MATPbmx posts ante 20
+Eloetjo64 posts small blind 100
+Mepronizine9 posts big blind 200
+Dealt to P1xel7 [4h 2c]
+*** PRE-FLOP *** 
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 200
+chichat folds
+FaisGAAF folds
+Eloetjo64 calls 100
+Mepronizine9 checks
+*** FLOP *** [Qc Ad 5c]
+Eloetjo64 checks
+Mepronizine9 bets 494
+Weah 14 folds
+Eloetjo64 folds
+Mepronizine9 collected 1254 from pot
+*** SUMMARY ***
+Total pot 1254 | No rake
+Board: [Qc Ad 5c]
+Seat 5: Mepronizine9 (big blind) won 1254
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-82-1708114332 - Holdem no limit (20/100/200) - 2024/02/16 20:12:12 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #4 is the button
+Seat 1: Weah 14 (17100)
+Seat 2: chichat (1265)
+Seat 3: FaisGAAF (1185)
+Seat 4: Eloetjo64 (7726)
+Seat 5: Mepronizine9 (4225)
+Seat 6: QATA STROFF (14434)
+Seat 7: P1xel7 (6606)
+Seat 8: MATPbmx (1310)
+*** ANTE/BLINDS ***
+Mepronizine9 posts ante 20
+QATA STROFF posts ante 20
+Weah 14 posts ante 20
+chichat posts ante 20
+FaisGAAF posts ante 20
+Eloetjo64 posts ante 20
+P1xel7 posts ante 20
+MATPbmx posts ante 20
+Mepronizine9 posts small blind 100
+QATA STROFF posts big blind 200
+Dealt to P1xel7 [Kc 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 200
+chichat folds
+FaisGAAF folds
+Eloetjo64 folds
+Mepronizine9 folds
+QATA STROFF checks
+*** FLOP *** [9c As Ac]
+QATA STROFF checks
+Weah 14 bets 429
+QATA STROFF folds
+Weah 14 collected 1089 from pot
+*** SUMMARY ***
+Total pot 1089 | No rake
+Board: [9c As Ac]
+Seat 1: Weah 14 won 1089
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-83-1708114383 - Holdem no limit (20/100/200) - 2024/02/16 20:13:03 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #5 is the button
+Seat 1: Weah 14 (17540)
+Seat 2: chichat (1245)
+Seat 3: FaisGAAF (1165)
+Seat 4: Eloetjo64 (7706)
+Seat 5: Mepronizine9 (4105)
+Seat 6: QATA STROFF (14214)
+Seat 7: P1xel7 (6586)
+Seat 8: MATPbmx (1290)
+*** ANTE/BLINDS ***
+QATA STROFF posts ante 20
+P1xel7 posts ante 20
+Weah 14 posts ante 20
+chichat posts ante 20
+FaisGAAF posts ante 20
+Eloetjo64 posts ante 20
+Mepronizine9 posts ante 20
+MATPbmx posts ante 20
+QATA STROFF posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [2c Qs]
+*** PRE-FLOP *** 
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+Eloetjo64 folds
+Mepronizine9 folds
+QATA STROFF calls 100
+P1xel7 checks
+*** FLOP *** [3h 8d 9d]
+QATA STROFF checks
+P1xel7 bets 200
+QATA STROFF folds
+P1xel7 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | No rake
+Board: [3h 8d 9d]
+Seat 7: P1xel7 (big blind) won 760
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-84-1708114444 - Holdem no limit (20/100/200) - 2024/02/16 20:14:04 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #6 is the button
+Seat 1: Weah 14 (17520)
+Seat 2: chichat (1225)
+Seat 3: FaisGAAF (1145)
+Seat 4: Eloetjo64 (7686)
+Seat 5: Mepronizine9 (4085)
+Seat 6: QATA STROFF (13994)
+Seat 7: P1xel7 (6926)
+Seat 8: MATPbmx (1270)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 20
+MATPbmx posts ante 20
+Weah 14 posts ante 20
+chichat posts ante 20
+FaisGAAF posts ante 20
+Eloetjo64 posts ante 20
+Mepronizine9 posts ante 20
+QATA STROFF posts ante 20
+P1xel7 posts small blind 100
+MATPbmx posts big blind 200
+Dealt to P1xel7 [3d 8d]
+*** PRE-FLOP *** 
+Weah 14 calls 200
+chichat folds
+FaisGAAF folds
+Eloetjo64 folds
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 1: Weah 14 won 660
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-85-1708114482 - Holdem no limit (20/100/200) - 2024/02/16 20:14:42 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #7 is the button
+Seat 1: Weah 14 (17960)
+Seat 2: chichat (1205)
+Seat 3: FaisGAAF (1125)
+Seat 4: Eloetjo64 (7666)
+Seat 5: Mepronizine9 (4065)
+Seat 6: QATA STROFF (13974)
+Seat 7: P1xel7 (6806)
+Seat 8: MATPbmx (1050)
+*** ANTE/BLINDS ***
+MATPbmx posts ante 20
+Weah 14 posts ante 20
+chichat posts ante 20
+FaisGAAF posts ante 20
+Eloetjo64 posts ante 20
+Mepronizine9 posts ante 20
+QATA STROFF posts ante 20
+P1xel7 posts ante 20
+MATPbmx posts small blind 100
+Weah 14 posts big blind 200
+Dealt to P1xel7 [8s As]
+*** PRE-FLOP *** 
+chichat folds
+FaisGAAF folds
+Eloetjo64 calls 200
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 raises 240 to 440
+MATPbmx folds
+Weah 14 folds
+Eloetjo64 calls 240
+*** FLOP *** [9c 6c 3c]
+Eloetjo64 bets 200
+P1xel7 folds
+Eloetjo64 collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Board: [9c 6c 3c]
+Seat 4: Eloetjo64 won 1540
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-86-1708114528 - Holdem no limit (20/100/200) - 2024/02/16 20:15:28 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #8 is the button
+Seat 1: Weah 14 (17740)
+Seat 2: chichat (1185)
+Seat 3: FaisGAAF (1105)
+Seat 4: Eloetjo64 (8546)
+Seat 5: Mepronizine9 (4045)
+Seat 6: QATA STROFF (13954)
+Seat 7: P1xel7 (6346)
+Seat 8: MATPbmx (930)
+*** ANTE/BLINDS ***
+Weah 14 posts ante 20
+chichat posts ante 20
+FaisGAAF posts ante 20
+Eloetjo64 posts ante 20
+Mepronizine9 posts ante 20
+QATA STROFF posts ante 20
+P1xel7 posts ante 20
+MATPbmx posts ante 20
+Weah 14 posts small blind 100
+chichat posts big blind 200
+Dealt to P1xel7 [4s Td]
+*** PRE-FLOP *** 
+FaisGAAF folds
+Eloetjo64 folds
+Mepronizine9 raises 300 to 500
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 folds
+chichat folds
+Mepronizine9 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 5: Mepronizine9 won 960
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-87-1708114562 - Holdem no limit (20/100/200) - 2024/02/16 20:16:02 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #1 is the button
+Seat 1: Weah 14 (17620)
+Seat 2: chichat (965)
+Seat 3: FaisGAAF (1085)
+Seat 4: Eloetjo64 (8526)
+Seat 5: Mepronizine9 (4485)
+Seat 6: QATA STROFF (13934)
+Seat 7: P1xel7 (6326)
+Seat 8: MATPbmx (910)
+*** ANTE/BLINDS ***
+chichat posts ante 20
+FaisGAAF posts ante 20
+Weah 14 posts ante 20
+Eloetjo64 posts ante 20
+Mepronizine9 posts ante 20
+QATA STROFF posts ante 20
+P1xel7 posts ante 20
+MATPbmx posts ante 20
+chichat posts small blind 100
+FaisGAAF posts big blind 200
+Dealt to P1xel7 [5h 9s]
+*** PRE-FLOP *** 
+Eloetjo64 folds
+Mepronizine9 folds
+QATA STROFF folds
+P1xel7 raises 300 to 500
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+P1xel7 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | No rake
+Seat 7: P1xel7 won 960
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-88-1708114577 - Holdem no limit (20/100/200) - 2024/02/16 20:16:17 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #2 is the button
+Seat 1: Weah 14 (17600)
+Seat 2: chichat (845)
+Seat 3: FaisGAAF (865)
+Seat 4: Eloetjo64 (8506)
+Seat 5: Mepronizine9 (4465)
+Seat 6: QATA STROFF (13914)
+Seat 7: P1xel7 (6766)
+Seat 8: MATPbmx (890)
+*** ANTE/BLINDS ***
+FaisGAAF posts ante 20
+Eloetjo64 posts ante 20
+Weah 14 posts ante 20
+chichat posts ante 20
+Mepronizine9 posts ante 20
+QATA STROFF posts ante 20
+P1xel7 posts ante 20
+MATPbmx posts ante 20
+FaisGAAF posts small blind 100
+Eloetjo64 posts big blind 200
+Dealt to P1xel7 [Jd 4c]
+*** PRE-FLOP *** 
+Mepronizine9 raises 300 to 500
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+Eloetjo64 calls 300
+*** FLOP *** [Td 9h 3s]
+Eloetjo64 checks
+Mepronizine9 checks
+*** TURN *** [Td 9h 3s][7s]
+Eloetjo64 bets 200
+Mepronizine9 raises 451 to 651
+Eloetjo64 raises 451 to 1102
+Mepronizine9 calls 451
+*** RIVER *** [Td 9h 3s 7s][9s]
+Eloetjo64 bets 1212
+Mepronizine9 folds
+Eloetjo64 collected 4676 from pot
+*** SUMMARY ***
+Total pot 4676 | No rake
+Board: [Td 9h 3s 7s 9s]
+Seat 4: Eloetjo64 (big blind) won 4676
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-89-1708114619 - Holdem no limit (20/100/200) - 2024/02/16 20:16:59 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #3 is the button
+Seat 1: Weah 14 (17580)
+Seat 2: chichat (825)
+Seat 3: FaisGAAF (745)
+Seat 4: Eloetjo64 (10348)
+Seat 5: Mepronizine9 (2843)
+Seat 6: QATA STROFF (13894)
+Seat 7: P1xel7 (6746)
+Seat 8: MATPbmx (870)
+*** ANTE/BLINDS ***
+Eloetjo64 posts ante 20
+Mepronizine9 posts ante 20
+Weah 14 posts ante 20
+chichat posts ante 20
+FaisGAAF posts ante 20
+QATA STROFF posts ante 20
+P1xel7 posts ante 20
+MATPbmx posts ante 20
+Eloetjo64 posts small blind 100
+Mepronizine9 posts big blind 200
+Dealt to P1xel7 [4c 3s]
+*** PRE-FLOP *** 
+QATA STROFF calls 200
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 200
+chichat folds
+FaisGAAF folds
+Eloetjo64 calls 100
+Mepronizine9 raises 2623 to 2823 and is all-in
+QATA STROFF folds
+Weah 14 folds
+Eloetjo64 folds
+Mepronizine9 collected 3583 from pot
+*** SUMMARY ***
+Total pot 3583 | No rake
+Seat 5: Mepronizine9 (big blind) won 3583
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-90-1708114646 - Holdem no limit (20/100/200) - 2024/02/16 20:17:26 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #4 is the button
+Seat 1: Weah 14 (17360)
+Seat 2: chichat (805)
+Seat 3: FaisGAAF (725)
+Seat 4: Eloetjo64 (10128)
+Seat 5: Mepronizine9 (3583)
+Seat 6: QATA STROFF (13674)
+Seat 7: P1xel7 (6726)
+Seat 8: MATPbmx (850)
+*** ANTE/BLINDS ***
+Mepronizine9 posts ante 20
+QATA STROFF posts ante 20
+Weah 14 posts ante 20
+chichat posts ante 20
+FaisGAAF posts ante 20
+Eloetjo64 posts ante 20
+P1xel7 posts ante 20
+MATPbmx posts ante 20
+Mepronizine9 posts small blind 100
+QATA STROFF posts big blind 200
+Dealt to P1xel7 [8h Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 200
+chichat folds
+FaisGAAF folds
+Eloetjo64 raises 300 to 500
+Mepronizine9 folds
+QATA STROFF calls 300
+Weah 14 calls 300
+*** FLOP *** [5h 2s Tc]
+QATA STROFF checks
+Weah 14 checks
+Eloetjo64 bets 616
+QATA STROFF folds
+Weah 14 calls 616
+*** TURN *** [5h 2s Tc][6h]
+Weah 14 checks
+Eloetjo64 bets 1047
+Weah 14 calls 1047
+*** RIVER *** [5h 2s Tc 6h][9s]
+Weah 14 checks
+Eloetjo64 checks
+*** SHOW DOWN ***
+Eloetjo64 shows [Qd Kd] (High card : King)
+Weah 14 shows [2h 7h] (One pair : 2)
+Weah 14 collected 5086 from pot
+*** SUMMARY ***
+Total pot 5086 | No rake
+Board: [5h 2s Tc 6h 9s]
+Seat 1: Weah 14 showed [2h 7h] and won 5086 with One pair : 2
+Seat 4: Eloetjo64 (button) showed [Qd Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 9 - HandId: #3201975493003837650-91-1708114697 - Holdem no limit (20/100/200) - 2024/02/16 20:18:17 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #5 is the button
+Seat 1: Weah 14 (20263)
+Seat 2: chichat (785)
+Seat 3: FaisGAAF (705)
+Seat 4: Eloetjo64 (7945)
+Seat 5: Mepronizine9 (3463)
+Seat 6: QATA STROFF (13154)
+Seat 7: P1xel7 (6706)
+Seat 8: MATPbmx (830)
+*** ANTE/BLINDS ***
+QATA STROFF posts ante 20
+P1xel7 posts ante 20
+Weah 14 posts ante 20
+chichat posts ante 20
+FaisGAAF posts ante 20
+Eloetjo64 posts ante 20
+Mepronizine9 posts ante 20
+MATPbmx posts ante 20
+QATA STROFF posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [3h 8d]
+*** PRE-FLOP *** 
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+Eloetjo64 calls 200
+Mepronizine9 folds
+QATA STROFF raises 400 to 600
+P1xel7 folds
+Eloetjo64 calls 400
+*** FLOP *** [4h 4s 9d]
+QATA STROFF bets 200
+Eloetjo64 raises 556 to 756
+QATA STROFF calls 556
+*** TURN *** [4h 4s 9d][5c]
+QATA STROFF checks
+Eloetjo64 bets 1075
+QATA STROFF folds
+Eloetjo64 collected 4147 from pot
+*** SUMMARY ***
+Total pot 4147 | No rake
+Board: [4h 4s 9d 5c]
+Seat 4: Eloetjo64 won 4147
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3201975493003837650-92-1708114743 - Holdem no limit (25/125/250) - 2024/02/16 20:19:03 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #6 is the button
+Seat 1: Weah 14 (20243)
+Seat 2: chichat (765)
+Seat 3: FaisGAAF (685)
+Seat 4: Eloetjo64 (9641)
+Seat 5: Mepronizine9 (3443)
+Seat 6: QATA STROFF (11778)
+Seat 7: P1xel7 (6486)
+Seat 8: MATPbmx (810)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+MATPbmx posts ante 25
+Weah 14 posts ante 25
+chichat posts ante 25
+FaisGAAF posts ante 25
+Eloetjo64 posts ante 25
+Mepronizine9 posts ante 25
+QATA STROFF posts ante 25
+P1xel7 posts small blind 125
+MATPbmx posts big blind 250
+Dealt to P1xel7 [2s Ah]
+*** PRE-FLOP *** 
+Weah 14 calls 250
+chichat folds
+FaisGAAF folds
+Eloetjo64 folds
+Mepronizine9 folds
+QATA STROFF calls 250
+P1xel7 calls 125
+MATPbmx folds
+*** FLOP *** [Qd Ad 4c]
+P1xel7 checks
+Weah 14 checks
+QATA STROFF checks
+*** TURN *** [Qd Ad 4c][Tc]
+P1xel7 bets 250
+Weah 14 calls 250
+QATA STROFF calls 250
+*** RIVER *** [Qd Ad 4c Tc][2c]
+P1xel7 bets 683
+Weah 14 folds
+QATA STROFF folds
+P1xel7 collected 2633 from pot
+*** SUMMARY ***
+Total pot 2633 | No rake
+Board: [Qd Ad 4c Tc 2c]
+Seat 7: P1xel7 (small blind) won 2633
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3201975493003837650-93-1708114803 - Holdem no limit (25/125/250) - 2024/02/16 20:20:03 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #7 is the button
+Seat 1: Weah 14 (19718)
+Seat 2: chichat (740)
+Seat 3: FaisGAAF (660)
+Seat 4: Eloetjo64 (9616)
+Seat 5: Mepronizine9 (3418)
+Seat 6: QATA STROFF (11253)
+Seat 7: P1xel7 (7911)
+Seat 8: MATPbmx (535)
+*** ANTE/BLINDS ***
+MATPbmx posts ante 25
+Weah 14 posts ante 25
+chichat posts ante 25
+FaisGAAF posts ante 25
+Eloetjo64 posts ante 25
+Mepronizine9 posts ante 25
+QATA STROFF posts ante 25
+P1xel7 posts ante 25
+MATPbmx posts small blind 125
+Weah 14 posts big blind 250
+Dealt to P1xel7 [Ah Jd]
+*** PRE-FLOP *** 
+chichat folds
+FaisGAAF folds
+Eloetjo64 folds
+Mepronizine9 calls 250
+QATA STROFF folds
+P1xel7 raises 750 to 1000
+MATPbmx folds
+Weah 14 folds
+Mepronizine9 raises 2393 to 3393 and is all-in
+P1xel7 calls 2393
+*** FLOP *** [Ad 7d 4s]
+*** TURN *** [Ad 7d 4s][5s]
+*** RIVER *** [Ad 7d 4s 5s][4d]
+*** SHOW DOWN ***
+Mepronizine9 shows [9h 9d] (Two pairs : 9 and 4)
+P1xel7 shows [Ah Jd] (Two pairs : Aces and 4)
+P1xel7 collected 7361 from pot
+*** SUMMARY ***
+Total pot 7361 | No rake
+Board: [Ad 7d 4s 5s 4d]
+Seat 5: Mepronizine9 showed [9h 9d] and lost with Two pairs : 9 and 4
+Seat 7: P1xel7 (button) showed [Ah Jd] and won 7361 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3201975493003837650-94-1708114838 - Holdem no limit (25/125/250) - 2024/02/16 20:20:38 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #8 is the button
+Seat 1: Weah 14 (19443)
+Seat 2: chichat (715)
+Seat 3: FaisGAAF (635)
+Seat 4: Eloetjo64 (9591)
+Seat 6: QATA STROFF (11228)
+Seat 7: P1xel7 (11854)
+Seat 8: MATPbmx (385)
+*** ANTE/BLINDS ***
+Weah 14 posts ante 25
+chichat posts ante 25
+FaisGAAF posts ante 25
+Eloetjo64 posts ante 25
+QATA STROFF posts ante 25
+P1xel7 posts ante 25
+MATPbmx posts ante 25
+Weah 14 posts small blind 125
+chichat posts big blind 250
+Dealt to P1xel7 [2c 5h]
+*** PRE-FLOP *** 
+FaisGAAF folds
+Eloetjo64 raises 250 to 500
+QATA STROFF raises 250 to 750
+P1xel7 folds
+MATPbmx folds
+Weah 14 folds
+chichat folds
+Eloetjo64 calls 250
+*** FLOP *** [Tc Qd 8c]
+Eloetjo64 bets 718
+QATA STROFF folds
+Eloetjo64 collected 2768 from pot
+*** SUMMARY ***
+Total pot 2768 | No rake
+Board: [Tc Qd 8c]
+Seat 4: Eloetjo64 won 2768
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3201975493003837650-95-1708114882 - Holdem no limit (25/125/250) - 2024/02/16 20:21:22 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #1 is the button
+Seat 1: Weah 14 (19293)
+Seat 2: chichat (440)
+Seat 3: FaisGAAF (610)
+Seat 4: Eloetjo64 (10866)
+Seat 5: 3DMAXnaughty (29385)
+Seat 6: QATA STROFF (10453)
+Seat 7: P1xel7 (11829)
+Seat 8: MATPbmx (360)
+*** ANTE/BLINDS ***
+chichat posts ante 25
+FaisGAAF posts ante 25
+Weah 14 posts ante 25
+Eloetjo64 posts ante 25
+3DMAXnaughty posts ante 25
+QATA STROFF posts ante 25
+P1xel7 posts ante 25
+MATPbmx posts ante 25
+chichat posts small blind 125
+FaisGAAF posts big blind 250
+Dealt to P1xel7 [6h Kd]
+*** PRE-FLOP *** 
+Eloetjo64 calls 250
+3DMAXnaughty folds
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF checks
+*** FLOP *** [Ts 7c 4c]
+FaisGAAF checks
+Eloetjo64 bets 250
+FaisGAAF folds
+Eloetjo64 collected 1075 from pot
+*** SUMMARY ***
+Total pot 1075 | No rake
+Board: [Ts 7c 4c]
+Seat 4: Eloetjo64 won 1075
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3201975493003837650-96-1708114931 - Holdem no limit (25/125/250) - 2024/02/16 20:22:11 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #2 is the button
+Seat 1: Weah 14 (19268)
+Seat 2: chichat (290)
+Seat 3: FaisGAAF (335)
+Seat 4: Eloetjo64 (11416)
+Seat 5: 3DMAXnaughty (29360)
+Seat 6: QATA STROFF (10428)
+Seat 7: P1xel7 (11804)
+Seat 8: MATPbmx (335)
+*** ANTE/BLINDS ***
+FaisGAAF posts ante 25
+Eloetjo64 posts ante 25
+Weah 14 posts ante 25
+chichat posts ante 25
+3DMAXnaughty posts ante 25
+QATA STROFF posts ante 25
+P1xel7 posts ante 25
+MATPbmx posts ante 25
+FaisGAAF posts small blind 125
+Eloetjo64 posts big blind 250
+Dealt to P1xel7 [8c Th]
+*** PRE-FLOP *** 
+3DMAXnaughty calls 250
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 calls 250
+chichat folds
+FaisGAAF folds
+Eloetjo64 checks
+*** FLOP *** [3h 8d Jh]
+Eloetjo64 bets 1075
+3DMAXnaughty calls 1075
+Weah 14 folds
+*** TURN *** [3h 8d Jh][Ks]
+Eloetjo64 bets 1129
+3DMAXnaughty calls 1129
+*** RIVER *** [3h 8d Jh Ks][Kc]
+Eloetjo64 bets 8937 and is all-in
+3DMAXnaughty folds
+Eloetjo64 collected 14420 from pot
+*** SUMMARY ***
+Total pot 14420 | No rake
+Board: [3h 8d Jh Ks Kc]
+Seat 4: Eloetjo64 (big blind) won 14420
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3201975493003837650-97-1708114983 - Holdem no limit (25/125/250) - 2024/02/16 20:23:03 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #3 is the button
+Seat 1: Weah 14 (18993)
+Seat 2: chichat (265)
+Seat 3: FaisGAAF (185)
+Seat 4: Eloetjo64 (14420)
+Seat 5: 3DMAXnaughty (26881)
+Seat 6: QATA STROFF (10403)
+Seat 7: P1xel7 (11779)
+Seat 8: MATPbmx (310)
+*** ANTE/BLINDS ***
+Eloetjo64 posts ante 25
+3DMAXnaughty posts ante 25
+Weah 14 posts ante 25
+chichat posts ante 25
+FaisGAAF posts ante 25
+QATA STROFF posts ante 25
+P1xel7 posts ante 25
+MATPbmx posts ante 25
+Eloetjo64 posts small blind 125
+3DMAXnaughty posts big blind 250
+Dealt to P1xel7 [9c 6c]
+*** PRE-FLOP *** 
+QATA STROFF folds
+P1xel7 folds
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+Eloetjo64 raises 500 to 750
+3DMAXnaughty calls 500
+*** FLOP *** [Jc Ac 6h]
+Eloetjo64 checks
+3DMAXnaughty checks
+*** TURN *** [Jc Ac 6h][4c]
+Eloetjo64 bets 595
+3DMAXnaughty folds
+Eloetjo64 collected 2295 from pot
+*** SUMMARY ***
+Total pot 2295 | No rake
+Board: [Jc Ac 6h 4c]
+Seat 4: Eloetjo64 (small blind) won 2295
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3201975493003837650-98-1708115045 - Holdem no limit (25/125/250) - 2024/02/16 20:24:05 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #4 is the button
+Seat 1: Weah 14 (18968)
+Seat 2: chichat (240)
+Seat 3: FaisGAAF (160)
+Seat 4: Eloetjo64 (15345)
+Seat 5: 3DMAXnaughty (26106)
+Seat 6: QATA STROFF (10378)
+Seat 7: P1xel7 (11754)
+Seat 8: MATPbmx (285)
+*** ANTE/BLINDS ***
+3DMAXnaughty posts ante 25
+QATA STROFF posts ante 25
+Weah 14 posts ante 25
+chichat posts ante 25
+FaisGAAF posts ante 25
+Eloetjo64 posts ante 25
+P1xel7 posts ante 25
+MATPbmx posts ante 25
+3DMAXnaughty posts small blind 125
+QATA STROFF posts big blind 250
+Dealt to P1xel7 [Qd 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+MATPbmx folds
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+Eloetjo64 folds
+3DMAXnaughty raises 500 to 750
+QATA STROFF folds
+3DMAXnaughty collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Seat 5: 3DMAXnaughty (small blind) won 1200
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3201975493003837650-99-1708115073 - Holdem no limit (25/125/250) - 2024/02/16 20:24:33 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #5 is the button
+Seat 1: Weah 14 (18943)
+Seat 2: chichat (215)
+Seat 3: FaisGAAF (135)
+Seat 4: Eloetjo64 (15320)
+Seat 5: 3DMAXnaughty (26531)
+Seat 6: QATA STROFF (10103)
+Seat 7: P1xel7 (11729)
+Seat 8: MATPbmx (260)
+*** ANTE/BLINDS ***
+QATA STROFF posts ante 25
+P1xel7 posts ante 25
+Weah 14 posts ante 25
+chichat posts ante 25
+FaisGAAF posts ante 25
+Eloetjo64 posts ante 25
+3DMAXnaughty posts ante 25
+MATPbmx posts ante 25
+QATA STROFF posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [5s Ts]
+*** PRE-FLOP *** 
+MATPbmx folds
+Weah 14 calls 250
+chichat folds
+FaisGAAF folds
+Eloetjo64 calls 250
+3DMAXnaughty folds
+QATA STROFF folds
+P1xel7 checks
+*** FLOP *** [3c Ad 4d]
+P1xel7 checks
+Weah 14 checks
+Eloetjo64 bets 250
+P1xel7 calls 250
+Weah 14 folds
+*** TURN *** [3c Ad 4d][9d]
+P1xel7 checks
+Eloetjo64 checks
+*** RIVER *** [3c Ad 4d 9d][Kc]
+P1xel7 bets 394
+Eloetjo64 folds
+P1xel7 collected 1969 from pot
+*** SUMMARY ***
+Total pot 1969 | No rake
+Board: [3c Ad 4d 9d Kc]
+Seat 7: P1xel7 (big blind) won 1969
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 10 - HandId: #3201975493003837650-100-1708115104 - Holdem no limit (25/125/250) - 2024/02/16 20:25:04 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #6 is the button
+Seat 1: Weah 14 (18668)
+Seat 2: chichat (190)
+Seat 3: FaisGAAF (110)
+Seat 4: Eloetjo64 (14795)
+Seat 5: 3DMAXnaughty (26506)
+Seat 6: QATA STROFF (9953)
+Seat 7: P1xel7 (12779)
+Seat 8: MATPbmx (235)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+MATPbmx posts ante 25
+Weah 14 posts ante 25
+chichat posts ante 25
+FaisGAAF posts ante 25
+Eloetjo64 posts ante 25
+3DMAXnaughty posts ante 25
+QATA STROFF posts ante 25
+P1xel7 posts small blind 125
+MATPbmx posts big blind 210 and is all-in
+Dealt to P1xel7 [Kd Ad]
+*** PRE-FLOP *** 
+Weah 14 folds
+chichat folds
+FaisGAAF folds
+Eloetjo64 folds
+3DMAXnaughty raises 540 to 750
+QATA STROFF folds
+P1xel7 raises 2250 to 3000
+3DMAXnaughty calls 2250
+*** FLOP *** [4s Th 7d]
+P1xel7 checks
+3DMAXnaughty checks
+*** TURN *** [4s Th 7d][Qs]
+P1xel7 checks
+3DMAXnaughty bets 23481 and is all-in
+P1xel7 folds
+*** RIVER *** [4s Th 7d Qs][Ks]
+*** SHOW DOWN ***
+MATPbmx shows [9h 9c] (One pair : 9)
+3DMAXnaughty shows [Kc Qh] (Two pairs : Kings and Queens)
+3DMAXnaughty collected 29891 from pot
+*** SUMMARY ***
+Total pot 29891 | No rake
+Board: [4s Th 7d Qs Ks]
+Seat 5: 3DMAXnaughty showed [Kc Qh] and won 29891 with Two pairs : Kings and Queens
+Seat 8: MATPbmx (big blind) showed [9h 9c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837650-101-1708115184 - Holdem no limit (35/150/300) - 2024/02/16 20:26:24 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #7 is the button
+Seat 1: Weah 14 (18643)
+Seat 2: chichat (165)
+Seat 3: FaisGAAF (85)
+Seat 4: Eloetjo64 (14770)
+Seat 5: 3DMAXnaughty (29891)
+Seat 6: QATA STROFF (9928)
+Seat 7: P1xel7 (9754)
+*** ANTE/BLINDS ***
+Weah 14 posts ante 35
+chichat posts ante 35
+FaisGAAF posts ante 35
+Eloetjo64 posts ante 35
+3DMAXnaughty posts ante 35
+QATA STROFF posts ante 35
+P1xel7 posts ante 35
+Weah 14 posts big blind 300
+Dealt to P1xel7 [Jd Td]
+*** PRE-FLOP *** 
+chichat folds
+FaisGAAF folds
+Eloetjo64 folds
+3DMAXnaughty raises 29556 to 29856 and is all-in
+QATA STROFF folds
+P1xel7 folds
+Weah 14 folds
+3DMAXnaughty collected 30401 from pot
+*** SUMMARY ***
+Total pot 30401 | No rake
+Seat 5: 3DMAXnaughty won 30401
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837650-102-1708115210 - Holdem no limit (35/150/300) - 2024/02/16 20:26:50 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #8 is the button
+Seat 1: Weah 14 (18308)
+Seat 2: chichat (130)
+Seat 3: FaisGAAF (50)
+Seat 4: Eloetjo64 (14735)
+Seat 5: 3DMAXnaughty (30401)
+Seat 6: QATA STROFF (9893)
+Seat 7: P1xel7 (9719)
+Seat 8: AceMax (14568)
+*** ANTE/BLINDS ***
+Weah 14 posts ante 35
+chichat posts ante 35
+FaisGAAF posts ante 35
+Eloetjo64 posts ante 35
+3DMAXnaughty posts ante 35
+QATA STROFF posts ante 35
+P1xel7 posts ante 35
+Weah 14 posts small blind 150
+chichat posts big blind 95 and is all-in
+Dealt to P1xel7 [Jd 9s]
+*** PRE-FLOP *** 
+FaisGAAF folds
+Eloetjo64 folds
+3DMAXnaughty folds
+QATA STROFF folds
+P1xel7 raises 510 to 660
+Weah 14 calls 510
+*** FLOP *** [3d 8s 8c]
+Weah 14 checks
+P1xel7 bets 581
+Weah 14 calls 581
+*** TURN *** [3d 8s 8c][6c]
+Weah 14 checks
+P1xel7 bets 988
+Weah 14 folds
+*** RIVER *** [3d 8s 8c 6c][7s]
+*** SHOW DOWN ***
+chichat shows [Ks 2h] (One pair : 8)
+P1xel7 shows [Jd 9s] (One pair : 8)
+P1xel7 collected 3280 from side pot 1
+chichat collected 530 from main pot
+*** SUMMARY ***
+Total pot 3810 | No rake
+Board: [3d 8s 8c 6c 7s]
+Seat 2: chichat (big blind) showed [Ks 2h] and won 530 with One pair : 8
+Seat 7: P1xel7 showed [Jd 9s] and won 3280 with One pair : 8
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837650-103-1708115259 - Holdem no limit (35/150/300) - 2024/02/16 20:27:39 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #1 is the button
+Seat 1: Weah 14 (17032)
+Seat 2: chichat (530)
+Seat 3: FaisGAAF (15)
+Seat 4: Eloetjo64 (14700)
+Seat 5: 3DMAXnaughty (30366)
+Seat 6: QATA STROFF (9858)
+Seat 7: P1xel7 (10735)
+Seat 8: AceMax (14568)
+*** ANTE/BLINDS ***
+chichat posts ante 35
+FaisGAAF posts ante 15 and is all-in
+Weah 14 posts ante 35
+Eloetjo64 posts ante 35
+3DMAXnaughty posts ante 35
+QATA STROFF posts ante 35
+P1xel7 posts ante 35
+AceMax posts ante 35
+chichat posts small blind 150
+FaisGAAF posts big blind 0 and is all-in
+Dealt to P1xel7 [9h As]
+*** PRE-FLOP *** 
+Eloetjo64 raises 450 to 600
+3DMAXnaughty raises 29731 to 30331 and is all-in
+QATA STROFF folds
+P1xel7 folds
+AceMax folds
+Weah 14 folds
+chichat folds
+Eloetjo64 calls 14065 and is all-in
+*** FLOP *** [Td 8d 5h]
+*** TURN *** [Td 8d 5h][Qs]
+*** RIVER *** [Td 8d 5h Qs][2c]
+*** SHOW DOWN ***
+FaisGAAF shows [Jh Ad] (High card : Ace)
+Eloetjo64 shows [5s Kh] (One pair : 5)
+3DMAXnaughty shows [Ah 6d] (High card : Ace)
+3DMAXnaughty collected 15666 from side pot 1
+Eloetjo64 collected 29740 from main pot
+*** SUMMARY ***
+Total pot 45406 | No rake
+Board: [Td 8d 5h Qs 2c]
+Seat 3: FaisGAAF (big blind) showed [Jh Ad] and lost with High card : Ace
+Seat 4: Eloetjo64 showed [5s Kh] and won 29740 with One pair : 5
+Seat 5: 3DMAXnaughty showed [Ah 6d] and won 15666 with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837650-104-1708115310 - Holdem no limit (35/150/300) - 2024/02/16 20:28:30 UTC
+Table: 'Tremplin Paris(745518015)#0209' 8-max (real money) Seat #2 is the button
+Seat 1: Weah 14 (16997)
+Seat 2: chichat (345)
+Seat 4: Eloetjo64 (29740)
+Seat 5: 3DMAXnaughty (15666)
+Seat 6: QATA STROFF (9823)
+Seat 7: P1xel7 (10700)
+Seat 8: AceMax (14533)
+*** ANTE/BLINDS ***
+Eloetjo64 posts ante 35
+Weah 14 posts ante 35
+chichat posts ante 35
+3DMAXnaughty posts ante 35
+QATA STROFF posts ante 35
+P1xel7 posts ante 35
+AceMax posts ante 35
+Eloetjo64 posts big blind 300
+Dealt to P1xel7 [7c Jh]
+*** PRE-FLOP *** 
+3DMAXnaughty raises 15331 to 15631 and is all-in
+QATA STROFF folds
+P1xel7 folds
+AceMax folds
+Weah 14 folds
+chichat folds
+Eloetjo64 folds
+3DMAXnaughty collected 16176 from pot
+*** SUMMARY ***
+Total pot 16176 | No rake
+Seat 5: 3DMAXnaughty won 16176
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837561-88-1708115374 - Holdem no limit (35/150/300) - 2024/02/16 20:29:34 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #2 is the button
+Seat 1: ELILIAN (5130)
+Seat 2: Mr_kersu (980)
+Seat 3: Billy 69100 (40)
+Seat 4: CapTainTeiii (6351)
+Seat 5: P1xel7 (10665)
+Seat 6: Booster21 (2003)
+Seat 7: Repu.Pretre0 (5366)
+Seat 8: trucagemagiq (23308)
+*** ANTE/BLINDS ***
+Billy 69100 posts ante 35
+CapTainTeiii posts ante 35
+ELILIAN posts ante 35
+Mr_kersu posts ante 35
+P1xel7 posts ante 35
+Booster21 posts ante 35
+Repu.Pretre0 posts ante 35
+trucagemagiq posts ante 35
+Billy 69100 posts small blind 5 and is all-in
+CapTainTeiii posts big blind 300
+Dealt to P1xel7 [Ks 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Booster21 folds
+Repu.Pretre0 folds
+trucagemagiq calls 300
+ELILIAN raises 4795 to 5095 and is all-in
+Mr_kersu folds
+CapTainTeiii folds
+trucagemagiq folds
+*** FLOP *** [6c 9c Js]
+*** TURN *** [6c 9c Js][As]
+*** RIVER *** [6c 9c Js As][Kd]
+*** SHOW DOWN ***
+Billy 69100 shows [9d 8h] (One pair : 9)
+ELILIAN shows [Ac 8s] (One pair : Aces)
+ELILIAN collected 5980 from pot
+*** SUMMARY ***
+Total pot 5980 | No rake
+Board: [6c 9c Js As Kd]
+Seat 1: ELILIAN showed [Ac 8s] and won 5980 with One pair : Aces
+Seat 3: Billy 69100 (small blind) showed [9d 8h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837561-89-1708115405 - Holdem no limit (35/150/300) - 2024/02/16 20:30:05 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #3 is the button
+Seat 1: ELILIAN (5980)
+Seat 2: Mr_kersu (945)
+Seat 4: CapTainTeiii (6016)
+Seat 5: P1xel7 (10630)
+Seat 6: Booster21 (1968)
+Seat 7: Repu.Pretre0 (5331)
+Seat 8: trucagemagiq (22973)
+*** ANTE/BLINDS ***
+CapTainTeiii posts ante 35
+P1xel7 posts ante 35
+ELILIAN posts ante 35
+Mr_kersu posts ante 35
+Booster21 posts ante 35
+Repu.Pretre0 posts ante 35
+trucagemagiq posts ante 35
+CapTainTeiii posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Kd Td]
+*** PRE-FLOP *** 
+Booster21 raises 1633 to 1933 and is all-in
+Repu.Pretre0 folds
+trucagemagiq folds
+ELILIAN folds
+Mr_kersu folds
+CapTainTeiii folds
+P1xel7 folds
+Booster21 collected 2628 from pot
+*** SUMMARY ***
+Total pot 2628 | No rake
+Seat 6: Booster21 won 2628
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837561-90-1708115466 - Holdem no limit (35/150/300) - 2024/02/16 20:31:06 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #4 is the button
+Seat 1: ELILIAN (5945)
+Seat 2: Mr_kersu (910)
+Seat 3: Crazy World (3902)
+Seat 4: CapTainTeiii (5831)
+Seat 5: P1xel7 (10295)
+Seat 6: Booster21 (2628)
+Seat 7: Repu.Pretre0 (5296)
+Seat 8: trucagemagiq (22938)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Booster21 posts ante 35
+ELILIAN posts ante 35
+Mr_kersu posts ante 35
+Crazy World posts ante 35
+CapTainTeiii posts ante 35
+Repu.Pretre0 posts ante 35
+trucagemagiq posts ante 35
+P1xel7 posts small blind 150
+Booster21 posts big blind 300
+Dealt to P1xel7 [3h Qs]
+*** PRE-FLOP *** 
+Repu.Pretre0 calls 300
+trucagemagiq folds
+ELILIAN folds
+Mr_kersu folds
+Crazy World raises 3567 to 3867 and is all-in
+CapTainTeiii folds
+P1xel7 folds
+Booster21 folds
+Repu.Pretre0 calls 3567
+*** FLOP *** [9h 4c 2s]
+*** TURN *** [9h 4c 2s][8c]
+*** RIVER *** [9h 4c 2s 8c][Qh]
+*** SHOW DOWN ***
+Repu.Pretre0 shows [Ah Kc] (High card : Ace)
+Crazy World shows [9c Ad] (One pair : 9)
+Crazy World collected 8464 from pot
+*** SUMMARY ***
+Total pot 8464 | No rake
+Board: [9h 4c 2s 8c Qh]
+Seat 3: Crazy World showed [9c Ad] and won 8464 with One pair : 9
+Seat 7: Repu.Pretre0 showed [Ah Kc] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837561-91-1708115488 - Holdem no limit (35/150/300) - 2024/02/16 20:31:28 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #5 is the button
+Seat 1: ELILIAN (5910)
+Seat 2: Mr_kersu (875)
+Seat 3: Crazy World (8464)
+Seat 4: CapTainTeiii (5796)
+Seat 5: P1xel7 (10110)
+Seat 6: Booster21 (2293)
+Seat 7: Repu.Pretre0 (1394)
+Seat 8: trucagemagiq (22903)
+*** ANTE/BLINDS ***
+Booster21 posts ante 35
+Repu.Pretre0 posts ante 35
+ELILIAN posts ante 35
+Mr_kersu posts ante 35
+Crazy World posts ante 35
+CapTainTeiii posts ante 35
+P1xel7 posts ante 35
+trucagemagiq posts ante 35
+Booster21 posts small blind 150
+Repu.Pretre0 posts big blind 300
+Dealt to P1xel7 [Qd 8d]
+*** PRE-FLOP *** 
+trucagemagiq folds
+ELILIAN folds
+Mr_kersu folds
+Crazy World folds
+CapTainTeiii raises 300 to 600
+P1xel7 folds
+Booster21 raises 300 to 900
+Repu.Pretre0 raises 459 to 1359 and is all-in
+CapTainTeiii raises 4402 to 5761 and is all-in
+Booster21 calls 1358 and is all-in
+*** FLOP *** [6h Ah Qs]
+*** TURN *** [6h Ah Qs][3c]
+*** RIVER *** [6h Ah Qs 3c][5c]
+*** SHOW DOWN ***
+CapTainTeiii shows [Tc Td] (One pair : Tens)
+Booster21 shows [Ad 5s] (Two pairs : Aces and 5)
+Repu.Pretre0 shows [As 5h] (Two pairs : Aces and 5)
+Repu.Pretre0 collected 2179 from main pot
+Booster21 collected 3976 from side pot 1
+CapTainTeiii collected 3503 from side pot 2
+*** SUMMARY ***
+Total pot 9658 | No rake
+Board: [6h Ah Qs 3c 5c]
+Seat 4: CapTainTeiii showed [Tc Td] and won 3503 with One pair : Tens
+Seat 6: Booster21 (small blind) showed [Ad 5s] and won 3976 with Two pairs : Aces and 5
+Seat 7: Repu.Pretre0 (big blind) showed [As 5h] and won 2179 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837561-92-1708115533 - Holdem no limit (35/150/300) - 2024/02/16 20:32:13 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #6 is the button
+Seat 1: ELILIAN (5875)
+Seat 2: Mr_kersu (840)
+Seat 3: Crazy World (8429)
+Seat 4: CapTainTeiii (3503)
+Seat 5: P1xel7 (10075)
+Seat 6: Booster21 (3976)
+Seat 7: Repu.Pretre0 (2179)
+Seat 8: trucagemagiq (22868)
+*** ANTE/BLINDS ***
+Repu.Pretre0 posts ante 35
+trucagemagiq posts ante 35
+ELILIAN posts ante 35
+Mr_kersu posts ante 35
+Crazy World posts ante 35
+CapTainTeiii posts ante 35
+P1xel7 posts ante 35
+Booster21 posts ante 35
+Repu.Pretre0 posts small blind 150
+trucagemagiq posts big blind 300
+Dealt to P1xel7 [Ad 7h]
+*** PRE-FLOP *** 
+ELILIAN folds
+Mr_kersu folds
+Crazy World calls 300
+CapTainTeiii folds
+P1xel7 folds
+Booster21 folds
+Repu.Pretre0 folds
+trucagemagiq checks
+*** FLOP *** [6h Ac 6c]
+trucagemagiq checks
+Crazy World bets 670
+trucagemagiq folds
+Crazy World collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [6h Ac 6c]
+Seat 3: Crazy World won 1700
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837561-93-1708115560 - Holdem no limit (35/150/300) - 2024/02/16 20:32:40 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #7 is the button
+Seat 1: ELILIAN (5840)
+Seat 2: Mr_kersu (805)
+Seat 3: Crazy World (9124)
+Seat 4: CapTainTeiii (3468)
+Seat 5: P1xel7 (10040)
+Seat 6: Booster21 (3941)
+Seat 7: Repu.Pretre0 (1994)
+Seat 8: trucagemagiq (22533)
+*** ANTE/BLINDS ***
+trucagemagiq posts ante 35
+ELILIAN posts ante 35
+Mr_kersu posts ante 35
+Crazy World posts ante 35
+CapTainTeiii posts ante 35
+P1xel7 posts ante 35
+Booster21 posts ante 35
+Repu.Pretre0 posts ante 35
+trucagemagiq posts small blind 150
+ELILIAN posts big blind 300
+Dealt to P1xel7 [Qh Kd]
+*** PRE-FLOP *** 
+Mr_kersu folds
+Crazy World folds
+CapTainTeiii folds
+P1xel7 raises 360 to 660
+Booster21 folds
+Repu.Pretre0 folds
+trucagemagiq calls 510
+ELILIAN folds
+*** FLOP *** [As Qd Jd]
+trucagemagiq checks
+P1xel7 bets 475
+trucagemagiq folds
+P1xel7 collected 2375 from pot
+*** SUMMARY ***
+Total pot 2375 | No rake
+Board: [As Qd Jd]
+Seat 5: P1xel7 won 2375
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837561-94-1708115593 - Holdem no limit (35/150/300) - 2024/02/16 20:33:13 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #8 is the button
+Seat 1: ELILIAN (5505)
+Seat 2: Mr_kersu (770)
+Seat 3: Crazy World (9089)
+Seat 4: CapTainTeiii (3433)
+Seat 5: P1xel7 (11245)
+Seat 6: Booster21 (3906)
+Seat 7: Repu.Pretre0 (1959)
+Seat 8: trucagemagiq (21838)
+*** ANTE/BLINDS ***
+ELILIAN posts ante 35
+Mr_kersu posts ante 35
+Crazy World posts ante 35
+CapTainTeiii posts ante 35
+P1xel7 posts ante 35
+Booster21 posts ante 35
+Repu.Pretre0 posts ante 35
+trucagemagiq posts ante 35
+ELILIAN posts small blind 150
+Mr_kersu posts big blind 300
+Dealt to P1xel7 [Qs Ac]
+*** PRE-FLOP *** 
+Crazy World folds
+CapTainTeiii folds
+P1xel7 raises 360 to 660
+Booster21 folds
+Repu.Pretre0 raises 1264 to 1924 and is all-in
+trucagemagiq folds
+ELILIAN folds
+Mr_kersu folds
+P1xel7 calls 1264
+*** FLOP *** [5c 3h 9c]
+*** TURN *** [5c 3h 9c][2h]
+*** RIVER *** [5c 3h 9c 2h][7c]
+*** SHOW DOWN ***
+Repu.Pretre0 shows [Js Kh] (High card : King)
+P1xel7 shows [Qs Ac] (High card : Ace)
+P1xel7 collected 4578 from pot
+*** SUMMARY ***
+Total pot 4578 | No rake
+Board: [5c 3h 9c 2h 7c]
+Seat 5: P1xel7 showed [Qs Ac] and won 4578 with High card : Ace
+Seat 7: Repu.Pretre0 showed [Js Kh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837561-95-1708115637 - Holdem no limit (35/150/300) - 2024/02/16 20:33:57 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #1 is the button
+Seat 1: ELILIAN (5320)
+Seat 2: Mr_kersu (435)
+Seat 3: Crazy World (9054)
+Seat 4: CapTainTeiii (3398)
+Seat 5: P1xel7 (13864)
+Seat 6: Booster21 (3871)
+Seat 8: trucagemagiq (21803)
+*** ANTE/BLINDS ***
+Mr_kersu posts ante 35
+Crazy World posts ante 35
+ELILIAN posts ante 35
+CapTainTeiii posts ante 35
+P1xel7 posts ante 35
+Booster21 posts ante 35
+trucagemagiq posts ante 35
+Mr_kersu posts small blind 150
+Crazy World posts big blind 300
+Dealt to P1xel7 [Js Qd]
+*** PRE-FLOP *** 
+CapTainTeiii raises 3063 to 3363 and is all-in
+P1xel7 folds
+Booster21 folds
+trucagemagiq folds
+ELILIAN folds
+Mr_kersu folds
+Crazy World folds
+CapTainTeiii collected 4058 from pot
+*** SUMMARY ***
+Total pot 4058 | No rake
+Seat 4: CapTainTeiii won 4058
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 11 - HandId: #3201975493003837561-96-1708115655 - Holdem no limit (35/150/300) - 2024/02/16 20:34:15 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #2 is the button
+Seat 1: ELILIAN (5285)
+Seat 2: Mr_kersu (250)
+Seat 3: Crazy World (8719)
+Seat 4: CapTainTeiii (4058)
+Seat 5: P1xel7 (13829)
+Seat 6: Booster21 (3836)
+Seat 8: trucagemagiq (21768)
+*** ANTE/BLINDS ***
+Crazy World posts ante 35
+CapTainTeiii posts ante 35
+ELILIAN posts ante 35
+Mr_kersu posts ante 35
+P1xel7 posts ante 35
+Booster21 posts ante 35
+trucagemagiq posts ante 35
+Crazy World posts small blind 150
+CapTainTeiii posts big blind 300
+Dealt to P1xel7 [6d Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Booster21 raises 3501 to 3801 and is all-in
+trucagemagiq folds
+ELILIAN folds
+Mr_kersu folds
+Crazy World calls 3651
+CapTainTeiii folds
+*** FLOP *** [5s 3d 9h]
+*** TURN *** [5s 3d 9h][9d]
+*** RIVER *** [5s 3d 9h 9d][8s]
+*** SHOW DOWN ***
+Crazy World shows [Td Ac] (One pair : 9)
+Booster21 shows [Qh Qc] (Two pairs : Queens and 9)
+Booster21 collected 8147 from pot
+*** SUMMARY ***
+Total pot 8147 | No rake
+Board: [5s 3d 9h 9d 8s]
+Seat 3: Crazy World (small blind) showed [Td Ac] and lost with One pair : 9
+Seat 6: Booster21 showed [Qh Qc] and won 8147 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3201975493003837561-97-1708115710 - Holdem no limit (40/200/400) - 2024/02/16 20:35:10 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #3 is the button
+Seat 1: ELILIAN (5250)
+Seat 2: Mr_kersu (215)
+Seat 3: Crazy World (4883)
+Seat 4: CapTainTeiii (3723)
+Seat 5: P1xel7 (13794)
+Seat 6: Booster21 (8147)
+Seat 7: theo-King341 (655)
+Seat 8: trucagemagiq (21733)
+*** ANTE/BLINDS ***
+CapTainTeiii posts ante 40
+P1xel7 posts ante 40
+ELILIAN posts ante 40
+Mr_kersu posts ante 40
+Crazy World posts ante 40
+Booster21 posts ante 40
+theo-King341 posts ante 40
+trucagemagiq posts ante 40
+CapTainTeiii posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [3h Tc]
+*** PRE-FLOP *** 
+Booster21 folds
+theo-King341 folds
+trucagemagiq folds
+ELILIAN folds
+Mr_kersu folds
+Crazy World folds
+CapTainTeiii folds
+P1xel7 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | No rake
+Seat 5: P1xel7 (big blind) won 920
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3201975493003837561-98-1708115741 - Holdem no limit (40/200/400) - 2024/02/16 20:35:41 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #4 is the button
+Seat 1: ELILIAN (5210)
+Seat 2: Mr_kersu (175)
+Seat 3: Crazy World (4843)
+Seat 4: CapTainTeiii (3483)
+Seat 5: P1xel7 (14274)
+Seat 6: Booster21 (8107)
+Seat 7: theo-King341 (615)
+Seat 8: trucagemagiq (21693)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Booster21 posts ante 40
+ELILIAN posts ante 40
+Mr_kersu posts ante 40
+Crazy World posts ante 40
+CapTainTeiii posts ante 40
+theo-King341 posts ante 40
+trucagemagiq posts ante 40
+P1xel7 posts small blind 200
+Booster21 posts big blind 400
+Dealt to P1xel7 [Tc Kh]
+*** PRE-FLOP *** 
+theo-King341 folds
+trucagemagiq folds
+ELILIAN raises 4770 to 5170 and is all-in
+Mr_kersu folds
+Crazy World folds
+CapTainTeiii folds
+P1xel7 folds
+Booster21 folds
+ELILIAN collected 6090 from pot
+*** SUMMARY ***
+Total pot 6090 | No rake
+Seat 1: ELILIAN won 6090
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3201975493003837561-99-1708115765 - Holdem no limit (40/200/400) - 2024/02/16 20:36:05 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #5 is the button
+Seat 1: ELILIAN (6090)
+Seat 2: Mr_kersu (135)
+Seat 3: Crazy World (4803)
+Seat 4: CapTainTeiii (3443)
+Seat 5: P1xel7 (14034)
+Seat 6: Booster21 (7667)
+Seat 7: theo-King341 (575)
+Seat 8: trucagemagiq (21653)
+*** ANTE/BLINDS ***
+Booster21 posts ante 40
+theo-King341 posts ante 40
+ELILIAN posts ante 40
+Mr_kersu posts ante 40
+Crazy World posts ante 40
+CapTainTeiii posts ante 40
+P1xel7 posts ante 40
+trucagemagiq posts ante 40
+Booster21 posts small blind 200
+theo-King341 posts big blind 400
+Dealt to P1xel7 [Ts Jd]
+*** PRE-FLOP *** 
+trucagemagiq calls 400
+ELILIAN folds
+Mr_kersu folds
+Crazy World folds
+CapTainTeiii raises 3003 to 3403 and is all-in
+P1xel7 folds
+Booster21 folds
+theo-King341 folds
+trucagemagiq calls 3003
+*** FLOP *** [5d 9h 7s]
+*** TURN *** [5d 9h 7s][Qd]
+*** RIVER *** [5d 9h 7s Qd][Td]
+*** SHOW DOWN ***
+CapTainTeiii shows [Ac 6c] (High card : Ace)
+trucagemagiq shows [Kd Kh] (One pair : Kings)
+trucagemagiq collected 7726 from pot
+*** SUMMARY ***
+Total pot 7726 | No rake
+Board: [5d 9h 7s Qd Td]
+Seat 4: CapTainTeiii showed [Ac 6c] and lost with High card : Ace
+Seat 8: trucagemagiq showed [Kd Kh] and won 7726 with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3201975493003837561-100-1708115819 - Holdem no limit (40/200/400) - 2024/02/16 20:36:59 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #6 is the button
+Seat 1: ELILIAN (6050)
+Seat 2: Mr_kersu (95)
+Seat 3: Crazy World (4763)
+Seat 5: P1xel7 (13994)
+Seat 6: Booster21 (7427)
+Seat 7: theo-King341 (135)
+Seat 8: trucagemagiq (25936)
+*** ANTE/BLINDS ***
+theo-King341 posts ante 40
+trucagemagiq posts ante 40
+ELILIAN posts ante 40
+Mr_kersu posts ante 40
+Crazy World posts ante 40
+P1xel7 posts ante 40
+Booster21 posts ante 40
+theo-King341 posts small blind 95 and is all-in
+trucagemagiq posts big blind 400
+Dealt to P1xel7 [7c Kd]
+*** PRE-FLOP *** 
+ELILIAN raises 5610 to 6010 and is all-in
+Mr_kersu folds
+Crazy World folds
+P1xel7 folds
+Booster21 folds
+trucagemagiq folds
+*** FLOP *** [Jc Ks As]
+*** TURN *** [Jc Ks As][8s]
+*** RIVER *** [Jc Ks As 8s][7s]
+*** SHOW DOWN ***
+ELILIAN shows [Tc Kc] (One pair : Kings)
+theo-King341 shows [8d Ah] (Two pairs : Aces and 8)
+theo-King341 collected 565 from main pot
+ELILIAN collected 6220 from side pot 1
+*** SUMMARY ***
+Total pot 6785 | No rake
+Board: [Jc Ks As 8s 7s]
+Seat 1: ELILIAN showed [Tc Kc] and won 6220 with One pair : Kings
+Seat 7: theo-King341 (small blind) showed [8d Ah] and won 565 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3201975493003837561-101-1708115850 - Holdem no limit (40/200/400) - 2024/02/16 20:37:30 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #7 is the button
+Seat 1: ELILIAN (6220)
+Seat 2: Mr_kersu (55)
+Seat 3: Crazy World (4723)
+Seat 4: reynald80 (11594)
+Seat 5: P1xel7 (13954)
+Seat 6: Booster21 (7387)
+Seat 7: theo-King341 (565)
+Seat 8: trucagemagiq (25496)
+*** ANTE/BLINDS ***
+trucagemagiq posts ante 40
+ELILIAN posts ante 40
+Mr_kersu posts ante 40
+Crazy World posts ante 40
+reynald80 posts ante 40
+P1xel7 posts ante 40
+Booster21 posts ante 40
+theo-King341 posts ante 40
+trucagemagiq posts small blind 200
+ELILIAN posts big blind 400
+Dealt to P1xel7 [2c Js]
+*** PRE-FLOP *** 
+Mr_kersu folds
+Crazy World folds
+reynald80 folds
+P1xel7 folds
+Booster21 folds
+theo-King341 folds
+trucagemagiq calls 200
+ELILIAN checks
+*** FLOP *** [Ah Ad 6h]
+trucagemagiq bets 400
+ELILIAN calls 400
+*** TURN *** [Ah Ad 6h][As]
+trucagemagiq bets 400
+ELILIAN calls 400
+*** RIVER *** [Ah Ad 6h As][5c]
+trucagemagiq bets 400
+ELILIAN calls 400
+*** SHOW DOWN ***
+ELILIAN shows [6d 8s] (Full of Aces and 6)
+trucagemagiq shows [6s 5d] (Full of Aces and 6)
+trucagemagiq collected 1760 from pot
+ELILIAN collected 1760 from pot
+*** SUMMARY ***
+Total pot 3520 | No rake
+Board: [Ah Ad 6h As 5c]
+Seat 1: ELILIAN (big blind) showed [6d 8s] and won 1760 with Full of Aces and 6
+Seat 8: trucagemagiq (small blind) showed [6s 5d] and won 1760 with Full of Aces and 6
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3201975493003837561-102-1708115904 - Holdem no limit (40/200/400) - 2024/02/16 20:38:24 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #8 is the button
+Seat 1: ELILIAN (6340)
+Seat 2: Mr_kersu (15)
+Seat 3: Crazy World (4683)
+Seat 4: reynald80 (11554)
+Seat 5: P1xel7 (13914)
+Seat 6: Booster21 (7347)
+Seat 7: theo-King341 (525)
+Seat 8: trucagemagiq (25616)
+*** ANTE/BLINDS ***
+ELILIAN posts ante 40
+Mr_kersu posts ante 15 and is all-in
+Crazy World posts ante 40
+reynald80 posts ante 40
+P1xel7 posts ante 40
+Booster21 posts ante 40
+theo-King341 posts ante 40
+trucagemagiq posts ante 40
+ELILIAN posts small blind 200
+Mr_kersu posts big blind 0 and is all-in
+Dealt to P1xel7 [4d Jd]
+*** PRE-FLOP *** 
+Crazy World calls 400
+reynald80 folds
+P1xel7 folds
+Booster21 folds
+theo-King341 folds
+trucagemagiq calls 400
+ELILIAN folds
+*** FLOP *** [6d 9h Jc]
+Crazy World checks
+trucagemagiq checks
+*** TURN *** [6d 9h Jc][5c]
+Crazy World checks
+trucagemagiq checks
+*** RIVER *** [6d 9h Jc 5c][6s]
+Crazy World checks
+trucagemagiq checks
+*** SHOW DOWN ***
+trucagemagiq shows [Kh 3c] (One pair : 6)
+Mr_kersu shows [Th Ac] (One pair : 6)
+Crazy World shows [2c Ah] (One pair : 6)
+Crazy World collected 1175 from side pot 1
+Mr_kersu collected 120 from main pot
+*** SUMMARY ***
+Total pot 1295 | No rake
+Board: [6d 9h Jc 5c 6s]
+Seat 2: Mr_kersu (big blind) showed [Th Ac] and won 120 with One pair : 6
+Seat 3: Crazy World showed [2c Ah] and won 1175 with One pair : 6
+Seat 8: trucagemagiq (button) showed [Kh 3c] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3201975493003837561-103-1708115960 - Holdem no limit (40/200/400) - 2024/02/16 20:39:20 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #1 is the button
+Seat 1: ELILIAN (6100)
+Seat 2: Mr_kersu (120)
+Seat 3: Crazy World (5418)
+Seat 4: reynald80 (11514)
+Seat 5: P1xel7 (13874)
+Seat 6: Booster21 (7307)
+Seat 7: theo-King341 (485)
+Seat 8: trucagemagiq (25176)
+*** ANTE/BLINDS ***
+Mr_kersu posts ante 40
+Crazy World posts ante 40
+ELILIAN posts ante 40
+reynald80 posts ante 40
+P1xel7 posts ante 40
+Booster21 posts ante 40
+theo-King341 posts ante 40
+trucagemagiq posts ante 40
+Mr_kersu posts small blind 80 and is all-in
+Crazy World posts big blind 400
+Dealt to P1xel7 [7c 8s]
+*** PRE-FLOP *** 
+reynald80 raises 800 to 1200
+P1xel7 folds
+Booster21 folds
+theo-King341 folds
+trucagemagiq folds
+ELILIAN folds
+Crazy World folds
+*** FLOP *** [Js 3d 8h]
+*** TURN *** [Js 3d 8h][3c]
+*** RIVER *** [Js 3d 8h 3c][2s]
+*** SHOW DOWN ***
+Mr_kersu shows [7h Ah] (One pair : 3)
+reynald80 shows [Ac Ad] (Two pairs : Aces and 3)
+reynald80 collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | No rake
+Board: [Js 3d 8h 3c 2s]
+Seat 2: Mr_kersu (small blind) showed [7h Ah] and lost with One pair : 3
+Seat 4: reynald80 showed [Ac Ad] and won 2000 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3201975493003837561-104-1708116018 - Holdem no limit (40/200/400) - 2024/02/16 20:40:18 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #2 is the button
+Seat 1: ELILIAN (6060)
+Seat 3: Crazy World (4978)
+Seat 4: reynald80 (12274)
+Seat 5: P1xel7 (13834)
+Seat 6: Booster21 (7267)
+Seat 7: theo-King341 (445)
+Seat 8: trucagemagiq (25136)
+*** ANTE/BLINDS ***
+Crazy World posts ante 40
+reynald80 posts ante 40
+ELILIAN posts ante 40
+P1xel7 posts ante 40
+Booster21 posts ante 40
+theo-King341 posts ante 40
+trucagemagiq posts ante 40
+Crazy World posts small blind 200
+reynald80 posts big blind 400
+Dealt to P1xel7 [Jc Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 600 to 1000
+Booster21 folds
+theo-King341 folds
+trucagemagiq folds
+ELILIAN folds
+Crazy World folds
+reynald80 folds
+P1xel7 collected 1880 from pot
+*** SUMMARY ***
+Total pot 1880 | No rake
+Seat 5: P1xel7 won 1880
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3201975493003837561-105-1708116050 - Holdem no limit (40/200/400) - 2024/02/16 20:40:50 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #3 is the button
+Seat 1: ELILIAN (6020)
+Seat 3: Crazy World (4738)
+Seat 4: reynald80 (11834)
+Seat 5: P1xel7 (14674)
+Seat 6: Booster21 (7227)
+Seat 7: theo-King341 (405)
+Seat 8: trucagemagiq (25096)
+*** ANTE/BLINDS ***
+reynald80 posts ante 40
+P1xel7 posts ante 40
+ELILIAN posts ante 40
+Crazy World posts ante 40
+Booster21 posts ante 40
+theo-King341 posts ante 40
+trucagemagiq posts ante 40
+reynald80 posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Th 8h]
+*** PRE-FLOP *** 
+Booster21 folds
+theo-King341 folds
+trucagemagiq folds
+ELILIAN folds
+Crazy World folds
+reynald80 calls 200
+P1xel7 raises 800 to 1200
+reynald80 folds
+P1xel7 collected 1880 from pot
+*** SUMMARY ***
+Total pot 1880 | No rake
+Seat 5: P1xel7 (big blind) won 1880
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 12 - HandId: #3201975493003837561-106-1708116104 - Holdem no limit (40/200/400) - 2024/02/16 20:41:44 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #4 is the button
+Seat 1: ELILIAN (5980)
+Seat 3: Crazy World (4698)
+Seat 4: reynald80 (11394)
+Seat 5: P1xel7 (15314)
+Seat 6: Booster21 (7187)
+Seat 7: theo-King341 (365)
+Seat 8: trucagemagiq (25056)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Booster21 posts ante 40
+ELILIAN posts ante 40
+Crazy World posts ante 40
+reynald80 posts ante 40
+theo-King341 posts ante 40
+trucagemagiq posts ante 40
+P1xel7 posts small blind 200
+Booster21 posts big blind 400
+Dealt to P1xel7 [Qd 9h]
+*** PRE-FLOP *** 
+theo-King341 folds
+trucagemagiq calls 400
+ELILIAN folds
+Crazy World folds
+reynald80 calls 400
+P1xel7 folds
+Booster21 checks
+*** FLOP *** [2c 7d Ts]
+Booster21 checks
+trucagemagiq checks
+reynald80 checks
+*** TURN *** [2c 7d Ts][Jc]
+Booster21 checks
+trucagemagiq checks
+reynald80 checks
+*** RIVER *** [2c 7d Ts Jc][Kd]
+Booster21 checks
+trucagemagiq bets 588
+reynald80 folds
+Booster21 folds
+trucagemagiq collected 2268 from pot
+*** SUMMARY ***
+Total pot 2268 | No rake
+Board: [2c 7d Ts Jc Kd]
+Seat 8: trucagemagiq won 2268
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 13 - HandId: #3201975493003837561-107-1708116193 - Holdem no limit (50/250/500) - 2024/02/16 20:43:13 UTC
+Table: 'Tremplin Paris(745518015)#0120' 8-max (real money) Seat #5 is the button
+Seat 1: ELILIAN (5940)
+Seat 2: Biibiii10 (656)
+Seat 3: Crazy World (4658)
+Seat 4: reynald80 (10954)
+Seat 5: P1xel7 (15074)
+Seat 6: Booster21 (6747)
+Seat 7: theo-King341 (325)
+Seat 8: trucagemagiq (26296)
+*** ANTE/BLINDS ***
+Booster21 posts ante 50
+theo-King341 posts ante 50
+ELILIAN posts ante 50
+Biibiii10 posts ante 50
+Crazy World posts ante 50
+reynald80 posts ante 50
+P1xel7 posts ante 50
+trucagemagiq posts ante 50
+Booster21 posts small blind 250
+theo-King341 posts big blind 275 and is all-in
+Dealt to P1xel7 [Jc Kc]
+*** PRE-FLOP *** 
+trucagemagiq folds
+ELILIAN folds
+Biibiii10 folds
+Crazy World calls 500
+reynald80 folds
+P1xel7 raises 1500 to 2000
+Booster21 folds
+Crazy World folds
+*** FLOP *** [9s 7h 2d]
+*** TURN *** [9s 7h 2d][5d]
+*** RIVER *** [9s 7h 2d 5d][2s]
+*** SHOW DOWN ***
+P1xel7 shows [Jc Kc] (One pair : 2)
+theo-King341 shows [As 6d] (One pair : 2)
+theo-King341 collected 1475 from main pot
+P1xel7 collected 1950 from side pot 1
+*** SUMMARY ***
+Total pot 3425 | No rake
+Board: [9s 7h 2d 5d 2s]
+Seat 5: P1xel7 (button) showed [Jc Kc] and won 1950 with One pair : 2
+Seat 7: theo-King341 (big blind) showed [As 6d] and won 1475 with One pair : 2
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 13 - HandId: #3201975493003837523-164-1708116348 - Holdem no limit (50/250/500) - 2024/02/16 20:45:48 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #6 is the button
+Seat 1: Jojograbo (31496)
+Seat 2: A LUPIN (6550)
+Seat 3: McBurn (56676)
+Seat 4: EOmile (21236)
+Seat 5: P1xel7 (14974)
+Seat 6: Croco1313 (19972)
+Seat 8: papygil (1966)
+*** ANTE/BLINDS ***
+papygil posts ante 50
+Jojograbo posts ante 50
+A LUPIN posts ante 50
+McBurn posts ante 50
+EOmile posts ante 50
+P1xel7 posts ante 50
+Croco1313 posts ante 50
+papygil posts big blind 500
+Dealt to P1xel7 [Qs 5h]
+*** PRE-FLOP *** 
+Jojograbo folds
+A LUPIN folds
+McBurn folds
+EOmile folds
+P1xel7 folds
+Croco1313 folds
+papygil collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | No rake
+Seat 8: papygil (big blind) won 850
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 13 - HandId: #3201975493003837523-165-1708116368 - Holdem no limit (50/250/500) - 2024/02/16 20:46:08 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #7 is the button
+Seat 1: Jojograbo (31446)
+Seat 2: A LUPIN (6500)
+Seat 3: McBurn (56626)
+Seat 4: EOmile (21186)
+Seat 5: P1xel7 (14924)
+Seat 6: Croco1313 (19922)
+Seat 8: papygil (2266)
+*** ANTE/BLINDS ***
+papygil posts ante 50
+Jojograbo posts ante 50
+A LUPIN posts ante 50
+McBurn posts ante 50
+EOmile posts ante 50
+P1xel7 posts ante 50
+Croco1313 posts ante 50
+papygil posts small blind 250
+Jojograbo posts big blind 500
+Dealt to P1xel7 [Ks 8c]
+*** PRE-FLOP *** 
+A LUPIN calls 500
+McBurn folds
+EOmile folds
+P1xel7 folds
+Croco1313 raises 1250 to 1750
+papygil folds
+Jojograbo calls 1250
+A LUPIN calls 1250
+*** FLOP *** [6h 2c Qh]
+Jojograbo checks
+A LUPIN bets 4700 and is all-in
+Croco1313 raises 13422 to 18122 and is all-in
+Jojograbo folds
+*** TURN *** [6h 2c Qh][Qc]
+*** RIVER *** [6h 2c Qh Qc][Ts]
+*** SHOW DOWN ***
+A LUPIN shows [Kc Qd] (Trips of Queens)
+Croco1313 shows [Ac As] (Two pairs : Aces and Queens)
+Croco1313 collected 13422 from side pot 1
+A LUPIN collected 15250 from main pot
+*** SUMMARY ***
+Total pot 28672 | No rake
+Board: [6h 2c Qh Qc Ts]
+Seat 2: A LUPIN showed [Kc Qd] and won 15250 with Trips of Queens
+Seat 6: Croco1313 showed [Ac As] and won 13422 with Two pairs : Aces and Queens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 13 - HandId: #3201975493003837523-166-1708116428 - Holdem no limit (50/250/500) - 2024/02/16 20:47:08 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #8 is the button
+Seat 1: Jojograbo (29646)
+Seat 2: A LUPIN (15250)
+Seat 3: McBurn (56576)
+Seat 4: EOmile (21136)
+Seat 5: P1xel7 (14874)
+Seat 6: Croco1313 (13422)
+Seat 7: PokerFReaKK (19359)
+Seat 8: papygil (1966)
+*** ANTE/BLINDS ***
+Jojograbo posts ante 50
+A LUPIN posts ante 50
+McBurn posts ante 50
+EOmile posts ante 50
+P1xel7 posts ante 50
+Croco1313 posts ante 50
+PokerFReaKK posts ante 50
+papygil posts ante 50
+Jojograbo posts small blind 250
+A LUPIN posts big blind 500
+Dealt to P1xel7 [9s 7d]
+*** PRE-FLOP *** 
+McBurn folds
+EOmile folds
+P1xel7 folds
+Croco1313 folds
+PokerFReaKK calls 500
+papygil folds
+Jojograbo calls 250
+A LUPIN checks
+*** FLOP *** [Ts 2d 6d]
+Jojograbo checks
+A LUPIN checks
+PokerFReaKK checks
+*** TURN *** [Ts 2d 6d][3h]
+Jojograbo bets 500
+A LUPIN folds
+PokerFReaKK calls 500
+*** RIVER *** [Ts 2d 6d 3h][4c]
+Jojograbo checks
+PokerFReaKK checks
+*** SHOW DOWN ***
+Jojograbo shows [Jc Ac] (High card : Ace)
+PokerFReaKK shows [2h Ah] (One pair : 2)
+PokerFReaKK collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Board: [Ts 2d 6d 3h 4c]
+Seat 1: Jojograbo (small blind) showed [Jc Ac] and lost with High card : Ace
+Seat 7: PokerFReaKK showed [2h Ah] and won 2900 with One pair : 2
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 13 - HandId: #3201975493003837523-167-1708116491 - Holdem no limit (50/250/500) - 2024/02/16 20:48:11 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #1 is the button
+Seat 1: Jojograbo (28596)
+Seat 2: A LUPIN (14700)
+Seat 3: McBurn (56526)
+Seat 4: EOmile (21086)
+Seat 5: P1xel7 (14824)
+Seat 6: Croco1313 (13372)
+Seat 7: PokerFReaKK (21209)
+Seat 8: papygil (1916)
+*** ANTE/BLINDS ***
+A LUPIN posts ante 50
+McBurn posts ante 50
+Jojograbo posts ante 50
+EOmile posts ante 50
+P1xel7 posts ante 50
+Croco1313 posts ante 50
+PokerFReaKK posts ante 50
+papygil posts ante 50
+A LUPIN posts small blind 250
+McBurn posts big blind 500
+Dealt to P1xel7 [4d As]
+*** PRE-FLOP *** 
+EOmile folds
+P1xel7 folds
+Croco1313 calls 500
+PokerFReaKK folds
+papygil raises 1366 to 1866 and is all-in
+Jojograbo folds
+A LUPIN folds
+McBurn folds
+Croco1313 calls 1366
+*** FLOP *** [5d 7h Qd]
+*** TURN *** [5d 7h Qd][7s]
+*** RIVER *** [5d 7h Qd 7s][2h]
+*** SHOW DOWN ***
+papygil shows [9h Th] (One pair : 7)
+Croco1313 shows [2s Ac] (Two pairs : 7 and 2)
+Croco1313 collected 4882 from pot
+*** SUMMARY ***
+Total pot 4882 | No rake
+Board: [5d 7h Qd 7s 2h]
+Seat 6: Croco1313 showed [2s Ac] and won 4882 with Two pairs : 7 and 2
+Seat 8: papygil showed [9h Th] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 13 - HandId: #3201975493003837523-168-1708116527 - Holdem no limit (50/250/500) - 2024/02/16 20:48:47 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #2 is the button
+Seat 1: Jojograbo (28546)
+Seat 2: A LUPIN (14400)
+Seat 3: McBurn (55976)
+Seat 4: EOmile (21036)
+Seat 5: P1xel7 (14774)
+Seat 6: Croco1313 (16338)
+Seat 7: PokerFReaKK (21159)
+*** ANTE/BLINDS ***
+McBurn posts ante 50
+EOmile posts ante 50
+Jojograbo posts ante 50
+A LUPIN posts ante 50
+P1xel7 posts ante 50
+Croco1313 posts ante 50
+PokerFReaKK posts ante 50
+McBurn posts small blind 250
+EOmile posts big blind 500
+Dealt to P1xel7 [7h Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Croco1313 folds
+PokerFReaKK folds
+Jojograbo calls 500
+A LUPIN folds
+McBurn calls 250
+EOmile checks
+*** FLOP *** [Qd Ad 4s]
+McBurn checks
+EOmile checks
+Jojograbo checks
+*** TURN *** [Qd Ad 4s][6s]
+McBurn bets 500
+EOmile folds
+Jojograbo calls 500
+*** RIVER *** [Qd Ad 4s 6s][Kd]
+McBurn bets 997
+Jojograbo calls 997
+*** SHOW DOWN ***
+Jojograbo shows [Ks 2c] (One pair : Kings)
+McBurn shows [Th Ah] (One pair : Aces)
+McBurn collected 4844 from pot
+*** SUMMARY ***
+Total pot 4844 | No rake
+Board: [Qd Ad 4s 6s Kd]
+Seat 1: Jojograbo showed [Ks 2c] and lost with One pair : Kings
+Seat 3: McBurn (small blind) showed [Th Ah] and won 4844 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 13 - HandId: #3201975493003837523-169-1708116570 - Holdem no limit (50/250/500) - 2024/02/16 20:49:30 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #3 is the button
+Seat 1: Jojograbo (26499)
+Seat 2: A LUPIN (14350)
+Seat 3: McBurn (58773)
+Seat 4: EOmile (20486)
+Seat 5: P1xel7 (14724)
+Seat 6: Croco1313 (16288)
+Seat 7: PokerFReaKK (21109)
+Seat 8: He.Salamanca (40460)
+*** ANTE/BLINDS ***
+EOmile posts ante 50
+P1xel7 posts ante 50
+Jojograbo posts ante 50
+A LUPIN posts ante 50
+McBurn posts ante 50
+Croco1313 posts ante 50
+PokerFReaKK posts ante 50
+He.Salamanca posts ante 50
+EOmile posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [2d 4h]
+*** PRE-FLOP *** 
+Croco1313 calls 500
+PokerFReaKK folds
+He.Salamanca folds
+Jojograbo folds
+A LUPIN folds
+McBurn calls 500
+EOmile calls 250
+P1xel7 checks
+*** FLOP *** [8d Jd Qc]
+EOmile checks
+P1xel7 checks
+Croco1313 checks
+McBurn checks
+*** TURN *** [8d Jd Qc][Tc]
+EOmile checks
+P1xel7 checks
+Croco1313 checks
+McBurn checks
+*** RIVER *** [8d Jd Qc Tc][Qh]
+EOmile bets 1560
+P1xel7 folds
+Croco1313 folds
+McBurn folds
+EOmile collected 3960 from pot
+*** SUMMARY ***
+Total pot 3960 | No rake
+Board: [8d Jd Qc Tc Qh]
+Seat 4: EOmile (small blind) won 3960
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 14 - HandId: #3201975493003837523-170-1708116637 - Holdem no limit (70/300/600) - 2024/02/16 20:50:37 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #4 is the button
+Seat 1: Jojograbo (26449)
+Seat 2: A LUPIN (14300)
+Seat 3: McBurn (58223)
+Seat 4: EOmile (22336)
+Seat 5: P1xel7 (14174)
+Seat 6: Croco1313 (15738)
+Seat 7: PokerFReaKK (21059)
+Seat 8: He.Salamanca (40410)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Croco1313 posts ante 70
+Jojograbo posts ante 70
+A LUPIN posts ante 70
+McBurn posts ante 70
+EOmile posts ante 70
+PokerFReaKK posts ante 70
+He.Salamanca posts ante 70
+P1xel7 posts small blind 300
+Croco1313 posts big blind 600
+Dealt to P1xel7 [7h 3d]
+*** PRE-FLOP *** 
+PokerFReaKK folds
+He.Salamanca folds
+Jojograbo folds
+A LUPIN calls 600
+McBurn calls 600
+EOmile folds
+P1xel7 folds
+Croco1313 checks
+*** FLOP *** [Kd Ks 9h]
+Croco1313 checks
+A LUPIN checks
+McBurn checks
+*** TURN *** [Kd Ks 9h][Tc]
+Croco1313 checks
+A LUPIN checks
+McBurn checks
+*** RIVER *** [Kd Ks 9h Tc][4c]
+Croco1313 checks
+A LUPIN checks
+McBurn checks
+*** SHOW DOWN ***
+McBurn shows [Qd 7d] (One pair : Kings)
+Croco1313 shows [3s 7s] (One pair : Kings)
+A LUPIN shows [6h 6s] (Two pairs : Kings and 6)
+A LUPIN collected 2660 from pot
+*** SUMMARY ***
+Total pot 2660 | No rake
+Board: [Kd Ks 9h Tc 4c]
+Seat 2: A LUPIN showed [6h 6s] and won 2660 with Two pairs : Kings and 6
+Seat 3: McBurn showed [Qd 7d] and lost with One pair : Kings
+Seat 6: Croco1313 (big blind) showed [3s 7s] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 14 - HandId: #3201975493003837523-171-1708116682 - Holdem no limit (70/300/600) - 2024/02/16 20:51:22 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #5 is the button
+Seat 1: Jojograbo (26379)
+Seat 2: A LUPIN (16290)
+Seat 3: McBurn (57553)
+Seat 4: EOmile (22266)
+Seat 5: P1xel7 (13804)
+Seat 6: Croco1313 (15068)
+Seat 7: PokerFReaKK (20989)
+Seat 8: He.Salamanca (40340)
+*** ANTE/BLINDS ***
+Croco1313 posts ante 70
+PokerFReaKK posts ante 70
+Jojograbo posts ante 70
+A LUPIN posts ante 70
+McBurn posts ante 70
+EOmile posts ante 70
+P1xel7 posts ante 70
+He.Salamanca posts ante 70
+Croco1313 posts small blind 300
+PokerFReaKK posts big blind 600
+Dealt to P1xel7 [Qd Th]
+*** PRE-FLOP *** 
+He.Salamanca folds
+Jojograbo folds
+A LUPIN folds
+McBurn folds
+EOmile folds
+P1xel7 raises 600 to 1200
+Croco1313 calls 900
+PokerFReaKK folds
+*** FLOP *** [As 9c Js]
+Croco1313 checks
+P1xel7 bets 1246
+Croco1313 folds
+P1xel7 collected 4806 from pot
+*** SUMMARY ***
+Total pot 4806 | No rake
+Board: [As 9c Js]
+Seat 5: P1xel7 (button) won 4806
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 14 - HandId: #3201975493003837523-172-1708116733 - Holdem no limit (70/300/600) - 2024/02/16 20:52:13 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #6 is the button
+Seat 1: Jojograbo (26309)
+Seat 2: A LUPIN (16220)
+Seat 3: McBurn (57483)
+Seat 4: EOmile (22196)
+Seat 5: P1xel7 (16094)
+Seat 6: Croco1313 (13798)
+Seat 7: PokerFReaKK (20319)
+Seat 8: He.Salamanca (40270)
+*** ANTE/BLINDS ***
+PokerFReaKK posts ante 70
+He.Salamanca posts ante 70
+Jojograbo posts ante 70
+A LUPIN posts ante 70
+McBurn posts ante 70
+EOmile posts ante 70
+P1xel7 posts ante 70
+Croco1313 posts ante 70
+PokerFReaKK posts small blind 300
+He.Salamanca posts big blind 600
+Dealt to P1xel7 [4h Jc]
+*** PRE-FLOP *** 
+Jojograbo calls 600
+A LUPIN folds
+McBurn calls 600
+EOmile calls 600
+P1xel7 folds
+Croco1313 calls 600
+PokerFReaKK calls 300
+He.Salamanca checks
+*** FLOP *** [5h 6c 3d]
+PokerFReaKK checks
+He.Salamanca checks
+Jojograbo checks
+McBurn bets 600
+EOmile folds
+Croco1313 calls 600
+PokerFReaKK calls 600
+He.Salamanca folds
+Jojograbo folds
+*** TURN *** [5h 6c 3d][Kc]
+PokerFReaKK checks
+McBurn bets 600
+Croco1313 calls 600
+PokerFReaKK calls 600
+*** RIVER *** [5h 6c 3d Kc][7s]
+PokerFReaKK checks
+McBurn bets 600
+Croco1313 folds
+PokerFReaKK folds
+McBurn collected 8360 from pot
+*** SUMMARY ***
+Total pot 8360 | No rake
+Board: [5h 6c 3d Kc 7s]
+Seat 3: McBurn won 8360
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 14 - HandId: #3201975493003837523-173-1708116829 - Holdem no limit (70/300/600) - 2024/02/16 20:53:49 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #7 is the button
+Seat 1: Jojograbo (25639)
+Seat 2: A LUPIN (16150)
+Seat 3: McBurn (63373)
+Seat 4: EOmile (21526)
+Seat 5: P1xel7 (16024)
+Seat 6: Croco1313 (11928)
+Seat 7: PokerFReaKK (18449)
+Seat 8: He.Salamanca (39600)
+*** ANTE/BLINDS ***
+He.Salamanca posts ante 70
+Jojograbo posts ante 70
+A LUPIN posts ante 70
+McBurn posts ante 70
+EOmile posts ante 70
+P1xel7 posts ante 70
+Croco1313 posts ante 70
+PokerFReaKK posts ante 70
+He.Salamanca posts small blind 300
+Jojograbo posts big blind 600
+Dealt to P1xel7 [3s Qd]
+*** PRE-FLOP *** 
+A LUPIN raises 600 to 1200
+McBurn folds
+EOmile folds
+P1xel7 folds
+Croco1313 folds
+PokerFReaKK folds
+He.Salamanca folds
+Jojograbo calls 600
+*** FLOP *** [9c 3h Js]
+Jojograbo checks
+A LUPIN bets 3260
+Jojograbo folds
+A LUPIN collected 6520 from pot
+*** SUMMARY ***
+Total pot 6520 | No rake
+Board: [9c 3h Js]
+Seat 2: A LUPIN won 6520
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 14 - HandId: #3201975493003837523-174-1708116861 - Holdem no limit (70/300/600) - 2024/02/16 20:54:21 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #8 is the button
+Seat 1: Jojograbo (24369)
+Seat 2: A LUPIN (18140)
+Seat 3: McBurn (63303)
+Seat 4: EOmile (21456)
+Seat 5: P1xel7 (15954)
+Seat 6: Croco1313 (11858)
+Seat 7: PokerFReaKK (18379)
+Seat 8: He.Salamanca (39230)
+*** ANTE/BLINDS ***
+Jojograbo posts ante 70
+A LUPIN posts ante 70
+McBurn posts ante 70
+EOmile posts ante 70
+P1xel7 posts ante 70
+Croco1313 posts ante 70
+PokerFReaKK posts ante 70
+He.Salamanca posts ante 70
+Jojograbo posts small blind 300
+A LUPIN posts big blind 600
+Dealt to P1xel7 [Js Qs]
+*** PRE-FLOP *** 
+McBurn folds
+EOmile folds
+P1xel7 raises 600 to 1200
+Croco1313 folds
+PokerFReaKK folds
+He.Salamanca folds
+Jojograbo folds
+A LUPIN calls 600
+*** FLOP *** [4c 6s Ac]
+A LUPIN bets 600
+P1xel7 calls 600
+*** TURN *** [4c 6s Ac][9d]
+A LUPIN checks
+P1xel7 bets 1561
+A LUPIN folds
+P1xel7 collected 6021 from pot
+*** SUMMARY ***
+Total pot 6021 | No rake
+Board: [4c 6s Ac 9d]
+Seat 5: P1xel7 won 6021
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 14 - HandId: #3201975493003837523-175-1708117260 - Holdem no limit (70/300/600) - 2024/02/16 21:01:00 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #1 is the button
+Seat 1: Jojograbo (23999)
+Seat 2: A LUPIN (16270)
+Seat 3: McBurn (63233)
+Seat 4: EOmile (21386)
+Seat 5: P1xel7 (18544)
+Seat 6: Croco1313 (11788)
+Seat 7: PokerFReaKK (18309)
+Seat 8: He.Salamanca (39160)
+*** ANTE/BLINDS ***
+A LUPIN posts ante 70
+McBurn posts ante 70
+Jojograbo posts ante 70
+EOmile posts ante 70
+P1xel7 posts ante 70
+Croco1313 posts ante 70
+PokerFReaKK posts ante 70
+He.Salamanca posts ante 70
+A LUPIN posts small blind 300
+McBurn posts big blind 600
+Dealt to P1xel7 [2d 5d]
+*** PRE-FLOP *** 
+EOmile calls 600
+P1xel7 folds
+Croco1313 raises 1500 to 2100
+PokerFReaKK folds
+He.Salamanca folds
+Jojograbo folds
+A LUPIN folds
+McBurn calls 1500
+EOmile folds
+*** FLOP *** [9d 4s 8d]
+McBurn checks
+Croco1313 bets 4200
+McBurn calls 4200
+*** TURN *** [9d 4s 8d][7s]
+McBurn checks
+Croco1313 bets 5418 and is all-in
+McBurn calls 5418
+*** RIVER *** [9d 4s 8d 7s][Kc]
+*** SHOW DOWN ***
+Croco1313 shows [Tc Ad] (High card : Ace)
+McBurn shows [6d Ks] (One pair : Kings)
+McBurn collected 24896 from pot
+*** SUMMARY ***
+Total pot 24896 | No rake
+Board: [9d 4s 8d 7s Kc]
+Seat 3: McBurn (big blind) showed [6d Ks] and won 24896 with One pair : Kings
+Seat 6: Croco1313 showed [Tc Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 14 - HandId: #3201975493003837523-176-1708117340 - Holdem no limit (70/300/600) - 2024/02/16 21:02:20 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #2 is the button
+Seat 1: Jojograbo (23929)
+Seat 2: A LUPIN (15900)
+Seat 3: McBurn (76341)
+Seat 4: EOmile (20716)
+Seat 5: P1xel7 (18474)
+Seat 7: PokerFReaKK (18239)
+Seat 8: He.Salamanca (39090)
+*** ANTE/BLINDS ***
+McBurn posts ante 70
+EOmile posts ante 70
+Jojograbo posts ante 70
+A LUPIN posts ante 70
+P1xel7 posts ante 70
+PokerFReaKK posts ante 70
+He.Salamanca posts ante 70
+McBurn posts small blind 300
+EOmile posts big blind 600
+Dealt to P1xel7 [6h 6c]
+*** PRE-FLOP *** 
+P1xel7 raises 600 to 1200
+PokerFReaKK folds
+He.Salamanca folds
+Jojograbo calls 1200
+A LUPIN folds
+McBurn calls 900
+EOmile folds
+*** FLOP *** [2c 8c 9h]
+McBurn checks
+P1xel7 checks
+Jojograbo checks
+*** TURN *** [2c 8c 9h][Td]
+McBurn bets 600
+P1xel7 calls 600
+Jojograbo calls 600
+*** RIVER *** [2c 8c 9h Td][8h]
+McBurn bets 2272
+P1xel7 folds
+Jojograbo raises 19787 to 22059 and is all-in
+McBurn calls 19787
+*** SHOW DOWN ***
+McBurn shows [4d Ah] (One pair : 8)
+Jojograbo shows [Qs Jc] (Straight Queen high)
+Jojograbo collected 50608 from pot
+*** SUMMARY ***
+Total pot 50608 | No rake
+Board: [2c 8c 9h Td 8h]
+Seat 1: Jojograbo showed [Qs Jc] and won 50608 with Straight Queen high
+Seat 3: McBurn (small blind) showed [4d Ah] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 14 - HandId: #3201975493003837523-177-1708117428 - Holdem no limit (70/300/600) - 2024/02/16 21:03:48 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #3 is the button
+Seat 1: Jojograbo (50608)
+Seat 2: A LUPIN (15830)
+Seat 3: McBurn (52412)
+Seat 4: EOmile (20046)
+Seat 5: P1xel7 (16604)
+Seat 6: Yayounette49 (43493)
+Seat 7: PokerFReaKK (18169)
+Seat 8: He.Salamanca (39020)
+*** ANTE/BLINDS ***
+EOmile posts ante 70
+P1xel7 posts ante 70
+Jojograbo posts ante 70
+A LUPIN posts ante 70
+McBurn posts ante 70
+Yayounette49 posts ante 70
+PokerFReaKK posts ante 70
+He.Salamanca posts ante 70
+EOmile posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [Ac Kd]
+*** PRE-FLOP *** 
+Yayounette49 folds
+PokerFReaKK folds
+He.Salamanca folds
+Jojograbo folds
+A LUPIN folds
+McBurn folds
+EOmile calls 300
+P1xel7 raises 1200 to 1800
+EOmile folds
+P1xel7 collected 2960 from pot
+*** SUMMARY ***
+Total pot 2960 | No rake
+Seat 5: P1xel7 (big blind) won 2960
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837523-178-1708117468 - Holdem no limit (80/400/800) - 2024/02/16 21:04:28 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #4 is the button
+Seat 1: Jojograbo (50538)
+Seat 2: A LUPIN (15760)
+Seat 3: McBurn (52342)
+Seat 4: EOmile (19376)
+Seat 5: P1xel7 (17694)
+Seat 6: Yayounette49 (43423)
+Seat 7: PokerFReaKK (18099)
+Seat 8: He.Salamanca (38950)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Yayounette49 posts ante 80
+Jojograbo posts ante 80
+A LUPIN posts ante 80
+McBurn posts ante 80
+EOmile posts ante 80
+PokerFReaKK posts ante 80
+He.Salamanca posts ante 80
+P1xel7 posts small blind 400
+Yayounette49 posts big blind 800
+Dealt to P1xel7 [Qc 7c]
+*** PRE-FLOP *** 
+PokerFReaKK raises 800 to 1600
+He.Salamanca folds
+Jojograbo folds
+A LUPIN folds
+McBurn calls 1600
+EOmile folds
+P1xel7 folds
+Yayounette49 calls 800
+*** FLOP *** [9h 3d 9s]
+Yayounette49 checks
+PokerFReaKK checks
+McBurn bets 800
+Yayounette49 calls 800
+PokerFReaKK calls 800
+*** TURN *** [9h 3d 9s][6h]
+Yayounette49 checks
+PokerFReaKK checks
+McBurn bets 2884
+Yayounette49 folds
+PokerFReaKK folds
+McBurn collected 11124 from pot
+*** SUMMARY ***
+Total pot 11124 | No rake
+Board: [9h 3d 9s 6h]
+Seat 3: McBurn won 11124
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837523-179-1708117511 - Holdem no limit (80/400/800) - 2024/02/16 21:05:11 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #5 is the button
+Seat 1: Jojograbo (50458)
+Seat 2: A LUPIN (15680)
+Seat 3: McBurn (58102)
+Seat 4: EOmile (19296)
+Seat 5: P1xel7 (17214)
+Seat 6: Yayounette49 (40943)
+Seat 7: PokerFReaKK (15619)
+Seat 8: He.Salamanca (38870)
+*** ANTE/BLINDS ***
+Yayounette49 posts ante 80
+PokerFReaKK posts ante 80
+Jojograbo posts ante 80
+A LUPIN posts ante 80
+McBurn posts ante 80
+EOmile posts ante 80
+P1xel7 posts ante 80
+He.Salamanca posts ante 80
+Yayounette49 posts small blind 400
+PokerFReaKK posts big blind 800
+Dealt to P1xel7 [4h Ah]
+*** PRE-FLOP *** 
+He.Salamanca folds
+Jojograbo folds
+A LUPIN folds
+McBurn calls 800
+EOmile folds
+P1xel7 calls 800
+Yayounette49 calls 400
+PokerFReaKK checks
+*** FLOP *** [4d Ad 6s]
+Yayounette49 checks
+PokerFReaKK checks
+McBurn checks
+P1xel7 bets 960
+Yayounette49 folds
+PokerFReaKK calls 960
+McBurn folds
+*** TURN *** [4d Ad 6s][As]
+PokerFReaKK checks
+P1xel7 checks
+*** RIVER *** [4d Ad 6s As][4s]
+PokerFReaKK checks
+P1xel7 bets 2880
+PokerFReaKK folds
+P1xel7 collected 8640 from pot
+*** SUMMARY ***
+Total pot 8640 | No rake
+Board: [4d Ad 6s As 4s]
+Seat 5: P1xel7 (button) won 8640
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837523-180-1708117559 - Holdem no limit (80/400/800) - 2024/02/16 21:05:59 UTC
+Table: 'Tremplin Paris(745518015)#0082' 8-max (real money) Seat #6 is the button
+Seat 1: Jojograbo (50378)
+Seat 2: A LUPIN (15600)
+Seat 3: McBurn (57222)
+Seat 4: EOmile (19216)
+Seat 5: P1xel7 (21134)
+Seat 6: Yayounette49 (40063)
+Seat 7: PokerFReaKK (13779)
+Seat 8: He.Salamanca (38790)
+*** ANTE/BLINDS ***
+PokerFReaKK posts ante 80
+He.Salamanca posts ante 80
+Jojograbo posts ante 80
+A LUPIN posts ante 80
+McBurn posts ante 80
+EOmile posts ante 80
+P1xel7 posts ante 80
+Yayounette49 posts ante 80
+PokerFReaKK posts small blind 400
+He.Salamanca posts big blind 800
+Dealt to P1xel7 [6s 3h]
+*** PRE-FLOP *** 
+Jojograbo calls 800
+A LUPIN folds
+McBurn folds
+EOmile folds
+P1xel7 folds
+Yayounette49 calls 800
+PokerFReaKK folds
+He.Salamanca checks
+*** FLOP *** [5s 6d 8d]
+He.Salamanca checks
+Jojograbo checks
+Yayounette49 bets 1204
+He.Salamanca folds
+Jojograbo folds
+Yayounette49 collected 4644 from pot
+*** SUMMARY ***
+Total pot 4644 | No rake
+Board: [5s 6d 8d]
+Seat 6: Yayounette49 (button) won 4644
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837441-181-1708117645 - Holdem no limit (80/400/800) - 2024/02/16 21:07:25 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #6 is the button
+Seat 1: Jobar323i (24908)
+Seat 2: MadameFish (2318)
+Seat 3: P1xel7 (21054)
+Seat 4: KarelGott (61092)
+Seat 5: DiaBoLiK45 (13741)
+Seat 6: Fougezer (67519)
+Seat 7: 30pierre (18588)
+Seat 8: trucagemagiq (74256)
+*** ANTE/BLINDS ***
+30pierre posts ante 80
+trucagemagiq posts ante 80
+Jobar323i posts ante 80
+MadameFish posts ante 80
+P1xel7 posts ante 80
+KarelGott posts ante 80
+DiaBoLiK45 posts ante 80
+Fougezer posts ante 80
+30pierre posts small blind 400
+trucagemagiq posts big blind 800
+Dealt to P1xel7 [5s 9s]
+*** PRE-FLOP *** 
+Jobar323i raises 800 to 1600
+MadameFish folds
+P1xel7 folds
+KarelGott folds
+DiaBoLiK45 folds
+Fougezer folds
+30pierre raises 16908 to 18508 and is all-in
+trucagemagiq folds
+Jobar323i calls 16908
+*** FLOP *** [6c 2c 8s]
+*** TURN *** [6c 2c 8s][Jd]
+*** RIVER *** [6c 2c 8s Jd][6d]
+*** SHOW DOWN ***
+Jobar323i shows [Jh Ah] (Two pairs : Jacks and 6)
+30pierre shows [Kc Ks] (Two pairs : Kings and 6)
+30pierre collected 38456 from pot
+*** SUMMARY ***
+Total pot 38456 | No rake
+Board: [6c 2c 8s Jd 6d]
+Seat 1: Jobar323i showed [Jh Ah] and lost with Two pairs : Jacks and 6
+Seat 7: 30pierre (small blind) showed [Kc Ks] and won 38456 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837441-182-1708117665 - Holdem no limit (80/400/800) - 2024/02/16 21:07:45 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #7 is the button
+Seat 1: Jobar323i (6320)
+Seat 2: MadameFish (2238)
+Seat 3: P1xel7 (20974)
+Seat 4: KarelGott (61012)
+Seat 5: DiaBoLiK45 (13661)
+Seat 6: Fougezer (67439)
+Seat 7: 30pierre (38456)
+Seat 8: trucagemagiq (73376)
+*** ANTE/BLINDS ***
+trucagemagiq posts ante 80
+Jobar323i posts ante 80
+MadameFish posts ante 80
+P1xel7 posts ante 80
+KarelGott posts ante 80
+DiaBoLiK45 posts ante 80
+Fougezer posts ante 80
+30pierre posts ante 80
+trucagemagiq posts small blind 400
+Jobar323i posts big blind 800
+Dealt to P1xel7 [6d Tc]
+*** PRE-FLOP *** 
+MadameFish folds
+P1xel7 folds
+KarelGott folds
+DiaBoLiK45 folds
+Fougezer raises 800 to 1600
+30pierre folds
+trucagemagiq folds
+Jobar323i folds
+Fougezer collected 3440 from pot
+*** SUMMARY ***
+Total pot 3440 | No rake
+Seat 6: Fougezer won 3440
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837441-183-1708117683 - Holdem no limit (80/400/800) - 2024/02/16 21:08:03 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #8 is the button
+Seat 1: Jobar323i (5440)
+Seat 2: MadameFish (2158)
+Seat 3: P1xel7 (20894)
+Seat 4: KarelGott (60932)
+Seat 5: DiaBoLiK45 (13581)
+Seat 6: Fougezer (69199)
+Seat 7: 30pierre (38376)
+Seat 8: trucagemagiq (72896)
+*** ANTE/BLINDS ***
+Jobar323i posts ante 80
+MadameFish posts ante 80
+P1xel7 posts ante 80
+KarelGott posts ante 80
+DiaBoLiK45 posts ante 80
+Fougezer posts ante 80
+30pierre posts ante 80
+trucagemagiq posts ante 80
+Jobar323i posts small blind 400
+MadameFish posts big blind 800
+Dealt to P1xel7 [9d 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+KarelGott folds
+DiaBoLiK45 raises 12701 to 13501 and is all-in
+Fougezer folds
+30pierre folds
+trucagemagiq calls 13501
+Jobar323i folds
+MadameFish folds
+*** FLOP *** [Tc Ts 7d]
+*** TURN *** [Tc Ts 7d][Jd]
+*** RIVER *** [Tc Ts 7d Jd][7c]
+*** SHOW DOWN ***
+trucagemagiq shows [2d 2s] (Two pairs : Tens and 7)
+DiaBoLiK45 shows [Ah 4s] (Two pairs : Tens and 7)
+DiaBoLiK45 collected 28842 from pot
+*** SUMMARY ***
+Total pot 28842 | No rake
+Board: [Tc Ts 7d Jd 7c]
+Seat 5: DiaBoLiK45 showed [Ah 4s] and won 28842 with Two pairs : Tens and 7
+Seat 8: trucagemagiq (button) showed [2d 2s] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837441-184-1708117723 - Holdem no limit (80/400/800) - 2024/02/16 21:08:43 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #1 is the button
+Seat 1: Jobar323i (4960)
+Seat 2: MadameFish (1278)
+Seat 3: P1xel7 (20814)
+Seat 4: KarelGott (60852)
+Seat 5: DiaBoLiK45 (28842)
+Seat 6: Fougezer (69119)
+Seat 7: 30pierre (38296)
+Seat 8: trucagemagiq (59315)
+*** ANTE/BLINDS ***
+MadameFish posts ante 80
+P1xel7 posts ante 80
+Jobar323i posts ante 80
+KarelGott posts ante 80
+DiaBoLiK45 posts ante 80
+Fougezer posts ante 80
+30pierre posts ante 80
+trucagemagiq posts ante 80
+MadameFish posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [9d Kh]
+*** PRE-FLOP *** 
+KarelGott folds
+DiaBoLiK45 folds
+Fougezer folds
+30pierre folds
+trucagemagiq raises 58435 to 59235 and is all-in
+Jobar323i folds
+MadameFish folds
+P1xel7 folds
+trucagemagiq collected 61075 from pot
+*** SUMMARY ***
+Total pot 61075 | No rake
+Seat 8: trucagemagiq won 61075
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837441-185-1708117741 - Holdem no limit (80/400/800) - 2024/02/16 21:09:01 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #2 is the button
+Seat 1: Jobar323i (4880)
+Seat 2: MadameFish (798)
+Seat 3: P1xel7 (19934)
+Seat 4: KarelGott (60772)
+Seat 5: DiaBoLiK45 (28762)
+Seat 6: Fougezer (69039)
+Seat 7: 30pierre (38216)
+Seat 8: trucagemagiq (61075)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+KarelGott posts ante 80
+Jobar323i posts ante 80
+MadameFish posts ante 80
+DiaBoLiK45 posts ante 80
+Fougezer posts ante 80
+30pierre posts ante 80
+trucagemagiq posts ante 80
+P1xel7 posts small blind 400
+KarelGott posts big blind 800
+Dealt to P1xel7 [Td Qs]
+*** PRE-FLOP *** 
+DiaBoLiK45 folds
+Fougezer raises 800 to 1600
+30pierre folds
+trucagemagiq folds
+Jobar323i folds
+MadameFish folds
+P1xel7 calls 1200
+KarelGott calls 800
+*** FLOP *** [4s 2c Jh]
+P1xel7 checks
+KarelGott checks
+Fougezer bets 1904
+P1xel7 calls 1904
+KarelGott calls 1904
+*** TURN *** [4s 2c Jh][2h]
+P1xel7 checks
+KarelGott checks
+Fougezer checks
+*** RIVER *** [4s 2c Jh 2h][5s]
+P1xel7 bets 7249
+KarelGott raises 9201 to 16450
+Fougezer folds
+P1xel7 folds
+KarelGott collected 34851 from pot
+*** SUMMARY ***
+Total pot 34851 | No rake
+Board: [4s 2c Jh 2h 5s]
+Seat 4: KarelGott (big blind) won 34851
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837441-186-1708117823 - Holdem no limit (80/400/800) - 2024/02/16 21:10:23 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #3 is the button
+Seat 1: Jobar323i (4800)
+Seat 2: MadameFish (718)
+Seat 3: P1xel7 (9101)
+Seat 4: KarelGott (75589)
+Seat 5: DiaBoLiK45 (28682)
+Seat 6: Fougezer (65455)
+Seat 7: 30pierre (38136)
+Seat 8: trucagemagiq (60995)
+*** ANTE/BLINDS ***
+KarelGott posts ante 80
+DiaBoLiK45 posts ante 80
+Jobar323i posts ante 80
+MadameFish posts ante 80
+P1xel7 posts ante 80
+Fougezer posts ante 80
+30pierre posts ante 80
+trucagemagiq posts ante 80
+KarelGott posts small blind 400
+DiaBoLiK45 posts big blind 800
+Dealt to P1xel7 [7s 9h]
+*** PRE-FLOP *** 
+Fougezer folds
+30pierre folds
+trucagemagiq folds
+Jobar323i folds
+MadameFish folds
+P1xel7 folds
+KarelGott raises 1600 to 2400
+DiaBoLiK45 raises 26202 to 28602 and is all-in
+KarelGott folds
+DiaBoLiK45 collected 31642 from pot
+*** SUMMARY ***
+Total pot 31642 | No rake
+Seat 5: DiaBoLiK45 (big blind) won 31642
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837441-187-1708117853 - Holdem no limit (80/400/800) - 2024/02/16 21:10:53 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #4 is the button
+Seat 1: Jobar323i (4720)
+Seat 2: MadameFish (638)
+Seat 3: P1xel7 (9021)
+Seat 4: KarelGott (73109)
+Seat 5: DiaBoLiK45 (31642)
+Seat 6: Fougezer (65375)
+Seat 7: 30pierre (38056)
+Seat 8: trucagemagiq (60915)
+*** ANTE/BLINDS ***
+DiaBoLiK45 posts ante 80
+Fougezer posts ante 80
+Jobar323i posts ante 80
+MadameFish posts ante 80
+P1xel7 posts ante 80
+KarelGott posts ante 80
+30pierre posts ante 80
+trucagemagiq posts ante 80
+DiaBoLiK45 posts small blind 400
+Fougezer posts big blind 800
+Dealt to P1xel7 [4d 5d]
+*** PRE-FLOP *** 
+30pierre folds
+trucagemagiq raises 1600 to 2400
+Jobar323i raises 2240 to 4640 and is all-in
+MadameFish folds
+P1xel7 folds
+KarelGott folds
+DiaBoLiK45 folds
+Fougezer folds
+trucagemagiq calls 2240
+*** FLOP *** [Kc 7d 3d]
+*** TURN *** [Kc 7d 3d][Ks]
+*** RIVER *** [Kc 7d 3d Ks][Js]
+*** SHOW DOWN ***
+Jobar323i shows [Ac 8d] (One pair : Kings)
+trucagemagiq shows [Ah Kd] (Trips of Kings)
+trucagemagiq collected 11120 from pot
+*** SUMMARY ***
+Total pot 11120 | No rake
+Board: [Kc 7d 3d Ks Js]
+Seat 1: Jobar323i showed [Ac 8d] and lost with One pair : Kings
+Seat 8: trucagemagiq showed [Ah Kd] and won 11120 with Trips of Kings
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837441-188-1708117878 - Holdem no limit (80/400/800) - 2024/02/16 21:11:18 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #5 is the button
+Seat 2: MadameFish (558)
+Seat 3: P1xel7 (8941)
+Seat 4: KarelGott (73029)
+Seat 5: DiaBoLiK45 (31162)
+Seat 6: Fougezer (64495)
+Seat 7: 30pierre (37976)
+Seat 8: trucagemagiq (67315)
+*** ANTE/BLINDS ***
+Fougezer posts ante 80
+30pierre posts ante 80
+MadameFish posts ante 80
+P1xel7 posts ante 80
+KarelGott posts ante 80
+DiaBoLiK45 posts ante 80
+trucagemagiq posts ante 80
+Fougezer posts small blind 400
+30pierre posts big blind 800
+Dealt to P1xel7 [8d 6h]
+*** PRE-FLOP *** 
+trucagemagiq folds
+MadameFish folds
+P1xel7 folds
+KarelGott folds
+DiaBoLiK45 folds
+Fougezer raises 1600 to 2400
+30pierre folds
+Fougezer collected 3760 from pot
+*** SUMMARY ***
+Total pot 3760 | No rake
+Seat 6: Fougezer (small blind) won 3760
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837441-189-1708117904 - Holdem no limit (80/400/800) - 2024/02/16 21:11:44 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #6 is the button
+Seat 2: MadameFish (478)
+Seat 3: P1xel7 (8861)
+Seat 4: KarelGott (72949)
+Seat 5: DiaBoLiK45 (31082)
+Seat 6: Fougezer (65775)
+Seat 7: 30pierre (37096)
+Seat 8: trucagemagiq (67235)
+*** ANTE/BLINDS ***
+30pierre posts ante 80
+trucagemagiq posts ante 80
+MadameFish posts ante 80
+P1xel7 posts ante 80
+KarelGott posts ante 80
+DiaBoLiK45 posts ante 80
+Fougezer posts ante 80
+30pierre posts small blind 400
+trucagemagiq posts big blind 800
+Dealt to P1xel7 [3c 7c]
+*** PRE-FLOP *** 
+MadameFish folds
+P1xel7 folds
+KarelGott folds
+DiaBoLiK45 folds
+Fougezer folds
+30pierre folds
+trucagemagiq collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Seat 8: trucagemagiq (big blind) won 1760
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 15 - HandId: #3201975493003837441-190-1708117916 - Holdem no limit (80/400/800) - 2024/02/16 21:11:56 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #7 is the button
+Seat 2: MadameFish (398)
+Seat 3: P1xel7 (8781)
+Seat 4: KarelGott (72869)
+Seat 5: DiaBoLiK45 (31002)
+Seat 6: Fougezer (65695)
+Seat 7: 30pierre (36616)
+Seat 8: trucagemagiq (68115)
+*** ANTE/BLINDS ***
+trucagemagiq posts ante 80
+MadameFish posts ante 80
+P1xel7 posts ante 80
+KarelGott posts ante 80
+DiaBoLiK45 posts ante 80
+Fougezer posts ante 80
+30pierre posts ante 80
+trucagemagiq posts small blind 400
+MadameFish posts big blind 318 and is all-in
+Dealt to P1xel7 [4h Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+KarelGott folds
+DiaBoLiK45 raises 1600 to 2000
+Fougezer folds
+30pierre folds
+trucagemagiq calls 1600
+*** FLOP *** [4s 9h 4d]
+trucagemagiq checks
+DiaBoLiK45 bets 1707
+trucagemagiq folds
+*** TURN *** [4s 9h 4d][Td]
+*** RIVER *** [4s 9h 4d Td][5c]
+*** SHOW DOWN ***
+MadameFish shows [2d 7d] (One pair : 4)
+DiaBoLiK45 shows [Ac Ah] (Two pairs : Aces and 4)
+DiaBoLiK45 collected 6585 from pot
+*** SUMMARY ***
+Total pot 6585 | No rake
+Board: [4s 9h 4d Td 5c]
+Seat 2: MadameFish (big blind) showed [2d 7d] and lost with One pair : 4
+Seat 5: DiaBoLiK45 showed [Ac Ah] and won 6585 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 16 - HandId: #3201975493003837441-191-1708117951 - Holdem no limit (100/500/1000) - 2024/02/16 21:12:31 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #8 is the button
+Seat 3: P1xel7 (8701)
+Seat 4: KarelGott (72789)
+Seat 5: DiaBoLiK45 (33800)
+Seat 6: Fougezer (65615)
+Seat 7: 30pierre (36536)
+Seat 8: trucagemagiq (66035)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+KarelGott posts ante 100
+DiaBoLiK45 posts ante 100
+Fougezer posts ante 100
+30pierre posts ante 100
+trucagemagiq posts ante 100
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Jh 8s]
+*** PRE-FLOP *** 
+KarelGott folds
+DiaBoLiK45 raises 1000 to 2000
+Fougezer folds
+30pierre folds
+trucagemagiq calls 2000
+P1xel7 calls 1000
+*** FLOP *** [6s 3h 2h]
+P1xel7 checks
+DiaBoLiK45 checks
+trucagemagiq checks
+*** TURN *** [6s 3h 2h][2c]
+P1xel7 checks
+DiaBoLiK45 checks
+trucagemagiq bets 6600
+P1xel7 folds
+DiaBoLiK45 folds
+trucagemagiq collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | No rake
+Board: [6s 3h 2h 2c]
+Seat 8: trucagemagiq (button) won 13200
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 16 - HandId: #3201975493003837441-192-1708117990 - Holdem no limit (100/500/1000) - 2024/02/16 21:13:10 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #2 is the button
+Seat 1: funky_400197 (1197)
+Seat 2: carbono22 (23940)
+Seat 3: P1xel7 (6601)
+Seat 4: KarelGott (72689)
+Seat 5: DiaBoLiK45 (31700)
+Seat 6: Fougezer (65515)
+Seat 7: 30pierre (36436)
+Seat 8: trucagemagiq (70535)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+KarelGott posts ante 100
+funky_400197 posts ante 100
+DiaBoLiK45 posts ante 100
+Fougezer posts ante 100
+30pierre posts ante 100
+trucagemagiq posts ante 100
+P1xel7 posts small blind 500
+KarelGott posts big blind 1000
+Dealt to P1xel7 [6h 2h]
+*** PRE-FLOP *** 
+DiaBoLiK45 raises 1000 to 2000
+Fougezer calls 2000
+30pierre folds
+trucagemagiq calls 2000
+funky_400197 folds
+P1xel7 folds
+KarelGott calls 1000
+*** FLOP *** [5s 3d Qh]
+KarelGott checks
+DiaBoLiK45 checks
+Fougezer checks
+trucagemagiq checks
+*** TURN *** [5s 3d Qh][5c]
+KarelGott bets 3220
+DiaBoLiK45 folds
+Fougezer calls 3220
+trucagemagiq folds
+*** RIVER *** [5s 3d Qh 5c][Th]
+KarelGott bets 5474
+Fougezer calls 5474
+*** SHOW DOWN ***
+KarelGott shows [8c 4h] (One pair : 5)
+Fougezer shows [Qs Jc] (Two pairs : Queens and 5)
+Fougezer collected 26588 from pot
+*** SUMMARY ***
+Total pot 26588 | No rake
+Board: [5s 3d Qh 5c Th]
+Seat 4: KarelGott (big blind) showed [8c 4h] and lost with One pair : 5
+Seat 6: Fougezer showed [Qs Jc] and won 26588 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 16 - HandId: #3201975493003837441-193-1708118074 - Holdem no limit (100/500/1000) - 2024/02/16 21:14:34 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #3 is the button
+Seat 1: funky_400197 (1097)
+Seat 2: carbono22 (23940)
+Seat 3: P1xel7 (6001)
+Seat 4: KarelGott (61895)
+Seat 5: DiaBoLiK45 (29600)
+Seat 6: Fougezer (81309)
+Seat 7: 30pierre (36336)
+Seat 8: trucagemagiq (68435)
+*** ANTE/BLINDS ***
+KarelGott posts ante 100
+DiaBoLiK45 posts ante 100
+funky_400197 posts ante 100
+carbono22 posts ante 100
+P1xel7 posts ante 100
+Fougezer posts ante 100
+30pierre posts ante 100
+trucagemagiq posts ante 100
+KarelGott posts small blind 500
+DiaBoLiK45 posts big blind 1000
+Dealt to P1xel7 [6c Qh]
+*** PRE-FLOP *** 
+Fougezer folds
+30pierre raises 1500 to 2500
+trucagemagiq folds
+funky_400197 folds
+carbono22 calls 2500
+P1xel7 folds
+KarelGott folds
+DiaBoLiK45 folds
+*** FLOP *** [Ts 6d Tc]
+30pierre checks
+carbono22 bets 2555
+30pierre calls 2555
+*** TURN *** [Ts 6d Tc][9h]
+30pierre checks
+carbono22 bets 18785 and is all-in
+30pierre raises 12396 to 31181 and is all-in
+*** RIVER *** [Ts 6d Tc 9h][Ks]
+*** SHOW DOWN ***
+carbono22 shows [Qs Jd] (Straight King high)
+30pierre shows [Ad Td] (Trips of Tens)
+30pierre collected 12396 from side pot 1
+carbono22 collected 49980 from main pot
+*** SUMMARY ***
+Total pot 62376 | No rake
+Board: [Ts 6d Tc 9h Ks]
+Seat 2: carbono22 showed [Qs Jd] and won 49980 with Straight King high
+Seat 7: 30pierre showed [Ad Td] and won 12396 with Trips of Tens
+
+
+Winamax Poker - Tournament "Tremplin Paris" buyIn: 0€ + 0€ level: 16 - HandId: #3201975493003837441-194-1708118125 - Holdem no limit (100/500/1000) - 2024/02/16 21:15:25 UTC
+Table: 'Tremplin Paris(745518015)#0000' 8-max (real money) Seat #4 is the button
+Seat 1: funky_400197 (997)
+Seat 2: carbono22 (49980)
+Seat 3: P1xel7 (5901)
+Seat 4: KarelGott (61295)
+Seat 5: DiaBoLiK45 (28500)
+Seat 6: Fougezer (81209)
+Seat 7: 30pierre (12396)
+Seat 8: trucagemagiq (68335)
+*** ANTE/BLINDS ***
+DiaBoLiK45 posts ante 100
+Fougezer posts ante 100
+funky_400197 posts ante 100
+carbono22 posts ante 100
+P1xel7 posts ante 100
+KarelGott posts ante 100
+30pierre posts ante 100
+trucagemagiq posts ante 100
+DiaBoLiK45 posts small blind 500
+Fougezer posts big blind 1000
+Dealt to P1xel7 [As 5d]
+*** PRE-FLOP *** 
+30pierre folds
+trucagemagiq folds
+funky_400197 calls 897 and is all-in
+carbono22 folds
+P1xel7 raises 4801 to 5801 and is all-in
+KarelGott raises 8702 to 14503
+DiaBoLiK45 folds
+Fougezer folds
+*** FLOP *** [Kh Th 4h]
+*** TURN *** [Kh Th 4h][8s]
+*** RIVER *** [Kh Th 4h 8s][Qh]
+*** SHOW DOWN ***
+funky_400197 shows [Qd 9d] (One pair : Queens)
+P1xel7 shows [As 5d] (High card : Ace)
+KarelGott shows [Js Jh] (Flush King high)
+KarelGott collected 23501 from pot
+*** SUMMARY ***
+Total pot 23501 | No rake
+Board: [Kh Th 4h 8s Qh]
+Seat 1: funky_400197 showed [Qd 9d] and lost with One pair : Queens
+Seat 3: P1xel7 showed [As 5d] and lost with High card : Ace
+Seat 4: KarelGott (button) showed [Js Jh] and won 23501 with Flush King high
+
+

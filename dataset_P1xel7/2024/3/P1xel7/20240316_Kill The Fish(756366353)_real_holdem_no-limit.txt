@@ -1,0 +1,4670 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-8-1710607356 - Holdem no limit (25/100/200) - 2024/03/16 16:42:36 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: CPQL (20700, 0.11€ bounty)
+Seat 2: Lotta20147 (31725, 0.11€ bounty)
+Seat 3: Mr.Grieves (9382, 0.11€ bounty)
+Seat 4: Issa86 (14840, 0.11€ bounty)
+Seat 5: P1xel7 (20000, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (26503, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Issa86 posts ante 25
+P1xel7 posts ante 25
+CPQL posts ante 25
+Lotta20147 posts ante 25
+Mr.Grieves posts ante 25
+X-PaPrIkA-X posts ante 25
+Issa86 posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Jh 6c]
+*** PRE-FLOP *** 
+X-PaPrIkA-X folds
+CPQL folds
+Lotta20147 folds
+Mr.Grieves folds
+Issa86 calls 100
+P1xel7 checks
+*** FLOP *** [9h Jc Ts]
+Issa86 checks
+P1xel7 bets 358
+Issa86 folds
+P1xel7 collected 908 from pot
+*** SUMMARY ***
+Total pot 908 | No rake
+Board: [9h Jc Ts]
+Seat 5: P1xel7 (big blind) won 908
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-9-1710607398 - Holdem no limit (25/100/200) - 2024/03/16 16:43:18 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 2: Lotta20147 (31700, 0.11€ bounty)
+Seat 3: Mr.Grieves (9357, 0.11€ bounty)
+Seat 4: Issa86 (14615, 0.11€ bounty)
+Seat 5: P1xel7 (20325, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (26478, 0.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+X-PaPrIkA-X posts ante 25
+Lotta20147 posts ante 25
+Mr.Grieves posts ante 25
+Issa86 posts ante 25
+P1xel7 posts small blind 100
+X-PaPrIkA-X posts big blind 200
+Dealt to P1xel7 [7s Ad]
+*** PRE-FLOP *** 
+Lotta20147 calls 200
+Mr.Grieves folds
+Issa86 calls 200
+P1xel7 calls 100
+X-PaPrIkA-X checks
+*** FLOP *** [8h Qh 6d]
+P1xel7 checks
+X-PaPrIkA-X checks
+Lotta20147 checks
+Issa86 checks
+*** TURN *** [8h Qh 6d][2h]
+P1xel7 checks
+X-PaPrIkA-X checks
+Lotta20147 checks
+Issa86 bets 925
+P1xel7 folds
+X-PaPrIkA-X calls 925
+Lotta20147 calls 925
+*** RIVER *** [8h Qh 6d 2h][6c]
+X-PaPrIkA-X checks
+Lotta20147 checks
+Issa86 checks
+*** SHOW DOWN ***
+Lotta20147 shows [8c Jh] (Two pairs : 8 and 6)
+Issa86 shows [Td 2c] (Two pairs : 6 and 2)
+X-PaPrIkA-X shows [Qs 3s] (Two pairs : Queens and 6)
+X-PaPrIkA-X collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Board: [8h Qh 6d 2h 6c]
+Seat 2: Lotta20147 showed [8c Jh] and lost with Two pairs : 8 and 6
+Seat 4: Issa86 (button) showed [Td 2c] and lost with Two pairs : 6 and 2
+Seat 6: X-PaPrIkA-X (big blind) showed [Qs 3s] and won 3700 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-10-1710607458 - Holdem no limit (25/100/200) - 2024/03/16 16:44:18 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: rob19789 (20000, 0.11€ bounty)
+Seat 2: Lotta20147 (30550, 0.11€ bounty)
+Seat 3: Mr.Grieves (9332, 0.11€ bounty)
+Seat 4: Issa86 (13465, 0.11€ bounty)
+Seat 5: P1xel7 (20100, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (29028, 0.11€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 25
+rob19789 posts ante 25
+Lotta20147 posts ante 25
+Mr.Grieves posts ante 25
+Issa86 posts ante 25
+P1xel7 posts ante 25
+X-PaPrIkA-X posts small blind 100
+rob19789 posts big blind 200
+Dealt to P1xel7 [8c Ks]
+*** PRE-FLOP *** 
+Lotta20147 raises 300 to 500
+Mr.Grieves calls 500
+Issa86 calls 500
+P1xel7 folds
+X-PaPrIkA-X raises 1000 to 1500
+rob19789 folds
+Lotta20147 calls 1000
+Mr.Grieves calls 1000
+Issa86 calls 1000
+*** FLOP *** [Kc 4s 3d]
+X-PaPrIkA-X checks
+Lotta20147 checks
+Mr.Grieves checks
+Issa86 checks
+*** TURN *** [Kc 4s 3d][Ad]
+X-PaPrIkA-X checks
+Lotta20147 checks
+Mr.Grieves checks
+Issa86 checks
+*** RIVER *** [Kc 4s 3d Ad][5h]
+X-PaPrIkA-X checks
+Lotta20147 checks
+Mr.Grieves checks
+Issa86 checks
+*** SHOW DOWN ***
+Mr.Grieves shows [Qs Jd] (High card : Ace)
+Issa86 shows [8d 6d] (High card : Ace)
+X-PaPrIkA-X shows [9s 9h] (One pair : 9)
+Lotta20147 shows [Qd Kh] (One pair : Kings)
+Lotta20147 collected 6350 from pot
+*** SUMMARY ***
+Total pot 6350 | No rake
+Board: [Kc 4s 3d Ad 5h]
+Seat 2: Lotta20147 showed [Qd Kh] and won 6350 with One pair : Kings
+Seat 3: Mr.Grieves showed [Qs Jd] and lost with High card : Ace
+Seat 4: Issa86 showed [8d 6d] and lost with High card : Ace
+Seat 6: X-PaPrIkA-X (small blind) showed [9s 9h] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-11-1710607527 - Holdem no limit (25/100/200) - 2024/03/16 16:45:27 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: rob19789 (19775, 0.11€ bounty)
+Seat 2: Lotta20147 (35375, 0.11€ bounty)
+Seat 3: Mr.Grieves (7807, 0.11€ bounty)
+Seat 4: Issa86 (11940, 0.11€ bounty)
+Seat 5: P1xel7 (20075, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (27503, 0.11€ bounty)
+*** ANTE/BLINDS ***
+rob19789 posts ante 25
+Lotta20147 posts ante 25
+Mr.Grieves posts ante 25
+Issa86 posts ante 25
+P1xel7 posts ante 25
+X-PaPrIkA-X posts ante 25
+rob19789 posts small blind 100
+Lotta20147 posts big blind 200
+Dealt to P1xel7 [Td 8c]
+*** PRE-FLOP *** 
+Mr.Grieves folds
+Issa86 folds
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 2: Lotta20147 (big blind) won 450
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-12-1710607541 - Holdem no limit (25/100/200) - 2024/03/16 16:45:41 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: rob19789 (19650, 0.11€ bounty)
+Seat 2: Lotta20147 (35600, 0.11€ bounty)
+Seat 3: Mr.Grieves (7782, 0.11€ bounty)
+Seat 4: Issa86 (11915, 0.11€ bounty)
+Seat 5: P1xel7 (20050, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (27478, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Lotta20147 posts ante 25
+Mr.Grieves posts ante 25
+rob19789 posts ante 25
+Issa86 posts ante 25
+P1xel7 posts ante 25
+X-PaPrIkA-X posts ante 25
+Lotta20147 posts small blind 100
+Mr.Grieves posts big blind 200
+Dealt to P1xel7 [Js 8s]
+*** PRE-FLOP *** 
+Issa86 calls 200
+P1xel7 folds
+X-PaPrIkA-X raises 500 to 700
+rob19789 folds
+Lotta20147 folds
+Mr.Grieves folds
+Issa86 calls 500
+*** FLOP *** [As Kd 4s]
+Issa86 checks
+X-PaPrIkA-X bets 800
+Issa86 calls 800
+*** TURN *** [As Kd 4s][6h]
+Issa86 checks
+X-PaPrIkA-X bets 2243
+Issa86 folds
+X-PaPrIkA-X collected 5693 from pot
+*** SUMMARY ***
+Total pot 5693 | No rake
+Board: [As Kd 4s 6h]
+Seat 6: X-PaPrIkA-X won 5693
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-13-1710607601 - Holdem no limit (25/100/200) - 2024/03/16 16:46:41 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: rob19789 (19625, 0.11€ bounty)
+Seat 2: Lotta20147 (35475, 0.11€ bounty)
+Seat 3: Mr.Grieves (7557, 0.11€ bounty)
+Seat 4: Issa86 (10390, 0.11€ bounty)
+Seat 5: P1xel7 (20025, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (29403, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Mr.Grieves posts ante 25
+Issa86 posts ante 25
+rob19789 posts ante 25
+Lotta20147 posts ante 25
+P1xel7 posts ante 25
+X-PaPrIkA-X posts ante 25
+Mr.Grieves posts small blind 100
+Issa86 posts big blind 200
+Dealt to P1xel7 [8d 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 calls 200
+Mr.Grieves calls 100
+Issa86 checks
+*** FLOP *** [9s 2h 2s]
+Mr.Grieves checks
+Issa86 checks
+Lotta20147 checks
+*** TURN *** [9s 2h 2s][Qd]
+Mr.Grieves checks
+Issa86 bets 750
+Lotta20147 calls 750
+Mr.Grieves folds
+*** RIVER *** [9s 2h 2s Qd][4c]
+Issa86 checks
+Lotta20147 checks
+*** SHOW DOWN ***
+Lotta20147 shows [6s 6d] (Two pairs : 6 and 2)
+Issa86 shows [Ah 9d] (Two pairs : 9 and 2)
+Issa86 collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | No rake
+Board: [9s 2h 2s Qd 4c]
+Seat 2: Lotta20147 (button) showed [6s 6d] and lost with Two pairs : 6 and 2
+Seat 4: Issa86 (big blind) showed [Ah 9d] and won 2250 with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-14-1710607665 - Holdem no limit (25/100/200) - 2024/03/16 16:47:45 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: rob19789 (19600, 0.11€ bounty)
+Seat 2: Lotta20147 (34500, 0.11€ bounty)
+Seat 3: Mr.Grieves (7332, 0.11€ bounty)
+Seat 4: Issa86 (11665, 0.11€ bounty)
+Seat 5: P1xel7 (20000, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (29378, 0.11€ bounty)
+*** ANTE/BLINDS ***
+Issa86 posts ante 25
+P1xel7 posts ante 25
+rob19789 posts ante 25
+Lotta20147 posts ante 25
+Mr.Grieves posts ante 25
+X-PaPrIkA-X posts ante 25
+Issa86 posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [As 3d]
+*** PRE-FLOP *** 
+X-PaPrIkA-X folds
+rob19789 calls 200
+Lotta20147 calls 200
+Mr.Grieves folds
+Issa86 calls 100
+P1xel7 checks
+*** FLOP *** [2d 4d 4c]
+Issa86 checks
+P1xel7 checks
+rob19789 checks
+Lotta20147 checks
+*** TURN *** [2d 4d 4c][4s]
+Issa86 checks
+P1xel7 checks
+rob19789 bets 950
+Lotta20147 calls 950
+Issa86 folds
+P1xel7 calls 950
+*** RIVER *** [2d 4d 4c 4s][8h]
+P1xel7 checks
+rob19789 bets 950
+Lotta20147 folds
+P1xel7 calls 950
+*** SHOW DOWN ***
+P1xel7 shows [As 3d] (Trips of 4)
+rob19789 shows [2s Js] (Full of 4 and 2)
+rob19789 collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | No rake
+Board: [2d 4d 4c 4s 8h]
+Seat 1: rob19789 showed [2s Js] and won 5700 with Full of 4 and 2
+Seat 5: P1xel7 (big blind) showed [As 3d] and lost with Trips of 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-15-1710607759 - Holdem no limit (25/100/200) - 2024/03/16 16:49:19 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: rob19789 (23175, 0.11€ bounty)
+Seat 2: Lotta20147 (33325, 0.11€ bounty)
+Seat 3: Mr.Grieves (7307, 0.11€ bounty)
+Seat 4: Issa86 (11440, 0.11€ bounty)
+Seat 5: P1xel7 (17875, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (29353, 0.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+X-PaPrIkA-X posts ante 25
+rob19789 posts ante 25
+Lotta20147 posts ante 25
+Mr.Grieves posts ante 25
+Issa86 posts ante 25
+P1xel7 posts small blind 100
+X-PaPrIkA-X posts big blind 200
+Dealt to P1xel7 [Ah 3c]
+*** PRE-FLOP *** 
+rob19789 folds
+Lotta20147 calls 200
+Mr.Grieves calls 200
+Issa86 raises 11215 to 11415 and is all-in
+P1xel7 folds
+X-PaPrIkA-X calls 11215
+Lotta20147 folds
+Mr.Grieves calls 7082 and is all-in
+*** FLOP *** [9s 4c 7s]
+*** TURN *** [9s 4c 7s][Qh]
+*** RIVER *** [9s 4c 7s Qh][Qc]
+*** SHOW DOWN ***
+Mr.Grieves shows [Kc 6h] (One pair : Queens)
+Issa86 shows [Ad Ks] (One pair : Queens)
+X-PaPrIkA-X shows [Js Jd] (Two pairs : Queens and Jacks)
+X-PaPrIkA-X collected 30562 from pot
+*** SUMMARY ***
+Total pot 30562 | No rake
+Board: [9s 4c 7s Qh Qc]
+Seat 3: Mr.Grieves showed [Kc 6h] and lost with One pair : Queens
+Seat 4: Issa86 (button) showed [Ad Ks] and lost with One pair : Queens
+Seat 6: X-PaPrIkA-X (big blind) showed [Js Jd] and won 30562 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-16-1710607794 - Holdem no limit (25/100/200) - 2024/03/16 16:49:54 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: rob19789 (23150, 0.11€ bounty)
+Seat 2: Lotta20147 (33100, 0.11€ bounty)
+Seat 5: P1xel7 (17750, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (48475, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 25
+rob19789 posts ante 25
+Lotta20147 posts ante 25
+P1xel7 posts ante 25
+X-PaPrIkA-X posts small blind 100
+rob19789 posts big blind 200
+Dealt to P1xel7 [7h 2d]
+*** PRE-FLOP *** 
+Lotta20147 folds
+P1xel7 folds
+X-PaPrIkA-X raises 300 to 500
+rob19789 calls 300
+*** FLOP *** [2h 8h Kc]
+X-PaPrIkA-X bets 715
+rob19789 raises 2530 to 3245
+X-PaPrIkA-X folds
+rob19789 collected 5060 from pot
+*** SUMMARY ***
+Total pot 5060 | No rake
+Board: [2h 8h Kc]
+Seat 1: rob19789 (big blind) won 5060
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-17-1710607835 - Holdem no limit (25/100/200) - 2024/03/16 16:50:35 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: rob19789 (24440, 0.11€ bounty)
+Seat 2: Lotta20147 (33075, 0.11€ bounty)
+Seat 3: liloelo (20000, 0.11€ bounty)
+Seat 4: GinollicA86 (27095, 0.11€ bounty)
+Seat 5: P1xel7 (17725, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (47235, 0.21€ bounty)
+*** ANTE/BLINDS ***
+rob19789 posts ante 25
+Lotta20147 posts ante 25
+liloelo posts ante 25
+GinollicA86 posts ante 25
+P1xel7 posts ante 25
+X-PaPrIkA-X posts ante 25
+rob19789 posts small blind 100
+Lotta20147 posts big blind 200
+Dealt to P1xel7 [6d 5d]
+*** PRE-FLOP *** 
+liloelo folds
+GinollicA86 folds
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 calls 100
+Lotta20147 checks
+*** FLOP *** [Kh 3d Ah]
+rob19789 checks
+Lotta20147 checks
+*** TURN *** [Kh 3d Ah][9h]
+rob19789 checks
+Lotta20147 checks
+*** RIVER *** [Kh 3d Ah 9h][Td]
+rob19789 checks
+Lotta20147 checks
+*** SHOW DOWN ***
+rob19789 shows [Jh 8s] (High card : Ace)
+Lotta20147 shows [Jd 2h] (High card : Ace)
+Lotta20147 collected 275 from pot
+rob19789 collected 275 from pot
+*** SUMMARY ***
+Total pot 550 | No rake
+Board: [Kh 3d Ah 9h Td]
+Seat 1: rob19789 (small blind) showed [Jh 8s] and won 275 with High card : Ace
+Seat 2: Lotta20147 (big blind) showed [Jd 2h] and won 275 with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-18-1710607862 - Holdem no limit (25/100/200) - 2024/03/16 16:51:02 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: rob19789 (24490, 0.11€ bounty)
+Seat 2: Lotta20147 (33125, 0.11€ bounty)
+Seat 3: liloelo (19975, 0.11€ bounty)
+Seat 4: GinollicA86 (27070, 0.11€ bounty)
+Seat 5: P1xel7 (17700, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (47210, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Lotta20147 posts ante 25
+liloelo posts ante 25
+rob19789 posts ante 25
+GinollicA86 posts ante 25
+P1xel7 posts ante 25
+X-PaPrIkA-X posts ante 25
+Lotta20147 posts small blind 100
+liloelo posts big blind 200
+Dealt to P1xel7 [2h 2s]
+*** PRE-FLOP *** 
+GinollicA86 folds
+P1xel7 raises 300 to 500
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 folds
+liloelo calls 300
+*** FLOP *** [4s Qh Kd]
+liloelo bets 200
+P1xel7 calls 200
+*** TURN *** [4s Qh Kd][Qs]
+liloelo bets 200
+P1xel7 calls 200
+*** RIVER *** [4s Qh Kd Qs][3c]
+liloelo bets 200
+P1xel7 calls 200
+*** SHOW DOWN ***
+P1xel7 shows [2h 2s] (Two pairs : Queens and 2)
+liloelo shows [Js Ks] (Two pairs : Kings and Queens)
+liloelo collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | No rake
+Board: [4s Qh Kd Qs 3c]
+Seat 3: liloelo (big blind) showed [Js Ks] and won 2450 with Two pairs : Kings and Queens
+Seat 5: P1xel7 showed [2h 2s] and lost with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-19-1710607894 - Holdem no limit (25/100/200) - 2024/03/16 16:51:34 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: rob19789 (24465, 0.11€ bounty)
+Seat 2: Lotta20147 (33000, 0.11€ bounty)
+Seat 3: liloelo (21300, 0.11€ bounty)
+Seat 4: GinollicA86 (27045, 0.11€ bounty)
+Seat 5: P1xel7 (16575, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (47185, 0.21€ bounty)
+*** ANTE/BLINDS ***
+liloelo posts ante 25
+GinollicA86 posts ante 25
+rob19789 posts ante 25
+Lotta20147 posts ante 25
+P1xel7 posts ante 25
+X-PaPrIkA-X posts ante 25
+liloelo posts small blind 100
+GinollicA86 posts big blind 200
+Dealt to P1xel7 [Kd 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 folds
+liloelo calls 100
+GinollicA86 raises 400 to 600
+liloelo calls 400
+*** FLOP *** [3h 3d Ac]
+liloelo checks
+GinollicA86 checks
+*** TURN *** [3h 3d Ac][Ad]
+liloelo checks
+GinollicA86 checks
+*** RIVER *** [3h 3d Ac Ad][7c]
+liloelo checks
+GinollicA86 bets 1350
+liloelo folds
+GinollicA86 collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Board: [3h 3d Ac Ad 7c]
+Seat 4: GinollicA86 (big blind) won 2700
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-20-1710607947 - Holdem no limit (25/100/200) - 2024/03/16 16:52:27 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: rob19789 (24440, 0.11€ bounty)
+Seat 2: Lotta20147 (32975, 0.11€ bounty)
+Seat 3: liloelo (20675, 0.11€ bounty)
+Seat 4: GinollicA86 (27770, 0.11€ bounty)
+Seat 5: P1xel7 (16550, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (47160, 0.21€ bounty)
+*** ANTE/BLINDS ***
+GinollicA86 posts ante 25
+P1xel7 posts ante 25
+rob19789 posts ante 25
+Lotta20147 posts ante 25
+liloelo posts ante 25
+X-PaPrIkA-X posts ante 25
+GinollicA86 posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Jc 3d]
+*** PRE-FLOP *** 
+X-PaPrIkA-X folds
+rob19789 calls 200
+Lotta20147 folds
+liloelo calls 200
+GinollicA86 calls 100
+P1xel7 checks
+*** FLOP *** [9c 9h 3s]
+GinollicA86 checks
+P1xel7 checks
+rob19789 checks
+liloelo checks
+*** TURN *** [9c 9h 3s][9d]
+GinollicA86 checks
+P1xel7 bets 300
+rob19789 folds
+liloelo raises 300 to 600
+GinollicA86 folds
+P1xel7 calls 300
+*** RIVER *** [9c 9h 3s 9d][Kc]
+P1xel7 bets 2150
+liloelo raises 2150 to 4300
+P1xel7 calls 2150
+*** SHOW DOWN ***
+P1xel7 shows [Jc 3d] (Full of 9 and 3)
+liloelo shows [9s 8d] (Quads of 9)
+liloelo collected 10750 from pot
+*** SUMMARY ***
+Total pot 10750 | No rake
+Board: [9c 9h 3s 9d Kc]
+Seat 3: liloelo (button) showed [9s 8d] and won 10750 with Quads of 9
+Seat 5: P1xel7 (big blind) showed [Jc 3d] and lost with Full of 9 and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #3248568749929791526-21-1710608025 - Holdem no limit (25/100/200) - 2024/03/16 16:53:45 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: rob19789 (24215, 0.11€ bounty)
+Seat 2: Lotta20147 (32950, 0.11€ bounty)
+Seat 3: liloelo (26300, 0.11€ bounty)
+Seat 4: GinollicA86 (27545, 0.11€ bounty)
+Seat 5: P1xel7 (11425, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (47135, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+X-PaPrIkA-X posts ante 25
+rob19789 posts ante 25
+Lotta20147 posts ante 25
+liloelo posts ante 25
+GinollicA86 posts ante 25
+P1xel7 posts small blind 100
+X-PaPrIkA-X posts big blind 200
+Dealt to P1xel7 [5c 5h]
+*** PRE-FLOP *** 
+rob19789 folds
+Lotta20147 raises 400 to 600
+liloelo calls 600
+GinollicA86 calls 600
+P1xel7 calls 500
+X-PaPrIkA-X folds
+*** FLOP *** [Kc 3h Jh]
+P1xel7 checks
+Lotta20147 checks
+liloelo checks
+GinollicA86 bets 688
+P1xel7 folds
+Lotta20147 calls 688
+liloelo calls 688
+*** TURN *** [Kc 3h Jh][4d]
+Lotta20147 checks
+liloelo checks
+GinollicA86 bets 1204
+Lotta20147 calls 1204
+liloelo folds
+*** RIVER *** [Kc 3h Jh 4d][Ah]
+Lotta20147 bets 4694
+GinollicA86 folds
+Lotta20147 shows [Jd Jc] (Trips of Jacks)
+Lotta20147 collected 11916 from pot
+*** SUMMARY ***
+Total pot 11916 | No rake
+Board: [Kc 3h Jh 4d Ah]
+Seat 2: Lotta20147 showed [Jd Jc] and won 11916 with Trips of Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #3248568749929791526-22-1710608460 - Holdem no limit (30/125/250) - 2024/03/16 17:01:00 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: rob19789 (24190, 0.11€ bounty)
+Seat 2: Lotta20147 (37655, 0.11€ bounty)
+Seat 3: liloelo (24987, 0.11€ bounty)
+Seat 4: GinollicA86 (25028, 0.11€ bounty)
+Seat 5: P1xel7 (10800, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (46910, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 30
+rob19789 posts ante 30
+Lotta20147 posts ante 30
+liloelo posts ante 30
+GinollicA86 posts ante 30
+P1xel7 posts ante 30
+X-PaPrIkA-X posts small blind 125
+rob19789 posts big blind 250
+Dealt to P1xel7 [6h 2s]
+*** PRE-FLOP *** 
+Lotta20147 calls 250
+liloelo folds
+GinollicA86 raises 500 to 750
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 calls 500
+*** FLOP *** [9c 4d 6c]
+Lotta20147 checks
+GinollicA86 bets 514
+Lotta20147 calls 514
+*** TURN *** [9c 4d 6c][Tc]
+Lotta20147 checks
+GinollicA86 bets 1542
+Lotta20147 calls 1542
+*** RIVER *** [9c 4d 6c Tc][Jd]
+Lotta20147 checks
+GinollicA86 checks
+*** SHOW DOWN ***
+Lotta20147 shows [8h 8d] (One pair : 8)
+GinollicA86 shows [Th Ac] (One pair : Tens)
+GinollicA86 collected 6167 from pot
+*** SUMMARY ***
+Total pot 6167 | No rake
+Board: [9c 4d 6c Tc Jd]
+Seat 2: Lotta20147 showed [8h 8d] and lost with One pair : 8
+Seat 4: GinollicA86 showed [Th Ac] and won 6167 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #3248568749929791526-23-1710608512 - Holdem no limit (30/125/250) - 2024/03/16 17:01:52 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: rob19789 (23910, 0.11€ bounty)
+Seat 2: Lotta20147 (34819, 0.11€ bounty)
+Seat 3: liloelo (24957, 0.11€ bounty)
+Seat 4: GinollicA86 (28359, 0.11€ bounty)
+Seat 5: P1xel7 (10770, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (46755, 0.21€ bounty)
+*** ANTE/BLINDS ***
+rob19789 posts ante 30
+Lotta20147 posts ante 30
+liloelo posts ante 30
+GinollicA86 posts ante 30
+P1xel7 posts ante 30
+X-PaPrIkA-X posts ante 30
+rob19789 posts small blind 125
+Lotta20147 posts big blind 250
+Dealt to P1xel7 [7c As]
+*** PRE-FLOP *** 
+liloelo calls 250
+GinollicA86 folds
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 checks
+*** FLOP *** [8c 7s 4h]
+Lotta20147 checks
+liloelo bets 250
+Lotta20147 calls 250
+*** TURN *** [8c 7s 4h][6d]
+Lotta20147 checks
+liloelo checks
+*** RIVER *** [8c 7s 4h 6d][7h]
+Lotta20147 checks
+liloelo checks
+*** SHOW DOWN ***
+liloelo shows [Kd Ac] (One pair : 7)
+Lotta20147 shows [Jd 4c] (Two pairs : 7 and 4)
+Lotta20147 collected 1305 from pot
+*** SUMMARY ***
+Total pot 1305 | No rake
+Board: [8c 7s 4h 6d 7h]
+Seat 2: Lotta20147 (big blind) showed [Jd 4c] and won 1305 with Two pairs : 7 and 4
+Seat 3: liloelo showed [Kd Ac] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #3248568749929791526-24-1710608581 - Holdem no limit (30/125/250) - 2024/03/16 17:03:01 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: rob19789 (23755, 0.11€ bounty)
+Seat 2: Lotta20147 (35594, 0.11€ bounty)
+Seat 3: liloelo (24427, 0.11€ bounty)
+Seat 4: GinollicA86 (28329, 0.11€ bounty)
+Seat 5: P1xel7 (10740, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (46725, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Lotta20147 posts ante 30
+liloelo posts ante 30
+rob19789 posts ante 30
+GinollicA86 posts ante 30
+P1xel7 posts ante 30
+X-PaPrIkA-X posts ante 30
+Lotta20147 posts small blind 125
+liloelo posts big blind 250
+Dealt to P1xel7 [2c Ah]
+*** PRE-FLOP *** 
+GinollicA86 folds
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 calls 125
+liloelo checks
+*** FLOP *** [Kh 5s 3h]
+Lotta20147 checks
+liloelo checks
+*** TURN *** [Kh 5s 3h][4c]
+Lotta20147 checks
+liloelo checks
+*** RIVER *** [Kh 5s 3h 4c][5h]
+Lotta20147 checks
+liloelo checks
+*** SHOW DOWN ***
+liloelo shows [Js Ts] (One pair : 5)
+Lotta20147 shows [Ad 3d] (Two pairs : 5 and 3)
+Lotta20147 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | No rake
+Board: [Kh 5s 3h 4c 5h]
+Seat 2: Lotta20147 (small blind) showed [Ad 3d] and won 680 with Two pairs : 5 and 3
+Seat 3: liloelo (big blind) showed [Js Ts] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #3248568749929791526-25-1710608616 - Holdem no limit (30/125/250) - 2024/03/16 17:03:36 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: rob19789 (23725, 0.11€ bounty)
+Seat 2: Lotta20147 (35994, 0.11€ bounty)
+Seat 3: liloelo (24147, 0.11€ bounty)
+Seat 4: GinollicA86 (28299, 0.11€ bounty)
+Seat 5: P1xel7 (10710, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (46695, 0.21€ bounty)
+*** ANTE/BLINDS ***
+liloelo posts ante 30
+GinollicA86 posts ante 30
+rob19789 posts ante 30
+Lotta20147 posts ante 30
+P1xel7 posts ante 30
+X-PaPrIkA-X posts ante 30
+liloelo posts small blind 125
+GinollicA86 posts big blind 250
+Dealt to P1xel7 [4s Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+X-PaPrIkA-X raises 375 to 625
+rob19789 folds
+Lotta20147 calls 625
+liloelo folds
+GinollicA86 calls 375
+*** FLOP *** [5c 9s 7d]
+GinollicA86 checks
+X-PaPrIkA-X checks
+Lotta20147 checks
+*** TURN *** [5c 9s 7d][Td]
+GinollicA86 checks
+X-PaPrIkA-X bets 1417
+Lotta20147 folds
+GinollicA86 calls 1417
+*** RIVER *** [5c 9s 7d Td][Ac]
+GinollicA86 checks
+X-PaPrIkA-X bets 3259
+GinollicA86 folds
+X-PaPrIkA-X collected 8273 from pot
+*** SUMMARY ***
+Total pot 8273 | No rake
+Board: [5c 9s 7d Td Ac]
+Seat 6: X-PaPrIkA-X won 8273
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #3248568749929791526-26-1710608667 - Holdem no limit (30/125/250) - 2024/03/16 17:04:27 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: rob19789 (23695, 0.11€ bounty)
+Seat 2: Lotta20147 (35339, 0.11€ bounty)
+Seat 3: liloelo (23992, 0.11€ bounty)
+Seat 4: GinollicA86 (26227, 0.11€ bounty)
+Seat 5: P1xel7 (10680, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (49637, 0.21€ bounty)
+*** ANTE/BLINDS ***
+GinollicA86 posts ante 30
+P1xel7 posts ante 30
+rob19789 posts ante 30
+Lotta20147 posts ante 30
+liloelo posts ante 30
+X-PaPrIkA-X posts ante 30
+GinollicA86 posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [9d Jc]
+*** PRE-FLOP *** 
+X-PaPrIkA-X folds
+rob19789 calls 250
+Lotta20147 calls 250
+liloelo folds
+GinollicA86 folds
+P1xel7 checks
+*** FLOP *** [2d As 3c]
+P1xel7 checks
+rob19789 checks
+Lotta20147 checks
+*** TURN *** [2d As 3c][9h]
+P1xel7 bets 375
+rob19789 folds
+Lotta20147 calls 375
+*** RIVER *** [2d As 3c 9h][6h]
+P1xel7 bets 875
+Lotta20147 folds
+P1xel7 collected 2680 from pot
+*** SUMMARY ***
+Total pot 2680 | No rake
+Board: [2d As 3c 9h 6h]
+Seat 5: P1xel7 (big blind) won 2680
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #3248568749929791526-27-1710608704 - Holdem no limit (30/125/250) - 2024/03/16 17:05:04 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: rob19789 (23415, 0.11€ bounty)
+Seat 2: Lotta20147 (34684, 0.11€ bounty)
+Seat 3: liloelo (23962, 0.11€ bounty)
+Seat 4: GinollicA86 (26072, 0.11€ bounty)
+Seat 5: P1xel7 (11830, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (49607, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+X-PaPrIkA-X posts ante 30
+rob19789 posts ante 30
+Lotta20147 posts ante 30
+liloelo posts ante 30
+GinollicA86 posts ante 30
+P1xel7 posts small blind 125
+X-PaPrIkA-X posts big blind 250
+Dealt to P1xel7 [9c Qc]
+*** PRE-FLOP *** 
+rob19789 folds
+Lotta20147 calls 250
+liloelo folds
+GinollicA86 folds
+P1xel7 calls 125
+X-PaPrIkA-X raises 1625 to 1875
+Lotta20147 folds
+P1xel7 folds
+X-PaPrIkA-X collected 2555 from pot
+*** SUMMARY ***
+Total pot 2555 | No rake
+Seat 6: X-PaPrIkA-X (big blind) won 2555
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #3248568749929791526-28-1710608745 - Holdem no limit (30/125/250) - 2024/03/16 17:05:45 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: rob19789 (23385, 0.11€ bounty)
+Seat 2: Lotta20147 (34404, 0.11€ bounty)
+Seat 3: liloelo (23932, 0.11€ bounty)
+Seat 4: GinollicA86 (26042, 0.11€ bounty)
+Seat 5: P1xel7 (11550, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (50257, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 30
+rob19789 posts ante 30
+Lotta20147 posts ante 30
+liloelo posts ante 30
+GinollicA86 posts ante 30
+P1xel7 posts ante 30
+X-PaPrIkA-X posts small blind 125
+rob19789 posts big blind 250
+Dealt to P1xel7 [6h 3d]
+*** PRE-FLOP *** 
+Lotta20147 calls 250
+liloelo calls 250
+GinollicA86 folds
+P1xel7 folds
+X-PaPrIkA-X raises 1625 to 1875
+rob19789 folds
+Lotta20147 folds
+liloelo folds
+X-PaPrIkA-X collected 2805 from pot
+*** SUMMARY ***
+Total pot 2805 | No rake
+Seat 6: X-PaPrIkA-X (small blind) won 2805
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248568749929791526-29-1710608775 - Holdem no limit (35/150/300) - 2024/03/16 17:06:15 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: rob19789 (23105, 0.11€ bounty)
+Seat 2: Lotta20147 (34124, 0.11€ bounty)
+Seat 3: liloelo (23652, 0.11€ bounty)
+Seat 4: GinollicA86 (26012, 0.11€ bounty)
+Seat 5: P1xel7 (11520, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (51157, 0.21€ bounty)
+*** ANTE/BLINDS ***
+rob19789 posts ante 35
+Lotta20147 posts ante 35
+liloelo posts ante 35
+GinollicA86 posts ante 35
+P1xel7 posts ante 35
+X-PaPrIkA-X posts ante 35
+rob19789 posts small blind 150
+Lotta20147 posts big blind 300
+Dealt to P1xel7 [8h Kh]
+*** PRE-FLOP *** 
+liloelo calls 300
+GinollicA86 calls 300
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 calls 150
+Lotta20147 checks
+*** FLOP *** [Jc Jh Js]
+rob19789 checks
+Lotta20147 checks
+liloelo checks
+GinollicA86 bets 917
+rob19789 folds
+Lotta20147 folds
+liloelo folds
+GinollicA86 collected 2327 from pot
+*** SUMMARY ***
+Total pot 2327 | No rake
+Board: [Jc Jh Js]
+Seat 4: GinollicA86 won 2327
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248568749929791526-30-1710608832 - Holdem no limit (35/150/300) - 2024/03/16 17:07:12 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: rob19789 (22770, 0.11€ bounty)
+Seat 2: Lotta20147 (33789, 0.11€ bounty)
+Seat 3: liloelo (23317, 0.11€ bounty)
+Seat 4: GinollicA86 (27087, 0.11€ bounty)
+Seat 5: P1xel7 (11485, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (51122, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Lotta20147 posts ante 35
+liloelo posts ante 35
+rob19789 posts ante 35
+GinollicA86 posts ante 35
+P1xel7 posts ante 35
+X-PaPrIkA-X posts ante 35
+Lotta20147 posts small blind 150
+liloelo posts big blind 300
+Dealt to P1xel7 [Qs Js]
+*** PRE-FLOP *** 
+GinollicA86 folds
+P1xel7 raises 300 to 600
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 calls 450
+liloelo calls 300
+*** FLOP *** [Qd 8h 8s]
+Lotta20147 checks
+liloelo bets 300
+P1xel7 calls 300
+Lotta20147 folds
+*** TURN *** [Qd 8h 8s][8c]
+liloelo bets 300
+P1xel7 raises 600 to 900
+liloelo raises 600 to 1500
+P1xel7 calls 600
+*** RIVER *** [Qd 8h 8s 8c][Ts]
+liloelo bets 2805
+P1xel7 calls 2805
+*** SHOW DOWN ***
+P1xel7 shows [Qs Js] (Full of 8 and Queens)
+liloelo shows [8d 7h] (Quads of 8)
+liloelo collected 11220 from pot
+*** SUMMARY ***
+Total pot 11220 | No rake
+Board: [Qd 8h 8s 8c Ts]
+Seat 3: liloelo (big blind) showed [8d 7h] and won 11220 with Quads of 8
+Seat 5: P1xel7 showed [Qs Js] and lost with Full of 8 and Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248568749929791526-31-1710608899 - Holdem no limit (35/150/300) - 2024/03/16 17:08:19 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: rob19789 (22735, 0.11€ bounty)
+Seat 2: Lotta20147 (33154, 0.11€ bounty)
+Seat 3: liloelo (29297, 0.11€ bounty)
+Seat 4: GinollicA86 (27052, 0.11€ bounty)
+Seat 5: P1xel7 (6245, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (51087, 0.21€ bounty)
+*** ANTE/BLINDS ***
+liloelo posts ante 35
+GinollicA86 posts ante 35
+rob19789 posts ante 35
+Lotta20147 posts ante 35
+P1xel7 posts ante 35
+X-PaPrIkA-X posts ante 35
+liloelo posts small blind 150
+GinollicA86 posts big blind 300
+Dealt to P1xel7 [3s 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 calls 300
+liloelo calls 150
+GinollicA86 checks
+*** FLOP *** [Td 7h 7d]
+liloelo checks
+GinollicA86 checks
+Lotta20147 checks
+*** TURN *** [Td 7h 7d][8d]
+liloelo checks
+GinollicA86 bets 389
+Lotta20147 folds
+liloelo calls 389
+*** RIVER *** [Td 7h 7d 8d][Kc]
+liloelo checks
+GinollicA86 bets 1510
+liloelo folds
+GinollicA86 collected 3398 from pot
+*** SUMMARY ***
+Total pot 3398 | No rake
+Board: [Td 7h 7d 8d Kc]
+Seat 4: GinollicA86 (big blind) won 3398
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248568749929791526-32-1710608957 - Holdem no limit (35/150/300) - 2024/03/16 17:09:17 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: rob19789 (22700, 0.11€ bounty)
+Seat 2: Lotta20147 (32819, 0.11€ bounty)
+Seat 3: liloelo (28573, 0.11€ bounty)
+Seat 4: GinollicA86 (28216, 0.11€ bounty)
+Seat 5: P1xel7 (6210, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (51052, 0.21€ bounty)
+*** ANTE/BLINDS ***
+GinollicA86 posts ante 35
+P1xel7 posts ante 35
+rob19789 posts ante 35
+Lotta20147 posts ante 35
+liloelo posts ante 35
+X-PaPrIkA-X posts ante 35
+GinollicA86 posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [7c 3h]
+*** PRE-FLOP *** 
+X-PaPrIkA-X raises 450 to 750
+rob19789 folds
+Lotta20147 calls 750
+liloelo folds
+GinollicA86 calls 600
+P1xel7 folds
+*** FLOP *** [Tc 7h Qd]
+GinollicA86 checks
+X-PaPrIkA-X bets 1500
+Lotta20147 calls 1500
+GinollicA86 folds
+*** TURN *** [Tc 7h Qd][2c]
+X-PaPrIkA-X checks
+Lotta20147 checks
+*** RIVER *** [Tc 7h Qd 2c][Qc]
+X-PaPrIkA-X bets 3744
+Lotta20147 folds
+X-PaPrIkA-X collected 9504 from pot
+*** SUMMARY ***
+Total pot 9504 | No rake
+Board: [Tc 7h Qd 2c Qc]
+Seat 6: X-PaPrIkA-X won 9504
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #3248568749929791526-33-1710609033 - Holdem no limit (35/150/300) - 2024/03/16 17:10:33 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: rob19789 (22665, 0.11€ bounty)
+Seat 2: Lotta20147 (30534, 0.11€ bounty)
+Seat 3: liloelo (28538, 0.11€ bounty)
+Seat 4: GinollicA86 (27431, 0.11€ bounty)
+Seat 5: P1xel7 (5875, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (54527, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+X-PaPrIkA-X posts ante 35
+rob19789 posts ante 35
+Lotta20147 posts ante 35
+liloelo posts ante 35
+GinollicA86 posts ante 35
+P1xel7 posts small blind 150
+X-PaPrIkA-X posts big blind 300
+Dealt to P1xel7 [Kh Jc]
+*** PRE-FLOP *** 
+rob19789 calls 300
+Lotta20147 calls 300
+liloelo calls 300
+GinollicA86 folds
+P1xel7 calls 150
+X-PaPrIkA-X checks
+*** FLOP *** [Jd Tc Ad]
+P1xel7 checks
+X-PaPrIkA-X checks
+rob19789 checks
+Lotta20147 checks
+liloelo checks
+*** TURN *** [Jd Tc Ad][7c]
+P1xel7 checks
+X-PaPrIkA-X checks
+rob19789 bets 855
+Lotta20147 calls 855
+liloelo calls 855
+P1xel7 folds
+X-PaPrIkA-X folds
+*** RIVER *** [Jd Tc Ad 7c][Js]
+rob19789 bets 4275
+Lotta20147 folds
+liloelo folds
+rob19789 collected 8550 from pot
+*** SUMMARY ***
+Total pot 8550 | No rake
+Board: [Jd Tc Ad 7c Js]
+Seat 1: rob19789 won 8550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248568749929791526-34-1710609107 - Holdem no limit (40/175/350) - 2024/03/16 17:11:47 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: rob19789 (25750, 0.11€ bounty)
+Seat 2: Lotta20147 (29344, 0.11€ bounty)
+Seat 3: liloelo (27348, 0.11€ bounty)
+Seat 4: GinollicA86 (27396, 0.11€ bounty)
+Seat 5: P1xel7 (5540, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (54192, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 40
+rob19789 posts ante 40
+Lotta20147 posts ante 40
+liloelo posts ante 40
+GinollicA86 posts ante 40
+P1xel7 posts ante 40
+X-PaPrIkA-X posts small blind 175
+rob19789 posts big blind 350
+Dealt to P1xel7 [6h Kd]
+*** PRE-FLOP *** 
+Lotta20147 folds
+liloelo folds
+GinollicA86 folds
+P1xel7 raises 350 to 700
+X-PaPrIkA-X raises 1400 to 2100
+rob19789 folds
+P1xel7 folds
+X-PaPrIkA-X collected 3390 from pot
+*** SUMMARY ***
+Total pot 3390 | No rake
+Seat 6: X-PaPrIkA-X (small blind) won 3390
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248568749929791526-35-1710609152 - Holdem no limit (40/175/350) - 2024/03/16 17:12:32 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: rob19789 (25360, 0.11€ bounty)
+Seat 2: Lotta20147 (29304, 0.11€ bounty)
+Seat 3: liloelo (27308, 0.11€ bounty)
+Seat 4: GinollicA86 (27356, 0.11€ bounty)
+Seat 5: P1xel7 (4800, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (55442, 0.21€ bounty)
+*** ANTE/BLINDS ***
+rob19789 posts ante 40
+Lotta20147 posts ante 40
+liloelo posts ante 40
+GinollicA86 posts ante 40
+P1xel7 posts ante 40
+X-PaPrIkA-X posts ante 40
+rob19789 posts small blind 175
+Lotta20147 posts big blind 350
+Dealt to P1xel7 [8d 8s]
+*** PRE-FLOP *** 
+liloelo calls 350
+GinollicA86 folds
+P1xel7 raises 700 to 1050
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 folds
+liloelo calls 700
+*** FLOP *** [3h 4s 5d]
+liloelo checks
+P1xel7 bets 3710 and is all-in
+liloelo folds
+P1xel7 collected 6575 from pot
+*** SUMMARY ***
+Total pot 6575 | No rake
+Board: [3h 4s 5d]
+Seat 5: P1xel7 won 6575
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248568749929791526-36-1710609193 - Holdem no limit (40/175/350) - 2024/03/16 17:13:13 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: rob19789 (25145, 0.11€ bounty)
+Seat 2: Lotta20147 (28914, 0.11€ bounty)
+Seat 3: liloelo (26218, 0.11€ bounty)
+Seat 4: GinollicA86 (27316, 0.11€ bounty)
+Seat 5: P1xel7 (6575, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (55402, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Lotta20147 posts ante 40
+liloelo posts ante 40
+rob19789 posts ante 40
+GinollicA86 posts ante 40
+P1xel7 posts ante 40
+X-PaPrIkA-X posts ante 40
+Lotta20147 posts small blind 175
+liloelo posts big blind 350
+Dealt to P1xel7 [6c Kc]
+*** PRE-FLOP *** 
+GinollicA86 folds
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 calls 350
+Lotta20147 calls 175
+liloelo checks
+*** FLOP *** [9d 4h Kd]
+Lotta20147 checks
+liloelo checks
+rob19789 checks
+*** TURN *** [9d 4h Kd][2h]
+Lotta20147 checks
+liloelo checks
+rob19789 checks
+*** RIVER *** [9d 4h Kd 2h][2c]
+Lotta20147 checks
+liloelo checks
+rob19789 checks
+*** SHOW DOWN ***
+rob19789 shows [Jc Qs] (One pair : 2)
+liloelo shows [Jh 6d] (One pair : 2)
+Lotta20147 shows [9h As] (Two pairs : 9 and 2)
+Lotta20147 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Board: [9d 4h Kd 2h 2c]
+Seat 1: rob19789 (button) showed [Jc Qs] and lost with One pair : 2
+Seat 2: Lotta20147 (small blind) showed [9h As] and won 1290 with Two pairs : 9 and 2
+Seat 3: liloelo (big blind) showed [Jh 6d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248568749929791526-37-1710609240 - Holdem no limit (40/175/350) - 2024/03/16 17:14:00 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: rob19789 (24755, 0.11€ bounty)
+Seat 2: Lotta20147 (29814, 0.11€ bounty)
+Seat 3: liloelo (25828, 0.11€ bounty)
+Seat 4: GinollicA86 (27276, 0.11€ bounty)
+Seat 5: P1xel7 (6535, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (55362, 0.21€ bounty)
+*** ANTE/BLINDS ***
+liloelo posts ante 40
+GinollicA86 posts ante 40
+rob19789 posts ante 40
+Lotta20147 posts ante 40
+P1xel7 posts ante 40
+X-PaPrIkA-X posts ante 40
+liloelo posts small blind 175
+GinollicA86 posts big blind 350
+Dealt to P1xel7 [Td 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+X-PaPrIkA-X raises 525 to 875
+rob19789 folds
+Lotta20147 folds
+liloelo folds
+GinollicA86 folds
+X-PaPrIkA-X collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Seat 6: X-PaPrIkA-X won 1640
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248568749929791526-38-1710609256 - Holdem no limit (40/175/350) - 2024/03/16 17:14:16 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: rob19789 (24715, 0.11€ bounty)
+Seat 2: Lotta20147 (29774, 0.11€ bounty)
+Seat 3: liloelo (25613, 0.11€ bounty)
+Seat 4: GinollicA86 (26886, 0.11€ bounty)
+Seat 5: P1xel7 (6495, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (56087, 0.21€ bounty)
+*** ANTE/BLINDS ***
+GinollicA86 posts ante 40
+P1xel7 posts ante 40
+rob19789 posts ante 40
+Lotta20147 posts ante 40
+liloelo posts ante 40
+X-PaPrIkA-X posts ante 40
+GinollicA86 posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Js Kh]
+*** PRE-FLOP *** 
+X-PaPrIkA-X folds
+rob19789 calls 350
+Lotta20147 calls 350
+liloelo calls 350
+GinollicA86 folds
+P1xel7 checks
+*** FLOP *** [8c Ah Jc]
+P1xel7 checks
+rob19789 checks
+Lotta20147 checks
+liloelo bets 454
+P1xel7 calls 454
+rob19789 calls 454
+Lotta20147 calls 454
+*** TURN *** [8c Ah Jc][Qd]
+P1xel7 checks
+rob19789 bets 23871 and is all-in
+Lotta20147 folds
+liloelo folds
+P1xel7 folds
+rob19789 collected 27502 from pot
+*** SUMMARY ***
+Total pot 27502 | No rake
+Board: [8c Ah Jc Qd]
+Seat 1: rob19789 won 27502
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #3248568749929791526-39-1710609310 - Holdem no limit (40/175/350) - 2024/03/16 17:15:10 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: rob19789 (27502, 0.11€ bounty)
+Seat 2: Lotta20147 (28930, 0.11€ bounty)
+Seat 3: liloelo (24769, 0.11€ bounty)
+Seat 4: GinollicA86 (26671, 0.11€ bounty)
+Seat 5: P1xel7 (5651, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (56047, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+X-PaPrIkA-X posts ante 40
+rob19789 posts ante 40
+Lotta20147 posts ante 40
+liloelo posts ante 40
+GinollicA86 posts ante 40
+P1xel7 posts small blind 175
+X-PaPrIkA-X posts big blind 350
+Dealt to P1xel7 [4c Th]
+*** PRE-FLOP *** 
+rob19789 calls 350
+Lotta20147 folds
+liloelo folds
+GinollicA86 raises 350 to 700
+P1xel7 folds
+X-PaPrIkA-X calls 350
+rob19789 calls 350
+*** FLOP *** [Ks 5d 8h]
+X-PaPrIkA-X checks
+rob19789 checks
+GinollicA86 checks
+*** TURN *** [Ks 5d 8h][8d]
+X-PaPrIkA-X bets 1635
+rob19789 folds
+GinollicA86 folds
+X-PaPrIkA-X collected 4150 from pot
+*** SUMMARY ***
+Total pot 4150 | No rake
+Board: [Ks 5d 8h 8d]
+Seat 6: X-PaPrIkA-X (big blind) won 4150
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248568749929791526-40-1710609394 - Holdem no limit (50/200/400) - 2024/03/16 17:16:34 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: rob19789 (26762, 0.11€ bounty)
+Seat 2: Lotta20147 (28890, 0.11€ bounty)
+Seat 3: liloelo (24729, 0.11€ bounty)
+Seat 4: GinollicA86 (25931, 0.11€ bounty)
+Seat 5: P1xel7 (5436, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (57822, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 50
+rob19789 posts ante 50
+Lotta20147 posts ante 50
+liloelo posts ante 50
+GinollicA86 posts ante 50
+P1xel7 posts ante 50
+X-PaPrIkA-X posts small blind 200
+rob19789 posts big blind 400
+Dealt to P1xel7 [Kd Ad]
+*** PRE-FLOP *** 
+Lotta20147 folds
+liloelo calls 400
+GinollicA86 raises 400 to 800
+P1xel7 raises 4586 to 5386 and is all-in
+X-PaPrIkA-X folds
+rob19789 folds
+liloelo folds
+GinollicA86 calls 4586
+*** FLOP *** [2h Jd 8c]
+*** TURN *** [2h Jd 8c][As]
+*** RIVER *** [2h Jd 8c As][Ah]
+*** SHOW DOWN ***
+GinollicA86 shows [5s 5d] (Two pairs : Aces and 5)
+P1xel7 shows [Kd Ad] (Trips of Aces)
+P1xel7 collected 12072 from pot
+*** SUMMARY ***
+Total pot 12072 | No rake
+Board: [2h Jd 8c As Ah]
+Seat 4: GinollicA86 showed [5s 5d] and lost with Two pairs : Aces and 5
+Seat 5: P1xel7 (button) showed [Kd Ad] and won 12072 with Trips of Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248568749929791526-41-1710609433 - Holdem no limit (50/200/400) - 2024/03/16 17:17:13 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: rob19789 (26312, 0.11€ bounty)
+Seat 2: Lotta20147 (28840, 0.11€ bounty)
+Seat 3: liloelo (24279, 0.11€ bounty)
+Seat 4: GinollicA86 (20495, 0.11€ bounty)
+Seat 5: P1xel7 (12072, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (57572, 0.21€ bounty)
+*** ANTE/BLINDS ***
+rob19789 posts ante 50
+Lotta20147 posts ante 50
+liloelo posts ante 50
+GinollicA86 posts ante 50
+P1xel7 posts ante 50
+X-PaPrIkA-X posts ante 50
+rob19789 posts small blind 200
+Lotta20147 posts big blind 400
+Dealt to P1xel7 [Jc 7h]
+*** PRE-FLOP *** 
+liloelo calls 400
+GinollicA86 calls 400
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 calls 200
+Lotta20147 checks
+*** FLOP *** [Ts 5d Ks]
+rob19789 checks
+Lotta20147 checks
+liloelo checks
+GinollicA86 checks
+*** TURN *** [Ts 5d Ks][Jd]
+rob19789 checks
+Lotta20147 checks
+liloelo checks
+GinollicA86 checks
+*** RIVER *** [Ts 5d Ks Jd][4h]
+rob19789 checks
+Lotta20147 checks
+liloelo checks
+GinollicA86 checks
+*** SHOW DOWN ***
+rob19789 shows [9h 7d] (High card : King)
+Lotta20147 shows [Ac 2h] (High card : Ace)
+GinollicA86 shows [6h As] (High card : Ace)
+liloelo shows [Td 6d] (One pair : Tens)
+liloelo collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Board: [Ts 5d Ks Jd 4h]
+Seat 1: rob19789 (small blind) showed [9h 7d] and lost with High card : King
+Seat 2: Lotta20147 (big blind) showed [Ac 2h] and lost with High card : Ace
+Seat 3: liloelo showed [Td 6d] and won 1900 with One pair : Tens
+Seat 4: GinollicA86 showed [6h As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248568749929791526-42-1710609494 - Holdem no limit (50/200/400) - 2024/03/16 17:18:14 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: rob19789 (25862, 0.11€ bounty)
+Seat 2: Lotta20147 (28390, 0.11€ bounty)
+Seat 3: liloelo (25729, 0.11€ bounty)
+Seat 4: GinollicA86 (20045, 0.11€ bounty)
+Seat 5: P1xel7 (12022, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (57522, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Lotta20147 posts ante 50
+liloelo posts ante 50
+rob19789 posts ante 50
+GinollicA86 posts ante 50
+P1xel7 posts ante 50
+X-PaPrIkA-X posts ante 50
+Lotta20147 posts small blind 200
+liloelo posts big blind 400
+Dealt to P1xel7 [4c Tc]
+*** PRE-FLOP *** 
+GinollicA86 folds
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 calls 400
+Lotta20147 folds
+liloelo checks
+*** FLOP *** [Kc Ks Td]
+liloelo checks
+rob19789 checks
+*** TURN *** [Kc Ks Td][Ah]
+liloelo checks
+rob19789 checks
+*** RIVER *** [Kc Ks Td Ah][3d]
+liloelo checks
+rob19789 checks
+*** SHOW DOWN ***
+liloelo shows [6d 2h] (One pair : Kings)
+rob19789 shows [Jh 9d] (One pair : Kings)
+rob19789 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [Kc Ks Td Ah 3d]
+Seat 1: rob19789 (button) showed [Jh 9d] and won 1300 with One pair : Kings
+Seat 3: liloelo (big blind) showed [6d 2h] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248568749929791526-43-1710609518 - Holdem no limit (50/200/400) - 2024/03/16 17:18:38 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: rob19789 (26712, 0.11€ bounty)
+Seat 2: Lotta20147 (28140, 0.11€ bounty)
+Seat 3: liloelo (25279, 0.11€ bounty)
+Seat 4: GinollicA86 (19995, 0.11€ bounty)
+Seat 5: P1xel7 (11972, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (57472, 0.21€ bounty)
+*** ANTE/BLINDS ***
+liloelo posts ante 50
+GinollicA86 posts ante 50
+rob19789 posts ante 50
+Lotta20147 posts ante 50
+P1xel7 posts ante 50
+X-PaPrIkA-X posts ante 50
+liloelo posts small blind 200
+GinollicA86 posts big blind 400
+Dealt to P1xel7 [3s 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 folds
+liloelo calls 200
+GinollicA86 raises 600 to 1000
+liloelo calls 600
+*** FLOP *** [Qd 9c 8s]
+liloelo checks
+GinollicA86 bets 575
+liloelo folds
+GinollicA86 collected 2875 from pot
+*** SUMMARY ***
+Total pot 2875 | No rake
+Board: [Qd 9c 8s]
+Seat 4: GinollicA86 (big blind) won 2875
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248568749929791526-44-1710609559 - Holdem no limit (50/200/400) - 2024/03/16 17:19:19 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: rob19789 (26662, 0.11€ bounty)
+Seat 2: Lotta20147 (28090, 0.11€ bounty)
+Seat 3: liloelo (24229, 0.11€ bounty)
+Seat 4: GinollicA86 (21245, 0.11€ bounty)
+Seat 5: P1xel7 (11922, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (57422, 0.21€ bounty)
+*** ANTE/BLINDS ***
+GinollicA86 posts ante 50
+P1xel7 posts ante 50
+rob19789 posts ante 50
+Lotta20147 posts ante 50
+liloelo posts ante 50
+X-PaPrIkA-X posts ante 50
+GinollicA86 posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Ad Qh]
+*** PRE-FLOP *** 
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 calls 400
+liloelo calls 400
+GinollicA86 calls 200
+P1xel7 checks
+*** FLOP *** [5h Qd Qc]
+GinollicA86 bets 475
+P1xel7 calls 475
+Lotta20147 folds
+liloelo folds
+*** TURN *** [5h Qd Qc][7c]
+GinollicA86 bets 713
+P1xel7 raises 1287 to 2000
+GinollicA86 calls 1287
+*** RIVER *** [5h Qd Qc 7c][Td]
+GinollicA86 checks
+P1xel7 bets 8997 and is all-in
+GinollicA86 folds
+P1xel7 collected 15847 from pot
+*** SUMMARY ***
+Total pot 15847 | No rake
+Board: [5h Qd Qc 7c Td]
+Seat 5: P1xel7 (big blind) won 15847
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248568749929791526-45-1710609615 - Holdem no limit (50/200/400) - 2024/03/16 17:20:15 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: rob19789 (26612, 0.11€ bounty)
+Seat 2: Lotta20147 (27640, 0.11€ bounty)
+Seat 3: liloelo (23779, 0.11€ bounty)
+Seat 4: GinollicA86 (18320, 0.11€ bounty)
+Seat 5: P1xel7 (15847, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (57372, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+X-PaPrIkA-X posts ante 50
+rob19789 posts ante 50
+Lotta20147 posts ante 50
+liloelo posts ante 50
+GinollicA86 posts ante 50
+P1xel7 posts small blind 200
+X-PaPrIkA-X posts big blind 400
+Dealt to P1xel7 [7d 5d]
+*** PRE-FLOP *** 
+rob19789 folds
+Lotta20147 folds
+liloelo folds
+GinollicA86 raises 400 to 800
+P1xel7 folds
+X-PaPrIkA-X calls 400
+*** FLOP *** [6s 4h Qd]
+X-PaPrIkA-X checks
+GinollicA86 checks
+*** TURN *** [6s 4h Qd][Ah]
+X-PaPrIkA-X checks
+GinollicA86 checks
+*** RIVER *** [6s 4h Qd Ah][Td]
+X-PaPrIkA-X bets 2100
+GinollicA86 folds
+X-PaPrIkA-X collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | No rake
+Board: [6s 4h Qd Ah Td]
+Seat 6: X-PaPrIkA-X (big blind) won 4200
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #3248568749929791526-46-1710609656 - Holdem no limit (50/200/400) - 2024/03/16 17:20:56 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: rob19789 (26562, 0.11€ bounty)
+Seat 2: Lotta20147 (27590, 0.11€ bounty)
+Seat 3: liloelo (23729, 0.11€ bounty)
+Seat 4: GinollicA86 (17470, 0.11€ bounty)
+Seat 5: P1xel7 (15597, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (58622, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 50
+rob19789 posts ante 50
+Lotta20147 posts ante 50
+liloelo posts ante 50
+GinollicA86 posts ante 50
+P1xel7 posts ante 50
+X-PaPrIkA-X posts small blind 200
+rob19789 posts big blind 400
+Dealt to P1xel7 [Kd 7d]
+*** PRE-FLOP *** 
+Lotta20147 calls 400
+liloelo calls 400
+GinollicA86 folds
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 checks
+*** FLOP *** [Ad 4d 3s]
+rob19789 checks
+Lotta20147 checks
+liloelo checks
+*** TURN *** [Ad 4d 3s][6d]
+rob19789 checks
+Lotta20147 checks
+liloelo checks
+*** RIVER *** [Ad 4d 3s 6d][Th]
+rob19789 checks
+Lotta20147 checks
+liloelo checks
+*** SHOW DOWN ***
+rob19789 shows [7c Js] (High card : Ace)
+Lotta20147 shows [8c Qd] (High card : Ace)
+liloelo shows [Kc Qh] (High card : Ace)
+liloelo collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Board: [Ad 4d 3s 6d Th]
+Seat 1: rob19789 (big blind) showed [7c Js] and lost with High card : Ace
+Seat 2: Lotta20147 showed [8c Qd] and lost with High card : Ace
+Seat 3: liloelo showed [Kc Qh] and won 1700 with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248568749929791526-47-1710609697 - Holdem no limit (60/250/500) - 2024/03/16 17:21:37 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: rob19789 (26112, 0.11€ bounty)
+Seat 2: Lotta20147 (27140, 0.11€ bounty)
+Seat 3: liloelo (24979, 0.11€ bounty)
+Seat 4: GinollicA86 (17420, 0.11€ bounty)
+Seat 5: P1xel7 (15547, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (58372, 0.21€ bounty)
+*** ANTE/BLINDS ***
+rob19789 posts ante 60
+Lotta20147 posts ante 60
+liloelo posts ante 60
+GinollicA86 posts ante 60
+P1xel7 posts ante 60
+X-PaPrIkA-X posts ante 60
+rob19789 posts small blind 250
+Lotta20147 posts big blind 500
+Dealt to P1xel7 [Ac 3c]
+*** PRE-FLOP *** 
+liloelo calls 500
+GinollicA86 folds
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 calls 250
+Lotta20147 checks
+*** FLOP *** [5c Qh As]
+rob19789 bets 500
+Lotta20147 folds
+liloelo calls 500
+*** TURN *** [5c Qh As][5d]
+rob19789 bets 500
+liloelo calls 500
+*** RIVER *** [5c Qh As 5d][Th]
+rob19789 bets 500
+liloelo calls 500
+*** SHOW DOWN ***
+rob19789 shows [8h Qd] (Two pairs : Queens and 5)
+liloelo shows [7s Ah] (Two pairs : Aces and 5)
+liloelo collected 4860 from pot
+*** SUMMARY ***
+Total pot 4860 | No rake
+Board: [5c Qh As 5d Th]
+Seat 1: rob19789 (small blind) showed [8h Qd] and lost with Two pairs : Queens and 5
+Seat 3: liloelo showed [7s Ah] and won 4860 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248568749929791526-48-1710609737 - Holdem no limit (60/250/500) - 2024/03/16 17:22:17 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: rob19789 (24052, 0.11€ bounty)
+Seat 2: Lotta20147 (26580, 0.11€ bounty)
+Seat 3: liloelo (27779, 0.11€ bounty)
+Seat 4: GinollicA86 (17360, 0.11€ bounty)
+Seat 5: P1xel7 (15487, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (58312, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Lotta20147 posts ante 60
+liloelo posts ante 60
+rob19789 posts ante 60
+GinollicA86 posts ante 60
+P1xel7 posts ante 60
+X-PaPrIkA-X posts ante 60
+Lotta20147 posts small blind 250
+liloelo posts big blind 500
+Dealt to P1xel7 [8s 5c]
+*** PRE-FLOP *** 
+GinollicA86 raises 500 to 1000
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 calls 750
+liloelo folds
+*** FLOP *** [8h Js Qd]
+Lotta20147 checks
+GinollicA86 bets 715
+Lotta20147 calls 715
+*** TURN *** [8h Js Qd][Ts]
+Lotta20147 checks
+GinollicA86 checks
+*** RIVER *** [8h Js Qd Ts][9h]
+Lotta20147 checks
+GinollicA86 bets 4290
+Lotta20147 folds
+GinollicA86 collected 8580 from pot
+*** SUMMARY ***
+Total pot 8580 | No rake
+Board: [8h Js Qd Ts 9h]
+Seat 4: GinollicA86 won 8580
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248568749929791526-49-1710609783 - Holdem no limit (60/250/500) - 2024/03/16 17:23:03 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: rob19789 (23992, 0.11€ bounty)
+Seat 2: Lotta20147 (24805, 0.11€ bounty)
+Seat 3: liloelo (27219, 0.11€ bounty)
+Seat 4: GinollicA86 (19875, 0.11€ bounty)
+Seat 5: P1xel7 (15427, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (58252, 0.21€ bounty)
+*** ANTE/BLINDS ***
+liloelo posts ante 60
+GinollicA86 posts ante 60
+rob19789 posts ante 60
+Lotta20147 posts ante 60
+P1xel7 posts ante 60
+X-PaPrIkA-X posts ante 60
+liloelo posts small blind 250
+GinollicA86 posts big blind 500
+Dealt to P1xel7 [Qd Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+X-PaPrIkA-X raises 2000 to 2500
+rob19789 calls 2500
+Lotta20147 folds
+liloelo folds
+GinollicA86 folds
+*** FLOP *** [4d Jd Kh]
+X-PaPrIkA-X checks
+rob19789 checks
+*** TURN *** [4d Jd Kh][8c]
+X-PaPrIkA-X checks
+rob19789 checks
+*** RIVER *** [4d Jd Kh 8c][9d]
+X-PaPrIkA-X checks
+rob19789 checks
+*** SHOW DOWN ***
+X-PaPrIkA-X shows [7s 7c] (One pair : 7)
+rob19789 shows [9h 7h] (One pair : 9)
+rob19789 collected 6110 from pot
+*** SUMMARY ***
+Total pot 6110 | No rake
+Board: [4d Jd Kh 8c 9d]
+Seat 1: rob19789 showed [9h 7h] and won 6110 with One pair : 9
+Seat 6: X-PaPrIkA-X showed [7s 7c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248568749929791526-50-1710609832 - Holdem no limit (60/250/500) - 2024/03/16 17:23:52 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: rob19789 (27542, 0.11€ bounty)
+Seat 2: Lotta20147 (24745, 0.11€ bounty)
+Seat 3: liloelo (26909, 0.11€ bounty)
+Seat 4: GinollicA86 (19315, 0.11€ bounty)
+Seat 5: P1xel7 (15367, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (55692, 0.21€ bounty)
+*** ANTE/BLINDS ***
+GinollicA86 posts ante 60
+P1xel7 posts ante 60
+rob19789 posts ante 60
+Lotta20147 posts ante 60
+liloelo posts ante 60
+X-PaPrIkA-X posts ante 60
+GinollicA86 posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [Jd 5s]
+*** PRE-FLOP *** 
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 folds
+liloelo folds
+GinollicA86 raises 500 to 1000
+P1xel7 folds
+GinollicA86 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Seat 4: GinollicA86 (small blind) won 1860
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248568749929791526-51-1710609849 - Holdem no limit (60/250/500) - 2024/03/16 17:24:09 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: rob19789 (27482, 0.11€ bounty)
+Seat 2: Lotta20147 (24685, 0.11€ bounty)
+Seat 3: liloelo (26849, 0.11€ bounty)
+Seat 4: GinollicA86 (20115, 0.11€ bounty)
+Seat 5: P1xel7 (14807, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (55632, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+X-PaPrIkA-X posts ante 60
+rob19789 posts ante 60
+Lotta20147 posts ante 60
+liloelo posts ante 60
+GinollicA86 posts ante 60
+P1xel7 posts small blind 250
+X-PaPrIkA-X posts big blind 500
+Dealt to P1xel7 [Jd 2d]
+*** PRE-FLOP *** 
+rob19789 folds
+Lotta20147 calls 500
+liloelo folds
+GinollicA86 raises 625 to 1125
+P1xel7 folds
+X-PaPrIkA-X folds
+Lotta20147 calls 625
+*** FLOP *** [Ah Qd 5c]
+Lotta20147 checks
+GinollicA86 bets 500
+Lotta20147 folds
+GinollicA86 collected 3860 from pot
+*** SUMMARY ***
+Total pot 3860 | No rake
+Board: [Ah Qd 5c]
+Seat 4: GinollicA86 (button) won 3860
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 6 - HandId: #3248568749929791526-52-1710609892 - Holdem no limit (60/250/500) - 2024/03/16 17:24:52 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: rob19789 (27422, 0.11€ bounty)
+Seat 2: Lotta20147 (23500, 0.11€ bounty)
+Seat 3: liloelo (26789, 0.11€ bounty)
+Seat 4: GinollicA86 (22290, 0.11€ bounty)
+Seat 5: P1xel7 (14497, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (55072, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 60
+rob19789 posts ante 60
+Lotta20147 posts ante 60
+liloelo posts ante 60
+GinollicA86 posts ante 60
+P1xel7 posts ante 60
+X-PaPrIkA-X posts small blind 250
+rob19789 posts big blind 500
+Dealt to P1xel7 [Ad 2d]
+*** PRE-FLOP *** 
+Lotta20147 calls 500
+liloelo folds
+GinollicA86 raises 500 to 1000
+P1xel7 calls 1000
+X-PaPrIkA-X folds
+rob19789 calls 500
+Lotta20147 calls 500
+*** FLOP *** [Tc 5d 4d]
+rob19789 checks
+Lotta20147 checks
+GinollicA86 checks
+P1xel7 checks
+*** TURN *** [Tc 5d 4d][As]
+rob19789 checks
+Lotta20147 checks
+GinollicA86 bets 750
+P1xel7 raises 1651 to 2401
+rob19789 folds
+Lotta20147 calls 2401
+GinollicA86 folds
+*** RIVER *** [Tc 5d 4d As][Td]
+Lotta20147 bets 6605
+P1xel7 raises 4431 to 11036 and is all-in
+Lotta20147 calls 4431
+*** SHOW DOWN ***
+Lotta20147 shows [7d Qd] (Flush Queen high)
+P1xel7 shows [Ad 2d] (Flush Ace high)
+P1xel7 collected 32234 from pot
+*** SUMMARY ***
+Total pot 32234 | No rake
+Board: [Tc 5d 4d As Td]
+Seat 2: Lotta20147 showed [7d Qd] and lost with Flush Queen high
+Seat 5: P1xel7 (button) showed [Ad 2d] and won 32234 with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248568749929791526-53-1710609966 - Holdem no limit (70/300/600) - 2024/03/16 17:26:06 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: rob19789 (26362, 0.11€ bounty)
+Seat 2: Lotta20147 (9003, 0.11€ bounty)
+Seat 3: liloelo (26729, 0.11€ bounty)
+Seat 4: GinollicA86 (20480, 0.11€ bounty)
+Seat 5: P1xel7 (32234, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (54762, 0.21€ bounty)
+*** ANTE/BLINDS ***
+rob19789 posts ante 70
+Lotta20147 posts ante 70
+liloelo posts ante 70
+GinollicA86 posts ante 70
+P1xel7 posts ante 70
+X-PaPrIkA-X posts ante 70
+rob19789 posts small blind 300
+Lotta20147 posts big blind 600
+Dealt to P1xel7 [3c Tc]
+*** PRE-FLOP *** 
+liloelo folds
+GinollicA86 folds
+P1xel7 folds
+X-PaPrIkA-X raises 900 to 1500
+rob19789 folds
+Lotta20147 calls 900
+*** FLOP *** [4s 7h Ad]
+Lotta20147 checks
+X-PaPrIkA-X bets 2418
+Lotta20147 folds
+X-PaPrIkA-X collected 6138 from pot
+*** SUMMARY ***
+Total pot 6138 | No rake
+Board: [4s 7h Ad]
+Seat 6: X-PaPrIkA-X (button) won 6138
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248568749929791526-54-1710609997 - Holdem no limit (70/300/600) - 2024/03/16 17:26:37 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: rob19789 (25992, 0.11€ bounty)
+Seat 2: Lotta20147 (7433, 0.11€ bounty)
+Seat 3: liloelo (26659, 0.11€ bounty)
+Seat 4: GinollicA86 (20410, 0.11€ bounty)
+Seat 5: P1xel7 (32164, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (56912, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Lotta20147 posts ante 70
+liloelo posts ante 70
+rob19789 posts ante 70
+GinollicA86 posts ante 70
+P1xel7 posts ante 70
+X-PaPrIkA-X posts ante 70
+Lotta20147 posts small blind 300
+liloelo posts big blind 600
+Dealt to P1xel7 [9h 6s]
+*** PRE-FLOP *** 
+GinollicA86 raises 600 to 1200
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 calls 1200
+Lotta20147 folds
+liloelo folds
+*** FLOP *** [Ah Kc 2h]
+GinollicA86 bets 930
+rob19789 calls 930
+*** TURN *** [Ah Kc 2h][8d]
+GinollicA86 bets 2790
+rob19789 folds
+GinollicA86 collected 8370 from pot
+*** SUMMARY ***
+Total pot 8370 | No rake
+Board: [Ah Kc 2h 8d]
+Seat 4: GinollicA86 won 8370
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248568749929791526-55-1710610029 - Holdem no limit (70/300/600) - 2024/03/16 17:27:09 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: rob19789 (23792, 0.11€ bounty)
+Seat 2: Lotta20147 (7063, 0.11€ bounty)
+Seat 3: liloelo (25989, 0.11€ bounty)
+Seat 4: GinollicA86 (23790, 0.11€ bounty)
+Seat 5: P1xel7 (32094, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (56842, 0.21€ bounty)
+*** ANTE/BLINDS ***
+liloelo posts ante 70
+GinollicA86 posts ante 70
+rob19789 posts ante 70
+Lotta20147 posts ante 70
+P1xel7 posts ante 70
+X-PaPrIkA-X posts ante 70
+liloelo posts small blind 300
+GinollicA86 posts big blind 600
+Dealt to P1xel7 [Qs Kh]
+*** PRE-FLOP *** 
+P1xel7 raises 600 to 1200
+X-PaPrIkA-X folds
+rob19789 calls 1200
+Lotta20147 folds
+liloelo folds
+GinollicA86 calls 600
+*** FLOP *** [3h As 4c]
+GinollicA86 checks
+P1xel7 checks
+rob19789 checks
+*** TURN *** [3h As 4c][5s]
+GinollicA86 bets 600
+P1xel7 folds
+rob19789 raises 600 to 1200
+GinollicA86 calls 600
+*** RIVER *** [3h As 4c 5s][2c]
+GinollicA86 checks
+rob19789 bets 6720
+GinollicA86 calls 6720
+*** SHOW DOWN ***
+GinollicA86 shows [2h Kd] (Straight 5 high)
+rob19789 shows [6d 7c] (Straight 7 high)
+rob19789 collected 20160 from pot
+*** SUMMARY ***
+Total pot 20160 | No rake
+Board: [3h As 4c 5s 2c]
+Seat 1: rob19789 showed [6d 7c] and won 20160 with Straight 7 high
+Seat 4: GinollicA86 (big blind) showed [2h Kd] and lost with Straight 5 high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248568749929791526-56-1710610111 - Holdem no limit (70/300/600) - 2024/03/16 17:28:31 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: rob19789 (34762, 0.11€ bounty)
+Seat 2: Lotta20147 (6993, 0.11€ bounty)
+Seat 3: liloelo (25619, 0.11€ bounty)
+Seat 4: GinollicA86 (14600, 0.11€ bounty)
+Seat 5: P1xel7 (30824, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (56772, 0.21€ bounty)
+*** ANTE/BLINDS ***
+GinollicA86 posts ante 70
+P1xel7 posts ante 70
+rob19789 posts ante 70
+Lotta20147 posts ante 70
+liloelo posts ante 70
+X-PaPrIkA-X posts ante 70
+GinollicA86 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [3h 7c]
+*** PRE-FLOP *** 
+X-PaPrIkA-X raises 900 to 1500
+rob19789 calls 1500
+Lotta20147 folds
+liloelo folds
+GinollicA86 calls 1200
+P1xel7 folds
+*** FLOP *** [Th 2d 2h]
+GinollicA86 checks
+X-PaPrIkA-X checks
+rob19789 checks
+*** TURN *** [Th 2d 2h][Td]
+GinollicA86 bets 1380
+X-PaPrIkA-X calls 1380
+rob19789 folds
+*** RIVER *** [Th 2d 2h Td][3d]
+GinollicA86 bets 8280
+X-PaPrIkA-X folds
+GinollicA86 collected 16560 from pot
+*** SUMMARY ***
+Total pot 16560 | No rake
+Board: [Th 2d 2h Td 3d]
+Seat 4: GinollicA86 (small blind) won 16560
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248568749929791526-57-1710610168 - Holdem no limit (70/300/600) - 2024/03/16 17:29:28 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: rob19789 (33192, 0.11€ bounty)
+Seat 2: Lotta20147 (6923, 0.11€ bounty)
+Seat 3: liloelo (25549, 0.11€ bounty)
+Seat 4: GinollicA86 (19930, 0.11€ bounty)
+Seat 5: P1xel7 (30154, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (53822, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+X-PaPrIkA-X posts ante 70
+rob19789 posts ante 70
+Lotta20147 posts ante 70
+liloelo posts ante 70
+GinollicA86 posts ante 70
+P1xel7 posts small blind 300
+X-PaPrIkA-X posts big blind 600
+Dealt to P1xel7 [5s 5d]
+*** PRE-FLOP *** 
+rob19789 folds
+Lotta20147 folds
+liloelo calls 600
+GinollicA86 folds
+P1xel7 raises 2100 to 2700
+X-PaPrIkA-X folds
+liloelo folds
+P1xel7 collected 4320 from pot
+*** SUMMARY ***
+Total pot 4320 | No rake
+Seat 5: P1xel7 (small blind) won 4320
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 7 - HandId: #3248568749929791526-58-1710610191 - Holdem no limit (70/300/600) - 2024/03/16 17:29:51 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: rob19789 (33122, 0.11€ bounty)
+Seat 2: Lotta20147 (6853, 0.11€ bounty)
+Seat 3: liloelo (24879, 0.11€ bounty)
+Seat 4: GinollicA86 (19860, 0.11€ bounty)
+Seat 5: P1xel7 (31704, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (53152, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 70
+rob19789 posts ante 70
+Lotta20147 posts ante 70
+liloelo posts ante 70
+GinollicA86 posts ante 70
+P1xel7 posts ante 70
+X-PaPrIkA-X posts small blind 300
+rob19789 posts big blind 600
+Dealt to P1xel7 [2h Ah]
+*** PRE-FLOP *** 
+Lotta20147 folds
+liloelo folds
+GinollicA86 folds
+P1xel7 raises 600 to 1200
+X-PaPrIkA-X calls 900
+rob19789 calls 600
+*** FLOP *** [8s Jd Kc]
+X-PaPrIkA-X checks
+rob19789 checks
+P1xel7 checks
+*** TURN *** [8s Jd Kc][Jh]
+X-PaPrIkA-X checks
+rob19789 bets 600
+P1xel7 calls 600
+X-PaPrIkA-X calls 600
+*** RIVER *** [8s Jd Kc Jh][7s]
+X-PaPrIkA-X checks
+rob19789 bets 600
+P1xel7 calls 600
+X-PaPrIkA-X calls 600
+*** SHOW DOWN ***
+P1xel7 shows [2h Ah] (One pair : Jacks)
+X-PaPrIkA-X shows [6s Ad] (One pair : Jacks)
+rob19789 shows [Kd 5d] (Two pairs : Kings and Jacks)
+rob19789 collected 7620 from pot
+*** SUMMARY ***
+Total pot 7620 | No rake
+Board: [8s Jd Kc Jh 7s]
+Seat 1: rob19789 (big blind) showed [Kd 5d] and won 7620 with Two pairs : Kings and Jacks
+Seat 5: P1xel7 (button) showed [2h Ah] and lost with One pair : Jacks
+Seat 6: X-PaPrIkA-X (small blind) showed [6s Ad] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3248568749929791526-59-1710610269 - Holdem no limit (80/350/700) - 2024/03/16 17:31:09 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: rob19789 (38272, 0.11€ bounty)
+Seat 2: Lotta20147 (6783, 0.11€ bounty)
+Seat 4: GinollicA86 (19790, 0.11€ bounty)
+Seat 5: P1xel7 (29234, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (50682, 0.21€ bounty)
+*** ANTE/BLINDS ***
+rob19789 posts ante 80
+Lotta20147 posts ante 80
+GinollicA86 posts ante 80
+P1xel7 posts ante 80
+X-PaPrIkA-X posts ante 80
+rob19789 posts small blind 350
+Lotta20147 posts big blind 700
+Dealt to P1xel7 [2h 4d]
+*** PRE-FLOP *** 
+GinollicA86 raises 1400 to 2100
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 calls 1750
+Lotta20147 calls 1400
+*** FLOP *** [3d Qc 4c]
+rob19789 checks
+Lotta20147 checks
+GinollicA86 checks
+*** TURN *** [3d Qc 4c][3c]
+rob19789 checks
+Lotta20147 checks
+GinollicA86 checks
+*** RIVER *** [3d Qc 4c 3c][9h]
+rob19789 checks
+Lotta20147 checks
+GinollicA86 bets 6700
+rob19789 folds
+Lotta20147 folds
+GinollicA86 collected 13400 from pot
+*** SUMMARY ***
+Total pot 13400 | No rake
+Board: [3d Qc 4c 3c 9h]
+Seat 4: GinollicA86 won 13400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3248568749929791526-60-1710610325 - Holdem no limit (80/350/700) - 2024/03/16 17:32:05 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: rob19789 (36092, 0.11€ bounty)
+Seat 2: Lotta20147 (4603, 0.11€ bounty)
+Seat 3: RogerLestat (20000, 0.11€ bounty)
+Seat 4: GinollicA86 (24310, 0.11€ bounty)
+Seat 5: P1xel7 (29154, 0.11€ bounty)
+Seat 6: X-PaPrIkA-X (50602, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Lotta20147 posts ante 80
+RogerLestat posts ante 80
+rob19789 posts ante 80
+GinollicA86 posts ante 80
+P1xel7 posts ante 80
+X-PaPrIkA-X posts ante 80
+Lotta20147 posts small blind 350
+RogerLestat posts big blind 700
+Dealt to P1xel7 [Jc Qs]
+*** PRE-FLOP *** 
+GinollicA86 calls 700
+P1xel7 raises 2100 to 2800
+X-PaPrIkA-X folds
+rob19789 folds
+Lotta20147 raises 1723 to 4523 and is all-in
+RogerLestat calls 3823
+GinollicA86 folds
+P1xel7 calls 1723
+*** FLOP *** [6c 4h 3c]
+RogerLestat checks
+P1xel7 bets 9587
+RogerLestat folds
+*** TURN *** [6c 4h 3c][Qc]
+*** RIVER *** [6c 4h 3c Qc][Jh]
+*** SHOW DOWN ***
+Lotta20147 shows [8d 8c] (One pair : 8)
+P1xel7 shows [Jc Qs] (Two pairs : Queens and Jacks)
+P1xel7 collected 24336 from pot
+*** SUMMARY ***
+Total pot 24336 | No rake
+Board: [6c 4h 3c Qc Jh]
+Seat 2: Lotta20147 (small blind) showed [8d 8c] and lost with One pair : 8
+Seat 5: P1xel7 showed [Jc Qs] and won 24336 with Two pairs : Queens and Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3248568749929791526-61-1710610377 - Holdem no limit (80/350/700) - 2024/03/16 17:32:57 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: rob19789 (36012, 0.11€ bounty)
+Seat 3: RogerLestat (15397, 0.11€ bounty)
+Seat 4: GinollicA86 (23530, 0.11€ bounty)
+Seat 5: P1xel7 (39300, 0.16€ bounty)
+Seat 6: X-PaPrIkA-X (50522, 0.21€ bounty)
+*** ANTE/BLINDS ***
+RogerLestat posts ante 80
+GinollicA86 posts ante 80
+rob19789 posts ante 80
+P1xel7 posts ante 80
+X-PaPrIkA-X posts ante 80
+RogerLestat posts small blind 350
+GinollicA86 posts big blind 700
+Dealt to P1xel7 [7c 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+X-PaPrIkA-X folds
+rob19789 calls 700
+RogerLestat calls 350
+GinollicA86 checks
+*** FLOP *** [3s Jh Kc]
+RogerLestat checks
+GinollicA86 checks
+rob19789 checks
+*** TURN *** [3s Jh Kc][3c]
+RogerLestat checks
+GinollicA86 bets 875
+rob19789 folds
+RogerLestat folds
+GinollicA86 collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [3s Jh Kc 3c]
+Seat 4: GinollicA86 (big blind) won 3375
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3248568749929791526-62-1710610407 - Holdem no limit (80/350/700) - 2024/03/16 17:33:27 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: rob19789 (35232, 0.11€ bounty)
+Seat 2: Volk77 (20000, 0.11€ bounty)
+Seat 3: RogerLestat (14617, 0.11€ bounty)
+Seat 4: GinollicA86 (25250, 0.11€ bounty)
+Seat 5: P1xel7 (39220, 0.16€ bounty)
+Seat 6: X-PaPrIkA-X (50442, 0.21€ bounty)
+*** ANTE/BLINDS ***
+GinollicA86 posts ante 80
+P1xel7 posts ante 80
+rob19789 posts ante 80
+Volk77 posts ante 80
+RogerLestat posts ante 80
+X-PaPrIkA-X posts ante 80
+GinollicA86 posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [8h Qh]
+*** PRE-FLOP *** 
+X-PaPrIkA-X raises 1050 to 1750
+rob19789 folds
+Volk77 calls 1750
+RogerLestat calls 1750
+GinollicA86 folds
+P1xel7 folds
+*** FLOP *** [Qc Ac 5d]
+X-PaPrIkA-X checks
+Volk77 checks
+RogerLestat bets 2373
+X-PaPrIkA-X calls 2373
+Volk77 folds
+*** TURN *** [Qc Ac 5d][6d]
+X-PaPrIkA-X checks
+RogerLestat bets 7492
+X-PaPrIkA-X folds
+RogerLestat collected 19018 from pot
+*** SUMMARY ***
+Total pot 19018 | No rake
+Board: [Qc Ac 5d 6d]
+Seat 3: RogerLestat (button) won 19018
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3248568749929791526-63-1710610498 - Holdem no limit (80/350/700) - 2024/03/16 17:34:58 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: rob19789 (35152, 0.11€ bounty)
+Seat 2: Volk77 (18170, 0.11€ bounty)
+Seat 3: RogerLestat (21940, 0.11€ bounty)
+Seat 4: GinollicA86 (24820, 0.11€ bounty)
+Seat 5: P1xel7 (38440, 0.16€ bounty)
+Seat 6: X-PaPrIkA-X (46239, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+X-PaPrIkA-X posts ante 80
+rob19789 posts ante 80
+Volk77 posts ante 80
+RogerLestat posts ante 80
+GinollicA86 posts ante 80
+P1xel7 posts small blind 350
+X-PaPrIkA-X posts big blind 700
+Dealt to P1xel7 [Jd 4d]
+*** PRE-FLOP *** 
+rob19789 folds
+Volk77 folds
+RogerLestat raises 21160 to 21860 and is all-in
+GinollicA86 raises 2880 to 24740 and is all-in
+P1xel7 folds
+X-PaPrIkA-X folds
+*** FLOP *** [3s 5d 7c]
+*** TURN *** [3s 5d 7c][5c]
+*** RIVER *** [3s 5d 7c 5c][6s]
+*** SHOW DOWN ***
+RogerLestat shows [Td Ts] (Two pairs : Tens and 5)
+GinollicA86 shows [Th Kh] (One pair : 5)
+GinollicA86 collected 2880 from side pot 1
+RogerLestat collected 45250 from main pot
+*** SUMMARY ***
+Total pot 48130 | No rake
+Board: [3s 5d 7c 5c 6s]
+Seat 3: RogerLestat showed [Td Ts] and won 45250 with Two pairs : Tens and 5
+Seat 4: GinollicA86 (button) showed [Th Kh] and won 2880 with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 8 - HandId: #3248568749929791526-64-1710610525 - Holdem no limit (80/350/700) - 2024/03/16 17:35:25 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: rob19789 (35072, 0.11€ bounty)
+Seat 2: Volk77 (18090, 0.11€ bounty)
+Seat 3: RogerLestat (45250, 0.11€ bounty)
+Seat 4: GinollicA86 (2880, 0.11€ bounty)
+Seat 5: P1xel7 (38010, 0.16€ bounty)
+Seat 6: X-PaPrIkA-X (45459, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 80
+rob19789 posts ante 80
+Volk77 posts ante 80
+RogerLestat posts ante 80
+GinollicA86 posts ante 80
+P1xel7 posts ante 80
+X-PaPrIkA-X posts small blind 350
+rob19789 posts big blind 700
+Dealt to P1xel7 [2c 3c]
+*** PRE-FLOP *** 
+Volk77 calls 700
+RogerLestat calls 700
+GinollicA86 raises 2100 to 2800 and is all-in
+P1xel7 calls 2800
+X-PaPrIkA-X folds
+rob19789 calls 2100
+Volk77 calls 2100
+RogerLestat calls 2100
+*** FLOP *** [6c Jc Ac]
+rob19789 checks
+Volk77 checks
+RogerLestat checks
+P1xel7 bets 11864
+rob19789 calls 11864
+Volk77 folds
+RogerLestat folds
+*** TURN *** [6c Jc Ac][Qd]
+rob19789 checks
+P1xel7 bets 23266 and is all-in
+rob19789 calls 20328 and is all-in
+*** RIVER *** [6c Jc Ac Qd][8d]
+*** SHOW DOWN ***
+rob19789 shows [Kc 9s] (High card : Ace)
+GinollicA86 shows [4d 8s] (One pair : 8)
+P1xel7 shows [2c 3c] (Flush Ace high)
+P1xel7 collected 82152 from pot
+*** SUMMARY ***
+Total pot 82152 | No rake
+Board: [6c Jc Ac Qd 8d]
+Seat 1: rob19789 (big blind) showed [Kc 9s] and lost with High card : Ace
+Seat 4: GinollicA86 showed [4d 8s] and lost with One pair : 8
+Seat 5: P1xel7 (button) showed [2c 3c] and won 82152 with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3248568749929791526-65-1710610587 - Holdem no limit (100/400/800) - 2024/03/16 17:36:27 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 2: Volk77 (15210, 0.11€ bounty)
+Seat 3: RogerLestat (42370, 0.11€ bounty)
+Seat 5: P1xel7 (82152, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (45029, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Volk77 posts ante 100
+RogerLestat posts ante 100
+P1xel7 posts ante 100
+X-PaPrIkA-X posts ante 100
+Volk77 posts big blind 800
+Dealt to P1xel7 [2s Ts]
+*** PRE-FLOP *** 
+RogerLestat calls 800
+P1xel7 folds
+X-PaPrIkA-X raises 2800 to 3600
+Volk77 folds
+RogerLestat calls 2800
+*** FLOP *** [6c 3s 6s]
+RogerLestat bets 800
+X-PaPrIkA-X raises 6220 to 7020
+RogerLestat folds
+X-PaPrIkA-X collected 16220 from pot
+*** SUMMARY ***
+Total pot 16220 | No rake
+Board: [6c 3s 6s]
+Seat 6: X-PaPrIkA-X (button) won 16220
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3248568749929791526-66-1710610641 - Holdem no limit (100/400/800) - 2024/03/16 17:37:21 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: ruperrip (76269, 0.21€ bounty)
+Seat 2: Volk77 (14310, 0.11€ bounty)
+Seat 3: RogerLestat (37870, 0.11€ bounty)
+Seat 5: P1xel7 (82052, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (50529, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Volk77 posts ante 100
+RogerLestat posts ante 100
+P1xel7 posts ante 100
+X-PaPrIkA-X posts ante 100
+Volk77 posts small blind 400
+RogerLestat posts big blind 800
+Dealt to P1xel7 [7d 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+X-PaPrIkA-X folds
+Volk77 calls 400
+RogerLestat checks
+*** FLOP *** [3c 4c 6c]
+Volk77 checks
+RogerLestat checks
+*** TURN *** [3c 4c 6c][2s]
+Volk77 checks
+RogerLestat bets 800
+Volk77 raises 800 to 1600
+RogerLestat calls 800
+*** RIVER *** [3c 4c 6c 2s][Kc]
+Volk77 checks
+RogerLestat checks
+*** SHOW DOWN ***
+RogerLestat shows [4s Jh] (One pair : 4)
+Volk77 shows [Qh 5s] (Straight 6 high)
+Volk77 collected 5200 from pot
+*** SUMMARY ***
+Total pot 5200 | No rake
+Board: [3c 4c 6c 2s Kc]
+Seat 2: Volk77 (small blind) showed [Qh 5s] and won 5200 with Straight 6 high
+Seat 3: RogerLestat (big blind) showed [4s Jh] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3248568749929791526-67-1710610679 - Holdem no limit (100/400/800) - 2024/03/16 17:37:59 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: ruperrip (76269, 0.21€ bounty)
+Seat 2: Volk77 (17010, 0.11€ bounty)
+Seat 3: RogerLestat (35370, 0.11€ bounty)
+Seat 5: P1xel7 (81952, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (50429, 0.21€ bounty)
+*** ANTE/BLINDS ***
+RogerLestat posts ante 100
+P1xel7 posts ante 100
+ruperrip posts ante 100
+Volk77 posts ante 100
+X-PaPrIkA-X posts ante 100
+RogerLestat posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [Qc 4s]
+*** PRE-FLOP *** 
+X-PaPrIkA-X folds
+ruperrip folds
+Volk77 folds
+RogerLestat calls 400
+P1xel7 checks
+*** FLOP *** [Jh Td 5s]
+RogerLestat checks
+P1xel7 checks
+*** TURN *** [Jh Td 5s][7c]
+RogerLestat bets 800
+P1xel7 folds
+RogerLestat collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Board: [Jh Td 5s 7c]
+Seat 3: RogerLestat (small blind) won 2900
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3248568749929791526-68-1710610701 - Holdem no limit (100/400/800) - 2024/03/16 17:38:21 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: ruperrip (76169, 0.21€ bounty)
+Seat 2: Volk77 (16910, 0.11€ bounty)
+Seat 3: RogerLestat (36570, 0.11€ bounty)
+Seat 5: P1xel7 (81052, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (50329, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+X-PaPrIkA-X posts ante 100
+ruperrip posts ante 100
+Volk77 posts ante 100
+RogerLestat posts ante 100
+P1xel7 posts small blind 400
+X-PaPrIkA-X posts big blind 800
+Dealt to P1xel7 [8d 7d]
+*** PRE-FLOP *** 
+ruperrip calls 800
+Volk77 folds
+RogerLestat calls 800
+P1xel7 calls 400
+X-PaPrIkA-X checks
+*** FLOP *** [8h 6h 2c]
+P1xel7 bets 1850
+X-PaPrIkA-X folds
+ruperrip calls 1850
+RogerLestat calls 1850
+*** TURN *** [8h 6h 2c][Qs]
+P1xel7 bets 4625
+ruperrip folds
+RogerLestat folds
+P1xel7 collected 13875 from pot
+*** SUMMARY ***
+Total pot 13875 | No rake
+Board: [8h 6h 2c Qs]
+Seat 5: P1xel7 (small blind) won 13875
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3248568749929791526-69-1710610779 - Holdem no limit (100/400/800) - 2024/03/16 17:39:39 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: ruperrip (73419, 0.21€ bounty)
+Seat 2: Volk77 (16810, 0.11€ bounty)
+Seat 3: RogerLestat (33820, 0.11€ bounty)
+Seat 4: 369berimbao (20000, 0.11€ bounty)
+Seat 5: P1xel7 (87552, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (49429, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 100
+ruperrip posts ante 100
+Volk77 posts ante 100
+RogerLestat posts ante 100
+369berimbao posts ante 100
+P1xel7 posts ante 100
+X-PaPrIkA-X posts small blind 400
+ruperrip posts big blind 800
+Dealt to P1xel7 [8d Ah]
+*** PRE-FLOP *** 
+Volk77 folds
+RogerLestat calls 800
+369berimbao folds
+P1xel7 raises 1200 to 2000
+X-PaPrIkA-X folds
+ruperrip folds
+RogerLestat calls 1200
+*** FLOP *** [Jh 8s 7s]
+RogerLestat checks
+P1xel7 checks
+*** TURN *** [Jh 8s 7s][5h]
+RogerLestat checks
+P1xel7 bets 1200
+RogerLestat calls 1200
+*** RIVER *** [Jh 8s 7s 5h][4d]
+RogerLestat checks
+P1xel7 bets 5330
+RogerLestat folds
+P1xel7 collected 13530 from pot
+*** SUMMARY ***
+Total pot 13530 | No rake
+Board: [Jh 8s 7s 5h 4d]
+Seat 5: P1xel7 (button) won 13530
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 9 - HandId: #3248568749929791526-70-1710610858 - Holdem no limit (100/400/800) - 2024/03/16 17:40:58 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: ruperrip (72519, 0.21€ bounty)
+Seat 2: Volk77 (16710, 0.11€ bounty)
+Seat 3: RogerLestat (30520, 0.11€ bounty)
+Seat 4: 369berimbao (19900, 0.11€ bounty)
+Seat 5: P1xel7 (92452, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (48929, 0.21€ bounty)
+*** ANTE/BLINDS ***
+ruperrip posts ante 100
+Volk77 posts ante 100
+RogerLestat posts ante 100
+369berimbao posts ante 100
+P1xel7 posts ante 100
+X-PaPrIkA-X posts ante 100
+ruperrip posts small blind 400
+Volk77 posts big blind 800
+Dealt to P1xel7 [Qc 3c]
+*** PRE-FLOP *** 
+RogerLestat calls 800
+369berimbao folds
+P1xel7 folds
+X-PaPrIkA-X raises 3200 to 4000
+ruperrip folds
+Volk77 raises 12610 to 16610 and is all-in
+RogerLestat folds
+X-PaPrIkA-X folds
+Volk77 collected 22410 from pot
+*** SUMMARY ***
+Total pot 22410 | No rake
+Seat 2: Volk77 (big blind) won 22410
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3248568749929791526-71-1710610899 - Holdem no limit (120/500/1000) - 2024/03/16 17:41:39 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: ruperrip (72019, 0.21€ bounty)
+Seat 2: Volk77 (22410, 0.11€ bounty)
+Seat 3: RogerLestat (29620, 0.11€ bounty)
+Seat 4: 369berimbao (19800, 0.11€ bounty)
+Seat 5: P1xel7 (92352, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (44829, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Volk77 posts ante 120
+RogerLestat posts ante 120
+ruperrip posts ante 120
+369berimbao posts ante 120
+P1xel7 posts ante 120
+X-PaPrIkA-X posts ante 120
+Volk77 posts small blind 500
+RogerLestat posts big blind 1000
+Dealt to P1xel7 [6c 3d]
+*** PRE-FLOP *** 
+369berimbao folds
+P1xel7 folds
+X-PaPrIkA-X raises 1500 to 2500
+ruperrip folds
+Volk77 calls 2000
+RogerLestat calls 1500
+*** FLOP *** [7h 8h Ah]
+Volk77 checks
+RogerLestat checks
+X-PaPrIkA-X bets 5343
+Volk77 folds
+RogerLestat raises 5343 to 10686
+X-PaPrIkA-X calls 5343
+*** TURN *** [7h 8h Ah][2h]
+RogerLestat bets 16314 and is all-in
+X-PaPrIkA-X calls 16314
+*** RIVER *** [7h 8h Ah 2h][9h]
+*** SHOW DOWN ***
+X-PaPrIkA-X shows [Ad Kc] (Flush Ace high)
+RogerLestat shows [Jh 4h] (Flush Ace high)
+RogerLestat collected 62220 from pot
+*** SUMMARY ***
+Total pot 62220 | No rake
+Board: [7h 8h Ah 2h 9h]
+Seat 3: RogerLestat (big blind) showed [Jh 4h] and won 62220 with Flush Ace high
+Seat 6: X-PaPrIkA-X showed [Ad Kc] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3248568749929791526-72-1710610987 - Holdem no limit (120/500/1000) - 2024/03/16 17:43:07 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: ruperrip (71899, 0.21€ bounty)
+Seat 2: Volk77 (19790, 0.11€ bounty)
+Seat 3: RogerLestat (62220, 0.11€ bounty)
+Seat 4: 369berimbao (19680, 0.11€ bounty)
+Seat 5: P1xel7 (92232, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (15209, 0.21€ bounty)
+*** ANTE/BLINDS ***
+RogerLestat posts ante 120
+369berimbao posts ante 120
+ruperrip posts ante 120
+Volk77 posts ante 120
+P1xel7 posts ante 120
+X-PaPrIkA-X posts ante 120
+RogerLestat posts small blind 500
+369berimbao posts big blind 1000
+Dealt to P1xel7 [7c 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+X-PaPrIkA-X folds
+ruperrip folds
+Volk77 calls 1000
+RogerLestat calls 500
+369berimbao checks
+*** FLOP *** [4h Tc 2c]
+RogerLestat checks
+369berimbao checks
+Volk77 checks
+*** TURN *** [4h Tc 2c][Js]
+RogerLestat checks
+369berimbao checks
+Volk77 checks
+*** RIVER *** [4h Tc 2c Js][2s]
+RogerLestat checks
+369berimbao checks
+Volk77 checks
+*** SHOW DOWN ***
+Volk77 shows [7s 4s] (Two pairs : 4 and 2)
+RogerLestat shows [3d 9c] (One pair : 2)
+369berimbao shows [Td 6h] (Two pairs : Tens and 2)
+369berimbao collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Board: [4h Tc 2c Js 2s]
+Seat 2: Volk77 (button) showed [7s 4s] and lost with Two pairs : 4 and 2
+Seat 3: RogerLestat (small blind) showed [3d 9c] and lost with One pair : 2
+Seat 4: 369berimbao (big blind) showed [Td 6h] and won 3720 with Two pairs : Tens and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3248568749929791526-73-1710611028 - Holdem no limit (120/500/1000) - 2024/03/16 17:43:48 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: ruperrip (71779, 0.21€ bounty)
+Seat 2: Volk77 (18670, 0.11€ bounty)
+Seat 3: RogerLestat (61100, 0.11€ bounty)
+Seat 4: 369berimbao (22280, 0.11€ bounty)
+Seat 5: P1xel7 (92112, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (15089, 0.21€ bounty)
+*** ANTE/BLINDS ***
+369berimbao posts ante 120
+P1xel7 posts ante 120
+ruperrip posts ante 120
+Volk77 posts ante 120
+RogerLestat posts ante 120
+X-PaPrIkA-X posts ante 120
+369berimbao posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Kh 8s]
+*** PRE-FLOP *** 
+X-PaPrIkA-X folds
+ruperrip folds
+Volk77 folds
+RogerLestat calls 1000
+369berimbao folds
+P1xel7 raises 3500 to 4500
+RogerLestat calls 3500
+*** FLOP *** [5h 9c Ac]
+P1xel7 bets 5110
+RogerLestat calls 5110
+*** TURN *** [5h 9c Ac][2s]
+P1xel7 checks
+RogerLestat checks
+*** RIVER *** [5h 9c Ac 2s][8h]
+P1xel7 bets 7154
+RogerLestat raises 7154 to 14308
+P1xel7 calls 7154
+*** SHOW DOWN ***
+P1xel7 shows [Kh 8s] (One pair : 8)
+RogerLestat shows [6d 7d] (Straight 9 high)
+RogerLestat collected 49056 from pot
+*** SUMMARY ***
+Total pot 49056 | No rake
+Board: [5h 9c Ac 2s 8h]
+Seat 3: RogerLestat (button) showed [6d 7d] and won 49056 with Straight 9 high
+Seat 5: P1xel7 (big blind) showed [Kh 8s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3248568749929791526-74-1710611082 - Holdem no limit (120/500/1000) - 2024/03/16 17:44:42 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: ruperrip (71659, 0.21€ bounty)
+Seat 2: Volk77 (18550, 0.11€ bounty)
+Seat 3: RogerLestat (86118, 0.11€ bounty)
+Seat 4: 369berimbao (21660, 0.11€ bounty)
+Seat 5: P1xel7 (68074, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (14969, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+X-PaPrIkA-X posts ante 120
+ruperrip posts ante 120
+Volk77 posts ante 120
+RogerLestat posts ante 120
+369berimbao posts ante 120
+P1xel7 posts small blind 500
+X-PaPrIkA-X posts big blind 1000
+Dealt to P1xel7 [4h Ah]
+*** PRE-FLOP *** 
+ruperrip folds
+Volk77 folds
+RogerLestat folds
+369berimbao folds
+P1xel7 raises 66954 to 67954 and is all-in
+X-PaPrIkA-X folds
+P1xel7 collected 69674 from pot
+*** SUMMARY ***
+Total pot 69674 | No rake
+Seat 5: P1xel7 (small blind) won 69674
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 10 - HandId: #3248568749929791526-75-1710611127 - Holdem no limit (120/500/1000) - 2024/03/16 17:45:27 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: ruperrip (71539, 0.21€ bounty)
+Seat 2: Volk77 (18430, 0.11€ bounty)
+Seat 3: RogerLestat (85998, 0.11€ bounty)
+Seat 4: 369berimbao (21540, 0.11€ bounty)
+Seat 5: P1xel7 (69674, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (13849, 0.21€ bounty)
+*** ANTE/BLINDS ***
+X-PaPrIkA-X posts ante 120
+ruperrip posts ante 120
+Volk77 posts ante 120
+RogerLestat posts ante 120
+369berimbao posts ante 120
+P1xel7 posts ante 120
+X-PaPrIkA-X posts small blind 500
+ruperrip posts big blind 1000
+Dealt to P1xel7 [As 5h]
+*** PRE-FLOP *** 
+Volk77 calls 1000
+RogerLestat folds
+369berimbao calls 1000
+P1xel7 raises 4000 to 5000
+X-PaPrIkA-X folds
+ruperrip calls 4000
+Volk77 calls 4000
+369berimbao calls 4000
+*** FLOP *** [7d 9d Ks]
+ruperrip checks
+Volk77 bets 13310 and is all-in
+369berimbao calls 13310
+P1xel7 folds
+ruperrip folds
+*** TURN *** [7d 9d Ks][3s]
+*** RIVER *** [7d 9d Ks 3s][7s]
+*** SHOW DOWN ***
+Volk77 shows [Qc Js] (One pair : 7)
+369berimbao shows [Kh Jh] (Two pairs : Kings and 7)
+369berimbao collected 47840 from pot
+*** SUMMARY ***
+Total pot 47840 | No rake
+Board: [7d 9d Ks 3s 7s]
+Seat 2: Volk77 showed [Qc Js] and lost with One pair : 7
+Seat 4: 369berimbao showed [Kh Jh] and won 47840 with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3248568749929791526-76-1710611182 - Holdem no limit (140/600/1200) - 2024/03/16 17:46:22 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: ruperrip (66419, 0.21€ bounty)
+Seat 3: RogerLestat (85878, 0.11€ bounty)
+Seat 4: 369berimbao (50950, 0.16€ bounty)
+Seat 5: P1xel7 (64554, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (13229, 0.21€ bounty)
+*** ANTE/BLINDS ***
+ruperrip posts ante 140
+RogerLestat posts ante 140
+369berimbao posts ante 140
+P1xel7 posts ante 140
+X-PaPrIkA-X posts ante 140
+ruperrip posts small blind 600
+RogerLestat posts big blind 1200
+Dealt to P1xel7 [4h 5d]
+*** PRE-FLOP *** 
+369berimbao calls 1200
+P1xel7 folds
+X-PaPrIkA-X folds
+ruperrip folds
+RogerLestat raises 1200 to 2400
+369berimbao calls 1200
+*** FLOP *** [9c 3d Td]
+RogerLestat bets 6100
+369berimbao calls 6100
+*** TURN *** [9c 3d Td][7c]
+RogerLestat bets 18300
+369berimbao folds
+RogerLestat collected 36600 from pot
+*** SUMMARY ***
+Total pot 36600 | No rake
+Board: [9c 3d Td 7c]
+Seat 3: RogerLestat (big blind) won 36600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3248568749929791526-77-1710611214 - Holdem no limit (140/600/1200) - 2024/03/16 17:46:54 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: ruperrip (65679, 0.21€ bounty)
+Seat 3: RogerLestat (95538, 0.11€ bounty)
+Seat 4: 369berimbao (42310, 0.16€ bounty)
+Seat 5: P1xel7 (64414, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (13089, 0.21€ bounty)
+*** ANTE/BLINDS ***
+RogerLestat posts ante 140
+369berimbao posts ante 140
+ruperrip posts ante 140
+P1xel7 posts ante 140
+X-PaPrIkA-X posts ante 140
+RogerLestat posts small blind 600
+369berimbao posts big blind 1200
+Dealt to P1xel7 [8s 8c]
+*** PRE-FLOP *** 
+P1xel7 raises 1440 to 2640
+X-PaPrIkA-X folds
+ruperrip folds
+RogerLestat calls 2040
+369berimbao calls 1440
+*** FLOP *** [2d Kh Kd]
+RogerLestat checks
+369berimbao checks
+P1xel7 checks
+*** TURN *** [2d Kh Kd][4h]
+RogerLestat bets 5603
+369berimbao folds
+P1xel7 calls 5603
+*** RIVER *** [2d Kh Kd 4h][3d]
+RogerLestat bets 19826
+P1xel7 calls 19826
+*** SHOW DOWN ***
+P1xel7 shows [8s 8c] (Two pairs : Kings and 8)
+RogerLestat shows [Qc Ks] (Trips of Kings)
+RogerLestat collected 59478 from pot
+*** SUMMARY ***
+Total pot 59478 | No rake
+Board: [2d Kh Kd 4h 3d]
+Seat 3: RogerLestat (small blind) showed [Qc Ks] and won 59478 with Trips of Kings
+Seat 5: P1xel7 showed [8s 8c] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3248568749929791526-78-1710611279 - Holdem no limit (140/600/1200) - 2024/03/16 17:47:59 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: ruperrip (65539, 0.21€ bounty)
+Seat 2: ValueEnd (57548, 0.21€ bounty)
+Seat 3: RogerLestat (126807, 0.11€ bounty)
+Seat 4: 369berimbao (39530, 0.16€ bounty)
+Seat 5: P1xel7 (36205, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (12949, 0.21€ bounty)
+*** ANTE/BLINDS ***
+369berimbao posts ante 140
+P1xel7 posts ante 140
+ruperrip posts ante 140
+ValueEnd posts ante 140
+RogerLestat posts ante 140
+X-PaPrIkA-X posts ante 140
+369berimbao posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [Kd 9h]
+*** PRE-FLOP *** 
+X-PaPrIkA-X folds
+ruperrip folds
+ValueEnd folds
+RogerLestat folds
+369berimbao folds
+P1xel7 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 5: P1xel7 (big blind) won 2640
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3248568749929791526-79-1710611345 - Holdem no limit (140/600/1200) - 2024/03/16 17:49:05 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: ruperrip (65399, 0.21€ bounty)
+Seat 2: ValueEnd (57408, 0.21€ bounty)
+Seat 3: RogerLestat (126667, 0.11€ bounty)
+Seat 4: 369berimbao (38790, 0.16€ bounty)
+Seat 5: P1xel7 (37505, 0.26€ bounty)
+Seat 6: X-PaPrIkA-X (12809, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+X-PaPrIkA-X posts ante 140
+ruperrip posts ante 140
+ValueEnd posts ante 140
+RogerLestat posts ante 140
+369berimbao posts ante 140
+P1xel7 posts small blind 600
+X-PaPrIkA-X posts big blind 1200
+Dealt to P1xel7 [7d 4h]
+*** PRE-FLOP *** 
+ruperrip folds
+ValueEnd raises 1200 to 2400
+RogerLestat folds
+369berimbao folds
+P1xel7 folds
+X-PaPrIkA-X raises 10269 to 12669 and is all-in
+ValueEnd calls 10269
+*** FLOP *** [5d 5s 5h]
+*** TURN *** [5d 5s 5h][3d]
+*** RIVER *** [5d 5s 5h 3d][8h]
+*** SHOW DOWN ***
+X-PaPrIkA-X shows [7s Ac] (Trips of 5)
+ValueEnd shows [As 8d] (Full of 5 and 8)
+ValueEnd collected 26778 from pot
+*** SUMMARY ***
+Total pot 26778 | No rake
+Board: [5d 5s 5h 3d 8h]
+Seat 2: ValueEnd showed [As 8d] and won 26778 with Full of 5 and 8
+Seat 6: X-PaPrIkA-X (big blind) showed [7s Ac] and lost with Trips of 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3248568749929791526-80-1710611375 - Holdem no limit (140/600/1200) - 2024/03/16 17:49:35 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: ruperrip (65259, 0.21€ bounty)
+Seat 2: ValueEnd (71377, 0.31€ bounty)
+Seat 3: RogerLestat (126527, 0.11€ bounty)
+Seat 4: 369berimbao (38650, 0.16€ bounty)
+Seat 5: P1xel7 (36765, 0.26€ bounty)
+*** ANTE/BLINDS ***
+ruperrip posts ante 140
+ValueEnd posts ante 140
+RogerLestat posts ante 140
+369berimbao posts ante 140
+P1xel7 posts ante 140
+ruperrip posts big blind 1200
+Dealt to P1xel7 [Js 6d]
+*** PRE-FLOP *** 
+ValueEnd folds
+RogerLestat calls 1200
+369berimbao calls 1200
+P1xel7 folds
+ruperrip checks
+*** FLOP *** [9s Jd Ts]
+ruperrip checks
+RogerLestat bets 1200
+369berimbao calls 1200
+ruperrip folds
+*** TURN *** [9s Jd Ts][9c]
+RogerLestat bets 1200
+369berimbao calls 1200
+*** RIVER *** [9s Jd Ts 9c][5d]
+RogerLestat checks
+369berimbao bets 5915
+RogerLestat calls 5915
+*** SHOW DOWN ***
+RogerLestat shows [2d Td] (Two pairs : Tens and 9)
+369berimbao shows [Th Tc] (Full of Tens and 9)
+369berimbao collected 20930 from pot
+*** SUMMARY ***
+Total pot 20930 | No rake
+Board: [9s Jd Ts 9c 5d]
+Seat 3: RogerLestat showed [2d Td] and lost with Two pairs : Tens and 9
+Seat 4: 369berimbao showed [Th Tc] and won 20930 with Full of Tens and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 11 - HandId: #3248568749929791526-81-1710611429 - Holdem no limit (140/600/1200) - 2024/03/16 17:50:29 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: ruperrip (63919, 0.21€ bounty)
+Seat 2: ValueEnd (71237, 0.31€ bounty)
+Seat 3: RogerLestat (116872, 0.11€ bounty)
+Seat 4: 369berimbao (49925, 0.16€ bounty)
+Seat 5: P1xel7 (36625, 0.26€ bounty)
+Seat 6: Rxbxn22 (80212, 0.26€ bounty)
+*** ANTE/BLINDS ***
+ruperrip posts ante 140
+ValueEnd posts ante 140
+RogerLestat posts ante 140
+369berimbao posts ante 140
+P1xel7 posts ante 140
+ruperrip posts small blind 600
+ValueEnd posts big blind 1200
+Dealt to P1xel7 [9c 4h]
+*** PRE-FLOP *** 
+RogerLestat calls 1200
+369berimbao folds
+P1xel7 folds
+ruperrip calls 600
+ValueEnd checks
+*** FLOP *** [4s 3c Ks]
+ruperrip checks
+ValueEnd checks
+RogerLestat checks
+*** TURN *** [4s 3c Ks][3s]
+ruperrip checks
+ValueEnd checks
+RogerLestat checks
+*** RIVER *** [4s 3c Ks 3s][6c]
+ruperrip checks
+ValueEnd checks
+RogerLestat checks
+*** SHOW DOWN ***
+ruperrip shows [Qh 8c] (One pair : 3)
+ValueEnd shows [2s 9d] (One pair : 3)
+RogerLestat shows [Ac 5d] (One pair : 3)
+RogerLestat collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Board: [4s 3c Ks 3s 6c]
+Seat 1: ruperrip (small blind) showed [Qh 8c] and lost with One pair : 3
+Seat 2: ValueEnd (big blind) showed [2s 9d] and lost with One pair : 3
+Seat 3: RogerLestat showed [Ac 5d] and won 4300 with One pair : 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3248568749929791526-82-1710611479 - Holdem no limit (160/700/1400) - 2024/03/16 17:51:19 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: ruperrip (62579, 0.21€ bounty)
+Seat 2: ValueEnd (69897, 0.31€ bounty)
+Seat 3: RogerLestat (119832, 0.11€ bounty)
+Seat 4: 369berimbao (49785, 0.16€ bounty)
+Seat 5: P1xel7 (36485, 0.26€ bounty)
+Seat 6: Rxbxn22 (80212, 0.26€ bounty)
+*** ANTE/BLINDS ***
+ValueEnd posts ante 160
+RogerLestat posts ante 160
+ruperrip posts ante 160
+369berimbao posts ante 160
+P1xel7 posts ante 160
+Rxbxn22 posts ante 160
+ValueEnd posts small blind 700
+RogerLestat posts big blind 1400
+Dealt to P1xel7 [Qc Jd]
+*** PRE-FLOP *** 
+369berimbao calls 1400
+P1xel7 folds
+Rxbxn22 folds
+ruperrip folds
+ValueEnd calls 700
+RogerLestat checks
+*** FLOP *** [6h 4c Ks]
+ValueEnd checks
+RogerLestat checks
+369berimbao checks
+*** TURN *** [6h 4c Ks][9c]
+ValueEnd checks
+RogerLestat checks
+369berimbao checks
+*** RIVER *** [6h 4c Ks 9c][6s]
+ValueEnd bets 1400
+RogerLestat calls 1400
+369berimbao folds
+*** SHOW DOWN ***
+RogerLestat shows [Ac 3h] (One pair : 6)
+ValueEnd shows [9s Js] (Two pairs : 9 and 6)
+ValueEnd collected 7960 from pot
+*** SUMMARY ***
+Total pot 7960 | No rake
+Board: [6h 4c Ks 9c 6s]
+Seat 2: ValueEnd (small blind) showed [9s Js] and won 7960 with Two pairs : 9 and 6
+Seat 3: RogerLestat (big blind) showed [Ac 3h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3248568749929791526-83-1710611529 - Holdem no limit (160/700/1400) - 2024/03/16 17:52:09 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #2 is the button
+Seat 1: ruperrip (62419, 0.21€ bounty)
+Seat 2: ValueEnd (74897, 0.31€ bounty)
+Seat 3: RogerLestat (116872, 0.11€ bounty)
+Seat 4: 369berimbao (48225, 0.16€ bounty)
+Seat 5: P1xel7 (36325, 0.26€ bounty)
+Seat 6: Rxbxn22 (80052, 0.26€ bounty)
+*** ANTE/BLINDS ***
+RogerLestat posts ante 160
+369berimbao posts ante 160
+ruperrip posts ante 160
+ValueEnd posts ante 160
+P1xel7 posts ante 160
+Rxbxn22 posts ante 160
+RogerLestat posts small blind 700
+369berimbao posts big blind 1400
+Dealt to P1xel7 [Kd 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Rxbxn22 folds
+ruperrip raises 4460 to 5860
+ValueEnd folds
+RogerLestat folds
+369berimbao folds
+ruperrip collected 8920 from pot
+*** SUMMARY ***
+Total pot 8920 | No rake
+Seat 1: ruperrip won 8920
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3248568749929791526-84-1710611547 - Holdem no limit (160/700/1400) - 2024/03/16 17:52:27 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: ruperrip (65319, 0.21€ bounty)
+Seat 2: ValueEnd (74737, 0.31€ bounty)
+Seat 3: RogerLestat (116012, 0.11€ bounty)
+Seat 4: 369berimbao (46665, 0.16€ bounty)
+Seat 5: P1xel7 (36165, 0.26€ bounty)
+Seat 6: Rxbxn22 (79892, 0.26€ bounty)
+*** ANTE/BLINDS ***
+369berimbao posts ante 160
+P1xel7 posts ante 160
+ruperrip posts ante 160
+ValueEnd posts ante 160
+RogerLestat posts ante 160
+Rxbxn22 posts ante 160
+369berimbao posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [2c Qh]
+*** PRE-FLOP *** 
+Rxbxn22 folds
+ruperrip folds
+ValueEnd raises 1750 to 3150
+RogerLestat folds
+369berimbao folds
+P1xel7 calls 1750
+*** FLOP *** [3c 8s 2s]
+P1xel7 checks
+ValueEnd checks
+*** TURN *** [3c 8s 2s][4s]
+P1xel7 bets 6368
+ValueEnd folds
+P1xel7 collected 14328 from pot
+*** SUMMARY ***
+Total pot 14328 | No rake
+Board: [3c 8s 2s 4s]
+Seat 5: P1xel7 (big blind) won 14328
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3248568749929791526-85-1710611582 - Holdem no limit (160/700/1400) - 2024/03/16 17:53:02 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: ruperrip (65159, 0.21€ bounty)
+Seat 2: ValueEnd (71427, 0.31€ bounty)
+Seat 3: RogerLestat (115852, 0.11€ bounty)
+Seat 4: 369berimbao (45805, 0.16€ bounty)
+Seat 5: P1xel7 (40815, 0.26€ bounty)
+Seat 6: Rxbxn22 (79732, 0.26€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+Rxbxn22 posts ante 160
+ruperrip posts ante 160
+ValueEnd posts ante 160
+RogerLestat posts ante 160
+369berimbao posts ante 160
+P1xel7 posts small blind 700
+Rxbxn22 posts big blind 1400
+Dealt to P1xel7 [4d 3h]
+*** PRE-FLOP *** 
+ruperrip raises 63599 to 64999 and is all-in
+ValueEnd folds
+RogerLestat folds
+369berimbao folds
+P1xel7 folds
+Rxbxn22 folds
+ruperrip collected 68059 from pot
+*** SUMMARY ***
+Total pot 68059 | No rake
+Seat 1: ruperrip won 68059
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3248568749929791526-86-1710611595 - Holdem no limit (160/700/1400) - 2024/03/16 17:53:15 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: ruperrip (68059, 0.21€ bounty)
+Seat 2: ValueEnd (71267, 0.31€ bounty)
+Seat 3: RogerLestat (115692, 0.11€ bounty)
+Seat 4: 369berimbao (45645, 0.16€ bounty)
+Seat 5: P1xel7 (39955, 0.26€ bounty)
+Seat 6: Rxbxn22 (78172, 0.26€ bounty)
+*** ANTE/BLINDS ***
+Rxbxn22 posts ante 160
+ruperrip posts ante 160
+ValueEnd posts ante 160
+RogerLestat posts ante 160
+369berimbao posts ante 160
+P1xel7 posts ante 160
+Rxbxn22 posts small blind 700
+ruperrip posts big blind 1400
+Dealt to P1xel7 [3h 7c]
+*** PRE-FLOP *** 
+ValueEnd raises 1750 to 3150
+RogerLestat folds
+369berimbao folds
+P1xel7 folds
+Rxbxn22 raises 6650 to 9800
+ruperrip folds
+ValueEnd raises 61307 to 71107 and is all-in
+Rxbxn22 calls 61307
+*** FLOP *** [Ks Qs Kc]
+*** TURN *** [Ks Qs Kc][4h]
+*** RIVER *** [Ks Qs Kc 4h][7d]
+*** SHOW DOWN ***
+ValueEnd shows [8s 9s] (One pair : Kings)
+Rxbxn22 shows [As Kd] (Trips of Kings)
+Rxbxn22 collected 144574 from pot
+*** SUMMARY ***
+Total pot 144574 | No rake
+Board: [Ks Qs Kc 4h 7d]
+Seat 2: ValueEnd showed [8s 9s] and lost with One pair : Kings
+Seat 6: Rxbxn22 (small blind) showed [As Kd] and won 144574 with Trips of Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3248568749929791526-87-1710611619 - Holdem no limit (160/700/1400) - 2024/03/16 17:53:39 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: ruperrip (66499, 0.21€ bounty)
+Seat 3: RogerLestat (115532, 0.11€ bounty)
+Seat 4: 369berimbao (45485, 0.16€ bounty)
+Seat 5: P1xel7 (39795, 0.26€ bounty)
+Seat 6: Rxbxn22 (151479, 0.41€ bounty)
+*** ANTE/BLINDS ***
+ruperrip posts ante 160
+RogerLestat posts ante 160
+369berimbao posts ante 160
+P1xel7 posts ante 160
+Rxbxn22 posts ante 160
+ruperrip posts small blind 700
+RogerLestat posts big blind 1400
+Dealt to P1xel7 [9d 2s]
+*** PRE-FLOP *** 
+369berimbao folds
+P1xel7 folds
+Rxbxn22 raises 1400 to 2800
+ruperrip folds
+RogerLestat calls 1400
+*** FLOP *** [6d 2c Qc]
+RogerLestat checks
+Rxbxn22 bets 2130
+RogerLestat folds
+Rxbxn22 collected 9230 from pot
+*** SUMMARY ***
+Total pot 9230 | No rake
+Board: [6d 2c Qc]
+Seat 6: Rxbxn22 (button) won 9230
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3248568749929791526-88-1710611642 - Holdem no limit (160/700/1400) - 2024/03/16 17:54:02 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: ruperrip (65639, 0.21€ bounty)
+Seat 2: Mlle Cynthia (11317, 0.11€ bounty)
+Seat 3: RogerLestat (112572, 0.11€ bounty)
+Seat 4: 369berimbao (45325, 0.16€ bounty)
+Seat 5: P1xel7 (39635, 0.26€ bounty)
+Seat 6: Rxbxn22 (155619, 0.41€ bounty)
+*** ANTE/BLINDS ***
+RogerLestat posts ante 160
+369berimbao posts ante 160
+ruperrip posts ante 160
+P1xel7 posts ante 160
+Rxbxn22 posts ante 160
+RogerLestat posts small blind 700
+369berimbao posts big blind 1400
+Dealt to P1xel7 [7d 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Rxbxn22 raises 2100 to 3500
+ruperrip folds
+RogerLestat calls 2800
+369berimbao folds
+*** FLOP *** [5s 8h 2h]
+RogerLestat checks
+Rxbxn22 bets 4600
+RogerLestat calls 4600
+*** TURN *** [5s 8h 2h][Tc]
+RogerLestat checks
+Rxbxn22 checks
+*** RIVER *** [5s 8h 2h Tc][Jc]
+RogerLestat bets 1400
+Rxbxn22 folds
+RogerLestat collected 19800 from pot
+*** SUMMARY ***
+Total pot 19800 | No rake
+Board: [5s 8h 2h Tc Jc]
+Seat 3: RogerLestat (small blind) won 19800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3248568749929791526-89-1710611694 - Holdem no limit (160/700/1400) - 2024/03/16 17:54:54 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #3 is the button
+Seat 1: ruperrip (65479, 0.21€ bounty)
+Seat 2: Mlle Cynthia (11317, 0.11€ bounty)
+Seat 3: RogerLestat (122712, 0.11€ bounty)
+Seat 4: 369berimbao (43765, 0.16€ bounty)
+Seat 5: P1xel7 (39475, 0.26€ bounty)
+Seat 6: Rxbxn22 (147359, 0.41€ bounty)
+*** ANTE/BLINDS ***
+369berimbao posts ante 160
+P1xel7 posts ante 160
+ruperrip posts ante 160
+Mlle Cynthia posts ante 160
+RogerLestat posts ante 160
+Rxbxn22 posts ante 160
+369berimbao posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [8h 2c]
+*** PRE-FLOP *** 
+Rxbxn22 raises 1400 to 2800
+ruperrip folds
+Mlle Cynthia folds
+RogerLestat folds
+369berimbao folds
+P1xel7 folds
+Rxbxn22 collected 5860 from pot
+*** SUMMARY ***
+Total pot 5860 | No rake
+Seat 6: Rxbxn22 won 5860
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 12 - HandId: #3248568749929791526-90-1710612060 - Holdem no limit (160/700/1400) - 2024/03/16 18:01:00 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #4 is the button
+Seat 1: ruperrip (65319, 0.21€ bounty)
+Seat 2: Mlle Cynthia (11157, 0.11€ bounty)
+Seat 3: RogerLestat (122552, 0.11€ bounty)
+Seat 4: 369berimbao (42905, 0.16€ bounty)
+Seat 5: P1xel7 (37915, 0.26€ bounty)
+Seat 6: Rxbxn22 (150259, 0.41€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+Rxbxn22 posts ante 160
+ruperrip posts ante 160
+Mlle Cynthia posts ante 160
+RogerLestat posts ante 160
+369berimbao posts ante 160
+P1xel7 posts small blind 700
+Rxbxn22 posts big blind 1400
+Dealt to P1xel7 [3c Kc]
+*** PRE-FLOP *** 
+ruperrip folds
+Mlle Cynthia folds
+RogerLestat folds
+369berimbao folds
+P1xel7 folds
+Rxbxn22 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 6: Rxbxn22 (big blind) won 3060
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3248568749929791526-91-1710612145 - Holdem no limit (200/800/1600) - 2024/03/16 18:02:25 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #5 is the button
+Seat 1: ruperrip (65159, 0.21€ bounty)
+Seat 2: Mlle Cynthia (10997, 0.11€ bounty)
+Seat 3: RogerLestat (122392, 0.11€ bounty)
+Seat 4: 369berimbao (42745, 0.16€ bounty)
+Seat 5: P1xel7 (37055, 0.26€ bounty)
+Seat 6: Rxbxn22 (151759, 0.41€ bounty)
+*** ANTE/BLINDS ***
+Rxbxn22 posts ante 200
+ruperrip posts ante 200
+Mlle Cynthia posts ante 200
+RogerLestat posts ante 200
+369berimbao posts ante 200
+P1xel7 posts ante 200
+Rxbxn22 posts small blind 800
+ruperrip posts big blind 1600
+Dealt to P1xel7 [3s Qc]
+*** PRE-FLOP *** 
+Mlle Cynthia folds
+RogerLestat folds
+369berimbao folds
+P1xel7 folds
+Rxbxn22 raises 4000 to 5600
+ruperrip folds
+Rxbxn22 collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | No rake
+Seat 6: Rxbxn22 (small blind) won 8400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3248568749929791526-92-1710612187 - Holdem no limit (200/800/1600) - 2024/03/16 18:03:07 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #6 is the button
+Seat 1: ruperrip (63359, 0.21€ bounty)
+Seat 2: Mlle Cynthia (10797, 0.11€ bounty)
+Seat 3: RogerLestat (122192, 0.11€ bounty)
+Seat 4: 369berimbao (42545, 0.16€ bounty)
+Seat 5: P1xel7 (36855, 0.26€ bounty)
+Seat 6: Rxbxn22 (154359, 0.41€ bounty)
+*** ANTE/BLINDS ***
+ruperrip posts ante 200
+Mlle Cynthia posts ante 200
+RogerLestat posts ante 200
+369berimbao posts ante 200
+P1xel7 posts ante 200
+Rxbxn22 posts ante 200
+ruperrip posts small blind 800
+Mlle Cynthia posts big blind 1600
+Dealt to P1xel7 [8c Kd]
+*** PRE-FLOP *** 
+RogerLestat folds
+369berimbao folds
+P1xel7 folds
+Rxbxn22 raises 152559 to 154159 and is all-in
+ruperrip folds
+Mlle Cynthia folds
+Rxbxn22 collected 157759 from pot
+*** SUMMARY ***
+Total pot 157759 | No rake
+Seat 6: Rxbxn22 (button) won 157759
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3248568749929791526-93-1710612214 - Holdem no limit (200/800/1600) - 2024/03/16 18:03:34 UTC
+Table: 'Kill The Fish(756366353)#037' 6-max (real money) Seat #1 is the button
+Seat 1: ruperrip (62359, 0.21€ bounty)
+Seat 2: Mlle Cynthia (8997, 0.11€ bounty)
+Seat 3: RogerLestat (121992, 0.11€ bounty)
+Seat 4: 369berimbao (42345, 0.16€ bounty)
+Seat 5: P1xel7 (36655, 0.26€ bounty)
+Seat 6: Rxbxn22 (157759, 0.41€ bounty)
+*** ANTE/BLINDS ***
+Mlle Cynthia posts ante 200
+RogerLestat posts ante 200
+ruperrip posts ante 200
+369berimbao posts ante 200
+P1xel7 posts ante 200
+Rxbxn22 posts ante 200
+Mlle Cynthia posts small blind 800
+RogerLestat posts big blind 1600
+Dealt to P1xel7 [Ks Jh]
+*** PRE-FLOP *** 
+369berimbao folds
+P1xel7 raises 1600 to 3200
+Rxbxn22 folds
+ruperrip folds
+Mlle Cynthia calls 2400
+RogerLestat folds
+*** FLOP *** [2s 9h 2d]
+Mlle Cynthia checks
+P1xel7 checks
+*** TURN *** [2s 9h 2d][5h]
+Mlle Cynthia checks
+P1xel7 checks
+*** RIVER *** [2s 9h 2d 5h][7h]
+Mlle Cynthia checks
+P1xel7 checks
+*** SHOW DOWN ***
+P1xel7 shows [Ks Jh] (One pair : 2)
+Mlle Cynthia shows [Ac 8c] (One pair : 2)
+Mlle Cynthia collected 9200 from pot
+*** SUMMARY ***
+Total pot 9200 | No rake
+Board: [2s 9h 2d 5h 7h]
+Seat 2: Mlle Cynthia (small blind) showed [Ac 8c] and won 9200 with One pair : 2
+Seat 5: P1xel7 showed [Ks Jh] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3248568749929791524-101-1710612282 - Holdem no limit (200/800/1600) - 2024/03/16 18:04:42 UTC
+Table: 'Kill The Fish(756366353)#035' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (33255, 0.26€ bounty)
+Seat 2: Cha1987 (58959, 0.24€ bounty)
+Seat 3: vigil18 (29350, 0.11€ bounty)
+Seat 4: Soliana39 (19854, 0.11€ bounty)
+Seat 5: kristoloco (40247, 0.21€ bounty)
+Seat 6: La R0x (92678, 0.16€ bounty)
+*** ANTE/BLINDS ***
+La R0x posts ante 200
+P1xel7 posts ante 200
+Cha1987 posts ante 200
+vigil18 posts ante 200
+Soliana39 posts ante 200
+kristoloco posts ante 200
+La R0x posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [9h Kc]
+*** PRE-FLOP *** 
+Cha1987 folds
+vigil18 calls 1600
+Soliana39 folds
+kristoloco folds
+La R0x calls 800
+P1xel7 checks
+*** FLOP *** [6h 2d Jd]
+La R0x checks
+P1xel7 checks
+vigil18 checks
+*** TURN *** [6h 2d Jd][9c]
+La R0x checks
+P1xel7 checks
+vigil18 checks
+*** RIVER *** [6h 2d Jd 9c][4c]
+La R0x checks
+P1xel7 checks
+vigil18 checks
+*** SHOW DOWN ***
+vigil18 shows [5c Ad] (High card : Ace)
+La R0x shows [7h Kd] (High card : King)
+P1xel7 shows [9h Kc] (One pair : 9)
+P1xel7 collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Board: [6h 2d Jd 9c 4c]
+Seat 1: P1xel7 (big blind) showed [9h Kc] and won 6000 with One pair : 9
+Seat 3: vigil18 showed [5c Ad] and lost with High card : Ace
+Seat 6: La R0x (small blind) showed [7h Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3248568749929791524-102-1710612326 - Holdem no limit (200/800/1600) - 2024/03/16 18:05:26 UTC
+Table: 'Kill The Fish(756366353)#035' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (37455, 0.26€ bounty)
+Seat 2: Cha1987 (58759, 0.24€ bounty)
+Seat 3: vigil18 (27550, 0.11€ bounty)
+Seat 4: Soliana39 (19654, 0.11€ bounty)
+Seat 5: kristoloco (40047, 0.21€ bounty)
+Seat 6: La R0x (90878, 0.16€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Cha1987 posts ante 200
+vigil18 posts ante 200
+Soliana39 posts ante 200
+kristoloco posts ante 200
+La R0x posts ante 200
+P1xel7 posts small blind 800
+Cha1987 posts big blind 1600
+Dealt to P1xel7 [Qc 7s]
+*** PRE-FLOP *** 
+vigil18 raises 3200 to 4800
+Soliana39 folds
+kristoloco folds
+La R0x folds
+P1xel7 folds
+Cha1987 folds
+vigil18 collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | No rake
+Seat 3: vigil18 won 8400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3248568749929791524-103-1710612344 - Holdem no limit (200/800/1600) - 2024/03/16 18:05:44 UTC
+Table: 'Kill The Fish(756366353)#035' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (36455, 0.26€ bounty)
+Seat 2: Cha1987 (56959, 0.24€ bounty)
+Seat 3: vigil18 (30950, 0.11€ bounty)
+Seat 4: Soliana39 (19454, 0.11€ bounty)
+Seat 5: kristoloco (39847, 0.21€ bounty)
+Seat 6: La R0x (90678, 0.16€ bounty)
+*** ANTE/BLINDS ***
+Cha1987 posts ante 200
+vigil18 posts ante 200
+P1xel7 posts ante 200
+Soliana39 posts ante 200
+kristoloco posts ante 200
+La R0x posts ante 200
+Cha1987 posts small blind 800
+vigil18 posts big blind 1600
+Dealt to P1xel7 [7c 6h]
+*** PRE-FLOP *** 
+Soliana39 folds
+kristoloco folds
+La R0x raises 3200 to 4800
+P1xel7 folds
+Cha1987 calls 4000
+vigil18 raises 25950 to 30750 and is all-in
+La R0x raises 59728 to 90478 and is all-in
+Cha1987 folds
+*** FLOP *** [2h Jc 6s]
+*** TURN *** [2h Jc 6s][8d]
+*** RIVER *** [2h Jc 6s 8d][3h]
+*** SHOW DOWN ***
+vigil18 shows [5d As] (High card : Ace)
+La R0x shows [Kd Kc] (One pair : Kings)
+La R0x collected 127228 from pot
+*** SUMMARY ***
+Total pot 127228 | No rake
+Board: [2h Jc 6s 8d 3h]
+Seat 3: vigil18 (big blind) showed [5d As] and lost with High card : Ace
+Seat 6: La R0x showed [Kd Kc] and won 127228 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3248568749929791524-104-1710612376 - Holdem no limit (200/800/1600) - 2024/03/16 18:06:16 UTC
+Table: 'Kill The Fish(756366353)#035' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (36255, 0.26€ bounty)
+Seat 2: Cha1987 (51959, 0.24€ bounty)
+Seat 4: Soliana39 (19254, 0.11€ bounty)
+Seat 5: kristoloco (39647, 0.21€ bounty)
+Seat 6: La R0x (127228, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Soliana39 posts ante 200
+P1xel7 posts ante 200
+Cha1987 posts ante 200
+kristoloco posts ante 200
+La R0x posts ante 200
+Soliana39 posts big blind 1600
+Dealt to P1xel7 [Qs Ac]
+*** PRE-FLOP *** 
+kristoloco folds
+La R0x folds
+P1xel7 raises 2400 to 4000
+Cha1987 folds
+Soliana39 calls 2400
+*** FLOP *** [8s Qc 4d]
+Soliana39 checks
+P1xel7 bets 2250
+Soliana39 folds
+P1xel7 collected 11250 from pot
+*** SUMMARY ***
+Total pot 11250 | No rake
+Board: [8s Qc 4d]
+Seat 1: P1xel7 won 11250
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 13 - HandId: #3248568749929791524-105-1710612417 - Holdem no limit (200/800/1600) - 2024/03/16 18:06:57 UTC
+Table: 'Kill The Fish(756366353)#035' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (41055, 0.26€ bounty)
+Seat 2: Cha1987 (51759, 0.24€ bounty)
+Seat 4: Soliana39 (15054, 0.11€ bounty)
+Seat 5: kristoloco (39447, 0.21€ bounty)
+Seat 6: La R0x (127028, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Soliana39 posts ante 200
+kristoloco posts ante 200
+P1xel7 posts ante 200
+Cha1987 posts ante 200
+La R0x posts ante 200
+Soliana39 posts small blind 800
+kristoloco posts big blind 1600
+Dealt to P1xel7 [7s 3c]
+*** PRE-FLOP *** 
+La R0x folds
+P1xel7 folds
+Cha1987 calls 1600
+Soliana39 calls 800
+kristoloco checks
+*** FLOP *** [7h Qc Qs]
+Soliana39 checks
+kristoloco checks
+Cha1987 checks
+*** TURN *** [7h Qc Qs][9d]
+Soliana39 bets 2900
+kristoloco folds
+Cha1987 folds
+Soliana39 collected 8700 from pot
+*** SUMMARY ***
+Total pot 8700 | No rake
+Board: [7h Qc Qs 9d]
+Seat 4: Soliana39 (small blind) won 8700
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3248568749929791519-98-1710612487 - Holdem no limit (250/1000/2000) - 2024/03/16 18:08:07 UTC
+Table: 'Kill The Fish(756366353)#030' 6-max (real money) Seat #6 is the button
+Seat 1: Rayas78 (80036, 0.11€ bounty)
+Seat 2: P1xel7 (40855, 0.26€ bounty)
+Seat 3: Miniparadi (57704, 0.16€ bounty)
+Seat 4: AL-Ghost2214 (155877, 0.26€ bounty)
+Seat 5: Chnick76000 (81932, 0.36€ bounty)
+Seat 6: Paikan1963 (101469, 0.36€ bounty)
+*** ANTE/BLINDS ***
+Rayas78 posts ante 250
+P1xel7 posts ante 250
+Miniparadi posts ante 250
+AL-Ghost2214 posts ante 250
+Chnick76000 posts ante 250
+Paikan1963 posts ante 250
+Rayas78 posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [4c Jc]
+*** PRE-FLOP *** 
+Miniparadi folds
+AL-Ghost2214 folds
+Chnick76000 folds
+Paikan1963 folds
+Rayas78 calls 1000
+P1xel7 checks
+*** FLOP *** [Kc Ac 9c]
+Rayas78 bets 2000
+P1xel7 calls 2000
+*** TURN *** [Kc Ac 9c][9h]
+Rayas78 bets 2000
+P1xel7 calls 2000
+*** RIVER *** [Kc Ac 9c 9h][3d]
+Rayas78 checks
+P1xel7 bets 10800
+Rayas78 folds
+P1xel7 collected 24300 from pot
+*** SUMMARY ***
+Total pot 24300 | No rake
+Board: [Kc Ac 9c 9h 3d]
+Seat 2: P1xel7 (big blind) won 24300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3248568749929791519-99-1710612536 - Holdem no limit (250/1000/2000) - 2024/03/16 18:08:56 UTC
+Table: 'Kill The Fish(756366353)#030' 6-max (real money) Seat #1 is the button
+Seat 1: Rayas78 (73786, 0.11€ bounty)
+Seat 2: P1xel7 (48105, 0.26€ bounty)
+Seat 3: Miniparadi (57454, 0.16€ bounty)
+Seat 4: AL-Ghost2214 (155627, 0.26€ bounty)
+Seat 5: Chnick76000 (81682, 0.36€ bounty)
+Seat 6: Paikan1963 (101219, 0.36€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+Miniparadi posts ante 250
+Rayas78 posts ante 250
+AL-Ghost2214 posts ante 250
+Chnick76000 posts ante 250
+Paikan1963 posts ante 250
+P1xel7 posts small blind 1000
+Miniparadi posts big blind 2000
+Dealt to P1xel7 [3s 7s]
+*** PRE-FLOP *** 
+AL-Ghost2214 folds
+Chnick76000 raises 6500 to 8500
+Paikan1963 calls 8500
+Rayas78 folds
+P1xel7 folds
+Miniparadi folds
+*** FLOP *** [2d 8h 9c]
+Chnick76000 checks
+Paikan1963 checks
+*** TURN *** [2d 8h 9c][Jd]
+Chnick76000 bets 2000
+Paikan1963 folds
+Chnick76000 collected 23500 from pot
+*** SUMMARY ***
+Total pot 23500 | No rake
+Board: [2d 8h 9c Jd]
+Seat 5: Chnick76000 won 23500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3248568749929791519-100-1710612595 - Holdem no limit (250/1000/2000) - 2024/03/16 18:09:55 UTC
+Table: 'Kill The Fish(756366353)#030' 6-max (real money) Seat #2 is the button
+Seat 1: Rayas78 (73536, 0.11€ bounty)
+Seat 2: P1xel7 (46855, 0.26€ bounty)
+Seat 3: Miniparadi (55204, 0.16€ bounty)
+Seat 4: AL-Ghost2214 (155377, 0.26€ bounty)
+Seat 5: Chnick76000 (94432, 0.36€ bounty)
+Seat 6: Paikan1963 (92469, 0.36€ bounty)
+*** ANTE/BLINDS ***
+Miniparadi posts ante 250
+AL-Ghost2214 posts ante 250
+Rayas78 posts ante 250
+P1xel7 posts ante 250
+Chnick76000 posts ante 250
+Paikan1963 posts ante 250
+Miniparadi posts small blind 1000
+AL-Ghost2214 posts big blind 2000
+Dealt to P1xel7 [Qd Ts]
+*** PRE-FLOP *** 
+Chnick76000 calls 2000
+Paikan1963 calls 2000
+Rayas78 raises 2000 to 4000
+P1xel7 folds
+Miniparadi calls 3000
+AL-Ghost2214 folds
+Chnick76000 calls 2000
+Paikan1963 calls 2000
+*** FLOP *** [Qh 8h 8s]
+Miniparadi checks
+Chnick76000 bets 90182 and is all-in
+Paikan1963 folds
+Rayas78 calls 69286 and is all-in
+Miniparadi folds
+*** TURN *** [Qh 8h 8s][6c]
+*** RIVER *** [Qh 8h 8s 6c][7h]
+*** SHOW DOWN ***
+Rayas78 shows [Ah Ac] (Two pairs : Aces and 8)
+Chnick76000 shows [Qc Tc] (Two pairs : Queens and 8)
+Chnick76000 collected 20896 from side pot 1
+Rayas78 collected 158072 from main pot
+*** SUMMARY ***
+Total pot 178968 | No rake
+Board: [Qh 8h 8s 6c 7h]
+Seat 1: Rayas78 showed [Ah Ac] and won 158072 with Two pairs : Aces and 8
+Seat 5: Chnick76000 showed [Qc Tc] and won 20896 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3248568749929791519-101-1710612663 - Holdem no limit (250/1000/2000) - 2024/03/16 18:11:03 UTC
+Table: 'Kill The Fish(756366353)#030' 6-max (real money) Seat #3 is the button
+Seat 1: Rayas78 (158072, 0.11€ bounty)
+Seat 2: P1xel7 (46605, 0.26€ bounty)
+Seat 3: Miniparadi (50954, 0.16€ bounty)
+Seat 4: AL-Ghost2214 (153127, 0.26€ bounty)
+Seat 5: Chnick76000 (20896, 0.36€ bounty)
+Seat 6: Paikan1963 (88219, 0.36€ bounty)
+*** ANTE/BLINDS ***
+AL-Ghost2214 posts ante 250
+Chnick76000 posts ante 250
+Rayas78 posts ante 250
+P1xel7 posts ante 250
+Miniparadi posts ante 250
+Paikan1963 posts ante 250
+AL-Ghost2214 posts small blind 1000
+Chnick76000 posts big blind 2000
+Dealt to P1xel7 [2d 2s]
+*** PRE-FLOP *** 
+Paikan1963 calls 2000
+Rayas78 folds
+P1xel7 raises 6000 to 8000
+Miniparadi folds
+AL-Ghost2214 folds
+Chnick76000 folds
+Paikan1963 folds
+P1xel7 collected 14500 from pot
+*** SUMMARY ***
+Total pot 14500 | No rake
+Seat 2: P1xel7 won 14500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 14 - HandId: #3248568749929791519-102-1710612693 - Holdem no limit (250/1000/2000) - 2024/03/16 18:11:33 UTC
+Table: 'Kill The Fish(756366353)#030' 6-max (real money) Seat #4 is the button
+Seat 1: Rayas78 (157822, 0.11€ bounty)
+Seat 2: P1xel7 (52855, 0.26€ bounty)
+Seat 3: Miniparadi (50704, 0.16€ bounty)
+Seat 4: AL-Ghost2214 (151877, 0.26€ bounty)
+Seat 5: Chnick76000 (18646, 0.36€ bounty)
+Seat 6: Paikan1963 (85969, 0.36€ bounty)
+*** ANTE/BLINDS ***
+Chnick76000 posts ante 250
+Paikan1963 posts ante 250
+Rayas78 posts ante 250
+P1xel7 posts ante 250
+Miniparadi posts ante 250
+AL-Ghost2214 posts ante 250
+Chnick76000 posts small blind 1000
+Paikan1963 posts big blind 2000
+Dealt to P1xel7 [Tc 5s]
+*** PRE-FLOP *** 
+Rayas78 folds
+P1xel7 folds
+Miniparadi folds
+AL-Ghost2214 raises 3000 to 5000
+Chnick76000 raises 13396 to 18396 and is all-in
+Paikan1963 folds
+AL-Ghost2214 calls 13396
+*** FLOP *** [8c Jh Ks]
+*** TURN *** [8c Jh Ks][Jc]
+*** RIVER *** [8c Jh Ks Jc][Qc]
+*** SHOW DOWN ***
+Chnick76000 shows [Ac 2h] (One pair : Jacks)
+AL-Ghost2214 shows [Th As] (Straight Ace high)
+AL-Ghost2214 collected 40292 from pot
+*** SUMMARY ***
+Total pot 40292 | No rake
+Board: [8c Jh Ks Jc Qc]
+Seat 4: AL-Ghost2214 (button) showed [Th As] and won 40292 with Straight Ace high
+Seat 5: Chnick76000 (small blind) showed [Ac 2h] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 15 - HandId: #3248568749929791502-100-1710612838 - Holdem no limit (300/1250/2500) - 2024/03/16 18:13:58 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #3 is the button
+Seat 1: Damas Jerome (44780, 0.16€ bounty)
+Seat 2: P1xel7 (52605, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (52513, 0.22€ bounty)
+Seat 4: GrandDpoker (59317, 0.11€ bounty)
+Seat 5: chris681 (52522, 0.26€ bounty)
+*** ANTE/BLINDS ***
+GrandDpoker posts ante 300
+chris681 posts ante 300
+Damas Jerome posts ante 300
+P1xel7 posts ante 300
+-Tiken-Jah- posts ante 300
+GrandDpoker posts small blind 1250
+chris681 posts big blind 2500
+Dealt to P1xel7 [Qh 2d]
+*** PRE-FLOP *** 
+Damas Jerome folds
+P1xel7 folds
+-Tiken-Jah- raises 3750 to 6250
+GrandDpoker folds
+chris681 folds
+-Tiken-Jah- collected 11500 from pot
+*** SUMMARY ***
+Total pot 11500 | No rake
+Seat 3: -Tiken-Jah- (button) won 11500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 15 - HandId: #3248568749929791502-101-1710612906 - Holdem no limit (300/1250/2500) - 2024/03/16 18:15:06 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #4 is the button
+Seat 1: Damas Jerome (44480, 0.16€ bounty)
+Seat 2: P1xel7 (52305, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (57463, 0.22€ bounty)
+Seat 4: GrandDpoker (57767, 0.11€ bounty)
+Seat 5: chris681 (49722, 0.26€ bounty)
+Seat 6: Velo_prune75 (42976, 0.21€ bounty)
+*** ANTE/BLINDS ***
+chris681 posts ante 300
+Velo_prune75 posts ante 300
+Damas Jerome posts ante 300
+P1xel7 posts ante 300
+-Tiken-Jah- posts ante 300
+GrandDpoker posts ante 300
+chris681 posts small blind 1250
+Velo_prune75 posts big blind 2500
+Dealt to P1xel7 [6h Tc]
+*** PRE-FLOP *** 
+Damas Jerome folds
+P1xel7 folds
+-Tiken-Jah- raises 3750 to 6250
+GrandDpoker folds
+chris681 folds
+Velo_prune75 calls 3750
+*** FLOP *** [6c 9c Ad]
+Velo_prune75 checks
+-Tiken-Jah- checks
+*** TURN *** [6c 9c Ad][5s]
+Velo_prune75 bets 15550
+-Tiken-Jah- calls 15550
+*** RIVER *** [6c 9c Ad 5s][6s]
+Velo_prune75 bets 20876 and is all-in
+-Tiken-Jah- folds
+Velo_prune75 collected 67526 from pot
+*** SUMMARY ***
+Total pot 67526 | No rake
+Board: [6c 9c Ad 5s 6s]
+Seat 6: Velo_prune75 (big blind) won 67526
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 15 - HandId: #3248568749929791502-102-1710612989 - Holdem no limit (300/1250/2500) - 2024/03/16 18:16:29 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #5 is the button
+Seat 1: Damas Jerome (44180, 0.16€ bounty)
+Seat 2: P1xel7 (52005, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (35363, 0.22€ bounty)
+Seat 4: GrandDpoker (57467, 0.11€ bounty)
+Seat 5: chris681 (48172, 0.26€ bounty)
+Seat 6: Velo_prune75 (67526, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Velo_prune75 posts ante 300
+Damas Jerome posts ante 300
+P1xel7 posts ante 300
+-Tiken-Jah- posts ante 300
+GrandDpoker posts ante 300
+chris681 posts ante 300
+Velo_prune75 posts small blind 1250
+Damas Jerome posts big blind 2500
+Dealt to P1xel7 [As 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+-Tiken-Jah- folds
+GrandDpoker folds
+chris681 folds
+Velo_prune75 calls 1250
+Damas Jerome checks
+*** FLOP *** [5d Js 4c]
+Velo_prune75 checks
+Damas Jerome bets 2500
+Velo_prune75 calls 2500
+*** TURN *** [5d Js 4c][8s]
+Velo_prune75 checks
+Damas Jerome bets 2500
+Velo_prune75 calls 2500
+*** RIVER *** [5d Js 4c 8s][6d]
+Velo_prune75 checks
+Damas Jerome checks
+*** SHOW DOWN ***
+Damas Jerome shows [5c Kd] (One pair : 5)
+Velo_prune75 shows [Jd 6h] (Two pairs : Jacks and 6)
+Velo_prune75 collected 16800 from pot
+*** SUMMARY ***
+Total pot 16800 | No rake
+Board: [5d Js 4c 8s 6d]
+Seat 1: Damas Jerome (big blind) showed [5c Kd] and lost with One pair : 5
+Seat 6: Velo_prune75 (small blind) showed [Jd 6h] and won 16800 with Two pairs : Jacks and 6
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3248568749929791502-103-1710613035 - Holdem no limit (350/1500/3000) - 2024/03/16 18:17:15 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #6 is the button
+Seat 1: Damas Jerome (36380, 0.16€ bounty)
+Seat 2: P1xel7 (51705, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (35063, 0.22€ bounty)
+Seat 4: GrandDpoker (57167, 0.11€ bounty)
+Seat 5: chris681 (47872, 0.26€ bounty)
+Seat 6: Velo_prune75 (76526, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Damas Jerome posts ante 350
+P1xel7 posts ante 350
+-Tiken-Jah- posts ante 350
+GrandDpoker posts ante 350
+chris681 posts ante 350
+Velo_prune75 posts ante 350
+Damas Jerome posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [6h Tc]
+*** PRE-FLOP *** 
+-Tiken-Jah- folds
+GrandDpoker folds
+chris681 folds
+Velo_prune75 folds
+Damas Jerome folds
+P1xel7 collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Seat 2: P1xel7 (big blind) won 6600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3248568749929791502-104-1710613065 - Holdem no limit (350/1500/3000) - 2024/03/16 18:17:45 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #1 is the button
+Seat 1: Damas Jerome (34530, 0.16€ bounty)
+Seat 2: P1xel7 (54955, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (34713, 0.22€ bounty)
+Seat 4: GrandDpoker (56817, 0.11€ bounty)
+Seat 5: chris681 (47522, 0.26€ bounty)
+Seat 6: Velo_prune75 (76176, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+-Tiken-Jah- posts ante 350
+Damas Jerome posts ante 350
+GrandDpoker posts ante 350
+chris681 posts ante 350
+Velo_prune75 posts ante 350
+P1xel7 posts small blind 1500
+-Tiken-Jah- posts big blind 3000
+Dealt to P1xel7 [5d 6s]
+*** PRE-FLOP *** 
+GrandDpoker folds
+chris681 folds
+Velo_prune75 raises 3000 to 6000
+Damas Jerome folds
+P1xel7 folds
+-Tiken-Jah- calls 3000
+*** FLOP *** [Js 8h 4h]
+-Tiken-Jah- checks
+Velo_prune75 checks
+*** TURN *** [Js 8h 4h][Jh]
+-Tiken-Jah- bets 4500
+Velo_prune75 folds
+-Tiken-Jah- collected 20100 from pot
+*** SUMMARY ***
+Total pot 20100 | No rake
+Board: [Js 8h 4h Jh]
+Seat 3: -Tiken-Jah- (big blind) won 20100
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3248568749929791502-105-1710613124 - Holdem no limit (350/1500/3000) - 2024/03/16 18:18:44 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #2 is the button
+Seat 1: Damas Jerome (34180, 0.16€ bounty)
+Seat 2: P1xel7 (53105, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (43963, 0.22€ bounty)
+Seat 4: GrandDpoker (56467, 0.11€ bounty)
+Seat 5: chris681 (47172, 0.26€ bounty)
+Seat 6: Velo_prune75 (69826, 0.21€ bounty)
+*** ANTE/BLINDS ***
+-Tiken-Jah- posts ante 350
+GrandDpoker posts ante 350
+Damas Jerome posts ante 350
+P1xel7 posts ante 350
+chris681 posts ante 350
+Velo_prune75 posts ante 350
+-Tiken-Jah- posts small blind 1500
+GrandDpoker posts big blind 3000
+Dealt to P1xel7 [Ks 5h]
+*** PRE-FLOP *** 
+chris681 folds
+Velo_prune75 calls 3000
+Damas Jerome raises 30830 to 33830 and is all-in
+P1xel7 folds
+-Tiken-Jah- folds
+GrandDpoker folds
+Velo_prune75 folds
+Damas Jerome collected 43430 from pot
+*** SUMMARY ***
+Total pot 43430 | No rake
+Seat 1: Damas Jerome won 43430
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3248568749929791502-106-1710613169 - Holdem no limit (350/1500/3000) - 2024/03/16 18:19:29 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #3 is the button
+Seat 1: Damas Jerome (43430, 0.16€ bounty)
+Seat 2: P1xel7 (52755, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (42113, 0.22€ bounty)
+Seat 4: GrandDpoker (53117, 0.11€ bounty)
+Seat 5: chris681 (46822, 0.26€ bounty)
+Seat 6: Velo_prune75 (66476, 0.21€ bounty)
+*** ANTE/BLINDS ***
+GrandDpoker posts ante 350
+chris681 posts ante 350
+Damas Jerome posts ante 350
+P1xel7 posts ante 350
+-Tiken-Jah- posts ante 350
+Velo_prune75 posts ante 350
+GrandDpoker posts small blind 1500
+chris681 posts big blind 3000
+Dealt to P1xel7 [5h 6d]
+*** PRE-FLOP *** 
+Velo_prune75 folds
+Damas Jerome folds
+P1xel7 folds
+-Tiken-Jah- calls 3000
+GrandDpoker folds
+chris681 checks
+*** FLOP *** [Qd Ad 7s]
+chris681 checks
+-Tiken-Jah- checks
+*** TURN *** [Qd Ad 7s][Kh]
+chris681 checks
+-Tiken-Jah- bets 4800
+chris681 folds
+-Tiken-Jah- collected 14400 from pot
+*** SUMMARY ***
+Total pot 14400 | No rake
+Board: [Qd Ad 7s Kh]
+Seat 3: -Tiken-Jah- (button) won 14400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3248568749929791502-107-1710613208 - Holdem no limit (350/1500/3000) - 2024/03/16 18:20:08 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #4 is the button
+Seat 1: Damas Jerome (43080, 0.16€ bounty)
+Seat 2: P1xel7 (52405, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (48363, 0.22€ bounty)
+Seat 4: GrandDpoker (51267, 0.11€ bounty)
+Seat 5: chris681 (43472, 0.26€ bounty)
+Seat 6: Velo_prune75 (66126, 0.21€ bounty)
+*** ANTE/BLINDS ***
+chris681 posts ante 350
+Velo_prune75 posts ante 350
+Damas Jerome posts ante 350
+P1xel7 posts ante 350
+-Tiken-Jah- posts ante 350
+GrandDpoker posts ante 350
+chris681 posts small blind 1500
+Velo_prune75 posts big blind 3000
+Dealt to P1xel7 [3c 8s]
+*** PRE-FLOP *** 
+Damas Jerome calls 3000
+P1xel7 folds
+-Tiken-Jah- folds
+GrandDpoker folds
+chris681 folds
+Velo_prune75 checks
+*** FLOP *** [Ah Th 7h]
+Velo_prune75 bets 9600
+Damas Jerome folds
+Velo_prune75 collected 19200 from pot
+*** SUMMARY ***
+Total pot 19200 | No rake
+Board: [Ah Th 7h]
+Seat 6: Velo_prune75 (big blind) won 19200
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3248568749929791502-108-1710613235 - Holdem no limit (350/1500/3000) - 2024/03/16 18:20:35 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #5 is the button
+Seat 1: Damas Jerome (39730, 0.16€ bounty)
+Seat 2: P1xel7 (52055, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (48013, 0.22€ bounty)
+Seat 4: GrandDpoker (50917, 0.11€ bounty)
+Seat 5: chris681 (41622, 0.26€ bounty)
+Seat 6: Velo_prune75 (72376, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Velo_prune75 posts ante 350
+Damas Jerome posts ante 350
+P1xel7 posts ante 350
+-Tiken-Jah- posts ante 350
+GrandDpoker posts ante 350
+chris681 posts ante 350
+Velo_prune75 posts small blind 1500
+Damas Jerome posts big blind 3000
+Dealt to P1xel7 [Ts Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+-Tiken-Jah- folds
+GrandDpoker raises 47567 to 50567 and is all-in
+chris681 folds
+Velo_prune75 folds
+Damas Jerome calls 36380 and is all-in
+*** FLOP *** [5s 4s 3c]
+*** TURN *** [5s 4s 3c][3h]
+*** RIVER *** [5s 4s 3c 3h][Qh]
+*** SHOW DOWN ***
+Damas Jerome shows [7h 6s] (Straight 7 high)
+GrandDpoker shows [7c Ad] (One pair : 3)
+GrandDpoker collected 11187 from side pot 1
+Damas Jerome collected 82360 from main pot
+*** SUMMARY ***
+Total pot 93547 | No rake
+Board: [5s 4s 3c 3h Qh]
+Seat 1: Damas Jerome (big blind) showed [7h 6s] and won 82360 with Straight 7 high
+Seat 4: GrandDpoker showed [7c Ad] and won 11187 with One pair : 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3248568749929791502-109-1710613269 - Holdem no limit (350/1500/3000) - 2024/03/16 18:21:09 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #6 is the button
+Seat 1: Damas Jerome (82360, 0.16€ bounty)
+Seat 2: P1xel7 (51705, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (47663, 0.22€ bounty)
+Seat 4: GrandDpoker (11187, 0.11€ bounty)
+Seat 5: chris681 (41272, 0.26€ bounty)
+Seat 6: Velo_prune75 (70526, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Damas Jerome posts ante 350
+P1xel7 posts ante 350
+-Tiken-Jah- posts ante 350
+GrandDpoker posts ante 350
+chris681 posts ante 350
+Velo_prune75 posts ante 350
+Damas Jerome posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [2d 7c]
+*** PRE-FLOP *** 
+-Tiken-Jah- folds
+GrandDpoker folds
+chris681 folds
+Velo_prune75 raises 67176 to 70176 and is all-in
+Damas Jerome calls 68676
+P1xel7 folds
+*** FLOP *** [9s Ad Ac]
+*** TURN *** [9s Ad Ac][9d]
+*** RIVER *** [9s Ad Ac 9d][Kc]
+*** SHOW DOWN ***
+Damas Jerome shows [Qd 7d] (Two pairs : Aces and 9)
+Velo_prune75 shows [Ks Ah] (Full of Aces and Kings)
+Velo_prune75 collected 145452 from pot
+*** SUMMARY ***
+Total pot 145452 | No rake
+Board: [9s Ad Ac 9d Kc]
+Seat 1: Damas Jerome (small blind) showed [Qd 7d] and lost with Two pairs : Aces and 9
+Seat 6: Velo_prune75 (button) showed [Ks Ah] and won 145452 with Full of Aces and Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 16 - HandId: #3248568749929791502-110-1710613303 - Holdem no limit (350/1500/3000) - 2024/03/16 18:21:43 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #1 is the button
+Seat 1: Damas Jerome (11834, 0.16€ bounty)
+Seat 2: P1xel7 (48355, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (47313, 0.22€ bounty)
+Seat 4: GrandDpoker (10837, 0.11€ bounty)
+Seat 5: chris681 (40922, 0.26€ bounty)
+Seat 6: Velo_prune75 (145452, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+-Tiken-Jah- posts ante 350
+Damas Jerome posts ante 350
+GrandDpoker posts ante 350
+chris681 posts ante 350
+Velo_prune75 posts ante 350
+P1xel7 posts small blind 1500
+-Tiken-Jah- posts big blind 3000
+Dealt to P1xel7 [Ts 2h]
+*** PRE-FLOP *** 
+GrandDpoker folds
+chris681 folds
+Velo_prune75 folds
+Damas Jerome raises 8484 to 11484 and is all-in
+P1xel7 folds
+-Tiken-Jah- raises 8484 to 19968
+*** FLOP *** [7d 9s 5c]
+*** TURN *** [7d 9s 5c][6h]
+*** RIVER *** [7d 9s 5c 6h][3d]
+*** SHOW DOWN ***
+Damas Jerome shows [As Qc] (High card : Ace)
+-Tiken-Jah- shows [2c 9c] (One pair : 9)
+-Tiken-Jah- collected 35052 from pot
+*** SUMMARY ***
+Total pot 35052 | No rake
+Board: [7d 9s 5c 6h 3d]
+Seat 1: Damas Jerome (button) showed [As Qc] and lost with High card : Ace
+Seat 3: -Tiken-Jah- (big blind) showed [2c 9c] and won 35052 with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 17 - HandId: #3248568749929791502-111-1710613337 - Holdem no limit (400/1750/3500) - 2024/03/16 18:22:17 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (46505, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (62047, 0.30€ bounty)
+Seat 4: GrandDpoker (10487, 0.11€ bounty)
+Seat 5: chris681 (40572, 0.26€ bounty)
+Seat 6: Velo_prune75 (145102, 0.21€ bounty)
+*** ANTE/BLINDS ***
+-Tiken-Jah- posts ante 400
+GrandDpoker posts ante 400
+P1xel7 posts ante 400
+chris681 posts ante 400
+Velo_prune75 posts ante 400
+-Tiken-Jah- posts small blind 1750
+GrandDpoker posts big blind 3500
+Dealt to P1xel7 [9s 7c]
+*** PRE-FLOP *** 
+chris681 folds
+Velo_prune75 calls 3500
+P1xel7 folds
+-Tiken-Jah- calls 1750
+GrandDpoker raises 6587 to 10087 and is all-in
+Velo_prune75 calls 6587
+-Tiken-Jah- calls 6587
+*** FLOP *** [5h 8s 5c]
+-Tiken-Jah- checks
+Velo_prune75 checks
+*** TURN *** [5h 8s 5c][Qc]
+-Tiken-Jah- checks
+Velo_prune75 checks
+*** RIVER *** [5h 8s 5c Qc][2d]
+-Tiken-Jah- bets 11291
+Velo_prune75 folds
+*** SHOW DOWN ***
+GrandDpoker shows [3h As] (One pair : 5)
+-Tiken-Jah- shows [2s 9d] (Two pairs : 5 and 2)
+-Tiken-Jah- collected 43552 from pot
+*** SUMMARY ***
+Total pot 43552 | No rake
+Board: [5h 8s 5c Qc 2d]
+Seat 3: -Tiken-Jah- (small blind) showed [2s 9d] and won 43552 with Two pairs : 5 and 2
+Seat 4: GrandDpoker (big blind) showed [3h As] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 17 - HandId: #3248568749929791502-112-1710613443 - Holdem no limit (400/1750/3500) - 2024/03/16 18:24:03 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #3 is the button
+Seat 1: MINUIT1313 (223751, 0.30€ bounty)
+Seat 2: P1xel7 (46105, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (83821, 0.35€ bounty)
+Seat 5: chris681 (40172, 0.26€ bounty)
+Seat 6: Velo_prune75 (134615, 0.21€ bounty)
+*** ANTE/BLINDS ***
+chris681 posts ante 400
+MINUIT1313 posts ante 400
+P1xel7 posts ante 400
+-Tiken-Jah- posts ante 400
+Velo_prune75 posts ante 400
+chris681 posts big blind 3500
+Dealt to P1xel7 [8h Qh]
+*** PRE-FLOP *** 
+Velo_prune75 folds
+MINUIT1313 folds
+P1xel7 folds
+-Tiken-Jah- raises 5250 to 8750
+chris681 raises 31022 to 39772 and is all-in
+-Tiken-Jah- folds
+chris681 collected 50522 from pot
+*** SUMMARY ***
+Total pot 50522 | No rake
+Seat 5: chris681 (big blind) won 50522
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 17 - HandId: #3248568749929791502-113-1710613486 - Holdem no limit (400/1750/3500) - 2024/03/16 18:24:46 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #4 is the button
+Seat 1: MINUIT1313 (223351, 0.30€ bounty)
+Seat 2: P1xel7 (45705, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (74671, 0.35€ bounty)
+Seat 5: chris681 (50522, 0.26€ bounty)
+Seat 6: Velo_prune75 (134215, 0.21€ bounty)
+*** ANTE/BLINDS ***
+chris681 posts ante 400
+Velo_prune75 posts ante 400
+MINUIT1313 posts ante 400
+P1xel7 posts ante 400
+-Tiken-Jah- posts ante 400
+chris681 posts small blind 1750
+Velo_prune75 posts big blind 3500
+Dealt to P1xel7 [8c 7c]
+*** PRE-FLOP *** 
+MINUIT1313 folds
+P1xel7 folds
+-Tiken-Jah- folds
+chris681 raises 46622 to 50122 and is all-in
+Velo_prune75 folds
+chris681 collected 55622 from pot
+*** SUMMARY ***
+Total pot 55622 | No rake
+Seat 5: chris681 (small blind) won 55622
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 17 - HandId: #3248568749929791502-114-1710613532 - Holdem no limit (400/1750/3500) - 2024/03/16 18:25:32 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #5 is the button
+Seat 1: MINUIT1313 (222951, 0.30€ bounty)
+Seat 2: P1xel7 (45305, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (74271, 0.35€ bounty)
+Seat 5: chris681 (55622, 0.26€ bounty)
+Seat 6: Velo_prune75 (130315, 0.21€ bounty)
+*** ANTE/BLINDS ***
+Velo_prune75 posts ante 400
+MINUIT1313 posts ante 400
+P1xel7 posts ante 400
+-Tiken-Jah- posts ante 400
+chris681 posts ante 400
+Velo_prune75 posts small blind 1750
+MINUIT1313 posts big blind 3500
+Dealt to P1xel7 [5c Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+-Tiken-Jah- folds
+chris681 folds
+Velo_prune75 calls 1750
+MINUIT1313 checks
+*** FLOP *** [Jc 5s 9c]
+Velo_prune75 checks
+MINUIT1313 bets 5850
+Velo_prune75 folds
+MINUIT1313 collected 14850 from pot
+*** SUMMARY ***
+Total pot 14850 | No rake
+Board: [Jc 5s 9c]
+Seat 1: MINUIT1313 (big blind) won 14850
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 17 - HandId: #3248568749929791502-115-1710613591 - Holdem no limit (400/1750/3500) - 2024/03/16 18:26:31 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #6 is the button
+Seat 1: MINUIT1313 (228051, 0.30€ bounty)
+Seat 2: P1xel7 (44905, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (73871, 0.35€ bounty)
+Seat 5: chris681 (55222, 0.26€ bounty)
+Seat 6: Velo_prune75 (126415, 0.21€ bounty)
+*** ANTE/BLINDS ***
+MINUIT1313 posts ante 400
+P1xel7 posts ante 400
+-Tiken-Jah- posts ante 400
+chris681 posts ante 400
+Velo_prune75 posts ante 400
+MINUIT1313 posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [6d 4s]
+*** PRE-FLOP *** 
+-Tiken-Jah- folds
+chris681 raises 10750 to 14250
+Velo_prune75 folds
+MINUIT1313 folds
+P1xel7 folds
+chris681 collected 21500 from pot
+*** SUMMARY ***
+Total pot 21500 | No rake
+Seat 5: chris681 won 21500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3248568749929791502-116-1710613629 - Holdem no limit (500/2000/4000) - 2024/03/16 18:27:09 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #1 is the button
+Seat 1: MINUIT1313 (225901, 0.30€ bounty)
+Seat 2: P1xel7 (41005, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (73471, 0.35€ bounty)
+Seat 4: atchoum1980 (70106, 0.21€ bounty)
+Seat 5: chris681 (62072, 0.26€ bounty)
+Seat 6: Velo_prune75 (126015, 0.21€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+-Tiken-Jah- posts ante 500
+MINUIT1313 posts ante 500
+atchoum1980 posts ante 500
+chris681 posts ante 500
+Velo_prune75 posts ante 500
+P1xel7 posts small blind 2000
+-Tiken-Jah- posts big blind 4000
+Dealt to P1xel7 [Ks 6s]
+*** PRE-FLOP *** 
+atchoum1980 folds
+chris681 folds
+Velo_prune75 folds
+MINUIT1313 folds
+P1xel7 folds
+-Tiken-Jah- collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 3: -Tiken-Jah- (big blind) won 9000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3248568749929791502-117-1710613650 - Holdem no limit (500/2000/4000) - 2024/03/16 18:27:30 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #2 is the button
+Seat 1: MINUIT1313 (225401, 0.30€ bounty)
+Seat 2: P1xel7 (38505, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (77971, 0.35€ bounty)
+Seat 4: atchoum1980 (69606, 0.21€ bounty)
+Seat 5: chris681 (61572, 0.26€ bounty)
+Seat 6: Velo_prune75 (125515, 0.21€ bounty)
+*** ANTE/BLINDS ***
+-Tiken-Jah- posts ante 500
+atchoum1980 posts ante 500
+MINUIT1313 posts ante 500
+P1xel7 posts ante 500
+chris681 posts ante 500
+Velo_prune75 posts ante 500
+-Tiken-Jah- posts small blind 2000
+atchoum1980 posts big blind 4000
+Dealt to P1xel7 [Ts 8s]
+*** PRE-FLOP *** 
+chris681 folds
+Velo_prune75 folds
+MINUIT1313 folds
+P1xel7 folds
+-Tiken-Jah- raises 8000 to 12000
+atchoum1980 folds
+-Tiken-Jah- collected 19000 from pot
+*** SUMMARY ***
+Total pot 19000 | No rake
+Seat 3: -Tiken-Jah- (small blind) won 19000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3248568749929791502-118-1710613676 - Holdem no limit (500/2000/4000) - 2024/03/16 18:27:56 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #3 is the button
+Seat 1: MINUIT1313 (224901, 0.30€ bounty)
+Seat 2: P1xel7 (38005, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (84471, 0.35€ bounty)
+Seat 4: atchoum1980 (65106, 0.21€ bounty)
+Seat 5: chris681 (61072, 0.26€ bounty)
+Seat 6: Velo_prune75 (125015, 0.21€ bounty)
+*** ANTE/BLINDS ***
+atchoum1980 posts ante 500
+chris681 posts ante 500
+MINUIT1313 posts ante 500
+P1xel7 posts ante 500
+-Tiken-Jah- posts ante 500
+Velo_prune75 posts ante 500
+atchoum1980 posts small blind 2000
+chris681 posts big blind 4000
+Dealt to P1xel7 [Kd 4s]
+*** PRE-FLOP *** 
+Velo_prune75 folds
+MINUIT1313 folds
+P1xel7 folds
+-Tiken-Jah- raises 6000 to 10000
+atchoum1980 folds
+chris681 folds
+-Tiken-Jah- collected 19000 from pot
+*** SUMMARY ***
+Total pot 19000 | No rake
+Seat 3: -Tiken-Jah- (button) won 19000
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.22€ + 0.03€ level: 18 - HandId: #3248568749929791502-119-1710613746 - Holdem no limit (500/2000/4000) - 2024/03/16 18:29:06 UTC
+Table: 'Kill The Fish(756366353)#013' 6-max (real money) Seat #4 is the button
+Seat 1: MINUIT1313 (224401, 0.30€ bounty)
+Seat 2: P1xel7 (37505, 0.26€ bounty)
+Seat 3: -Tiken-Jah- (92971, 0.35€ bounty)
+Seat 4: atchoum1980 (62606, 0.21€ bounty)
+Seat 5: chris681 (56572, 0.26€ bounty)
+Seat 6: Velo_prune75 (124515, 0.21€ bounty)
+*** ANTE/BLINDS ***
+chris681 posts ante 500
+Velo_prune75 posts ante 500
+MINUIT1313 posts ante 500
+P1xel7 posts ante 500
+-Tiken-Jah- posts ante 500
+atchoum1980 posts ante 500
+chris681 posts small blind 2000
+Velo_prune75 posts big blind 4000
+Dealt to P1xel7 [Ah Ks]
+*** PRE-FLOP *** 
+MINUIT1313 raises 6000 to 10000
+P1xel7 raises 27005 to 37005 and is all-in
+-Tiken-Jah- raises 55466 to 92471 and is all-in
+atchoum1980 folds
+chris681 folds
+Velo_prune75 folds
+MINUIT1313 folds
+*** FLOP *** [Jc 2d Js]
+*** TURN *** [Jc 2d Js][5s]
+*** RIVER *** [Jc 2d Js 5s][3d]
+*** SHOW DOWN ***
+P1xel7 shows [Ah Ks] (One pair : Jacks)
+-Tiken-Jah- shows [Qh Qc] (Two pairs : Queens and Jacks)
+-Tiken-Jah- collected 148476 from pot
+*** SUMMARY ***
+Total pot 148476 | No rake
+Board: [Jc 2d Js 5s 3d]
+Seat 2: P1xel7 showed [Ah Ks] and lost with One pair : Jacks
+Seat 3: -Tiken-Jah- showed [Qh Qc] and won 148476 with Two pairs : Queens and Jacks
+
+

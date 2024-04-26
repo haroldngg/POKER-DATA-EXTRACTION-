@@ -1,0 +1,1245 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-1-1709151327 - Holdem no limit (25/100/200) - 2024/02/28 20:15:27 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #4 is the button
+Seat 1: Evlakaz (20000)
+Seat 2: guett2404 (20000)
+Seat 3: Hylaia (20000)
+Seat 4: LutkoPadalko (20000)
+Seat 5: Rifman84 (20000)
+Seat 6: Kaptaiin (20000)
+Seat 7: P1xel7 (20000)
+Seat 8: maxime231114 (20000)
+*** ANTE/BLINDS ***
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+Evlakaz posts ante 25
+guett2404 posts ante 25
+Hylaia posts ante 25
+LutkoPadalko posts ante 25
+P1xel7 posts ante 25
+maxime231114 posts ante 25
+Rifman84 posts small blind 100
+Kaptaiin posts big blind 200
+Dealt to P1xel7 [9s Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+maxime231114 folds
+Evlakaz folds
+guett2404 folds
+Hylaia folds
+LutkoPadalko raises 19775 to 19975 and is all-in
+Rifman84 folds
+Kaptaiin folds
+LutkoPadalko collected 20475 from pot
+*** SUMMARY ***
+Total pot 20475 | No rake
+Seat 4: LutkoPadalko (button) won 20475
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-2-1709151511 - Holdem no limit (25/100/200) - 2024/02/28 20:18:31 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #5 is the button
+Seat 1: Evlakaz (19975)
+Seat 2: guett2404 (19975)
+Seat 3: Hylaia (19975)
+Seat 4: LutkoPadalko (20475)
+Seat 5: Rifman84 (19875)
+Seat 6: Kaptaiin (19775)
+Seat 7: P1xel7 (19975)
+Seat 8: ghost13k (20000)
+*** ANTE/BLINDS ***
+Kaptaiin posts ante 25
+P1xel7 posts ante 25
+Evlakaz posts ante 25
+guett2404 posts ante 25
+Hylaia posts ante 25
+LutkoPadalko posts ante 25
+Rifman84 posts ante 25
+ghost13k posts ante 25
+Kaptaiin posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Ah 9d]
+*** PRE-FLOP *** 
+ghost13k raises 19775 to 19975 and is all-in
+Evlakaz folds
+guett2404 folds
+Hylaia folds
+LutkoPadalko folds
+Rifman84 folds
+Kaptaiin calls 19650 and is all-in
+P1xel7 folds
+*** FLOP *** [Kd 7c 3s]
+*** TURN *** [Kd 7c 3s][Ks]
+*** RIVER *** [Kd 7c 3s Ks][Td]
+*** SHOW DOWN ***
+Kaptaiin shows [Ts Qs] (Two pairs : Kings and Tens)
+ghost13k shows [2h 2d] (Two pairs : Kings and 2)
+ghost13k collected 225 from side pot 1
+Kaptaiin collected 39900 from main pot
+*** SUMMARY ***
+Total pot 40125 | No rake
+Board: [Kd 7c 3s Ks Td]
+Seat 6: Kaptaiin (small blind) showed [Ts Qs] and won 39900 with Two pairs : Kings and Tens
+Seat 8: ghost13k showed [2h 2d] and won 225 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-3-1709151535 - Holdem no limit (25/100/200) - 2024/02/28 20:18:55 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #6 is the button
+Seat 1: Evlakaz (19950)
+Seat 2: guett2404 (19950)
+Seat 3: Hylaia (19950)
+Seat 4: LutkoPadalko (20450)
+Seat 5: Rifman84 (19850)
+Seat 6: Kaptaiin (39900)
+Seat 7: P1xel7 (19750)
+Seat 8: ghost13k (225)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+ghost13k posts ante 25
+Evlakaz posts ante 25
+guett2404 posts ante 25
+Hylaia posts ante 25
+LutkoPadalko posts ante 25
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+P1xel7 posts small blind 100
+ghost13k posts big blind 200 and is all-in
+Dealt to P1xel7 [As 7s]
+*** PRE-FLOP *** 
+Evlakaz folds
+guett2404 folds
+Hylaia calls 200
+LutkoPadalko folds
+Rifman84 folds
+Kaptaiin raises 400 to 600
+P1xel7 calls 500
+Hylaia calls 400
+*** FLOP *** [7h Jc Qc]
+P1xel7 checks
+Hylaia checks
+Kaptaiin bets 770
+P1xel7 folds
+Hylaia calls 770
+*** TURN *** [7h Jc Qc][4d]
+Hylaia checks
+Kaptaiin checks
+*** RIVER *** [7h Jc Qc 4d][3c]
+Hylaia bets 935
+Kaptaiin calls 935
+*** SHOW DOWN ***
+Kaptaiin shows [2d Jd] (One pair : Jacks)
+ghost13k shows [8h 6c] (High card : Queen)
+Hylaia shows [5c 7c] (Flush Queen high)
+Hylaia collected 5610 from pot
+*** SUMMARY ***
+Total pot 5610 | No rake
+Board: [7h Jc Qc 4d 3c]
+Seat 3: Hylaia showed [5c 7c] and won 5610 with Flush Queen high
+Seat 6: Kaptaiin (button) showed [2d Jd] and lost with One pair : Jacks
+Seat 8: ghost13k (big blind) showed [8h 6c] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-4-1709151605 - Holdem no limit (25/100/200) - 2024/02/28 20:20:05 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #7 is the button
+Seat 1: Evlakaz (19925)
+Seat 2: guett2404 (19925)
+Seat 3: Hylaia (23230)
+Seat 4: LutkoPadalko (20425)
+Seat 5: Rifman84 (19825)
+Seat 6: Kaptaiin (37570)
+Seat 7: P1xel7 (19125)
+*** ANTE/BLINDS ***
+Evlakaz posts ante 25
+guett2404 posts ante 25
+Hylaia posts ante 25
+LutkoPadalko posts ante 25
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+P1xel7 posts ante 25
+Evlakaz posts big blind 200
+Dealt to P1xel7 [Qh 6h]
+*** PRE-FLOP *** 
+guett2404 folds
+Hylaia folds
+LutkoPadalko folds
+Rifman84 folds
+Kaptaiin folds
+P1xel7 folds
+Evlakaz collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Seat 1: Evlakaz (big blind) won 375
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-5-1709151619 - Holdem no limit (25/100/200) - 2024/02/28 20:20:19 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #8 is the button
+Seat 1: Evlakaz (20075)
+Seat 2: guett2404 (19900)
+Seat 4: LutkoPadalko (20400)
+Seat 5: Rifman84 (19800)
+Seat 6: Kaptaiin (37545)
+Seat 7: P1xel7 (19100)
+Seat 8: RlZCH0U (20000)
+*** ANTE/BLINDS ***
+Evlakaz posts ante 25
+guett2404 posts ante 25
+LutkoPadalko posts ante 25
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+P1xel7 posts ante 25
+Evlakaz posts small blind 100
+guett2404 posts big blind 200
+Dealt to P1xel7 [Jc Ts]
+*** PRE-FLOP *** 
+LutkoPadalko folds
+Rifman84 folds
+Kaptaiin raises 400 to 600
+P1xel7 folds
+Evlakaz raises 19450 to 20050 and is all-in
+guett2404 folds
+Kaptaiin raises 17470 to 37520 and is all-in
+*** FLOP *** [Kh 6h 3d]
+*** TURN *** [Kh 6h 3d][Qc]
+*** RIVER *** [Kh 6h 3d Qc][5d]
+*** SHOW DOWN ***
+Evlakaz shows [Ac Js] (High card : Ace)
+Kaptaiin shows [As Kc] (One pair : Kings)
+Kaptaiin collected 57920 from pot
+*** SUMMARY ***
+Total pot 57920 | No rake
+Board: [Kh 6h 3d Qc 5d]
+Seat 1: Evlakaz (small blind) showed [Ac Js] and lost with High card : Ace
+Seat 6: Kaptaiin showed [As Kc] and won 57920 with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-6-1709151651 - Holdem no limit (25/100/200) - 2024/02/28 20:20:51 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #1 is the button
+Seat 2: guett2404 (19675)
+Seat 3: hosbos (20000)
+Seat 4: LutkoPadalko (20375)
+Seat 5: Rifman84 (19775)
+Seat 6: Kaptaiin (57920)
+Seat 7: P1xel7 (19075)
+Seat 8: RlZCH0U (20000)
+*** ANTE/BLINDS ***
+guett2404 posts ante 25
+hosbos posts ante 25
+LutkoPadalko posts ante 25
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+P1xel7 posts ante 25
+RlZCH0U posts ante 25
+guett2404 posts small blind 100
+hosbos posts big blind 200
+Dealt to P1xel7 [6c 6h]
+*** PRE-FLOP *** 
+LutkoPadalko folds
+Rifman84 folds
+Kaptaiin raises 400 to 600
+P1xel7 folds
+RlZCH0U folds
+guett2404 folds
+hosbos calls 400
+*** FLOP *** [7h Ts Jc]
+hosbos bets 1180
+Kaptaiin folds
+hosbos collected 2655 from pot
+*** SUMMARY ***
+Total pot 2655 | No rake
+Board: [7h Ts Jc]
+Seat 3: hosbos (big blind) won 2655
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-7-1709151722 - Holdem no limit (25/100/200) - 2024/02/28 20:22:02 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #2 is the button
+Seat 1: SERGINHO35 (20000)
+Seat 2: guett2404 (19550)
+Seat 3: hosbos (20850)
+Seat 4: LutkoPadalko (20350)
+Seat 5: Rifman84 (19750)
+Seat 6: Kaptaiin (57295)
+Seat 7: P1xel7 (19050)
+Seat 8: RlZCH0U (19975)
+*** ANTE/BLINDS ***
+hosbos posts ante 25
+LutkoPadalko posts ante 25
+SERGINHO35 posts ante 25
+guett2404 posts ante 25
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+P1xel7 posts ante 25
+RlZCH0U posts ante 25
+hosbos posts small blind 100
+LutkoPadalko posts big blind 200
+Dealt to P1xel7 [Qd 7h]
+*** PRE-FLOP *** 
+Rifman84 folds
+Kaptaiin raises 400 to 600
+P1xel7 folds
+RlZCH0U folds
+SERGINHO35 calls 600
+guett2404 folds
+hosbos calls 500
+LutkoPadalko calls 400
+*** FLOP *** [9h 6h Ac]
+hosbos checks
+LutkoPadalko bets 19725 and is all-in
+Kaptaiin calls 19725
+SERGINHO35 folds
+hosbos folds
+*** TURN *** [9h 6h Ac][3h]
+*** RIVER *** [9h 6h Ac 3h][5c]
+*** SHOW DOWN ***
+Kaptaiin shows [2s Ad] (One pair : Aces)
+LutkoPadalko shows [7d 8s] (Straight 9 high)
+LutkoPadalko collected 42050 from pot
+*** SUMMARY ***
+Total pot 42050 | No rake
+Board: [9h 6h Ac 3h 5c]
+Seat 4: LutkoPadalko (big blind) showed [7d 8s] and won 42050 with Straight 9 high
+Seat 6: Kaptaiin showed [2s Ad] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-8-1709151809 - Holdem no limit (25/100/200) - 2024/02/28 20:23:29 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #3 is the button
+Seat 1: SERGINHO35 (19375)
+Seat 2: guett2404 (19525)
+Seat 3: hosbos (20225)
+Seat 4: LutkoPadalko (42050)
+Seat 5: Rifman84 (19725)
+Seat 6: Kaptaiin (36945)
+Seat 7: P1xel7 (19025)
+Seat 8: RlZCH0U (19950)
+*** ANTE/BLINDS ***
+LutkoPadalko posts ante 25
+Rifman84 posts ante 25
+SERGINHO35 posts ante 25
+guett2404 posts ante 25
+hosbos posts ante 25
+Kaptaiin posts ante 25
+P1xel7 posts ante 25
+RlZCH0U posts ante 25
+LutkoPadalko posts small blind 100
+Rifman84 posts big blind 200
+Dealt to P1xel7 [Td 6h]
+*** PRE-FLOP *** 
+Kaptaiin raises 400 to 600
+P1xel7 folds
+RlZCH0U raises 1900 to 2500
+SERGINHO35 folds
+guett2404 folds
+hosbos calls 2500
+LutkoPadalko raises 39525 to 42025 and is all-in
+Rifman84 folds
+Kaptaiin folds
+RlZCH0U calls 17425 and is all-in
+hosbos calls 17700 and is all-in
+*** FLOP *** [8h 4d 2h]
+*** TURN *** [8h 4d 2h][As]
+*** RIVER *** [8h 4d 2h As][4c]
+*** SHOW DOWN ***
+hosbos shows [8c Js] (Two pairs : 8 and 4)
+LutkoPadalko shows [Qc 9c] (One pair : 4)
+RlZCH0U shows [Ac Jh] (Two pairs : Aces and 4)
+RlZCH0U collected 60775 from main pot
+LutkoPadalko collected 21825 from side pot 2
+hosbos collected 550 from side pot 1
+*** SUMMARY ***
+Total pot 83150 | No rake
+Board: [8h 4d 2h As 4c]
+Seat 3: hosbos (button) showed [8c Js] and won 550 with Two pairs : 8 and 4
+Seat 4: LutkoPadalko (small blind) showed [Qc 9c] and won 21825 with One pair : 4
+Seat 8: RlZCH0U showed [Ac Jh] and won 60775 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-9-1709151876 - Holdem no limit (25/100/200) - 2024/02/28 20:24:36 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #4 is the button
+Seat 1: SERGINHO35 (19350)
+Seat 2: guett2404 (19500)
+Seat 3: hosbos (550)
+Seat 4: LutkoPadalko (21825)
+Seat 5: Rifman84 (19500)
+Seat 6: Kaptaiin (36320)
+Seat 7: P1xel7 (19000)
+Seat 8: RlZCH0U (60775)
+*** ANTE/BLINDS ***
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+SERGINHO35 posts ante 25
+guett2404 posts ante 25
+hosbos posts ante 25
+LutkoPadalko posts ante 25
+P1xel7 posts ante 25
+RlZCH0U posts ante 25
+Rifman84 posts small blind 100
+Kaptaiin posts big blind 200
+Dealt to P1xel7 [Ad 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+RlZCH0U folds
+SERGINHO35 calls 200
+guett2404 folds
+hosbos raises 325 to 525 and is all-in
+LutkoPadalko raises 21275 to 21800 and is all-in
+Rifman84 folds
+Kaptaiin folds
+SERGINHO35 calls 19125 and is all-in
+*** FLOP *** [8d 2h 7s]
+*** TURN *** [8d 2h 7s][8c]
+*** RIVER *** [8d 2h 7s 8c][Ts]
+*** SHOW DOWN ***
+hosbos shows [Kc Ac] (One pair : 8)
+SERGINHO35 shows [8h As] (Trips of 8)
+LutkoPadalko shows [Ah Jd] (One pair : 8)
+LutkoPadalko collected 2475 from side pot 1
+SERGINHO35 collected 39675 from main pot
+*** SUMMARY ***
+Total pot 42150 | No rake
+Board: [8d 2h 7s 8c Ts]
+Seat 1: SERGINHO35 showed [8h As] and won 39675 with Trips of 8
+Seat 3: hosbos showed [Kc Ac] and lost with One pair : 8
+Seat 4: LutkoPadalko (button) showed [Ah Jd] and won 2475 with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-10-1709151931 - Holdem no limit (25/100/200) - 2024/02/28 20:25:31 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #5 is the button
+Seat 1: SERGINHO35 (39675)
+Seat 2: guett2404 (19475)
+Seat 4: LutkoPadalko (2475)
+Seat 5: Rifman84 (19375)
+Seat 6: Kaptaiin (36095)
+Seat 7: P1xel7 (18975)
+Seat 8: RlZCH0U (60750)
+*** ANTE/BLINDS ***
+Kaptaiin posts ante 25
+P1xel7 posts ante 25
+SERGINHO35 posts ante 25
+guett2404 posts ante 25
+LutkoPadalko posts ante 25
+Rifman84 posts ante 25
+RlZCH0U posts ante 25
+Kaptaiin posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Kh 2s]
+*** PRE-FLOP *** 
+RlZCH0U folds
+SERGINHO35 folds
+guett2404 folds
+LutkoPadalko folds
+Rifman84 folds
+Kaptaiin folds
+P1xel7 collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | No rake
+Seat 7: P1xel7 (big blind) won 475
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-11-1709151961 - Holdem no limit (25/100/200) - 2024/02/28 20:26:01 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #6 is the button
+Seat 1: SERGINHO35 (39650)
+Seat 2: guett2404 (19450)
+Seat 3: gillddas (20000)
+Seat 4: LutkoPadalko (2450)
+Seat 5: Rifman84 (19350)
+Seat 6: Kaptaiin (35970)
+Seat 7: P1xel7 (19225)
+Seat 8: RlZCH0U (60725)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+RlZCH0U posts ante 25
+SERGINHO35 posts ante 25
+guett2404 posts ante 25
+gillddas posts ante 25
+LutkoPadalko posts ante 25
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+P1xel7 posts small blind 100
+RlZCH0U posts big blind 200
+Dealt to P1xel7 [Th 4s]
+*** PRE-FLOP *** 
+SERGINHO35 calls 200
+guett2404 calls 200
+gillddas raises 19775 to 19975 and is all-in
+LutkoPadalko calls 2425 and is all-in
+Rifman84 folds
+Kaptaiin folds
+P1xel7 folds
+RlZCH0U folds
+SERGINHO35 calls 19775
+guett2404 folds
+*** FLOP *** [9c 2h Qs]
+*** TURN *** [9c 2h Qs][2d]
+*** RIVER *** [9c 2h Qs 2d][Jh]
+*** SHOW DOWN ***
+gillddas shows [3c 3h] (Two pairs : 3 and 2)
+LutkoPadalko shows [7s 6d] (One pair : 2)
+SERGINHO35 shows [9s Ad] (Two pairs : 9 and 2)
+SERGINHO35 collected 43075 from pot
+*** SUMMARY ***
+Total pot 43075 | No rake
+Board: [9c 2h Qs 2d Jh]
+Seat 1: SERGINHO35 showed [9s Ad] and won 43075 with Two pairs : 9 and 2
+Seat 3: gillddas showed [3c 3h] and lost with Two pairs : 3 and 2
+Seat 4: LutkoPadalko showed [7s 6d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-12-1709152015 - Holdem no limit (25/100/200) - 2024/02/28 20:26:55 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #7 is the button
+Seat 1: SERGINHO35 (62725)
+Seat 2: guett2404 (19225)
+Seat 5: Rifman84 (19325)
+Seat 6: Kaptaiin (35945)
+Seat 7: P1xel7 (19100)
+Seat 8: RlZCH0U (60500)
+*** ANTE/BLINDS ***
+RlZCH0U posts ante 25
+SERGINHO35 posts ante 25
+guett2404 posts ante 25
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+P1xel7 posts ante 25
+RlZCH0U posts small blind 100
+SERGINHO35 posts big blind 200
+Dealt to P1xel7 [8s Td]
+*** PRE-FLOP *** 
+guett2404 folds
+Rifman84 folds
+Kaptaiin folds
+P1xel7 folds
+RlZCH0U folds
+SERGINHO35 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | No rake
+Seat 1: SERGINHO35 (big blind) won 450
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-13-1709152043 - Holdem no limit (25/100/200) - 2024/02/28 20:27:23 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #8 is the button
+Seat 1: SERGINHO35 (62950)
+Seat 2: guett2404 (19200)
+Seat 3: demonval (20000)
+Seat 4: Lordpo (23474)
+Seat 5: Rifman84 (19300)
+Seat 6: Kaptaiin (35920)
+Seat 7: P1xel7 (19075)
+Seat 8: RlZCH0U (60375)
+*** ANTE/BLINDS ***
+SERGINHO35 posts ante 25
+guett2404 posts ante 25
+demonval posts ante 25
+Lordpo posts ante 25
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+P1xel7 posts ante 25
+RlZCH0U posts ante 25
+SERGINHO35 posts small blind 100
+guett2404 posts big blind 200
+Dealt to P1xel7 [Kh Th]
+*** PRE-FLOP *** 
+demonval folds
+Lordpo folds
+Rifman84 folds
+Kaptaiin raises 400 to 600
+P1xel7 calls 600
+RlZCH0U folds
+SERGINHO35 calls 500
+guett2404 calls 400
+*** FLOP *** [5s Qh 3s]
+SERGINHO35 checks
+guett2404 checks
+Kaptaiin bets 1300
+P1xel7 folds
+SERGINHO35 calls 1300
+guett2404 folds
+*** TURN *** [5s Qh 3s][3d]
+SERGINHO35 checks
+Kaptaiin checks
+*** RIVER *** [5s Qh 3s 3d][Jh]
+SERGINHO35 bets 5200
+Kaptaiin calls 5200
+*** SHOW DOWN ***
+SERGINHO35 shows [9s 8s] (One pair : 3)
+Kaptaiin shows [Js Ks] (Two pairs : Jacks and 3)
+Kaptaiin collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | No rake
+Board: [5s Qh 3s 3d Jh]
+Seat 1: SERGINHO35 (small blind) showed [9s 8s] and lost with One pair : 3
+Seat 6: Kaptaiin showed [Js Ks] and won 15600 with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3219183897950552434-14-1709152099 - Holdem no limit (25/100/200) - 2024/02/28 20:28:19 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #1 is the button
+Seat 1: SERGINHO35 (55825)
+Seat 2: guett2404 (18575)
+Seat 3: demonval (19975)
+Seat 4: Lordpo (23449)
+Seat 5: Rifman84 (19275)
+Seat 6: Kaptaiin (44395)
+Seat 7: P1xel7 (18450)
+Seat 8: RlZCH0U (60350)
+*** ANTE/BLINDS ***
+guett2404 posts ante 25
+demonval posts ante 25
+SERGINHO35 posts ante 25
+Lordpo posts ante 25
+Rifman84 posts ante 25
+Kaptaiin posts ante 25
+P1xel7 posts ante 25
+RlZCH0U posts ante 25
+guett2404 posts small blind 100
+demonval posts big blind 200
+Dealt to P1xel7 [8d 7c]
+*** PRE-FLOP *** 
+Lordpo folds
+Rifman84 folds
+Kaptaiin raises 400 to 600
+P1xel7 folds
+RlZCH0U raises 1900 to 2500
+SERGINHO35 calls 2500
+guett2404 folds
+demonval folds
+Kaptaiin folds
+*** FLOP *** [Ts 5d 9c]
+RlZCH0U bets 2135
+SERGINHO35 calls 2135
+*** TURN *** [Ts 5d 9c][Th]
+RlZCH0U bets 3630
+SERGINHO35 calls 3630
+*** RIVER *** [Ts 5d 9c Th][Ah]
+RlZCH0U bets 11460
+SERGINHO35 calls 11460
+*** SHOW DOWN ***
+SERGINHO35 shows [6s 6c] (Two pairs : Tens and 6)
+RlZCH0U shows [Ad Kc] (Two pairs : Aces and Tens)
+RlZCH0U collected 40550 from pot
+*** SUMMARY ***
+Total pot 40550 | No rake
+Board: [Ts 5d 9c Th Ah]
+Seat 1: SERGINHO35 (button) showed [6s 6c] and lost with Two pairs : Tens and 6
+Seat 8: RlZCH0U showed [Ad Kc] and won 40550 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3219183897950552434-15-1709152173 - Holdem no limit (30/125/250) - 2024/02/28 20:29:33 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #2 is the button
+Seat 1: SERGINHO35 (36075)
+Seat 2: guett2404 (18450)
+Seat 3: demonval (19750)
+Seat 4: Lordpo (23424)
+Seat 5: Rifman84 (19250)
+Seat 6: Kaptaiin (43770)
+Seat 7: P1xel7 (18425)
+Seat 8: RlZCH0U (81150)
+*** ANTE/BLINDS ***
+demonval posts ante 30
+Lordpo posts ante 30
+SERGINHO35 posts ante 30
+guett2404 posts ante 30
+Rifman84 posts ante 30
+Kaptaiin posts ante 30
+P1xel7 posts ante 30
+RlZCH0U posts ante 30
+demonval posts small blind 125
+Lordpo posts big blind 250
+Dealt to P1xel7 [7h 8h]
+*** PRE-FLOP *** 
+Rifman84 folds
+Kaptaiin raises 500 to 750
+P1xel7 folds
+RlZCH0U folds
+SERGINHO35 folds
+guett2404 calls 750
+demonval raises 18970 to 19720 and is all-in
+Lordpo folds
+Kaptaiin folds
+guett2404 folds
+demonval collected 21710 from pot
+*** SUMMARY ***
+Total pot 21710 | No rake
+Seat 3: demonval (small blind) won 21710
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3219183897950552434-16-1709152207 - Holdem no limit (30/125/250) - 2024/02/28 20:30:07 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #3 is the button
+Seat 1: SERGINHO35 (36045)
+Seat 2: guett2404 (17670)
+Seat 3: demonval (21710)
+Seat 4: Lordpo (23144)
+Seat 5: Rifman84 (19220)
+Seat 6: Kaptaiin (42990)
+Seat 7: P1xel7 (18395)
+Seat 8: RlZCH0U (81120)
+*** ANTE/BLINDS ***
+Lordpo posts ante 30
+Rifman84 posts ante 30
+SERGINHO35 posts ante 30
+guett2404 posts ante 30
+demonval posts ante 30
+Kaptaiin posts ante 30
+P1xel7 posts ante 30
+RlZCH0U posts ante 30
+Lordpo posts small blind 125
+Rifman84 posts big blind 250
+Dealt to P1xel7 [6h 8h]
+*** PRE-FLOP *** 
+Kaptaiin raises 500 to 750
+P1xel7 folds
+RlZCH0U folds
+SERGINHO35 calls 750
+guett2404 folds
+demonval calls 750
+Lordpo folds
+Rifman84 folds
+*** FLOP *** [9h 7s Qd]
+Kaptaiin checks
+SERGINHO35 checks
+demonval bets 20930 and is all-in
+Kaptaiin folds
+SERGINHO35 folds
+demonval collected 23795 from pot
+*** SUMMARY ***
+Total pot 23795 | No rake
+Board: [9h 7s Qd]
+Seat 3: demonval (button) won 23795
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3219183897950552434-17-1709152242 - Holdem no limit (30/125/250) - 2024/02/28 20:30:42 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #4 is the button
+Seat 1: SERGINHO35 (35265)
+Seat 2: guett2404 (17640)
+Seat 3: demonval (23795)
+Seat 4: Lordpo (22989)
+Seat 5: Rifman84 (18940)
+Seat 6: Kaptaiin (42210)
+Seat 7: P1xel7 (18365)
+Seat 8: RlZCH0U (81090)
+*** ANTE/BLINDS ***
+Rifman84 posts ante 30
+Kaptaiin posts ante 30
+SERGINHO35 posts ante 30
+guett2404 posts ante 30
+demonval posts ante 30
+Lordpo posts ante 30
+P1xel7 posts ante 30
+RlZCH0U posts ante 30
+Rifman84 posts small blind 125
+Kaptaiin posts big blind 250
+Dealt to P1xel7 [Tc Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 625 to 875
+RlZCH0U raises 1750 to 2625
+SERGINHO35 folds
+guett2404 folds
+demonval folds
+Lordpo folds
+Rifman84 folds
+Kaptaiin folds
+P1xel7 calls 1750
+*** FLOP *** [Qd 4c 7s]
+P1xel7 checks
+RlZCH0U checks
+*** TURN *** [Qd 4c 7s][8s]
+P1xel7 bets 2933
+RlZCH0U folds
+P1xel7 collected 8798 from pot
+*** SUMMARY ***
+Total pot 8798 | No rake
+Board: [Qd 4c 7s 8s]
+Seat 7: P1xel7 won 8798
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3219183897950552434-18-1709152287 - Holdem no limit (35/150/300) - 2024/02/28 20:31:27 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #5 is the button
+Seat 1: SERGINHO35 (35235)
+Seat 2: guett2404 (17610)
+Seat 3: demonval (23765)
+Seat 4: Lordpo (22959)
+Seat 5: Rifman84 (18785)
+Seat 6: Kaptaiin (41930)
+Seat 7: P1xel7 (21575)
+Seat 8: RlZCH0U (78435)
+*** ANTE/BLINDS ***
+Kaptaiin posts ante 35
+P1xel7 posts ante 35
+SERGINHO35 posts ante 35
+guett2404 posts ante 35
+demonval posts ante 35
+Lordpo posts ante 35
+Rifman84 posts ante 35
+RlZCH0U posts ante 35
+Kaptaiin posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [3s Ts]
+*** PRE-FLOP *** 
+RlZCH0U raises 600 to 900
+SERGINHO35 raises 34300 to 35200 and is all-in
+guett2404 folds
+demonval calls 23730 and is all-in
+Lordpo folds
+Rifman84 folds
+Kaptaiin folds
+P1xel7 folds
+RlZCH0U folds
+*** FLOP *** [8d Kd Jh]
+*** TURN *** [8d Kd Jh][6d]
+*** RIVER *** [8d Kd Jh 6d][7d]
+*** SHOW DOWN ***
+demonval shows [2h 2c] (One pair : 2)
+SERGINHO35 shows [Qc Jc] (One pair : Jacks)
+SERGINHO35 collected 60560 from pot
+*** SUMMARY ***
+Total pot 60560 | No rake
+Board: [8d Kd Jh 6d 7d]
+Seat 1: SERGINHO35 showed [Qc Jc] and won 60560 with One pair : Jacks
+Seat 3: demonval showed [2h 2c] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3219183897950552434-19-1709152334 - Holdem no limit (35/150/300) - 2024/02/28 20:32:14 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #6 is the button
+Seat 1: SERGINHO35 (60560)
+Seat 2: guett2404 (17575)
+Seat 4: Lordpo (22924)
+Seat 5: Rifman84 (18750)
+Seat 6: Kaptaiin (41745)
+Seat 7: P1xel7 (21240)
+Seat 8: RlZCH0U (77500)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+RlZCH0U posts ante 35
+SERGINHO35 posts ante 35
+guett2404 posts ante 35
+Lordpo posts ante 35
+Rifman84 posts ante 35
+Kaptaiin posts ante 35
+P1xel7 posts small blind 150
+RlZCH0U posts big blind 300
+Dealt to P1xel7 [Td 6d]
+*** PRE-FLOP *** 
+SERGINHO35 calls 300
+guett2404 folds
+Lordpo folds
+Rifman84 folds
+Kaptaiin calls 300
+P1xel7 folds
+RlZCH0U checks
+*** FLOP *** [9h 3s 4d]
+RlZCH0U checks
+SERGINHO35 checks
+Kaptaiin checks
+*** TURN *** [9h 3s 4d][5s]
+RlZCH0U bets 453
+SERGINHO35 calls 453
+Kaptaiin calls 453
+*** RIVER *** [9h 3s 4d 5s][Qd]
+RlZCH0U checks
+SERGINHO35 checks
+Kaptaiin bets 1327
+RlZCH0U folds
+SERGINHO35 folds
+Kaptaiin collected 3981 from pot
+*** SUMMARY ***
+Total pot 3981 | No rake
+Board: [9h 3s 4d 5s Qd]
+Seat 6: Kaptaiin (button) won 3981
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3219183897950552434-20-1709152428 - Holdem no limit (40/175/350) - 2024/02/28 20:33:48 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #7 is the button
+Seat 1: SERGINHO35 (59772)
+Seat 2: guett2404 (17540)
+Seat 3: mayorone (20000)
+Seat 4: Lordpo (22889)
+Seat 5: Rifman84 (18715)
+Seat 6: Kaptaiin (43611)
+Seat 7: P1xel7 (21055)
+Seat 8: RlZCH0U (76712)
+*** ANTE/BLINDS ***
+RlZCH0U posts ante 40
+SERGINHO35 posts ante 40
+guett2404 posts ante 40
+mayorone posts ante 40
+Lordpo posts ante 40
+Rifman84 posts ante 40
+Kaptaiin posts ante 40
+P1xel7 posts ante 40
+RlZCH0U posts small blind 175
+SERGINHO35 posts big blind 350
+Dealt to P1xel7 [7s Qd]
+*** PRE-FLOP *** 
+guett2404 calls 350
+mayorone calls 350
+Lordpo folds
+Rifman84 folds
+Kaptaiin raises 700 to 1050
+P1xel7 folds
+RlZCH0U folds
+SERGINHO35 calls 700
+guett2404 calls 700
+mayorone calls 700
+*** FLOP *** [8d 4h 5c]
+SERGINHO35 checks
+guett2404 checks
+mayorone checks
+Kaptaiin checks
+*** TURN *** [8d 4h 5c][Ts]
+SERGINHO35 checks
+guett2404 checks
+mayorone checks
+Kaptaiin checks
+*** RIVER *** [8d 4h 5c Ts][4d]
+SERGINHO35 bets 350
+guett2404 folds
+mayorone calls 350
+Kaptaiin folds
+*** SHOW DOWN ***
+mayorone shows [3h 3s] (Two pairs : 4 and 3)
+SERGINHO35 shows [Qs 5s] (Two pairs : 5 and 4)
+SERGINHO35 collected 5395 from pot
+*** SUMMARY ***
+Total pot 5395 | No rake
+Board: [8d 4h 5c Ts 4d]
+Seat 1: SERGINHO35 (big blind) showed [Qs 5s] and won 5395 with Two pairs : 5 and 4
+Seat 3: mayorone showed [3h 3s] and lost with Two pairs : 4 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3219183897950552434-21-1709152568 - Holdem no limit (50/200/400) - 2024/02/28 20:36:08 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #8 is the button
+Seat 1: SERGINHO35 (63727)
+Seat 2: guett2404 (16450)
+Seat 3: mayorone (18560)
+Seat 4: Lordpo (22849)
+Seat 5: Rifman84 (18675)
+Seat 6: Kaptaiin (42521)
+Seat 7: P1xel7 (21015)
+Seat 8: RlZCH0U (76497)
+*** ANTE/BLINDS ***
+SERGINHO35 posts ante 50
+guett2404 posts ante 50
+mayorone posts ante 50
+Lordpo posts ante 50
+Rifman84 posts ante 50
+Kaptaiin posts ante 50
+P1xel7 posts ante 50
+RlZCH0U posts ante 50
+SERGINHO35 posts small blind 200
+guett2404 posts big blind 400
+Dealt to P1xel7 [5s 3h]
+*** PRE-FLOP *** 
+mayorone folds
+Lordpo folds
+Rifman84 folds
+Kaptaiin raises 800 to 1200
+P1xel7 folds
+RlZCH0U calls 1200
+SERGINHO35 folds
+guett2404 calls 800
+*** FLOP *** [9s Ac 4h]
+guett2404 checks
+Kaptaiin checks
+RlZCH0U checks
+*** TURN *** [9s Ac 4h][Ad]
+guett2404 checks
+Kaptaiin bets 1470
+RlZCH0U folds
+guett2404 calls 1470
+*** RIVER *** [9s Ac 4h Ad][Qh]
+guett2404 checks
+Kaptaiin bets 39801 and is all-in
+guett2404 folds
+Kaptaiin collected 46941 from pot
+*** SUMMARY ***
+Total pot 46941 | No rake
+Board: [9s Ac 4h Ad Qh]
+Seat 6: Kaptaiin won 46941
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3219183897950552434-22-1709152667 - Holdem no limit (50/200/400) - 2024/02/28 20:37:47 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #1 is the button
+Seat 1: SERGINHO35 (63477)
+Seat 2: guett2404 (13730)
+Seat 3: mayorone (18510)
+Seat 4: Lordpo (22799)
+Seat 5: Rifman84 (18625)
+Seat 6: Kaptaiin (46941)
+Seat 7: P1xel7 (20965)
+Seat 8: RlZCH0U (75247)
+*** ANTE/BLINDS ***
+guett2404 posts ante 50
+mayorone posts ante 50
+SERGINHO35 posts ante 50
+Lordpo posts ante 50
+Rifman84 posts ante 50
+Kaptaiin posts ante 50
+P1xel7 posts ante 50
+RlZCH0U posts ante 50
+guett2404 posts small blind 200
+mayorone posts big blind 400
+Dealt to P1xel7 [Qh 7h]
+*** PRE-FLOP *** 
+Lordpo folds
+Rifman84 folds
+Kaptaiin folds
+P1xel7 folds
+RlZCH0U folds
+SERGINHO35 calls 400
+guett2404 calls 200
+mayorone checks
+*** FLOP *** [8s 4h Ac]
+guett2404 bets 400
+mayorone folds
+SERGINHO35 calls 400
+*** TURN *** [8s 4h Ac][9s]
+guett2404 bets 400
+SERGINHO35 calls 400
+*** RIVER *** [8s 4h Ac 9s][8h]
+guett2404 checks
+SERGINHO35 checks
+*** SHOW DOWN ***
+guett2404 shows [3s 7s] (One pair : 8)
+SERGINHO35 shows [4s 3c] (Two pairs : 8 and 4)
+SERGINHO35 collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [8s 4h Ac 9s 8h]
+Seat 1: SERGINHO35 (button) showed [4s 3c] and won 3200 with Two pairs : 8 and 4
+Seat 2: guett2404 (small blind) showed [3s 7s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3219183897950552434-23-1709152701 - Holdem no limit (50/200/400) - 2024/02/28 20:38:21 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #2 is the button
+Seat 1: SERGINHO35 (65427)
+Seat 2: guett2404 (12480)
+Seat 3: mayorone (18060)
+Seat 4: Lordpo (22749)
+Seat 6: Kaptaiin (46891)
+Seat 7: P1xel7 (20915)
+Seat 8: RlZCH0U (75197)
+*** ANTE/BLINDS ***
+mayorone posts ante 50
+Lordpo posts ante 50
+SERGINHO35 posts ante 50
+guett2404 posts ante 50
+Kaptaiin posts ante 50
+P1xel7 posts ante 50
+RlZCH0U posts ante 50
+mayorone posts small blind 200
+Lordpo posts big blind 400
+Dealt to P1xel7 [Ac 7c]
+*** PRE-FLOP *** 
+Kaptaiin folds
+P1xel7 raises 600 to 1000
+RlZCH0U folds
+SERGINHO35 calls 1000
+guett2404 calls 1000
+mayorone folds
+Lordpo folds
+*** FLOP *** [5d 8d Ts]
+P1xel7 checks
+SERGINHO35 checks
+guett2404 bets 1383
+P1xel7 folds
+SERGINHO35 calls 1383
+*** TURN *** [5d 8d Ts][Qd]
+SERGINHO35 checks
+guett2404 checks
+*** RIVER *** [5d 8d Ts Qd][9s]
+SERGINHO35 bets 6716
+guett2404 calls 6716
+*** SHOW DOWN ***
+guett2404 shows [Jd Tc] (Straight Queen high)
+SERGINHO35 shows [6d 3d] (Flush Queen high)
+SERGINHO35 collected 20148 from pot
+*** SUMMARY ***
+Total pot 20148 | No rake
+Board: [5d 8d Ts Qd 9s]
+Seat 1: SERGINHO35 showed [6d 3d] and won 20148 with Flush Queen high
+Seat 2: guett2404 (button) showed [Jd Tc] and lost with Straight Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3219183897950552434-24-1709152772 - Holdem no limit (60/250/500) - 2024/02/28 20:39:32 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #3 is the button
+Seat 1: SERGINHO35 (76426)
+Seat 2: guett2404 (3331)
+Seat 3: mayorone (17810)
+Seat 4: Lordpo (22299)
+Seat 5: ChokoAA (20000)
+Seat 6: Kaptaiin (46841)
+Seat 7: P1xel7 (19865)
+Seat 8: RlZCH0U (75147)
+*** ANTE/BLINDS ***
+Lordpo posts ante 60
+ChokoAA posts ante 60
+SERGINHO35 posts ante 60
+guett2404 posts ante 60
+mayorone posts ante 60
+Kaptaiin posts ante 60
+P1xel7 posts ante 60
+RlZCH0U posts ante 60
+Lordpo posts small blind 250
+ChokoAA posts big blind 500
+Dealt to P1xel7 [Ah Jc]
+*** PRE-FLOP *** 
+Kaptaiin folds
+P1xel7 raises 750 to 1250
+RlZCH0U folds
+SERGINHO35 folds
+guett2404 raises 2021 to 3271 and is all-in
+mayorone folds
+Lordpo folds
+ChokoAA raises 16669 to 19940 and is all-in
+P1xel7 calls 18555 and is all-in
+*** FLOP *** [Ad Qh Kd]
+*** TURN *** [Ad Qh Kd][Ts]
+*** RIVER *** [Ad Qh Kd Ts][7h]
+*** SHOW DOWN ***
+guett2404 shows [Th Qd] (Two pairs : Queens and Tens)
+ChokoAA shows [As 6c] (One pair : Aces)
+P1xel7 shows [Ah Jc] (Straight Ace high)
+P1xel7 collected 43611 from main pot
+ChokoAA collected 135 from side pot 1
+*** SUMMARY ***
+Total pot 43746 | No rake
+Board: [Ad Qh Kd Ts 7h]
+Seat 2: guett2404 showed [Th Qd] and lost with Two pairs : Queens and Tens
+Seat 5: ChokoAA (big blind) showed [As 6c] and won 135 with One pair : Aces
+Seat 7: P1xel7 showed [Ah Jc] and won 43611 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3219183897950552434-25-1709152843 - Holdem no limit (60/250/500) - 2024/02/28 20:40:43 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #4 is the button
+Seat 1: SERGINHO35 (76366)
+Seat 3: mayorone (17750)
+Seat 4: Lordpo (21989)
+Seat 5: ChokoAA (135)
+Seat 6: Kaptaiin (46781)
+Seat 7: P1xel7 (43611)
+Seat 8: RlZCH0U (75087)
+*** ANTE/BLINDS ***
+ChokoAA posts ante 60
+Kaptaiin posts ante 60
+SERGINHO35 posts ante 60
+mayorone posts ante 60
+Lordpo posts ante 60
+P1xel7 posts ante 60
+RlZCH0U posts ante 60
+ChokoAA posts small blind 75 and is all-in
+Kaptaiin posts big blind 500
+Dealt to P1xel7 [8s Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+RlZCH0U folds
+SERGINHO35 folds
+mayorone folds
+Lordpo folds
+*** FLOP *** [6c 4c 7c]
+*** TURN *** [6c 4c 7c][Qc]
+*** RIVER *** [6c 4c 7c Qc][9c]
+*** SHOW DOWN ***
+ChokoAA shows [5d Jd] (Flush Queen high)
+Kaptaiin shows [Kd Ks] (Flush Queen high)
+Kaptaiin collected 710 from side pot 1
+ChokoAA collected 285 from main pot
+*** SUMMARY ***
+Total pot 995 | No rake
+Board: [6c 4c 7c Qc 9c]
+Seat 5: ChokoAA (small blind) showed [5d Jd] and won 285 with Flush Queen high
+Seat 6: Kaptaiin (big blind) showed [Kd Ks] and won 710 with Flush Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3219183897950552434-26-1709152865 - Holdem no limit (70/300/600) - 2024/02/28 20:41:05 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #5 is the button
+Seat 1: SERGINHO35 (76306)
+Seat 3: mayorone (17690)
+Seat 4: Lordpo (21929)
+Seat 5: ChokoAA (285)
+Seat 6: Kaptaiin (46931)
+Seat 7: P1xel7 (43551)
+Seat 8: RlZCH0U (75027)
+*** ANTE/BLINDS ***
+Kaptaiin posts ante 70
+P1xel7 posts ante 70
+SERGINHO35 posts ante 70
+mayorone posts ante 70
+Lordpo posts ante 70
+ChokoAA posts ante 70
+RlZCH0U posts ante 70
+Kaptaiin posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [4h 4d]
+*** PRE-FLOP *** 
+RlZCH0U raises 1200 to 1800
+SERGINHO35 calls 1800
+mayorone folds
+Lordpo folds
+ChokoAA calls 215 and is all-in
+Kaptaiin folds
+P1xel7 calls 1200
+*** FLOP *** [2s 7s 8h]
+P1xel7 checks
+RlZCH0U checks
+SERGINHO35 checks
+*** TURN *** [2s 7s 8h][Ts]
+P1xel7 checks
+RlZCH0U bets 5124
+SERGINHO35 folds
+P1xel7 calls 5124
+*** RIVER *** [2s 7s 8h Ts][Kh]
+P1xel7 checks
+RlZCH0U checks
+*** SHOW DOWN ***
+ChokoAA shows [4c 5c] (High card : King)
+P1xel7 shows [4h 4d] (One pair : 4)
+RlZCH0U shows [Tc As] (One pair : Tens)
+RlZCH0U collected 16653 from pot
+*** SUMMARY ***
+Total pot 16653 | No rake
+Board: [2s 7s 8h Ts Kh]
+Seat 5: ChokoAA (button) showed [4c 5c] and lost with High card : King
+Seat 7: P1xel7 (big blind) showed [4h 4d] and lost with One pair : 4
+Seat 8: RlZCH0U showed [Tc As] and won 16653 with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3219183897950552434-27-1709152927 - Holdem no limit (70/300/600) - 2024/02/28 20:42:07 UTC
+Table: 'Freeroll(749524659)#0369' 8-max (real money) Seat #6 is the button
+Seat 1: SERGINHO35 (74436)
+Seat 2: twoangle93 (20000)
+Seat 3: mayorone (17620)
+Seat 4: Lordpo (21859)
+Seat 6: Kaptaiin (46561)
+Seat 7: P1xel7 (36557)
+Seat 8: RlZCH0U (84686)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+RlZCH0U posts ante 70
+SERGINHO35 posts ante 70
+twoangle93 posts ante 70
+mayorone posts ante 70
+Lordpo posts ante 70
+Kaptaiin posts ante 70
+P1xel7 posts small blind 300
+RlZCH0U posts big blind 600
+Dealt to P1xel7 [Jc Ah]
+*** PRE-FLOP *** 
+SERGINHO35 calls 600
+twoangle93 calls 600
+mayorone folds
+Lordpo folds
+Kaptaiin raises 1200 to 1800
+P1xel7 raises 7200 to 9000
+RlZCH0U folds
+SERGINHO35 folds
+twoangle93 folds
+Kaptaiin raises 37491 to 46491 and is all-in
+P1xel7 calls 27487 and is all-in
+*** FLOP *** [3h 4d 7h]
+*** TURN *** [3h 4d 7h][Ac]
+*** RIVER *** [3h 4d 7h Ac][Kc]
+*** SHOW DOWN ***
+P1xel7 shows [Jc Ah] (One pair : Aces)
+Kaptaiin shows [As Qd] (One pair : Aces)
+Kaptaiin collected 85268 from pot
+*** SUMMARY ***
+Total pot 85268 | No rake
+Board: [3h 4d 7h Ac Kc]
+Seat 6: Kaptaiin (button) showed [As Qd] and won 85268 with One pair : Aces
+Seat 7: P1xel7 (small blind) showed [Jc Ah] and lost with One pair : Aces
+
+

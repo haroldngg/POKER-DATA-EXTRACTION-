@@ -1,0 +1,769 @@
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3093862829631995915-40-1702578300 - Holdem no limit (4/17/35) - 2023/12/14 18:25:00 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (500, 0.90€ bounty)
+Seat 2: frenchykev (616, 0.90€ bounty)
+Seat 3: Bolt31660 (887, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 4
+P1xel7 posts ante 4
+frenchykev posts ante 4
+Bolt31660 posts small blind 17
+P1xel7 posts big blind 35
+Dealt to P1xel7 [3h 3c]
+*** PRE-FLOP *** 
+frenchykev calls 35
+Bolt31660 calls 18
+P1xel7 checks
+*** FLOP *** [5d Ts 8d]
+Bolt31660 checks
+P1xel7 checks
+frenchykev checks
+*** TURN *** [5d Ts 8d][6d]
+Bolt31660 checks
+P1xel7 checks
+frenchykev bets 35
+Bolt31660 folds
+P1xel7 calls 35
+*** RIVER *** [5d Ts 8d 6d][2c]
+P1xel7 checks
+frenchykev checks
+*** SHOW DOWN ***
+frenchykev shows [Kc Jd] (High card : King)
+P1xel7 shows [3h 3c] (One pair : 3)
+P1xel7 collected 187 from pot
+*** SUMMARY ***
+Total pot 187 | No rake
+Board: [5d Ts 8d 6d 2c]
+Seat 1: P1xel7 (big blind) showed [3h 3c] and won 187 with One pair : 3
+Seat 2: frenchykev (button) showed [Kc Jd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862829631995915-41-1702578334 - Holdem no limit (5/20/40) - 2023/12/14 18:25:34 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (613, 0.90€ bounty)
+Seat 2: frenchykev (542, 0.90€ bounty)
+Seat 3: Bolt31660 (848, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+frenchykev posts ante 5
+Bolt31660 posts ante 5
+P1xel7 posts small blind 20
+frenchykev posts big blind 40
+Dealt to P1xel7 [3d Tc]
+*** PRE-FLOP *** 
+Bolt31660 calls 40
+P1xel7 folds
+frenchykev checks
+*** FLOP *** [4s 5d 7h]
+frenchykev bets 40
+Bolt31660 folds
+frenchykev collected 155 from pot
+*** SUMMARY ***
+Total pot 155 | No rake
+Board: [4s 5d 7h]
+Seat 2: frenchykev (big blind) won 155
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862829631995915-42-1702578343 - Holdem no limit (5/20/40) - 2023/12/14 18:25:43 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (588, 0.90€ bounty)
+Seat 2: frenchykev (612, 0.90€ bounty)
+Seat 3: Bolt31660 (803, 1.35€ bounty)
+*** ANTE/BLINDS ***
+frenchykev posts ante 5
+Bolt31660 posts ante 5
+P1xel7 posts ante 5
+frenchykev posts small blind 20
+Bolt31660 posts big blind 40
+Dealt to P1xel7 [Js As]
+*** PRE-FLOP *** 
+P1xel7 raises 48 to 88
+frenchykev folds
+Bolt31660 calls 48
+*** FLOP *** [Ks 6c 3c]
+Bolt31660 checks
+P1xel7 bets 106
+Bolt31660 folds
+P1xel7 collected 317 from pot
+*** SUMMARY ***
+Total pot 317 | No rake
+Board: [Ks 6c 3c]
+Seat 1: P1xel7 (button) won 317
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862829631995915-43-1702578368 - Holdem no limit (5/20/40) - 2023/12/14 18:26:08 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (706, 0.90€ bounty)
+Seat 2: frenchykev (587, 0.90€ bounty)
+Seat 3: Bolt31660 (710, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 5
+P1xel7 posts ante 5
+frenchykev posts ante 5
+Bolt31660 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [7c 6s]
+*** PRE-FLOP *** 
+frenchykev folds
+Bolt31660 calls 20
+P1xel7 checks
+*** FLOP *** [Qh Jc Td]
+Bolt31660 checks
+P1xel7 checks
+*** TURN *** [Qh Jc Td][4c]
+Bolt31660 bets 40
+P1xel7 folds
+Bolt31660 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [Qh Jc Td 4c]
+Seat 3: Bolt31660 (small blind) won 135
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862829631995915-44-1702578380 - Holdem no limit (5/20/40) - 2023/12/14 18:26:20 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (661, 0.90€ bounty)
+Seat 2: frenchykev (582, 0.90€ bounty)
+Seat 3: Bolt31660 (760, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+frenchykev posts ante 5
+Bolt31660 posts ante 5
+P1xel7 posts small blind 20
+frenchykev posts big blind 40
+Dealt to P1xel7 [2d 6s]
+*** PRE-FLOP *** 
+Bolt31660 calls 40
+P1xel7 folds
+frenchykev raises 40 to 80
+Bolt31660 calls 40
+*** FLOP *** [Qd 2s 6c]
+frenchykev checks
+Bolt31660 bets 195
+frenchykev folds
+Bolt31660 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | No rake
+Board: [Qd 2s 6c]
+Seat 3: Bolt31660 (button) won 390
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862829631995915-45-1702578398 - Holdem no limit (5/20/40) - 2023/12/14 18:26:38 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (636, 0.90€ bounty)
+Seat 2: frenchykev (497, 0.90€ bounty)
+Seat 3: Bolt31660 (870, 1.35€ bounty)
+*** ANTE/BLINDS ***
+frenchykev posts ante 5
+Bolt31660 posts ante 5
+P1xel7 posts ante 5
+frenchykev posts small blind 20
+Bolt31660 posts big blind 40
+Dealt to P1xel7 [5s 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+frenchykev folds
+Bolt31660 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 3: Bolt31660 (big blind) won 75
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862829631995915-46-1702578403 - Holdem no limit (5/20/40) - 2023/12/14 18:26:43 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (631, 0.90€ bounty)
+Seat 2: frenchykev (472, 0.90€ bounty)
+Seat 3: Bolt31660 (900, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 5
+P1xel7 posts ante 5
+frenchykev posts ante 5
+Bolt31660 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Js 9s]
+*** PRE-FLOP *** 
+frenchykev folds
+Bolt31660 calls 20
+P1xel7 checks
+*** FLOP *** [8d 4h 5h]
+Bolt31660 bets 855 and is all-in
+P1xel7 folds
+Bolt31660 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [8d 4h 5h]
+Seat 3: Bolt31660 (small blind) won 950
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862829631995915-47-1702578420 - Holdem no limit (5/20/40) - 2023/12/14 18:27:00 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (586, 0.90€ bounty)
+Seat 2: frenchykev (467, 0.90€ bounty)
+Seat 3: Bolt31660 (950, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+frenchykev posts ante 5
+Bolt31660 posts ante 5
+P1xel7 posts small blind 20
+frenchykev posts big blind 40
+Dealt to P1xel7 [6c 8h]
+*** PRE-FLOP *** 
+Bolt31660 calls 40
+P1xel7 folds
+frenchykev checks
+*** FLOP *** [Ks Ts 9h]
+frenchykev checks
+Bolt31660 bets 75
+frenchykev calls 75
+*** TURN *** [Ks Ts 9h][2s]
+frenchykev checks
+Bolt31660 bets 172
+frenchykev folds
+Bolt31660 collected 437 from pot
+*** SUMMARY ***
+Total pot 437 | No rake
+Board: [Ks Ts 9h 2s]
+Seat 3: Bolt31660 (button) won 437
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862829631995915-48-1702578436 - Holdem no limit (5/20/40) - 2023/12/14 18:27:16 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (561, 0.90€ bounty)
+Seat 2: frenchykev (347, 0.90€ bounty)
+Seat 3: Bolt31660 (1095, 1.35€ bounty)
+*** ANTE/BLINDS ***
+frenchykev posts ante 5
+Bolt31660 posts ante 5
+P1xel7 posts ante 5
+frenchykev posts small blind 20
+Bolt31660 posts big blind 40
+Dealt to P1xel7 [8c Qh]
+*** PRE-FLOP *** 
+P1xel7 folds
+frenchykev raises 40 to 80
+Bolt31660 folds
+frenchykev collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 2: frenchykev (small blind) won 135
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3093862829631995915-49-1702578449 - Holdem no limit (5/20/40) - 2023/12/14 18:27:29 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (556, 0.90€ bounty)
+Seat 2: frenchykev (397, 0.90€ bounty)
+Seat 3: Bolt31660 (1050, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 5
+P1xel7 posts ante 5
+frenchykev posts ante 5
+Bolt31660 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [9h 7h]
+*** PRE-FLOP *** 
+frenchykev folds
+Bolt31660 raises 95 to 135
+P1xel7 folds
+Bolt31660 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Seat 3: Bolt31660 (small blind) won 190
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-50-1702578460 - Holdem no limit (6/25/50) - 2023/12/14 18:27:40 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (511, 0.90€ bounty)
+Seat 2: frenchykev (392, 0.90€ bounty)
+Seat 3: Bolt31660 (1100, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+frenchykev posts ante 6
+Bolt31660 posts ante 6
+P1xel7 posts small blind 25
+frenchykev posts big blind 50
+Dealt to P1xel7 [Ts 9c]
+*** PRE-FLOP *** 
+Bolt31660 folds
+P1xel7 raises 50 to 100
+frenchykev folds
+P1xel7 collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | No rake
+Seat 1: P1xel7 (small blind) won 168
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-51-1702578472 - Holdem no limit (6/25/50) - 2023/12/14 18:27:52 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (573, 0.90€ bounty)
+Seat 2: frenchykev (336, 0.90€ bounty)
+Seat 3: Bolt31660 (1094, 1.35€ bounty)
+*** ANTE/BLINDS ***
+frenchykev posts ante 6
+Bolt31660 posts ante 6
+P1xel7 posts ante 6
+frenchykev posts small blind 25
+Bolt31660 posts big blind 50
+Dealt to P1xel7 [2d 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+frenchykev folds
+Bolt31660 collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | No rake
+Seat 3: Bolt31660 (big blind) won 93
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-52-1702578476 - Holdem no limit (6/25/50) - 2023/12/14 18:27:56 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (567, 0.90€ bounty)
+Seat 2: frenchykev (305, 0.90€ bounty)
+Seat 3: Bolt31660 (1131, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 6
+P1xel7 posts ante 6
+frenchykev posts ante 6
+Bolt31660 posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [8s 2s]
+*** PRE-FLOP *** 
+frenchykev folds
+Bolt31660 folds
+P1xel7 collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | No rake
+Seat 1: P1xel7 (big blind) won 93
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-53-1702578483 - Holdem no limit (6/25/50) - 2023/12/14 18:28:03 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (604, 0.90€ bounty)
+Seat 2: frenchykev (299, 0.90€ bounty)
+Seat 3: Bolt31660 (1100, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+frenchykev posts ante 6
+Bolt31660 posts ante 6
+P1xel7 posts small blind 25
+frenchykev posts big blind 50
+Dealt to P1xel7 [Jc Jh]
+*** PRE-FLOP *** 
+Bolt31660 folds
+P1xel7 raises 548 to 598 and is all-in
+frenchykev folds
+P1xel7 collected 666 from pot
+*** SUMMARY ***
+Total pot 666 | No rake
+Seat 1: P1xel7 (small blind) won 666
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-54-1702578490 - Holdem no limit (6/25/50) - 2023/12/14 18:28:10 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (666, 0.90€ bounty)
+Seat 2: frenchykev (243, 0.90€ bounty)
+Seat 3: Bolt31660 (1094, 1.35€ bounty)
+*** ANTE/BLINDS ***
+frenchykev posts ante 6
+Bolt31660 posts ante 6
+P1xel7 posts ante 6
+frenchykev posts small blind 25
+Bolt31660 posts big blind 50
+Dealt to P1xel7 [5s 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+frenchykev raises 50 to 100
+Bolt31660 folds
+frenchykev collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | No rake
+Seat 2: frenchykev (small blind) won 168
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-55-1702578497 - Holdem no limit (6/25/50) - 2023/12/14 18:28:17 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (660, 0.90€ bounty)
+Seat 2: frenchykev (305, 0.90€ bounty)
+Seat 3: Bolt31660 (1038, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 6
+P1xel7 posts ante 6
+frenchykev posts ante 6
+Bolt31660 posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [8c Td]
+*** PRE-FLOP *** 
+frenchykev raises 249 to 299 and is all-in
+Bolt31660 folds
+P1xel7 folds
+frenchykev collected 392 from pot
+*** SUMMARY ***
+Total pot 392 | No rake
+Seat 2: frenchykev (button) won 392
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-57-1702578526 - Holdem no limit (6/25/50) - 2023/12/14 18:28:46 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (573, 0.90€ bounty)
+Seat 3: Bolt31660 (1430, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 6
+P1xel7 posts ante 6
+Bolt31660 posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [Ks 5s]
+*** PRE-FLOP *** 
+Bolt31660 calls 25
+P1xel7 checks
+*** FLOP *** [7h 3d Qs]
+P1xel7 bets 73
+Bolt31660 calls 73
+*** TURN *** [7h 3d Qs][2c]
+P1xel7 checks
+Bolt31660 bets 90
+P1xel7 folds
+Bolt31660 collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | No rake
+Board: [7h 3d Qs 2c]
+Seat 3: Bolt31660 (small blind) (button) won 348
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-58-1702578555 - Holdem no limit (6/25/50) - 2023/12/14 18:29:15 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (444, 0.90€ bounty)
+Seat 2: GasMachine (1087, 1.35€ bounty)
+Seat 3: Bolt31660 (1559, 1.80€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+GasMachine posts ante 6
+Bolt31660 posts ante 6
+P1xel7 posts small blind 25
+GasMachine posts big blind 50
+Dealt to P1xel7 [2s Ad]
+*** PRE-FLOP *** 
+Bolt31660 calls 50
+P1xel7 folds
+GasMachine checks
+*** FLOP *** [Qc 2h 5h]
+GasMachine checks
+Bolt31660 bets 143
+GasMachine folds
+Bolt31660 collected 286 from pot
+*** SUMMARY ***
+Total pot 286 | No rake
+Board: [Qc 2h 5h]
+Seat 3: Bolt31660 (button) won 286
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-59-1702578575 - Holdem no limit (6/25/50) - 2023/12/14 18:29:35 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (413, 0.90€ bounty)
+Seat 2: GasMachine (1031, 1.35€ bounty)
+Seat 3: Bolt31660 (1646, 1.80€ bounty)
+*** ANTE/BLINDS ***
+GasMachine posts ante 6
+Bolt31660 posts ante 6
+P1xel7 posts ante 6
+GasMachine posts small blind 25
+Bolt31660 posts big blind 50
+Dealt to P1xel7 [Ah 8h]
+*** PRE-FLOP *** 
+P1xel7 raises 357 to 407 and is all-in
+GasMachine folds
+Bolt31660 folds
+P1xel7 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 1: P1xel7 (button) won 500
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-60-1702578581 - Holdem no limit (6/25/50) - 2023/12/14 18:29:41 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (500, 0.90€ bounty)
+Seat 2: GasMachine (1000, 1.35€ bounty)
+Seat 3: Bolt31660 (1590, 1.80€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 6
+P1xel7 posts ante 6
+GasMachine posts ante 6
+Bolt31660 posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [2d Ah]
+*** PRE-FLOP *** 
+GasMachine raises 944 to 994 and is all-in
+Bolt31660 raises 590 to 1584 and is all-in
+P1xel7 folds
+*** FLOP *** [As 8h 8s]
+*** TURN *** [As 8h 8s][2c]
+*** RIVER *** [As 8h 8s 2c][4s]
+*** SHOW DOWN ***
+GasMachine shows [9s 9c] (Two pairs : 9 and 8)
+Bolt31660 shows [Qc Qs] (Two pairs : Queens and 8)
+Bolt31660 collected 2646 from pot
+*** SUMMARY ***
+Total pot 2646 | No rake
+Board: [As 8h 8s 2c 4s]
+Seat 2: GasMachine (button) showed [9s 9c] and lost with Two pairs : 9 and 8
+Seat 3: Bolt31660 (small blind) showed [Qc Qs] and won 2646 with Two pairs : Queens and 8
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-61-1702578595 - Holdem no limit (6/25/50) - 2023/12/14 18:29:55 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (444, 0.90€ bounty)
+Seat 3: Bolt31660 (2646, 2.47€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+Bolt31660 posts ante 6
+P1xel7 posts small blind 25
+Bolt31660 posts big blind 50
+Dealt to P1xel7 [5d Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Bolt31660 collected 87 from pot
+*** SUMMARY ***
+Total pot 87 | No rake
+Seat 3: Bolt31660 (big blind) won 87
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3093862829631995915-62-1702578601 - Holdem no limit (6/25/50) - 2023/12/14 18:30:01 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (413, 0.90€ bounty)
+Seat 3: Bolt31660 (2677, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 6
+P1xel7 posts ante 6
+Bolt31660 posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [Ks 2d]
+*** PRE-FLOP *** 
+Bolt31660 folds
+P1xel7 collected 87 from pot
+*** SUMMARY ***
+Total pot 87 | No rake
+Seat 1: P1xel7 (big blind) won 87
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862829631995915-63-1702578605 - Holdem no limit (7/30/60) - 2023/12/14 18:30:05 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (444, 0.90€ bounty)
+Seat 3: Bolt31660 (2646, 2.47€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+Bolt31660 posts ante 7
+P1xel7 posts small blind 30
+Bolt31660 posts big blind 60
+Dealt to P1xel7 [Kc Qs]
+*** PRE-FLOP *** 
+P1xel7 raises 377 to 437 and is all-in
+Bolt31660 folds
+P1xel7 collected 511 from pot
+*** SUMMARY ***
+Total pot 511 | No rake
+Seat 1: P1xel7 (small blind) (button) won 511
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862829631995915-64-1702578611 - Holdem no limit (7/30/60) - 2023/12/14 18:30:11 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (511, 0.90€ bounty)
+Seat 2: Markomay87 (500, 0.90€ bounty)
+Seat 3: Bolt31660 (2579, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 7
+P1xel7 posts ante 7
+Bolt31660 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [5d 2h]
+*** PRE-FLOP *** 
+Bolt31660 calls 30
+P1xel7 checks
+*** FLOP *** [Qc Jd 3c]
+P1xel7 checks
+Bolt31660 bets 87
+P1xel7 folds
+Bolt31660 collected 221 from pot
+*** SUMMARY ***
+Total pot 221 | No rake
+Board: [Qc Jd 3c]
+Seat 3: Bolt31660 (small blind) (button) won 221
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862829631995915-65-1702578621 - Holdem no limit (7/30/60) - 2023/12/14 18:30:21 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (444, 0.90€ bounty)
+Seat 2: Markomay87 (500, 0.90€ bounty)
+Seat 3: Bolt31660 (2646, 2.47€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+Markomay87 posts ante 7
+Bolt31660 posts ante 7
+P1xel7 posts small blind 30
+Markomay87 posts big blind 60
+Dealt to P1xel7 [7h Kc]
+*** PRE-FLOP *** 
+Bolt31660 folds
+P1xel7 raises 377 to 437 and is all-in
+Markomay87 calls 377
+*** FLOP *** [8h 3s 8s]
+*** TURN *** [8h 3s 8s][Th]
+*** RIVER *** [8h 3s 8s Th][2d]
+*** SHOW DOWN ***
+Markomay87 shows [Jd 6d] (One pair : 8)
+P1xel7 shows [7h Kc] (One pair : 8)
+P1xel7 collected 895 from pot
+*** SUMMARY ***
+Total pot 895 | No rake
+Board: [8h 3s 8s Th 2d]
+Seat 1: P1xel7 (small blind) showed [7h Kc] and won 895 with One pair : 8
+Seat 2: Markomay87 (big blind) showed [Jd 6d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862829631995915-66-1702578634 - Holdem no limit (7/30/60) - 2023/12/14 18:30:34 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (895, 0.90€ bounty)
+Seat 2: Markomay87 (56, 0.90€ bounty)
+Seat 3: Bolt31660 (2639, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Markomay87 posts ante 7
+Bolt31660 posts ante 7
+P1xel7 posts ante 7
+Markomay87 posts small blind 30
+Bolt31660 posts big blind 60
+Dealt to P1xel7 [Ac Ts]
+*** PRE-FLOP *** 
+P1xel7 raises 828 to 888 and is all-in
+Markomay87 calls 19 and is all-in
+Bolt31660 folds
+*** FLOP *** [Jh 3h 4c]
+*** TURN *** [Jh 3h 4c][Ad]
+*** RIVER *** [Jh 3h 4c Ad][3s]
+*** SHOW DOWN ***
+P1xel7 shows [Ac Ts] (Two pairs : Aces and 3)
+Markomay87 shows [Js 3d] (Full of 3 and Jacks)
+Markomay87 collected 168 from main pot
+P1xel7 collected 850 from side pot 1
+*** SUMMARY ***
+Total pot 1018 | No rake
+Board: [Jh 3h 4c Ad 3s]
+Seat 1: P1xel7 (button) showed [Ac Ts] and won 850 with Two pairs : Aces and 3
+Seat 2: Markomay87 (small blind) showed [Js 3d] and won 168 with Full of 3 and Jacks
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862829631995915-67-1702578647 - Holdem no limit (7/30/60) - 2023/12/14 18:30:47 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (850, 0.90€ bounty)
+Seat 2: Markomay87 (168, 0.90€ bounty)
+Seat 3: Bolt31660 (2572, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 7
+P1xel7 posts ante 7
+Markomay87 posts ante 7
+Bolt31660 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [9h Kc]
+*** PRE-FLOP *** 
+Markomay87 raises 90 to 150
+Bolt31660 folds
+P1xel7 raises 90 to 240
+Markomay87 calls 11 and is all-in
+*** FLOP *** [Kd 6h 9c]
+*** TURN *** [Kd 6h 9c][2c]
+*** RIVER *** [Kd 6h 9c 2c][8s]
+*** SHOW DOWN ***
+Markomay87 shows [Tc 9s] (One pair : 9)
+P1xel7 shows [9h Kc] (Two pairs : Kings and 9)
+P1xel7 collected 452 from pot
+*** SUMMARY ***
+Total pot 452 | No rake
+Board: [Kd 6h 9c 2c 8s]
+Seat 1: P1xel7 (big blind) showed [9h Kc] and won 452 with Two pairs : Kings and 9
+Seat 2: Markomay87 (button) showed [Tc 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862829631995915-68-1702578665 - Holdem no limit (7/30/60) - 2023/12/14 18:31:05 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1055, 1.35€ bounty)
+Seat 3: Bolt31660 (2535, 2.47€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+Bolt31660 posts ante 7
+P1xel7 posts small blind 30
+Bolt31660 posts big blind 60
+Dealt to P1xel7 [Qc 9c]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 120
+Bolt31660 calls 60
+*** FLOP *** [Jc 8s Ah]
+Bolt31660 checks
+P1xel7 bets 89
+Bolt31660 raises 93 to 182
+P1xel7 folds
+Bolt31660 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Board: [Jc 8s Ah]
+Seat 3: Bolt31660 (big blind) won 525
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862829631995915-69-1702578685 - Holdem no limit (7/30/60) - 2023/12/14 18:31:25 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (839, 1.35€ bounty)
+Seat 3: Bolt31660 (2751, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 7
+P1xel7 posts ante 7
+Bolt31660 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Td Qd]
+*** PRE-FLOP *** 
+Bolt31660 folds
+P1xel7 collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Seat 1: P1xel7 (big blind) won 104
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862829631995915-70-1702578689 - Holdem no limit (7/30/60) - 2023/12/14 18:31:29 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (876, 1.35€ bounty)
+Seat 3: Bolt31660 (2714, 2.47€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+Bolt31660 posts ante 7
+P1xel7 posts small blind 30
+Bolt31660 posts big blind 60
+Dealt to P1xel7 [3d 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Bolt31660 collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | No rake
+Seat 3: Bolt31660 (big blind) won 104
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3093862829631995915-71-1702578693 - Holdem no limit (7/30/60) - 2023/12/14 18:31:33 UTC
+Table: 'Trident(720346074)#0010' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (839, 1.35€ bounty)
+Seat 3: Bolt31660 (2751, 2.47€ bounty)
+*** ANTE/BLINDS ***
+Bolt31660 posts ante 7
+P1xel7 posts ante 7
+Bolt31660 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Qs Tc]
+*** PRE-FLOP *** 
+Bolt31660 calls 30
+P1xel7 raises 772 to 832 and is all-in
+Bolt31660 calls 772
+*** FLOP *** [9d 6c 5c]
+*** TURN *** [9d 6c 5c][5h]
+*** RIVER *** [9d 6c 5c 5h][6d]
+*** SHOW DOWN ***
+P1xel7 shows [Qs Tc] (Two pairs : 6 and 5)
+Bolt31660 shows [Kc 9s] (Two pairs : 9 and 6)
+Bolt31660 collected 1678 from pot
+*** SUMMARY ***
+Total pot 1678 | No rake
+Board: [9d 6c 5c 5h 6d]
+Seat 1: P1xel7 (big blind) showed [Qs Tc] and lost with Two pairs : 6 and 5
+Seat 3: Bolt31660 (small blind) (button) showed [Kc 9s] and won 1678 with Two pairs : 9 and 6
+
+

@@ -1,0 +1,1797 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198556754870796289-46-1708025941 - Holdem no limit (160/700/1400) - 2024/02/15 19:39:01 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #1 is the button
+Seat 1: GTO hazar (195924)
+Seat 2: Roukzer92 (108400)
+Seat 3: P1xel7 (100000)
+Seat 4: risbo (100787)
+Seat 5: Dracaufeu. (90360)
+Seat 6: davidabia (83263)
+*** ANTE/BLINDS ***
+Roukzer92 posts ante 160
+P1xel7 posts ante 160
+GTO hazar posts ante 160
+risbo posts ante 160
+Dracaufeu. posts ante 160
+davidabia posts ante 160
+Roukzer92 posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [2c Qh]
+*** PRE-FLOP *** 
+risbo folds
+Dracaufeu. folds
+davidabia raises 2100 to 3500
+GTO hazar folds
+Roukzer92 folds
+P1xel7 folds
+davidabia collected 6560 from pot
+*** SUMMARY ***
+Total pot 6560 | No rake
+Seat 6: davidabia won 6560
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198556754870796289-47-1708025988 - Holdem no limit (160/700/1400) - 2024/02/15 19:39:48 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #2 is the button
+Seat 1: GTO hazar (195764)
+Seat 2: Roukzer92 (107540)
+Seat 3: P1xel7 (98440)
+Seat 4: risbo (100627)
+Seat 5: Dracaufeu. (90200)
+Seat 6: davidabia (86163)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+risbo posts ante 160
+GTO hazar posts ante 160
+Roukzer92 posts ante 160
+Dracaufeu. posts ante 160
+davidabia posts ante 160
+P1xel7 posts small blind 700
+risbo posts big blind 1400
+Dealt to P1xel7 [3d 9h]
+*** PRE-FLOP *** 
+Dracaufeu. folds
+davidabia raises 2100 to 3500
+GTO hazar folds
+Roukzer92 folds
+P1xel7 folds
+risbo folds
+davidabia collected 6560 from pot
+*** SUMMARY ***
+Total pot 6560 | No rake
+Seat 6: davidabia won 6560
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198556754870796289-48-1708026015 - Holdem no limit (160/700/1400) - 2024/02/15 19:40:15 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #3 is the button
+Seat 1: GTO hazar (195604)
+Seat 2: Roukzer92 (107380)
+Seat 3: P1xel7 (97580)
+Seat 4: risbo (99067)
+Seat 5: Dracaufeu. (90040)
+Seat 6: davidabia (89063)
+*** ANTE/BLINDS ***
+risbo posts ante 160
+Dracaufeu. posts ante 160
+GTO hazar posts ante 160
+Roukzer92 posts ante 160
+P1xel7 posts ante 160
+davidabia posts ante 160
+risbo posts small blind 700
+Dracaufeu. posts big blind 1400
+Dealt to P1xel7 [6h 7d]
+*** PRE-FLOP *** 
+davidabia raises 2100 to 3500
+GTO hazar folds
+Roukzer92 folds
+P1xel7 folds
+risbo folds
+Dracaufeu. raises 10500 to 14000
+davidabia calls 10500
+*** FLOP *** [Jd Qc 4h]
+Dracaufeu. bets 13347
+davidabia folds
+Dracaufeu. collected 43007 from pot
+*** SUMMARY ***
+Total pot 43007 | No rake
+Board: [Jd Qc 4h]
+Seat 5: Dracaufeu. (big blind) won 43007
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198556754870796289-49-1708026069 - Holdem no limit (160/700/1400) - 2024/02/15 19:41:09 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #4 is the button
+Seat 1: GTO hazar (195444)
+Seat 2: Roukzer92 (107220)
+Seat 3: P1xel7 (97420)
+Seat 4: risbo (98207)
+Seat 5: Dracaufeu. (105540)
+Seat 6: davidabia (74903)
+*** ANTE/BLINDS ***
+Dracaufeu. posts ante 160
+davidabia posts ante 160
+GTO hazar posts ante 160
+Roukzer92 posts ante 160
+P1xel7 posts ante 160
+risbo posts ante 160
+Dracaufeu. posts small blind 700
+davidabia posts big blind 1400
+Dealt to P1xel7 [8d 6d]
+*** PRE-FLOP *** 
+GTO hazar raises 2100 to 3500
+Roukzer92 folds
+P1xel7 folds
+risbo calls 3500
+Dracaufeu. raises 10500 to 14000
+davidabia folds
+GTO hazar folds
+risbo calls 10500
+*** FLOP *** [6h 9h 4d]
+Dracaufeu. bets 16930
+risbo calls 16930
+*** TURN *** [6h 9h 4d][8s]
+Dracaufeu. bets 74450 and is all-in
+risbo calls 67117 and is all-in
+*** RIVER *** [6h 9h 4d 8s][Ts]
+*** SHOW DOWN ***
+risbo shows [Tc 9c] (Two pairs : Tens and 9)
+Dracaufeu. shows [Kd Ah] (High card : Ace)
+Dracaufeu. collected 7333 from side pot 1
+risbo collected 201954 from main pot
+*** SUMMARY ***
+Total pot 209287 | No rake
+Board: [6h 9h 4d 8s Ts]
+Seat 4: risbo (button) showed [Tc 9c] and won 201954 with Two pairs : Tens and 9
+Seat 5: Dracaufeu. (small blind) showed [Kd Ah] and won 7333 with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198556754870796289-50-1708026158 - Holdem no limit (200/800/1600) - 2024/02/15 19:42:38 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #5 is the button
+Seat 1: GTO hazar (191784)
+Seat 2: Roukzer92 (107060)
+Seat 3: P1xel7 (97260)
+Seat 4: risbo (201954)
+Seat 5: Dracaufeu. (7333)
+Seat 6: davidabia (73343)
+*** ANTE/BLINDS ***
+davidabia posts ante 200
+GTO hazar posts ante 200
+Roukzer92 posts ante 200
+P1xel7 posts ante 200
+risbo posts ante 200
+Dracaufeu. posts ante 200
+davidabia posts small blind 800
+GTO hazar posts big blind 1600
+Dealt to P1xel7 [Qd Ac]
+*** PRE-FLOP *** 
+Roukzer92 folds
+P1xel7 raises 2400 to 4000
+risbo folds
+Dracaufeu. raises 3133 to 7133 and is all-in
+davidabia folds
+GTO hazar folds
+P1xel7 calls 3133
+*** FLOP *** [Tc 8d 2s]
+*** TURN *** [Tc 8d 2s][3h]
+*** RIVER *** [Tc 8d 2s 3h][7s]
+*** SHOW DOWN ***
+P1xel7 shows [Qd Ac] (High card : Ace)
+Dracaufeu. shows [7h 9d] (One pair : 7)
+Dracaufeu. collected 17866 from pot
+*** SUMMARY ***
+Total pot 17866 | No rake
+Board: [Tc 8d 2s 3h 7s]
+Seat 3: P1xel7 showed [Qd Ac] and lost with High card : Ace
+Seat 5: Dracaufeu. (button) showed [7h 9d] and won 17866 with One pair : 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198556754870796289-51-1708026206 - Holdem no limit (200/800/1600) - 2024/02/15 19:43:26 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #6 is the button
+Seat 1: GTO hazar (189984)
+Seat 2: Roukzer92 (106860)
+Seat 3: P1xel7 (89927)
+Seat 4: risbo (201754)
+Seat 5: Dracaufeu. (17866)
+Seat 6: davidabia (72343)
+*** ANTE/BLINDS ***
+GTO hazar posts ante 200
+Roukzer92 posts ante 200
+P1xel7 posts ante 200
+risbo posts ante 200
+Dracaufeu. posts ante 200
+davidabia posts ante 200
+GTO hazar posts small blind 800
+Roukzer92 posts big blind 1600
+Dealt to P1xel7 [Kc 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+risbo folds
+Dracaufeu. folds
+davidabia raises 2400 to 4000
+GTO hazar calls 3200
+Roukzer92 folds
+*** FLOP *** [Ac 8d As]
+GTO hazar checks
+davidabia bets 7200
+GTO hazar folds
+davidabia collected 18000 from pot
+*** SUMMARY ***
+Total pot 18000 | No rake
+Board: [Ac 8d As]
+Seat 6: davidabia (button) won 18000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198556754870796289-52-1708026281 - Holdem no limit (200/800/1600) - 2024/02/15 19:44:41 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #1 is the button
+Seat 1: GTO hazar (185784)
+Seat 2: Roukzer92 (105060)
+Seat 3: P1xel7 (89727)
+Seat 4: risbo (201554)
+Seat 5: Dracaufeu. (17666)
+Seat 6: davidabia (78943)
+*** ANTE/BLINDS ***
+Roukzer92 posts ante 200
+P1xel7 posts ante 200
+GTO hazar posts ante 200
+risbo posts ante 200
+Dracaufeu. posts ante 200
+davidabia posts ante 200
+Roukzer92 posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [8c 9d]
+*** PRE-FLOP *** 
+risbo folds
+Dracaufeu. folds
+davidabia folds
+GTO hazar raises 2400 to 4000
+Roukzer92 folds
+P1xel7 calls 2400
+*** FLOP *** [Kc 8h Ac]
+P1xel7 checks
+GTO hazar checks
+*** TURN *** [Kc 8h Ac][6h]
+P1xel7 checks
+GTO hazar checks
+*** RIVER *** [Kc 8h Ac 6h][9c]
+P1xel7 bets 3500
+GTO hazar folds
+P1xel7 collected 13500 from pot
+*** SUMMARY ***
+Total pot 13500 | No rake
+Board: [Kc 8h Ac 6h 9c]
+Seat 3: P1xel7 (big blind) won 13500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198556754870796289-53-1708026351 - Holdem no limit (200/800/1600) - 2024/02/15 19:45:51 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #2 is the button
+Seat 1: GTO hazar (181584)
+Seat 2: Roukzer92 (104060)
+Seat 3: P1xel7 (95527)
+Seat 4: risbo (201354)
+Seat 5: Dracaufeu. (17466)
+Seat 6: davidabia (78743)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+risbo posts ante 200
+GTO hazar posts ante 200
+Roukzer92 posts ante 200
+Dracaufeu. posts ante 200
+davidabia posts ante 200
+P1xel7 posts small blind 800
+risbo posts big blind 1600
+Dealt to P1xel7 [5s 9d]
+*** PRE-FLOP *** 
+Dracaufeu. raises 15666 to 17266 and is all-in
+davidabia calls 17266
+GTO hazar folds
+Roukzer92 folds
+P1xel7 folds
+risbo folds
+*** FLOP *** [Ah 9c 6h]
+*** TURN *** [Ah 9c 6h][Jd]
+*** RIVER *** [Ah 9c 6h Jd][Ac]
+*** SHOW DOWN ***
+Dracaufeu. shows [Jc Ks] (Two pairs : Aces and Jacks)
+davidabia shows [Ts As] (Trips of Aces)
+davidabia collected 38132 from pot
+*** SUMMARY ***
+Total pot 38132 | No rake
+Board: [Ah 9c 6h Jd Ac]
+Seat 5: Dracaufeu. showed [Jc Ks] and lost with Two pairs : Aces and Jacks
+Seat 6: davidabia showed [Ts As] and won 38132 with Trips of Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198556754870796289-54-1708026393 - Holdem no limit (200/800/1600) - 2024/02/15 19:46:33 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #3 is the button
+Seat 1: GTO hazar (181384)
+Seat 2: Roukzer92 (103860)
+Seat 3: P1xel7 (94527)
+Seat 4: risbo (199554)
+Seat 6: davidabia (99409)
+*** ANTE/BLINDS ***
+risbo posts ante 200
+davidabia posts ante 200
+GTO hazar posts ante 200
+Roukzer92 posts ante 200
+P1xel7 posts ante 200
+risbo posts small blind 800
+davidabia posts big blind 1600
+Dealt to P1xel7 [Qh Kd]
+*** PRE-FLOP *** 
+GTO hazar raises 2400 to 4000
+Roukzer92 folds
+P1xel7 calls 4000
+risbo calls 3200
+davidabia folds
+*** FLOP *** [Tc 5h 4d]
+risbo checks
+GTO hazar checks
+P1xel7 checks
+*** TURN *** [Tc 5h 4d][9c]
+risbo checks
+GTO hazar checks
+P1xel7 checks
+*** RIVER *** [Tc 5h 4d 9c][9d]
+risbo checks
+GTO hazar checks
+P1xel7 bets 3650
+risbo folds
+GTO hazar folds
+P1xel7 collected 18250 from pot
+*** SUMMARY ***
+Total pot 18250 | No rake
+Board: [Tc 5h 4d 9c 9d]
+Seat 3: P1xel7 (button) won 18250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198556754870796289-55-1708026547 - Holdem no limit (250/1000/2000) - 2024/02/15 19:49:07 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #4 is the button
+Seat 1: GTO hazar (177184)
+Seat 2: Roukzer92 (103660)
+Seat 3: P1xel7 (104927)
+Seat 4: risbo (195354)
+Seat 6: davidabia (97609)
+*** ANTE/BLINDS ***
+davidabia posts ante 250
+GTO hazar posts ante 250
+Roukzer92 posts ante 250
+P1xel7 posts ante 250
+risbo posts ante 250
+davidabia posts small blind 1000
+GTO hazar posts big blind 2000
+Dealt to P1xel7 [Kd 5s]
+*** PRE-FLOP *** 
+Roukzer92 folds
+P1xel7 folds
+risbo folds
+davidabia raises 4000 to 6000
+GTO hazar calls 4000
+*** FLOP *** [8h Qs 3c]
+davidabia checks
+GTO hazar bets 6625
+davidabia folds
+GTO hazar collected 19875 from pot
+*** SUMMARY ***
+Total pot 19875 | No rake
+Board: [8h Qs 3c]
+Seat 1: GTO hazar (big blind) won 19875
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198556754870796289-56-1708026590 - Holdem no limit (250/1000/2000) - 2024/02/15 19:49:50 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #6 is the button
+Seat 1: GTO hazar (184184)
+Seat 2: Roukzer92 (103410)
+Seat 3: P1xel7 (104677)
+Seat 4: risbo (195104)
+Seat 6: davidabia (91359)
+*** ANTE/BLINDS ***
+GTO hazar posts ante 250
+Roukzer92 posts ante 250
+P1xel7 posts ante 250
+risbo posts ante 250
+davidabia posts ante 250
+GTO hazar posts small blind 1000
+Roukzer92 posts big blind 2000
+Dealt to P1xel7 [6h Td]
+*** PRE-FLOP *** 
+P1xel7 folds
+risbo folds
+davidabia folds
+GTO hazar raises 5000 to 7000
+Roukzer92 calls 5000
+*** FLOP *** [9s Kh Ts]
+GTO hazar bets 5033
+Roukzer92 raises 10142 to 15175
+GTO hazar raises 161759 to 176934 and is all-in
+Roukzer92 calls 80985 and is all-in
+*** TURN *** [9s Kh Ts][9d]
+*** RIVER *** [9s Kh Ts 9d][8d]
+*** SHOW DOWN ***
+Roukzer92 shows [Qd Kd] (Two pairs : Kings and 9)
+GTO hazar shows [Ad Ks] (Two pairs : Kings and 9)
+GTO hazar collected 288344 from pot
+*** SUMMARY ***
+Total pot 288344 | No rake
+Board: [9s Kh Ts 9d 8d]
+Seat 1: GTO hazar (small blind) showed [Ad Ks] and won 288344 with Two pairs : Kings and 9
+Seat 2: Roukzer92 (big blind) showed [Qd Kd] and lost with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198556754870796289-57-1708026657 - Holdem no limit (250/1000/2000) - 2024/02/15 19:50:57 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #1 is the button
+Seat 1: GTO hazar (288344)
+Seat 3: P1xel7 (104427)
+Seat 4: risbo (194854)
+Seat 5: Meuhhhhhhhhh (100000)
+Seat 6: davidabia (91109)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+GTO hazar posts ante 250
+risbo posts ante 250
+Meuhhhhhhhhh posts ante 250
+davidabia posts ante 250
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [3d 5c]
+*** PRE-FLOP *** 
+risbo folds
+Meuhhhhhhhhh folds
+davidabia folds
+GTO hazar folds
+P1xel7 collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Seat 3: P1xel7 (big blind) won 3250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198556754870796289-58-1708026670 - Holdem no limit (250/1000/2000) - 2024/02/15 19:51:10 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #2 is the button
+Seat 1: GTO hazar (288094)
+Seat 3: P1xel7 (105427)
+Seat 4: risbo (194604)
+Seat 5: Meuhhhhhhhhh (99750)
+Seat 6: davidabia (90859)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+risbo posts ante 250
+GTO hazar posts ante 250
+Meuhhhhhhhhh posts ante 250
+davidabia posts ante 250
+P1xel7 posts small blind 1000
+risbo posts big blind 2000
+Dealt to P1xel7 [Qd 2c]
+*** PRE-FLOP *** 
+Meuhhhhhhhhh folds
+davidabia raises 3000 to 5000
+GTO hazar folds
+P1xel7 folds
+risbo calls 3000
+*** FLOP *** [4c Js 7s]
+risbo checks
+davidabia checks
+*** TURN *** [4c Js 7s][5h]
+risbo checks
+davidabia checks
+*** RIVER *** [4c Js 7s 5h][As]
+risbo bets 11000
+davidabia folds
+risbo collected 23250 from pot
+*** SUMMARY ***
+Total pot 23250 | No rake
+Board: [4c Js 7s 5h As]
+Seat 4: risbo (big blind) won 23250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198556754870796289-59-1708026760 - Holdem no limit (250/1000/2000) - 2024/02/15 19:52:40 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #3 is the button
+Seat 1: GTO hazar (287844)
+Seat 2: LondonSyst3m (100000)
+Seat 3: P1xel7 (104177)
+Seat 4: risbo (201604)
+Seat 5: Meuhhhhhhhhh (99500)
+Seat 6: davidabia (85609)
+*** ANTE/BLINDS ***
+risbo posts ante 250
+Meuhhhhhhhhh posts ante 250
+GTO hazar posts ante 250
+LondonSyst3m posts ante 250
+P1xel7 posts ante 250
+davidabia posts ante 250
+risbo posts small blind 1000
+Meuhhhhhhhhh posts big blind 2000
+Dealt to P1xel7 [6c 9c]
+*** PRE-FLOP *** 
+davidabia raises 2400 to 4400
+GTO hazar folds
+LondonSyst3m folds
+P1xel7 folds
+risbo folds
+Meuhhhhhhhhh calls 2400
+*** FLOP *** [Kh 8d 4s]
+Meuhhhhhhhhh checks
+davidabia bets 8000
+Meuhhhhhhhhh folds
+davidabia collected 19300 from pot
+*** SUMMARY ***
+Total pot 19300 | No rake
+Board: [Kh 8d 4s]
+Seat 6: davidabia won 19300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198556754870796289-60-1708026827 - Holdem no limit (250/1000/2000) - 2024/02/15 19:53:47 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #4 is the button
+Seat 1: GTO hazar (287594)
+Seat 2: LondonSyst3m (99750)
+Seat 3: P1xel7 (103927)
+Seat 4: risbo (200354)
+Seat 5: Meuhhhhhhhhh (94850)
+Seat 6: davidabia (92259)
+*** ANTE/BLINDS ***
+Meuhhhhhhhhh posts ante 250
+davidabia posts ante 250
+GTO hazar posts ante 250
+LondonSyst3m posts ante 250
+P1xel7 posts ante 250
+risbo posts ante 250
+Meuhhhhhhhhh posts small blind 1000
+davidabia posts big blind 2000
+Dealt to P1xel7 [2c As]
+*** PRE-FLOP *** 
+GTO hazar folds
+LondonSyst3m raises 2000 to 4000
+P1xel7 folds
+risbo folds
+Meuhhhhhhhhh calls 3000
+davidabia calls 2000
+*** FLOP *** [5s 2d Kd]
+Meuhhhhhhhhh checks
+davidabia checks
+LondonSyst3m bets 6750
+Meuhhhhhhhhh calls 6750
+davidabia calls 6750
+*** TURN *** [5s 2d Kd][3c]
+Meuhhhhhhhhh checks
+davidabia checks
+LondonSyst3m checks
+*** RIVER *** [5s 2d Kd 3c][8s]
+Meuhhhhhhhhh checks
+davidabia bets 16900
+LondonSyst3m folds
+Meuhhhhhhhhh folds
+davidabia collected 50650 from pot
+*** SUMMARY ***
+Total pot 50650 | No rake
+Board: [5s 2d Kd 3c 8s]
+Seat 6: davidabia (big blind) won 50650
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198556754870796289-61-1708027261 - Holdem no limit (300/1250/2500) - 2024/02/15 20:01:01 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #5 is the button
+Seat 1: GTO hazar (287344)
+Seat 2: LondonSyst3m (88750)
+Seat 3: P1xel7 (103677)
+Seat 4: risbo (200104)
+Seat 5: Meuhhhhhhhhh (83850)
+Seat 6: davidabia (115009)
+*** ANTE/BLINDS ***
+davidabia posts ante 300
+GTO hazar posts ante 300
+LondonSyst3m posts ante 300
+P1xel7 posts ante 300
+risbo posts ante 300
+Meuhhhhhhhhh posts ante 300
+davidabia posts small blind 1250
+GTO hazar posts big blind 2500
+Dealt to P1xel7 [Qc Qs]
+*** PRE-FLOP *** 
+LondonSyst3m folds
+P1xel7 folds
+risbo raises 3000 to 5500
+Meuhhhhhhhhh calls 5500
+davidabia folds
+GTO hazar folds
+*** FLOP *** [9d 6d 7s]
+risbo bets 5793
+Meuhhhhhhhhh calls 5793
+*** TURN *** [9d 6d 7s][Td]
+risbo bets 14068
+Meuhhhhhhhhh calls 14068
+*** RIVER *** [9d 6d 7s Td][Kc]
+risbo bets 36577
+Meuhhhhhhhhh calls 36577
+*** SHOW DOWN ***
+risbo shows [8h 8s] (Straight Ten high)
+Meuhhhhhhhhh shows [Jh Qd] (Straight King high)
+Meuhhhhhhhhh collected 129426 from pot
+*** SUMMARY ***
+Total pot 129426 | No rake
+Board: [9d 6d 7s Td Kc]
+Seat 4: risbo showed [8h 8s] and lost with Straight Ten high
+Seat 5: Meuhhhhhhhhh (button) showed [Jh Qd] and won 129426 with Straight King high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198556754870796289-62-1708027360 - Holdem no limit (300/1250/2500) - 2024/02/15 20:02:40 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #6 is the button
+Seat 1: GTO hazar (284544)
+Seat 2: LondonSyst3m (88450)
+Seat 3: P1xel7 (103377)
+Seat 4: risbo (137866)
+Seat 5: Meuhhhhhhhhh (151038)
+Seat 6: davidabia (113459)
+*** ANTE/BLINDS ***
+GTO hazar posts ante 300
+LondonSyst3m posts ante 300
+P1xel7 posts ante 300
+risbo posts ante 300
+Meuhhhhhhhhh posts ante 300
+davidabia posts ante 300
+GTO hazar posts small blind 1250
+LondonSyst3m posts big blind 2500
+Dealt to P1xel7 [4s 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+risbo folds
+Meuhhhhhhhhh folds
+davidabia folds
+GTO hazar folds
+LondonSyst3m collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Seat 2: LondonSyst3m (big blind) won 5550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198556754870796289-63-1708027396 - Holdem no limit (300/1250/2500) - 2024/02/15 20:03:16 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #1 is the button
+Seat 1: GTO hazar (282994)
+Seat 2: LondonSyst3m (91200)
+Seat 3: P1xel7 (103077)
+Seat 4: risbo (137566)
+Seat 5: Meuhhhhhhhhh (150738)
+Seat 6: davidabia (113159)
+*** ANTE/BLINDS ***
+LondonSyst3m posts ante 300
+P1xel7 posts ante 300
+GTO hazar posts ante 300
+risbo posts ante 300
+Meuhhhhhhhhh posts ante 300
+davidabia posts ante 300
+LondonSyst3m posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Qd 9h]
+*** PRE-FLOP *** 
+risbo folds
+Meuhhhhhhhhh folds
+davidabia raises 3750 to 6250
+GTO hazar folds
+LondonSyst3m folds
+P1xel7 folds
+davidabia collected 11800 from pot
+*** SUMMARY ***
+Total pot 11800 | No rake
+Seat 6: davidabia won 11800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198556754870796289-64-1708027426 - Holdem no limit (300/1250/2500) - 2024/02/15 20:03:46 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #2 is the button
+Seat 1: GTO hazar (282694)
+Seat 2: LondonSyst3m (89650)
+Seat 3: P1xel7 (100277)
+Seat 4: risbo (137266)
+Seat 5: Meuhhhhhhhhh (150438)
+Seat 6: davidabia (118409)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+risbo posts ante 300
+GTO hazar posts ante 300
+LondonSyst3m posts ante 300
+Meuhhhhhhhhh posts ante 300
+davidabia posts ante 300
+P1xel7 posts small blind 1250
+risbo posts big blind 2500
+Dealt to P1xel7 [Js 9c]
+*** PRE-FLOP *** 
+Meuhhhhhhhhh folds
+davidabia folds
+GTO hazar raises 3750 to 6250
+LondonSyst3m folds
+P1xel7 folds
+risbo calls 3750
+*** FLOP *** [2d Jd 9s]
+risbo checks
+GTO hazar bets 5132
+risbo raises 18078 to 23210
+GTO hazar folds
+risbo collected 43892 from pot
+*** SUMMARY ***
+Total pot 43892 | No rake
+Board: [2d Jd 9s]
+Seat 4: risbo (big blind) won 43892
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198556754870796289-65-1708027501 - Holdem no limit (300/1250/2500) - 2024/02/15 20:05:01 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #3 is the button
+Seat 1: GTO hazar (271012)
+Seat 2: LondonSyst3m (89350)
+Seat 3: P1xel7 (98727)
+Seat 4: risbo (151398)
+Seat 5: Meuhhhhhhhhh (150138)
+Seat 6: davidabia (118109)
+*** ANTE/BLINDS ***
+risbo posts ante 300
+Meuhhhhhhhhh posts ante 300
+GTO hazar posts ante 300
+LondonSyst3m posts ante 300
+P1xel7 posts ante 300
+davidabia posts ante 300
+risbo posts small blind 1250
+Meuhhhhhhhhh posts big blind 2500
+Dealt to P1xel7 [Js 6d]
+*** PRE-FLOP *** 
+davidabia folds
+GTO hazar folds
+LondonSyst3m folds
+P1xel7 folds
+risbo folds
+Meuhhhhhhhhh collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Seat 5: Meuhhhhhhhhh (big blind) won 5550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198556754870796289-66-1708027532 - Holdem no limit (300/1250/2500) - 2024/02/15 20:05:32 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #4 is the button
+Seat 1: GTO hazar (270712)
+Seat 2: LondonSyst3m (89050)
+Seat 3: P1xel7 (98427)
+Seat 4: risbo (149848)
+Seat 5: Meuhhhhhhhhh (152888)
+Seat 6: davidabia (117809)
+*** ANTE/BLINDS ***
+Meuhhhhhhhhh posts ante 300
+davidabia posts ante 300
+GTO hazar posts ante 300
+LondonSyst3m posts ante 300
+P1xel7 posts ante 300
+risbo posts ante 300
+Meuhhhhhhhhh posts small blind 1250
+davidabia posts big blind 2500
+Dealt to P1xel7 [7c Ks]
+*** PRE-FLOP *** 
+GTO hazar folds
+LondonSyst3m folds
+P1xel7 folds
+risbo raises 3000 to 5500
+Meuhhhhhhhhh calls 4250
+davidabia folds
+*** FLOP *** [Qc 4c As]
+Meuhhhhhhhhh checks
+risbo bets 5355
+Meuhhhhhhhhh folds
+risbo collected 20655 from pot
+*** SUMMARY ***
+Total pot 20655 | No rake
+Board: [Qc 4c As]
+Seat 4: risbo (button) won 20655
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198556754870796289-67-1708027584 - Holdem no limit (350/1500/3000) - 2024/02/15 20:06:24 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #5 is the button
+Seat 1: GTO hazar (270412)
+Seat 2: LondonSyst3m (88750)
+Seat 3: P1xel7 (98127)
+Seat 4: risbo (159348)
+Seat 5: Meuhhhhhhhhh (147088)
+Seat 6: davidabia (115009)
+*** ANTE/BLINDS ***
+davidabia posts ante 350
+GTO hazar posts ante 350
+LondonSyst3m posts ante 350
+P1xel7 posts ante 350
+risbo posts ante 350
+Meuhhhhhhhhh posts ante 350
+davidabia posts small blind 1500
+GTO hazar posts big blind 3000
+Dealt to P1xel7 [2s Td]
+*** PRE-FLOP *** 
+LondonSyst3m folds
+P1xel7 folds
+risbo folds
+Meuhhhhhhhhh folds
+davidabia raises 4500 to 7500
+GTO hazar folds
+davidabia collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Seat 6: davidabia (small blind) won 12600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198556754870796289-68-1708027608 - Holdem no limit (350/1500/3000) - 2024/02/15 20:06:48 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #6 is the button
+Seat 1: GTO hazar (267062)
+Seat 2: LondonSyst3m (88400)
+Seat 3: P1xel7 (97777)
+Seat 4: risbo (158998)
+Seat 5: Meuhhhhhhhhh (146738)
+Seat 6: davidabia (119759)
+*** ANTE/BLINDS ***
+GTO hazar posts ante 350
+LondonSyst3m posts ante 350
+P1xel7 posts ante 350
+risbo posts ante 350
+Meuhhhhhhhhh posts ante 350
+davidabia posts ante 350
+GTO hazar posts small blind 1500
+LondonSyst3m posts big blind 3000
+Dealt to P1xel7 [Qs Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+risbo folds
+Meuhhhhhhhhh folds
+davidabia raises 3000 to 6000
+GTO hazar folds
+LondonSyst3m calls 3000
+*** FLOP *** [3c Tc Qh]
+LondonSyst3m checks
+davidabia checks
+*** TURN *** [3c Tc Qh][6c]
+LondonSyst3m bets 7800
+davidabia calls 7800
+*** RIVER *** [3c Tc Qh 6c][As]
+LondonSyst3m bets 23400
+davidabia folds
+LondonSyst3m collected 54600 from pot
+*** SUMMARY ***
+Total pot 54600 | No rake
+Board: [3c Tc Qh 6c As]
+Seat 2: LondonSyst3m (big blind) won 54600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198556754870796289-69-1708027722 - Holdem no limit (350/1500/3000) - 2024/02/15 20:08:42 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #1 is the button
+Seat 1: GTO hazar (265212)
+Seat 2: LondonSyst3m (105450)
+Seat 3: P1xel7 (97427)
+Seat 4: risbo (158648)
+Seat 5: Meuhhhhhhhhh (146388)
+Seat 6: davidabia (105609)
+*** ANTE/BLINDS ***
+LondonSyst3m posts ante 350
+P1xel7 posts ante 350
+GTO hazar posts ante 350
+risbo posts ante 350
+Meuhhhhhhhhh posts ante 350
+davidabia posts ante 350
+LondonSyst3m posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [2c 6s]
+*** PRE-FLOP *** 
+risbo folds
+Meuhhhhhhhhh raises 3300 to 6300
+davidabia folds
+GTO hazar folds
+LondonSyst3m folds
+P1xel7 folds
+Meuhhhhhhhhh collected 12900 from pot
+*** SUMMARY ***
+Total pot 12900 | No rake
+Seat 5: Meuhhhhhhhhh won 12900
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198556754870796289-70-1708027783 - Holdem no limit (350/1500/3000) - 2024/02/15 20:09:43 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #2 is the button
+Seat 1: GTO hazar (264862)
+Seat 2: LondonSyst3m (103600)
+Seat 3: P1xel7 (94077)
+Seat 4: risbo (158298)
+Seat 5: Meuhhhhhhhhh (152638)
+Seat 6: davidabia (105259)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+risbo posts ante 350
+GTO hazar posts ante 350
+LondonSyst3m posts ante 350
+Meuhhhhhhhhh posts ante 350
+davidabia posts ante 350
+P1xel7 posts small blind 1500
+risbo posts big blind 3000
+Dealt to P1xel7 [7d 8d]
+*** PRE-FLOP *** 
+Meuhhhhhhhhh raises 3300 to 6300
+davidabia folds
+GTO hazar folds
+LondonSyst3m folds
+P1xel7 calls 4800
+risbo folds
+*** FLOP *** [9s Jh Qc]
+P1xel7 checks
+Meuhhhhhhhhh checks
+*** TURN *** [9s Jh Qc][Tc]
+P1xel7 checks
+Meuhhhhhhhhh bets 6195
+P1xel7 calls 6195
+*** RIVER *** [9s Jh Qc Tc][7h]
+P1xel7 checks
+Meuhhhhhhhhh checks
+*** SHOW DOWN ***
+Meuhhhhhhhhh shows [2c 2s] (One pair : 2)
+P1xel7 shows [7d 8d] (Straight Queen high)
+P1xel7 collected 30090 from pot
+*** SUMMARY ***
+Total pot 30090 | No rake
+Board: [9s Jh Qc Tc 7h]
+Seat 3: P1xel7 (small blind) showed [7d 8d] and won 30090 with Straight Queen high
+Seat 5: Meuhhhhhhhhh showed [2c 2s] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198556754870796289-71-1708027839 - Holdem no limit (350/1500/3000) - 2024/02/15 20:10:39 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #3 is the button
+Seat 1: GTO hazar (264512)
+Seat 2: LondonSyst3m (103250)
+Seat 3: P1xel7 (111322)
+Seat 4: risbo (154948)
+Seat 5: Meuhhhhhhhhh (139793)
+Seat 6: davidabia (104909)
+*** ANTE/BLINDS ***
+risbo posts ante 350
+Meuhhhhhhhhh posts ante 350
+GTO hazar posts ante 350
+LondonSyst3m posts ante 350
+P1xel7 posts ante 350
+davidabia posts ante 350
+risbo posts small blind 1500
+Meuhhhhhhhhh posts big blind 3000
+Dealt to P1xel7 [3s 5c]
+*** PRE-FLOP *** 
+davidabia folds
+GTO hazar raises 4500 to 7500
+LondonSyst3m raises 15000 to 22500
+P1xel7 folds
+risbo folds
+Meuhhhhhhhhh folds
+GTO hazar calls 15000
+*** FLOP *** [Kh 9c 7h]
+GTO hazar checks
+LondonSyst3m bets 12900
+GTO hazar calls 12900
+*** TURN *** [Kh 9c 7h][5s]
+GTO hazar checks
+LondonSyst3m bets 67500 and is all-in
+GTO hazar folds
+LondonSyst3m collected 144900 from pot
+*** SUMMARY ***
+Total pot 144900 | No rake
+Board: [Kh 9c 7h 5s]
+Seat 2: LondonSyst3m won 144900
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198556754870796289-72-1708027917 - Holdem no limit (350/1500/3000) - 2024/02/15 20:11:57 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #4 is the button
+Seat 1: GTO hazar (228762)
+Seat 2: LondonSyst3m (144900)
+Seat 3: P1xel7 (110972)
+Seat 4: risbo (153098)
+Seat 5: Meuhhhhhhhhh (136443)
+Seat 6: davidabia (104559)
+*** ANTE/BLINDS ***
+Meuhhhhhhhhh posts ante 350
+davidabia posts ante 350
+GTO hazar posts ante 350
+LondonSyst3m posts ante 350
+P1xel7 posts ante 350
+risbo posts ante 350
+Meuhhhhhhhhh posts small blind 1500
+davidabia posts big blind 3000
+Dealt to P1xel7 [Td Qd]
+*** PRE-FLOP *** 
+GTO hazar raises 4500 to 7500
+LondonSyst3m folds
+P1xel7 calls 7500
+risbo folds
+Meuhhhhhhhhh folds
+davidabia folds
+*** FLOP *** [Jd 6h 9c]
+GTO hazar checks
+P1xel7 bets 7560
+GTO hazar folds
+P1xel7 collected 29160 from pot
+*** SUMMARY ***
+Total pot 29160 | No rake
+Board: [Jd 6h 9c]
+Seat 3: P1xel7 won 29160
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198556754870796289-73-1708027996 - Holdem no limit (400/1750/3500) - 2024/02/15 20:13:16 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #5 is the button
+Seat 1: GTO hazar (220912)
+Seat 2: LondonSyst3m (144550)
+Seat 3: P1xel7 (124722)
+Seat 4: risbo (152748)
+Seat 5: Meuhhhhhhhhh (134593)
+Seat 6: davidabia (101209)
+*** ANTE/BLINDS ***
+davidabia posts ante 400
+GTO hazar posts ante 400
+LondonSyst3m posts ante 400
+P1xel7 posts ante 400
+risbo posts ante 400
+Meuhhhhhhhhh posts ante 400
+davidabia posts small blind 1750
+GTO hazar posts big blind 3500
+Dealt to P1xel7 [As 9s]
+*** PRE-FLOP *** 
+LondonSyst3m folds
+P1xel7 raises 4200 to 7700
+risbo folds
+Meuhhhhhhhhh calls 7700
+davidabia folds
+GTO hazar calls 4200
+*** FLOP *** [Ks 7s Ah]
+GTO hazar checks
+P1xel7 bets 9538
+Meuhhhhhhhhh folds
+GTO hazar folds
+P1xel7 collected 36788 from pot
+*** SUMMARY ***
+Total pot 36788 | No rake
+Board: [Ks 7s Ah]
+Seat 3: P1xel7 won 36788
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198556754870796289-74-1708028062 - Holdem no limit (400/1750/3500) - 2024/02/15 20:14:22 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #6 is the button
+Seat 1: GTO hazar (212812)
+Seat 2: LondonSyst3m (144150)
+Seat 3: P1xel7 (143872)
+Seat 4: risbo (152348)
+Seat 5: Meuhhhhhhhhh (126493)
+Seat 6: davidabia (99059)
+*** ANTE/BLINDS ***
+GTO hazar posts ante 400
+LondonSyst3m posts ante 400
+P1xel7 posts ante 400
+risbo posts ante 400
+Meuhhhhhhhhh posts ante 400
+davidabia posts ante 400
+GTO hazar posts small blind 1750
+LondonSyst3m posts big blind 3500
+Dealt to P1xel7 [7s 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+risbo folds
+Meuhhhhhhhhh raises 3850 to 7350
+davidabia folds
+GTO hazar folds
+LondonSyst3m calls 3850
+*** FLOP *** [Js 6s 4c]
+LondonSyst3m checks
+Meuhhhhhhhhh checks
+*** TURN *** [Js 6s 4c][9d]
+LondonSyst3m checks
+Meuhhhhhhhhh checks
+*** RIVER *** [Js 6s 4c 9d][Ac]
+LondonSyst3m bets 9425
+Meuhhhhhhhhh folds
+LondonSyst3m collected 28275 from pot
+*** SUMMARY ***
+Total pot 28275 | No rake
+Board: [Js 6s 4c 9d Ac]
+Seat 2: LondonSyst3m (big blind) won 28275
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198556754870796289-75-1708028123 - Holdem no limit (400/1750/3500) - 2024/02/15 20:15:23 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #1 is the button
+Seat 1: GTO hazar (210662)
+Seat 2: LondonSyst3m (155250)
+Seat 3: P1xel7 (143472)
+Seat 4: risbo (151948)
+Seat 5: Meuhhhhhhhhh (118743)
+Seat 6: davidabia (98659)
+*** ANTE/BLINDS ***
+LondonSyst3m posts ante 400
+P1xel7 posts ante 400
+GTO hazar posts ante 400
+risbo posts ante 400
+Meuhhhhhhhhh posts ante 400
+davidabia posts ante 400
+LondonSyst3m posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [5s Jc]
+*** PRE-FLOP *** 
+risbo folds
+Meuhhhhhhhhh folds
+davidabia folds
+GTO hazar raises 4200 to 7700
+LondonSyst3m folds
+P1xel7 folds
+GTO hazar collected 15350 from pot
+*** SUMMARY ***
+Total pot 15350 | No rake
+Seat 1: GTO hazar (button) won 15350
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198556754870796289-76-1708028144 - Holdem no limit (400/1750/3500) - 2024/02/15 20:15:44 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #2 is the button
+Seat 1: GTO hazar (217912)
+Seat 2: LondonSyst3m (153100)
+Seat 3: P1xel7 (139572)
+Seat 4: risbo (151548)
+Seat 5: Meuhhhhhhhhh (118343)
+Seat 6: davidabia (98259)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+risbo posts ante 400
+GTO hazar posts ante 400
+LondonSyst3m posts ante 400
+Meuhhhhhhhhh posts ante 400
+davidabia posts ante 400
+P1xel7 posts small blind 1750
+risbo posts big blind 3500
+Dealt to P1xel7 [Ad 6c]
+*** PRE-FLOP *** 
+Meuhhhhhhhhh folds
+davidabia folds
+GTO hazar raises 4200 to 7700
+LondonSyst3m folds
+P1xel7 folds
+risbo calls 4200
+*** FLOP *** [Jc 9c 2h]
+risbo checks
+GTO hazar checks
+*** TURN *** [Jc 9c 2h][3d]
+risbo checks
+GTO hazar checks
+*** RIVER *** [Jc 9c 2h 3d][4c]
+risbo checks
+GTO hazar checks
+*** SHOW DOWN ***
+GTO hazar shows [6h Ac] (High card : Ace)
+risbo shows [8s As] (High card : Ace)
+risbo collected 19550 from pot
+*** SUMMARY ***
+Total pot 19550 | No rake
+Board: [Jc 9c 2h 3d 4c]
+Seat 1: GTO hazar showed [6h Ac] and lost with High card : Ace
+Seat 4: risbo (big blind) showed [8s As] and won 19550 with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198556754870796289-77-1708028232 - Holdem no limit (400/1750/3500) - 2024/02/15 20:17:12 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #3 is the button
+Seat 1: GTO hazar (209812)
+Seat 2: LondonSyst3m (152700)
+Seat 3: P1xel7 (137422)
+Seat 4: risbo (162998)
+Seat 5: Meuhhhhhhhhh (117943)
+Seat 6: davidabia (97859)
+*** ANTE/BLINDS ***
+risbo posts ante 400
+Meuhhhhhhhhh posts ante 400
+GTO hazar posts ante 400
+LondonSyst3m posts ante 400
+P1xel7 posts ante 400
+davidabia posts ante 400
+risbo posts small blind 1750
+Meuhhhhhhhhh posts big blind 3500
+Dealt to P1xel7 [Kh Ah]
+*** PRE-FLOP *** 
+davidabia raises 3500 to 7000
+GTO hazar folds
+LondonSyst3m folds
+P1xel7 raises 19250 to 26250
+risbo folds
+Meuhhhhhhhhh folds
+davidabia folds
+P1xel7 collected 40900 from pot
+*** SUMMARY ***
+Total pot 40900 | No rake
+Seat 3: P1xel7 (button) won 40900
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198556754870796289-78-1708028288 - Holdem no limit (500/2000/4000) - 2024/02/15 20:18:08 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #4 is the button
+Seat 1: GTO hazar (209412)
+Seat 2: LondonSyst3m (152300)
+Seat 3: P1xel7 (151672)
+Seat 4: risbo (160848)
+Seat 5: Meuhhhhhhhhh (114043)
+Seat 6: davidabia (90459)
+*** ANTE/BLINDS ***
+Meuhhhhhhhhh posts ante 500
+davidabia posts ante 500
+GTO hazar posts ante 500
+LondonSyst3m posts ante 500
+P1xel7 posts ante 500
+risbo posts ante 500
+Meuhhhhhhhhh posts small blind 2000
+davidabia posts big blind 4000
+Dealt to P1xel7 [8h 4d]
+*** PRE-FLOP *** 
+GTO hazar folds
+LondonSyst3m folds
+P1xel7 folds
+risbo raises 4800 to 8800
+Meuhhhhhhhhh folds
+davidabia folds
+risbo collected 17800 from pot
+*** SUMMARY ***
+Total pot 17800 | No rake
+Seat 4: risbo (button) won 17800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198556754870796289-79-1708028319 - Holdem no limit (500/2000/4000) - 2024/02/15 20:18:39 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #5 is the button
+Seat 1: GTO hazar (208912)
+Seat 2: LondonSyst3m (151800)
+Seat 3: P1xel7 (151172)
+Seat 4: risbo (169348)
+Seat 5: Meuhhhhhhhhh (111543)
+Seat 6: davidabia (85959)
+*** ANTE/BLINDS ***
+davidabia posts ante 500
+GTO hazar posts ante 500
+LondonSyst3m posts ante 500
+P1xel7 posts ante 500
+risbo posts ante 500
+Meuhhhhhhhhh posts ante 500
+davidabia posts small blind 2000
+GTO hazar posts big blind 4000
+Dealt to P1xel7 [Js 5h]
+*** PRE-FLOP *** 
+LondonSyst3m folds
+P1xel7 folds
+risbo raises 4000 to 8000
+Meuhhhhhhhhh folds
+davidabia folds
+GTO hazar calls 4000
+*** FLOP *** [Ac 4h 6d]
+GTO hazar checks
+risbo bets 7350
+GTO hazar calls 7350
+*** TURN *** [Ac 4h 6d][3s]
+GTO hazar checks
+risbo bets 23205
+GTO hazar folds
+risbo collected 58905 from pot
+*** SUMMARY ***
+Total pot 58905 | No rake
+Board: [Ac 4h 6d 3s]
+Seat 4: risbo won 58905
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198556754870796289-80-1708028388 - Holdem no limit (500/2000/4000) - 2024/02/15 20:19:48 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #6 is the button
+Seat 1: GTO hazar (193062)
+Seat 2: LondonSyst3m (151300)
+Seat 3: P1xel7 (150672)
+Seat 4: risbo (189198)
+Seat 5: Meuhhhhhhhhh (111043)
+Seat 6: davidabia (83459)
+*** ANTE/BLINDS ***
+GTO hazar posts ante 500
+LondonSyst3m posts ante 500
+P1xel7 posts ante 500
+risbo posts ante 500
+Meuhhhhhhhhh posts ante 500
+davidabia posts ante 500
+GTO hazar posts small blind 2000
+LondonSyst3m posts big blind 4000
+Dealt to P1xel7 [7c 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+risbo raises 4800 to 8800
+Meuhhhhhhhhh folds
+davidabia raises 74159 to 82959 and is all-in
+GTO hazar folds
+LondonSyst3m folds
+risbo folds
+davidabia collected 100759 from pot
+*** SUMMARY ***
+Total pot 100759 | No rake
+Seat 6: davidabia (button) won 100759
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198556754870796289-81-1708028431 - Holdem no limit (500/2000/4000) - 2024/02/15 20:20:31 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #1 is the button
+Seat 1: GTO hazar (190562)
+Seat 2: LondonSyst3m (146800)
+Seat 3: P1xel7 (150172)
+Seat 4: risbo (179898)
+Seat 5: Meuhhhhhhhhh (110543)
+Seat 6: davidabia (100759)
+*** ANTE/BLINDS ***
+LondonSyst3m posts ante 500
+P1xel7 posts ante 500
+GTO hazar posts ante 500
+risbo posts ante 500
+Meuhhhhhhhhh posts ante 500
+davidabia posts ante 500
+LondonSyst3m posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [2h 8c]
+*** PRE-FLOP *** 
+risbo folds
+Meuhhhhhhhhh raises 4400 to 8400
+davidabia folds
+GTO hazar folds
+LondonSyst3m folds
+P1xel7 folds
+Meuhhhhhhhhh collected 17400 from pot
+*** SUMMARY ***
+Total pot 17400 | No rake
+Seat 5: Meuhhhhhhhhh won 17400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198556754870796289-82-1708028456 - Holdem no limit (500/2000/4000) - 2024/02/15 20:20:56 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #2 is the button
+Seat 1: GTO hazar (190062)
+Seat 2: LondonSyst3m (144300)
+Seat 3: P1xel7 (145672)
+Seat 4: risbo (179398)
+Seat 5: Meuhhhhhhhhh (119043)
+Seat 6: davidabia (100259)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+risbo posts ante 500
+GTO hazar posts ante 500
+LondonSyst3m posts ante 500
+Meuhhhhhhhhh posts ante 500
+davidabia posts ante 500
+P1xel7 posts small blind 2000
+risbo posts big blind 4000
+Dealt to P1xel7 [Qs 7h]
+*** PRE-FLOP *** 
+Meuhhhhhhhhh folds
+davidabia raises 4000 to 8000
+GTO hazar folds
+LondonSyst3m folds
+P1xel7 folds
+risbo folds
+davidabia collected 17000 from pot
+*** SUMMARY ***
+Total pot 17000 | No rake
+Seat 6: davidabia won 17000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198556754870796289-83-1708028489 - Holdem no limit (500/2000/4000) - 2024/02/15 20:21:29 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #3 is the button
+Seat 1: GTO hazar (189562)
+Seat 2: LondonSyst3m (143800)
+Seat 3: P1xel7 (143172)
+Seat 4: risbo (174898)
+Seat 5: Meuhhhhhhhhh (118543)
+Seat 6: davidabia (108759)
+*** ANTE/BLINDS ***
+risbo posts ante 500
+Meuhhhhhhhhh posts ante 500
+GTO hazar posts ante 500
+LondonSyst3m posts ante 500
+P1xel7 posts ante 500
+davidabia posts ante 500
+risbo posts small blind 2000
+Meuhhhhhhhhh posts big blind 4000
+Dealt to P1xel7 [2d 5c]
+*** PRE-FLOP *** 
+davidabia folds
+GTO hazar raises 4800 to 8800
+LondonSyst3m raises 17600 to 26400
+P1xel7 folds
+risbo folds
+Meuhhhhhhhhh raises 91643 to 118043 and is all-in
+GTO hazar raises 71019 to 189062 and is all-in
+LondonSyst3m calls 116900 and is all-in
+*** FLOP *** [Td 9d 3d]
+*** TURN *** [Td 9d 3d][3c]
+*** RIVER *** [Td 9d 3d 3c][9c]
+*** SHOW DOWN ***
+LondonSyst3m shows [Qs Qc] (Two pairs : Queens and 9)
+Meuhhhhhhhhh shows [Jh Jd] (Two pairs : Jacks and 9)
+GTO hazar shows [Ad Ah] (Two pairs : Aces and 9)
+GTO hazar collected 455405 from pot
+*** SUMMARY ***
+Total pot 455405 | No rake
+Board: [Td 9d 3d 3c 9c]
+Seat 1: GTO hazar showed [Ad Ah] and won 455405 with Two pairs : Aces and 9
+Seat 2: LondonSyst3m showed [Qs Qc] and lost with Two pairs : Queens and 9
+Seat 5: Meuhhhhhhhhh (big blind) showed [Jh Jd] and lost with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198556754870796289-84-1708028542 - Holdem no limit (500/2000/4000) - 2024/02/15 20:22:22 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #4 is the button
+Seat 1: GTO hazar (455405)
+Seat 3: P1xel7 (142672)
+Seat 4: risbo (172398)
+Seat 6: davidabia (108259)
+*** ANTE/BLINDS ***
+davidabia posts ante 500
+GTO hazar posts ante 500
+P1xel7 posts ante 500
+risbo posts ante 500
+davidabia posts big blind 4000
+Dealt to P1xel7 [8d Ah]
+*** PRE-FLOP *** 
+GTO hazar folds
+P1xel7 folds
+risbo folds
+davidabia collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Seat 6: davidabia (big blind) won 6000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198556754870796289-85-1708028559 - Holdem no limit (500/2000/4000) - 2024/02/15 20:22:39 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #5 is the button
+Seat 1: GTO hazar (454905)
+Seat 2: AMB28 (100000)
+Seat 3: P1xel7 (142172)
+Seat 4: risbo (171898)
+Seat 5: cobrax35 (109500)
+Seat 6: davidabia (109759)
+*** ANTE/BLINDS ***
+davidabia posts ante 500
+GTO hazar posts ante 500
+AMB28 posts ante 500
+P1xel7 posts ante 500
+risbo posts ante 500
+davidabia posts small blind 2000
+GTO hazar posts big blind 4000
+Dealt to P1xel7 [8s 3h]
+*** PRE-FLOP *** 
+AMB28 folds
+P1xel7 folds
+risbo folds
+davidabia raises 6000 to 10000
+GTO hazar raises 20000 to 30000
+davidabia folds
+GTO hazar collected 42500 from pot
+*** SUMMARY ***
+Total pot 42500 | No rake
+Seat 1: GTO hazar (big blind) won 42500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198556754870796289-86-1708028599 - Holdem no limit (500/2000/4000) - 2024/02/15 20:23:19 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #6 is the button
+Seat 1: GTO hazar (466905)
+Seat 2: AMB28 (99500)
+Seat 3: P1xel7 (141672)
+Seat 4: risbo (171398)
+Seat 5: cobrax35 (109500)
+Seat 6: davidabia (99259)
+*** ANTE/BLINDS ***
+GTO hazar posts ante 500
+AMB28 posts ante 500
+P1xel7 posts ante 500
+risbo posts ante 500
+cobrax35 posts ante 500
+davidabia posts ante 500
+GTO hazar posts small blind 2000
+AMB28 posts big blind 4000
+Dealt to P1xel7 [8c 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+risbo folds
+cobrax35 folds
+davidabia raises 4000 to 8000
+GTO hazar folds
+AMB28 calls 4000
+*** FLOP *** [2h 9h 8d]
+AMB28 bets 4000
+davidabia raises 12000 to 16000
+AMB28 calls 12000
+*** TURN *** [2h 9h 8d][9d]
+AMB28 bets 4000
+davidabia raises 70759 to 74759 and is all-in
+AMB28 calls 70759
+*** RIVER *** [2h 9h 8d 9d][9c]
+*** SHOW DOWN ***
+AMB28 shows [7s Tc] (Trips of 9)
+davidabia shows [2c Ad] (Full of 9 and 2)
+davidabia collected 202518 from pot
+*** SUMMARY ***
+Total pot 202518 | No rake
+Board: [2h 9h 8d 9d 9c]
+Seat 2: AMB28 (big blind) showed [7s Tc] and lost with Trips of 9
+Seat 6: davidabia (button) showed [2c Ad] and won 202518 with Full of 9 and 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198556754870796289-87-1708028657 - Holdem no limit (600/2500/5000) - 2024/02/15 20:24:17 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #1 is the button
+Seat 1: GTO hazar (464405)
+Seat 2: AMB28 (241)
+Seat 3: P1xel7 (141172)
+Seat 4: risbo (170898)
+Seat 5: cobrax35 (109000)
+Seat 6: davidabia (202518)
+*** ANTE/BLINDS ***
+AMB28 posts ante 241 and is all-in
+P1xel7 posts ante 600
+GTO hazar posts ante 600
+risbo posts ante 600
+cobrax35 posts ante 600
+davidabia posts ante 600
+AMB28 posts small blind 0 and is all-in
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [6d 5d]
+*** PRE-FLOP *** 
+risbo folds
+cobrax35 folds
+davidabia raises 5000 to 10000
+GTO hazar raises 25000 to 35000
+P1xel7 folds
+davidabia folds
+*** FLOP *** [Kh Th 8c]
+*** TURN *** [Kh Th 8c][7s]
+*** RIVER *** [Kh Th 8c 7s][6c]
+*** SHOW DOWN ***
+AMB28 shows [Jc 5s] (High card : King)
+GTO hazar shows [Ac Jd] (High card : Ace)
+GTO hazar collected 53241 from pot
+*** SUMMARY ***
+Total pot 53241 | No rake
+Board: [Kh Th 8c 7s 6c]
+Seat 1: GTO hazar (button) showed [Ac Jd] and won 53241 with High card : Ace
+Seat 2: AMB28 (small blind) showed [Jc 5s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198556754870796289-88-1708028692 - Holdem no limit (600/2500/5000) - 2024/02/15 20:24:52 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #2 is the button
+Seat 1: GTO hazar (482046)
+Seat 3: P1xel7 (135572)
+Seat 4: risbo (170298)
+Seat 5: cobrax35 (108400)
+Seat 6: davidabia (191918)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 600
+risbo posts ante 600
+GTO hazar posts ante 600
+cobrax35 posts ante 600
+davidabia posts ante 600
+P1xel7 posts small blind 2500
+risbo posts big blind 5000
+Dealt to P1xel7 [Jc 2c]
+*** PRE-FLOP *** 
+cobrax35 folds
+davidabia folds
+GTO hazar raises 6000 to 11000
+P1xel7 folds
+risbo folds
+GTO hazar collected 21500 from pot
+*** SUMMARY ***
+Total pot 21500 | No rake
+Seat 1: GTO hazar won 21500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198556754870796289-89-1708028771 - Holdem no limit (600/2500/5000) - 2024/02/15 20:26:11 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #3 is the button
+Seat 1: GTO hazar (491946)
+Seat 3: P1xel7 (132472)
+Seat 4: risbo (164698)
+Seat 5: cobrax35 (107800)
+Seat 6: davidabia (191318)
+*** ANTE/BLINDS ***
+risbo posts ante 600
+cobrax35 posts ante 600
+GTO hazar posts ante 600
+P1xel7 posts ante 600
+davidabia posts ante 600
+risbo posts small blind 2500
+cobrax35 posts big blind 5000
+Dealt to P1xel7 [Ah 2h]
+*** PRE-FLOP *** 
+davidabia folds
+GTO hazar folds
+P1xel7 raises 5000 to 10000
+risbo folds
+cobrax35 calls 5000
+*** FLOP *** [9d Ad Td]
+cobrax35 checks
+P1xel7 bets 8925
+cobrax35 folds
+P1xel7 collected 34425 from pot
+*** SUMMARY ***
+Total pot 34425 | No rake
+Board: [9d Ad Td]
+Seat 3: P1xel7 (button) won 34425
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198556754870796289-90-1708028810 - Holdem no limit (600/2500/5000) - 2024/02/15 20:26:50 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #4 is the button
+Seat 1: GTO hazar (491346)
+Seat 2: Undomiel76 (100000)
+Seat 3: P1xel7 (147372)
+Seat 4: risbo (161598)
+Seat 5: cobrax35 (97200)
+Seat 6: davidabia (190718)
+*** ANTE/BLINDS ***
+cobrax35 posts ante 600
+davidabia posts ante 600
+GTO hazar posts ante 600
+Undomiel76 posts ante 600
+P1xel7 posts ante 600
+risbo posts ante 600
+cobrax35 posts small blind 2500
+davidabia posts big blind 5000
+Dealt to P1xel7 [2c 5s]
+*** PRE-FLOP *** 
+GTO hazar folds
+Undomiel76 folds
+P1xel7 folds
+risbo folds
+cobrax35 folds
+davidabia collected 11100 from pot
+*** SUMMARY ***
+Total pot 11100 | No rake
+Seat 6: davidabia (big blind) won 11100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198556754870796289-91-1708028825 - Holdem no limit (600/2500/5000) - 2024/02/15 20:27:05 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #5 is the button
+Seat 1: GTO hazar (490746)
+Seat 2: Undomiel76 (99400)
+Seat 3: P1xel7 (146772)
+Seat 4: risbo (160998)
+Seat 5: cobrax35 (94100)
+Seat 6: davidabia (196218)
+*** ANTE/BLINDS ***
+davidabia posts ante 600
+GTO hazar posts ante 600
+Undomiel76 posts ante 600
+P1xel7 posts ante 600
+risbo posts ante 600
+cobrax35 posts ante 600
+davidabia posts small blind 2500
+GTO hazar posts big blind 5000
+Dealt to P1xel7 [Qd 5c]
+*** PRE-FLOP *** 
+Undomiel76 folds
+P1xel7 folds
+risbo folds
+cobrax35 raises 88500 to 93500 and is all-in
+davidabia folds
+GTO hazar folds
+cobrax35 collected 104600 from pot
+*** SUMMARY ***
+Total pot 104600 | No rake
+Seat 5: cobrax35 (button) won 104600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198556754870796289-92-1708028877 - Holdem no limit (600/2500/5000) - 2024/02/15 20:27:57 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #6 is the button
+Seat 1: GTO hazar (485146)
+Seat 2: Undomiel76 (98800)
+Seat 3: P1xel7 (146172)
+Seat 4: risbo (160398)
+Seat 5: cobrax35 (104600)
+Seat 6: davidabia (193118)
+*** ANTE/BLINDS ***
+GTO hazar posts ante 600
+Undomiel76 posts ante 600
+P1xel7 posts ante 600
+risbo posts ante 600
+cobrax35 posts ante 600
+davidabia posts ante 600
+GTO hazar posts small blind 2500
+Undomiel76 posts big blind 5000
+Dealt to P1xel7 [7s Ad]
+*** PRE-FLOP *** 
+P1xel7 folds
+risbo folds
+cobrax35 raises 5000 to 10000
+davidabia folds
+GTO hazar folds
+Undomiel76 calls 5000
+*** FLOP *** [2d Qc 7c]
+Undomiel76 checks
+cobrax35 checks
+*** TURN *** [2d Qc 7c][As]
+Undomiel76 checks
+cobrax35 checks
+*** RIVER *** [2d Qc 7c As][6c]
+Undomiel76 checks
+cobrax35 checks
+*** SHOW DOWN ***
+Undomiel76 shows [4s 8s] (High card : Ace)
+cobrax35 shows [Th Kd] (High card : Ace)
+cobrax35 collected 26100 from pot
+*** SUMMARY ***
+Total pot 26100 | No rake
+Board: [2d Qc 7c As 6c]
+Seat 2: Undomiel76 (big blind) showed [4s 8s] and lost with High card : Ace
+Seat 5: cobrax35 showed [Th Kd] and won 26100 with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198556754870796289-93-1708028923 - Holdem no limit (600/2500/5000) - 2024/02/15 20:28:43 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #1 is the button
+Seat 1: GTO hazar (482046)
+Seat 2: Undomiel76 (88200)
+Seat 3: P1xel7 (145572)
+Seat 4: risbo (159798)
+Seat 5: cobrax35 (120100)
+Seat 6: davidabia (192518)
+*** ANTE/BLINDS ***
+Undomiel76 posts ante 600
+P1xel7 posts ante 600
+GTO hazar posts ante 600
+risbo posts ante 600
+cobrax35 posts ante 600
+davidabia posts ante 600
+Undomiel76 posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [8h Ks]
+*** PRE-FLOP *** 
+risbo folds
+cobrax35 raises 5000 to 10000
+davidabia folds
+GTO hazar folds
+Undomiel76 folds
+P1xel7 calls 5000
+*** FLOP *** [Kh 5c 2s]
+P1xel7 checks
+cobrax35 bets 9135
+P1xel7 calls 9135
+*** TURN *** [Kh 5c 2s][6d]
+P1xel7 checks
+cobrax35 bets 22185
+P1xel7 calls 22185
+*** RIVER *** [Kh 5c 2s 6d][5d]
+P1xel7 checks
+cobrax35 bets 57681
+P1xel7 raises 45971 to 103652 and is all-in
+cobrax35 calls 20499 and is all-in
+*** SHOW DOWN ***
+P1xel7 shows [8h Ks] (Two pairs : Kings and 5)
+cobrax35 shows [As Ad] (Two pairs : Aces and 5)
+cobrax35 collected 245100 from main pot
+P1xel7 collected 25472 from side pot 1
+*** SUMMARY ***
+Total pot 270572 | No rake
+Board: [Kh 5c 2s 6d 5d]
+Seat 3: P1xel7 (big blind) showed [8h Ks] and won 25472 with Two pairs : Kings and 5
+Seat 5: cobrax35 showed [As Ad] and won 245100 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198556754870796289-94-1708028988 - Holdem no limit (600/2500/5000) - 2024/02/15 20:29:48 UTC
+Table: 'Monster Stack(744722028)#000' 6-max (real money) Seat #2 is the button
+Seat 1: GTO hazar (481446)
+Seat 2: Undomiel76 (85100)
+Seat 3: P1xel7 (25472)
+Seat 4: risbo (159198)
+Seat 5: cobrax35 (245100)
+Seat 6: davidabia (191918)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 600
+risbo posts ante 600
+GTO hazar posts ante 600
+Undomiel76 posts ante 600
+cobrax35 posts ante 600
+davidabia posts ante 600
+P1xel7 posts small blind 2500
+risbo posts big blind 5000
+Dealt to P1xel7 [5s 5h]
+*** PRE-FLOP *** 
+cobrax35 raises 5000 to 10000
+davidabia folds
+GTO hazar folds
+Undomiel76 calls 10000
+P1xel7 raises 14872 to 24872 and is all-in
+risbo folds
+cobrax35 calls 14872
+Undomiel76 calls 14872
+*** FLOP *** [Ac Td Qs]
+cobrax35 checks
+Undomiel76 bets 15000
+cobrax35 calls 15000
+*** TURN *** [Ac Td Qs][6s]
+cobrax35 checks
+Undomiel76 bets 25000
+cobrax35 calls 25000
+*** RIVER *** [Ac Td Qs 6s][9c]
+cobrax35 checks
+Undomiel76 checks
+*** SHOW DOWN ***
+P1xel7 shows [5s 5h] (One pair : 5)
+cobrax35 shows [8s Ks] (High card : Ace)
+Undomiel76 shows [5d Ad] (One pair : Aces)
+Undomiel76 collected 163216 from pot
+*** SUMMARY ***
+Total pot 163216 | No rake
+Board: [Ac Td Qs 6s 9c]
+Seat 2: Undomiel76 (button) showed [5d Ad] and won 163216 with One pair : Aces
+Seat 3: P1xel7 (small blind) showed [5s 5h] and lost with One pair : 5
+Seat 5: cobrax35 showed [8s Ks] and lost with High card : Ace
+
+

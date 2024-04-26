@@ -1,0 +1,39 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3265098249396027393-1-1708887513 - Holdem no limit (10/20) - 2024/02/25 18:58:33 UTC
+Table: 'Starting Block WiPT - Déglingos(760214927)#0' 6-max (real money) Seat #2 is the button
+Seat 1: miju26 (500)
+Seat 2: taquin_62088 (500)
+Seat 3: Marco8578 (500)
+Seat 4: Kick_Menace (500)
+Seat 5: Kevpoker10 (500)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+Marco8578 posts small blind 10
+Kick_Menace posts big blind 20
+Dealt to P1xel7 [Qh Qd]
+*** PRE-FLOP *** 
+Kevpoker10 raises 480 to 500 and is all-in
+P1xel7 calls 500 and is all-in
+miju26 calls 500 and is all-in
+taquin_62088 folds
+Marco8578 calls 490 and is all-in
+Kick_Menace calls 480 and is all-in
+*** FLOP *** [Jd Ad Kh]
+*** TURN *** [Jd Ad Kh][7d]
+*** RIVER *** [Jd Ad Kh 7d][7c]
+*** SHOW DOWN ***
+miju26 shows [Ks Qc] (Two pairs : Kings and 7)
+Marco8578 shows [9h 9d] (Two pairs : 9 and 7)
+Kick_Menace shows [6s Kc] (Two pairs : Kings and 7)
+P1xel7 shows [Qh Qd] (Two pairs : Queens and 7)
+Kevpoker10 shows [7h Qs] (Trips of 7)
+Kevpoker10 collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [Jd Ad Kh 7d 7c]
+Seat 1: miju26 showed [Ks Qc] and lost with Two pairs : Kings and 7
+Seat 3: Marco8578 (small blind) showed [9h 9d] and lost with Two pairs : 9 and 7
+Seat 4: Kick_Menace (big blind) showed [6s Kc] and lost with Two pairs : Kings and 7
+Seat 5: Kevpoker10 showed [7h Qs] and won 2500 with Trips of 7
+Seat 6: P1xel7 showed [Qh Qd] and lost with Two pairs : Queens and 7
+
+

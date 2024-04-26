@@ -1,0 +1,330 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187614947727114241-1-1704913656 - Holdem no limit (10/20) - 2024/01/10 19:07:36 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Quentinb40 (500)
+Seat 2: Keo And Co (500)
+Seat 3: PPS_1984 (500)
+Seat 4: P1xel7 (500)
+Seat 5: vince.lv (500)
+Seat 6: As Monster (500)
+*** ANTE/BLINDS ***
+As Monster posts small blind 10
+Quentinb40 posts big blind 20
+Dealt to P1xel7 [Qc 3h]
+*** PRE-FLOP *** 
+Keo And Co raises 480 to 500 and is all-in
+PPS_1984 calls 500 and is all-in
+P1xel7 folds
+vince.lv folds
+As Monster calls 490 and is all-in
+Quentinb40 folds
+*** FLOP *** [8c Qd Ac]
+*** TURN *** [8c Qd Ac][5h]
+*** RIVER *** [8c Qd Ac 5h][As]
+*** SHOW DOWN ***
+PPS_1984 shows [Kh 7d] (One pair : Aces)
+As Monster shows [Js 2c] (One pair : Aces)
+Keo And Co shows [8s Ks] (Two pairs : Aces and 8)
+Keo And Co collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [8c Qd Ac 5h As]
+Seat 2: Keo And Co showed [8s Ks] and won 1520 with Two pairs : Aces and 8
+Seat 3: PPS_1984 showed [Kh 7d] and lost with One pair : Aces
+Seat 6: As Monster (small blind) showed [Js 2c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187614947727114241-2-1704913730 - Holdem no limit (10/20) - 2024/01/10 19:08:50 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Quentinb40 (480)
+Seat 2: Keo And Co (1520)
+Seat 4: P1xel7 (500)
+Seat 5: vince.lv (500)
+*** ANTE/BLINDS ***
+Quentinb40 posts small blind 10
+Keo And Co posts big blind 20
+Dealt to P1xel7 [Kh 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+vince.lv folds
+Quentinb40 calls 10
+Keo And Co raises 1500 to 1520 and is all-in
+Quentinb40 folds
+Keo And Co collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Seat 2: Keo And Co (big blind) won 1540
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187614947727114241-3-1704913742 - Holdem no limit (10/20) - 2024/01/10 19:09:02 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Quentinb40 (460)
+Seat 2: Keo And Co (1540)
+Seat 4: P1xel7 (500)
+Seat 5: vince.lv (500)
+*** ANTE/BLINDS ***
+Keo And Co posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [7h Qs]
+*** PRE-FLOP *** 
+vince.lv folds
+Quentinb40 calls 20
+Keo And Co calls 10
+P1xel7 checks
+*** FLOP *** [8s 6s 3h]
+Keo And Co bets 39
+P1xel7 folds
+Quentinb40 folds
+Keo And Co collected 99 from pot
+*** SUMMARY ***
+Total pot 99 | No rake
+Board: [8s 6s 3h]
+Seat 2: Keo And Co (small blind) won 99
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187614947727114241-4-1704913757 - Holdem no limit (15/30) - 2024/01/10 19:09:17 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Quentinb40 (440)
+Seat 2: Keo And Co (1580)
+Seat 4: P1xel7 (480)
+Seat 5: vince.lv (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+vince.lv posts big blind 30
+Dealt to P1xel7 [7s 3s]
+*** PRE-FLOP *** 
+Quentinb40 calls 30
+Keo And Co folds
+P1xel7 folds
+vince.lv raises 470 to 500 and is all-in
+Quentinb40 folds
+vince.lv collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | No rake
+Seat 5: vince.lv (big blind) won 545
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187614947727114241-5-1704913771 - Holdem no limit (15/30) - 2024/01/10 19:09:31 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Quentinb40 (410)
+Seat 2: Keo And Co (1580)
+Seat 4: P1xel7 (465)
+Seat 5: vince.lv (545)
+*** ANTE/BLINDS ***
+vince.lv posts small blind 15
+Quentinb40 posts big blind 30
+Dealt to P1xel7 [As 4d]
+*** PRE-FLOP *** 
+Keo And Co folds
+P1xel7 raises 30 to 60
+vince.lv calls 45
+Quentinb40 calls 30
+*** FLOP *** [8s 9h 4h]
+vince.lv checks
+Quentinb40 bets 350 and is all-in
+P1xel7 folds
+vince.lv raises 135 to 485 and is all-in
+*** TURN *** [8s 9h 4h][Tc]
+*** RIVER *** [8s 9h 4h Tc][2c]
+*** SHOW DOWN ***
+Quentinb40 shows [Td Qd] (One pair : Tens)
+vince.lv shows [6d 7h] (Straight Ten high)
+vince.lv collected 1015 from pot
+*** SUMMARY ***
+Total pot 1015 | No rake
+Board: [8s 9h 4h Tc 2c]
+Seat 1: Quentinb40 (big blind) showed [Td Qd] and lost with One pair : Tens
+Seat 5: vince.lv (small blind) showed [6d 7h] and won 1015 with Straight Ten high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187614947727114241-6-1704913823 - Holdem no limit (15/30) - 2024/01/10 19:10:23 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Keo And Co (1580)
+Seat 4: P1xel7 (405)
+Seat 5: vince.lv (1015)
+*** ANTE/BLINDS ***
+Keo And Co posts big blind 30
+Dealt to P1xel7 [9c Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+vince.lv folds
+Keo And Co collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: Keo And Co (big blind) won 30
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187614947727114241-7-1704913833 - Holdem no limit (20/40) - 2024/01/10 19:10:33 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #1 is the button
+Seat 2: Keo And Co (1580)
+Seat 4: P1xel7 (405)
+Seat 5: vince.lv (1015)
+*** ANTE/BLINDS ***
+Keo And Co posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Jh Js]
+*** PRE-FLOP *** 
+vince.lv folds
+Keo And Co folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: P1xel7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187614947727114241-8-1704913844 - Holdem no limit (20/40) - 2024/01/10 19:10:44 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Keo And Co (1560)
+Seat 4: P1xel7 (425)
+Seat 5: vince.lv (1015)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+vince.lv posts big blind 40
+Dealt to P1xel7 [8h 9c]
+*** PRE-FLOP *** 
+Keo And Co folds
+P1xel7 folds
+vince.lv collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 5: vince.lv (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187614947727114241-9-1704913856 - Holdem no limit (20/40) - 2024/01/10 19:10:56 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Keo And Co (1560)
+Seat 4: P1xel7 (405)
+Seat 5: vince.lv (1035)
+*** ANTE/BLINDS ***
+vince.lv posts small blind 20
+Keo And Co posts big blind 40
+Dealt to P1xel7 [8c Qc]
+*** PRE-FLOP *** 
+P1xel7 folds
+vince.lv folds
+Keo And Co collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Keo And Co (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187614947727114241-10-1704913863 - Holdem no limit (20/40) - 2024/01/10 19:11:03 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Keo And Co (1580)
+Seat 4: P1xel7 (405)
+Seat 5: vince.lv (1015)
+*** ANTE/BLINDS ***
+Keo And Co posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [2c As]
+*** PRE-FLOP *** 
+vince.lv folds
+Keo And Co folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: P1xel7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187614947727114241-11-1704913870 - Holdem no limit (20/40) - 2024/01/10 19:11:10 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Keo And Co (1560)
+Seat 4: P1xel7 (425)
+Seat 5: vince.lv (1015)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+vince.lv posts big blind 40
+Dealt to P1xel7 [6s 7s]
+*** PRE-FLOP *** 
+Keo And Co raises 80 to 120
+P1xel7 folds
+vince.lv raises 260 to 380
+Keo And Co raises 1180 to 1560 and is all-in
+vince.lv calls 635 and is all-in
+*** FLOP *** [9h 5d 3h]
+*** TURN *** [9h 5d 3h][Js]
+*** RIVER *** [9h 5d 3h Js][5c]
+*** SHOW DOWN ***
+vince.lv shows [Qd Kc] (One pair : 5)
+Keo And Co shows [Ah Qc] (One pair : 5)
+Keo And Co collected 2595 from pot
+*** SUMMARY ***
+Total pot 2595 | No rake
+Board: [9h 5d 3h Js 5c]
+Seat 2: Keo And Co (button) showed [Ah Qc] and won 2595 with One pair : 5
+Seat 5: vince.lv (big blind) showed [Qd Kc] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187614947727114241-12-1704913899 - Holdem no limit (20/40) - 2024/01/10 19:11:39 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Keo And Co (2595)
+Seat 4: P1xel7 (405)
+*** ANTE/BLINDS ***
+Keo And Co posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Tc Td]
+*** PRE-FLOP *** 
+Keo And Co folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 4: P1xel7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187614947727114241-13-1704913920 - Holdem no limit (20/40) - 2024/01/10 19:12:00 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Keo And Co (2575)
+Seat 4: P1xel7 (425)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Keo And Co posts big blind 40
+Dealt to P1xel7 [4h 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Keo And Co collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Keo And Co (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3187614947727114241-14-1704913924 - Holdem no limit (30/60) - 2024/01/10 19:12:04 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Keo And Co (2595)
+Seat 4: P1xel7 (405)
+*** ANTE/BLINDS ***
+Keo And Co posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [5d 3h]
+*** PRE-FLOP *** 
+Keo And Co raises 2535 to 2595 and is all-in
+P1xel7 folds
+Keo And Co collected 2655 from pot
+*** SUMMARY ***
+Total pot 2655 | No rake
+Seat 2: Keo And Co (small blind) (button) won 2655
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3187614947727114241-15-1704913931 - Holdem no limit (30/60) - 2024/01/10 19:12:11 UTC
+Table: 'Starting Block WiPT - Déglingos(742174440)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Keo And Co (2655)
+Seat 4: P1xel7 (345)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Keo And Co posts big blind 60
+Dealt to P1xel7 [6h Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 285 to 345 and is all-in
+Keo And Co calls 285
+*** FLOP *** [Td 5d 3c]
+*** TURN *** [Td 5d 3c][8h]
+*** RIVER *** [Td 5d 3c 8h][9s]
+*** SHOW DOWN ***
+P1xel7 shows [6h Ks] (High card : King)
+Keo And Co shows [Ts Th] (Trips of Tens)
+Keo And Co collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [Td 5d 3c 8h 9s]
+Seat 2: Keo And Co (big blind) showed [Ts Th] and won 690 with Trips of Tens
+Seat 4: P1xel7 (small blind) (button) showed [6h Ks] and lost with High card : King
+
+

@@ -1,0 +1,52 @@
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084876482443476993-1-1699453782 - Holdem no limit (10/20) - 2023/11/08 14:29:42 UTC
+Table: 'Expresso Nitro Freeroll(718253777)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Filetdmoutt (300)
+Seat 2: P1xel7 (300)
+Seat 3: vince2901 (300)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+vince2901 posts big blind 20
+Dealt to P1xel7 [Kc 6c]
+*** PRE-FLOP *** 
+Filetdmoutt raises 280 to 300 and is all-in
+P1xel7 folds
+vince2901 calls 280 and is all-in
+*** FLOP *** [3c Jc 6d]
+*** TURN *** [3c Jc 6d][Th]
+*** RIVER *** [3c Jc 6d Th][5s]
+*** SHOW DOWN ***
+vince2901 shows [Kh 5d] (One pair : 5)
+Filetdmoutt shows [Jd 8h] (One pair : Jacks)
+Filetdmoutt collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | No rake
+Board: [3c Jc 6d Th 5s]
+Seat 1: Filetdmoutt (button) showed [Jd 8h] and won 610 with One pair : Jacks
+Seat 3: vince2901 (big blind) showed [Kh 5d] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084876482443476993-2-1699453807 - Holdem no limit (10/20) - 2023/11/08 14:30:07 UTC
+Table: 'Expresso Nitro Freeroll(718253777)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Filetdmoutt (610)
+Seat 2: P1xel7 (290)
+*** ANTE/BLINDS ***
+Filetdmoutt posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Qs 6d]
+*** PRE-FLOP *** 
+Filetdmoutt raises 590 to 610 and is all-in
+P1xel7 calls 270 and is all-in
+*** FLOP *** [9s 5d Ah]
+*** TURN *** [9s 5d Ah][3h]
+*** RIVER *** [9s 5d Ah 3h][Th]
+*** SHOW DOWN ***
+P1xel7 shows [Qs 6d] (High card : Ace)
+Filetdmoutt shows [4c Ts] (One pair : Tens)
+Filetdmoutt collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [9s 5d Ah 3h Th]
+Seat 1: Filetdmoutt (small blind) (button) showed [4c Ts] and won 900 with One pair : Tens
+Seat 2: P1xel7 (big blind) showed [Qs 6d] and lost with High card : Ace
+
+

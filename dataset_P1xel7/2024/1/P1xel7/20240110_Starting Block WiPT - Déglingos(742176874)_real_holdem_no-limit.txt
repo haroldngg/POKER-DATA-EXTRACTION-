@@ -1,0 +1,143 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187625401677512705-1-1704914009 - Holdem no limit (10/20) - 2024/01/10 19:13:29 UTC
+Table: 'Starting Block WiPT - Déglingos(742176874)#0' 6-max (real money) Seat #5 is the button
+Seat 1: manu97123 (500)
+Seat 2: Fill.2a.33 (500)
+Seat 3: P1xel7 (500)
+Seat 4: BISON-RAVI (500)
+Seat 5: bastienn07 (500)
+Seat 6: fullnight (500)
+*** ANTE/BLINDS ***
+fullnight posts small blind 10
+manu97123 posts big blind 20
+Dealt to P1xel7 [Qs 8s]
+*** PRE-FLOP *** 
+Fill.2a.33 raises 480 to 500 and is all-in
+P1xel7 folds
+BISON-RAVI calls 500 and is all-in
+bastienn07 calls 500 and is all-in
+fullnight calls 490 and is all-in
+manu97123 calls 480 and is all-in
+*** FLOP *** [8h Kc Jh]
+*** TURN *** [8h Kc Jh][7h]
+*** RIVER *** [8h Kc Jh 7h][9s]
+*** SHOW DOWN ***
+Fill.2a.33 shows [3c Qd] (High card : King)
+bastienn07 shows [4c 5c] (High card : King)
+fullnight shows [6d Ad] (High card : Ace)
+manu97123 shows [9h Ts] (Straight Jack high)
+BISON-RAVI shows [Th 7c] (Straight Jack high)
+BISON-RAVI collected 1250 from pot
+manu97123 collected 1250 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Board: [8h Kc Jh 7h 9s]
+Seat 1: manu97123 (big blind) showed [9h Ts] and won 1250 with Straight Jack high
+Seat 2: Fill.2a.33 showed [3c Qd] and lost with High card : King
+Seat 4: BISON-RAVI showed [Th 7c] and won 1250 with Straight Jack high
+Seat 5: bastienn07 (button) showed [4c 5c] and lost with High card : King
+Seat 6: fullnight (small blind) showed [6d Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187625401677512705-2-1704914047 - Holdem no limit (10/20) - 2024/01/10 19:14:07 UTC
+Table: 'Starting Block WiPT - Déglingos(742176874)#0' 6-max (real money) Seat #6 is the button
+Seat 1: manu97123 (1250)
+Seat 3: P1xel7 (500)
+Seat 4: BISON-RAVI (1250)
+*** ANTE/BLINDS ***
+manu97123 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [7h 9h]
+*** PRE-FLOP *** 
+BISON-RAVI raises 1230 to 1250 and is all-in
+manu97123 calls 1240 and is all-in
+P1xel7 folds
+*** FLOP *** [5d 2d Kc]
+*** TURN *** [5d 2d Kc][Td]
+*** RIVER *** [5d 2d Kc Td][8d]
+*** SHOW DOWN ***
+BISON-RAVI shows [Js Qh] (High card : King)
+manu97123 shows [Ah Qd] (Flush Queen high)
+manu97123 collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Board: [5d 2d Kc Td 8d]
+Seat 1: manu97123 (small blind) showed [Ah Qd] and won 2520 with Flush Queen high
+Seat 4: BISON-RAVI showed [Js Qh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187625401677512705-3-1704914059 - Holdem no limit (10/20) - 2024/01/10 19:14:19 UTC
+Table: 'Starting Block WiPT - Déglingos(742176874)#0' 6-max (real money) Seat #3 is the button
+Seat 1: manu97123 (2520)
+Seat 3: P1xel7 (480)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+manu97123 posts big blind 20
+Dealt to P1xel7 [5s Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+manu97123 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: manu97123 (big blind) won 30
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187625401677512705-4-1704914063 - Holdem no limit (10/20) - 2024/01/10 19:14:23 UTC
+Table: 'Starting Block WiPT - Déglingos(742176874)#0' 6-max (real money) Seat #1 is the button
+Seat 1: manu97123 (2530)
+Seat 3: P1xel7 (470)
+*** ANTE/BLINDS ***
+manu97123 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [7c Qd]
+*** PRE-FLOP *** 
+manu97123 raises 2510 to 2530 and is all-in
+P1xel7 folds
+manu97123 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 1: manu97123 (small blind) (button) won 2550
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187625401677512705-5-1704914071 - Holdem no limit (10/20) - 2024/01/10 19:14:31 UTC
+Table: 'Starting Block WiPT - Déglingos(742176874)#0' 6-max (real money) Seat #3 is the button
+Seat 1: manu97123 (2550)
+Seat 3: P1xel7 (450)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+manu97123 posts big blind 20
+Dealt to P1xel7 [Ah Ad]
+*** PRE-FLOP *** 
+P1xel7 raises 430 to 450 and is all-in
+manu97123 folds
+P1xel7 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 3: P1xel7 (small blind) (button) won 470
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187625401677512705-6-1704914077 - Holdem no limit (10/20) - 2024/01/10 19:14:37 UTC
+Table: 'Starting Block WiPT - Déglingos(742176874)#0' 6-max (real money) Seat #1 is the button
+Seat 1: manu97123 (2530)
+Seat 3: P1xel7 (470)
+*** ANTE/BLINDS ***
+manu97123 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8d 8s]
+*** PRE-FLOP *** 
+manu97123 calls 10
+P1xel7 raises 450 to 470 and is all-in
+manu97123 calls 450
+*** FLOP *** [9c 4c 9s]
+*** TURN *** [9c 4c 9s][Td]
+*** RIVER *** [9c 4c 9s Td][Jd]
+*** SHOW DOWN ***
+P1xel7 shows [8d 8s] (Two pairs : 9 and 8)
+manu97123 shows [3c Jc] (Two pairs : Jacks and 9)
+manu97123 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | No rake
+Board: [9c 4c 9s Td Jd]
+Seat 1: manu97123 (small blind) (button) showed [3c Jc] and won 940 with Two pairs : Jacks and 9
+Seat 3: P1xel7 (big blind) showed [8d 8s] and lost with Two pairs : 9 and 8
+
+

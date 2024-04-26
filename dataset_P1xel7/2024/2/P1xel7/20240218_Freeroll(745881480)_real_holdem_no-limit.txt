@@ -1,0 +1,228 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3203536563292078639-15-1708284576 - Holdem no limit (30/125/250) - 2024/02/18 19:29:36 UTC
+Table: 'Freeroll(745881480)#0558' 8-max (real money) Seat #4 is the button
+Seat 1: Soldikush75 (57570)
+Seat 2: Enzo_m5_e60 (45292)
+Seat 3: P1xel7 (20000)
+Seat 4: antonionap71 (18880)
+Seat 5: olcaem (19620)
+Seat 6: Julioizqui (21324)
+Seat 7: droopys42 (43435)
+Seat 8: Newcaliforni (10704)
+*** ANTE/BLINDS ***
+olcaem posts ante 30
+Julioizqui posts ante 30
+Soldikush75 posts ante 30
+Enzo_m5_e60 posts ante 30
+P1xel7 posts ante 30
+antonionap71 posts ante 30
+droopys42 posts ante 30
+Newcaliforni posts ante 30
+olcaem posts small blind 125
+Julioizqui posts big blind 250
+Dealt to P1xel7 [5d 4h]
+*** PRE-FLOP *** 
+droopys42 calls 250
+Newcaliforni folds
+Soldikush75 raises 1115 to 1365
+Enzo_m5_e60 folds
+P1xel7 folds
+antonionap71 folds
+olcaem folds
+Julioizqui folds
+droopys42 calls 1115
+*** FLOP *** [Jc As 9d]
+droopys42 checks
+Soldikush75 bets 2174
+droopys42 calls 2174
+*** TURN *** [Jc As 9d][Jd]
+droopys42 checks
+Soldikush75 bets 5000
+droopys42 calls 5000
+*** RIVER *** [Jc As 9d Jd][Ts]
+droopys42 bets 34866 and is all-in
+Soldikush75 folds
+droopys42 collected 52559 from pot
+*** SUMMARY ***
+Total pot 52559 | No rake
+Board: [Jc As 9d Jd Ts]
+Seat 7: droopys42 won 52559
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3203536563292078639-16-1708284638 - Holdem no limit (30/125/250) - 2024/02/18 19:30:38 UTC
+Table: 'Freeroll(745881480)#0558' 8-max (real money) Seat #5 is the button
+Seat 1: Soldikush75 (49001)
+Seat 2: Enzo_m5_e60 (45262)
+Seat 3: P1xel7 (19970)
+Seat 4: antonionap71 (18850)
+Seat 5: olcaem (19465)
+Seat 6: Julioizqui (21044)
+Seat 7: droopys42 (52559)
+Seat 8: Newcaliforni (10674)
+*** ANTE/BLINDS ***
+Julioizqui posts ante 30
+droopys42 posts ante 30
+Soldikush75 posts ante 30
+Enzo_m5_e60 posts ante 30
+P1xel7 posts ante 30
+antonionap71 posts ante 30
+olcaem posts ante 30
+Newcaliforni posts ante 30
+Julioizqui posts small blind 125
+droopys42 posts big blind 250
+Dealt to P1xel7 [8h Ac]
+*** PRE-FLOP *** 
+Newcaliforni folds
+Soldikush75 raises 48721 to 48971 and is all-in
+Enzo_m5_e60 folds
+P1xel7 folds
+antonionap71 folds
+olcaem folds
+Julioizqui folds
+droopys42 folds
+Soldikush75 collected 49586 from pot
+*** SUMMARY ***
+Total pot 49586 | No rake
+Seat 1: Soldikush75 won 49586
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3203536563292078639-17-1708284653 - Holdem no limit (35/150/300) - 2024/02/18 19:30:53 UTC
+Table: 'Freeroll(745881480)#0558' 8-max (real money) Seat #6 is the button
+Seat 1: Soldikush75 (49586)
+Seat 2: Enzo_m5_e60 (45232)
+Seat 3: P1xel7 (19940)
+Seat 4: antonionap71 (18820)
+Seat 5: olcaem (19435)
+Seat 6: Julioizqui (20889)
+Seat 7: droopys42 (52279)
+Seat 8: Newcaliforni (10644)
+*** ANTE/BLINDS ***
+droopys42 posts ante 35
+Newcaliforni posts ante 35
+Soldikush75 posts ante 35
+Enzo_m5_e60 posts ante 35
+P1xel7 posts ante 35
+antonionap71 posts ante 35
+olcaem posts ante 35
+Julioizqui posts ante 35
+droopys42 posts small blind 150
+Newcaliforni posts big blind 300
+Dealt to P1xel7 [7d 3h]
+*** PRE-FLOP *** 
+Soldikush75 raises 49251 to 49551 and is all-in
+Enzo_m5_e60 calls 45197 and is all-in
+P1xel7 folds
+antonionap71 folds
+olcaem folds
+Julioizqui folds
+droopys42 calls 49401
+Newcaliforni calls 10309 and is all-in
+*** FLOP *** [5s Qc 4h]
+*** TURN *** [5s Qc 4h][4c]
+*** RIVER *** [5s Qc 4h 4c][8s]
+*** SHOW DOWN ***
+Soldikush75 shows [8h 9s] (Two pairs : 8 and 4)
+Enzo_m5_e60 shows [Ac 7h] (One pair : 4)
+Newcaliforni shows [Ah Th] (One pair : 4)
+droopys42 shows [Qs Kc] (Two pairs : Queens and 4)
+droopys42 collected 155188 from pot
+*** SUMMARY ***
+Total pot 155188 | No rake
+Board: [5s Qc 4h 4c 8s]
+Seat 1: Soldikush75 showed [8h 9s] and lost with Two pairs : 8 and 4
+Seat 2: Enzo_m5_e60 showed [Ac 7h] and lost with One pair : 4
+Seat 7: droopys42 (small blind) showed [Qs Kc] and won 155188 with Two pairs : Queens and 4
+Seat 8: Newcaliforni (big blind) showed [Ah Th] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3203536563292078639-18-1708284693 - Holdem no limit (35/150/300) - 2024/02/18 19:31:33 UTC
+Table: 'Freeroll(745881480)#0558' 8-max (real money) Seat #7 is the button
+Seat 3: P1xel7 (19905)
+Seat 4: antonionap71 (18785)
+Seat 5: olcaem (19400)
+Seat 6: Julioizqui (20854)
+Seat 7: droopys42 (157881)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+antonionap71 posts ante 35
+olcaem posts ante 35
+Julioizqui posts ante 35
+droopys42 posts ante 35
+P1xel7 posts big blind 300
+Dealt to P1xel7 [2s Qc]
+*** PRE-FLOP *** 
+antonionap71 folds
+olcaem folds
+Julioizqui raises 300 to 600
+droopys42 raises 1200 to 1800
+P1xel7 folds
+Julioizqui calls 1200
+*** FLOP *** [Kh 7s Qd]
+Julioizqui checks
+droopys42 checks
+*** TURN *** [Kh 7s Qd][2c]
+Julioizqui bets 1019
+droopys42 calls 1019
+*** RIVER *** [Kh 7s Qd 2c][9s]
+Julioizqui bets 3057
+droopys42 calls 3057
+*** SHOW DOWN ***
+droopys42 shows [2d As] (One pair : 2)
+Julioizqui shows [Ks 6s] (One pair : Kings)
+Julioizqui collected 12227 from pot
+*** SUMMARY ***
+Total pot 12227 | No rake
+Board: [Kh 7s Qd 2c 9s]
+Seat 6: Julioizqui showed [Ks 6s] and won 12227 with One pair : Kings
+Seat 7: droopys42 (button) showed [2d As] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3203536563292078639-19-1708284768 - Holdem no limit (35/150/300) - 2024/02/18 19:32:48 UTC
+Table: 'Freeroll(745881480)#0558' 8-max (real money) Seat #8 is the button
+Seat 1: GivememoreBB (38104)
+Seat 2: kiskool34530 (20727)
+Seat 3: P1xel7 (19570)
+Seat 4: antonionap71 (18750)
+Seat 5: olcaem (19365)
+Seat 6: Julioizqui (27170)
+Seat 7: droopys42 (151970)
+Seat 8: Dogistar (20000)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+antonionap71 posts ante 35
+olcaem posts ante 35
+Julioizqui posts ante 35
+droopys42 posts ante 35
+P1xel7 posts small blind 150
+antonionap71 posts big blind 300
+Dealt to P1xel7 [As 9h]
+*** PRE-FLOP *** 
+olcaem folds
+Julioizqui raises 600 to 900
+droopys42 folds
+P1xel7 calls 750
+antonionap71 calls 600
+*** FLOP *** [2c 8d Ac]
+P1xel7 checks
+antonionap71 checks
+Julioizqui checks
+*** TURN *** [2c 8d Ac][Ts]
+P1xel7 bets 1006
+antonionap71 calls 1006
+Julioizqui calls 1006
+*** RIVER *** [2c 8d Ac Ts][Ah]
+P1xel7 bets 2947
+antonionap71 calls 2947
+Julioizqui raises 22282 to 25229 and is all-in
+P1xel7 calls 14682 and is all-in
+antonionap71 folds
+*** SHOW DOWN ***
+P1xel7 shows [As 9h] (Trips of Aces)
+Julioizqui shows [Qh Ad] (Trips of Aces)
+Julioizqui collected 51698 from pot
+*** SUMMARY ***
+Total pot 51698 | No rake
+Board: [2c 8d Ac Ts Ah]
+Seat 3: P1xel7 (small blind) showed [As 9h] and lost with Trips of Aces
+Seat 6: Julioizqui showed [Qh Ad] and won 51698 with Trips of Aces
+
+

@@ -1,0 +1,1242 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3052594176806879712-11-1700335578 - Holdem no limit (25/100/200) - 2023/11/18 19:26:18 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #3 is the button
+Seat 1: naf45 (19375)
+Seat 2: P1xel7 (20000)
+Seat 3: dove84 (19150)
+Seat 4: lolo348 (19375)
+Seat 5: Sergio102 (58800)
+Seat 6: eugeniusz 7 (90247)
+Seat 7: Adik_G (30252)
+Seat 8: Zainou26 (20725)
+*** ANTE/BLINDS ***
+lolo348 posts ante 25
+Sergio102 posts ante 25
+naf45 posts ante 25
+P1xel7 posts ante 25
+dove84 posts ante 25
+eugeniusz 7 posts ante 25
+Adik_G posts ante 25
+Zainou26 posts ante 25
+lolo348 posts small blind 100
+Sergio102 posts big blind 200
+Dealt to P1xel7 [9d 9s]
+*** PRE-FLOP *** 
+eugeniusz 7 calls 200
+Adik_G folds
+Zainou26 folds
+naf45 folds
+P1xel7 raises 400 to 600
+dove84 calls 600
+lolo348 raises 18750 to 19350 and is all-in
+Sergio102 calls 19150
+eugeniusz 7 calls 19150
+P1xel7 folds
+dove84 folds
+*** FLOP *** [5d 7d Ts]
+Sergio102 checks
+eugeniusz 7 checks
+*** TURN *** [5d 7d Ts][Th]
+Sergio102 checks
+eugeniusz 7 checks
+*** RIVER *** [5d 7d Ts Th][As]
+Sergio102 bets 39425 and is all-in
+eugeniusz 7 folds
+*** SHOW DOWN ***
+lolo348 shows [Ac Jd] (Two pairs : Aces and Tens)
+Sergio102 shows [8s 8d] (Two pairs : Tens and 8)
+Sergio102 collected 39425 from side pot 1
+lolo348 collected 59450 from main pot
+*** SUMMARY ***
+Total pot 98875 | No rake
+Board: [5d 7d Ts Th As]
+Seat 4: lolo348 (small blind) showed [Ac Jd] and won 59450 with Two pairs : Aces and Tens
+Seat 5: Sergio102 (big blind) showed [8s 8d] and won 39425 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3052594176806879712-12-1700335622 - Holdem no limit (25/100/200) - 2023/11/18 19:27:02 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #4 is the button
+Seat 1: naf45 (19350)
+Seat 2: P1xel7 (19375)
+Seat 3: dove84 (18525)
+Seat 4: lolo348 (59450)
+Seat 5: Sergio102 (39425)
+Seat 6: eugeniusz 7 (70872)
+Seat 7: Adik_G (30227)
+Seat 8: Zainou26 (20700)
+*** ANTE/BLINDS ***
+Sergio102 posts ante 25
+eugeniusz 7 posts ante 25
+naf45 posts ante 25
+P1xel7 posts ante 25
+dove84 posts ante 25
+lolo348 posts ante 25
+Adik_G posts ante 25
+Zainou26 posts ante 25
+Sergio102 posts small blind 100
+eugeniusz 7 posts big blind 200
+Dealt to P1xel7 [8s 4c]
+*** PRE-FLOP *** 
+Adik_G folds
+Zainou26 folds
+naf45 raises 400 to 600
+P1xel7 folds
+dove84 calls 600
+lolo348 folds
+Sergio102 folds
+eugeniusz 7 calls 400
+*** FLOP *** [7d 9c 8h]
+eugeniusz 7 checks
+naf45 bets 1365
+dove84 calls 1365
+eugeniusz 7 folds
+*** TURN *** [7d 9c 8h][3c]
+naf45 checks
+dove84 checks
+*** RIVER *** [7d 9c 8h 3c][Qh]
+naf45 checks
+dove84 bets 1000
+naf45 folds
+dove84 collected 5830 from pot
+*** SUMMARY ***
+Total pot 5830 | No rake
+Board: [7d 9c 8h 3c Qh]
+Seat 3: dove84 won 5830
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3052594176806879712-13-1700335688 - Holdem no limit (25/100/200) - 2023/11/18 19:28:08 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #5 is the button
+Seat 1: naf45 (17360)
+Seat 2: P1xel7 (19350)
+Seat 3: dove84 (21365)
+Seat 4: lolo348 (59425)
+Seat 5: Sergio102 (39300)
+Seat 6: eugeniusz 7 (70247)
+Seat 7: Adik_G (30202)
+Seat 8: Zainou26 (20675)
+*** ANTE/BLINDS ***
+eugeniusz 7 posts ante 25
+Adik_G posts ante 25
+naf45 posts ante 25
+P1xel7 posts ante 25
+dove84 posts ante 25
+lolo348 posts ante 25
+Sergio102 posts ante 25
+Zainou26 posts ante 25
+eugeniusz 7 posts small blind 100
+Adik_G posts big blind 200
+Dealt to P1xel7 [3s 4c]
+*** PRE-FLOP *** 
+Zainou26 folds
+naf45 folds
+P1xel7 folds
+dove84 calls 200
+lolo348 calls 200
+Sergio102 folds
+eugeniusz 7 calls 100
+Adik_G checks
+*** FLOP *** [9h 8c 7h]
+eugeniusz 7 checks
+Adik_G checks
+dove84 bets 200
+lolo348 calls 200
+eugeniusz 7 calls 200
+Adik_G folds
+*** TURN *** [9h 8c 7h][Tc]
+eugeniusz 7 checks
+dove84 checks
+lolo348 checks
+*** RIVER *** [9h 8c 7h Tc][5s]
+eugeniusz 7 bets 1600
+dove84 folds
+lolo348 folds
+eugeniusz 7 collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | No rake
+Board: [9h 8c 7h Tc 5s]
+Seat 6: eugeniusz 7 (small blind) won 3200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3052594176806879712-14-1700335794 - Holdem no limit (30/125/250) - 2023/11/18 19:29:54 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #6 is the button
+Seat 2: P1xel7 (19325)
+Seat 3: dove84 (20940)
+Seat 4: lolo348 (59000)
+Seat 5: Sergio102 (39275)
+Seat 6: eugeniusz 7 (71422)
+Seat 7: Adik_G (29977)
+Seat 8: Zainou26 (20650)
+*** ANTE/BLINDS ***
+Adik_G posts ante 30
+Zainou26 posts ante 30
+P1xel7 posts ante 30
+dove84 posts ante 30
+lolo348 posts ante 30
+Sergio102 posts ante 30
+eugeniusz 7 posts ante 30
+Adik_G posts small blind 125
+Zainou26 posts big blind 250
+Dealt to P1xel7 [Tc 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+dove84 calls 250
+lolo348 calls 250
+Sergio102 calls 250
+eugeniusz 7 folds
+Adik_G raises 750 to 1000
+Zainou26 folds
+dove84 calls 750
+lolo348 calls 750
+Sergio102 calls 750
+*** FLOP *** [3c 9s 4d]
+Adik_G checks
+dove84 checks
+lolo348 checks
+Sergio102 checks
+*** TURN *** [3c 9s 4d][9h]
+Adik_G checks
+dove84 bets 1000
+lolo348 folds
+Sergio102 folds
+Adik_G calls 1000
+*** RIVER *** [3c 9s 4d 9h][3s]
+Adik_G checks
+dove84 bets 3000
+Adik_G calls 3000
+*** SHOW DOWN ***
+Adik_G shows [Td Ac] (Two pairs : 9 and 3)
+dove84 shows [9c 5c] (Full of 9 and 3)
+dove84 collected 12460 from pot
+*** SUMMARY ***
+Total pot 12460 | No rake
+Board: [3c 9s 4d 9h 3s]
+Seat 3: dove84 showed [9c 5c] and won 12460 with Full of 9 and 3
+Seat 7: Adik_G (small blind) showed [Td Ac] and lost with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3052594176806879712-15-1700335914 - Holdem no limit (35/150/300) - 2023/11/18 19:31:54 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #7 is the button
+Seat 1: caro1209 (20000)
+Seat 2: P1xel7 (19295)
+Seat 3: dove84 (28370)
+Seat 4: lolo348 (57970)
+Seat 5: Sergio102 (38245)
+Seat 6: eugeniusz 7 (71392)
+Seat 7: Adik_G (24947)
+Seat 8: Zainou26 (20370)
+*** ANTE/BLINDS ***
+Zainou26 posts ante 35
+caro1209 posts ante 35
+P1xel7 posts ante 35
+dove84 posts ante 35
+lolo348 posts ante 35
+Sergio102 posts ante 35
+eugeniusz 7 posts ante 35
+Adik_G posts ante 35
+Zainou26 posts small blind 150
+caro1209 posts big blind 300
+Dealt to P1xel7 [6s 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+dove84 calls 300
+lolo348 folds
+Sergio102 raises 37910 to 38210 and is all-in
+eugeniusz 7 raises 33147 to 71357 and is all-in
+Adik_G folds
+Zainou26 folds
+caro1209 folds
+dove84 folds
+*** FLOP *** [6h 6d 8c]
+*** TURN *** [6h 6d 8c][2h]
+*** RIVER *** [6h 6d 8c 2h][Ac]
+*** SHOW DOWN ***
+Sergio102 shows [3d Jd] (One pair : 6)
+eugeniusz 7 shows [Ks Kd] (Two pairs : Kings and 6)
+eugeniusz 7 collected 110597 from pot
+*** SUMMARY ***
+Total pot 110597 | No rake
+Board: [6h 6d 8c 2h Ac]
+Seat 5: Sergio102 showed [3d Jd] and lost with One pair : 6
+Seat 6: eugeniusz 7 showed [Ks Kd] and won 110597 with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3052594176806879712-16-1700335953 - Holdem no limit (35/150/300) - 2023/11/18 19:32:33 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #8 is the button
+Seat 1: caro1209 (19665)
+Seat 2: P1xel7 (19260)
+Seat 3: dove84 (28035)
+Seat 4: lolo348 (57935)
+Seat 6: eugeniusz 7 (110597)
+Seat 7: Adik_G (24912)
+Seat 8: Zainou26 (20185)
+*** ANTE/BLINDS ***
+caro1209 posts ante 35
+P1xel7 posts ante 35
+dove84 posts ante 35
+lolo348 posts ante 35
+eugeniusz 7 posts ante 35
+Adik_G posts ante 35
+Zainou26 posts ante 35
+caro1209 posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Qs 3d]
+*** PRE-FLOP *** 
+dove84 calls 300
+lolo348 folds
+eugeniusz 7 folds
+Adik_G raises 600 to 900
+Zainou26 calls 900
+caro1209 calls 750
+P1xel7 folds
+dove84 calls 600
+*** FLOP *** [As 3s Qc]
+caro1209 bets 4145
+dove84 folds
+Adik_G folds
+Zainou26 folds
+caro1209 collected 8290 from pot
+*** SUMMARY ***
+Total pot 8290 | No rake
+Board: [As 3s Qc]
+Seat 1: caro1209 (small blind) won 8290
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3052594176806879712-17-1700336002 - Holdem no limit (35/150/300) - 2023/11/18 19:33:22 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #1 is the button
+Seat 1: caro1209 (22875)
+Seat 2: P1xel7 (18925)
+Seat 3: dove84 (27100)
+Seat 4: lolo348 (57900)
+Seat 5: Wiwitheking (20000)
+Seat 6: eugeniusz 7 (110562)
+Seat 7: Adik_G (23977)
+Seat 8: Zainou26 (19250)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+dove84 posts ante 35
+caro1209 posts ante 35
+lolo348 posts ante 35
+Wiwitheking posts ante 35
+eugeniusz 7 posts ante 35
+Adik_G posts ante 35
+Zainou26 posts ante 35
+P1xel7 posts small blind 150
+dove84 posts big blind 300
+Dealt to P1xel7 [2s Ks]
+*** PRE-FLOP *** 
+lolo348 calls 300
+Wiwitheking raises 1330 to 1630
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 raises 17585 to 19215 and is all-in
+caro1209 raises 3625 to 22840 and is all-in
+P1xel7 folds
+dove84 folds
+lolo348 folds
+Wiwitheking calls 18335 and is all-in
+*** FLOP *** [6s 5h 8d]
+*** TURN *** [6s 5h 8d][Qh]
+*** RIVER *** [6s 5h 8d Qh][6c]
+*** SHOW DOWN ***
+Wiwitheking shows [8c Kh] (Two pairs : 8 and 6)
+caro1209 shows [9s 9d] (Two pairs : 9 and 6)
+Zainou26 shows [8h 8s] (Full of 8 and 6)
+Zainou26 collected 58675 from main pot
+caro1209 collected 4375 from side pot 1
+*** SUMMARY ***
+Total pot 63050 | No rake
+Board: [6s 5h 8d Qh 6c]
+Seat 1: caro1209 (button) showed [9s 9d] and won 4375 with Two pairs : 9 and 6
+Seat 5: Wiwitheking showed [8c Kh] and lost with Two pairs : 8 and 6
+Seat 8: Zainou26 showed [8h 8s] and won 58675 with Full of 8 and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3052594176806879712-18-1700336036 - Holdem no limit (40/175/350) - 2023/11/18 19:33:56 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #2 is the button
+Seat 1: caro1209 (4375)
+Seat 2: P1xel7 (18740)
+Seat 3: dove84 (26765)
+Seat 4: lolo348 (57565)
+Seat 6: eugeniusz 7 (110527)
+Seat 7: Adik_G (23942)
+Seat 8: Zainou26 (58675)
+*** ANTE/BLINDS ***
+dove84 posts ante 40
+lolo348 posts ante 40
+caro1209 posts ante 40
+P1xel7 posts ante 40
+eugeniusz 7 posts ante 40
+Adik_G posts ante 40
+Zainou26 posts ante 40
+dove84 posts small blind 175
+lolo348 posts big blind 350
+Dealt to P1xel7 [Ts 6c]
+*** PRE-FLOP *** 
+eugeniusz 7 raises 350 to 700
+Adik_G folds
+Zainou26 calls 700
+caro1209 folds
+P1xel7 folds
+dove84 calls 525
+lolo348 calls 350
+*** FLOP *** [7s 9d 6h]
+dove84 checks
+lolo348 bets 350
+eugeniusz 7 calls 350
+Zainou26 calls 350
+dove84 calls 350
+*** TURN *** [7s 9d 6h][5s]
+dove84 bets 1050
+lolo348 calls 1050
+eugeniusz 7 folds
+Zainou26 folds
+*** RIVER *** [7s 9d 6h 5s][Kd]
+dove84 bets 2800
+lolo348 folds
+dove84 collected 9380 from pot
+*** SUMMARY ***
+Total pot 9380 | No rake
+Board: [7s 9d 6h 5s Kd]
+Seat 3: dove84 (small blind) won 9380
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3052594176806879712-19-1700336132 - Holdem no limit (40/175/350) - 2023/11/18 19:35:32 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #3 is the button
+Seat 1: caro1209 (4335)
+Seat 2: P1xel7 (18700)
+Seat 3: dove84 (31205)
+Seat 4: lolo348 (55425)
+Seat 5: francky 3 (20000)
+Seat 6: eugeniusz 7 (109437)
+Seat 7: Adik_G (23902)
+Seat 8: Zainou26 (57585)
+*** ANTE/BLINDS ***
+lolo348 posts ante 40
+francky 3 posts ante 40
+caro1209 posts ante 40
+P1xel7 posts ante 40
+dove84 posts ante 40
+eugeniusz 7 posts ante 40
+Adik_G posts ante 40
+Zainou26 posts ante 40
+lolo348 posts small blind 175
+francky 3 posts big blind 350
+Dealt to P1xel7 [3c Kh]
+*** PRE-FLOP *** 
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 folds
+caro1209 raises 3945 to 4295 and is all-in
+P1xel7 folds
+dove84 folds
+lolo348 folds
+francky 3 folds
+caro1209 collected 5140 from pot
+*** SUMMARY ***
+Total pot 5140 | No rake
+Seat 1: caro1209 won 5140
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3052594176806879712-20-1700336211 - Holdem no limit (50/200/400) - 2023/11/18 19:36:51 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #4 is the button
+Seat 1: caro1209 (5140)
+Seat 2: P1xel7 (18660)
+Seat 3: dove84 (31165)
+Seat 4: lolo348 (55210)
+Seat 5: francky 3 (19610)
+Seat 6: eugeniusz 7 (109397)
+Seat 7: Adik_G (23862)
+Seat 8: Zainou26 (57545)
+*** ANTE/BLINDS ***
+francky 3 posts ante 50
+eugeniusz 7 posts ante 50
+caro1209 posts ante 50
+P1xel7 posts ante 50
+dove84 posts ante 50
+lolo348 posts ante 50
+Adik_G posts ante 50
+Zainou26 posts ante 50
+francky 3 posts small blind 200
+eugeniusz 7 posts big blind 400
+Dealt to P1xel7 [Qd 9h]
+*** PRE-FLOP *** 
+Adik_G folds
+Zainou26 folds
+caro1209 calls 400
+P1xel7 calls 400
+dove84 calls 400
+lolo348 calls 400
+francky 3 folds
+eugeniusz 7 checks
+*** FLOP *** [Th 8h 8s]
+eugeniusz 7 bets 400
+caro1209 raises 400 to 800
+P1xel7 folds
+dove84 calls 800
+lolo348 folds
+eugeniusz 7 calls 400
+*** TURN *** [Th 8h 8s][9s]
+eugeniusz 7 checks
+caro1209 bets 1750
+dove84 calls 1750
+eugeniusz 7 calls 1750
+*** RIVER *** [Th 8h 8s 9s][4h]
+eugeniusz 7 checks
+caro1209 bets 2140 and is all-in
+dove84 calls 2140
+eugeniusz 7 calls 2140
+*** SHOW DOWN ***
+dove84 shows [As 4s] (Two pairs : 8 and 4)
+eugeniusz 7 shows [Ts 5h] (Two pairs : Tens and 8)
+caro1209 shows [8d Kd] (Trips of 8)
+caro1209 collected 16670 from pot
+*** SUMMARY ***
+Total pot 16670 | No rake
+Board: [Th 8h 8s 9s 4h]
+Seat 1: caro1209 showed [8d Kd] and won 16670 with Trips of 8
+Seat 3: dove84 showed [As 4s] and lost with Two pairs : 8 and 4
+Seat 6: eugeniusz 7 (big blind) showed [Ts 5h] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3052594176806879712-21-1700336305 - Holdem no limit (60/250/500) - 2023/11/18 19:38:25 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #5 is the button
+Seat 1: caro1209 (16670)
+Seat 2: P1xel7 (18210)
+Seat 3: dove84 (26025)
+Seat 4: lolo348 (54760)
+Seat 5: francky 3 (19360)
+Seat 6: eugeniusz 7 (104257)
+Seat 7: Adik_G (23812)
+Seat 8: Zainou26 (57495)
+*** ANTE/BLINDS ***
+eugeniusz 7 posts ante 60
+Adik_G posts ante 60
+caro1209 posts ante 60
+P1xel7 posts ante 60
+dove84 posts ante 60
+lolo348 posts ante 60
+francky 3 posts ante 60
+Zainou26 posts ante 60
+eugeniusz 7 posts small blind 250
+Adik_G posts big blind 500
+Dealt to P1xel7 [4h 6d]
+*** PRE-FLOP *** 
+Zainou26 folds
+caro1209 calls 500
+P1xel7 folds
+dove84 calls 500
+lolo348 folds
+francky 3 folds
+eugeniusz 7 calls 250
+Adik_G checks
+*** FLOP *** [2s 7h 2h]
+eugeniusz 7 checks
+Adik_G checks
+caro1209 checks
+dove84 checks
+*** TURN *** [2s 7h 2h][7c]
+eugeniusz 7 checks
+Adik_G checks
+caro1209 checks
+dove84 checks
+*** RIVER *** [2s 7h 2h 7c][Tc]
+eugeniusz 7 bets 500
+Adik_G calls 500
+caro1209 folds
+dove84 calls 500
+*** SHOW DOWN ***
+dove84 shows [3h Ad] (Two pairs : 7 and 2)
+Adik_G shows [9h As] (Two pairs : 7 and 2)
+eugeniusz 7 shows [Js Th] (Two pairs : Tens and 7)
+eugeniusz 7 collected 3980 from pot
+*** SUMMARY ***
+Total pot 3980 | No rake
+Board: [2s 7h 2h 7c Tc]
+Seat 3: dove84 showed [3h Ad] and lost with Two pairs : 7 and 2
+Seat 6: eugeniusz 7 (small blind) showed [Js Th] and won 3980 with Two pairs : Tens and 7
+Seat 7: Adik_G (big blind) showed [9h As] and lost with Two pairs : 7 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3052594176806879712-22-1700336386 - Holdem no limit (60/250/500) - 2023/11/18 19:39:46 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #6 is the button
+Seat 1: caro1209 (16110)
+Seat 2: P1xel7 (18150)
+Seat 3: dove84 (24965)
+Seat 4: lolo348 (54700)
+Seat 5: francky 3 (19300)
+Seat 6: eugeniusz 7 (107177)
+Seat 7: Adik_G (22752)
+Seat 8: Zainou26 (57435)
+*** ANTE/BLINDS ***
+Adik_G posts ante 60
+Zainou26 posts ante 60
+caro1209 posts ante 60
+P1xel7 posts ante 60
+dove84 posts ante 60
+lolo348 posts ante 60
+francky 3 posts ante 60
+eugeniusz 7 posts ante 60
+Adik_G posts small blind 250
+Zainou26 posts big blind 500
+Dealt to P1xel7 [2h Js]
+*** PRE-FLOP *** 
+caro1209 folds
+P1xel7 folds
+dove84 calls 500
+lolo348 calls 500
+francky 3 calls 500
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 checks
+*** FLOP *** [7d 6d 6c]
+Zainou26 checks
+dove84 checks
+lolo348 checks
+francky 3 checks
+*** TURN *** [7d 6d 6c][Qc]
+Zainou26 checks
+dove84 bets 500
+lolo348 raises 981 to 1481
+francky 3 folds
+Zainou26 folds
+dove84 folds
+lolo348 collected 4711 from pot
+*** SUMMARY ***
+Total pot 4711 | No rake
+Board: [7d 6d 6c Qc]
+Seat 4: lolo348 won 4711
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3052594176806879712-23-1700336462 - Holdem no limit (70/300/600) - 2023/11/18 19:41:02 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #7 is the button
+Seat 1: caro1209 (16050)
+Seat 2: P1xel7 (18090)
+Seat 3: dove84 (23905)
+Seat 4: lolo348 (57370)
+Seat 5: francky 3 (18740)
+Seat 6: eugeniusz 7 (107117)
+Seat 7: Adik_G (22442)
+Seat 8: Zainou26 (56875)
+*** ANTE/BLINDS ***
+Zainou26 posts ante 70
+caro1209 posts ante 70
+P1xel7 posts ante 70
+dove84 posts ante 70
+lolo348 posts ante 70
+francky 3 posts ante 70
+eugeniusz 7 posts ante 70
+Adik_G posts ante 70
+Zainou26 posts small blind 300
+caro1209 posts big blind 600
+Dealt to P1xel7 [8d 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+dove84 calls 600
+lolo348 calls 600
+francky 3 calls 600
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 calls 300
+caro1209 checks
+*** FLOP *** [4d 8s 4c]
+Zainou26 checks
+caro1209 checks
+dove84 bets 600
+lolo348 folds
+francky 3 folds
+Zainou26 calls 600
+caro1209 folds
+*** TURN *** [4d 8s 4c][8c]
+Zainou26 checks
+dove84 bets 1800
+Zainou26 calls 1800
+*** RIVER *** [4d 8s 4c 8c][6h]
+Zainou26 checks
+dove84 bets 5400
+Zainou26 calls 5400
+*** SHOW DOWN ***
+Zainou26 shows [4s Qd] (Full of 4 and 8)
+dove84 shows [Ad 8h] (Full of 8 and 4)
+dove84 collected 19160 from pot
+*** SUMMARY ***
+Total pot 19160 | No rake
+Board: [4d 8s 4c 8c 6h]
+Seat 3: dove84 showed [Ad 8h] and won 19160 with Full of 8 and 4
+Seat 8: Zainou26 (small blind) showed [4s Qd] and lost with Full of 4 and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #3052594176806879712-24-1700336594 - Holdem no limit (70/300/600) - 2023/11/18 19:43:14 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #8 is the button
+Seat 1: caro1209 (15380)
+Seat 2: P1xel7 (18020)
+Seat 3: dove84 (34595)
+Seat 4: lolo348 (56700)
+Seat 5: francky 3 (18070)
+Seat 6: eugeniusz 7 (107047)
+Seat 7: Adik_G (22372)
+Seat 8: Zainou26 (48405)
+*** ANTE/BLINDS ***
+caro1209 posts ante 70
+P1xel7 posts ante 70
+dove84 posts ante 70
+lolo348 posts ante 70
+francky 3 posts ante 70
+eugeniusz 7 posts ante 70
+Adik_G posts ante 70
+Zainou26 posts ante 70
+caro1209 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [5c As]
+*** PRE-FLOP *** 
+dove84 calls 600
+lolo348 folds
+francky 3 folds
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 raises 1200 to 1800
+caro1209 folds
+P1xel7 calls 1200
+dove84 calls 1200
+*** FLOP *** [6s Kc Jc]
+P1xel7 checks
+dove84 checks
+Zainou26 bets 6260
+P1xel7 folds
+dove84 folds
+Zainou26 collected 12520 from pot
+*** SUMMARY ***
+Total pot 12520 | No rake
+Board: [6s Kc Jc]
+Seat 8: Zainou26 (button) won 12520
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3052594176806879712-25-1700336648 - Holdem no limit (80/350/700) - 2023/11/18 19:44:08 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #1 is the button
+Seat 1: caro1209 (15010)
+Seat 2: P1xel7 (16150)
+Seat 3: dove84 (32725)
+Seat 4: lolo348 (56630)
+Seat 5: francky 3 (18000)
+Seat 6: eugeniusz 7 (106977)
+Seat 7: Adik_G (22302)
+Seat 8: Zainou26 (52795)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+dove84 posts ante 80
+caro1209 posts ante 80
+lolo348 posts ante 80
+francky 3 posts ante 80
+eugeniusz 7 posts ante 80
+Adik_G posts ante 80
+Zainou26 posts ante 80
+P1xel7 posts small blind 350
+dove84 posts big blind 700
+Dealt to P1xel7 [4h 6c]
+*** PRE-FLOP *** 
+lolo348 folds
+francky 3 folds
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 folds
+caro1209 folds
+P1xel7 folds
+dove84 collected 1690 from pot
+*** SUMMARY ***
+Total pot 1690 | No rake
+Seat 3: dove84 (big blind) won 1690
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3052594176806879712-26-1700336708 - Holdem no limit (80/350/700) - 2023/11/18 19:45:08 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #2 is the button
+Seat 1: caro1209 (14930)
+Seat 2: P1xel7 (15720)
+Seat 3: dove84 (33635)
+Seat 4: lolo348 (56550)
+Seat 5: francky 3 (17920)
+Seat 6: eugeniusz 7 (106897)
+Seat 7: Adik_G (22222)
+Seat 8: Zainou26 (52715)
+*** ANTE/BLINDS ***
+dove84 posts ante 80
+lolo348 posts ante 80
+caro1209 posts ante 80
+P1xel7 posts ante 80
+francky 3 posts ante 80
+eugeniusz 7 posts ante 80
+Adik_G posts ante 80
+Zainou26 posts ante 80
+dove84 posts small blind 350
+lolo348 posts big blind 700
+Dealt to P1xel7 [Ts 2d]
+*** PRE-FLOP *** 
+francky 3 calls 700
+eugeniusz 7 raises 700 to 1400
+Adik_G folds
+Zainou26 folds
+caro1209 folds
+P1xel7 folds
+dove84 calls 1050
+lolo348 calls 700
+francky 3 calls 700
+*** FLOP *** [9s Kc 5h]
+dove84 checks
+lolo348 checks
+francky 3 checks
+eugeniusz 7 checks
+*** TURN *** [9s Kc 5h][6c]
+dove84 bets 1400
+lolo348 folds
+francky 3 folds
+eugeniusz 7 folds
+dove84 collected 7640 from pot
+*** SUMMARY ***
+Total pot 7640 | No rake
+Board: [9s Kc 5h 6c]
+Seat 3: dove84 (small blind) won 7640
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3052594176806879712-27-1700336774 - Holdem no limit (100/400/800) - 2023/11/18 19:46:14 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #3 is the button
+Seat 1: caro1209 (14850)
+Seat 2: P1xel7 (15640)
+Seat 3: dove84 (38395)
+Seat 4: lolo348 (55070)
+Seat 5: francky 3 (16440)
+Seat 6: eugeniusz 7 (105417)
+Seat 7: Adik_G (22142)
+Seat 8: Zainou26 (52635)
+*** ANTE/BLINDS ***
+lolo348 posts ante 100
+francky 3 posts ante 100
+caro1209 posts ante 100
+P1xel7 posts ante 100
+dove84 posts ante 100
+eugeniusz 7 posts ante 100
+Adik_G posts ante 100
+Zainou26 posts ante 100
+lolo348 posts small blind 400
+francky 3 posts big blind 800
+Dealt to P1xel7 [4h 5s]
+*** PRE-FLOP *** 
+eugeniusz 7 folds
+Adik_G raises 800 to 1600
+Zainou26 folds
+caro1209 folds
+P1xel7 folds
+dove84 calls 1600
+lolo348 calls 1200
+francky 3 raises 14740 to 16340 and is all-in
+Adik_G folds
+dove84 folds
+lolo348 calls 14740
+*** FLOP *** [Kd 2d 7d]
+*** TURN *** [Kd 2d 7d][7h]
+*** RIVER *** [Kd 2d 7d 7h][3h]
+*** SHOW DOWN ***
+francky 3 shows [Jd 8c] (One pair : 7)
+lolo348 shows [8d Ah] (One pair : 7)
+lolo348 collected 36680 from pot
+*** SUMMARY ***
+Total pot 36680 | No rake
+Board: [Kd 2d 7d 7h 3h]
+Seat 4: lolo348 (small blind) showed [8d Ah] and won 36680 with One pair : 7
+Seat 5: francky 3 (big blind) showed [Jd 8c] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3052594176806879712-28-1700336825 - Holdem no limit (100/400/800) - 2023/11/18 19:47:05 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #4 is the button
+Seat 1: caro1209 (14750)
+Seat 2: P1xel7 (15540)
+Seat 3: dove84 (36695)
+Seat 4: lolo348 (75310)
+Seat 6: eugeniusz 7 (105317)
+Seat 7: Adik_G (20442)
+Seat 8: Zainou26 (52535)
+*** ANTE/BLINDS ***
+eugeniusz 7 posts ante 100
+caro1209 posts ante 100
+P1xel7 posts ante 100
+dove84 posts ante 100
+lolo348 posts ante 100
+Adik_G posts ante 100
+Zainou26 posts ante 100
+eugeniusz 7 posts big blind 800
+Dealt to P1xel7 [2c Jc]
+*** PRE-FLOP *** 
+Adik_G folds
+Zainou26 folds
+caro1209 folds
+P1xel7 folds
+dove84 calls 800
+lolo348 calls 800
+eugeniusz 7 checks
+*** FLOP *** [6h Jd 2d]
+eugeniusz 7 bets 800
+dove84 calls 800
+lolo348 folds
+*** TURN *** [6h Jd 2d][Jh]
+eugeniusz 7 bets 4700
+dove84 folds
+eugeniusz 7 collected 9400 from pot
+*** SUMMARY ***
+Total pot 9400 | No rake
+Board: [6h Jd 2d Jh]
+Seat 6: eugeniusz 7 (big blind) won 9400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3052594176806879712-29-1700336889 - Holdem no limit (100/400/800) - 2023/11/18 19:48:09 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #5 is the button
+Seat 1: caro1209 (14650)
+Seat 2: P1xel7 (15440)
+Seat 3: dove84 (34995)
+Seat 4: lolo348 (74410)
+Seat 5: Vanreaksmey (20000)
+Seat 6: eugeniusz 7 (108317)
+Seat 7: Adik_G (20342)
+Seat 8: Zainou26 (52435)
+*** ANTE/BLINDS ***
+eugeniusz 7 posts ante 100
+Adik_G posts ante 100
+caro1209 posts ante 100
+P1xel7 posts ante 100
+dove84 posts ante 100
+lolo348 posts ante 100
+Zainou26 posts ante 100
+eugeniusz 7 posts small blind 400
+Adik_G posts big blind 800
+Dealt to P1xel7 [9d Qs]
+*** PRE-FLOP *** 
+Zainou26 folds
+caro1209 raises 1600 to 2400
+P1xel7 folds
+dove84 folds
+lolo348 folds
+eugeniusz 7 folds
+Adik_G folds
+caro1209 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | No rake
+Seat 1: caro1209 won 4300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3052594176806879712-30-1700336914 - Holdem no limit (120/500/1000) - 2023/11/18 19:48:34 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #6 is the button
+Seat 1: caro1209 (16450)
+Seat 2: P1xel7 (15340)
+Seat 3: dove84 (34895)
+Seat 4: lolo348 (74310)
+Seat 5: Vanreaksmey (20000)
+Seat 6: eugeniusz 7 (107817)
+Seat 7: Adik_G (19442)
+Seat 8: Zainou26 (52335)
+*** ANTE/BLINDS ***
+Adik_G posts ante 120
+Zainou26 posts ante 120
+caro1209 posts ante 120
+P1xel7 posts ante 120
+dove84 posts ante 120
+lolo348 posts ante 120
+Vanreaksmey posts ante 120
+eugeniusz 7 posts ante 120
+Adik_G posts small blind 500
+Zainou26 posts big blind 1000
+Dealt to P1xel7 [6d 9c]
+*** PRE-FLOP *** 
+caro1209 folds
+P1xel7 folds
+dove84 calls 1000
+lolo348 folds
+Vanreaksmey calls 1000
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 checks
+*** FLOP *** [Ac 8h Kd]
+Zainou26 checks
+dove84 bets 1000
+Vanreaksmey folds
+Zainou26 folds
+dove84 collected 5460 from pot
+*** SUMMARY ***
+Total pot 5460 | No rake
+Board: [Ac 8h Kd]
+Seat 3: dove84 won 5460
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3052594176806879712-31-1700336985 - Holdem no limit (120/500/1000) - 2023/11/18 19:49:45 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #7 is the button
+Seat 1: caro1209 (16330)
+Seat 2: P1xel7 (15220)
+Seat 3: dove84 (38235)
+Seat 4: lolo348 (74190)
+Seat 5: Vanreaksmey (18880)
+Seat 6: eugeniusz 7 (107697)
+Seat 7: Adik_G (18822)
+Seat 8: Zainou26 (51215)
+*** ANTE/BLINDS ***
+Zainou26 posts ante 120
+caro1209 posts ante 120
+P1xel7 posts ante 120
+dove84 posts ante 120
+lolo348 posts ante 120
+Vanreaksmey posts ante 120
+eugeniusz 7 posts ante 120
+Adik_G posts ante 120
+Zainou26 posts small blind 500
+caro1209 posts big blind 1000
+Dealt to P1xel7 [Qs 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+dove84 calls 1000
+lolo348 folds
+Vanreaksmey raises 1500 to 2500
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 folds
+caro1209 calls 1500
+dove84 calls 1500
+*** FLOP *** [7s 7h 7c]
+caro1209 bets 13710 and is all-in
+dove84 folds
+Vanreaksmey folds
+caro1209 collected 22670 from pot
+*** SUMMARY ***
+Total pot 22670 | No rake
+Board: [7s 7h 7c]
+Seat 1: caro1209 (big blind) won 22670
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3052594176806879712-32-1700337022 - Holdem no limit (120/500/1000) - 2023/11/18 19:50:22 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #8 is the button
+Seat 1: caro1209 (22670)
+Seat 2: P1xel7 (15100)
+Seat 3: dove84 (35615)
+Seat 4: lolo348 (74070)
+Seat 5: Vanreaksmey (16260)
+Seat 6: eugeniusz 7 (107577)
+Seat 7: Adik_G (18702)
+Seat 8: Zainou26 (50595)
+*** ANTE/BLINDS ***
+caro1209 posts ante 120
+P1xel7 posts ante 120
+dove84 posts ante 120
+lolo348 posts ante 120
+Vanreaksmey posts ante 120
+eugeniusz 7 posts ante 120
+Adik_G posts ante 120
+Zainou26 posts ante 120
+caro1209 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Jc Tc]
+*** PRE-FLOP *** 
+dove84 calls 1000
+lolo348 calls 1000
+Vanreaksmey folds
+eugeniusz 7 calls 1000
+Adik_G folds
+Zainou26 calls 1000
+caro1209 calls 500
+P1xel7 checks
+*** FLOP *** [Qh Ks 9c]
+caro1209 checks
+P1xel7 checks
+dove84 checks
+lolo348 checks
+eugeniusz 7 checks
+Zainou26 checks
+*** TURN *** [Qh Ks 9c][2h]
+caro1209 checks
+P1xel7 bets 2436
+dove84 folds
+lolo348 folds
+eugeniusz 7 folds
+Zainou26 folds
+caro1209 folds
+P1xel7 collected 9396 from pot
+*** SUMMARY ***
+Total pot 9396 | No rake
+Board: [Qh Ks 9c 2h]
+Seat 2: P1xel7 (big blind) won 9396
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3052594176806879712-33-1700337087 - Holdem no limit (140/600/1200) - 2023/11/18 19:51:27 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #1 is the button
+Seat 1: caro1209 (21550)
+Seat 2: P1xel7 (20940)
+Seat 3: dove84 (34495)
+Seat 4: lolo348 (72950)
+Seat 5: Vanreaksmey (16140)
+Seat 6: eugeniusz 7 (106457)
+Seat 7: Adik_G (18582)
+Seat 8: Zainou26 (49475)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+dove84 posts ante 140
+caro1209 posts ante 140
+lolo348 posts ante 140
+Vanreaksmey posts ante 140
+eugeniusz 7 posts ante 140
+Adik_G posts ante 140
+Zainou26 posts ante 140
+P1xel7 posts small blind 600
+dove84 posts big blind 1200
+Dealt to P1xel7 [8s Kh]
+*** PRE-FLOP *** 
+lolo348 folds
+Vanreaksmey folds
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 raises 2400 to 3600
+caro1209 folds
+P1xel7 folds
+dove84 folds
+Zainou26 collected 6520 from pot
+*** SUMMARY ***
+Total pot 6520 | No rake
+Seat 8: Zainou26 won 6520
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3052594176806879712-34-1700337114 - Holdem no limit (140/600/1200) - 2023/11/18 19:51:54 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #2 is the button
+Seat 1: caro1209 (21410)
+Seat 2: P1xel7 (20200)
+Seat 3: dove84 (33155)
+Seat 4: lolo348 (72810)
+Seat 5: Vanreaksmey (16000)
+Seat 6: eugeniusz 7 (106317)
+Seat 7: Adik_G (18442)
+Seat 8: Zainou26 (52255)
+*** ANTE/BLINDS ***
+dove84 posts ante 140
+lolo348 posts ante 140
+caro1209 posts ante 140
+P1xel7 posts ante 140
+Vanreaksmey posts ante 140
+eugeniusz 7 posts ante 140
+Adik_G posts ante 140
+Zainou26 posts ante 140
+dove84 posts small blind 600
+lolo348 posts big blind 1200
+Dealt to P1xel7 [5c 5d]
+*** PRE-FLOP *** 
+Vanreaksmey raises 1800 to 3000
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 folds
+caro1209 folds
+P1xel7 raises 17060 to 20060 and is all-in
+dove84 folds
+lolo348 folds
+Vanreaksmey calls 12860 and is all-in
+*** FLOP *** [3c 8s 9c]
+*** TURN *** [3c 8s 9c][9h]
+*** RIVER *** [3c 8s 9c 9h][8h]
+*** SHOW DOWN ***
+P1xel7 shows [5c 5d] (Two pairs : 9 and 8)
+Vanreaksmey shows [Ad Kc] (Two pairs : 9 and 8)
+Vanreaksmey collected 34640 from main pot
+P1xel7 collected 4200 from side pot 1
+*** SUMMARY ***
+Total pot 38840 | No rake
+Board: [3c 8s 9c 9h 8h]
+Seat 2: P1xel7 (button) showed [5c 5d] and won 4200 with Two pairs : 9 and 8
+Seat 5: Vanreaksmey showed [Ad Kc] and won 34640 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3052594176806879712-35-1700337151 - Holdem no limit (140/600/1200) - 2023/11/18 19:52:31 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #3 is the button
+Seat 1: caro1209 (21270)
+Seat 2: P1xel7 (4200)
+Seat 3: dove84 (32415)
+Seat 4: lolo348 (71470)
+Seat 5: Vanreaksmey (34640)
+Seat 6: eugeniusz 7 (106177)
+Seat 7: Adik_G (18302)
+Seat 8: Zainou26 (52115)
+*** ANTE/BLINDS ***
+lolo348 posts ante 140
+Vanreaksmey posts ante 140
+caro1209 posts ante 140
+P1xel7 posts ante 140
+dove84 posts ante 140
+eugeniusz 7 posts ante 140
+Adik_G posts ante 140
+Zainou26 posts ante 140
+lolo348 posts small blind 600
+Vanreaksmey posts big blind 1200
+Dealt to P1xel7 [Jc Td]
+*** PRE-FLOP *** 
+eugeniusz 7 folds
+Adik_G folds
+Zainou26 raises 1800 to 3000
+caro1209 folds
+P1xel7 folds
+dove84 folds
+lolo348 calls 2400
+Vanreaksmey calls 1800
+*** FLOP *** [9c 7d 2s]
+lolo348 checks
+Vanreaksmey checks
+Zainou26 checks
+*** TURN *** [9c 7d 2s][Js]
+lolo348 checks
+Vanreaksmey checks
+Zainou26 bets 6578
+lolo348 folds
+Vanreaksmey folds
+Zainou26 collected 16698 from pot
+*** SUMMARY ***
+Total pot 16698 | No rake
+Board: [9c 7d 2s Js]
+Seat 8: Zainou26 won 16698
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3052594176806879712-36-1700337204 - Holdem no limit (160/700/1400) - 2023/11/18 19:53:24 UTC
+Table: 'Freeroll(710737467)#0479' 8-max (real money) Seat #4 is the button
+Seat 1: caro1209 (21130)
+Seat 2: P1xel7 (4060)
+Seat 3: dove84 (32275)
+Seat 4: lolo348 (68330)
+Seat 5: Vanreaksmey (31500)
+Seat 6: eugeniusz 7 (106037)
+Seat 7: Adik_G (18162)
+Seat 8: Zainou26 (59095)
+*** ANTE/BLINDS ***
+Vanreaksmey posts ante 160
+eugeniusz 7 posts ante 160
+caro1209 posts ante 160
+P1xel7 posts ante 160
+dove84 posts ante 160
+lolo348 posts ante 160
+Adik_G posts ante 160
+Zainou26 posts ante 160
+Vanreaksmey posts small blind 700
+eugeniusz 7 posts big blind 1400
+Dealt to P1xel7 [Kc 8c]
+*** PRE-FLOP *** 
+Adik_G folds
+Zainou26 folds
+caro1209 folds
+P1xel7 raises 2500 to 3900 and is all-in
+dove84 calls 3900
+lolo348 calls 3900
+Vanreaksmey folds
+eugeniusz 7 raises 7800 to 11700
+dove84 folds
+lolo348 raises 56470 to 68170 and is all-in
+eugeniusz 7 raises 37707 to 105877 and is all-in
+*** FLOP *** [7d 8s Qd]
+*** TURN *** [7d 8s Qd][Kd]
+*** RIVER *** [7d 8s Qd Kd][9s]
+*** SHOW DOWN ***
+P1xel7 shows [Kc 8c] (Two pairs : Kings and 8)
+lolo348 shows [Kh Qs] (Two pairs : Kings and Queens)
+eugeniusz 7 shows [As Ah] (One pair : Aces)
+eugeniusz 7 collected 37707 from side pot 1
+lolo348 collected 146120 from main pot
+*** SUMMARY ***
+Total pot 183827 | No rake
+Board: [7d 8s Qd Kd 9s]
+Seat 2: P1xel7 showed [Kc 8c] and lost with Two pairs : Kings and 8
+Seat 4: lolo348 (button) showed [Kh Qs] and won 146120 with Two pairs : Kings and Queens
+Seat 6: eugeniusz 7 (big blind) showed [As Ah] and won 37707 with One pair : Aces
+
+

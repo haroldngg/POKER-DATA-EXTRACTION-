@@ -1,0 +1,1337 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3046101895652311064-22-1699978850 - Holdem no limit (50/200/400) - 2023/11/14 16:20:50 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #2 is the button
+Seat 1: macflydu33 (98622, 0.71€ bounty)
+Seat 2: CRAZY CZ (42016, 0.22€ bounty)
+Seat 3: Poutcheck13 (21250, 0.22€ bounty)
+Seat 4: KcallAk (15781, 0.22€ bounty)
+Seat 5: P1xel7 (20000, 0.22€ bounty)
+Seat 6: Le Chaudron (22331, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Poutcheck13 posts ante 50
+KcallAk posts ante 50
+macflydu33 posts ante 50
+CRAZY CZ posts ante 50
+P1xel7 posts ante 50
+Le Chaudron posts ante 50
+Poutcheck13 posts small blind 200
+KcallAk posts big blind 400
+Dealt to P1xel7 [4s 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le Chaudron calls 400
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 calls 200
+KcallAk checks
+*** FLOP *** [7d Ks Kd]
+Poutcheck13 checks
+KcallAk checks
+Le Chaudron checks
+*** TURN *** [7d Ks Kd][3d]
+Poutcheck13 checks
+KcallAk checks
+Le Chaudron checks
+*** RIVER *** [7d Ks Kd 3d][4h]
+Poutcheck13 bets 975
+KcallAk folds
+Le Chaudron folds
+Poutcheck13 collected 2475 from pot
+*** SUMMARY ***
+Total pot 2475 | No rake
+Board: [7d Ks Kd 3d 4h]
+Seat 3: Poutcheck13 (small blind) won 2475
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3046101895652311064-23-1699978911 - Holdem no limit (60/250/500) - 2023/11/14 16:21:51 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #3 is the button
+Seat 1: macflydu33 (98572, 0.71€ bounty)
+Seat 2: CRAZY CZ (41966, 0.22€ bounty)
+Seat 3: Poutcheck13 (22300, 0.22€ bounty)
+Seat 4: KcallAk (15331, 0.22€ bounty)
+Seat 5: P1xel7 (19950, 0.22€ bounty)
+Seat 6: Le Chaudron (21881, 0.22€ bounty)
+*** ANTE/BLINDS ***
+KcallAk posts ante 60
+P1xel7 posts ante 60
+macflydu33 posts ante 60
+CRAZY CZ posts ante 60
+Poutcheck13 posts ante 60
+Le Chaudron posts ante 60
+KcallAk posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [5h 5s]
+*** PRE-FLOP *** 
+Le Chaudron folds
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 folds
+KcallAk raises 600 to 1100
+P1xel7 calls 600
+*** FLOP *** [Qd 4d 4c]
+KcallAk checks
+P1xel7 bets 1280
+KcallAk calls 1280
+*** TURN *** [Qd 4d 4c][Ts]
+KcallAk checks
+P1xel7 bets 1792
+KcallAk folds
+P1xel7 collected 6912 from pot
+*** SUMMARY ***
+Total pot 6912 | No rake
+Board: [Qd 4d 4c Ts]
+Seat 5: P1xel7 (big blind) won 6912
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3046101895652311064-24-1699978958 - Holdem no limit (60/250/500) - 2023/11/14 16:22:38 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #4 is the button
+Seat 1: macflydu33 (98512, 0.71€ bounty)
+Seat 2: CRAZY CZ (41906, 0.22€ bounty)
+Seat 3: Poutcheck13 (22240, 0.22€ bounty)
+Seat 4: KcallAk (12891, 0.22€ bounty)
+Seat 5: P1xel7 (22630, 0.22€ bounty)
+Seat 6: Le Chaudron (21821, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+Le Chaudron posts ante 60
+macflydu33 posts ante 60
+CRAZY CZ posts ante 60
+Poutcheck13 posts ante 60
+KcallAk posts ante 60
+P1xel7 posts small blind 250
+Le Chaudron posts big blind 500
+Dealt to P1xel7 [5c 9d]
+*** PRE-FLOP *** 
+macflydu33 calls 500
+CRAZY CZ folds
+Poutcheck13 folds
+KcallAk calls 500
+P1xel7 folds
+Le Chaudron checks
+*** FLOP *** [8c Tc 9s]
+Le Chaudron checks
+macflydu33 checks
+KcallAk checks
+*** TURN *** [8c Tc 9s][8h]
+Le Chaudron checks
+macflydu33 checks
+KcallAk checks
+*** RIVER *** [8c Tc 9s 8h][Th]
+Le Chaudron checks
+macflydu33 checks
+KcallAk checks
+*** SHOW DOWN ***
+macflydu33 shows [3h 3s] (Two pairs : Tens and 8)
+Le Chaudron shows [4d 5d] (Two pairs : Tens and 8)
+KcallAk shows [6h As] (Two pairs : Tens and 8)
+KcallAk collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Board: [8c Tc 9s 8h Th]
+Seat 1: macflydu33 showed [3h 3s] and lost with Two pairs : Tens and 8
+Seat 4: KcallAk (button) showed [6h As] and won 2110 with Two pairs : Tens and 8
+Seat 6: Le Chaudron (big blind) showed [4d 5d] and lost with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3046101895652311064-25-1699979008 - Holdem no limit (60/250/500) - 2023/11/14 16:23:28 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #5 is the button
+Seat 1: macflydu33 (97952, 0.71€ bounty)
+Seat 2: CRAZY CZ (41846, 0.22€ bounty)
+Seat 3: Poutcheck13 (22180, 0.22€ bounty)
+Seat 4: KcallAk (14441, 0.22€ bounty)
+Seat 5: P1xel7 (22320, 0.22€ bounty)
+Seat 6: Le Chaudron (21261, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Le Chaudron posts ante 60
+macflydu33 posts ante 60
+CRAZY CZ posts ante 60
+Poutcheck13 posts ante 60
+KcallAk posts ante 60
+P1xel7 posts ante 60
+Le Chaudron posts small blind 250
+macflydu33 posts big blind 500
+Dealt to P1xel7 [Js Td]
+*** PRE-FLOP *** 
+CRAZY CZ folds
+Poutcheck13 raises 750 to 1250
+KcallAk folds
+P1xel7 folds
+Le Chaudron calls 1000
+macflydu33 calls 750
+*** FLOP *** [4h 2s 3h]
+Le Chaudron checks
+macflydu33 checks
+Poutcheck13 checks
+*** TURN *** [4h 2s 3h][Kc]
+Le Chaudron bets 500
+macflydu33 calls 500
+Poutcheck13 folds
+*** RIVER *** [4h 2s 3h Kc][Jh]
+Le Chaudron bets 5110
+macflydu33 calls 5110
+*** SHOW DOWN ***
+macflydu33 shows [Ks Qs] (One pair : Kings)
+Le Chaudron shows [As Ah] (One pair : Aces)
+Le Chaudron collected 15330 from pot
+*** SUMMARY ***
+Total pot 15330 | No rake
+Board: [4h 2s 3h Kc Jh]
+Seat 1: macflydu33 (big blind) showed [Ks Qs] and lost with One pair : Kings
+Seat 6: Le Chaudron (small blind) showed [As Ah] and won 15330 with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3046101895652311064-26-1699979092 - Holdem no limit (60/250/500) - 2023/11/14 16:24:52 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #6 is the button
+Seat 1: macflydu33 (91032, 0.71€ bounty)
+Seat 2: CRAZY CZ (41786, 0.22€ bounty)
+Seat 3: Poutcheck13 (20870, 0.22€ bounty)
+Seat 4: KcallAk (14381, 0.22€ bounty)
+Seat 5: P1xel7 (22260, 0.22€ bounty)
+Seat 6: Le Chaudron (29671, 0.22€ bounty)
+*** ANTE/BLINDS ***
+macflydu33 posts ante 60
+CRAZY CZ posts ante 60
+Poutcheck13 posts ante 60
+KcallAk posts ante 60
+P1xel7 posts ante 60
+Le Chaudron posts ante 60
+macflydu33 posts small blind 250
+CRAZY CZ posts big blind 500
+Dealt to P1xel7 [9d 9h]
+*** PRE-FLOP *** 
+Poutcheck13 folds
+KcallAk folds
+P1xel7 raises 1000 to 1500
+Le Chaudron folds
+macflydu33 calls 1250
+CRAZY CZ folds
+*** FLOP *** [7s 2d As]
+macflydu33 checks
+P1xel7 bets 2509
+macflydu33 calls 2509
+*** TURN *** [7s 2d As][2h]
+macflydu33 checks
+P1xel7 bets 3107
+macflydu33 calls 3107
+*** RIVER *** [7s 2d As 2h][Qs]
+macflydu33 checks
+P1xel7 checks
+*** SHOW DOWN ***
+P1xel7 shows [9d 9h] (Two pairs : 9 and 2)
+macflydu33 shows [Ah 8d] (Two pairs : Aces and 2)
+macflydu33 collected 15092 from pot
+*** SUMMARY ***
+Total pot 15092 | No rake
+Board: [7s 2d As 2h Qs]
+Seat 1: macflydu33 (small blind) showed [Ah 8d] and won 15092 with Two pairs : Aces and 2
+Seat 5: P1xel7 showed [9d 9h] and lost with Two pairs : 9 and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3046101895652311064-27-1699979128 - Holdem no limit (60/250/500) - 2023/11/14 16:25:28 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #1 is the button
+Seat 1: macflydu33 (98948, 0.71€ bounty)
+Seat 2: CRAZY CZ (41226, 0.22€ bounty)
+Seat 3: Poutcheck13 (20810, 0.22€ bounty)
+Seat 4: KcallAk (14321, 0.22€ bounty)
+Seat 5: P1xel7 (15084, 0.22€ bounty)
+Seat 6: Le Chaudron (29611, 0.22€ bounty)
+*** ANTE/BLINDS ***
+CRAZY CZ posts ante 60
+Poutcheck13 posts ante 60
+macflydu33 posts ante 60
+KcallAk posts ante 60
+P1xel7 posts ante 60
+Le Chaudron posts ante 60
+CRAZY CZ posts small blind 250
+Poutcheck13 posts big blind 500
+Dealt to P1xel7 [4s Th]
+*** PRE-FLOP *** 
+KcallAk calls 500
+P1xel7 folds
+Le Chaudron calls 500
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 checks
+*** FLOP *** [7c Ks 9c]
+Poutcheck13 checks
+KcallAk checks
+Le Chaudron checks
+*** TURN *** [7c Ks 9c][Ad]
+Poutcheck13 checks
+KcallAk checks
+Le Chaudron bets 500
+Poutcheck13 folds
+KcallAk folds
+Le Chaudron collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Board: [7c Ks 9c Ad]
+Seat 6: Le Chaudron won 2610
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3046101895652311064-28-1699979215 - Holdem no limit (70/300/600) - 2023/11/14 16:26:55 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #2 is the button
+Seat 1: macflydu33 (98888, 0.71€ bounty)
+Seat 2: CRAZY CZ (40916, 0.22€ bounty)
+Seat 3: Poutcheck13 (20250, 0.22€ bounty)
+Seat 4: KcallAk (13761, 0.22€ bounty)
+Seat 5: P1xel7 (15024, 0.22€ bounty)
+Seat 6: Le Chaudron (31161, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Poutcheck13 posts ante 70
+KcallAk posts ante 70
+macflydu33 posts ante 70
+CRAZY CZ posts ante 70
+P1xel7 posts ante 70
+Le Chaudron posts ante 70
+Poutcheck13 posts small blind 300
+KcallAk posts big blind 600
+Dealt to P1xel7 [Qs 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le Chaudron calls 600
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 folds
+KcallAk checks
+*** FLOP *** [8d As 4c]
+KcallAk checks
+Le Chaudron checks
+*** TURN *** [8d As 4c][Ks]
+KcallAk checks
+Le Chaudron checks
+*** RIVER *** [8d As 4c Ks][Qd]
+KcallAk checks
+Le Chaudron bets 1920
+KcallAk folds
+Le Chaudron collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Board: [8d As 4c Ks Qd]
+Seat 6: Le Chaudron won 3840
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3046101895652311064-29-1699979283 - Holdem no limit (70/300/600) - 2023/11/14 16:28:03 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #3 is the button
+Seat 1: macflydu33 (98818, 0.71€ bounty)
+Seat 2: CRAZY CZ (40846, 0.22€ bounty)
+Seat 3: Poutcheck13 (19880, 0.22€ bounty)
+Seat 4: KcallAk (13091, 0.22€ bounty)
+Seat 5: P1xel7 (14954, 0.22€ bounty)
+Seat 6: Le Chaudron (32411, 0.22€ bounty)
+*** ANTE/BLINDS ***
+KcallAk posts ante 70
+P1xel7 posts ante 70
+macflydu33 posts ante 70
+CRAZY CZ posts ante 70
+Poutcheck13 posts ante 70
+Le Chaudron posts ante 70
+KcallAk posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [As 2h]
+*** PRE-FLOP *** 
+Le Chaudron folds
+macflydu33 raises 900 to 1500
+CRAZY CZ folds
+Poutcheck13 folds
+KcallAk folds
+P1xel7 calls 900
+*** FLOP *** [2s Td 2c]
+P1xel7 checks
+macflydu33 bets 2418
+P1xel7 calls 2418
+*** TURN *** [2s Td 2c][Js]
+P1xel7 checks
+macflydu33 bets 5561
+P1xel7 raises 5405 to 10966 and is all-in
+macflydu33 calls 5405
+*** RIVER *** [2s Td 2c Js][6s]
+*** SHOW DOWN ***
+macflydu33 shows [Kd Jh] (Two pairs : Jacks and 2)
+P1xel7 shows [As 2h] (Trips of 2)
+P1xel7 collected 30488 from pot
+*** SUMMARY ***
+Total pot 30488 | No rake
+Board: [2s Td 2c Js 6s]
+Seat 1: macflydu33 showed [Kd Jh] and lost with Two pairs : Jacks and 2
+Seat 5: P1xel7 (big blind) showed [As 2h] and won 30488 with Trips of 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3046101895652311064-30-1699979343 - Holdem no limit (70/300/600) - 2023/11/14 16:29:03 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #4 is the button
+Seat 1: macflydu33 (83864, 0.71€ bounty)
+Seat 2: CRAZY CZ (40776, 0.22€ bounty)
+Seat 3: Poutcheck13 (19810, 0.22€ bounty)
+Seat 4: KcallAk (12721, 0.22€ bounty)
+Seat 5: P1xel7 (30488, 0.22€ bounty)
+Seat 6: Le Chaudron (32341, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Le Chaudron posts ante 70
+macflydu33 posts ante 70
+CRAZY CZ posts ante 70
+Poutcheck13 posts ante 70
+KcallAk posts ante 70
+P1xel7 posts small blind 300
+Le Chaudron posts big blind 600
+Dealt to P1xel7 [Jc 5c]
+*** PRE-FLOP *** 
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 folds
+KcallAk raises 720 to 1320
+P1xel7 folds
+Le Chaudron folds
+KcallAk collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 4: KcallAk (button) won 2640
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3046101895652311064-31-1699979358 - Holdem no limit (70/300/600) - 2023/11/14 16:29:18 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #5 is the button
+Seat 1: macflydu33 (83794, 0.71€ bounty)
+Seat 2: CRAZY CZ (40706, 0.22€ bounty)
+Seat 3: Poutcheck13 (19740, 0.22€ bounty)
+Seat 4: KcallAk (13971, 0.22€ bounty)
+Seat 5: P1xel7 (30118, 0.22€ bounty)
+Seat 6: Le Chaudron (31671, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Le Chaudron posts ante 70
+macflydu33 posts ante 70
+CRAZY CZ posts ante 70
+Poutcheck13 posts ante 70
+KcallAk posts ante 70
+P1xel7 posts ante 70
+Le Chaudron posts small blind 300
+macflydu33 posts big blind 600
+Dealt to P1xel7 [Ac 5h]
+*** PRE-FLOP *** 
+CRAZY CZ folds
+Poutcheck13 folds
+KcallAk raises 750 to 1350
+P1xel7 folds
+Le Chaudron folds
+macflydu33 calls 750
+*** FLOP *** [3h Qs 3d]
+macflydu33 checks
+KcallAk bets 1197
+macflydu33 folds
+KcallAk collected 4617 from pot
+*** SUMMARY ***
+Total pot 4617 | No rake
+Board: [3h Qs 3d]
+Seat 4: KcallAk won 4617
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3046101895652311064-32-1699979441 - Holdem no limit (70/300/600) - 2023/11/14 16:30:41 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #6 is the button
+Seat 1: macflydu33 (82374, 0.71€ bounty)
+Seat 2: CRAZY CZ (40636, 0.22€ bounty)
+Seat 3: Poutcheck13 (19670, 0.22€ bounty)
+Seat 4: KcallAk (15971, 0.22€ bounty)
+Seat 5: P1xel7 (30048, 0.22€ bounty)
+Seat 6: Le Chaudron (31301, 0.22€ bounty)
+*** ANTE/BLINDS ***
+macflydu33 posts ante 70
+CRAZY CZ posts ante 70
+Poutcheck13 posts ante 70
+KcallAk posts ante 70
+P1xel7 posts ante 70
+Le Chaudron posts ante 70
+macflydu33 posts small blind 300
+CRAZY CZ posts big blind 600
+Dealt to P1xel7 [Qc 6s]
+*** PRE-FLOP *** 
+Poutcheck13 folds
+KcallAk folds
+P1xel7 folds
+Le Chaudron calls 600
+macflydu33 folds
+CRAZY CZ checks
+*** FLOP *** [3h 4h Ad]
+CRAZY CZ checks
+Le Chaudron checks
+*** TURN *** [3h 4h Ad][5s]
+CRAZY CZ checks
+Le Chaudron bets 600
+CRAZY CZ folds
+Le Chaudron collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Board: [3h 4h Ad 5s]
+Seat 6: Le Chaudron (button) won 2520
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3046101895652311064-33-1699979499 - Holdem no limit (80/350/700) - 2023/11/14 16:31:39 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #1 is the button
+Seat 1: macflydu33 (82004, 0.71€ bounty)
+Seat 2: CRAZY CZ (39966, 0.22€ bounty)
+Seat 3: Poutcheck13 (19600, 0.22€ bounty)
+Seat 5: P1xel7 (29978, 0.22€ bounty)
+Seat 6: Le Chaudron (32551, 0.22€ bounty)
+*** ANTE/BLINDS ***
+CRAZY CZ posts ante 80
+Poutcheck13 posts ante 80
+macflydu33 posts ante 80
+P1xel7 posts ante 80
+Le Chaudron posts ante 80
+CRAZY CZ posts small blind 350
+Poutcheck13 posts big blind 700
+Dealt to P1xel7 [Td 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le Chaudron calls 700
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 checks
+*** FLOP *** [6h 7c 3d]
+Poutcheck13 bets 1398
+Le Chaudron folds
+Poutcheck13 collected 3548 from pot
+*** SUMMARY ***
+Total pot 3548 | No rake
+Board: [6h 7c 3d]
+Seat 3: Poutcheck13 (big blind) won 3548
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3046101895652311064-34-1699979529 - Holdem no limit (80/350/700) - 2023/11/14 16:32:09 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #2 is the button
+Seat 1: macflydu33 (81924, 0.71€ bounty)
+Seat 2: CRAZY CZ (39536, 0.22€ bounty)
+Seat 3: Poutcheck13 (20970, 0.22€ bounty)
+Seat 5: P1xel7 (29898, 0.22€ bounty)
+Seat 6: Le Chaudron (31771, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Poutcheck13 posts ante 80
+P1xel7 posts ante 80
+macflydu33 posts ante 80
+CRAZY CZ posts ante 80
+Le Chaudron posts ante 80
+Poutcheck13 posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [Jh Qc]
+*** PRE-FLOP *** 
+Le Chaudron folds
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 raises 1050 to 1750
+P1xel7 calls 1050
+*** FLOP *** [3c Jc 8h]
+Poutcheck13 bets 2535
+P1xel7 calls 2535
+*** TURN *** [3c Jc 8h][Js]
+Poutcheck13 checks
+P1xel7 checks
+*** RIVER *** [3c Jc 8h Js][4d]
+Poutcheck13 bets 5831
+P1xel7 raises 5831 to 11662
+Poutcheck13 folds
+P1xel7 collected 26463 from pot
+*** SUMMARY ***
+Total pot 26463 | No rake
+Board: [3c Jc 8h Js 4d]
+Seat 5: P1xel7 (big blind) won 26463
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3046101895652311064-35-1699979584 - Holdem no limit (80/350/700) - 2023/11/14 16:33:04 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #3 is the button
+Seat 1: macflydu33 (81844, 0.71€ bounty)
+Seat 2: CRAZY CZ (39456, 0.22€ bounty)
+Seat 3: Poutcheck13 (10774, 0.22€ bounty)
+Seat 4: vjhg (20000, 0.22€ bounty)
+Seat 5: P1xel7 (40334, 0.22€ bounty)
+Seat 6: Le Chaudron (31691, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Le Chaudron posts ante 80
+macflydu33 posts ante 80
+CRAZY CZ posts ante 80
+Poutcheck13 posts ante 80
+P1xel7 posts small blind 350
+Le Chaudron posts big blind 700
+Dealt to P1xel7 [3c 7s]
+*** PRE-FLOP *** 
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 folds
+P1xel7 folds
+Le Chaudron collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Seat 6: Le Chaudron (big blind) won 1450
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3046101895652311064-36-1699979610 - Holdem no limit (80/350/700) - 2023/11/14 16:33:30 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #5 is the button
+Seat 1: macflydu33 (81764, 0.71€ bounty)
+Seat 2: CRAZY CZ (39376, 0.22€ bounty)
+Seat 3: Poutcheck13 (10694, 0.22€ bounty)
+Seat 4: vjhg (20000, 0.22€ bounty)
+Seat 5: P1xel7 (39904, 0.22€ bounty)
+Seat 6: Le Chaudron (32361, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Le Chaudron posts ante 80
+macflydu33 posts ante 80
+CRAZY CZ posts ante 80
+Poutcheck13 posts ante 80
+vjhg posts ante 80
+P1xel7 posts ante 80
+Le Chaudron posts small blind 350
+macflydu33 posts big blind 700
+Dealt to P1xel7 [2d Kh]
+*** PRE-FLOP *** 
+CRAZY CZ folds
+Poutcheck13 folds
+vjhg raises 700 to 1400
+P1xel7 folds
+Le Chaudron calls 1050
+macflydu33 folds
+*** FLOP *** [8d 7s Qh]
+Le Chaudron checks
+vjhg checks
+*** TURN *** [8d 7s Qh][Jd]
+Le Chaudron checks
+vjhg bets 700
+Le Chaudron folds
+vjhg collected 4680 from pot
+*** SUMMARY ***
+Total pot 4680 | No rake
+Board: [8d 7s Qh Jd]
+Seat 4: vjhg won 4680
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3046101895652311064-37-1699979647 - Holdem no limit (80/350/700) - 2023/11/14 16:34:07 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #6 is the button
+Seat 1: macflydu33 (80984, 0.71€ bounty)
+Seat 2: CRAZY CZ (39296, 0.22€ bounty)
+Seat 3: Poutcheck13 (10614, 0.22€ bounty)
+Seat 4: vjhg (22500, 0.22€ bounty)
+Seat 5: P1xel7 (39824, 0.22€ bounty)
+Seat 6: Le Chaudron (30881, 0.22€ bounty)
+*** ANTE/BLINDS ***
+macflydu33 posts ante 80
+CRAZY CZ posts ante 80
+Poutcheck13 posts ante 80
+vjhg posts ante 80
+P1xel7 posts ante 80
+Le Chaudron posts ante 80
+macflydu33 posts small blind 350
+CRAZY CZ posts big blind 700
+Dealt to P1xel7 [Td 5h]
+*** PRE-FLOP *** 
+Poutcheck13 folds
+vjhg calls 700
+P1xel7 folds
+Le Chaudron calls 700
+macflydu33 calls 350
+CRAZY CZ checks
+*** FLOP *** [5d 5c 9d]
+macflydu33 checks
+CRAZY CZ checks
+vjhg checks
+Le Chaudron checks
+*** TURN *** [5d 5c 9d][6d]
+macflydu33 checks
+CRAZY CZ checks
+vjhg bets 700
+Le Chaudron folds
+macflydu33 folds
+CRAZY CZ folds
+vjhg collected 3980 from pot
+*** SUMMARY ***
+Total pot 3980 | No rake
+Board: [5d 5c 9d 6d]
+Seat 4: vjhg won 3980
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3046101895652311064-38-1699979688 - Holdem no limit (80/350/700) - 2023/11/14 16:34:48 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #1 is the button
+Seat 1: macflydu33 (80204, 0.71€ bounty)
+Seat 2: CRAZY CZ (38516, 0.22€ bounty)
+Seat 3: Poutcheck13 (10534, 0.22€ bounty)
+Seat 4: vjhg (25000, 0.22€ bounty)
+Seat 5: P1xel7 (39744, 0.22€ bounty)
+Seat 6: Le Chaudron (30101, 0.22€ bounty)
+*** ANTE/BLINDS ***
+CRAZY CZ posts ante 80
+Poutcheck13 posts ante 80
+macflydu33 posts ante 80
+vjhg posts ante 80
+P1xel7 posts ante 80
+Le Chaudron posts ante 80
+CRAZY CZ posts small blind 350
+Poutcheck13 posts big blind 700
+Dealt to P1xel7 [Jc Js]
+*** PRE-FLOP *** 
+vjhg calls 700
+P1xel7 raises 2800 to 3500
+Le Chaudron folds
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 raises 6954 to 10454 and is all-in
+vjhg folds
+P1xel7 calls 6954
+*** FLOP *** [5d 4h Kc]
+*** TURN *** [5d 4h Kc][Ah]
+*** RIVER *** [5d 4h Kc Ah][Tc]
+*** SHOW DOWN ***
+P1xel7 shows [Jc Js] (One pair : Jacks)
+Poutcheck13 shows [4c As] (Two pairs : Aces and 4)
+Poutcheck13 collected 22438 from pot
+*** SUMMARY ***
+Total pot 22438 | No rake
+Board: [5d 4h Kc Ah Tc]
+Seat 3: Poutcheck13 (big blind) showed [4c As] and won 22438 with Two pairs : Aces and 4
+Seat 5: P1xel7 showed [Jc Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3046101895652311064-39-1699979718 - Holdem no limit (80/350/700) - 2023/11/14 16:35:18 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #2 is the button
+Seat 1: macflydu33 (80124, 0.71€ bounty)
+Seat 2: CRAZY CZ (38086, 0.22€ bounty)
+Seat 3: Poutcheck13 (22438, 0.22€ bounty)
+Seat 4: vjhg (24220, 0.22€ bounty)
+Seat 5: P1xel7 (29210, 0.22€ bounty)
+Seat 6: Le Chaudron (30021, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Poutcheck13 posts ante 80
+vjhg posts ante 80
+macflydu33 posts ante 80
+CRAZY CZ posts ante 80
+P1xel7 posts ante 80
+Le Chaudron posts ante 80
+Poutcheck13 posts small blind 350
+vjhg posts big blind 700
+Dealt to P1xel7 [Js 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le Chaudron calls 700
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 calls 350
+vjhg checks
+*** FLOP *** [2c Ah 7d]
+Poutcheck13 checks
+vjhg checks
+Le Chaudron checks
+*** TURN *** [2c Ah 7d][Th]
+Poutcheck13 bets 1677
+vjhg calls 1677
+Le Chaudron calls 1677
+*** RIVER *** [2c Ah 7d Th][8h]
+Poutcheck13 checks
+vjhg checks
+Le Chaudron checks
+*** SHOW DOWN ***
+Poutcheck13 shows [Jd 8c] (One pair : 8)
+Le Chaudron shows [Jh Ks] (High card : Ace)
+vjhg shows [5s Ts] (One pair : Tens)
+vjhg collected 7611 from pot
+*** SUMMARY ***
+Total pot 7611 | No rake
+Board: [2c Ah 7d Th 8h]
+Seat 3: Poutcheck13 (small blind) showed [Jd 8c] and lost with One pair : 8
+Seat 4: vjhg (big blind) showed [5s Ts] and won 7611 with One pair : Tens
+Seat 6: Le Chaudron showed [Jh Ks] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3046101895652311064-40-1699979761 - Holdem no limit (100/400/800) - 2023/11/14 16:36:01 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #3 is the button
+Seat 1: macflydu33 (80044, 0.71€ bounty)
+Seat 2: CRAZY CZ (38006, 0.22€ bounty)
+Seat 3: Poutcheck13 (19981, 0.22€ bounty)
+Seat 4: vjhg (29374, 0.22€ bounty)
+Seat 5: P1xel7 (29130, 0.22€ bounty)
+Seat 6: Le Chaudron (27564, 0.22€ bounty)
+*** ANTE/BLINDS ***
+vjhg posts ante 100
+P1xel7 posts ante 100
+macflydu33 posts ante 100
+CRAZY CZ posts ante 100
+Poutcheck13 posts ante 100
+Le Chaudron posts ante 100
+vjhg posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [3c Qd]
+*** PRE-FLOP *** 
+Le Chaudron folds
+macflydu33 folds
+CRAZY CZ raises 800 to 1600
+Poutcheck13 folds
+vjhg calls 1200
+P1xel7 folds
+*** FLOP *** [Td 8d Ah]
+vjhg checks
+CRAZY CZ bets 3680
+vjhg folds
+CRAZY CZ collected 8280 from pot
+*** SUMMARY ***
+Total pot 8280 | No rake
+Board: [Td 8d Ah]
+Seat 2: CRAZY CZ won 8280
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3046101895652311064-41-1699979808 - Holdem no limit (100/400/800) - 2023/11/14 16:36:48 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #4 is the button
+Seat 1: macflydu33 (79944, 0.71€ bounty)
+Seat 2: CRAZY CZ (40906, 0.22€ bounty)
+Seat 3: Poutcheck13 (19881, 0.22€ bounty)
+Seat 4: vjhg (27674, 0.22€ bounty)
+Seat 5: P1xel7 (28230, 0.22€ bounty)
+Seat 6: Le Chaudron (27464, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+Le Chaudron posts ante 100
+macflydu33 posts ante 100
+CRAZY CZ posts ante 100
+Poutcheck13 posts ante 100
+vjhg posts ante 100
+P1xel7 posts small blind 400
+Le Chaudron posts big blind 800
+Dealt to P1xel7 [2d 8d]
+*** PRE-FLOP *** 
+macflydu33 folds
+CRAZY CZ calls 800
+Poutcheck13 calls 800
+vjhg folds
+P1xel7 folds
+Le Chaudron checks
+*** FLOP *** [8s 5d 4h]
+Le Chaudron checks
+CRAZY CZ checks
+Poutcheck13 bets 1190
+Le Chaudron folds
+CRAZY CZ folds
+Poutcheck13 collected 4590 from pot
+*** SUMMARY ***
+Total pot 4590 | No rake
+Board: [8s 5d 4h]
+Seat 3: Poutcheck13 won 4590
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3046101895652311064-42-1699979868 - Holdem no limit (100/400/800) - 2023/11/14 16:37:48 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #5 is the button
+Seat 1: macflydu33 (79844, 0.71€ bounty)
+Seat 2: CRAZY CZ (40006, 0.22€ bounty)
+Seat 3: Poutcheck13 (22381, 0.22€ bounty)
+Seat 4: vjhg (27574, 0.22€ bounty)
+Seat 5: P1xel7 (27730, 0.22€ bounty)
+Seat 6: Le Chaudron (26564, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Le Chaudron posts ante 100
+macflydu33 posts ante 100
+CRAZY CZ posts ante 100
+Poutcheck13 posts ante 100
+vjhg posts ante 100
+P1xel7 posts ante 100
+Le Chaudron posts small blind 400
+macflydu33 posts big blind 800
+Dealt to P1xel7 [7s 2d]
+*** PRE-FLOP *** 
+CRAZY CZ folds
+Poutcheck13 raises 1600 to 2400
+vjhg calls 2400
+P1xel7 folds
+Le Chaudron folds
+macflydu33 folds
+*** FLOP *** [Jd Qc Th]
+Poutcheck13 bets 2310
+vjhg calls 2310
+*** TURN *** [Jd Qc Th][Tc]
+Poutcheck13 checks
+vjhg checks
+*** RIVER *** [Jd Qc Th Tc][5d]
+Poutcheck13 checks
+vjhg bets 11220
+Poutcheck13 calls 11220
+*** SHOW DOWN ***
+vjhg shows [8s 7c] (One pair : Tens)
+Poutcheck13 shows [Jc Ad] (Two pairs : Jacks and Tens)
+Poutcheck13 collected 33660 from pot
+*** SUMMARY ***
+Total pot 33660 | No rake
+Board: [Jd Qc Th Tc 5d]
+Seat 3: Poutcheck13 showed [Jc Ad] and won 33660 with Two pairs : Jacks and Tens
+Seat 4: vjhg showed [8s 7c] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3046101895652311064-43-1699979919 - Holdem no limit (100/400/800) - 2023/11/14 16:38:39 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #6 is the button
+Seat 1: macflydu33 (78944, 0.71€ bounty)
+Seat 2: CRAZY CZ (39906, 0.22€ bounty)
+Seat 3: Poutcheck13 (40011, 0.22€ bounty)
+Seat 4: vjhg (11544, 0.22€ bounty)
+Seat 5: P1xel7 (27630, 0.22€ bounty)
+Seat 6: Le Chaudron (26064, 0.22€ bounty)
+*** ANTE/BLINDS ***
+macflydu33 posts ante 100
+CRAZY CZ posts ante 100
+Poutcheck13 posts ante 100
+vjhg posts ante 100
+P1xel7 posts ante 100
+Le Chaudron posts ante 100
+macflydu33 posts small blind 400
+CRAZY CZ posts big blind 800
+Dealt to P1xel7 [Ts Td]
+*** PRE-FLOP *** 
+Poutcheck13 folds
+vjhg calls 800
+P1xel7 raises 4000 to 4800
+Le Chaudron folds
+macflydu33 folds
+CRAZY CZ folds
+vjhg calls 4000
+*** FLOP *** [Th Ah Ks]
+vjhg checks
+P1xel7 bets 22730 and is all-in
+vjhg folds
+P1xel7 collected 34130 from pot
+*** SUMMARY ***
+Total pot 34130 | No rake
+Board: [Th Ah Ks]
+Seat 5: P1xel7 won 34130
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3046101895652311064-44-1699979960 - Holdem no limit (100/400/800) - 2023/11/14 16:39:20 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #1 is the button
+Seat 1: macflydu33 (78444, 0.71€ bounty)
+Seat 2: CRAZY CZ (39006, 0.22€ bounty)
+Seat 3: Poutcheck13 (39911, 0.22€ bounty)
+Seat 4: vjhg (6644, 0.22€ bounty)
+Seat 5: P1xel7 (34130, 0.22€ bounty)
+Seat 6: Le Chaudron (25964, 0.22€ bounty)
+*** ANTE/BLINDS ***
+CRAZY CZ posts ante 100
+Poutcheck13 posts ante 100
+macflydu33 posts ante 100
+vjhg posts ante 100
+P1xel7 posts ante 100
+Le Chaudron posts ante 100
+CRAZY CZ posts small blind 400
+Poutcheck13 posts big blind 800
+Dealt to P1xel7 [Qd 2d]
+*** PRE-FLOP *** 
+vjhg calls 800
+P1xel7 folds
+Le Chaudron calls 800
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 checks
+*** FLOP *** [5s 9h Kd]
+Poutcheck13 checks
+vjhg bets 5744 and is all-in
+Le Chaudron folds
+Poutcheck13 calls 5744
+*** TURN *** [5s 9h Kd][8d]
+*** RIVER *** [5s 9h Kd 8d][6s]
+*** SHOW DOWN ***
+vjhg shows [As 8s] (One pair : 8)
+Poutcheck13 shows [Ks 5c] (Two pairs : Kings and 5)
+Poutcheck13 collected 14888 from pot
+*** SUMMARY ***
+Total pot 14888 | No rake
+Board: [5s 9h Kd 8d 6s]
+Seat 3: Poutcheck13 (big blind) showed [Ks 5c] and won 14888 with Two pairs : Kings and 5
+Seat 4: vjhg showed [As 8s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3046101895652311064-45-1699980013 - Holdem no limit (100/400/800) - 2023/11/14 16:40:13 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #2 is the button
+Seat 1: macflydu33 (78344, 0.71€ bounty)
+Seat 2: CRAZY CZ (38506, 0.22€ bounty)
+Seat 3: Poutcheck13 (48155, 0.33€ bounty)
+Seat 5: P1xel7 (34030, 0.22€ bounty)
+Seat 6: Le Chaudron (25064, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Poutcheck13 posts ante 100
+P1xel7 posts ante 100
+macflydu33 posts ante 100
+CRAZY CZ posts ante 100
+Le Chaudron posts ante 100
+Poutcheck13 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [2d 3s]
+*** PRE-FLOP *** 
+Le Chaudron calls 800
+macflydu33 folds
+CRAZY CZ calls 800
+Poutcheck13 calls 400
+P1xel7 checks
+*** FLOP *** [2c 9s 6c]
+Poutcheck13 checks
+P1xel7 checks
+Le Chaudron checks
+CRAZY CZ checks
+*** TURN *** [2c 9s 6c][Ac]
+Poutcheck13 checks
+P1xel7 checks
+Le Chaudron checks
+CRAZY CZ checks
+*** RIVER *** [2c 9s 6c Ac][Qc]
+Poutcheck13 bets 1295
+P1xel7 folds
+Le Chaudron folds
+CRAZY CZ folds
+Poutcheck13 collected 4995 from pot
+*** SUMMARY ***
+Total pot 4995 | No rake
+Board: [2c 9s 6c Ac Qc]
+Seat 3: Poutcheck13 (small blind) won 4995
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3046101895652311064-46-1699980124 - Holdem no limit (120/500/1000) - 2023/11/14 16:42:04 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #3 is the button
+Seat 1: macflydu33 (78244, 0.71€ bounty)
+Seat 2: CRAZY CZ (37606, 0.22€ bounty)
+Seat 3: Poutcheck13 (50955, 0.33€ bounty)
+Seat 4: overbull11 (20000, 0.22€ bounty)
+Seat 5: P1xel7 (33130, 0.22€ bounty)
+Seat 6: Le Chaudron (24164, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Le Chaudron posts ante 120
+macflydu33 posts ante 120
+CRAZY CZ posts ante 120
+Poutcheck13 posts ante 120
+P1xel7 posts small blind 500
+Le Chaudron posts big blind 1000
+Dealt to P1xel7 [6h 3h]
+*** PRE-FLOP *** 
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 calls 1000
+P1xel7 folds
+Le Chaudron checks
+*** FLOP *** [Ad 8c 9d]
+Le Chaudron checks
+Poutcheck13 bets 2015
+Le Chaudron calls 2015
+*** TURN *** [Ad 8c 9d][Qd]
+Le Chaudron checks
+Poutcheck13 bets 4635
+Le Chaudron calls 4635
+*** RIVER *** [Ad 8c 9d Qd][8s]
+Le Chaudron checks
+Poutcheck13 checks
+*** SHOW DOWN ***
+Le Chaudron shows [7h 6s] (One pair : 8)
+Poutcheck13 shows [5h Qc] (Two pairs : Queens and 8)
+Poutcheck13 collected 16400 from pot
+*** SUMMARY ***
+Total pot 16400 | No rake
+Board: [Ad 8c 9d Qd 8s]
+Seat 3: Poutcheck13 (button) showed [5h Qc] and won 16400 with Two pairs : Queens and 8
+Seat 6: Le Chaudron (big blind) showed [7h 6s] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3046101895652311064-47-1699980157 - Holdem no limit (120/500/1000) - 2023/11/14 16:42:37 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #5 is the button
+Seat 1: macflydu33 (78124, 0.71€ bounty)
+Seat 2: CRAZY CZ (37486, 0.22€ bounty)
+Seat 3: Poutcheck13 (59585, 0.33€ bounty)
+Seat 4: overbull11 (20000, 0.22€ bounty)
+Seat 5: P1xel7 (32510, 0.22€ bounty)
+Seat 6: Le Chaudron (16394, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Le Chaudron posts ante 120
+macflydu33 posts ante 120
+CRAZY CZ posts ante 120
+Poutcheck13 posts ante 120
+overbull11 posts ante 120
+P1xel7 posts ante 120
+Le Chaudron posts small blind 500
+macflydu33 posts big blind 1000
+Dealt to P1xel7 [Ts 5c]
+*** PRE-FLOP *** 
+CRAZY CZ folds
+Poutcheck13 folds
+overbull11 folds
+P1xel7 folds
+Le Chaudron calls 500
+macflydu33 checks
+*** FLOP *** [6c 9h Td]
+Le Chaudron checks
+macflydu33 checks
+*** TURN *** [6c 9h Td][5s]
+Le Chaudron checks
+macflydu33 checks
+*** RIVER *** [6c 9h Td 5s][9c]
+Le Chaudron checks
+macflydu33 checks
+*** SHOW DOWN ***
+macflydu33 shows [2h Qs] (One pair : 9)
+Le Chaudron shows [As 7s] (One pair : 9)
+Le Chaudron collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Board: [6c 9h Td 5s 9c]
+Seat 1: macflydu33 (big blind) showed [2h Qs] and lost with One pair : 9
+Seat 6: Le Chaudron (small blind) showed [As 7s] and won 2720 with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3046101895652311064-48-1699980237 - Holdem no limit (120/500/1000) - 2023/11/14 16:43:57 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #6 is the button
+Seat 1: macflydu33 (77004, 0.71€ bounty)
+Seat 2: CRAZY CZ (37366, 0.22€ bounty)
+Seat 3: Poutcheck13 (59465, 0.33€ bounty)
+Seat 4: overbull11 (19880, 0.22€ bounty)
+Seat 5: P1xel7 (32390, 0.22€ bounty)
+Seat 6: Le Chaudron (17994, 0.22€ bounty)
+*** ANTE/BLINDS ***
+macflydu33 posts ante 120
+CRAZY CZ posts ante 120
+Poutcheck13 posts ante 120
+overbull11 posts ante 120
+P1xel7 posts ante 120
+Le Chaudron posts ante 120
+macflydu33 posts small blind 500
+CRAZY CZ posts big blind 1000
+Dealt to P1xel7 [4c 9d]
+*** PRE-FLOP *** 
+Poutcheck13 calls 1000
+overbull11 folds
+P1xel7 folds
+Le Chaudron calls 1000
+macflydu33 folds
+CRAZY CZ checks
+*** FLOP *** [8s Jh 5s]
+CRAZY CZ checks
+Poutcheck13 checks
+Le Chaudron checks
+*** TURN *** [8s Jh 5s][2h]
+CRAZY CZ checks
+Poutcheck13 bets 2743
+Le Chaudron raises 2743 to 5486
+CRAZY CZ folds
+Poutcheck13 folds
+Le Chaudron collected 12449 from pot
+*** SUMMARY ***
+Total pot 12449 | No rake
+Board: [8s Jh 5s 2h]
+Seat 6: Le Chaudron (button) won 12449
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3046101895652311064-49-1699980307 - Holdem no limit (120/500/1000) - 2023/11/14 16:45:07 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #1 is the button
+Seat 1: macflydu33 (76384, 0.71€ bounty)
+Seat 2: CRAZY CZ (36246, 0.22€ bounty)
+Seat 3: Poutcheck13 (55602, 0.33€ bounty)
+Seat 4: overbull11 (19760, 0.22€ bounty)
+Seat 5: P1xel7 (32270, 0.22€ bounty)
+Seat 6: Le Chaudron (23837, 0.22€ bounty)
+*** ANTE/BLINDS ***
+CRAZY CZ posts ante 120
+Poutcheck13 posts ante 120
+macflydu33 posts ante 120
+overbull11 posts ante 120
+P1xel7 posts ante 120
+Le Chaudron posts ante 120
+CRAZY CZ posts small blind 500
+Poutcheck13 posts big blind 1000
+Dealt to P1xel7 [Ts 6c]
+*** PRE-FLOP *** 
+overbull11 folds
+P1xel7 folds
+Le Chaudron folds
+macflydu33 raises 1500 to 2500
+CRAZY CZ folds
+Poutcheck13 folds
+macflydu33 collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 1: macflydu33 (button) won 4720
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3046101895652311064-50-1699980327 - Holdem no limit (120/500/1000) - 2023/11/14 16:45:27 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #2 is the button
+Seat 1: macflydu33 (78484, 0.71€ bounty)
+Seat 2: CRAZY CZ (35626, 0.22€ bounty)
+Seat 3: Poutcheck13 (54482, 0.33€ bounty)
+Seat 4: overbull11 (19640, 0.22€ bounty)
+Seat 5: P1xel7 (32150, 0.22€ bounty)
+Seat 6: Le Chaudron (23717, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Poutcheck13 posts ante 120
+overbull11 posts ante 120
+macflydu33 posts ante 120
+CRAZY CZ posts ante 120
+P1xel7 posts ante 120
+Le Chaudron posts ante 120
+Poutcheck13 posts small blind 500
+overbull11 posts big blind 1000
+Dealt to P1xel7 [2s 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le Chaudron folds
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 calls 500
+overbull11 checks
+*** FLOP *** [Ks Th 7c]
+Poutcheck13 checks
+overbull11 checks
+*** TURN *** [Ks Th 7c][7s]
+Poutcheck13 bets 1768
+overbull11 calls 1768
+*** RIVER *** [Ks Th 7c 7s][3s]
+Poutcheck13 checks
+overbull11 bets 16752 and is all-in
+Poutcheck13 folds
+overbull11 collected 23008 from pot
+*** SUMMARY ***
+Total pot 23008 | No rake
+Board: [Ks Th 7c 7s 3s]
+Seat 4: overbull11 (big blind) won 23008
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3046101895652311064-51-1699980400 - Holdem no limit (140/600/1200) - 2023/11/14 16:46:40 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #3 is the button
+Seat 1: macflydu33 (78364, 0.71€ bounty)
+Seat 2: CRAZY CZ (35506, 0.22€ bounty)
+Seat 3: Poutcheck13 (51594, 0.33€ bounty)
+Seat 4: overbull11 (23008, 0.22€ bounty)
+Seat 5: P1xel7 (32030, 0.22€ bounty)
+Seat 6: Le Chaudron (23597, 0.22€ bounty)
+*** ANTE/BLINDS ***
+overbull11 posts ante 140
+P1xel7 posts ante 140
+macflydu33 posts ante 140
+CRAZY CZ posts ante 140
+Poutcheck13 posts ante 140
+Le Chaudron posts ante 140
+overbull11 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [8d 8h]
+*** PRE-FLOP *** 
+Le Chaudron calls 1200
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 folds
+overbull11 folds
+P1xel7 raises 4800 to 6000
+Le Chaudron calls 4800
+*** FLOP *** [5s Ts 2s]
+P1xel7 bets 25890 and is all-in
+Le Chaudron calls 17457 and is all-in
+*** TURN *** [5s Ts 2s][As]
+*** RIVER *** [5s Ts 2s As][Ad]
+*** SHOW DOWN ***
+P1xel7 shows [8d 8h] (Two pairs : Aces and 8)
+Le Chaudron shows [Js Ks] (Flush Ace high)
+Le Chaudron collected 48354 from main pot
+P1xel7 collected 8433 from side pot 1
+*** SUMMARY ***
+Total pot 56787 | No rake
+Board: [5s Ts 2s As Ad]
+Seat 5: P1xel7 (big blind) showed [8d 8h] and won 8433 with Two pairs : Aces and 8
+Seat 6: Le Chaudron showed [Js Ks] and won 48354 with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3046101895652311064-52-1699980456 - Holdem no limit (140/600/1200) - 2023/11/14 16:47:36 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #4 is the button
+Seat 1: macflydu33 (78224, 0.71€ bounty)
+Seat 2: CRAZY CZ (35366, 0.22€ bounty)
+Seat 3: Poutcheck13 (51454, 0.33€ bounty)
+Seat 4: overbull11 (22268, 0.22€ bounty)
+Seat 5: P1xel7 (8433, 0.22€ bounty)
+Seat 6: Le Chaudron (48354, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+Le Chaudron posts ante 140
+macflydu33 posts ante 140
+CRAZY CZ posts ante 140
+Poutcheck13 posts ante 140
+overbull11 posts ante 140
+P1xel7 posts small blind 600
+Le Chaudron posts big blind 1200
+Dealt to P1xel7 [8c 7d]
+*** PRE-FLOP *** 
+macflydu33 folds
+CRAZY CZ folds
+Poutcheck13 folds
+overbull11 folds
+P1xel7 folds
+Le Chaudron collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 6: Le Chaudron (big blind) won 2640
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3046101895652311064-53-1699980484 - Holdem no limit (140/600/1200) - 2023/11/14 16:48:04 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #5 is the button
+Seat 1: macflydu33 (78084, 0.71€ bounty)
+Seat 2: CRAZY CZ (35226, 0.22€ bounty)
+Seat 3: Poutcheck13 (51314, 0.33€ bounty)
+Seat 4: overbull11 (22128, 0.22€ bounty)
+Seat 5: P1xel7 (7693, 0.22€ bounty)
+Seat 6: Le Chaudron (49654, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Le Chaudron posts ante 140
+macflydu33 posts ante 140
+CRAZY CZ posts ante 140
+Poutcheck13 posts ante 140
+overbull11 posts ante 140
+P1xel7 posts ante 140
+Le Chaudron posts small blind 600
+macflydu33 posts big blind 1200
+Dealt to P1xel7 [5s 8h]
+*** PRE-FLOP *** 
+CRAZY CZ raises 2400 to 3600
+Poutcheck13 folds
+overbull11 folds
+P1xel7 folds
+Le Chaudron folds
+macflydu33 calls 2400
+*** FLOP *** [7c 6s Jc]
+macflydu33 checks
+CRAZY CZ checks
+*** TURN *** [7c 6s Jc][2h]
+macflydu33 checks
+CRAZY CZ bets 3024
+macflydu33 folds
+CRAZY CZ collected 11664 from pot
+*** SUMMARY ***
+Total pot 11664 | No rake
+Board: [7c 6s Jc 2h]
+Seat 2: CRAZY CZ won 11664
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3046101895652311064-54-1699980543 - Holdem no limit (140/600/1200) - 2023/11/14 16:49:03 UTC
+Table: 'Kill The Fish(709225865)#023' 6-max (real money) Seat #6 is the button
+Seat 1: macflydu33 (74344, 0.71€ bounty)
+Seat 2: CRAZY CZ (40126, 0.22€ bounty)
+Seat 3: Poutcheck13 (51174, 0.33€ bounty)
+Seat 4: overbull11 (21988, 0.22€ bounty)
+Seat 5: P1xel7 (7553, 0.22€ bounty)
+Seat 6: Le Chaudron (48914, 0.22€ bounty)
+*** ANTE/BLINDS ***
+macflydu33 posts ante 140
+CRAZY CZ posts ante 140
+Poutcheck13 posts ante 140
+overbull11 posts ante 140
+P1xel7 posts ante 140
+Le Chaudron posts ante 140
+macflydu33 posts small blind 600
+CRAZY CZ posts big blind 1200
+Dealt to P1xel7 [2c Qc]
+*** PRE-FLOP *** 
+Poutcheck13 folds
+overbull11 folds
+P1xel7 raises 6213 to 7413 and is all-in
+Le Chaudron folds
+macflydu33 folds
+CRAZY CZ calls 6213
+*** FLOP *** [7c 6d 8c]
+*** TURN *** [7c 6d 8c][Qd]
+*** RIVER *** [7c 6d 8c Qd][Ad]
+*** SHOW DOWN ***
+P1xel7 shows [2c Qc] (One pair : Queens)
+CRAZY CZ shows [Jd Qs] (One pair : Queens)
+CRAZY CZ collected 16266 from pot
+*** SUMMARY ***
+Total pot 16266 | No rake
+Board: [7c 6d 8c Qd Ad]
+Seat 2: CRAZY CZ (big blind) showed [Jd Qs] and won 16266 with One pair : Queens
+Seat 5: P1xel7 showed [2c Qc] and lost with One pair : Queens
+
+

@@ -1,0 +1,436 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3092542921757425665-1-1699868421 - Holdem no limit (10/20) - 2023/11/13 09:40:21 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Kawa921 (1500)
+Seat 2: adelphe33 (1500)
+Seat 3: P1xel7 (1500)
+Seat 4: cis49 (1500)
+Seat 5: simontempl74 (1500)
+Seat 6: lulumomo15 (1500)
+*** ANTE/BLINDS ***
+Kawa921 posts small blind 10
+adelphe33 posts big blind 20
+Dealt to P1xel7 [Jh Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+cis49 folds
+simontempl74 folds
+lulumomo15 folds
+Kawa921 calls 10
+adelphe33 checks
+*** FLOP *** [3h 3c 5s]
+Kawa921 checks
+adelphe33 bets 20
+Kawa921 folds
+adelphe33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [3h 3c 5s]
+Seat 2: adelphe33 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3092542921757425665-2-1699868447 - Holdem no limit (10/20) - 2023/11/13 09:40:47 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Kawa921 (1480)
+Seat 2: adelphe33 (1520)
+Seat 3: P1xel7 (1500)
+Seat 4: cis49 (1500)
+Seat 5: simontempl74 (1500)
+Seat 6: lulumomo15 (1500)
+*** ANTE/BLINDS ***
+adelphe33 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [9s Kc]
+*** PRE-FLOP *** 
+cis49 folds
+simontempl74 folds
+lulumomo15 calls 20
+Kawa921 folds
+adelphe33 folds
+P1xel7 raises 40 to 60
+lulumomo15 calls 40
+*** FLOP *** [7c 8c 5h]
+P1xel7 checks
+lulumomo15 bets 130
+P1xel7 calls 130
+*** TURN *** [7c 8c 5h][Ks]
+P1xel7 checks
+lulumomo15 checks
+*** RIVER *** [7c 8c 5h Ks][Ad]
+P1xel7 bets 195
+lulumomo15 calls 195
+*** SHOW DOWN ***
+lulumomo15 shows [Jc 8d] (One pair : 8)
+P1xel7 shows [9s Kc] (One pair : Kings)
+P1xel7 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Board: [7c 8c 5h Ks Ad]
+Seat 3: P1xel7 (big blind) showed [9s Kc] and won 780 with One pair : Kings
+Seat 6: lulumomo15 showed [Jc 8d] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3092542921757425665-3-1699868483 - Holdem no limit (10/20) - 2023/11/13 09:41:23 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Kawa921 (1480)
+Seat 2: adelphe33 (1510)
+Seat 3: P1xel7 (1895)
+Seat 4: cis49 (1500)
+Seat 5: simontempl74 (1500)
+Seat 6: lulumomo15 (1115)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+cis49 posts big blind 20
+Dealt to P1xel7 [9d 7d]
+*** PRE-FLOP *** 
+simontempl74 folds
+lulumomo15 folds
+Kawa921 folds
+adelphe33 folds
+P1xel7 raises 30 to 50
+cis49 calls 30
+*** FLOP *** [Th Qs 6c]
+P1xel7 checks
+cis49 checks
+*** TURN *** [Th Qs 6c][2c]
+P1xel7 checks
+cis49 bets 1450 and is all-in
+P1xel7 folds
+cis49 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Board: [Th Qs 6c 2c]
+Seat 4: cis49 (big blind) won 1550
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #3092542921757425665-4-1699868521 - Holdem no limit (15/30) - 2023/11/13 09:42:01 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Kawa921 (1480)
+Seat 2: adelphe33 (1510)
+Seat 3: P1xel7 (1845)
+Seat 4: cis49 (1550)
+Seat 5: simontempl74 (1500)
+Seat 6: lulumomo15 (1115)
+*** ANTE/BLINDS ***
+cis49 posts small blind 15
+simontempl74 posts big blind 30
+Dealt to P1xel7 [5h 6d]
+*** PRE-FLOP *** 
+lulumomo15 raises 30 to 60
+Kawa921 calls 60
+adelphe33 folds
+P1xel7 folds
+cis49 folds
+simontempl74 calls 30
+*** FLOP *** [2h 3h Ac]
+simontempl74 checks
+lulumomo15 bets 30
+Kawa921 calls 30
+simontempl74 folds
+*** TURN *** [2h 3h Ac][Kh]
+lulumomo15 bets 30
+Kawa921 calls 30
+*** RIVER *** [2h 3h Ac Kh][2c]
+lulumomo15 bets 315
+Kawa921 raises 1045 to 1360 and is all-in
+lulumomo15 calls 680 and is all-in
+*** SHOW DOWN ***
+lulumomo15 shows [3s Ah] (Two pairs : Aces and 3)
+Kawa921 shows [2d Kd] (Full of 2 and Kings)
+Kawa921 collected 2670 from pot
+*** SUMMARY ***
+Total pot 2670 | No rake
+Board: [2h 3h Ac Kh 2c]
+Seat 1: Kawa921 showed [2d Kd] and won 2670 with Full of 2 and Kings
+Seat 6: lulumomo15 showed [3s Ah] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #3092542921757425665-5-1699868569 - Holdem no limit (15/30) - 2023/11/13 09:42:49 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Kawa921 (2670)
+Seat 2: adelphe33 (1510)
+Seat 3: P1xel7 (1845)
+Seat 4: cis49 (1535)
+Seat 5: simontempl74 (1440)
+*** ANTE/BLINDS ***
+simontempl74 posts small blind 15
+Kawa921 posts big blind 30
+Dealt to P1xel7 [3c 6h]
+*** PRE-FLOP *** 
+adelphe33 folds
+P1xel7 folds
+cis49 calls 30
+simontempl74 calls 15
+Kawa921 checks
+*** FLOP *** [Ac Qs Jd]
+simontempl74 checks
+Kawa921 checks
+cis49 checks
+*** TURN *** [Ac Qs Jd][Ts]
+simontempl74 checks
+Kawa921 bets 2640 and is all-in
+cis49 folds
+simontempl74 folds
+Kawa921 collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | No rake
+Board: [Ac Qs Jd Ts]
+Seat 1: Kawa921 (big blind) won 2730
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #3092542921757425665-6-1699868609 - Holdem no limit (20/40) - 2023/11/13 09:43:29 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Kawa921 (2730)
+Seat 2: adelphe33 (1510)
+Seat 3: P1xel7 (1845)
+Seat 4: cis49 (1505)
+Seat 5: simontempl74 (1410)
+*** ANTE/BLINDS ***
+Kawa921 posts small blind 20
+adelphe33 posts big blind 40
+Dealt to P1xel7 [9c Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 100
+cis49 calls 100
+simontempl74 raises 360 to 460
+Kawa921 folds
+adelphe33 folds
+P1xel7 folds
+cis49 folds
+simontempl74 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Seat 5: simontempl74 (button) won 720
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #3092542921757425665-7-1699868634 - Holdem no limit (20/40) - 2023/11/13 09:43:54 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Kawa921 (2710)
+Seat 2: adelphe33 (1470)
+Seat 3: P1xel7 (1745)
+Seat 4: cis49 (1405)
+Seat 5: simontempl74 (1670)
+*** ANTE/BLINDS ***
+adelphe33 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [4d 7c]
+*** PRE-FLOP *** 
+cis49 calls 40
+simontempl74 folds
+Kawa921 calls 40
+adelphe33 raises 80 to 120
+P1xel7 folds
+cis49 folds
+Kawa921 calls 80
+*** FLOP *** [6c 7s Ad]
+adelphe33 checks
+Kawa921 checks
+*** TURN *** [6c 7s Ad][Jh]
+adelphe33 checks
+Kawa921 checks
+*** RIVER *** [6c 7s Ad Jh][9c]
+adelphe33 bets 1350 and is all-in
+Kawa921 folds
+adelphe33 collected 1670 from pot
+*** SUMMARY ***
+Total pot 1670 | No rake
+Board: [6c 7s Ad Jh 9c]
+Seat 2: adelphe33 (small blind) won 1670
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #3092542921757425665-8-1699868679 - Holdem no limit (20/40) - 2023/11/13 09:44:39 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Kawa921 (2590)
+Seat 2: adelphe33 (1670)
+Seat 3: P1xel7 (1705)
+Seat 4: cis49 (1365)
+Seat 5: simontempl74 (1670)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+cis49 posts big blind 40
+Dealt to P1xel7 [2d 2s]
+*** PRE-FLOP *** 
+simontempl74 folds
+Kawa921 calls 40
+adelphe33 calls 40
+P1xel7 calls 20
+cis49 checks
+*** FLOP *** [Jc 5s 8d]
+P1xel7 checks
+cis49 checks
+Kawa921 checks
+adelphe33 checks
+*** TURN *** [Jc 5s 8d][Tc]
+P1xel7 checks
+cis49 checks
+Kawa921 checks
+adelphe33 checks
+*** RIVER *** [Jc 5s 8d Tc][3d]
+P1xel7 checks
+cis49 checks
+Kawa921 checks
+adelphe33 checks
+*** SHOW DOWN ***
+Kawa921 shows [Ad 4h] (High card : Ace)
+adelphe33 shows [Qc 2h] (High card : Queen)
+cis49 shows [9d 6s] (High card : Jack)
+P1xel7 shows [2d 2s] (One pair : 2)
+P1xel7 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Board: [Jc 5s 8d Tc 3d]
+Seat 1: Kawa921 showed [Ad 4h] and lost with High card : Ace
+Seat 2: adelphe33 (button) showed [Qc 2h] and lost with High card : Queen
+Seat 3: P1xel7 (small blind) showed [2d 2s] and won 160 with One pair : 2
+Seat 4: cis49 (big blind) showed [9d 6s] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #3092542921757425665-9-1699868740 - Holdem no limit (30/60) - 2023/11/13 09:45:40 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Kawa921 (2550)
+Seat 2: adelphe33 (1630)
+Seat 3: P1xel7 (1825)
+Seat 4: cis49 (1325)
+Seat 5: simontempl74 (1670)
+*** ANTE/BLINDS ***
+cis49 posts small blind 30
+simontempl74 posts big blind 60
+Dealt to P1xel7 [Th 6c]
+*** PRE-FLOP *** 
+Kawa921 folds
+adelphe33 folds
+P1xel7 folds
+cis49 calls 30
+simontempl74 checks
+*** FLOP *** [7d 3h Kh]
+cis49 checks
+simontempl74 checks
+*** TURN *** [7d 3h Kh][7c]
+cis49 checks
+simontempl74 checks
+*** RIVER *** [7d 3h Kh 7c][Ks]
+cis49 checks
+simontempl74 bets 120
+cis49 folds
+simontempl74 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [7d 3h Kh 7c Ks]
+Seat 5: simontempl74 (big blind) won 240
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #3092542921757425665-10-1699868797 - Holdem no limit (40/80) - 2023/11/13 09:46:37 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Kawa921 (2550)
+Seat 2: adelphe33 (1630)
+Seat 3: P1xel7 (1825)
+Seat 4: cis49 (1265)
+Seat 5: simontempl74 (1730)
+*** ANTE/BLINDS ***
+simontempl74 posts small blind 40
+Kawa921 posts big blind 80
+Dealt to P1xel7 [2s 9c]
+*** PRE-FLOP *** 
+adelphe33 calls 80
+P1xel7 folds
+cis49 calls 80
+simontempl74 calls 40
+Kawa921 checks
+*** FLOP *** [Qs Kh Jh]
+simontempl74 checks
+Kawa921 bets 320
+adelphe33 calls 320
+cis49 raises 865 to 1185 and is all-in
+simontempl74 folds
+Kawa921 calls 865
+adelphe33 folds
+*** TURN *** [Qs Kh Jh][3h]
+*** RIVER *** [Qs Kh Jh 3h][Ah]
+*** SHOW DOWN ***
+cis49 shows [Kd Ts] (Straight Ace high)
+Kawa921 shows [Ks 8h] (Flush Ace high)
+Kawa921 collected 3010 from pot
+*** SUMMARY ***
+Total pot 3010 | No rake
+Board: [Qs Kh Jh 3h Ah]
+Seat 1: Kawa921 (big blind) showed [Ks 8h] and won 3010 with Flush Ace high
+Seat 4: cis49 (button) showed [Kd Ts] and lost with Straight Ace high
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #3092542921757425665-11-1699868838 - Holdem no limit (40/80) - 2023/11/13 09:47:18 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Kawa921 (4295)
+Seat 2: adelphe33 (1230)
+Seat 3: P1xel7 (1825)
+Seat 5: simontempl74 (1650)
+*** ANTE/BLINDS ***
+Kawa921 posts small blind 40
+adelphe33 posts big blind 80
+Dealt to P1xel7 [7d 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+simontempl74 calls 80
+Kawa921 calls 40
+adelphe33 checks
+*** FLOP *** [3h Ah 6d]
+Kawa921 checks
+adelphe33 checks
+simontempl74 bets 156
+Kawa921 folds
+adelphe33 folds
+simontempl74 collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [3h Ah 6d]
+Seat 5: simontempl74 (button) won 396
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #3092542921757425665-12-1699868865 - Holdem no limit (40/80) - 2023/11/13 09:47:45 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Kawa921 (4215)
+Seat 2: adelphe33 (1150)
+Seat 3: P1xel7 (1825)
+Seat 5: simontempl74 (1810)
+*** ANTE/BLINDS ***
+adelphe33 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Kd Js]
+*** PRE-FLOP *** 
+simontempl74 folds
+Kawa921 folds
+adelphe33 folds
+P1xel7 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: P1xel7 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #3092542921757425665-13-1699868875 - Holdem no limit (60/120) - 2023/11/13 09:47:55 UTC
+Table: 'Starting Block WiPT(720038759)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Kawa921 (4215)
+Seat 2: adelphe33 (1110)
+Seat 3: P1xel7 (1865)
+Seat 5: simontempl74 (1810)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+simontempl74 posts big blind 120
+Dealt to P1xel7 [9d 9s]
+*** PRE-FLOP *** 
+Kawa921 raises 300 to 420
+adelphe33 folds
+P1xel7 raises 1445 to 1865 and is all-in
+simontempl74 folds
+Kawa921 calls 1445
+*** FLOP *** [Kc 2h Qh]
+*** TURN *** [Kc 2h Qh][7h]
+*** RIVER *** [Kc 2h Qh 7h][5d]
+*** SHOW DOWN ***
+P1xel7 shows [9d 9s] (One pair : 9)
+Kawa921 shows [Tc Ts] (One pair : Tens)
+Kawa921 collected 3850 from pot
+*** SUMMARY ***
+Total pot 3850 | No rake
+Board: [Kc 2h Qh 7h 5d]
+Seat 1: Kawa921 showed [Tc Ts] and won 3850 with One pair : Tens
+Seat 3: P1xel7 (small blind) showed [9d 9s] and lost with One pair : 9
+
+

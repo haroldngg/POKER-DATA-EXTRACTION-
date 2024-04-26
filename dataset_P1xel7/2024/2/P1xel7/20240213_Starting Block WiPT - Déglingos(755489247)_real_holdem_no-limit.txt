@@ -1,0 +1,593 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244801608344666113-1-1707851492 - Holdem no limit (10/20) - 2024/02/13 19:11:32 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Booster21 (500)
+Seat 2: biblo180277 (500)
+Seat 3: An So 34 (500)
+Seat 4: cboboss (500)
+Seat 5: P1xel7 (500)
+Seat 6: Charlesdev76 (500)
+*** ANTE/BLINDS ***
+cboboss posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [2h 5d]
+*** PRE-FLOP *** 
+Charlesdev76 calls 20
+Booster21 calls 20
+biblo180277 raises 480 to 500 and is all-in
+An So 34 calls 500 and is all-in
+cboboss calls 490 and is all-in
+P1xel7 folds
+Charlesdev76 folds
+Booster21 folds
+*** FLOP *** [3s Jh Ks]
+*** TURN *** [3s Jh Ks][7h]
+*** RIVER *** [3s Jh Ks 7h][Ac]
+*** SHOW DOWN ***
+An So 34 shows [9d Td] (High card : Ace)
+cboboss shows [Jc 9c] (One pair : Jacks)
+biblo180277 shows [4c Ad] (One pair : Aces)
+biblo180277 collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [3s Jh Ks 7h Ac]
+Seat 2: biblo180277 showed [4c Ad] and won 1560 with One pair : Aces
+Seat 3: An So 34 (button) showed [9d Td] and lost with High card : Ace
+Seat 4: cboboss (small blind) showed [Jc 9c] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244801608344666113-2-1707851524 - Holdem no limit (10/20) - 2024/02/13 19:12:04 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Booster21 (480)
+Seat 2: biblo180277 (1560)
+Seat 5: P1xel7 (480)
+Seat 6: Charlesdev76 (480)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Charlesdev76 posts big blind 20
+Dealt to P1xel7 [2d 3d]
+*** PRE-FLOP *** 
+Booster21 raises 20 to 40
+biblo180277 raises 1520 to 1560 and is all-in
+P1xel7 folds
+Charlesdev76 folds
+Booster21 calls 440 and is all-in
+*** FLOP *** [Ks Qs 8d]
+*** TURN *** [Ks Qs 8d][6c]
+*** RIVER *** [Ks Qs 8d 6c][As]
+*** SHOW DOWN ***
+Booster21 shows [Ac 6h] (Two pairs : Aces and 6)
+biblo180277 shows [8s 7s] (Flush Ace high)
+biblo180277 collected 2070 from pot
+*** SUMMARY ***
+Total pot 2070 | No rake
+Board: [Ks Qs 8d 6c As]
+Seat 1: Booster21 showed [Ac 6h] and lost with Two pairs : Aces and 6
+Seat 2: biblo180277 showed [8s 7s] and won 2070 with Flush Ace high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244801608344666113-3-1707851546 - Holdem no limit (10/20) - 2024/02/13 19:12:26 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2070)
+Seat 5: P1xel7 (470)
+Seat 6: Charlesdev76 (460)
+*** ANTE/BLINDS ***
+Charlesdev76 posts small blind 10
+biblo180277 posts big blind 20
+Dealt to P1xel7 [3s Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Charlesdev76 raises 440 to 460 and is all-in
+biblo180277 raises 1610 to 2070 and is all-in
+*** FLOP *** [7h 5h 9c]
+*** TURN *** [7h 5h 9c][Kd]
+*** RIVER *** [7h 5h 9c Kd][4c]
+*** SHOW DOWN ***
+Charlesdev76 shows [2h Ah] (High card : Ace)
+biblo180277 shows [4s 8h] (One pair : 4)
+biblo180277 collected 2530 from pot
+*** SUMMARY ***
+Total pot 2530 | No rake
+Board: [7h 5h 9c Kd 4c]
+Seat 2: biblo180277 (big blind) showed [4s 8h] and won 2530 with One pair : 4
+Seat 6: Charlesdev76 (small blind) showed [2h Ah] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244801608344666113-4-1707851567 - Holdem no limit (10/20) - 2024/02/13 19:12:47 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (2530)
+Seat 5: P1xel7 (470)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Kh 4d]
+*** PRE-FLOP *** 
+biblo180277 raises 2510 to 2530 and is all-in
+P1xel7 folds
+biblo180277 shows [Jc 8h] (High card : Jack)
+biblo180277 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [Jc 8h] and won 2550 with High card : Jack
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244801608344666113-5-1707851576 - Holdem no limit (10/20) - 2024/02/13 19:12:56 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2550)
+Seat 5: P1xel7 (450)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+biblo180277 posts big blind 20
+Dealt to P1xel7 [2s 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+biblo180277 shows [Qd 5h] (High card : Queen)
+biblo180277 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 2: biblo180277 (big blind) showed [Qd 5h] and won 30 with High card : Queen
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-6-1707851582 - Holdem no limit (15/30) - 2024/02/13 19:13:02 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (2560)
+Seat 5: P1xel7 (440)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [5h 4d]
+*** PRE-FLOP *** 
+biblo180277 raises 2530 to 2560 and is all-in
+P1xel7 folds
+biblo180277 shows [5c 7c] (High card : 7)
+biblo180277 collected 2590 from pot
+*** SUMMARY ***
+Total pot 2590 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [5c 7c] and won 2590 with High card : 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-7-1707851591 - Holdem no limit (15/30) - 2024/02/13 19:13:11 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2590)
+Seat 5: P1xel7 (410)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+biblo180277 posts big blind 30
+Dealt to P1xel7 [Jd Kh]
+*** PRE-FLOP *** 
+P1xel7 raises 380 to 410 and is all-in
+biblo180277 raises 380 to 790
+*** FLOP *** [5h Th Qc]
+*** TURN *** [5h Th Qc][5c]
+*** RIVER *** [5h Th Qc 5c][7c]
+*** SHOW DOWN ***
+biblo180277 shows [8d 9d] (One pair : 5)
+P1xel7 shows [Jd Kh] (One pair : 5)
+P1xel7 collected 820 from main pot
+biblo180277 collected 380 from side pot 1
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [5h Th Qc 5c 7c]
+Seat 2: biblo180277 (big blind) showed [8d 9d] and won 380 with One pair : 5
+Seat 5: P1xel7 (small blind) (button) showed [Jd Kh] and won 820 with One pair : 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-8-1707851604 - Holdem no limit (15/30) - 2024/02/13 19:13:24 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (2180)
+Seat 5: P1xel7 (820)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [3c 6d]
+*** PRE-FLOP *** 
+biblo180277 raises 2150 to 2180 and is all-in
+P1xel7 folds
+biblo180277 shows [9h Kh] (High card : King)
+biblo180277 collected 2210 from pot
+*** SUMMARY ***
+Total pot 2210 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [9h Kh] and won 2210 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-9-1707851613 - Holdem no limit (15/30) - 2024/02/13 19:13:33 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2210)
+Seat 5: P1xel7 (790)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+biblo180277 posts big blind 30
+Dealt to P1xel7 [Jd 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+biblo180277 shows [Ts Kd] (High card : King)
+biblo180277 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: biblo180277 (big blind) showed [Ts Kd] and won 45 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-10-1707851622 - Holdem no limit (15/30) - 2024/02/13 19:13:42 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (2225)
+Seat 5: P1xel7 (775)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [7s 8c]
+*** PRE-FLOP *** 
+biblo180277 raises 30 to 60
+P1xel7 folds
+biblo180277 shows [8s 5h] (High card : 8)
+biblo180277 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [8s 5h] and won 90 with High card : 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-11-1707851628 - Holdem no limit (15/30) - 2024/02/13 19:13:48 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2255)
+Seat 5: P1xel7 (745)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+biblo180277 posts big blind 30
+Dealt to P1xel7 [6h 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+biblo180277 shows [Qc 5h] (High card : Queen)
+biblo180277 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: biblo180277 (big blind) showed [Qc 5h] and won 45 with High card : Queen
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-12-1707851634 - Holdem no limit (15/30) - 2024/02/13 19:13:54 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (2270)
+Seat 5: P1xel7 (730)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [9h 5c]
+*** PRE-FLOP *** 
+biblo180277 raises 2240 to 2270 and is all-in
+P1xel7 folds
+biblo180277 shows [7s 2d] (High card : 7)
+biblo180277 collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [7s 2d] and won 2300 with High card : 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-13-1707851645 - Holdem no limit (15/30) - 2024/02/13 19:14:05 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2300)
+Seat 5: P1xel7 (700)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+biblo180277 posts big blind 30
+Dealt to P1xel7 [5s 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+biblo180277 shows [Td 2c] (High card : Ten)
+biblo180277 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: biblo180277 (big blind) showed [Td 2c] and won 45 with High card : Ten
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-14-1707851650 - Holdem no limit (15/30) - 2024/02/13 19:14:10 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (2315)
+Seat 5: P1xel7 (685)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [2h 6d]
+*** PRE-FLOP *** 
+biblo180277 raises 30 to 60
+P1xel7 folds
+biblo180277 shows [3d 7h] (High card : 7)
+biblo180277 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [3d 7h] and won 90 with High card : 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-15-1707851659 - Holdem no limit (15/30) - 2024/02/13 19:14:19 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2345)
+Seat 5: P1xel7 (655)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+biblo180277 posts big blind 30
+Dealt to P1xel7 [8d 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+biblo180277 shows [3c Qs] (High card : Queen)
+biblo180277 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: biblo180277 (big blind) showed [3c Qs] and won 45 with High card : Queen
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244801608344666113-16-1707851665 - Holdem no limit (15/30) - 2024/02/13 19:14:25 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (2360)
+Seat 5: P1xel7 (640)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [4c 6c]
+*** PRE-FLOP *** 
+biblo180277 raises 2330 to 2360 and is all-in
+P1xel7 folds
+biblo180277 shows [Ad Qc] (High card : Ace)
+biblo180277 collected 2390 from pot
+*** SUMMARY ***
+Total pot 2390 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [Ad Qc] and won 2390 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-17-1707851674 - Holdem no limit (20/40) - 2024/02/13 19:14:34 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2390)
+Seat 5: P1xel7 (610)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+biblo180277 posts big blind 40
+Dealt to P1xel7 [6c 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+biblo180277 shows [6d 4s] (High card : 6)
+biblo180277 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: biblo180277 (big blind) showed [6d 4s] and won 60 with High card : 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-18-1707851680 - Holdem no limit (20/40) - 2024/02/13 19:14:40 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (2410)
+Seat 5: P1xel7 (590)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [7d 5h]
+*** PRE-FLOP *** 
+biblo180277 raises 40 to 80
+P1xel7 folds
+biblo180277 shows [2c Ac] (High card : Ace)
+biblo180277 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [2c Ac] and won 120 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-19-1707851689 - Holdem no limit (20/40) - 2024/02/13 19:14:49 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2450)
+Seat 5: P1xel7 (550)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+biblo180277 posts big blind 40
+Dealt to P1xel7 [3c 3h]
+*** PRE-FLOP *** 
+P1xel7 raises 510 to 550 and is all-in
+biblo180277 raises 510 to 1060
+*** FLOP *** [6s Ks 9c]
+*** TURN *** [6s Ks 9c][Qh]
+*** RIVER *** [6s Ks 9c Qh][Ah]
+*** SHOW DOWN ***
+biblo180277 shows [Js 5s] (High card : Ace)
+P1xel7 shows [3c 3h] (One pair : 3)
+P1xel7 collected 1100 from main pot
+biblo180277 collected 510 from side pot 1
+*** SUMMARY ***
+Total pot 1610 | No rake
+Board: [6s Ks 9c Qh Ah]
+Seat 2: biblo180277 (big blind) showed [Js 5s] and won 510 with High card : Ace
+Seat 5: P1xel7 (small blind) (button) showed [3c 3h] and won 1100 with One pair : 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-20-1707851704 - Holdem no limit (20/40) - 2024/02/13 19:15:04 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (1900)
+Seat 5: P1xel7 (1100)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [2h 9s]
+*** PRE-FLOP *** 
+biblo180277 raises 1860 to 1900 and is all-in
+P1xel7 folds
+biblo180277 shows [5c 3d] (High card : 5)
+biblo180277 collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [5c 3d] and won 1940 with High card : 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-21-1707851715 - Holdem no limit (20/40) - 2024/02/13 19:15:15 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (1940)
+Seat 5: P1xel7 (1060)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+biblo180277 posts big blind 40
+Dealt to P1xel7 [Tc 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+biblo180277 shows [Qh Qd] (One pair : Queens)
+biblo180277 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: biblo180277 (big blind) showed [Qh Qd] and won 60 with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-22-1707851721 - Holdem no limit (20/40) - 2024/02/13 19:15:21 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (1960)
+Seat 5: P1xel7 (1040)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Th 8c]
+*** PRE-FLOP *** 
+biblo180277 raises 40 to 80
+P1xel7 folds
+biblo180277 shows [7s 8d] (High card : 8)
+biblo180277 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [7s 8d] and won 120 with High card : 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-23-1707851729 - Holdem no limit (20/40) - 2024/02/13 19:15:29 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2000)
+Seat 5: P1xel7 (1000)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+biblo180277 posts big blind 40
+Dealt to P1xel7 [Td 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+biblo180277 shows [Ah 7d] (High card : Ace)
+biblo180277 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: biblo180277 (big blind) showed [Ah 7d] and won 60 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-24-1707851734 - Holdem no limit (20/40) - 2024/02/13 19:15:34 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (2020)
+Seat 5: P1xel7 (980)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [As 3c]
+*** PRE-FLOP *** 
+biblo180277 raises 40 to 80
+P1xel7 raises 900 to 980 and is all-in
+biblo180277 raises 900 to 1880
+*** FLOP *** [9c 7s 2d]
+*** TURN *** [9c 7s 2d][4s]
+*** RIVER *** [9c 7s 2d 4s][2h]
+*** SHOW DOWN ***
+biblo180277 shows [5d Th] (One pair : 2)
+P1xel7 shows [As 3c] (One pair : 2)
+P1xel7 collected 1960 from main pot
+biblo180277 collected 900 from side pot 1
+*** SUMMARY ***
+Total pot 2860 | No rake
+Board: [9c 7s 2d 4s 2h]
+Seat 2: biblo180277 (small blind) (button) showed [5d Th] and won 900 with One pair : 2
+Seat 5: P1xel7 (big blind) showed [As 3c] and won 1960 with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-25-1707851746 - Holdem no limit (20/40) - 2024/02/13 19:15:46 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (1040)
+Seat 5: P1xel7 (1960)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+biblo180277 posts big blind 40
+Dealt to P1xel7 [Ks 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+biblo180277 shows [Qc 2s] (High card : Queen)
+biblo180277 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: biblo180277 (big blind) showed [Qc 2s] and won 60 with High card : Queen
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-26-1707851752 - Holdem no limit (20/40) - 2024/02/13 19:15:52 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (1060)
+Seat 5: P1xel7 (1940)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Th 7h]
+*** PRE-FLOP *** 
+biblo180277 raises 40 to 80
+P1xel7 folds
+biblo180277 shows [Qs 9h] (High card : Queen)
+biblo180277 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 2: biblo180277 (small blind) (button) showed [Qs 9h] and won 120 with High card : Queen
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244801608344666113-27-1707851759 - Holdem no limit (20/40) - 2024/02/13 19:15:59 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (1100)
+Seat 5: P1xel7 (1900)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+biblo180277 posts big blind 40
+Dealt to P1xel7 [2s Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+biblo180277 shows [6d Qh] (High card : Queen)
+biblo180277 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: biblo180277 (big blind) showed [6d Qh] and won 60 with High card : Queen
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244801608344666113-28-1707851766 - Holdem no limit (30/60) - 2024/02/13 19:16:06 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #2 is the button
+Seat 2: biblo180277 (1120)
+Seat 5: P1xel7 (1880)
+*** ANTE/BLINDS ***
+biblo180277 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Ac 5s]
+*** PRE-FLOP *** 
+biblo180277 raises 60 to 120
+P1xel7 raises 1760 to 1880 and is all-in
+biblo180277 calls 1000 and is all-in
+*** FLOP *** [Qd 5d 8h]
+*** TURN *** [Qd 5d 8h][2c]
+*** RIVER *** [Qd 5d 8h 2c][Jd]
+*** SHOW DOWN ***
+biblo180277 shows [9s 9h] (One pair : 9)
+P1xel7 shows [Ac 5s] (One pair : 5)
+P1xel7 collected 760 from side pot 1
+biblo180277 collected 2240 from main pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Qd 5d 8h 2c Jd]
+Seat 2: biblo180277 (small blind) (button) showed [9s 9h] and won 2240 with One pair : 9
+Seat 5: P1xel7 (big blind) showed [Ac 5s] and won 760 with One pair : 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244801608344666113-29-1707851782 - Holdem no limit (30/60) - 2024/02/13 19:16:22 UTC
+Table: 'Starting Block WiPT - Déglingos(755489247)#0' 6-max (real money) Seat #5 is the button
+Seat 2: biblo180277 (2240)
+Seat 5: P1xel7 (760)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+biblo180277 posts big blind 60
+Dealt to P1xel7 [Ac Jc]
+*** PRE-FLOP *** 
+P1xel7 raises 700 to 760 and is all-in
+biblo180277 calls 700
+*** FLOP *** [7c Jh Ks]
+*** TURN *** [7c Jh Ks][Jd]
+*** RIVER *** [7c Jh Ks Jd][6d]
+*** SHOW DOWN ***
+P1xel7 shows [Ac Jc] (Trips of Jacks)
+biblo180277 shows [6s 6h] (Full of 6 and Jacks)
+biblo180277 collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [7c Jh Ks Jd 6d]
+Seat 2: biblo180277 (big blind) showed [6s 6h] and won 1520 with Full of 6 and Jacks
+Seat 5: P1xel7 (small blind) (button) showed [Ac Jc] and lost with Trips of Jacks
+
+

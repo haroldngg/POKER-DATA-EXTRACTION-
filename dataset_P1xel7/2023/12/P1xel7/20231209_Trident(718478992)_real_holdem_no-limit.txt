@@ -1,0 +1,31 @@
+Winamax Poker - Tournament "Trident" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3085843773503045662-1-1702148463 - Holdem no limit (5/20/40) - 2023/12/09 19:01:03 UTC
+Table: 'Trident(718478992)#0029' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (500, 0.45€ bounty)
+Seat 2: kael78 (500, 0.45€ bounty)
+Seat 3: nattyus (500, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+kael78 posts ante 5
+nattyus posts ante 5
+P1xel7 posts small blind 20
+kael78 posts big blind 40
+Dealt to P1xel7 [4h Ah]
+*** PRE-FLOP *** 
+nattyus raises 40 to 80
+P1xel7 raises 415 to 495 and is all-in
+kael78 calls 455 and is all-in
+nattyus folds
+*** FLOP *** [Kc 7s Js]
+*** TURN *** [Kc 7s Js][3s]
+*** RIVER *** [Kc 7s Js 3s][6d]
+*** SHOW DOWN ***
+P1xel7 shows [4h Ah] (High card : Ace)
+kael78 shows [Ts As] (Flush Ace high)
+kael78 collected 1085 from pot
+*** SUMMARY ***
+Total pot 1085 | No rake
+Board: [Kc 7s Js 3s 6d]
+Seat 1: P1xel7 (small blind) showed [4h Ah] and lost with High card : Ace
+Seat 2: kael78 (big blind) showed [Ts As] and won 1085 with Flush Ace high
+
+

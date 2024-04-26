@@ -1,0 +1,4837 @@
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3138119585694220325-39-1704914438 - Holdem no limit (50/200/400) - 2024/01/10 19:20:38 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #3 is the button
+Seat 1: LeDjo444 (18035, 0.90€ bounty)
+Seat 2: Holger Tune (18515, 0.90€ bounty)
+Seat 3: Jager-bomb (65314, 1.35€ bounty)
+Seat 4: Montagrizz22 (21500, 0.90€ bounty)
+Seat 5: P1xel7 (20000, 0.90€ bounty)
+Seat 6: LeCholismo44 (85829, 2.47€ bounty)
+Seat 7: Dylv (15660, 0.90€ bounty)
+Seat 8: RonnieCBeau (19329, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Montagrizz22 posts ante 50
+P1xel7 posts ante 50
+LeDjo444 posts ante 50
+Holger Tune posts ante 50
+Jager-bomb posts ante 50
+LeCholismo44 posts ante 50
+Dylv posts ante 50
+RonnieCBeau posts ante 50
+Montagrizz22 posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Qs Jd]
+*** PRE-FLOP *** 
+LeCholismo44 folds
+Dylv raises 488 to 888
+RonnieCBeau folds
+LeDjo444 folds
+Holger Tune folds
+Jager-bomb folds
+Montagrizz22 folds
+P1xel7 calls 488
+*** FLOP *** [2h 9s 9c]
+P1xel7 checks
+Dylv checks
+*** TURN *** [2h 9s 9c][3s]
+P1xel7 bets 832
+Dylv folds
+P1xel7 collected 3208 from pot
+*** SUMMARY ***
+Total pot 3208 | No rake
+Board: [2h 9s 9c 3s]
+Seat 5: P1xel7 (big blind) won 3208
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3138119585694220325-40-1704914502 - Holdem no limit (60/250/500) - 2024/01/10 19:21:42 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: LeDjo444 (17985, 0.90€ bounty)
+Seat 2: Holger Tune (18465, 0.90€ bounty)
+Seat 3: Jager-bomb (65264, 1.35€ bounty)
+Seat 4: Montagrizz22 (21250, 0.90€ bounty)
+Seat 5: P1xel7 (21438, 0.90€ bounty)
+Seat 6: LeCholismo44 (85779, 2.47€ bounty)
+Seat 7: Dylv (14722, 0.90€ bounty)
+Seat 8: RonnieCBeau (19279, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+LeCholismo44 posts ante 60
+LeDjo444 posts ante 60
+Holger Tune posts ante 60
+Jager-bomb posts ante 60
+Montagrizz22 posts ante 60
+Dylv posts ante 60
+RonnieCBeau posts ante 60
+P1xel7 posts small blind 250
+LeCholismo44 posts big blind 500
+Dealt to P1xel7 [8c 6s]
+*** PRE-FLOP *** 
+Dylv raises 610 to 1110
+RonnieCBeau folds
+LeDjo444 folds
+Holger Tune folds
+Jager-bomb folds
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 calls 610
+*** FLOP *** [Jc 6h 7c]
+LeCholismo44 checks
+Dylv bets 1918
+LeCholismo44 folds
+Dylv collected 4868 from pot
+*** SUMMARY ***
+Total pot 4868 | No rake
+Board: [Jc 6h 7c]
+Seat 7: Dylv won 4868
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3138119585694220325-41-1704914575 - Holdem no limit (60/250/500) - 2024/01/10 19:22:55 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #5 is the button
+Seat 1: LeDjo444 (17925, 0.90€ bounty)
+Seat 2: Holger Tune (18405, 0.90€ bounty)
+Seat 3: Jager-bomb (65204, 1.35€ bounty)
+Seat 4: Montagrizz22 (21190, 0.90€ bounty)
+Seat 5: P1xel7 (21128, 0.90€ bounty)
+Seat 6: LeCholismo44 (84609, 2.47€ bounty)
+Seat 7: Dylv (16502, 0.90€ bounty)
+Seat 8: RonnieCBeau (19219, 0.90€ bounty)
+*** ANTE/BLINDS ***
+LeCholismo44 posts ante 60
+Dylv posts ante 60
+LeDjo444 posts ante 60
+Holger Tune posts ante 60
+Jager-bomb posts ante 60
+Montagrizz22 posts ante 60
+P1xel7 posts ante 60
+RonnieCBeau posts ante 60
+LeCholismo44 posts small blind 250
+Dylv posts big blind 500
+Dealt to P1xel7 [8c 5d]
+*** PRE-FLOP *** 
+RonnieCBeau folds
+LeDjo444 folds
+Holger Tune folds
+Jager-bomb raises 750 to 1250
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 calls 1000
+Dylv raises 15192 to 16442 and is all-in
+Jager-bomb folds
+LeCholismo44 raises 15192 to 31634
+*** FLOP *** [7s Td Jc]
+*** TURN *** [7s Td Jc][Ks]
+*** RIVER *** [7s Td Jc Ks][7h]
+*** SHOW DOWN ***
+LeCholismo44 shows [Tc Qc] (Two pairs : Tens and 7)
+Dylv shows [Qs Qd] (Two pairs : Queens and 7)
+Dylv collected 34614 from main pot
+LeCholismo44 collected 15192 from side pot 1
+*** SUMMARY ***
+Total pot 49806 | No rake
+Board: [7s Td Jc Ks 7h]
+Seat 6: LeCholismo44 (small blind) showed [Tc Qc] and won 15192 with Two pairs : Tens and 7
+Seat 7: Dylv (big blind) showed [Qs Qd] and won 34614 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3138119585694220325-42-1704914637 - Holdem no limit (60/250/500) - 2024/01/10 19:23:57 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: LeDjo444 (17865, 0.90€ bounty)
+Seat 2: Holger Tune (18345, 0.90€ bounty)
+Seat 3: Jager-bomb (63894, 1.35€ bounty)
+Seat 4: Montagrizz22 (21130, 0.90€ bounty)
+Seat 5: P1xel7 (21068, 0.90€ bounty)
+Seat 6: LeCholismo44 (68107, 2.47€ bounty)
+Seat 7: Dylv (34614, 0.90€ bounty)
+Seat 8: RonnieCBeau (19159, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Dylv posts ante 60
+RonnieCBeau posts ante 60
+LeDjo444 posts ante 60
+Holger Tune posts ante 60
+Jager-bomb posts ante 60
+Montagrizz22 posts ante 60
+P1xel7 posts ante 60
+LeCholismo44 posts ante 60
+Dylv posts small blind 250
+RonnieCBeau posts big blind 500
+Dealt to P1xel7 [9s 4h]
+*** PRE-FLOP *** 
+LeDjo444 raises 750 to 1250
+Holger Tune folds
+Jager-bomb folds
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+RonnieCBeau folds
+LeDjo444 collected 2480 from pot
+*** SUMMARY ***
+Total pot 2480 | No rake
+Seat 1: LeDjo444 won 2480
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3138119585694220325-43-1704914665 - Holdem no limit (60/250/500) - 2024/01/10 19:24:25 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #7 is the button
+Seat 1: LeDjo444 (19035, 0.90€ bounty)
+Seat 2: Holger Tune (18285, 0.90€ bounty)
+Seat 3: Jager-bomb (63834, 1.35€ bounty)
+Seat 4: Montagrizz22 (21070, 0.90€ bounty)
+Seat 5: P1xel7 (21008, 0.90€ bounty)
+Seat 6: LeCholismo44 (68047, 2.47€ bounty)
+Seat 7: Dylv (34304, 0.90€ bounty)
+Seat 8: RonnieCBeau (18599, 0.90€ bounty)
+*** ANTE/BLINDS ***
+RonnieCBeau posts ante 60
+LeDjo444 posts ante 60
+Holger Tune posts ante 60
+Jager-bomb posts ante 60
+Montagrizz22 posts ante 60
+P1xel7 posts ante 60
+LeCholismo44 posts ante 60
+Dylv posts ante 60
+RonnieCBeau posts small blind 250
+LeDjo444 posts big blind 500
+Dealt to P1xel7 [5c Jc]
+*** PRE-FLOP *** 
+Holger Tune folds
+Jager-bomb folds
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 raises 750 to 1250
+Dylv folds
+RonnieCBeau raises 17289 to 18539 and is all-in
+LeDjo444 folds
+LeCholismo44 raises 17289 to 35828
+*** FLOP *** [2d 2h 3s]
+*** TURN *** [2d 2h 3s][4d]
+*** RIVER *** [2d 2h 3s 4d][Js]
+*** SHOW DOWN ***
+RonnieCBeau shows [8c 8h] (Two pairs : 8 and 2)
+LeCholismo44 shows [Th Tc] (Two pairs : Tens and 2)
+LeCholismo44 collected 55347 from pot
+*** SUMMARY ***
+Total pot 55347 | No rake
+Board: [2d 2h 3s 4d Js]
+Seat 6: LeCholismo44 showed [Th Tc] and won 55347 with Two pairs : Tens and 2
+Seat 8: RonnieCBeau (small blind) showed [8c 8h] and lost with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3138119585694220325-44-1704914692 - Holdem no limit (60/250/500) - 2024/01/10 19:24:52 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: LeDjo444 (18475, 0.90€ bounty)
+Seat 2: Holger Tune (18225, 0.90€ bounty)
+Seat 3: Jager-bomb (63774, 1.35€ bounty)
+Seat 4: Montagrizz22 (21010, 0.90€ bounty)
+Seat 5: P1xel7 (20948, 0.90€ bounty)
+Seat 6: LeCholismo44 (87506, 2.92€ bounty)
+Seat 7: Dylv (34244, 0.90€ bounty)
+*** ANTE/BLINDS ***
+LeDjo444 posts ante 60
+Holger Tune posts ante 60
+Jager-bomb posts ante 60
+Montagrizz22 posts ante 60
+P1xel7 posts ante 60
+LeCholismo44 posts ante 60
+Dylv posts ante 60
+LeDjo444 posts small blind 250
+Holger Tune posts big blind 500
+Dealt to P1xel7 [2s 6c]
+*** PRE-FLOP *** 
+Jager-bomb folds
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+LeDjo444 folds
+Holger Tune collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | No rake
+Seat 2: Holger Tune (big blind) won 1170
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3138119585694220325-45-1704914721 - Holdem no limit (60/250/500) - 2024/01/10 19:25:21 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #1 is the button
+Seat 1: LeDjo444 (18165, 0.90€ bounty)
+Seat 2: Holger Tune (18835, 0.90€ bounty)
+Seat 3: Jager-bomb (63714, 1.35€ bounty)
+Seat 4: Montagrizz22 (20950, 0.90€ bounty)
+Seat 5: P1xel7 (20888, 0.90€ bounty)
+Seat 6: LeCholismo44 (87446, 2.92€ bounty)
+Seat 7: Dylv (34184, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Holger Tune posts ante 60
+Jager-bomb posts ante 60
+LeDjo444 posts ante 60
+Montagrizz22 posts ante 60
+P1xel7 posts ante 60
+LeCholismo44 posts ante 60
+Dylv posts ante 60
+Holger Tune posts small blind 250
+Jager-bomb posts big blind 500
+Dealt to P1xel7 [Ks 4h]
+*** PRE-FLOP *** 
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv raises 610 to 1110
+LeDjo444 folds
+Holger Tune folds
+Jager-bomb calls 610
+*** FLOP *** [3d Qs 6c]
+Jager-bomb checks
+Dylv checks
+*** TURN *** [3d Qs 6c][Kd]
+Jager-bomb checks
+Dylv bets 1445
+Jager-bomb folds
+Dylv collected 4335 from pot
+*** SUMMARY ***
+Total pot 4335 | No rake
+Board: [3d Qs 6c Kd]
+Seat 7: Dylv won 4335
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3138119585694220325-46-1704914798 - Holdem no limit (70/300/600) - 2024/01/10 19:26:38 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #2 is the button
+Seat 1: LeDjo444 (18105, 0.90€ bounty)
+Seat 2: Holger Tune (18525, 0.90€ bounty)
+Seat 3: Jager-bomb (62544, 1.35€ bounty)
+Seat 4: Montagrizz22 (20890, 0.90€ bounty)
+Seat 5: P1xel7 (20828, 0.90€ bounty)
+Seat 6: LeCholismo44 (87386, 2.92€ bounty)
+Seat 7: Dylv (35904, 0.90€ bounty)
+Seat 8: jo70130 (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Jager-bomb posts ante 70
+Montagrizz22 posts ante 70
+LeDjo444 posts ante 70
+Holger Tune posts ante 70
+P1xel7 posts ante 70
+LeCholismo44 posts ante 70
+Dylv posts ante 70
+jo70130 posts ante 70
+Jager-bomb posts small blind 300
+Montagrizz22 posts big blind 600
+Dealt to P1xel7 [4h 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+jo70130 folds
+LeDjo444 folds
+Holger Tune raises 600 to 1200
+Jager-bomb folds
+Montagrizz22 calls 600
+*** FLOP *** [3h Tc Kh]
+Montagrizz22 checks
+Holger Tune bets 1141
+Montagrizz22 folds
+Holger Tune collected 4401 from pot
+*** SUMMARY ***
+Total pot 4401 | No rake
+Board: [3h Tc Kh]
+Seat 2: Holger Tune (button) won 4401
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3138119585694220325-47-1704914864 - Holdem no limit (70/300/600) - 2024/01/10 19:27:44 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #3 is the button
+Seat 1: LeDjo444 (18035, 0.90€ bounty)
+Seat 2: Holger Tune (20515, 0.90€ bounty)
+Seat 3: Jager-bomb (62174, 1.35€ bounty)
+Seat 4: Montagrizz22 (19620, 0.90€ bounty)
+Seat 5: P1xel7 (20758, 0.90€ bounty)
+Seat 6: LeCholismo44 (87316, 2.92€ bounty)
+Seat 7: Dylv (35834, 0.90€ bounty)
+Seat 8: jo70130 (19930, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Montagrizz22 posts ante 70
+P1xel7 posts ante 70
+LeDjo444 posts ante 70
+Holger Tune posts ante 70
+Jager-bomb posts ante 70
+LeCholismo44 posts ante 70
+Dylv posts ante 70
+jo70130 posts ante 70
+Montagrizz22 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [8h 6d]
+*** PRE-FLOP *** 
+LeCholismo44 folds
+Dylv folds
+jo70130 folds
+LeDjo444 raises 600 to 1200
+Holger Tune folds
+Jager-bomb folds
+Montagrizz22 folds
+P1xel7 folds
+LeDjo444 collected 2660 from pot
+*** SUMMARY ***
+Total pot 2660 | No rake
+Seat 1: LeDjo444 won 2660
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3138119585694220325-48-1704914903 - Holdem no limit (70/300/600) - 2024/01/10 19:28:23 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: LeDjo444 (19425, 0.90€ bounty)
+Seat 2: Holger Tune (20445, 0.90€ bounty)
+Seat 3: Jager-bomb (62104, 1.35€ bounty)
+Seat 4: Montagrizz22 (19250, 0.90€ bounty)
+Seat 5: P1xel7 (20088, 0.90€ bounty)
+Seat 6: LeCholismo44 (87246, 2.92€ bounty)
+Seat 7: Dylv (35764, 0.90€ bounty)
+Seat 8: jo70130 (19860, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+LeCholismo44 posts ante 70
+LeDjo444 posts ante 70
+Holger Tune posts ante 70
+Jager-bomb posts ante 70
+Montagrizz22 posts ante 70
+Dylv posts ante 70
+jo70130 posts ante 70
+P1xel7 posts small blind 300
+LeCholismo44 posts big blind 600
+Dealt to P1xel7 [Kc 9h]
+*** PRE-FLOP *** 
+Dylv folds
+jo70130 folds
+LeDjo444 folds
+Holger Tune folds
+Jager-bomb raises 900 to 1500
+Montagrizz22 folds
+P1xel7 calls 1200
+LeCholismo44 folds
+*** FLOP *** [5s 7c Ac]
+P1xel7 checks
+Jager-bomb bets 1456
+P1xel7 calls 1456
+*** TURN *** [5s 7c Ac][6s]
+P1xel7 checks
+Jager-bomb bets 3836
+P1xel7 folds
+Jager-bomb collected 10908 from pot
+*** SUMMARY ***
+Total pot 10908 | No rake
+Board: [5s 7c Ac 6s]
+Seat 3: Jager-bomb won 10908
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3138119585694220325-49-1704914985 - Holdem no limit (70/300/600) - 2024/01/10 19:29:45 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #5 is the button
+Seat 1: LeDjo444 (19355, 0.90€ bounty)
+Seat 2: Holger Tune (20375, 0.90€ bounty)
+Seat 3: Jager-bomb (66150, 1.35€ bounty)
+Seat 4: Montagrizz22 (19180, 0.90€ bounty)
+Seat 5: P1xel7 (17062, 0.90€ bounty)
+Seat 6: LeCholismo44 (86576, 2.92€ bounty)
+Seat 7: Dylv (35694, 0.90€ bounty)
+Seat 8: jo70130 (19790, 0.90€ bounty)
+*** ANTE/BLINDS ***
+LeCholismo44 posts ante 70
+Dylv posts ante 70
+LeDjo444 posts ante 70
+Holger Tune posts ante 70
+Jager-bomb posts ante 70
+Montagrizz22 posts ante 70
+P1xel7 posts ante 70
+jo70130 posts ante 70
+LeCholismo44 posts small blind 300
+Dylv posts big blind 600
+Dealt to P1xel7 [4c 8s]
+*** PRE-FLOP *** 
+jo70130 folds
+LeDjo444 folds
+Holger Tune folds
+Jager-bomb raises 900 to 1500
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+Jager-bomb collected 2960 from pot
+*** SUMMARY ***
+Total pot 2960 | No rake
+Seat 3: Jager-bomb won 2960
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3138119585694220325-50-1704915029 - Holdem no limit (70/300/600) - 2024/01/10 19:30:29 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: LeDjo444 (19285, 0.90€ bounty)
+Seat 2: Holger Tune (20305, 0.90€ bounty)
+Seat 3: Jager-bomb (67540, 1.35€ bounty)
+Seat 4: Montagrizz22 (19110, 0.90€ bounty)
+Seat 5: P1xel7 (16992, 0.90€ bounty)
+Seat 6: LeCholismo44 (86206, 2.92€ bounty)
+Seat 7: Dylv (35024, 0.90€ bounty)
+Seat 8: jo70130 (19720, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Dylv posts ante 70
+jo70130 posts ante 70
+LeDjo444 posts ante 70
+Holger Tune posts ante 70
+Jager-bomb posts ante 70
+Montagrizz22 posts ante 70
+P1xel7 posts ante 70
+LeCholismo44 posts ante 70
+Dylv posts small blind 300
+jo70130 posts big blind 600
+Dealt to P1xel7 [Jd Qc]
+*** PRE-FLOP *** 
+LeDjo444 folds
+Holger Tune folds
+Jager-bomb folds
+Montagrizz22 folds
+P1xel7 raises 720 to 1320
+LeCholismo44 folds
+Dylv folds
+jo70130 folds
+P1xel7 collected 2780 from pot
+*** SUMMARY ***
+Total pot 2780 | No rake
+Seat 5: P1xel7 won 2780
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3138119585694220325-51-1704915063 - Holdem no limit (80/350/700) - 2024/01/10 19:31:03 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #7 is the button
+Seat 1: LeDjo444 (19215, 0.90€ bounty)
+Seat 2: Holger Tune (20235, 0.90€ bounty)
+Seat 3: Jager-bomb (67470, 1.35€ bounty)
+Seat 4: Montagrizz22 (19040, 0.90€ bounty)
+Seat 5: P1xel7 (18382, 0.90€ bounty)
+Seat 6: LeCholismo44 (86136, 2.92€ bounty)
+Seat 7: Dylv (34654, 0.90€ bounty)
+Seat 8: jo70130 (19050, 0.90€ bounty)
+*** ANTE/BLINDS ***
+jo70130 posts ante 80
+LeDjo444 posts ante 80
+Holger Tune posts ante 80
+Jager-bomb posts ante 80
+Montagrizz22 posts ante 80
+P1xel7 posts ante 80
+LeCholismo44 posts ante 80
+Dylv posts ante 80
+jo70130 posts small blind 350
+LeDjo444 posts big blind 700
+Dealt to P1xel7 [Ah 7s]
+*** PRE-FLOP *** 
+Holger Tune folds
+Jager-bomb raises 1050 to 1750
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+jo70130 calls 1400
+LeDjo444 calls 1050
+*** FLOP *** [Ad 3c 6h]
+jo70130 checks
+LeDjo444 checks
+Jager-bomb bets 2062
+jo70130 raises 15158 to 17220 and is all-in
+LeDjo444 folds
+Jager-bomb folds
+jo70130 collected 25172 from pot
+*** SUMMARY ***
+Total pot 25172 | No rake
+Board: [Ad 3c 6h]
+Seat 8: jo70130 (small blind) won 25172
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3138119585694220325-52-1704915097 - Holdem no limit (80/350/700) - 2024/01/10 19:31:37 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: LeDjo444 (17385, 0.90€ bounty)
+Seat 2: Holger Tune (20155, 0.90€ bounty)
+Seat 4: Montagrizz22 (18960, 0.90€ bounty)
+Seat 5: P1xel7 (18302, 0.90€ bounty)
+Seat 6: LeCholismo44 (86056, 2.92€ bounty)
+Seat 7: Dylv (34574, 0.90€ bounty)
+Seat 8: jo70130 (25172, 0.90€ bounty)
+*** ANTE/BLINDS ***
+LeDjo444 posts ante 80
+Holger Tune posts ante 80
+Montagrizz22 posts ante 80
+P1xel7 posts ante 80
+LeCholismo44 posts ante 80
+Dylv posts ante 80
+jo70130 posts ante 80
+LeDjo444 posts small blind 350
+Holger Tune posts big blind 700
+Dealt to P1xel7 [2h 2s]
+*** PRE-FLOP *** 
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv raises 854 to 1554
+jo70130 calls 1554
+LeDjo444 folds
+Holger Tune folds
+*** FLOP *** [Tc Ah 4d]
+Dylv checks
+jo70130 bets 3067
+Dylv folds
+jo70130 collected 7785 from pot
+*** SUMMARY ***
+Total pot 7785 | No rake
+Board: [Tc Ah 4d]
+Seat 8: jo70130 (button) won 7785
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3138119585694220325-53-1704915177 - Holdem no limit (80/350/700) - 2024/01/10 19:32:57 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #1 is the button
+Seat 1: LeDjo444 (16955, 0.90€ bounty)
+Seat 2: Holger Tune (19375, 0.90€ bounty)
+Seat 4: Montagrizz22 (18880, 0.90€ bounty)
+Seat 5: P1xel7 (18222, 0.90€ bounty)
+Seat 6: LeCholismo44 (85976, 2.92€ bounty)
+Seat 7: Dylv (32940, 0.90€ bounty)
+Seat 8: jo70130 (28256, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Holger Tune posts ante 80
+Montagrizz22 posts ante 80
+LeDjo444 posts ante 80
+P1xel7 posts ante 80
+LeCholismo44 posts ante 80
+Dylv posts ante 80
+jo70130 posts ante 80
+Holger Tune posts small blind 350
+Montagrizz22 posts big blind 700
+Dealt to P1xel7 [9h Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+jo70130 raises 700 to 1400
+LeDjo444 folds
+Holger Tune calls 1050
+Montagrizz22 folds
+*** FLOP *** [5h 8d 7d]
+Holger Tune checks
+jo70130 bets 2639
+Holger Tune calls 2639
+*** TURN *** [5h 8d 7d][5d]
+Holger Tune checks
+jo70130 bets 6070
+Holger Tune calls 6070
+*** RIVER *** [5h 8d 7d 5d][8c]
+Holger Tune checks
+jo70130 bets 18067 and is all-in
+Holger Tune calls 9186 and is all-in
+*** SHOW DOWN ***
+Holger Tune shows [Jd Td] (Flush Jack high)
+jo70130 shows [Js Ks] (Two pairs : 8 and 5)
+jo70130 collected 8881 from side pot 1
+Holger Tune collected 39850 from main pot
+*** SUMMARY ***
+Total pot 48731 | No rake
+Board: [5h 8d 7d 5d 8c]
+Seat 2: Holger Tune (small blind) showed [Jd Td] and won 39850 with Flush Jack high
+Seat 8: jo70130 showed [Js Ks] and won 8881 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3138119585694220325-54-1704915256 - Holdem no limit (80/350/700) - 2024/01/10 19:34:16 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #2 is the button
+Seat 1: LeDjo444 (16875, 0.90€ bounty)
+Seat 2: Holger Tune (39850, 0.90€ bounty)
+Seat 4: Montagrizz22 (18100, 0.90€ bounty)
+Seat 5: P1xel7 (18142, 0.90€ bounty)
+Seat 6: LeCholismo44 (85896, 2.92€ bounty)
+Seat 7: Dylv (32860, 0.90€ bounty)
+Seat 8: jo70130 (8881, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Montagrizz22 posts ante 80
+P1xel7 posts ante 80
+LeDjo444 posts ante 80
+Holger Tune posts ante 80
+LeCholismo44 posts ante 80
+Dylv posts ante 80
+jo70130 posts ante 80
+Montagrizz22 posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [Ks 2c]
+*** PRE-FLOP *** 
+LeCholismo44 raises 1050 to 1750
+Dylv folds
+jo70130 raises 7051 to 8801 and is all-in
+LeDjo444 folds
+Holger Tune folds
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 raises 7051 to 15852
+*** FLOP *** [9d 5s Tc]
+*** TURN *** [9d 5s Tc][Jd]
+*** RIVER *** [9d 5s Tc Jd][8s]
+*** SHOW DOWN ***
+jo70130 shows [2d Jc] (One pair : Jacks)
+LeCholismo44 shows [Qd Qh] (Straight Queen high)
+LeCholismo44 collected 26263 from pot
+*** SUMMARY ***
+Total pot 26263 | No rake
+Board: [9d 5s Tc Jd 8s]
+Seat 6: LeCholismo44 showed [Qd Qh] and won 26263 with Straight Queen high
+Seat 8: jo70130 showed [2d Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3138119585694220325-55-1704915296 - Holdem no limit (80/350/700) - 2024/01/10 19:34:56 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: LeDjo444 (16795, 0.90€ bounty)
+Seat 2: Holger Tune (39770, 0.90€ bounty)
+Seat 3: totomax22 (12988, 1.35€ bounty)
+Seat 4: Montagrizz22 (17670, 0.90€ bounty)
+Seat 5: P1xel7 (17362, 0.90€ bounty)
+Seat 6: LeCholismo44 (96227, 3.37€ bounty)
+Seat 7: Dylv (32780, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+LeCholismo44 posts ante 80
+LeDjo444 posts ante 80
+Holger Tune posts ante 80
+totomax22 posts ante 80
+Montagrizz22 posts ante 80
+Dylv posts ante 80
+P1xel7 posts small blind 350
+LeCholismo44 posts big blind 700
+Dealt to P1xel7 [6s 2c]
+*** PRE-FLOP *** 
+Dylv folds
+LeDjo444 folds
+Holger Tune folds
+totomax22 raises 12208 to 12908 and is all-in
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 raises 12208 to 25116
+*** FLOP *** [Ad 7d Ac]
+*** TURN *** [Ad 7d Ac][7h]
+*** RIVER *** [Ad 7d Ac 7h][5h]
+*** SHOW DOWN ***
+totomax22 shows [3h 3d] (Two pairs : Aces and 7)
+LeCholismo44 shows [Kc 9s] (Two pairs : Aces and 7)
+LeCholismo44 collected 38934 from pot
+*** SUMMARY ***
+Total pot 38934 | No rake
+Board: [Ad 7d Ac 7h 5h]
+Seat 3: totomax22 showed [3h 3d] and lost with Two pairs : Aces and 7
+Seat 6: LeCholismo44 (big blind) showed [Kc 9s] and won 38934 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3138119585694220325-56-1704915338 - Holdem no limit (80/350/700) - 2024/01/10 19:35:38 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #5 is the button
+Seat 1: LeDjo444 (16715, 0.90€ bounty)
+Seat 2: Holger Tune (39690, 0.90€ bounty)
+Seat 4: Montagrizz22 (17590, 0.90€ bounty)
+Seat 5: P1xel7 (16932, 0.90€ bounty)
+Seat 6: LeCholismo44 (109965, 4.04€ bounty)
+Seat 7: Dylv (32700, 0.90€ bounty)
+Seat 8: baricou (20000, 0.90€ bounty)
+*** ANTE/BLINDS ***
+LeCholismo44 posts ante 80
+Dylv posts ante 80
+LeDjo444 posts ante 80
+Holger Tune posts ante 80
+Montagrizz22 posts ante 80
+P1xel7 posts ante 80
+baricou posts ante 80
+LeCholismo44 posts small blind 350
+Dylv posts big blind 700
+Dealt to P1xel7 [6c 2d]
+*** PRE-FLOP *** 
+baricou folds
+LeDjo444 folds
+Holger Tune folds
+Montagrizz22 folds
+P1xel7 folds
+LeCholismo44 raises 1400 to 2100
+Dylv folds
+LeCholismo44 collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Seat 6: LeCholismo44 (small blind) won 3360
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3138119585694220325-57-1704915371 - Holdem no limit (100/400/800) - 2024/01/10 19:36:11 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: LeDjo444 (16635, 0.90€ bounty)
+Seat 2: Holger Tune (39610, 0.90€ bounty)
+Seat 3: maariio.bs_ (20000, 0.90€ bounty)
+Seat 4: Montagrizz22 (17510, 0.90€ bounty)
+Seat 5: P1xel7 (16852, 0.90€ bounty)
+Seat 6: LeCholismo44 (111145, 4.04€ bounty)
+Seat 7: Dylv (31920, 0.90€ bounty)
+Seat 8: baricou (19920, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Dylv posts ante 100
+baricou posts ante 100
+LeDjo444 posts ante 100
+Holger Tune posts ante 100
+maariio.bs_ posts ante 100
+Montagrizz22 posts ante 100
+P1xel7 posts ante 100
+LeCholismo44 posts ante 100
+Dylv posts small blind 400
+baricou posts big blind 800
+Dealt to P1xel7 [9s Jh]
+*** PRE-FLOP *** 
+LeDjo444 folds
+Holger Tune folds
+maariio.bs_ folds
+Montagrizz22 calls 800
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+baricou checks
+*** FLOP *** [7d Tc Qc]
+baricou checks
+Montagrizz22 bets 1820
+baricou folds
+Montagrizz22 collected 4620 from pot
+*** SUMMARY ***
+Total pot 4620 | No rake
+Board: [7d Tc Qc]
+Seat 4: Montagrizz22 won 4620
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3138119585694220325-58-1704915455 - Holdem no limit (100/400/800) - 2024/01/10 19:37:35 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #7 is the button
+Seat 1: LeDjo444 (16535, 0.90€ bounty)
+Seat 2: Holger Tune (39510, 0.90€ bounty)
+Seat 3: maariio.bs_ (19900, 0.90€ bounty)
+Seat 4: Montagrizz22 (19410, 0.90€ bounty)
+Seat 5: P1xel7 (16752, 0.90€ bounty)
+Seat 6: LeCholismo44 (111045, 4.04€ bounty)
+Seat 7: Dylv (31420, 0.90€ bounty)
+Seat 8: baricou (19020, 0.90€ bounty)
+*** ANTE/BLINDS ***
+baricou posts ante 100
+LeDjo444 posts ante 100
+Holger Tune posts ante 100
+maariio.bs_ posts ante 100
+Montagrizz22 posts ante 100
+P1xel7 posts ante 100
+LeCholismo44 posts ante 100
+Dylv posts ante 100
+baricou posts small blind 400
+LeDjo444 posts big blind 800
+Dealt to P1xel7 [6s 8h]
+*** PRE-FLOP *** 
+Holger Tune raises 800 to 1600
+maariio.bs_ calls 1600
+Montagrizz22 calls 1600
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+baricou folds
+LeDjo444 calls 800
+*** FLOP *** [Tc 4s 3c]
+LeDjo444 checks
+Holger Tune bets 2660
+maariio.bs_ folds
+Montagrizz22 calls 2660
+LeDjo444 folds
+*** TURN *** [Tc 4s 3c][Qd]
+Holger Tune bets 4522
+Montagrizz22 calls 4522
+*** RIVER *** [Tc 4s 3c Qd][2d]
+Holger Tune bets 10982
+Montagrizz22 calls 10528 and is all-in
+*** SHOW DOWN ***
+Montagrizz22 shows [Jh Th] (One pair : Tens)
+Holger Tune shows [Qs As] (One pair : Queens)
+Holger Tune collected 43474 from pot
+*** SUMMARY ***
+Total pot 43474 | No rake
+Board: [Tc 4s 3c Qd 2d]
+Seat 2: Holger Tune showed [Qs As] and won 43474 with One pair : Queens
+Seat 4: Montagrizz22 showed [Jh Th] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3138119585694220325-59-1704915556 - Holdem no limit (100/400/800) - 2024/01/10 19:39:16 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: LeDjo444 (14835, 0.90€ bounty)
+Seat 2: Holger Tune (63120, 1.35€ bounty)
+Seat 3: maariio.bs_ (18200, 0.90€ bounty)
+Seat 5: P1xel7 (16652, 0.90€ bounty)
+Seat 6: LeCholismo44 (110945, 4.04€ bounty)
+Seat 7: Dylv (31320, 0.90€ bounty)
+Seat 8: baricou (18520, 0.90€ bounty)
+*** ANTE/BLINDS ***
+LeDjo444 posts ante 100
+Holger Tune posts ante 100
+maariio.bs_ posts ante 100
+P1xel7 posts ante 100
+LeCholismo44 posts ante 100
+Dylv posts ante 100
+baricou posts ante 100
+LeDjo444 posts small blind 400
+Holger Tune posts big blind 800
+Dealt to P1xel7 [9s 8c]
+*** PRE-FLOP *** 
+maariio.bs_ folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+baricou folds
+LeDjo444 raises 13935 to 14735 and is all-in
+Holger Tune folds
+LeDjo444 collected 16235 from pot
+*** SUMMARY ***
+Total pot 16235 | No rake
+Seat 1: LeDjo444 (small blind) won 16235
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3138119585694220325-60-1704915599 - Holdem no limit (100/400/800) - 2024/01/10 19:39:59 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #1 is the button
+Seat 1: LeDjo444 (16235, 0.90€ bounty)
+Seat 2: Holger Tune (62220, 1.35€ bounty)
+Seat 3: maariio.bs_ (18100, 0.90€ bounty)
+Seat 4: Decaaaaa (55874, 1.35€ bounty)
+Seat 5: P1xel7 (16552, 0.90€ bounty)
+Seat 6: LeCholismo44 (110845, 4.04€ bounty)
+Seat 7: Dylv (31220, 0.90€ bounty)
+Seat 8: baricou (18420, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Holger Tune posts ante 100
+maariio.bs_ posts ante 100
+LeDjo444 posts ante 100
+Decaaaaa posts ante 100
+P1xel7 posts ante 100
+LeCholismo44 posts ante 100
+Dylv posts ante 100
+baricou posts ante 100
+Holger Tune posts small blind 400
+maariio.bs_ posts big blind 800
+Dealt to P1xel7 [Kc Qd]
+*** PRE-FLOP *** 
+Decaaaaa folds
+P1xel7 raises 800 to 1600
+LeCholismo44 folds
+Dylv folds
+baricou folds
+LeDjo444 folds
+Holger Tune folds
+maariio.bs_ raises 4400 to 6000
+P1xel7 calls 4400
+*** FLOP *** [3c 5c 7c]
+maariio.bs_ bets 12000 and is all-in
+P1xel7 calls 10452 and is all-in
+*** TURN *** [3c 5c 7c][2d]
+*** RIVER *** [3c 5c 7c 2d][Qs]
+*** SHOW DOWN ***
+maariio.bs_ shows [Jc Kd] (High card : King)
+P1xel7 shows [Kc Qd] (One pair : Queens)
+P1xel7 collected 34104 from main pot
+maariio.bs_ collected 1548 from side pot 1
+*** SUMMARY ***
+Total pot 35652 | No rake
+Board: [3c 5c 7c 2d Qs]
+Seat 3: maariio.bs_ (big blind) showed [Jc Kd] and won 1548 with High card : King
+Seat 5: P1xel7 showed [Kc Qd] and won 34104 with One pair : Queens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 9 - HandId: #3138119585694220325-61-1704915657 - Holdem no limit (100/400/800) - 2024/01/10 19:40:57 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #2 is the button
+Seat 1: LeDjo444 (16135, 0.90€ bounty)
+Seat 2: Holger Tune (61720, 1.35€ bounty)
+Seat 3: maariio.bs_ (1548, 0.90€ bounty)
+Seat 4: Decaaaaa (55774, 1.35€ bounty)
+Seat 5: P1xel7 (34104, 0.90€ bounty)
+Seat 6: LeCholismo44 (110745, 4.04€ bounty)
+Seat 7: Dylv (31120, 0.90€ bounty)
+Seat 8: baricou (18320, 0.90€ bounty)
+*** ANTE/BLINDS ***
+maariio.bs_ posts ante 100
+Decaaaaa posts ante 100
+LeDjo444 posts ante 100
+Holger Tune posts ante 100
+P1xel7 posts ante 100
+LeCholismo44 posts ante 100
+Dylv posts ante 100
+baricou posts ante 100
+maariio.bs_ posts small blind 400
+Decaaaaa posts big blind 800
+Dealt to P1xel7 [9h 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+LeCholismo44 folds
+Dylv raises 976 to 1776
+baricou folds
+LeDjo444 folds
+Holger Tune folds
+maariio.bs_ calls 1048 and is all-in
+Decaaaaa calls 976
+*** FLOP *** [Qh 8s 6d]
+Decaaaaa checks
+Dylv bets 2030
+Decaaaaa folds
+*** TURN *** [Qh 8s 6d][7d]
+*** RIVER *** [Qh 8s 6d 7d][Ks]
+*** SHOW DOWN ***
+maariio.bs_ shows [Qs 5s] (One pair : Queens)
+Dylv shows [Qc Qd] (Trips of Queens)
+Dylv collected 7830 from pot
+*** SUMMARY ***
+Total pot 7830 | No rake
+Board: [Qh 8s 6d 7d Ks]
+Seat 3: maariio.bs_ (small blind) showed [Qs 5s] and lost with One pair : Queens
+Seat 7: Dylv showed [Qc Qd] and won 7830 with Trips of Queens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3138119585694220325-62-1704915725 - Holdem no limit (120/500/1000) - 2024/01/10 19:42:05 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #3 is the button
+Seat 1: LeDjo444 (16035, 0.90€ bounty)
+Seat 2: Holger Tune (61620, 1.35€ bounty)
+Seat 4: Decaaaaa (53898, 1.35€ bounty)
+Seat 5: P1xel7 (34004, 0.90€ bounty)
+Seat 6: LeCholismo44 (110645, 4.04€ bounty)
+Seat 7: Dylv (35044, 1.35€ bounty)
+Seat 8: baricou (18220, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Decaaaaa posts ante 120
+P1xel7 posts ante 120
+LeDjo444 posts ante 120
+Holger Tune posts ante 120
+LeCholismo44 posts ante 120
+Dylv posts ante 120
+baricou posts ante 120
+Decaaaaa posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [9d 4h]
+*** PRE-FLOP *** 
+LeCholismo44 folds
+Dylv folds
+baricou calls 1000
+LeDjo444 folds
+Holger Tune raises 2000 to 3000
+Decaaaaa folds
+P1xel7 folds
+baricou calls 2000
+*** FLOP *** [4d Kh 5h]
+baricou checks
+Holger Tune bets 2919
+baricou folds
+Holger Tune collected 11259 from pot
+*** SUMMARY ***
+Total pot 11259 | No rake
+Board: [4d Kh 5h]
+Seat 2: Holger Tune won 11259
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3138119585694220325-63-1704915807 - Holdem no limit (120/500/1000) - 2024/01/10 19:43:27 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: LeDjo444 (15915, 0.90€ bounty)
+Seat 2: Holger Tune (66840, 1.35€ bounty)
+Seat 3: AACIFO (20000, 0.90€ bounty)
+Seat 4: Decaaaaa (53278, 1.35€ bounty)
+Seat 5: P1xel7 (32884, 0.90€ bounty)
+Seat 6: LeCholismo44 (110525, 4.04€ bounty)
+Seat 7: Dylv (34924, 1.35€ bounty)
+Seat 8: baricou (15100, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+LeCholismo44 posts ante 120
+LeDjo444 posts ante 120
+Holger Tune posts ante 120
+AACIFO posts ante 120
+Decaaaaa posts ante 120
+Dylv posts ante 120
+baricou posts ante 120
+P1xel7 posts small blind 500
+LeCholismo44 posts big blind 1000
+Dealt to P1xel7 [5s 8s]
+*** PRE-FLOP *** 
+Dylv folds
+baricou calls 1000
+LeDjo444 folds
+Holger Tune folds
+AACIFO calls 1000
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 checks
+*** FLOP *** [4c 2d 3h]
+LeCholismo44 checks
+baricou checks
+AACIFO bets 1881
+LeCholismo44 folds
+baricou calls 1881
+*** TURN *** [4c 2d 3h][Jd]
+baricou bets 12099 and is all-in
+AACIFO raises 4900 to 16999 and is all-in
+*** RIVER *** [4c 2d 3h Jd][Ks]
+*** SHOW DOWN ***
+baricou shows [As 9c] (High card : Ace)
+AACIFO shows [Jc Qd] (One pair : Jacks)
+AACIFO collected 37320 from pot
+*** SUMMARY ***
+Total pot 37320 | No rake
+Board: [4c 2d 3h Jd Ks]
+Seat 3: AACIFO showed [Jc Qd] and won 37320 with One pair : Jacks
+Seat 8: baricou showed [As 9c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #3138119585694220325-64-1704915884 - Holdem no limit (120/500/1000) - 2024/01/10 19:44:44 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #5 is the button
+Seat 1: LeDjo444 (15795, 0.90€ bounty)
+Seat 2: Holger Tune (66720, 1.35€ bounty)
+Seat 3: AACIFO (37320, 1.35€ bounty)
+Seat 4: Decaaaaa (53158, 1.35€ bounty)
+Seat 5: P1xel7 (32264, 0.90€ bounty)
+Seat 6: LeCholismo44 (109405, 4.04€ bounty)
+Seat 7: Dylv (34804, 1.35€ bounty)
+*** ANTE/BLINDS ***
+LeCholismo44 posts ante 120
+Dylv posts ante 120
+LeDjo444 posts ante 120
+Holger Tune posts ante 120
+AACIFO posts ante 120
+Decaaaaa posts ante 120
+P1xel7 posts ante 120
+LeCholismo44 posts small blind 500
+Dylv posts big blind 1000
+Dealt to P1xel7 [8d 4d]
+*** PRE-FLOP *** 
+LeDjo444 folds
+Holger Tune folds
+AACIFO calls 1000
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 calls 500
+Dylv checks
+*** FLOP *** [Ah Ad Ks]
+LeCholismo44 checks
+Dylv checks
+AACIFO bets 3647
+LeCholismo44 calls 3647
+Dylv folds
+*** TURN *** [Ah Ad Ks][3h]
+LeCholismo44 checks
+AACIFO checks
+*** RIVER *** [Ah Ad Ks 3h][6c]
+LeCholismo44 checks
+AACIFO checks
+*** SHOW DOWN ***
+LeCholismo44 shows [Ts Qs] (One pair : Aces)
+AACIFO shows [2h 2s] (Two pairs : Aces and 2)
+AACIFO collected 11134 from pot
+*** SUMMARY ***
+Total pot 11134 | No rake
+Board: [Ah Ad Ks 3h 6c]
+Seat 3: AACIFO showed [2h 2s] and won 11134 with Two pairs : Aces and 2
+Seat 6: LeCholismo44 (small blind) showed [Ts Qs] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3138119585694220325-65-1704915971 - Holdem no limit (140/600/1200) - 2024/01/10 19:46:11 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: LeDjo444 (15675, 0.90€ bounty)
+Seat 2: Holger Tune (66600, 1.35€ bounty)
+Seat 3: AACIFO (43687, 1.35€ bounty)
+Seat 4: Decaaaaa (53038, 1.35€ bounty)
+Seat 5: P1xel7 (32144, 0.90€ bounty)
+Seat 6: LeCholismo44 (104638, 4.04€ bounty)
+Seat 7: Dylv (33684, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Dylv posts ante 140
+LeDjo444 posts ante 140
+Holger Tune posts ante 140
+AACIFO posts ante 140
+Decaaaaa posts ante 140
+P1xel7 posts ante 140
+LeCholismo44 posts ante 140
+Dylv posts small blind 600
+LeDjo444 posts big blind 1200
+Dealt to P1xel7 [4s Td]
+*** PRE-FLOP *** 
+Holger Tune folds
+AACIFO folds
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 raises 1500 to 2700
+Dylv folds
+LeDjo444 calls 1500
+*** FLOP *** [5s 8c Jc]
+LeDjo444 bets 12835 and is all-in
+LeCholismo44 folds
+LeDjo444 collected 19815 from pot
+*** SUMMARY ***
+Total pot 19815 | No rake
+Board: [5s 8c Jc]
+Seat 1: LeDjo444 (big blind) won 19815
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3138119585694220325-66-1704916026 - Holdem no limit (140/600/1200) - 2024/01/10 19:47:06 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #7 is the button
+Seat 1: LeDjo444 (19815, 0.90€ bounty)
+Seat 2: Holger Tune (66460, 1.35€ bounty)
+Seat 3: AACIFO (43547, 1.35€ bounty)
+Seat 4: Decaaaaa (52898, 1.35€ bounty)
+Seat 5: P1xel7 (32004, 0.90€ bounty)
+Seat 6: LeCholismo44 (101798, 4.04€ bounty)
+Seat 7: Dylv (32944, 1.35€ bounty)
+Seat 8: Ystios (57548, 2.25€ bounty)
+*** ANTE/BLINDS ***
+LeDjo444 posts ante 140
+Holger Tune posts ante 140
+AACIFO posts ante 140
+Decaaaaa posts ante 140
+P1xel7 posts ante 140
+LeCholismo44 posts ante 140
+Dylv posts ante 140
+LeDjo444 posts small blind 600
+Holger Tune posts big blind 1200
+Dealt to P1xel7 [Ks 5h]
+*** PRE-FLOP *** 
+AACIFO folds
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+LeDjo444 calls 600
+Holger Tune checks
+*** FLOP *** [5s 2s Kc]
+LeDjo444 checks
+Holger Tune checks
+*** TURN *** [5s 2s Kc][7h]
+LeDjo444 checks
+Holger Tune checks
+*** RIVER *** [5s 2s Kc 7h][5c]
+LeDjo444 checks
+Holger Tune checks
+*** SHOW DOWN ***
+Holger Tune shows [Qh 9c] (One pair : 5)
+LeDjo444 shows [Ts Qc] (One pair : 5)
+LeDjo444 collected 3380 from pot
+*** SUMMARY ***
+Total pot 3380 | No rake
+Board: [5s 2s Kc 7h 5c]
+Seat 1: LeDjo444 (small blind) showed [Ts Qc] and won 3380 with One pair : 5
+Seat 2: Holger Tune (big blind) showed [Qh 9c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3138119585694220325-67-1704916110 - Holdem no limit (140/600/1200) - 2024/01/10 19:48:30 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #1 is the button
+Seat 1: LeDjo444 (21855, 0.90€ bounty)
+Seat 2: Holger Tune (65120, 1.35€ bounty)
+Seat 3: AACIFO (43407, 1.35€ bounty)
+Seat 4: Decaaaaa (52758, 1.35€ bounty)
+Seat 5: P1xel7 (31864, 0.90€ bounty)
+Seat 6: LeCholismo44 (101658, 4.04€ bounty)
+Seat 7: Dylv (32804, 1.35€ bounty)
+Seat 8: Ystios (57548, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Holger Tune posts ante 140
+AACIFO posts ante 140
+LeDjo444 posts ante 140
+Decaaaaa posts ante 140
+P1xel7 posts ante 140
+LeCholismo44 posts ante 140
+Dylv posts ante 140
+Ystios posts ante 140
+Holger Tune posts small blind 600
+AACIFO posts big blind 1200
+Dealt to P1xel7 [7s Ad]
+*** PRE-FLOP *** 
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv raises 1464 to 2664
+Ystios folds
+LeDjo444 folds
+Holger Tune folds
+AACIFO folds
+Dylv collected 5584 from pot
+*** SUMMARY ***
+Total pot 5584 | No rake
+Seat 7: Dylv won 5584
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3138119585694220325-68-1704916146 - Holdem no limit (140/600/1200) - 2024/01/10 19:49:06 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #2 is the button
+Seat 1: LeDjo444 (21715, 0.90€ bounty)
+Seat 2: Holger Tune (64380, 1.35€ bounty)
+Seat 3: AACIFO (42067, 1.35€ bounty)
+Seat 4: Decaaaaa (52618, 1.35€ bounty)
+Seat 5: P1xel7 (31724, 0.90€ bounty)
+Seat 6: LeCholismo44 (101518, 4.04€ bounty)
+Seat 7: Dylv (35584, 1.35€ bounty)
+Seat 8: Ystios (57408, 2.25€ bounty)
+*** ANTE/BLINDS ***
+AACIFO posts ante 140
+Decaaaaa posts ante 140
+LeDjo444 posts ante 140
+Holger Tune posts ante 140
+P1xel7 posts ante 140
+LeCholismo44 posts ante 140
+Dylv posts ante 140
+Ystios posts ante 140
+AACIFO posts small blind 600
+Decaaaaa posts big blind 1200
+Dealt to P1xel7 [3s Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+LeCholismo44 folds
+Dylv raises 1200 to 2400
+Ystios folds
+LeDjo444 folds
+Holger Tune folds
+AACIFO folds
+Decaaaaa calls 1200
+*** FLOP *** [Jh Ks 9h]
+Decaaaaa checks
+Dylv checks
+*** TURN *** [Jh Ks 9h][8d]
+Decaaaaa checks
+Dylv checks
+*** RIVER *** [Jh Ks 9h 8d][6s]
+Decaaaaa checks
+Dylv checks
+*** SHOW DOWN ***
+Dylv shows [Tc Ac] (High card : Ace)
+Decaaaaa shows [9d Qh] (One pair : 9)
+Decaaaaa collected 6520 from pot
+*** SUMMARY ***
+Total pot 6520 | No rake
+Board: [Jh Ks 9h 8d 6s]
+Seat 4: Decaaaaa (big blind) showed [9d Qh] and won 6520 with One pair : 9
+Seat 7: Dylv showed [Tc Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #3138119585694220325-69-1704916254 - Holdem no limit (140/600/1200) - 2024/01/10 19:50:54 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #3 is the button
+Seat 1: LeDjo444 (21575, 0.90€ bounty)
+Seat 2: Holger Tune (64240, 1.35€ bounty)
+Seat 3: AACIFO (41327, 1.35€ bounty)
+Seat 4: Decaaaaa (56598, 1.35€ bounty)
+Seat 5: P1xel7 (31584, 0.90€ bounty)
+Seat 6: LeCholismo44 (101378, 4.04€ bounty)
+Seat 7: Dylv (33044, 1.35€ bounty)
+Seat 8: Ystios (57268, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Decaaaaa posts ante 140
+P1xel7 posts ante 140
+LeDjo444 posts ante 140
+Holger Tune posts ante 140
+AACIFO posts ante 140
+LeCholismo44 posts ante 140
+Dylv posts ante 140
+Ystios posts ante 140
+Decaaaaa posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [8s 7c]
+*** PRE-FLOP *** 
+LeCholismo44 folds
+Dylv folds
+Ystios raises 1500 to 2700
+LeDjo444 folds
+Holger Tune folds
+AACIFO folds
+Decaaaaa folds
+P1xel7 folds
+Ystios collected 5620 from pot
+*** SUMMARY ***
+Total pot 5620 | No rake
+Seat 8: Ystios won 5620
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3138119585694220325-70-1704916286 - Holdem no limit (160/700/1400) - 2024/01/10 19:51:26 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: LeDjo444 (21435, 0.90€ bounty)
+Seat 2: Holger Tune (64100, 1.35€ bounty)
+Seat 3: AACIFO (41187, 1.35€ bounty)
+Seat 4: Decaaaaa (55858, 1.35€ bounty)
+Seat 5: P1xel7 (30244, 0.90€ bounty)
+Seat 6: LeCholismo44 (101238, 4.04€ bounty)
+Seat 7: Dylv (32904, 1.35€ bounty)
+Seat 8: Ystios (60048, 2.25€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+LeCholismo44 posts ante 160
+LeDjo444 posts ante 160
+Holger Tune posts ante 160
+AACIFO posts ante 160
+Decaaaaa posts ante 160
+Dylv posts ante 160
+Ystios posts ante 160
+P1xel7 posts small blind 700
+LeCholismo44 posts big blind 1400
+Dealt to P1xel7 [3d 7h]
+*** PRE-FLOP *** 
+Dylv folds
+Ystios folds
+LeDjo444 folds
+Holger Tune folds
+AACIFO folds
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 collected 3380 from pot
+*** SUMMARY ***
+Total pot 3380 | No rake
+Seat 6: LeCholismo44 (big blind) won 3380
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3138119585694220325-71-1704916307 - Holdem no limit (160/700/1400) - 2024/01/10 19:51:47 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #5 is the button
+Seat 1: LeDjo444 (21275, 0.90€ bounty)
+Seat 2: Holger Tune (63940, 1.35€ bounty)
+Seat 3: AACIFO (41027, 1.35€ bounty)
+Seat 4: Decaaaaa (55698, 1.35€ bounty)
+Seat 5: P1xel7 (29384, 0.90€ bounty)
+Seat 6: LeCholismo44 (103058, 4.04€ bounty)
+Seat 7: Dylv (32744, 1.35€ bounty)
+Seat 8: Ystios (59888, 2.25€ bounty)
+*** ANTE/BLINDS ***
+LeCholismo44 posts ante 160
+Dylv posts ante 160
+LeDjo444 posts ante 160
+Holger Tune posts ante 160
+AACIFO posts ante 160
+Decaaaaa posts ante 160
+P1xel7 posts ante 160
+Ystios posts ante 160
+LeCholismo44 posts small blind 700
+Dylv posts big blind 1400
+Dealt to P1xel7 [Kd Kc]
+*** PRE-FLOP *** 
+Ystios folds
+LeDjo444 folds
+Holger Tune folds
+AACIFO calls 1400
+Decaaaaa folds
+P1xel7 raises 2800 to 4200
+LeCholismo44 folds
+Dylv folds
+AACIFO folds
+P1xel7 collected 8980 from pot
+*** SUMMARY ***
+Total pot 8980 | No rake
+Seat 5: P1xel7 (button) won 8980
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3138119585694220325-72-1704916388 - Holdem no limit (160/700/1400) - 2024/01/10 19:53:08 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: LeDjo444 (21115, 0.90€ bounty)
+Seat 2: Holger Tune (63780, 1.35€ bounty)
+Seat 3: AACIFO (39467, 1.35€ bounty)
+Seat 4: Decaaaaa (55538, 1.35€ bounty)
+Seat 5: P1xel7 (34004, 0.90€ bounty)
+Seat 6: LeCholismo44 (102198, 4.04€ bounty)
+Seat 7: Dylv (31184, 1.35€ bounty)
+Seat 8: Ystios (59728, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Dylv posts ante 160
+Ystios posts ante 160
+LeDjo444 posts ante 160
+Holger Tune posts ante 160
+AACIFO posts ante 160
+Decaaaaa posts ante 160
+P1xel7 posts ante 160
+LeCholismo44 posts ante 160
+Dylv posts small blind 700
+Ystios posts big blind 1400
+Dealt to P1xel7 [Qc 3c]
+*** PRE-FLOP *** 
+LeDjo444 folds
+Holger Tune folds
+AACIFO raises 2100 to 3500
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+Ystios raises 56068 to 59568 and is all-in
+AACIFO calls 35807 and is all-in
+*** FLOP *** [Qd 4h Jh]
+*** TURN *** [Qd 4h Jh][2h]
+*** RIVER *** [Qd 4h Jh 2h][Tc]
+*** SHOW DOWN ***
+AACIFO shows [Kc Jc] (One pair : Jacks)
+Ystios shows [9h 9d] (One pair : 9)
+Ystios collected 20261 from side pot 1
+AACIFO collected 80594 from main pot
+*** SUMMARY ***
+Total pot 100855 | No rake
+Board: [Qd 4h Jh 2h Tc]
+Seat 3: AACIFO showed [Kc Jc] and won 80594 with One pair : Jacks
+Seat 8: Ystios (big blind) showed [9h 9d] and won 20261 with One pair : 9
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3138119585694220325-73-1704916426 - Holdem no limit (160/700/1400) - 2024/01/10 19:53:46 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #7 is the button
+Seat 1: LeDjo444 (20955, 0.90€ bounty)
+Seat 2: Holger Tune (63620, 1.35€ bounty)
+Seat 3: AACIFO (80594, 1.35€ bounty)
+Seat 4: Decaaaaa (55378, 1.35€ bounty)
+Seat 5: P1xel7 (33844, 0.90€ bounty)
+Seat 6: LeCholismo44 (102038, 4.04€ bounty)
+Seat 7: Dylv (30324, 1.35€ bounty)
+Seat 8: Ystios (20261, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Ystios posts ante 160
+LeDjo444 posts ante 160
+Holger Tune posts ante 160
+AACIFO posts ante 160
+Decaaaaa posts ante 160
+P1xel7 posts ante 160
+LeCholismo44 posts ante 160
+Dylv posts ante 160
+Ystios posts small blind 700
+LeDjo444 posts big blind 1400
+Dealt to P1xel7 [Td Qc]
+*** PRE-FLOP *** 
+Holger Tune folds
+AACIFO calls 1400
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv raises 3500 to 4900
+Ystios raises 15201 to 20101 and is all-in
+LeDjo444 folds
+AACIFO folds
+Dylv folds
+Ystios shows [Ac Qd] (High card : Ace)
+Ystios collected 29081 from pot
+*** SUMMARY ***
+Total pot 29081 | No rake
+Seat 8: Ystios (small blind) showed [Ac Qd] and won 29081 with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3138119585694220325-74-1704916469 - Holdem no limit (160/700/1400) - 2024/01/10 19:54:29 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: LeDjo444 (19395, 0.90€ bounty)
+Seat 2: Holger Tune (63460, 1.35€ bounty)
+Seat 3: AACIFO (79034, 1.35€ bounty)
+Seat 4: Decaaaaa (55218, 1.35€ bounty)
+Seat 5: P1xel7 (33684, 0.90€ bounty)
+Seat 6: LeCholismo44 (101878, 4.04€ bounty)
+Seat 7: Dylv (25264, 1.35€ bounty)
+Seat 8: Ystios (29081, 2.25€ bounty)
+*** ANTE/BLINDS ***
+LeDjo444 posts ante 160
+Holger Tune posts ante 160
+AACIFO posts ante 160
+Decaaaaa posts ante 160
+P1xel7 posts ante 160
+LeCholismo44 posts ante 160
+Dylv posts ante 160
+Ystios posts ante 160
+LeDjo444 posts small blind 700
+Holger Tune posts big blind 1400
+Dealt to P1xel7 [Qh Ad]
+*** PRE-FLOP *** 
+AACIFO calls 1400
+Decaaaaa folds
+P1xel7 raises 1680 to 3080
+LeCholismo44 calls 3080
+Dylv folds
+Ystios folds
+LeDjo444 folds
+Holger Tune folds
+AACIFO calls 1680
+*** FLOP *** [5h As 3h]
+AACIFO bets 1400
+P1xel7 raises 4487 to 5887
+LeCholismo44 folds
+AACIFO folds
+P1xel7 collected 19907 from pot
+*** SUMMARY ***
+Total pot 19907 | No rake
+Board: [5h As 3h]
+Seat 5: P1xel7 won 19907
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #3138119585694220325-75-1704916861 - Holdem no limit (160/700/1400) - 2024/01/10 20:01:01 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #1 is the button
+Seat 1: LeDjo444 (18535, 0.90€ bounty)
+Seat 2: Holger Tune (61900, 1.35€ bounty)
+Seat 3: AACIFO (74394, 1.35€ bounty)
+Seat 4: Decaaaaa (55058, 1.35€ bounty)
+Seat 5: P1xel7 (44464, 0.90€ bounty)
+Seat 6: LeCholismo44 (98638, 4.04€ bounty)
+Seat 7: Dylv (25104, 1.35€ bounty)
+Seat 8: Ystios (28921, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Holger Tune posts ante 160
+AACIFO posts ante 160
+LeDjo444 posts ante 160
+Decaaaaa posts ante 160
+P1xel7 posts ante 160
+LeCholismo44 posts ante 160
+Dylv posts ante 160
+Ystios posts ante 160
+Holger Tune posts small blind 700
+AACIFO posts big blind 1400
+Dealt to P1xel7 [Jh Kh]
+*** PRE-FLOP *** 
+Decaaaaa folds
+P1xel7 raises 1400 to 2800
+LeCholismo44 folds
+Dylv folds
+Ystios folds
+LeDjo444 folds
+Holger Tune folds
+AACIFO calls 1400
+*** FLOP *** [Js Ac Kd]
+AACIFO bets 1400
+P1xel7 raises 2723 to 4123
+AACIFO calls 2723
+*** TURN *** [Js Ac Kd][Jd]
+AACIFO checks
+P1xel7 checks
+*** RIVER *** [Js Ac Kd Jd][8d]
+AACIFO bets 3500
+P1xel7 raises 9663 to 13163
+AACIFO folds
+P1xel7 collected 32489 from pot
+*** SUMMARY ***
+Total pot 32489 | No rake
+Board: [Js Ac Kd Jd 8d]
+Seat 5: P1xel7 won 32489
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3138119585694220325-76-1704916981 - Holdem no limit (200/800/1600) - 2024/01/10 20:03:01 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #2 is the button
+Seat 1: LeDjo444 (18375, 0.90€ bounty)
+Seat 2: Holger Tune (61040, 1.35€ bounty)
+Seat 3: AACIFO (63811, 1.35€ bounty)
+Seat 4: Decaaaaa (54898, 1.35€ bounty)
+Seat 5: P1xel7 (56707, 0.90€ bounty)
+Seat 6: LeCholismo44 (98478, 4.04€ bounty)
+Seat 7: Dylv (24944, 1.35€ bounty)
+Seat 8: Ystios (28761, 2.25€ bounty)
+*** ANTE/BLINDS ***
+AACIFO posts ante 200
+Decaaaaa posts ante 200
+LeDjo444 posts ante 200
+Holger Tune posts ante 200
+P1xel7 posts ante 200
+LeCholismo44 posts ante 200
+Dylv posts ante 200
+Ystios posts ante 200
+AACIFO posts small blind 800
+Decaaaaa posts big blind 1600
+Dealt to P1xel7 [2c Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+LeCholismo44 raises 1600 to 3200
+Dylv folds
+Ystios folds
+LeDjo444 raises 14975 to 18175 and is all-in
+Holger Tune folds
+AACIFO folds
+Decaaaaa folds
+LeCholismo44 raises 14975 to 33150
+*** FLOP *** [Js 5d Qs]
+*** TURN *** [Js 5d Qs][Qd]
+*** RIVER *** [Js 5d Qs Qd][9h]
+*** SHOW DOWN ***
+LeDjo444 shows [Ah 8h] (One pair : Queens)
+LeCholismo44 shows [Ac Th] (One pair : Queens)
+LeCholismo44 collected 55325 from pot
+*** SUMMARY ***
+Total pot 55325 | No rake
+Board: [Js 5d Qs Qd 9h]
+Seat 1: LeDjo444 showed [Ah 8h] and lost with One pair : Queens
+Seat 6: LeCholismo44 showed [Ac Th] and won 55325 with One pair : Queens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3138119585694220325-77-1704917019 - Holdem no limit (200/800/1600) - 2024/01/10 20:03:39 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #3 is the button
+Seat 2: Holger Tune (60840, 1.35€ bounty)
+Seat 3: AACIFO (62811, 1.35€ bounty)
+Seat 4: Decaaaaa (53098, 1.35€ bounty)
+Seat 5: P1xel7 (56507, 0.90€ bounty)
+Seat 6: LeCholismo44 (120453, 4.49€ bounty)
+Seat 7: Dylv (24744, 1.35€ bounty)
+Seat 8: Ystios (28561, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Decaaaaa posts ante 200
+P1xel7 posts ante 200
+Holger Tune posts ante 200
+AACIFO posts ante 200
+LeCholismo44 posts ante 200
+Dylv posts ante 200
+Ystios posts ante 200
+Decaaaaa posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [6h 4h]
+*** PRE-FLOP *** 
+LeCholismo44 raises 1600 to 3200
+Dylv folds
+Ystios folds
+Holger Tune folds
+AACIFO calls 3200
+Decaaaaa calls 2400
+P1xel7 folds
+*** FLOP *** [7d 7s Qh]
+Decaaaaa checks
+LeCholismo44 checks
+AACIFO checks
+*** TURN *** [7d 7s Qh][Js]
+Decaaaaa checks
+LeCholismo44 checks
+AACIFO checks
+*** RIVER *** [7d 7s Qh Js][Ks]
+Decaaaaa bets 10080
+LeCholismo44 folds
+AACIFO folds
+Decaaaaa collected 22680 from pot
+*** SUMMARY ***
+Total pot 22680 | No rake
+Board: [7d 7s Qh Js Ks]
+Seat 4: Decaaaaa (small blind) won 22680
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3138119585694220325-78-1704917111 - Holdem no limit (200/800/1600) - 2024/01/10 20:05:11 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #4 is the button
+Seat 1: Ekrazatator (50805, 1.35€ bounty)
+Seat 2: Holger Tune (60640, 1.35€ bounty)
+Seat 3: AACIFO (59411, 1.35€ bounty)
+Seat 4: Decaaaaa (62298, 1.35€ bounty)
+Seat 5: P1xel7 (54707, 0.90€ bounty)
+Seat 6: LeCholismo44 (117053, 4.49€ bounty)
+Seat 7: Dylv (24544, 1.35€ bounty)
+Seat 8: Ystios (28361, 2.25€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+LeCholismo44 posts ante 200
+Ekrazatator posts ante 200
+Holger Tune posts ante 200
+AACIFO posts ante 200
+Decaaaaa posts ante 200
+Dylv posts ante 200
+Ystios posts ante 200
+P1xel7 posts small blind 800
+LeCholismo44 posts big blind 1600
+Dealt to P1xel7 [8c 4s]
+*** PRE-FLOP *** 
+Dylv folds
+Ystios folds
+Ekrazatator folds
+Holger Tune folds
+AACIFO folds
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | No rake
+Seat 6: LeCholismo44 (big blind) won 4000
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3138119585694220325-79-1704917124 - Holdem no limit (200/800/1600) - 2024/01/10 20:05:24 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #5 is the button
+Seat 1: Ekrazatator (50605, 1.35€ bounty)
+Seat 2: Holger Tune (60440, 1.35€ bounty)
+Seat 3: AACIFO (59211, 1.35€ bounty)
+Seat 4: Decaaaaa (62098, 1.35€ bounty)
+Seat 5: P1xel7 (53707, 0.90€ bounty)
+Seat 6: LeCholismo44 (119253, 4.49€ bounty)
+Seat 7: Dylv (24344, 1.35€ bounty)
+Seat 8: Ystios (28161, 2.25€ bounty)
+*** ANTE/BLINDS ***
+LeCholismo44 posts ante 200
+Dylv posts ante 200
+Ekrazatator posts ante 200
+Holger Tune posts ante 200
+AACIFO posts ante 200
+Decaaaaa posts ante 200
+P1xel7 posts ante 200
+Ystios posts ante 200
+LeCholismo44 posts small blind 800
+Dylv posts big blind 1600
+Dealt to P1xel7 [Ad Ac]
+*** PRE-FLOP *** 
+Ystios folds
+Ekrazatator folds
+Holger Tune folds
+AACIFO folds
+Decaaaaa folds
+P1xel7 raises 1600 to 3200
+LeCholismo44 folds
+Dylv folds
+P1xel7 collected 7200 from pot
+*** SUMMARY ***
+Total pot 7200 | No rake
+Seat 5: P1xel7 (button) won 7200
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3138119585694220325-80-1704917138 - Holdem no limit (200/800/1600) - 2024/01/10 20:05:38 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #6 is the button
+Seat 1: Ekrazatator (50405, 1.35€ bounty)
+Seat 2: Holger Tune (60240, 1.35€ bounty)
+Seat 3: AACIFO (59011, 1.35€ bounty)
+Seat 4: Decaaaaa (61898, 1.35€ bounty)
+Seat 5: P1xel7 (57507, 0.90€ bounty)
+Seat 6: LeCholismo44 (118253, 4.49€ bounty)
+Seat 7: Dylv (22544, 1.35€ bounty)
+Seat 8: Ystios (27961, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Dylv posts ante 200
+Ystios posts ante 200
+Ekrazatator posts ante 200
+Holger Tune posts ante 200
+AACIFO posts ante 200
+Decaaaaa posts ante 200
+P1xel7 posts ante 200
+LeCholismo44 posts ante 200
+Dylv posts small blind 800
+Ystios posts big blind 1600
+Dealt to P1xel7 [2d 3d]
+*** PRE-FLOP *** 
+Ekrazatator raises 1600 to 3200
+Holger Tune raises 6400 to 9600
+AACIFO folds
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+Ystios folds
+Ekrazatator folds
+Holger Tune collected 16800 from pot
+*** SUMMARY ***
+Total pot 16800 | No rake
+Seat 2: Holger Tune won 16800
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3138119585694220325-81-1704917174 - Holdem no limit (200/800/1600) - 2024/01/10 20:06:14 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #7 is the button
+Seat 1: Ekrazatator (47005, 1.35€ bounty)
+Seat 2: Holger Tune (67240, 1.35€ bounty)
+Seat 3: AACIFO (58811, 1.35€ bounty)
+Seat 4: Decaaaaa (61698, 1.35€ bounty)
+Seat 5: P1xel7 (57307, 0.90€ bounty)
+Seat 6: LeCholismo44 (118053, 4.49€ bounty)
+Seat 7: Dylv (21544, 1.35€ bounty)
+Seat 8: Ystios (26161, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Ystios posts ante 200
+Ekrazatator posts ante 200
+Holger Tune posts ante 200
+AACIFO posts ante 200
+Decaaaaa posts ante 200
+P1xel7 posts ante 200
+LeCholismo44 posts ante 200
+Dylv posts ante 200
+Ystios posts small blind 800
+Ekrazatator posts big blind 1600
+Dealt to P1xel7 [8d Ad]
+*** PRE-FLOP *** 
+Holger Tune folds
+AACIFO folds
+Decaaaaa folds
+P1xel7 raises 1920 to 3520
+LeCholismo44 folds
+Dylv folds
+Ystios folds
+Ekrazatator folds
+P1xel7 collected 7520 from pot
+*** SUMMARY ***
+Total pot 7520 | No rake
+Seat 5: P1xel7 won 7520
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 13 - HandId: #3138119585694220325-82-1704917199 - Holdem no limit (200/800/1600) - 2024/01/10 20:06:39 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #8 is the button
+Seat 1: Ekrazatator (45205, 1.35€ bounty)
+Seat 2: Holger Tune (67040, 1.35€ bounty)
+Seat 3: AACIFO (58611, 1.35€ bounty)
+Seat 4: Decaaaaa (61498, 1.35€ bounty)
+Seat 5: P1xel7 (61107, 0.90€ bounty)
+Seat 6: LeCholismo44 (117853, 4.49€ bounty)
+Seat 7: Dylv (21344, 1.35€ bounty)
+Seat 8: Ystios (25161, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Ekrazatator posts ante 200
+Holger Tune posts ante 200
+AACIFO posts ante 200
+Decaaaaa posts ante 200
+P1xel7 posts ante 200
+LeCholismo44 posts ante 200
+Dylv posts ante 200
+Ystios posts ante 200
+Ekrazatator posts small blind 800
+Holger Tune posts big blind 1600
+Dealt to P1xel7 [8s 5d]
+*** PRE-FLOP *** 
+AACIFO folds
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+Ystios raises 23361 to 24961 and is all-in
+Ekrazatator folds
+Holger Tune folds
+Ystios collected 28961 from pot
+*** SUMMARY ***
+Total pot 28961 | No rake
+Seat 8: Ystios (button) won 28961
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #3138119585694220325-83-1704917229 - Holdem no limit (250/1000/2000) - 2024/01/10 20:07:09 UTC
+Table: 'SPARTACUS(730650403)#0036' 8-max (real money) Seat #1 is the button
+Seat 1: Ekrazatator (44205, 1.35€ bounty)
+Seat 2: Holger Tune (65240, 1.35€ bounty)
+Seat 3: AACIFO (58411, 1.35€ bounty)
+Seat 4: Decaaaaa (61298, 1.35€ bounty)
+Seat 5: P1xel7 (60907, 0.90€ bounty)
+Seat 6: LeCholismo44 (117653, 4.49€ bounty)
+Seat 7: Dylv (21144, 1.35€ bounty)
+Seat 8: Ystios (28961, 2.25€ bounty)
+*** ANTE/BLINDS ***
+Holger Tune posts ante 250
+AACIFO posts ante 250
+Ekrazatator posts ante 250
+Decaaaaa posts ante 250
+P1xel7 posts ante 250
+LeCholismo44 posts ante 250
+Dylv posts ante 250
+Ystios posts ante 250
+Holger Tune posts small blind 1000
+AACIFO posts big blind 2000
+Dealt to P1xel7 [2d 7c]
+*** PRE-FLOP *** 
+Decaaaaa folds
+P1xel7 folds
+LeCholismo44 folds
+Dylv folds
+Ystios folds
+Ekrazatator raises 2000 to 4000
+Holger Tune folds
+AACIFO calls 2000
+*** FLOP *** [Ac Th Kd]
+AACIFO bets 2000
+Ekrazatator raises 5000 to 7000
+AACIFO calls 5000
+*** TURN *** [Ac Th Kd][Ad]
+AACIFO checks
+Ekrazatator checks
+*** RIVER *** [Ac Th Kd Ad][5h]
+AACIFO checks
+Ekrazatator checks
+*** SHOW DOWN ***
+Ekrazatator shows [6s 7s] (One pair : Aces)
+AACIFO shows [Jc 9h] (One pair : Aces)
+AACIFO collected 25000 from pot
+*** SUMMARY ***
+Total pot 25000 | No rake
+Board: [Ac Th Kd Ad 5h]
+Seat 1: Ekrazatator (button) showed [6s 7s] and lost with One pair : Aces
+Seat 3: AACIFO (big blind) showed [Jc 9h] and won 25000 with One pair : Aces
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #3138119585694220344-76-1704917358 - Holdem no limit (250/1000/2000) - 2024/01/10 20:09:18 UTC
+Table: 'SPARTACUS(730650403)#0055' 8-max (real money) Seat #7 is the button
+Seat 1: ChipsSs9 (46266, 2.02€ bounty)
+Seat 3: ZiZiDUR_CLAN (87426, 1.35€ bounty)
+Seat 4: Amon Tobin (82305, 1.35€ bounty)
+Seat 5: BravoNils (20680, 0.90€ bounty)
+Seat 6: P1xel7 (60657, 0.90€ bounty)
+Seat 7: sylv015 (31119, 0.90€ bounty)
+Seat 8: ker squale (135585, 4.27€ bounty)
+*** ANTE/BLINDS ***
+ker squale posts ante 250
+ChipsSs9 posts ante 250
+ZiZiDUR_CLAN posts ante 250
+Amon Tobin posts ante 250
+BravoNils posts ante 250
+P1xel7 posts ante 250
+sylv015 posts ante 250
+ker squale posts small blind 1000
+ChipsSs9 posts big blind 2000
+Dealt to P1xel7 [Jd Tc]
+*** PRE-FLOP *** 
+ZiZiDUR_CLAN folds
+Amon Tobin folds
+BravoNils raises 18430 to 20430 and is all-in
+P1xel7 folds
+sylv015 folds
+ker squale folds
+ChipsSs9 raises 18430 to 38860
+*** FLOP *** [Kd 8d Kh]
+*** TURN *** [Kd 8d Kh][9c]
+*** RIVER *** [Kd 8d Kh 9c][4d]
+*** SHOW DOWN ***
+BravoNils shows [Ts Ad] (One pair : Kings)
+ChipsSs9 shows [Ah Ks] (Trips of Kings)
+ChipsSs9 collected 62040 from pot
+*** SUMMARY ***
+Total pot 62040 | No rake
+Board: [Kd 8d Kh 9c 4d]
+Seat 1: ChipsSs9 (big blind) showed [Ah Ks] and won 62040 with Trips of Kings
+Seat 5: BravoNils showed [Ts Ad] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #3138119585694220344-77-1704917403 - Holdem no limit (250/1000/2000) - 2024/01/10 20:10:03 UTC
+Table: 'SPARTACUS(730650403)#0055' 8-max (real money) Seat #8 is the button
+Seat 1: ChipsSs9 (69196, 2.47€ bounty)
+Seat 2: hero68 (64209, 1.35€ bounty)
+Seat 3: ZiZiDUR_CLAN (87176, 1.35€ bounty)
+Seat 4: Amon Tobin (82055, 1.35€ bounty)
+Seat 6: P1xel7 (60407, 0.90€ bounty)
+Seat 7: sylv015 (30869, 0.90€ bounty)
+Seat 8: ker squale (134335, 4.27€ bounty)
+*** ANTE/BLINDS ***
+ChipsSs9 posts ante 250
+hero68 posts ante 250
+ZiZiDUR_CLAN posts ante 250
+Amon Tobin posts ante 250
+P1xel7 posts ante 250
+sylv015 posts ante 250
+ker squale posts ante 250
+ChipsSs9 posts small blind 1000
+hero68 posts big blind 2000
+Dealt to P1xel7 [Ts 6c]
+*** PRE-FLOP *** 
+ZiZiDUR_CLAN folds
+Amon Tobin folds
+P1xel7 folds
+sylv015 folds
+ker squale raises 2000 to 4000
+ChipsSs9 calls 3000
+hero68 calls 2000
+*** FLOP *** [6d 4d Kc]
+ChipsSs9 checks
+hero68 bets 13750
+ker squale folds
+ChipsSs9 raises 51196 to 64946 and is all-in
+hero68 calls 46209 and is all-in
+*** TURN *** [6d 4d Kc][6h]
+*** RIVER *** [6d 4d Kc 6h][3h]
+*** SHOW DOWN ***
+hero68 shows [Ks 7s] (Two pairs : Kings and 6)
+ChipsSs9 shows [Kh Th] (Two pairs : Kings and 6)
+ChipsSs9 collected 138655 from pot
+*** SUMMARY ***
+Total pot 138655 | No rake
+Board: [6d 4d Kc 6h 3h]
+Seat 1: ChipsSs9 (small blind) showed [Kh Th] and won 138655 with Two pairs : Kings and 6
+Seat 2: hero68 (big blind) showed [Ks 7s] and lost with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #3138119585694220344-78-1704917447 - Holdem no limit (250/1000/2000) - 2024/01/10 20:10:47 UTC
+Table: 'SPARTACUS(730650403)#0055' 8-max (real money) Seat #1 is the button
+Seat 1: ChipsSs9 (138655, 3.14€ bounty)
+Seat 3: ZiZiDUR_CLAN (86926, 1.35€ bounty)
+Seat 4: Amon Tobin (81805, 1.35€ bounty)
+Seat 5: Andrea-CaO (49321, 1.80€ bounty)
+Seat 6: P1xel7 (60157, 0.90€ bounty)
+Seat 7: sylv015 (30619, 0.90€ bounty)
+Seat 8: ker squale (130085, 4.27€ bounty)
+*** ANTE/BLINDS ***
+ZiZiDUR_CLAN posts ante 250
+ChipsSs9 posts ante 250
+Amon Tobin posts ante 250
+Andrea-CaO posts ante 250
+P1xel7 posts ante 250
+sylv015 posts ante 250
+ker squale posts ante 250
+ZiZiDUR_CLAN posts big blind 2000
+Dealt to P1xel7 [Ad 5s]
+*** PRE-FLOP *** 
+Amon Tobin folds
+Andrea-CaO folds
+P1xel7 folds
+sylv015 raises 2000 to 4000
+ker squale folds
+ChipsSs9 folds
+ZiZiDUR_CLAN folds
+sylv015 collected 7750 from pot
+*** SUMMARY ***
+Total pot 7750 | No rake
+Seat 7: sylv015 won 7750
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 14 - HandId: #3138119585694220344-79-1704917491 - Holdem no limit (250/1000/2000) - 2024/01/10 20:11:31 UTC
+Table: 'SPARTACUS(730650403)#0055' 8-max (real money) Seat #2 is the button
+Seat 1: ChipsSs9 (138405, 3.14€ bounty)
+Seat 3: ZiZiDUR_CLAN (84676, 1.35€ bounty)
+Seat 4: Amon Tobin (81555, 1.35€ bounty)
+Seat 5: Andrea-CaO (49071, 1.80€ bounty)
+Seat 6: P1xel7 (59907, 0.90€ bounty)
+Seat 7: sylv015 (34119, 0.90€ bounty)
+Seat 8: ker squale (129835, 4.27€ bounty)
+*** ANTE/BLINDS ***
+ZiZiDUR_CLAN posts ante 250
+Amon Tobin posts ante 250
+ChipsSs9 posts ante 250
+Andrea-CaO posts ante 250
+P1xel7 posts ante 250
+sylv015 posts ante 250
+ker squale posts ante 250
+ZiZiDUR_CLAN posts small blind 1000
+Amon Tobin posts big blind 2000
+Dealt to P1xel7 [Js 9c]
+*** PRE-FLOP *** 
+Andrea-CaO folds
+P1xel7 folds
+sylv015 folds
+ker squale folds
+ChipsSs9 folds
+ZiZiDUR_CLAN calls 1000
+Amon Tobin checks
+*** FLOP *** [4c 5c 2c]
+ZiZiDUR_CLAN checks
+Amon Tobin checks
+*** TURN *** [4c 5c 2c][Jh]
+ZiZiDUR_CLAN checks
+Amon Tobin checks
+*** RIVER *** [4c 5c 2c Jh][Ad]
+ZiZiDUR_CLAN checks
+Amon Tobin checks
+*** SHOW DOWN ***
+Amon Tobin shows [9d 7d] (High card : Ace)
+ZiZiDUR_CLAN shows [8c 9h] (High card : Ace)
+ZiZiDUR_CLAN collected 5750 from pot
+*** SUMMARY ***
+Total pot 5750 | No rake
+Board: [4c 5c 2c Jh Ad]
+Seat 3: ZiZiDUR_CLAN (small blind) showed [8c 9h] and won 5750 with High card : Ace
+Seat 4: Amon Tobin (big blind) showed [9d 7d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3138119585694220344-80-1704917579 - Holdem no limit (300/1250/2500) - 2024/01/10 20:12:59 UTC
+Table: 'SPARTACUS(730650403)#0055' 8-max (real money) Seat #3 is the button
+Seat 1: ChipsSs9 (138155, 3.14€ bounty)
+Seat 2: Gauthier J (54533, 2.02€ bounty)
+Seat 3: ZiZiDUR_CLAN (88176, 1.35€ bounty)
+Seat 4: Amon Tobin (79305, 1.35€ bounty)
+Seat 5: Andrea-CaO (48821, 1.80€ bounty)
+Seat 6: P1xel7 (59657, 0.90€ bounty)
+Seat 7: sylv015 (33869, 0.90€ bounty)
+Seat 8: ker squale (129585, 4.27€ bounty)
+*** ANTE/BLINDS ***
+Amon Tobin posts ante 300
+Andrea-CaO posts ante 300
+ChipsSs9 posts ante 300
+Gauthier J posts ante 300
+ZiZiDUR_CLAN posts ante 300
+P1xel7 posts ante 300
+sylv015 posts ante 300
+ker squale posts ante 300
+Amon Tobin posts small blind 1250
+Andrea-CaO posts big blind 2500
+Dealt to P1xel7 [Jc Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+sylv015 folds
+ker squale folds
+ChipsSs9 folds
+Gauthier J calls 2500
+ZiZiDUR_CLAN folds
+Amon Tobin folds
+Andrea-CaO checks
+*** FLOP *** [2d As 3d]
+Andrea-CaO checks
+Gauthier J bets 3750
+Andrea-CaO folds
+Gauthier J collected 12400 from pot
+*** SUMMARY ***
+Total pot 12400 | No rake
+Board: [2d As 3d]
+Seat 2: Gauthier J won 12400
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3138119585694220344-81-1704917642 - Holdem no limit (300/1250/2500) - 2024/01/10 20:14:02 UTC
+Table: 'SPARTACUS(730650403)#0055' 8-max (real money) Seat #4 is the button
+Seat 1: ChipsSs9 (137855, 3.14€ bounty)
+Seat 2: Gauthier J (60383, 2.02€ bounty)
+Seat 3: ZiZiDUR_CLAN (87876, 1.35€ bounty)
+Seat 4: Amon Tobin (77755, 1.35€ bounty)
+Seat 5: Andrea-CaO (46021, 1.80€ bounty)
+Seat 6: P1xel7 (59357, 0.90€ bounty)
+Seat 7: sylv015 (33569, 0.90€ bounty)
+Seat 8: ker squale (129285, 4.27€ bounty)
+*** ANTE/BLINDS ***
+Andrea-CaO posts ante 300
+P1xel7 posts ante 300
+ChipsSs9 posts ante 300
+Gauthier J posts ante 300
+ZiZiDUR_CLAN posts ante 300
+Amon Tobin posts ante 300
+sylv015 posts ante 300
+ker squale posts ante 300
+Andrea-CaO posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [6h Kh]
+*** PRE-FLOP *** 
+sylv015 raises 2500 to 5000
+ker squale calls 5000
+ChipsSs9 folds
+Gauthier J folds
+ZiZiDUR_CLAN folds
+Amon Tobin folds
+Andrea-CaO folds
+P1xel7 calls 2500
+*** FLOP *** [Jc 8s Th]
+P1xel7 checks
+sylv015 checks
+ker squale checks
+*** TURN *** [Jc 8s Th][Qc]
+P1xel7 bets 4663
+sylv015 calls 4663
+ker squale calls 4663
+*** RIVER *** [Jc 8s Th Qc][9d]
+P1xel7 bets 10000
+sylv015 calls 10000
+ker squale folds
+*** SHOW DOWN ***
+sylv015 shows [6c 5c] (Straight Queen high)
+P1xel7 shows [6h Kh] (Straight King high)
+P1xel7 collected 52639 from pot
+*** SUMMARY ***
+Total pot 52639 | No rake
+Board: [Jc 8s Th Qc 9d]
+Seat 6: P1xel7 (big blind) showed [6h Kh] and won 52639 with Straight King high
+Seat 7: sylv015 showed [6c 5c] and lost with Straight Queen high
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3138119585694220344-82-1704917762 - Holdem no limit (300/1250/2500) - 2024/01/10 20:16:02 UTC
+Table: 'SPARTACUS(730650403)#0055' 8-max (real money) Seat #5 is the button
+Seat 1: ChipsSs9 (137555, 3.14€ bounty)
+Seat 2: Gauthier J (60083, 2.02€ bounty)
+Seat 3: ZiZiDUR_CLAN (87576, 1.35€ bounty)
+Seat 4: Amon Tobin (77455, 1.35€ bounty)
+Seat 5: Andrea-CaO (44471, 1.80€ bounty)
+Seat 6: P1xel7 (92033, 0.90€ bounty)
+Seat 7: sylv015 (13606, 0.90€ bounty)
+Seat 8: ker squale (119322, 4.27€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+sylv015 posts ante 300
+ChipsSs9 posts ante 300
+Gauthier J posts ante 300
+ZiZiDUR_CLAN posts ante 300
+Amon Tobin posts ante 300
+Andrea-CaO posts ante 300
+ker squale posts ante 300
+P1xel7 posts small blind 1250
+sylv015 posts big blind 2500
+Dealt to P1xel7 [7s Qd]
+*** PRE-FLOP *** 
+ker squale folds
+ChipsSs9 folds
+Gauthier J calls 2500
+ZiZiDUR_CLAN folds
+Amon Tobin folds
+Andrea-CaO raises 5000 to 7500
+P1xel7 folds
+sylv015 raises 5806 to 13306 and is all-in
+Gauthier J calls 10806
+Andrea-CaO raises 30865 to 44171 and is all-in
+Gauthier J calls 30865
+*** FLOP *** [8c Ks 5h]
+*** TURN *** [8c Ks 5h][8d]
+*** RIVER *** [8c Ks 5h 8d][7c]
+*** SHOW DOWN ***
+Gauthier J shows [9s Ts] (One pair : 8)
+Andrea-CaO shows [Ad Jd] (One pair : 8)
+sylv015 shows [As Kh] (Two pairs : Kings and 8)
+sylv015 collected 43568 from main pot
+Andrea-CaO collected 61730 from side pot 1
+*** SUMMARY ***
+Total pot 105298 | No rake
+Board: [8c Ks 5h 8d 7c]
+Seat 2: Gauthier J showed [9s Ts] and lost with One pair : 8
+Seat 5: Andrea-CaO (button) showed [Ad Jd] and won 61730 with One pair : 8
+Seat 7: sylv015 (big blind) showed [As Kh] and won 43568 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 15 - HandId: #3138119585694220344-83-1704917815 - Holdem no limit (300/1250/2500) - 2024/01/10 20:16:55 UTC
+Table: 'SPARTACUS(730650403)#0055' 8-max (real money) Seat #6 is the button
+Seat 1: ChipsSs9 (137255, 3.14€ bounty)
+Seat 2: Gauthier J (15612, 2.02€ bounty)
+Seat 3: ZiZiDUR_CLAN (87276, 1.35€ bounty)
+Seat 4: Amon Tobin (77155, 1.35€ bounty)
+Seat 5: Andrea-CaO (61730, 1.80€ bounty)
+Seat 6: P1xel7 (90483, 0.90€ bounty)
+Seat 7: sylv015 (43568, 0.90€ bounty)
+Seat 8: ker squale (119022, 4.27€ bounty)
+*** ANTE/BLINDS ***
+sylv015 posts ante 300
+ker squale posts ante 300
+ChipsSs9 posts ante 300
+Gauthier J posts ante 300
+ZiZiDUR_CLAN posts ante 300
+Amon Tobin posts ante 300
+Andrea-CaO posts ante 300
+P1xel7 posts ante 300
+sylv015 posts small blind 1250
+ker squale posts big blind 2500
+Dealt to P1xel7 [5s 9c]
+*** PRE-FLOP *** 
+ChipsSs9 folds
+Gauthier J raises 12812 to 15312 and is all-in
+ZiZiDUR_CLAN folds
+Amon Tobin folds
+Andrea-CaO folds
+P1xel7 folds
+sylv015 folds
+ker squale calls 12812
+*** FLOP *** [Jd Js Ac]
+*** TURN *** [Jd Js Ac][Jc]
+*** RIVER *** [Jd Js Ac Jc][3s]
+*** SHOW DOWN ***
+Gauthier J shows [As Kd] (Full of Jacks and Aces)
+ker squale shows [Ah 9h] (Full of Jacks and Aces)
+ker squale collected 17137 from pot
+Gauthier J collected 17137 from pot
+*** SUMMARY ***
+Total pot 34274 | No rake
+Board: [Jd Js Ac Jc 3s]
+Seat 2: Gauthier J showed [As Kd] and won 17137 with Full of Jacks and Aces
+Seat 8: ker squale (big blind) showed [Ah 9h] and won 17137 with Full of Jacks and Aces
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #3138119585694220300-94-1704917930 - Holdem no limit (350/1500/3000) - 2024/01/10 20:18:50 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #7 is the button
+Seat 1: Maximejade (59259, 1.35€ bounty)
+Seat 2: filtous44 (78438, 1.35€ bounty)
+Seat 3: Quaresma98 (193085, 4.94€ bounty)
+Seat 5: P1xel7 (90183, 0.90€ bounty)
+Seat 6: SemenGin1 (121518, 2.47€ bounty)
+Seat 7: Under_TheSun (31212, 1.35€ bounty)
+Seat 8: Raphael888 (104185, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Raphael888 posts ante 350
+Maximejade posts ante 350
+filtous44 posts ante 350
+Quaresma98 posts ante 350
+P1xel7 posts ante 350
+SemenGin1 posts ante 350
+Under_TheSun posts ante 350
+Raphael888 posts small blind 1500
+Maximejade posts big blind 3000
+Dealt to P1xel7 [9c 8d]
+*** PRE-FLOP *** 
+filtous44 folds
+Quaresma98 raises 3750 to 6750
+P1xel7 folds
+SemenGin1 calls 6750
+Under_TheSun folds
+Raphael888 folds
+Maximejade raises 52159 to 58909 and is all-in
+Quaresma98 folds
+SemenGin1 folds
+Maximejade collected 76359 from pot
+*** SUMMARY ***
+Total pot 76359 | No rake
+Seat 1: Maximejade (big blind) won 76359
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #3138119585694220300-95-1704917975 - Holdem no limit (350/1500/3000) - 2024/01/10 20:19:35 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #8 is the button
+Seat 1: Maximejade (76359, 1.35€ bounty)
+Seat 2: filtous44 (78088, 1.35€ bounty)
+Seat 3: Quaresma98 (185985, 4.94€ bounty)
+Seat 4: Grokitash (237208, 4.27€ bounty)
+Seat 5: P1xel7 (89833, 0.90€ bounty)
+Seat 6: SemenGin1 (114418, 2.47€ bounty)
+Seat 7: Under_TheSun (30862, 1.35€ bounty)
+Seat 8: Raphael888 (102335, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Maximejade posts ante 350
+filtous44 posts ante 350
+Quaresma98 posts ante 350
+Grokitash posts ante 350
+P1xel7 posts ante 350
+SemenGin1 posts ante 350
+Under_TheSun posts ante 350
+Raphael888 posts ante 350
+Maximejade posts small blind 1500
+filtous44 posts big blind 3000
+Dealt to P1xel7 [7s 7c]
+*** PRE-FLOP *** 
+Quaresma98 raises 3000 to 6000
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 calls 6000
+Maximejade folds
+filtous44 folds
+*** FLOP *** [5s 2d 5d]
+Quaresma98 checks
+Raphael888 checks
+*** TURN *** [5s 2d 5d][8s]
+Quaresma98 bets 15440
+Raphael888 calls 15440
+*** RIVER *** [5s 2d 5d 8s][9d]
+Quaresma98 bets 164195 and is all-in
+Raphael888 folds
+Quaresma98 collected 214375 from pot
+*** SUMMARY ***
+Total pot 214375 | No rake
+Board: [5s 2d 5d 8s 9d]
+Seat 3: Quaresma98 won 214375
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 16 - HandId: #3138119585694220300-96-1704918048 - Holdem no limit (350/1500/3000) - 2024/01/10 20:20:48 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #1 is the button
+Seat 1: Maximejade (74509, 1.35€ bounty)
+Seat 2: filtous44 (74738, 1.35€ bounty)
+Seat 3: Quaresma98 (214375, 4.94€ bounty)
+Seat 4: Grokitash (236858, 4.27€ bounty)
+Seat 5: P1xel7 (89483, 0.90€ bounty)
+Seat 6: SemenGin1 (114068, 2.47€ bounty)
+Seat 7: Under_TheSun (30512, 1.35€ bounty)
+Seat 8: Raphael888 (80545, 2.70€ bounty)
+*** ANTE/BLINDS ***
+filtous44 posts ante 350
+Quaresma98 posts ante 350
+Maximejade posts ante 350
+Grokitash posts ante 350
+P1xel7 posts ante 350
+SemenGin1 posts ante 350
+Under_TheSun posts ante 350
+Raphael888 posts ante 350
+filtous44 posts small blind 1500
+Quaresma98 posts big blind 3000
+Dealt to P1xel7 [Ts 7d]
+*** PRE-FLOP *** 
+Grokitash folds
+P1xel7 folds
+SemenGin1 raises 3000 to 6000
+Under_TheSun folds
+Raphael888 raises 74195 to 80195 and is all-in
+Maximejade folds
+filtous44 folds
+Quaresma98 folds
+SemenGin1 calls 74195
+*** FLOP *** [3c Kc 6h]
+*** TURN *** [3c Kc 6h][9s]
+*** RIVER *** [3c Kc 6h 9s][Qs]
+*** SHOW DOWN ***
+SemenGin1 shows [Jd Jh] (One pair : Jacks)
+Raphael888 shows [Qc Ah] (One pair : Queens)
+Raphael888 collected 167690 from pot
+*** SUMMARY ***
+Total pot 167690 | No rake
+Board: [3c Kc 6h 9s Qs]
+Seat 6: SemenGin1 showed [Jd Jh] and lost with One pair : Jacks
+Seat 8: Raphael888 showed [Qc Ah] and won 167690 with One pair : Queens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #3138119585694220300-97-1704918190 - Holdem no limit (400/1750/3500) - 2024/01/10 20:23:10 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #2 is the button
+Seat 1: Maximejade (74159, 1.35€ bounty)
+Seat 2: filtous44 (72888, 1.35€ bounty)
+Seat 3: Quaresma98 (211025, 4.94€ bounty)
+Seat 4: Grokitash (236508, 4.27€ bounty)
+Seat 5: P1xel7 (89133, 0.90€ bounty)
+Seat 6: SemenGin1 (33523, 2.47€ bounty)
+Seat 7: Under_TheSun (30162, 1.35€ bounty)
+Seat 8: Raphael888 (167690, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Quaresma98 posts ante 400
+Grokitash posts ante 400
+Maximejade posts ante 400
+filtous44 posts ante 400
+P1xel7 posts ante 400
+SemenGin1 posts ante 400
+Under_TheSun posts ante 400
+Raphael888 posts ante 400
+Quaresma98 posts small blind 1750
+Grokitash posts big blind 3500
+Dealt to P1xel7 [Jc Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 folds
+Maximejade folds
+filtous44 calls 3500
+Quaresma98 raises 3500 to 7000
+Grokitash folds
+filtous44 raises 65488 to 72488 and is all-in
+Quaresma98 folds
+filtous44 collected 86188 from pot
+*** SUMMARY ***
+Total pot 86188 | No rake
+Seat 2: filtous44 (button) won 86188
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #3138119585694220300-98-1704918255 - Holdem no limit (400/1750/3500) - 2024/01/10 20:24:15 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #3 is the button
+Seat 1: Maximejade (73759, 1.35€ bounty)
+Seat 2: filtous44 (86188, 1.35€ bounty)
+Seat 3: Quaresma98 (203625, 4.94€ bounty)
+Seat 4: Grokitash (232608, 4.27€ bounty)
+Seat 5: P1xel7 (88733, 0.90€ bounty)
+Seat 6: SemenGin1 (33123, 2.47€ bounty)
+Seat 7: Under_TheSun (29762, 1.35€ bounty)
+Seat 8: Raphael888 (167290, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Grokitash posts ante 400
+P1xel7 posts ante 400
+Maximejade posts ante 400
+filtous44 posts ante 400
+Quaresma98 posts ante 400
+SemenGin1 posts ante 400
+Under_TheSun posts ante 400
+Raphael888 posts ante 400
+Grokitash posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [Kh Ah]
+*** PRE-FLOP *** 
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 folds
+Maximejade folds
+filtous44 folds
+Quaresma98 raises 5250 to 8750
+Grokitash folds
+P1xel7 raises 17500 to 26250
+Quaresma98 folds
+P1xel7 collected 39950 from pot
+*** SUMMARY ***
+Total pot 39950 | No rake
+Seat 5: P1xel7 (big blind) won 39950
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #3138119585694220300-99-1704918303 - Holdem no limit (400/1750/3500) - 2024/01/10 20:25:03 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #4 is the button
+Seat 1: Maximejade (73359, 1.35€ bounty)
+Seat 2: filtous44 (85788, 1.35€ bounty)
+Seat 3: Quaresma98 (194475, 4.94€ bounty)
+Seat 4: Grokitash (230458, 4.27€ bounty)
+Seat 5: P1xel7 (102033, 0.90€ bounty)
+Seat 6: SemenGin1 (32723, 2.47€ bounty)
+Seat 7: Under_TheSun (29362, 1.35€ bounty)
+Seat 8: Raphael888 (166890, 2.70€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+SemenGin1 posts ante 400
+Maximejade posts ante 400
+filtous44 posts ante 400
+Quaresma98 posts ante 400
+Grokitash posts ante 400
+Under_TheSun posts ante 400
+Raphael888 posts ante 400
+P1xel7 posts small blind 1750
+SemenGin1 posts big blind 3500
+Dealt to P1xel7 [Ah 6s]
+*** PRE-FLOP *** 
+Under_TheSun folds
+Raphael888 folds
+Maximejade folds
+filtous44 folds
+Quaresma98 calls 3500
+Grokitash folds
+P1xel7 folds
+SemenGin1 checks
+*** FLOP *** [Jd 9s 2c]
+SemenGin1 checks
+Quaresma98 bets 32950
+SemenGin1 calls 28823 and is all-in
+*** TURN *** [Jd 9s 2c][Th]
+*** RIVER *** [Jd 9s 2c Th][Qd]
+*** SHOW DOWN ***
+Quaresma98 shows [2s 9c] (Two pairs : 9 and 2)
+SemenGin1 shows [Qh Td] (Two pairs : Queens and Tens)
+SemenGin1 collected 69596 from main pot
+Quaresma98 collected 4127 from side pot 1
+*** SUMMARY ***
+Total pot 73723 | No rake
+Board: [Jd 9s 2c Th Qd]
+Seat 3: Quaresma98 showed [2s 9c] and won 4127 with Two pairs : 9 and 2
+Seat 6: SemenGin1 (big blind) showed [Qh Td] and won 69596 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 17 - HandId: #3138119585694220300-100-1704918405 - Holdem no limit (400/1750/3500) - 2024/01/10 20:26:45 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #5 is the button
+Seat 1: Maximejade (72959, 1.35€ bounty)
+Seat 2: filtous44 (85388, 1.35€ bounty)
+Seat 3: Quaresma98 (161752, 4.94€ bounty)
+Seat 4: Grokitash (230058, 4.27€ bounty)
+Seat 5: P1xel7 (99883, 0.90€ bounty)
+Seat 6: SemenGin1 (69596, 2.47€ bounty)
+Seat 7: Under_TheSun (28962, 1.35€ bounty)
+Seat 8: Raphael888 (166490, 2.70€ bounty)
+*** ANTE/BLINDS ***
+SemenGin1 posts ante 400
+Under_TheSun posts ante 400
+Maximejade posts ante 400
+filtous44 posts ante 400
+Quaresma98 posts ante 400
+Grokitash posts ante 400
+P1xel7 posts ante 400
+Raphael888 posts ante 400
+SemenGin1 posts small blind 1750
+Under_TheSun posts big blind 3500
+Dealt to P1xel7 [4h Ts]
+*** PRE-FLOP *** 
+Raphael888 folds
+Maximejade folds
+filtous44 raises 3500 to 7000
+Quaresma98 calls 7000
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun folds
+*** FLOP *** [6d 5c Tc]
+filtous44 bets 11225
+Quaresma98 raises 143127 to 154352 and is all-in
+filtous44 calls 66763 and is all-in
+*** TURN *** [6d 5c Tc][6s]
+*** RIVER *** [6d 5c Tc 6s][5s]
+*** SHOW DOWN ***
+filtous44 shows [Th 9h] (Two pairs : Tens and 6)
+Quaresma98 shows [Qc 6c] (Full of 6 and 5)
+Quaresma98 collected 254790 from pot
+*** SUMMARY ***
+Total pot 254790 | No rake
+Board: [6d 5c Tc 6s 5s]
+Seat 2: filtous44 showed [Th 9h] and lost with Two pairs : Tens and 6
+Seat 3: Quaresma98 showed [Qc 6c] and won 254790 with Full of 6 and 5
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #3138119585694220300-101-1704918475 - Holdem no limit (500/2000/4000) - 2024/01/10 20:27:55 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #6 is the button
+Seat 1: Maximejade (72559, 1.35€ bounty)
+Seat 3: Quaresma98 (254790, 5.61€ bounty)
+Seat 4: Grokitash (229658, 4.27€ bounty)
+Seat 5: P1xel7 (99483, 0.90€ bounty)
+Seat 6: SemenGin1 (67446, 2.47€ bounty)
+Seat 7: Under_TheSun (25062, 1.35€ bounty)
+Seat 8: Raphael888 (166090, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Under_TheSun posts ante 500
+Raphael888 posts ante 500
+Maximejade posts ante 500
+Quaresma98 posts ante 500
+Grokitash posts ante 500
+P1xel7 posts ante 500
+SemenGin1 posts ante 500
+Under_TheSun posts small blind 2000
+Raphael888 posts big blind 4000
+Dealt to P1xel7 [2d Qh]
+*** PRE-FLOP *** 
+Maximejade folds
+Quaresma98 raises 8000 to 12000
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun raises 12562 to 24562 and is all-in
+Raphael888 folds
+Quaresma98 raises 12562 to 37124
+*** FLOP *** [8s 3c 9c]
+*** TURN *** [8s 3c 9c][Jd]
+*** RIVER *** [8s 3c 9c Jd][6s]
+*** SHOW DOWN ***
+Quaresma98 shows [Qd Kd] (High card : King)
+Under_TheSun shows [Kc Kh] (One pair : Kings)
+Under_TheSun collected 56624 from main pot
+Quaresma98 collected 12562 from side pot 1
+*** SUMMARY ***
+Total pot 69186 | No rake
+Board: [8s 3c 9c Jd 6s]
+Seat 3: Quaresma98 showed [Qd Kd] and won 12562 with High card : King
+Seat 7: Under_TheSun (small blind) showed [Kc Kh] and won 56624 with One pair : Kings
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #3138119585694220300-102-1704918513 - Holdem no limit (500/2000/4000) - 2024/01/10 20:28:33 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #7 is the button
+Seat 1: Maximejade (72059, 1.35€ bounty)
+Seat 3: Quaresma98 (229728, 5.61€ bounty)
+Seat 4: Grokitash (229158, 4.27€ bounty)
+Seat 5: P1xel7 (98983, 0.90€ bounty)
+Seat 6: SemenGin1 (66946, 2.47€ bounty)
+Seat 7: Under_TheSun (56624, 1.35€ bounty)
+Seat 8: Raphael888 (161590, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Raphael888 posts ante 500
+Maximejade posts ante 500
+Quaresma98 posts ante 500
+Grokitash posts ante 500
+P1xel7 posts ante 500
+SemenGin1 posts ante 500
+Under_TheSun posts ante 500
+Raphael888 posts small blind 2000
+Maximejade posts big blind 4000
+Dealt to P1xel7 [Kc 8c]
+*** PRE-FLOP *** 
+Quaresma98 raises 5000 to 9000
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 folds
+Maximejade folds
+Quaresma98 collected 18500 from pot
+*** SUMMARY ***
+Total pot 18500 | No rake
+Seat 3: Quaresma98 won 18500
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #3138119585694220300-103-1704918531 - Holdem no limit (500/2000/4000) - 2024/01/10 20:28:51 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #8 is the button
+Seat 1: Maximejade (67559, 1.35€ bounty)
+Seat 3: Quaresma98 (238728, 5.61€ bounty)
+Seat 4: Grokitash (228658, 4.27€ bounty)
+Seat 5: P1xel7 (98483, 0.90€ bounty)
+Seat 6: SemenGin1 (66446, 2.47€ bounty)
+Seat 7: Under_TheSun (56124, 1.35€ bounty)
+Seat 8: Raphael888 (159090, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Maximejade posts ante 500
+Quaresma98 posts ante 500
+Grokitash posts ante 500
+P1xel7 posts ante 500
+SemenGin1 posts ante 500
+Under_TheSun posts ante 500
+Raphael888 posts ante 500
+Maximejade posts small blind 2000
+Quaresma98 posts big blind 4000
+Dealt to P1xel7 [4h 3c]
+*** PRE-FLOP *** 
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 raises 6000 to 10000
+Maximejade folds
+Quaresma98 folds
+Raphael888 collected 19500 from pot
+*** SUMMARY ***
+Total pot 19500 | No rake
+Seat 8: Raphael888 (button) won 19500
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #3138119585694220300-104-1704918587 - Holdem no limit (500/2000/4000) - 2024/01/10 20:29:47 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #1 is the button
+Seat 1: Maximejade (65059, 1.35€ bounty)
+Seat 2: onurb57 (92750, 2.25€ bounty)
+Seat 3: Quaresma98 (234228, 5.61€ bounty)
+Seat 4: Grokitash (228158, 4.27€ bounty)
+Seat 5: P1xel7 (97983, 0.90€ bounty)
+Seat 6: SemenGin1 (65946, 2.47€ bounty)
+Seat 7: Under_TheSun (55624, 1.35€ bounty)
+Seat 8: Raphael888 (168090, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Quaresma98 posts ante 500
+Grokitash posts ante 500
+Maximejade posts ante 500
+P1xel7 posts ante 500
+SemenGin1 posts ante 500
+Under_TheSun posts ante 500
+Raphael888 posts ante 500
+Quaresma98 posts small blind 2000
+Grokitash posts big blind 4000
+Dealt to P1xel7 [Ad 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun raises 4000 to 8000
+Raphael888 calls 8000
+Maximejade folds
+Quaresma98 calls 6000
+Grokitash calls 4000
+*** FLOP *** [5c Ks 2d]
+Quaresma98 bets 8875
+Grokitash folds
+Under_TheSun folds
+Raphael888 calls 8875
+*** TURN *** [5c Ks 2d][6c]
+Quaresma98 bets 216853 and is all-in
+Raphael888 calls 150715 and is all-in
+*** RIVER *** [5c Ks 2d 6c][4s]
+*** SHOW DOWN ***
+Quaresma98 shows [9s 5s] (One pair : 5)
+Raphael888 shows [Jc Kc] (One pair : Kings)
+Raphael888 collected 354680 from main pot
+Quaresma98 collected 66138 from side pot 1
+*** SUMMARY ***
+Total pot 420818 | No rake
+Board: [5c Ks 2d 6c 4s]
+Seat 3: Quaresma98 (small blind) showed [9s 5s] and won 66138 with One pair : 5
+Seat 8: Raphael888 showed [Jc Kc] and won 354680 with One pair : Kings
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 18 - HandId: #3138119585694220300-105-1704918673 - Holdem no limit (500/2000/4000) - 2024/01/10 20:31:13 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #3 is the button
+Seat 1: Maximejade (64559, 1.35€ bounty)
+Seat 2: onurb57 (92750, 2.25€ bounty)
+Seat 3: Quaresma98 (66138, 5.61€ bounty)
+Seat 4: Grokitash (219658, 4.27€ bounty)
+Seat 5: P1xel7 (97483, 0.90€ bounty)
+Seat 6: SemenGin1 (65446, 2.47€ bounty)
+Seat 7: Under_TheSun (47124, 1.35€ bounty)
+Seat 8: Raphael888 (354680, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Grokitash posts ante 500
+P1xel7 posts ante 500
+Maximejade posts ante 500
+onurb57 posts ante 500
+Quaresma98 posts ante 500
+SemenGin1 posts ante 500
+Under_TheSun posts ante 500
+Raphael888 posts ante 500
+Grokitash posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [2c 5s]
+*** PRE-FLOP *** 
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 folds
+Maximejade folds
+onurb57 folds
+Quaresma98 raises 4000 to 8000
+Grokitash calls 6000
+P1xel7 calls 4000
+*** FLOP *** [7s 6c Ts]
+Grokitash checks
+P1xel7 checks
+Quaresma98 checks
+*** TURN *** [7s 6c Ts][Jc]
+Grokitash bets 4000
+P1xel7 folds
+Quaresma98 folds
+Grokitash collected 32000 from pot
+*** SUMMARY ***
+Total pot 32000 | No rake
+Board: [7s 6c Ts Jc]
+Seat 4: Grokitash (small blind) won 32000
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #3138119585694220300-106-1704918744 - Holdem no limit (600/2500/5000) - 2024/01/10 20:32:24 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #4 is the button
+Seat 1: Maximejade (64059, 1.35€ bounty)
+Seat 2: onurb57 (92250, 2.25€ bounty)
+Seat 3: Quaresma98 (57638, 5.61€ bounty)
+Seat 4: Grokitash (239158, 4.27€ bounty)
+Seat 5: P1xel7 (88983, 0.90€ bounty)
+Seat 6: SemenGin1 (64946, 2.47€ bounty)
+Seat 7: Under_TheSun (46624, 1.35€ bounty)
+Seat 8: Raphael888 (354180, 2.70€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 600
+SemenGin1 posts ante 600
+Maximejade posts ante 600
+onurb57 posts ante 600
+Quaresma98 posts ante 600
+Grokitash posts ante 600
+Under_TheSun posts ante 600
+Raphael888 posts ante 600
+P1xel7 posts small blind 2500
+SemenGin1 posts big blind 5000
+Dealt to P1xel7 [Qs 5c]
+*** PRE-FLOP *** 
+Under_TheSun folds
+Raphael888 folds
+Maximejade folds
+onurb57 calls 5000
+Quaresma98 raises 52038 to 57038 and is all-in
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+onurb57 folds
+Quaresma98 collected 74338 from pot
+*** SUMMARY ***
+Total pot 74338 | No rake
+Seat 3: Quaresma98 won 74338
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #3138119585694220300-107-1704918777 - Holdem no limit (600/2500/5000) - 2024/01/10 20:32:57 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #5 is the button
+Seat 1: Maximejade (63459, 1.35€ bounty)
+Seat 2: onurb57 (86650, 2.25€ bounty)
+Seat 3: Quaresma98 (74338, 5.61€ bounty)
+Seat 4: Grokitash (238558, 4.27€ bounty)
+Seat 5: P1xel7 (85883, 0.90€ bounty)
+Seat 6: SemenGin1 (59346, 2.47€ bounty)
+Seat 7: Under_TheSun (46024, 1.35€ bounty)
+Seat 8: Raphael888 (353580, 2.70€ bounty)
+*** ANTE/BLINDS ***
+SemenGin1 posts ante 600
+Under_TheSun posts ante 600
+Maximejade posts ante 600
+onurb57 posts ante 600
+Quaresma98 posts ante 600
+Grokitash posts ante 600
+P1xel7 posts ante 600
+Raphael888 posts ante 600
+SemenGin1 posts small blind 2500
+Under_TheSun posts big blind 5000
+Dealt to P1xel7 [7s Qd]
+*** PRE-FLOP *** 
+Raphael888 raises 7500 to 12500
+Maximejade folds
+onurb57 folds
+Quaresma98 calls 12500
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun calls 7500
+*** FLOP *** [6d Qh 9h]
+Under_TheSun checks
+Raphael888 checks
+Quaresma98 bets 61238 and is all-in
+Under_TheSun folds
+Raphael888 calls 61238
+*** TURN *** [6d Qh 9h][2d]
+*** RIVER *** [6d Qh 9h 2d][6c]
+*** SHOW DOWN ***
+Raphael888 shows [As Js] (One pair : 6)
+Quaresma98 shows [2c 2h] (Full of 2 and 6)
+Quaresma98 collected 167276 from pot
+*** SUMMARY ***
+Total pot 167276 | No rake
+Board: [6d Qh 9h 2d 6c]
+Seat 3: Quaresma98 showed [2c 2h] and won 167276 with Full of 2 and 6
+Seat 8: Raphael888 showed [As Js] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #3138119585694220300-108-1704918886 - Holdem no limit (600/2500/5000) - 2024/01/10 20:34:46 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #6 is the button
+Seat 1: Maximejade (62859, 1.35€ bounty)
+Seat 2: onurb57 (86050, 2.25€ bounty)
+Seat 3: Quaresma98 (167276, 5.61€ bounty)
+Seat 4: Grokitash (237958, 4.27€ bounty)
+Seat 5: P1xel7 (85283, 0.90€ bounty)
+Seat 6: SemenGin1 (56246, 2.47€ bounty)
+Seat 7: Under_TheSun (32924, 1.35€ bounty)
+Seat 8: Raphael888 (279242, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Under_TheSun posts ante 600
+Raphael888 posts ante 600
+Maximejade posts ante 600
+onurb57 posts ante 600
+Quaresma98 posts ante 600
+Grokitash posts ante 600
+P1xel7 posts ante 600
+SemenGin1 posts ante 600
+Under_TheSun posts small blind 2500
+Raphael888 posts big blind 5000
+Dealt to P1xel7 [Ts Ad]
+*** PRE-FLOP *** 
+Maximejade folds
+onurb57 folds
+Quaresma98 folds
+Grokitash folds
+P1xel7 raises 79683 to 84683 and is all-in
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 folds
+P1xel7 collected 96983 from pot
+*** SUMMARY ***
+Total pot 96983 | No rake
+Seat 5: P1xel7 won 96983
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 19 - HandId: #3138119585694220300-109-1704918965 - Holdem no limit (600/2500/5000) - 2024/01/10 20:36:05 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #7 is the button
+Seat 1: Maximejade (62259, 1.35€ bounty)
+Seat 2: onurb57 (85450, 2.25€ bounty)
+Seat 3: Quaresma98 (166676, 5.61€ bounty)
+Seat 4: Grokitash (237358, 4.27€ bounty)
+Seat 5: P1xel7 (96983, 0.90€ bounty)
+Seat 6: SemenGin1 (55646, 2.47€ bounty)
+Seat 7: Under_TheSun (29824, 1.35€ bounty)
+Seat 8: Raphael888 (273642, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Raphael888 posts ante 600
+Maximejade posts ante 600
+onurb57 posts ante 600
+Quaresma98 posts ante 600
+Grokitash posts ante 600
+P1xel7 posts ante 600
+SemenGin1 posts ante 600
+Under_TheSun posts ante 600
+Raphael888 posts small blind 2500
+Maximejade posts big blind 5000
+Dealt to P1xel7 [2h 9d]
+*** PRE-FLOP *** 
+onurb57 calls 5000
+Quaresma98 raises 6250 to 11250
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 folds
+Maximejade folds
+onurb57 calls 6250
+*** FLOP *** [6c Ah Qd]
+onurb57 checks
+Quaresma98 checks
+*** TURN *** [6c Ah Qd][9c]
+onurb57 bets 12180
+Quaresma98 calls 12180
+*** RIVER *** [6c Ah Qd 9c][3s]
+onurb57 checks
+Quaresma98 checks
+*** SHOW DOWN ***
+onurb57 shows [Kd Qc] (One pair : Queens)
+Quaresma98 shows [5s Ad] (One pair : Aces)
+Quaresma98 collected 59160 from pot
+*** SUMMARY ***
+Total pot 59160 | No rake
+Board: [6c Ah Qd 9c 3s]
+Seat 2: onurb57 showed [Kd Qc] and lost with One pair : Queens
+Seat 3: Quaresma98 showed [5s Ad] and won 59160 with One pair : Aces
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #3138119585694220300-110-1704919030 - Holdem no limit (700/3000/6000) - 2024/01/10 20:37:10 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #8 is the button
+Seat 1: Maximejade (56659, 1.35€ bounty)
+Seat 2: onurb57 (61420, 2.25€ bounty)
+Seat 3: Quaresma98 (201806, 5.61€ bounty)
+Seat 4: Grokitash (236758, 4.27€ bounty)
+Seat 5: P1xel7 (96383, 0.90€ bounty)
+Seat 6: SemenGin1 (55046, 2.47€ bounty)
+Seat 7: Under_TheSun (29224, 1.35€ bounty)
+Seat 8: Raphael888 (270542, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Maximejade posts ante 700
+onurb57 posts ante 700
+Quaresma98 posts ante 700
+Grokitash posts ante 700
+P1xel7 posts ante 700
+SemenGin1 posts ante 700
+Under_TheSun posts ante 700
+Raphael888 posts ante 700
+Maximejade posts small blind 3000
+onurb57 posts big blind 6000
+Dealt to P1xel7 [Th 8h]
+*** PRE-FLOP *** 
+Quaresma98 folds
+Grokitash calls 6000
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 folds
+Maximejade folds
+onurb57 checks
+*** FLOP *** [2h 9s 2d]
+onurb57 checks
+Grokitash checks
+*** TURN *** [2h 9s 2d][9h]
+onurb57 checks
+Grokitash bets 6000
+onurb57 folds
+Grokitash collected 26600 from pot
+*** SUMMARY ***
+Total pot 26600 | No rake
+Board: [2h 9s 2d 9h]
+Seat 4: Grokitash won 26600
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #3138119585694220300-111-1704919102 - Holdem no limit (700/3000/6000) - 2024/01/10 20:38:22 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #1 is the button
+Seat 1: Maximejade (52959, 1.35€ bounty)
+Seat 2: onurb57 (54720, 2.25€ bounty)
+Seat 3: Quaresma98 (201106, 5.61€ bounty)
+Seat 4: Grokitash (250658, 4.27€ bounty)
+Seat 5: P1xel7 (95683, 0.90€ bounty)
+Seat 6: SemenGin1 (54346, 2.47€ bounty)
+Seat 7: Under_TheSun (28524, 1.35€ bounty)
+Seat 8: Raphael888 (269842, 2.70€ bounty)
+*** ANTE/BLINDS ***
+onurb57 posts ante 700
+Quaresma98 posts ante 700
+Maximejade posts ante 700
+Grokitash posts ante 700
+P1xel7 posts ante 700
+SemenGin1 posts ante 700
+Under_TheSun posts ante 700
+Raphael888 posts ante 700
+onurb57 posts small blind 3000
+Quaresma98 posts big blind 6000
+Dealt to P1xel7 [3s 7c]
+*** PRE-FLOP *** 
+Grokitash calls 6000
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 folds
+Maximejade folds
+onurb57 raises 48020 to 54020 and is all-in
+Quaresma98 folds
+Grokitash calls 48020
+*** FLOP *** [2h 3c 4s]
+*** TURN *** [2h 3c 4s][4c]
+*** RIVER *** [2h 3c 4s 4c][9s]
+*** SHOW DOWN ***
+Grokitash shows [6s 6h] (Two pairs : 6 and 4)
+onurb57 shows [Tc Td] (Two pairs : Tens and 4)
+onurb57 collected 119640 from pot
+*** SUMMARY ***
+Total pot 119640 | No rake
+Board: [2h 3c 4s 4c 9s]
+Seat 2: onurb57 (small blind) showed [Tc Td] and won 119640 with Two pairs : Tens and 4
+Seat 4: Grokitash showed [6s 6h] and lost with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #3138119585694220300-112-1704919199 - Holdem no limit (700/3000/6000) - 2024/01/10 20:39:59 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #2 is the button
+Seat 1: Maximejade (52259, 1.35€ bounty)
+Seat 2: onurb57 (119640, 2.25€ bounty)
+Seat 3: Quaresma98 (194406, 5.61€ bounty)
+Seat 4: Grokitash (195938, 4.27€ bounty)
+Seat 5: P1xel7 (94983, 0.90€ bounty)
+Seat 6: SemenGin1 (53646, 2.47€ bounty)
+Seat 7: Under_TheSun (27824, 1.35€ bounty)
+Seat 8: Raphael888 (269142, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Quaresma98 posts ante 700
+Grokitash posts ante 700
+Maximejade posts ante 700
+onurb57 posts ante 700
+P1xel7 posts ante 700
+SemenGin1 posts ante 700
+Under_TheSun posts ante 700
+Raphael888 posts ante 700
+Quaresma98 posts small blind 3000
+Grokitash posts big blind 6000
+Dealt to P1xel7 [3s 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+SemenGin1 folds
+Under_TheSun folds
+Raphael888 folds
+Maximejade raises 45559 to 51559 and is all-in
+onurb57 folds
+Quaresma98 folds
+Grokitash calls 45559
+*** FLOP *** [Ts 7h 7d]
+*** TURN *** [Ts 7h 7d][Kh]
+*** RIVER *** [Ts 7h 7d Kh][5s]
+*** SHOW DOWN ***
+Grokitash shows [Tc Qs] (Two pairs : Tens and 7)
+Maximejade shows [Th Ac] (Two pairs : Tens and 7)
+Maximejade collected 111718 from pot
+*** SUMMARY ***
+Total pot 111718 | No rake
+Board: [Ts 7h 7d Kh 5s]
+Seat 1: Maximejade showed [Th Ac] and won 111718 with Two pairs : Tens and 7
+Seat 4: Grokitash (big blind) showed [Tc Qs] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 20 - HandId: #3138119585694220300-113-1704919261 - Holdem no limit (700/3000/6000) - 2024/01/10 20:41:01 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #3 is the button
+Seat 1: Maximejade (111718, 1.35€ bounty)
+Seat 2: onurb57 (118940, 2.25€ bounty)
+Seat 3: Quaresma98 (190706, 5.61€ bounty)
+Seat 4: Grokitash (143679, 4.27€ bounty)
+Seat 5: P1xel7 (94283, 0.90€ bounty)
+Seat 6: SemenGin1 (52946, 2.47€ bounty)
+Seat 7: Under_TheSun (27124, 1.35€ bounty)
+Seat 8: Raphael888 (268442, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Grokitash posts ante 700
+P1xel7 posts ante 700
+Maximejade posts ante 700
+onurb57 posts ante 700
+Quaresma98 posts ante 700
+SemenGin1 posts ante 700
+Under_TheSun posts ante 700
+Raphael888 posts ante 700
+Grokitash posts small blind 3000
+P1xel7 posts big blind 6000
+Dealt to P1xel7 [2c Tc]
+*** PRE-FLOP *** 
+SemenGin1 folds
+Under_TheSun raises 20424 to 26424 and is all-in
+Raphael888 folds
+Maximejade folds
+onurb57 calls 26424
+Quaresma98 folds
+Grokitash folds
+P1xel7 calls 20424
+*** FLOP *** [2s 3h 6d]
+P1xel7 bets 67159 and is all-in
+onurb57 folds
+*** TURN *** [2s 3h 6d][9c]
+*** RIVER *** [2s 3h 6d 9c][8s]
+*** SHOW DOWN ***
+Under_TheSun shows [Kc Jc] (High card : King)
+P1xel7 shows [2c Tc] (One pair : 2)
+P1xel7 collected 155031 from pot
+*** SUMMARY ***
+Total pot 155031 | No rake
+Board: [2s 3h 6d 9c 8s]
+Seat 5: P1xel7 (big blind) showed [2c Tc] and won 155031 with One pair : 2
+Seat 7: Under_TheSun showed [Kc Jc] and lost with High card : King
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #3138119585694220300-114-1704919327 - Holdem no limit (800/3500/7000) - 2024/01/10 20:42:07 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #4 is the button
+Seat 1: Maximejade (111018, 1.35€ bounty)
+Seat 2: onurb57 (91816, 2.25€ bounty)
+Seat 3: Quaresma98 (190006, 5.61€ bounty)
+Seat 4: Grokitash (139979, 4.27€ bounty)
+Seat 5: P1xel7 (155031, 1.57€ bounty)
+Seat 6: SemenGin1 (52246, 2.47€ bounty)
+Seat 8: Raphael888 (267742, 2.70€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 800
+SemenGin1 posts ante 800
+Maximejade posts ante 800
+onurb57 posts ante 800
+Quaresma98 posts ante 800
+Grokitash posts ante 800
+Raphael888 posts ante 800
+P1xel7 posts small blind 3500
+SemenGin1 posts big blind 7000
+Dealt to P1xel7 [Kd Qh]
+*** PRE-FLOP *** 
+Raphael888 raises 10500 to 17500
+Maximejade folds
+onurb57 raises 73516 to 91016 and is all-in
+Quaresma98 folds
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Raphael888 folds
+onurb57 collected 124616 from pot
+*** SUMMARY ***
+Total pot 124616 | No rake
+Seat 2: onurb57 won 124616
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #3138119585694220300-115-1704919396 - Holdem no limit (800/3500/7000) - 2024/01/10 20:43:16 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #5 is the button
+Seat 1: Maximejade (110218, 1.35€ bounty)
+Seat 2: onurb57 (124616, 2.25€ bounty)
+Seat 3: Quaresma98 (189206, 5.61€ bounty)
+Seat 4: Grokitash (139179, 4.27€ bounty)
+Seat 5: P1xel7 (150731, 1.57€ bounty)
+Seat 6: SemenGin1 (44446, 2.47€ bounty)
+Seat 8: Raphael888 (249442, 2.70€ bounty)
+*** ANTE/BLINDS ***
+SemenGin1 posts ante 800
+Raphael888 posts ante 800
+Maximejade posts ante 800
+onurb57 posts ante 800
+Quaresma98 posts ante 800
+Grokitash posts ante 800
+P1xel7 posts ante 800
+SemenGin1 posts small blind 3500
+Raphael888 posts big blind 7000
+Dealt to P1xel7 [Qh Qd]
+*** PRE-FLOP *** 
+Maximejade folds
+onurb57 folds
+Quaresma98 folds
+Grokitash folds
+P1xel7 raises 38500 to 45500
+SemenGin1 folds
+Raphael888 folds
+P1xel7 collected 61600 from pot
+*** SUMMARY ***
+Total pot 61600 | No rake
+Seat 5: P1xel7 (button) won 61600
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #3138119585694220300-116-1704919450 - Holdem no limit (800/3500/7000) - 2024/01/10 20:44:10 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #6 is the button
+Seat 1: Maximejade (109418, 1.35€ bounty)
+Seat 2: onurb57 (123816, 2.25€ bounty)
+Seat 3: Quaresma98 (188406, 5.61€ bounty)
+Seat 4: Grokitash (138379, 4.27€ bounty)
+Seat 5: P1xel7 (166031, 1.57€ bounty)
+Seat 6: SemenGin1 (40146, 2.47€ bounty)
+Seat 8: Raphael888 (241642, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Raphael888 posts ante 800
+Maximejade posts ante 800
+onurb57 posts ante 800
+Quaresma98 posts ante 800
+Grokitash posts ante 800
+P1xel7 posts ante 800
+SemenGin1 posts ante 800
+Raphael888 posts small blind 3500
+Maximejade posts big blind 7000
+Dealt to P1xel7 [2d 5c]
+*** PRE-FLOP *** 
+onurb57 folds
+Quaresma98 folds
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Raphael888 raises 233842 to 240842 and is all-in
+Maximejade folds
+Raphael888 collected 253442 from pot
+*** SUMMARY ***
+Total pot 253442 | No rake
+Seat 8: Raphael888 (small blind) won 253442
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #3138119585694220300-117-1704919523 - Holdem no limit (800/3500/7000) - 2024/01/10 20:45:23 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #8 is the button
+Seat 1: Maximejade (101618, 1.35€ bounty)
+Seat 2: onurb57 (123016, 2.25€ bounty)
+Seat 3: Quaresma98 (187606, 5.61€ bounty)
+Seat 4: Grokitash (137579, 4.27€ bounty)
+Seat 5: P1xel7 (165231, 1.57€ bounty)
+Seat 6: SemenGin1 (39346, 2.47€ bounty)
+Seat 8: Raphael888 (253442, 2.70€ bounty)
+*** ANTE/BLINDS ***
+Maximejade posts ante 800
+onurb57 posts ante 800
+Quaresma98 posts ante 800
+Grokitash posts ante 800
+P1xel7 posts ante 800
+SemenGin1 posts ante 800
+Raphael888 posts ante 800
+Maximejade posts small blind 3500
+onurb57 posts big blind 7000
+Dealt to P1xel7 [Jc 9h]
+*** PRE-FLOP *** 
+Quaresma98 folds
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Raphael888 raises 10500 to 17500
+Maximejade folds
+onurb57 calls 10500
+*** FLOP *** [3s Ah 8c]
+onurb57 bets 104716 and is all-in
+Raphael888 calls 104716
+*** TURN *** [3s Ah 8c][6c]
+*** RIVER *** [3s Ah 8c 6c][5s]
+*** SHOW DOWN ***
+onurb57 shows [4d As] (One pair : Aces)
+Raphael888 shows [3h Ac] (Two pairs : Aces and 3)
+Raphael888 collected 253532 from pot
+*** SUMMARY ***
+Total pot 253532 | No rake
+Board: [3s Ah 8c 6c 5s]
+Seat 2: onurb57 (big blind) showed [4d As] and lost with One pair : Aces
+Seat 8: Raphael888 (button) showed [3h Ac] and won 253532 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 21 - HandId: #3138119585694220300-118-1704919584 - Holdem no limit (800/3500/7000) - 2024/01/10 20:46:24 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #1 is the button
+Seat 1: Maximejade (97318, 1.35€ bounty)
+Seat 3: Quaresma98 (186806, 5.61€ bounty)
+Seat 4: Grokitash (136779, 4.27€ bounty)
+Seat 5: P1xel7 (164431, 1.57€ bounty)
+Seat 6: SemenGin1 (38546, 2.47€ bounty)
+Seat 7: Atchouum. (45422, 1.57€ bounty)
+Seat 8: Raphael888 (383958, 3.82€ bounty)
+*** ANTE/BLINDS ***
+Quaresma98 posts ante 800
+Maximejade posts ante 800
+Grokitash posts ante 800
+P1xel7 posts ante 800
+SemenGin1 posts ante 800
+Atchouum. posts ante 800
+Raphael888 posts ante 800
+Quaresma98 posts big blind 7000
+Dealt to P1xel7 [7c 2d]
+*** PRE-FLOP *** 
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Atchouum. folds
+Raphael888 raises 10500 to 17500
+Maximejade folds
+Quaresma98 raises 168506 to 186006 and is all-in
+Raphael888 folds
+Quaresma98 collected 209106 from pot
+*** SUMMARY ***
+Total pot 209106 | No rake
+Seat 3: Quaresma98 (big blind) won 209106
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #3138119585694220300-119-1704919730 - Holdem no limit (1000/4000/8000) - 2024/01/10 20:48:50 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #2 is the button
+Seat 1: Maximejade (96518, 1.35€ bounty)
+Seat 2: ScandofXV (51070, 2.70€ bounty)
+Seat 3: Quaresma98 (209106, 5.61€ bounty)
+Seat 4: Grokitash (135979, 4.27€ bounty)
+Seat 5: P1xel7 (163631, 1.57€ bounty)
+Seat 6: SemenGin1 (37746, 2.47€ bounty)
+Seat 7: Atchouum. (44622, 1.57€ bounty)
+Seat 8: Raphael888 (365658, 3.82€ bounty)
+*** ANTE/BLINDS ***
+Quaresma98 posts ante 1000
+Grokitash posts ante 1000
+Maximejade posts ante 1000
+P1xel7 posts ante 1000
+SemenGin1 posts ante 1000
+Atchouum. posts ante 1000
+Raphael888 posts ante 1000
+Quaresma98 posts small blind 4000
+Grokitash posts big blind 8000
+Dealt to P1xel7 [Qd 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+SemenGin1 folds
+Atchouum. raises 35622 to 43622 and is all-in
+Raphael888 folds
+Maximejade folds
+Quaresma98 folds
+Grokitash calls 35622
+*** FLOP *** [Th 6h Qs]
+*** TURN *** [Th 6h Qs][Qh]
+*** RIVER *** [Th 6h Qs Qh][6s]
+*** SHOW DOWN ***
+Grokitash shows [Kd 4c] (Two pairs : Queens and 6)
+Atchouum. shows [Tc Jh] (Two pairs : Queens and Tens)
+Atchouum. collected 98244 from pot
+*** SUMMARY ***
+Total pot 98244 | No rake
+Board: [Th 6h Qs Qh 6s]
+Seat 4: Grokitash (big blind) showed [Kd 4c] and lost with Two pairs : Queens and 6
+Seat 7: Atchouum. showed [Tc Jh] and won 98244 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #3138119585694220300-120-1704919770 - Holdem no limit (1000/4000/8000) - 2024/01/10 20:49:30 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #3 is the button
+Seat 1: Maximejade (95518, 1.35€ bounty)
+Seat 2: ScandofXV (51070, 2.70€ bounty)
+Seat 3: Quaresma98 (204106, 5.61€ bounty)
+Seat 4: Grokitash (91357, 4.27€ bounty)
+Seat 5: P1xel7 (162631, 1.57€ bounty)
+Seat 6: SemenGin1 (36746, 2.47€ bounty)
+Seat 7: Atchouum. (98244, 1.57€ bounty)
+Seat 8: Raphael888 (364658, 3.82€ bounty)
+*** ANTE/BLINDS ***
+Grokitash posts ante 1000
+P1xel7 posts ante 1000
+Maximejade posts ante 1000
+ScandofXV posts ante 1000
+Quaresma98 posts ante 1000
+SemenGin1 posts ante 1000
+Atchouum. posts ante 1000
+Raphael888 posts ante 1000
+Grokitash posts small blind 4000
+P1xel7 posts big blind 8000
+Dealt to P1xel7 [4d Ac]
+*** PRE-FLOP *** 
+SemenGin1 folds
+Atchouum. folds
+Raphael888 raises 12000 to 20000
+Maximejade folds
+ScandofXV folds
+Quaresma98 folds
+Grokitash folds
+P1xel7 calls 12000
+*** FLOP *** [7c Jd 7s]
+P1xel7 checks
+Raphael888 checks
+*** TURN *** [7c Jd 7s][6d]
+P1xel7 checks
+Raphael888 bets 26000
+P1xel7 folds
+Raphael888 collected 78000 from pot
+*** SUMMARY ***
+Total pot 78000 | No rake
+Board: [7c Jd 7s 6d]
+Seat 8: Raphael888 won 78000
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 22 - HandId: #3138119585694220300-121-1704919880 - Holdem no limit (1000/4000/8000) - 2024/01/10 20:51:20 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #4 is the button
+Seat 1: Maximejade (94518, 1.35€ bounty)
+Seat 2: ScandofXV (50070, 2.70€ bounty)
+Seat 3: Quaresma98 (203106, 5.61€ bounty)
+Seat 4: Grokitash (86357, 4.27€ bounty)
+Seat 5: P1xel7 (141631, 1.57€ bounty)
+Seat 6: SemenGin1 (35746, 2.47€ bounty)
+Seat 7: Atchouum. (97244, 1.57€ bounty)
+Seat 8: Raphael888 (395658, 3.82€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1000
+SemenGin1 posts ante 1000
+Maximejade posts ante 1000
+ScandofXV posts ante 1000
+Quaresma98 posts ante 1000
+Grokitash posts ante 1000
+Atchouum. posts ante 1000
+Raphael888 posts ante 1000
+P1xel7 posts small blind 4000
+SemenGin1 posts big blind 8000
+Dealt to P1xel7 [7c Js]
+*** PRE-FLOP *** 
+Atchouum. raises 88244 to 96244 and is all-in
+Raphael888 folds
+Maximejade folds
+ScandofXV folds
+Quaresma98 folds
+Grokitash folds
+P1xel7 folds
+SemenGin1 folds
+Atchouum. collected 116244 from pot
+*** SUMMARY ***
+Total pot 116244 | No rake
+Seat 7: Atchouum. won 116244
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #3138119585694220300-122-1704919945 - Holdem no limit (1200/5000/10000) - 2024/01/10 20:52:25 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #5 is the button
+Seat 1: Maximejade (93518, 1.35€ bounty)
+Seat 2: ScandofXV (49070, 2.70€ bounty)
+Seat 3: Quaresma98 (202106, 5.61€ bounty)
+Seat 4: Grokitash (85357, 4.27€ bounty)
+Seat 5: P1xel7 (136631, 1.57€ bounty)
+Seat 6: SemenGin1 (26746, 2.47€ bounty)
+Seat 7: Atchouum. (116244, 1.57€ bounty)
+Seat 8: Raphael888 (394658, 3.82€ bounty)
+*** ANTE/BLINDS ***
+SemenGin1 posts ante 1200
+Atchouum. posts ante 1200
+Maximejade posts ante 1200
+ScandofXV posts ante 1200
+Quaresma98 posts ante 1200
+Grokitash posts ante 1200
+P1xel7 posts ante 1200
+Raphael888 posts ante 1200
+SemenGin1 posts small blind 5000
+Atchouum. posts big blind 10000
+Dealt to P1xel7 [Js Kc]
+*** PRE-FLOP *** 
+Raphael888 folds
+Maximejade folds
+ScandofXV folds
+Quaresma98 raises 190906 to 200906 and is all-in
+Grokitash folds
+P1xel7 calls 135431 and is all-in
+SemenGin1 calls 20546 and is all-in
+Atchouum. folds
+*** FLOP *** [5h Jd 6d]
+*** TURN *** [5h Jd 6d][4h]
+*** RIVER *** [5h Jd 6d 4h][2s]
+*** SHOW DOWN ***
+SemenGin1 shows [9s 9c] (One pair : 9)
+Quaresma98 shows [5s Ac] (One pair : 5)
+P1xel7 shows [Js Kc] (One pair : Jacks)
+P1xel7 collected 316008 from main pot
+Quaresma98 collected 65475 from side pot 1
+*** SUMMARY ***
+Total pot 381483 | No rake
+Board: [5h Jd 6d 4h 2s]
+Seat 3: Quaresma98 showed [5s Ac] and won 65475 with One pair : 5
+Seat 5: P1xel7 (button) showed [Js Kc] and won 316008 with One pair : Jacks
+Seat 6: SemenGin1 (small blind) showed [9s 9c] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #3138119585694220300-123-1704920029 - Holdem no limit (1200/5000/10000) - 2024/01/10 20:53:49 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #6 is the button
+Seat 1: Maximejade (92318, 1.35€ bounty)
+Seat 2: ScandofXV (47870, 2.70€ bounty)
+Seat 3: Quaresma98 (65475, 5.61€ bounty)
+Seat 4: Grokitash (84157, 4.27€ bounty)
+Seat 5: P1xel7 (316008, 2.80€ bounty)
+Seat 7: Atchouum. (105044, 1.57€ bounty)
+Seat 8: Raphael888 (393458, 3.82€ bounty)
+*** ANTE/BLINDS ***
+Atchouum. posts ante 1200
+Raphael888 posts ante 1200
+Maximejade posts ante 1200
+ScandofXV posts ante 1200
+Quaresma98 posts ante 1200
+Grokitash posts ante 1200
+P1xel7 posts ante 1200
+Atchouum. posts small blind 5000
+Raphael888 posts big blind 10000
+Dealt to P1xel7 [2c 7h]
+*** PRE-FLOP *** 
+Maximejade folds
+ScandofXV folds
+Quaresma98 folds
+Grokitash calls 10000
+P1xel7 folds
+Atchouum. folds
+Raphael888 raises 382258 to 392258 and is all-in
+Grokitash calls 72957 and is all-in
+*** FLOP *** [3c 4h 6c]
+*** TURN *** [3c 4h 6c][6s]
+*** RIVER *** [3c 4h 6c 6s][5s]
+*** SHOW DOWN ***
+Grokitash shows [Qs Kh] (One pair : 6)
+Raphael888 shows [Ah 3d] (Two pairs : 6 and 3)
+Raphael888 collected 488615 from pot
+*** SUMMARY ***
+Total pot 488615 | No rake
+Board: [3c 4h 6c 6s 5s]
+Seat 4: Grokitash showed [Qs Kh] and lost with One pair : 6
+Seat 8: Raphael888 (big blind) showed [Ah 3d] and won 488615 with Two pairs : 6 and 3
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #3138119585694220300-124-1704920080 - Holdem no limit (1200/5000/10000) - 2024/01/10 20:54:40 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #7 is the button
+Seat 1: Maximejade (91118, 1.35€ bounty)
+Seat 2: ScandofXV (46670, 2.70€ bounty)
+Seat 3: Quaresma98 (64275, 5.61€ bounty)
+Seat 5: P1xel7 (314808, 2.80€ bounty)
+Seat 7: Atchouum. (98844, 1.57€ bounty)
+Seat 8: Raphael888 (488615, 5.95€ bounty)
+*** ANTE/BLINDS ***
+Raphael888 posts ante 1200
+Maximejade posts ante 1200
+ScandofXV posts ante 1200
+Quaresma98 posts ante 1200
+P1xel7 posts ante 1200
+Atchouum. posts ante 1200
+Raphael888 posts small blind 5000
+Maximejade posts big blind 10000
+Dealt to P1xel7 [Jd Ts]
+*** PRE-FLOP *** 
+ScandofXV folds
+Quaresma98 folds
+P1xel7 raises 12000 to 22000
+Atchouum. folds
+Raphael888 folds
+Maximejade folds
+P1xel7 collected 44200 from pot
+*** SUMMARY ***
+Total pot 44200 | No rake
+Seat 5: P1xel7 won 44200
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #3138119585694220300-125-1704920461 - Holdem no limit (1200/5000/10000) - 2024/01/10 21:01:01 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #8 is the button
+Seat 1: Maximejade (79918, 1.35€ bounty)
+Seat 2: ScandofXV (45470, 2.70€ bounty)
+Seat 3: Quaresma98 (63075, 5.61€ bounty)
+Seat 4: E.Rybakina (341313, 3.59€ bounty)
+Seat 5: P1xel7 (335808, 2.80€ bounty)
+Seat 6: AlienVsHuman (208828, 4.09€ bounty)
+Seat 7: Atchouum. (97644, 1.57€ bounty)
+Seat 8: Raphael888 (482415, 5.95€ bounty)
+*** ANTE/BLINDS ***
+Maximejade posts ante 1200
+ScandofXV posts ante 1200
+Quaresma98 posts ante 1200
+E.Rybakina posts ante 1200
+P1xel7 posts ante 1200
+AlienVsHuman posts ante 1200
+Atchouum. posts ante 1200
+Raphael888 posts ante 1200
+Maximejade posts small blind 5000
+ScandofXV posts big blind 10000
+Dealt to P1xel7 [Jh Ad]
+*** PRE-FLOP *** 
+Quaresma98 raises 10000 to 20000
+E.Rybakina folds
+P1xel7 raises 80000 to 100000
+AlienVsHuman folds
+Atchouum. folds
+Raphael888 folds
+Maximejade folds
+ScandofXV folds
+Quaresma98 calls 41875 and is all-in
+*** FLOP *** [Qs 3c 4c]
+*** TURN *** [Qs 3c 4c][Qd]
+*** RIVER *** [Qs 3c 4c Qd][8h]
+*** SHOW DOWN ***
+Quaresma98 shows [Kh Kc] (Two pairs : Kings and Queens)
+P1xel7 shows [Jh Ad] (One pair : Queens)
+P1xel7 collected 38125 from side pot 1
+Quaresma98 collected 148350 from main pot
+*** SUMMARY ***
+Total pot 186475 | No rake
+Board: [Qs 3c 4c Qd 8h]
+Seat 3: Quaresma98 showed [Kh Kc] and won 148350 with Two pairs : Kings and Queens
+Seat 5: P1xel7 showed [Jh Ad] and won 38125 with One pair : Queens
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 23 - HandId: #3138119585694220300-126-1704920563 - Holdem no limit (1200/5000/10000) - 2024/01/10 21:02:43 UTC
+Table: 'SPARTACUS(730650403)#0011' 8-max (real money) Seat #1 is the button
+Seat 1: Maximejade (73718, 1.35€ bounty)
+Seat 2: ScandofXV (34270, 2.70€ bounty)
+Seat 3: Quaresma98 (148350, 5.61€ bounty)
+Seat 4: E.Rybakina (340113, 3.59€ bounty)
+Seat 5: P1xel7 (272733, 2.80€ bounty)
+Seat 6: AlienVsHuman (207628, 4.09€ bounty)
+Seat 7: Atchouum. (96444, 1.57€ bounty)
+Seat 8: Raphael888 (481215, 5.95€ bounty)
+*** ANTE/BLINDS ***
+ScandofXV posts ante 1200
+Quaresma98 posts ante 1200
+Maximejade posts ante 1200
+E.Rybakina posts ante 1200
+P1xel7 posts ante 1200
+AlienVsHuman posts ante 1200
+Atchouum. posts ante 1200
+Raphael888 posts ante 1200
+ScandofXV posts small blind 5000
+Quaresma98 posts big blind 10000
+Dealt to P1xel7 [2h Kc]
+*** PRE-FLOP *** 
+E.Rybakina folds
+P1xel7 folds
+AlienVsHuman raises 15000 to 25000
+Atchouum. folds
+Raphael888 folds
+Maximejade folds
+ScandofXV folds
+Quaresma98 calls 15000
+*** FLOP *** [3h 6c 4c]
+Quaresma98 bets 122150 and is all-in
+AlienVsHuman folds
+Quaresma98 collected 186750 from pot
+*** SUMMARY ***
+Total pot 186750 | No rake
+Board: [3h 6c 4c]
+Seat 3: Quaresma98 (big blind) won 186750
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 24 - HandId: #3138119585694220293-140-1704920687 - Holdem no limit (1400/6000/12000) - 2024/01/10 21:04:47 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #8 is the button
+Seat 1: _good_ vibe_ (213082, 2.92€ bounty)
+Seat 2: lud0506 (72734, 3.03€ bounty)
+Seat 3: Grandje5 (79342, 2.13€ bounty)
+Seat 4: KaiserRyback (362299, 3.25€ bounty)
+Seat 5: fulldifs (132175, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (392435, 4.32€ bounty)
+Seat 7: P1xel7 (271533, 2.80€ bounty)
+Seat 8: Amon Tobin (91889, 1.35€ bounty)
+*** ANTE/BLINDS ***
+_good_ vibe_ posts ante 1400
+lud0506 posts ante 1400
+Grandje5 posts ante 1400
+KaiserRyback posts ante 1400
+fulldifs posts ante 1400
+jokerdeluxe1 posts ante 1400
+P1xel7 posts ante 1400
+Amon Tobin posts ante 1400
+_good_ vibe_ posts small blind 6000
+lud0506 posts big blind 12000
+Dealt to P1xel7 [7c 3c]
+*** PRE-FLOP *** 
+Grandje5 folds
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 raises 24000 to 36000
+P1xel7 folds
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 folds
+jokerdeluxe1 collected 65200 from pot
+*** SUMMARY ***
+Total pot 65200 | No rake
+Seat 6: jokerdeluxe1 won 65200
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 24 - HandId: #3138119585694220293-141-1704920729 - Holdem no limit (1400/6000/12000) - 2024/01/10 21:05:29 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #1 is the button
+Seat 1: _good_ vibe_ (205682, 2.92€ bounty)
+Seat 2: lud0506 (59334, 3.03€ bounty)
+Seat 3: Grandje5 (77942, 2.13€ bounty)
+Seat 4: KaiserRyback (360899, 3.25€ bounty)
+Seat 5: fulldifs (130775, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (420235, 4.32€ bounty)
+Seat 7: P1xel7 (270133, 2.80€ bounty)
+Seat 8: Amon Tobin (90489, 1.35€ bounty)
+*** ANTE/BLINDS ***
+lud0506 posts ante 1400
+Grandje5 posts ante 1400
+_good_ vibe_ posts ante 1400
+KaiserRyback posts ante 1400
+fulldifs posts ante 1400
+jokerdeluxe1 posts ante 1400
+P1xel7 posts ante 1400
+Amon Tobin posts ante 1400
+lud0506 posts small blind 6000
+Grandje5 posts big blind 12000
+Dealt to P1xel7 [Ad 9c]
+*** PRE-FLOP *** 
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 raises 12000 to 24000
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 folds
+Grandje5 folds
+P1xel7 collected 53200 from pot
+*** SUMMARY ***
+Total pot 53200 | No rake
+Seat 7: P1xel7 won 53200
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 24 - HandId: #3138119585694220293-142-1704920763 - Holdem no limit (1400/6000/12000) - 2024/01/10 21:06:03 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #2 is the button
+Seat 1: _good_ vibe_ (204282, 2.92€ bounty)
+Seat 2: lud0506 (51934, 3.03€ bounty)
+Seat 3: Grandje5 (64542, 2.13€ bounty)
+Seat 4: KaiserRyback (359499, 3.25€ bounty)
+Seat 5: fulldifs (129375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (418835, 4.32€ bounty)
+Seat 7: P1xel7 (297933, 2.80€ bounty)
+Seat 8: Amon Tobin (89089, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Grandje5 posts ante 1400
+KaiserRyback posts ante 1400
+_good_ vibe_ posts ante 1400
+lud0506 posts ante 1400
+fulldifs posts ante 1400
+jokerdeluxe1 posts ante 1400
+P1xel7 posts ante 1400
+Amon Tobin posts ante 1400
+Grandje5 posts small blind 6000
+KaiserRyback posts big blind 12000
+Dealt to P1xel7 [Kc 3s]
+*** PRE-FLOP *** 
+fulldifs folds
+jokerdeluxe1 raises 24000 to 36000
+P1xel7 folds
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 folds
+Grandje5 folds
+KaiserRyback folds
+jokerdeluxe1 collected 65200 from pot
+*** SUMMARY ***
+Total pot 65200 | No rake
+Seat 6: jokerdeluxe1 won 65200
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 24 - HandId: #3138119585694220293-143-1704920787 - Holdem no limit (1400/6000/12000) - 2024/01/10 21:06:27 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #3 is the button
+Seat 1: _good_ vibe_ (202882, 2.92€ bounty)
+Seat 2: lud0506 (50534, 3.03€ bounty)
+Seat 3: Grandje5 (57142, 2.13€ bounty)
+Seat 4: KaiserRyback (346099, 3.25€ bounty)
+Seat 5: fulldifs (127975, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (446635, 4.32€ bounty)
+Seat 7: P1xel7 (296533, 2.80€ bounty)
+Seat 8: Amon Tobin (87689, 1.35€ bounty)
+*** ANTE/BLINDS ***
+KaiserRyback posts ante 1400
+fulldifs posts ante 1400
+_good_ vibe_ posts ante 1400
+lud0506 posts ante 1400
+Grandje5 posts ante 1400
+jokerdeluxe1 posts ante 1400
+P1xel7 posts ante 1400
+Amon Tobin posts ante 1400
+KaiserRyback posts small blind 6000
+fulldifs posts big blind 12000
+Dealt to P1xel7 [5d 6h]
+*** PRE-FLOP *** 
+jokerdeluxe1 folds
+P1xel7 folds
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 raises 18000 to 30000
+Grandje5 folds
+KaiserRyback raises 18000 to 48000
+fulldifs folds
+lud0506 raises 1134 to 49134 and is all-in
+KaiserRyback calls 1134
+*** FLOP *** [Jc 7h Qc]
+*** TURN *** [Jc 7h Qc][Js]
+*** RIVER *** [Jc 7h Qc Js][2c]
+*** SHOW DOWN ***
+KaiserRyback shows [Ac 9h] (One pair : Jacks)
+lud0506 shows [Qd Jd] (Full of Jacks and Queens)
+lud0506 collected 121468 from pot
+*** SUMMARY ***
+Total pot 121468 | No rake
+Board: [Jc 7h Qc Js 2c]
+Seat 2: lud0506 showed [Qd Jd] and won 121468 with Full of Jacks and Queens
+Seat 4: KaiserRyback (small blind) showed [Ac 9h] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 24 - HandId: #3138119585694220293-144-1704920830 - Holdem no limit (1400/6000/12000) - 2024/01/10 21:07:10 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #4 is the button
+Seat 1: _good_ vibe_ (201482, 2.92€ bounty)
+Seat 2: lud0506 (121468, 3.03€ bounty)
+Seat 3: Grandje5 (55742, 2.13€ bounty)
+Seat 4: KaiserRyback (295565, 3.25€ bounty)
+Seat 5: fulldifs (114575, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (445235, 4.32€ bounty)
+Seat 7: P1xel7 (295133, 2.80€ bounty)
+Seat 8: Amon Tobin (86289, 1.35€ bounty)
+*** ANTE/BLINDS ***
+fulldifs posts ante 1400
+jokerdeluxe1 posts ante 1400
+_good_ vibe_ posts ante 1400
+lud0506 posts ante 1400
+Grandje5 posts ante 1400
+KaiserRyback posts ante 1400
+P1xel7 posts ante 1400
+Amon Tobin posts ante 1400
+fulldifs posts small blind 6000
+jokerdeluxe1 posts big blind 12000
+Dealt to P1xel7 [4c 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 folds
+Grandje5 raises 42342 to 54342 and is all-in
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 calls 42342
+*** FLOP *** [7d 7h 9d]
+*** TURN *** [7d 7h 9d][6s]
+*** RIVER *** [7d 7h 9d 6s][4s]
+*** SHOW DOWN ***
+Grandje5 shows [Jh Ks] (One pair : 7)
+jokerdeluxe1 shows [Kh Ah] (One pair : 7)
+jokerdeluxe1 collected 125884 from pot
+*** SUMMARY ***
+Total pot 125884 | No rake
+Board: [7d 7h 9d 6s 4s]
+Seat 3: Grandje5 showed [Jh Ks] and lost with One pair : 7
+Seat 6: jokerdeluxe1 (big blind) showed [Kh Ah] and won 125884 with One pair : 7
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 24 - HandId: #3138119585694220293-145-1704920864 - Holdem no limit (1400/6000/12000) - 2024/01/10 21:07:44 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #5 is the button
+Seat 1: _good_ vibe_ (200082, 2.92€ bounty)
+Seat 2: lud0506 (120068, 3.03€ bounty)
+Seat 4: KaiserRyback (294165, 3.25€ bounty)
+Seat 5: fulldifs (107175, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (515377, 5.38€ bounty)
+Seat 7: P1xel7 (293733, 2.80€ bounty)
+Seat 8: Amon Tobin (84889, 1.35€ bounty)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts ante 1400
+P1xel7 posts ante 1400
+_good_ vibe_ posts ante 1400
+lud0506 posts ante 1400
+KaiserRyback posts ante 1400
+fulldifs posts ante 1400
+Amon Tobin posts ante 1400
+jokerdeluxe1 posts small blind 6000
+P1xel7 posts big blind 12000
+Dealt to P1xel7 [2h Td]
+*** PRE-FLOP *** 
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 folds
+KaiserRyback raises 18000 to 30000
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 folds
+KaiserRyback collected 57800 from pot
+*** SUMMARY ***
+Total pot 57800 | No rake
+Seat 4: KaiserRyback won 57800
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #3138119585694220293-146-1704920890 - Holdem no limit (1600/7000/14000) - 2024/01/10 21:08:10 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #6 is the button
+Seat 1: _good_ vibe_ (198682, 2.92€ bounty)
+Seat 2: lud0506 (118668, 3.03€ bounty)
+Seat 4: KaiserRyback (320565, 3.25€ bounty)
+Seat 5: fulldifs (105775, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (507977, 5.38€ bounty)
+Seat 7: P1xel7 (280333, 2.80€ bounty)
+Seat 8: Amon Tobin (83489, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1600
+Amon Tobin posts ante 1600
+_good_ vibe_ posts ante 1600
+lud0506 posts ante 1600
+KaiserRyback posts ante 1600
+fulldifs posts ante 1600
+jokerdeluxe1 posts ante 1600
+P1xel7 posts small blind 7000
+Amon Tobin posts big blind 14000
+Dealt to P1xel7 [3c 9c]
+*** PRE-FLOP *** 
+_good_ vibe_ folds
+lud0506 folds
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 raises 264733 to 278733 and is all-in
+Amon Tobin calls 67889 and is all-in
+*** FLOP *** [Qc Jh 6d]
+*** TURN *** [Qc Jh 6d][5s]
+*** RIVER *** [Qc Jh 6d 5s][5d]
+*** SHOW DOWN ***
+P1xel7 shows [3c 9c] (One pair : 5)
+Amon Tobin shows [5c Kc] (Trips of 5)
+Amon Tobin collected 174978 from main pot
+P1xel7 collected 196844 from side pot 1
+*** SUMMARY ***
+Total pot 371822 | No rake
+Board: [Qc Jh 6d 5s 5d]
+Seat 7: P1xel7 (small blind) showed [3c 9c] and won 196844 with One pair : 5
+Seat 8: Amon Tobin (big blind) showed [5c Kc] and won 174978 with Trips of 5
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #3138119585694220293-147-1704920920 - Holdem no limit (1600/7000/14000) - 2024/01/10 21:08:40 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #7 is the button
+Seat 1: _good_ vibe_ (197082, 2.92€ bounty)
+Seat 2: lud0506 (117068, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (32212, 1.35€ bounty)
+Seat 4: KaiserRyback (318965, 3.25€ bounty)
+Seat 5: fulldifs (104175, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (506377, 5.38€ bounty)
+Seat 7: P1xel7 (196844, 2.80€ bounty)
+Seat 8: Amon Tobin (174978, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Amon Tobin posts ante 1600
+_good_ vibe_ posts ante 1600
+lud0506 posts ante 1600
+DTRAcoeur666 posts ante 1600
+KaiserRyback posts ante 1600
+fulldifs posts ante 1600
+jokerdeluxe1 posts ante 1600
+P1xel7 posts ante 1600
+Amon Tobin posts small blind 7000
+_good_ vibe_ posts big blind 14000
+Dealt to P1xel7 [4c 7d]
+*** PRE-FLOP *** 
+lud0506 folds
+DTRAcoeur666 folds
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 folds
+Amon Tobin folds
+_good_ vibe_ collected 33800 from pot
+*** SUMMARY ***
+Total pot 33800 | No rake
+Seat 1: _good_ vibe_ (big blind) won 33800
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #3138119585694220293-148-1704920948 - Holdem no limit (1600/7000/14000) - 2024/01/10 21:09:08 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #8 is the button
+Seat 1: _good_ vibe_ (215282, 2.92€ bounty)
+Seat 2: lud0506 (115468, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (30612, 1.35€ bounty)
+Seat 4: KaiserRyback (317365, 3.25€ bounty)
+Seat 5: fulldifs (102575, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (504777, 5.38€ bounty)
+Seat 7: P1xel7 (195244, 2.80€ bounty)
+Seat 8: Amon Tobin (166378, 1.35€ bounty)
+*** ANTE/BLINDS ***
+_good_ vibe_ posts ante 1600
+lud0506 posts ante 1600
+DTRAcoeur666 posts ante 1600
+KaiserRyback posts ante 1600
+fulldifs posts ante 1600
+jokerdeluxe1 posts ante 1600
+P1xel7 posts ante 1600
+Amon Tobin posts ante 1600
+_good_ vibe_ posts small blind 7000
+lud0506 posts big blind 14000
+Dealt to P1xel7 [4h 5s]
+*** PRE-FLOP *** 
+DTRAcoeur666 folds
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 folds
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 collected 33800 from pot
+*** SUMMARY ***
+Total pot 33800 | No rake
+Seat 2: lud0506 (big blind) won 33800
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #3138119585694220293-149-1704920979 - Holdem no limit (1600/7000/14000) - 2024/01/10 21:09:39 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #1 is the button
+Seat 1: _good_ vibe_ (206682, 2.92€ bounty)
+Seat 2: lud0506 (133668, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (29012, 1.35€ bounty)
+Seat 4: KaiserRyback (315765, 3.25€ bounty)
+Seat 5: fulldifs (100975, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (503177, 5.38€ bounty)
+Seat 7: P1xel7 (193644, 2.80€ bounty)
+Seat 8: Amon Tobin (164778, 1.35€ bounty)
+*** ANTE/BLINDS ***
+lud0506 posts ante 1600
+DTRAcoeur666 posts ante 1600
+_good_ vibe_ posts ante 1600
+KaiserRyback posts ante 1600
+fulldifs posts ante 1600
+jokerdeluxe1 posts ante 1600
+P1xel7 posts ante 1600
+Amon Tobin posts ante 1600
+lud0506 posts small blind 7000
+DTRAcoeur666 posts big blind 14000
+Dealt to P1xel7 [Jc Ah]
+*** PRE-FLOP *** 
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 raises 178044 to 192044 and is all-in
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 folds
+DTRAcoeur666 calls 13412 and is all-in
+*** FLOP *** [7c Qh 2d]
+*** TURN *** [7c Qh 2d][6c]
+*** RIVER *** [7c Qh 2d 6c][5s]
+*** SHOW DOWN ***
+DTRAcoeur666 shows [2h Ks] (One pair : 2)
+P1xel7 shows [Jc Ah] (High card : Ace)
+P1xel7 collected 164632 from side pot 1
+DTRAcoeur666 collected 74624 from main pot
+*** SUMMARY ***
+Total pot 239256 | No rake
+Board: [7c Qh 2d 6c 5s]
+Seat 3: DTRAcoeur666 (big blind) showed [2h Ks] and won 74624 with One pair : 2
+Seat 7: P1xel7 showed [Jc Ah] and won 164632 with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #3138119585694220293-150-1704921014 - Holdem no limit (1600/7000/14000) - 2024/01/10 21:10:14 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #2 is the button
+Seat 1: _good_ vibe_ (205082, 2.92€ bounty)
+Seat 2: lud0506 (125068, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (74624, 1.35€ bounty)
+Seat 4: KaiserRyback (314165, 3.25€ bounty)
+Seat 5: fulldifs (99375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (501577, 5.38€ bounty)
+Seat 7: P1xel7 (164632, 2.80€ bounty)
+Seat 8: Amon Tobin (163178, 1.35€ bounty)
+*** ANTE/BLINDS ***
+DTRAcoeur666 posts ante 1600
+KaiserRyback posts ante 1600
+_good_ vibe_ posts ante 1600
+lud0506 posts ante 1600
+fulldifs posts ante 1600
+jokerdeluxe1 posts ante 1600
+P1xel7 posts ante 1600
+Amon Tobin posts ante 1600
+DTRAcoeur666 posts small blind 7000
+KaiserRyback posts big blind 14000
+Dealt to P1xel7 [5h 7s]
+*** PRE-FLOP *** 
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 folds
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 folds
+DTRAcoeur666 folds
+KaiserRyback collected 33800 from pot
+*** SUMMARY ***
+Total pot 33800 | No rake
+Seat 4: KaiserRyback (big blind) won 33800
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #3138119585694220293-151-1704921032 - Holdem no limit (1600/7000/14000) - 2024/01/10 21:10:32 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #3 is the button
+Seat 1: _good_ vibe_ (203482, 2.92€ bounty)
+Seat 2: lud0506 (123468, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (66024, 1.35€ bounty)
+Seat 4: KaiserRyback (332365, 3.25€ bounty)
+Seat 5: fulldifs (97775, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (499977, 5.38€ bounty)
+Seat 7: P1xel7 (163032, 2.80€ bounty)
+Seat 8: Amon Tobin (161578, 1.35€ bounty)
+*** ANTE/BLINDS ***
+KaiserRyback posts ante 1600
+fulldifs posts ante 1600
+_good_ vibe_ posts ante 1600
+lud0506 posts ante 1600
+DTRAcoeur666 posts ante 1600
+jokerdeluxe1 posts ante 1600
+P1xel7 posts ante 1600
+Amon Tobin posts ante 1600
+KaiserRyback posts small blind 7000
+fulldifs posts big blind 14000
+Dealt to P1xel7 [4c 8c]
+*** PRE-FLOP *** 
+jokerdeluxe1 calls 14000
+P1xel7 folds
+Amon Tobin folds
+_good_ vibe_ calls 14000
+lud0506 calls 14000
+DTRAcoeur666 folds
+KaiserRyback calls 7000
+fulldifs checks
+*** FLOP *** [As Js 3h]
+KaiserRyback checks
+fulldifs checks
+jokerdeluxe1 bets 41400
+_good_ vibe_ folds
+lud0506 folds
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 collected 124200 from pot
+*** SUMMARY ***
+Total pot 124200 | No rake
+Board: [As Js 3h]
+Seat 6: jokerdeluxe1 won 124200
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #3138119585694220293-152-1704921087 - Holdem no limit (1600/7000/14000) - 2024/01/10 21:11:27 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #4 is the button
+Seat 1: _good_ vibe_ (187882, 2.92€ bounty)
+Seat 2: lud0506 (107868, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (64424, 1.35€ bounty)
+Seat 4: KaiserRyback (316765, 3.25€ bounty)
+Seat 5: fulldifs (82175, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (567177, 5.38€ bounty)
+Seat 7: P1xel7 (161432, 2.80€ bounty)
+Seat 8: Amon Tobin (159978, 1.35€ bounty)
+*** ANTE/BLINDS ***
+fulldifs posts ante 1600
+jokerdeluxe1 posts ante 1600
+_good_ vibe_ posts ante 1600
+lud0506 posts ante 1600
+DTRAcoeur666 posts ante 1600
+KaiserRyback posts ante 1600
+P1xel7 posts ante 1600
+Amon Tobin posts ante 1600
+fulldifs posts small blind 7000
+jokerdeluxe1 posts big blind 14000
+Dealt to P1xel7 [7c 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 raises 92268 to 106268 and is all-in
+DTRAcoeur666 folds
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 folds
+lud0506 collected 140068 from pot
+*** SUMMARY ***
+Total pot 140068 | No rake
+Seat 2: lud0506 won 140068
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #3138119585694220293-153-1704921110 - Holdem no limit (1600/7000/14000) - 2024/01/10 21:11:50 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #5 is the button
+Seat 1: _good_ vibe_ (186282, 2.92€ bounty)
+Seat 2: lud0506 (140068, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (62824, 1.35€ bounty)
+Seat 4: KaiserRyback (315165, 3.25€ bounty)
+Seat 5: fulldifs (73575, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (551577, 5.38€ bounty)
+Seat 7: P1xel7 (159832, 2.80€ bounty)
+Seat 8: Amon Tobin (158378, 1.35€ bounty)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts ante 1600
+P1xel7 posts ante 1600
+_good_ vibe_ posts ante 1600
+lud0506 posts ante 1600
+DTRAcoeur666 posts ante 1600
+KaiserRyback posts ante 1600
+fulldifs posts ante 1600
+Amon Tobin posts ante 1600
+jokerdeluxe1 posts small blind 7000
+P1xel7 posts big blind 14000
+Dealt to P1xel7 [Qd Tc]
+*** PRE-FLOP *** 
+Amon Tobin folds
+_good_ vibe_ folds
+lud0506 calls 14000
+DTRAcoeur666 folds
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 raises 144232 to 158232 and is all-in
+lud0506 folds
+P1xel7 collected 192032 from pot
+*** SUMMARY ***
+Total pot 192032 | No rake
+Seat 7: P1xel7 (big blind) won 192032
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 25 - HandId: #3138119585694220293-154-1704921170 - Holdem no limit (1600/7000/14000) - 2024/01/10 21:12:50 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #6 is the button
+Seat 2: lud0506 (124468, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (61224, 1.35€ bounty)
+Seat 4: KaiserRyback (313565, 3.25€ bounty)
+Seat 5: fulldifs (71975, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (542977, 5.38€ bounty)
+Seat 7: P1xel7 (192032, 2.80€ bounty)
+Seat 8: Amon Tobin (156778, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1600
+Amon Tobin posts ante 1600
+lud0506 posts ante 1600
+DTRAcoeur666 posts ante 1600
+KaiserRyback posts ante 1600
+fulldifs posts ante 1600
+jokerdeluxe1 posts ante 1600
+P1xel7 posts small blind 7000
+Amon Tobin posts big blind 14000
+Dealt to P1xel7 [Ad 4h]
+*** PRE-FLOP *** 
+lud0506 calls 14000
+DTRAcoeur666 raises 45624 to 59624 and is all-in
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 raises 130808 to 190432 and is all-in
+Amon Tobin folds
+lud0506 folds
+*** FLOP *** [6c 9h 8c]
+*** TURN *** [6c 9h 8c][Qc]
+*** RIVER *** [6c 9h 8c Qc][7s]
+*** SHOW DOWN ***
+DTRAcoeur666 shows [Ks Kd] (One pair : Kings)
+P1xel7 shows [Ad 4h] (High card : Ace)
+P1xel7 collected 130808 from side pot 1
+DTRAcoeur666 collected 158448 from main pot
+*** SUMMARY ***
+Total pot 289256 | No rake
+Board: [6c 9h 8c Qc 7s]
+Seat 3: DTRAcoeur666 showed [Ks Kd] and won 158448 with One pair : Kings
+Seat 7: P1xel7 (small blind) showed [Ad 4h] and won 130808 with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 26 - HandId: #3138119585694220293-155-1704921214 - Holdem no limit (2000/8000/16000) - 2024/01/10 21:13:34 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #7 is the button
+Seat 2: lud0506 (108868, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (158448, 1.35€ bounty)
+Seat 4: KaiserRyback (311965, 3.25€ bounty)
+Seat 5: fulldifs (70375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (541377, 5.38€ bounty)
+Seat 7: P1xel7 (130808, 2.80€ bounty)
+Seat 8: Amon Tobin (141178, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Amon Tobin posts ante 2000
+lud0506 posts ante 2000
+DTRAcoeur666 posts ante 2000
+KaiserRyback posts ante 2000
+fulldifs posts ante 2000
+jokerdeluxe1 posts ante 2000
+P1xel7 posts ante 2000
+Amon Tobin posts small blind 8000
+lud0506 posts big blind 16000
+Dealt to P1xel7 [Jh 9d]
+*** PRE-FLOP *** 
+DTRAcoeur666 calls 16000
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 calls 16000
+P1xel7 folds
+Amon Tobin folds
+lud0506 checks
+*** FLOP *** [8h Kh 5h]
+lud0506 checks
+DTRAcoeur666 checks
+jokerdeluxe1 bets 45500
+lud0506 folds
+DTRAcoeur666 folds
+jokerdeluxe1 collected 115500 from pot
+*** SUMMARY ***
+Total pot 115500 | No rake
+Board: [8h Kh 5h]
+Seat 6: jokerdeluxe1 won 115500
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 26 - HandId: #3138119585694220293-156-1704921261 - Holdem no limit (2000/8000/16000) - 2024/01/10 21:14:21 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #8 is the button
+Seat 2: lud0506 (90868, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (140448, 1.35€ bounty)
+Seat 4: KaiserRyback (309965, 3.25€ bounty)
+Seat 5: fulldifs (68375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (593377, 5.38€ bounty)
+Seat 7: P1xel7 (128808, 2.80€ bounty)
+Seat 8: Amon Tobin (131178, 1.35€ bounty)
+*** ANTE/BLINDS ***
+lud0506 posts ante 2000
+DTRAcoeur666 posts ante 2000
+KaiserRyback posts ante 2000
+fulldifs posts ante 2000
+jokerdeluxe1 posts ante 2000
+P1xel7 posts ante 2000
+Amon Tobin posts ante 2000
+lud0506 posts small blind 8000
+DTRAcoeur666 posts big blind 16000
+Dealt to P1xel7 [8h 5d]
+*** PRE-FLOP *** 
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 raises 20000 to 36000
+P1xel7 folds
+Amon Tobin folds
+lud0506 folds
+DTRAcoeur666 folds
+jokerdeluxe1 collected 74000 from pot
+*** SUMMARY ***
+Total pot 74000 | No rake
+Seat 6: jokerdeluxe1 won 74000
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 26 - HandId: #3138119585694220293-157-1704921279 - Holdem no limit (2000/8000/16000) - 2024/01/10 21:14:39 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #2 is the button
+Seat 2: lud0506 (80868, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (122448, 1.35€ bounty)
+Seat 4: KaiserRyback (307965, 3.25€ bounty)
+Seat 5: fulldifs (66375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (629377, 5.38€ bounty)
+Seat 7: P1xel7 (126808, 2.80€ bounty)
+Seat 8: Amon Tobin (129178, 1.35€ bounty)
+*** ANTE/BLINDS ***
+DTRAcoeur666 posts ante 2000
+KaiserRyback posts ante 2000
+lud0506 posts ante 2000
+fulldifs posts ante 2000
+jokerdeluxe1 posts ante 2000
+P1xel7 posts ante 2000
+Amon Tobin posts ante 2000
+DTRAcoeur666 posts small blind 8000
+KaiserRyback posts big blind 16000
+Dealt to P1xel7 [3h 9c]
+*** PRE-FLOP *** 
+fulldifs folds
+jokerdeluxe1 raises 20000 to 36000
+P1xel7 folds
+Amon Tobin raises 91178 to 127178 and is all-in
+lud0506 folds
+DTRAcoeur666 folds
+KaiserRyback folds
+jokerdeluxe1 folds
+Amon Tobin collected 201178 from pot
+*** SUMMARY ***
+Total pot 201178 | No rake
+Seat 8: Amon Tobin won 201178
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 26 - HandId: #3138119585694220293-158-1704921303 - Holdem no limit (2000/8000/16000) - 2024/01/10 21:15:03 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #3 is the button
+Seat 1: Nizlapanure (313099, 5.73€ bounty)
+Seat 2: lud0506 (78868, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (112448, 1.35€ bounty)
+Seat 4: KaiserRyback (289965, 3.25€ bounty)
+Seat 5: fulldifs (64375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (591377, 5.38€ bounty)
+Seat 7: P1xel7 (124808, 2.80€ bounty)
+Seat 8: Amon Tobin (201178, 1.35€ bounty)
+*** ANTE/BLINDS ***
+KaiserRyback posts ante 2000
+fulldifs posts ante 2000
+Nizlapanure posts ante 2000
+lud0506 posts ante 2000
+DTRAcoeur666 posts ante 2000
+jokerdeluxe1 posts ante 2000
+P1xel7 posts ante 2000
+Amon Tobin posts ante 2000
+KaiserRyback posts small blind 8000
+fulldifs posts big blind 16000
+Dealt to P1xel7 [5s 9d]
+*** PRE-FLOP *** 
+jokerdeluxe1 folds
+P1xel7 folds
+Amon Tobin folds
+Nizlapanure calls 16000
+lud0506 calls 16000
+DTRAcoeur666 folds
+KaiserRyback calls 8000
+fulldifs checks
+*** FLOP *** [Kc 4s 6c]
+KaiserRyback checks
+fulldifs checks
+Nizlapanure checks
+lud0506 checks
+*** TURN *** [Kc 4s 6c][Jd]
+KaiserRyback checks
+fulldifs checks
+Nizlapanure checks
+lud0506 checks
+*** RIVER *** [Kc 4s 6c Jd][2h]
+KaiserRyback bets 34500
+fulldifs folds
+Nizlapanure calls 34500
+lud0506 folds
+*** SHOW DOWN ***
+KaiserRyback shows [3s 4d] (One pair : 4)
+Nizlapanure shows [Ac Jc] (One pair : Jacks)
+Nizlapanure collected 149000 from pot
+*** SUMMARY ***
+Total pot 149000 | No rake
+Board: [Kc 4s 6c Jd 2h]
+Seat 1: Nizlapanure showed [Ac Jc] and won 149000 with One pair : Jacks
+Seat 4: KaiserRyback (small blind) showed [3s 4d] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 26 - HandId: #3138119585694220293-159-1704921412 - Holdem no limit (2000/8000/16000) - 2024/01/10 21:16:52 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #4 is the button
+Seat 1: Nizlapanure (409599, 5.73€ bounty)
+Seat 2: lud0506 (60868, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (110448, 1.35€ bounty)
+Seat 4: KaiserRyback (237465, 3.25€ bounty)
+Seat 5: fulldifs (46375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (589377, 5.38€ bounty)
+Seat 7: P1xel7 (122808, 2.80€ bounty)
+Seat 8: Amon Tobin (199178, 1.35€ bounty)
+*** ANTE/BLINDS ***
+fulldifs posts ante 2000
+jokerdeluxe1 posts ante 2000
+Nizlapanure posts ante 2000
+lud0506 posts ante 2000
+DTRAcoeur666 posts ante 2000
+KaiserRyback posts ante 2000
+P1xel7 posts ante 2000
+Amon Tobin posts ante 2000
+fulldifs posts small blind 8000
+jokerdeluxe1 posts big blind 16000
+Dealt to P1xel7 [7d 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Amon Tobin folds
+Nizlapanure folds
+lud0506 folds
+DTRAcoeur666 folds
+KaiserRyback raises 16000 to 32000
+fulldifs folds
+jokerdeluxe1 calls 16000
+*** FLOP *** [Jh 2d Td]
+jokerdeluxe1 checks
+KaiserRyback checks
+*** TURN *** [Jh 2d Td][Th]
+jokerdeluxe1 bets 30800
+KaiserRyback folds
+jokerdeluxe1 collected 118800 from pot
+*** SUMMARY ***
+Total pot 118800 | No rake
+Board: [Jh 2d Td Th]
+Seat 6: jokerdeluxe1 (big blind) won 118800
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 26 - HandId: #3138119585694220293-160-1704921463 - Holdem no limit (2000/8000/16000) - 2024/01/10 21:17:43 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #5 is the button
+Seat 1: Nizlapanure (407599, 5.73€ bounty)
+Seat 2: lud0506 (58868, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (108448, 1.35€ bounty)
+Seat 4: KaiserRyback (203465, 3.25€ bounty)
+Seat 5: fulldifs (36375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (643377, 5.38€ bounty)
+Seat 7: P1xel7 (120808, 2.80€ bounty)
+Seat 8: Amon Tobin (197178, 1.35€ bounty)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts ante 2000
+P1xel7 posts ante 2000
+Nizlapanure posts ante 2000
+lud0506 posts ante 2000
+DTRAcoeur666 posts ante 2000
+KaiserRyback posts ante 2000
+fulldifs posts ante 2000
+Amon Tobin posts ante 2000
+jokerdeluxe1 posts small blind 8000
+P1xel7 posts big blind 16000
+Dealt to P1xel7 [Qh 9c]
+*** PRE-FLOP *** 
+Amon Tobin folds
+Nizlapanure folds
+lud0506 folds
+DTRAcoeur666 folds
+KaiserRyback raises 185465 to 201465 and is all-in
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 folds
+KaiserRyback collected 241465 from pot
+*** SUMMARY ***
+Total pot 241465 | No rake
+Seat 4: KaiserRyback won 241465
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #3138119585694220293-161-1704921488 - Holdem no limit (2500/10000/20000) - 2024/01/10 21:18:08 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #6 is the button
+Seat 1: Nizlapanure (405599, 5.73€ bounty)
+Seat 2: lud0506 (56868, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (106448, 1.35€ bounty)
+Seat 4: KaiserRyback (241465, 3.25€ bounty)
+Seat 5: fulldifs (34375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (633377, 5.38€ bounty)
+Seat 7: P1xel7 (102808, 2.80€ bounty)
+Seat 8: Amon Tobin (195178, 1.35€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 2500
+Amon Tobin posts ante 2500
+Nizlapanure posts ante 2500
+lud0506 posts ante 2500
+DTRAcoeur666 posts ante 2500
+KaiserRyback posts ante 2500
+fulldifs posts ante 2500
+jokerdeluxe1 posts ante 2500
+P1xel7 posts small blind 10000
+Amon Tobin posts big blind 20000
+Dealt to P1xel7 [Jd Qc]
+*** PRE-FLOP *** 
+Nizlapanure folds
+lud0506 folds
+DTRAcoeur666 folds
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 raises 80308 to 100308 and is all-in
+Amon Tobin folds
+P1xel7 collected 140308 from pot
+*** SUMMARY ***
+Total pot 140308 | No rake
+Seat 7: P1xel7 (small blind) won 140308
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #3138119585694220293-162-1704921516 - Holdem no limit (2500/10000/20000) - 2024/01/10 21:18:36 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #7 is the button
+Seat 1: Nizlapanure (403099, 5.73€ bounty)
+Seat 2: lud0506 (54368, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (103948, 1.35€ bounty)
+Seat 4: KaiserRyback (238965, 3.25€ bounty)
+Seat 5: fulldifs (31875, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (630877, 5.38€ bounty)
+Seat 7: P1xel7 (140308, 2.80€ bounty)
+Seat 8: Amon Tobin (172678, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Amon Tobin posts ante 2500
+Nizlapanure posts ante 2500
+lud0506 posts ante 2500
+DTRAcoeur666 posts ante 2500
+KaiserRyback posts ante 2500
+fulldifs posts ante 2500
+jokerdeluxe1 posts ante 2500
+P1xel7 posts ante 2500
+Amon Tobin posts small blind 10000
+Nizlapanure posts big blind 20000
+Dealt to P1xel7 [Qd 2h]
+*** PRE-FLOP *** 
+lud0506 folds
+DTRAcoeur666 folds
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 folds
+Amon Tobin folds
+Nizlapanure collected 50000 from pot
+*** SUMMARY ***
+Total pot 50000 | No rake
+Seat 1: Nizlapanure (big blind) won 50000
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #3138119585694220293-163-1704921533 - Holdem no limit (2500/10000/20000) - 2024/01/10 21:18:53 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #8 is the button
+Seat 1: Nizlapanure (430599, 5.73€ bounty)
+Seat 2: lud0506 (51868, 3.03€ bounty)
+Seat 3: DTRAcoeur666 (101448, 1.35€ bounty)
+Seat 4: KaiserRyback (236465, 3.25€ bounty)
+Seat 5: fulldifs (29375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (628377, 5.38€ bounty)
+Seat 7: P1xel7 (137808, 2.80€ bounty)
+Seat 8: Amon Tobin (160178, 1.35€ bounty)
+*** ANTE/BLINDS ***
+Nizlapanure posts ante 2500
+lud0506 posts ante 2500
+DTRAcoeur666 posts ante 2500
+KaiserRyback posts ante 2500
+fulldifs posts ante 2500
+jokerdeluxe1 posts ante 2500
+P1xel7 posts ante 2500
+Amon Tobin posts ante 2500
+Nizlapanure posts small blind 10000
+lud0506 posts big blind 20000
+Dealt to P1xel7 [4s 5d]
+*** PRE-FLOP *** 
+DTRAcoeur666 raises 78948 to 98948 and is all-in
+KaiserRyback folds
+fulldifs folds
+jokerdeluxe1 raises 247896 to 346844
+P1xel7 folds
+Amon Tobin folds
+Nizlapanure folds
+lud0506 calls 29368 and is all-in
+*** FLOP *** [8c Kh Kc]
+*** TURN *** [8c Kh Kc][5h]
+*** RIVER *** [8c Kh Kc 5h][6c]
+*** SHOW DOWN ***
+lud0506 shows [9d Qc] (One pair : Kings)
+DTRAcoeur666 shows [7c 7s] (Two pairs : Kings and 7)
+jokerdeluxe1 shows [Qh Ac] (One pair : Kings)
+jokerdeluxe1 collected 247896 from side pot 1
+DTRAcoeur666 collected 277264 from main pot
+*** SUMMARY ***
+Total pot 525160 | No rake
+Board: [8c Kh Kc 5h 6c]
+Seat 2: lud0506 (big blind) showed [9d Qc] and lost with One pair : Kings
+Seat 3: DTRAcoeur666 showed [7c 7s] and won 277264 with Two pairs : Kings and 7
+Seat 6: jokerdeluxe1 showed [Qh Ac] and won 247896 with One pair : Kings
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #3138119585694220293-164-1704921574 - Holdem no limit (2500/10000/20000) - 2024/01/10 21:19:34 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #1 is the button
+Seat 1: Nizlapanure (418099, 5.73€ bounty)
+Seat 3: DTRAcoeur666 (277264, 2.86€ bounty)
+Seat 4: KaiserRyback (233965, 3.25€ bounty)
+Seat 5: fulldifs (26875, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (526929, 5.38€ bounty)
+Seat 7: P1xel7 (135308, 2.80€ bounty)
+Seat 8: Amon Tobin (157678, 1.35€ bounty)
+*** ANTE/BLINDS ***
+DTRAcoeur666 posts ante 2500
+Nizlapanure posts ante 2500
+KaiserRyback posts ante 2500
+fulldifs posts ante 2500
+jokerdeluxe1 posts ante 2500
+P1xel7 posts ante 2500
+Amon Tobin posts ante 2500
+DTRAcoeur666 posts big blind 20000
+Dealt to P1xel7 [Jd 2h]
+*** PRE-FLOP *** 
+KaiserRyback raises 211465 to 231465 and is all-in
+fulldifs folds
+jokerdeluxe1 folds
+P1xel7 folds
+Amon Tobin folds
+Nizlapanure folds
+DTRAcoeur666 calls 211465
+*** FLOP *** [Kh 6s Js]
+*** TURN *** [Kh 6s Js][8d]
+*** RIVER *** [Kh 6s Js 8d][7h]
+*** SHOW DOWN ***
+KaiserRyback shows [Qh Ac] (High card : Ace)
+DTRAcoeur666 shows [Kc Ad] (One pair : Kings)
+DTRAcoeur666 collected 480430 from pot
+*** SUMMARY ***
+Total pot 480430 | No rake
+Board: [Kh 6s Js 8d 7h]
+Seat 3: DTRAcoeur666 (big blind) showed [Kc Ad] and won 480430 with One pair : Kings
+Seat 4: KaiserRyback showed [Qh Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #3138119585694220293-165-1704921639 - Holdem no limit (2500/10000/20000) - 2024/01/10 21:20:39 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #2 is the button
+Seat 1: Nizlapanure (415599, 5.73€ bounty)
+Seat 2: ClemDydy1408 (620646, 7.34€ bounty)
+Seat 3: DTRAcoeur666 (523729, 4.48€ bounty)
+Seat 5: fulldifs (24375, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (524429, 5.38€ bounty)
+Seat 7: P1xel7 (132808, 2.80€ bounty)
+Seat 8: Amon Tobin (155178, 1.35€ bounty)
+*** ANTE/BLINDS ***
+DTRAcoeur666 posts ante 2500
+fulldifs posts ante 2500
+Nizlapanure posts ante 2500
+jokerdeluxe1 posts ante 2500
+P1xel7 posts ante 2500
+Amon Tobin posts ante 2500
+DTRAcoeur666 posts small blind 10000
+fulldifs posts big blind 20000
+Dealt to P1xel7 [As 7d]
+*** PRE-FLOP *** 
+jokerdeluxe1 raises 40000 to 60000
+P1xel7 folds
+Amon Tobin folds
+Nizlapanure folds
+DTRAcoeur666 folds
+fulldifs folds
+jokerdeluxe1 collected 105000 from pot
+*** SUMMARY ***
+Total pot 105000 | No rake
+Seat 6: jokerdeluxe1 won 105000
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #3138119585694220293-166-1704921663 - Holdem no limit (2500/10000/20000) - 2024/01/10 21:21:03 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #3 is the button
+Seat 1: Nizlapanure (413099, 5.73€ bounty)
+Seat 2: ClemDydy1408 (620646, 7.34€ bounty)
+Seat 3: DTRAcoeur666 (511229, 4.48€ bounty)
+Seat 5: fulldifs (1875, 4.05€ bounty)
+Seat 6: jokerdeluxe1 (566929, 5.38€ bounty)
+Seat 7: P1xel7 (130308, 2.80€ bounty)
+Seat 8: Amon Tobin (152678, 1.35€ bounty)
+*** ANTE/BLINDS ***
+fulldifs posts ante 1875 and is all-in
+jokerdeluxe1 posts ante 2500
+Nizlapanure posts ante 2500
+ClemDydy1408 posts ante 2500
+DTRAcoeur666 posts ante 2500
+P1xel7 posts ante 2500
+Amon Tobin posts ante 2500
+fulldifs posts small blind 0 and is all-in
+jokerdeluxe1 posts big blind 20000
+Dealt to P1xel7 [7s 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Amon Tobin raises 130178 to 150178 and is all-in
+Nizlapanure folds
+ClemDydy1408 folds
+DTRAcoeur666 folds
+jokerdeluxe1 folds
+*** FLOP *** [Th 3d 6c]
+*** TURN *** [Th 3d 6c][Qd]
+*** RIVER *** [Th 3d 6c Qd][Kd]
+*** SHOW DOWN ***
+fulldifs shows [2h 7c] (High card : King)
+Amon Tobin shows [5c Ah] (High card : Ace)
+Amon Tobin collected 187053 from pot
+*** SUMMARY ***
+Total pot 187053 | No rake
+Board: [Th 3d 6c Qd Kd]
+Seat 5: fulldifs (small blind) showed [2h 7c] and lost with High card : King
+Seat 8: Amon Tobin showed [5c Ah] and won 187053 with High card : Ace
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #3138119585694220293-167-1704921697 - Holdem no limit (2500/10000/20000) - 2024/01/10 21:21:37 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #5 is the button
+Seat 1: Nizlapanure (410599, 5.73€ bounty)
+Seat 2: ClemDydy1408 (618146, 7.34€ bounty)
+Seat 3: DTRAcoeur666 (508729, 4.48€ bounty)
+Seat 6: jokerdeluxe1 (544429, 5.38€ bounty)
+Seat 7: P1xel7 (127808, 2.80€ bounty)
+Seat 8: Amon Tobin (187053, 3.37€ bounty)
+*** ANTE/BLINDS ***
+jokerdeluxe1 posts ante 2500
+P1xel7 posts ante 2500
+Nizlapanure posts ante 2500
+ClemDydy1408 posts ante 2500
+DTRAcoeur666 posts ante 2500
+Amon Tobin posts ante 2500
+jokerdeluxe1 posts small blind 10000
+P1xel7 posts big blind 20000
+Dealt to P1xel7 [Ks Jh]
+*** PRE-FLOP *** 
+Amon Tobin folds
+Nizlapanure folds
+ClemDydy1408 folds
+DTRAcoeur666 raises 20000 to 40000
+jokerdeluxe1 folds
+P1xel7 raises 85308 to 125308 and is all-in
+DTRAcoeur666 calls 85308
+*** FLOP *** [Kd 3c 9c]
+*** TURN *** [Kd 3c 9c][Qc]
+*** RIVER *** [Kd 3c 9c Qc][Ad]
+*** SHOW DOWN ***
+DTRAcoeur666 shows [6s 6d] (One pair : 6)
+P1xel7 shows [Ks Jh] (One pair : Kings)
+P1xel7 collected 275616 from pot
+*** SUMMARY ***
+Total pot 275616 | No rake
+Board: [Kd 3c 9c Qc Ad]
+Seat 3: DTRAcoeur666 showed [6s 6d] and lost with One pair : 6
+Seat 7: P1xel7 (big blind) showed [Ks Jh] and won 275616 with One pair : Kings
+
+
+Winamax Poker - Tournament "SPARTACUS" buyIn: 1.80€ + 0.20€ level: 27 - HandId: #3138119585694220293-168-1704921745 - Holdem no limit (2500/10000/20000) - 2024/01/10 21:22:25 UTC
+Table: 'SPARTACUS(730650403)#0004' 8-max (real money) Seat #6 is the button
+Seat 1: Nizlapanure (408099, 5.73€ bounty)
+Seat 2: ClemDydy1408 (615646, 7.34€ bounty)
+Seat 3: DTRAcoeur666 (380921, 4.48€ bounty)
+Seat 5: TheMagic5 (373237, 6.50€ bounty)
+Seat 6: jokerdeluxe1 (531929, 5.38€ bounty)
+Seat 7: P1xel7 (275616, 2.80€ bounty)
+Seat 8: Amon Tobin (184553, 3.37€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 2500
+Amon Tobin posts ante 2500
+Nizlapanure posts ante 2500
+ClemDydy1408 posts ante 2500
+DTRAcoeur666 posts ante 2500
+TheMagic5 posts ante 2500
+jokerdeluxe1 posts ante 2500
+P1xel7 posts small blind 10000
+Amon Tobin posts big blind 20000
+Dealt to P1xel7 [9d 8d]
+*** PRE-FLOP *** 
+Nizlapanure folds
+ClemDydy1408 calls 20000
+DTRAcoeur666 folds
+TheMagic5 folds
+jokerdeluxe1 folds
+P1xel7 calls 10000
+Amon Tobin checks
+*** FLOP *** [As 2d 8c]
+P1xel7 checks
+Amon Tobin checks
+ClemDydy1408 checks
+*** TURN *** [As 2d 8c][5c]
+P1xel7 bets 27125
+Amon Tobin raises 134928 to 162053 and is all-in
+ClemDydy1408 calls 162053
+P1xel7 raises 91063 to 253116 and is all-in
+ClemDydy1408 calls 91063
+*** RIVER *** [As 2d 8c 5c][Ts]
+*** SHOW DOWN ***
+P1xel7 shows [9d 8d] (One pair : 8)
+ClemDydy1408 shows [9c Ah] (One pair : Aces)
+Amon Tobin shows [2h Ac] (Two pairs : Aces and 2)
+Amon Tobin collected 563659 from main pot
+ClemDydy1408 collected 182126 from side pot 1
+*** SUMMARY ***
+Total pot 745785 | No rake
+Board: [As 2d 8c 5c Ts]
+Seat 2: ClemDydy1408 showed [9c Ah] and won 182126 with One pair : Aces
+Seat 7: P1xel7 (small blind) showed [9d 8d] and lost with One pair : 8
+Seat 8: Amon Tobin (big blind) showed [2h Ac] and won 563659 with Two pairs : Aces and 2
+
+

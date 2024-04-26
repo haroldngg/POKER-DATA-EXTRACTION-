@@ -1,0 +1,313 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3084869743639789569-1-1699453456 - Holdem no limit (10/20) - 2023/11/08 14:24:16 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #1 is the button
+Seat 1: viral-Urubu8 (300)
+Seat 2: Alexbreizh54 (300)
+Seat 3: P1xel7 (300)
+*** ANTE/BLINDS ***
+Alexbreizh54 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [4s 8c]
+*** PRE-FLOP *** 
+viral-Urubu8 calls 20
+Alexbreizh54 calls 10
+P1xel7 checks
+*** FLOP *** [9h 6d Ts]
+Alexbreizh54 bets 20
+P1xel7 folds
+viral-Urubu8 folds
+Alexbreizh54 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Board: [9h 6d Ts]
+Seat 2: Alexbreizh54 (small blind) won 80
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3084869743639789569-2-1699453474 - Holdem no limit (10/20) - 2023/11/08 14:24:34 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #2 is the button
+Seat 1: viral-Urubu8 (280)
+Seat 2: Alexbreizh54 (340)
+Seat 3: P1xel7 (280)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+viral-Urubu8 posts big blind 20
+Dealt to P1xel7 [Tc 7h]
+*** PRE-FLOP *** 
+Alexbreizh54 folds
+P1xel7 folds
+viral-Urubu8 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: viral-Urubu8 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 1 - HandId: #3084869743639789569-3-1699453480 - Holdem no limit (10/20) - 2023/11/08 14:24:40 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #3 is the button
+Seat 1: viral-Urubu8 (290)
+Seat 2: Alexbreizh54 (340)
+Seat 3: P1xel7 (270)
+*** ANTE/BLINDS ***
+viral-Urubu8 posts small blind 10
+Alexbreizh54 posts big blind 20
+Dealt to P1xel7 [Qh Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 25 to 45
+viral-Urubu8 calls 35
+Alexbreizh54 folds
+*** FLOP *** [5s Kd As]
+viral-Urubu8 checks
+P1xel7 bets 40
+viral-Urubu8 raises 110 to 150
+P1xel7 raises 75 to 225 and is all-in
+viral-Urubu8 calls 75
+*** TURN *** [5s Kd As][Kc]
+*** RIVER *** [5s Kd As Kc][7c]
+*** SHOW DOWN ***
+viral-Urubu8 shows [Jh Ad] (Two pairs : Aces and Kings)
+P1xel7 shows [Qh Ac] (Two pairs : Aces and Kings)
+P1xel7 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | No rake
+Board: [5s Kd As Kc 7c]
+Seat 1: viral-Urubu8 (small blind) showed [Jh Ad] and lost with Two pairs : Aces and Kings
+Seat 3: P1xel7 (button) showed [Qh Ac] and won 560 with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3084869743639789569-4-1699453515 - Holdem no limit (15/30) - 2023/11/08 14:25:15 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #1 is the button
+Seat 1: viral-Urubu8 (20)
+Seat 2: Alexbreizh54 (320)
+Seat 3: P1xel7 (560)
+*** ANTE/BLINDS ***
+Alexbreizh54 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [4s 8c]
+*** PRE-FLOP *** 
+viral-Urubu8 calls 20 and is all-in
+Alexbreizh54 folds
+*** FLOP *** [3s 4h 2h]
+*** TURN *** [3s 4h 2h][Ah]
+*** RIVER *** [3s 4h 2h Ah][As]
+*** SHOW DOWN ***
+viral-Urubu8 shows [Tc Qc] (One pair : Aces)
+P1xel7 shows [4s 8c] (Two pairs : Aces and 4)
+P1xel7 collected 65 from pot
+*** SUMMARY ***
+Total pot 65 | No rake
+Board: [3s 4h 2h Ah As]
+Seat 1: viral-Urubu8 (button) showed [Tc Qc] and lost with One pair : Aces
+Seat 3: P1xel7 (big blind) showed [4s 8c] and won 65 with Two pairs : Aces and 4
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3084869743639789569-5-1699453529 - Holdem no limit (15/30) - 2023/11/08 14:25:29 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Alexbreizh54 (305)
+Seat 3: P1xel7 (595)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Alexbreizh54 posts big blind 30
+Dealt to P1xel7 [3s 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Alexbreizh54 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: Alexbreizh54 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3084869743639789569-6-1699453534 - Holdem no limit (15/30) - 2023/11/08 14:25:34 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Alexbreizh54 (320)
+Seat 3: P1xel7 (580)
+*** ANTE/BLINDS ***
+Alexbreizh54 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Jc Ad]
+*** PRE-FLOP *** 
+Alexbreizh54 calls 15
+P1xel7 raises 45 to 75
+Alexbreizh54 calls 45
+*** FLOP *** [2d 2c 9h]
+P1xel7 bets 505 and is all-in
+Alexbreizh54 calls 245 and is all-in
+*** TURN *** [2d 2c 9h][Ah]
+*** RIVER *** [2d 2c 9h Ah][9d]
+*** SHOW DOWN ***
+Alexbreizh54 shows [2h Kh] (Full of 2 and 9)
+P1xel7 shows [Jc Ad] (Two pairs : Aces and 9)
+P1xel7 collected 260 from side pot 1
+Alexbreizh54 collected 640 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2d 2c 9h Ah 9d]
+Seat 2: Alexbreizh54 (small blind) (button) showed [2h Kh] and won 640 with Full of 2 and 9
+Seat 3: P1xel7 (big blind) showed [Jc Ad] and won 260 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3084869743639789569-7-1699453555 - Holdem no limit (15/30) - 2023/11/08 14:25:55 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Alexbreizh54 (640)
+Seat 3: P1xel7 (260)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Alexbreizh54 posts big blind 30
+Dealt to P1xel7 [As Th]
+*** PRE-FLOP *** 
+P1xel7 raises 230 to 260 and is all-in
+Alexbreizh54 folds
+P1xel7 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | No rake
+Seat 3: P1xel7 (small blind) (button) won 290
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 2 - HandId: #3084869743639789569-8-1699453564 - Holdem no limit (15/30) - 2023/11/08 14:26:04 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Alexbreizh54 (610)
+Seat 3: P1xel7 (290)
+*** ANTE/BLINDS ***
+Alexbreizh54 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [4h 9c]
+*** PRE-FLOP *** 
+Alexbreizh54 calls 15
+P1xel7 checks
+*** FLOP *** [Ac 9d Th]
+P1xel7 checks
+Alexbreizh54 bets 30
+P1xel7 raises 68 to 98
+Alexbreizh54 folds
+P1xel7 collected 188 from pot
+*** SUMMARY ***
+Total pot 188 | No rake
+Board: [Ac 9d Th]
+Seat 3: P1xel7 (big blind) won 188
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #3084869743639789569-9-1699453582 - Holdem no limit (20/40) - 2023/11/08 14:26:22 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Alexbreizh54 (550)
+Seat 3: P1xel7 (350)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Alexbreizh54 posts big blind 40
+Dealt to P1xel7 [4h 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Alexbreizh54 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 2: Alexbreizh54 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #3084869743639789569-10-1699453587 - Holdem no limit (20/40) - 2023/11/08 14:26:27 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Alexbreizh54 (570)
+Seat 3: P1xel7 (330)
+*** ANTE/BLINDS ***
+Alexbreizh54 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [2c Ah]
+*** PRE-FLOP *** 
+Alexbreizh54 calls 20
+P1xel7 raises 290 to 330 and is all-in
+Alexbreizh54 folds
+P1xel7 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | No rake
+Seat 3: P1xel7 (big blind) won 370
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #3084869743639789569-11-1699453602 - Holdem no limit (20/40) - 2023/11/08 14:26:42 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Alexbreizh54 (530)
+Seat 3: P1xel7 (370)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Alexbreizh54 posts big blind 40
+Dealt to P1xel7 [Jc Qc]
+*** PRE-FLOP *** 
+P1xel7 raises 330 to 370 and is all-in
+Alexbreizh54 folds
+P1xel7 collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | No rake
+Seat 3: P1xel7 (small blind) (button) won 410
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #3084869743639789569-12-1699453609 - Holdem no limit (20/40) - 2023/11/08 14:26:49 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Alexbreizh54 (490)
+Seat 3: P1xel7 (410)
+*** ANTE/BLINDS ***
+Alexbreizh54 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [7s As]
+*** PRE-FLOP *** 
+Alexbreizh54 calls 20
+P1xel7 raises 370 to 410 and is all-in
+Alexbreizh54 calls 370
+*** FLOP *** [3h Kc Ts]
+*** TURN *** [3h Kc Ts][9s]
+*** RIVER *** [3h Kc Ts 9s][8s]
+*** SHOW DOWN ***
+Alexbreizh54 shows [Qd 8d] (One pair : 8)
+P1xel7 shows [7s As] (Flush Ace high)
+P1xel7 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | No rake
+Board: [3h Kc Ts 9s 8s]
+Seat 2: Alexbreizh54 (small blind) (button) showed [Qd 8d] and lost with One pair : 8
+Seat 3: P1xel7 (big blind) showed [7s As] and won 820 with Flush Ace high
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 3 - HandId: #3084869743639789569-13-1699453623 - Holdem no limit (20/40) - 2023/11/08 14:27:03 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #3 is the button
+Seat 2: Alexbreizh54 (80)
+Seat 3: P1xel7 (820)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Alexbreizh54 posts big blind 40
+Dealt to P1xel7 [9h 3s]
+*** PRE-FLOP *** 
+P1xel7 raises 50 to 90
+Alexbreizh54 calls 40 and is all-in
+*** FLOP *** [8s Js Jd]
+*** TURN *** [8s Js Jd][Qc]
+*** RIVER *** [8s Js Jd Qc][7s]
+*** SHOW DOWN ***
+Alexbreizh54 shows [Kd 5h] (One pair : Jacks)
+P1xel7 shows [9h 3s] (One pair : Jacks)
+P1xel7 collected 10 from side pot 1
+Alexbreizh54 collected 160 from main pot
+*** SUMMARY ***
+Total pot 170 | No rake
+Board: [8s Js Jd Qc 7s]
+Seat 2: Alexbreizh54 (big blind) showed [Kd 5h] and won 160 with One pair : Jacks
+Seat 3: P1xel7 (small blind) (button) showed [9h 3s] and won 10 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 0.93€ + 0.07€ level: 4 - HandId: #3084869743639789569-14-1699453638 - Holdem no limit (30/60) - 2023/11/08 14:27:18 UTC
+Table: 'Expresso Nitro(718252208)#0' 3-max (real money) Seat #2 is the button
+Seat 2: Alexbreizh54 (160)
+Seat 3: P1xel7 (740)
+*** ANTE/BLINDS ***
+Alexbreizh54 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Qh Jd]
+*** PRE-FLOP *** 
+Alexbreizh54 raises 100 to 160 and is all-in
+P1xel7 calls 100
+*** FLOP *** [Ad 5c Jh]
+*** TURN *** [Ad 5c Jh][7d]
+*** RIVER *** [Ad 5c Jh 7d][6c]
+*** SHOW DOWN ***
+Alexbreizh54 shows [Kh 5h] (One pair : 5)
+P1xel7 shows [Qh Jd] (One pair : Jacks)
+P1xel7 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Board: [Ad 5c Jh 7d 6c]
+Seat 2: Alexbreizh54 (small blind) (button) showed [Kh 5h] and lost with One pair : 5
+Seat 3: P1xel7 (big blind) showed [Qh Jd] and won 320 with One pair : Jacks
+
+

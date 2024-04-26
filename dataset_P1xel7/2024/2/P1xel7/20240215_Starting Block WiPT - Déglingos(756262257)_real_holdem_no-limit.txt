@@ -1,0 +1,783 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3248121661014147073-1-1708024255 - Holdem no limit (10/20) - 2024/02/15 19:10:55 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Manusream (500)
+Seat 2: Gaelllou (500)
+Seat 3: Priez59230 (500)
+Seat 4: nahil10 (500)
+Seat 5: P1xel7 (500)
+Seat 6: Xx-Tome-78 (500)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 10
+Manusream posts big blind 20
+Dealt to P1xel7 [7d 7h]
+*** PRE-FLOP *** 
+Gaelllou raises 480 to 500 and is all-in
+Priez59230 calls 500 and is all-in
+nahil10 calls 500 and is all-in
+P1xel7 calls 500 and is all-in
+Xx-Tome-78 folds
+Manusream calls 480 and is all-in
+*** FLOP *** [3h 4c Ts]
+*** TURN *** [3h 4c Ts][3d]
+*** RIVER *** [3h 4c Ts 3d][Kc]
+*** SHOW DOWN ***
+Manusream shows [8s 6d] (One pair : 3)
+Gaelllou shows [5d 5c] (Two pairs : 5 and 3)
+Priez59230 shows [9h 2s] (One pair : 3)
+nahil10 shows [Qs 8h] (One pair : 3)
+P1xel7 shows [7d 7h] (Two pairs : 7 and 3)
+P1xel7 collected 2510 from pot
+*** SUMMARY ***
+Total pot 2510 | No rake
+Board: [3h 4c Ts 3d Kc]
+Seat 1: Manusream (big blind) showed [8s 6d] and lost with One pair : 3
+Seat 2: Gaelllou showed [5d 5c] and lost with Two pairs : 5 and 3
+Seat 3: Priez59230 showed [9h 2s] and lost with One pair : 3
+Seat 4: nahil10 showed [Qs 8h] and lost with One pair : 3
+Seat 5: P1xel7 (button) showed [7d 7h] and won 2510 with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3248121661014147073-2-1708024287 - Holdem no limit (10/20) - 2024/02/15 19:11:27 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (2510)
+Seat 6: Xx-Tome-78 (490)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Xx-Tome-78 posts big blind 20
+Dealt to P1xel7 [Ad 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 30
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3248121661014147073-3-1708024298 - Holdem no limit (10/20) - 2024/02/15 19:11:38 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (2500)
+Seat 6: Xx-Tome-78 (500)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [6h Qc]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 480 to 500 and is all-in
+P1xel7 folds
+Xx-Tome-78 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 6: Xx-Tome-78 (small blind) (button) won 520
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3248121661014147073-4-1708024302 - Holdem no limit (10/20) - 2024/02/15 19:11:42 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (2480)
+Seat 6: Xx-Tome-78 (520)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Xx-Tome-78 posts big blind 20
+Dealt to P1xel7 [6d 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 30
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3248121661014147073-5-1708024310 - Holdem no limit (10/20) - 2024/02/15 19:11:50 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (2470)
+Seat 6: Xx-Tome-78 (530)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [4h Tc]
+*** PRE-FLOP *** 
+Xx-Tome-78 calls 10
+P1xel7 checks
+*** FLOP *** [2c Ks 5s]
+P1xel7 checks
+Xx-Tome-78 checks
+*** TURN *** [2c Ks 5s][6c]
+P1xel7 checks
+Xx-Tome-78 checks
+*** RIVER *** [2c Ks 5s 6c][5c]
+P1xel7 bets 20
+Xx-Tome-78 folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [2c Ks 5s 6c 5c]
+Seat 5: P1xel7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3248121661014147073-6-1708024322 - Holdem no limit (10/20) - 2024/02/15 19:12:02 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (2490)
+Seat 6: Xx-Tome-78 (510)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Xx-Tome-78 posts big blind 20
+Dealt to P1xel7 [Ks Jh]
+*** PRE-FLOP *** 
+P1xel7 raises 20 to 40
+Xx-Tome-78 raises 80 to 120
+P1xel7 raises 2370 to 2490 and is all-in
+Xx-Tome-78 calls 390 and is all-in
+*** FLOP *** [Td Qh 7s]
+*** TURN *** [Td Qh 7s][Kc]
+*** RIVER *** [Td Qh 7s Kc][Tc]
+*** SHOW DOWN ***
+P1xel7 shows [Ks Jh] (Two pairs : Kings and Tens)
+Xx-Tome-78 shows [As Th] (Trips of Tens)
+Xx-Tome-78 collected 1020 from main pot
+P1xel7 collected 1980 from side pot 1
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Td Qh 7s Kc Tc]
+Seat 5: P1xel7 (small blind) (button) showed [Ks Jh] and won 1980 with Two pairs : Kings and Tens
+Seat 6: Xx-Tome-78 (big blind) showed [As Th] and won 1020 with Trips of Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3248121661014147073-7-1708024339 - Holdem no limit (10/20) - 2024/02/15 19:12:19 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1980)
+Seat 6: Xx-Tome-78 (1020)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8h 7h]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 1000 to 1020 and is all-in
+P1xel7 folds
+Xx-Tome-78 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Seat 6: Xx-Tome-78 (small blind) (button) won 1040
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-8-1708024344 - Holdem no limit (15/30) - 2024/02/15 19:12:24 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (1960)
+Seat 6: Xx-Tome-78 (1040)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Xx-Tome-78 posts big blind 30
+Dealt to P1xel7 [5h 5s]
+*** PRE-FLOP *** 
+P1xel7 raises 1930 to 1960 and is all-in
+Xx-Tome-78 folds
+P1xel7 collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Seat 5: P1xel7 (small blind) (button) won 1990
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-9-1708024350 - Holdem no limit (15/30) - 2024/02/15 19:12:30 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1990)
+Seat 6: Xx-Tome-78 (1010)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Kd Qh]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 30 to 60
+P1xel7 calls 30
+*** FLOP *** [Ah 8h 9s]
+P1xel7 checks
+Xx-Tome-78 bets 78
+P1xel7 calls 78
+*** TURN *** [Ah 8h 9s][Tc]
+P1xel7 checks
+Xx-Tome-78 checks
+*** RIVER *** [Ah 8h 9s Tc][5c]
+P1xel7 bets 138
+Xx-Tome-78 calls 138
+*** SHOW DOWN ***
+P1xel7 shows [Kd Qh] (High card : Ace)
+Xx-Tome-78 shows [5h Kc] (One pair : 5)
+Xx-Tome-78 collected 552 from pot
+*** SUMMARY ***
+Total pot 552 | No rake
+Board: [Ah 8h 9s Tc 5c]
+Seat 5: P1xel7 (big blind) showed [Kd Qh] and lost with High card : Ace
+Seat 6: Xx-Tome-78 (small blind) (button) showed [5h Kc] and won 552 with One pair : 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-10-1708024367 - Holdem no limit (15/30) - 2024/02/15 19:12:47 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (1714)
+Seat 6: Xx-Tome-78 (1286)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Xx-Tome-78 posts big blind 30
+Dealt to P1xel7 [6s 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-11-1708024371 - Holdem no limit (15/30) - 2024/02/15 19:12:51 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1699)
+Seat 6: Xx-Tome-78 (1301)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [2d 8h]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 45 to 75
+P1xel7 folds
+Xx-Tome-78 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 6: Xx-Tome-78 (small blind) (button) won 105
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-12-1708024376 - Holdem no limit (15/30) - 2024/02/15 19:12:56 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (1669)
+Seat 6: Xx-Tome-78 (1331)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Xx-Tome-78 posts big blind 30
+Dealt to P1xel7 [Kc 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-13-1708024380 - Holdem no limit (15/30) - 2024/02/15 19:13:00 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1654)
+Seat 6: Xx-Tome-78 (1346)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Tc 5h]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 45 to 75
+P1xel7 folds
+Xx-Tome-78 collected 105 from pot
+*** SUMMARY ***
+Total pot 105 | No rake
+Seat 6: Xx-Tome-78 (small blind) (button) won 105
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-14-1708024385 - Holdem no limit (15/30) - 2024/02/15 19:13:05 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (1624)
+Seat 6: Xx-Tome-78 (1376)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Xx-Tome-78 posts big blind 30
+Dealt to P1xel7 [9d As]
+*** PRE-FLOP *** 
+P1xel7 raises 30 to 60
+Xx-Tome-78 calls 30
+*** FLOP *** [Jc 3s 5d]
+Xx-Tome-78 checks
+P1xel7 bets 30
+Xx-Tome-78 calls 30
+*** TURN *** [Jc 3s 5d][Tc]
+Xx-Tome-78 checks
+P1xel7 checks
+*** RIVER *** [Jc 3s 5d Tc][2d]
+Xx-Tome-78 checks
+P1xel7 checks
+*** SHOW DOWN ***
+Xx-Tome-78 shows [9h Kh] (High card : King)
+P1xel7 shows [9d As] (High card : Ace)
+P1xel7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Jc 3s 5d Tc 2d]
+Seat 5: P1xel7 (small blind) (button) showed [9d As] and won 180 with High card : Ace
+Seat 6: Xx-Tome-78 (big blind) showed [9h Kh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-15-1708024398 - Holdem no limit (15/30) - 2024/02/15 19:13:18 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1714)
+Seat 6: Xx-Tome-78 (1286)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [3d 9c]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 30 to 60
+P1xel7 folds
+Xx-Tome-78 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: Xx-Tome-78 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-16-1708024404 - Holdem no limit (15/30) - 2024/02/15 19:13:24 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (1684)
+Seat 6: Xx-Tome-78 (1316)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Xx-Tome-78 posts big blind 30
+Dealt to P1xel7 [Jc 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-17-1708024411 - Holdem no limit (15/30) - 2024/02/15 19:13:31 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1669)
+Seat 6: Xx-Tome-78 (1331)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Jh 5c]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 30 to 60
+P1xel7 folds
+Xx-Tome-78 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: Xx-Tome-78 (small blind) (button) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-18-1708024415 - Holdem no limit (15/30) - 2024/02/15 19:13:35 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (1639)
+Seat 6: Xx-Tome-78 (1361)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Xx-Tome-78 posts big blind 30
+Dealt to P1xel7 [6d 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-19-1708024419 - Holdem no limit (15/30) - 2024/02/15 19:13:39 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1624)
+Seat 6: Xx-Tome-78 (1376)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Ah Th]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 30 to 60
+P1xel7 raises 120 to 180
+Xx-Tome-78 folds
+P1xel7 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 5: P1xel7 (big blind) won 240
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-20-1708024427 - Holdem no limit (15/30) - 2024/02/15 19:13:47 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (1684)
+Seat 6: Xx-Tome-78 (1316)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Xx-Tome-78 posts big blind 30
+Dealt to P1xel7 [8d 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3248121661014147073-21-1708024430 - Holdem no limit (15/30) - 2024/02/15 19:13:50 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1669)
+Seat 6: Xx-Tome-78 (1331)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [4d 6d]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 30 to 60
+P1xel7 calls 30
+*** FLOP *** [7s As Ks]
+P1xel7 checks
+Xx-Tome-78 bets 78
+P1xel7 folds
+Xx-Tome-78 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [7s As Ks]
+Seat 6: Xx-Tome-78 (small blind) (button) won 198
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-22-1708024440 - Holdem no limit (20/40) - 2024/02/15 19:14:00 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (1609)
+Seat 6: Xx-Tome-78 (1391)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Xx-Tome-78 posts big blind 40
+Dealt to P1xel7 [3c Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-23-1708024444 - Holdem no limit (20/40) - 2024/02/15 19:14:04 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1589)
+Seat 6: Xx-Tome-78 (1411)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [6d 3s]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 40 to 80
+P1xel7 folds
+Xx-Tome-78 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: Xx-Tome-78 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-24-1708024448 - Holdem no limit (20/40) - 2024/02/15 19:14:08 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (1549)
+Seat 6: Xx-Tome-78 (1451)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Xx-Tome-78 posts big blind 40
+Dealt to P1xel7 [Jh 8h]
+*** PRE-FLOP *** 
+P1xel7 raises 40 to 80
+Xx-Tome-78 calls 40
+*** FLOP *** [Kh Jd 2s]
+Xx-Tome-78 checks
+P1xel7 bets 56
+Xx-Tome-78 folds
+P1xel7 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [Kh Jd 2s]
+Seat 5: P1xel7 (small blind) (button) won 216
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-25-1708024461 - Holdem no limit (20/40) - 2024/02/15 19:14:21 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1629)
+Seat 6: Xx-Tome-78 (1371)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [As 9s]
+*** PRE-FLOP *** 
+Xx-Tome-78 calls 20
+P1xel7 raises 60 to 100
+Xx-Tome-78 raises 200 to 300
+P1xel7 raises 1329 to 1629 and is all-in
+Xx-Tome-78 calls 1071 and is all-in
+*** FLOP *** [Qs 5c 2c]
+*** TURN *** [Qs 5c 2c][Ks]
+*** RIVER *** [Qs 5c 2c Ks][4d]
+*** SHOW DOWN ***
+P1xel7 shows [As 9s] (High card : Ace)
+Xx-Tome-78 shows [Qc Ac] (One pair : Queens)
+Xx-Tome-78 collected 2742 from main pot
+P1xel7 collected 258 from side pot 1
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Qs 5c 2c Ks 4d]
+Seat 5: P1xel7 (big blind) showed [As 9s] and won 258 with High card : Ace
+Seat 6: Xx-Tome-78 (small blind) (button) showed [Qc Ac] and won 2742 with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-26-1708024479 - Holdem no limit (20/40) - 2024/02/15 19:14:39 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (258)
+Seat 6: Xx-Tome-78 (2742)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Xx-Tome-78 posts big blind 40
+Dealt to P1xel7 [3s 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-27-1708024483 - Holdem no limit (20/40) - 2024/02/15 19:14:43 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (238)
+Seat 6: Xx-Tome-78 (2762)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [2h 9c]
+*** PRE-FLOP *** 
+Xx-Tome-78 folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 5: P1xel7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-28-1708024487 - Holdem no limit (20/40) - 2024/02/15 19:14:47 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (258)
+Seat 6: Xx-Tome-78 (2742)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Xx-Tome-78 posts big blind 40
+Dealt to P1xel7 [Jd 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-29-1708024491 - Holdem no limit (20/40) - 2024/02/15 19:14:51 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (238)
+Seat 6: Xx-Tome-78 (2762)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [2c 5d]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 2722 to 2762 and is all-in
+P1xel7 folds
+Xx-Tome-78 collected 2802 from pot
+*** SUMMARY ***
+Total pot 2802 | No rake
+Seat 6: Xx-Tome-78 (small blind) (button) won 2802
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-30-1708024495 - Holdem no limit (20/40) - 2024/02/15 19:14:55 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (198)
+Seat 6: Xx-Tome-78 (2802)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Xx-Tome-78 posts big blind 40
+Dealt to P1xel7 [Js Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 158 to 198 and is all-in
+Xx-Tome-78 folds
+P1xel7 collected 238 from pot
+*** SUMMARY ***
+Total pot 238 | No rake
+Seat 5: P1xel7 (small blind) (button) won 238
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-31-1708024501 - Holdem no limit (20/40) - 2024/02/15 19:15:01 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (238)
+Seat 6: Xx-Tome-78 (2762)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Kd Th]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 2722 to 2762 and is all-in
+P1xel7 calls 198 and is all-in
+*** FLOP *** [Kc 2c 7s]
+*** TURN *** [Kc 2c 7s][Jh]
+*** RIVER *** [Kc 2c 7s Jh][2h]
+*** SHOW DOWN ***
+P1xel7 shows [Kd Th] (Two pairs : Kings and 2)
+Xx-Tome-78 shows [9h Qh] (One pair : 2)
+Xx-Tome-78 collected 2524 from side pot 1
+P1xel7 collected 476 from main pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Kc 2c 7s Jh 2h]
+Seat 5: P1xel7 (big blind) showed [Kd Th] and won 476 with Two pairs : Kings and 2
+Seat 6: Xx-Tome-78 (small blind) (button) showed [9h Qh] and won 2524 with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-32-1708024512 - Holdem no limit (20/40) - 2024/02/15 19:15:12 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (476)
+Seat 6: Xx-Tome-78 (2524)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Xx-Tome-78 posts big blind 40
+Dealt to P1xel7 [3h 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3248121661014147073-33-1708024515 - Holdem no limit (20/40) - 2024/02/15 19:15:15 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (456)
+Seat 6: Xx-Tome-78 (2544)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Kc 2c]
+*** PRE-FLOP *** 
+Xx-Tome-78 calls 20
+P1xel7 checks
+*** FLOP *** [5s 2d Ac]
+P1xel7 checks
+Xx-Tome-78 checks
+*** TURN *** [5s 2d Ac][2h]
+P1xel7 bets 40
+Xx-Tome-78 calls 40
+*** RIVER *** [5s 2d Ac 2h][Tc]
+P1xel7 bets 56
+Xx-Tome-78 calls 56
+*** SHOW DOWN ***
+Xx-Tome-78 shows [Jh Ad] (Two pairs : Aces and 2)
+P1xel7 shows [Kc 2c] (Trips of 2)
+P1xel7 collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | No rake
+Board: [5s 2d Ac 2h Tc]
+Seat 5: P1xel7 (big blind) showed [Kc 2c] and won 272 with Trips of 2
+Seat 6: Xx-Tome-78 (small blind) (button) showed [Jh Ad] and lost with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3248121661014147073-34-1708024533 - Holdem no limit (30/60) - 2024/02/15 19:15:33 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (592)
+Seat 6: Xx-Tome-78 (2408)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Xx-Tome-78 posts big blind 60
+Dealt to P1xel7 [5h Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3248121661014147073-35-1708024537 - Holdem no limit (30/60) - 2024/02/15 19:15:37 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (562)
+Seat 6: Xx-Tome-78 (2438)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Qh Ah]
+*** PRE-FLOP *** 
+Xx-Tome-78 raises 2378 to 2438 and is all-in
+P1xel7 calls 502 and is all-in
+*** FLOP *** [Qd 5d 9h]
+*** TURN *** [Qd 5d 9h][Kc]
+*** RIVER *** [Qd 5d 9h Kc][6d]
+*** SHOW DOWN ***
+P1xel7 shows [Qh Ah] (One pair : Queens)
+Xx-Tome-78 shows [4s Jc] (High card : King)
+Xx-Tome-78 collected 1876 from side pot 1
+P1xel7 collected 1124 from main pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Qd 5d 9h Kc 6d]
+Seat 5: P1xel7 (big blind) showed [Qh Ah] and won 1124 with One pair : Queens
+Seat 6: Xx-Tome-78 (small blind) (button) showed [4s Jc] and won 1876 with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3248121661014147073-36-1708024548 - Holdem no limit (30/60) - 2024/02/15 19:15:48 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (1124)
+Seat 6: Xx-Tome-78 (1876)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Xx-Tome-78 posts big blind 60
+Dealt to P1xel7 [Ks 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Xx-Tome-78 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: Xx-Tome-78 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3248121661014147073-37-1708024551 - Holdem no limit (30/60) - 2024/02/15 19:15:51 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #6 is the button
+Seat 5: P1xel7 (1094)
+Seat 6: Xx-Tome-78 (1906)
+*** ANTE/BLINDS ***
+Xx-Tome-78 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Ah 3d]
+*** PRE-FLOP *** 
+Xx-Tome-78 calls 30
+P1xel7 raises 60 to 120
+Xx-Tome-78 calls 60
+*** FLOP *** [7c Qc 4s]
+P1xel7 checks
+Xx-Tome-78 checks
+*** TURN *** [7c Qc 4s][Jd]
+P1xel7 checks
+Xx-Tome-78 bets 156
+P1xel7 folds
+Xx-Tome-78 collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | No rake
+Board: [7c Qc 4s Jd]
+Seat 6: Xx-Tome-78 (small blind) (button) won 396
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3248121661014147073-38-1708024565 - Holdem no limit (30/60) - 2024/02/15 19:16:05 UTC
+Table: 'Starting Block WiPT - Déglingos(756262257)#0' 6-max (real money) Seat #5 is the button
+Seat 5: P1xel7 (974)
+Seat 6: Xx-Tome-78 (2026)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Xx-Tome-78 posts big blind 60
+Dealt to P1xel7 [6h Ad]
+*** PRE-FLOP *** 
+P1xel7 raises 60 to 120
+Xx-Tome-78 calls 60
+*** FLOP *** [Qc 8c 5s]
+Xx-Tome-78 checks
+P1xel7 bets 120
+Xx-Tome-78 calls 120
+*** TURN *** [Qc 8c 5s][Th]
+Xx-Tome-78 checks
+P1xel7 bets 734 and is all-in
+Xx-Tome-78 calls 734
+*** RIVER *** [Qc 8c 5s Th][Td]
+*** SHOW DOWN ***
+P1xel7 shows [6h Ad] (One pair : Tens)
+Xx-Tome-78 shows [Qd 9d] (Two pairs : Queens and Tens)
+Xx-Tome-78 collected 1948 from pot
+*** SUMMARY ***
+Total pot 1948 | No rake
+Board: [Qc 8c 5s Th Td]
+Seat 5: P1xel7 (small blind) (button) showed [6h Ad] and lost with One pair : Tens
+Seat 6: Xx-Tome-78 (big blind) showed [Qd 9d] and won 1948 with Two pairs : Queens and Tens
+
+

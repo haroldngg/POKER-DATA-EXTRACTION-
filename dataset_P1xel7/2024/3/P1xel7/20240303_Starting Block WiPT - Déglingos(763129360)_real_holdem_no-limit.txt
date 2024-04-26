@@ -1,0 +1,440 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277615643817410561-1-1709491845 - Holdem no limit (10/20) - 2024/03/03 18:50:45 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #2 is the button
+Seat 1: benzema78500 (500)
+Seat 2: Tounisan69 (500)
+Seat 3: P1xel7 (500)
+Seat 4: Le mail (500)
+Seat 5: Madame2Pique (500)
+Seat 6: CHARLYBANEZ (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Le mail posts big blind 20
+Dealt to P1xel7 [2h Tc]
+*** PRE-FLOP *** 
+Madame2Pique raises 480 to 500 and is all-in
+CHARLYBANEZ calls 500 and is all-in
+benzema78500 calls 500 and is all-in
+Tounisan69 calls 500 and is all-in
+P1xel7 folds
+Le mail folds
+*** FLOP *** [4h 4d 6h]
+*** TURN *** [4h 4d 6h][Jd]
+*** RIVER *** [4h 4d 6h Jd][Qh]
+*** SHOW DOWN ***
+benzema78500 shows [As 6d] (Two pairs : 6 and 4)
+Tounisan69 shows [9c Kc] (One pair : 4)
+Madame2Pique shows [Qs Ah] (Two pairs : Queens and 4)
+CHARLYBANEZ shows [6s Qc] (Two pairs : Queens and 6)
+CHARLYBANEZ collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | No rake
+Board: [4h 4d 6h Jd Qh]
+Seat 1: benzema78500 showed [As 6d] and lost with Two pairs : 6 and 4
+Seat 2: Tounisan69 (button) showed [9c Kc] and lost with One pair : 4
+Seat 5: Madame2Pique showed [Qs Ah] and lost with Two pairs : Queens and 4
+Seat 6: CHARLYBANEZ showed [6s Qc] and won 2030 with Two pairs : Queens and 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277615643817410561-2-1709491874 - Holdem no limit (10/20) - 2024/03/03 18:51:14 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #3 is the button
+Seat 3: P1xel7 (490)
+Seat 4: Le mail (480)
+Seat 6: CHARLYBANEZ (2030)
+*** ANTE/BLINDS ***
+Le mail posts small blind 10
+CHARLYBANEZ posts big blind 20
+Dealt to P1xel7 [Ac 6h]
+*** PRE-FLOP *** 
+P1xel7 raises 20 to 40
+Le mail folds
+CHARLYBANEZ calls 20
+*** FLOP *** [Td 9h 3s]
+CHARLYBANEZ checks
+P1xel7 checks
+*** TURN *** [Td 9h 3s][7h]
+CHARLYBANEZ bets 59
+P1xel7 calls 59
+*** RIVER *** [Td 9h 3s 7h][Ad]
+CHARLYBANEZ checks
+P1xel7 bets 135
+CHARLYBANEZ calls 135
+*** SHOW DOWN ***
+CHARLYBANEZ shows [5d 3d] (One pair : 3)
+P1xel7 shows [Ac 6h] (One pair : Aces)
+P1xel7 collected 478 from pot
+*** SUMMARY ***
+Total pot 478 | No rake
+Board: [Td 9h 3s 7h Ad]
+Seat 3: P1xel7 (button) showed [Ac 6h] and won 478 with One pair : Aces
+Seat 6: CHARLYBANEZ (big blind) showed [5d 3d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277615643817410561-3-1709491901 - Holdem no limit (10/20) - 2024/03/03 18:51:41 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #4 is the button
+Seat 3: P1xel7 (734)
+Seat 4: Le mail (470)
+Seat 6: CHARLYBANEZ (1796)
+*** ANTE/BLINDS ***
+CHARLYBANEZ posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8d 7h]
+*** PRE-FLOP *** 
+Le mail folds
+CHARLYBANEZ raises 20 to 40
+P1xel7 calls 20
+*** FLOP *** [As Jc 3s]
+CHARLYBANEZ bets 52
+P1xel7 folds
+CHARLYBANEZ collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | No rake
+Board: [As Jc 3s]
+Seat 6: CHARLYBANEZ (small blind) won 132
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277615643817410561-4-1709491919 - Holdem no limit (10/20) - 2024/03/03 18:51:59 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #6 is the button
+Seat 3: P1xel7 (694)
+Seat 4: Le mail (470)
+Seat 6: CHARLYBANEZ (1836)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Le mail posts big blind 20
+Dealt to P1xel7 [3c 8s]
+*** PRE-FLOP *** 
+CHARLYBANEZ raises 30 to 50
+P1xel7 folds
+Le mail folds
+CHARLYBANEZ collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | No rake
+Seat 6: CHARLYBANEZ (button) won 80
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277615643817410561-5-1709491930 - Holdem no limit (10/20) - 2024/03/03 18:52:10 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #3 is the button
+Seat 3: P1xel7 (684)
+Seat 4: Le mail (450)
+Seat 6: CHARLYBANEZ (1866)
+*** ANTE/BLINDS ***
+Le mail posts small blind 10
+CHARLYBANEZ posts big blind 20
+Dealt to P1xel7 [3h Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le mail raises 430 to 450 and is all-in
+CHARLYBANEZ folds
+Le mail collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 4: Le mail (small blind) won 470
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277615643817410561-6-1709491951 - Holdem no limit (15/30) - 2024/03/03 18:52:31 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #4 is the button
+Seat 3: P1xel7 (684)
+Seat 4: Le mail (470)
+Seat 6: CHARLYBANEZ (1846)
+*** ANTE/BLINDS ***
+CHARLYBANEZ posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Ad 6d]
+*** PRE-FLOP *** 
+Le mail folds
+CHARLYBANEZ raises 60 to 90
+P1xel7 calls 60
+*** FLOP *** [Kh Js 7d]
+CHARLYBANEZ bets 63
+P1xel7 calls 63
+*** TURN *** [Kh Js 7d][Ts]
+CHARLYBANEZ checks
+P1xel7 bets 153
+CHARLYBANEZ calls 153
+*** RIVER *** [Kh Js 7d Ts][9c]
+CHARLYBANEZ checks
+P1xel7 checks
+*** SHOW DOWN ***
+P1xel7 shows [Ad 6d] (High card : Ace)
+CHARLYBANEZ shows [Ah 3d] (High card : Ace)
+CHARLYBANEZ collected 306 from pot
+P1xel7 collected 306 from pot
+*** SUMMARY ***
+Total pot 612 | No rake
+Board: [Kh Js 7d Ts 9c]
+Seat 3: P1xel7 (big blind) showed [Ad 6d] and won 306 with High card : Ace
+Seat 6: CHARLYBANEZ (small blind) showed [Ah 3d] and won 306 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277615643817410561-7-1709491980 - Holdem no limit (15/30) - 2024/03/03 18:53:00 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #6 is the button
+Seat 3: P1xel7 (684)
+Seat 4: Le mail (470)
+Seat 6: CHARLYBANEZ (1846)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Le mail posts big blind 30
+Dealt to P1xel7 [Ad Kh]
+*** PRE-FLOP *** 
+CHARLYBANEZ raises 30 to 60
+P1xel7 raises 624 to 684 and is all-in
+Le mail folds
+CHARLYBANEZ folds
+P1xel7 collected 774 from pot
+*** SUMMARY ***
+Total pot 774 | No rake
+Seat 3: P1xel7 (small blind) won 774
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277615643817410561-8-1709491999 - Holdem no limit (15/30) - 2024/03/03 18:53:19 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #3 is the button
+Seat 3: P1xel7 (774)
+Seat 4: Le mail (440)
+Seat 6: CHARLYBANEZ (1786)
+*** ANTE/BLINDS ***
+Le mail posts small blind 15
+CHARLYBANEZ posts big blind 30
+Dealt to P1xel7 [3c 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le mail raises 410 to 440 and is all-in
+CHARLYBANEZ folds
+Le mail collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | No rake
+Seat 4: Le mail (small blind) won 470
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277615643817410561-9-1709492006 - Holdem no limit (15/30) - 2024/03/03 18:53:26 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #4 is the button
+Seat 3: P1xel7 (774)
+Seat 4: Le mail (470)
+Seat 6: CHARLYBANEZ (1756)
+*** ANTE/BLINDS ***
+CHARLYBANEZ posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [8c 9c]
+*** PRE-FLOP *** 
+Le mail folds
+CHARLYBANEZ raises 45 to 75
+P1xel7 calls 45
+*** FLOP *** [Ad Qd 2s]
+CHARLYBANEZ bets 53
+P1xel7 folds
+CHARLYBANEZ collected 203 from pot
+*** SUMMARY ***
+Total pot 203 | No rake
+Board: [Ad Qd 2s]
+Seat 6: CHARLYBANEZ (small blind) won 203
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3277615643817410561-10-1709492024 - Holdem no limit (20/40) - 2024/03/03 18:53:44 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #6 is the button
+Seat 3: P1xel7 (699)
+Seat 4: Le mail (470)
+Seat 6: CHARLYBANEZ (1831)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Le mail posts big blind 40
+Dealt to P1xel7 [Jc Jh]
+*** PRE-FLOP *** 
+CHARLYBANEZ calls 40
+P1xel7 raises 60 to 100
+Le mail calls 60
+CHARLYBANEZ calls 60
+*** FLOP *** [5d 3s Qc]
+P1xel7 bets 105
+Le mail raises 265 to 370 and is all-in
+CHARLYBANEZ raises 265 to 635
+P1xel7 folds
+*** TURN *** [5d 3s Qc][Js]
+*** RIVER *** [5d 3s Qc Js][5h]
+*** SHOW DOWN ***
+Le mail shows [Qd 4d] (Two pairs : Queens and 5)
+CHARLYBANEZ shows [8d Qh] (Two pairs : Queens and 5)
+CHARLYBANEZ collected 838 from side pot 1
+Le mail collected 572 from main pot
+*** SUMMARY ***
+Total pot 1410 | No rake
+Board: [5d 3s Qc Js 5h]
+Seat 4: Le mail (big blind) showed [Qd 4d] and won 572 with Two pairs : Queens and 5
+Seat 6: CHARLYBANEZ (button) showed [8d Qh] and won 838 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3277615643817410561-11-1709492080 - Holdem no limit (20/40) - 2024/03/03 18:54:40 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #3 is the button
+Seat 3: P1xel7 (494)
+Seat 4: Le mail (572)
+Seat 6: CHARLYBANEZ (1934)
+*** ANTE/BLINDS ***
+Le mail posts small blind 20
+CHARLYBANEZ posts big blind 40
+Dealt to P1xel7 [3c Kd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le mail calls 20
+CHARLYBANEZ raises 1894 to 1934 and is all-in
+Le mail folds
+CHARLYBANEZ collected 1974 from pot
+*** SUMMARY ***
+Total pot 1974 | No rake
+Seat 6: CHARLYBANEZ (big blind) won 1974
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3277615643817410561-12-1709492099 - Holdem no limit (20/40) - 2024/03/03 18:54:59 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #4 is the button
+Seat 3: P1xel7 (494)
+Seat 4: Le mail (532)
+Seat 6: CHARLYBANEZ (1974)
+*** ANTE/BLINDS ***
+CHARLYBANEZ posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [8c 4c]
+*** PRE-FLOP *** 
+Le mail folds
+CHARLYBANEZ raises 40 to 80
+P1xel7 folds
+CHARLYBANEZ collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 6: CHARLYBANEZ (small blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615643817410561-13-1709492114 - Holdem no limit (30/60) - 2024/03/03 18:55:14 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #6 is the button
+Seat 3: P1xel7 (454)
+Seat 4: Le mail (532)
+Seat 6: CHARLYBANEZ (2014)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Le mail posts big blind 60
+Dealt to P1xel7 [Th Qd]
+*** PRE-FLOP *** 
+CHARLYBANEZ raises 60 to 120
+P1xel7 calls 90
+Le mail raises 412 to 532 and is all-in
+CHARLYBANEZ folds
+P1xel7 folds
+Le mail collected 772 from pot
+*** SUMMARY ***
+Total pot 772 | No rake
+Seat 4: Le mail (big blind) won 772
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615643817410561-14-1709492134 - Holdem no limit (30/60) - 2024/03/03 18:55:34 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #3 is the button
+Seat 3: P1xel7 (334)
+Seat 4: Le mail (772)
+Seat 6: CHARLYBANEZ (1894)
+*** ANTE/BLINDS ***
+Le mail posts small blind 30
+CHARLYBANEZ posts big blind 60
+Dealt to P1xel7 [5s 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le mail folds
+CHARLYBANEZ collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: CHARLYBANEZ (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615643817410561-15-1709492144 - Holdem no limit (30/60) - 2024/03/03 18:55:44 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #4 is the button
+Seat 3: P1xel7 (334)
+Seat 4: Le mail (742)
+Seat 6: CHARLYBANEZ (1924)
+*** ANTE/BLINDS ***
+CHARLYBANEZ posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [6d 9c]
+*** PRE-FLOP *** 
+Le mail folds
+CHARLYBANEZ calls 30
+P1xel7 checks
+*** FLOP *** [6s Js 9d]
+CHARLYBANEZ bets 60
+P1xel7 calls 60
+*** TURN *** [6s Js 9d][Ks]
+CHARLYBANEZ checks
+P1xel7 bets 120
+CHARLYBANEZ folds
+P1xel7 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [6s Js 9d Ks]
+Seat 3: P1xel7 (big blind) won 360
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615643817410561-16-1709492171 - Holdem no limit (30/60) - 2024/03/03 18:56:11 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #6 is the button
+Seat 3: P1xel7 (454)
+Seat 4: Le mail (742)
+Seat 6: CHARLYBANEZ (1804)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Le mail posts big blind 60
+Dealt to P1xel7 [8d Td]
+*** PRE-FLOP *** 
+CHARLYBANEZ raises 120 to 180
+P1xel7 folds
+Le mail folds
+CHARLYBANEZ collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | No rake
+Seat 6: CHARLYBANEZ (button) won 270
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615643817410561-17-1709492185 - Holdem no limit (30/60) - 2024/03/03 18:56:25 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #3 is the button
+Seat 3: P1xel7 (424)
+Seat 4: Le mail (682)
+Seat 6: CHARLYBANEZ (1894)
+*** ANTE/BLINDS ***
+Le mail posts small blind 30
+CHARLYBANEZ posts big blind 60
+Dealt to P1xel7 [2d 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le mail folds
+CHARLYBANEZ collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 6: CHARLYBANEZ (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615643817410561-18-1709492196 - Holdem no limit (30/60) - 2024/03/03 18:56:36 UTC
+Table: 'Starting Block WiPT - Déglingos(763129360)#0' 6-max (real money) Seat #4 is the button
+Seat 3: P1xel7 (424)
+Seat 4: Le mail (652)
+Seat 6: CHARLYBANEZ (1924)
+*** ANTE/BLINDS ***
+CHARLYBANEZ posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [5s Qh]
+*** PRE-FLOP *** 
+Le mail calls 60
+CHARLYBANEZ calls 30
+P1xel7 checks
+*** FLOP *** [Jc 4d 2d]
+CHARLYBANEZ checks
+P1xel7 checks
+Le mail checks
+*** TURN *** [Jc 4d 2d][Qd]
+CHARLYBANEZ checks
+P1xel7 bets 150
+Le mail calls 150
+CHARLYBANEZ folds
+*** RIVER *** [Jc 4d 2d Qd][8h]
+P1xel7 bets 214 and is all-in
+Le mail calls 214
+*** SHOW DOWN ***
+P1xel7 shows [5s Qh] (One pair : Queens)
+Le mail shows [Ad As] (One pair : Aces)
+Le mail collected 908 from pot
+*** SUMMARY ***
+Total pot 908 | No rake
+Board: [Jc 4d 2d Qd 8h]
+Seat 3: P1xel7 (big blind) showed [5s Qh] and lost with One pair : Queens
+Seat 4: Le mail (button) showed [Ad As] and won 908 with One pair : Aces
+
+

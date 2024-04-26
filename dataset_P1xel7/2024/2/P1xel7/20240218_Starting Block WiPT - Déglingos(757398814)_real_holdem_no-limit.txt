@@ -1,0 +1,263 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3253003136159186945-1-1708283129 - Holdem no limit (10/20) - 2024/02/18 19:05:29 UTC
+Table: 'Starting Block WiPT - Déglingos(757398814)#0' 6-max (real money) Seat #2 is the button
+Seat 1: ministre (500)
+Seat 2: P1xel7 (500)
+Seat 3: How51 (500)
+Seat 4: willylbarge (500)
+Seat 5: Go20 (500)
+Seat 6: Edonys (500)
+*** ANTE/BLINDS ***
+How51 posts small blind 10
+willylbarge posts big blind 20
+Dealt to P1xel7 [Ac 6c]
+*** PRE-FLOP *** 
+Go20 raises 480 to 500 and is all-in
+Edonys folds
+ministre folds
+P1xel7 folds
+How51 folds
+willylbarge folds
+Go20 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 5: Go20 won 530
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3253003136159186945-2-1708283186 - Holdem no limit (10/20) - 2024/02/18 19:06:26 UTC
+Table: 'Starting Block WiPT - Déglingos(757398814)#0' 6-max (real money) Seat #3 is the button
+Seat 1: ministre (500)
+Seat 2: P1xel7 (500)
+Seat 3: How51 (490)
+Seat 4: willylbarge (480)
+Seat 5: Go20 (530)
+Seat 6: Edonys (500)
+*** ANTE/BLINDS ***
+willylbarge posts small blind 10
+Go20 posts big blind 20
+Dealt to P1xel7 [Tc 8c]
+*** PRE-FLOP *** 
+Edonys calls 20
+ministre raises 30 to 50
+P1xel7 folds
+How51 folds
+willylbarge folds
+Go20 calls 30
+Edonys calls 30
+*** FLOP *** [Jh Qc 6s]
+Go20 checks
+Edonys checks
+ministre bets 56
+Go20 folds
+Edonys folds
+ministre collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [Jh Qc 6s]
+Seat 1: ministre won 216
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3253003136159186945-3-1708283235 - Holdem no limit (15/30) - 2024/02/18 19:07:15 UTC
+Table: 'Starting Block WiPT - Déglingos(757398814)#0' 6-max (real money) Seat #4 is the button
+Seat 1: ministre (610)
+Seat 2: P1xel7 (500)
+Seat 3: How51 (490)
+Seat 4: willylbarge (470)
+Seat 5: Go20 (480)
+Seat 6: Edonys (450)
+*** ANTE/BLINDS ***
+Go20 posts small blind 15
+Edonys posts big blind 30
+Dealt to P1xel7 [3s 9c]
+*** PRE-FLOP *** 
+ministre folds
+P1xel7 folds
+How51 folds
+willylbarge folds
+Go20 raises 450 to 480 and is all-in
+Edonys folds
+Go20 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 5: Go20 (small blind) won 510
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3253003136159186945-4-1708283252 - Holdem no limit (15/30) - 2024/02/18 19:07:32 UTC
+Table: 'Starting Block WiPT - Déglingos(757398814)#0' 6-max (real money) Seat #5 is the button
+Seat 1: ministre (610)
+Seat 2: P1xel7 (500)
+Seat 3: How51 (490)
+Seat 4: willylbarge (470)
+Seat 5: Go20 (510)
+Seat 6: Edonys (420)
+*** ANTE/BLINDS ***
+Edonys posts small blind 15
+ministre posts big blind 30
+Dealt to P1xel7 [Ah Kd]
+*** PRE-FLOP *** 
+P1xel7 raises 30 to 60
+How51 raises 430 to 490 and is all-in
+willylbarge calls 470 and is all-in
+Go20 folds
+Edonys folds
+ministre folds
+P1xel7 calls 430
+*** FLOP *** [2d Kh Ac]
+*** TURN *** [2d Kh Ac][Qc]
+*** RIVER *** [2d Kh Ac Qc][9s]
+*** SHOW DOWN ***
+P1xel7 shows [Ah Kd] (Two pairs : Aces and Kings)
+willylbarge shows [4d 4c] (One pair : 4)
+How51 shows [Jc Td] (Straight Ace high)
+How51 collected 1495 from pot
+*** SUMMARY ***
+Total pot 1495 | No rake
+Board: [2d Kh Ac Qc 9s]
+Seat 2: P1xel7 showed [Ah Kd] and lost with Two pairs : Aces and Kings
+Seat 3: How51 showed [Jc Td] and won 1495 with Straight Ace high
+Seat 4: willylbarge showed [4d 4c] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3253003136159186945-5-1708283296 - Holdem no limit (15/30) - 2024/02/18 19:08:16 UTC
+Table: 'Starting Block WiPT - Déglingos(757398814)#0' 6-max (real money) Seat #6 is the button
+Seat 1: ministre (580)
+Seat 2: P1xel7 (10)
+Seat 3: How51 (1495)
+Seat 5: Go20 (510)
+Seat 6: Edonys (405)
+*** ANTE/BLINDS ***
+ministre posts small blind 15
+P1xel7 posts big blind 10 and is all-in
+Dealt to P1xel7 [Kh Th]
+*** PRE-FLOP *** 
+How51 folds
+Go20 calls 30
+Edonys folds
+ministre calls 15
+*** FLOP *** [7d 3c Kc]
+ministre bets 70
+Go20 calls 70
+*** TURN *** [7d 3c Kc][Qd]
+ministre bets 137
+Go20 calls 137
+*** RIVER *** [7d 3c Kc Qd][Td]
+ministre bets 343 and is all-in
+Go20 calls 273 and is all-in
+*** SHOW DOWN ***
+ministre shows [6h Jc] (High card : King)
+P1xel7 shows [Kh Th] (Two pairs : Kings and Tens)
+Go20 shows [Ac 6s] (High card : Ace)
+Go20 collected 1000 from side pot 1
+P1xel7 collected 30 from main pot
+ministre collected 70 from side pot 2
+*** SUMMARY ***
+Total pot 1100 | No rake
+Board: [7d 3c Kc Qd Td]
+Seat 1: ministre (small blind) showed [6h Jc] and won 70 with High card : King
+Seat 2: P1xel7 (big blind) showed [Kh Th] and won 30 with Two pairs : Kings and Tens
+Seat 5: Go20 showed [Ac 6s] and won 1000 with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3253003136159186945-6-1708283344 - Holdem no limit (20/40) - 2024/02/18 19:09:04 UTC
+Table: 'Starting Block WiPT - Déglingos(757398814)#0' 6-max (real money) Seat #1 is the button
+Seat 1: ministre (70)
+Seat 2: P1xel7 (30)
+Seat 3: How51 (1495)
+Seat 5: Go20 (1000)
+Seat 6: Edonys (405)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+How51 posts big blind 40
+Dealt to P1xel7 [6h 3d]
+*** PRE-FLOP *** 
+Go20 folds
+Edonys raises 365 to 405 and is all-in
+ministre calls 70 and is all-in
+P1xel7 folds
+How51 folds
+*** FLOP *** [4d 6s 4c]
+*** TURN *** [4d 6s 4c][2c]
+*** RIVER *** [4d 6s 4c 2c][4s]
+*** SHOW DOWN ***
+ministre shows [Kc 4h] (Quads of 4)
+Edonys shows [Jh Ah] (Trips of 4)
+Edonys collected 335 from side pot 1
+ministre collected 200 from main pot
+*** SUMMARY ***
+Total pot 535 | No rake
+Board: [4d 6s 4c 2c 4s]
+Seat 1: ministre (button) showed [Kc 4h] and won 200 with Quads of 4
+Seat 6: Edonys showed [Jh Ah] and won 335 with Trips of 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3253003136159186945-7-1708283387 - Holdem no limit (20/40) - 2024/02/18 19:09:47 UTC
+Table: 'Starting Block WiPT - Déglingos(757398814)#0' 6-max (real money) Seat #2 is the button
+Seat 1: ministre (200)
+Seat 2: P1xel7 (10)
+Seat 3: How51 (1455)
+Seat 5: Go20 (1000)
+Seat 6: Edonys (335)
+*** ANTE/BLINDS ***
+How51 posts small blind 20
+Go20 posts big blind 40
+Dealt to P1xel7 [3h 3d]
+*** PRE-FLOP *** 
+Edonys raises 295 to 335 and is all-in
+ministre folds
+P1xel7 calls 10 and is all-in
+How51 folds
+Go20 calls 295
+*** FLOP *** [Jc Js Ks]
+*** TURN *** [Jc Js Ks][Kh]
+*** RIVER *** [Jc Js Ks Kh][Jh]
+*** SHOW DOWN ***
+P1xel7 shows [3h 3d] (Full of Jacks and Kings)
+Go20 shows [4d 6d] (Full of Jacks and Kings)
+Edonys shows [Qd 9d] (Full of Jacks and Kings)
+Edonys collected 344 from side pot 1
+Go20 collected 343 from side pot 1
+P1xel7 collected 13 from main pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [Jc Js Ks Kh Jh]
+Seat 2: P1xel7 (button) showed [3h 3d] and won 13 with Full of Jacks and Kings
+Seat 5: Go20 (big blind) showed [4d 6d] and won 343 with Full of Jacks and Kings
+Seat 6: Edonys showed [Qd 9d] and won 344 with Full of Jacks and Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3253003136159186945-8-1708283417 - Holdem no limit (30/60) - 2024/02/18 19:10:17 UTC
+Table: 'Starting Block WiPT - Déglingos(757398814)#0' 6-max (real money) Seat #3 is the button
+Seat 1: ministre (200)
+Seat 2: P1xel7 (13)
+Seat 3: How51 (1435)
+Seat 5: Go20 (1008)
+Seat 6: Edonys (344)
+*** ANTE/BLINDS ***
+Go20 posts small blind 30
+Edonys posts big blind 60
+Dealt to P1xel7 [5h 7c]
+*** PRE-FLOP *** 
+ministre raises 140 to 200 and is all-in
+P1xel7 calls 13 and is all-in
+How51 raises 1235 to 1435 and is all-in
+Go20 calls 978 and is all-in
+Edonys folds
+*** FLOP *** [Qc 6c Ac]
+*** TURN *** [Qc 6c Ac][Kh]
+*** RIVER *** [Qc 6c Ac Kh][Td]
+*** SHOW DOWN ***
+P1xel7 shows [5h 7c] (High card : Ace)
+ministre shows [8c 5c] (Flush Ace high)
+How51 shows [As 8d] (One pair : Aces)
+Go20 shows [Js 6d] (Straight Ace high)
+Go20 collected 1616 from side pot 1
+How51 collected 427 from side pot 2
+ministre collected 673 from main pot
+*** SUMMARY ***
+Total pot 2716 | No rake
+Board: [Qc 6c Ac Kh Td]
+Seat 1: ministre showed [8c 5c] and won 673 with Flush Ace high
+Seat 2: P1xel7 showed [5h 7c] and lost with High card : Ace
+Seat 3: How51 (button) showed [As 8d] and won 427 with One pair : Aces
+Seat 5: Go20 (small blind) showed [Js 6d] and won 1616 with Straight Ace high
+
+

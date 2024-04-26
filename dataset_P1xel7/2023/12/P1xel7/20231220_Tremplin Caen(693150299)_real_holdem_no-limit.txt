@@ -1,0 +1,1676 @@
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 1 - HandId: #2977057865417621992-1-1703099061 - Holdem no limit (10/20) - 2023/12/20 19:04:21 UTC
+Table: 'Tremplin Caen(693150299)#0487' 8-max (real money) Seat #6 is the button
+Seat 1: gros254 (2930)
+Seat 2: takabubu (3000)
+Seat 3: antonx61 (3000)
+Seat 5: Goblin628988 (3000)
+Seat 6: P1xel7 (3000)
+Seat 7: manu4572 (3000)
+Seat 8: Mo0l (2920)
+*** ANTE/BLINDS ***
+gros254 posts small blind 10
+Goblin628988 posts big blind 20
+Dealt to P1xel7 [5d Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+gros254 raises 210 to 230
+Goblin628988 folds
+gros254 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | No rake
+Seat 1: gros254 (small blind) won 250
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 1 - HandId: #2977057865417621992-2-1703099079 - Holdem no limit (10/20) - 2023/12/20 19:04:39 UTC
+Table: 'Tremplin Caen(693150299)#0487' 8-max (real money) Seat #1 is the button
+Seat 1: gros254 (2950)
+Seat 2: takabubu (3000)
+Seat 3: antonx61 (3000)
+Seat 4: dcoxion (3000)
+Seat 5: Goblin628988 (2980)
+Seat 6: P1xel7 (3000)
+Seat 7: manu4572 (3000)
+Seat 8: Mo0l (2920)
+*** ANTE/BLINDS ***
+Goblin628988 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Ks 2d]
+*** PRE-FLOP *** 
+manu4572 raises 2980 to 3000 and is all-in
+Mo0l folds
+gros254 folds
+Goblin628988 folds
+P1xel7 folds
+manu4572 collected 3030 from pot
+*** SUMMARY ***
+Total pot 3030 | No rake
+Seat 7: manu4572 won 3030
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 1 - HandId: #2977057865417621992-3-1703099111 - Holdem no limit (10/20) - 2023/12/20 19:05:11 UTC
+Table: 'Tremplin Caen(693150299)#0487' 8-max (real money) Seat #5 is the button
+Seat 1: gros254 (2950)
+Seat 2: takabubu (3000)
+Seat 3: antonx61 (3000)
+Seat 4: dcoxion (3000)
+Seat 6: P1xel7 (2980)
+Seat 7: manu4572 (3030)
+Seat 8: Mo0l (2920)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+manu4572 posts big blind 20
+Dealt to P1xel7 [3s Kh]
+*** PRE-FLOP *** 
+Mo0l calls 20
+gros254 raises 70 to 90
+takabubu calls 90
+antonx61 folds
+dcoxion folds
+P1xel7 folds
+manu4572 calls 70
+Mo0l calls 70
+*** FLOP *** [5c 9h Jd]
+manu4572 checks
+Mo0l checks
+gros254 checks
+takabubu bets 130
+manu4572 calls 130
+Mo0l calls 130
+gros254 calls 130
+*** TURN *** [5c 9h Jd][Kc]
+manu4572 checks
+Mo0l checks
+gros254 checks
+takabubu checks
+*** RIVER *** [5c 9h Jd Kc][7c]
+manu4572 checks
+Mo0l checks
+gros254 checks
+takabubu checks
+*** SHOW DOWN ***
+gros254 shows [5h Qh] (One pair : 5)
+manu4572 shows [9d 3d] (One pair : 9)
+takabubu shows [Jc Th] (One pair : Jacks)
+Mo0l shows [Js Tc] (One pair : Jacks)
+Mo0l collected 445 from pot
+takabubu collected 445 from pot
+*** SUMMARY ***
+Total pot 890 | No rake
+Board: [5c 9h Jd Kc 7c]
+Seat 1: gros254 showed [5h Qh] and lost with One pair : 5
+Seat 2: takabubu showed [Jc Th] and won 445 with One pair : Jacks
+Seat 7: manu4572 (big blind) showed [9d 3d] and lost with One pair : 9
+Seat 8: Mo0l showed [Js Tc] and won 445 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 1 - HandId: #2977057865417621992-4-1703099222 - Holdem no limit (10/20) - 2023/12/20 19:07:02 UTC
+Table: 'Tremplin Caen(693150299)#0487' 8-max (real money) Seat #6 is the button
+Seat 1: gros254 (2730)
+Seat 2: takabubu (3225)
+Seat 3: antonx61 (3000)
+Seat 4: dcoxion (3000)
+Seat 5: FA Joker9761 (3000)
+Seat 6: P1xel7 (2970)
+Seat 7: manu4572 (2810)
+Seat 8: Mo0l (3145)
+*** ANTE/BLINDS ***
+manu4572 posts small blind 10
+Mo0l posts big blind 20
+Dealt to P1xel7 [Th 7h]
+*** PRE-FLOP *** 
+gros254 raises 50 to 70
+takabubu calls 70
+antonx61 folds
+dcoxion folds
+FA Joker9761 raises 50 to 120
+P1xel7 folds
+manu4572 calls 110
+Mo0l folds
+gros254 raises 450 to 570
+takabubu folds
+FA Joker9761 calls 450
+manu4572 calls 450
+*** FLOP *** [2h 6d Ac]
+manu4572 bets 630
+gros254 raises 1530 to 2160 and is all-in
+FA Joker9761 folds
+manu4572 calls 1530
+*** TURN *** [2h 6d Ac][Qc]
+*** RIVER *** [2h 6d Ac Qc][5d]
+*** SHOW DOWN ***
+manu4572 shows [2c Kd] (One pair : 2)
+gros254 shows [Jh Ad] (One pair : Aces)
+gros254 collected 6120 from pot
+*** SUMMARY ***
+Total pot 6120 | No rake
+Board: [2h 6d Ac Qc 5d]
+Seat 1: gros254 showed [Jh Ad] and won 6120 with One pair : Aces
+Seat 7: manu4572 (small blind) showed [2c Kd] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 2 - HandId: #2977057865417621992-5-1703099308 - Holdem no limit (15/30) - 2023/12/20 19:08:28 UTC
+Table: 'Tremplin Caen(693150299)#0487' 8-max (real money) Seat #7 is the button
+Seat 1: gros254 (6120)
+Seat 2: takabubu (3155)
+Seat 3: antonx61 (3000)
+Seat 4: dcoxion (3000)
+Seat 5: FA Joker9761 (2430)
+Seat 6: P1xel7 (2970)
+Seat 7: manu4572 (80)
+Seat 8: Mo0l (3125)
+*** ANTE/BLINDS ***
+Mo0l posts small blind 15
+gros254 posts big blind 30
+Dealt to P1xel7 [Ks 3d]
+*** PRE-FLOP *** 
+takabubu folds
+antonx61 calls 30
+dcoxion folds
+FA Joker9761 calls 30
+P1xel7 folds
+manu4572 raises 50 to 80 and is all-in
+Mo0l folds
+gros254 raises 235 to 315
+antonx61 raises 2685 to 3000 and is all-in
+FA Joker9761 calls 2400 and is all-in
+gros254 calls 2685
+*** FLOP *** [5c Ad 6h]
+*** TURN *** [5c Ad 6h][4d]
+*** RIVER *** [5c Ad 6h 4d][2s]
+*** SHOW DOWN ***
+gros254 shows [Qh Qs] (One pair : Queens)
+FA Joker9761 shows [As 5h] (Two pairs : Aces and 5)
+antonx61 shows [6s Ac] (Two pairs : Aces and 6)
+manu4572 shows [2h 2d] (Trips of 2)
+manu4572 collected 335 from main pot
+antonx61 collected 8190 from side pot 1
+*** SUMMARY ***
+Total pot 8525 | No rake
+Board: [5c Ad 6h 4d 2s]
+Seat 1: gros254 (big blind) showed [Qh Qs] and lost with One pair : Queens
+Seat 3: antonx61 showed [6s Ac] and won 8190 with Two pairs : Aces and 6
+Seat 5: FA Joker9761 showed [As 5h] and lost with Two pairs : Aces and 5
+Seat 7: manu4572 (button) showed [2h 2d] and won 335 with Trips of 2
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 2 - HandId: #2977057865417621992-6-1703099351 - Holdem no limit (15/30) - 2023/12/20 19:09:11 UTC
+Table: 'Tremplin Caen(693150299)#0487' 8-max (real money) Seat #8 is the button
+Seat 1: gros254 (3120)
+Seat 2: takabubu (3155)
+Seat 3: antonx61 (8190)
+Seat 4: dcoxion (3000)
+Seat 6: P1xel7 (2970)
+Seat 7: manu4572 (335)
+Seat 8: Mo0l (3110)
+*** ANTE/BLINDS ***
+gros254 posts small blind 15
+takabubu posts big blind 30
+Dealt to P1xel7 [Kd 9d]
+*** PRE-FLOP *** 
+antonx61 calls 30
+dcoxion folds
+P1xel7 raises 60 to 90
+manu4572 raises 245 to 335 and is all-in
+Mo0l folds
+gros254 folds
+takabubu calls 305
+antonx61 folds
+P1xel7 folds
+*** FLOP *** [Ac 4h 6h]
+*** TURN *** [Ac 4h 6h][8h]
+*** RIVER *** [Ac 4h 6h 8h][5s]
+*** SHOW DOWN ***
+manu4572 shows [3s 9c] (High card : Ace)
+takabubu shows [Ad 8s] (Two pairs : Aces and 8)
+takabubu collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | No rake
+Board: [Ac 4h 6h 8h 5s]
+Seat 2: takabubu (big blind) showed [Ad 8s] and won 805 with Two pairs : Aces and 8
+Seat 7: manu4572 showed [3s 9c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 2 - HandId: #2977057865417621992-7-1703099420 - Holdem no limit (15/30) - 2023/12/20 19:10:20 UTC
+Table: 'Tremplin Caen(693150299)#0487' 8-max (real money) Seat #1 is the button
+Seat 1: gros254 (3105)
+Seat 2: takabubu (3625)
+Seat 3: antonx61 (8160)
+Seat 4: dcoxion (3000)
+Seat 6: P1xel7 (2880)
+Seat 8: Mo0l (3110)
+*** ANTE/BLINDS ***
+takabubu posts small blind 15
+antonx61 posts big blind 30
+Dealt to P1xel7 [Ts Td]
+*** PRE-FLOP *** 
+dcoxion folds
+P1xel7 raises 45 to 75
+Mo0l folds
+gros254 calls 75
+takabubu calls 60
+antonx61 calls 45
+*** FLOP *** [Qh Kc Jd]
+takabubu checks
+antonx61 bets 105
+P1xel7 folds
+gros254 raises 2925 to 3030 and is all-in
+takabubu folds
+antonx61 raises 5055 to 8085 and is all-in
+*** TURN *** [Qh Kc Jd][9c]
+*** RIVER *** [Qh Kc Jd 9c][4d]
+*** SHOW DOWN ***
+gros254 shows [Kd Qs] (Two pairs : Kings and Queens)
+antonx61 shows [7c Ks] (One pair : Kings)
+antonx61 collected 5055 from side pot 1
+gros254 collected 6360 from main pot
+*** SUMMARY ***
+Total pot 11415 | No rake
+Board: [Qh Kc Jd 9c 4d]
+Seat 1: gros254 (button) showed [Kd Qs] and won 6360 with Two pairs : Kings and Queens
+Seat 3: antonx61 (big blind) showed [7c Ks] and won 5055 with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 2 - HandId: #2977057865417621621-7-1703099522 - Holdem no limit (15/30) - 2023/12/20 19:12:02 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #3 is the button
+Seat 1: Lillich (2955)
+Seat 2: ATAY89 (6240)
+Seat 3: tontonben (2955)
+Seat 4: Sonynho (5880)
+Seat 5: Astico02 (3000)
+Seat 6: P1xel7 (2805)
+Seat 7: alpha7602 (2970)
+*** ANTE/BLINDS ***
+Sonynho posts small blind 15
+Astico02 posts big blind 30
+Dealt to P1xel7 [Qd Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 45 to 75
+alpha7602 folds
+Lillich folds
+ATAY89 calls 75
+tontonben folds
+Sonynho calls 60
+Astico02 folds
+*** FLOP *** [Qh 9d Jc]
+Sonynho checks
+P1xel7 bets 128
+ATAY89 raises 128 to 256
+Sonynho folds
+P1xel7 calls 128
+*** TURN *** [Qh 9d Jc][2d]
+P1xel7 checks
+ATAY89 bets 499
+P1xel7 calls 499
+*** RIVER *** [Qh 9d Jc 2d][3h]
+P1xel7 checks
+ATAY89 bets 1765
+P1xel7 folds
+ATAY89 collected 3530 from pot
+*** SUMMARY ***
+Total pot 3530 | No rake
+Board: [Qh 9d Jc 2d 3h]
+Seat 2: ATAY89 won 3530
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 2 - HandId: #2977057865417621621-8-1703099602 - Holdem no limit (15/30) - 2023/12/20 19:13:22 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #4 is the button
+Seat 1: Lillich (2955)
+Seat 2: ATAY89 (7175)
+Seat 3: tontonben (2955)
+Seat 4: Sonynho (5805)
+Seat 5: Astico02 (2970)
+Seat 6: P1xel7 (1975)
+Seat 7: alpha7602 (2970)
+*** ANTE/BLINDS ***
+Astico02 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [3d Ad]
+*** PRE-FLOP *** 
+alpha7602 folds
+Lillich folds
+ATAY89 raises 75 to 105
+tontonben folds
+Sonynho calls 105
+Astico02 folds
+P1xel7 calls 75
+*** FLOP *** [2c Ac 5s]
+P1xel7 checks
+ATAY89 bets 330
+Sonynho folds
+P1xel7 calls 330
+*** TURN *** [2c Ac 5s][As]
+P1xel7 checks
+ATAY89 bets 347
+P1xel7 raises 1193 to 1540 and is all-in
+ATAY89 folds
+P1xel7 collected 2877 from pot
+*** SUMMARY ***
+Total pot 2877 | No rake
+Board: [2c Ac 5s As]
+Seat 6: P1xel7 (big blind) won 2877
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 2 - HandId: #2977057865417621621-9-1703099654 - Holdem no limit (15/30) - 2023/12/20 19:14:14 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #5 is the button
+Seat 1: Lillich (2955)
+Seat 2: ATAY89 (6393)
+Seat 3: tontonben (2955)
+Seat 4: Sonynho (5700)
+Seat 5: Astico02 (2955)
+Seat 6: P1xel7 (2877)
+Seat 7: alpha7602 (2970)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+alpha7602 posts big blind 30
+Dealt to P1xel7 [2s 3h]
+*** PRE-FLOP *** 
+Lillich folds
+ATAY89 raises 75 to 105
+tontonben folds
+Sonynho calls 105
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+*** FLOP *** [Kd Jc 6h]
+ATAY89 bets 166
+Sonynho calls 166
+*** TURN *** [Kd Jc 6h][5h]
+ATAY89 checks
+Sonynho checks
+*** RIVER *** [Kd Jc 6h 5h][Tc]
+ATAY89 checks
+Sonynho checks
+*** SHOW DOWN ***
+Sonynho shows [Ah 4h] (High card : Ace)
+ATAY89 shows [Ac 7h] (High card : Ace)
+ATAY89 collected 587 from pot
+*** SUMMARY ***
+Total pot 587 | No rake
+Board: [Kd Jc 6h 5h Tc]
+Seat 2: ATAY89 showed [Ac 7h] and won 587 with High card : Ace
+Seat 4: Sonynho showed [Ah 4h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 2 - HandId: #2977057865417621621-10-1703099685 - Holdem no limit (15/30) - 2023/12/20 19:14:45 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #6 is the button
+Seat 1: Lillich (2955)
+Seat 2: ATAY89 (6709)
+Seat 3: tontonben (2955)
+Seat 4: Sonynho (5429)
+Seat 5: Astico02 (2955)
+Seat 6: P1xel7 (2862)
+Seat 7: alpha7602 (2940)
+Seat 8: Charp1978 (3000)
+*** ANTE/BLINDS ***
+alpha7602 posts small blind 15
+Charp1978 posts big blind 30
+Dealt to P1xel7 [Ah Kd]
+*** PRE-FLOP *** 
+Lillich folds
+ATAY89 calls 30
+tontonben folds
+Sonynho folds
+Astico02 folds
+P1xel7 raises 45 to 75
+alpha7602 folds
+Charp1978 calls 45
+ATAY89 calls 45
+*** FLOP *** [Ad 5d Qs]
+Charp1978 checks
+ATAY89 checks
+P1xel7 bets 120
+Charp1978 folds
+ATAY89 calls 120
+*** TURN *** [Ad 5d Qs][5c]
+ATAY89 checks
+P1xel7 bets 312
+ATAY89 calls 312
+*** RIVER *** [Ad 5d Qs 5c][6h]
+ATAY89 checks
+P1xel7 checks
+*** SHOW DOWN ***
+ATAY89 shows [9h Js] (One pair : 5)
+P1xel7 shows [Ah Kd] (Two pairs : Aces and 5)
+P1xel7 collected 1104 from pot
+*** SUMMARY ***
+Total pot 1104 | No rake
+Board: [Ad 5d Qs 5c 6h]
+Seat 2: ATAY89 showed [9h Js] and lost with One pair : 5
+Seat 6: P1xel7 (button) showed [Ah Kd] and won 1104 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 2 - HandId: #2977057865417621621-11-1703099750 - Holdem no limit (15/30) - 2023/12/20 19:15:50 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #7 is the button
+Seat 1: Lillich (2955)
+Seat 2: ATAY89 (6202)
+Seat 3: tontonben (2955)
+Seat 4: Sonynho (5429)
+Seat 5: Astico02 (2955)
+Seat 6: P1xel7 (3459)
+Seat 7: alpha7602 (2925)
+Seat 8: Charp1978 (2925)
+*** ANTE/BLINDS ***
+Charp1978 posts small blind 15
+Lillich posts big blind 30
+Dealt to P1xel7 [Ts Qd]
+*** PRE-FLOP *** 
+ATAY89 raises 75 to 105
+tontonben folds
+Sonynho calls 105
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 calls 90
+Lillich folds
+*** FLOP *** [8d 3d 3s]
+Charp1978 checks
+ATAY89 bets 224
+Sonynho calls 224
+Charp1978 raises 1017 to 1241
+ATAY89 folds
+Sonynho folds
+Charp1978 collected 2034 from pot
+*** SUMMARY ***
+Total pot 2034 | No rake
+Board: [8d 3d 3s]
+Seat 8: Charp1978 (small blind) won 2034
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 3 - HandId: #2977057865417621621-12-1703099796 - Holdem no limit (20/40) - 2023/12/20 19:16:36 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #8 is the button
+Seat 1: Lillich (2925)
+Seat 2: ATAY89 (5873)
+Seat 3: tontonben (2955)
+Seat 4: Sonynho (5100)
+Seat 5: Astico02 (2955)
+Seat 6: P1xel7 (3459)
+Seat 7: alpha7602 (2925)
+Seat 8: Charp1978 (3613)
+*** ANTE/BLINDS ***
+Lillich posts small blind 20
+ATAY89 posts big blind 40
+Dealt to P1xel7 [4d Ks]
+*** PRE-FLOP *** 
+tontonben folds
+Sonynho calls 40
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+ATAY89 checks
+*** FLOP *** [Kd 3d 2c]
+ATAY89 checks
+Sonynho checks
+*** TURN *** [Kd 3d 2c][7s]
+ATAY89 checks
+Sonynho checks
+*** RIVER *** [Kd 3d 2c 7s][Kh]
+ATAY89 checks
+Sonynho checks
+*** SHOW DOWN ***
+ATAY89 shows [6s Js] (One pair : Kings)
+Sonynho shows [Qs 5h] (One pair : Kings)
+Sonynho collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [Kd 3d 2c 7s Kh]
+Seat 2: ATAY89 (big blind) showed [6s Js] and lost with One pair : Kings
+Seat 4: Sonynho showed [Qs 5h] and won 100 with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 3 - HandId: #2977057865417621621-13-1703099837 - Holdem no limit (20/40) - 2023/12/20 19:17:17 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #1 is the button
+Seat 1: Lillich (2905)
+Seat 2: ATAY89 (5833)
+Seat 3: tontonben (2955)
+Seat 4: Sonynho (5160)
+Seat 5: Astico02 (2955)
+Seat 6: P1xel7 (3459)
+Seat 7: alpha7602 (2925)
+Seat 8: Charp1978 (3613)
+*** ANTE/BLINDS ***
+ATAY89 posts small blind 20
+tontonben posts big blind 40
+Dealt to P1xel7 [Qh 5s]
+*** PRE-FLOP *** 
+Sonynho calls 40
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 calls 40
+Lillich folds
+ATAY89 calls 20
+tontonben folds
+*** FLOP *** [6d Ad Js]
+ATAY89 checks
+Sonynho checks
+Charp1978 bets 104
+ATAY89 folds
+Sonynho calls 104
+*** TURN *** [6d Ad Js][Ks]
+Sonynho checks
+Charp1978 bets 239
+Sonynho folds
+Charp1978 collected 607 from pot
+*** SUMMARY ***
+Total pot 607 | No rake
+Board: [6d Ad Js Ks]
+Seat 8: Charp1978 won 607
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 3 - HandId: #2977057865417621621-14-1703099900 - Holdem no limit (20/40) - 2023/12/20 19:18:20 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #2 is the button
+Seat 1: Lillich (2905)
+Seat 2: ATAY89 (5793)
+Seat 3: tontonben (2915)
+Seat 4: Sonynho (5016)
+Seat 5: Astico02 (2955)
+Seat 6: P1xel7 (3459)
+Seat 7: alpha7602 (2925)
+Seat 8: Charp1978 (3837)
+*** ANTE/BLINDS ***
+tontonben posts small blind 20
+Sonynho posts big blind 40
+Dealt to P1xel7 [6s 4h]
+*** PRE-FLOP *** 
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 calls 40
+Lillich folds
+ATAY89 folds
+tontonben folds
+Sonynho checks
+*** FLOP *** [2d 5h 9d]
+Sonynho checks
+Charp1978 checks
+*** TURN *** [2d 5h 9d][Ad]
+Sonynho checks
+Charp1978 checks
+*** RIVER *** [2d 5h 9d Ad][Kd]
+Sonynho bets 4976 and is all-in
+Charp1978 folds
+Sonynho collected 5076 from pot
+*** SUMMARY ***
+Total pot 5076 | No rake
+Board: [2d 5h 9d Ad Kd]
+Seat 4: Sonynho (big blind) won 5076
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 3 - HandId: #2977057865417621621-15-1703099946 - Holdem no limit (20/40) - 2023/12/20 19:19:06 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #3 is the button
+Seat 1: Lillich (2905)
+Seat 2: ATAY89 (5793)
+Seat 3: tontonben (2895)
+Seat 4: Sonynho (5076)
+Seat 5: Astico02 (2955)
+Seat 6: P1xel7 (3459)
+Seat 7: alpha7602 (2925)
+Seat 8: Charp1978 (3797)
+*** ANTE/BLINDS ***
+Sonynho posts small blind 20
+Astico02 posts big blind 40
+Dealt to P1xel7 [6h 2d]
+*** PRE-FLOP *** 
+P1xel7 folds
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+ATAY89 calls 40
+tontonben folds
+Sonynho raises 80 to 120
+Astico02 folds
+ATAY89 calls 80
+*** FLOP *** [Jc 5h 9c]
+Sonynho bets 182
+ATAY89 calls 182
+*** TURN *** [Jc 5h 9c][Ks]
+Sonynho bets 419
+ATAY89 calls 419
+*** RIVER *** [Jc 5h 9c Ks][4d]
+Sonynho bets 963
+ATAY89 folds
+Sonynho collected 2445 from pot
+*** SUMMARY ***
+Total pot 2445 | No rake
+Board: [Jc 5h 9c Ks 4d]
+Seat 4: Sonynho (small blind) won 2445
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 3 - HandId: #2977057865417621621-16-1703099993 - Holdem no limit (20/40) - 2023/12/20 19:19:53 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #4 is the button
+Seat 1: Lillich (2905)
+Seat 2: ATAY89 (5072)
+Seat 3: tontonben (2895)
+Seat 4: Sonynho (5837)
+Seat 5: Astico02 (2915)
+Seat 6: P1xel7 (3459)
+Seat 7: alpha7602 (2925)
+Seat 8: Charp1978 (3797)
+*** ANTE/BLINDS ***
+Astico02 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Td 7d]
+*** PRE-FLOP *** 
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+ATAY89 raises 100 to 140
+tontonben folds
+Sonynho folds
+Astico02 folds
+P1xel7 folds
+ATAY89 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Seat 2: ATAY89 won 200
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 3 - HandId: #2977057865417621621-17-1703100026 - Holdem no limit (20/40) - 2023/12/20 19:20:26 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #5 is the button
+Seat 1: Lillich (2905)
+Seat 2: ATAY89 (5132)
+Seat 3: tontonben (2895)
+Seat 4: Sonynho (5837)
+Seat 5: Astico02 (2895)
+Seat 6: P1xel7 (3419)
+Seat 7: alpha7602 (2925)
+Seat 8: Charp1978 (3797)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+alpha7602 posts big blind 40
+Dealt to P1xel7 [6h 5d]
+*** PRE-FLOP *** 
+Charp1978 folds
+Lillich folds
+ATAY89 raises 100 to 140
+tontonben folds
+Sonynho calls 140
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+*** FLOP *** [2h Js 8h]
+ATAY89 bets 340
+Sonynho calls 340
+*** TURN *** [2h Js 8h][Ah]
+ATAY89 bets 1020
+Sonynho folds
+ATAY89 collected 2040 from pot
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [2h Js 8h Ah]
+Seat 2: ATAY89 won 2040
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 3 - HandId: #2977057865417621621-18-1703100080 - Holdem no limit (20/40) - 2023/12/20 19:21:20 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #6 is the button
+Seat 1: Lillich (2905)
+Seat 2: ATAY89 (5672)
+Seat 3: tontonben (2895)
+Seat 4: Sonynho (5357)
+Seat 5: Astico02 (2895)
+Seat 6: P1xel7 (3399)
+Seat 7: alpha7602 (2885)
+Seat 8: Charp1978 (3797)
+*** ANTE/BLINDS ***
+alpha7602 posts small blind 20
+Charp1978 posts big blind 40
+Dealt to P1xel7 [8d 6c]
+*** PRE-FLOP *** 
+Lillich folds
+ATAY89 calls 40
+tontonben folds
+Sonynho calls 40
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 checks
+*** FLOP *** [Qh Th Jc]
+Charp1978 checks
+ATAY89 bets 91
+Sonynho calls 91
+Charp1978 folds
+*** TURN *** [Qh Th Jc][Ks]
+ATAY89 bets 209
+Sonynho folds
+ATAY89 collected 531 from pot
+*** SUMMARY ***
+Total pot 531 | No rake
+Board: [Qh Th Jc Ks]
+Seat 2: ATAY89 won 531
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 3 - HandId: #2977057865417621621-19-1703100123 - Holdem no limit (20/40) - 2023/12/20 19:22:03 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #7 is the button
+Seat 1: Lillich (2905)
+Seat 2: ATAY89 (5863)
+Seat 3: tontonben (2895)
+Seat 4: Sonynho (5226)
+Seat 5: Astico02 (2895)
+Seat 6: P1xel7 (3399)
+Seat 7: alpha7602 (2865)
+Seat 8: Charp1978 (3757)
+*** ANTE/BLINDS ***
+Charp1978 posts small blind 20
+Lillich posts big blind 40
+Dealt to P1xel7 [3c 5c]
+*** PRE-FLOP *** 
+ATAY89 calls 40
+tontonben folds
+Sonynho calls 40
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 calls 20
+Lillich folds
+*** FLOP *** [As Kh 2d]
+Charp1978 checks
+ATAY89 checks
+Sonynho checks
+*** TURN *** [As Kh 2d][3s]
+Charp1978 checks
+ATAY89 checks
+Sonynho bets 104
+Charp1978 folds
+ATAY89 calls 104
+*** RIVER *** [As Kh 2d 3s][4h]
+ATAY89 checks
+Sonynho checks
+*** SHOW DOWN ***
+Sonynho shows [Kd Ac] (Two pairs : Aces and Kings)
+ATAY89 shows [Qd 5d] (Straight 5 high)
+ATAY89 collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | No rake
+Board: [As Kh 2d 3s 4h]
+Seat 2: ATAY89 showed [Qd 5d] and won 368 with Straight 5 high
+Seat 4: Sonynho showed [Kd Ac] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 3 - HandId: #2977057865417621621-20-1703100191 - Holdem no limit (20/40) - 2023/12/20 19:23:11 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #8 is the button
+Seat 1: Lillich (2865)
+Seat 2: ATAY89 (6087)
+Seat 3: tontonben (2895)
+Seat 4: Sonynho (5082)
+Seat 5: Astico02 (2895)
+Seat 6: P1xel7 (3399)
+Seat 7: alpha7602 (2865)
+Seat 8: Charp1978 (3717)
+*** ANTE/BLINDS ***
+Lillich posts small blind 20
+ATAY89 posts big blind 40
+Dealt to P1xel7 [Jc Qd]
+*** PRE-FLOP *** 
+tontonben folds
+Sonynho calls 40
+Astico02 folds
+P1xel7 raises 120 to 160
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+ATAY89 calls 120
+Sonynho calls 120
+*** FLOP *** [Ts Kh Qc]
+ATAY89 checks
+Sonynho bets 40
+P1xel7 raises 270 to 310
+ATAY89 folds
+Sonynho calls 270
+*** TURN *** [Ts Kh Qc][Ks]
+Sonynho checks
+P1xel7 checks
+*** RIVER *** [Ts Kh Qc Ks][5h]
+Sonynho bets 40
+P1xel7 calls 40
+*** SHOW DOWN ***
+Sonynho shows [Qs 9c] (Two pairs : Kings and Queens)
+P1xel7 shows [Jc Qd] (Two pairs : Kings and Queens)
+P1xel7 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [Ts Kh Qc Ks 5h]
+Seat 4: Sonynho showed [Qs 9c] and lost with Two pairs : Kings and Queens
+Seat 6: P1xel7 showed [Jc Qd] and won 1200 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 3 - HandId: #2977057865417621621-21-1703100245 - Holdem no limit (20/40) - 2023/12/20 19:24:05 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #1 is the button
+Seat 1: Lillich (2845)
+Seat 2: ATAY89 (5927)
+Seat 3: tontonben (2895)
+Seat 4: Sonynho (4572)
+Seat 5: Astico02 (2895)
+Seat 6: P1xel7 (4089)
+Seat 7: alpha7602 (2865)
+Seat 8: Charp1978 (3717)
+*** ANTE/BLINDS ***
+ATAY89 posts small blind 20
+tontonben posts big blind 40
+Dealt to P1xel7 [Qd Td]
+*** PRE-FLOP *** 
+Sonynho calls 40
+Astico02 folds
+P1xel7 raises 120 to 160
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+ATAY89 folds
+tontonben folds
+Sonynho calls 120
+*** FLOP *** [5c 6c Js]
+Sonynho checks
+P1xel7 bets 133
+Sonynho calls 133
+*** TURN *** [5c 6c Js][4s]
+Sonynho checks
+P1xel7 checks
+*** RIVER *** [5c 6c Js 4s][4c]
+Sonynho checks
+P1xel7 checks
+*** SHOW DOWN ***
+P1xel7 shows [Qd Td] (One pair : 4)
+Sonynho shows [Kc 7d] (One pair : 4)
+Sonynho collected 646 from pot
+*** SUMMARY ***
+Total pot 646 | No rake
+Board: [5c 6c Js 4s 4c]
+Seat 4: Sonynho showed [Kc 7d] and won 646 with One pair : 4
+Seat 6: P1xel7 showed [Qd Td] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-22-1703100276 - Holdem no limit (30/60) - 2023/12/20 19:24:36 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #2 is the button
+Seat 1: Lillich (2845)
+Seat 2: ATAY89 (5907)
+Seat 3: tontonben (2855)
+Seat 4: Sonynho (4925)
+Seat 5: Astico02 (2895)
+Seat 6: P1xel7 (3796)
+Seat 7: alpha7602 (2865)
+Seat 8: Charp1978 (3717)
+*** ANTE/BLINDS ***
+tontonben posts small blind 30
+Sonynho posts big blind 60
+Dealt to P1xel7 [Th Td]
+*** PRE-FLOP *** 
+Astico02 folds
+P1xel7 raises 120 to 180
+alpha7602 folds
+Charp1978 calls 180
+Lillich folds
+ATAY89 raises 120 to 300
+tontonben folds
+Sonynho folds
+P1xel7 raises 600 to 900
+Charp1978 folds
+ATAY89 calls 600
+*** FLOP *** [Qs Qh 6c]
+P1xel7 bets 725
+ATAY89 folds
+P1xel7 collected 2795 from pot
+*** SUMMARY ***
+Total pot 2795 | No rake
+Board: [Qs Qh 6c]
+Seat 6: P1xel7 won 2795
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-23-1703100310 - Holdem no limit (30/60) - 2023/12/20 19:25:10 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #3 is the button
+Seat 1: Lillich (2845)
+Seat 2: ATAY89 (5007)
+Seat 3: tontonben (2825)
+Seat 4: Sonynho (4865)
+Seat 5: Astico02 (2895)
+Seat 6: P1xel7 (4966)
+Seat 7: alpha7602 (2865)
+Seat 8: Charp1978 (3537)
+*** ANTE/BLINDS ***
+Sonynho posts small blind 30
+Astico02 posts big blind 60
+Dealt to P1xel7 [Kc 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+ATAY89 calls 60
+tontonben folds
+Sonynho calls 30
+Astico02 folds
+*** FLOP *** [Jd 7d 3d]
+Sonynho checks
+ATAY89 checks
+*** TURN *** [Jd 7d 3d][7h]
+Sonynho checks
+ATAY89 checks
+*** RIVER *** [Jd 7d 3d 7h][Ad]
+Sonynho bets 60
+ATAY89 raises 300 to 360
+Sonynho folds
+ATAY89 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jd 7d 3d 7h Ad]
+Seat 2: ATAY89 won 600
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-24-1703100354 - Holdem no limit (30/60) - 2023/12/20 19:25:54 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #4 is the button
+Seat 1: Lillich (2845)
+Seat 2: ATAY89 (5187)
+Seat 3: tontonben (2825)
+Seat 4: Sonynho (4745)
+Seat 5: Astico02 (2835)
+Seat 6: P1xel7 (4966)
+Seat 7: alpha7602 (2865)
+Seat 8: Charp1978 (3537)
+*** ANTE/BLINDS ***
+Astico02 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [7s 5h]
+*** PRE-FLOP *** 
+alpha7602 folds
+Charp1978 raises 90 to 150
+Lillich folds
+ATAY89 calls 150
+tontonben folds
+Sonynho calls 150
+Astico02 folds
+P1xel7 folds
+*** FLOP *** [Th 2s Qd]
+Charp1978 checks
+ATAY89 checks
+Sonynho checks
+*** TURN *** [Th 2s Qd][4h]
+Charp1978 bets 351
+ATAY89 folds
+Sonynho folds
+Charp1978 collected 891 from pot
+*** SUMMARY ***
+Total pot 891 | No rake
+Board: [Th 2s Qd 4h]
+Seat 8: Charp1978 won 891
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-25-1703100407 - Holdem no limit (30/60) - 2023/12/20 19:26:47 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #5 is the button
+Seat 1: Lillich (2845)
+Seat 2: ATAY89 (5037)
+Seat 3: tontonben (2825)
+Seat 4: Sonynho (4595)
+Seat 5: Astico02 (2805)
+Seat 6: P1xel7 (4906)
+Seat 7: alpha7602 (2865)
+Seat 8: Charp1978 (3927)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+alpha7602 posts big blind 60
+Dealt to P1xel7 [5c 3h]
+*** PRE-FLOP *** 
+Charp1978 folds
+Lillich folds
+ATAY89 raises 150 to 210
+tontonben folds
+Sonynho folds
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+ATAY89 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: ATAY89 won 300
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-26-1703100442 - Holdem no limit (30/60) - 2023/12/20 19:27:22 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #6 is the button
+Seat 1: Lillich (2845)
+Seat 2: ATAY89 (5127)
+Seat 3: tontonben (2825)
+Seat 4: Sonynho (4595)
+Seat 5: Astico02 (2805)
+Seat 6: P1xel7 (4876)
+Seat 7: alpha7602 (2805)
+Seat 8: Charp1978 (3927)
+*** ANTE/BLINDS ***
+alpha7602 posts small blind 30
+Charp1978 posts big blind 60
+Dealt to P1xel7 [7c 2h]
+*** PRE-FLOP *** 
+Lillich folds
+ATAY89 raises 150 to 210
+tontonben folds
+Sonynho calls 210
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 folds
+*** FLOP *** [Qs 5c Kc]
+ATAY89 bets 332
+Sonynho raises 4053 to 4385 and is all-in
+ATAY89 calls 4053
+*** TURN *** [Qs 5c Kc][9s]
+*** RIVER *** [Qs 5c Kc 9s][Qh]
+*** SHOW DOWN ***
+ATAY89 shows [Ad Th] (One pair : Queens)
+Sonynho shows [5d Kh] (Two pairs : Kings and Queens)
+Sonynho collected 9280 from pot
+*** SUMMARY ***
+Total pot 9280 | No rake
+Board: [Qs 5c Kc 9s Qh]
+Seat 2: ATAY89 showed [Ad Th] and lost with One pair : Queens
+Seat 4: Sonynho showed [5d Kh] and won 9280 with Two pairs : Kings and Queens
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-27-1703100496 - Holdem no limit (30/60) - 2023/12/20 19:28:16 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #7 is the button
+Seat 1: Lillich (2845)
+Seat 2: ATAY89 (532)
+Seat 3: tontonben (2825)
+Seat 4: Sonynho (9280)
+Seat 5: Astico02 (2805)
+Seat 6: P1xel7 (4876)
+Seat 7: alpha7602 (2775)
+Seat 8: Charp1978 (3867)
+*** ANTE/BLINDS ***
+Charp1978 posts small blind 30
+Lillich posts big blind 60
+Dealt to P1xel7 [6d 5c]
+*** PRE-FLOP *** 
+ATAY89 folds
+tontonben folds
+Sonynho calls 60
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 calls 30
+Lillich folds
+*** FLOP *** [Th 2d 7d]
+Charp1978 checks
+Sonynho checks
+*** TURN *** [Th 2d 7d][Js]
+Charp1978 checks
+Sonynho checks
+*** RIVER *** [Th 2d 7d Js][5h]
+Charp1978 checks
+Sonynho checks
+*** SHOW DOWN ***
+Charp1978 shows [Qh 6c] (High card : Queen)
+Sonynho shows [Ks 7s] (One pair : 7)
+Sonynho collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Board: [Th 2d 7d Js 5h]
+Seat 4: Sonynho showed [Ks 7s] and won 180 with One pair : 7
+Seat 8: Charp1978 (small blind) showed [Qh 6c] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-28-1703100543 - Holdem no limit (30/60) - 2023/12/20 19:29:03 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #8 is the button
+Seat 1: Lillich (2785)
+Seat 2: ATAY89 (532)
+Seat 3: tontonben (2825)
+Seat 4: Sonynho (9400)
+Seat 5: Astico02 (2805)
+Seat 6: P1xel7 (4876)
+Seat 7: alpha7602 (2775)
+Seat 8: Charp1978 (3807)
+*** ANTE/BLINDS ***
+Lillich posts small blind 30
+ATAY89 posts big blind 60
+Dealt to P1xel7 [7c Qs]
+*** PRE-FLOP *** 
+tontonben folds
+Sonynho calls 60
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+ATAY89 raises 472 to 532 and is all-in
+Sonynho folds
+ATAY89 collected 622 from pot
+*** SUMMARY ***
+Total pot 622 | No rake
+Seat 2: ATAY89 (big blind) won 622
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-29-1703100569 - Holdem no limit (30/60) - 2023/12/20 19:29:29 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #1 is the button
+Seat 1: Lillich (2755)
+Seat 2: ATAY89 (622)
+Seat 3: tontonben (2825)
+Seat 4: Sonynho (9340)
+Seat 5: Astico02 (2805)
+Seat 6: P1xel7 (4876)
+Seat 7: alpha7602 (2775)
+Seat 8: Charp1978 (3807)
+*** ANTE/BLINDS ***
+ATAY89 posts small blind 30
+tontonben posts big blind 60
+Dealt to P1xel7 [2c Th]
+*** PRE-FLOP *** 
+Sonynho calls 60
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 calls 60
+Lillich folds
+ATAY89 raises 562 to 622 and is all-in
+tontonben folds
+Sonynho calls 562
+Charp1978 folds
+*** FLOP *** [Kh Tc 2h]
+*** TURN *** [Kh Tc 2h][3s]
+*** RIVER *** [Kh Tc 2h 3s][4s]
+*** SHOW DOWN ***
+Sonynho shows [9h 8h] (High card : King)
+ATAY89 shows [As 7h] (High card : Ace)
+ATAY89 collected 1364 from pot
+*** SUMMARY ***
+Total pot 1364 | No rake
+Board: [Kh Tc 2h 3s 4s]
+Seat 2: ATAY89 (small blind) showed [As 7h] and won 1364 with High card : Ace
+Seat 4: Sonynho showed [9h 8h] and lost with High card : King
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-30-1703100641 - Holdem no limit (30/60) - 2023/12/20 19:30:41 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #2 is the button
+Seat 1: Lillich (2755)
+Seat 2: ATAY89 (1364)
+Seat 3: tontonben (2765)
+Seat 4: Sonynho (8718)
+Seat 5: Astico02 (2805)
+Seat 6: P1xel7 (4876)
+Seat 7: alpha7602 (2775)
+Seat 8: Charp1978 (3747)
+*** ANTE/BLINDS ***
+tontonben posts small blind 30
+Sonynho posts big blind 60
+Dealt to P1xel7 [Js Qc]
+*** PRE-FLOP *** 
+Astico02 folds
+P1xel7 raises 90 to 150
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+ATAY89 calls 150
+tontonben folds
+Sonynho calls 90
+*** FLOP *** [6d Kh 4s]
+Sonynho checks
+P1xel7 bets 168
+ATAY89 folds
+Sonynho raises 168 to 336
+P1xel7 folds
+Sonynho shows [Ah As] (One pair : Aces)
+Sonynho collected 984 from pot
+*** SUMMARY ***
+Total pot 984 | No rake
+Board: [6d Kh 4s]
+Seat 4: Sonynho (big blind) showed [Ah As] and won 984 with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-31-1703100704 - Holdem no limit (30/60) - 2023/12/20 19:31:44 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #3 is the button
+Seat 1: Lillich (2755)
+Seat 2: ATAY89 (1214)
+Seat 3: tontonben (2735)
+Seat 4: Sonynho (9216)
+Seat 5: Astico02 (2805)
+Seat 6: P1xel7 (4558)
+Seat 7: alpha7602 (2775)
+Seat 8: Charp1978 (3747)
+*** ANTE/BLINDS ***
+Sonynho posts small blind 30
+Astico02 posts big blind 60
+Dealt to P1xel7 [Jh Jd]
+*** PRE-FLOP *** 
+P1xel7 raises 90 to 150
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+ATAY89 raises 1064 to 1214 and is all-in
+tontonben folds
+Sonynho calls 1184
+Astico02 folds
+P1xel7 raises 3344 to 4558 and is all-in
+Sonynho folds
+*** FLOP *** [3s 7d 2s]
+*** TURN *** [3s 7d 2s][Ts]
+*** RIVER *** [3s 7d 2s Ts][6h]
+*** SHOW DOWN ***
+ATAY89 shows [8s 4d] (High card : Ten)
+P1xel7 shows [Jh Jd] (One pair : Jacks)
+P1xel7 collected 7046 from pot
+*** SUMMARY ***
+Total pot 7046 | No rake
+Board: [3s 7d 2s Ts 6h]
+Seat 2: ATAY89 showed [8s 4d] and lost with High card : Ten
+Seat 6: P1xel7 showed [Jh Jd] and won 7046 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 4 - HandId: #2977057865417621621-32-1703100736 - Holdem no limit (30/60) - 2023/12/20 19:32:16 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #4 is the button
+Seat 1: Lillich (2755)
+Seat 3: tontonben (2735)
+Seat 4: Sonynho (8002)
+Seat 5: Astico02 (2745)
+Seat 6: P1xel7 (7046)
+Seat 7: alpha7602 (2775)
+Seat 8: Charp1978 (3747)
+*** ANTE/BLINDS ***
+Astico02 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [7c 9h]
+*** PRE-FLOP *** 
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+tontonben folds
+Sonynho calls 60
+Astico02 folds
+P1xel7 checks
+*** FLOP *** [Qs 4h 6s]
+P1xel7 checks
+Sonynho checks
+*** TURN *** [Qs 4h 6s][Jh]
+P1xel7 checks
+Sonynho checks
+*** RIVER *** [Qs 4h 6s Jh][Kd]
+P1xel7 bets 60
+Sonynho raises 7882 to 7942 and is all-in
+P1xel7 folds
+Sonynho shows [Td Ah] (Straight Ace high)
+Sonynho collected 8152 from pot
+*** SUMMARY ***
+Total pot 8152 | No rake
+Board: [Qs 4h 6s Jh Kd]
+Seat 4: Sonynho (button) showed [Td Ah] and won 8152 with Straight Ace high
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 5 - HandId: #2977057865417621621-33-1703100817 - Holdem no limit (40/80) - 2023/12/20 19:33:37 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #5 is the button
+Seat 1: Lillich (2755)
+Seat 2: Nobru93 (3000)
+Seat 3: tontonben (2735)
+Seat 4: Sonynho (8152)
+Seat 5: Astico02 (2715)
+Seat 6: P1xel7 (6926)
+Seat 7: alpha7602 (2775)
+Seat 8: Charp1978 (3747)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+alpha7602 posts big blind 80
+Dealt to P1xel7 [Jh Kd]
+*** PRE-FLOP *** 
+Charp1978 calls 80
+Lillich folds
+Nobru93 folds
+tontonben folds
+Sonynho folds
+Astico02 folds
+P1xel7 raises 320 to 400
+alpha7602 folds
+Charp1978 calls 320
+*** FLOP *** [2c 9s 6c]
+P1xel7 checks
+Charp1978 checks
+*** TURN *** [2c 9s 6c][4s]
+P1xel7 checks
+Charp1978 checks
+*** RIVER *** [2c 9s 6c 4s][3s]
+P1xel7 checks
+Charp1978 checks
+*** SHOW DOWN ***
+P1xel7 shows [Jh Kd] (High card : King)
+Charp1978 shows [Ad Qc] (High card : Ace)
+Charp1978 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Board: [2c 9s 6c 4s 3s]
+Seat 6: P1xel7 (small blind) showed [Jh Kd] and lost with High card : King
+Seat 8: Charp1978 showed [Ad Qc] and won 880 with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 5 - HandId: #2977057865417621621-34-1703100870 - Holdem no limit (40/80) - 2023/12/20 19:34:30 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #6 is the button
+Seat 1: Lillich (2755)
+Seat 2: Nobru93 (3000)
+Seat 3: tontonben (2735)
+Seat 4: Sonynho (8152)
+Seat 5: Astico02 (2715)
+Seat 6: P1xel7 (6526)
+Seat 7: alpha7602 (2695)
+Seat 8: Charp1978 (4227)
+*** ANTE/BLINDS ***
+alpha7602 posts small blind 40
+Charp1978 posts big blind 80
+Dealt to P1xel7 [Ah Ts]
+*** PRE-FLOP *** 
+Lillich folds
+Nobru93 folds
+tontonben folds
+Sonynho calls 80
+Astico02 folds
+P1xel7 raises 240 to 320
+alpha7602 folds
+Charp1978 folds
+Sonynho calls 240
+*** FLOP *** [5d Ks 4s]
+Sonynho bets 7832 and is all-in
+P1xel7 folds
+Sonynho shows [Kc Qh] (One pair : Kings)
+Sonynho collected 8592 from pot
+*** SUMMARY ***
+Total pot 8592 | No rake
+Board: [5d Ks 4s]
+Seat 4: Sonynho showed [Kc Qh] and won 8592 with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 5 - HandId: #2977057865417621621-35-1703100904 - Holdem no limit (40/80) - 2023/12/20 19:35:04 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #7 is the button
+Seat 1: Lillich (2755)
+Seat 2: Nobru93 (3000)
+Seat 3: tontonben (2735)
+Seat 4: Sonynho (8592)
+Seat 5: Astico02 (2715)
+Seat 6: P1xel7 (6206)
+Seat 7: alpha7602 (2655)
+Seat 8: Charp1978 (4147)
+*** ANTE/BLINDS ***
+Charp1978 posts small blind 40
+Lillich posts big blind 80
+Dealt to P1xel7 [Th As]
+*** PRE-FLOP *** 
+Nobru93 folds
+tontonben folds
+Sonynho calls 80
+Astico02 folds
+P1xel7 calls 80
+alpha7602 folds
+Charp1978 calls 40
+Lillich folds
+*** FLOP *** [5s Kc 6d]
+Charp1978 checks
+Sonynho checks
+P1xel7 checks
+*** TURN *** [5s Kc 6d][Qs]
+Charp1978 checks
+Sonynho checks
+P1xel7 checks
+*** RIVER *** [5s Kc 6d Qs][7c]
+Charp1978 checks
+Sonynho checks
+P1xel7 bets 112
+Charp1978 folds
+Sonynho folds
+P1xel7 collected 432 from pot
+*** SUMMARY ***
+Total pot 432 | No rake
+Board: [5s Kc 6d Qs 7c]
+Seat 6: P1xel7 won 432
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 5 - HandId: #2977057865417621621-36-1703101009 - Holdem no limit (40/80) - 2023/12/20 19:36:49 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #8 is the button
+Seat 1: Lillich (2675)
+Seat 2: Nobru93 (3000)
+Seat 3: tontonben (2735)
+Seat 4: Sonynho (8512)
+Seat 5: Astico02 (2715)
+Seat 6: P1xel7 (6446)
+Seat 7: alpha7602 (2655)
+Seat 8: Charp1978 (4067)
+*** ANTE/BLINDS ***
+Lillich posts small blind 40
+Nobru93 posts big blind 80
+Dealt to P1xel7 [As 6c]
+*** PRE-FLOP *** 
+tontonben folds
+Sonynho calls 80
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 raises 120 to 200
+Lillich folds
+Nobru93 calls 120
+Sonynho calls 120
+*** FLOP *** [Ts 3s Tc]
+Nobru93 checks
+Sonynho checks
+Charp1978 checks
+*** TURN *** [Ts 3s Tc][Kc]
+Nobru93 bets 512
+Sonynho folds
+Charp1978 folds
+Nobru93 collected 1152 from pot
+*** SUMMARY ***
+Total pot 1152 | No rake
+Board: [Ts 3s Tc Kc]
+Seat 2: Nobru93 (big blind) won 1152
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 5 - HandId: #2977057865417621621-37-1703101113 - Holdem no limit (40/80) - 2023/12/20 19:38:33 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #1 is the button
+Seat 1: Lillich (2635)
+Seat 2: Nobru93 (3440)
+Seat 3: tontonben (2735)
+Seat 4: Sonynho (8312)
+Seat 5: Astico02 (2715)
+Seat 6: P1xel7 (6446)
+Seat 7: alpha7602 (2655)
+Seat 8: Charp1978 (3867)
+*** ANTE/BLINDS ***
+Nobru93 posts small blind 40
+tontonben posts big blind 80
+Dealt to P1xel7 [2c Jc]
+*** PRE-FLOP *** 
+Sonynho folds
+Astico02 folds
+P1xel7 folds
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+Nobru93 calls 40
+tontonben folds
+Nobru93 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | No rake
+Seat 2: Nobru93 (small blind) won 160
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 5 - HandId: #2977057865417621621-38-1703101151 - Holdem no limit (40/80) - 2023/12/20 19:39:11 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #2 is the button
+Seat 1: Lillich (2635)
+Seat 2: Nobru93 (3520)
+Seat 3: tontonben (2655)
+Seat 4: Sonynho (8312)
+Seat 5: Astico02 (2715)
+Seat 6: P1xel7 (6446)
+Seat 7: alpha7602 (2655)
+Seat 8: Charp1978 (3867)
+*** ANTE/BLINDS ***
+tontonben posts small blind 40
+Sonynho posts big blind 80
+Dealt to P1xel7 [Ah Jd]
+*** PRE-FLOP *** 
+Astico02 folds
+P1xel7 raises 120 to 200
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+Nobru93 folds
+tontonben folds
+Sonynho raises 120 to 320
+P1xel7 raises 6126 to 6446 and is all-in
+Sonynho calls 6126
+*** FLOP *** [3h 3d Kd]
+*** TURN *** [3h 3d Kd][4s]
+*** RIVER *** [3h 3d Kd 4s][Kh]
+*** SHOW DOWN ***
+Sonynho shows [Tc Ac] (Two pairs : Kings and 3)
+P1xel7 shows [Ah Jd] (Two pairs : Kings and 3)
+P1xel7 collected 6466 from pot
+Sonynho collected 6466 from pot
+*** SUMMARY ***
+Total pot 12932 | No rake
+Board: [3h 3d Kd 4s Kh]
+Seat 4: Sonynho (big blind) showed [Tc Ac] and won 6466 with Two pairs : Kings and 3
+Seat 6: P1xel7 showed [Ah Jd] and won 6466 with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 5 - HandId: #2977057865417621621-39-1703101188 - Holdem no limit (40/80) - 2023/12/20 19:39:48 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #3 is the button
+Seat 1: Lillich (2635)
+Seat 2: Nobru93 (3520)
+Seat 3: tontonben (2615)
+Seat 4: Sonynho (8332)
+Seat 5: Astico02 (2715)
+Seat 6: P1xel7 (6466)
+Seat 7: alpha7602 (2655)
+Seat 8: Charp1978 (3867)
+*** ANTE/BLINDS ***
+Sonynho posts small blind 40
+Astico02 posts big blind 80
+Dealt to P1xel7 [Jd 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+Nobru93 calls 80
+tontonben folds
+Sonynho calls 40
+Astico02 folds
+*** FLOP *** [4c Kc 2c]
+Sonynho checks
+Nobru93 checks
+*** TURN *** [4c Kc 2c][2s]
+Sonynho checks
+Nobru93 checks
+*** RIVER *** [4c Kc 2c 2s][3c]
+Sonynho bets 80
+Nobru93 calls 80
+*** SHOW DOWN ***
+Sonynho shows [Ks 9d] (Two pairs : Kings and 2)
+Nobru93 shows [5d 6c] (Flush King high)
+Nobru93 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [4c Kc 2c 2s 3c]
+Seat 2: Nobru93 showed [5d 6c] and won 400 with Flush King high
+Seat 4: Sonynho (small blind) showed [Ks 9d] and lost with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 6 - HandId: #2977057865417621621-40-1703101238 - Holdem no limit (60/120) - 2023/12/20 19:40:38 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #4 is the button
+Seat 1: Lillich (2635)
+Seat 2: Nobru93 (3760)
+Seat 3: tontonben (2615)
+Seat 4: Sonynho (8172)
+Seat 5: Astico02 (2635)
+Seat 6: P1xel7 (6466)
+Seat 7: alpha7602 (2655)
+Seat 8: Charp1978 (3867)
+*** ANTE/BLINDS ***
+Astico02 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [4s 6h]
+*** PRE-FLOP *** 
+alpha7602 folds
+Charp1978 folds
+Lillich folds
+Nobru93 calls 120
+tontonben folds
+Sonynho calls 120
+Astico02 folds
+P1xel7 checks
+*** FLOP *** [Qc 4d 8c]
+P1xel7 checks
+Nobru93 checks
+Sonynho bets 8052 and is all-in
+P1xel7 folds
+Nobru93 folds
+Sonynho collected 8472 from pot
+*** SUMMARY ***
+Total pot 8472 | No rake
+Board: [Qc 4d 8c]
+Seat 4: Sonynho (button) won 8472
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 6 - HandId: #2977057865417621621-41-1703101288 - Holdem no limit (60/120) - 2023/12/20 19:41:28 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #5 is the button
+Seat 1: Lillich (2635)
+Seat 2: Nobru93 (3640)
+Seat 3: tontonben (2615)
+Seat 4: Sonynho (8472)
+Seat 5: Astico02 (2575)
+Seat 6: P1xel7 (6346)
+Seat 7: alpha7602 (2655)
+Seat 8: Charp1978 (3867)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+alpha7602 posts big blind 120
+Dealt to P1xel7 [8h Ah]
+*** PRE-FLOP *** 
+Charp1978 folds
+Lillich folds
+Nobru93 folds
+tontonben folds
+Sonynho folds
+Astico02 folds
+P1xel7 raises 120 to 240
+alpha7602 folds
+P1xel7 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 6: P1xel7 (small blind) won 360
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 6 - HandId: #2977057865417621621-42-1703101338 - Holdem no limit (60/120) - 2023/12/20 19:42:18 UTC
+Table: 'Tremplin Caen(693150299)#0116' 8-max (real money) Seat #6 is the button
+Seat 1: Lillich (2635)
+Seat 2: Nobru93 (3640)
+Seat 3: tontonben (2615)
+Seat 4: Sonynho (8472)
+Seat 5: Astico02 (2575)
+Seat 6: P1xel7 (6466)
+Seat 7: alpha7602 (2535)
+Seat 8: Charp1978 (3867)
+*** ANTE/BLINDS ***
+alpha7602 posts small blind 60
+Charp1978 posts big blind 120
+Dealt to P1xel7 [Kd Qc]
+*** PRE-FLOP *** 
+Lillich folds
+Nobru93 folds
+tontonben folds
+Sonynho calls 120
+Astico02 folds
+P1xel7 raises 360 to 480
+alpha7602 folds
+Charp1978 calls 360
+Sonynho calls 360
+*** FLOP *** [4h Ks 7s]
+Charp1978 checks
+Sonynho checks
+P1xel7 bets 750
+Charp1978 folds
+Sonynho calls 750
+*** TURN *** [4h Ks 7s][Jd]
+Sonynho bets 7242 and is all-in
+P1xel7 calls 5236 and is all-in
+*** RIVER *** [4h Ks 7s Jd][3s]
+*** SHOW DOWN ***
+P1xel7 shows [Kd Qc] (One pair : Kings)
+Sonynho shows [5s 4s] (Flush King high)
+Sonynho collected 15478 from pot
+*** SUMMARY ***
+Total pot 15478 | No rake
+Board: [4h Ks 7s Jd 3s]
+Seat 4: Sonynho showed [5s 4s] and won 15478 with Flush King high
+Seat 6: P1xel7 (button) showed [Kd Qc] and lost with One pair : Kings
+
+

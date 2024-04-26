@@ -1,0 +1,392 @@
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862816747094044-1-1702556103 - Holdem no limit (3/10/20) - 2023/12/14 12:15:03 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Mr Dudunino (500, 0.90€ bounty)
+Seat 2: P1xel7 (500, 0.90€ bounty)
+Seat 3: Le_Arth (500, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mr Dudunino posts ante 3
+P1xel7 posts ante 3
+Le_Arth posts ante 3
+Mr Dudunino posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8h 6h]
+*** PRE-FLOP *** 
+Le_Arth raises 20 to 40
+Mr Dudunino raises 120 to 160
+P1xel7 folds
+Le_Arth folds
+Mr Dudunino collected 229 from pot
+*** SUMMARY ***
+Total pot 229 | No rake
+Seat 1: Mr Dudunino (small blind) won 229
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862816747094044-2-1702556144 - Holdem no limit (3/10/20) - 2023/12/14 12:15:44 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Dudunino (566, 0.90€ bounty)
+Seat 2: P1xel7 (477, 0.90€ bounty)
+Seat 3: Le_Arth (457, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 3
+Le_Arth posts ante 3
+Mr Dudunino posts ante 3
+P1xel7 posts small blind 10
+Le_Arth posts big blind 20
+Dealt to P1xel7 [Kc Ac]
+*** PRE-FLOP *** 
+Mr Dudunino folds
+P1xel7 raises 20 to 40
+Le_Arth folds
+P1xel7 collected 69 from pot
+*** SUMMARY ***
+Total pot 69 | No rake
+Seat 2: P1xel7 (small blind) won 69
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862816747094044-3-1702556154 - Holdem no limit (3/10/20) - 2023/12/14 12:15:54 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Mr Dudunino (563, 0.90€ bounty)
+Seat 2: P1xel7 (503, 0.90€ bounty)
+Seat 3: Le_Arth (434, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Le_Arth posts ante 3
+Mr Dudunino posts ante 3
+P1xel7 posts ante 3
+Le_Arth posts small blind 10
+Mr Dudunino posts big blind 20
+Dealt to P1xel7 [5s 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le_Arth calls 10
+Mr Dudunino checks
+*** FLOP *** [8d Jc Ah]
+Le_Arth checks
+Mr Dudunino bets 20
+Le_Arth calls 20
+*** TURN *** [8d Jc Ah][4c]
+Le_Arth checks
+Mr Dudunino bets 20
+Le_Arth calls 20
+*** RIVER *** [8d Jc Ah 4c][Js]
+Le_Arth checks
+Mr Dudunino checks
+*** SHOW DOWN ***
+Le_Arth shows [9d Qh] (One pair : Jacks)
+Mr Dudunino shows [8c 2s] (Two pairs : Jacks and 8)
+Mr Dudunino collected 129 from pot
+*** SUMMARY ***
+Total pot 129 | No rake
+Board: [8d Jc Ah 4c Js]
+Seat 1: Mr Dudunino (big blind) showed [8c 2s] and won 129 with Two pairs : Jacks and 8
+Seat 3: Le_Arth (small blind) showed [9d Qh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862816747094044-4-1702556182 - Holdem no limit (3/10/20) - 2023/12/14 12:16:22 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Mr Dudunino (629, 0.90€ bounty)
+Seat 2: P1xel7 (500, 0.90€ bounty)
+Seat 3: Le_Arth (371, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mr Dudunino posts ante 3
+P1xel7 posts ante 3
+Le_Arth posts ante 3
+Mr Dudunino posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [4h 9s]
+*** PRE-FLOP *** 
+Le_Arth folds
+Mr Dudunino calls 10
+P1xel7 checks
+*** FLOP *** [Ah Jd 5h]
+Mr Dudunino checks
+P1xel7 bets 20
+Mr Dudunino calls 20
+*** TURN *** [Ah Jd 5h][Ts]
+Mr Dudunino checks
+P1xel7 bets 45
+Mr Dudunino calls 45
+*** RIVER *** [Ah Jd 5h Ts][8d]
+Mr Dudunino checks
+P1xel7 checks
+*** SHOW DOWN ***
+P1xel7 shows [4h 9s] (High card : Ace)
+Mr Dudunino shows [8c As] (Two pairs : Aces and 8)
+Mr Dudunino collected 179 from pot
+*** SUMMARY ***
+Total pot 179 | No rake
+Board: [Ah Jd 5h Ts 8d]
+Seat 1: Mr Dudunino (small blind) showed [8c As] and won 179 with Two pairs : Aces and 8
+Seat 2: P1xel7 (big blind) showed [4h 9s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862816747094044-5-1702556217 - Holdem no limit (3/10/20) - 2023/12/14 12:16:57 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Dudunino (720, 0.90€ bounty)
+Seat 2: P1xel7 (412, 0.90€ bounty)
+Seat 3: Le_Arth (368, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 3
+Le_Arth posts ante 3
+Mr Dudunino posts ante 3
+P1xel7 posts small blind 10
+Le_Arth posts big blind 20
+Dealt to P1xel7 [Qc 3d]
+*** PRE-FLOP *** 
+Mr Dudunino folds
+P1xel7 folds
+Le_Arth collected 39 from pot
+*** SUMMARY ***
+Total pot 39 | No rake
+Seat 3: Le_Arth (big blind) won 39
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862816747094044-6-1702556223 - Holdem no limit (3/10/20) - 2023/12/14 12:17:03 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Mr Dudunino (717, 0.90€ bounty)
+Seat 2: P1xel7 (399, 0.90€ bounty)
+Seat 3: Le_Arth (384, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Le_Arth posts ante 3
+Mr Dudunino posts ante 3
+P1xel7 posts ante 3
+Le_Arth posts small blind 10
+Mr Dudunino posts big blind 20
+Dealt to P1xel7 [Kd Tc]
+*** PRE-FLOP *** 
+P1xel7 raises 24 to 44
+Le_Arth folds
+Mr Dudunino folds
+P1xel7 collected 83 from pot
+*** SUMMARY ***
+Total pot 83 | No rake
+Seat 2: P1xel7 (button) won 83
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3093862816747094044-7-1702556230 - Holdem no limit (3/10/20) - 2023/12/14 12:17:10 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Mr Dudunino (694, 0.90€ bounty)
+Seat 2: P1xel7 (435, 0.90€ bounty)
+Seat 3: Le_Arth (371, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mr Dudunino posts ante 3
+P1xel7 posts ante 3
+Le_Arth posts ante 3
+Mr Dudunino posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8h Jh]
+*** PRE-FLOP *** 
+Le_Arth folds
+Mr Dudunino calls 10
+P1xel7 checks
+*** FLOP *** [6s 9d Kc]
+Mr Dudunino checks
+P1xel7 checks
+*** TURN *** [6s 9d Kc][4c]
+Mr Dudunino checks
+P1xel7 checks
+*** RIVER *** [6s 9d Kc 4c][8c]
+Mr Dudunino checks
+P1xel7 bets 30
+Mr Dudunino calls 30
+*** SHOW DOWN ***
+Mr Dudunino shows [8d 7d] (One pair : 8)
+P1xel7 shows [8h Jh] (One pair : 8)
+P1xel7 collected 109 from pot
+*** SUMMARY ***
+Total pot 109 | No rake
+Board: [6s 9d Kc 4c 8c]
+Seat 1: Mr Dudunino (small blind) showed [8d 7d] and lost with One pair : 8
+Seat 2: P1xel7 (big blind) showed [8h Jh] and won 109 with One pair : 8
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862816747094044-8-1702556262 - Holdem no limit (3/12/25) - 2023/12/14 12:17:42 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Dudunino (641, 0.90€ bounty)
+Seat 2: P1xel7 (491, 0.90€ bounty)
+Seat 3: Le_Arth (368, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 3
+Le_Arth posts ante 3
+Mr Dudunino posts ante 3
+P1xel7 posts small blind 12
+Le_Arth posts big blind 25
+Dealt to P1xel7 [8d Qh]
+*** PRE-FLOP *** 
+Mr Dudunino folds
+P1xel7 raises 25 to 50
+Le_Arth calls 25
+*** FLOP *** [3c Ts Tc]
+P1xel7 bets 38
+Le_Arth calls 38
+*** TURN *** [3c Ts Tc][Th]
+P1xel7 checks
+Le_Arth bets 277 and is all-in
+P1xel7 folds
+Le_Arth collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | No rake
+Board: [3c Ts Tc Th]
+Seat 3: Le_Arth (big blind) won 462
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862816747094044-9-1702556290 - Holdem no limit (3/12/25) - 2023/12/14 12:18:10 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Mr Dudunino (638, 0.90€ bounty)
+Seat 2: P1xel7 (400, 0.90€ bounty)
+Seat 3: Le_Arth (462, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Le_Arth posts ante 3
+Mr Dudunino posts ante 3
+P1xel7 posts ante 3
+Le_Arth posts small blind 12
+Mr Dudunino posts big blind 25
+Dealt to P1xel7 [Tc 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Le_Arth raises 38 to 63
+Mr Dudunino folds
+Le_Arth collected 97 from pot
+*** SUMMARY ***
+Total pot 97 | No rake
+Seat 3: Le_Arth (small blind) won 97
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862816747094044-10-1702556298 - Holdem no limit (3/12/25) - 2023/12/14 12:18:18 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Mr Dudunino (610, 0.90€ bounty)
+Seat 2: P1xel7 (397, 0.90€ bounty)
+Seat 3: Le_Arth (493, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mr Dudunino posts ante 3
+P1xel7 posts ante 3
+Le_Arth posts ante 3
+Mr Dudunino posts small blind 12
+P1xel7 posts big blind 25
+Dealt to P1xel7 [3c 2h]
+*** PRE-FLOP *** 
+Le_Arth folds
+Mr Dudunino calls 13
+P1xel7 checks
+*** FLOP *** [8c 4d 5h]
+Mr Dudunino checks
+P1xel7 checks
+*** TURN *** [8c 4d 5h][Ad]
+Mr Dudunino checks
+P1xel7 bets 25
+Mr Dudunino folds
+P1xel7 collected 84 from pot
+*** SUMMARY ***
+Total pot 84 | No rake
+Board: [8c 4d 5h Ad]
+Seat 2: P1xel7 (big blind) won 84
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862816747094044-11-1702556320 - Holdem no limit (3/12/25) - 2023/12/14 12:18:40 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Dudunino (582, 0.90€ bounty)
+Seat 2: P1xel7 (428, 0.90€ bounty)
+Seat 3: Le_Arth (490, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 3
+Le_Arth posts ante 3
+Mr Dudunino posts ante 3
+P1xel7 posts small blind 12
+Le_Arth posts big blind 25
+Dealt to P1xel7 [7h Qd]
+*** PRE-FLOP *** 
+Mr Dudunino folds
+P1xel7 raises 25 to 50
+Le_Arth folds
+P1xel7 collected 84 from pot
+*** SUMMARY ***
+Total pot 84 | No rake
+Seat 2: P1xel7 (small blind) won 84
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862816747094044-12-1702556330 - Holdem no limit (3/12/25) - 2023/12/14 12:18:50 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: Mr Dudunino (579, 0.90€ bounty)
+Seat 2: P1xel7 (459, 0.90€ bounty)
+Seat 3: Le_Arth (462, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Le_Arth posts ante 3
+Mr Dudunino posts ante 3
+P1xel7 posts ante 3
+Le_Arth posts small blind 12
+Mr Dudunino posts big blind 25
+Dealt to P1xel7 [Th Jc]
+*** PRE-FLOP *** 
+P1xel7 raises 25 to 50
+Le_Arth raises 409 to 459 and is all-in
+Mr Dudunino folds
+P1xel7 folds
+Le_Arth collected 543 from pot
+*** SUMMARY ***
+Total pot 543 | No rake
+Seat 3: Le_Arth (small blind) won 543
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862816747094044-13-1702556339 - Holdem no limit (3/12/25) - 2023/12/14 12:18:59 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: Mr Dudunino (551, 0.90€ bounty)
+Seat 2: P1xel7 (406, 0.90€ bounty)
+Seat 3: Le_Arth (543, 0.90€ bounty)
+*** ANTE/BLINDS ***
+Mr Dudunino posts ante 3
+P1xel7 posts ante 3
+Le_Arth posts ante 3
+Mr Dudunino posts small blind 12
+P1xel7 posts big blind 25
+Dealt to P1xel7 [Th 3d]
+*** PRE-FLOP *** 
+Le_Arth raises 25 to 50
+Mr Dudunino calls 38
+P1xel7 folds
+*** FLOP *** [Ks 5d Tc]
+Mr Dudunino checks
+Le_Arth bets 47
+Mr Dudunino calls 47
+*** TURN *** [Ks 5d Tc][2s]
+Mr Dudunino checks
+Le_Arth checks
+*** RIVER *** [Ks 5d Tc 2s][6h]
+Mr Dudunino bets 148
+Le_Arth folds
+Mr Dudunino collected 376 from pot
+*** SUMMARY ***
+Total pot 376 | No rake
+Board: [Ks 5d Tc 2s 6h]
+Seat 1: Mr Dudunino (small blind) won 376
+
+
+Winamax Poker - Tournament "Trident" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3093862816747094044-14-1702556372 - Holdem no limit (3/12/25) - 2023/12/14 12:19:32 UTC
+Table: 'Trident(720346071)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: Mr Dudunino (679, 0.90€ bounty)
+Seat 2: P1xel7 (378, 0.90€ bounty)
+Seat 3: Le_Arth (443, 0.90€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 3
+Le_Arth posts ante 3
+Mr Dudunino posts ante 3
+P1xel7 posts small blind 12
+Le_Arth posts big blind 25
+Dealt to P1xel7 [6s As]
+*** PRE-FLOP *** 
+Mr Dudunino folds
+P1xel7 raises 25 to 50
+Le_Arth raises 390 to 440 and is all-in
+P1xel7 calls 325 and is all-in
+*** FLOP *** [7c Tc 9d]
+*** TURN *** [7c Tc 9d][Ah]
+*** RIVER *** [7c Tc 9d Ah][3d]
+*** SHOW DOWN ***
+P1xel7 shows [6s As] (One pair : Aces)
+Le_Arth shows [Ad 7s] (Two pairs : Aces and 7)
+Le_Arth collected 824 from pot
+*** SUMMARY ***
+Total pot 824 | No rake
+Board: [7c Tc 9d Ah 3d]
+Seat 2: P1xel7 (small blind) showed [6s As] and lost with One pair : Aces
+Seat 3: Le_Arth (big blind) showed [Ad 7s] and won 824 with Two pairs : Aces and 7
+
+

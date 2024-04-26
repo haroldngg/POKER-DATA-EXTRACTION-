@@ -1,0 +1,4816 @@
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3250219838437589030-16-1710706888 - Holdem no limit (4/15/30) - 2024/03/17 20:21:28 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #3 is the button
+Seat 1: cynomolgus (856, 0.22€ bounty)
+Seat 2: P1xel7 (500, 0.22€ bounty)
+Seat 3: Floetcaicha (1052, 0.44€ bounty)
+*** ANTE/BLINDS ***
+cynomolgus posts ante 4
+P1xel7 posts ante 4
+Floetcaicha posts ante 4
+cynomolgus posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [3c 6h]
+*** PRE-FLOP *** 
+Floetcaicha raises 87 to 117
+cynomolgus folds
+P1xel7 folds
+Floetcaicha collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | No rake
+Seat 3: Floetcaicha (button) won 174
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3250219838437589030-17-1710706897 - Holdem no limit (4/15/30) - 2024/03/17 20:21:37 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #1 is the button
+Seat 1: cynomolgus (837, 0.22€ bounty)
+Seat 2: P1xel7 (466, 0.22€ bounty)
+Seat 3: Floetcaicha (1105, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+Floetcaicha posts ante 4
+cynomolgus posts ante 4
+P1xel7 posts small blind 15
+Floetcaicha posts big blind 30
+Dealt to P1xel7 [4d 8s]
+*** PRE-FLOP *** 
+cynomolgus raises 30 to 60
+P1xel7 folds
+Floetcaicha calls 30
+*** FLOP *** [Ks Tc 8h]
+Floetcaicha bets 147
+cynomolgus calls 147
+*** TURN *** [Ks Tc 8h][6h]
+Floetcaicha checks
+cynomolgus checks
+*** RIVER *** [Ks Tc 8h 6h][Jd]
+Floetcaicha checks
+cynomolgus bets 110
+Floetcaicha calls 110
+*** SHOW DOWN ***
+Floetcaicha shows [8c 5h] (One pair : 8)
+cynomolgus shows [9s Kh] (One pair : Kings)
+cynomolgus collected 661 from pot
+*** SUMMARY ***
+Total pot 661 | No rake
+Board: [Ks Tc 8h 6h Jd]
+Seat 1: cynomolgus (button) showed [9s Kh] and won 661 with One pair : Kings
+Seat 3: Floetcaicha (big blind) showed [8c 5h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3250219838437589030-18-1710706930 - Holdem no limit (4/15/30) - 2024/03/17 20:22:10 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #2 is the button
+Seat 1: cynomolgus (1177, 0.22€ bounty)
+Seat 2: P1xel7 (447, 0.22€ bounty)
+Seat 3: Floetcaicha (784, 0.44€ bounty)
+*** ANTE/BLINDS ***
+Floetcaicha posts ante 4
+cynomolgus posts ante 4
+P1xel7 posts ante 4
+Floetcaicha posts small blind 15
+cynomolgus posts big blind 30
+Dealt to P1xel7 [7c 7s]
+*** PRE-FLOP *** 
+P1xel7 raises 45 to 75
+Floetcaicha calls 60
+cynomolgus folds
+*** FLOP *** [2d 5s 2s]
+Floetcaicha checks
+P1xel7 bets 154
+Floetcaicha calls 154
+*** TURN *** [2d 5s 2s][8d]
+Floetcaicha checks
+P1xel7 bets 214 and is all-in
+Floetcaicha folds
+P1xel7 collected 714 from pot
+*** SUMMARY ***
+Total pot 714 | No rake
+Board: [2d 5s 2s 8d]
+Seat 2: P1xel7 (button) won 714
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3250219838437589030-19-1710706959 - Holdem no limit (4/17/35) - 2024/03/17 20:22:39 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #3 is the button
+Seat 1: cynomolgus (1143, 0.22€ bounty)
+Seat 2: P1xel7 (714, 0.22€ bounty)
+Seat 3: Floetcaicha (551, 0.44€ bounty)
+*** ANTE/BLINDS ***
+cynomolgus posts ante 4
+P1xel7 posts ante 4
+Floetcaicha posts ante 4
+cynomolgus posts small blind 17
+P1xel7 posts big blind 35
+Dealt to P1xel7 [Ah Th]
+*** PRE-FLOP *** 
+Floetcaicha folds
+cynomolgus raises 35 to 70
+P1xel7 raises 140 to 210
+cynomolgus folds
+P1xel7 collected 292 from pot
+*** SUMMARY ***
+Total pot 292 | No rake
+Seat 2: P1xel7 (big blind) won 292
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3250219838437589030-20-1710706986 - Holdem no limit (4/17/35) - 2024/03/17 20:23:06 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #1 is the button
+Seat 1: cynomolgus (1069, 0.22€ bounty)
+Seat 2: P1xel7 (792, 0.22€ bounty)
+Seat 3: Floetcaicha (547, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+Floetcaicha posts ante 4
+cynomolgus posts ante 4
+P1xel7 posts small blind 17
+Floetcaicha posts big blind 35
+Dealt to P1xel7 [4s Ah]
+*** PRE-FLOP *** 
+cynomolgus raises 35 to 70
+P1xel7 calls 53
+Floetcaicha folds
+*** FLOP *** [2d 4h 4c]
+P1xel7 checks
+cynomolgus checks
+*** TURN *** [2d 4h 4c][8c]
+P1xel7 bets 122
+cynomolgus folds
+P1xel7 collected 309 from pot
+*** SUMMARY ***
+Total pot 309 | No rake
+Board: [2d 4h 4c 8c]
+Seat 2: P1xel7 (small blind) won 309
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3250219838437589030-21-1710707011 - Holdem no limit (4/17/35) - 2024/03/17 20:23:31 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #2 is the button
+Seat 1: cynomolgus (995, 0.22€ bounty)
+Seat 2: P1xel7 (905, 0.22€ bounty)
+Seat 3: Floetcaicha (508, 0.44€ bounty)
+*** ANTE/BLINDS ***
+Floetcaicha posts ante 4
+cynomolgus posts ante 4
+P1xel7 posts ante 4
+Floetcaicha posts small blind 17
+cynomolgus posts big blind 35
+Dealt to P1xel7 [Tc 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Floetcaicha calls 18
+cynomolgus checks
+*** FLOP *** [9s Qh 5s]
+Floetcaicha checks
+cynomolgus bets 35
+Floetcaicha raises 152 to 187
+cynomolgus folds
+Floetcaicha collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Board: [9s Qh 5s]
+Seat 3: Floetcaicha (small blind) won 304
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3250219838437589030-22-1710707031 - Holdem no limit (4/17/35) - 2024/03/17 20:23:51 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #3 is the button
+Seat 1: cynomolgus (921, 0.22€ bounty)
+Seat 2: P1xel7 (901, 0.22€ bounty)
+Seat 3: Floetcaicha (586, 0.44€ bounty)
+*** ANTE/BLINDS ***
+cynomolgus posts ante 4
+P1xel7 posts ante 4
+Floetcaicha posts ante 4
+cynomolgus posts small blind 17
+P1xel7 posts big blind 35
+Dealt to P1xel7 [2s 6d]
+*** PRE-FLOP *** 
+Floetcaicha calls 35
+cynomolgus folds
+P1xel7 checks
+*** FLOP *** [Qd Ts 3d]
+P1xel7 checks
+Floetcaicha checks
+*** TURN *** [Qd Ts 3d][5d]
+P1xel7 checks
+Floetcaicha bets 99
+P1xel7 folds
+Floetcaicha collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | No rake
+Board: [Qd Ts 3d 5d]
+Seat 3: Floetcaicha (button) won 198
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3250219838437589030-23-1710707050 - Holdem no limit (4/17/35) - 2024/03/17 20:24:10 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #1 is the button
+Seat 1: cynomolgus (900, 0.22€ bounty)
+Seat 2: P1xel7 (862, 0.22€ bounty)
+Seat 3: Floetcaicha (646, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 4
+Floetcaicha posts ante 4
+cynomolgus posts ante 4
+P1xel7 posts small blind 17
+Floetcaicha posts big blind 35
+Dealt to P1xel7 [5s 6d]
+*** PRE-FLOP *** 
+cynomolgus raises 35 to 70
+P1xel7 folds
+Floetcaicha calls 35
+*** FLOP *** [Qs Jd Js]
+Floetcaicha checks
+cynomolgus bets 59
+Floetcaicha folds
+cynomolgus collected 228 from pot
+*** SUMMARY ***
+Total pot 228 | No rake
+Board: [Qs Jd Js]
+Seat 1: cynomolgus (button) won 228
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3250219838437589030-24-1710707070 - Holdem no limit (4/17/35) - 2024/03/17 20:24:30 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #2 is the button
+Seat 1: cynomolgus (995, 0.22€ bounty)
+Seat 2: P1xel7 (841, 0.22€ bounty)
+Seat 3: Floetcaicha (572, 0.44€ bounty)
+*** ANTE/BLINDS ***
+Floetcaicha posts ante 4
+cynomolgus posts ante 4
+P1xel7 posts ante 4
+Floetcaicha posts small blind 17
+cynomolgus posts big blind 35
+Dealt to P1xel7 [Qh Kh]
+*** PRE-FLOP *** 
+P1xel7 raises 50 to 85
+Floetcaicha calls 68
+cynomolgus folds
+*** FLOP *** [7d Ts Tc]
+Floetcaicha checks
+P1xel7 bets 76
+Floetcaicha calls 76
+*** TURN *** [7d Ts Tc][Ad]
+Floetcaicha checks
+P1xel7 bets 129
+Floetcaicha calls 129
+*** RIVER *** [7d Ts Tc Ad][Ah]
+Floetcaicha bets 278 and is all-in
+P1xel7 folds
+Floetcaicha collected 905 from pot
+*** SUMMARY ***
+Total pot 905 | No rake
+Board: [7d Ts Tc Ad Ah]
+Seat 3: Floetcaicha (small blind) won 905
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3250219838437589030-25-1710707097 - Holdem no limit (4/17/35) - 2024/03/17 20:24:57 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #3 is the button
+Seat 1: cynomolgus (956, 0.22€ bounty)
+Seat 2: P1xel7 (547, 0.22€ bounty)
+Seat 3: Floetcaicha (905, 0.44€ bounty)
+*** ANTE/BLINDS ***
+cynomolgus posts ante 4
+P1xel7 posts ante 4
+Floetcaicha posts ante 4
+cynomolgus posts small blind 17
+P1xel7 posts big blind 35
+Dealt to P1xel7 [5h Ts]
+*** PRE-FLOP *** 
+Floetcaicha calls 35
+cynomolgus raises 87 to 122
+P1xel7 folds
+Floetcaicha folds
+cynomolgus collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | No rake
+Seat 1: cynomolgus (small blind) won 204
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3250219838437589030-26-1710707117 - Holdem no limit (5/20/40) - 2024/03/17 20:25:17 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #1 is the button
+Seat 1: cynomolgus (1034, 0.22€ bounty)
+Seat 2: P1xel7 (508, 0.22€ bounty)
+Seat 3: Floetcaicha (866, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+Floetcaicha posts ante 5
+cynomolgus posts ante 5
+P1xel7 posts small blind 20
+Floetcaicha posts big blind 40
+Dealt to P1xel7 [Qs Qd]
+*** PRE-FLOP *** 
+cynomolgus raises 40 to 80
+P1xel7 raises 423 to 503 and is all-in
+Floetcaicha folds
+cynomolgus folds
+P1xel7 collected 638 from pot
+*** SUMMARY ***
+Total pot 638 | No rake
+Seat 2: P1xel7 (small blind) won 638
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3250219838437589030-27-1710707132 - Holdem no limit (5/20/40) - 2024/03/17 20:25:32 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #2 is the button
+Seat 1: cynomolgus (949, 0.22€ bounty)
+Seat 2: P1xel7 (638, 0.22€ bounty)
+Seat 3: Floetcaicha (821, 0.44€ bounty)
+*** ANTE/BLINDS ***
+Floetcaicha posts ante 5
+cynomolgus posts ante 5
+P1xel7 posts ante 5
+Floetcaicha posts small blind 20
+cynomolgus posts big blind 40
+Dealt to P1xel7 [6d 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Floetcaicha calls 20
+cynomolgus checks
+*** FLOP *** [9c 3s 7c]
+Floetcaicha checks
+cynomolgus checks
+*** TURN *** [9c 3s 7c][Qc]
+Floetcaicha checks
+cynomolgus checks
+*** RIVER *** [9c 3s 7c Qc][Ah]
+Floetcaicha bets 95
+cynomolgus folds
+Floetcaicha collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | No rake
+Board: [9c 3s 7c Qc Ah]
+Seat 3: Floetcaicha (small blind) won 190
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3250219838437589030-28-1710707160 - Holdem no limit (5/20/40) - 2024/03/17 20:26:00 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #3 is the button
+Seat 1: cynomolgus (904, 0.22€ bounty)
+Seat 2: P1xel7 (633, 0.22€ bounty)
+Seat 3: Floetcaicha (871, 0.44€ bounty)
+*** ANTE/BLINDS ***
+cynomolgus posts ante 5
+P1xel7 posts ante 5
+Floetcaicha posts ante 5
+cynomolgus posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Ad 3d]
+*** PRE-FLOP *** 
+Floetcaicha folds
+cynomolgus folds
+P1xel7 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Seat 2: P1xel7 (big blind) won 75
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3250219838437589030-29-1710707166 - Holdem no limit (5/20/40) - 2024/03/17 20:26:06 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #1 is the button
+Seat 1: cynomolgus (879, 0.22€ bounty)
+Seat 2: P1xel7 (663, 0.22€ bounty)
+Seat 3: Floetcaicha (866, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+Floetcaicha posts ante 5
+cynomolgus posts ante 5
+P1xel7 posts small blind 20
+Floetcaicha posts big blind 40
+Dealt to P1xel7 [7s 6d]
+*** PRE-FLOP *** 
+cynomolgus folds
+P1xel7 raises 60 to 100
+Floetcaicha calls 60
+*** FLOP *** [5d Qd 8d]
+P1xel7 bets 75
+Floetcaicha calls 75
+*** TURN *** [5d Qd 8d][2d]
+P1xel7 bets 183
+Floetcaicha folds
+P1xel7 collected 548 from pot
+*** SUMMARY ***
+Total pot 548 | No rake
+Board: [5d Qd 8d 2d]
+Seat 2: P1xel7 (small blind) won 548
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3250219838437589030-30-1710707197 - Holdem no limit (5/20/40) - 2024/03/17 20:26:37 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #2 is the button
+Seat 1: cynomolgus (874, 0.22€ bounty)
+Seat 2: P1xel7 (848, 0.22€ bounty)
+Seat 3: Floetcaicha (686, 0.44€ bounty)
+*** ANTE/BLINDS ***
+Floetcaicha posts ante 5
+cynomolgus posts ante 5
+P1xel7 posts ante 5
+Floetcaicha posts small blind 20
+cynomolgus posts big blind 40
+Dealt to P1xel7 [Ad 7h]
+*** PRE-FLOP *** 
+P1xel7 raises 40 to 80
+Floetcaicha calls 60
+cynomolgus raises 789 to 869 and is all-in
+P1xel7 folds
+Floetcaicha folds
+cynomolgus collected 1044 from pot
+*** SUMMARY ***
+Total pot 1044 | No rake
+Seat 1: cynomolgus (big blind) won 1044
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3250219838437589030-31-1710707213 - Holdem no limit (5/20/40) - 2024/03/17 20:26:53 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #3 is the button
+Seat 1: cynomolgus (1044, 0.22€ bounty)
+Seat 2: P1xel7 (763, 0.22€ bounty)
+Seat 3: Floetcaicha (601, 0.44€ bounty)
+*** ANTE/BLINDS ***
+cynomolgus posts ante 5
+P1xel7 posts ante 5
+Floetcaicha posts ante 5
+cynomolgus posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [4s Kh]
+*** PRE-FLOP *** 
+Floetcaicha calls 40
+cynomolgus folds
+P1xel7 checks
+*** FLOP *** [Td 5d 7h]
+P1xel7 checks
+Floetcaicha checks
+*** TURN *** [Td 5d 7h][9h]
+P1xel7 checks
+Floetcaicha bets 115
+P1xel7 folds
+Floetcaicha collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | No rake
+Board: [Td 5d 7h 9h]
+Seat 3: Floetcaicha (button) won 230
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3250219838437589030-32-1710707232 - Holdem no limit (5/20/40) - 2024/03/17 20:27:12 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #1 is the button
+Seat 1: cynomolgus (1019, 0.22€ bounty)
+Seat 2: P1xel7 (718, 0.22€ bounty)
+Seat 3: Floetcaicha (671, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 5
+Floetcaicha posts ante 5
+cynomolgus posts ante 5
+P1xel7 posts small blind 20
+Floetcaicha posts big blind 40
+Dealt to P1xel7 [7c 4h]
+*** PRE-FLOP *** 
+cynomolgus raises 40 to 80
+P1xel7 folds
+Floetcaicha calls 40
+*** FLOP *** [Kc 3h 7d]
+Floetcaicha checks
+cynomolgus bets 68
+Floetcaicha calls 68
+*** TURN *** [Kc 3h 7d][Kd]
+Floetcaicha checks
+cynomolgus checks
+*** RIVER *** [Kc 3h 7d Kd][Ks]
+Floetcaicha bets 331
+cynomolgus raises 331 to 662
+Floetcaicha folds
+cynomolgus collected 1324 from pot
+*** SUMMARY ***
+Total pot 1324 | No rake
+Board: [Kc 3h 7d Kd Ks]
+Seat 1: cynomolgus (button) won 1324
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3250219838437589030-33-1710707268 - Holdem no limit (6/25/50) - 2024/03/17 20:27:48 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #2 is the button
+Seat 1: cynomolgus (1528, 0.22€ bounty)
+Seat 2: P1xel7 (693, 0.22€ bounty)
+Seat 3: Floetcaicha (187, 0.44€ bounty)
+*** ANTE/BLINDS ***
+Floetcaicha posts ante 6
+cynomolgus posts ante 6
+P1xel7 posts ante 6
+Floetcaicha posts small blind 25
+cynomolgus posts big blind 50
+Dealt to P1xel7 [Jc 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Floetcaicha calls 25
+cynomolgus checks
+*** FLOP *** [8d As 6h]
+Floetcaicha checks
+cynomolgus bets 50
+Floetcaicha folds
+cynomolgus collected 168 from pot
+*** SUMMARY ***
+Total pot 168 | No rake
+Board: [8d As 6h]
+Seat 1: cynomolgus (big blind) won 168
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3250219838437589030-34-1710707298 - Holdem no limit (6/25/50) - 2024/03/17 20:28:18 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #3 is the button
+Seat 1: cynomolgus (1590, 0.22€ bounty)
+Seat 2: P1xel7 (687, 0.22€ bounty)
+Seat 3: Floetcaicha (131, 0.44€ bounty)
+*** ANTE/BLINDS ***
+cynomolgus posts ante 6
+P1xel7 posts ante 6
+Floetcaicha posts ante 6
+cynomolgus posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [7h 3s]
+*** PRE-FLOP *** 
+Floetcaicha calls 50
+cynomolgus raises 1534 to 1584 and is all-in
+P1xel7 folds
+Floetcaicha calls 75 and is all-in
+*** FLOP *** [Jh 3d 8d]
+*** TURN *** [Jh 3d 8d][6d]
+*** RIVER *** [Jh 3d 8d 6d][9h]
+*** SHOW DOWN ***
+cynomolgus shows [Qh Kc] (High card : King)
+Floetcaicha shows [Tc 6h] (One pair : 6)
+Floetcaicha collected 318 from main pot
+cynomolgus collected 1459 from side pot 1
+*** SUMMARY ***
+Total pot 1777 | No rake
+Board: [Jh 3d 8d 6d 9h]
+Seat 1: cynomolgus (small blind) showed [Qh Kc] and won 1459 with High card : King
+Seat 3: Floetcaicha (button) showed [Tc 6h] and won 318 with One pair : 6
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3250219838437589030-35-1710707323 - Holdem no limit (6/25/50) - 2024/03/17 20:28:43 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #1 is the button
+Seat 1: cynomolgus (1459, 0.22€ bounty)
+Seat 2: P1xel7 (631, 0.22€ bounty)
+Seat 3: Floetcaicha (318, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+Floetcaicha posts ante 6
+cynomolgus posts ante 6
+P1xel7 posts small blind 25
+Floetcaicha posts big blind 50
+Dealt to P1xel7 [8s 7h]
+*** PRE-FLOP *** 
+cynomolgus raises 50 to 100
+P1xel7 folds
+Floetcaicha calls 50
+*** FLOP *** [4c 6s 6d]
+Floetcaicha checks
+cynomolgus bets 243
+Floetcaicha calls 212 and is all-in
+*** TURN *** [4c 6s 6d][5s]
+*** RIVER *** [4c 6s 6d 5s][6c]
+*** SHOW DOWN ***
+cynomolgus shows [Th Ks] (Trips of 6)
+Floetcaicha shows [3c 5c] (Full of 6 and 5)
+Floetcaicha collected 667 from main pot
+cynomolgus collected 31 from side pot 1
+*** SUMMARY ***
+Total pot 698 | No rake
+Board: [4c 6s 6d 5s 6c]
+Seat 1: cynomolgus (button) showed [Th Ks] and won 31 with Trips of 6
+Seat 3: Floetcaicha (big blind) showed [3c 5c] and won 667 with Full of 6 and 5
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3250219838437589030-36-1710707347 - Holdem no limit (6/25/50) - 2024/03/17 20:29:07 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #2 is the button
+Seat 1: cynomolgus (1141, 0.22€ bounty)
+Seat 2: P1xel7 (600, 0.22€ bounty)
+Seat 3: Floetcaicha (667, 0.44€ bounty)
+*** ANTE/BLINDS ***
+Floetcaicha posts ante 6
+cynomolgus posts ante 6
+P1xel7 posts ante 6
+Floetcaicha posts small blind 25
+cynomolgus posts big blind 50
+Dealt to P1xel7 [5s Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 544 to 594 and is all-in
+Floetcaicha folds
+cynomolgus folds
+P1xel7 collected 687 from pot
+*** SUMMARY ***
+Total pot 687 | No rake
+Seat 2: P1xel7 (button) won 687
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3250219838437589030-37-1710707360 - Holdem no limit (6/25/50) - 2024/03/17 20:29:20 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #3 is the button
+Seat 1: cynomolgus (1085, 0.22€ bounty)
+Seat 2: P1xel7 (687, 0.22€ bounty)
+Seat 3: Floetcaicha (636, 0.44€ bounty)
+*** ANTE/BLINDS ***
+cynomolgus posts ante 6
+P1xel7 posts ante 6
+Floetcaicha posts ante 6
+cynomolgus posts small blind 25
+P1xel7 posts big blind 50
+Dealt to P1xel7 [7h Qc]
+*** PRE-FLOP *** 
+Floetcaicha calls 50
+cynomolgus folds
+P1xel7 checks
+*** FLOP *** [Jd 8h 6d]
+P1xel7 checks
+Floetcaicha checks
+*** TURN *** [Jd 8h 6d][9h]
+P1xel7 bets 75
+Floetcaicha calls 75
+*** RIVER *** [Jd 8h 6d 9h][Ad]
+P1xel7 bets 225
+Floetcaicha calls 225
+*** SHOW DOWN ***
+P1xel7 shows [7h Qc] (High card : Ace)
+Floetcaicha shows [8d Ts] (One pair : 8)
+Floetcaicha collected 743 from pot
+*** SUMMARY ***
+Total pot 743 | No rake
+Board: [Jd 8h 6d 9h Ad]
+Seat 2: P1xel7 (big blind) showed [7h Qc] and lost with High card : Ace
+Seat 3: Floetcaicha (button) showed [8d Ts] and won 743 with One pair : 8
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3250219838437589030-38-1710707388 - Holdem no limit (6/25/50) - 2024/03/17 20:29:48 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #1 is the button
+Seat 1: cynomolgus (1054, 0.22€ bounty)
+Seat 2: P1xel7 (331, 0.22€ bounty)
+Seat 3: Floetcaicha (1023, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 6
+Floetcaicha posts ante 6
+cynomolgus posts ante 6
+P1xel7 posts small blind 25
+Floetcaicha posts big blind 50
+Dealt to P1xel7 [Jd 9s]
+*** PRE-FLOP *** 
+cynomolgus folds
+P1xel7 folds
+Floetcaicha collected 93 from pot
+*** SUMMARY ***
+Total pot 93 | No rake
+Seat 3: Floetcaicha (big blind) won 93
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3250219838437589030-39-1710707399 - Holdem no limit (6/25/50) - 2024/03/17 20:29:59 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #2 is the button
+Seat 1: cynomolgus (1048, 0.22€ bounty)
+Seat 2: P1xel7 (300, 0.22€ bounty)
+Seat 3: Floetcaicha (1060, 0.44€ bounty)
+*** ANTE/BLINDS ***
+Floetcaicha posts ante 6
+cynomolgus posts ante 6
+P1xel7 posts ante 6
+Floetcaicha posts small blind 25
+cynomolgus posts big blind 50
+Dealt to P1xel7 [5d 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Floetcaicha calls 25
+cynomolgus checks
+*** FLOP *** [3c Qs As]
+Floetcaicha bets 118
+cynomolgus folds
+Floetcaicha collected 236 from pot
+*** SUMMARY ***
+Total pot 236 | No rake
+Board: [3c Qs As]
+Seat 3: Floetcaicha (small blind) won 236
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3250219838437589030-40-1710707427 - Holdem no limit (7/30/60) - 2024/03/17 20:30:27 UTC
+Table: 'Trident(756750777)#0037' 3-max (real money) Seat #3 is the button
+Seat 1: cynomolgus (992, 0.22€ bounty)
+Seat 2: P1xel7 (294, 0.22€ bounty)
+Seat 3: Floetcaicha (1122, 0.44€ bounty)
+*** ANTE/BLINDS ***
+cynomolgus posts ante 7
+P1xel7 posts ante 7
+Floetcaicha posts ante 7
+cynomolgus posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Jh Js]
+*** PRE-FLOP *** 
+Floetcaicha calls 60
+cynomolgus calls 30
+P1xel7 raises 227 to 287 and is all-in
+Floetcaicha calls 227
+cynomolgus raises 698 to 985 and is all-in
+Floetcaicha calls 698
+*** FLOP *** [8h 5s 4c]
+*** TURN *** [8h 5s 4c][6d]
+*** RIVER *** [8h 5s 4c 6d][Ks]
+*** SHOW DOWN ***
+cynomolgus shows [4s As] (One pair : 4)
+P1xel7 shows [Jh Js] (One pair : Jacks)
+Floetcaicha shows [Kh Ts] (One pair : Kings)
+Floetcaicha collected 2278 from pot
+*** SUMMARY ***
+Total pot 2278 | No rake
+Board: [8h 5s 4c 6d Ks]
+Seat 1: cynomolgus (small blind) showed [4s As] and lost with One pair : 4
+Seat 2: P1xel7 (big blind) showed [Jh Js] and lost with One pair : Jacks
+Seat 3: Floetcaicha (button) showed [Kh Ts] and won 2278 with One pair : Kings
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3250219838437589020-56-1710707476 - Holdem no limit (7/30/60) - 2024/03/17 20:31:16 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: MayThe4thBWM (1331, 0.22€ bounty)
+Seat 2: P1xel7 (500, 0.22€ bounty)
+Seat 3: wmx-h78wb2q (704, 0.22€ bounty)
+*** ANTE/BLINDS ***
+MayThe4thBWM posts ante 7
+P1xel7 posts ante 7
+wmx-h78wb2q posts ante 7
+MayThe4thBWM posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Jc 8d]
+*** PRE-FLOP *** 
+wmx-h78wb2q folds
+MayThe4thBWM folds
+P1xel7 collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | No rake
+Seat 2: P1xel7 (big blind) won 111
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3250219838437589020-57-1710707486 - Holdem no limit (7/30/60) - 2024/03/17 20:31:26 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: MayThe4thBWM (1294, 0.22€ bounty)
+Seat 2: P1xel7 (544, 0.22€ bounty)
+Seat 3: wmx-h78wb2q (697, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+wmx-h78wb2q posts ante 7
+MayThe4thBWM posts ante 7
+P1xel7 posts small blind 30
+wmx-h78wb2q posts big blind 60
+Dealt to P1xel7 [As 5s]
+*** PRE-FLOP *** 
+MayThe4thBWM folds
+P1xel7 raises 477 to 537 and is all-in
+wmx-h78wb2q folds
+P1xel7 collected 618 from pot
+*** SUMMARY ***
+Total pot 618 | No rake
+Seat 2: P1xel7 (small blind) won 618
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3250219838437589020-58-1710707500 - Holdem no limit (7/30/60) - 2024/03/17 20:31:40 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: MayThe4thBWM (1287, 0.22€ bounty)
+Seat 2: P1xel7 (618, 0.22€ bounty)
+Seat 3: wmx-h78wb2q (630, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 7
+MayThe4thBWM posts ante 7
+P1xel7 posts ante 7
+wmx-h78wb2q posts small blind 30
+MayThe4thBWM posts big blind 60
+Dealt to P1xel7 [Th 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-h78wb2q raises 563 to 623 and is all-in
+MayThe4thBWM folds
+wmx-h78wb2q collected 704 from pot
+*** SUMMARY ***
+Total pot 704 | No rake
+Seat 3: wmx-h78wb2q (small blind) won 704
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3250219838437589020-59-1710707516 - Holdem no limit (7/30/60) - 2024/03/17 20:31:56 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: MayThe4thBWM (1220, 0.22€ bounty)
+Seat 2: P1xel7 (611, 0.22€ bounty)
+Seat 3: wmx-h78wb2q (704, 0.22€ bounty)
+*** ANTE/BLINDS ***
+MayThe4thBWM posts ante 7
+P1xel7 posts ante 7
+wmx-h78wb2q posts ante 7
+MayThe4thBWM posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Jc 6s]
+*** PRE-FLOP *** 
+wmx-h78wb2q folds
+MayThe4thBWM folds
+P1xel7 collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | No rake
+Seat 2: P1xel7 (big blind) won 111
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3250219838437589020-60-1710707534 - Holdem no limit (7/30/60) - 2024/03/17 20:32:14 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: MayThe4thBWM (1183, 0.22€ bounty)
+Seat 2: P1xel7 (655, 0.22€ bounty)
+Seat 3: wmx-h78wb2q (697, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 7
+wmx-h78wb2q posts ante 7
+MayThe4thBWM posts ante 7
+P1xel7 posts small blind 30
+wmx-h78wb2q posts big blind 60
+Dealt to P1xel7 [8c Kc]
+*** PRE-FLOP *** 
+MayThe4thBWM folds
+P1xel7 raises 60 to 120
+wmx-h78wb2q raises 570 to 690 and is all-in
+P1xel7 calls 528 and is all-in
+*** FLOP *** [Jc 5c 2d]
+*** TURN *** [Jc 5c 2d][9h]
+*** RIVER *** [Jc 5c 2d 9h][Ac]
+*** SHOW DOWN ***
+P1xel7 shows [8c Kc] (Flush Ace high)
+wmx-h78wb2q shows [Qh Jh] (One pair : Jacks)
+wmx-h78wb2q collected 42 from side pot 1
+P1xel7 collected 1317 from main pot
+*** SUMMARY ***
+Total pot 1359 | No rake
+Board: [Jc 5c 2d 9h Ac]
+Seat 2: P1xel7 (small blind) showed [8c Kc] and won 1317 with Flush Ace high
+Seat 3: wmx-h78wb2q (big blind) showed [Qh Jh] and won 42 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3250219838437589020-61-1710707554 - Holdem no limit (8/35/70) - 2024/03/17 20:32:34 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: MayThe4thBWM (1176, 0.22€ bounty)
+Seat 2: P1xel7 (1317, 0.22€ bounty)
+Seat 3: wmx-h78wb2q (42, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 8
+MayThe4thBWM posts ante 8
+P1xel7 posts ante 8
+wmx-h78wb2q posts small blind 34 and is all-in
+MayThe4thBWM posts big blind 70
+Dealt to P1xel7 [Kd 7h]
+*** PRE-FLOP *** 
+P1xel7 raises 1239 to 1309 and is all-in
+MayThe4thBWM folds
+*** FLOP *** [2c 4h 4c]
+*** TURN *** [2c 4h 4c][As]
+*** RIVER *** [2c 4h 4c As][6s]
+*** SHOW DOWN ***
+P1xel7 shows [Kd 7h] (One pair : 4)
+wmx-h78wb2q shows [Qc 6c] (Two pairs : 6 and 4)
+wmx-h78wb2q collected 126 from main pot
+P1xel7 collected 1311 from side pot 1
+*** SUMMARY ***
+Total pot 1437 | No rake
+Board: [2c 4h 4c As 6s]
+Seat 2: P1xel7 (button) showed [Kd 7h] and won 1311 with One pair : 4
+Seat 3: wmx-h78wb2q (small blind) showed [Qc 6c] and won 126 with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3250219838437589020-62-1710707584 - Holdem no limit (8/35/70) - 2024/03/17 20:33:04 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: MayThe4thBWM (1098, 0.22€ bounty)
+Seat 2: P1xel7 (1311, 0.22€ bounty)
+Seat 3: wmx-h78wb2q (126, 0.22€ bounty)
+*** ANTE/BLINDS ***
+MayThe4thBWM posts ante 8
+P1xel7 posts ante 8
+wmx-h78wb2q posts ante 8
+MayThe4thBWM posts small blind 35
+P1xel7 posts big blind 70
+Dealt to P1xel7 [Ad 2c]
+*** PRE-FLOP *** 
+wmx-h78wb2q folds
+MayThe4thBWM folds
+P1xel7 collected 129 from pot
+*** SUMMARY ***
+Total pot 129 | No rake
+Seat 2: P1xel7 (big blind) won 129
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3250219838437589020-63-1710707602 - Holdem no limit (8/35/70) - 2024/03/17 20:33:22 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: MayThe4thBWM (1055, 0.22€ bounty)
+Seat 2: P1xel7 (1362, 0.22€ bounty)
+Seat 3: wmx-h78wb2q (118, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 8
+wmx-h78wb2q posts ante 8
+MayThe4thBWM posts ante 8
+P1xel7 posts small blind 35
+wmx-h78wb2q posts big blind 70
+Dealt to P1xel7 [Ks Ts]
+*** PRE-FLOP *** 
+MayThe4thBWM raises 977 to 1047 and is all-in
+P1xel7 calls 1012
+wmx-h78wb2q calls 40 and is all-in
+*** FLOP *** [6s 7h 2h]
+*** TURN *** [6s 7h 2h][7s]
+*** RIVER *** [6s 7h 2h 7s][Kh]
+*** SHOW DOWN ***
+MayThe4thBWM shows [4c 4s] (Two pairs : 7 and 4)
+P1xel7 shows [Ks Ts] (Two pairs : Kings and 7)
+wmx-h78wb2q shows [Th Jh] (Flush King high)
+wmx-h78wb2q collected 354 from main pot
+P1xel7 collected 1874 from side pot 1
+*** SUMMARY ***
+Total pot 2228 | No rake
+Board: [6s 7h 2h 7s Kh]
+Seat 1: MayThe4thBWM (button) showed [4c 4s] and lost with Two pairs : 7 and 4
+Seat 2: P1xel7 (small blind) showed [Ks Ts] and won 1874 with Two pairs : Kings and 7
+Seat 3: wmx-h78wb2q (big blind) showed [Th Jh] and won 354 with Flush King high
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3250219838437589020-64-1710707635 - Holdem no limit (8/35/70) - 2024/03/17 20:33:55 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (2181, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (354, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 8
+P1xel7 posts ante 8
+wmx-h78wb2q posts small blind 35
+P1xel7 posts big blind 70
+Dealt to P1xel7 [Jc 4s]
+*** PRE-FLOP *** 
+wmx-h78wb2q folds
+P1xel7 collected 121 from pot
+*** SUMMARY ***
+Total pot 121 | No rake
+Seat 2: P1xel7 (big blind) won 121
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3250219838437589020-65-1710707643 - Holdem no limit (8/35/70) - 2024/03/17 20:34:03 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (2224, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (311, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 8
+wmx-h78wb2q posts ante 8
+P1xel7 posts small blind 35
+wmx-h78wb2q posts big blind 70
+Dealt to P1xel7 [6d 7s]
+*** PRE-FLOP *** 
+P1xel7 raises 2146 to 2216 and is all-in
+wmx-h78wb2q calls 233 and is all-in
+*** FLOP *** [Kc Th 8s]
+*** TURN *** [Kc Th 8s][7c]
+*** RIVER *** [Kc Th 8s 7c][3h]
+*** SHOW DOWN ***
+P1xel7 shows [6d 7s] (One pair : 7)
+wmx-h78wb2q shows [8d 7h] (Two pairs : 8 and 7)
+wmx-h78wb2q collected 622 from main pot
+P1xel7 collected 1913 from side pot 1
+*** SUMMARY ***
+Total pot 2535 | No rake
+Board: [Kc Th 8s 7c 3h]
+Seat 2: P1xel7 (small blind) (button) showed [6d 7s] and won 1913 with One pair : 7
+Seat 3: wmx-h78wb2q (big blind) showed [8d 7h] and won 622 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3250219838437589020-66-1710707661 - Holdem no limit (8/35/70) - 2024/03/17 20:34:21 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 2: P1xel7 (1913, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (622, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 8
+P1xel7 posts ante 8
+wmx-h78wb2q posts small blind 35
+P1xel7 posts big blind 70
+Dealt to P1xel7 [2s 7c]
+*** PRE-FLOP *** 
+wmx-h78wb2q folds
+P1xel7 collected 121 from pot
+*** SUMMARY ***
+Total pot 121 | No rake
+Seat 2: P1xel7 (big blind) won 121
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3250219838437589020-67-1710707666 - Holdem no limit (8/35/70) - 2024/03/17 20:34:26 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 2: P1xel7 (1956, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (579, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 8
+wmx-h78wb2q posts ante 8
+P1xel7 posts small blind 35
+wmx-h78wb2q posts big blind 70
+Dealt to P1xel7 [9d Kc]
+*** PRE-FLOP *** 
+P1xel7 raises 1878 to 1948 and is all-in
+wmx-h78wb2q folds
+P1xel7 collected 2034 from pot
+*** SUMMARY ***
+Total pot 2034 | No rake
+Seat 2: P1xel7 (small blind) (button) won 2034
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3250219838437589020-68-1710707673 - Holdem no limit (8/35/70) - 2024/03/17 20:34:33 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: FunnyDog (965, 0.22€ bounty)
+Seat 2: P1xel7 (2034, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (501, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 8
+FunnyDog posts ante 8
+P1xel7 posts ante 8
+wmx-h78wb2q posts small blind 35
+FunnyDog posts big blind 70
+Dealt to P1xel7 [7h Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-h78wb2q folds
+FunnyDog collected 129 from pot
+*** SUMMARY ***
+Total pot 129 | No rake
+Seat 1: FunnyDog (big blind) won 129
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3250219838437589020-69-1710707679 - Holdem no limit (8/35/70) - 2024/03/17 20:34:39 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: FunnyDog (1016, 0.22€ bounty)
+Seat 2: P1xel7 (2026, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (458, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 8
+P1xel7 posts ante 8
+wmx-h78wb2q posts ante 8
+FunnyDog posts small blind 35
+P1xel7 posts big blind 70
+Dealt to P1xel7 [4d 5s]
+*** PRE-FLOP *** 
+wmx-h78wb2q folds
+FunnyDog folds
+P1xel7 collected 129 from pot
+*** SUMMARY ***
+Total pot 129 | No rake
+Seat 2: P1xel7 (big blind) won 129
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3250219838437589020-70-1710707688 - Holdem no limit (8/35/70) - 2024/03/17 20:34:48 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: FunnyDog (973, 0.22€ bounty)
+Seat 2: P1xel7 (2077, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (450, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 8
+wmx-h78wb2q posts ante 8
+FunnyDog posts ante 8
+P1xel7 posts small blind 35
+wmx-h78wb2q posts big blind 70
+Dealt to P1xel7 [5d 6s]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 140 to 210
+wmx-h78wb2q folds
+P1xel7 collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | No rake
+Seat 2: P1xel7 (small blind) won 304
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3250219838437589020-71-1710707706 - Holdem no limit (10/40/80) - 2024/03/17 20:35:06 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: FunnyDog (965, 0.22€ bounty)
+Seat 2: P1xel7 (2163, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (372, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 10
+FunnyDog posts ante 10
+P1xel7 posts ante 10
+wmx-h78wb2q posts small blind 40
+FunnyDog posts big blind 80
+Dealt to P1xel7 [Qd 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-h78wb2q raises 282 to 362 and is all-in
+FunnyDog folds
+wmx-h78wb2q collected 472 from pot
+*** SUMMARY ***
+Total pot 472 | No rake
+Seat 3: wmx-h78wb2q (small blind) won 472
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3250219838437589020-72-1710707724 - Holdem no limit (10/40/80) - 2024/03/17 20:35:24 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: FunnyDog (875, 0.22€ bounty)
+Seat 2: P1xel7 (2153, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (472, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 10
+P1xel7 posts ante 10
+wmx-h78wb2q posts ante 10
+FunnyDog posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Qd 8d]
+*** PRE-FLOP *** 
+wmx-h78wb2q folds
+FunnyDog raises 785 to 865 and is all-in
+P1xel7 folds
+FunnyDog collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | No rake
+Seat 1: FunnyDog (small blind) won 975
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3250219838437589020-73-1710707741 - Holdem no limit (10/40/80) - 2024/03/17 20:35:41 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: FunnyDog (975, 0.22€ bounty)
+Seat 2: P1xel7 (2063, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (462, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+wmx-h78wb2q posts ante 10
+FunnyDog posts ante 10
+P1xel7 posts small blind 40
+wmx-h78wb2q posts big blind 80
+Dealt to P1xel7 [3c Qs]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 1973 to 2053 and is all-in
+wmx-h78wb2q calls 372 and is all-in
+*** FLOP *** [Ah Td 2c]
+*** TURN *** [Ah Td 2c][Tc]
+*** RIVER *** [Ah Td 2c Tc][Kd]
+*** SHOW DOWN ***
+P1xel7 shows [3c Qs] (One pair : Tens)
+wmx-h78wb2q shows [4h Qh] (One pair : Tens)
+wmx-h78wb2q collected 467 from main pot
+P1xel7 collected 2068 from side pot 1
+*** SUMMARY ***
+Total pot 2535 | No rake
+Board: [Ah Td 2c Tc Kd]
+Seat 2: P1xel7 (small blind) showed [3c Qs] and won 2068 with One pair : Tens
+Seat 3: wmx-h78wb2q (big blind) showed [4h Qh] and won 467 with One pair : Tens
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3250219838437589020-74-1710707761 - Holdem no limit (10/40/80) - 2024/03/17 20:36:01 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: FunnyDog (965, 0.22€ bounty)
+Seat 2: P1xel7 (2068, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (467, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 10
+FunnyDog posts ante 10
+P1xel7 posts ante 10
+wmx-h78wb2q posts small blind 40
+FunnyDog posts big blind 80
+Dealt to P1xel7 [6c 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-h78wb2q folds
+FunnyDog collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 1: FunnyDog (big blind) won 150
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3250219838437589020-75-1710707771 - Holdem no limit (10/40/80) - 2024/03/17 20:36:11 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: FunnyDog (1025, 0.22€ bounty)
+Seat 2: P1xel7 (2058, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (417, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 10
+P1xel7 posts ante 10
+wmx-h78wb2q posts ante 10
+FunnyDog posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [2s 8c]
+*** PRE-FLOP *** 
+wmx-h78wb2q raises 327 to 407 and is all-in
+FunnyDog folds
+P1xel7 calls 327
+*** FLOP *** [6d 5s Kc]
+*** TURN *** [6d 5s Kc][7d]
+*** RIVER *** [6d 5s Kc 7d][Ah]
+*** SHOW DOWN ***
+P1xel7 shows [2s 8c] (High card : Ace)
+wmx-h78wb2q shows [Jd Qs] (High card : Ace)
+wmx-h78wb2q collected 884 from pot
+*** SUMMARY ***
+Total pot 884 | No rake
+Board: [6d 5s Kc 7d Ah]
+Seat 2: P1xel7 (big blind) showed [2s 8c] and lost with High card : Ace
+Seat 3: wmx-h78wb2q (button) showed [Jd Qs] and won 884 with High card : Ace
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3250219838437589020-76-1710707793 - Holdem no limit (10/40/80) - 2024/03/17 20:36:33 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: FunnyDog (975, 0.22€ bounty)
+Seat 2: P1xel7 (1641, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (884, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+wmx-h78wb2q posts ante 10
+FunnyDog posts ante 10
+P1xel7 posts small blind 40
+wmx-h78wb2q posts big blind 80
+Dealt to P1xel7 [2c 4s]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 folds
+wmx-h78wb2q collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 3: wmx-h78wb2q (big blind) won 150
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3250219838437589020-77-1710707802 - Holdem no limit (10/40/80) - 2024/03/17 20:36:42 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: FunnyDog (965, 0.22€ bounty)
+Seat 2: P1xel7 (1591, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (944, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 10
+FunnyDog posts ante 10
+P1xel7 posts ante 10
+wmx-h78wb2q posts small blind 40
+FunnyDog posts big blind 80
+Dealt to P1xel7 [Js 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-h78wb2q raises 854 to 934 and is all-in
+FunnyDog folds
+wmx-h78wb2q collected 1044 from pot
+*** SUMMARY ***
+Total pot 1044 | No rake
+Seat 3: wmx-h78wb2q (small blind) won 1044
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3250219838437589020-78-1710707826 - Holdem no limit (10/40/80) - 2024/03/17 20:37:06 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: FunnyDog (875, 0.22€ bounty)
+Seat 2: P1xel7 (1581, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (1044, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 10
+P1xel7 posts ante 10
+wmx-h78wb2q posts ante 10
+FunnyDog posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [4c Ts]
+*** PRE-FLOP *** 
+wmx-h78wb2q raises 954 to 1034 and is all-in
+FunnyDog folds
+P1xel7 folds
+wmx-h78wb2q collected 1184 from pot
+*** SUMMARY ***
+Total pot 1184 | No rake
+Seat 3: wmx-h78wb2q (button) won 1184
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3250219838437589020-79-1710707843 - Holdem no limit (10/40/80) - 2024/03/17 20:37:23 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: FunnyDog (825, 0.22€ bounty)
+Seat 2: P1xel7 (1491, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (1184, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 10
+wmx-h78wb2q posts ante 10
+FunnyDog posts ante 10
+P1xel7 posts small blind 40
+wmx-h78wb2q posts big blind 80
+Dealt to P1xel7 [Th 9c]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 80 to 160
+wmx-h78wb2q calls 80
+*** FLOP *** [6c 4d Jc]
+P1xel7 bets 160
+wmx-h78wb2q folds
+P1xel7 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Board: [6c 4d Jc]
+Seat 2: P1xel7 (small blind) won 510
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3250219838437589020-80-1710707866 - Holdem no limit (12/50/100) - 2024/03/17 20:37:46 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: FunnyDog (815, 0.22€ bounty)
+Seat 2: P1xel7 (1671, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (1014, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 12
+FunnyDog posts ante 12
+P1xel7 posts ante 12
+wmx-h78wb2q posts small blind 50
+FunnyDog posts big blind 100
+Dealt to P1xel7 [Js 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-h78wb2q calls 50
+FunnyDog checks
+*** FLOP *** [Td Qs 9d]
+wmx-h78wb2q checks
+FunnyDog checks
+*** TURN *** [Td Qs 9d][Jd]
+wmx-h78wb2q bets 902 and is all-in
+FunnyDog folds
+wmx-h78wb2q collected 1138 from pot
+*** SUMMARY ***
+Total pot 1138 | No rake
+Board: [Td Qs 9d Jd]
+Seat 3: wmx-h78wb2q (small blind) won 1138
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3250219838437589020-81-1710707918 - Holdem no limit (12/50/100) - 2024/03/17 20:38:38 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: FunnyDog (703, 0.22€ bounty)
+Seat 2: P1xel7 (1659, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (1138, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 12
+P1xel7 posts ante 12
+wmx-h78wb2q posts ante 12
+FunnyDog posts small blind 50
+P1xel7 posts big blind 100
+Dealt to P1xel7 [3h 4c]
+*** PRE-FLOP *** 
+wmx-h78wb2q folds
+FunnyDog raises 591 to 691 and is all-in
+P1xel7 folds
+FunnyDog collected 827 from pot
+*** SUMMARY ***
+Total pot 827 | No rake
+Seat 1: FunnyDog (small blind) won 827
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3250219838437589020-82-1710707931 - Holdem no limit (12/50/100) - 2024/03/17 20:38:51 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: FunnyDog (827, 0.22€ bounty)
+Seat 2: P1xel7 (1547, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (1126, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 12
+wmx-h78wb2q posts ante 12
+FunnyDog posts ante 12
+P1xel7 posts small blind 50
+wmx-h78wb2q posts big blind 100
+Dealt to P1xel7 [Kd 9c]
+*** PRE-FLOP *** 
+FunnyDog raises 715 to 815 and is all-in
+P1xel7 calls 765
+wmx-h78wb2q folds
+*** FLOP *** [7h 6h Kc]
+*** TURN *** [7h 6h Kc][Th]
+*** RIVER *** [7h 6h Kc Th][9d]
+*** SHOW DOWN ***
+P1xel7 shows [Kd 9c] (Two pairs : Kings and 9)
+FunnyDog shows [Kh Jh] (Flush King high)
+FunnyDog collected 1766 from pot
+*** SUMMARY ***
+Total pot 1766 | No rake
+Board: [7h 6h Kc Th 9d]
+Seat 1: FunnyDog (button) showed [Kh Jh] and won 1766 with Flush King high
+Seat 2: P1xel7 (small blind) showed [Kd 9c] and lost with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3250219838437589020-83-1710707960 - Holdem no limit (12/50/100) - 2024/03/17 20:39:20 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: FunnyDog (1766, 0.22€ bounty)
+Seat 2: P1xel7 (720, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (1014, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 12
+FunnyDog posts ante 12
+P1xel7 posts ante 12
+wmx-h78wb2q posts small blind 50
+FunnyDog posts big blind 100
+Dealt to P1xel7 [5c Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 608 to 708 and is all-in
+wmx-h78wb2q folds
+FunnyDog calls 608
+*** FLOP *** [8s 2s 3s]
+*** TURN *** [8s 2s 3s][Kc]
+*** RIVER *** [8s 2s 3s Kc][4h]
+*** SHOW DOWN ***
+FunnyDog shows [Ac 2c] (One pair : 2)
+P1xel7 shows [5c Ah] (Straight 5 high)
+P1xel7 collected 1502 from pot
+*** SUMMARY ***
+Total pot 1502 | No rake
+Board: [8s 2s 3s Kc 4h]
+Seat 1: FunnyDog (big blind) showed [Ac 2c] and lost with One pair : 2
+Seat 2: P1xel7 (button) showed [5c Ah] and won 1502 with Straight 5 high
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3250219838437589020-84-1710707976 - Holdem no limit (12/50/100) - 2024/03/17 20:39:36 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: FunnyDog (1046, 0.22€ bounty)
+Seat 2: P1xel7 (1502, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (952, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 12
+P1xel7 posts ante 12
+wmx-h78wb2q posts ante 12
+FunnyDog posts small blind 50
+P1xel7 posts big blind 100
+Dealt to P1xel7 [7h Td]
+*** PRE-FLOP *** 
+wmx-h78wb2q raises 840 to 940 and is all-in
+FunnyDog folds
+P1xel7 folds
+wmx-h78wb2q collected 1126 from pot
+*** SUMMARY ***
+Total pot 1126 | No rake
+Seat 3: wmx-h78wb2q (button) won 1126
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3250219838437589020-85-1710707998 - Holdem no limit (12/50/100) - 2024/03/17 20:39:58 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #1 is the button
+Seat 1: FunnyDog (984, 0.22€ bounty)
+Seat 2: P1xel7 (1390, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (1126, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 12
+wmx-h78wb2q posts ante 12
+FunnyDog posts ante 12
+P1xel7 posts small blind 50
+wmx-h78wb2q posts big blind 100
+Dealt to P1xel7 [7d 2h]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 folds
+wmx-h78wb2q collected 186 from pot
+*** SUMMARY ***
+Total pot 186 | No rake
+Seat 3: wmx-h78wb2q (big blind) won 186
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3250219838437589020-86-1710708010 - Holdem no limit (14/60/120) - 2024/03/17 20:40:10 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #2 is the button
+Seat 1: FunnyDog (972, 0.22€ bounty)
+Seat 2: P1xel7 (1328, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (1200, 0.22€ bounty)
+*** ANTE/BLINDS ***
+wmx-h78wb2q posts ante 14
+FunnyDog posts ante 14
+P1xel7 posts ante 14
+wmx-h78wb2q posts small blind 60
+FunnyDog posts big blind 120
+Dealt to P1xel7 [Th Qd]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 240
+wmx-h78wb2q folds
+FunnyDog folds
+P1xel7 collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | No rake
+Seat 2: P1xel7 (button) won 462
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3250219838437589020-87-1710708030 - Holdem no limit (14/60/120) - 2024/03/17 20:40:30 UTC
+Table: 'Trident(756750777)#0027' 3-max (real money) Seat #3 is the button
+Seat 1: FunnyDog (838, 0.22€ bounty)
+Seat 2: P1xel7 (1536, 0.33€ bounty)
+Seat 3: wmx-h78wb2q (1126, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 14
+P1xel7 posts ante 14
+wmx-h78wb2q posts ante 14
+FunnyDog posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [As Ac]
+*** PRE-FLOP *** 
+wmx-h78wb2q raises 992 to 1112 and is all-in
+FunnyDog folds
+P1xel7 calls 992
+*** FLOP *** [6s Jc Kc]
+*** TURN *** [6s Jc Kc][5h]
+*** RIVER *** [6s Jc Kc 5h][2h]
+*** SHOW DOWN ***
+wmx-h78wb2q shows [Ts Jh] (One pair : Jacks)
+P1xel7 shows [As Ac] (One pair : Aces)
+P1xel7 collected 2326 from pot
+*** SUMMARY ***
+Total pot 2326 | No rake
+Board: [6s Jc Kc 5h 2h]
+Seat 2: P1xel7 (big blind) showed [As Ac] and won 2326 with One pair : Aces
+Seat 3: wmx-h78wb2q (button) showed [Ts Jh] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3250219838437589016-83-1710708079 - Holdem no limit (14/60/120) - 2024/03/17 20:41:19 UTC
+Table: 'Trident(756750777)#0023' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (2736, 0.44€ bounty)
+Seat 2: Wikings84 (3810, 0.63€ bounty)
+Seat 3: LH_Striker7 (1677, 0.66€ bounty)
+*** ANTE/BLINDS ***
+LH_Striker7 posts ante 14
+P1xel7 posts ante 14
+Wikings84 posts ante 14
+LH_Striker7 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [8s 3c]
+*** PRE-FLOP *** 
+Wikings84 calls 120
+LH_Striker7 calls 60
+P1xel7 checks
+*** FLOP *** [Ts 9s Th]
+LH_Striker7 checks
+P1xel7 checks
+Wikings84 checks
+*** TURN *** [Ts 9s Th][3h]
+LH_Striker7 checks
+P1xel7 bets 240
+Wikings84 folds
+LH_Striker7 folds
+P1xel7 collected 642 from pot
+*** SUMMARY ***
+Total pot 642 | No rake
+Board: [Ts 9s Th 3h]
+Seat 1: P1xel7 (big blind) won 642
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3250219838437589016-84-1710708101 - Holdem no limit (14/60/120) - 2024/03/17 20:41:41 UTC
+Table: 'Trident(756750777)#0023' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (3004, 0.44€ bounty)
+Seat 2: Wikings84 (3676, 0.63€ bounty)
+Seat 3: LH_Striker7 (1543, 0.66€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 14
+Wikings84 posts ante 14
+LH_Striker7 posts ante 14
+P1xel7 posts small blind 60
+Wikings84 posts big blind 120
+Dealt to P1xel7 [Td 3h]
+*** PRE-FLOP *** 
+LH_Striker7 calls 120
+P1xel7 folds
+Wikings84 checks
+*** FLOP *** [6c Qd 9c]
+Wikings84 checks
+LH_Striker7 checks
+*** TURN *** [6c Qd 9c][4d]
+Wikings84 checks
+LH_Striker7 bets 342
+Wikings84 folds
+LH_Striker7 collected 684 from pot
+*** SUMMARY ***
+Total pot 684 | No rake
+Board: [6c Qd 9c 4d]
+Seat 3: LH_Striker7 (button) won 684
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3250219838437589016-85-1710708121 - Holdem no limit (14/60/120) - 2024/03/17 20:42:01 UTC
+Table: 'Trident(756750777)#0023' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2930, 0.44€ bounty)
+Seat 2: Wikings84 (3542, 0.63€ bounty)
+Seat 3: LH_Striker7 (1751, 0.66€ bounty)
+*** ANTE/BLINDS ***
+Wikings84 posts ante 14
+LH_Striker7 posts ante 14
+P1xel7 posts ante 14
+Wikings84 posts small blind 60
+LH_Striker7 posts big blind 120
+Dealt to P1xel7 [Kh 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Wikings84 raises 120 to 240
+LH_Striker7 folds
+Wikings84 collected 402 from pot
+*** SUMMARY ***
+Total pot 402 | No rake
+Seat 2: Wikings84 (small blind) won 402
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3250219838437589016-86-1710708131 - Holdem no limit (14/60/120) - 2024/03/17 20:42:11 UTC
+Table: 'Trident(756750777)#0023' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (2916, 0.44€ bounty)
+Seat 2: Wikings84 (3690, 0.63€ bounty)
+Seat 3: LH_Striker7 (1617, 0.66€ bounty)
+*** ANTE/BLINDS ***
+LH_Striker7 posts ante 14
+P1xel7 posts ante 14
+Wikings84 posts ante 14
+LH_Striker7 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [7s 5c]
+*** PRE-FLOP *** 
+Wikings84 raises 120 to 240
+LH_Striker7 folds
+P1xel7 folds
+Wikings84 collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | No rake
+Seat 2: Wikings84 (button) won 462
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3250219838437589016-87-1710708147 - Holdem no limit (14/60/120) - 2024/03/17 20:42:27 UTC
+Table: 'Trident(756750777)#0023' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (2782, 0.44€ bounty)
+Seat 2: Wikings84 (3898, 0.63€ bounty)
+Seat 3: LH_Striker7 (1543, 0.66€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 14
+Wikings84 posts ante 14
+LH_Striker7 posts ante 14
+P1xel7 posts small blind 60
+Wikings84 posts big blind 120
+Dealt to P1xel7 [2c Ks]
+*** PRE-FLOP *** 
+LH_Striker7 calls 120
+P1xel7 folds
+Wikings84 checks
+*** FLOP *** [Ah Jd 4s]
+Wikings84 checks
+LH_Striker7 checks
+*** TURN *** [Ah Jd 4s][4c]
+Wikings84 checks
+LH_Striker7 bets 120
+Wikings84 folds
+LH_Striker7 collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | No rake
+Board: [Ah Jd 4s 4c]
+Seat 3: LH_Striker7 (button) won 462
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3250219838437589016-88-1710708165 - Holdem no limit (16/70/140) - 2024/03/17 20:42:45 UTC
+Table: 'Trident(756750777)#0023' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (2708, 0.44€ bounty)
+Seat 2: Wikings84 (3764, 0.63€ bounty)
+Seat 3: LH_Striker7 (1751, 0.66€ bounty)
+*** ANTE/BLINDS ***
+Wikings84 posts ante 16
+LH_Striker7 posts ante 16
+P1xel7 posts ante 16
+Wikings84 posts small blind 70
+LH_Striker7 posts big blind 140
+Dealt to P1xel7 [2d Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Wikings84 calls 70
+LH_Striker7 checks
+*** FLOP *** [3d 8h Kc]
+Wikings84 bets 140
+LH_Striker7 calls 140
+*** TURN *** [3d 8h Kc][8s]
+Wikings84 checks
+LH_Striker7 bets 140
+Wikings84 folds
+LH_Striker7 collected 748 from pot
+*** SUMMARY ***
+Total pot 748 | No rake
+Board: [3d 8h Kc 8s]
+Seat 3: LH_Striker7 (big blind) won 748
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3250219838437589016-89-1710708191 - Holdem no limit (16/70/140) - 2024/03/17 20:43:11 UTC
+Table: 'Trident(756750777)#0023' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (2692, 0.44€ bounty)
+Seat 2: Wikings84 (3468, 0.63€ bounty)
+Seat 3: LH_Striker7 (2063, 0.66€ bounty)
+*** ANTE/BLINDS ***
+LH_Striker7 posts ante 16
+P1xel7 posts ante 16
+Wikings84 posts ante 16
+LH_Striker7 posts small blind 70
+P1xel7 posts big blind 140
+Dealt to P1xel7 [9s Jh]
+*** PRE-FLOP *** 
+Wikings84 calls 140
+LH_Striker7 folds
+P1xel7 checks
+*** FLOP *** [2h Th 3h]
+P1xel7 bets 210
+Wikings84 folds
+P1xel7 collected 608 from pot
+*** SUMMARY ***
+Total pot 608 | No rake
+Board: [2h Th 3h]
+Seat 1: P1xel7 (big blind) won 608
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3250219838437589016-90-1710708205 - Holdem no limit (16/70/140) - 2024/03/17 20:43:25 UTC
+Table: 'Trident(756750777)#0023' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (2934, 0.44€ bounty)
+Seat 2: Wikings84 (3312, 0.63€ bounty)
+Seat 3: LH_Striker7 (1977, 0.66€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 16
+Wikings84 posts ante 16
+LH_Striker7 posts ante 16
+P1xel7 posts small blind 70
+Wikings84 posts big blind 140
+Dealt to P1xel7 [Qd 9h]
+*** PRE-FLOP *** 
+LH_Striker7 folds
+P1xel7 raises 210 to 350
+Wikings84 folds
+P1xel7 collected 538 from pot
+*** SUMMARY ***
+Total pot 538 | No rake
+Seat 1: P1xel7 (small blind) won 538
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3250219838437588997-116-1710708250 - Holdem no limit (16/70/140) - 2024/03/17 20:44:10 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: USAIN F0LD (3520, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (5045, 1.24€ bounty)
+Seat 3: P1xel7 (3106, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 16
+P1xel7 posts ante 16
+USAIN F0LD posts ante 16
+ATAKpASmesBB posts small blind 70
+P1xel7 posts big blind 140
+Dealt to P1xel7 [3h Tc]
+*** PRE-FLOP *** 
+USAIN F0LD folds
+ATAKpASmesBB folds
+P1xel7 collected 258 from pot
+*** SUMMARY ***
+Total pot 258 | No rake
+Seat 3: P1xel7 (big blind) won 258
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3250219838437588997-117-1710708258 - Holdem no limit (16/70/140) - 2024/03/17 20:44:18 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: USAIN F0LD (3504, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (4959, 1.24€ bounty)
+Seat 3: P1xel7 (3208, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 16
+USAIN F0LD posts ante 16
+ATAKpASmesBB posts ante 16
+P1xel7 posts small blind 70
+USAIN F0LD posts big blind 140
+Dealt to P1xel7 [9s 8s]
+*** PRE-FLOP *** 
+ATAKpASmesBB raises 175 to 315
+P1xel7 calls 245
+USAIN F0LD folds
+*** FLOP *** [Tc 4h Kd]
+P1xel7 checks
+ATAKpASmesBB checks
+*** TURN *** [Tc 4h Kd][Jh]
+P1xel7 bets 280
+ATAKpASmesBB calls 280
+*** RIVER *** [Tc 4h Kd Jh][6h]
+P1xel7 bets 689
+ATAKpASmesBB calls 689
+*** SHOW DOWN ***
+P1xel7 shows [9s 8s] (High card : King)
+ATAKpASmesBB shows [Ac Jc] (One pair : Jacks)
+ATAKpASmesBB collected 2756 from pot
+*** SUMMARY ***
+Total pot 2756 | No rake
+Board: [Tc 4h Kd Jh 6h]
+Seat 2: ATAKpASmesBB (button) showed [Ac Jc] and won 2756 with One pair : Jacks
+Seat 3: P1xel7 (small blind) showed [9s 8s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3250219838437588997-118-1710708301 - Holdem no limit (20/80/160) - 2024/03/17 20:45:01 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: USAIN F0LD (3348, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (6415, 1.24€ bounty)
+Seat 3: P1xel7 (1908, 0.44€ bounty)
+*** ANTE/BLINDS ***
+USAIN F0LD posts ante 20
+ATAKpASmesBB posts ante 20
+P1xel7 posts ante 20
+USAIN F0LD posts small blind 80
+ATAKpASmesBB posts big blind 160
+Dealt to P1xel7 [6c 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+USAIN F0LD folds
+ATAKpASmesBB collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: ATAKpASmesBB (big blind) won 300
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3250219838437588997-119-1710708308 - Holdem no limit (20/80/160) - 2024/03/17 20:45:08 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: USAIN F0LD (3248, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (6535, 1.24€ bounty)
+Seat 3: P1xel7 (1888, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 20
+P1xel7 posts ante 20
+USAIN F0LD posts ante 20
+ATAKpASmesBB posts small blind 80
+P1xel7 posts big blind 160
+Dealt to P1xel7 [Ks 6h]
+*** PRE-FLOP *** 
+USAIN F0LD folds
+ATAKpASmesBB calls 80
+P1xel7 raises 1708 to 1868 and is all-in
+ATAKpASmesBB folds
+P1xel7 collected 2088 from pot
+*** SUMMARY ***
+Total pot 2088 | No rake
+Seat 3: P1xel7 (big blind) won 2088
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3250219838437588997-120-1710708338 - Holdem no limit (20/80/160) - 2024/03/17 20:45:38 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: USAIN F0LD (3228, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (6355, 1.24€ bounty)
+Seat 3: P1xel7 (2088, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 20
+USAIN F0LD posts ante 20
+ATAKpASmesBB posts ante 20
+P1xel7 posts small blind 80
+USAIN F0LD posts big blind 160
+Dealt to P1xel7 [4s 2c]
+*** PRE-FLOP *** 
+ATAKpASmesBB folds
+P1xel7 folds
+USAIN F0LD collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: USAIN F0LD (big blind) won 300
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3250219838437588997-121-1710708352 - Holdem no limit (20/80/160) - 2024/03/17 20:45:52 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: USAIN F0LD (3348, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (6335, 1.24€ bounty)
+Seat 3: P1xel7 (1988, 0.44€ bounty)
+*** ANTE/BLINDS ***
+USAIN F0LD posts ante 20
+ATAKpASmesBB posts ante 20
+P1xel7 posts ante 20
+USAIN F0LD posts small blind 80
+ATAKpASmesBB posts big blind 160
+Dealt to P1xel7 [As 8c]
+*** PRE-FLOP *** 
+P1xel7 folds
+USAIN F0LD folds
+ATAKpASmesBB collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: ATAKpASmesBB (big blind) won 300
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3250219838437588997-122-1710708382 - Holdem no limit (20/80/160) - 2024/03/17 20:46:22 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: USAIN F0LD (3248, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (6455, 1.24€ bounty)
+Seat 3: P1xel7 (1968, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 20
+P1xel7 posts ante 20
+USAIN F0LD posts ante 20
+ATAKpASmesBB posts small blind 80
+P1xel7 posts big blind 160
+Dealt to P1xel7 [8d Ah]
+*** PRE-FLOP *** 
+USAIN F0LD calls 160
+ATAKpASmesBB calls 80
+P1xel7 raises 1788 to 1948 and is all-in
+USAIN F0LD folds
+ATAKpASmesBB folds
+P1xel7 collected 2328 from pot
+*** SUMMARY ***
+Total pot 2328 | No rake
+Seat 3: P1xel7 (big blind) won 2328
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3250219838437588997-123-1710708430 - Holdem no limit (20/80/160) - 2024/03/17 20:47:10 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: USAIN F0LD (3068, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (6275, 1.24€ bounty)
+Seat 3: P1xel7 (2328, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 20
+USAIN F0LD posts ante 20
+ATAKpASmesBB posts ante 20
+P1xel7 posts small blind 80
+USAIN F0LD posts big blind 160
+Dealt to P1xel7 [Ks 8d]
+*** PRE-FLOP *** 
+ATAKpASmesBB folds
+P1xel7 folds
+USAIN F0LD collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 1: USAIN F0LD (big blind) won 300
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3250219838437588997-124-1710708438 - Holdem no limit (20/80/160) - 2024/03/17 20:47:18 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: USAIN F0LD (3188, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (6255, 1.24€ bounty)
+Seat 3: P1xel7 (2228, 0.44€ bounty)
+*** ANTE/BLINDS ***
+USAIN F0LD posts ante 20
+ATAKpASmesBB posts ante 20
+P1xel7 posts ante 20
+USAIN F0LD posts small blind 80
+ATAKpASmesBB posts big blind 160
+Dealt to P1xel7 [7d 7s]
+*** PRE-FLOP *** 
+P1xel7 raises 2048 to 2208 and is all-in
+USAIN F0LD calls 2128
+ATAKpASmesBB folds
+*** FLOP *** [Ac Ah Th]
+*** TURN *** [Ac Ah Th][4s]
+*** RIVER *** [Ac Ah Th 4s][Kh]
+*** SHOW DOWN ***
+USAIN F0LD shows [5h 5s] (Two pairs : Aces and 5)
+P1xel7 shows [7d 7s] (Two pairs : Aces and 7)
+P1xel7 collected 4636 from pot
+*** SUMMARY ***
+Total pot 4636 | No rake
+Board: [Ac Ah Th 4s Kh]
+Seat 1: USAIN F0LD (small blind) showed [5h 5s] and lost with Two pairs : Aces and 5
+Seat 3: P1xel7 (button) showed [7d 7s] and won 4636 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3250219838437588997-125-1710708466 - Holdem no limit (25/100/200) - 2024/03/17 20:47:46 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: USAIN F0LD (960, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (6075, 1.24€ bounty)
+Seat 3: P1xel7 (4636, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 25
+P1xel7 posts ante 25
+USAIN F0LD posts ante 25
+ATAKpASmesBB posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [5c 8s]
+*** PRE-FLOP *** 
+USAIN F0LD folds
+ATAKpASmesBB folds
+P1xel7 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Seat 3: P1xel7 (big blind) won 375
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3250219838437588997-126-1710708489 - Holdem no limit (25/100/200) - 2024/03/17 20:48:09 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: USAIN F0LD (935, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (5950, 1.24€ bounty)
+Seat 3: P1xel7 (4786, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+USAIN F0LD posts ante 25
+ATAKpASmesBB posts ante 25
+P1xel7 posts small blind 100
+USAIN F0LD posts big blind 200
+Dealt to P1xel7 [9s 4d]
+*** PRE-FLOP *** 
+ATAKpASmesBB raises 250 to 450
+P1xel7 folds
+USAIN F0LD raises 460 to 910 and is all-in
+ATAKpASmesBB calls 460
+*** FLOP *** [Ks 9c Jh]
+*** TURN *** [Ks 9c Jh][5s]
+*** RIVER *** [Ks 9c Jh 5s][2s]
+*** SHOW DOWN ***
+ATAKpASmesBB shows [6c 6h] (One pair : 6)
+USAIN F0LD shows [Qd Js] (One pair : Jacks)
+USAIN F0LD collected 1995 from pot
+*** SUMMARY ***
+Total pot 1995 | No rake
+Board: [Ks 9c Jh 5s 2s]
+Seat 1: USAIN F0LD (big blind) showed [Qd Js] and won 1995 with One pair : Jacks
+Seat 2: ATAKpASmesBB (button) showed [6c 6h] and lost with One pair : 6
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3250219838437588997-127-1710708507 - Holdem no limit (25/100/200) - 2024/03/17 20:48:27 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: USAIN F0LD (1995, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (5015, 1.24€ bounty)
+Seat 3: P1xel7 (4661, 0.44€ bounty)
+*** ANTE/BLINDS ***
+USAIN F0LD posts ante 25
+ATAKpASmesBB posts ante 25
+P1xel7 posts ante 25
+USAIN F0LD posts small blind 100
+ATAKpASmesBB posts big blind 200
+Dealt to P1xel7 [2c 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+USAIN F0LD calls 100
+ATAKpASmesBB raises 4790 to 4990 and is all-in
+USAIN F0LD folds
+ATAKpASmesBB collected 5265 from pot
+*** SUMMARY ***
+Total pot 5265 | No rake
+Seat 2: ATAKpASmesBB (big blind) won 5265
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3250219838437588997-128-1710708548 - Holdem no limit (25/100/200) - 2024/03/17 20:49:08 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: USAIN F0LD (1770, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (5265, 1.24€ bounty)
+Seat 3: P1xel7 (4636, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 25
+P1xel7 posts ante 25
+USAIN F0LD posts ante 25
+ATAKpASmesBB posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [8s 5s]
+*** PRE-FLOP *** 
+USAIN F0LD folds
+ATAKpASmesBB folds
+P1xel7 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | No rake
+Seat 3: P1xel7 (big blind) won 375
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3250219838437588997-129-1710708640 - Holdem no limit (30/125/250) - 2024/03/17 20:50:40 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: USAIN F0LD (1745, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (5140, 1.24€ bounty)
+Seat 3: P1xel7 (4786, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+USAIN F0LD posts ante 30
+ATAKpASmesBB posts ante 30
+P1xel7 posts small blind 125
+USAIN F0LD posts big blind 250
+Dealt to P1xel7 [Jc 4s]
+*** PRE-FLOP *** 
+ATAKpASmesBB raises 438 to 688
+P1xel7 folds
+USAIN F0LD folds
+ATAKpASmesBB collected 1153 from pot
+*** SUMMARY ***
+Total pot 1153 | No rake
+Seat 2: ATAKpASmesBB (button) won 1153
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3250219838437588997-130-1710708703 - Holdem no limit (30/125/250) - 2024/03/17 20:51:43 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: USAIN F0LD (1465, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (5575, 1.24€ bounty)
+Seat 3: P1xel7 (4631, 0.44€ bounty)
+*** ANTE/BLINDS ***
+USAIN F0LD posts ante 30
+ATAKpASmesBB posts ante 30
+P1xel7 posts ante 30
+USAIN F0LD posts small blind 125
+ATAKpASmesBB posts big blind 250
+Dealt to P1xel7 [7h Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+USAIN F0LD folds
+ATAKpASmesBB collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | No rake
+Seat 2: ATAKpASmesBB (big blind) won 465
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3250219838437588997-131-1710708714 - Holdem no limit (30/125/250) - 2024/03/17 20:51:54 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: USAIN F0LD (1310, 0.22€ bounty)
+Seat 2: ATAKpASmesBB (5760, 1.24€ bounty)
+Seat 3: P1xel7 (4601, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 30
+P1xel7 posts ante 30
+USAIN F0LD posts ante 30
+ATAKpASmesBB posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [Ts 6c]
+*** PRE-FLOP *** 
+USAIN F0LD calls 250
+ATAKpASmesBB raises 438 to 688
+P1xel7 folds
+USAIN F0LD raises 592 to 1280 and is all-in
+ATAKpASmesBB calls 592
+*** FLOP *** [8h Ac 8c]
+*** TURN *** [8h Ac 8c][4d]
+*** RIVER *** [8h Ac 8c 4d][Kd]
+*** SHOW DOWN ***
+USAIN F0LD shows [Qc Qh] (Two pairs : Queens and 8)
+ATAKpASmesBB shows [9h Ad] (Two pairs : Aces and 8)
+ATAKpASmesBB collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Board: [8h Ac 8c 4d Kd]
+Seat 1: USAIN F0LD (button) showed [Qc Qh] and lost with Two pairs : Queens and 8
+Seat 2: ATAKpASmesBB (small blind) showed [9h Ad] and won 2900 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3250219838437588997-132-1710708748 - Holdem no limit (30/125/250) - 2024/03/17 20:52:28 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 2: ATAKpASmesBB (7350, 1.35€ bounty)
+Seat 3: P1xel7 (4321, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+ATAKpASmesBB posts ante 30
+P1xel7 posts small blind 125
+ATAKpASmesBB posts big blind 250
+Dealt to P1xel7 [Ah Jd]
+*** PRE-FLOP *** 
+P1xel7 raises 250 to 500
+ATAKpASmesBB calls 250
+*** FLOP *** [3s 8d 6c]
+ATAKpASmesBB checks
+P1xel7 checks
+*** TURN *** [3s 8d 6c][Th]
+ATAKpASmesBB checks
+P1xel7 checks
+*** RIVER *** [3s 8d 6c Th][5d]
+ATAKpASmesBB bets 265
+P1xel7 calls 265
+*** SHOW DOWN ***
+ATAKpASmesBB shows [2d Qs] (High card : Queen)
+P1xel7 shows [Ah Jd] (High card : Ace)
+P1xel7 collected 1590 from pot
+*** SUMMARY ***
+Total pot 1590 | No rake
+Board: [3s 8d 6c Th 5d]
+Seat 2: ATAKpASmesBB (big blind) showed [2d Qs] and lost with High card : Queen
+Seat 3: P1xel7 (small blind) (button) showed [Ah Jd] and won 1590 with High card : Ace
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3250219838437588997-133-1710708780 - Holdem no limit (35/150/300) - 2024/03/17 20:53:00 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (11483, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (6555, 1.35€ bounty)
+Seat 3: P1xel7 (5116, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 35
+P1xel7 posts ante 35
+ATAKpASmesBB posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [8s Th]
+*** PRE-FLOP *** 
+ATAKpASmesBB folds
+P1xel7 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Seat 3: P1xel7 (big blind) won 520
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3250219838437588997-134-1710708786 - Holdem no limit (35/150/300) - 2024/03/17 20:53:06 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (11483, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (6370, 1.35€ bounty)
+Seat 3: P1xel7 (5301, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+steph1462 posts ante 35
+ATAKpASmesBB posts ante 35
+P1xel7 posts small blind 150
+steph1462 posts big blind 300
+Dealt to P1xel7 [9c 7s]
+*** PRE-FLOP *** 
+ATAKpASmesBB folds
+P1xel7 folds
+steph1462 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 1: steph1462 (big blind) won 555
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3250219838437588997-135-1710708797 - Holdem no limit (35/150/300) - 2024/03/17 20:53:17 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (11703, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (6335, 1.35€ bounty)
+Seat 3: P1xel7 (5116, 0.44€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 35
+ATAKpASmesBB posts ante 35
+P1xel7 posts ante 35
+steph1462 posts small blind 150
+ATAKpASmesBB posts big blind 300
+Dealt to P1xel7 [8h Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+steph1462 calls 150
+ATAKpASmesBB checks
+*** FLOP *** [2s 4s 8d]
+steph1462 checks
+ATAKpASmesBB checks
+*** TURN *** [2s 4s 8d][5d]
+steph1462 checks
+ATAKpASmesBB checks
+*** RIVER *** [2s 4s 8d 5d][Ac]
+steph1462 checks
+ATAKpASmesBB bets 564
+steph1462 folds
+ATAKpASmesBB collected 1269 from pot
+*** SUMMARY ***
+Total pot 1269 | No rake
+Board: [2s 4s 8d 5d Ac]
+Seat 2: ATAKpASmesBB (big blind) won 1269
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3250219838437588997-136-1710708834 - Holdem no limit (35/150/300) - 2024/03/17 20:53:54 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (11368, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (6705, 1.35€ bounty)
+Seat 3: P1xel7 (5081, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 35
+P1xel7 posts ante 35
+steph1462 posts ante 35
+ATAKpASmesBB posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [7c 8s]
+*** PRE-FLOP *** 
+steph1462 folds
+ATAKpASmesBB folds
+P1xel7 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 3: P1xel7 (big blind) won 555
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3250219838437588997-137-1710708840 - Holdem no limit (35/150/300) - 2024/03/17 20:54:00 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (11333, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (6520, 1.35€ bounty)
+Seat 3: P1xel7 (5301, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+steph1462 posts ante 35
+ATAKpASmesBB posts ante 35
+P1xel7 posts small blind 150
+steph1462 posts big blind 300
+Dealt to P1xel7 [6s 7d]
+*** PRE-FLOP *** 
+ATAKpASmesBB calls 300
+P1xel7 folds
+steph1462 checks
+*** FLOP *** [4d 4s 4h]
+steph1462 checks
+ATAKpASmesBB checks
+*** TURN *** [4d 4s 4h][Jh]
+steph1462 checks
+ATAKpASmesBB checks
+*** RIVER *** [4d 4s 4h Jh][2d]
+steph1462 checks
+ATAKpASmesBB bets 556
+steph1462 calls 556
+*** SHOW DOWN ***
+steph1462 shows [Ah 9s] (Trips of 4)
+ATAKpASmesBB shows [Kc 2c] (Full of 4 and 2)
+ATAKpASmesBB collected 1967 from pot
+*** SUMMARY ***
+Total pot 1967 | No rake
+Board: [4d 4s 4h Jh 2d]
+Seat 1: steph1462 (big blind) showed [Ah 9s] and lost with Trips of 4
+Seat 2: ATAKpASmesBB (button) showed [Kc 2c] and won 1967 with Full of 4 and 2
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3250219838437588997-138-1710708871 - Holdem no limit (35/150/300) - 2024/03/17 20:54:31 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (10442, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (7596, 1.35€ bounty)
+Seat 3: P1xel7 (5116, 0.44€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 35
+ATAKpASmesBB posts ante 35
+P1xel7 posts ante 35
+steph1462 posts small blind 150
+ATAKpASmesBB posts big blind 300
+Dealt to P1xel7 [Td As]
+*** PRE-FLOP *** 
+P1xel7 raises 300 to 600
+steph1462 folds
+ATAKpASmesBB calls 300
+*** FLOP *** [7c 4c 3s]
+ATAKpASmesBB checks
+P1xel7 bets 450
+ATAKpASmesBB folds
+P1xel7 collected 1905 from pot
+*** SUMMARY ***
+Total pot 1905 | No rake
+Board: [7c 4c 3s]
+Seat 3: P1xel7 (button) won 1905
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3250219838437588997-139-1710708893 - Holdem no limit (35/150/300) - 2024/03/17 20:54:53 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (10257, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (6961, 1.35€ bounty)
+Seat 3: P1xel7 (5936, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 35
+P1xel7 posts ante 35
+steph1462 posts ante 35
+ATAKpASmesBB posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Jh 7h]
+*** PRE-FLOP *** 
+steph1462 folds
+ATAKpASmesBB folds
+P1xel7 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 3: P1xel7 (big blind) won 555
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3250219838437588997-140-1710709261 - Holdem no limit (35/150/300) - 2024/03/17 21:01:01 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (10222, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (6776, 1.35€ bounty)
+Seat 3: P1xel7 (6156, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+steph1462 posts ante 35
+ATAKpASmesBB posts ante 35
+P1xel7 posts small blind 150
+steph1462 posts big blind 300
+Dealt to P1xel7 [Ah 2s]
+*** PRE-FLOP *** 
+ATAKpASmesBB folds
+P1xel7 folds
+steph1462 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | No rake
+Seat 1: steph1462 (big blind) won 555
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3250219838437588997-141-1710709281 - Holdem no limit (40/175/350) - 2024/03/17 21:01:21 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (10442, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (6741, 1.35€ bounty)
+Seat 3: P1xel7 (5971, 0.44€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 40
+ATAKpASmesBB posts ante 40
+P1xel7 posts ante 40
+steph1462 posts small blind 175
+ATAKpASmesBB posts big blind 350
+Dealt to P1xel7 [2d 2h]
+*** PRE-FLOP *** 
+P1xel7 raises 525 to 875
+steph1462 folds
+ATAKpASmesBB folds
+P1xel7 collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Seat 3: P1xel7 (button) won 1520
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3250219838437588997-142-1710709288 - Holdem no limit (40/175/350) - 2024/03/17 21:01:28 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (10227, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (6351, 1.35€ bounty)
+Seat 3: P1xel7 (6576, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 40
+P1xel7 posts ante 40
+steph1462 posts ante 40
+ATAKpASmesBB posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Qd 8s]
+*** PRE-FLOP *** 
+steph1462 folds
+ATAKpASmesBB raises 438 to 788
+P1xel7 calls 438
+*** FLOP *** [Qs Kd 3d]
+ATAKpASmesBB bets 848
+P1xel7 calls 848
+*** TURN *** [Qs Kd 3d][Ac]
+ATAKpASmesBB checks
+P1xel7 checks
+*** RIVER *** [Qs Kd 3d Ac][6s]
+ATAKpASmesBB bets 1187
+P1xel7 calls 1187
+*** SHOW DOWN ***
+ATAKpASmesBB shows [5h 5s] (One pair : 5)
+P1xel7 shows [Qd 8s] (One pair : Queens)
+P1xel7 collected 5766 from pot
+*** SUMMARY ***
+Total pot 5766 | No rake
+Board: [Qs Kd 3d Ac 6s]
+Seat 2: ATAKpASmesBB (small blind) showed [5h 5s] and lost with One pair : 5
+Seat 3: P1xel7 (big blind) showed [Qd 8s] and won 5766 with One pair : Queens
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3250219838437588997-143-1710709340 - Holdem no limit (40/175/350) - 2024/03/17 21:02:20 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (10187, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (3488, 1.35€ bounty)
+Seat 3: P1xel7 (9479, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+steph1462 posts ante 40
+ATAKpASmesBB posts ante 40
+P1xel7 posts small blind 175
+steph1462 posts big blind 350
+Dealt to P1xel7 [4c 5d]
+*** PRE-FLOP *** 
+ATAKpASmesBB raises 995 to 1345
+P1xel7 folds
+steph1462 folds
+ATAKpASmesBB collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Seat 2: ATAKpASmesBB (button) won 1990
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3250219838437588997-144-1710709351 - Holdem no limit (40/175/350) - 2024/03/17 21:02:31 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (9797, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (4093, 1.35€ bounty)
+Seat 3: P1xel7 (9264, 0.44€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 40
+ATAKpASmesBB posts ante 40
+P1xel7 posts ante 40
+steph1462 posts small blind 175
+ATAKpASmesBB posts big blind 350
+Dealt to P1xel7 [9h 3c]
+*** PRE-FLOP *** 
+P1xel7 folds
+steph1462 raises 9407 to 9757 and is all-in
+ATAKpASmesBB folds
+steph1462 collected 10227 from pot
+*** SUMMARY ***
+Total pot 10227 | No rake
+Seat 1: steph1462 (small blind) won 10227
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3250219838437588997-145-1710709358 - Holdem no limit (40/175/350) - 2024/03/17 21:02:38 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (10227, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (3703, 1.35€ bounty)
+Seat 3: P1xel7 (9224, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 40
+P1xel7 posts ante 40
+steph1462 posts ante 40
+ATAKpASmesBB posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Ks 7s]
+*** PRE-FLOP *** 
+steph1462 folds
+ATAKpASmesBB calls 175
+P1xel7 raises 8834 to 9184 and is all-in
+ATAKpASmesBB folds
+P1xel7 collected 9654 from pot
+*** SUMMARY ***
+Total pot 9654 | No rake
+Seat 3: P1xel7 (big blind) won 9654
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3250219838437588997-146-1710709373 - Holdem no limit (40/175/350) - 2024/03/17 21:02:53 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (10187, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (3313, 1.35€ bounty)
+Seat 3: P1xel7 (9654, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+steph1462 posts ante 40
+ATAKpASmesBB posts ante 40
+P1xel7 posts small blind 175
+steph1462 posts big blind 350
+Dealt to P1xel7 [9s 5s]
+*** PRE-FLOP *** 
+ATAKpASmesBB folds
+P1xel7 raises 420 to 770
+steph1462 folds
+P1xel7 collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | No rake
+Seat 3: P1xel7 (small blind) won 1240
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3250219838437588997-147-1710709386 - Holdem no limit (40/175/350) - 2024/03/17 21:03:06 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (9797, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (3273, 1.35€ bounty)
+Seat 3: P1xel7 (10084, 0.44€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 40
+ATAKpASmesBB posts ante 40
+P1xel7 posts ante 40
+steph1462 posts small blind 175
+ATAKpASmesBB posts big blind 350
+Dealt to P1xel7 [6d 7h]
+*** PRE-FLOP *** 
+P1xel7 raises 420 to 770
+steph1462 calls 595
+ATAKpASmesBB folds
+*** FLOP *** [6c 2c 5c]
+steph1462 bets 704
+P1xel7 calls 704
+*** TURN *** [6c 2c 5c][Jd]
+steph1462 bets 1196
+P1xel7 folds
+steph1462 collected 4614 from pot
+*** SUMMARY ***
+Total pot 4614 | No rake
+Board: [6c 2c 5c Jd]
+Seat 1: steph1462 (small blind) won 4614
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-148-1710709414 - Holdem no limit (50/200/400) - 2024/03/17 21:03:34 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (11701, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (2883, 1.35€ bounty)
+Seat 3: P1xel7 (8570, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 50
+P1xel7 posts ante 50
+steph1462 posts ante 50
+ATAKpASmesBB posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [As 5d]
+*** PRE-FLOP *** 
+steph1462 folds
+ATAKpASmesBB calls 200
+P1xel7 raises 8120 to 8520 and is all-in
+ATAKpASmesBB folds
+P1xel7 collected 9070 from pot
+*** SUMMARY ***
+Total pot 9070 | No rake
+Seat 3: P1xel7 (big blind) won 9070
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-149-1710709431 - Holdem no limit (50/200/400) - 2024/03/17 21:03:51 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (11651, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (2433, 1.35€ bounty)
+Seat 3: P1xel7 (9070, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+steph1462 posts ante 50
+ATAKpASmesBB posts ante 50
+P1xel7 posts small blind 200
+steph1462 posts big blind 400
+Dealt to P1xel7 [9h Qh]
+*** PRE-FLOP *** 
+ATAKpASmesBB folds
+P1xel7 raises 480 to 880
+steph1462 folds
+P1xel7 collected 1430 from pot
+*** SUMMARY ***
+Total pot 1430 | No rake
+Seat 3: P1xel7 (small blind) won 1430
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-150-1710709442 - Holdem no limit (50/200/400) - 2024/03/17 21:04:02 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (11201, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (2383, 1.35€ bounty)
+Seat 3: P1xel7 (9570, 0.44€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 50
+ATAKpASmesBB posts ante 50
+P1xel7 posts ante 50
+steph1462 posts small blind 200
+ATAKpASmesBB posts big blind 400
+Dealt to P1xel7 [4h 6h]
+*** PRE-FLOP *** 
+P1xel7 raises 480 to 880
+steph1462 folds
+ATAKpASmesBB folds
+P1xel7 collected 1630 from pot
+*** SUMMARY ***
+Total pot 1630 | No rake
+Seat 3: P1xel7 (button) won 1630
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-151-1710709453 - Holdem no limit (50/200/400) - 2024/03/17 21:04:13 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (10951, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (1933, 1.35€ bounty)
+Seat 3: P1xel7 (10270, 0.44€ bounty)
+*** ANTE/BLINDS ***
+ATAKpASmesBB posts ante 50
+P1xel7 posts ante 50
+steph1462 posts ante 50
+ATAKpASmesBB posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [3c 9d]
+*** PRE-FLOP *** 
+steph1462 raises 400 to 800
+ATAKpASmesBB folds
+P1xel7 folds
+steph1462 collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | No rake
+Seat 1: steph1462 (button) won 1550
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-152-1710709463 - Holdem no limit (50/200/400) - 2024/03/17 21:04:23 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (11651, 1.45€ bounty)
+Seat 2: ATAKpASmesBB (1683, 1.35€ bounty)
+Seat 3: P1xel7 (9820, 0.44€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+steph1462 posts ante 50
+ATAKpASmesBB posts ante 50
+P1xel7 posts small blind 200
+steph1462 posts big blind 400
+Dealt to P1xel7 [Jd Th]
+*** PRE-FLOP *** 
+ATAKpASmesBB raises 1233 to 1633 and is all-in
+P1xel7 calls 1433
+steph1462 folds
+*** FLOP *** [6h 4h 7s]
+*** TURN *** [6h 4h 7s][2s]
+*** RIVER *** [6h 4h 7s 2s][Jc]
+*** SHOW DOWN ***
+ATAKpASmesBB shows [Ad Ts] (High card : Ace)
+P1xel7 shows [Jd Th] (One pair : Jacks)
+P1xel7 collected 3816 from pot
+*** SUMMARY ***
+Total pot 3816 | No rake
+Board: [6h 4h 7s 2s Jc]
+Seat 2: ATAKpASmesBB (button) showed [Ad Ts] and lost with High card : Ace
+Seat 3: P1xel7 (small blind) showed [Jd Th] and won 3816 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-153-1710709490 - Holdem no limit (50/200/400) - 2024/03/17 21:04:50 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (11201, 1.45€ bounty)
+Seat 3: P1xel7 (11953, 1.11€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 50
+P1xel7 posts ante 50
+steph1462 posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Qs 5d]
+*** PRE-FLOP *** 
+steph1462 raises 400 to 800
+P1xel7 folds
+steph1462 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 1: steph1462 (small blind) (button) won 1300
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-154-1710709496 - Holdem no limit (50/200/400) - 2024/03/17 21:04:56 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (11651, 1.45€ bounty)
+Seat 3: P1xel7 (11503, 1.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+steph1462 posts ante 50
+P1xel7 posts small blind 200
+steph1462 posts big blind 400
+Dealt to P1xel7 [5d 4d]
+*** PRE-FLOP *** 
+P1xel7 raises 400 to 800
+steph1462 folds
+P1xel7 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 3: P1xel7 (small blind) (button) won 1300
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-155-1710709504 - Holdem no limit (50/200/400) - 2024/03/17 21:05:04 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (11201, 1.45€ bounty)
+Seat 2: FunnyDog (11951, 1.39€ bounty)
+Seat 3: P1xel7 (11953, 1.11€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 50
+FunnyDog posts ante 50
+P1xel7 posts ante 50
+steph1462 posts small blind 200
+FunnyDog posts big blind 400
+Dealt to P1xel7 [Jd 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+steph1462 folds
+FunnyDog collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 2: FunnyDog (big blind) won 750
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-156-1710709509 - Holdem no limit (50/200/400) - 2024/03/17 21:05:09 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (10951, 1.45€ bounty)
+Seat 2: FunnyDog (12251, 1.39€ bounty)
+Seat 3: P1xel7 (11903, 1.11€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 50
+P1xel7 posts ante 50
+steph1462 posts ante 50
+FunnyDog posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [8h 8d]
+*** PRE-FLOP *** 
+steph1462 raises 400 to 800
+FunnyDog folds
+P1xel7 raises 1800 to 2600
+steph1462 folds
+P1xel7 collected 3750 from pot
+*** SUMMARY ***
+Total pot 3750 | No rake
+Seat 3: P1xel7 (big blind) won 3750
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-157-1710709532 - Holdem no limit (50/200/400) - 2024/03/17 21:05:32 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (10101, 1.45€ bounty)
+Seat 2: FunnyDog (12001, 1.39€ bounty)
+Seat 3: P1xel7 (13003, 1.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+steph1462 posts ante 50
+FunnyDog posts ante 50
+P1xel7 posts small blind 200
+steph1462 posts big blind 400
+Dealt to P1xel7 [Qc 7c]
+*** PRE-FLOP *** 
+FunnyDog raises 400 to 800
+P1xel7 folds
+steph1462 calls 400
+*** FLOP *** [2s 5d 4d]
+steph1462 checks
+FunnyDog bets 1268
+steph1462 folds
+FunnyDog collected 3218 from pot
+*** SUMMARY ***
+Total pot 3218 | No rake
+Board: [2s 5d 4d]
+Seat 2: FunnyDog (button) won 3218
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3250219838437588997-158-1710709555 - Holdem no limit (50/200/400) - 2024/03/17 21:05:55 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (9251, 1.45€ bounty)
+Seat 2: FunnyDog (13101, 1.39€ bounty)
+Seat 3: P1xel7 (12753, 1.11€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 50
+FunnyDog posts ante 50
+P1xel7 posts ante 50
+steph1462 posts small blind 200
+FunnyDog posts big blind 400
+Dealt to P1xel7 [Qs 4c]
+*** PRE-FLOP *** 
+P1xel7 folds
+steph1462 raises 400 to 800
+FunnyDog calls 400
+*** FLOP *** [7s 5s 4d]
+steph1462 checks
+FunnyDog bets 1138
+steph1462 folds
+FunnyDog collected 2888 from pot
+*** SUMMARY ***
+Total pot 2888 | No rake
+Board: [7s 5s 4d]
+Seat 2: FunnyDog (big blind) won 2888
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-159-1710709572 - Holdem no limit (60/250/500) - 2024/03/17 21:06:12 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (8401, 1.45€ bounty)
+Seat 2: FunnyDog (14001, 1.39€ bounty)
+Seat 3: P1xel7 (12703, 1.11€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 60
+P1xel7 posts ante 60
+steph1462 posts ante 60
+FunnyDog posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [Qh 7s]
+*** PRE-FLOP *** 
+steph1462 raises 500 to 1000
+FunnyDog folds
+P1xel7 folds
+steph1462 collected 1930 from pot
+*** SUMMARY ***
+Total pot 1930 | No rake
+Seat 1: steph1462 (button) won 1930
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-160-1710709580 - Holdem no limit (60/250/500) - 2024/03/17 21:06:20 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (9271, 1.45€ bounty)
+Seat 2: FunnyDog (13691, 1.39€ bounty)
+Seat 3: P1xel7 (12143, 1.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+steph1462 posts ante 60
+FunnyDog posts ante 60
+P1xel7 posts small blind 250
+steph1462 posts big blind 500
+Dealt to P1xel7 [2h 6d]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 folds
+steph1462 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Seat 1: steph1462 (big blind) won 930
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-161-1710709596 - Holdem no limit (60/250/500) - 2024/03/17 21:06:36 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (9641, 1.45€ bounty)
+Seat 2: FunnyDog (13631, 1.39€ bounty)
+Seat 3: P1xel7 (11833, 1.11€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 60
+FunnyDog posts ante 60
+P1xel7 posts ante 60
+steph1462 posts small blind 250
+FunnyDog posts big blind 500
+Dealt to P1xel7 [5d As]
+*** PRE-FLOP *** 
+P1xel7 raises 500 to 1000
+steph1462 folds
+FunnyDog folds
+P1xel7 collected 1930 from pot
+*** SUMMARY ***
+Total pot 1930 | No rake
+Seat 3: P1xel7 (button) won 1930
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-162-1710709607 - Holdem no limit (60/250/500) - 2024/03/17 21:06:47 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (9331, 1.45€ bounty)
+Seat 2: FunnyDog (13071, 1.39€ bounty)
+Seat 3: P1xel7 (12703, 1.11€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 60
+P1xel7 posts ante 60
+steph1462 posts ante 60
+FunnyDog posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [4d As]
+*** PRE-FLOP *** 
+steph1462 raises 500 to 1000
+FunnyDog folds
+P1xel7 calls 500
+*** FLOP *** [Tc 5d 8d]
+P1xel7 checks
+steph1462 bets 851
+P1xel7 folds
+steph1462 collected 3281 from pot
+*** SUMMARY ***
+Total pot 3281 | No rake
+Board: [Tc 5d 8d]
+Seat 1: steph1462 (button) won 3281
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-163-1710709622 - Holdem no limit (60/250/500) - 2024/03/17 21:07:02 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (10701, 1.45€ bounty)
+Seat 2: FunnyDog (12761, 1.39€ bounty)
+Seat 3: P1xel7 (11643, 1.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+steph1462 posts ante 60
+FunnyDog posts ante 60
+P1xel7 posts small blind 250
+steph1462 posts big blind 500
+Dealt to P1xel7 [Jh 2h]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 folds
+steph1462 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Seat 1: steph1462 (big blind) won 930
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-164-1710709630 - Holdem no limit (60/250/500) - 2024/03/17 21:07:10 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (11071, 1.45€ bounty)
+Seat 2: FunnyDog (12701, 1.39€ bounty)
+Seat 3: P1xel7 (11333, 1.11€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 60
+FunnyDog posts ante 60
+P1xel7 posts ante 60
+steph1462 posts small blind 250
+FunnyDog posts big blind 500
+Dealt to P1xel7 [Qc Tc]
+*** PRE-FLOP *** 
+P1xel7 raises 500 to 1000
+steph1462 calls 750
+FunnyDog calls 500
+*** FLOP *** [6s 5s Jd]
+steph1462 checks
+FunnyDog checks
+P1xel7 bets 1113
+steph1462 folds
+FunnyDog folds
+P1xel7 collected 4293 from pot
+*** SUMMARY ***
+Total pot 4293 | No rake
+Board: [6s 5s Jd]
+Seat 3: P1xel7 (button) won 4293
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-165-1710709676 - Holdem no limit (60/250/500) - 2024/03/17 21:07:56 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (10011, 1.45€ bounty)
+Seat 2: FunnyDog (11641, 1.39€ bounty)
+Seat 3: P1xel7 (13453, 1.11€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 60
+P1xel7 posts ante 60
+steph1462 posts ante 60
+FunnyDog posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [Th Jh]
+*** PRE-FLOP *** 
+steph1462 folds
+FunnyDog folds
+P1xel7 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Seat 3: P1xel7 (big blind) won 930
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-166-1710709682 - Holdem no limit (60/250/500) - 2024/03/17 21:08:02 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (9951, 1.45€ bounty)
+Seat 2: FunnyDog (11331, 1.39€ bounty)
+Seat 3: P1xel7 (13823, 1.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+steph1462 posts ante 60
+FunnyDog posts ante 60
+P1xel7 posts small blind 250
+steph1462 posts big blind 500
+Dealt to P1xel7 [2s 7d]
+*** PRE-FLOP *** 
+FunnyDog raises 1000 to 1500
+P1xel7 folds
+steph1462 folds
+FunnyDog collected 2430 from pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Seat 2: FunnyDog (button) won 2430
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-167-1710709689 - Holdem no limit (60/250/500) - 2024/03/17 21:08:09 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (9391, 1.45€ bounty)
+Seat 2: FunnyDog (12201, 1.39€ bounty)
+Seat 3: P1xel7 (13513, 1.11€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 60
+FunnyDog posts ante 60
+P1xel7 posts ante 60
+steph1462 posts small blind 250
+FunnyDog posts big blind 500
+Dealt to P1xel7 [6h 4c]
+*** PRE-FLOP *** 
+P1xel7 folds
+steph1462 raises 500 to 1000
+FunnyDog raises 11141 to 12141 and is all-in
+steph1462 folds
+FunnyDog collected 13321 from pot
+*** SUMMARY ***
+Total pot 13321 | No rake
+Seat 2: FunnyDog (big blind) won 13321
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-168-1710709700 - Holdem no limit (60/250/500) - 2024/03/17 21:08:20 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (8331, 1.45€ bounty)
+Seat 2: FunnyDog (13321, 1.39€ bounty)
+Seat 3: P1xel7 (13453, 1.11€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 60
+P1xel7 posts ante 60
+steph1462 posts ante 60
+FunnyDog posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [4h 3h]
+*** PRE-FLOP *** 
+steph1462 folds
+FunnyDog folds
+P1xel7 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | No rake
+Seat 3: P1xel7 (big blind) won 930
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3250219838437588997-169-1710709705 - Holdem no limit (60/250/500) - 2024/03/17 21:08:25 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (8271, 1.45€ bounty)
+Seat 2: FunnyDog (13011, 1.39€ bounty)
+Seat 3: P1xel7 (13823, 1.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+steph1462 posts ante 60
+FunnyDog posts ante 60
+P1xel7 posts small blind 250
+steph1462 posts big blind 500
+Dealt to P1xel7 [8d 2h]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 500 to 1000
+steph1462 folds
+P1xel7 collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Seat 3: P1xel7 (small blind) won 1680
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-170-1710709713 - Holdem no limit (70/300/600) - 2024/03/17 21:08:33 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (7711, 1.45€ bounty)
+Seat 2: FunnyDog (12951, 1.39€ bounty)
+Seat 3: P1xel7 (14443, 1.11€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 70
+FunnyDog posts ante 70
+P1xel7 posts ante 70
+steph1462 posts small blind 300
+FunnyDog posts big blind 600
+Dealt to P1xel7 [Kc Td]
+*** PRE-FLOP *** 
+P1xel7 raises 600 to 1200
+steph1462 calls 900
+FunnyDog calls 600
+*** FLOP *** [3h Jh 7s]
+steph1462 checks
+FunnyDog checks
+P1xel7 bets 1334
+steph1462 folds
+FunnyDog folds
+P1xel7 collected 5144 from pot
+*** SUMMARY ***
+Total pot 5144 | No rake
+Board: [3h Jh 7s]
+Seat 3: P1xel7 (button) won 5144
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-171-1710709732 - Holdem no limit (70/300/600) - 2024/03/17 21:08:52 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (6441, 1.45€ bounty)
+Seat 2: FunnyDog (11681, 1.39€ bounty)
+Seat 3: P1xel7 (16983, 1.11€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 70
+P1xel7 posts ante 70
+steph1462 posts ante 70
+FunnyDog posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [6c Qs]
+*** PRE-FLOP *** 
+steph1462 folds
+FunnyDog raises 1200 to 1800
+P1xel7 folds
+FunnyDog collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Seat 2: FunnyDog (small blind) won 2610
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-172-1710709740 - Holdem no limit (70/300/600) - 2024/03/17 21:09:00 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (6371, 1.45€ bounty)
+Seat 2: FunnyDog (12421, 1.39€ bounty)
+Seat 3: P1xel7 (16313, 1.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+steph1462 posts ante 70
+FunnyDog posts ante 70
+P1xel7 posts small blind 300
+steph1462 posts big blind 600
+Dealt to P1xel7 [6h 8h]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 600 to 1200
+steph1462 raises 5101 to 6301 and is all-in
+P1xel7 folds
+steph1462 collected 7711 from pot
+*** SUMMARY ***
+Total pot 7711 | No rake
+Seat 1: steph1462 (big blind) won 7711
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-173-1710709763 - Holdem no limit (70/300/600) - 2024/03/17 21:09:23 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (7711, 1.45€ bounty)
+Seat 2: FunnyDog (12351, 1.39€ bounty)
+Seat 3: P1xel7 (15043, 1.11€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 70
+FunnyDog posts ante 70
+P1xel7 posts ante 70
+steph1462 posts small blind 300
+FunnyDog posts big blind 600
+Dealt to P1xel7 [2c 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+steph1462 folds
+FunnyDog collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 2: FunnyDog (big blind) won 1110
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-174-1710709770 - Holdem no limit (70/300/600) - 2024/03/17 21:09:30 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (7341, 1.45€ bounty)
+Seat 2: FunnyDog (12791, 1.39€ bounty)
+Seat 3: P1xel7 (14973, 1.11€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 70
+P1xel7 posts ante 70
+steph1462 posts ante 70
+FunnyDog posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [2d 9d]
+*** PRE-FLOP *** 
+steph1462 raises 600 to 1200
+FunnyDog folds
+P1xel7 calls 600
+*** FLOP *** [7c 9c 7s]
+P1xel7 checks
+steph1462 checks
+*** TURN *** [7c 9c 7s][6s]
+P1xel7 bets 2328
+steph1462 folds
+P1xel7 collected 5238 from pot
+*** SUMMARY ***
+Total pot 5238 | No rake
+Board: [7c 9c 7s 6s]
+Seat 3: P1xel7 (big blind) won 5238
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-175-1710709794 - Holdem no limit (70/300/600) - 2024/03/17 21:09:54 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: steph1462 (6071, 1.45€ bounty)
+Seat 2: FunnyDog (12421, 1.39€ bounty)
+Seat 3: P1xel7 (16613, 1.11€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+steph1462 posts ante 70
+FunnyDog posts ante 70
+P1xel7 posts small blind 300
+steph1462 posts big blind 600
+Dealt to P1xel7 [Qs 4s]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 15943 to 16543 and is all-in
+steph1462 folds
+P1xel7 collected 17353 from pot
+*** SUMMARY ***
+Total pot 17353 | No rake
+Seat 3: P1xel7 (small blind) won 17353
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-176-1710709806 - Holdem no limit (70/300/600) - 2024/03/17 21:10:06 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: steph1462 (5401, 1.45€ bounty)
+Seat 2: FunnyDog (12351, 1.39€ bounty)
+Seat 3: P1xel7 (17353, 1.11€ bounty)
+*** ANTE/BLINDS ***
+steph1462 posts ante 70
+FunnyDog posts ante 70
+P1xel7 posts ante 70
+steph1462 posts small blind 300
+FunnyDog posts big blind 600
+Dealt to P1xel7 [8h 9s]
+*** PRE-FLOP *** 
+P1xel7 raises 600 to 1200
+steph1462 folds
+FunnyDog calls 600
+*** FLOP *** [Ks 5d Ad]
+FunnyDog checks
+P1xel7 bets 1455
+FunnyDog folds
+P1xel7 collected 4365 from pot
+*** SUMMARY ***
+Total pot 4365 | No rake
+Board: [Ks 5d Ad]
+Seat 3: P1xel7 (button) won 4365
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-177-1710709831 - Holdem no limit (70/300/600) - 2024/03/17 21:10:31 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: steph1462 (5031, 1.45€ bounty)
+Seat 2: FunnyDog (11081, 1.39€ bounty)
+Seat 3: P1xel7 (18993, 1.11€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 70
+P1xel7 posts ante 70
+steph1462 posts ante 70
+FunnyDog posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [Td Kc]
+*** PRE-FLOP *** 
+steph1462 raises 4361 to 4961 and is all-in
+FunnyDog folds
+P1xel7 calls 4361
+*** FLOP *** [9s Js Ah]
+*** TURN *** [9s Js Ah][Qd]
+*** RIVER *** [9s Js Ah Qd][6c]
+*** SHOW DOWN ***
+steph1462 shows [Ks 7h] (High card : Ace)
+P1xel7 shows [Td Kc] (Straight Ace high)
+P1xel7 collected 10432 from pot
+*** SUMMARY ***
+Total pot 10432 | No rake
+Board: [9s Js Ah Qd 6c]
+Seat 1: steph1462 (button) showed [Ks 7h] and lost with High card : Ace
+Seat 3: P1xel7 (big blind) showed [Td Kc] and won 10432 with Straight Ace high
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-178-1710709845 - Holdem no limit (70/300/600) - 2024/03/17 21:10:45 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 2: FunnyDog (10711, 1.39€ bounty)
+Seat 3: P1xel7 (24394, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+FunnyDog posts ante 70
+P1xel7 posts small blind 300
+FunnyDog posts big blind 600
+Dealt to P1xel7 [9s 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+FunnyDog collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Seat 2: FunnyDog (big blind) won 1040
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-179-1710709849 - Holdem no limit (70/300/600) - 2024/03/17 21:10:49 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 2: FunnyDog (11081, 1.39€ bounty)
+Seat 3: P1xel7 (24024, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 70
+P1xel7 posts ante 70
+FunnyDog posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [Qd 5h]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Seat 3: P1xel7 (big blind) won 1040
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 20 - HandId: #3250219838437588997-180-1710709854 - Holdem no limit (70/300/600) - 2024/03/17 21:10:54 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 2: FunnyDog (10711, 1.39€ bounty)
+Seat 3: P1xel7 (24394, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+FunnyDog posts ante 70
+P1xel7 posts small blind 300
+FunnyDog posts big blind 600
+Dealt to P1xel7 [Kd Qd]
+*** PRE-FLOP *** 
+P1xel7 raises 600 to 1200
+FunnyDog folds
+P1xel7 collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | No rake
+Seat 3: P1xel7 (small blind) (button) won 1940
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-181-1710709862 - Holdem no limit (80/350/700) - 2024/03/17 21:11:02 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 2: FunnyDog (10041, 1.39€ bounty)
+Seat 3: P1xel7 (25064, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 80
+P1xel7 posts ante 80
+FunnyDog posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [6s 6d]
+*** PRE-FLOP *** 
+FunnyDog raises 700 to 1400
+P1xel7 raises 23584 to 24984 and is all-in
+FunnyDog folds
+P1xel7 collected 26544 from pot
+*** SUMMARY ***
+Total pot 26544 | No rake
+Seat 3: P1xel7 (big blind) won 26544
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-182-1710709878 - Holdem no limit (80/350/700) - 2024/03/17 21:11:18 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: KuKKraPoK (14090, 2.05€ bounty)
+Seat 2: FunnyDog (8561, 1.39€ bounty)
+Seat 3: P1xel7 (26544, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+KuKKraPoK posts ante 80
+FunnyDog posts ante 80
+P1xel7 posts small blind 350
+KuKKraPoK posts big blind 700
+Dealt to P1xel7 [9s Qh]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 700 to 1400
+KuKKraPoK folds
+P1xel7 collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Seat 3: P1xel7 (small blind) won 2340
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-183-1710709888 - Holdem no limit (80/350/700) - 2024/03/17 21:11:28 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: KuKKraPoK (13310, 2.05€ bounty)
+Seat 2: FunnyDog (8481, 1.39€ bounty)
+Seat 3: P1xel7 (27404, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 80
+FunnyDog posts ante 80
+P1xel7 posts ante 80
+KuKKraPoK posts small blind 350
+FunnyDog posts big blind 700
+Dealt to P1xel7 [Jh 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+KuKKraPoK folds
+FunnyDog collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Seat 2: FunnyDog (big blind) won 1290
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-184-1710709894 - Holdem no limit (80/350/700) - 2024/03/17 21:11:34 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: KuKKraPoK (12880, 2.05€ bounty)
+Seat 2: FunnyDog (8991, 1.39€ bounty)
+Seat 3: P1xel7 (27324, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 80
+P1xel7 posts ante 80
+KuKKraPoK posts ante 80
+FunnyDog posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [3s 8c]
+*** PRE-FLOP *** 
+KuKKraPoK folds
+FunnyDog folds
+P1xel7 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Seat 3: P1xel7 (big blind) won 1290
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-185-1710709899 - Holdem no limit (80/350/700) - 2024/03/17 21:11:39 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: KuKKraPoK (12800, 2.05€ bounty)
+Seat 2: FunnyDog (8561, 1.39€ bounty)
+Seat 3: P1xel7 (27834, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+KuKKraPoK posts ante 80
+FunnyDog posts ante 80
+P1xel7 posts small blind 350
+KuKKraPoK posts big blind 700
+Dealt to P1xel7 [3s Td]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 700 to 1400
+KuKKraPoK raises 11320 to 12720 and is all-in
+P1xel7 folds
+KuKKraPoK collected 14360 from pot
+*** SUMMARY ***
+Total pot 14360 | No rake
+Seat 1: KuKKraPoK (big blind) won 14360
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-186-1710709924 - Holdem no limit (80/350/700) - 2024/03/17 21:12:04 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: KuKKraPoK (14360, 2.05€ bounty)
+Seat 2: FunnyDog (8481, 1.39€ bounty)
+Seat 3: P1xel7 (26354, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 80
+FunnyDog posts ante 80
+P1xel7 posts ante 80
+KuKKraPoK posts small blind 350
+FunnyDog posts big blind 700
+Dealt to P1xel7 [9c 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+KuKKraPoK raises 13580 to 14280 and is all-in
+FunnyDog calls 7701 and is all-in
+*** FLOP *** [Ad 2d Kc]
+*** TURN *** [Ad 2d Kc][9h]
+*** RIVER *** [Ad 2d Kc 9h][4s]
+*** SHOW DOWN ***
+KuKKraPoK shows [Jd Ah] (One pair : Aces)
+FunnyDog shows [9d As] (Two pairs : Aces and 9)
+FunnyDog collected 17042 from main pot
+KuKKraPoK collected 5879 from side pot 1
+*** SUMMARY ***
+Total pot 22921 | No rake
+Board: [Ad 2d Kc 9h 4s]
+Seat 1: KuKKraPoK (small blind) showed [Jd Ah] and won 5879 with One pair : Aces
+Seat 2: FunnyDog (big blind) showed [9d As] and won 17042 with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-187-1710709938 - Holdem no limit (80/350/700) - 2024/03/17 21:12:18 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: KuKKraPoK (5879, 2.05€ bounty)
+Seat 2: FunnyDog (17042, 1.39€ bounty)
+Seat 3: P1xel7 (26274, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 80
+P1xel7 posts ante 80
+KuKKraPoK posts ante 80
+FunnyDog posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [7c 4h]
+*** PRE-FLOP *** 
+KuKKraPoK folds
+FunnyDog raises 700 to 1400
+P1xel7 folds
+FunnyDog collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | No rake
+Seat 2: FunnyDog (small blind) won 2340
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-188-1710709947 - Holdem no limit (80/350/700) - 2024/03/17 21:12:27 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: KuKKraPoK (5799, 2.05€ bounty)
+Seat 2: FunnyDog (17902, 1.39€ bounty)
+Seat 3: P1xel7 (25494, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+KuKKraPoK posts ante 80
+FunnyDog posts ante 80
+P1xel7 posts small blind 350
+KuKKraPoK posts big blind 700
+Dealt to P1xel7 [2d 3h]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 24714 to 25414 and is all-in
+KuKKraPoK folds
+P1xel7 collected 26354 from pot
+*** SUMMARY ***
+Total pot 26354 | No rake
+Seat 3: P1xel7 (small blind) won 26354
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-189-1710709955 - Holdem no limit (80/350/700) - 2024/03/17 21:12:35 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: KuKKraPoK (5019, 2.05€ bounty)
+Seat 2: FunnyDog (17822, 1.39€ bounty)
+Seat 3: P1xel7 (26354, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 80
+FunnyDog posts ante 80
+P1xel7 posts ante 80
+KuKKraPoK posts small blind 350
+FunnyDog posts big blind 700
+Dealt to P1xel7 [4c 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+KuKKraPoK raises 4239 to 4939 and is all-in
+FunnyDog folds
+KuKKraPoK collected 5879 from pot
+*** SUMMARY ***
+Total pot 5879 | No rake
+Seat 1: KuKKraPoK (small blind) won 5879
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-190-1710709962 - Holdem no limit (80/350/700) - 2024/03/17 21:12:42 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: KuKKraPoK (5879, 2.05€ bounty)
+Seat 2: FunnyDog (17042, 1.39€ bounty)
+Seat 3: P1xel7 (26274, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 80
+P1xel7 posts ante 80
+KuKKraPoK posts ante 80
+FunnyDog posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [3d Qs]
+*** PRE-FLOP *** 
+KuKKraPoK folds
+FunnyDog folds
+P1xel7 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Seat 3: P1xel7 (big blind) won 1290
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-191-1710709968 - Holdem no limit (80/350/700) - 2024/03/17 21:12:48 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: KuKKraPoK (5799, 2.05€ bounty)
+Seat 2: FunnyDog (16612, 1.39€ bounty)
+Seat 3: P1xel7 (26784, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+KuKKraPoK posts ante 80
+FunnyDog posts ante 80
+P1xel7 posts small blind 350
+KuKKraPoK posts big blind 700
+Dealt to P1xel7 [6c 4s]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 26004 to 26704 and is all-in
+KuKKraPoK folds
+P1xel7 collected 27644 from pot
+*** SUMMARY ***
+Total pot 27644 | No rake
+Seat 3: P1xel7 (small blind) won 27644
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-192-1710709975 - Holdem no limit (80/350/700) - 2024/03/17 21:12:55 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: KuKKraPoK (5019, 2.05€ bounty)
+Seat 2: FunnyDog (16532, 1.39€ bounty)
+Seat 3: P1xel7 (27644, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 80
+FunnyDog posts ante 80
+P1xel7 posts ante 80
+KuKKraPoK posts small blind 350
+FunnyDog posts big blind 700
+Dealt to P1xel7 [Ah 6c]
+*** PRE-FLOP *** 
+P1xel7 raises 700 to 1400
+KuKKraPoK folds
+FunnyDog folds
+P1xel7 collected 2690 from pot
+*** SUMMARY ***
+Total pot 2690 | No rake
+Seat 3: P1xel7 (button) won 2690
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-193-1710709988 - Holdem no limit (80/350/700) - 2024/03/17 21:13:08 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: KuKKraPoK (4589, 2.05€ bounty)
+Seat 2: FunnyDog (15752, 1.39€ bounty)
+Seat 3: P1xel7 (28854, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 80
+P1xel7 posts ante 80
+KuKKraPoK posts ante 80
+FunnyDog posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [5c Kd]
+*** PRE-FLOP *** 
+KuKKraPoK raises 3809 to 4509 and is all-in
+FunnyDog folds
+P1xel7 calls 3809
+*** FLOP *** [9h Qs Jh]
+*** TURN *** [9h Qs Jh][7d]
+*** RIVER *** [9h Qs Jh 7d][6c]
+*** SHOW DOWN ***
+P1xel7 shows [5c Kd] (High card : King)
+KuKKraPoK shows [4h 4d] (One pair : 4)
+KuKKraPoK collected 9608 from pot
+*** SUMMARY ***
+Total pot 9608 | No rake
+Board: [9h Qs Jh 7d 6c]
+Seat 1: KuKKraPoK (button) showed [4h 4d] and won 9608 with One pair : 4
+Seat 3: P1xel7 (big blind) showed [5c Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-194-1710710001 - Holdem no limit (80/350/700) - 2024/03/17 21:13:21 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: KuKKraPoK (9608, 2.05€ bounty)
+Seat 2: FunnyDog (15322, 1.39€ bounty)
+Seat 3: P1xel7 (24265, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+KuKKraPoK posts ante 80
+FunnyDog posts ante 80
+P1xel7 posts small blind 350
+KuKKraPoK posts big blind 700
+Dealt to P1xel7 [Kd 5s]
+*** PRE-FLOP *** 
+FunnyDog raises 1400 to 2100
+P1xel7 folds
+KuKKraPoK folds
+FunnyDog collected 3390 from pot
+*** SUMMARY ***
+Total pot 3390 | No rake
+Seat 2: FunnyDog (button) won 3390
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 21 - HandId: #3250219838437588997-195-1710710010 - Holdem no limit (80/350/700) - 2024/03/17 21:13:30 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: KuKKraPoK (8828, 2.05€ bounty)
+Seat 2: FunnyDog (16532, 1.39€ bounty)
+Seat 3: P1xel7 (23835, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 80
+FunnyDog posts ante 80
+P1xel7 posts ante 80
+KuKKraPoK posts small blind 350
+FunnyDog posts big blind 700
+Dealt to P1xel7 [Ad Qs]
+*** PRE-FLOP *** 
+P1xel7 raises 700 to 1400
+KuKKraPoK folds
+FunnyDog folds
+P1xel7 collected 2690 from pot
+*** SUMMARY ***
+Total pot 2690 | No rake
+Seat 3: P1xel7 (button) won 2690
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 22 - HandId: #3250219838437588997-196-1710710016 - Holdem no limit (100/400/800) - 2024/03/17 21:13:36 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: KuKKraPoK (8398, 2.05€ bounty)
+Seat 2: FunnyDog (15752, 1.39€ bounty)
+Seat 3: P1xel7 (25045, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 100
+P1xel7 posts ante 100
+KuKKraPoK posts ante 100
+FunnyDog posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [2c Jc]
+*** PRE-FLOP *** 
+KuKKraPoK folds
+FunnyDog raises 800 to 1600
+P1xel7 calls 800
+*** FLOP *** [5s Ts Kd]
+FunnyDog checks
+P1xel7 bets 1600
+FunnyDog folds
+P1xel7 collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Board: [5s Ts Kd]
+Seat 3: P1xel7 (big blind) won 5100
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 22 - HandId: #3250219838437588997-197-1710710038 - Holdem no limit (100/400/800) - 2024/03/17 21:13:58 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: KuKKraPoK (8298, 2.05€ bounty)
+Seat 2: FunnyDog (14052, 1.39€ bounty)
+Seat 3: P1xel7 (26845, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+KuKKraPoK posts ante 100
+FunnyDog posts ante 100
+P1xel7 posts small blind 400
+KuKKraPoK posts big blind 800
+Dealt to P1xel7 [4s 2h]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 folds
+KuKKraPoK collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 1: KuKKraPoK (big blind) won 1500
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 22 - HandId: #3250219838437588997-198-1710710044 - Holdem no limit (100/400/800) - 2024/03/17 21:14:04 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: KuKKraPoK (8898, 2.05€ bounty)
+Seat 2: FunnyDog (13952, 1.39€ bounty)
+Seat 3: P1xel7 (26345, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 100
+FunnyDog posts ante 100
+P1xel7 posts ante 100
+KuKKraPoK posts small blind 400
+FunnyDog posts big blind 800
+Dealt to P1xel7 [Js As]
+*** PRE-FLOP *** 
+P1xel7 raises 800 to 1600
+KuKKraPoK raises 7198 to 8798 and is all-in
+FunnyDog folds
+P1xel7 calls 7198
+*** FLOP *** [2d Ah 2c]
+*** TURN *** [2d Ah 2c][Qc]
+*** RIVER *** [2d Ah 2c Qc][Tc]
+*** SHOW DOWN ***
+P1xel7 shows [Js As] (Two pairs : Aces and 2)
+KuKKraPoK shows [Kd Ac] (Two pairs : Aces and 2)
+KuKKraPoK collected 18696 from pot
+*** SUMMARY ***
+Total pot 18696 | No rake
+Board: [2d Ah 2c Qc Tc]
+Seat 1: KuKKraPoK (small blind) showed [Kd Ac] and won 18696 with Two pairs : Aces and 2
+Seat 3: P1xel7 (button) showed [Js As] and lost with Two pairs : Aces and 2
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 22 - HandId: #3250219838437588997-199-1710710060 - Holdem no limit (100/400/800) - 2024/03/17 21:14:20 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: KuKKraPoK (18696, 2.05€ bounty)
+Seat 2: FunnyDog (13052, 1.39€ bounty)
+Seat 3: P1xel7 (17447, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 100
+P1xel7 posts ante 100
+KuKKraPoK posts ante 100
+FunnyDog posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [Qh 4s]
+*** PRE-FLOP *** 
+KuKKraPoK folds
+FunnyDog calls 400
+P1xel7 checks
+*** FLOP *** [8d 3c 9h]
+FunnyDog checks
+P1xel7 checks
+*** TURN *** [8d 3c 9h][3s]
+FunnyDog checks
+P1xel7 bets 1200
+FunnyDog folds
+P1xel7 collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [8d 3c 9h 3s]
+Seat 3: P1xel7 (big blind) won 3100
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 22 - HandId: #3250219838437588997-200-1710710077 - Holdem no limit (100/400/800) - 2024/03/17 21:14:37 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: KuKKraPoK (18596, 2.05€ bounty)
+Seat 2: FunnyDog (12152, 1.39€ bounty)
+Seat 3: P1xel7 (18447, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+KuKKraPoK posts ante 100
+FunnyDog posts ante 100
+P1xel7 posts small blind 400
+KuKKraPoK posts big blind 800
+Dealt to P1xel7 [As 4d]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 raises 800 to 1600
+KuKKraPoK calls 800
+*** FLOP *** [5d 2c Ts]
+P1xel7 bets 2000
+KuKKraPoK calls 2000
+*** TURN *** [5d 2c Ts][3c]
+P1xel7 bets 3750
+KuKKraPoK folds
+P1xel7 collected 11250 from pot
+*** SUMMARY ***
+Total pot 11250 | No rake
+Board: [5d 2c Ts 3c]
+Seat 3: P1xel7 (small blind) won 11250
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 22 - HandId: #3250219838437588997-201-1710710097 - Holdem no limit (100/400/800) - 2024/03/17 21:14:57 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: KuKKraPoK (14896, 2.05€ bounty)
+Seat 2: FunnyDog (12052, 1.39€ bounty)
+Seat 3: P1xel7 (22247, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 100
+FunnyDog posts ante 100
+P1xel7 posts ante 100
+KuKKraPoK posts small blind 400
+FunnyDog posts big blind 800
+Dealt to P1xel7 [Ac 3s]
+*** PRE-FLOP *** 
+P1xel7 raises 800 to 1600
+KuKKraPoK folds
+FunnyDog folds
+P1xel7 collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Seat 3: P1xel7 (button) won 3100
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 22 - HandId: #3250219838437588997-202-1710710113 - Holdem no limit (100/400/800) - 2024/03/17 21:15:13 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: KuKKraPoK (14396, 2.05€ bounty)
+Seat 2: FunnyDog (11152, 1.39€ bounty)
+Seat 3: P1xel7 (23647, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 100
+P1xel7 posts ante 100
+KuKKraPoK posts ante 100
+FunnyDog posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [7h 2s]
+*** PRE-FLOP *** 
+KuKKraPoK raises 976 to 1776
+FunnyDog folds
+P1xel7 folds
+KuKKraPoK collected 3276 from pot
+*** SUMMARY ***
+Total pot 3276 | No rake
+Seat 1: KuKKraPoK (button) won 3276
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 22 - HandId: #3250219838437588997-203-1710710121 - Holdem no limit (100/400/800) - 2024/03/17 21:15:21 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: KuKKraPoK (15796, 2.05€ bounty)
+Seat 2: FunnyDog (10652, 1.39€ bounty)
+Seat 3: P1xel7 (22747, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+KuKKraPoK posts ante 100
+FunnyDog posts ante 100
+P1xel7 posts small blind 400
+KuKKraPoK posts big blind 800
+Dealt to P1xel7 [Ad Qs]
+*** PRE-FLOP *** 
+FunnyDog raises 800 to 1600
+P1xel7 raises 21047 to 22647 and is all-in
+KuKKraPoK folds
+FunnyDog folds
+P1xel7 collected 25347 from pot
+*** SUMMARY ***
+Total pot 25347 | No rake
+Seat 3: P1xel7 (small blind) won 25347
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 22 - HandId: #3250219838437588997-204-1710710134 - Holdem no limit (100/400/800) - 2024/03/17 21:15:34 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: KuKKraPoK (14896, 2.05€ bounty)
+Seat 2: FunnyDog (8952, 1.39€ bounty)
+Seat 3: P1xel7 (25347, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 100
+FunnyDog posts ante 100
+P1xel7 posts ante 100
+KuKKraPoK posts small blind 400
+FunnyDog posts big blind 800
+Dealt to P1xel7 [2c 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+KuKKraPoK folds
+FunnyDog collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 2: FunnyDog (big blind) won 1500
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 22 - HandId: #3250219838437588997-205-1710710140 - Holdem no limit (100/400/800) - 2024/03/17 21:15:40 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: KuKKraPoK (14396, 2.05€ bounty)
+Seat 2: FunnyDog (9552, 1.39€ bounty)
+Seat 3: P1xel7 (25247, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 100
+P1xel7 posts ante 100
+KuKKraPoK posts ante 100
+FunnyDog posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [5c 6s]
+*** PRE-FLOP *** 
+KuKKraPoK folds
+FunnyDog raises 800 to 1600
+P1xel7 calls 800
+*** FLOP *** [3c 8c 8h]
+FunnyDog checks
+P1xel7 bets 2000
+FunnyDog raises 5852 to 7852 and is all-in
+P1xel7 folds
+FunnyDog collected 13352 from pot
+*** SUMMARY ***
+Total pot 13352 | No rake
+Board: [3c 8c 8h]
+Seat 2: FunnyDog (small blind) won 13352
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 23 - HandId: #3250219838437588997-206-1710710164 - Holdem no limit (120/500/1000) - 2024/03/17 21:16:04 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: KuKKraPoK (14296, 2.05€ bounty)
+Seat 2: FunnyDog (13352, 1.39€ bounty)
+Seat 3: P1xel7 (21547, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+KuKKraPoK posts ante 120
+FunnyDog posts ante 120
+P1xel7 posts small blind 500
+KuKKraPoK posts big blind 1000
+Dealt to P1xel7 [Ts 2s]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 folds
+KuKKraPoK collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Seat 1: KuKKraPoK (big blind) won 1860
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 23 - HandId: #3250219838437588997-207-1710710169 - Holdem no limit (120/500/1000) - 2024/03/17 21:16:09 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: KuKKraPoK (15036, 2.05€ bounty)
+Seat 2: FunnyDog (13232, 1.39€ bounty)
+Seat 3: P1xel7 (20927, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 120
+FunnyDog posts ante 120
+P1xel7 posts ante 120
+KuKKraPoK posts small blind 500
+FunnyDog posts big blind 1000
+Dealt to P1xel7 [3h Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+KuKKraPoK folds
+FunnyDog collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Seat 2: FunnyDog (big blind) won 1860
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 23 - HandId: #3250219838437588997-208-1710710176 - Holdem no limit (120/500/1000) - 2024/03/17 21:16:16 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #1 is the button
+Seat 1: KuKKraPoK (14416, 2.05€ bounty)
+Seat 2: FunnyDog (13972, 1.39€ bounty)
+Seat 3: P1xel7 (20807, 1.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 120
+P1xel7 posts ante 120
+KuKKraPoK posts ante 120
+FunnyDog posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [3s 2c]
+*** PRE-FLOP *** 
+KuKKraPoK raises 13296 to 14296 and is all-in
+FunnyDog folds
+P1xel7 folds
+KuKKraPoK collected 16156 from pot
+*** SUMMARY ***
+Total pot 16156 | No rake
+Seat 1: KuKKraPoK (button) won 16156
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 23 - HandId: #3250219838437588997-209-1710710185 - Holdem no limit (120/500/1000) - 2024/03/17 21:16:25 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #2 is the button
+Seat 1: KuKKraPoK (16156, 2.05€ bounty)
+Seat 2: FunnyDog (13352, 1.39€ bounty)
+Seat 3: P1xel7 (19687, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+KuKKraPoK posts ante 120
+FunnyDog posts ante 120
+P1xel7 posts small blind 500
+KuKKraPoK posts big blind 1000
+Dealt to P1xel7 [Js Th]
+*** PRE-FLOP *** 
+FunnyDog raises 2000 to 3000
+P1xel7 folds
+KuKKraPoK folds
+FunnyDog collected 4860 from pot
+*** SUMMARY ***
+Total pot 4860 | No rake
+Seat 2: FunnyDog (button) won 4860
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 23 - HandId: #3250219838437588997-210-1710710195 - Holdem no limit (120/500/1000) - 2024/03/17 21:16:35 UTC
+Table: 'Trident(756750777)#0004' 3-max (real money) Seat #3 is the button
+Seat 1: KuKKraPoK (15036, 2.05€ bounty)
+Seat 2: FunnyDog (15092, 1.39€ bounty)
+Seat 3: P1xel7 (19067, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 120
+FunnyDog posts ante 120
+P1xel7 posts ante 120
+KuKKraPoK posts small blind 500
+FunnyDog posts big blind 1000
+Dealt to P1xel7 [5d 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+KuKKraPoK folds
+FunnyDog collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Seat 2: FunnyDog (big blind) won 1860
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 23 - HandId: #3250219838437588993-130-1710710203 - Holdem no limit (120/500/1000) - 2024/03/17 21:16:43 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #3 is the button
+Seat 1: Edenpark1338 (45563, 3.39€ bounty)
+Seat 2: KuKKraPoK (14416, 2.05€ bounty)
+Seat 3: P1xel7 (18947, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Edenpark1338 posts ante 120
+P1xel7 posts small blind 500
+Edenpark1338 posts big blind 1000
+Dealt to P1xel7 [5h 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Edenpark1338 collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Seat 1: Edenpark1338 (big blind) won 1740
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 23 - HandId: #3250219838437588993-131-1710710207 - Holdem no limit (120/500/1000) - 2024/03/17 21:16:47 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #3 is the button
+Seat 1: Edenpark1338 (46183, 3.39€ bounty)
+Seat 2: KuKKraPoK (14416, 2.05€ bounty)
+Seat 3: P1xel7 (18327, 1.83€ bounty)
+*** ANTE/BLINDS ***
+Edenpark1338 posts ante 120
+KuKKraPoK posts ante 120
+P1xel7 posts ante 120
+Edenpark1338 posts small blind 500
+KuKKraPoK posts big blind 1000
+Dealt to P1xel7 [9h 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Edenpark1338 raises 1000 to 2000
+KuKKraPoK folds
+Edenpark1338 collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Seat 1: Edenpark1338 (small blind) won 3360
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 23 - HandId: #3250219838437588993-132-1710710225 - Holdem no limit (120/500/1000) - 2024/03/17 21:17:05 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #1 is the button
+Seat 1: Edenpark1338 (47423, 3.39€ bounty)
+Seat 2: KuKKraPoK (13296, 2.05€ bounty)
+Seat 3: P1xel7 (18207, 1.83€ bounty)
+*** ANTE/BLINDS ***
+KuKKraPoK posts ante 120
+P1xel7 posts ante 120
+Edenpark1338 posts ante 120
+KuKKraPoK posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [3h 8h]
+*** PRE-FLOP *** 
+Edenpark1338 calls 1000
+KuKKraPoK calls 500
+P1xel7 checks
+*** FLOP *** [7h 9h 6c]
+KuKKraPoK checks
+P1xel7 checks
+Edenpark1338 bets 1000
+KuKKraPoK folds
+P1xel7 calls 1000
+*** TURN *** [7h 9h 6c][Kc]
+P1xel7 checks
+Edenpark1338 checks
+*** RIVER *** [7h 9h 6c Kc][Tc]
+P1xel7 bets 3484
+Edenpark1338 calls 3484
+*** SHOW DOWN ***
+Edenpark1338 shows [Th 7s] (Two pairs : Tens and 7)
+P1xel7 shows [3h 8h] (Straight Ten high)
+P1xel7 collected 12328 from pot
+*** SUMMARY ***
+Total pot 12328 | No rake
+Board: [7h 9h 6c Kc Tc]
+Seat 1: Edenpark1338 (button) showed [Th 7s] and lost with Two pairs : Tens and 7
+Seat 3: P1xel7 (big blind) showed [3h 8h] and won 12328 with Straight Ten high
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 23 - HandId: #3250219838437588993-133-1710710263 - Holdem no limit (120/500/1000) - 2024/03/17 21:17:43 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #2 is the button
+Seat 1: Edenpark1338 (41819, 3.39€ bounty)
+Seat 2: KuKKraPoK (12176, 2.05€ bounty)
+Seat 3: P1xel7 (24931, 1.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Edenpark1338 posts ante 120
+KuKKraPoK posts ante 120
+P1xel7 posts small blind 500
+Edenpark1338 posts big blind 1000
+Dealt to P1xel7 [Ah As]
+*** PRE-FLOP *** 
+KuKKraPoK raises 11056 to 12056 and is all-in
+P1xel7 calls 11556
+Edenpark1338 folds
+*** FLOP *** [6c Ts 6d]
+*** TURN *** [6c Ts 6d][Ac]
+*** RIVER *** [6c Ts 6d Ac][3d]
+*** SHOW DOWN ***
+KuKKraPoK shows [Jd Kd] (One pair : 6)
+P1xel7 shows [Ah As] (Full of Aces and 6)
+P1xel7 collected 25472 from pot
+*** SUMMARY ***
+Total pot 25472 | No rake
+Board: [6c Ts 6d Ac 3d]
+Seat 2: KuKKraPoK (button) showed [Jd Kd] and lost with One pair : 6
+Seat 3: P1xel7 (small blind) showed [Ah As] and won 25472 with Full of Aces and 6
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 23 - HandId: #3250219838437588994-208-1710710287 - Holdem no limit (120/500/1000) - 2024/03/17 21:18:07 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #1 is the button
+Seat 1: AnThO_91 (15560, 0.33€ bounty)
+Seat 2: 6_Haddock_8 (10946, 2.62€ bounty)
+Seat 3: P1xel7 (38227, 2.85€ bounty)
+*** ANTE/BLINDS ***
+6_Haddock_8 posts ante 120
+P1xel7 posts ante 120
+AnThO_91 posts ante 120
+6_Haddock_8 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Qh 2c]
+*** PRE-FLOP *** 
+AnThO_91 folds
+6_Haddock_8 calls 500
+P1xel7 checks
+*** FLOP *** [6s Kc 9s]
+6_Haddock_8 checks
+P1xel7 bets 1500
+6_Haddock_8 calls 1500
+*** TURN *** [6s Kc 9s][Tc]
+6_Haddock_8 bets 8326 and is all-in
+P1xel7 folds
+6_Haddock_8 collected 13686 from pot
+*** SUMMARY ***
+Total pot 13686 | No rake
+Board: [6s Kc 9s Tc]
+Seat 2: 6_Haddock_8 (small blind) won 13686
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-209-1710710317 - Holdem no limit (140/600/1200) - 2024/03/17 21:18:37 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #2 is the button
+Seat 1: AnThO_91 (15440, 0.33€ bounty)
+Seat 2: 6_Haddock_8 (13686, 2.62€ bounty)
+Seat 3: P1xel7 (35607, 2.85€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+AnThO_91 posts ante 140
+6_Haddock_8 posts ante 140
+P1xel7 posts small blind 600
+AnThO_91 posts big blind 1200
+Dealt to P1xel7 [5c 5s]
+*** PRE-FLOP *** 
+6_Haddock_8 folds
+P1xel7 raises 34267 to 35467 and is all-in
+AnThO_91 folds
+P1xel7 collected 37087 from pot
+*** SUMMARY ***
+Total pot 37087 | No rake
+Seat 3: P1xel7 (small blind) won 37087
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-210-1710710325 - Holdem no limit (140/600/1200) - 2024/03/17 21:18:45 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #3 is the button
+Seat 1: AnThO_91 (14100, 0.33€ bounty)
+Seat 2: 6_Haddock_8 (13546, 2.62€ bounty)
+Seat 3: P1xel7 (37087, 2.85€ bounty)
+*** ANTE/BLINDS ***
+AnThO_91 posts ante 140
+6_Haddock_8 posts ante 140
+P1xel7 posts ante 140
+AnThO_91 posts small blind 600
+6_Haddock_8 posts big blind 1200
+Dealt to P1xel7 [3c 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+AnThO_91 raises 12760 to 13960 and is all-in
+6_Haddock_8 folds
+AnThO_91 collected 15580 from pot
+*** SUMMARY ***
+Total pot 15580 | No rake
+Seat 1: AnThO_91 (small blind) won 15580
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-211-1710710332 - Holdem no limit (140/600/1200) - 2024/03/17 21:18:52 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #1 is the button
+Seat 1: AnThO_91 (15580, 0.33€ bounty)
+Seat 2: 6_Haddock_8 (12206, 2.62€ bounty)
+Seat 3: P1xel7 (36947, 2.85€ bounty)
+*** ANTE/BLINDS ***
+6_Haddock_8 posts ante 140
+P1xel7 posts ante 140
+AnThO_91 posts ante 140
+6_Haddock_8 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [3h 8c]
+*** PRE-FLOP *** 
+AnThO_91 raises 14240 to 15440 and is all-in
+6_Haddock_8 folds
+P1xel7 folds
+AnThO_91 collected 17660 from pot
+*** SUMMARY ***
+Total pot 17660 | No rake
+Seat 1: AnThO_91 (button) won 17660
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-212-1710710339 - Holdem no limit (140/600/1200) - 2024/03/17 21:18:59 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #3 is the button
+Seat 2: 6_Haddock_8 (11466, 2.62€ bounty)
+Seat 3: P1xel7 (35607, 2.85€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+6_Haddock_8 posts ante 140
+P1xel7 posts small blind 600
+6_Haddock_8 posts big blind 1200
+Dealt to P1xel7 [Js 6d]
+*** PRE-FLOP *** 
+P1xel7 folds
+6_Haddock_8 collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Seat 2: 6_Haddock_8 (big blind) won 2080
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-213-1710710346 - Holdem no limit (140/600/1200) - 2024/03/17 21:19:06 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #2 is the button
+Seat 2: 6_Haddock_8 (12206, 2.62€ bounty)
+Seat 3: P1xel7 (34867, 2.85€ bounty)
+*** ANTE/BLINDS ***
+6_Haddock_8 posts ante 140
+P1xel7 posts ante 140
+6_Haddock_8 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [3h 3c]
+*** PRE-FLOP *** 
+6_Haddock_8 calls 600
+P1xel7 raises 33527 to 34727 and is all-in
+6_Haddock_8 folds
+P1xel7 collected 36207 from pot
+*** SUMMARY ***
+Total pot 36207 | No rake
+Seat 3: P1xel7 (big blind) won 36207
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-214-1710710354 - Holdem no limit (140/600/1200) - 2024/03/17 21:19:14 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #3 is the button
+Seat 2: 6_Haddock_8 (10866, 2.62€ bounty)
+Seat 3: P1xel7 (36207, 2.85€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+6_Haddock_8 posts ante 140
+P1xel7 posts small blind 600
+6_Haddock_8 posts big blind 1200
+Dealt to P1xel7 [Kh Qd]
+*** PRE-FLOP *** 
+P1xel7 raises 34867 to 36067 and is all-in
+6_Haddock_8 folds
+P1xel7 collected 37547 from pot
+*** SUMMARY ***
+Total pot 37547 | No rake
+Seat 3: P1xel7 (small blind) (button) won 37547
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-215-1710710360 - Holdem no limit (140/600/1200) - 2024/03/17 21:19:20 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #2 is the button
+Seat 2: 6_Haddock_8 (9526, 2.62€ bounty)
+Seat 3: P1xel7 (37547, 2.85€ bounty)
+*** ANTE/BLINDS ***
+6_Haddock_8 posts ante 140
+P1xel7 posts ante 140
+6_Haddock_8 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [7h 4s]
+*** PRE-FLOP *** 
+6_Haddock_8 calls 600
+P1xel7 checks
+*** FLOP *** [7c 3s 5h]
+P1xel7 checks
+6_Haddock_8 bets 1340
+P1xel7 raises 34867 to 36207 and is all-in
+6_Haddock_8 folds
+P1xel7 collected 40227 from pot
+*** SUMMARY ***
+Total pot 40227 | No rake
+Board: [7c 3s 5h]
+Seat 3: P1xel7 (big blind) won 40227
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-216-1710710377 - Holdem no limit (140/600/1200) - 2024/03/17 21:19:37 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #3 is the button
+Seat 2: 6_Haddock_8 (6846, 2.62€ bounty)
+Seat 3: P1xel7 (40227, 2.85€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+6_Haddock_8 posts ante 140
+P1xel7 posts small blind 600
+6_Haddock_8 posts big blind 1200
+Dealt to P1xel7 [Kd 4s]
+*** PRE-FLOP *** 
+P1xel7 raises 38887 to 40087 and is all-in
+6_Haddock_8 folds
+P1xel7 collected 41567 from pot
+*** SUMMARY ***
+Total pot 41567 | No rake
+Seat 3: P1xel7 (small blind) (button) won 41567
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-217-1710710382 - Holdem no limit (140/600/1200) - 2024/03/17 21:19:42 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #2 is the button
+Seat 2: 6_Haddock_8 (5506, 2.62€ bounty)
+Seat 3: P1xel7 (41567, 2.85€ bounty)
+*** ANTE/BLINDS ***
+6_Haddock_8 posts ante 140
+P1xel7 posts ante 140
+6_Haddock_8 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [7s Kc]
+*** PRE-FLOP *** 
+6_Haddock_8 folds
+P1xel7 collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Seat 3: P1xel7 (big blind) won 2080
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-218-1710710387 - Holdem no limit (140/600/1200) - 2024/03/17 21:19:47 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #3 is the button
+Seat 2: 6_Haddock_8 (4766, 2.62€ bounty)
+Seat 3: P1xel7 (42307, 2.85€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+6_Haddock_8 posts ante 140
+P1xel7 posts small blind 600
+6_Haddock_8 posts big blind 1200
+Dealt to P1xel7 [5c Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 40967 to 42167 and is all-in
+6_Haddock_8 folds
+P1xel7 collected 43647 from pot
+*** SUMMARY ***
+Total pot 43647 | No rake
+Seat 3: P1xel7 (small blind) (button) won 43647
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-219-1710710392 - Holdem no limit (140/600/1200) - 2024/03/17 21:19:52 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #2 is the button
+Seat 2: 6_Haddock_8 (3426, 2.62€ bounty)
+Seat 3: P1xel7 (43647, 2.85€ bounty)
+*** ANTE/BLINDS ***
+6_Haddock_8 posts ante 140
+P1xel7 posts ante 140
+6_Haddock_8 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [3s Ts]
+*** PRE-FLOP *** 
+6_Haddock_8 raises 2086 to 3286 and is all-in
+P1xel7 calls 2086
+*** FLOP *** [4d 7d Qc]
+*** TURN *** [4d 7d Qc][8c]
+*** RIVER *** [4d 7d Qc 8c][4h]
+*** SHOW DOWN ***
+P1xel7 shows [3s Ts] (One pair : 4)
+6_Haddock_8 shows [6s 8s] (Two pairs : 8 and 4)
+6_Haddock_8 collected 6852 from pot
+*** SUMMARY ***
+Total pot 6852 | No rake
+Board: [4d 7d Qc 8c 4h]
+Seat 2: 6_Haddock_8 (small blind) (button) showed [6s 8s] and won 6852 with Two pairs : 8 and 4
+Seat 3: P1xel7 (big blind) showed [3s Ts] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-220-1710710404 - Holdem no limit (140/600/1200) - 2024/03/17 21:20:04 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #3 is the button
+Seat 2: 6_Haddock_8 (6852, 2.62€ bounty)
+Seat 3: P1xel7 (40221, 2.85€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+6_Haddock_8 posts ante 140
+P1xel7 posts small blind 600
+6_Haddock_8 posts big blind 1200
+Dealt to P1xel7 [7s Js]
+*** PRE-FLOP *** 
+P1xel7 raises 38881 to 40081 and is all-in
+6_Haddock_8 folds
+P1xel7 collected 41561 from pot
+*** SUMMARY ***
+Total pot 41561 | No rake
+Seat 3: P1xel7 (small blind) (button) won 41561
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-221-1710710411 - Holdem no limit (140/600/1200) - 2024/03/17 21:20:11 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #2 is the button
+Seat 2: 6_Haddock_8 (5512, 2.62€ bounty)
+Seat 3: P1xel7 (41561, 2.85€ bounty)
+*** ANTE/BLINDS ***
+6_Haddock_8 posts ante 140
+P1xel7 posts ante 140
+6_Haddock_8 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [Ks 2d]
+*** PRE-FLOP *** 
+6_Haddock_8 folds
+P1xel7 collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Seat 3: P1xel7 (big blind) won 2080
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-222-1710710415 - Holdem no limit (140/600/1200) - 2024/03/17 21:20:15 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #3 is the button
+Seat 2: 6_Haddock_8 (4772, 2.62€ bounty)
+Seat 3: P1xel7 (42301, 2.85€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+6_Haddock_8 posts ante 140
+P1xel7 posts small blind 600
+6_Haddock_8 posts big blind 1200
+Dealt to P1xel7 [3c 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+6_Haddock_8 collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Seat 2: 6_Haddock_8 (big blind) won 2080
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-223-1710710421 - Holdem no limit (140/600/1200) - 2024/03/17 21:20:21 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #2 is the button
+Seat 2: 6_Haddock_8 (5512, 2.62€ bounty)
+Seat 3: P1xel7 (41561, 2.85€ bounty)
+*** ANTE/BLINDS ***
+6_Haddock_8 posts ante 140
+P1xel7 posts ante 140
+6_Haddock_8 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [6h Ts]
+*** PRE-FLOP *** 
+6_Haddock_8 folds
+P1xel7 collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | No rake
+Seat 3: P1xel7 (big blind) won 2080
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-224-1710710426 - Holdem no limit (140/600/1200) - 2024/03/17 21:20:26 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #3 is the button
+Seat 2: 6_Haddock_8 (4772, 2.62€ bounty)
+Seat 3: P1xel7 (42301, 2.85€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+6_Haddock_8 posts ante 140
+P1xel7 posts small blind 600
+6_Haddock_8 posts big blind 1200
+Dealt to P1xel7 [Td Th]
+*** PRE-FLOP *** 
+P1xel7 raises 40961 to 42161 and is all-in
+6_Haddock_8 folds
+P1xel7 collected 43641 from pot
+*** SUMMARY ***
+Total pot 43641 | No rake
+Seat 3: P1xel7 (small blind) (button) won 43641
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 24 - HandId: #3250219838437588994-225-1710710431 - Holdem no limit (140/600/1200) - 2024/03/17 21:20:31 UTC
+Table: 'Trident(756750777)#0001' 3-max (real money) Seat #2 is the button
+Seat 2: 6_Haddock_8 (3432, 2.62€ bounty)
+Seat 3: P1xel7 (43641, 2.85€ bounty)
+*** ANTE/BLINDS ***
+6_Haddock_8 posts ante 140
+P1xel7 posts ante 140
+6_Haddock_8 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [9s 8d]
+*** PRE-FLOP *** 
+6_Haddock_8 raises 2092 to 3292 and is all-in
+P1xel7 calls 2092
+*** FLOP *** [5c 8h Qs]
+*** TURN *** [5c 8h Qs][2s]
+*** RIVER *** [5c 8h Qs 2s][2c]
+*** SHOW DOWN ***
+6_Haddock_8 shows [Ts Ks] (One pair : 2)
+P1xel7 shows [9s 8d] (Two pairs : 8 and 2)
+P1xel7 collected 6864 from pot
+*** SUMMARY ***
+Total pot 6864 | No rake
+Board: [5c 8h Qs 2s 2c]
+Seat 2: 6_Haddock_8 (small blind) (button) showed [Ts Ks] and lost with One pair : 2
+Seat 3: P1xel7 (big blind) showed [9s 8d] and won 6864 with Two pairs : 8 and 2
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 25 - HandId: #3250219838437588993-140-1710710479 - Holdem no limit (160/700/1400) - 2024/03/17 21:21:19 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (47073, 4.16€ bounty)
+Seat 2: Magnuspin (24578, 2.89€ bounty)
+Seat 3: FunnyDog (14218, 1.39€ bounty)
+*** ANTE/BLINDS ***
+Magnuspin posts ante 160
+FunnyDog posts ante 160
+P1xel7 posts ante 160
+Magnuspin posts small blind 700
+FunnyDog posts big blind 1400
+Dealt to P1xel7 [Kc 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Magnuspin raises 23018 to 24418 and is all-in
+FunnyDog calls 12658 and is all-in
+*** FLOP *** [9s Ad Kh]
+*** TURN *** [9s Ad Kh][7s]
+*** RIVER *** [9s Ad Kh 7s][3d]
+*** SHOW DOWN ***
+Magnuspin shows [9c Js] (One pair : 9)
+FunnyDog shows [Ah Jh] (One pair : Aces)
+FunnyDog collected 28596 from main pot
+Magnuspin collected 10360 from side pot 1
+*** SUMMARY ***
+Total pot 38956 | No rake
+Board: [9s Ad Kh 7s 3d]
+Seat 2: Magnuspin (small blind) showed [9c Js] and won 10360 with One pair : 9
+Seat 3: FunnyDog (big blind) showed [Ah Jh] and won 28596 with One pair : Aces
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 25 - HandId: #3250219838437588993-141-1710710501 - Holdem no limit (160/700/1400) - 2024/03/17 21:21:41 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (46913, 4.16€ bounty)
+Seat 2: Magnuspin (10360, 2.89€ bounty)
+Seat 3: FunnyDog (28596, 1.39€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 160
+P1xel7 posts ante 160
+Magnuspin posts ante 160
+FunnyDog posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [7h 2c]
+*** PRE-FLOP *** 
+Magnuspin folds
+FunnyDog raises 1400 to 2800
+P1xel7 folds
+FunnyDog collected 4680 from pot
+*** SUMMARY ***
+Total pot 4680 | No rake
+Seat 3: FunnyDog (small blind) won 4680
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 25 - HandId: #3250219838437588993-142-1710710525 - Holdem no limit (160/700/1400) - 2024/03/17 21:22:05 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (45353, 4.16€ bounty)
+Seat 2: Magnuspin (10200, 2.89€ bounty)
+Seat 3: FunnyDog (30316, 1.39€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+Magnuspin posts ante 160
+FunnyDog posts ante 160
+P1xel7 posts small blind 700
+Magnuspin posts big blind 1400
+Dealt to P1xel7 [8s 5s]
+*** PRE-FLOP *** 
+FunnyDog raises 1400 to 2800
+P1xel7 folds
+Magnuspin raises 7240 to 10040 and is all-in
+FunnyDog calls 7240
+*** FLOP *** [5c Kh 6d]
+*** TURN *** [5c Kh 6d][7d]
+*** RIVER *** [5c Kh 6d 7d][Qc]
+*** SHOW DOWN ***
+Magnuspin shows [2h 9h] (High card : King)
+FunnyDog shows [Tc Js] (High card : King)
+FunnyDog collected 21260 from pot
+*** SUMMARY ***
+Total pot 21260 | No rake
+Board: [5c Kh 6d 7d Qc]
+Seat 2: Magnuspin (big blind) showed [2h 9h] and lost with High card : King
+Seat 3: FunnyDog (button) showed [Tc Js] and won 21260 with High card : King
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 25 - HandId: #3250219838437588993-143-1710710547 - Holdem no limit (160/700/1400) - 2024/03/17 21:22:27 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (44493, 4.16€ bounty)
+Seat 3: FunnyDog (41376, 2.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 160
+P1xel7 posts ante 160
+FunnyDog posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [Jh 7c]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 collected 2420 from pot
+*** SUMMARY ***
+Total pot 2420 | No rake
+Seat 1: P1xel7 (big blind) won 2420
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 25 - HandId: #3250219838437588993-144-1710710558 - Holdem no limit (160/700/1400) - 2024/03/17 21:22:38 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (45353, 4.16€ bounty)
+Seat 3: FunnyDog (40516, 2.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+FunnyDog posts ante 160
+P1xel7 posts small blind 700
+FunnyDog posts big blind 1400
+Dealt to P1xel7 [4d Kc]
+*** PRE-FLOP *** 
+P1xel7 raises 1400 to 2800
+FunnyDog calls 1400
+*** FLOP *** [Qc 5d Kd]
+FunnyDog bets 2072
+P1xel7 calls 2072
+*** TURN *** [Qc 5d Kd][9h]
+FunnyDog checks
+P1xel7 bets 6542
+FunnyDog calls 6542
+*** RIVER *** [Qc 5d Kd 9h][9s]
+FunnyDog bets 8102
+P1xel7 calls 8102
+*** SHOW DOWN ***
+FunnyDog shows [6h Qh] (Two pairs : Queens and 9)
+P1xel7 shows [4d Kc] (Two pairs : Kings and 9)
+P1xel7 collected 39352 from pot
+*** SUMMARY ***
+Total pot 39352 | No rake
+Board: [Qc 5d Kd 9h 9s]
+Seat 1: P1xel7 (small blind) (button) showed [4d Kc] and won 39352 with Two pairs : Kings and 9
+Seat 3: FunnyDog (big blind) showed [6h Qh] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 26 - HandId: #3250219838437588993-145-1710710616 - Holdem no limit (200/800/1600) - 2024/03/17 21:23:36 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (65029, 4.16€ bounty)
+Seat 3: FunnyDog (20840, 2.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 200
+P1xel7 posts ante 200
+FunnyDog posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [Ts 3d]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Seat 1: P1xel7 (big blind) won 2800
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 26 - HandId: #3250219838437588993-146-1710710636 - Holdem no limit (200/800/1600) - 2024/03/17 21:23:56 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (66029, 4.16€ bounty)
+Seat 3: FunnyDog (19840, 2.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+FunnyDog posts ante 200
+P1xel7 posts small blind 800
+FunnyDog posts big blind 1600
+Dealt to P1xel7 [4s 3s]
+*** PRE-FLOP *** 
+P1xel7 raises 1600 to 3200
+FunnyDog raises 16440 to 19640 and is all-in
+P1xel7 folds
+FunnyDog collected 23240 from pot
+*** SUMMARY ***
+Total pot 23240 | No rake
+Seat 3: FunnyDog (big blind) won 23240
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 26 - HandId: #3250219838437588993-147-1710710697 - Holdem no limit (200/800/1600) - 2024/03/17 21:24:57 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (62629, 4.16€ bounty)
+Seat 3: FunnyDog (23240, 2.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 200
+P1xel7 posts ante 200
+FunnyDog posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [2d 6d]
+*** PRE-FLOP *** 
+FunnyDog raises 1600 to 3200
+P1xel7 folds
+FunnyDog collected 5200 from pot
+*** SUMMARY ***
+Total pot 5200 | No rake
+Seat 3: FunnyDog (small blind) (button) won 5200
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 26 - HandId: #3250219838437588993-148-1710710707 - Holdem no limit (200/800/1600) - 2024/03/17 21:25:07 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (60829, 4.16€ bounty)
+Seat 3: FunnyDog (25040, 2.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+FunnyDog posts ante 200
+P1xel7 posts small blind 800
+FunnyDog posts big blind 1600
+Dealt to P1xel7 [3d 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+FunnyDog collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Seat 3: FunnyDog (big blind) won 2800
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 26 - HandId: #3250219838437588993-149-1710710730 - Holdem no limit (200/800/1600) - 2024/03/17 21:25:30 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (59829, 4.16€ bounty)
+Seat 3: FunnyDog (26040, 2.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 200
+P1xel7 posts ante 200
+FunnyDog posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [4d 5s]
+*** PRE-FLOP *** 
+FunnyDog folds
+P1xel7 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Seat 1: P1xel7 (big blind) won 2800
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 26 - HandId: #3250219838437588993-150-1710710756 - Holdem no limit (200/800/1600) - 2024/03/17 21:25:56 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (60829, 4.16€ bounty)
+Seat 3: FunnyDog (25040, 2.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+FunnyDog posts ante 200
+P1xel7 posts small blind 800
+FunnyDog posts big blind 1600
+Dealt to P1xel7 [4h 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+FunnyDog collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Seat 3: FunnyDog (big blind) won 2800
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 27 - HandId: #3250219838437588993-151-1710710770 - Holdem no limit (250/1000/2000) - 2024/03/17 21:26:10 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (59829, 4.16€ bounty)
+Seat 3: FunnyDog (26040, 2.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 250
+P1xel7 posts ante 250
+FunnyDog posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [6c 6d]
+*** PRE-FLOP *** 
+FunnyDog raises 2000 to 4000
+P1xel7 raises 55579 to 59579 and is all-in
+FunnyDog calls 21790 and is all-in
+*** FLOP *** [Qc 9d As]
+*** TURN *** [Qc 9d As][Kd]
+*** RIVER *** [Qc 9d As Kd][3d]
+*** SHOW DOWN ***
+P1xel7 shows [6c 6d] (One pair : 6)
+FunnyDog shows [Qs Qh] (Trips of Queens)
+FunnyDog collected 52080 from main pot
+P1xel7 collected 33789 from side pot 1
+*** SUMMARY ***
+Total pot 85869 | No rake
+Board: [Qc 9d As Kd 3d]
+Seat 1: P1xel7 (big blind) showed [6c 6d] and won 33789 with One pair : 6
+Seat 3: FunnyDog (small blind) (button) showed [Qs Qh] and won 52080 with Trips of Queens
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 27 - HandId: #3250219838437588993-152-1710710790 - Holdem no limit (250/1000/2000) - 2024/03/17 21:26:30 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (33789, 4.16€ bounty)
+Seat 3: FunnyDog (52080, 2.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+FunnyDog posts ante 250
+P1xel7 posts small blind 1000
+FunnyDog posts big blind 2000
+Dealt to P1xel7 [6s 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+FunnyDog collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | No rake
+Seat 3: FunnyDog (big blind) won 3500
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 27 - HandId: #3250219838437588993-153-1710710797 - Holdem no limit (250/1000/2000) - 2024/03/17 21:26:37 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (32539, 4.16€ bounty)
+Seat 3: FunnyDog (53330, 2.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 250
+P1xel7 posts ante 250
+FunnyDog posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [Jh Qs]
+*** PRE-FLOP *** 
+FunnyDog raises 2000 to 4000
+P1xel7 calls 2000
+*** FLOP *** [7c 2s 3h]
+P1xel7 checks
+FunnyDog bets 49080 and is all-in
+P1xel7 folds
+FunnyDog collected 57580 from pot
+*** SUMMARY ***
+Total pot 57580 | No rake
+Board: [7c 2s 3h]
+Seat 3: FunnyDog (small blind) (button) won 57580
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 27 - HandId: #3250219838437588993-154-1710710816 - Holdem no limit (250/1000/2000) - 2024/03/17 21:26:56 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (28289, 4.16€ bounty)
+Seat 3: FunnyDog (57580, 2.83€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+FunnyDog posts ante 250
+P1xel7 posts small blind 1000
+FunnyDog posts big blind 2000
+Dealt to P1xel7 [Jc 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+FunnyDog collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | No rake
+Seat 3: FunnyDog (big blind) won 3500
+
+
+Winamax Poker - Tournament "Trident" buyIn: 0.45€ + 0.05€ level: 27 - HandId: #3250219838437588993-155-1710710850 - Holdem no limit (250/1000/2000) - 2024/03/17 21:27:30 UTC
+Table: 'Trident(756750777)#0000' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (27039, 4.16€ bounty)
+Seat 3: FunnyDog (58830, 2.83€ bounty)
+*** ANTE/BLINDS ***
+FunnyDog posts ante 250
+P1xel7 posts ante 250
+FunnyDog posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [6c 6d]
+*** PRE-FLOP *** 
+FunnyDog raises 4500 to 6500
+P1xel7 raises 20289 to 26789 and is all-in
+FunnyDog raises 20289 to 47078
+*** FLOP *** [5c Kh 4h]
+*** TURN *** [5c Kh 4h][7d]
+*** RIVER *** [5c Kh 4h 7d][5h]
+*** SHOW DOWN ***
+P1xel7 shows [6c 6d] (Two pairs : 6 and 5)
+FunnyDog shows [Ah 8h] (Flush Ace high)
+FunnyDog collected 74367 from pot
+*** SUMMARY ***
+Total pot 74367 | No rake
+Board: [5c Kh 4h 7d 5h]
+Seat 1: P1xel7 (big blind) showed [6c 6d] and lost with Two pairs : 6 and 5
+Seat 3: FunnyDog (small blind) (button) showed [Ah 8h] and won 74367 with Flush Ace high
+
+

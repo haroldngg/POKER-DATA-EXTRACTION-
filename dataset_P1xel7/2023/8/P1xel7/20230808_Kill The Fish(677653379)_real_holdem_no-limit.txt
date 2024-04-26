@@ -1,0 +1,1849 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-1-1691521263 - Holdem no limit (25/100/200) - 2023/08/08 19:01:03 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (20000, 0.45€ bounty)
+Seat 2: El Barto 62 (20000, 0.45€ bounty)
+Seat 3: Delaveine81 (20000, 0.45€ bounty)
+Seat 4: Hug10- (20000, 0.45€ bounty)
+Seat 5: Matdou (20000, 0.45€ bounty)
+Seat 6: Saveur en or (20000, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Hug10- posts ante 25
+Matdou posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Saveur en or posts ante 25
+Hug10- posts small blind 100
+Matdou posts big blind 200
+Dealt to P1xel7 [Jc Jd]
+*** PRE-FLOP *** 
+Saveur en or folds
+P1xel7 raises 400 to 600
+El Barto 62 folds
+Delaveine81 calls 600
+Hug10- folds
+Matdou calls 400
+*** FLOP *** [5s Ah Qc]
+Matdou checks
+P1xel7 bets 718
+Delaveine81 raises 18657 to 19375 and is all-in
+Matdou folds
+P1xel7 folds
+Delaveine81 collected 22143 from pot
+*** SUMMARY ***
+Total pot 22143 | No rake
+Board: [5s Ah Qc]
+Seat 3: Delaveine81 (button) won 22143
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-2-1691521323 - Holdem no limit (25/100/200) - 2023/08/08 19:02:03 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (18657, 0.45€ bounty)
+Seat 2: El Barto 62 (19975, 0.45€ bounty)
+Seat 3: Delaveine81 (22143, 0.45€ bounty)
+Seat 4: Hug10- (19875, 0.45€ bounty)
+Seat 5: Matdou (19375, 0.45€ bounty)
+Seat 6: Saveur en or (19975, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Matdou posts ante 25
+Saveur en or posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Hug10- posts ante 25
+Matdou posts small blind 100
+Saveur en or posts big blind 200
+Dealt to P1xel7 [4h 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 folds
+Hug10- folds
+Matdou calls 100
+Saveur en or checks
+*** FLOP *** [8s 5h Th]
+Matdou checks
+Saveur en or bets 275
+Matdou folds
+Saveur en or collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | No rake
+Board: [8s 5h Th]
+Seat 6: Saveur en or (big blind) won 825
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-3-1691521362 - Holdem no limit (25/100/200) - 2023/08/08 19:02:42 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (18632, 0.45€ bounty)
+Seat 2: El Barto 62 (19950, 0.45€ bounty)
+Seat 3: Delaveine81 (22118, 0.45€ bounty)
+Seat 4: Hug10- (19850, 0.45€ bounty)
+Seat 5: Matdou (19150, 0.45€ bounty)
+Seat 6: Saveur en or (20300, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Saveur en or posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Hug10- posts ante 25
+Matdou posts ante 25
+Saveur en or posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [9c 2s]
+*** PRE-FLOP *** 
+El Barto 62 folds
+Delaveine81 calls 200
+Hug10- folds
+Matdou calls 200
+Saveur en or calls 100
+P1xel7 checks
+*** FLOP *** [Jd 5h Qd]
+Saveur en or checks
+P1xel7 checks
+Delaveine81 checks
+Matdou checks
+*** TURN *** [Jd 5h Qd][3c]
+Saveur en or checks
+P1xel7 checks
+Delaveine81 checks
+Matdou checks
+*** RIVER *** [Jd 5h Qd 3c][Qh]
+Saveur en or checks
+P1xel7 checks
+Delaveine81 checks
+Matdou checks
+*** SHOW DOWN ***
+P1xel7 shows [9c 2s] (One pair : Queens)
+Delaveine81 shows [6s Ah] (One pair : Queens)
+Matdou shows [4h 7h] (One pair : Queens)
+Saveur en or shows [5d 6d] (Two pairs : Queens and 5)
+Saveur en or collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Board: [Jd 5h Qd 3c Qh]
+Seat 1: P1xel7 (big blind) showed [9c 2s] and lost with One pair : Queens
+Seat 3: Delaveine81 showed [6s Ah] and lost with One pair : Queens
+Seat 5: Matdou (button) showed [4h 7h] and lost with One pair : Queens
+Seat 6: Saveur en or (small blind) showed [5d 6d] and won 950 with Two pairs : Queens and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-4-1691521466 - Holdem no limit (25/100/200) - 2023/08/08 19:04:26 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (18407, 0.45€ bounty)
+Seat 2: El Barto 62 (19925, 0.45€ bounty)
+Seat 3: Delaveine81 (21893, 0.45€ bounty)
+Seat 4: Hug10- (19825, 0.45€ bounty)
+Seat 5: Matdou (18925, 0.45€ bounty)
+Seat 6: Saveur en or (21025, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Hug10- posts ante 25
+Matdou posts ante 25
+Saveur en or posts ante 25
+P1xel7 posts small blind 100
+El Barto 62 posts big blind 200
+Dealt to P1xel7 [6d 6s]
+*** PRE-FLOP *** 
+Delaveine81 calls 200
+Hug10- raises 700 to 900
+Matdou folds
+Saveur en or folds
+P1xel7 calls 800
+El Barto 62 raises 5300 to 6200
+Delaveine81 folds
+Hug10- folds
+P1xel7 folds
+El Barto 62 collected 8350 from pot
+*** SUMMARY ***
+Total pot 8350 | No rake
+Seat 2: El Barto 62 (big blind) won 8350
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-5-1691521515 - Holdem no limit (25/100/200) - 2023/08/08 19:05:15 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (17482, 0.45€ bounty)
+Seat 2: El Barto 62 (22050, 0.45€ bounty)
+Seat 3: Delaveine81 (21668, 0.45€ bounty)
+Seat 4: Hug10- (18900, 0.45€ bounty)
+Seat 5: Matdou (18900, 0.45€ bounty)
+Seat 6: Saveur en or (21000, 0.45€ bounty)
+*** ANTE/BLINDS ***
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+P1xel7 posts ante 25
+Hug10- posts ante 25
+Matdou posts ante 25
+Saveur en or posts ante 25
+El Barto 62 posts small blind 100
+Delaveine81 posts big blind 200
+Dealt to P1xel7 [Qd Ts]
+*** PRE-FLOP *** 
+Hug10- folds
+Matdou calls 200
+Saveur en or folds
+P1xel7 raises 400 to 600
+El Barto 62 folds
+Delaveine81 folds
+Matdou calls 400
+*** FLOP *** [As 9c 4d]
+Matdou bets 1073
+P1xel7 calls 1073
+*** TURN *** [As 9c 4d][2s]
+Matdou checks
+P1xel7 bets 2467
+Matdou folds
+P1xel7 collected 6263 from pot
+*** SUMMARY ***
+Total pot 6263 | No rake
+Board: [As 9c 4d 2s]
+Seat 1: P1xel7 (button) won 6263
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-6-1691521558 - Holdem no limit (25/100/200) - 2023/08/08 19:05:58 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (19580, 0.45€ bounty)
+Seat 2: El Barto 62 (21925, 0.45€ bounty)
+Seat 3: Delaveine81 (21443, 0.45€ bounty)
+Seat 4: Hug10- (18875, 0.45€ bounty)
+Seat 5: Matdou (17202, 0.45€ bounty)
+Seat 6: Saveur en or (20975, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Delaveine81 posts ante 25
+Hug10- posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Matdou posts ante 25
+Saveur en or posts ante 25
+Delaveine81 posts small blind 100
+Hug10- posts big blind 200
+Dealt to P1xel7 [5s Ts]
+*** PRE-FLOP *** 
+Matdou calls 200
+Saveur en or folds
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 calls 100
+Hug10- checks
+*** FLOP *** [Qc 7c 9h]
+Delaveine81 checks
+Hug10- checks
+Matdou checks
+*** TURN *** [Qc 7c 9h][Kc]
+Delaveine81 checks
+Hug10- checks
+Matdou checks
+*** RIVER *** [Qc 7c 9h Kc][7d]
+Delaveine81 checks
+Hug10- checks
+Matdou checks
+*** SHOW DOWN ***
+Delaveine81 shows [8d 6d] (One pair : 7)
+Matdou shows [6c 5d] (One pair : 7)
+Hug10- shows [6s Tc] (One pair : 7)
+Hug10- collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [Qc 7c 9h Kc 7d]
+Seat 3: Delaveine81 (small blind) showed [8d 6d] and lost with One pair : 7
+Seat 4: Hug10- (big blind) showed [6s Tc] and won 750 with One pair : 7
+Seat 5: Matdou showed [6c 5d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-7-1691521630 - Holdem no limit (25/100/200) - 2023/08/08 19:07:10 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (19555, 0.45€ bounty)
+Seat 2: El Barto 62 (21900, 0.45€ bounty)
+Seat 3: Delaveine81 (21218, 0.45€ bounty)
+Seat 4: Hug10- (19400, 0.45€ bounty)
+Seat 5: Matdou (16977, 0.45€ bounty)
+Seat 6: Saveur en or (20950, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Hug10- posts ante 25
+Matdou posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Saveur en or posts ante 25
+Hug10- posts small blind 100
+Matdou posts big blind 200
+Dealt to P1xel7 [7s 3s]
+*** PRE-FLOP *** 
+Saveur en or folds
+P1xel7 folds
+El Barto 62 raises 650 to 850
+Delaveine81 folds
+Hug10- folds
+Matdou folds
+El Barto 62 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Seat 2: El Barto 62 won 1300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-8-1691521653 - Holdem no limit (25/100/200) - 2023/08/08 19:07:33 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (19530, 0.45€ bounty)
+Seat 2: El Barto 62 (22325, 0.45€ bounty)
+Seat 3: Delaveine81 (21193, 0.45€ bounty)
+Seat 4: Hug10- (19275, 0.45€ bounty)
+Seat 5: Matdou (16752, 0.45€ bounty)
+Seat 6: Saveur en or (20925, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Matdou posts ante 25
+Saveur en or posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Hug10- posts ante 25
+Matdou posts small blind 100
+Saveur en or posts big blind 200
+Dealt to P1xel7 [3c 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 calls 200
+Hug10- raises 700 to 900
+Matdou calls 800
+Saveur en or folds
+Delaveine81 calls 700
+*** FLOP *** [7d 6d Qs]
+Matdou checks
+Delaveine81 checks
+Hug10- bets 1068
+Matdou calls 1068
+Delaveine81 calls 1068
+*** TURN *** [7d 6d Qs][Jc]
+Matdou checks
+Delaveine81 checks
+Hug10- bets 3127
+Matdou calls 3127
+Delaveine81 calls 3127
+*** RIVER *** [7d 6d Qs Jc][2d]
+Matdou checks
+Delaveine81 checks
+Hug10- bets 10945
+Matdou folds
+Delaveine81 folds
+Hug10- collected 26580 from pot
+*** SUMMARY ***
+Total pot 26580 | No rake
+Board: [7d 6d Qs Jc 2d]
+Seat 4: Hug10- (button) won 26580
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-9-1691521789 - Holdem no limit (25/100/200) - 2023/08/08 19:09:49 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (19505, 0.45€ bounty)
+Seat 2: El Barto 62 (22300, 0.45€ bounty)
+Seat 3: Delaveine81 (16073, 0.45€ bounty)
+Seat 4: Hug10- (29790, 0.45€ bounty)
+Seat 5: Matdou (11632, 0.45€ bounty)
+Seat 6: Saveur en or (20700, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Saveur en or posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Hug10- posts ante 25
+Matdou posts ante 25
+Saveur en or posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [4d 9d]
+*** PRE-FLOP *** 
+El Barto 62 calls 200
+Delaveine81 calls 200
+Hug10- folds
+Matdou raises 400 to 600
+Saveur en or folds
+P1xel7 folds
+El Barto 62 raises 3300 to 3900
+Delaveine81 folds
+Matdou calls 3300
+*** FLOP *** [7s 6c Td]
+El Barto 62 bets 18375 and is all-in
+Matdou calls 7707 and is all-in
+*** TURN *** [7s 6c Td][4c]
+*** RIVER *** [7s 6c Td 4c][5s]
+*** SHOW DOWN ***
+Matdou shows [Kd Jc] (High card : King)
+El Barto 62 shows [Qc Qd] (One pair : Queens)
+El Barto 62 collected 34532 from pot
+*** SUMMARY ***
+Total pot 34532 | No rake
+Board: [7s 6c Td 4c 5s]
+Seat 2: El Barto 62 showed [Qc Qd] and won 34532 with One pair : Queens
+Seat 5: Matdou (button) showed [Kd Jc] and lost with High card : King
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-10-1691521870 - Holdem no limit (25/100/200) - 2023/08/08 19:11:10 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (19280, 0.45€ bounty)
+Seat 2: El Barto 62 (34532, 0.67€ bounty)
+Seat 3: Delaveine81 (15848, 0.45€ bounty)
+Seat 4: Hug10- (29765, 0.45€ bounty)
+Seat 6: Saveur en or (20575, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Hug10- posts ante 25
+Saveur en or posts ante 25
+P1xel7 posts small blind 100
+El Barto 62 posts big blind 200
+Dealt to P1xel7 [Qd 3h]
+*** PRE-FLOP *** 
+Delaveine81 calls 200
+Hug10- folds
+Saveur en or raises 400 to 600
+P1xel7 folds
+El Barto 62 calls 400
+Delaveine81 calls 400
+*** FLOP *** [5h As 3c]
+El Barto 62 checks
+Delaveine81 checks
+Saveur en or bets 608
+El Barto 62 folds
+Delaveine81 folds
+Saveur en or collected 2633 from pot
+*** SUMMARY ***
+Total pot 2633 | No rake
+Board: [5h As 3c]
+Seat 6: Saveur en or (button) won 2633
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-11-1691521913 - Holdem no limit (25/100/200) - 2023/08/08 19:11:53 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (19155, 0.45€ bounty)
+Seat 2: El Barto 62 (33907, 0.67€ bounty)
+Seat 3: Delaveine81 (15223, 0.45€ bounty)
+Seat 4: Hug10- (29740, 0.45€ bounty)
+Seat 6: Saveur en or (21975, 0.45€ bounty)
+*** ANTE/BLINDS ***
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+P1xel7 posts ante 25
+Hug10- posts ante 25
+Saveur en or posts ante 25
+El Barto 62 posts small blind 100
+Delaveine81 posts big blind 200
+Dealt to P1xel7 [Jd Tc]
+*** PRE-FLOP *** 
+Hug10- raises 210 to 410
+Saveur en or folds
+P1xel7 calls 410
+El Barto 62 raises 1555 to 1965
+Delaveine81 folds
+Hug10- folds
+P1xel7 folds
+El Barto 62 collected 3110 from pot
+*** SUMMARY ***
+Total pot 3110 | No rake
+Seat 2: El Barto 62 (small blind) won 3110
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-12-1691521946 - Holdem no limit (25/100/200) - 2023/08/08 19:12:26 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (18720, 0.45€ bounty)
+Seat 2: El Barto 62 (35027, 0.67€ bounty)
+Seat 3: Delaveine81 (14998, 0.45€ bounty)
+Seat 4: Hug10- (29305, 0.45€ bounty)
+Seat 5: --VINO-- (20000, 0.45€ bounty)
+Seat 6: Saveur en or (21950, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Delaveine81 posts ante 25
+Hug10- posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+--VINO-- posts ante 25
+Saveur en or posts ante 25
+Delaveine81 posts small blind 100
+Hug10- posts big blind 200
+Dealt to P1xel7 [9d Kd]
+*** PRE-FLOP *** 
+--VINO-- raises 280 to 480
+Saveur en or folds
+P1xel7 folds
+El Barto 62 calls 480
+Delaveine81 calls 380
+Hug10- folds
+*** FLOP *** [8s Ks 7d]
+Delaveine81 checks
+--VINO-- checks
+El Barto 62 bets 1790
+Delaveine81 folds
+--VINO-- folds
+El Barto 62 collected 3580 from pot
+*** SUMMARY ***
+Total pot 3580 | No rake
+Board: [8s Ks 7d]
+Seat 2: El Barto 62 (button) won 3580
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-13-1691522018 - Holdem no limit (25/100/200) - 2023/08/08 19:13:38 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (18695, 0.45€ bounty)
+Seat 2: El Barto 62 (36312, 0.67€ bounty)
+Seat 3: Delaveine81 (14493, 0.45€ bounty)
+Seat 4: Hug10- (29080, 0.45€ bounty)
+Seat 5: --VINO-- (19495, 0.45€ bounty)
+Seat 6: Saveur en or (21925, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Hug10- posts ante 25
+--VINO-- posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Saveur en or posts ante 25
+Hug10- posts small blind 100
+--VINO-- posts big blind 200
+Dealt to P1xel7 [9s 5d]
+*** PRE-FLOP *** 
+Saveur en or raises 300 to 500
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 folds
+Hug10- raises 1200 to 1700
+--VINO-- folds
+Saveur en or folds
+Hug10- collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 4: Hug10- (small blind) won 2550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-14-1691522051 - Holdem no limit (25/100/200) - 2023/08/08 19:14:11 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (18670, 0.45€ bounty)
+Seat 2: El Barto 62 (36287, 0.67€ bounty)
+Seat 3: Delaveine81 (14468, 0.45€ bounty)
+Seat 4: Hug10- (29905, 0.45€ bounty)
+Seat 5: --VINO-- (19270, 0.45€ bounty)
+Seat 6: Saveur en or (21400, 0.45€ bounty)
+*** ANTE/BLINDS ***
+--VINO-- posts ante 25
+Saveur en or posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Hug10- posts ante 25
+--VINO-- posts small blind 100
+Saveur en or posts big blind 200
+Dealt to P1xel7 [7c 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 folds
+Hug10- folds
+--VINO-- raises 280 to 480
+Saveur en or calls 280
+*** FLOP *** [Qd 6d 8c]
+--VINO-- checks
+Saveur en or checks
+*** TURN *** [Qd 6d 8c][Ah]
+--VINO-- bets 389
+Saveur en or folds
+--VINO-- collected 1499 from pot
+*** SUMMARY ***
+Total pot 1499 | No rake
+Board: [Qd 6d 8c Ah]
+Seat 5: --VINO-- (small blind) won 1499
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 1 - HandId: #2910499100828893204-15-1691522127 - Holdem no limit (25/100/200) - 2023/08/08 19:15:27 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (18645, 0.45€ bounty)
+Seat 2: El Barto 62 (36262, 0.67€ bounty)
+Seat 3: Delaveine81 (14443, 0.45€ bounty)
+Seat 4: Hug10- (29880, 0.45€ bounty)
+Seat 5: --VINO-- (19875, 0.45€ bounty)
+Seat 6: Saveur en or (20895, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Saveur en or posts ante 25
+P1xel7 posts ante 25
+El Barto 62 posts ante 25
+Delaveine81 posts ante 25
+Hug10- posts ante 25
+--VINO-- posts ante 25
+Saveur en or posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [6s Kh]
+*** PRE-FLOP *** 
+El Barto 62 calls 200
+Delaveine81 folds
+Hug10- folds
+--VINO-- folds
+Saveur en or folds
+P1xel7 checks
+*** FLOP *** [4h 5d 6c]
+P1xel7 checks
+El Barto 62 bets 423
+P1xel7 calls 423
+*** TURN *** [4h 5d 6c][5h]
+P1xel7 checks
+El Barto 62 checks
+*** RIVER *** [4h 5d 6c 5h][Kc]
+P1xel7 bets 1197
+El Barto 62 folds
+P1xel7 collected 2693 from pot
+*** SUMMARY ***
+Total pot 2693 | No rake
+Board: [4h 5d 6c 5h Kc]
+Seat 1: P1xel7 (big blind) won 2693
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2910499100828893204-16-1691522170 - Holdem no limit (30/125/250) - 2023/08/08 19:16:10 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (19493, 0.45€ bounty)
+Seat 2: El Barto 62 (35614, 0.67€ bounty)
+Seat 3: Delaveine81 (14418, 0.45€ bounty)
+Seat 4: Hug10- (29855, 0.45€ bounty)
+Seat 5: --VINO-- (19850, 0.45€ bounty)
+Seat 6: Saveur en or (20770, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+El Barto 62 posts ante 30
+Delaveine81 posts ante 30
+Hug10- posts ante 30
+--VINO-- posts ante 30
+Saveur en or posts ante 30
+P1xel7 posts small blind 125
+El Barto 62 posts big blind 250
+Dealt to P1xel7 [Js 7c]
+*** PRE-FLOP *** 
+Delaveine81 calls 250
+Hug10- folds
+--VINO-- folds
+Saveur en or folds
+P1xel7 folds
+El Barto 62 checks
+*** FLOP *** [Ts Qd 8s]
+El Barto 62 checks
+Delaveine81 checks
+*** TURN *** [Ts Qd 8s][3s]
+El Barto 62 bets 523
+Delaveine81 folds
+El Barto 62 collected 1328 from pot
+*** SUMMARY ***
+Total pot 1328 | No rake
+Board: [Ts Qd 8s 3s]
+Seat 2: El Barto 62 (big blind) won 1328
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2910499100828893204-17-1691522200 - Holdem no limit (30/125/250) - 2023/08/08 19:16:40 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (19338, 0.45€ bounty)
+Seat 2: El Barto 62 (36139, 0.67€ bounty)
+Seat 3: Delaveine81 (14138, 0.45€ bounty)
+Seat 4: Hug10- (29825, 0.45€ bounty)
+Seat 5: --VINO-- (19820, 0.45€ bounty)
+Seat 6: Saveur en or (20740, 0.45€ bounty)
+*** ANTE/BLINDS ***
+El Barto 62 posts ante 30
+Delaveine81 posts ante 30
+P1xel7 posts ante 30
+Hug10- posts ante 30
+--VINO-- posts ante 30
+Saveur en or posts ante 30
+El Barto 62 posts small blind 125
+Delaveine81 posts big blind 250
+Dealt to P1xel7 [Js 9h]
+*** PRE-FLOP *** 
+Hug10- folds
+--VINO-- folds
+Saveur en or raises 375 to 625
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 calls 375
+*** FLOP *** [Ks Kd 7d]
+Delaveine81 checks
+Saveur en or bets 467
+Delaveine81 calls 467
+*** TURN *** [Ks Kd 7d][3h]
+Delaveine81 bets 13016 and is all-in
+Saveur en or folds
+Delaveine81 collected 15505 from pot
+*** SUMMARY ***
+Total pot 15505 | No rake
+Board: [Ks Kd 7d 3h]
+Seat 3: Delaveine81 (big blind) won 15505
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2910499100828893204-18-1691522241 - Holdem no limit (30/125/250) - 2023/08/08 19:17:21 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (19308, 0.45€ bounty)
+Seat 2: El Barto 62 (35984, 0.67€ bounty)
+Seat 3: Delaveine81 (15505, 0.45€ bounty)
+Seat 4: Hug10- (29795, 0.45€ bounty)
+Seat 5: --VINO-- (19790, 0.45€ bounty)
+Seat 6: Saveur en or (19618, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Delaveine81 posts ante 30
+Hug10- posts ante 30
+P1xel7 posts ante 30
+El Barto 62 posts ante 30
+--VINO-- posts ante 30
+Saveur en or posts ante 30
+Delaveine81 posts small blind 125
+Hug10- posts big blind 250
+Dealt to P1xel7 [2s Ah]
+*** PRE-FLOP *** 
+--VINO-- raises 350 to 600
+Saveur en or folds
+P1xel7 folds
+El Barto 62 calls 600
+Delaveine81 calls 475
+Hug10- folds
+*** FLOP *** [7d Kd 9d]
+Delaveine81 checks
+--VINO-- bets 781
+El Barto 62 raises 3792 to 4573
+Delaveine81 folds
+--VINO-- calls 3792
+*** TURN *** [7d Kd 9d][7c]
+--VINO-- checks
+El Barto 62 bets 11376
+--VINO-- folds
+El Barto 62 collected 22752 from pot
+*** SUMMARY ***
+Total pot 22752 | No rake
+Board: [7d Kd 9d 7c]
+Seat 2: El Barto 62 (button) won 22752
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2910499100828893204-19-1691522315 - Holdem no limit (30/125/250) - 2023/08/08 19:18:35 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (19278, 0.45€ bounty)
+Seat 2: El Barto 62 (42157, 0.67€ bounty)
+Seat 3: Delaveine81 (14875, 0.45€ bounty)
+Seat 4: Hug10- (29515, 0.45€ bounty)
+Seat 5: --VINO-- (14587, 0.45€ bounty)
+Seat 6: Saveur en or (19588, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Hug10- posts ante 30
+--VINO-- posts ante 30
+P1xel7 posts ante 30
+El Barto 62 posts ante 30
+Delaveine81 posts ante 30
+Saveur en or posts ante 30
+Hug10- posts small blind 125
+--VINO-- posts big blind 250
+Dealt to P1xel7 [6d 5h]
+*** PRE-FLOP *** 
+Saveur en or folds
+P1xel7 folds
+El Barto 62 calls 250
+Delaveine81 folds
+Hug10- raises 875 to 1125
+--VINO-- folds
+El Barto 62 calls 875
+*** FLOP *** [4d 2c 8c]
+Hug10- bets 938
+El Barto 62 folds
+Hug10- collected 3618 from pot
+*** SUMMARY ***
+Total pot 3618 | No rake
+Board: [4d 2c 8c]
+Seat 4: Hug10- (small blind) won 3618
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2910499100828893204-20-1691522365 - Holdem no limit (30/125/250) - 2023/08/08 19:19:25 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (19248, 0.45€ bounty)
+Seat 2: El Barto 62 (41002, 0.67€ bounty)
+Seat 3: Delaveine81 (14845, 0.45€ bounty)
+Seat 4: Hug10- (31040, 0.45€ bounty)
+Seat 5: --VINO-- (14307, 0.45€ bounty)
+Seat 6: Saveur en or (19558, 0.45€ bounty)
+*** ANTE/BLINDS ***
+--VINO-- posts ante 30
+Saveur en or posts ante 30
+P1xel7 posts ante 30
+El Barto 62 posts ante 30
+Delaveine81 posts ante 30
+Hug10- posts ante 30
+--VINO-- posts small blind 125
+Saveur en or posts big blind 250
+Dealt to P1xel7 [5d Qc]
+*** PRE-FLOP *** 
+P1xel7 folds
+El Barto 62 raises 375 to 625
+Delaveine81 calls 625
+Hug10- folds
+--VINO-- calls 500
+Saveur en or folds
+*** FLOP *** [3s 2c Kd]
+--VINO-- checks
+El Barto 62 bets 807
+Delaveine81 calls 807
+--VINO-- folds
+*** TURN *** [3s 2c Kd][9h]
+El Barto 62 bets 3919
+Delaveine81 calls 3919
+*** RIVER *** [3s 2c Kd 9h][Kh]
+El Barto 62 bets 11757
+Delaveine81 calls 9464 and is all-in
+*** SHOW DOWN ***
+El Barto 62 shows [Qd Td] (One pair : Kings)
+Delaveine81 shows [9s 2s] (Two pairs : Kings and 9)
+Delaveine81 collected 30685 from main pot
+El Barto 62 collected 2293 from side pot 1
+*** SUMMARY ***
+Total pot 32978 | No rake
+Board: [3s 2c Kd 9h Kh]
+Seat 2: El Barto 62 showed [Qd Td] and won 2293 with One pair : Kings
+Seat 3: Delaveine81 showed [9s 2s] and won 30685 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #2910499100828893204-21-1691522449 - Holdem no limit (30/125/250) - 2023/08/08 19:20:49 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (19218, 0.45€ bounty)
+Seat 2: El Barto 62 (26157, 0.67€ bounty)
+Seat 3: Delaveine81 (30685, 0.45€ bounty)
+Seat 4: Hug10- (31010, 0.45€ bounty)
+Seat 5: --VINO-- (13652, 0.45€ bounty)
+Seat 6: Saveur en or (19278, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Saveur en or posts ante 30
+P1xel7 posts ante 30
+El Barto 62 posts ante 30
+Delaveine81 posts ante 30
+Hug10- posts ante 30
+--VINO-- posts ante 30
+Saveur en or posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [As Jd]
+*** PRE-FLOP *** 
+El Barto 62 calls 250
+Delaveine81 folds
+Hug10- folds
+--VINO-- folds
+Saveur en or folds
+P1xel7 raises 1000 to 1250
+El Barto 62 calls 1000
+*** FLOP *** [6c Td 2d]
+P1xel7 bets 1403
+El Barto 62 raises 5611 to 7014
+P1xel7 folds
+El Barto 62 collected 11222 from pot
+*** SUMMARY ***
+Total pot 11222 | No rake
+Board: [6c Td 2d]
+Seat 2: El Barto 62 won 11222
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2910499100828893204-22-1691522516 - Holdem no limit (35/150/300) - 2023/08/08 19:21:56 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (16535, 0.45€ bounty)
+Seat 2: El Barto 62 (29085, 0.67€ bounty)
+Seat 3: Delaveine81 (30655, 0.45€ bounty)
+Seat 4: Hug10- (30980, 0.45€ bounty)
+Seat 5: --VINO-- (13622, 0.45€ bounty)
+Seat 6: Saveur en or (19123, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+El Barto 62 posts ante 35
+Delaveine81 posts ante 35
+Hug10- posts ante 35
+--VINO-- posts ante 35
+Saveur en or posts ante 35
+P1xel7 posts small blind 150
+El Barto 62 posts big blind 300
+Dealt to P1xel7 [Th 8s]
+*** PRE-FLOP *** 
+Delaveine81 calls 300
+Hug10- folds
+--VINO-- raises 735 to 1035
+Saveur en or folds
+P1xel7 folds
+El Barto 62 calls 735
+Delaveine81 folds
+*** FLOP *** [5h 3c 4s]
+El Barto 62 checks
+--VINO-- bets 956
+El Barto 62 raises 4642 to 5598
+--VINO-- folds
+El Barto 62 collected 9284 from pot
+*** SUMMARY ***
+Total pot 9284 | No rake
+Board: [5h 3c 4s]
+Seat 2: El Barto 62 (big blind) won 9284
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2910499100828893204-23-1691522581 - Holdem no limit (35/150/300) - 2023/08/08 19:23:01 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (16350, 0.45€ bounty)
+Seat 2: El Barto 62 (31701, 0.67€ bounty)
+Seat 3: Delaveine81 (30320, 0.45€ bounty)
+Seat 4: Hug10- (30945, 0.45€ bounty)
+Seat 5: --VINO-- (11596, 0.45€ bounty)
+Seat 6: Saveur en or (19088, 0.45€ bounty)
+*** ANTE/BLINDS ***
+El Barto 62 posts ante 35
+Delaveine81 posts ante 35
+P1xel7 posts ante 35
+Hug10- posts ante 35
+--VINO-- posts ante 35
+Saveur en or posts ante 35
+El Barto 62 posts small blind 150
+Delaveine81 posts big blind 300
+Dealt to P1xel7 [4d 7c]
+*** PRE-FLOP *** 
+Hug10- folds
+--VINO-- folds
+Saveur en or folds
+P1xel7 folds
+El Barto 62 calls 150
+Delaveine81 checks
+*** FLOP *** [As 9c 9h]
+El Barto 62 checks
+Delaveine81 checks
+*** TURN *** [As 9c 9h][Qd]
+El Barto 62 checks
+Delaveine81 checks
+*** RIVER *** [As 9c 9h Qd][Qh]
+El Barto 62 bets 810
+Delaveine81 calls 810
+*** SHOW DOWN ***
+Delaveine81 shows [7s Jd] (Two pairs : Queens and 9)
+El Barto 62 shows [2h Ac] (Two pairs : Aces and Queens)
+El Barto 62 collected 2430 from pot
+*** SUMMARY ***
+Total pot 2430 | No rake
+Board: [As 9c 9h Qd Qh]
+Seat 2: El Barto 62 (small blind) showed [2h Ac] and won 2430 with Two pairs : Aces and Queens
+Seat 3: Delaveine81 (big blind) showed [7s Jd] and lost with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2910499100828893204-24-1691522645 - Holdem no limit (35/150/300) - 2023/08/08 19:24:05 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (16315, 0.45€ bounty)
+Seat 2: El Barto 62 (32986, 0.67€ bounty)
+Seat 3: Delaveine81 (29175, 0.45€ bounty)
+Seat 4: Hug10- (30910, 0.45€ bounty)
+Seat 5: --VINO-- (11561, 0.45€ bounty)
+Seat 6: Saveur en or (19053, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Delaveine81 posts ante 35
+Hug10- posts ante 35
+P1xel7 posts ante 35
+El Barto 62 posts ante 35
+--VINO-- posts ante 35
+Saveur en or posts ante 35
+Delaveine81 posts small blind 150
+Hug10- posts big blind 300
+Dealt to P1xel7 [5d 4d]
+*** PRE-FLOP *** 
+--VINO-- folds
+Saveur en or folds
+P1xel7 raises 600 to 900
+El Barto 62 calls 900
+Delaveine81 raises 28240 to 29140 and is all-in
+Hug10- folds
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 collected 31450 from pot
+*** SUMMARY ***
+Total pot 31450 | No rake
+Seat 3: Delaveine81 (small blind) won 31450
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2910499100828893204-25-1691522667 - Holdem no limit (35/150/300) - 2023/08/08 19:24:27 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (15380, 0.45€ bounty)
+Seat 2: El Barto 62 (32051, 0.67€ bounty)
+Seat 3: Delaveine81 (31450, 0.45€ bounty)
+Seat 4: Hug10- (30575, 0.45€ bounty)
+Seat 5: --VINO-- (11526, 0.45€ bounty)
+Seat 6: Saveur en or (19018, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Hug10- posts ante 35
+--VINO-- posts ante 35
+P1xel7 posts ante 35
+El Barto 62 posts ante 35
+Delaveine81 posts ante 35
+Saveur en or posts ante 35
+Hug10- posts small blind 150
+--VINO-- posts big blind 300
+Dealt to P1xel7 [Qd 7h]
+*** PRE-FLOP *** 
+Saveur en or folds
+P1xel7 folds
+El Barto 62 raises 960 to 1260
+Delaveine81 folds
+Hug10- folds
+--VINO-- calls 960
+*** FLOP *** [9h 4h Qh]
+--VINO-- checks
+El Barto 62 bets 2880
+--VINO-- folds
+El Barto 62 collected 5760 from pot
+*** SUMMARY ***
+Total pot 5760 | No rake
+Board: [9h 4h Qh]
+Seat 2: El Barto 62 won 5760
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #2910499100828893204-26-1691522714 - Holdem no limit (35/150/300) - 2023/08/08 19:25:14 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (15345, 0.45€ bounty)
+Seat 2: El Barto 62 (33636, 0.67€ bounty)
+Seat 3: Delaveine81 (31415, 0.45€ bounty)
+Seat 4: Hug10- (30390, 0.45€ bounty)
+Seat 5: --VINO-- (10231, 0.45€ bounty)
+Seat 6: Saveur en or (18983, 0.45€ bounty)
+*** ANTE/BLINDS ***
+--VINO-- posts ante 35
+Saveur en or posts ante 35
+P1xel7 posts ante 35
+El Barto 62 posts ante 35
+Delaveine81 posts ante 35
+Hug10- posts ante 35
+--VINO-- posts small blind 150
+Saveur en or posts big blind 300
+Dealt to P1xel7 [9h 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+El Barto 62 raises 600 to 900
+Delaveine81 calls 900
+Hug10- folds
+--VINO-- calls 750
+Saveur en or folds
+*** FLOP *** [6s 4c 9s]
+--VINO-- checks
+El Barto 62 checks
+Delaveine81 checks
+*** TURN *** [6s 4c 9s][Js]
+--VINO-- checks
+El Barto 62 bets 2087
+Delaveine81 folds
+--VINO-- folds
+El Barto 62 collected 5297 from pot
+*** SUMMARY ***
+Total pot 5297 | No rake
+Board: [6s 4c 9s Js]
+Seat 2: El Barto 62 won 5297
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2910499100828893204-27-1691522786 - Holdem no limit (40/175/350) - 2023/08/08 19:26:26 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (15310, 0.45€ bounty)
+Seat 2: El Barto 62 (35911, 0.67€ bounty)
+Seat 3: Delaveine81 (30480, 0.45€ bounty)
+Seat 4: Hug10- (30355, 0.45€ bounty)
+Seat 5: --VINO-- (9296, 0.45€ bounty)
+Seat 6: Saveur en or (18648, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Saveur en or posts ante 40
+P1xel7 posts ante 40
+El Barto 62 posts ante 40
+Delaveine81 posts ante 40
+Hug10- posts ante 40
+--VINO-- posts ante 40
+Saveur en or posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [7s 8d]
+*** PRE-FLOP *** 
+El Barto 62 raises 1115 to 1465
+Delaveine81 calls 1465
+Hug10- folds
+--VINO-- folds
+Saveur en or folds
+P1xel7 folds
+*** FLOP *** [8s 3c 6s]
+El Barto 62 checks
+Delaveine81 checks
+*** TURN *** [8s 3c 6s][5c]
+El Barto 62 checks
+Delaveine81 checks
+*** RIVER *** [8s 3c 6s 5c][2h]
+El Barto 62 bets 1293
+Delaveine81 folds
+El Barto 62 collected 4988 from pot
+*** SUMMARY ***
+Total pot 4988 | No rake
+Board: [8s 3c 6s 5c 2h]
+Seat 2: El Barto 62 won 4988
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2910499100828893204-28-1691522829 - Holdem no limit (40/175/350) - 2023/08/08 19:27:09 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (14920, 0.45€ bounty)
+Seat 2: El Barto 62 (38101, 0.67€ bounty)
+Seat 3: Delaveine81 (28975, 0.45€ bounty)
+Seat 4: Hug10- (30315, 0.45€ bounty)
+Seat 5: --VINO-- (9256, 0.45€ bounty)
+Seat 6: Saveur en or (18433, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+El Barto 62 posts ante 40
+Delaveine81 posts ante 40
+Hug10- posts ante 40
+--VINO-- posts ante 40
+Saveur en or posts ante 40
+P1xel7 posts small blind 175
+El Barto 62 posts big blind 350
+Dealt to P1xel7 [Qh 5s]
+*** PRE-FLOP *** 
+Delaveine81 calls 350
+Hug10- raises 1225 to 1575
+--VINO-- folds
+Saveur en or folds
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 calls 1225
+*** FLOP *** [Kh Kc Ah]
+Delaveine81 checks
+Hug10- bets 1370
+Delaveine81 folds
+Hug10- collected 5285 from pot
+*** SUMMARY ***
+Total pot 5285 | No rake
+Board: [Kh Kc Ah]
+Seat 4: Hug10- won 5285
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2910499100828893204-29-1691522881 - Holdem no limit (40/175/350) - 2023/08/08 19:28:01 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (14705, 0.45€ bounty)
+Seat 2: El Barto 62 (37711, 0.67€ bounty)
+Seat 3: Delaveine81 (27360, 0.45€ bounty)
+Seat 4: Hug10- (32615, 0.45€ bounty)
+Seat 5: --VINO-- (9216, 0.45€ bounty)
+Seat 6: Saveur en or (18393, 0.45€ bounty)
+*** ANTE/BLINDS ***
+El Barto 62 posts ante 40
+Delaveine81 posts ante 40
+P1xel7 posts ante 40
+Hug10- posts ante 40
+--VINO-- posts ante 40
+Saveur en or posts ante 40
+El Barto 62 posts small blind 175
+Delaveine81 posts big blind 350
+Dealt to P1xel7 [5s 6s]
+*** PRE-FLOP *** 
+Hug10- raises 367 to 717
+--VINO-- folds
+Saveur en or folds
+P1xel7 calls 717
+El Barto 62 folds
+Delaveine81 calls 367
+*** FLOP *** [Kh 6h 7h]
+Delaveine81 checks
+Hug10- bets 1283
+P1xel7 folds
+Delaveine81 folds
+Hug10- collected 3849 from pot
+*** SUMMARY ***
+Total pot 3849 | No rake
+Board: [Kh 6h 7h]
+Seat 4: Hug10- won 3849
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2910499100828893204-30-1691522942 - Holdem no limit (40/175/350) - 2023/08/08 19:29:02 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (13948, 0.45€ bounty)
+Seat 2: El Barto 62 (37496, 0.67€ bounty)
+Seat 3: Delaveine81 (26603, 0.45€ bounty)
+Seat 4: Hug10- (34424, 0.45€ bounty)
+Seat 5: --VINO-- (9176, 0.45€ bounty)
+Seat 6: Saveur en or (18353, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Delaveine81 posts ante 40
+Hug10- posts ante 40
+P1xel7 posts ante 40
+El Barto 62 posts ante 40
+--VINO-- posts ante 40
+Saveur en or posts ante 40
+Delaveine81 posts small blind 175
+Hug10- posts big blind 350
+Dealt to P1xel7 [5c 7h]
+*** PRE-FLOP *** 
+--VINO-- raises 490 to 840
+Saveur en or folds
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 calls 665
+Hug10- folds
+*** FLOP *** [Qs Qd Ad]
+Delaveine81 checks
+--VINO-- bets 795
+Delaveine81 folds
+--VINO-- collected 3065 from pot
+*** SUMMARY ***
+Total pot 3065 | No rake
+Board: [Qs Qd Ad]
+Seat 5: --VINO-- won 3065
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2910499100828893204-31-1691522993 - Holdem no limit (40/175/350) - 2023/08/08 19:29:53 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (13908, 0.45€ bounty)
+Seat 2: El Barto 62 (37456, 0.67€ bounty)
+Seat 3: Delaveine81 (25723, 0.45€ bounty)
+Seat 4: Hug10- (34034, 0.45€ bounty)
+Seat 5: --VINO-- (10566, 0.45€ bounty)
+Seat 6: Saveur en or (18313, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Hug10- posts ante 40
+--VINO-- posts ante 40
+P1xel7 posts ante 40
+El Barto 62 posts ante 40
+Delaveine81 posts ante 40
+Saveur en or posts ante 40
+Hug10- posts small blind 175
+--VINO-- posts big blind 350
+Dealt to P1xel7 [7h Kc]
+*** PRE-FLOP *** 
+Saveur en or folds
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 folds
+Hug10- raises 875 to 1225
+--VINO-- folds
+Hug10- collected 1815 from pot
+*** SUMMARY ***
+Total pot 1815 | No rake
+Seat 4: Hug10- (small blind) won 1815
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #2910499100828893204-32-1691523017 - Holdem no limit (40/175/350) - 2023/08/08 19:30:17 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (13868, 0.45€ bounty)
+Seat 2: El Barto 62 (37416, 0.67€ bounty)
+Seat 3: Delaveine81 (25683, 0.45€ bounty)
+Seat 4: Hug10- (34584, 0.45€ bounty)
+Seat 5: --VINO-- (10176, 0.45€ bounty)
+Seat 6: Saveur en or (18273, 0.45€ bounty)
+*** ANTE/BLINDS ***
+--VINO-- posts ante 40
+Saveur en or posts ante 40
+P1xel7 posts ante 40
+El Barto 62 posts ante 40
+Delaveine81 posts ante 40
+Hug10- posts ante 40
+--VINO-- posts small blind 175
+Saveur en or posts big blind 350
+Dealt to P1xel7 [8s Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+El Barto 62 calls 350
+Delaveine81 calls 350
+Hug10- folds
+--VINO-- folds
+Saveur en or checks
+*** FLOP *** [Ah 6h Ad]
+Saveur en or checks
+El Barto 62 bets 1465
+Delaveine81 calls 1465
+Saveur en or folds
+*** TURN *** [Ah 6h Ad][Js]
+El Barto 62 checks
+Delaveine81 checks
+*** RIVER *** [Ah 6h Ad Js][Jh]
+El Barto 62 bets 4395
+Delaveine81 folds
+El Barto 62 collected 8790 from pot
+*** SUMMARY ***
+Total pot 8790 | No rake
+Board: [Ah 6h Ad Js Jh]
+Seat 2: El Barto 62 won 8790
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #2910499100828893204-33-1691523086 - Holdem no limit (50/200/400) - 2023/08/08 19:31:26 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (13828, 0.45€ bounty)
+Seat 2: El Barto 62 (39956, 0.67€ bounty)
+Seat 3: Delaveine81 (23828, 0.45€ bounty)
+Seat 4: Hug10- (34544, 0.45€ bounty)
+Seat 5: --VINO-- (9961, 0.45€ bounty)
+Seat 6: Saveur en or (17883, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Saveur en or posts ante 50
+P1xel7 posts ante 50
+El Barto 62 posts ante 50
+Delaveine81 posts ante 50
+Hug10- posts ante 50
+--VINO-- posts ante 50
+Saveur en or posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [4h 2h]
+*** PRE-FLOP *** 
+El Barto 62 folds
+Delaveine81 calls 400
+Hug10- raises 1400 to 1800
+--VINO-- folds
+Saveur en or folds
+P1xel7 folds
+Delaveine81 calls 1400
+*** FLOP *** [4c 4s 7d]
+Delaveine81 checks
+Hug10- bets 1575
+Delaveine81 folds
+Hug10- collected 6075 from pot
+*** SUMMARY ***
+Total pot 6075 | No rake
+Board: [4c 4s 7d]
+Seat 4: Hug10- won 6075
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #2910499100828893204-34-1691523137 - Holdem no limit (50/200/400) - 2023/08/08 19:32:17 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (13378, 0.45€ bounty)
+Seat 2: El Barto 62 (39906, 0.67€ bounty)
+Seat 3: Delaveine81 (21978, 0.45€ bounty)
+Seat 4: Hug10- (37194, 0.45€ bounty)
+Seat 5: --VINO-- (9911, 0.45€ bounty)
+Seat 6: Saveur en or (17633, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+El Barto 62 posts ante 50
+Delaveine81 posts ante 50
+Hug10- posts ante 50
+--VINO-- posts ante 50
+Saveur en or posts ante 50
+P1xel7 posts small blind 200
+El Barto 62 posts big blind 400
+Dealt to P1xel7 [Jc 3s]
+*** PRE-FLOP *** 
+Delaveine81 calls 400
+Hug10- folds
+--VINO-- raises 560 to 960
+Saveur en or folds
+P1xel7 folds
+El Barto 62 calls 560
+Delaveine81 calls 560
+*** FLOP *** [5h 4c 9h]
+El Barto 62 checks
+Delaveine81 checks
+--VINO-- bets 1690
+El Barto 62 raises 6760 to 8450
+Delaveine81 folds
+--VINO-- raises 451 to 8901 and is all-in
+El Barto 62 calls 451
+*** TURN *** [5h 4c 9h][Th]
+*** RIVER *** [5h 4c 9h Th][3c]
+*** SHOW DOWN ***
+El Barto 62 shows [9c Ks] (One pair : 9)
+--VINO-- shows [As 9s] (One pair : 9)
+--VINO-- collected 21182 from pot
+*** SUMMARY ***
+Total pot 21182 | No rake
+Board: [5h 4c 9h Th 3c]
+Seat 2: El Barto 62 (big blind) showed [9c Ks] and lost with One pair : 9
+Seat 5: --VINO-- showed [As 9s] and won 21182 with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #2910499100828893204-35-1691523223 - Holdem no limit (50/200/400) - 2023/08/08 19:33:43 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (13128, 0.45€ bounty)
+Seat 2: El Barto 62 (29995, 0.67€ bounty)
+Seat 3: Delaveine81 (20968, 0.45€ bounty)
+Seat 4: Hug10- (37144, 0.45€ bounty)
+Seat 5: --VINO-- (21182, 0.45€ bounty)
+Seat 6: Saveur en or (17583, 0.45€ bounty)
+*** ANTE/BLINDS ***
+El Barto 62 posts ante 50
+Delaveine81 posts ante 50
+P1xel7 posts ante 50
+Hug10- posts ante 50
+--VINO-- posts ante 50
+Saveur en or posts ante 50
+El Barto 62 posts small blind 200
+Delaveine81 posts big blind 400
+Dealt to P1xel7 [2s Td]
+*** PRE-FLOP *** 
+Hug10- folds
+--VINO-- raises 560 to 960
+Saveur en or folds
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 calls 560
+*** FLOP *** [6h 4d 5h]
+Delaveine81 bets 19958 and is all-in
+--VINO-- folds
+Delaveine81 collected 22378 from pot
+*** SUMMARY ***
+Total pot 22378 | No rake
+Board: [6h 4d 5h]
+Seat 3: Delaveine81 (big blind) won 22378
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #2910499100828893204-36-1691523266 - Holdem no limit (50/200/400) - 2023/08/08 19:34:26 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (13078, 0.45€ bounty)
+Seat 2: El Barto 62 (29745, 0.67€ bounty)
+Seat 3: Delaveine81 (22378, 0.45€ bounty)
+Seat 4: Hug10- (37094, 0.45€ bounty)
+Seat 5: --VINO-- (20172, 0.45€ bounty)
+Seat 6: Saveur en or (17533, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Delaveine81 posts ante 50
+Hug10- posts ante 50
+P1xel7 posts ante 50
+El Barto 62 posts ante 50
+--VINO-- posts ante 50
+Saveur en or posts ante 50
+Delaveine81 posts small blind 200
+Hug10- posts big blind 400
+Dealt to P1xel7 [6s 3s]
+*** PRE-FLOP *** 
+--VINO-- folds
+Saveur en or folds
+P1xel7 folds
+El Barto 62 calls 400
+Delaveine81 calls 200
+Hug10- raises 1400 to 1800
+El Barto 62 folds
+Delaveine81 calls 1400
+*** FLOP *** [Td Ad Kc]
+Delaveine81 checks
+Hug10- bets 1505
+Delaveine81 calls 1505
+*** TURN *** [Td Ad Kc][5c]
+Delaveine81 checks
+Hug10- bets 5117
+Delaveine81 calls 5117
+*** RIVER *** [Td Ad Kc 5c][Jd]
+Delaveine81 bets 13906 and is all-in
+Hug10- raises 13906 to 27812
+*** SHOW DOWN ***
+Delaveine81 shows [Qc 2c] (Straight Ace high)
+Hug10- shows [Th As] (Two pairs : Aces and Tens)
+Hug10- collected 13906 from side pot 1
+Delaveine81 collected 45356 from main pot
+*** SUMMARY ***
+Total pot 59262 | No rake
+Board: [Td Ad Kc 5c Jd]
+Seat 3: Delaveine81 (small blind) showed [Qc 2c] and won 45356 with Straight Ace high
+Seat 4: Hug10- (big blind) showed [Th As] and won 13906 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #2910499100828893204-37-1691523375 - Holdem no limit (60/250/500) - 2023/08/08 19:36:15 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (13028, 0.45€ bounty)
+Seat 2: El Barto 62 (29295, 0.67€ bounty)
+Seat 3: Delaveine81 (45356, 0.45€ bounty)
+Seat 4: Hug10- (14716, 0.45€ bounty)
+Seat 5: --VINO-- (20122, 0.45€ bounty)
+Seat 6: Saveur en or (17483, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Hug10- posts ante 60
+--VINO-- posts ante 60
+P1xel7 posts ante 60
+El Barto 62 posts ante 60
+Delaveine81 posts ante 60
+Saveur en or posts ante 60
+Hug10- posts small blind 250
+--VINO-- posts big blind 500
+Dealt to P1xel7 [As 3s]
+*** PRE-FLOP *** 
+Saveur en or folds
+P1xel7 folds
+El Barto 62 calls 500
+Delaveine81 folds
+Hug10- calls 250
+--VINO-- checks
+*** FLOP *** [Td Ah 2c]
+Hug10- checks
+--VINO-- checks
+El Barto 62 bets 2500
+Hug10- folds
+--VINO-- folds
+El Barto 62 collected 4360 from pot
+*** SUMMARY ***
+Total pot 4360 | No rake
+Board: [Td Ah 2c]
+Seat 2: El Barto 62 won 4360
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #2910499100828893204-38-1691523469 - Holdem no limit (60/250/500) - 2023/08/08 19:37:49 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (12968, 0.45€ bounty)
+Seat 2: El Barto 62 (30595, 0.67€ bounty)
+Seat 3: Delaveine81 (45296, 0.45€ bounty)
+Seat 4: Hug10- (14156, 0.45€ bounty)
+Seat 5: --VINO-- (19562, 0.45€ bounty)
+Seat 6: Saveur en or (17423, 0.45€ bounty)
+*** ANTE/BLINDS ***
+--VINO-- posts ante 60
+Saveur en or posts ante 60
+P1xel7 posts ante 60
+El Barto 62 posts ante 60
+Delaveine81 posts ante 60
+Hug10- posts ante 60
+--VINO-- posts small blind 250
+Saveur en or posts big blind 500
+Dealt to P1xel7 [6d 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+El Barto 62 calls 500
+Delaveine81 calls 500
+Hug10- folds
+--VINO-- folds
+Saveur en or raises 16863 to 17363 and is all-in
+El Barto 62 folds
+Delaveine81 folds
+Saveur en or collected 18973 from pot
+*** SUMMARY ***
+Total pot 18973 | No rake
+Seat 6: Saveur en or (big blind) won 18973
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #2910499100828893204-39-1691523521 - Holdem no limit (60/250/500) - 2023/08/08 19:38:41 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (12908, 0.45€ bounty)
+Seat 2: El Barto 62 (30035, 0.67€ bounty)
+Seat 3: Delaveine81 (44736, 0.45€ bounty)
+Seat 4: Hug10- (14096, 0.45€ bounty)
+Seat 5: --VINO-- (19252, 0.45€ bounty)
+Seat 6: Saveur en or (18973, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Saveur en or posts ante 60
+P1xel7 posts ante 60
+El Barto 62 posts ante 60
+Delaveine81 posts ante 60
+Hug10- posts ante 60
+--VINO-- posts ante 60
+Saveur en or posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [6s 8c]
+*** PRE-FLOP *** 
+El Barto 62 folds
+Delaveine81 calls 500
+Hug10- raises 1000 to 1500
+--VINO-- folds
+Saveur en or folds
+P1xel7 folds
+Delaveine81 calls 1000
+*** FLOP *** [Td 4s Ah]
+Delaveine81 checks
+Hug10- bets 1439
+Delaveine81 calls 1439
+*** TURN *** [Td 4s Ah][Jd]
+Delaveine81 checks
+Hug10- bets 3494
+Delaveine81 calls 3494
+*** RIVER *** [Td 4s Ah Jd][Th]
+Delaveine81 bets 4892
+Hug10- calls 4892
+*** SHOW DOWN ***
+Delaveine81 shows [Qd Qs] (Two pairs : Queens and Tens)
+Hug10- shows [Ad 4c] (Two pairs : Aces and Tens)
+Hug10- collected 23760 from pot
+*** SUMMARY ***
+Total pot 23760 | No rake
+Board: [Td 4s Ah Jd Th]
+Seat 3: Delaveine81 showed [Qd Qs] and lost with Two pairs : Queens and Tens
+Seat 4: Hug10- showed [Ad 4c] and won 23760 with Two pairs : Aces and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #2910499100828893204-40-1691523649 - Holdem no limit (60/250/500) - 2023/08/08 19:40:49 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (12348, 0.45€ bounty)
+Seat 2: El Barto 62 (29975, 0.67€ bounty)
+Seat 3: Delaveine81 (33351, 0.45€ bounty)
+Seat 4: Hug10- (26471, 0.45€ bounty)
+Seat 5: --VINO-- (19192, 0.45€ bounty)
+Seat 6: Saveur en or (18663, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+El Barto 62 posts ante 60
+Delaveine81 posts ante 60
+Hug10- posts ante 60
+--VINO-- posts ante 60
+Saveur en or posts ante 60
+P1xel7 posts small blind 250
+El Barto 62 posts big blind 500
+Dealt to P1xel7 [Jd Kh]
+*** PRE-FLOP *** 
+Delaveine81 calls 500
+Hug10- folds
+--VINO-- raises 1225 to 1725
+Saveur en or folds
+P1xel7 calls 1475
+El Barto 62 folds
+Delaveine81 calls 1225
+*** FLOP *** [Tc 8d 9s]
+P1xel7 checks
+Delaveine81 checks
+--VINO-- checks
+*** TURN *** [Tc 8d 9s][8c]
+P1xel7 checks
+Delaveine81 checks
+--VINO-- checks
+*** RIVER *** [Tc 8d 9s 8c][Kd]
+P1xel7 bets 2112
+Delaveine81 folds
+--VINO-- folds
+P1xel7 collected 8147 from pot
+*** SUMMARY ***
+Total pot 8147 | No rake
+Board: [Tc 8d 9s 8c Kd]
+Seat 1: P1xel7 (small blind) won 8147
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2910499100828893204-41-1691523715 - Holdem no limit (70/300/600) - 2023/08/08 19:41:55 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (16598, 0.45€ bounty)
+Seat 2: El Barto 62 (29415, 0.67€ bounty)
+Seat 3: Delaveine81 (31566, 0.45€ bounty)
+Seat 4: Hug10- (26411, 0.45€ bounty)
+Seat 5: --VINO-- (17407, 0.45€ bounty)
+Seat 6: Saveur en or (18603, 0.45€ bounty)
+*** ANTE/BLINDS ***
+El Barto 62 posts ante 70
+Delaveine81 posts ante 70
+P1xel7 posts ante 70
+Hug10- posts ante 70
+--VINO-- posts ante 70
+Saveur en or posts ante 70
+El Barto 62 posts small blind 300
+Delaveine81 posts big blind 600
+Dealt to P1xel7 [8s Kh]
+*** PRE-FLOP *** 
+Hug10- folds
+--VINO-- folds
+Saveur en or folds
+P1xel7 folds
+El Barto 62 raises 1620 to 2220
+Delaveine81 folds
+El Barto 62 collected 3240 from pot
+*** SUMMARY ***
+Total pot 3240 | No rake
+Seat 2: El Barto 62 (small blind) won 3240
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2910499100828893204-42-1691523760 - Holdem no limit (70/300/600) - 2023/08/08 19:42:40 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (16528, 0.45€ bounty)
+Seat 2: El Barto 62 (30365, 0.67€ bounty)
+Seat 3: Delaveine81 (30896, 0.45€ bounty)
+Seat 4: Hug10- (26341, 0.45€ bounty)
+Seat 5: --VINO-- (17337, 0.45€ bounty)
+Seat 6: Saveur en or (18533, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Delaveine81 posts ante 70
+Hug10- posts ante 70
+P1xel7 posts ante 70
+El Barto 62 posts ante 70
+--VINO-- posts ante 70
+Saveur en or posts ante 70
+Delaveine81 posts small blind 300
+Hug10- posts big blind 600
+Dealt to P1xel7 [9c 7c]
+*** PRE-FLOP *** 
+--VINO-- folds
+Saveur en or raises 600 to 1200
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 calls 900
+Hug10- folds
+*** FLOP *** [Td Kd 9s]
+Delaveine81 checks
+Saveur en or bets 1026
+Delaveine81 calls 1026
+*** TURN *** [Td Kd 9s][6d]
+Delaveine81 checks
+Saveur en or checks
+*** RIVER *** [Td Kd 9s 6d][Js]
+Delaveine81 bets 600
+Saveur en or calls 600
+*** SHOW DOWN ***
+Delaveine81 shows [7d 7h] (One pair : 7)
+Saveur en or shows [Tc Jd] (Two pairs : Jacks and Tens)
+Saveur en or collected 6672 from pot
+*** SUMMARY ***
+Total pot 6672 | No rake
+Board: [Td Kd 9s 6d Js]
+Seat 3: Delaveine81 (small blind) showed [7d 7h] and lost with One pair : 7
+Seat 6: Saveur en or showed [Tc Jd] and won 6672 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2910499100828893204-43-1691523807 - Holdem no limit (70/300/600) - 2023/08/08 19:43:27 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (16458, 0.45€ bounty)
+Seat 2: El Barto 62 (30295, 0.67€ bounty)
+Seat 3: Delaveine81 (28000, 0.45€ bounty)
+Seat 4: Hug10- (25671, 0.45€ bounty)
+Seat 5: --VINO-- (17267, 0.45€ bounty)
+Seat 6: Saveur en or (22309, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Hug10- posts ante 70
+--VINO-- posts ante 70
+P1xel7 posts ante 70
+El Barto 62 posts ante 70
+Delaveine81 posts ante 70
+Saveur en or posts ante 70
+Hug10- posts small blind 300
+--VINO-- posts big blind 600
+Dealt to P1xel7 [5c Td]
+*** PRE-FLOP *** 
+Saveur en or folds
+P1xel7 folds
+El Barto 62 calls 600
+Delaveine81 folds
+Hug10- folds
+--VINO-- raises 16597 to 17197 and is all-in
+El Barto 62 folds
+--VINO-- collected 18517 from pot
+*** SUMMARY ***
+Total pot 18517 | No rake
+Seat 5: --VINO-- (big blind) won 18517
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2910499100828893204-44-1691523844 - Holdem no limit (70/300/600) - 2023/08/08 19:44:04 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (16388, 0.45€ bounty)
+Seat 2: El Barto 62 (29625, 0.67€ bounty)
+Seat 3: Delaveine81 (27930, 0.45€ bounty)
+Seat 4: Hug10- (25301, 0.45€ bounty)
+Seat 5: --VINO-- (18517, 0.45€ bounty)
+Seat 6: Saveur en or (22239, 0.45€ bounty)
+*** ANTE/BLINDS ***
+--VINO-- posts ante 70
+Saveur en or posts ante 70
+P1xel7 posts ante 70
+El Barto 62 posts ante 70
+Delaveine81 posts ante 70
+Hug10- posts ante 70
+--VINO-- posts small blind 300
+Saveur en or posts big blind 600
+Dealt to P1xel7 [Jh 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+El Barto 62 calls 600
+Delaveine81 folds
+Hug10- folds
+--VINO-- raises 1470 to 2070
+Saveur en or folds
+El Barto 62 calls 1470
+*** FLOP *** [8s Jc 2c]
+--VINO-- bets 1806
+El Barto 62 folds
+--VINO-- collected 6966 from pot
+*** SUMMARY ***
+Total pot 6966 | No rake
+Board: [8s Jc 2c]
+Seat 5: --VINO-- (small blind) won 6966
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2910499100828893204-45-1691523889 - Holdem no limit (70/300/600) - 2023/08/08 19:44:49 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (16318, 0.45€ bounty)
+Seat 2: El Barto 62 (27485, 0.67€ bounty)
+Seat 3: Delaveine81 (27860, 0.45€ bounty)
+Seat 4: Hug10- (25231, 0.45€ bounty)
+Seat 5: --VINO-- (21537, 0.45€ bounty)
+Seat 6: Saveur en or (21569, 0.45€ bounty)
+*** ANTE/BLINDS ***
+Saveur en or posts ante 70
+P1xel7 posts ante 70
+El Barto 62 posts ante 70
+Delaveine81 posts ante 70
+Hug10- posts ante 70
+--VINO-- posts ante 70
+Saveur en or posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [6h Ts]
+*** PRE-FLOP *** 
+El Barto 62 folds
+Delaveine81 folds
+Hug10- raises 630 to 1230
+--VINO-- folds
+Saveur en or folds
+P1xel7 folds
+Hug10- collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Seat 4: Hug10- won 2550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #2910499100828893204-46-1691523911 - Holdem no limit (70/300/600) - 2023/08/08 19:45:11 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (15648, 0.45€ bounty)
+Seat 2: El Barto 62 (27415, 0.67€ bounty)
+Seat 3: Delaveine81 (27790, 0.45€ bounty)
+Seat 4: Hug10- (26481, 0.45€ bounty)
+Seat 5: --VINO-- (21467, 0.45€ bounty)
+Seat 6: Saveur en or (21199, 0.45€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+El Barto 62 posts ante 70
+Delaveine81 posts ante 70
+Hug10- posts ante 70
+--VINO-- posts ante 70
+Saveur en or posts ante 70
+P1xel7 posts small blind 300
+El Barto 62 posts big blind 600
+Dealt to P1xel7 [9s 7h]
+*** PRE-FLOP *** 
+Delaveine81 calls 600
+Hug10- raises 1500 to 2100
+--VINO-- calls 2100
+Saveur en or folds
+P1xel7 folds
+El Barto 62 folds
+Delaveine81 calls 1500
+*** FLOP *** [9c Jh Ad]
+Delaveine81 bets 25620 and is all-in
+Hug10- calls 24311 and is all-in
+--VINO-- folds
+*** TURN *** [9c Jh Ad][Kh]
+*** RIVER *** [9c Jh Ad Kh][7d]
+*** SHOW DOWN ***
+Hug10- shows [Ah Td] (One pair : Aces)
+Delaveine81 shows [Js Jd] (Trips of Jacks)
+Delaveine81 collected 57551 from pot
+*** SUMMARY ***
+Total pot 57551 | No rake
+Board: [9c Jh Ad Kh 7d]
+Seat 3: Delaveine81 showed [Js Jd] and won 57551 with Trips of Jacks
+Seat 4: Hug10- showed [Ah Td] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #2910499100828893204-47-1691523991 - Holdem no limit (80/350/700) - 2023/08/08 19:46:31 UTC
+Table: 'Kill The Fish(677653379)#019' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (15278, 0.45€ bounty)
+Seat 2: El Barto 62 (26745, 0.67€ bounty)
+Seat 3: Delaveine81 (57551, 0.67€ bounty)
+Seat 5: --VINO-- (19297, 0.45€ bounty)
+Seat 6: Saveur en or (21129, 0.45€ bounty)
+*** ANTE/BLINDS ***
+El Barto 62 posts ante 80
+Delaveine81 posts ante 80
+P1xel7 posts ante 80
+--VINO-- posts ante 80
+Saveur en or posts ante 80
+El Barto 62 posts small blind 350
+Delaveine81 posts big blind 700
+Dealt to P1xel7 [Ts Kh]
+*** PRE-FLOP *** 
+--VINO-- folds
+Saveur en or raises 700 to 1400
+P1xel7 calls 1400
+El Barto 62 calls 1050
+Delaveine81 calls 700
+*** FLOP *** [8c Qc Js]
+El Barto 62 checks
+Delaveine81 checks
+Saveur en or bets 4800
+P1xel7 calls 4800
+El Barto 62 folds
+Delaveine81 folds
+*** TURN *** [8c Qc Js][6h]
+Saveur en or bets 14849 and is all-in
+P1xel7 calls 8998 and is all-in
+*** RIVER *** [8c Qc Js 6h][2c]
+*** SHOW DOWN ***
+P1xel7 shows [Ts Kh] (High card : King)
+Saveur en or shows [Jd 8d] (Two pairs : Jacks and 8)
+Saveur en or collected 39447 from pot
+*** SUMMARY ***
+Total pot 39447 | No rake
+Board: [8c Qc Js 6h 2c]
+Seat 1: P1xel7 (button) showed [Ts Kh] and lost with High card : King
+Seat 6: Saveur en or showed [Jd 8d] and won 39447 with Two pairs : Jacks and 8
+
+

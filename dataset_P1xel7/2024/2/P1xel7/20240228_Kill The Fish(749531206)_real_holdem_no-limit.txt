@@ -1,0 +1,2840 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-19-1709149542 - Holdem no limit (25/100/200) - 2024/02/28 19:45:42 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: KLEONAARD2 (26975, 0.22€ bounty)
+Seat 2: FUK_IOU (32332, 0.33€ bounty)
+Seat 3: Michel42 (48363, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (20375, 0.22€ bounty)
+Seat 5: P1xel7 (20000, 0.22€ bounty)
+Seat 6: sizbu68 (15992, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FUK_IOU posts ante 25
+Michel42 posts ante 25
+KLEONAARD2 posts ante 25
+-THE OUTLAW- posts ante 25
+P1xel7 posts ante 25
+sizbu68 posts ante 25
+FUK_IOU posts small blind 100
+Michel42 posts big blind 200
+Dealt to P1xel7 [Kh Ts]
+*** PRE-FLOP *** 
+-THE OUTLAW- calls 200
+P1xel7 raises 300 to 500
+sizbu68 folds
+KLEONAARD2 folds
+FUK_IOU folds
+Michel42 folds
+-THE OUTLAW- calls 300
+*** FLOP *** [5d Kd Js]
+-THE OUTLAW- checks
+P1xel7 bets 700
+-THE OUTLAW- calls 700
+*** TURN *** [5d Kd Js][8s]
+-THE OUTLAW- checks
+P1xel7 bets 500
+-THE OUTLAW- calls 500
+*** RIVER *** [5d Kd Js 8s][2s]
+-THE OUTLAW- bets 1348
+P1xel7 calls 1348
+*** SHOW DOWN ***
+P1xel7 shows [Kh Ts] (One pair : Kings)
+-THE OUTLAW- shows [9s Qs] (Flush Queen high)
+-THE OUTLAW- collected 6546 from pot
+*** SUMMARY ***
+Total pot 6546 | No rake
+Board: [5d Kd Js 8s 2s]
+Seat 4: -THE OUTLAW- showed [9s Qs] and won 6546 with Flush Queen high
+Seat 5: P1xel7 showed [Kh Ts] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-20-1709149629 - Holdem no limit (25/100/200) - 2024/02/28 19:47:09 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: KLEONAARD2 (26950, 0.22€ bounty)
+Seat 2: FUK_IOU (32207, 0.33€ bounty)
+Seat 3: Michel42 (48138, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (23848, 0.22€ bounty)
+Seat 5: P1xel7 (16927, 0.22€ bounty)
+Seat 6: sizbu68 (15967, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Michel42 posts ante 25
+-THE OUTLAW- posts ante 25
+KLEONAARD2 posts ante 25
+FUK_IOU posts ante 25
+P1xel7 posts ante 25
+sizbu68 posts ante 25
+Michel42 posts small blind 100
+-THE OUTLAW- posts big blind 200
+Dealt to P1xel7 [Kh 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+sizbu68 folds
+KLEONAARD2 folds
+FUK_IOU folds
+Michel42 raises 300 to 500
+-THE OUTLAW- calls 300
+*** FLOP *** [4c Qh 3s]
+Michel42 bets 575
+-THE OUTLAW- folds
+Michel42 collected 1725 from pot
+*** SUMMARY ***
+Total pot 1725 | No rake
+Board: [4c Qh 3s]
+Seat 3: Michel42 (small blind) won 1725
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-21-1709149667 - Holdem no limit (25/100/200) - 2024/02/28 19:47:47 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: KLEONAARD2 (26925, 0.22€ bounty)
+Seat 2: FUK_IOU (32182, 0.33€ bounty)
+Seat 3: Michel42 (48763, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (23323, 0.22€ bounty)
+Seat 5: P1xel7 (16902, 0.22€ bounty)
+Seat 6: sizbu68 (15942, 0.22€ bounty)
+*** ANTE/BLINDS ***
+-THE OUTLAW- posts ante 25
+P1xel7 posts ante 25
+KLEONAARD2 posts ante 25
+FUK_IOU posts ante 25
+Michel42 posts ante 25
+sizbu68 posts ante 25
+-THE OUTLAW- posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Jh As]
+*** PRE-FLOP *** 
+sizbu68 folds
+KLEONAARD2 folds
+FUK_IOU folds
+Michel42 raises 300 to 500
+-THE OUTLAW- folds
+P1xel7 raises 1000 to 1500
+Michel42 calls 1000
+*** FLOP *** [Jc 7d 9d]
+P1xel7 bets 1625
+Michel42 calls 1625
+*** TURN *** [Jc 7d 9d][5h]
+P1xel7 bets 4225
+Michel42 calls 4225
+*** RIVER *** [Jc 7d 9d 5h][5d]
+P1xel7 bets 3738
+Michel42 calls 3738
+*** SHOW DOWN ***
+Michel42 shows [Jd Ks] (Two pairs : Jacks and 5)
+P1xel7 shows [Jh As] (Two pairs : Jacks and 5)
+P1xel7 collected 22426 from pot
+*** SUMMARY ***
+Total pot 22426 | No rake
+Board: [Jc 7d 9d 5h 5d]
+Seat 3: Michel42 (button) showed [Jd Ks] and lost with Two pairs : Jacks and 5
+Seat 5: P1xel7 (big blind) showed [Jh As] and won 22426 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-22-1709149715 - Holdem no limit (25/100/200) - 2024/02/28 19:48:35 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: KLEONAARD2 (26900, 0.22€ bounty)
+Seat 2: FUK_IOU (32157, 0.33€ bounty)
+Seat 3: Michel42 (37650, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (23198, 0.22€ bounty)
+Seat 5: P1xel7 (28215, 0.22€ bounty)
+Seat 6: sizbu68 (15917, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+sizbu68 posts ante 25
+KLEONAARD2 posts ante 25
+FUK_IOU posts ante 25
+Michel42 posts ante 25
+-THE OUTLAW- posts ante 25
+P1xel7 posts small blind 100
+sizbu68 posts big blind 200
+Dealt to P1xel7 [Kd 4s]
+*** PRE-FLOP *** 
+KLEONAARD2 folds
+FUK_IOU calls 200
+Michel42 folds
+-THE OUTLAW- folds
+P1xel7 folds
+sizbu68 checks
+*** FLOP *** [Ac 3h Ts]
+sizbu68 checks
+FUK_IOU checks
+*** TURN *** [Ac 3h Ts][8s]
+sizbu68 bets 215
+FUK_IOU calls 215
+*** RIVER *** [Ac 3h Ts 8s][Qh]
+sizbu68 checks
+FUK_IOU checks
+*** SHOW DOWN ***
+FUK_IOU shows [5d Td] (One pair : Tens)
+sizbu68 shows [7s Tc] (One pair : Tens)
+sizbu68 collected 540 from pot
+FUK_IOU collected 540 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [Ac 3h Ts 8s Qh]
+Seat 2: FUK_IOU showed [5d Td] and won 540 with One pair : Tens
+Seat 6: sizbu68 (big blind) showed [7s Tc] and won 540 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-23-1709149768 - Holdem no limit (25/100/200) - 2024/02/28 19:49:28 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: KLEONAARD2 (26875, 0.22€ bounty)
+Seat 2: FUK_IOU (32257, 0.33€ bounty)
+Seat 3: Michel42 (37625, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (23173, 0.22€ bounty)
+Seat 5: P1xel7 (28090, 0.22€ bounty)
+Seat 6: sizbu68 (16017, 0.22€ bounty)
+*** ANTE/BLINDS ***
+sizbu68 posts ante 25
+KLEONAARD2 posts ante 25
+FUK_IOU posts ante 25
+Michel42 posts ante 25
+-THE OUTLAW- posts ante 25
+P1xel7 posts ante 25
+sizbu68 posts small blind 100
+KLEONAARD2 posts big blind 200
+Dealt to P1xel7 [Ad 8d]
+*** PRE-FLOP *** 
+FUK_IOU folds
+Michel42 folds
+-THE OUTLAW- raises 300 to 500
+P1xel7 calls 500
+sizbu68 folds
+KLEONAARD2 calls 300
+*** FLOP *** [Ts Jc Jh]
+KLEONAARD2 checks
+-THE OUTLAW- bets 438
+P1xel7 folds
+KLEONAARD2 folds
+-THE OUTLAW- collected 2188 from pot
+*** SUMMARY ***
+Total pot 2188 | No rake
+Board: [Ts Jc Jh]
+Seat 4: -THE OUTLAW- won 2188
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-24-1709149827 - Holdem no limit (25/100/200) - 2024/02/28 19:50:27 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: KLEONAARD2 (26350, 0.22€ bounty)
+Seat 2: FUK_IOU (32232, 0.33€ bounty)
+Seat 3: Michel42 (37600, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (24398, 0.22€ bounty)
+Seat 5: P1xel7 (27565, 0.22€ bounty)
+Seat 6: sizbu68 (15892, 0.22€ bounty)
+*** ANTE/BLINDS ***
+KLEONAARD2 posts ante 25
+FUK_IOU posts ante 25
+Michel42 posts ante 25
+-THE OUTLAW- posts ante 25
+P1xel7 posts ante 25
+sizbu68 posts ante 25
+KLEONAARD2 posts small blind 100
+FUK_IOU posts big blind 200
+Dealt to P1xel7 [Qd Js]
+*** PRE-FLOP *** 
+Michel42 folds
+-THE OUTLAW- folds
+P1xel7 raises 300 to 500
+sizbu68 folds
+KLEONAARD2 folds
+FUK_IOU calls 300
+*** FLOP *** [Jc Jh 4h]
+FUK_IOU checks
+P1xel7 checks
+*** TURN *** [Jc Jh 4h][4d]
+FUK_IOU checks
+P1xel7 bets 400
+FUK_IOU calls 400
+*** RIVER *** [Jc Jh 4h 4d][5c]
+FUK_IOU checks
+P1xel7 bets 1640
+FUK_IOU folds
+P1xel7 collected 3690 from pot
+*** SUMMARY ***
+Total pot 3690 | No rake
+Board: [Jc Jh 4h 4d 5c]
+Seat 5: P1xel7 won 3690
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-25-1709149890 - Holdem no limit (25/100/200) - 2024/02/28 19:51:30 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: KLEONAARD2 (26225, 0.22€ bounty)
+Seat 2: FUK_IOU (31307, 0.33€ bounty)
+Seat 3: Michel42 (37575, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (24373, 0.22€ bounty)
+Seat 5: P1xel7 (28690, 0.22€ bounty)
+Seat 6: sizbu68 (15867, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FUK_IOU posts ante 25
+Michel42 posts ante 25
+KLEONAARD2 posts ante 25
+-THE OUTLAW- posts ante 25
+P1xel7 posts ante 25
+sizbu68 posts ante 25
+FUK_IOU posts small blind 100
+Michel42 posts big blind 200
+Dealt to P1xel7 [Ac 8s]
+*** PRE-FLOP *** 
+-THE OUTLAW- folds
+P1xel7 folds
+sizbu68 folds
+KLEONAARD2 raises 300 to 500
+FUK_IOU folds
+Michel42 folds
+KLEONAARD2 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | No rake
+Seat 1: KLEONAARD2 (button) won 950
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-26-1709149932 - Holdem no limit (25/100/200) - 2024/02/28 19:52:12 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: KLEONAARD2 (26650, 0.22€ bounty)
+Seat 2: FUK_IOU (31182, 0.33€ bounty)
+Seat 3: Michel42 (37350, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (24348, 0.22€ bounty)
+Seat 5: P1xel7 (28665, 0.22€ bounty)
+Seat 6: sizbu68 (15842, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Michel42 posts ante 25
+-THE OUTLAW- posts ante 25
+KLEONAARD2 posts ante 25
+FUK_IOU posts ante 25
+P1xel7 posts ante 25
+sizbu68 posts ante 25
+Michel42 posts small blind 100
+-THE OUTLAW- posts big blind 200
+Dealt to P1xel7 [2c Ks]
+*** PRE-FLOP *** 
+P1xel7 folds
+sizbu68 folds
+KLEONAARD2 folds
+FUK_IOU folds
+Michel42 raises 200 to 400
+-THE OUTLAW- folds
+Michel42 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Seat 3: Michel42 (small blind) won 750
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-27-1709149945 - Holdem no limit (25/100/200) - 2024/02/28 19:52:25 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: KLEONAARD2 (26625, 0.22€ bounty)
+Seat 2: FUK_IOU (31157, 0.33€ bounty)
+Seat 3: Michel42 (37675, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (24123, 0.22€ bounty)
+Seat 5: P1xel7 (28640, 0.22€ bounty)
+Seat 6: sizbu68 (15817, 0.22€ bounty)
+*** ANTE/BLINDS ***
+-THE OUTLAW- posts ante 25
+P1xel7 posts ante 25
+KLEONAARD2 posts ante 25
+FUK_IOU posts ante 25
+Michel42 posts ante 25
+sizbu68 posts ante 25
+-THE OUTLAW- posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Qh 7d]
+*** PRE-FLOP *** 
+sizbu68 folds
+KLEONAARD2 folds
+FUK_IOU folds
+Michel42 raises 200 to 400
+-THE OUTLAW- calls 300
+P1xel7 folds
+*** FLOP *** [Jh 4s 9d]
+-THE OUTLAW- checks
+Michel42 checks
+*** TURN *** [Jh 4s 9d][Jd]
+-THE OUTLAW- bets 500
+Michel42 folds
+-THE OUTLAW- collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Board: [Jh 4s 9d Jd]
+Seat 4: -THE OUTLAW- (small blind) won 1650
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-28-1709150017 - Holdem no limit (25/100/200) - 2024/02/28 19:53:37 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: KLEONAARD2 (26600, 0.22€ bounty)
+Seat 2: FUK_IOU (31132, 0.33€ bounty)
+Seat 3: Michel42 (37250, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (24848, 0.22€ bounty)
+Seat 5: P1xel7 (28415, 0.22€ bounty)
+Seat 6: sizbu68 (15792, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+sizbu68 posts ante 25
+KLEONAARD2 posts ante 25
+FUK_IOU posts ante 25
+Michel42 posts ante 25
+-THE OUTLAW- posts ante 25
+P1xel7 posts small blind 100
+sizbu68 posts big blind 200
+Dealt to P1xel7 [Jd Kd]
+*** PRE-FLOP *** 
+KLEONAARD2 folds
+FUK_IOU raises 650 to 850
+Michel42 calls 850
+-THE OUTLAW- folds
+P1xel7 calls 750
+sizbu68 folds
+*** FLOP *** [7d Js Ks]
+P1xel7 bets 800
+FUK_IOU calls 800
+Michel42 folds
+*** TURN *** [7d Js Ks][3c]
+P1xel7 bets 1575
+FUK_IOU calls 1575
+*** RIVER *** [7d Js Ks 3c][Qs]
+P1xel7 bets 3825
+FUK_IOU calls 3825
+*** SHOW DOWN ***
+FUK_IOU shows [Kc 6c] (One pair : Kings)
+P1xel7 shows [Jd Kd] (Two pairs : Kings and Jacks)
+P1xel7 collected 15300 from pot
+*** SUMMARY ***
+Total pot 15300 | No rake
+Board: [7d Js Ks 3c Qs]
+Seat 2: FUK_IOU showed [Kc 6c] and lost with One pair : Kings
+Seat 5: P1xel7 (small blind) showed [Jd Kd] and won 15300 with Two pairs : Kings and Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3219212017101438995-29-1709150069 - Holdem no limit (25/100/200) - 2024/02/28 19:54:29 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: KLEONAARD2 (26575, 0.22€ bounty)
+Seat 2: FUK_IOU (24057, 0.33€ bounty)
+Seat 3: Michel42 (36375, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (24823, 0.22€ bounty)
+Seat 5: P1xel7 (36640, 0.22€ bounty)
+Seat 6: sizbu68 (15567, 0.22€ bounty)
+*** ANTE/BLINDS ***
+sizbu68 posts ante 25
+KLEONAARD2 posts ante 25
+FUK_IOU posts ante 25
+Michel42 posts ante 25
+-THE OUTLAW- posts ante 25
+P1xel7 posts ante 25
+sizbu68 posts small blind 100
+KLEONAARD2 posts big blind 200
+Dealt to P1xel7 [6c 7d]
+*** PRE-FLOP *** 
+FUK_IOU folds
+Michel42 folds
+-THE OUTLAW- calls 200
+P1xel7 folds
+sizbu68 folds
+KLEONAARD2 checks
+*** FLOP *** [Td Kd 2h]
+KLEONAARD2 checks
+-THE OUTLAW- bets 650
+KLEONAARD2 folds
+-THE OUTLAW- collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | No rake
+Board: [Td Kd 2h]
+Seat 4: -THE OUTLAW- won 1300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3219212017101438995-30-1709150461 - Holdem no limit (30/125/250) - 2024/02/28 20:01:01 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: KLEONAARD2 (26350, 0.22€ bounty)
+Seat 2: FUK_IOU (24032, 0.33€ bounty)
+Seat 3: Michel42 (36350, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (25248, 0.22€ bounty)
+Seat 5: P1xel7 (36615, 0.22€ bounty)
+Seat 6: sizbu68 (15442, 0.22€ bounty)
+*** ANTE/BLINDS ***
+KLEONAARD2 posts ante 30
+FUK_IOU posts ante 30
+Michel42 posts ante 30
+-THE OUTLAW- posts ante 30
+P1xel7 posts ante 30
+sizbu68 posts ante 30
+KLEONAARD2 posts small blind 125
+FUK_IOU posts big blind 250
+Dealt to P1xel7 [Kh Jh]
+*** PRE-FLOP *** 
+Michel42 folds
+-THE OUTLAW- calls 250
+P1xel7 raises 750 to 1000
+sizbu68 folds
+KLEONAARD2 folds
+FUK_IOU folds
+-THE OUTLAW- folds
+P1xel7 collected 1805 from pot
+*** SUMMARY ***
+Total pot 1805 | No rake
+Seat 5: P1xel7 won 1805
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3219212017101438995-31-1709150547 - Holdem no limit (30/125/250) - 2024/02/28 20:02:27 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: KLEONAARD2 (26195, 0.22€ bounty)
+Seat 2: FUK_IOU (23752, 0.33€ bounty)
+Seat 3: Michel42 (36320, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (24968, 0.22€ bounty)
+Seat 5: P1xel7 (37390, 0.22€ bounty)
+Seat 6: sizbu68 (15412, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FUK_IOU posts ante 30
+Michel42 posts ante 30
+KLEONAARD2 posts ante 30
+-THE OUTLAW- posts ante 30
+P1xel7 posts ante 30
+sizbu68 posts ante 30
+FUK_IOU posts small blind 125
+Michel42 posts big blind 250
+Dealt to P1xel7 [Kd 7c]
+*** PRE-FLOP *** 
+-THE OUTLAW- folds
+P1xel7 folds
+sizbu68 folds
+KLEONAARD2 raises 375 to 625
+FUK_IOU calls 500
+Michel42 calls 375
+*** FLOP *** [Kc Ks 3d]
+FUK_IOU checks
+Michel42 checks
+KLEONAARD2 bets 500
+FUK_IOU folds
+Michel42 folds
+KLEONAARD2 collected 2555 from pot
+*** SUMMARY ***
+Total pot 2555 | No rake
+Board: [Kc Ks 3d]
+Seat 1: KLEONAARD2 (button) won 2555
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3219212017101438995-32-1709150630 - Holdem no limit (30/125/250) - 2024/02/28 20:03:50 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: KLEONAARD2 (27595, 0.22€ bounty)
+Seat 2: FUK_IOU (23097, 0.33€ bounty)
+Seat 3: Michel42 (35665, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (24938, 0.22€ bounty)
+Seat 5: P1xel7 (37360, 0.22€ bounty)
+Seat 6: sizbu68 (15382, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Michel42 posts ante 30
+-THE OUTLAW- posts ante 30
+KLEONAARD2 posts ante 30
+FUK_IOU posts ante 30
+P1xel7 posts ante 30
+sizbu68 posts ante 30
+Michel42 posts small blind 125
+-THE OUTLAW- posts big blind 250
+Dealt to P1xel7 [Ts Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+sizbu68 folds
+KLEONAARD2 raises 313 to 563
+FUK_IOU folds
+Michel42 folds
+-THE OUTLAW- folds
+KLEONAARD2 collected 1118 from pot
+*** SUMMARY ***
+Total pot 1118 | No rake
+Seat 1: KLEONAARD2 won 1118
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3219212017101438995-33-1709150675 - Holdem no limit (30/125/250) - 2024/02/28 20:04:35 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: KLEONAARD2 (28120, 0.22€ bounty)
+Seat 2: FUK_IOU (23067, 0.33€ bounty)
+Seat 3: Michel42 (35510, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (24658, 0.22€ bounty)
+Seat 5: P1xel7 (37330, 0.22€ bounty)
+Seat 6: sizbu68 (15352, 0.22€ bounty)
+*** ANTE/BLINDS ***
+-THE OUTLAW- posts ante 30
+P1xel7 posts ante 30
+KLEONAARD2 posts ante 30
+FUK_IOU posts ante 30
+Michel42 posts ante 30
+sizbu68 posts ante 30
+-THE OUTLAW- posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [6c 5c]
+*** PRE-FLOP *** 
+sizbu68 raises 625 to 875
+KLEONAARD2 folds
+FUK_IOU folds
+Michel42 folds
+-THE OUTLAW- calls 750
+P1xel7 calls 625
+*** FLOP *** [5h 8d Td]
+-THE OUTLAW- bets 982
+P1xel7 folds
+sizbu68 folds
+-THE OUTLAW- collected 3787 from pot
+*** SUMMARY ***
+Total pot 3787 | No rake
+Board: [5h 8d Td]
+Seat 4: -THE OUTLAW- (small blind) won 3787
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3219212017101438995-34-1709150750 - Holdem no limit (30/125/250) - 2024/02/28 20:05:50 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 2: FUK_IOU (23037, 0.33€ bounty)
+Seat 3: Michel42 (35480, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (26558, 0.22€ bounty)
+Seat 5: P1xel7 (36425, 0.22€ bounty)
+Seat 6: sizbu68 (14447, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+sizbu68 posts ante 30
+FUK_IOU posts ante 30
+Michel42 posts ante 30
+-THE OUTLAW- posts ante 30
+P1xel7 posts small blind 125
+sizbu68 posts big blind 250
+Dealt to P1xel7 [2h 8d]
+*** PRE-FLOP *** 
+FUK_IOU folds
+Michel42 folds
+-THE OUTLAW- folds
+P1xel7 folds
+sizbu68 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Seat 6: sizbu68 (big blind) won 525
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3219212017101438995-35-1709150771 - Holdem no limit (35/150/300) - 2024/02/28 20:06:11 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: Luch9142 (20000, 0.22€ bounty)
+Seat 2: FUK_IOU (23007, 0.33€ bounty)
+Seat 3: Michel42 (35450, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (26528, 0.22€ bounty)
+Seat 5: P1xel7 (36270, 0.22€ bounty)
+Seat 6: sizbu68 (14692, 0.22€ bounty)
+*** ANTE/BLINDS ***
+sizbu68 posts ante 35
+Luch9142 posts ante 35
+FUK_IOU posts ante 35
+Michel42 posts ante 35
+-THE OUTLAW- posts ante 35
+P1xel7 posts ante 35
+sizbu68 posts small blind 150
+Luch9142 posts big blind 300
+Dealt to P1xel7 [Th Kd]
+*** PRE-FLOP *** 
+FUK_IOU folds
+Michel42 folds
+-THE OUTLAW- calls 300
+P1xel7 raises 900 to 1200
+sizbu68 folds
+Luch9142 folds
+-THE OUTLAW- calls 900
+*** FLOP *** [7s Qh 6d]
+-THE OUTLAW- bets 2295
+P1xel7 calls 2295
+*** TURN *** [7s Qh 6d][6h]
+-THE OUTLAW- checks
+P1xel7 bets 3450
+-THE OUTLAW- raises 14550 to 18000
+P1xel7 folds
+-THE OUTLAW- collected 29100 from pot
+*** SUMMARY ***
+Total pot 29100 | No rake
+Board: [7s Qh 6d 6h]
+Seat 4: -THE OUTLAW- won 29100
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3219212017101438995-36-1709150859 - Holdem no limit (35/150/300) - 2024/02/28 20:07:39 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: Luch9142 (19665, 0.22€ bounty)
+Seat 2: FUK_IOU (22972, 0.33€ bounty)
+Seat 3: Michel42 (35415, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (34098, 0.22€ bounty)
+Seat 5: P1xel7 (29290, 0.22€ bounty)
+Seat 6: sizbu68 (14507, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Luch9142 posts ante 35
+FUK_IOU posts ante 35
+Michel42 posts ante 35
+-THE OUTLAW- posts ante 35
+P1xel7 posts ante 35
+sizbu68 posts ante 35
+Luch9142 posts small blind 150
+FUK_IOU posts big blind 300
+Dealt to P1xel7 [6c Js]
+*** PRE-FLOP *** 
+Michel42 folds
+-THE OUTLAW- calls 300
+P1xel7 folds
+sizbu68 raises 1050 to 1350
+Luch9142 folds
+FUK_IOU folds
+-THE OUTLAW- calls 1050
+*** FLOP *** [8d Ks Th]
+-THE OUTLAW- checks
+sizbu68 bets 1680
+-THE OUTLAW- calls 1680
+*** TURN *** [8d Ks Th][6h]
+-THE OUTLAW- checks
+sizbu68 bets 3360
+-THE OUTLAW- calls 3360
+*** RIVER *** [8d Ks Th 6h][5c]
+-THE OUTLAW- checks
+sizbu68 checks
+*** SHOW DOWN ***
+-THE OUTLAW- shows [Qh 9h] (High card : King)
+sizbu68 shows [Ad Tc] (One pair : Tens)
+sizbu68 collected 13440 from pot
+*** SUMMARY ***
+Total pot 13440 | No rake
+Board: [8d Ks Th 6h 5c]
+Seat 4: -THE OUTLAW- showed [Qh 9h] and lost with High card : King
+Seat 6: sizbu68 (button) showed [Ad Tc] and won 13440 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3219212017101438995-37-1709150947 - Holdem no limit (35/150/300) - 2024/02/28 20:09:07 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: Luch9142 (19480, 0.22€ bounty)
+Seat 2: FUK_IOU (22637, 0.33€ bounty)
+Seat 3: Michel42 (35380, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (27673, 0.22€ bounty)
+Seat 5: P1xel7 (29255, 0.22€ bounty)
+Seat 6: sizbu68 (21522, 0.22€ bounty)
+*** ANTE/BLINDS ***
+FUK_IOU posts ante 35
+Michel42 posts ante 35
+Luch9142 posts ante 35
+-THE OUTLAW- posts ante 35
+P1xel7 posts ante 35
+sizbu68 posts ante 35
+FUK_IOU posts small blind 150
+Michel42 posts big blind 300
+Dealt to P1xel7 [Qc 2d]
+*** PRE-FLOP *** 
+-THE OUTLAW- folds
+P1xel7 folds
+sizbu68 folds
+Luch9142 folds
+FUK_IOU raises 22302 to 22602 and is all-in
+Michel42 folds
+FUK_IOU collected 23112 from pot
+*** SUMMARY ***
+Total pot 23112 | No rake
+Seat 2: FUK_IOU (small blind) won 23112
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3219212017101438995-38-1709150971 - Holdem no limit (35/150/300) - 2024/02/28 20:09:31 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: Luch9142 (19445, 0.22€ bounty)
+Seat 2: FUK_IOU (23112, 0.33€ bounty)
+Seat 3: Michel42 (35045, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (27638, 0.22€ bounty)
+Seat 5: P1xel7 (29220, 0.22€ bounty)
+Seat 6: sizbu68 (21487, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Michel42 posts ante 35
+-THE OUTLAW- posts ante 35
+Luch9142 posts ante 35
+FUK_IOU posts ante 35
+P1xel7 posts ante 35
+sizbu68 posts ante 35
+Michel42 posts small blind 150
+-THE OUTLAW- posts big blind 300
+Dealt to P1xel7 [Kc Jd]
+*** PRE-FLOP *** 
+P1xel7 raises 450 to 750
+sizbu68 folds
+Luch9142 raises 1500 to 2250
+FUK_IOU folds
+Michel42 folds
+-THE OUTLAW- folds
+P1xel7 calls 1500
+*** FLOP *** [6h 3s 2s]
+P1xel7 checks
+Luch9142 bets 3354
+P1xel7 folds
+Luch9142 collected 8514 from pot
+*** SUMMARY ***
+Total pot 8514 | No rake
+Board: [6h 3s 2s]
+Seat 1: Luch9142 won 8514
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3219212017101438995-39-1709151034 - Holdem no limit (35/150/300) - 2024/02/28 20:10:34 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: Luch9142 (22320, 0.22€ bounty)
+Seat 2: FUK_IOU (23077, 0.33€ bounty)
+Seat 3: Michel42 (34860, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (27303, 0.22€ bounty)
+Seat 5: P1xel7 (26935, 0.22€ bounty)
+*** ANTE/BLINDS ***
+-THE OUTLAW- posts ante 35
+P1xel7 posts ante 35
+Luch9142 posts ante 35
+FUK_IOU posts ante 35
+Michel42 posts ante 35
+-THE OUTLAW- posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Ac 3c]
+*** PRE-FLOP *** 
+Luch9142 folds
+FUK_IOU calls 300
+Michel42 folds
+-THE OUTLAW- folds
+P1xel7 checks
+*** FLOP *** [As 7c 3s]
+P1xel7 checks
+FUK_IOU bets 925
+P1xel7 calls 925
+*** TURN *** [As 7c 3s][5c]
+P1xel7 checks
+FUK_IOU bets 21817 and is all-in
+P1xel7 calls 21817
+*** RIVER *** [As 7c 3s 5c][4c]
+*** SHOW DOWN ***
+FUK_IOU shows [6s 5s] (Straight 7 high)
+P1xel7 shows [Ac 3c] (Flush Ace high)
+P1xel7 collected 46409 from pot
+*** SUMMARY ***
+Total pot 46409 | No rake
+Board: [As 7c 3s 5c 4c]
+Seat 2: FUK_IOU showed [6s 5s] and lost with Straight 7 high
+Seat 5: P1xel7 (big blind) showed [Ac 3c] and won 46409 with Flush Ace high
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3219212017101438995-40-1709151081 - Holdem no limit (40/175/350) - 2024/02/28 20:11:21 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: Luch9142 (22285, 0.22€ bounty)
+Seat 3: Michel42 (34825, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (27118, 0.22€ bounty)
+Seat 5: P1xel7 (50267, 0.38€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Luch9142 posts ante 40
+Michel42 posts ante 40
+-THE OUTLAW- posts ante 40
+P1xel7 posts small blind 175
+Luch9142 posts big blind 350
+Dealt to P1xel7 [As 4h]
+*** PRE-FLOP *** 
+Michel42 folds
+-THE OUTLAW- folds
+P1xel7 raises 700 to 1050
+Luch9142 calls 700
+*** FLOP *** [Qh Tc 7c]
+P1xel7 bets 700
+Luch9142 calls 700
+*** TURN *** [Qh Tc 7c][2h]
+P1xel7 bets 1925
+Luch9142 calls 1925
+*** RIVER *** [Qh Tc 7c 2h][6h]
+P1xel7 bets 3755
+Luch9142 folds
+P1xel7 collected 11265 from pot
+*** SUMMARY ***
+Total pot 11265 | No rake
+Board: [Qh Tc 7c 2h 6h]
+Seat 5: P1xel7 (small blind) won 11265
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3219212017101438995-41-1709151136 - Holdem no limit (40/175/350) - 2024/02/28 20:12:16 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: Luch9142 (18570, 0.22€ bounty)
+Seat 2: Filou73300 (20000, 0.22€ bounty)
+Seat 3: Michel42 (34785, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (27078, 0.22€ bounty)
+Seat 5: P1xel7 (54062, 0.38€ bounty)
+Seat 6: K.&.K (17944, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Luch9142 posts ante 40
+Filou73300 posts ante 40
+Michel42 posts ante 40
+-THE OUTLAW- posts ante 40
+P1xel7 posts ante 40
+Luch9142 posts small blind 175
+Filou73300 posts big blind 350
+Dealt to P1xel7 [2d 7h]
+*** PRE-FLOP *** 
+Michel42 folds
+-THE OUTLAW- raises 525 to 875
+P1xel7 folds
+Luch9142 calls 700
+Filou73300 calls 525
+*** FLOP *** [As 9d 9c]
+Luch9142 checks
+Filou73300 checks
+-THE OUTLAW- bets 989
+Luch9142 calls 989
+Filou73300 folds
+*** TURN *** [As 9d 9c][3s]
+Luch9142 checks
+-THE OUTLAW- checks
+*** RIVER *** [As 9d 9c 3s][5c]
+Luch9142 bets 4803
+-THE OUTLAW- folds
+Luch9142 collected 9606 from pot
+*** SUMMARY ***
+Total pot 9606 | No rake
+Board: [As 9d 9c 3s 5c]
+Seat 1: Luch9142 (small blind) won 9606
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3219212017101438995-42-1709151214 - Holdem no limit (40/175/350) - 2024/02/28 20:13:34 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: Luch9142 (21469, 0.22€ bounty)
+Seat 2: Filou73300 (19085, 0.22€ bounty)
+Seat 3: Michel42 (34745, 0.33€ bounty)
+Seat 4: -THE OUTLAW- (25174, 0.22€ bounty)
+Seat 5: P1xel7 (54022, 0.38€ bounty)
+Seat 6: K.&.K (17944, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Filou73300 posts ante 40
+Michel42 posts ante 40
+Luch9142 posts ante 40
+-THE OUTLAW- posts ante 40
+P1xel7 posts ante 40
+K.&.K posts ante 40
+Filou73300 posts small blind 175
+Michel42 posts big blind 350
+Dealt to P1xel7 [5h Jh]
+*** PRE-FLOP *** 
+-THE OUTLAW- folds
+P1xel7 folds
+K.&.K folds
+Luch9142 calls 350
+Filou73300 calls 175
+Michel42 raises 700 to 1050
+Luch9142 calls 700
+Filou73300 calls 700
+*** FLOP *** [4h Tc 3c]
+Filou73300 checks
+Michel42 bets 2712
+Luch9142 raises 4780 to 7492
+Filou73300 folds
+Michel42 raises 26163 to 33655 and is all-in
+Luch9142 calls 12887 and is all-in
+*** TURN *** [4h Tc 3c][7s]
+*** RIVER *** [4h Tc 3c 7s][6d]
+*** SHOW DOWN ***
+Luch9142 shows [8d Td] (One pair : Tens)
+Michel42 shows [Ah Th] (One pair : Tens)
+Michel42 collected 57424 from pot
+*** SUMMARY ***
+Total pot 57424 | No rake
+Board: [4h Tc 3c 7s 6d]
+Seat 1: Luch9142 (button) showed [8d Td] and lost with One pair : Tens
+Seat 3: Michel42 (big blind) showed [Ah Th] and won 57424 with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3219212017101438995-43-1709151251 - Holdem no limit (40/175/350) - 2024/02/28 20:14:11 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 2: Filou73300 (17995, 0.22€ bounty)
+Seat 3: Michel42 (57424, 0.44€ bounty)
+Seat 4: -THE OUTLAW- (25134, 0.22€ bounty)
+Seat 5: P1xel7 (53982, 0.38€ bounty)
+Seat 6: K.&.K (17904, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Michel42 posts ante 40
+-THE OUTLAW- posts ante 40
+Filou73300 posts ante 40
+P1xel7 posts ante 40
+K.&.K posts ante 40
+Michel42 posts small blind 175
+-THE OUTLAW- posts big blind 350
+Dealt to P1xel7 [2h 2c]
+*** PRE-FLOP *** 
+P1xel7 raises 700 to 1050
+K.&.K raises 1750 to 2800
+Filou73300 calls 2800
+Michel42 folds
+-THE OUTLAW- folds
+P1xel7 calls 1750
+*** FLOP *** [7d 8h 3d]
+P1xel7 checks
+K.&.K bets 4563
+Filou73300 calls 4563
+P1xel7 folds
+*** TURN *** [7d 8h 3d][3s]
+K.&.K bets 10501 and is all-in
+Filou73300 folds
+K.&.K collected 28752 from pot
+*** SUMMARY ***
+Total pot 28752 | No rake
+Board: [7d 8h 3d 3s]
+Seat 6: K.&.K won 28752
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3219212017101438995-44-1709151320 - Holdem no limit (40/175/350) - 2024/02/28 20:15:20 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: sano2k (20000, 0.22€ bounty)
+Seat 2: Filou73300 (10592, 0.22€ bounty)
+Seat 3: Michel42 (57209, 0.44€ bounty)
+Seat 4: -THE OUTLAW- (24744, 0.22€ bounty)
+Seat 5: P1xel7 (51142, 0.38€ bounty)
+Seat 6: K.&.K (28752, 0.22€ bounty)
+*** ANTE/BLINDS ***
+-THE OUTLAW- posts ante 40
+P1xel7 posts ante 40
+sano2k posts ante 40
+Filou73300 posts ante 40
+Michel42 posts ante 40
+K.&.K posts ante 40
+-THE OUTLAW- posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Kh 5d]
+*** PRE-FLOP *** 
+K.&.K folds
+sano2k folds
+Filou73300 calls 350
+Michel42 folds
+-THE OUTLAW- calls 175
+P1xel7 checks
+*** FLOP *** [3d 6s 9d]
+-THE OUTLAW- checks
+P1xel7 checks
+Filou73300 checks
+*** TURN *** [3d 6s 9d][9c]
+-THE OUTLAW- checks
+P1xel7 checks
+Filou73300 checks
+*** RIVER *** [3d 6s 9d 9c][Qs]
+-THE OUTLAW- checks
+P1xel7 checks
+Filou73300 checks
+*** SHOW DOWN ***
+-THE OUTLAW- shows [5c Kc] (One pair : 9)
+P1xel7 shows [Kh 5d] (One pair : 9)
+Filou73300 shows [Qh 9h] (Full of 9 and Queens)
+Filou73300 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Board: [3d 6s 9d 9c Qs]
+Seat 2: Filou73300 showed [Qh 9h] and won 1290 with Full of 9 and Queens
+Seat 4: -THE OUTLAW- (small blind) showed [5c Kc] and lost with One pair : 9
+Seat 5: P1xel7 (big blind) showed [Kh 5d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3219212017101438995-45-1709151437 - Holdem no limit (50/200/400) - 2024/02/28 20:17:17 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: sano2k (19960, 0.22€ bounty)
+Seat 2: Filou73300 (11492, 0.22€ bounty)
+Seat 3: Michel42 (57169, 0.44€ bounty)
+Seat 4: -THE OUTLAW- (24354, 0.22€ bounty)
+Seat 5: P1xel7 (50752, 0.38€ bounty)
+Seat 6: K.&.K (28712, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+K.&.K posts ante 50
+sano2k posts ante 50
+Filou73300 posts ante 50
+Michel42 posts ante 50
+-THE OUTLAW- posts ante 50
+P1xel7 posts small blind 200
+K.&.K posts big blind 400
+Dealt to P1xel7 [8c 6d]
+*** PRE-FLOP *** 
+sano2k folds
+Filou73300 folds
+Michel42 raises 600 to 1000
+-THE OUTLAW- calls 1000
+P1xel7 folds
+K.&.K folds
+*** FLOP *** [Th Js 8d]
+Michel42 checks
+-THE OUTLAW- bets 1450
+Michel42 calls 1450
+*** TURN *** [Th Js 8d][2s]
+Michel42 checks
+-THE OUTLAW- checks
+*** RIVER *** [Th Js 8d 2s][7d]
+Michel42 bets 3770
+-THE OUTLAW- calls 3770
+*** SHOW DOWN ***
+-THE OUTLAW- shows [7h 7c] (Trips of 7)
+Michel42 shows [9c 9d] (Straight Jack high)
+Michel42 collected 13340 from pot
+*** SUMMARY ***
+Total pot 13340 | No rake
+Board: [Th Js 8d 2s 7d]
+Seat 3: Michel42 showed [9c 9d] and won 13340 with Straight Jack high
+Seat 4: -THE OUTLAW- (button) showed [7h 7c] and lost with Trips of 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3219212017101438995-46-1709151516 - Holdem no limit (50/200/400) - 2024/02/28 20:18:36 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: sano2k (19910, 0.22€ bounty)
+Seat 2: Filou73300 (11442, 0.22€ bounty)
+Seat 3: Michel42 (64239, 0.44€ bounty)
+Seat 4: -THE OUTLAW- (18084, 0.22€ bounty)
+Seat 5: P1xel7 (50502, 0.38€ bounty)
+Seat 6: K.&.K (28262, 0.22€ bounty)
+*** ANTE/BLINDS ***
+K.&.K posts ante 50
+sano2k posts ante 50
+Filou73300 posts ante 50
+Michel42 posts ante 50
+-THE OUTLAW- posts ante 50
+P1xel7 posts ante 50
+K.&.K posts small blind 200
+sano2k posts big blind 400
+Dealt to P1xel7 [Qs Kh]
+*** PRE-FLOP *** 
+Filou73300 folds
+Michel42 folds
+-THE OUTLAW- folds
+P1xel7 raises 800 to 1200
+K.&.K folds
+sano2k calls 800
+*** FLOP *** [Kc 2h Kd]
+sano2k checks
+P1xel7 checks
+*** TURN *** [Kc 2h Kd][Ts]
+sano2k bets 1015
+P1xel7 calls 1015
+*** RIVER *** [Kc 2h Kd Ts][2c]
+sano2k checks
+P1xel7 bets 2465
+sano2k folds
+P1xel7 collected 7395 from pot
+*** SUMMARY ***
+Total pot 7395 | No rake
+Board: [Kc 2h Kd Ts 2c]
+Seat 5: P1xel7 (button) won 7395
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3219212017101438995-47-1709151581 - Holdem no limit (50/200/400) - 2024/02/28 20:19:41 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: sano2k (17645, 0.22€ bounty)
+Seat 2: Filou73300 (11392, 0.22€ bounty)
+Seat 3: Michel42 (64189, 0.44€ bounty)
+Seat 4: -THE OUTLAW- (18034, 0.22€ bounty)
+Seat 5: P1xel7 (53167, 0.38€ bounty)
+Seat 6: K.&.K (28012, 0.22€ bounty)
+*** ANTE/BLINDS ***
+sano2k posts ante 50
+Filou73300 posts ante 50
+Michel42 posts ante 50
+-THE OUTLAW- posts ante 50
+P1xel7 posts ante 50
+K.&.K posts ante 50
+sano2k posts small blind 200
+Filou73300 posts big blind 400
+Dealt to P1xel7 [Qd 3h]
+*** PRE-FLOP *** 
+Michel42 folds
+-THE OUTLAW- folds
+P1xel7 folds
+K.&.K folds
+sano2k raises 500 to 900
+Filou73300 calls 500
+*** FLOP *** [5c 6d 7s]
+sano2k checks
+Filou73300 bets 400
+sano2k calls 400
+*** TURN *** [5c 6d 7s][2c]
+sano2k checks
+Filou73300 bets 400
+sano2k calls 400
+*** RIVER *** [5c 6d 7s 2c][Jc]
+sano2k checks
+Filou73300 checks
+*** SHOW DOWN ***
+sano2k shows [Ac Kh] (High card : Ace)
+Filou73300 shows [5d Ks] (One pair : 5)
+Filou73300 collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Board: [5c 6d 7s 2c Jc]
+Seat 1: sano2k (small blind) showed [Ac Kh] and lost with High card : Ace
+Seat 2: Filou73300 (big blind) showed [5d Ks] and won 3700 with One pair : 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3219212017101438995-48-1709151645 - Holdem no limit (50/200/400) - 2024/02/28 20:20:45 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: sano2k (15895, 0.22€ bounty)
+Seat 2: Filou73300 (13342, 0.22€ bounty)
+Seat 3: Michel42 (64139, 0.44€ bounty)
+Seat 4: -THE OUTLAW- (17984, 0.22€ bounty)
+Seat 5: P1xel7 (53117, 0.38€ bounty)
+Seat 6: K.&.K (27962, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Filou73300 posts ante 50
+Michel42 posts ante 50
+sano2k posts ante 50
+-THE OUTLAW- posts ante 50
+P1xel7 posts ante 50
+K.&.K posts ante 50
+Filou73300 posts small blind 200
+Michel42 posts big blind 400
+Dealt to P1xel7 [Tc 9s]
+*** PRE-FLOP *** 
+-THE OUTLAW- folds
+P1xel7 folds
+K.&.K folds
+sano2k raises 500 to 900
+Filou73300 calls 700
+Michel42 folds
+*** FLOP *** [9h Ts 7s]
+Filou73300 bets 400
+sano2k calls 400
+*** TURN *** [9h Ts 7s][Kh]
+Filou73300 checks
+sano2k bets 1155
+Filou73300 calls 1155
+*** RIVER *** [9h Ts 7s Kh][9c]
+Filou73300 checks
+sano2k bets 2764
+Filou73300 folds
+sano2k collected 8374 from pot
+*** SUMMARY ***
+Total pot 8374 | No rake
+Board: [9h Ts 7s Kh 9c]
+Seat 1: sano2k (button) won 8374
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3219212017101438995-49-1709151720 - Holdem no limit (60/250/500) - 2024/02/28 20:22:00 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: sano2k (19000, 0.22€ bounty)
+Seat 2: Filou73300 (10837, 0.22€ bounty)
+Seat 3: Michel42 (63689, 0.44€ bounty)
+Seat 4: -THE OUTLAW- (17934, 0.22€ bounty)
+Seat 5: P1xel7 (53067, 0.38€ bounty)
+Seat 6: K.&.K (27912, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Michel42 posts ante 60
+-THE OUTLAW- posts ante 60
+sano2k posts ante 60
+Filou73300 posts ante 60
+P1xel7 posts ante 60
+K.&.K posts ante 60
+Michel42 posts small blind 250
+-THE OUTLAW- posts big blind 500
+Dealt to P1xel7 [Js 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+K.&.K folds
+sano2k raises 750 to 1250
+Filou73300 calls 1250
+Michel42 raises 62379 to 63629 and is all-in
+-THE OUTLAW- folds
+sano2k folds
+Filou73300 calls 9527 and is all-in
+*** FLOP *** [Kc 4c 8c]
+*** TURN *** [Kc 4c 8c][6h]
+*** RIVER *** [Kc 4c 8c 6h][Jc]
+*** SHOW DOWN ***
+Filou73300 shows [6d 9d] (One pair : 6)
+Michel42 shows [5d Kd] (One pair : Kings)
+Michel42 collected 76516 from pot
+*** SUMMARY ***
+Total pot 76516 | No rake
+Board: [Kc 4c 8c 6h Jc]
+Seat 2: Filou73300 (button) showed [6d 9d] and lost with One pair : 6
+Seat 3: Michel42 (small blind) showed [5d Kd] and won 76516 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3219212017101438995-50-1709151773 - Holdem no limit (60/250/500) - 2024/02/28 20:22:53 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: sano2k (17690, 0.22€ bounty)
+Seat 3: Michel42 (76516, 0.55€ bounty)
+Seat 4: -THE OUTLAW- (17374, 0.22€ bounty)
+Seat 5: P1xel7 (53007, 0.38€ bounty)
+Seat 6: K.&.K (27852, 0.22€ bounty)
+*** ANTE/BLINDS ***
+-THE OUTLAW- posts ante 60
+P1xel7 posts ante 60
+sano2k posts ante 60
+Michel42 posts ante 60
+K.&.K posts ante 60
+-THE OUTLAW- posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [2d Jh]
+*** PRE-FLOP *** 
+K.&.K raises 600 to 1100
+sano2k folds
+Michel42 folds
+-THE OUTLAW- calls 850
+P1xel7 folds
+*** FLOP *** [7s 2h 5h]
+-THE OUTLAW- checks
+K.&.K checks
+*** TURN *** [7s 2h 5h][Qs]
+-THE OUTLAW- checks
+K.&.K bets 1500
+-THE OUTLAW- calls 1500
+*** RIVER *** [7s 2h 5h Qs][Td]
+-THE OUTLAW- checks
+K.&.K bets 3900
+-THE OUTLAW- calls 3900
+*** SHOW DOWN ***
+-THE OUTLAW- shows [Ad Th] (One pair : Tens)
+K.&.K shows [Qc As] (One pair : Queens)
+K.&.K collected 13800 from pot
+*** SUMMARY ***
+Total pot 13800 | No rake
+Board: [7s 2h 5h Qs Td]
+Seat 4: -THE OUTLAW- (small blind) showed [Ad Th] and lost with One pair : Tens
+Seat 6: K.&.K showed [Qc As] and won 13800 with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3219212017101438995-51-1709151839 - Holdem no limit (60/250/500) - 2024/02/28 20:23:59 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: sano2k (17630, 0.22€ bounty)
+Seat 2: Sacaperras36 (20000, 0.22€ bounty)
+Seat 3: Michel42 (76456, 0.55€ bounty)
+Seat 4: -THE OUTLAW- (10814, 0.22€ bounty)
+Seat 5: P1xel7 (52447, 0.38€ bounty)
+Seat 6: K.&.K (35092, 0.22€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+K.&.K posts ante 60
+sano2k posts ante 60
+Sacaperras36 posts ante 60
+Michel42 posts ante 60
+-THE OUTLAW- posts ante 60
+P1xel7 posts small blind 250
+K.&.K posts big blind 500
+Dealt to P1xel7 [Td Kc]
+*** PRE-FLOP *** 
+sano2k folds
+Sacaperras36 folds
+Michel42 raises 750 to 1250
+-THE OUTLAW- raises 9504 to 10754 and is all-in
+P1xel7 folds
+K.&.K folds
+Michel42 folds
+-THE OUTLAW- collected 13114 from pot
+*** SUMMARY ***
+Total pot 13114 | No rake
+Seat 4: -THE OUTLAW- (button) won 13114
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3219212017101438995-52-1709151877 - Holdem no limit (60/250/500) - 2024/02/28 20:24:37 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: sano2k (17570, 0.22€ bounty)
+Seat 2: Sacaperras36 (19940, 0.22€ bounty)
+Seat 3: Michel42 (75146, 0.55€ bounty)
+Seat 4: -THE OUTLAW- (13114, 0.22€ bounty)
+Seat 5: P1xel7 (52137, 0.38€ bounty)
+Seat 6: K.&.K (34532, 0.22€ bounty)
+*** ANTE/BLINDS ***
+K.&.K posts ante 60
+sano2k posts ante 60
+Sacaperras36 posts ante 60
+Michel42 posts ante 60
+-THE OUTLAW- posts ante 60
+P1xel7 posts ante 60
+K.&.K posts small blind 250
+sano2k posts big blind 500
+Dealt to P1xel7 [6d 5c]
+*** PRE-FLOP *** 
+Sacaperras36 raises 1000 to 1500
+Michel42 folds
+-THE OUTLAW- folds
+P1xel7 folds
+K.&.K folds
+sano2k folds
+Sacaperras36 collected 2610 from pot
+*** SUMMARY ***
+Total pot 2610 | No rake
+Seat 2: Sacaperras36 won 2610
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3219212017101438995-53-1709151903 - Holdem no limit (60/250/500) - 2024/02/28 20:25:03 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: sano2k (17010, 0.22€ bounty)
+Seat 2: Sacaperras36 (20990, 0.22€ bounty)
+Seat 3: Michel42 (75086, 0.55€ bounty)
+Seat 4: -THE OUTLAW- (13054, 0.22€ bounty)
+Seat 5: P1xel7 (52077, 0.38€ bounty)
+Seat 6: K.&.K (34222, 0.22€ bounty)
+*** ANTE/BLINDS ***
+sano2k posts ante 60
+Sacaperras36 posts ante 60
+Michel42 posts ante 60
+-THE OUTLAW- posts ante 60
+P1xel7 posts ante 60
+K.&.K posts ante 60
+sano2k posts small blind 250
+Sacaperras36 posts big blind 500
+Dealt to P1xel7 [Qc 3h]
+*** PRE-FLOP *** 
+Michel42 folds
+-THE OUTLAW- raises 750 to 1250
+P1xel7 folds
+K.&.K folds
+sano2k raises 3000 to 4250
+Sacaperras36 raises 16680 to 20930 and is all-in
+-THE OUTLAW- calls 11744 and is all-in
+sano2k calls 12700 and is all-in
+*** FLOP *** [Qs 6s 3s]
+*** TURN *** [Qs 6s 3s][Ad]
+*** RIVER *** [Qs 6s 3s Ad][8d]
+*** SHOW DOWN ***
+-THE OUTLAW- shows [Tc Ts] (One pair : Tens)
+sano2k shows [Ks Kh] (One pair : Kings)
+Sacaperras36 shows [Kd Th] (High card : Ace)
+Sacaperras36 collected 3980 from side pot 1
+sano2k collected 47254 from main pot
+*** SUMMARY ***
+Total pot 51234 | No rake
+Board: [Qs 6s 3s Ad 8d]
+Seat 1: sano2k (small blind) showed [Ks Kh] and won 47254 with One pair : Kings
+Seat 2: Sacaperras36 (big blind) showed [Kd Th] and won 3980 with High card : Ace
+Seat 4: -THE OUTLAW- showed [Tc Ts] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3219212017101438995-54-1709151950 - Holdem no limit (60/250/500) - 2024/02/28 20:25:50 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: sano2k (47254, 0.33€ bounty)
+Seat 2: Sacaperras36 (3980, 0.22€ bounty)
+Seat 3: Michel42 (75026, 0.55€ bounty)
+Seat 5: P1xel7 (52017, 0.38€ bounty)
+Seat 6: K.&.K (34162, 0.22€ bounty)
+*** ANTE/BLINDS ***
+Sacaperras36 posts ante 60
+Michel42 posts ante 60
+sano2k posts ante 60
+P1xel7 posts ante 60
+K.&.K posts ante 60
+Sacaperras36 posts small blind 250
+Michel42 posts big blind 500
+Dealt to P1xel7 [7c Ad]
+*** PRE-FLOP *** 
+P1xel7 folds
+K.&.K raises 600 to 1100
+sano2k folds
+Sacaperras36 raises 2820 to 3920 and is all-in
+Michel42 folds
+K.&.K calls 2820
+*** FLOP *** [9h Ah 5h]
+*** TURN *** [9h Ah 5h][2d]
+*** RIVER *** [9h Ah 5h 2d][5d]
+*** SHOW DOWN ***
+Sacaperras36 shows [8d 4c] (One pair : 5)
+K.&.K shows [As 4s] (Two pairs : Aces and 5)
+K.&.K collected 8640 from pot
+*** SUMMARY ***
+Total pot 8640 | No rake
+Board: [9h Ah 5h 2d 5d]
+Seat 2: Sacaperras36 (small blind) showed [8d 4c] and lost with One pair : 5
+Seat 6: K.&.K showed [As 4s] and won 8640 with Two pairs : Aces and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3219212017101438995-55-1709151973 - Holdem no limit (70/300/600) - 2024/02/28 20:26:13 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: sano2k (47194, 0.33€ bounty)
+Seat 3: Michel42 (74466, 0.55€ bounty)
+Seat 5: P1xel7 (51957, 0.38€ bounty)
+Seat 6: K.&.K (38822, 0.33€ bounty)
+*** ANTE/BLINDS ***
+Michel42 posts ante 70
+P1xel7 posts ante 70
+sano2k posts ante 70
+K.&.K posts ante 70
+Michel42 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [Ah 5c]
+*** PRE-FLOP *** 
+K.&.K folds
+sano2k folds
+Michel42 folds
+P1xel7 collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Seat 5: P1xel7 (big blind) won 1180
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3219212017101438995-56-1709151983 - Holdem no limit (70/300/600) - 2024/02/28 20:26:23 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: sano2k (47124, 0.33€ bounty)
+Seat 3: Michel42 (74096, 0.55€ bounty)
+Seat 4: cedvince (21556, 0.22€ bounty)
+Seat 5: P1xel7 (52467, 0.38€ bounty)
+Seat 6: K.&.K (38752, 0.33€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+K.&.K posts ante 70
+sano2k posts ante 70
+Michel42 posts ante 70
+P1xel7 posts small blind 300
+K.&.K posts big blind 600
+Dealt to P1xel7 [9c 5s]
+*** PRE-FLOP *** 
+sano2k folds
+Michel42 raises 600 to 1200
+P1xel7 folds
+K.&.K folds
+Michel42 collected 2380 from pot
+*** SUMMARY ***
+Total pot 2380 | No rake
+Seat 3: Michel42 (button) won 2380
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3219212017101438995-57-1709151992 - Holdem no limit (70/300/600) - 2024/02/28 20:26:32 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: sano2k (47054, 0.33€ bounty)
+Seat 3: Michel42 (75206, 0.55€ bounty)
+Seat 4: cedvince (21556, 0.22€ bounty)
+Seat 5: P1xel7 (52097, 0.38€ bounty)
+Seat 6: K.&.K (38082, 0.33€ bounty)
+*** ANTE/BLINDS ***
+K.&.K posts ante 70
+sano2k posts ante 70
+Michel42 posts ante 70
+cedvince posts ante 70
+P1xel7 posts ante 70
+K.&.K posts small blind 300
+sano2k posts big blind 600
+Dealt to P1xel7 [2h Jh]
+*** PRE-FLOP *** 
+Michel42 raises 600 to 1200
+cedvince folds
+P1xel7 folds
+K.&.K folds
+sano2k calls 600
+*** FLOP *** [Td 4h 3c]
+sano2k checks
+Michel42 checks
+*** TURN *** [Td 4h 3c][9s]
+sano2k checks
+Michel42 bets 1500
+sano2k folds
+Michel42 collected 4550 from pot
+*** SUMMARY ***
+Total pot 4550 | No rake
+Board: [Td 4h 3c 9s]
+Seat 3: Michel42 won 4550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3219212017101438995-58-1709152040 - Holdem no limit (70/300/600) - 2024/02/28 20:27:20 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: sano2k (45784, 0.33€ bounty)
+Seat 2: Abbes26 (20000, 0.22€ bounty)
+Seat 3: Michel42 (76986, 0.55€ bounty)
+Seat 4: cedvince (21486, 0.22€ bounty)
+Seat 5: P1xel7 (52027, 0.38€ bounty)
+Seat 6: K.&.K (37712, 0.33€ bounty)
+*** ANTE/BLINDS ***
+sano2k posts ante 70
+Abbes26 posts ante 70
+Michel42 posts ante 70
+cedvince posts ante 70
+P1xel7 posts ante 70
+K.&.K posts ante 70
+sano2k posts small blind 300
+Abbes26 posts big blind 600
+Dealt to P1xel7 [7d 4c]
+*** PRE-FLOP *** 
+Michel42 folds
+cedvince calls 600
+P1xel7 folds
+K.&.K folds
+sano2k folds
+Abbes26 checks
+*** FLOP *** [5h Qs Tc]
+Abbes26 checks
+cedvince checks
+*** TURN *** [5h Qs Tc][Kh]
+Abbes26 bets 600
+cedvince calls 600
+*** RIVER *** [5h Qs Tc Kh][Jh]
+Abbes26 bets 1092
+cedvince calls 1092
+*** SHOW DOWN ***
+Abbes26 shows [Js Kc] (Two pairs : Kings and Jacks)
+cedvince shows [5s 5c] (Trips of 5)
+cedvince collected 5304 from pot
+*** SUMMARY ***
+Total pot 5304 | No rake
+Board: [5h Qs Tc Kh Jh]
+Seat 2: Abbes26 (big blind) showed [Js Kc] and lost with Two pairs : Kings and Jacks
+Seat 4: cedvince showed [5s 5c] and won 5304 with Trips of 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3219212017101438995-59-1709152069 - Holdem no limit (70/300/600) - 2024/02/28 20:27:49 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: sano2k (45414, 0.33€ bounty)
+Seat 2: Abbes26 (17638, 0.22€ bounty)
+Seat 3: Michel42 (76916, 0.55€ bounty)
+Seat 4: cedvince (24428, 0.22€ bounty)
+Seat 5: P1xel7 (51957, 0.38€ bounty)
+Seat 6: K.&.K (37642, 0.33€ bounty)
+*** ANTE/BLINDS ***
+Abbes26 posts ante 70
+Michel42 posts ante 70
+sano2k posts ante 70
+cedvince posts ante 70
+P1xel7 posts ante 70
+K.&.K posts ante 70
+Abbes26 posts small blind 300
+Michel42 posts big blind 600
+Dealt to P1xel7 [8d 9s]
+*** PRE-FLOP *** 
+cedvince folds
+P1xel7 folds
+K.&.K folds
+sano2k folds
+Abbes26 calls 300
+Michel42 checks
+*** FLOP *** [As Kd Td]
+Abbes26 checks
+Michel42 checks
+*** TURN *** [As Kd Td][Th]
+Abbes26 bets 600
+Michel42 raises 600 to 1200
+Abbes26 folds
+Michel42 collected 3420 from pot
+*** SUMMARY ***
+Total pot 3420 | No rake
+Board: [As Kd Td Th]
+Seat 3: Michel42 (big blind) won 3420
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3219212017101438995-60-1709152112 - Holdem no limit (70/300/600) - 2024/02/28 20:28:32 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: sano2k (45344, 0.33€ bounty)
+Seat 2: Abbes26 (16368, 0.22€ bounty)
+Seat 3: Michel42 (78466, 0.55€ bounty)
+Seat 4: cedvince (24358, 0.22€ bounty)
+Seat 5: P1xel7 (51887, 0.38€ bounty)
+Seat 6: K.&.K (37572, 0.33€ bounty)
+*** ANTE/BLINDS ***
+Michel42 posts ante 70
+cedvince posts ante 70
+sano2k posts ante 70
+Abbes26 posts ante 70
+P1xel7 posts ante 70
+K.&.K posts ante 70
+Michel42 posts small blind 300
+cedvince posts big blind 600
+Dealt to P1xel7 [Qc Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+K.&.K folds
+sano2k folds
+Abbes26 calls 600
+Michel42 calls 300
+cedvince checks
+*** FLOP *** [8s Ah 3h]
+Michel42 checks
+cedvince checks
+Abbes26 checks
+*** TURN *** [8s Ah 3h][7c]
+Michel42 checks
+cedvince checks
+Abbes26 checks
+*** RIVER *** [8s Ah 3h 7c][2s]
+Michel42 checks
+cedvince checks
+Abbes26 checks
+*** SHOW DOWN ***
+Abbes26 shows [9h Ks] (High card : Ace)
+cedvince shows [6d 2d] (One pair : 2)
+Michel42 shows [Qs 7s] (One pair : 7)
+Michel42 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [8s Ah 3h 7c 2s]
+Seat 2: Abbes26 (button) showed [9h Ks] and lost with High card : Ace
+Seat 3: Michel42 (small blind) showed [Qs 7s] and won 2220 with One pair : 7
+Seat 4: cedvince (big blind) showed [6d 2d] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3219212017101438995-61-1709152152 - Holdem no limit (70/300/600) - 2024/02/28 20:29:12 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: sano2k (45274, 0.33€ bounty)
+Seat 2: Abbes26 (15698, 0.22€ bounty)
+Seat 3: Michel42 (80016, 0.55€ bounty)
+Seat 4: cedvince (23688, 0.22€ bounty)
+Seat 5: P1xel7 (51817, 0.38€ bounty)
+Seat 6: K.&.K (37502, 0.33€ bounty)
+*** ANTE/BLINDS ***
+cedvince posts ante 70
+P1xel7 posts ante 70
+sano2k posts ante 70
+Abbes26 posts ante 70
+Michel42 posts ante 70
+K.&.K posts ante 70
+cedvince posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [4c Qs]
+*** PRE-FLOP *** 
+K.&.K raises 600 to 1200
+sano2k folds
+Abbes26 folds
+Michel42 folds
+cedvince folds
+P1xel7 folds
+K.&.K collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Seat 6: K.&.K won 2520
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3219212017101438995-62-1709152179 - Holdem no limit (70/300/600) - 2024/02/28 20:29:39 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: sano2k (45204, 0.33€ bounty)
+Seat 2: Abbes26 (15628, 0.22€ bounty)
+Seat 3: Michel42 (79946, 0.55€ bounty)
+Seat 4: cedvince (23318, 0.22€ bounty)
+Seat 5: P1xel7 (51147, 0.38€ bounty)
+Seat 6: K.&.K (38752, 0.33€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+K.&.K posts ante 70
+sano2k posts ante 70
+Abbes26 posts ante 70
+Michel42 posts ante 70
+cedvince posts ante 70
+P1xel7 posts small blind 300
+K.&.K posts big blind 600
+Dealt to P1xel7 [3c 5h]
+*** PRE-FLOP *** 
+sano2k folds
+Abbes26 calls 600
+Michel42 folds
+cedvince folds
+P1xel7 folds
+K.&.K checks
+*** FLOP *** [6h Td Kc]
+K.&.K checks
+Abbes26 checks
+*** TURN *** [6h Td Kc][As]
+K.&.K bets 960
+Abbes26 folds
+K.&.K collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | No rake
+Board: [6h Td Kc As]
+Seat 6: K.&.K (big blind) won 2880
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3219212017101438995-63-1709152208 - Holdem no limit (70/300/600) - 2024/02/28 20:30:08 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: sano2k (45134, 0.33€ bounty)
+Seat 2: Abbes26 (14958, 0.22€ bounty)
+Seat 3: Michel42 (79876, 0.55€ bounty)
+Seat 4: cedvince (23248, 0.22€ bounty)
+Seat 5: P1xel7 (50777, 0.38€ bounty)
+Seat 6: K.&.K (40002, 0.33€ bounty)
+*** ANTE/BLINDS ***
+K.&.K posts ante 70
+sano2k posts ante 70
+Abbes26 posts ante 70
+Michel42 posts ante 70
+cedvince posts ante 70
+P1xel7 posts ante 70
+K.&.K posts small blind 300
+sano2k posts big blind 600
+Dealt to P1xel7 [9c 7h]
+*** PRE-FLOP *** 
+Abbes26 calls 600
+Michel42 raises 1200 to 1800
+cedvince folds
+P1xel7 folds
+K.&.K calls 1500
+sano2k folds
+Abbes26 calls 1200
+*** FLOP *** [Td 2h 7s]
+K.&.K checks
+Abbes26 checks
+Michel42 checks
+*** TURN *** [Td 2h 7s][Ks]
+K.&.K checks
+Abbes26 checks
+Michel42 checks
+*** RIVER *** [Td 2h 7s Ks][Kc]
+K.&.K bets 2247
+Abbes26 folds
+Michel42 calls 2247
+*** SHOW DOWN ***
+Michel42 shows [6d 6c] (Two pairs : Kings and 6)
+K.&.K shows [Ad Tc] (Two pairs : Kings and Tens)
+K.&.K collected 10914 from pot
+*** SUMMARY ***
+Total pot 10914 | No rake
+Board: [Td 2h 7s Ks Kc]
+Seat 3: Michel42 showed [6d 6c] and lost with Two pairs : Kings and 6
+Seat 6: K.&.K (small blind) showed [Ad Tc] and won 10914 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3219212017101438995-64-1709152293 - Holdem no limit (80/350/700) - 2024/02/28 20:31:33 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: sano2k (44464, 0.33€ bounty)
+Seat 2: Abbes26 (13088, 0.22€ bounty)
+Seat 3: Michel42 (75759, 0.55€ bounty)
+Seat 4: cedvince (23178, 0.22€ bounty)
+Seat 5: P1xel7 (50707, 0.38€ bounty)
+Seat 6: K.&.K (46799, 0.33€ bounty)
+*** ANTE/BLINDS ***
+sano2k posts ante 80
+Abbes26 posts ante 80
+Michel42 posts ante 80
+cedvince posts ante 80
+P1xel7 posts ante 80
+K.&.K posts ante 80
+sano2k posts small blind 350
+Abbes26 posts big blind 700
+Dealt to P1xel7 [Qd Td]
+*** PRE-FLOP *** 
+Michel42 raises 700 to 1400
+cedvince folds
+P1xel7 folds
+K.&.K calls 1400
+sano2k calls 1050
+Abbes26 calls 700
+*** FLOP *** [Th Js 5d]
+sano2k checks
+Abbes26 checks
+Michel42 bets 2800
+K.&.K folds
+sano2k calls 2800
+Abbes26 folds
+*** TURN *** [Th Js 5d][3d]
+sano2k checks
+Michel42 checks
+*** RIVER *** [Th Js 5d 3d][7s]
+sano2k bets 6190
+Michel42 calls 6190
+*** SHOW DOWN ***
+Michel42 shows [Ts Qs] (One pair : Tens)
+sano2k shows [Qh Jd] (One pair : Jacks)
+sano2k collected 24060 from pot
+*** SUMMARY ***
+Total pot 24060 | No rake
+Board: [Th Js 5d 3d 7s]
+Seat 1: sano2k (small blind) showed [Qh Jd] and won 24060 with One pair : Jacks
+Seat 3: Michel42 showed [Ts Qs] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3219212017101438995-65-1709152391 - Holdem no limit (80/350/700) - 2024/02/28 20:33:11 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: sano2k (58054, 0.33€ bounty)
+Seat 2: Abbes26 (11608, 0.22€ bounty)
+Seat 3: Michel42 (65289, 0.55€ bounty)
+Seat 4: cedvince (23098, 0.22€ bounty)
+Seat 5: P1xel7 (50627, 0.38€ bounty)
+Seat 6: K.&.K (45319, 0.33€ bounty)
+*** ANTE/BLINDS ***
+Abbes26 posts ante 80
+Michel42 posts ante 80
+sano2k posts ante 80
+cedvince posts ante 80
+P1xel7 posts ante 80
+K.&.K posts ante 80
+Abbes26 posts small blind 350
+Michel42 posts big blind 700
+Dealt to P1xel7 [Qc 6d]
+*** PRE-FLOP *** 
+cedvince folds
+P1xel7 folds
+K.&.K folds
+sano2k folds
+Abbes26 calls 350
+Michel42 raises 64509 to 65209 and is all-in
+Abbes26 folds
+Michel42 collected 66389 from pot
+*** SUMMARY ***
+Total pot 66389 | No rake
+Seat 3: Michel42 (big blind) won 66389
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3219212017101438995-66-1709152413 - Holdem no limit (80/350/700) - 2024/02/28 20:33:33 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: sano2k (57974, 0.33€ bounty)
+Seat 2: Abbes26 (10828, 0.22€ bounty)
+Seat 3: Michel42 (66389, 0.55€ bounty)
+Seat 4: cedvince (23018, 0.22€ bounty)
+Seat 5: P1xel7 (50547, 0.38€ bounty)
+Seat 6: K.&.K (45239, 0.33€ bounty)
+*** ANTE/BLINDS ***
+Michel42 posts ante 80
+cedvince posts ante 80
+sano2k posts ante 80
+Abbes26 posts ante 80
+P1xel7 posts ante 80
+K.&.K posts ante 80
+Michel42 posts small blind 350
+cedvince posts big blind 700
+Dealt to P1xel7 [2h 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+K.&.K folds
+sano2k raises 1050 to 1750
+Abbes26 folds
+Michel42 folds
+cedvince folds
+sano2k collected 3280 from pot
+*** SUMMARY ***
+Total pot 3280 | No rake
+Seat 1: sano2k won 3280
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3219212017101438995-67-1709152436 - Holdem no limit (80/350/700) - 2024/02/28 20:33:56 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: sano2k (59424, 0.33€ bounty)
+Seat 2: Abbes26 (10748, 0.22€ bounty)
+Seat 3: Michel42 (65959, 0.55€ bounty)
+Seat 4: cedvince (22238, 0.22€ bounty)
+Seat 5: P1xel7 (50467, 0.38€ bounty)
+Seat 6: K.&.K (45159, 0.33€ bounty)
+*** ANTE/BLINDS ***
+cedvince posts ante 80
+P1xel7 posts ante 80
+sano2k posts ante 80
+Abbes26 posts ante 80
+Michel42 posts ante 80
+K.&.K posts ante 80
+cedvince posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [Jc 9d]
+*** PRE-FLOP *** 
+K.&.K folds
+sano2k folds
+Abbes26 folds
+Michel42 folds
+cedvince raises 700 to 1400
+P1xel7 calls 700
+*** FLOP *** [Ad 3c Kc]
+cedvince bets 1148
+P1xel7 folds
+cedvince collected 4428 from pot
+*** SUMMARY ***
+Total pot 4428 | No rake
+Board: [Ad 3c Kc]
+Seat 4: cedvince (small blind) won 4428
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3219212017101438995-68-1709152461 - Holdem no limit (80/350/700) - 2024/02/28 20:34:21 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: sano2k (59344, 0.33€ bounty)
+Seat 2: Abbes26 (10668, 0.22€ bounty)
+Seat 3: Michel42 (65879, 0.55€ bounty)
+Seat 4: cedvince (24038, 0.22€ bounty)
+Seat 5: P1xel7 (48987, 0.38€ bounty)
+Seat 6: K.&.K (45079, 0.33€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+K.&.K posts ante 80
+sano2k posts ante 80
+Abbes26 posts ante 80
+Michel42 posts ante 80
+cedvince posts ante 80
+P1xel7 posts small blind 350
+K.&.K posts big blind 700
+Dealt to P1xel7 [2s 4c]
+*** PRE-FLOP *** 
+sano2k folds
+Abbes26 calls 700
+Michel42 folds
+cedvince folds
+P1xel7 folds
+K.&.K checks
+*** FLOP *** [6s Qh 9h]
+K.&.K checks
+Abbes26 bets 700
+K.&.K calls 700
+*** TURN *** [6s Qh 9h][8s]
+K.&.K checks
+Abbes26 bets 1271
+K.&.K folds
+Abbes26 collected 4901 from pot
+*** SUMMARY ***
+Total pot 4901 | No rake
+Board: [6s Qh 9h 8s]
+Seat 2: Abbes26 won 4901
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3219212017101438995-69-1709152511 - Holdem no limit (80/350/700) - 2024/02/28 20:35:11 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: sano2k (59264, 0.33€ bounty)
+Seat 2: Abbes26 (12818, 0.22€ bounty)
+Seat 3: Michel42 (65799, 0.55€ bounty)
+Seat 4: cedvince (23958, 0.22€ bounty)
+Seat 5: P1xel7 (48557, 0.38€ bounty)
+Seat 6: K.&.K (43599, 0.33€ bounty)
+*** ANTE/BLINDS ***
+K.&.K posts ante 80
+sano2k posts ante 80
+Abbes26 posts ante 80
+Michel42 posts ante 80
+cedvince posts ante 80
+P1xel7 posts ante 80
+K.&.K posts small blind 350
+sano2k posts big blind 700
+Dealt to P1xel7 [2d 2s]
+*** PRE-FLOP *** 
+Abbes26 folds
+Michel42 raises 875 to 1575
+cedvince calls 1575
+P1xel7 calls 1575
+K.&.K folds
+sano2k folds
+*** FLOP *** [Jc 9d 7d]
+Michel42 bets 5004
+cedvince raises 17299 to 22303 and is all-in
+P1xel7 folds
+Michel42 raises 17299 to 39602
+*** TURN *** [Jc 9d 7d][4h]
+*** RIVER *** [Jc 9d 7d 4h][8h]
+*** SHOW DOWN ***
+Michel42 shows [Jh As] (One pair : Jacks)
+cedvince shows [9h 9s] (Trips of 9)
+cedvince collected 50861 from main pot
+Michel42 collected 17299 from side pot 1
+*** SUMMARY ***
+Total pot 68160 | No rake
+Board: [Jc 9d 7d 4h 8h]
+Seat 3: Michel42 showed [Jh As] and won 17299 with One pair : Jacks
+Seat 4: cedvince showed [9h 9s] and won 50861 with Trips of 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3219212017101438995-70-1709152562 - Holdem no limit (100/400/800) - 2024/02/28 20:36:02 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: sano2k (58484, 0.33€ bounty)
+Seat 2: Abbes26 (12738, 0.22€ bounty)
+Seat 4: cedvince (50861, 0.22€ bounty)
+Seat 5: P1xel7 (46902, 0.38€ bounty)
+Seat 6: K.&.K (43169, 0.33€ bounty)
+*** ANTE/BLINDS ***
+sano2k posts ante 100
+Abbes26 posts ante 100
+cedvince posts ante 100
+P1xel7 posts ante 100
+K.&.K posts ante 100
+sano2k posts small blind 400
+Abbes26 posts big blind 800
+Dealt to P1xel7 [4h 9d]
+*** PRE-FLOP *** 
+cedvince folds
+P1xel7 folds
+K.&.K folds
+sano2k raises 1000 to 1800
+Abbes26 folds
+sano2k collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Seat 1: sano2k (small blind) won 3100
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3219212017101438995-71-1709152600 - Holdem no limit (100/400/800) - 2024/02/28 20:36:40 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: sano2k (59684, 0.33€ bounty)
+Seat 2: Abbes26 (11838, 0.22€ bounty)
+Seat 4: cedvince (50761, 0.22€ bounty)
+Seat 5: P1xel7 (46802, 0.38€ bounty)
+Seat 6: K.&.K (43069, 0.33€ bounty)
+*** ANTE/BLINDS ***
+Abbes26 posts ante 100
+cedvince posts ante 100
+sano2k posts ante 100
+P1xel7 posts ante 100
+K.&.K posts ante 100
+Abbes26 posts small blind 400
+cedvince posts big blind 800
+Dealt to P1xel7 [Qd 7s]
+*** PRE-FLOP *** 
+P1xel7 folds
+K.&.K folds
+sano2k folds
+Abbes26 calls 400
+cedvince checks
+*** FLOP *** [7c 4h As]
+Abbes26 checks
+cedvince bets 800
+Abbes26 folds
+cedvince collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Board: [7c 4h As]
+Seat 4: cedvince (big blind) won 2900
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3219212017101438995-72-1709152658 - Holdem no limit (100/400/800) - 2024/02/28 20:37:38 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: sano2k (59584, 0.33€ bounty)
+Seat 2: Abbes26 (10938, 0.22€ bounty)
+Seat 3: Minou1720 (20000, 0.22€ bounty)
+Seat 4: cedvince (51961, 0.22€ bounty)
+Seat 5: P1xel7 (46702, 0.38€ bounty)
+Seat 6: K.&.K (42969, 0.33€ bounty)
+*** ANTE/BLINDS ***
+cedvince posts ante 100
+P1xel7 posts ante 100
+sano2k posts ante 100
+Abbes26 posts ante 100
+K.&.K posts ante 100
+cedvince posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [Jh 2c]
+*** PRE-FLOP *** 
+K.&.K raises 960 to 1760
+sano2k folds
+Abbes26 folds
+cedvince folds
+P1xel7 folds
+K.&.K collected 3460 from pot
+*** SUMMARY ***
+Total pot 3460 | No rake
+Seat 6: K.&.K won 3460
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3219212017101438995-73-1709152724 - Holdem no limit (100/400/800) - 2024/02/28 20:38:44 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: sano2k (59484, 0.33€ bounty)
+Seat 2: Abbes26 (10838, 0.22€ bounty)
+Seat 3: Minou1720 (20000, 0.22€ bounty)
+Seat 4: cedvince (51461, 0.22€ bounty)
+Seat 5: P1xel7 (45802, 0.38€ bounty)
+Seat 6: K.&.K (44569, 0.33€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+K.&.K posts ante 100
+sano2k posts ante 100
+Abbes26 posts ante 100
+Minou1720 posts ante 100
+cedvince posts ante 100
+P1xel7 posts small blind 400
+K.&.K posts big blind 800
+Dealt to P1xel7 [Kh 9h]
+*** PRE-FLOP *** 
+sano2k folds
+Abbes26 folds
+Minou1720 folds
+cedvince folds
+P1xel7 raises 1600 to 2400
+K.&.K folds
+P1xel7 collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | No rake
+Seat 5: P1xel7 (small blind) won 3800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3219212017101438995-74-1709152804 - Holdem no limit (100/400/800) - 2024/02/28 20:40:04 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: sano2k (59384, 0.33€ bounty)
+Seat 2: Abbes26 (10738, 0.22€ bounty)
+Seat 3: Minou1720 (19900, 0.22€ bounty)
+Seat 4: cedvince (51361, 0.22€ bounty)
+Seat 5: P1xel7 (47102, 0.38€ bounty)
+Seat 6: K.&.K (43669, 0.33€ bounty)
+*** ANTE/BLINDS ***
+K.&.K posts ante 100
+sano2k posts ante 100
+Abbes26 posts ante 100
+Minou1720 posts ante 100
+cedvince posts ante 100
+P1xel7 posts ante 100
+K.&.K posts small blind 400
+sano2k posts big blind 800
+Dealt to P1xel7 [Ks Js]
+*** PRE-FLOP *** 
+Abbes26 folds
+Minou1720 calls 800
+cedvince calls 800
+P1xel7 raises 4200 to 5000
+K.&.K folds
+sano2k folds
+Minou1720 calls 4200
+cedvince folds
+*** FLOP *** [2s 3d 6c]
+Minou1720 checks
+P1xel7 checks
+*** TURN *** [2s 3d 6c][Td]
+Minou1720 bets 800
+P1xel7 calls 800
+*** RIVER *** [2s 3d 6c Td][7d]
+Minou1720 bets 800
+P1xel7 raises 7500 to 8300
+Minou1720 calls 7500
+*** SHOW DOWN ***
+P1xel7 shows [Ks Js] (High card : King)
+Minou1720 shows [Th Kc] (One pair : Tens)
+Minou1720 collected 30800 from pot
+*** SUMMARY ***
+Total pot 30800 | No rake
+Board: [2s 3d 6c Td 7d]
+Seat 3: Minou1720 showed [Th Kc] and won 30800 with One pair : Tens
+Seat 5: P1xel7 (button) showed [Ks Js] and lost with High card : King
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3219212017101438995-75-1709152863 - Holdem no limit (120/500/1000) - 2024/02/28 20:41:03 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: sano2k (58484, 0.33€ bounty)
+Seat 2: Abbes26 (10638, 0.22€ bounty)
+Seat 3: Minou1720 (36500, 0.22€ bounty)
+Seat 4: cedvince (50461, 0.22€ bounty)
+Seat 5: P1xel7 (32902, 0.38€ bounty)
+Seat 6: K.&.K (43169, 0.33€ bounty)
+*** ANTE/BLINDS ***
+sano2k posts ante 120
+Abbes26 posts ante 120
+Minou1720 posts ante 120
+cedvince posts ante 120
+P1xel7 posts ante 120
+K.&.K posts ante 120
+sano2k posts small blind 500
+Abbes26 posts big blind 1000
+Dealt to P1xel7 [5s 4d]
+*** PRE-FLOP *** 
+Minou1720 folds
+cedvince folds
+P1xel7 folds
+K.&.K folds
+sano2k raises 1000 to 2000
+Abbes26 folds
+sano2k collected 3720 from pot
+*** SUMMARY ***
+Total pot 3720 | No rake
+Seat 1: sano2k (small blind) won 3720
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3219212017101438995-76-1709152874 - Holdem no limit (120/500/1000) - 2024/02/28 20:41:14 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: sano2k (60084, 0.33€ bounty)
+Seat 2: Abbes26 (9518, 0.22€ bounty)
+Seat 3: Minou1720 (36380, 0.22€ bounty)
+Seat 4: cedvince (50341, 0.22€ bounty)
+Seat 5: P1xel7 (32782, 0.38€ bounty)
+Seat 6: K.&.K (43049, 0.33€ bounty)
+*** ANTE/BLINDS ***
+Abbes26 posts ante 120
+Minou1720 posts ante 120
+sano2k posts ante 120
+cedvince posts ante 120
+P1xel7 posts ante 120
+K.&.K posts ante 120
+Abbes26 posts small blind 500
+Minou1720 posts big blind 1000
+Dealt to P1xel7 [4h 6d]
+*** PRE-FLOP *** 
+cedvince folds
+P1xel7 folds
+K.&.K raises 1200 to 2200
+sano2k folds
+Abbes26 raises 7198 to 9398 and is all-in
+Minou1720 calls 8398
+K.&.K folds
+*** FLOP *** [Jc Td 2s]
+*** TURN *** [Jc Td 2s][5s]
+*** RIVER *** [Jc Td 2s 5s][Ac]
+*** SHOW DOWN ***
+Abbes26 shows [Tc 9s] (One pair : Tens)
+Minou1720 shows [Qd Qs] (One pair : Queens)
+Minou1720 collected 21716 from pot
+*** SUMMARY ***
+Total pot 21716 | No rake
+Board: [Jc Td 2s 5s Ac]
+Seat 2: Abbes26 (small blind) showed [Tc 9s] and lost with One pair : Tens
+Seat 3: Minou1720 (big blind) showed [Qd Qs] and won 21716 with One pair : Queens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3219212017101438995-77-1709152901 - Holdem no limit (120/500/1000) - 2024/02/28 20:41:41 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: sano2k (59964, 0.33€ bounty)
+Seat 3: Minou1720 (48578, 0.33€ bounty)
+Seat 4: cedvince (50221, 0.22€ bounty)
+Seat 5: P1xel7 (32662, 0.38€ bounty)
+Seat 6: K.&.K (40729, 0.33€ bounty)
+*** ANTE/BLINDS ***
+Minou1720 posts ante 120
+cedvince posts ante 120
+sano2k posts ante 120
+P1xel7 posts ante 120
+K.&.K posts ante 120
+Minou1720 posts small blind 500
+cedvince posts big blind 1000
+Dealt to P1xel7 [3d Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+K.&.K folds
+sano2k folds
+Minou1720 folds
+cedvince collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 4: cedvince (big blind) won 2100
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3219212017101438995-78-1709152917 - Holdem no limit (120/500/1000) - 2024/02/28 20:41:57 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: sano2k (59844, 0.33€ bounty)
+Seat 3: Minou1720 (47958, 0.33€ bounty)
+Seat 4: cedvince (51201, 0.22€ bounty)
+Seat 5: P1xel7 (32542, 0.38€ bounty)
+Seat 6: K.&.K (40609, 0.33€ bounty)
+*** ANTE/BLINDS ***
+cedvince posts ante 120
+P1xel7 posts ante 120
+sano2k posts ante 120
+Minou1720 posts ante 120
+K.&.K posts ante 120
+cedvince posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [3d Ks]
+*** PRE-FLOP *** 
+K.&.K folds
+sano2k raises 1500 to 2500
+Minou1720 calls 2500
+cedvince folds
+P1xel7 folds
+*** FLOP *** [6s Jc 2h]
+sano2k checks
+Minou1720 checks
+*** TURN *** [6s Jc 2h][Qd]
+sano2k bets 2485
+Minou1720 calls 2485
+*** RIVER *** [6s Jc 2h Qd][2c]
+sano2k checks
+Minou1720 checks
+*** SHOW DOWN ***
+sano2k shows [4c 3c] (One pair : 2)
+Minou1720 shows [Kc Qc] (Two pairs : Queens and 2)
+Minou1720 collected 12070 from pot
+*** SUMMARY ***
+Total pot 12070 | No rake
+Board: [6s Jc 2h Qd 2c]
+Seat 1: sano2k showed [4c 3c] and lost with One pair : 2
+Seat 3: Minou1720 (button) showed [Kc Qc] and won 12070 with Two pairs : Queens and 2
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3219212017101438995-79-1709152993 - Holdem no limit (120/500/1000) - 2024/02/28 20:43:13 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: sano2k (54739, 0.33€ bounty)
+Seat 2: la souris 37 (105820, 0.77€ bounty)
+Seat 3: Minou1720 (54923, 0.33€ bounty)
+Seat 4: cedvince (50581, 0.22€ bounty)
+Seat 5: P1xel7 (31422, 0.38€ bounty)
+Seat 6: K.&.K (40489, 0.33€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+K.&.K posts ante 120
+sano2k posts ante 120
+la souris 37 posts ante 120
+Minou1720 posts ante 120
+cedvince posts ante 120
+P1xel7 posts small blind 500
+K.&.K posts big blind 1000
+Dealt to P1xel7 [2d Qc]
+*** PRE-FLOP *** 
+sano2k folds
+la souris 37 calls 1000
+Minou1720 folds
+cedvince folds
+P1xel7 folds
+K.&.K checks
+*** FLOP *** [3s Ks 9c]
+K.&.K checks
+la souris 37 bets 2576
+K.&.K folds
+la souris 37 collected 5796 from pot
+*** SUMMARY ***
+Total pot 5796 | No rake
+Board: [3s Ks 9c]
+Seat 2: la souris 37 won 5796
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3219212017101438995-80-1709153019 - Holdem no limit (120/500/1000) - 2024/02/28 20:43:39 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: sano2k (54619, 0.33€ bounty)
+Seat 2: la souris 37 (107920, 0.77€ bounty)
+Seat 3: Minou1720 (54803, 0.33€ bounty)
+Seat 4: cedvince (50461, 0.22€ bounty)
+Seat 5: P1xel7 (30802, 0.38€ bounty)
+Seat 6: K.&.K (39369, 0.33€ bounty)
+*** ANTE/BLINDS ***
+K.&.K posts ante 120
+sano2k posts ante 120
+la souris 37 posts ante 120
+Minou1720 posts ante 120
+cedvince posts ante 120
+P1xel7 posts ante 120
+K.&.K posts small blind 500
+sano2k posts big blind 1000
+Dealt to P1xel7 [Kh 7c]
+*** PRE-FLOP *** 
+la souris 37 folds
+Minou1720 calls 1000
+cedvince folds
+P1xel7 folds
+K.&.K calls 500
+sano2k checks
+*** FLOP *** [7s Ac 5c]
+K.&.K checks
+sano2k checks
+Minou1720 checks
+*** TURN *** [7s Ac 5c][3s]
+K.&.K checks
+sano2k bets 1302
+Minou1720 calls 1302
+K.&.K folds
+*** RIVER *** [7s Ac 5c 3s][9d]
+sano2k checks
+Minou1720 checks
+*** SHOW DOWN ***
+sano2k shows [Kc 3c] (One pair : 3)
+Minou1720 shows [4h 4c] (One pair : 4)
+Minou1720 collected 6324 from pot
+*** SUMMARY ***
+Total pot 6324 | No rake
+Board: [7s Ac 5c 3s 9d]
+Seat 1: sano2k (big blind) showed [Kc 3c] and lost with One pair : 3
+Seat 3: Minou1720 showed [4h 4c] and won 6324 with One pair : 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3219212017101438995-81-1709153090 - Holdem no limit (120/500/1000) - 2024/02/28 20:44:50 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: sano2k (52197, 0.33€ bounty)
+Seat 2: la souris 37 (107800, 0.77€ bounty)
+Seat 3: Minou1720 (58705, 0.33€ bounty)
+Seat 4: cedvince (50341, 0.22€ bounty)
+Seat 5: P1xel7 (30682, 0.38€ bounty)
+Seat 6: K.&.K (38249, 0.33€ bounty)
+*** ANTE/BLINDS ***
+sano2k posts ante 120
+la souris 37 posts ante 120
+Minou1720 posts ante 120
+cedvince posts ante 120
+P1xel7 posts ante 120
+K.&.K posts ante 120
+sano2k posts small blind 500
+la souris 37 posts big blind 1000
+Dealt to P1xel7 [3d 8h]
+*** PRE-FLOP *** 
+Minou1720 folds
+cedvince calls 1000
+P1xel7 folds
+K.&.K folds
+sano2k folds
+la souris 37 raises 3220 to 4220
+cedvince folds
+la souris 37 collected 6440 from pot
+*** SUMMARY ***
+Total pot 6440 | No rake
+Seat 2: la souris 37 (big blind) won 6440
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3219212017101438995-82-1709153127 - Holdem no limit (120/500/1000) - 2024/02/28 20:45:27 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: sano2k (51577, 0.33€ bounty)
+Seat 2: la souris 37 (109900, 0.77€ bounty)
+Seat 3: Minou1720 (58585, 0.33€ bounty)
+Seat 4: cedvince (49221, 0.22€ bounty)
+Seat 5: P1xel7 (30562, 0.38€ bounty)
+Seat 6: K.&.K (38129, 0.33€ bounty)
+*** ANTE/BLINDS ***
+la souris 37 posts ante 120
+Minou1720 posts ante 120
+sano2k posts ante 120
+cedvince posts ante 120
+P1xel7 posts ante 120
+K.&.K posts ante 120
+la souris 37 posts small blind 500
+Minou1720 posts big blind 1000
+Dealt to P1xel7 [Ah Kh]
+*** PRE-FLOP *** 
+cedvince folds
+P1xel7 raises 1500 to 2500
+K.&.K folds
+sano2k folds
+la souris 37 calls 2000
+Minou1720 calls 1500
+*** FLOP *** [As Td 8c]
+la souris 37 checks
+Minou1720 checks
+P1xel7 bets 4000
+la souris 37 folds
+Minou1720 calls 4000
+*** TURN *** [As Td 8c][8d]
+Minou1720 checks
+P1xel7 bets 23942 and is all-in
+Minou1720 folds
+P1xel7 collected 40162 from pot
+*** SUMMARY ***
+Total pot 40162 | No rake
+Board: [As Td 8c 8d]
+Seat 5: P1xel7 won 40162
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3219212017101438995-83-1709153231 - Holdem no limit (140/600/1200) - 2024/02/28 20:47:11 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: sano2k (51457, 0.33€ bounty)
+Seat 2: la souris 37 (107280, 0.77€ bounty)
+Seat 3: Minou1720 (51965, 0.33€ bounty)
+Seat 4: cedvince (49101, 0.22€ bounty)
+Seat 5: P1xel7 (40162, 0.38€ bounty)
+Seat 6: K.&.K (38009, 0.33€ bounty)
+*** ANTE/BLINDS ***
+Minou1720 posts ante 140
+cedvince posts ante 140
+sano2k posts ante 140
+la souris 37 posts ante 140
+P1xel7 posts ante 140
+K.&.K posts ante 140
+Minou1720 posts small blind 600
+cedvince posts big blind 1200
+Dealt to P1xel7 [Qh 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+K.&.K folds
+sano2k raises 1800 to 3000
+la souris 37 folds
+Minou1720 calls 2400
+cedvince folds
+*** FLOP *** [9h 5c Ah]
+Minou1720 checks
+sano2k bets 5226
+Minou1720 folds
+sano2k collected 13266 from pot
+*** SUMMARY ***
+Total pot 13266 | No rake
+Board: [9h 5c Ah]
+Seat 1: sano2k won 13266
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3219212017101438995-84-1709153277 - Holdem no limit (140/600/1200) - 2024/02/28 20:47:57 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: sano2k (56357, 0.33€ bounty)
+Seat 2: la souris 37 (107140, 0.77€ bounty)
+Seat 3: Minou1720 (48825, 0.33€ bounty)
+Seat 4: cedvince (47761, 0.22€ bounty)
+Seat 5: P1xel7 (40022, 0.38€ bounty)
+Seat 6: K.&.K (37869, 0.33€ bounty)
+*** ANTE/BLINDS ***
+cedvince posts ante 140
+P1xel7 posts ante 140
+sano2k posts ante 140
+la souris 37 posts ante 140
+Minou1720 posts ante 140
+K.&.K posts ante 140
+cedvince posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [Kc Qh]
+*** PRE-FLOP *** 
+K.&.K folds
+sano2k folds
+la souris 37 folds
+Minou1720 folds
+cedvince folds
+P1xel7 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 5: P1xel7 (big blind) won 2640
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3219212017101438995-85-1709153302 - Holdem no limit (140/600/1200) - 2024/02/28 20:48:22 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: sano2k (56217, 0.33€ bounty)
+Seat 2: la souris 37 (107000, 0.77€ bounty)
+Seat 3: Minou1720 (48685, 0.33€ bounty)
+Seat 4: cedvince (47021, 0.22€ bounty)
+Seat 5: P1xel7 (41322, 0.38€ bounty)
+Seat 6: K.&.K (37729, 0.33€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+K.&.K posts ante 140
+sano2k posts ante 140
+la souris 37 posts ante 140
+Minou1720 posts ante 140
+cedvince posts ante 140
+P1xel7 posts small blind 600
+K.&.K posts big blind 1200
+Dealt to P1xel7 [Qd 9h]
+*** PRE-FLOP *** 
+sano2k folds
+la souris 37 calls 1200
+Minou1720 calls 1200
+cedvince folds
+P1xel7 calls 600
+K.&.K checks
+*** FLOP *** [4d 6d 3d]
+P1xel7 checks
+K.&.K checks
+la souris 37 checks
+Minou1720 checks
+*** TURN *** [4d 6d 3d][Kc]
+P1xel7 checks
+K.&.K checks
+la souris 37 checks
+Minou1720 checks
+*** RIVER *** [4d 6d 3d Kc][Qs]
+P1xel7 checks
+K.&.K checks
+la souris 37 checks
+Minou1720 checks
+*** SHOW DOWN ***
+la souris 37 shows [9s Jh] (High card : King)
+Minou1720 shows [8d 8s] (One pair : 8)
+K.&.K shows [2h 4s] (One pair : 4)
+P1xel7 shows [Qd 9h] (One pair : Queens)
+P1xel7 collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | No rake
+Board: [4d 6d 3d Kc Qs]
+Seat 2: la souris 37 showed [9s Jh] and lost with High card : King
+Seat 3: Minou1720 showed [8d 8s] and lost with One pair : 8
+Seat 5: P1xel7 (small blind) showed [Qd 9h] and won 5640 with One pair : Queens
+Seat 6: K.&.K (big blind) showed [2h 4s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3219212017101438995-86-1709153356 - Holdem no limit (140/600/1200) - 2024/02/28 20:49:16 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: sano2k (56077, 0.33€ bounty)
+Seat 2: la souris 37 (105660, 0.77€ bounty)
+Seat 3: Minou1720 (47345, 0.33€ bounty)
+Seat 4: cedvince (46881, 0.22€ bounty)
+Seat 5: P1xel7 (45622, 0.38€ bounty)
+Seat 6: K.&.K (36389, 0.33€ bounty)
+*** ANTE/BLINDS ***
+K.&.K posts ante 140
+sano2k posts ante 140
+la souris 37 posts ante 140
+Minou1720 posts ante 140
+cedvince posts ante 140
+P1xel7 posts ante 140
+K.&.K posts small blind 600
+sano2k posts big blind 1200
+Dealt to P1xel7 [7c 5h]
+*** PRE-FLOP *** 
+la souris 37 folds
+Minou1720 folds
+cedvince folds
+P1xel7 folds
+K.&.K folds
+sano2k collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 1: sano2k (big blind) won 2640
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3219212017101438995-87-1709153390 - Holdem no limit (140/600/1200) - 2024/02/28 20:49:50 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #6 is the button
+Seat 1: sano2k (57377, 0.33€ bounty)
+Seat 2: la souris 37 (105520, 0.77€ bounty)
+Seat 3: Minou1720 (47205, 0.33€ bounty)
+Seat 4: cedvince (46741, 0.22€ bounty)
+Seat 5: P1xel7 (45482, 0.38€ bounty)
+Seat 6: K.&.K (35649, 0.33€ bounty)
+*** ANTE/BLINDS ***
+sano2k posts ante 140
+la souris 37 posts ante 140
+Minou1720 posts ante 140
+cedvince posts ante 140
+P1xel7 posts ante 140
+K.&.K posts ante 140
+sano2k posts small blind 600
+la souris 37 posts big blind 1200
+Dealt to P1xel7 [6h Qc]
+*** PRE-FLOP *** 
+Minou1720 folds
+cedvince folds
+P1xel7 folds
+K.&.K folds
+sano2k raises 1500 to 2700
+la souris 37 calls 1500
+*** FLOP *** [8d 6s 2d]
+sano2k bets 3120
+la souris 37 calls 3120
+*** TURN *** [8d 6s 2d][2c]
+sano2k checks
+la souris 37 bets 9984
+sano2k folds
+la souris 37 collected 22464 from pot
+*** SUMMARY ***
+Total pot 22464 | No rake
+Board: [8d 6s 2d 2c]
+Seat 2: la souris 37 (big blind) won 22464
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3219212017101438995-88-1709153468 - Holdem no limit (160/700/1400) - 2024/02/28 20:51:08 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #1 is the button
+Seat 1: sano2k (51417, 0.33€ bounty)
+Seat 2: la souris 37 (112040, 0.77€ bounty)
+Seat 3: Minou1720 (47065, 0.33€ bounty)
+Seat 4: cedvince (46601, 0.22€ bounty)
+Seat 5: P1xel7 (45342, 0.38€ bounty)
+Seat 6: K.&.K (35509, 0.33€ bounty)
+*** ANTE/BLINDS ***
+la souris 37 posts ante 160
+Minou1720 posts ante 160
+sano2k posts ante 160
+cedvince posts ante 160
+P1xel7 posts ante 160
+K.&.K posts ante 160
+la souris 37 posts small blind 700
+Minou1720 posts big blind 1400
+Dealt to P1xel7 [6h Ah]
+*** PRE-FLOP *** 
+cedvince folds
+P1xel7 folds
+K.&.K folds
+sano2k folds
+la souris 37 folds
+Minou1720 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 3: Minou1720 (big blind) won 3060
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3219212017101438995-89-1709153482 - Holdem no limit (160/700/1400) - 2024/02/28 20:51:22 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #2 is the button
+Seat 1: sano2k (51257, 0.33€ bounty)
+Seat 2: la souris 37 (111180, 0.77€ bounty)
+Seat 3: Minou1720 (48565, 0.33€ bounty)
+Seat 4: cedvince (46441, 0.22€ bounty)
+Seat 5: P1xel7 (45182, 0.38€ bounty)
+Seat 6: K.&.K (35349, 0.33€ bounty)
+*** ANTE/BLINDS ***
+Minou1720 posts ante 160
+cedvince posts ante 160
+sano2k posts ante 160
+la souris 37 posts ante 160
+P1xel7 posts ante 160
+K.&.K posts ante 160
+Minou1720 posts small blind 700
+cedvince posts big blind 1400
+Dealt to P1xel7 [9d 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+K.&.K folds
+sano2k folds
+la souris 37 folds
+Minou1720 calls 700
+cedvince checks
+*** FLOP *** [5h Jd 8c]
+Minou1720 checks
+cedvince bets 2444
+Minou1720 folds
+cedvince collected 6204 from pot
+*** SUMMARY ***
+Total pot 6204 | No rake
+Board: [5h Jd 8c]
+Seat 4: cedvince (big blind) won 6204
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3219212017101438995-90-1709153529 - Holdem no limit (160/700/1400) - 2024/02/28 20:52:09 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #3 is the button
+Seat 1: sano2k (51097, 0.33€ bounty)
+Seat 2: la souris 37 (111020, 0.77€ bounty)
+Seat 3: Minou1720 (47005, 0.33€ bounty)
+Seat 4: cedvince (48641, 0.22€ bounty)
+Seat 5: P1xel7 (45022, 0.38€ bounty)
+Seat 6: K.&.K (35189, 0.33€ bounty)
+*** ANTE/BLINDS ***
+cedvince posts ante 160
+P1xel7 posts ante 160
+sano2k posts ante 160
+la souris 37 posts ante 160
+Minou1720 posts ante 160
+K.&.K posts ante 160
+cedvince posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [7h 2s]
+*** PRE-FLOP *** 
+K.&.K folds
+sano2k folds
+la souris 37 folds
+Minou1720 calls 1400
+cedvince calls 700
+P1xel7 checks
+*** FLOP *** [Ks 3s 4h]
+cedvince checks
+P1xel7 checks
+Minou1720 checks
+*** TURN *** [Ks 3s 4h][Td]
+cedvince checks
+P1xel7 checks
+Minou1720 checks
+*** RIVER *** [Ks 3s 4h Td][6h]
+cedvince checks
+P1xel7 bets 3500
+Minou1720 calls 3500
+cedvince folds
+*** SHOW DOWN ***
+P1xel7 shows [7h 2s] (High card : King)
+Minou1720 shows [Ac Th] (One pair : Tens)
+Minou1720 collected 12160 from pot
+*** SUMMARY ***
+Total pot 12160 | No rake
+Board: [Ks 3s 4h Td 6h]
+Seat 3: Minou1720 (button) showed [Ac Th] and won 12160 with One pair : Tens
+Seat 5: P1xel7 (big blind) showed [7h 2s] and lost with High card : King
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3219212017101438995-91-1709153586 - Holdem no limit (160/700/1400) - 2024/02/28 20:53:06 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #4 is the button
+Seat 1: sano2k (50937, 0.33€ bounty)
+Seat 2: la souris 37 (110860, 0.77€ bounty)
+Seat 3: Minou1720 (54105, 0.33€ bounty)
+Seat 4: cedvince (47081, 0.22€ bounty)
+Seat 5: P1xel7 (39962, 0.38€ bounty)
+Seat 6: K.&.K (35029, 0.33€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+K.&.K posts ante 160
+sano2k posts ante 160
+la souris 37 posts ante 160
+Minou1720 posts ante 160
+cedvince posts ante 160
+P1xel7 posts small blind 700
+K.&.K posts big blind 1400
+Dealt to P1xel7 [8d 6c]
+*** PRE-FLOP *** 
+sano2k folds
+la souris 37 calls 1400
+Minou1720 folds
+cedvince folds
+P1xel7 folds
+K.&.K checks
+*** FLOP *** [4h 6s 6d]
+K.&.K checks
+la souris 37 bets 12160
+K.&.K folds
+la souris 37 collected 16620 from pot
+*** SUMMARY ***
+Total pot 16620 | No rake
+Board: [4h 6s 6d]
+Seat 2: la souris 37 won 16620
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3219212017101438995-92-1709153651 - Holdem no limit (160/700/1400) - 2024/02/28 20:54:11 UTC
+Table: 'Kill The Fish(749531206)#018' 6-max (real money) Seat #5 is the button
+Seat 1: sano2k (50777, 0.33€ bounty)
+Seat 2: la souris 37 (113760, 0.77€ bounty)
+Seat 3: Minou1720 (53945, 0.33€ bounty)
+Seat 4: cedvince (46921, 0.22€ bounty)
+Seat 5: P1xel7 (39102, 0.38€ bounty)
+Seat 6: K.&.K (33469, 0.33€ bounty)
+*** ANTE/BLINDS ***
+K.&.K posts ante 160
+sano2k posts ante 160
+la souris 37 posts ante 160
+Minou1720 posts ante 160
+cedvince posts ante 160
+P1xel7 posts ante 160
+K.&.K posts small blind 700
+sano2k posts big blind 1400
+Dealt to P1xel7 [Ks Kc]
+*** PRE-FLOP *** 
+la souris 37 calls 1400
+Minou1720 folds
+cedvince calls 1400
+P1xel7 raises 3500 to 4900
+K.&.K folds
+sano2k raises 45717 to 50617 and is all-in
+la souris 37 calls 49217
+cedvince folds
+P1xel7 calls 34042 and is all-in
+*** FLOP *** [6c 8d 6s]
+*** TURN *** [6c 8d 6s][Ad]
+*** RIVER *** [6c 8d 6s Ad][2c]
+*** SHOW DOWN ***
+la souris 37 shows [Ts Jc] (One pair : 6)
+P1xel7 shows [Ks Kc] (Two pairs : Kings and 6)
+sano2k shows [Qh Ah] (Two pairs : Aces and 6)
+sano2k collected 143236 from pot
+*** SUMMARY ***
+Total pot 143236 | No rake
+Board: [6c 8d 6s Ad 2c]
+Seat 1: sano2k (big blind) showed [Qh Ah] and won 143236 with Two pairs : Aces and 6
+Seat 2: la souris 37 showed [Ts Jc] and lost with One pair : 6
+Seat 5: P1xel7 (button) showed [Ks Kc] and lost with Two pairs : Kings and 6
+
+

@@ -1,0 +1,567 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277616618774986753-1-1709491866 - Holdem no limit (10/20) - 2024/03/03 18:51:06 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (500)
+Seat 2: PacMan655957 (500)
+Seat 3: civil-343234 (500)
+Seat 4: Pellon (500)
+Seat 5: Popy93160 (500)
+Seat 6: B3B3L (500)
+*** ANTE/BLINDS ***
+civil-343234 posts small blind 10
+Pellon posts big blind 20
+Dealt to P1xel7 [9s 2h]
+*** PRE-FLOP *** 
+Popy93160 raises 480 to 500 and is all-in
+B3B3L folds
+P1xel7 folds
+PacMan655957 folds
+civil-343234 folds
+Pellon folds
+Popy93160 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 5: Popy93160 won 530
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277616618774986753-2-1709491888 - Holdem no limit (10/20) - 2024/03/03 18:51:28 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (500)
+Seat 2: PacMan655957 (500)
+Seat 3: civil-343234 (490)
+Seat 4: Pellon (480)
+Seat 5: Popy93160 (530)
+Seat 6: B3B3L (500)
+*** ANTE/BLINDS ***
+Pellon posts small blind 10
+Popy93160 posts big blind 20
+Dealt to P1xel7 [3c Qh]
+*** PRE-FLOP *** 
+B3B3L calls 20
+P1xel7 folds
+PacMan655957 folds
+civil-343234 folds
+Pellon calls 10
+Popy93160 checks
+*** FLOP *** [Kd Qd 8h]
+Pellon bets 21
+Popy93160 folds
+B3B3L calls 21
+*** TURN *** [Kd Qd 8h][8c]
+Pellon bets 66
+B3B3L calls 66
+*** RIVER *** [Kd Qd 8h 8c][Ac]
+Pellon bets 152
+B3B3L folds
+Pellon collected 386 from pot
+*** SUMMARY ***
+Total pot 386 | No rake
+Board: [Kd Qd 8h 8c Ac]
+Seat 4: Pellon (small blind) won 386
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277616618774986753-3-1709491916 - Holdem no limit (10/20) - 2024/03/03 18:51:56 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (500)
+Seat 2: PacMan655957 (500)
+Seat 3: civil-343234 (490)
+Seat 4: Pellon (607)
+Seat 5: Popy93160 (510)
+Seat 6: B3B3L (393)
+*** ANTE/BLINDS ***
+Popy93160 posts small blind 10
+B3B3L posts big blind 20
+Dealt to P1xel7 [2h Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+PacMan655957 folds
+civil-343234 folds
+Pellon calls 20
+Popy93160 calls 10
+B3B3L checks
+*** FLOP *** [Kh Kd 7s]
+Popy93160 checks
+B3B3L checks
+Pellon bets 60
+Popy93160 folds
+B3B3L folds
+Pellon collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [Kh Kd 7s]
+Seat 4: Pellon (button) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277616618774986753-4-1709491940 - Holdem no limit (10/20) - 2024/03/03 18:52:20 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (500)
+Seat 2: PacMan655957 (500)
+Seat 3: civil-343234 (490)
+Seat 4: Pellon (647)
+Seat 5: Popy93160 (490)
+Seat 6: B3B3L (373)
+*** ANTE/BLINDS ***
+B3B3L posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8c Td]
+*** PRE-FLOP *** 
+PacMan655957 folds
+civil-343234 raises 470 to 490 and is all-in
+Pellon calls 490
+Popy93160 folds
+B3B3L folds
+P1xel7 folds
+*** FLOP *** [7d 5h 8s]
+*** TURN *** [7d 5h 8s][As]
+*** RIVER *** [7d 5h 8s As][7h]
+*** SHOW DOWN ***
+civil-343234 shows [2d 2c] (Two pairs : 7 and 2)
+Pellon shows [Tc Ah] (Two pairs : Aces and 7)
+Pellon collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [7d 5h 8s As 7h]
+Seat 3: civil-343234 showed [2d 2c] and lost with Two pairs : 7 and 2
+Seat 4: Pellon showed [Tc Ah] and won 1010 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277616618774986753-5-1709491963 - Holdem no limit (15/30) - 2024/03/03 18:52:43 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (480)
+Seat 2: PacMan655957 (500)
+Seat 4: Pellon (1167)
+Seat 5: Popy93160 (490)
+Seat 6: B3B3L (363)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+PacMan655957 posts big blind 30
+Dealt to P1xel7 [4c 3d]
+*** PRE-FLOP *** 
+Pellon calls 30
+Popy93160 raises 60 to 90
+B3B3L folds
+P1xel7 folds
+PacMan655957 folds
+Pellon calls 60
+*** FLOP *** [5d 6h 5h]
+Pellon checks
+Popy93160 checks
+*** TURN *** [5d 6h 5h][9c]
+Pellon checks
+Popy93160 bets 79
+Pellon calls 79
+*** RIVER *** [5d 6h 5h 9c][6d]
+Pellon bets 134
+Popy93160 calls 134
+*** SHOW DOWN ***
+Pellon shows [3h Th] (Two pairs : 6 and 5)
+Popy93160 shows [8c 8s] (Two pairs : 8 and 6)
+Popy93160 collected 651 from pot
+*** SUMMARY ***
+Total pot 651 | No rake
+Board: [5d 6h 5h 9c 6d]
+Seat 4: Pellon showed [3h Th] and lost with Two pairs : 6 and 5
+Seat 5: Popy93160 showed [8c 8s] and won 651 with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277616618774986753-6-1709492007 - Holdem no limit (15/30) - 2024/03/03 18:53:27 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (465)
+Seat 2: PacMan655957 (470)
+Seat 4: Pellon (864)
+Seat 5: Popy93160 (838)
+Seat 6: B3B3L (363)
+*** ANTE/BLINDS ***
+PacMan655957 posts small blind 15
+Pellon posts big blind 30
+Dealt to P1xel7 [7h 9c]
+*** PRE-FLOP *** 
+Popy93160 raises 45 to 75
+B3B3L folds
+P1xel7 folds
+PacMan655957 folds
+Pellon calls 45
+*** FLOP *** [6d 6h Ks]
+Pellon checks
+Popy93160 bets 107
+Pellon folds
+Popy93160 collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | No rake
+Board: [6d 6h Ks]
+Seat 5: Popy93160 won 272
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277616618774986753-7-1709492028 - Holdem no limit (15/30) - 2024/03/03 18:53:48 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (465)
+Seat 2: PacMan655957 (455)
+Seat 4: Pellon (789)
+Seat 5: Popy93160 (928)
+Seat 6: B3B3L (363)
+*** ANTE/BLINDS ***
+Pellon posts small blind 15
+Popy93160 posts big blind 30
+Dealt to P1xel7 [8s 8d]
+*** PRE-FLOP *** 
+B3B3L calls 30
+P1xel7 raises 90 to 120
+PacMan655957 folds
+Pellon calls 105
+Popy93160 calls 90
+B3B3L calls 90
+*** FLOP *** [8c Qh 9h]
+Pellon checks
+Popy93160 checks
+B3B3L checks
+P1xel7 bets 168
+Pellon folds
+Popy93160 folds
+B3B3L raises 75 to 243 and is all-in
+P1xel7 calls 75
+*** TURN *** [8c Qh 9h][6d]
+*** RIVER *** [8c Qh 9h 6d][2d]
+*** SHOW DOWN ***
+B3B3L shows [9s As] (One pair : 9)
+P1xel7 shows [8s 8d] (Trips of 8)
+P1xel7 collected 966 from pot
+*** SUMMARY ***
+Total pot 966 | No rake
+Board: [8c Qh 9h 6d 2d]
+Seat 1: P1xel7 showed [8s 8d] and won 966 with Trips of 8
+Seat 6: B3B3L showed [9s As] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3277616618774986753-8-1709492073 - Holdem no limit (20/40) - 2024/03/03 18:54:33 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1068)
+Seat 2: PacMan655957 (455)
+Seat 4: Pellon (669)
+Seat 5: Popy93160 (808)
+*** ANTE/BLINDS ***
+Popy93160 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Ah 5d]
+*** PRE-FLOP *** 
+PacMan655957 folds
+Pellon calls 40
+Popy93160 calls 20
+P1xel7 raises 80 to 120
+Pellon calls 80
+Popy93160 calls 80
+*** FLOP *** [Qh 6d 6h]
+Popy93160 checks
+P1xel7 bets 80
+Pellon raises 80 to 160
+Popy93160 folds
+P1xel7 folds
+Pellon collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Qh 6d 6h]
+Seat 4: Pellon (button) won 600
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3277616618774986753-9-1709492096 - Holdem no limit (20/40) - 2024/03/03 18:54:56 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (868)
+Seat 2: PacMan655957 (455)
+Seat 4: Pellon (989)
+Seat 5: Popy93160 (688)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+PacMan655957 posts big blind 40
+Dealt to P1xel7 [9h 5s]
+*** PRE-FLOP *** 
+Pellon raises 40 to 80
+Popy93160 calls 80
+P1xel7 folds
+PacMan655957 folds
+*** FLOP *** [Tc 7c 9c]
+Pellon checks
+Popy93160 bets 143
+Pellon calls 143
+*** TURN *** [Tc 7c 9c][Ac]
+Pellon checks
+Popy93160 bets 329
+Pellon folds
+Popy93160 collected 835 from pot
+*** SUMMARY ***
+Total pot 835 | No rake
+Board: [Tc 7c 9c Ac]
+Seat 5: Popy93160 (button) won 835
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3277616618774986753-10-1709492125 - Holdem no limit (20/40) - 2024/03/03 18:55:25 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (848)
+Seat 2: PacMan655957 (415)
+Seat 4: Pellon (766)
+Seat 5: Popy93160 (971)
+*** ANTE/BLINDS ***
+PacMan655957 posts small blind 20
+Pellon posts big blind 40
+Dealt to P1xel7 [5h Jh]
+*** PRE-FLOP *** 
+Popy93160 calls 40
+P1xel7 folds
+PacMan655957 folds
+Pellon checks
+*** FLOP *** [7d Kd 6s]
+Pellon checks
+Popy93160 checks
+*** TURN *** [7d Kd 6s][6h]
+Pellon checks
+Popy93160 checks
+*** RIVER *** [7d Kd 6s 6h][9s]
+Pellon bets 65
+Popy93160 folds
+Pellon collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [7d Kd 6s 6h 9s]
+Seat 4: Pellon (big blind) won 165
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277616618774986753-11-1709492144 - Holdem no limit (30/60) - 2024/03/03 18:55:44 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (848)
+Seat 2: PacMan655957 (395)
+Seat 4: Pellon (826)
+Seat 5: Popy93160 (931)
+*** ANTE/BLINDS ***
+Pellon posts small blind 30
+Popy93160 posts big blind 60
+Dealt to P1xel7 [Th 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+PacMan655957 folds
+Pellon calls 30
+Popy93160 checks
+*** FLOP *** [Qs Td 7d]
+Pellon checks
+Popy93160 bets 60
+Pellon calls 60
+*** TURN *** [Qs Td 7d][Kh]
+Pellon bets 84
+Popy93160 calls 84
+*** RIVER *** [Qs Td 7d Kh][8d]
+Pellon bets 265
+Popy93160 calls 265
+*** SHOW DOWN ***
+Popy93160 shows [5d 5c] (One pair : 5)
+Pellon shows [Qh 8c] (Two pairs : Queens and 8)
+Pellon collected 938 from pot
+*** SUMMARY ***
+Total pot 938 | No rake
+Board: [Qs Td 7d Kh 8d]
+Seat 4: Pellon (small blind) showed [Qh 8c] and won 938 with Two pairs : Queens and 8
+Seat 5: Popy93160 (big blind) showed [5d 5c] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277616618774986753-12-1709492169 - Holdem no limit (30/60) - 2024/03/03 18:56:09 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (848)
+Seat 2: PacMan655957 (395)
+Seat 4: Pellon (1295)
+Seat 5: Popy93160 (462)
+*** ANTE/BLINDS ***
+Popy93160 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [2h 4h]
+*** PRE-FLOP *** 
+PacMan655957 folds
+Pellon calls 60
+Popy93160 raises 402 to 462 and is all-in
+P1xel7 folds
+Pellon calls 402
+*** FLOP *** [4c 8h 2s]
+*** TURN *** [4c 8h 2s][4s]
+*** RIVER *** [4c 8h 2s 4s][9h]
+*** SHOW DOWN ***
+Pellon shows [3h 3d] (Two pairs : 4 and 3)
+Popy93160 shows [Ac 9c] (Two pairs : 9 and 4)
+Popy93160 collected 984 from pot
+*** SUMMARY ***
+Total pot 984 | No rake
+Board: [4c 8h 2s 4s 9h]
+Seat 4: Pellon (button) showed [3h 3d] and lost with Two pairs : 4 and 3
+Seat 5: Popy93160 (small blind) showed [Ac 9c] and won 984 with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277616618774986753-13-1709492185 - Holdem no limit (30/60) - 2024/03/03 18:56:25 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (788)
+Seat 2: PacMan655957 (395)
+Seat 4: Pellon (833)
+Seat 5: Popy93160 (984)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+PacMan655957 posts big blind 60
+Dealt to P1xel7 [Qs 8h]
+*** PRE-FLOP *** 
+Pellon calls 60
+Popy93160 calls 60
+P1xel7 calls 30
+PacMan655957 folds
+*** FLOP *** [Qd 4h Qc]
+P1xel7 checks
+Pellon checks
+Popy93160 checks
+*** TURN *** [Qd 4h Qc][4c]
+P1xel7 checks
+Pellon checks
+Popy93160 checks
+*** RIVER *** [Qd 4h Qc 4c][4d]
+P1xel7 bets 270
+Pellon calls 270
+Popy93160 calls 270
+*** SHOW DOWN ***
+Pellon shows [Td 6s] (Full of 4 and Queens)
+Popy93160 shows [2h 7s] (Full of 4 and Queens)
+P1xel7 shows [Qs 8h] (Full of Queens and 4)
+P1xel7 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | No rake
+Board: [Qd 4h Qc 4c 4d]
+Seat 1: P1xel7 (small blind) showed [Qs 8h] and won 1050 with Full of Queens and 4
+Seat 4: Pellon showed [Td 6s] and lost with Full of 4 and Queens
+Seat 5: Popy93160 (button) showed [2h 7s] and lost with Full of 4 and Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277616618774986753-14-1709492219 - Holdem no limit (30/60) - 2024/03/03 18:56:59 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1508)
+Seat 2: PacMan655957 (335)
+Seat 4: Pellon (503)
+Seat 5: Popy93160 (654)
+*** ANTE/BLINDS ***
+PacMan655957 posts small blind 30
+Pellon posts big blind 60
+Dealt to P1xel7 [8d 4h]
+*** PRE-FLOP *** 
+Popy93160 calls 60
+P1xel7 folds
+PacMan655957 folds
+Pellon checks
+*** FLOP *** [7d Ah Tc]
+Pellon checks
+Popy93160 checks
+*** TURN *** [7d Ah Tc][As]
+Pellon checks
+Popy93160 checks
+*** RIVER *** [7d Ah Tc As][Th]
+Pellon bets 98
+Popy93160 folds
+Pellon collected 248 from pot
+*** SUMMARY ***
+Total pot 248 | No rake
+Board: [7d Ah Tc As Th]
+Seat 4: Pellon (big blind) won 248
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3277616618774986753-15-1709492238 - Holdem no limit (40/80) - 2024/03/03 18:57:18 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (1508)
+Seat 2: PacMan655957 (305)
+Seat 4: Pellon (593)
+Seat 5: Popy93160 (594)
+*** ANTE/BLINDS ***
+Pellon posts small blind 40
+Popy93160 posts big blind 80
+Dealt to P1xel7 [2s 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+PacMan655957 folds
+Pellon calls 40
+Popy93160 raises 120 to 200
+Pellon calls 120
+*** FLOP *** [5d Ts Ks]
+Pellon checks
+Popy93160 checks
+*** TURN *** [5d Ts Ks][8d]
+Pellon checks
+Popy93160 checks
+*** RIVER *** [5d Ts Ks 8d][Th]
+Pellon checks
+Popy93160 checks
+*** SHOW DOWN ***
+Pellon shows [4c 2c] (One pair : Tens)
+Popy93160 shows [7h Ah] (One pair : Tens)
+Popy93160 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | No rake
+Board: [5d Ts Ks 8d Th]
+Seat 4: Pellon (small blind) showed [4c 2c] and lost with One pair : Tens
+Seat 5: Popy93160 (big blind) showed [7h Ah] and won 400 with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3277616618774986753-16-1709492259 - Holdem no limit (40/80) - 2024/03/03 18:57:39 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1508)
+Seat 2: PacMan655957 (305)
+Seat 4: Pellon (393)
+Seat 5: Popy93160 (794)
+*** ANTE/BLINDS ***
+Popy93160 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [3h 2h]
+*** PRE-FLOP *** 
+PacMan655957 folds
+Pellon calls 80
+Popy93160 calls 40
+P1xel7 checks
+*** FLOP *** [Qs 4s 8c]
+Popy93160 bets 80
+P1xel7 folds
+Pellon calls 80
+*** TURN *** [Qs 4s 8c][2d]
+Popy93160 bets 80
+Pellon calls 80
+*** RIVER *** [Qs 4s 8c 2d][Kd]
+Popy93160 bets 80
+Pellon calls 80
+*** SHOW DOWN ***
+Popy93160 shows [7h Ts] (High card : King)
+Pellon shows [Th 8d] (One pair : 8)
+Pellon collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Qs 4s 8c 2d Kd]
+Seat 4: Pellon (button) showed [Th 8d] and won 720 with One pair : 8
+Seat 5: Popy93160 (small blind) showed [7h Ts] and lost with High card : King
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3277616618774986753-17-1709492277 - Holdem no limit (40/80) - 2024/03/03 18:57:57 UTC
+Table: 'Starting Block WiPT - Déglingos(763129587)#0' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (1428)
+Seat 2: PacMan655957 (305)
+Seat 4: Pellon (793)
+Seat 5: Popy93160 (474)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+PacMan655957 posts big blind 80
+Dealt to P1xel7 [2s 7d]
+*** PRE-FLOP *** 
+Pellon calls 80
+Popy93160 calls 80
+P1xel7 calls 40
+PacMan655957 folds
+*** FLOP *** [Ks 7s 5d]
+P1xel7 checks
+Pellon checks
+Popy93160 checks
+*** TURN *** [Ks 7s 5d][Qc]
+P1xel7 checks
+Pellon bets 112
+Popy93160 calls 112
+P1xel7 folds
+*** RIVER *** [Ks 7s 5d Qc][Kd]
+Pellon bets 354
+Popy93160 folds
+Pellon collected 898 from pot
+*** SUMMARY ***
+Total pot 898 | No rake
+Board: [Ks 7s 5d Qc Kd]
+Seat 4: Pellon won 898
+
+

@@ -1,0 +1,381 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3263426072598806529-1-1708799243 - Holdem no limit (10/20) - 2024/02/24 18:27:23 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #5 is the button
+Seat 1: jf-sm-91 (500)
+Seat 2: P1xel7 (500)
+Seat 3: patrusky (500)
+Seat 4: KKoulis (500)
+Seat 5: yackd (500)
+Seat 6: Oursin.xs812 (500)
+*** ANTE/BLINDS ***
+Oursin.xs812 posts small blind 10
+jf-sm-91 posts big blind 20
+Dealt to P1xel7 [6c 3d]
+*** PRE-FLOP *** 
+P1xel7 folds
+patrusky calls 20
+KKoulis calls 20
+yackd raises 480 to 500 and is all-in
+Oursin.xs812 calls 490 and is all-in
+jf-sm-91 folds
+patrusky folds
+KKoulis calls 480 and is all-in
+*** FLOP *** [4s 6s Ad]
+*** TURN *** [4s 6s Ad][4h]
+*** RIVER *** [4s 6s Ad 4h][Ts]
+*** SHOW DOWN ***
+yackd shows [Ks 2c] (One pair : 4)
+Oursin.xs812 shows [5d Jc] (One pair : 4)
+KKoulis shows [Qd 6d] (Two pairs : 6 and 4)
+KKoulis collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Board: [4s 6s Ad 4h Ts]
+Seat 4: KKoulis showed [Qd 6d] and won 1540 with Two pairs : 6 and 4
+Seat 5: yackd (button) showed [Ks 2c] and lost with One pair : 4
+Seat 6: Oursin.xs812 (small blind) showed [5d Jc] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3263426072598806529-2-1708799314 - Holdem no limit (10/20) - 2024/02/24 18:28:34 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #6 is the button
+Seat 1: jf-sm-91 (480)
+Seat 2: P1xel7 (500)
+Seat 3: patrusky (480)
+Seat 4: KKoulis (1540)
+*** ANTE/BLINDS ***
+jf-sm-91 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [As Td]
+*** PRE-FLOP *** 
+patrusky calls 20
+KKoulis raises 70 to 90
+jf-sm-91 folds
+P1xel7 raises 410 to 500 and is all-in
+patrusky folds
+KKoulis raises 1040 to 1540 and is all-in
+*** FLOP *** [2s 9d Js]
+*** TURN *** [2s 9d Js][3d]
+*** RIVER *** [2s 9d Js 3d][9c]
+*** SHOW DOWN ***
+P1xel7 shows [As Td] (One pair : 9)
+KKoulis shows [Ts Kh] (One pair : 9)
+KKoulis collected 1040 from side pot 1
+P1xel7 collected 1030 from main pot
+*** SUMMARY ***
+Total pot 2070 | No rake
+Board: [2s 9d Js 3d 9c]
+Seat 2: P1xel7 (big blind) showed [As Td] and won 1030 with One pair : 9
+Seat 4: KKoulis showed [Ts Kh] and won 1040 with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263426072598806529-3-1708799377 - Holdem no limit (15/30) - 2024/02/24 18:29:37 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #1 is the button
+Seat 1: jf-sm-91 (470)
+Seat 2: P1xel7 (1030)
+Seat 3: patrusky (460)
+Seat 4: KKoulis (1040)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+patrusky posts big blind 30
+Dealt to P1xel7 [3d 8s]
+*** PRE-FLOP *** 
+KKoulis raises 1010 to 1040 and is all-in
+jf-sm-91 folds
+P1xel7 folds
+patrusky folds
+KKoulis collected 1085 from pot
+*** SUMMARY ***
+Total pot 1085 | No rake
+Seat 4: KKoulis won 1085
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263426072598806529-4-1708799407 - Holdem no limit (15/30) - 2024/02/24 18:30:07 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #2 is the button
+Seat 1: jf-sm-91 (470)
+Seat 2: P1xel7 (1015)
+Seat 3: patrusky (430)
+Seat 4: KKoulis (1085)
+*** ANTE/BLINDS ***
+patrusky posts small blind 15
+KKoulis posts big blind 30
+Dealt to P1xel7 [2d Jc]
+*** PRE-FLOP *** 
+jf-sm-91 folds
+P1xel7 folds
+patrusky folds
+KKoulis collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 4: KKoulis (big blind) won 45
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3263426072598806529-5-1708799420 - Holdem no limit (15/30) - 2024/02/24 18:30:20 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #3 is the button
+Seat 1: jf-sm-91 (470)
+Seat 2: P1xel7 (1015)
+Seat 3: patrusky (415)
+Seat 4: KKoulis (1100)
+*** ANTE/BLINDS ***
+KKoulis posts small blind 15
+jf-sm-91 posts big blind 30
+Dealt to P1xel7 [7h 8c]
+*** PRE-FLOP *** 
+P1xel7 folds
+patrusky calls 30
+KKoulis calls 15
+jf-sm-91 checks
+*** FLOP *** [4s 4c 3d]
+KKoulis checks
+jf-sm-91 bets 30
+patrusky folds
+KKoulis folds
+jf-sm-91 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [4s 4c 3d]
+Seat 1: jf-sm-91 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3263426072598806529-6-1708799444 - Holdem no limit (20/40) - 2024/02/24 18:30:44 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #4 is the button
+Seat 1: jf-sm-91 (530)
+Seat 2: P1xel7 (1015)
+Seat 3: patrusky (385)
+Seat 4: KKoulis (1070)
+*** ANTE/BLINDS ***
+jf-sm-91 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Qc 9h]
+*** PRE-FLOP *** 
+patrusky calls 40
+KKoulis folds
+jf-sm-91 folds
+P1xel7 checks
+*** FLOP *** [4h Tc 8d]
+P1xel7 checks
+patrusky checks
+*** TURN *** [4h Tc 8d][Kh]
+P1xel7 bets 60
+patrusky calls 60
+*** RIVER *** [4h Tc 8d Kh][5s]
+P1xel7 bets 915 and is all-in
+patrusky calls 285 and is all-in
+*** SHOW DOWN ***
+P1xel7 shows [Qc 9h] (High card : King)
+patrusky shows [Kd Js] (One pair : Kings)
+patrusky collected 790 from main pot
+P1xel7 collected 630 from side pot 1
+*** SUMMARY ***
+Total pot 1420 | No rake
+Board: [4h Tc 8d Kh 5s]
+Seat 2: P1xel7 (big blind) showed [Qc 9h] and won 630 with High card : King
+Seat 3: patrusky showed [Kd Js] and won 790 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3263426072598806529-7-1708799470 - Holdem no limit (20/40) - 2024/02/24 18:31:10 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #1 is the button
+Seat 1: jf-sm-91 (510)
+Seat 2: P1xel7 (630)
+Seat 3: patrusky (790)
+Seat 4: KKoulis (1070)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+patrusky posts big blind 40
+Dealt to P1xel7 [5d 6d]
+*** PRE-FLOP *** 
+KKoulis folds
+jf-sm-91 folds
+P1xel7 folds
+patrusky collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 3: patrusky (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3263426072598806529-8-1708799490 - Holdem no limit (20/40) - 2024/02/24 18:31:30 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #2 is the button
+Seat 1: jf-sm-91 (510)
+Seat 2: P1xel7 (610)
+Seat 3: patrusky (810)
+Seat 4: KKoulis (1070)
+*** ANTE/BLINDS ***
+patrusky posts small blind 20
+KKoulis posts big blind 40
+Dealt to P1xel7 [3h Kd]
+*** PRE-FLOP *** 
+jf-sm-91 calls 40
+P1xel7 folds
+patrusky calls 20
+KKoulis raises 1030 to 1070 and is all-in
+jf-sm-91 calls 470 and is all-in
+patrusky folds
+*** FLOP *** [5c 3s 5h]
+*** TURN *** [5c 3s 5h][6c]
+*** RIVER *** [5c 3s 5h 6c][8h]
+*** SHOW DOWN ***
+jf-sm-91 shows [4d Ac] (One pair : 5)
+KKoulis shows [Jc Kh] (One pair : 5)
+KKoulis collected 560 from side pot 1
+jf-sm-91 collected 1060 from main pot
+*** SUMMARY ***
+Total pot 1620 | No rake
+Board: [5c 3s 5h 6c 8h]
+Seat 1: jf-sm-91 showed [4d Ac] and won 1060 with One pair : 5
+Seat 4: KKoulis (big blind) showed [Jc Kh] and won 560 with One pair : 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3263426072598806529-9-1708799535 - Holdem no limit (30/60) - 2024/02/24 18:32:15 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #3 is the button
+Seat 1: jf-sm-91 (1060)
+Seat 2: P1xel7 (610)
+Seat 3: patrusky (770)
+Seat 4: KKoulis (560)
+*** ANTE/BLINDS ***
+KKoulis posts small blind 30
+jf-sm-91 posts big blind 60
+Dealt to P1xel7 [6d 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+patrusky folds
+KKoulis calls 30
+jf-sm-91 checks
+*** FLOP *** [9c Jh 8s]
+KKoulis checks
+jf-sm-91 checks
+*** TURN *** [9c Jh 8s][8d]
+KKoulis bets 120
+jf-sm-91 calls 120
+*** RIVER *** [9c Jh 8s 8d][2h]
+KKoulis bets 380 and is all-in
+jf-sm-91 folds
+KKoulis shows [3d Kd] (One pair : 8)
+KKoulis collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | No rake
+Board: [9c Jh 8s 8d 2h]
+Seat 4: KKoulis (small blind) showed [3d Kd] and won 740 with One pair : 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3263426072598806529-10-1708799561 - Holdem no limit (30/60) - 2024/02/24 18:32:41 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #4 is the button
+Seat 1: jf-sm-91 (880)
+Seat 2: P1xel7 (610)
+Seat 3: patrusky (770)
+Seat 4: KKoulis (740)
+*** ANTE/BLINDS ***
+jf-sm-91 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [3c 9d]
+*** PRE-FLOP *** 
+patrusky folds
+KKoulis raises 120 to 180
+jf-sm-91 calls 150
+P1xel7 folds
+*** FLOP *** [5d Qh 4h]
+jf-sm-91 bets 147
+KKoulis raises 413 to 560 and is all-in
+jf-sm-91 calls 413
+*** TURN *** [5d Qh 4h][Td]
+*** RIVER *** [5d Qh 4h Td][6s]
+*** SHOW DOWN ***
+KKoulis shows [Qc Kc] (One pair : Queens)
+jf-sm-91 shows [As Ad] (One pair : Aces)
+jf-sm-91 collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Board: [5d Qh 4h Td 6s]
+Seat 1: jf-sm-91 (small blind) showed [As Ad] and won 1540 with One pair : Aces
+Seat 4: KKoulis (button) showed [Qc Kc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3263426072598806529-11-1708799586 - Holdem no limit (30/60) - 2024/02/24 18:33:06 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #1 is the button
+Seat 1: jf-sm-91 (1680)
+Seat 2: P1xel7 (550)
+Seat 3: patrusky (770)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+patrusky posts big blind 60
+Dealt to P1xel7 [6h 5s]
+*** PRE-FLOP *** 
+jf-sm-91 calls 60
+P1xel7 folds
+patrusky checks
+*** FLOP *** [4c 4s 2c]
+patrusky checks
+jf-sm-91 checks
+*** TURN *** [4c 4s 2c][6d]
+patrusky checks
+jf-sm-91 checks
+*** RIVER *** [4c 4s 2c 6d][Tc]
+patrusky checks
+jf-sm-91 bets 60
+patrusky folds
+jf-sm-91 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [4c 4s 2c 6d Tc]
+Seat 1: jf-sm-91 (button) won 210
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3263426072598806529-12-1708799609 - Holdem no limit (40/80) - 2024/02/24 18:33:29 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #2 is the button
+Seat 1: jf-sm-91 (1770)
+Seat 2: P1xel7 (520)
+Seat 3: patrusky (710)
+*** ANTE/BLINDS ***
+patrusky posts small blind 40
+jf-sm-91 posts big blind 80
+Dealt to P1xel7 [8d Qc]
+*** PRE-FLOP *** 
+P1xel7 folds
+patrusky calls 40
+jf-sm-91 checks
+*** FLOP *** [5c 8c 5s]
+patrusky bets 80
+jf-sm-91 calls 80
+*** TURN *** [5c 8c 5s][Js]
+patrusky bets 80
+jf-sm-91 calls 80
+*** RIVER *** [5c 8c 5s Js][Ah]
+patrusky bets 80
+jf-sm-91 raises 80 to 160
+patrusky calls 80
+*** SHOW DOWN ***
+patrusky shows [Jd 8h] (Two pairs : Jacks and 8)
+jf-sm-91 shows [5h Kc] (Trips of 5)
+jf-sm-91 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [5c 8c 5s Js Ah]
+Seat 1: jf-sm-91 (big blind) showed [5h Kc] and won 800 with Trips of 5
+Seat 3: patrusky (small blind) showed [Jd 8h] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3263426072598806529-13-1708799635 - Holdem no limit (40/80) - 2024/02/24 18:33:55 UTC
+Table: 'Starting Block WiPT - Déglingos(759825593)#0' 6-max (real money) Seat #3 is the button
+Seat 1: jf-sm-91 (2170)
+Seat 2: P1xel7 (520)
+Seat 3: patrusky (310)
+*** ANTE/BLINDS ***
+jf-sm-91 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [7d 7h]
+*** PRE-FLOP *** 
+patrusky folds
+jf-sm-91 raises 80 to 160
+P1xel7 raises 360 to 520 and is all-in
+jf-sm-91 calls 360
+*** FLOP *** [9d Ad Tc]
+*** TURN *** [9d Ad Tc][5d]
+*** RIVER *** [9d Ad Tc 5d][8h]
+*** SHOW DOWN ***
+P1xel7 shows [7d 7h] (One pair : 7)
+jf-sm-91 shows [As Qc] (One pair : Aces)
+jf-sm-91 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | No rake
+Board: [9d Ad Tc 5d 8h]
+Seat 1: jf-sm-91 (small blind) showed [As Qc] and won 1040 with One pair : Aces
+Seat 2: P1xel7 (big blind) showed [7d 7h] and lost with One pair : 7
+
+

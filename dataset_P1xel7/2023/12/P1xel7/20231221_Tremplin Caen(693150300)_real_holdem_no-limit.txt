@@ -1,0 +1,3992 @@
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 13 - HandId: #2977057869712588853-155-1703191708 - Holdem no limit (50/250/500) - 2023/12/21 20:48:28 UTC
+Table: 'Tremplin Caen(693150300)#0052' 8-max (real money) Seat #6 is the button
+Seat 1: JBC18 (14274)
+Seat 2: Bova06 (4061)
+Seat 3: P1xel7 (24804)
+Seat 4: Force3939607 (6559)
+Seat 5: romainyz6251 (29375)
+Seat 6: Diduxxx (13442)
+Seat 7: Lezard.90830 (49238)
+Seat 8: Kewin76200 (1370)
+*** ANTE/BLINDS ***
+Lezard.90830 posts ante 50
+Kewin76200 posts ante 50
+JBC18 posts ante 50
+Bova06 posts ante 50
+P1xel7 posts ante 50
+Force3939607 posts ante 50
+romainyz6251 posts ante 50
+Diduxxx posts ante 50
+Lezard.90830 posts small blind 250
+Kewin76200 posts big blind 500
+Dealt to P1xel7 [9s 7d]
+*** PRE-FLOP *** 
+JBC18 calls 500
+Bova06 folds
+P1xel7 folds
+Force3939607 calls 500
+romainyz6251 raises 1000 to 1500
+Diduxxx calls 1500
+Lezard.90830 calls 1250
+Kewin76200 folds
+JBC18 calls 1000
+Force3939607 calls 1000
+*** FLOP *** [8d 4s 6s]
+Lezard.90830 checks
+JBC18 checks
+Force3939607 checks
+romainyz6251 checks
+Diduxxx checks
+*** TURN *** [8d 4s 6s][Jc]
+Lezard.90830 checks
+JBC18 checks
+Force3939607 bets 5009 and is all-in
+romainyz6251 folds
+Diduxxx folds
+Lezard.90830 folds
+JBC18 folds
+Force3939607 collected 13409 from pot
+*** SUMMARY ***
+Total pot 13409 | No rake
+Board: [8d 4s 6s Jc]
+Seat 4: Force3939607 won 13409
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 14 - HandId: #2977057869712588853-156-1703191828 - Holdem no limit (70/300/600) - 2023/12/21 20:50:28 UTC
+Table: 'Tremplin Caen(693150300)#0052' 8-max (real money) Seat #7 is the button
+Seat 1: JBC18 (12724)
+Seat 2: Bova06 (4011)
+Seat 3: P1xel7 (24754)
+Seat 4: Force3939607 (13409)
+Seat 5: romainyz6251 (27825)
+Seat 6: Diduxxx (11892)
+Seat 7: Lezard.90830 (47688)
+Seat 8: Kewin76200 (820)
+*** ANTE/BLINDS ***
+Kewin76200 posts ante 70
+JBC18 posts ante 70
+Bova06 posts ante 70
+P1xel7 posts ante 70
+Force3939607 posts ante 70
+romainyz6251 posts ante 70
+Diduxxx posts ante 70
+Lezard.90830 posts ante 70
+Kewin76200 posts small blind 300
+JBC18 posts big blind 600
+Dealt to P1xel7 [8s Jc]
+*** PRE-FLOP *** 
+Bova06 folds
+P1xel7 folds
+Force3939607 folds
+romainyz6251 calls 600
+Diduxxx folds
+Lezard.90830 folds
+Kewin76200 folds
+JBC18 raises 2060 to 2660
+romainyz6251 calls 2060
+*** FLOP *** [6c Jd Td]
+JBC18 checks
+romainyz6251 bets 4017
+JBC18 calls 4017
+*** TURN *** [6c Jd Td][9s]
+JBC18 checks
+romainyz6251 bets 14214
+JBC18 calls 5977 and is all-in
+*** RIVER *** [6c Jd Td 9s][Jh]
+*** SHOW DOWN ***
+JBC18 shows [Ts Ah] (Two pairs : Jacks and Tens)
+romainyz6251 shows [Js 6s] (Full of Jacks and 6)
+romainyz6251 collected 34405 from pot
+*** SUMMARY ***
+Total pot 34405 | No rake
+Board: [6c Jd Td 9s Jh]
+Seat 1: JBC18 (big blind) showed [Ts Ah] and lost with Two pairs : Jacks and Tens
+Seat 5: romainyz6251 showed [Js 6s] and won 34405 with Full of Jacks and 6
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 14 - HandId: #2977057869712588853-157-1703191914 - Holdem no limit (70/300/600) - 2023/12/21 20:51:54 UTC
+Table: 'Tremplin Caen(693150300)#0052' 8-max (real money) Seat #8 is the button
+Seat 2: Bova06 (3941)
+Seat 3: P1xel7 (24684)
+Seat 4: Force3939607 (13339)
+Seat 5: romainyz6251 (41269)
+Seat 6: Diduxxx (11822)
+Seat 7: Lezard.90830 (47618)
+Seat 8: Kewin76200 (450)
+*** ANTE/BLINDS ***
+Bova06 posts ante 70
+P1xel7 posts ante 70
+Force3939607 posts ante 70
+romainyz6251 posts ante 70
+Diduxxx posts ante 70
+Lezard.90830 posts ante 70
+Kewin76200 posts ante 70
+Bova06 posts big blind 600
+Dealt to P1xel7 [7s 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Force3939607 folds
+romainyz6251 calls 600
+Diduxxx calls 600
+Lezard.90830 folds
+Kewin76200 folds
+Bova06 checks
+*** FLOP *** [Qc Jc 8s]
+Bova06 checks
+romainyz6251 bets 1489
+Diduxxx folds
+Bova06 folds
+romainyz6251 collected 3779 from pot
+*** SUMMARY ***
+Total pot 3779 | No rake
+Board: [Qc Jc 8s]
+Seat 5: romainyz6251 won 3779
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 14 - HandId: #2977057869712588853-158-1703191970 - Holdem no limit (70/300/600) - 2023/12/21 20:52:50 UTC
+Table: 'Tremplin Caen(693150300)#0052' 8-max (real money) Seat #1 is the button
+Seat 1: FBU220 (26136)
+Seat 2: Bova06 (3271)
+Seat 3: P1xel7 (24614)
+Seat 4: Force3939607 (13269)
+Seat 5: romainyz6251 (42889)
+Seat 6: Diduxxx (11152)
+Seat 7: Lezard.90830 (47548)
+Seat 8: Kewin76200 (380)
+*** ANTE/BLINDS ***
+Bova06 posts ante 70
+P1xel7 posts ante 70
+Force3939607 posts ante 70
+romainyz6251 posts ante 70
+Diduxxx posts ante 70
+Lezard.90830 posts ante 70
+Kewin76200 posts ante 70
+Bova06 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [9d 7d]
+*** PRE-FLOP *** 
+Force3939607 calls 600
+romainyz6251 calls 600
+Diduxxx folds
+Lezard.90830 folds
+Kewin76200 folds
+Bova06 folds
+P1xel7 checks
+*** FLOP *** [Ts 7c 7h]
+P1xel7 checks
+Force3939607 checks
+romainyz6251 checks
+*** TURN *** [Ts 7c 7h][Kh]
+P1xel7 bets 907
+Force3939607 folds
+romainyz6251 calls 907
+*** RIVER *** [Ts 7c 7h Kh][2d]
+P1xel7 bets 2202
+romainyz6251 folds
+P1xel7 collected 6606 from pot
+*** SUMMARY ***
+Total pot 6606 | No rake
+Board: [Ts 7c 7h Kh 2d]
+Seat 3: P1xel7 (big blind) won 6606
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 14 - HandId: #2977057869712588853-159-1703192043 - Holdem no limit (70/300/600) - 2023/12/21 20:54:03 UTC
+Table: 'Tremplin Caen(693150300)#0052' 8-max (real money) Seat #2 is the button
+Seat 1: FBU220 (26136)
+Seat 2: Bova06 (2901)
+Seat 3: P1xel7 (27441)
+Seat 4: Force3939607 (12599)
+Seat 5: romainyz6251 (41312)
+Seat 6: Diduxxx (11082)
+Seat 7: Lezard.90830 (47478)
+Seat 8: Kewin76200 (310)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Force3939607 posts ante 70
+FBU220 posts ante 70
+Bova06 posts ante 70
+romainyz6251 posts ante 70
+Diduxxx posts ante 70
+Lezard.90830 posts ante 70
+Kewin76200 posts ante 70
+P1xel7 posts small blind 300
+Force3939607 posts big blind 600
+Dealt to P1xel7 [Kd Kc]
+*** PRE-FLOP *** 
+romainyz6251 folds
+Diduxxx folds
+Lezard.90830 folds
+Kewin76200 folds
+FBU220 raises 600 to 1200
+Bova06 folds
+P1xel7 raises 3300 to 4500
+Force3939607 folds
+FBU220 calls 3300
+*** FLOP *** [3h 6c 9s]
+P1xel7 bets 5080
+FBU220 folds
+P1xel7 collected 15240 from pot
+*** SUMMARY ***
+Total pot 15240 | No rake
+Board: [3h 6c 9s]
+Seat 3: P1xel7 (small blind) won 15240
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 14 - HandId: #2977057869712588853-160-1703192460 - Holdem no limit (70/300/600) - 2023/12/21 21:01:00 UTC
+Table: 'Tremplin Caen(693150300)#0052' 8-max (real money) Seat #3 is the button
+Seat 1: FBU220 (21566)
+Seat 2: Bova06 (2831)
+Seat 3: P1xel7 (33031)
+Seat 4: Force3939607 (11929)
+Seat 5: romainyz6251 (41242)
+Seat 6: Diduxxx (11012)
+Seat 7: Lezard.90830 (47408)
+Seat 8: Kewin76200 (240)
+*** ANTE/BLINDS ***
+Force3939607 posts ante 70
+romainyz6251 posts ante 70
+FBU220 posts ante 70
+Bova06 posts ante 70
+P1xel7 posts ante 70
+Diduxxx posts ante 70
+Lezard.90830 posts ante 70
+Kewin76200 posts ante 70
+Force3939607 posts small blind 300
+romainyz6251 posts big blind 600
+Dealt to P1xel7 [7s 5c]
+*** PRE-FLOP *** 
+Diduxxx folds
+Lezard.90830 folds
+Kewin76200 folds
+FBU220 folds
+Bova06 folds
+P1xel7 folds
+Force3939607 folds
+romainyz6251 collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | No rake
+Seat 5: romainyz6251 (big blind) won 1460
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 14 - HandId: #2977057869712588853-161-1703192513 - Holdem no limit (70/300/600) - 2023/12/21 21:01:53 UTC
+Table: 'Tremplin Caen(693150300)#0052' 8-max (real money) Seat #4 is the button
+Seat 1: FBU220 (21496)
+Seat 2: Bova06 (2761)
+Seat 3: P1xel7 (32961)
+Seat 4: Force3939607 (11559)
+Seat 5: romainyz6251 (42032)
+Seat 6: Diduxxx (10942)
+Seat 7: Lezard.90830 (47338)
+Seat 8: Kewin76200 (170)
+*** ANTE/BLINDS ***
+romainyz6251 posts ante 70
+Diduxxx posts ante 70
+FBU220 posts ante 70
+Bova06 posts ante 70
+P1xel7 posts ante 70
+Force3939607 posts ante 70
+Lezard.90830 posts ante 70
+Kewin76200 posts ante 70
+romainyz6251 posts small blind 300
+Diduxxx posts big blind 600
+Dealt to P1xel7 [7d 6s]
+*** PRE-FLOP *** 
+Lezard.90830 folds
+Kewin76200 folds
+FBU220 folds
+Bova06 folds
+P1xel7 folds
+Force3939607 folds
+romainyz6251 calls 300
+Diduxxx checks
+*** FLOP *** [4d 7h Kc]
+romainyz6251 checks
+Diduxxx bets 616
+romainyz6251 folds
+Diduxxx collected 2376 from pot
+*** SUMMARY ***
+Total pot 2376 | No rake
+Board: [4d 7h Kc]
+Seat 6: Diduxxx (big blind) won 2376
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 14 - HandId: #2977057869712588853-162-1703192556 - Holdem no limit (70/300/600) - 2023/12/21 21:02:36 UTC
+Table: 'Tremplin Caen(693150300)#0052' 8-max (real money) Seat #5 is the button
+Seat 1: FBU220 (21426)
+Seat 2: Bova06 (2691)
+Seat 3: P1xel7 (32891)
+Seat 4: Force3939607 (11489)
+Seat 5: romainyz6251 (41362)
+Seat 6: Diduxxx (12032)
+Seat 7: Lezard.90830 (47268)
+Seat 8: Kewin76200 (100)
+*** ANTE/BLINDS ***
+Diduxxx posts ante 70
+Lezard.90830 posts ante 70
+FBU220 posts ante 70
+Bova06 posts ante 70
+P1xel7 posts ante 70
+Force3939607 posts ante 70
+romainyz6251 posts ante 70
+Kewin76200 posts ante 70
+Diduxxx posts small blind 300
+Lezard.90830 posts big blind 600
+Dealt to P1xel7 [2s 9d]
+*** PRE-FLOP *** 
+Kewin76200 folds
+FBU220 raises 600 to 1200
+Bova06 folds
+P1xel7 folds
+Force3939607 calls 1200
+romainyz6251 folds
+Diduxxx calls 900
+Lezard.90830 calls 600
+*** FLOP *** [5d 5s 7h]
+Diduxxx checks
+Lezard.90830 checks
+FBU220 bets 1876
+Force3939607 folds
+Diduxxx calls 1876
+Lezard.90830 folds
+*** TURN *** [5d 5s 7h][8h]
+Diduxxx bets 600
+FBU220 calls 600
+*** RIVER *** [5d 5s 7h 8h][Td]
+Diduxxx bets 3609
+FBU220 calls 3609
+*** SHOW DOWN ***
+FBU220 shows [Ah 7s] (Two pairs : 7 and 5)
+Diduxxx shows [5h 4h] (Trips of 5)
+Diduxxx collected 17530 from pot
+*** SUMMARY ***
+Total pot 17530 | No rake
+Board: [5d 5s 7h 8h Td]
+Seat 1: FBU220 showed [Ah 7s] and lost with Two pairs : 7 and 5
+Seat 6: Diduxxx (small blind) showed [5h 4h] and won 17530 with Trips of 5
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 14 - HandId: #2977057869712588853-163-1703192630 - Holdem no limit (70/300/600) - 2023/12/21 21:03:50 UTC
+Table: 'Tremplin Caen(693150300)#0052' 8-max (real money) Seat #6 is the button
+Seat 1: FBU220 (14071)
+Seat 2: Bova06 (2621)
+Seat 3: P1xel7 (32821)
+Seat 4: Force3939607 (10219)
+Seat 5: romainyz6251 (41292)
+Seat 6: Diduxxx (22207)
+Seat 7: Lezard.90830 (45998)
+Seat 8: Kewin76200 (30)
+*** ANTE/BLINDS ***
+Lezard.90830 posts ante 70
+Kewin76200 posts ante 30 and is all-in
+FBU220 posts ante 70
+Bova06 posts ante 70
+P1xel7 posts ante 70
+Force3939607 posts ante 70
+romainyz6251 posts ante 70
+Diduxxx posts ante 70
+Lezard.90830 posts small blind 300
+Kewin76200 posts big blind 0 and is all-in
+Dealt to P1xel7 [Qs Qh]
+*** PRE-FLOP *** 
+FBU220 folds
+Bova06 folds
+P1xel7 raises 1200 to 1500
+Force3939607 folds
+romainyz6251 folds
+Diduxxx raises 20637 to 22137 and is all-in
+Lezard.90830 folds
+P1xel7 calls 20637
+*** FLOP *** [2c 3s 7s]
+*** TURN *** [2c 3s 7s][8h]
+*** RIVER *** [2c 3s 7s 8h][2s]
+*** SHOW DOWN ***
+Diduxxx shows [Jh Jc] (Two pairs : Jacks and 2)
+P1xel7 shows [Qs Qh] (Two pairs : Queens and 2)
+Kewin76200 shows [Ks Kd] (Two pairs : Kings and 2)
+Kewin76200 collected 240 from main pot
+P1xel7 collected 44854 from side pot 1
+*** SUMMARY ***
+Total pot 45094 | No rake
+Board: [2c 3s 7s 8h 2s]
+Seat 3: P1xel7 showed [Qs Qh] and won 44854 with Two pairs : Queens and 2
+Seat 6: Diduxxx (button) showed [Jh Jc] and lost with Two pairs : Jacks and 2
+Seat 8: Kewin76200 (big blind) showed [Ks Kd] and won 240 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 15 - HandId: #2977057869712588853-164-1703192695 - Holdem no limit (80/400/800) - 2023/12/21 21:04:55 UTC
+Table: 'Tremplin Caen(693150300)#0052' 8-max (real money) Seat #7 is the button
+Seat 1: FBU220 (14001)
+Seat 2: Bova06 (2551)
+Seat 3: P1xel7 (55468)
+Seat 4: Force3939607 (10149)
+Seat 5: romainyz6251 (41222)
+Seat 7: Lezard.90830 (45628)
+Seat 8: Kewin76200 (240)
+*** ANTE/BLINDS ***
+Kewin76200 posts ante 80
+FBU220 posts ante 80
+Bova06 posts ante 80
+P1xel7 posts ante 80
+Force3939607 posts ante 80
+romainyz6251 posts ante 80
+Lezard.90830 posts ante 80
+Kewin76200 posts small blind 160 and is all-in
+FBU220 posts big blind 800
+Dealt to P1xel7 [Th 6s]
+*** PRE-FLOP *** 
+Bova06 folds
+P1xel7 folds
+Force3939607 folds
+romainyz6251 calls 800
+Lezard.90830 calls 800
+FBU220 checks
+*** FLOP *** [9d 8c 5s]
+FBU220 checks
+romainyz6251 checks
+Lezard.90830 checks
+*** TURN *** [9d 8c 5s][3s]
+FBU220 bets 1092
+romainyz6251 calls 1092
+Lezard.90830 calls 1092
+*** RIVER *** [9d 8c 5s 3s][6h]
+FBU220 bets 2239
+romainyz6251 raises 6284 to 8523
+Lezard.90830 folds
+FBU220 folds
+*** SHOW DOWN ***
+Kewin76200 shows [Ts 3d] (One pair : 3)
+romainyz6251 shows [7h Jh] (Straight 9 high)
+romainyz6251 collected 17158 from pot
+*** SUMMARY ***
+Total pot 17158 | No rake
+Board: [9d 8c 5s 3s 6h]
+Seat 5: romainyz6251 showed [7h Jh] and won 17158 with Straight 9 high
+Seat 8: Kewin76200 (small blind) showed [Ts 3d] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 15 - HandId: #2977057869712588841-192-1703192816 - Holdem no limit (80/400/800) - 2023/12/21 21:06:56 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #3 is the button
+Seat 1: FMSD (4822)
+Seat 2: Michael-R76 (59857)
+Seat 3: Monster Jim (45844)
+Seat 4: BZH_Paco_22 (54282)
+Seat 5: P1xel7 (55388)
+Seat 6: 626 V6 24V (33173)
+Seat 7: 2662 (48035)
+Seat 8: F-l-a-v (19923)
+*** ANTE/BLINDS ***
+BZH_Paco_22 posts ante 80
+P1xel7 posts ante 80
+FMSD posts ante 80
+Michael-R76 posts ante 80
+Monster Jim posts ante 80
+626 V6 24V posts ante 80
+2662 posts ante 80
+F-l-a-v posts ante 80
+BZH_Paco_22 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [4d 2d]
+*** PRE-FLOP *** 
+626 V6 24V calls 800
+2662 folds
+F-l-a-v raises 800 to 1600
+FMSD folds
+Michael-R76 folds
+Monster Jim folds
+BZH_Paco_22 folds
+P1xel7 folds
+626 V6 24V calls 800
+*** FLOP *** [Jd Kc 4h]
+626 V6 24V checks
+F-l-a-v checks
+*** TURN *** [Jd Kc 4h][3s]
+626 V6 24V bets 800
+F-l-a-v calls 800
+*** RIVER *** [Jd Kc 4h 3s][Qc]
+626 V6 24V bets 800
+F-l-a-v raises 2364 to 3164
+626 V6 24V folds
+F-l-a-v collected 10604 from pot
+*** SUMMARY ***
+Total pot 10604 | No rake
+Board: [Jd Kc 4h 3s Qc]
+Seat 8: F-l-a-v won 10604
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 15 - HandId: #2977057869712588841-193-1703192896 - Holdem no limit (80/400/800) - 2023/12/21 21:08:16 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #4 is the button
+Seat 1: FMSD (4742)
+Seat 2: Michael-R76 (59777)
+Seat 3: Monster Jim (45764)
+Seat 4: BZH_Paco_22 (53802)
+Seat 5: P1xel7 (54508)
+Seat 6: 626 V6 24V (29893)
+Seat 7: 2662 (47955)
+Seat 8: F-l-a-v (24883)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+626 V6 24V posts ante 80
+FMSD posts ante 80
+Michael-R76 posts ante 80
+Monster Jim posts ante 80
+BZH_Paco_22 posts ante 80
+2662 posts ante 80
+F-l-a-v posts ante 80
+P1xel7 posts small blind 400
+626 V6 24V posts big blind 800
+Dealt to P1xel7 [2d Js]
+*** PRE-FLOP *** 
+2662 folds
+F-l-a-v raises 800 to 1600
+FMSD folds
+Michael-R76 folds
+Monster Jim folds
+BZH_Paco_22 calls 1600
+P1xel7 folds
+626 V6 24V calls 800
+*** FLOP *** [4s 7h Qs]
+626 V6 24V checks
+F-l-a-v bets 2400
+BZH_Paco_22 calls 2400
+626 V6 24V folds
+*** TURN *** [4s 7h Qs][5s]
+F-l-a-v bets 2400
+BZH_Paco_22 raises 2400 to 4800
+F-l-a-v folds
+BZH_Paco_22 collected 17840 from pot
+*** SUMMARY ***
+Total pot 17840 | No rake
+Board: [4s 7h Qs 5s]
+Seat 4: BZH_Paco_22 (button) won 17840
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 15 - HandId: #2977057869712588841-194-1703192977 - Holdem no limit (80/400/800) - 2023/12/21 21:09:37 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #5 is the button
+Seat 1: FMSD (4662)
+Seat 2: Michael-R76 (59697)
+Seat 3: Monster Jim (45684)
+Seat 4: BZH_Paco_22 (62762)
+Seat 5: P1xel7 (54028)
+Seat 6: 626 V6 24V (28213)
+Seat 7: 2662 (47875)
+Seat 8: F-l-a-v (18403)
+*** ANTE/BLINDS ***
+626 V6 24V posts ante 80
+2662 posts ante 80
+FMSD posts ante 80
+Michael-R76 posts ante 80
+Monster Jim posts ante 80
+BZH_Paco_22 posts ante 80
+P1xel7 posts ante 80
+F-l-a-v posts ante 80
+626 V6 24V posts small blind 400
+2662 posts big blind 800
+Dealt to P1xel7 [Jd 4s]
+*** PRE-FLOP *** 
+F-l-a-v folds
+FMSD raises 3782 to 4582 and is all-in
+Michael-R76 raises 55035 to 59617 and is all-in
+Monster Jim folds
+BZH_Paco_22 folds
+P1xel7 folds
+626 V6 24V folds
+2662 folds
+*** FLOP *** [2d 6h Td]
+*** TURN *** [2d 6h Td][Ac]
+*** RIVER *** [2d 6h Td Ac][3h]
+*** SHOW DOWN ***
+FMSD shows [5s 5c] (One pair : 5)
+Michael-R76 shows [As 3s] (Two pairs : Aces and 3)
+Michael-R76 collected 66039 from pot
+*** SUMMARY ***
+Total pot 66039 | No rake
+Board: [2d 6h Td Ac 3h]
+Seat 1: FMSD showed [5s 5c] and lost with One pair : 5
+Seat 2: Michael-R76 showed [As 3s] and won 66039 with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 15 - HandId: #2977057869712588841-195-1703193007 - Holdem no limit (80/400/800) - 2023/12/21 21:10:07 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #6 is the button
+Seat 2: Michael-R76 (66039)
+Seat 3: Monster Jim (45604)
+Seat 4: BZH_Paco_22 (62682)
+Seat 5: P1xel7 (53948)
+Seat 6: 626 V6 24V (27733)
+Seat 7: 2662 (46995)
+Seat 8: F-l-a-v (18323)
+*** ANTE/BLINDS ***
+2662 posts ante 80
+F-l-a-v posts ante 80
+Michael-R76 posts ante 80
+Monster Jim posts ante 80
+BZH_Paco_22 posts ante 80
+P1xel7 posts ante 80
+626 V6 24V posts ante 80
+2662 posts small blind 400
+F-l-a-v posts big blind 800
+Dealt to P1xel7 [Kd 3d]
+*** PRE-FLOP *** 
+Michael-R76 folds
+Monster Jim raises 800 to 1600
+BZH_Paco_22 folds
+P1xel7 folds
+626 V6 24V calls 1600
+2662 folds
+F-l-a-v folds
+*** FLOP *** [Kc Jc Qh]
+Monster Jim checks
+626 V6 24V checks
+*** TURN *** [Kc Jc Qh][As]
+Monster Jim bets 1736
+626 V6 24V folds
+Monster Jim collected 6696 from pot
+*** SUMMARY ***
+Total pot 6696 | No rake
+Board: [Kc Jc Qh As]
+Seat 3: Monster Jim won 6696
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 15 - HandId: #2977057869712588841-196-1703193053 - Holdem no limit (80/400/800) - 2023/12/21 21:10:53 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #7 is the button
+Seat 2: Michael-R76 (65959)
+Seat 3: Monster Jim (48884)
+Seat 4: BZH_Paco_22 (62602)
+Seat 5: P1xel7 (53868)
+Seat 6: 626 V6 24V (26053)
+Seat 7: 2662 (46515)
+Seat 8: F-l-a-v (17443)
+*** ANTE/BLINDS ***
+F-l-a-v posts ante 80
+Michael-R76 posts ante 80
+Monster Jim posts ante 80
+BZH_Paco_22 posts ante 80
+P1xel7 posts ante 80
+626 V6 24V posts ante 80
+2662 posts ante 80
+F-l-a-v posts small blind 400
+Michael-R76 posts big blind 800
+Dealt to P1xel7 [Qc 8d]
+*** PRE-FLOP *** 
+Monster Jim folds
+BZH_Paco_22 folds
+P1xel7 folds
+626 V6 24V folds
+2662 folds
+F-l-a-v calls 400
+Michael-R76 checks
+*** FLOP *** [9c 9d 8s]
+F-l-a-v bets 1600
+Michael-R76 raises 1600 to 3200
+F-l-a-v folds
+Michael-R76 collected 6960 from pot
+*** SUMMARY ***
+Total pot 6960 | No rake
+Board: [9c 9d 8s]
+Seat 2: Michael-R76 (big blind) won 6960
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 15 - HandId: #2977057869712588841-197-1703193078 - Holdem no limit (80/400/800) - 2023/12/21 21:11:18 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #8 is the button
+Seat 2: Michael-R76 (68839)
+Seat 3: Monster Jim (48804)
+Seat 4: BZH_Paco_22 (62522)
+Seat 5: P1xel7 (53788)
+Seat 6: 626 V6 24V (25973)
+Seat 7: 2662 (46435)
+Seat 8: F-l-a-v (14963)
+*** ANTE/BLINDS ***
+Michael-R76 posts ante 80
+Monster Jim posts ante 80
+BZH_Paco_22 posts ante 80
+P1xel7 posts ante 80
+626 V6 24V posts ante 80
+2662 posts ante 80
+F-l-a-v posts ante 80
+Michael-R76 posts small blind 400
+Monster Jim posts big blind 800
+Dealt to P1xel7 [Jh Ad]
+*** PRE-FLOP *** 
+BZH_Paco_22 calls 800
+P1xel7 raises 2400 to 3200
+626 V6 24V calls 3200
+2662 folds
+F-l-a-v folds
+Michael-R76 folds
+Monster Jim folds
+BZH_Paco_22 calls 2400
+*** FLOP *** [4s 2c 2h]
+BZH_Paco_22 checks
+P1xel7 bets 3976
+626 V6 24V folds
+BZH_Paco_22 folds
+P1xel7 collected 15336 from pot
+*** SUMMARY ***
+Total pot 15336 | No rake
+Board: [4s 2c 2h]
+Seat 5: P1xel7 won 15336
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 16 - HandId: #2977057869712588841-198-1703193164 - Holdem no limit (100/500/1000) - 2023/12/21 21:12:44 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #2 is the button
+Seat 1: FBU220 (10750)
+Seat 2: Michael-R76 (68359)
+Seat 3: Monster Jim (47924)
+Seat 4: BZH_Paco_22 (59242)
+Seat 5: P1xel7 (61868)
+Seat 6: 626 V6 24V (22693)
+Seat 7: 2662 (46355)
+Seat 8: F-l-a-v (14883)
+*** ANTE/BLINDS ***
+Monster Jim posts ante 100
+BZH_Paco_22 posts ante 100
+FBU220 posts ante 100
+Michael-R76 posts ante 100
+P1xel7 posts ante 100
+626 V6 24V posts ante 100
+2662 posts ante 100
+F-l-a-v posts ante 100
+Monster Jim posts small blind 500
+BZH_Paco_22 posts big blind 1000
+Dealt to P1xel7 [3d Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+626 V6 24V calls 1000
+2662 folds
+F-l-a-v folds
+FBU220 folds
+Michael-R76 folds
+Monster Jim calls 500
+BZH_Paco_22 checks
+*** FLOP *** [Qs Ad Ah]
+Monster Jim checks
+BZH_Paco_22 checks
+626 V6 24V checks
+*** TURN *** [Qs Ad Ah][4d]
+Monster Jim checks
+BZH_Paco_22 checks
+626 V6 24V bets 2470
+Monster Jim calls 2470
+BZH_Paco_22 folds
+*** RIVER *** [Qs Ad Ah 4d][9s]
+Monster Jim checks
+626 V6 24V bets 8740
+Monster Jim folds
+626 V6 24V collected 17480 from pot
+*** SUMMARY ***
+Total pot 17480 | No rake
+Board: [Qs Ad Ah 4d 9s]
+Seat 6: 626 V6 24V won 17480
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 16 - HandId: #2977057869712588841-199-1703193246 - Holdem no limit (100/500/1000) - 2023/12/21 21:14:06 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #3 is the button
+Seat 1: FBU220 (10650)
+Seat 2: Michael-R76 (68259)
+Seat 3: Monster Jim (44354)
+Seat 4: BZH_Paco_22 (58142)
+Seat 5: P1xel7 (61768)
+Seat 6: 626 V6 24V (27863)
+Seat 7: 2662 (46255)
+Seat 8: F-l-a-v (14783)
+*** ANTE/BLINDS ***
+BZH_Paco_22 posts ante 100
+P1xel7 posts ante 100
+FBU220 posts ante 100
+Michael-R76 posts ante 100
+Monster Jim posts ante 100
+626 V6 24V posts ante 100
+2662 posts ante 100
+F-l-a-v posts ante 100
+BZH_Paco_22 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Js Ac]
+*** PRE-FLOP *** 
+626 V6 24V calls 1000
+2662 folds
+F-l-a-v folds
+FBU220 folds
+Michael-R76 calls 1000
+Monster Jim raises 1500 to 2500
+BZH_Paco_22 folds
+P1xel7 calls 1500
+626 V6 24V calls 1500
+Michael-R76 folds
+*** FLOP *** [3s 2s 9s]
+P1xel7 checks
+626 V6 24V bets 1000
+Monster Jim raises 3480 to 4480
+P1xel7 folds
+626 V6 24V folds
+Monster Jim collected 15280 from pot
+*** SUMMARY ***
+Total pot 15280 | No rake
+Board: [3s 2s 9s]
+Seat 3: Monster Jim (button) won 15280
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 16 - HandId: #2977057869712588841-200-1703193306 - Holdem no limit (100/500/1000) - 2023/12/21 21:15:06 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #4 is the button
+Seat 1: FBU220 (10550)
+Seat 2: Michael-R76 (67159)
+Seat 3: Monster Jim (52554)
+Seat 4: BZH_Paco_22 (57542)
+Seat 5: P1xel7 (59168)
+Seat 6: 626 V6 24V (24263)
+Seat 7: 2662 (46155)
+Seat 8: F-l-a-v (14683)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+626 V6 24V posts ante 100
+FBU220 posts ante 100
+Michael-R76 posts ante 100
+Monster Jim posts ante 100
+BZH_Paco_22 posts ante 100
+2662 posts ante 100
+F-l-a-v posts ante 100
+P1xel7 posts small blind 500
+626 V6 24V posts big blind 1000
+Dealt to P1xel7 [6c 3c]
+*** PRE-FLOP *** 
+2662 folds
+F-l-a-v folds
+FBU220 folds
+Michael-R76 folds
+Monster Jim folds
+BZH_Paco_22 folds
+P1xel7 folds
+626 V6 24V collected 2300 from pot
+*** SUMMARY ***
+Total pot 2300 | No rake
+Seat 6: 626 V6 24V (big blind) won 2300
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 16 - HandId: #2977057869712588841-201-1703193341 - Holdem no limit (100/500/1000) - 2023/12/21 21:15:41 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #5 is the button
+Seat 1: FBU220 (10450)
+Seat 2: Michael-R76 (67059)
+Seat 3: Monster Jim (52454)
+Seat 4: BZH_Paco_22 (57442)
+Seat 5: P1xel7 (58568)
+Seat 6: 626 V6 24V (25463)
+Seat 7: 2662 (46055)
+Seat 8: F-l-a-v (14583)
+*** ANTE/BLINDS ***
+626 V6 24V posts ante 100
+2662 posts ante 100
+FBU220 posts ante 100
+Michael-R76 posts ante 100
+Monster Jim posts ante 100
+BZH_Paco_22 posts ante 100
+P1xel7 posts ante 100
+F-l-a-v posts ante 100
+626 V6 24V posts small blind 500
+2662 posts big blind 1000
+Dealt to P1xel7 [2d Kh]
+*** PRE-FLOP *** 
+F-l-a-v folds
+FBU220 folds
+Michael-R76 folds
+Monster Jim folds
+BZH_Paco_22 folds
+P1xel7 folds
+626 V6 24V calls 500
+2662 folds
+626 V6 24V collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | No rake
+Seat 6: 626 V6 24V (small blind) won 2800
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 16 - HandId: #2977057869712588841-202-1703193367 - Holdem no limit (100/500/1000) - 2023/12/21 21:16:07 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #6 is the button
+Seat 1: FBU220 (10350)
+Seat 2: Michael-R76 (66959)
+Seat 3: Monster Jim (52354)
+Seat 4: BZH_Paco_22 (57342)
+Seat 5: P1xel7 (58468)
+Seat 6: 626 V6 24V (27163)
+Seat 7: 2662 (44955)
+Seat 8: F-l-a-v (14483)
+*** ANTE/BLINDS ***
+2662 posts ante 100
+F-l-a-v posts ante 100
+FBU220 posts ante 100
+Michael-R76 posts ante 100
+Monster Jim posts ante 100
+BZH_Paco_22 posts ante 100
+P1xel7 posts ante 100
+626 V6 24V posts ante 100
+2662 posts small blind 500
+F-l-a-v posts big blind 1000
+Dealt to P1xel7 [3s Qh]
+*** PRE-FLOP *** 
+FBU220 folds
+Michael-R76 folds
+Monster Jim folds
+BZH_Paco_22 folds
+P1xel7 folds
+626 V6 24V calls 1000
+2662 folds
+F-l-a-v checks
+*** FLOP *** [9d 9h 4s]
+F-l-a-v bets 1000
+626 V6 24V calls 1000
+*** TURN *** [9d 9h 4s][Kd]
+F-l-a-v checks
+626 V6 24V checks
+*** RIVER *** [9d 9h 4s Kd][6d]
+F-l-a-v bets 3445
+626 V6 24V folds
+F-l-a-v collected 8745 from pot
+*** SUMMARY ***
+Total pot 8745 | No rake
+Board: [9d 9h 4s Kd 6d]
+Seat 8: F-l-a-v (big blind) won 8745
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 16 - HandId: #2977057869712588841-203-1703193419 - Holdem no limit (100/500/1000) - 2023/12/21 21:16:59 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #7 is the button
+Seat 1: FBU220 (10250)
+Seat 2: Michael-R76 (66859)
+Seat 3: Monster Jim (52254)
+Seat 4: BZH_Paco_22 (57242)
+Seat 5: P1xel7 (58368)
+Seat 6: 626 V6 24V (25063)
+Seat 7: 2662 (44355)
+Seat 8: F-l-a-v (17683)
+*** ANTE/BLINDS ***
+F-l-a-v posts ante 100
+FBU220 posts ante 100
+Michael-R76 posts ante 100
+Monster Jim posts ante 100
+BZH_Paco_22 posts ante 100
+P1xel7 posts ante 100
+626 V6 24V posts ante 100
+2662 posts ante 100
+F-l-a-v posts small blind 500
+FBU220 posts big blind 1000
+Dealt to P1xel7 [Jc 4h]
+*** PRE-FLOP *** 
+Michael-R76 folds
+Monster Jim folds
+BZH_Paco_22 raises 1000 to 2000
+P1xel7 folds
+626 V6 24V calls 2000
+2662 folds
+F-l-a-v folds
+FBU220 raises 8150 to 10150 and is all-in
+BZH_Paco_22 folds
+626 V6 24V calls 8150
+*** FLOP *** [Ks 2d 7h]
+*** TURN *** [Ks 2d 7h][Ac]
+*** RIVER *** [Ks 2d 7h Ac][Ah]
+*** SHOW DOWN ***
+626 V6 24V shows [Qd Kh] (Two pairs : Aces and Kings)
+FBU220 shows [Ad 6d] (Trips of Aces)
+FBU220 collected 23600 from pot
+*** SUMMARY ***
+Total pot 23600 | No rake
+Board: [Ks 2d 7h Ac Ah]
+Seat 1: FBU220 (big blind) showed [Ad 6d] and won 23600 with Trips of Aces
+Seat 6: 626 V6 24V showed [Qd Kh] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 16 - HandId: #2977057869712588841-204-1703193495 - Holdem no limit (100/500/1000) - 2023/12/21 21:18:15 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #8 is the button
+Seat 1: FBU220 (23600)
+Seat 2: Michael-R76 (66759)
+Seat 3: Monster Jim (52154)
+Seat 4: BZH_Paco_22 (55142)
+Seat 5: P1xel7 (58268)
+Seat 6: 626 V6 24V (14813)
+Seat 7: 2662 (44255)
+Seat 8: F-l-a-v (17083)
+*** ANTE/BLINDS ***
+FBU220 posts ante 100
+Michael-R76 posts ante 100
+Monster Jim posts ante 100
+BZH_Paco_22 posts ante 100
+P1xel7 posts ante 100
+626 V6 24V posts ante 100
+2662 posts ante 100
+F-l-a-v posts ante 100
+FBU220 posts small blind 500
+Michael-R76 posts big blind 1000
+Dealt to P1xel7 [Ts 7d]
+*** PRE-FLOP *** 
+Monster Jim folds
+BZH_Paco_22 folds
+P1xel7 folds
+626 V6 24V calls 1000
+2662 folds
+F-l-a-v folds
+FBU220 calls 500
+Michael-R76 raises 65659 to 66659 and is all-in
+626 V6 24V folds
+FBU220 calls 22500 and is all-in
+*** FLOP *** [9s Jc 4h]
+*** TURN *** [9s Jc 4h][Td]
+*** RIVER *** [9s Jc 4h Td][8d]
+*** SHOW DOWN ***
+FBU220 shows [As Js] (One pair : Jacks)
+Michael-R76 shows [6s 6d] (One pair : 6)
+Michael-R76 collected 43159 from side pot 1
+FBU220 collected 48800 from main pot
+*** SUMMARY ***
+Total pot 91959 | No rake
+Board: [9s Jc 4h Td 8d]
+Seat 1: FBU220 (small blind) showed [As Js] and won 48800 with One pair : Jacks
+Seat 2: Michael-R76 (big blind) showed [6s 6d] and won 43159 with One pair : 6
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 17 - HandId: #2977057869712588841-205-1703193647 - Holdem no limit (135/600/1200) - 2023/12/21 21:20:47 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #1 is the button
+Seat 1: FBU220 (48800)
+Seat 2: Michael-R76 (43159)
+Seat 3: Monster Jim (52054)
+Seat 4: BZH_Paco_22 (55042)
+Seat 5: P1xel7 (58168)
+Seat 6: 626 V6 24V (13713)
+Seat 7: 2662 (44155)
+Seat 8: F-l-a-v (16983)
+*** ANTE/BLINDS ***
+Michael-R76 posts ante 135
+Monster Jim posts ante 135
+FBU220 posts ante 135
+BZH_Paco_22 posts ante 135
+P1xel7 posts ante 135
+626 V6 24V posts ante 135
+2662 posts ante 135
+F-l-a-v posts ante 135
+Michael-R76 posts small blind 600
+Monster Jim posts big blind 1200
+Dealt to P1xel7 [Tc Ah]
+*** PRE-FLOP *** 
+BZH_Paco_22 raises 1800 to 3000
+P1xel7 folds
+626 V6 24V calls 3000
+2662 folds
+F-l-a-v folds
+FBU220 folds
+Michael-R76 folds
+Monster Jim folds
+*** FLOP *** [5h 9h 2h]
+BZH_Paco_22 bets 8880
+626 V6 24V folds
+BZH_Paco_22 collected 17760 from pot
+*** SUMMARY ***
+Total pot 17760 | No rake
+Board: [5h 9h 2h]
+Seat 4: BZH_Paco_22 won 17760
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 17 - HandId: #2977057869712588841-206-1703193702 - Holdem no limit (135/600/1200) - 2023/12/21 21:21:42 UTC
+Table: 'Tremplin Caen(693150300)#0040' 8-max (real money) Seat #2 is the button
+Seat 1: FBU220 (48665)
+Seat 2: Michael-R76 (42424)
+Seat 3: Monster Jim (50719)
+Seat 4: BZH_Paco_22 (60787)
+Seat 5: P1xel7 (58033)
+Seat 6: 626 V6 24V (10578)
+Seat 7: 2662 (44020)
+Seat 8: F-l-a-v (16848)
+*** ANTE/BLINDS ***
+Monster Jim posts ante 135
+BZH_Paco_22 posts ante 135
+FBU220 posts ante 135
+Michael-R76 posts ante 135
+P1xel7 posts ante 135
+626 V6 24V posts ante 135
+2662 posts ante 135
+F-l-a-v posts ante 135
+Monster Jim posts small blind 600
+BZH_Paco_22 posts big blind 1200
+Dealt to P1xel7 [7h As]
+*** PRE-FLOP *** 
+P1xel7 folds
+626 V6 24V calls 1200
+2662 folds
+F-l-a-v calls 1200
+FBU220 folds
+Michael-R76 folds
+Monster Jim folds
+BZH_Paco_22 checks
+*** FLOP *** [3c 6s Qh]
+BZH_Paco_22 checks
+626 V6 24V checks
+F-l-a-v checks
+*** TURN *** [3c 6s Qh][9c]
+BZH_Paco_22 bets 3432
+626 V6 24V calls 3432
+F-l-a-v folds
+*** RIVER *** [3c 6s Qh 9c][8h]
+BZH_Paco_22 bets 12144
+626 V6 24V calls 5811 and is all-in
+*** SHOW DOWN ***
+626 V6 24V shows [Ac 9d] (One pair : 9)
+BZH_Paco_22 shows [5c 7c] (Straight 9 high)
+BZH_Paco_22 collected 30099 from pot
+*** SUMMARY ***
+Total pot 30099 | No rake
+Board: [3c 6s Qh 9c 8h]
+Seat 4: BZH_Paco_22 (big blind) showed [5c 7c] and won 30099 with Straight 9 high
+Seat 6: 626 V6 24V showed [Ac 9d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 17 - HandId: #2977057869712588810-170-1703193858 - Holdem no limit (135/600/1200) - 2023/12/21 21:24:18 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Samapiker (96491)
+Seat 2: marin2a (18439)
+Seat 3: menfish (27584)
+Seat 4: rico838313 (10691)
+Seat 5: sambaseb (33511)
+Seat 6: bagerra (56571)
+Seat 7: PatriKTruel_ (24366)
+Seat 8: P1xel7 (57898)
+*** ANTE/BLINDS ***
+marin2a posts ante 135
+menfish posts ante 135
+Samapiker posts ante 135
+rico838313 posts ante 135
+sambaseb posts ante 135
+bagerra posts ante 135
+PatriKTruel_ posts ante 135
+P1xel7 posts ante 135
+marin2a posts small blind 600
+menfish posts big blind 1200
+Dealt to P1xel7 [Ah 8c]
+*** PRE-FLOP *** 
+rico838313 folds
+sambaseb folds
+bagerra raises 1200 to 2400
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+marin2a calls 1800
+menfish calls 1200
+*** FLOP *** [4d 5s Jh]
+marin2a checks
+menfish checks
+bagerra bets 2898
+marin2a folds
+menfish raises 22151 to 25049 and is all-in
+bagerra folds
+menfish collected 36227 from pot
+*** SUMMARY ***
+Total pot 36227 | No rake
+Board: [4d 5s Jh]
+Seat 3: menfish (big blind) won 36227
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 17 - HandId: #2977057869712588810-171-1703193927 - Holdem no limit (135/600/1200) - 2023/12/21 21:25:27 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Samapiker (96356)
+Seat 2: marin2a (15904)
+Seat 3: menfish (36227)
+Seat 4: rico838313 (10556)
+Seat 5: sambaseb (33376)
+Seat 6: bagerra (51138)
+Seat 7: PatriKTruel_ (24231)
+Seat 8: P1xel7 (57763)
+*** ANTE/BLINDS ***
+menfish posts ante 135
+rico838313 posts ante 135
+Samapiker posts ante 135
+marin2a posts ante 135
+sambaseb posts ante 135
+bagerra posts ante 135
+PatriKTruel_ posts ante 135
+P1xel7 posts ante 135
+menfish posts small blind 600
+rico838313 posts big blind 1200
+Dealt to P1xel7 [3c 6s]
+*** PRE-FLOP *** 
+sambaseb calls 1200
+bagerra raises 1200 to 2400
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+marin2a folds
+menfish folds
+rico838313 folds
+sambaseb calls 1200
+*** FLOP *** [7c Jc Js]
+sambaseb checks
+bagerra bets 2688
+sambaseb calls 2688
+*** TURN *** [7c Jc Js][4h]
+sambaseb checks
+bagerra bets 3000
+sambaseb folds
+bagerra collected 16056 from pot
+*** SUMMARY ***
+Total pot 16056 | No rake
+Board: [7c Jc Js 4h]
+Seat 6: bagerra won 16056
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 17 - HandId: #2977057869712588810-172-1703194078 - Holdem no limit (135/600/1200) - 2023/12/21 21:27:58 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Samapiker (96221)
+Seat 2: marin2a (15769)
+Seat 3: menfish (35492)
+Seat 4: rico838313 (9221)
+Seat 5: sambaseb (28153)
+Seat 6: bagerra (58971)
+Seat 7: PatriKTruel_ (24096)
+Seat 8: P1xel7 (57628)
+*** ANTE/BLINDS ***
+rico838313 posts ante 135
+sambaseb posts ante 135
+Samapiker posts ante 135
+marin2a posts ante 135
+menfish posts ante 135
+bagerra posts ante 135
+PatriKTruel_ posts ante 135
+P1xel7 posts ante 135
+rico838313 posts small blind 600
+sambaseb posts big blind 1200
+Dealt to P1xel7 [Ah Th]
+*** PRE-FLOP *** 
+bagerra folds
+PatriKTruel_ folds
+P1xel7 raises 1800 to 3000
+Samapiker folds
+marin2a folds
+menfish folds
+rico838313 folds
+sambaseb folds
+P1xel7 collected 5880 from pot
+*** SUMMARY ***
+Total pot 5880 | No rake
+Seat 8: P1xel7 won 5880
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 18 - HandId: #2977057869712588810-173-1703194120 - Holdem no limit (160/800/1600) - 2023/12/21 21:28:40 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Samapiker (96086)
+Seat 2: marin2a (15634)
+Seat 3: menfish (35357)
+Seat 4: rico838313 (8486)
+Seat 5: sambaseb (26818)
+Seat 6: bagerra (58836)
+Seat 7: PatriKTruel_ (23961)
+Seat 8: P1xel7 (60373)
+*** ANTE/BLINDS ***
+sambaseb posts ante 160
+bagerra posts ante 160
+Samapiker posts ante 160
+marin2a posts ante 160
+menfish posts ante 160
+rico838313 posts ante 160
+PatriKTruel_ posts ante 160
+P1xel7 posts ante 160
+sambaseb posts small blind 800
+bagerra posts big blind 1600
+Dealt to P1xel7 [Qh Qs]
+*** PRE-FLOP *** 
+PatriKTruel_ folds
+P1xel7 raises 2400 to 4000
+Samapiker folds
+marin2a folds
+menfish folds
+rico838313 folds
+sambaseb folds
+bagerra folds
+P1xel7 collected 7680 from pot
+*** SUMMARY ***
+Total pot 7680 | No rake
+Seat 8: P1xel7 won 7680
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 18 - HandId: #2977057869712588810-174-1703194165 - Holdem no limit (160/800/1600) - 2023/12/21 21:29:25 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Samapiker (95926)
+Seat 2: marin2a (15474)
+Seat 3: menfish (35197)
+Seat 4: rico838313 (8326)
+Seat 5: sambaseb (25858)
+Seat 6: bagerra (57076)
+Seat 7: PatriKTruel_ (23801)
+Seat 8: P1xel7 (63893)
+*** ANTE/BLINDS ***
+bagerra posts ante 160
+PatriKTruel_ posts ante 160
+Samapiker posts ante 160
+marin2a posts ante 160
+menfish posts ante 160
+rico838313 posts ante 160
+sambaseb posts ante 160
+P1xel7 posts ante 160
+bagerra posts small blind 800
+PatriKTruel_ posts big blind 1600
+Dealt to P1xel7 [8d 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Samapiker folds
+marin2a folds
+menfish folds
+rico838313 folds
+sambaseb folds
+bagerra calls 800
+PatriKTruel_ raises 22041 to 23641 and is all-in
+bagerra folds
+PatriKTruel_ collected 26521 from pot
+*** SUMMARY ***
+Total pot 26521 | No rake
+Seat 7: PatriKTruel_ (big blind) won 26521
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 18 - HandId: #2977057869712588810-175-1703194216 - Holdem no limit (160/800/1600) - 2023/12/21 21:30:16 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Samapiker (95766)
+Seat 2: marin2a (15314)
+Seat 3: menfish (35037)
+Seat 4: rico838313 (8166)
+Seat 5: sambaseb (25698)
+Seat 6: bagerra (55316)
+Seat 7: PatriKTruel_ (26521)
+Seat 8: P1xel7 (63733)
+*** ANTE/BLINDS ***
+PatriKTruel_ posts ante 160
+P1xel7 posts ante 160
+Samapiker posts ante 160
+marin2a posts ante 160
+menfish posts ante 160
+rico838313 posts ante 160
+sambaseb posts ante 160
+bagerra posts ante 160
+PatriKTruel_ posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [7d 6d]
+*** PRE-FLOP *** 
+Samapiker raises 1600 to 3200
+marin2a folds
+menfish folds
+rico838313 folds
+sambaseb calls 3200
+bagerra folds
+PatriKTruel_ folds
+P1xel7 calls 1600
+*** FLOP *** [8h 8c Jh]
+P1xel7 checks
+Samapiker bets 2920
+sambaseb raises 2920 to 5840
+P1xel7 folds
+Samapiker calls 2920
+*** TURN *** [8h 8c Jh][9s]
+Samapiker checks
+sambaseb bets 15184
+Samapiker folds
+sambaseb collected 38544 from pot
+*** SUMMARY ***
+Total pot 38544 | No rake
+Board: [8h 8c Jh 9s]
+Seat 5: sambaseb won 38544
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 18 - HandId: #2977057869712588810-176-1703194319 - Holdem no limit (160/800/1600) - 2023/12/21 21:31:59 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Samapiker (86566)
+Seat 2: marin2a (15154)
+Seat 3: menfish (34877)
+Seat 4: rico838313 (8006)
+Seat 5: sambaseb (39858)
+Seat 6: bagerra (55156)
+Seat 7: PatriKTruel_ (25561)
+Seat 8: P1xel7 (60373)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+Samapiker posts ante 160
+marin2a posts ante 160
+menfish posts ante 160
+rico838313 posts ante 160
+sambaseb posts ante 160
+bagerra posts ante 160
+PatriKTruel_ posts ante 160
+P1xel7 posts small blind 800
+Samapiker posts big blind 1600
+Dealt to P1xel7 [8c 3d]
+*** PRE-FLOP *** 
+marin2a calls 1600
+menfish folds
+rico838313 folds
+sambaseb folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker checks
+*** FLOP *** [9h 2h 4c]
+Samapiker checks
+marin2a bets 1600
+Samapiker raises 3200 to 4800
+marin2a calls 3200
+*** TURN *** [9h 2h 4c][Qc]
+Samapiker bets 11904
+marin2a calls 8594 and is all-in
+*** RIVER *** [9h 2h 4c Qc][Kd]
+*** SHOW DOWN ***
+marin2a shows [Ad Ac] (One pair : Aces)
+Samapiker shows [9c 4s] (Two pairs : 9 and 4)
+Samapiker collected 35378 from pot
+*** SUMMARY ***
+Total pot 35378 | No rake
+Board: [9h 2h 4c Qc Kd]
+Seat 1: Samapiker (big blind) showed [9c 4s] and won 35378 with Two pairs : 9 and 4
+Seat 2: marin2a showed [Ad Ac] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 18 - HandId: #2977057869712588810-177-1703194404 - Holdem no limit (160/800/1600) - 2023/12/21 21:33:24 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Samapiker (103480)
+Seat 3: menfish (34717)
+Seat 4: rico838313 (7846)
+Seat 5: sambaseb (39698)
+Seat 6: bagerra (54996)
+Seat 7: PatriKTruel_ (25401)
+Seat 8: P1xel7 (59413)
+*** ANTE/BLINDS ***
+Samapiker posts ante 160
+menfish posts ante 160
+rico838313 posts ante 160
+sambaseb posts ante 160
+bagerra posts ante 160
+PatriKTruel_ posts ante 160
+P1xel7 posts ante 160
+Samapiker posts small blind 800
+menfish posts big blind 1600
+Dealt to P1xel7 [3h 3s]
+*** PRE-FLOP *** 
+rico838313 folds
+sambaseb raises 1600 to 3200
+bagerra folds
+PatriKTruel_ folds
+P1xel7 calls 3200
+Samapiker folds
+menfish calls 1600
+*** FLOP *** [Js 7d 9d]
+menfish checks
+sambaseb bets 11520
+P1xel7 folds
+menfish folds
+sambaseb collected 23040 from pot
+*** SUMMARY ***
+Total pot 23040 | No rake
+Board: [Js 7d 9d]
+Seat 5: sambaseb won 23040
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 18 - HandId: #2977057869712588810-178-1703194461 - Holdem no limit (160/800/1600) - 2023/12/21 21:34:21 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Samapiker (102520)
+Seat 3: menfish (31357)
+Seat 4: rico838313 (7686)
+Seat 5: sambaseb (47858)
+Seat 6: bagerra (54836)
+Seat 7: PatriKTruel_ (25241)
+Seat 8: P1xel7 (56053)
+*** ANTE/BLINDS ***
+menfish posts ante 160
+rico838313 posts ante 160
+Samapiker posts ante 160
+sambaseb posts ante 160
+bagerra posts ante 160
+PatriKTruel_ posts ante 160
+P1xel7 posts ante 160
+menfish posts small blind 800
+rico838313 posts big blind 1600
+Dealt to P1xel7 [7c 7d]
+*** PRE-FLOP *** 
+sambaseb folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 raises 1920 to 3520
+Samapiker folds
+menfish folds
+rico838313 folds
+P1xel7 collected 7040 from pot
+*** SUMMARY ***
+Total pot 7040 | No rake
+Seat 8: P1xel7 won 7040
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 18 - HandId: #2977057869712588810-179-1703194547 - Holdem no limit (160/800/1600) - 2023/12/21 21:35:47 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Samapiker (102360)
+Seat 2: S1M4LB (25028)
+Seat 3: menfish (30397)
+Seat 4: rico838313 (5926)
+Seat 5: sambaseb (47698)
+Seat 6: bagerra (54676)
+Seat 7: PatriKTruel_ (25081)
+Seat 8: P1xel7 (59413)
+*** ANTE/BLINDS ***
+rico838313 posts ante 160
+sambaseb posts ante 160
+Samapiker posts ante 160
+S1M4LB posts ante 160
+menfish posts ante 160
+bagerra posts ante 160
+PatriKTruel_ posts ante 160
+P1xel7 posts ante 160
+rico838313 posts small blind 800
+sambaseb posts big blind 1600
+Dealt to P1xel7 [5c 6s]
+*** PRE-FLOP *** 
+bagerra raises 1600 to 3200
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB raises 21668 to 24868 and is all-in
+menfish folds
+rico838313 folds
+sambaseb folds
+bagerra folds
+S1M4LB collected 31748 from pot
+*** SUMMARY ***
+Total pot 31748 | No rake
+Seat 2: S1M4LB won 31748
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 19 - HandId: #2977057869712588810-180-1703194585 - Holdem no limit (200/1000/2000) - 2023/12/21 21:36:25 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Samapiker (102200)
+Seat 2: S1M4LB (31748)
+Seat 3: menfish (30237)
+Seat 4: rico838313 (4966)
+Seat 5: sambaseb (45938)
+Seat 6: bagerra (51316)
+Seat 7: PatriKTruel_ (24921)
+Seat 8: P1xel7 (59253)
+*** ANTE/BLINDS ***
+sambaseb posts ante 200
+bagerra posts ante 200
+Samapiker posts ante 200
+S1M4LB posts ante 200
+menfish posts ante 200
+rico838313 posts ante 200
+PatriKTruel_ posts ante 200
+P1xel7 posts ante 200
+sambaseb posts small blind 1000
+bagerra posts big blind 2000
+Dealt to P1xel7 [Jh 8d]
+*** PRE-FLOP *** 
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB raises 3000 to 5000
+menfish folds
+rico838313 folds
+sambaseb folds
+bagerra folds
+S1M4LB collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | No rake
+Seat 2: S1M4LB won 9600
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 19 - HandId: #2977057869712588810-181-1703194626 - Holdem no limit (200/1000/2000) - 2023/12/21 21:37:06 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Samapiker (102000)
+Seat 2: S1M4LB (36148)
+Seat 3: menfish (30037)
+Seat 4: rico838313 (4766)
+Seat 5: sambaseb (44738)
+Seat 6: bagerra (49116)
+Seat 7: PatriKTruel_ (24721)
+Seat 8: P1xel7 (59053)
+*** ANTE/BLINDS ***
+bagerra posts ante 200
+PatriKTruel_ posts ante 200
+Samapiker posts ante 200
+S1M4LB posts ante 200
+menfish posts ante 200
+rico838313 posts ante 200
+sambaseb posts ante 200
+P1xel7 posts ante 200
+bagerra posts small blind 1000
+PatriKTruel_ posts big blind 2000
+Dealt to P1xel7 [Th Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+menfish folds
+rico838313 folds
+sambaseb folds
+bagerra raises 2000 to 4000
+PatriKTruel_ folds
+bagerra collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Seat 6: bagerra (small blind) won 7600
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 19 - HandId: #2977057869712588810-182-1703194661 - Holdem no limit (200/1000/2000) - 2023/12/21 21:37:41 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Samapiker (101800)
+Seat 2: S1M4LB (35948)
+Seat 3: menfish (29837)
+Seat 4: rico838313 (4566)
+Seat 5: sambaseb (44538)
+Seat 6: bagerra (52516)
+Seat 7: PatriKTruel_ (22521)
+Seat 8: P1xel7 (58853)
+*** ANTE/BLINDS ***
+PatriKTruel_ posts ante 200
+P1xel7 posts ante 200
+Samapiker posts ante 200
+S1M4LB posts ante 200
+menfish posts ante 200
+rico838313 posts ante 200
+sambaseb posts ante 200
+bagerra posts ante 200
+PatriKTruel_ posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [4c Qd]
+*** PRE-FLOP *** 
+Samapiker folds
+S1M4LB folds
+menfish raises 2000 to 4000
+rico838313 folds
+sambaseb folds
+bagerra folds
+PatriKTruel_ raises 18321 to 22321 and is all-in
+P1xel7 folds
+menfish calls 18321
+*** FLOP *** [9d Jc 8h]
+*** TURN *** [9d Jc 8h][Th]
+*** RIVER *** [9d Jc 8h Th][2c]
+*** SHOW DOWN ***
+menfish shows [Ac Ad] (One pair : Aces)
+PatriKTruel_ shows [Qc Qh] (Straight Queen high)
+PatriKTruel_ collected 48242 from pot
+*** SUMMARY ***
+Total pot 48242 | No rake
+Board: [9d Jc 8h Th 2c]
+Seat 3: menfish showed [Ac Ad] and lost with One pair : Aces
+Seat 7: PatriKTruel_ (small blind) showed [Qc Qh] and won 48242 with Straight Queen high
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 19 - HandId: #2977057869712588810-183-1703194710 - Holdem no limit (200/1000/2000) - 2023/12/21 21:38:30 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Samapiker (101600)
+Seat 2: S1M4LB (35748)
+Seat 3: menfish (7316)
+Seat 4: rico838313 (4366)
+Seat 5: sambaseb (44338)
+Seat 6: bagerra (52316)
+Seat 7: PatriKTruel_ (48242)
+Seat 8: P1xel7 (56653)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Samapiker posts ante 200
+S1M4LB posts ante 200
+menfish posts ante 200
+rico838313 posts ante 200
+sambaseb posts ante 200
+bagerra posts ante 200
+PatriKTruel_ posts ante 200
+P1xel7 posts small blind 1000
+Samapiker posts big blind 2000
+Dealt to P1xel7 [2d 6s]
+*** PRE-FLOP *** 
+S1M4LB folds
+menfish folds
+rico838313 folds
+sambaseb folds
+bagerra raises 2000 to 4000
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+bagerra collected 8600 from pot
+*** SUMMARY ***
+Total pot 8600 | No rake
+Seat 6: bagerra won 8600
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 19 - HandId: #2977057869712588810-184-1703194764 - Holdem no limit (200/1000/2000) - 2023/12/21 21:39:24 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Samapiker (99400)
+Seat 2: S1M4LB (35548)
+Seat 3: menfish (7116)
+Seat 4: rico838313 (4166)
+Seat 5: sambaseb (44138)
+Seat 6: bagerra (56716)
+Seat 7: PatriKTruel_ (48042)
+Seat 8: P1xel7 (55453)
+*** ANTE/BLINDS ***
+Samapiker posts ante 200
+S1M4LB posts ante 200
+menfish posts ante 200
+rico838313 posts ante 200
+sambaseb posts ante 200
+bagerra posts ante 200
+PatriKTruel_ posts ante 200
+P1xel7 posts ante 200
+Samapiker posts small blind 1000
+S1M4LB posts big blind 2000
+Dealt to P1xel7 [3s Qd]
+*** PRE-FLOP *** 
+menfish folds
+rico838313 folds
+sambaseb folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker calls 1000
+S1M4LB checks
+*** FLOP *** [9h 4c 8c]
+Samapiker checks
+S1M4LB bets 2000
+Samapiker folds
+S1M4LB collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Board: [9h 4c 8c]
+Seat 2: S1M4LB (big blind) won 7600
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 19 - HandId: #2977057869712588810-185-1703194821 - Holdem no limit (200/1000/2000) - 2023/12/21 21:40:21 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Samapiker (97200)
+Seat 2: S1M4LB (38948)
+Seat 3: menfish (6916)
+Seat 4: rico838313 (3966)
+Seat 5: sambaseb (43938)
+Seat 6: bagerra (56516)
+Seat 7: PatriKTruel_ (47842)
+Seat 8: P1xel7 (55253)
+*** ANTE/BLINDS ***
+S1M4LB posts ante 200
+menfish posts ante 200
+Samapiker posts ante 200
+rico838313 posts ante 200
+sambaseb posts ante 200
+bagerra posts ante 200
+PatriKTruel_ posts ante 200
+P1xel7 posts ante 200
+S1M4LB posts small blind 1000
+menfish posts big blind 2000
+Dealt to P1xel7 [Qh 4d]
+*** PRE-FLOP *** 
+rico838313 folds
+sambaseb folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+menfish collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Seat 3: menfish (big blind) won 4600
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 19 - HandId: #2977057869712588810-186-1703194866 - Holdem no limit (200/1000/2000) - 2023/12/21 21:41:06 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Samapiker (97000)
+Seat 2: S1M4LB (37748)
+Seat 3: menfish (9316)
+Seat 4: rico838313 (3766)
+Seat 5: sambaseb (43738)
+Seat 6: bagerra (56316)
+Seat 7: PatriKTruel_ (47642)
+Seat 8: P1xel7 (55053)
+*** ANTE/BLINDS ***
+menfish posts ante 200
+rico838313 posts ante 200
+Samapiker posts ante 200
+S1M4LB posts ante 200
+sambaseb posts ante 200
+bagerra posts ante 200
+PatriKTruel_ posts ante 200
+P1xel7 posts ante 200
+menfish posts small blind 1000
+rico838313 posts big blind 2000
+Dealt to P1xel7 [7d Qc]
+*** PRE-FLOP *** 
+sambaseb folds
+bagerra raises 2000 to 4000
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+menfish raises 5116 to 9116 and is all-in
+rico838313 folds
+bagerra folds
+menfish collected 16716 from pot
+*** SUMMARY ***
+Total pot 16716 | No rake
+Seat 3: menfish (small blind) won 16716
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 19 - HandId: #2977057869712588810-187-1703194921 - Holdem no limit (200/1000/2000) - 2023/12/21 21:42:01 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Samapiker (96800)
+Seat 2: S1M4LB (37548)
+Seat 3: menfish (16716)
+Seat 4: rico838313 (1566)
+Seat 5: sambaseb (43538)
+Seat 6: bagerra (52116)
+Seat 7: PatriKTruel_ (47442)
+Seat 8: P1xel7 (54853)
+*** ANTE/BLINDS ***
+rico838313 posts ante 200
+sambaseb posts ante 200
+Samapiker posts ante 200
+S1M4LB posts ante 200
+menfish posts ante 200
+bagerra posts ante 200
+PatriKTruel_ posts ante 200
+P1xel7 posts ante 200
+rico838313 posts small blind 1000
+sambaseb posts big blind 2000
+Dealt to P1xel7 [2h Td]
+*** PRE-FLOP *** 
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB raises 3000 to 5000
+menfish folds
+rico838313 folds
+sambaseb folds
+S1M4LB collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | No rake
+Seat 2: S1M4LB won 9600
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 19 - HandId: #2977057869712588810-188-1703194956 - Holdem no limit (200/1000/2000) - 2023/12/21 21:42:36 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Samapiker (96600)
+Seat 2: S1M4LB (41948)
+Seat 3: menfish (16516)
+Seat 4: rico838313 (366)
+Seat 5: sambaseb (41338)
+Seat 6: bagerra (51916)
+Seat 7: PatriKTruel_ (47242)
+Seat 8: P1xel7 (54653)
+*** ANTE/BLINDS ***
+sambaseb posts ante 200
+bagerra posts ante 200
+Samapiker posts ante 200
+S1M4LB posts ante 200
+menfish posts ante 200
+rico838313 posts ante 200
+PatriKTruel_ posts ante 200
+P1xel7 posts ante 200
+sambaseb posts small blind 1000
+bagerra posts big blind 2000
+Dealt to P1xel7 [Td 5d]
+*** PRE-FLOP *** 
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+menfish folds
+rico838313 folds
+sambaseb calls 1000
+bagerra checks
+*** FLOP *** [4s 2s Ac]
+sambaseb bets 2000
+bagerra calls 2000
+*** TURN *** [4s 2s Ac][7h]
+sambaseb checks
+bagerra bets 2000
+sambaseb raises 2000 to 4000
+bagerra raises 2000 to 6000
+sambaseb calls 2000
+*** RIVER *** [4s 2s Ac 7h][2c]
+sambaseb checks
+bagerra bets 7560
+sambaseb calls 7560
+*** SHOW DOWN ***
+sambaseb shows [As 3c] (Two pairs : Aces and 2)
+bagerra shows [5c 3h] (Straight 5 high)
+bagerra collected 36720 from pot
+*** SUMMARY ***
+Total pot 36720 | No rake
+Board: [4s 2s Ac 7h 2c]
+Seat 5: sambaseb (small blind) showed [As 3c] and lost with Two pairs : Aces and 2
+Seat 6: bagerra (big blind) showed [5c 3h] and won 36720 with Straight 5 high
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 20 - HandId: #2977057869712588810-189-1703195089 - Holdem no limit (250/1250/2500) - 2023/12/21 21:44:49 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Samapiker (96400)
+Seat 2: S1M4LB (41748)
+Seat 3: menfish (16316)
+Seat 4: rico838313 (166)
+Seat 5: sambaseb (23578)
+Seat 6: bagerra (70876)
+Seat 7: PatriKTruel_ (47042)
+Seat 8: P1xel7 (54453)
+*** ANTE/BLINDS ***
+bagerra posts ante 250
+PatriKTruel_ posts ante 250
+Samapiker posts ante 250
+S1M4LB posts ante 250
+menfish posts ante 250
+rico838313 posts ante 166 and is all-in
+sambaseb posts ante 250
+P1xel7 posts ante 250
+bagerra posts small blind 1250
+PatriKTruel_ posts big blind 2500
+Dealt to P1xel7 [6c Th]
+*** PRE-FLOP *** 
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+menfish folds
+sambaseb folds
+bagerra calls 1250
+PatriKTruel_ raises 44292 to 46792 and is all-in
+bagerra folds
+*** FLOP *** [Jd Td 9s]
+*** TURN *** [Jd Td 9s][8d]
+*** RIVER *** [Jd Td 9s 8d][Ad]
+*** SHOW DOWN ***
+rico838313 shows [Ks Kc] (One pair : Kings)
+PatriKTruel_ shows [4h Jh] (One pair : Jacks)
+PatriKTruel_ collected 49880 from side pot 1
+rico838313 collected 1328 from main pot
+*** SUMMARY ***
+Total pot 51208 | No rake
+Board: [Jd Td 9s 8d Ad]
+Seat 4: rico838313 showed [Ks Kc] and won 1328 with One pair : Kings
+Seat 7: PatriKTruel_ (big blind) showed [4h Jh] and won 49880 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 20 - HandId: #2977057869712588810-190-1703195114 - Holdem no limit (250/1250/2500) - 2023/12/21 21:45:14 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Samapiker (96150)
+Seat 2: S1M4LB (41498)
+Seat 3: menfish (16066)
+Seat 4: rico838313 (1328)
+Seat 5: sambaseb (23328)
+Seat 6: bagerra (68126)
+Seat 7: PatriKTruel_ (49880)
+Seat 8: P1xel7 (54203)
+*** ANTE/BLINDS ***
+PatriKTruel_ posts ante 250
+P1xel7 posts ante 250
+Samapiker posts ante 250
+S1M4LB posts ante 250
+menfish posts ante 250
+rico838313 posts ante 250
+sambaseb posts ante 250
+bagerra posts ante 250
+PatriKTruel_ posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [9s 5h]
+*** PRE-FLOP *** 
+Samapiker raises 2500 to 5000
+S1M4LB folds
+menfish folds
+rico838313 folds
+sambaseb calls 5000
+bagerra folds
+PatriKTruel_ raises 44630 to 49630 and is all-in
+P1xel7 folds
+Samapiker folds
+sambaseb calls 18078 and is all-in
+*** FLOP *** [Qs 7c 2s]
+*** TURN *** [Qs 7c 2s][Td]
+*** RIVER *** [Qs 7c 2s Td][4s]
+*** SHOW DOWN ***
+sambaseb shows [Th As] (One pair : Tens)
+PatriKTruel_ shows [Qd Kc] (One pair : Queens)
+PatriKTruel_ collected 82208 from pot
+*** SUMMARY ***
+Total pot 82208 | No rake
+Board: [Qs 7c 2s Td 4s]
+Seat 5: sambaseb showed [Th As] and lost with One pair : Tens
+Seat 7: PatriKTruel_ (small blind) showed [Qd Kc] and won 82208 with One pair : Queens
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 20 - HandId: #2977057869712588810-191-1703195173 - Holdem no limit (250/1250/2500) - 2023/12/21 21:46:13 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Samapiker (90900)
+Seat 2: S1M4LB (41248)
+Seat 3: menfish (15816)
+Seat 4: rico838313 (1078)
+Seat 6: bagerra (67876)
+Seat 7: PatriKTruel_ (82208)
+Seat 8: P1xel7 (51453)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+Samapiker posts ante 250
+S1M4LB posts ante 250
+menfish posts ante 250
+rico838313 posts ante 250
+bagerra posts ante 250
+PatriKTruel_ posts ante 250
+P1xel7 posts small blind 1250
+Samapiker posts big blind 2500
+Dealt to P1xel7 [As 9d]
+*** PRE-FLOP *** 
+S1M4LB folds
+menfish folds
+rico838313 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 raises 3000 to 5500
+Samapiker raises 85150 to 90650 and is all-in
+P1xel7 folds
+Samapiker collected 97900 from pot
+*** SUMMARY ***
+Total pot 97900 | No rake
+Seat 1: Samapiker (big blind) won 97900
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 20 - HandId: #2977057869712588810-192-1703195239 - Holdem no limit (250/1250/2500) - 2023/12/21 21:47:19 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Samapiker (97900)
+Seat 2: S1M4LB (40998)
+Seat 3: menfish (15566)
+Seat 4: rico838313 (828)
+Seat 6: bagerra (67626)
+Seat 7: PatriKTruel_ (81958)
+Seat 8: P1xel7 (45703)
+*** ANTE/BLINDS ***
+Samapiker posts ante 250
+S1M4LB posts ante 250
+menfish posts ante 250
+rico838313 posts ante 250
+bagerra posts ante 250
+PatriKTruel_ posts ante 250
+P1xel7 posts ante 250
+Samapiker posts small blind 1250
+S1M4LB posts big blind 2500
+Dealt to P1xel7 [6d Ts]
+*** PRE-FLOP *** 
+menfish folds
+rico838313 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker calls 1250
+S1M4LB checks
+*** FLOP *** [Js 2h Qh]
+Samapiker checks
+S1M4LB checks
+*** TURN *** [Js 2h Qh][5c]
+Samapiker checks
+S1M4LB checks
+*** RIVER *** [Js 2h Qh 5c][Ah]
+Samapiker checks
+S1M4LB checks
+*** SHOW DOWN ***
+S1M4LB shows [7s 8c] (High card : Ace)
+Samapiker shows [Kd 7h] (High card : Ace)
+Samapiker collected 6750 from pot
+*** SUMMARY ***
+Total pot 6750 | No rake
+Board: [Js 2h Qh 5c Ah]
+Seat 1: Samapiker (small blind) showed [Kd 7h] and won 6750 with High card : Ace
+Seat 2: S1M4LB (big blind) showed [7s 8c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 20 - HandId: #2977057869712588810-193-1703195292 - Holdem no limit (250/1250/2500) - 2023/12/21 21:48:12 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Samapiker (101900)
+Seat 2: S1M4LB (38248)
+Seat 3: menfish (15316)
+Seat 4: rico838313 (578)
+Seat 6: bagerra (67376)
+Seat 7: PatriKTruel_ (81708)
+Seat 8: P1xel7 (45453)
+*** ANTE/BLINDS ***
+S1M4LB posts ante 250
+menfish posts ante 250
+Samapiker posts ante 250
+rico838313 posts ante 250
+bagerra posts ante 250
+PatriKTruel_ posts ante 250
+P1xel7 posts ante 250
+S1M4LB posts small blind 1250
+menfish posts big blind 2500
+Dealt to P1xel7 [6s 3d]
+*** PRE-FLOP *** 
+rico838313 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB raises 13750 to 16250
+menfish calls 12566 and is all-in
+*** FLOP *** [7d Ks 3c]
+*** TURN *** [7d Ks 3c][7h]
+*** RIVER *** [7d Ks 3c 7h][5h]
+*** SHOW DOWN ***
+menfish shows [Jd Ah] (One pair : 7)
+S1M4LB shows [Qc Kc] (Two pairs : Kings and 7)
+S1M4LB collected 33066 from pot
+*** SUMMARY ***
+Total pot 33066 | No rake
+Board: [7d Ks 3c 7h 5h]
+Seat 2: S1M4LB (small blind) showed [Qc Kc] and won 33066 with Two pairs : Kings and 7
+Seat 3: menfish (big blind) showed [Jd Ah] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 20 - HandId: #2977057869712588810-194-1703195345 - Holdem no limit (250/1250/2500) - 2023/12/21 21:49:05 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Samapiker (101650)
+Seat 2: S1M4LB (54814)
+Seat 4: rico838313 (328)
+Seat 5: om 91 (16886)
+Seat 6: bagerra (67126)
+Seat 7: PatriKTruel_ (81458)
+Seat 8: P1xel7 (45203)
+*** ANTE/BLINDS ***
+rico838313 posts ante 250
+Samapiker posts ante 250
+S1M4LB posts ante 250
+om 91 posts ante 250
+bagerra posts ante 250
+PatriKTruel_ posts ante 250
+P1xel7 posts ante 250
+rico838313 posts big blind 78 and is all-in
+Dealt to P1xel7 [Qc 5s]
+*** PRE-FLOP *** 
+om 91 raises 16558 to 16636 and is all-in
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+*** FLOP *** [9c 6s Qs]
+*** TURN *** [9c 6s Qs][8h]
+*** RIVER *** [9c 6s Qs 8h][Kc]
+*** SHOW DOWN ***
+rico838313 shows [6h Qh] (Two pairs : Queens and 6)
+om 91 shows [Js Ks] (One pair : Kings)
+om 91 collected 16558 from side pot 1
+rico838313 collected 1906 from main pot
+*** SUMMARY ***
+Total pot 18464 | No rake
+Board: [9c 6s Qs 8h Kc]
+Seat 4: rico838313 (big blind) showed [6h Qh] and won 1906 with Two pairs : Queens and 6
+Seat 5: om 91 showed [Js Ks] and won 16558 with One pair : Kings
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 20 - HandId: #2977057869712588810-195-1703195385 - Holdem no limit (250/1250/2500) - 2023/12/21 21:49:45 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Samapiker (101400)
+Seat 2: S1M4LB (54564)
+Seat 4: rico838313 (1906)
+Seat 5: om 91 (16558)
+Seat 6: bagerra (66876)
+Seat 7: PatriKTruel_ (81208)
+Seat 8: P1xel7 (44953)
+*** ANTE/BLINDS ***
+rico838313 posts ante 250
+om 91 posts ante 250
+Samapiker posts ante 250
+S1M4LB posts ante 250
+bagerra posts ante 250
+PatriKTruel_ posts ante 250
+P1xel7 posts ante 250
+rico838313 posts small blind 1250
+om 91 posts big blind 2500
+Dealt to P1xel7 [5h 3h]
+*** PRE-FLOP *** 
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker raises 2500 to 5000
+S1M4LB folds
+rico838313 folds
+om 91 calls 2500
+*** FLOP *** [Ad Th 9d]
+om 91 checks
+Samapiker bets 5000
+om 91 folds
+Samapiker collected 18000 from pot
+*** SUMMARY ***
+Total pot 18000 | No rake
+Board: [Ad Th 9d]
+Seat 1: Samapiker won 18000
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 20 - HandId: #2977057869712588810-196-1703195432 - Holdem no limit (250/1250/2500) - 2023/12/21 21:50:32 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Samapiker (109150)
+Seat 2: S1M4LB (54314)
+Seat 4: rico838313 (406)
+Seat 5: om 91 (11308)
+Seat 6: bagerra (66626)
+Seat 7: PatriKTruel_ (80958)
+Seat 8: P1xel7 (44703)
+*** ANTE/BLINDS ***
+om 91 posts ante 250
+bagerra posts ante 250
+Samapiker posts ante 250
+S1M4LB posts ante 250
+rico838313 posts ante 250
+PatriKTruel_ posts ante 250
+P1xel7 posts ante 250
+om 91 posts small blind 1250
+bagerra posts big blind 2500
+Dealt to P1xel7 [Tc 3c]
+*** PRE-FLOP *** 
+PatriKTruel_ raises 78208 to 80708 and is all-in
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+rico838313 folds
+om 91 folds
+bagerra folds
+PatriKTruel_ collected 86208 from pot
+*** SUMMARY ***
+Total pot 86208 | No rake
+Seat 7: PatriKTruel_ won 86208
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 20 - HandId: #2977057869712588810-197-1703195458 - Holdem no limit (250/1250/2500) - 2023/12/21 21:50:58 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Samapiker (108900)
+Seat 2: S1M4LB (54064)
+Seat 4: rico838313 (156)
+Seat 5: om 91 (9808)
+Seat 6: bagerra (63876)
+Seat 7: PatriKTruel_ (86208)
+Seat 8: P1xel7 (44453)
+*** ANTE/BLINDS ***
+bagerra posts ante 250
+PatriKTruel_ posts ante 250
+Samapiker posts ante 250
+S1M4LB posts ante 250
+rico838313 posts ante 156 and is all-in
+om 91 posts ante 250
+P1xel7 posts ante 250
+bagerra posts small blind 1250
+PatriKTruel_ posts big blind 2500
+Dealt to P1xel7 [7s Td]
+*** PRE-FLOP *** 
+P1xel7 folds
+Samapiker raises 2500 to 5000
+S1M4LB folds
+om 91 raises 4558 to 9558 and is all-in
+bagerra folds
+PatriKTruel_ folds
+Samapiker calls 4558
+*** FLOP *** [2d 7d Jd]
+*** TURN *** [2d 7d Jd][Tc]
+*** RIVER *** [2d 7d Jd Tc][5s]
+*** SHOW DOWN ***
+rico838313 shows [Ac 7c] (One pair : 7)
+om 91 shows [Ah 9s] (High card : Ace)
+Samapiker shows [Kh Jc] (One pair : Jacks)
+Samapiker collected 24522 from pot
+*** SUMMARY ***
+Total pot 24522 | No rake
+Board: [2d 7d Jd Tc 5s]
+Seat 1: Samapiker showed [Kh Jc] and won 24522 with One pair : Jacks
+Seat 4: rico838313 showed [Ac 7c] and lost with One pair : 7
+Seat 5: om 91 (button) showed [Ah 9s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 20 - HandId: #2977057869712588810-198-1703195486 - Holdem no limit (250/1250/2500) - 2023/12/21 21:51:26 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Samapiker (123614)
+Seat 2: S1M4LB (53814)
+Seat 6: bagerra (62376)
+Seat 7: PatriKTruel_ (83458)
+Seat 8: P1xel7 (44203)
+*** ANTE/BLINDS ***
+PatriKTruel_ posts ante 250
+P1xel7 posts ante 250
+Samapiker posts ante 250
+S1M4LB posts ante 250
+bagerra posts ante 250
+PatriKTruel_ posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [3d Kh]
+*** PRE-FLOP *** 
+Samapiker folds
+S1M4LB folds
+bagerra raises 2500 to 5000
+PatriKTruel_ folds
+P1xel7 calls 2500
+*** FLOP *** [Ks Td Jh]
+P1xel7 checks
+bagerra bets 4375
+P1xel7 raises 8438 to 12813
+bagerra folds
+P1xel7 collected 29688 from pot
+*** SUMMARY ***
+Total pot 29688 | No rake
+Board: [Ks Td Jh]
+Seat 8: P1xel7 (big blind) won 29688
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 21 - HandId: #2977057869712588810-199-1703195558 - Holdem no limit (350/1500/3000) - 2023/12/21 21:52:38 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Samapiker (123364)
+Seat 2: S1M4LB (53564)
+Seat 3: LikeMeBetter (27482)
+Seat 4: WpZPutre (41667)
+Seat 5: ZarDoz. (34810)
+Seat 6: bagerra (52751)
+Seat 7: PatriKTruel_ (81958)
+Seat 8: P1xel7 (55828)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+Samapiker posts ante 350
+S1M4LB posts ante 350
+LikeMeBetter posts ante 350
+WpZPutre posts ante 350
+ZarDoz. posts ante 350
+bagerra posts ante 350
+PatriKTruel_ posts ante 350
+P1xel7 posts small blind 1500
+Samapiker posts big blind 3000
+Dealt to P1xel7 [2h 2c]
+*** PRE-FLOP *** 
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+ZarDoz. folds
+bagerra raises 3000 to 6000
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+bagerra collected 13300 from pot
+*** SUMMARY ***
+Total pot 13300 | No rake
+Seat 6: bagerra won 13300
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 21 - HandId: #2977057869712588810-200-1703195599 - Holdem no limit (350/1500/3000) - 2023/12/21 21:53:19 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Samapiker (120014)
+Seat 2: S1M4LB (53214)
+Seat 3: LikeMeBetter (27132)
+Seat 4: WpZPutre (41317)
+Seat 5: ZarDoz. (34460)
+Seat 6: bagerra (59701)
+Seat 7: PatriKTruel_ (81608)
+Seat 8: P1xel7 (53978)
+*** ANTE/BLINDS ***
+Samapiker posts ante 350
+S1M4LB posts ante 350
+LikeMeBetter posts ante 350
+WpZPutre posts ante 350
+ZarDoz. posts ante 350
+bagerra posts ante 350
+PatriKTruel_ posts ante 350
+P1xel7 posts ante 350
+Samapiker posts small blind 1500
+S1M4LB posts big blind 3000
+Dealt to P1xel7 [3h Ac]
+*** PRE-FLOP *** 
+LikeMeBetter raises 23782 to 26782 and is all-in
+WpZPutre folds
+ZarDoz. folds
+bagerra calls 26782
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+*** FLOP *** [Th 9c Ts]
+*** TURN *** [Th 9c Ts][2s]
+*** RIVER *** [Th 9c Ts 2s][Jh]
+*** SHOW DOWN ***
+bagerra shows [7d 7s] (Two pairs : Tens and 7)
+LikeMeBetter shows [Jc Js] (Full of Jacks and Tens)
+LikeMeBetter collected 60864 from pot
+*** SUMMARY ***
+Total pot 60864 | No rake
+Board: [Th 9c Ts 2s Jh]
+Seat 3: LikeMeBetter showed [Jc Js] and won 60864 with Full of Jacks and Tens
+Seat 6: bagerra showed [7d 7s] and lost with Two pairs : Tens and 7
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 21 - HandId: #2977057869712588810-201-1703195646 - Holdem no limit (350/1500/3000) - 2023/12/21 21:54:06 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Samapiker (118164)
+Seat 2: S1M4LB (49864)
+Seat 3: LikeMeBetter (60864)
+Seat 4: WpZPutre (40967)
+Seat 5: ZarDoz. (34110)
+Seat 6: bagerra (32569)
+Seat 7: PatriKTruel_ (81258)
+Seat 8: P1xel7 (53628)
+*** ANTE/BLINDS ***
+S1M4LB posts ante 350
+LikeMeBetter posts ante 350
+Samapiker posts ante 350
+WpZPutre posts ante 350
+ZarDoz. posts ante 350
+bagerra posts ante 350
+PatriKTruel_ posts ante 350
+P1xel7 posts ante 350
+S1M4LB posts small blind 1500
+LikeMeBetter posts big blind 3000
+Dealt to P1xel7 [Qc 2h]
+*** PRE-FLOP *** 
+WpZPutre folds
+ZarDoz. folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter collected 7300 from pot
+*** SUMMARY ***
+Total pot 7300 | No rake
+Seat 3: LikeMeBetter (big blind) won 7300
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 21 - HandId: #2977057869712588810-202-1703195685 - Holdem no limit (350/1500/3000) - 2023/12/21 21:54:45 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Samapiker (117814)
+Seat 2: S1M4LB (48014)
+Seat 3: LikeMeBetter (64814)
+Seat 4: WpZPutre (40617)
+Seat 5: ZarDoz. (33760)
+Seat 6: bagerra (32219)
+Seat 7: PatriKTruel_ (80908)
+Seat 8: P1xel7 (53278)
+*** ANTE/BLINDS ***
+LikeMeBetter posts ante 350
+WpZPutre posts ante 350
+Samapiker posts ante 350
+S1M4LB posts ante 350
+ZarDoz. posts ante 350
+bagerra posts ante 350
+PatriKTruel_ posts ante 350
+P1xel7 posts ante 350
+LikeMeBetter posts small blind 1500
+WpZPutre posts big blind 3000
+Dealt to P1xel7 [Ts Jd]
+*** PRE-FLOP *** 
+ZarDoz. folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB raises 3000 to 6000
+LikeMeBetter folds
+WpZPutre raises 34267 to 40267 and is all-in
+S1M4LB folds
+WpZPutre collected 50567 from pot
+*** SUMMARY ***
+Total pot 50567 | No rake
+Seat 4: WpZPutre (big blind) won 50567
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 21 - HandId: #2977057869712588810-203-1703196060 - Holdem no limit (350/1500/3000) - 2023/12/21 22:01:00 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Samapiker (117464)
+Seat 2: S1M4LB (41664)
+Seat 3: LikeMeBetter (62964)
+Seat 4: WpZPutre (50567)
+Seat 5: ZarDoz. (33410)
+Seat 6: bagerra (31869)
+Seat 7: PatriKTruel_ (80558)
+Seat 8: P1xel7 (52928)
+*** ANTE/BLINDS ***
+WpZPutre posts ante 350
+ZarDoz. posts ante 350
+Samapiker posts ante 350
+S1M4LB posts ante 350
+LikeMeBetter posts ante 350
+bagerra posts ante 350
+PatriKTruel_ posts ante 350
+P1xel7 posts ante 350
+WpZPutre posts small blind 1500
+ZarDoz. posts big blind 3000
+Dealt to P1xel7 [Th 7d]
+*** PRE-FLOP *** 
+bagerra folds
+PatriKTruel_ calls 3000
+P1xel7 folds
+Samapiker folds
+S1M4LB calls 3000
+LikeMeBetter folds
+WpZPutre calls 1500
+ZarDoz. checks
+*** FLOP *** [8d 3c 9h]
+WpZPutre bets 5180
+ZarDoz. raises 24880 to 30060 and is all-in
+PatriKTruel_ folds
+S1M4LB folds
+WpZPutre calls 24880
+*** TURN *** [8d 3c 9h][2d]
+*** RIVER *** [8d 3c 9h 2d][7s]
+*** SHOW DOWN ***
+ZarDoz. shows [Qh 9s] (One pair : 9)
+WpZPutre shows [9c 7c] (Two pairs : 9 and 7)
+WpZPutre collected 74920 from pot
+*** SUMMARY ***
+Total pot 74920 | No rake
+Board: [8d 3c 9h 2d 7s]
+Seat 4: WpZPutre (small blind) showed [9c 7c] and won 74920 with Two pairs : 9 and 7
+Seat 5: ZarDoz. (big blind) showed [Qh 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 21 - HandId: #2977057869712588810-204-1703196154 - Holdem no limit (350/1500/3000) - 2023/12/21 22:02:34 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Samapiker (117114)
+Seat 2: S1M4LB (38314)
+Seat 3: LikeMeBetter (62614)
+Seat 4: WpZPutre (92077)
+Seat 6: bagerra (31519)
+Seat 7: PatriKTruel_ (77208)
+Seat 8: P1xel7 (52578)
+*** ANTE/BLINDS ***
+bagerra posts ante 350
+Samapiker posts ante 350
+S1M4LB posts ante 350
+LikeMeBetter posts ante 350
+WpZPutre posts ante 350
+PatriKTruel_ posts ante 350
+P1xel7 posts ante 350
+bagerra posts big blind 3000
+Dealt to P1xel7 [Qh Jc]
+*** PRE-FLOP *** 
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB raises 3000 to 6000
+LikeMeBetter folds
+WpZPutre folds
+bagerra folds
+S1M4LB collected 11450 from pot
+*** SUMMARY ***
+Total pot 11450 | No rake
+Seat 2: S1M4LB won 11450
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 21 - HandId: #2977057869712588810-205-1703196217 - Holdem no limit (350/1500/3000) - 2023/12/21 22:03:37 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Samapiker (116764)
+Seat 2: S1M4LB (43414)
+Seat 3: LikeMeBetter (62264)
+Seat 4: WpZPutre (91727)
+Seat 6: bagerra (28169)
+Seat 7: PatriKTruel_ (76858)
+Seat 8: P1xel7 (52228)
+*** ANTE/BLINDS ***
+bagerra posts ante 350
+PatriKTruel_ posts ante 350
+Samapiker posts ante 350
+S1M4LB posts ante 350
+LikeMeBetter posts ante 350
+WpZPutre posts ante 350
+P1xel7 posts ante 350
+bagerra posts small blind 1500
+PatriKTruel_ posts big blind 3000
+Dealt to P1xel7 [5d 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter calls 3000
+WpZPutre folds
+bagerra calls 1500
+PatriKTruel_ checks
+*** FLOP *** [4h 7s Ac]
+bagerra checks
+PatriKTruel_ bets 73508 and is all-in
+LikeMeBetter folds
+bagerra folds
+PatriKTruel_ collected 84958 from pot
+*** SUMMARY ***
+Total pot 84958 | No rake
+Board: [4h 7s Ac]
+Seat 7: PatriKTruel_ (big blind) won 84958
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 21 - HandId: #2977057869712588810-206-1703196289 - Holdem no limit (350/1500/3000) - 2023/12/21 22:04:49 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Samapiker (116414)
+Seat 2: S1M4LB (43064)
+Seat 3: LikeMeBetter (58914)
+Seat 4: WpZPutre (91377)
+Seat 5: polak02 (79454)
+Seat 6: bagerra (24819)
+Seat 7: PatriKTruel_ (84958)
+Seat 8: P1xel7 (51878)
+*** ANTE/BLINDS ***
+PatriKTruel_ posts ante 350
+P1xel7 posts ante 350
+Samapiker posts ante 350
+S1M4LB posts ante 350
+LikeMeBetter posts ante 350
+WpZPutre posts ante 350
+polak02 posts ante 350
+bagerra posts ante 350
+PatriKTruel_ posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [Ad 2s]
+*** PRE-FLOP *** 
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra raises 21469 to 24469 and is all-in
+PatriKTruel_ folds
+P1xel7 folds
+bagerra collected 31769 from pot
+*** SUMMARY ***
+Total pot 31769 | No rake
+Seat 6: bagerra (button) won 31769
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 21 - HandId: #2977057869712588810-207-1703196325 - Holdem no limit (350/1500/3000) - 2023/12/21 22:05:25 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Samapiker (116064)
+Seat 2: S1M4LB (42714)
+Seat 3: LikeMeBetter (58564)
+Seat 4: WpZPutre (91027)
+Seat 5: polak02 (79104)
+Seat 6: bagerra (31769)
+Seat 7: PatriKTruel_ (83108)
+Seat 8: P1xel7 (48528)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+Samapiker posts ante 350
+S1M4LB posts ante 350
+LikeMeBetter posts ante 350
+WpZPutre posts ante 350
+polak02 posts ante 350
+bagerra posts ante 350
+PatriKTruel_ posts ante 350
+P1xel7 posts small blind 1500
+Samapiker posts big blind 3000
+Dealt to P1xel7 [2h 3h]
+*** PRE-FLOP *** 
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker collected 7300 from pot
+*** SUMMARY ***
+Total pot 7300 | No rake
+Seat 1: Samapiker (big blind) won 7300
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 22 - HandId: #2977057869712588810-208-1703196385 - Holdem no limit (400/2000/4000) - 2023/12/21 22:06:25 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Samapiker (120014)
+Seat 2: S1M4LB (42364)
+Seat 3: LikeMeBetter (58214)
+Seat 4: WpZPutre (90677)
+Seat 5: polak02 (78754)
+Seat 6: bagerra (31419)
+Seat 7: PatriKTruel_ (82758)
+Seat 8: P1xel7 (46678)
+*** ANTE/BLINDS ***
+Samapiker posts ante 400
+S1M4LB posts ante 400
+LikeMeBetter posts ante 400
+WpZPutre posts ante 400
+polak02 posts ante 400
+bagerra posts ante 400
+PatriKTruel_ posts ante 400
+P1xel7 posts ante 400
+Samapiker posts small blind 2000
+S1M4LB posts big blind 4000
+Dealt to P1xel7 [3d 3h]
+*** PRE-FLOP *** 
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 raises 42278 to 46278 and is all-in
+Samapiker folds
+S1M4LB folds
+P1xel7 collected 55478 from pot
+*** SUMMARY ***
+Total pot 55478 | No rake
+Seat 8: P1xel7 (button) won 55478
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 22 - HandId: #2977057869712588810-209-1703196423 - Holdem no limit (400/2000/4000) - 2023/12/21 22:07:03 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Samapiker (117614)
+Seat 2: S1M4LB (37964)
+Seat 3: LikeMeBetter (57814)
+Seat 4: WpZPutre (90277)
+Seat 5: polak02 (78354)
+Seat 6: bagerra (31019)
+Seat 7: PatriKTruel_ (82358)
+Seat 8: P1xel7 (55478)
+*** ANTE/BLINDS ***
+S1M4LB posts ante 400
+LikeMeBetter posts ante 400
+Samapiker posts ante 400
+WpZPutre posts ante 400
+polak02 posts ante 400
+bagerra posts ante 400
+PatriKTruel_ posts ante 400
+P1xel7 posts ante 400
+S1M4LB posts small blind 2000
+LikeMeBetter posts big blind 4000
+Dealt to P1xel7 [Th 6s]
+*** PRE-FLOP *** 
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker raises 4000 to 8000
+S1M4LB folds
+LikeMeBetter folds
+Samapiker collected 17200 from pot
+*** SUMMARY ***
+Total pot 17200 | No rake
+Seat 1: Samapiker (button) won 17200
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 22 - HandId: #2977057869712588810-210-1703196447 - Holdem no limit (400/2000/4000) - 2023/12/21 22:07:27 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Samapiker (126414)
+Seat 2: S1M4LB (35564)
+Seat 3: LikeMeBetter (53414)
+Seat 4: WpZPutre (89877)
+Seat 5: polak02 (77954)
+Seat 6: bagerra (30619)
+Seat 7: PatriKTruel_ (81958)
+Seat 8: P1xel7 (55078)
+*** ANTE/BLINDS ***
+LikeMeBetter posts ante 400
+WpZPutre posts ante 400
+Samapiker posts ante 400
+S1M4LB posts ante 400
+polak02 posts ante 400
+bagerra posts ante 400
+PatriKTruel_ posts ante 400
+P1xel7 posts ante 400
+LikeMeBetter posts small blind 2000
+WpZPutre posts big blind 4000
+Dealt to P1xel7 [7c 5s]
+*** PRE-FLOP *** 
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter raises 49014 to 53014 and is all-in
+WpZPutre folds
+LikeMeBetter collected 60214 from pot
+*** SUMMARY ***
+Total pot 60214 | No rake
+Seat 3: LikeMeBetter (small blind) won 60214
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 22 - HandId: #2977057869712588810-211-1703196480 - Holdem no limit (400/2000/4000) - 2023/12/21 22:08:00 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Samapiker (126014)
+Seat 2: S1M4LB (35164)
+Seat 3: LikeMeBetter (60214)
+Seat 4: WpZPutre (85477)
+Seat 5: polak02 (77554)
+Seat 6: bagerra (30219)
+Seat 7: PatriKTruel_ (81558)
+Seat 8: P1xel7 (54678)
+*** ANTE/BLINDS ***
+WpZPutre posts ante 400
+polak02 posts ante 400
+Samapiker posts ante 400
+S1M4LB posts ante 400
+LikeMeBetter posts ante 400
+bagerra posts ante 400
+PatriKTruel_ posts ante 400
+P1xel7 posts ante 400
+WpZPutre posts small blind 2000
+polak02 posts big blind 4000
+Dealt to P1xel7 [9h 6d]
+*** PRE-FLOP *** 
+bagerra raises 25819 to 29819 and is all-in
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra collected 39019 from pot
+*** SUMMARY ***
+Total pot 39019 | No rake
+Seat 6: bagerra won 39019
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 22 - HandId: #2977057869712588810-212-1703196521 - Holdem no limit (400/2000/4000) - 2023/12/21 22:08:41 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Samapiker (125614)
+Seat 2: S1M4LB (34764)
+Seat 3: LikeMeBetter (59814)
+Seat 4: WpZPutre (83077)
+Seat 5: polak02 (73154)
+Seat 6: bagerra (39019)
+Seat 7: PatriKTruel_ (81158)
+Seat 8: P1xel7 (54278)
+*** ANTE/BLINDS ***
+polak02 posts ante 400
+bagerra posts ante 400
+Samapiker posts ante 400
+S1M4LB posts ante 400
+LikeMeBetter posts ante 400
+WpZPutre posts ante 400
+PatriKTruel_ posts ante 400
+P1xel7 posts ante 400
+polak02 posts small blind 2000
+bagerra posts big blind 4000
+Dealt to P1xel7 [8h Jh]
+*** PRE-FLOP *** 
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB raises 30000 to 34000
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+S1M4LB collected 43200 from pot
+*** SUMMARY ***
+Total pot 43200 | No rake
+Seat 2: S1M4LB won 43200
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 22 - HandId: #2977057869712588810-213-1703196573 - Holdem no limit (400/2000/4000) - 2023/12/21 22:09:33 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Samapiker (125214)
+Seat 2: S1M4LB (43564)
+Seat 3: LikeMeBetter (59414)
+Seat 4: WpZPutre (82677)
+Seat 5: polak02 (70754)
+Seat 6: bagerra (34619)
+Seat 7: PatriKTruel_ (80758)
+Seat 8: P1xel7 (53878)
+*** ANTE/BLINDS ***
+bagerra posts ante 400
+PatriKTruel_ posts ante 400
+Samapiker posts ante 400
+S1M4LB posts ante 400
+LikeMeBetter posts ante 400
+WpZPutre posts ante 400
+polak02 posts ante 400
+P1xel7 posts ante 400
+bagerra posts small blind 2000
+PatriKTruel_ posts big blind 4000
+Dealt to P1xel7 [Ts 8d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 raises 13200 to 17200
+bagerra folds
+PatriKTruel_ folds
+polak02 collected 26400 from pot
+*** SUMMARY ***
+Total pot 26400 | No rake
+Seat 5: polak02 (button) won 26400
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 22 - HandId: #2977057869712588810-214-1703196638 - Holdem no limit (400/2000/4000) - 2023/12/21 22:10:38 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Samapiker (124814)
+Seat 2: S1M4LB (43164)
+Seat 3: LikeMeBetter (59014)
+Seat 4: WpZPutre (82277)
+Seat 5: polak02 (79554)
+Seat 6: bagerra (32219)
+Seat 7: PatriKTruel_ (76358)
+Seat 8: P1xel7 (53478)
+*** ANTE/BLINDS ***
+PatriKTruel_ posts ante 400
+P1xel7 posts ante 400
+Samapiker posts ante 400
+S1M4LB posts ante 400
+LikeMeBetter posts ante 400
+WpZPutre posts ante 400
+polak02 posts ante 400
+bagerra posts ante 400
+PatriKTruel_ posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [Kh 8d]
+*** PRE-FLOP *** 
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre raises 4000 to 8000
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 calls 4000
+*** FLOP *** [Tc 6c Qc]
+P1xel7 checks
+WpZPutre bets 4000
+P1xel7 folds
+WpZPutre collected 25200 from pot
+*** SUMMARY ***
+Total pot 25200 | No rake
+Board: [Tc 6c Qc]
+Seat 4: WpZPutre won 25200
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 22 - HandId: #2977057869712588810-215-1703196707 - Holdem no limit (400/2000/4000) - 2023/12/21 22:11:47 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Samapiker (124414)
+Seat 2: S1M4LB (42764)
+Seat 3: LikeMeBetter (58614)
+Seat 4: WpZPutre (95077)
+Seat 5: polak02 (79154)
+Seat 6: bagerra (31819)
+Seat 7: PatriKTruel_ (73958)
+Seat 8: P1xel7 (45078)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+Samapiker posts ante 400
+S1M4LB posts ante 400
+LikeMeBetter posts ante 400
+WpZPutre posts ante 400
+polak02 posts ante 400
+bagerra posts ante 400
+PatriKTruel_ posts ante 400
+P1xel7 posts small blind 2000
+Samapiker posts big blind 4000
+Dealt to P1xel7 [Ks Jc]
+*** PRE-FLOP *** 
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra raises 27419 to 31419 and is all-in
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+bagerra collected 40619 from pot
+*** SUMMARY ***
+Total pot 40619 | No rake
+Seat 6: bagerra won 40619
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 22 - HandId: #2977057869712588810-216-1703196760 - Holdem no limit (400/2000/4000) - 2023/12/21 22:12:40 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Samapiker (120014)
+Seat 2: S1M4LB (42364)
+Seat 3: LikeMeBetter (58214)
+Seat 4: WpZPutre (94677)
+Seat 5: polak02 (78754)
+Seat 6: bagerra (40619)
+Seat 7: PatriKTruel_ (73558)
+Seat 8: P1xel7 (42678)
+*** ANTE/BLINDS ***
+Samapiker posts ante 400
+S1M4LB posts ante 400
+LikeMeBetter posts ante 400
+WpZPutre posts ante 400
+polak02 posts ante 400
+bagerra posts ante 400
+PatriKTruel_ posts ante 400
+P1xel7 posts ante 400
+Samapiker posts small blind 2000
+S1M4LB posts big blind 4000
+Dealt to P1xel7 [6c Tc]
+*** PRE-FLOP *** 
+LikeMeBetter folds
+WpZPutre folds
+polak02 calls 4000
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB checks
+*** FLOP *** [4c 4d 3d]
+S1M4LB checks
+polak02 bets 4620
+S1M4LB folds
+polak02 collected 17820 from pot
+*** SUMMARY ***
+Total pot 17820 | No rake
+Board: [4c 4d 3d]
+Seat 5: polak02 won 17820
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 22 - HandId: #2977057869712588810-217-1703196836 - Holdem no limit (400/2000/4000) - 2023/12/21 22:13:56 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Samapiker (117614)
+Seat 2: S1M4LB (37964)
+Seat 3: LikeMeBetter (57814)
+Seat 4: WpZPutre (94277)
+Seat 5: polak02 (87554)
+Seat 6: bagerra (40219)
+Seat 7: PatriKTruel_ (73158)
+Seat 8: P1xel7 (42278)
+*** ANTE/BLINDS ***
+S1M4LB posts ante 400
+LikeMeBetter posts ante 400
+Samapiker posts ante 400
+WpZPutre posts ante 400
+polak02 posts ante 400
+bagerra posts ante 400
+PatriKTruel_ posts ante 400
+P1xel7 posts ante 400
+S1M4LB posts small blind 2000
+LikeMeBetter posts big blind 4000
+Dealt to P1xel7 [4s 9d]
+*** PRE-FLOP *** 
+WpZPutre raises 4000 to 8000
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre collected 17200 from pot
+*** SUMMARY ***
+Total pot 17200 | No rake
+Seat 4: WpZPutre won 17200
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 23 - HandId: #2977057869712588810-218-1703196934 - Holdem no limit (500/2500/5000) - 2023/12/21 22:15:34 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Samapiker (117214)
+Seat 2: S1M4LB (35564)
+Seat 3: LikeMeBetter (53414)
+Seat 4: WpZPutre (103077)
+Seat 5: polak02 (87154)
+Seat 6: bagerra (39819)
+Seat 7: PatriKTruel_ (72758)
+Seat 8: P1xel7 (41878)
+*** ANTE/BLINDS ***
+LikeMeBetter posts ante 500
+WpZPutre posts ante 500
+Samapiker posts ante 500
+S1M4LB posts ante 500
+polak02 posts ante 500
+bagerra posts ante 500
+PatriKTruel_ posts ante 500
+P1xel7 posts ante 500
+LikeMeBetter posts small blind 2500
+WpZPutre posts big blind 5000
+Dealt to P1xel7 [Th Td]
+*** PRE-FLOP *** 
+polak02 folds
+bagerra raises 34319 to 39319 and is all-in
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+bagerra collected 50819 from pot
+*** SUMMARY ***
+Total pot 50819 | No rake
+Seat 6: bagerra won 50819
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 23 - HandId: #2977057869712588810-219-1703197025 - Holdem no limit (500/2500/5000) - 2023/12/21 22:17:05 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Samapiker (116714)
+Seat 2: S1M4LB (35064)
+Seat 3: LikeMeBetter (50414)
+Seat 4: WpZPutre (97577)
+Seat 5: polak02 (86654)
+Seat 6: bagerra (50819)
+Seat 7: PatriKTruel_ (72258)
+Seat 8: P1xel7 (41378)
+*** ANTE/BLINDS ***
+WpZPutre posts ante 500
+polak02 posts ante 500
+Samapiker posts ante 500
+S1M4LB posts ante 500
+LikeMeBetter posts ante 500
+bagerra posts ante 500
+PatriKTruel_ posts ante 500
+P1xel7 posts ante 500
+WpZPutre posts small blind 2500
+polak02 posts big blind 5000
+Dealt to P1xel7 [Js 5h]
+*** PRE-FLOP *** 
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre raises 7500 to 12500
+polak02 folds
+WpZPutre collected 21500 from pot
+*** SUMMARY ***
+Total pot 21500 | No rake
+Seat 4: WpZPutre (small blind) won 21500
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 23 - HandId: #2977057869712588810-220-1703197152 - Holdem no limit (500/2500/5000) - 2023/12/21 22:19:12 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Samapiker (116214)
+Seat 2: S1M4LB (34564)
+Seat 3: LikeMeBetter (49914)
+Seat 4: WpZPutre (106077)
+Seat 5: polak02 (81154)
+Seat 6: bagerra (50319)
+Seat 7: PatriKTruel_ (71758)
+Seat 8: P1xel7 (40878)
+*** ANTE/BLINDS ***
+polak02 posts ante 500
+bagerra posts ante 500
+Samapiker posts ante 500
+S1M4LB posts ante 500
+LikeMeBetter posts ante 500
+WpZPutre posts ante 500
+PatriKTruel_ posts ante 500
+P1xel7 posts ante 500
+polak02 posts small blind 2500
+bagerra posts big blind 5000
+Dealt to P1xel7 [4d Ts]
+*** PRE-FLOP *** 
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre raises 5000 to 10000
+polak02 folds
+bagerra folds
+WpZPutre collected 21500 from pot
+*** SUMMARY ***
+Total pot 21500 | No rake
+Seat 4: WpZPutre (button) won 21500
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 23 - HandId: #2977057869712588810-221-1703197224 - Holdem no limit (500/2500/5000) - 2023/12/21 22:20:24 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Samapiker (115714)
+Seat 2: S1M4LB (34064)
+Seat 3: LikeMeBetter (49414)
+Seat 4: WpZPutre (117077)
+Seat 5: polak02 (78154)
+Seat 6: bagerra (44819)
+Seat 7: PatriKTruel_ (71258)
+Seat 8: P1xel7 (40378)
+*** ANTE/BLINDS ***
+bagerra posts ante 500
+PatriKTruel_ posts ante 500
+Samapiker posts ante 500
+S1M4LB posts ante 500
+LikeMeBetter posts ante 500
+WpZPutre posts ante 500
+polak02 posts ante 500
+P1xel7 posts ante 500
+bagerra posts small blind 2500
+PatriKTruel_ posts big blind 5000
+Dealt to P1xel7 [Ts 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra raises 5000 to 10000
+PatriKTruel_ raises 60758 to 70758 and is all-in
+bagerra folds
+PatriKTruel_ collected 84758 from pot
+*** SUMMARY ***
+Total pot 84758 | No rake
+Seat 7: PatriKTruel_ (big blind) won 84758
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 23 - HandId: #2977057869712588810-222-1703197278 - Holdem no limit (500/2500/5000) - 2023/12/21 22:21:18 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Samapiker (115214)
+Seat 2: S1M4LB (33564)
+Seat 3: LikeMeBetter (48914)
+Seat 4: WpZPutre (116577)
+Seat 5: polak02 (77654)
+Seat 6: bagerra (34319)
+Seat 7: PatriKTruel_ (84758)
+Seat 8: P1xel7 (39878)
+*** ANTE/BLINDS ***
+PatriKTruel_ posts ante 500
+P1xel7 posts ante 500
+Samapiker posts ante 500
+S1M4LB posts ante 500
+LikeMeBetter posts ante 500
+WpZPutre posts ante 500
+polak02 posts ante 500
+bagerra posts ante 500
+PatriKTruel_ posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [Jh 3s]
+*** PRE-FLOP *** 
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 collected 11500 from pot
+*** SUMMARY ***
+Total pot 11500 | No rake
+Seat 8: P1xel7 (big blind) won 11500
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 24 - HandId: #2977057869712588810-223-1703197344 - Holdem no limit (700/3000/6000) - 2023/12/21 22:22:24 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Samapiker (114714)
+Seat 2: S1M4LB (33064)
+Seat 3: LikeMeBetter (48414)
+Seat 4: WpZPutre (116077)
+Seat 5: polak02 (77154)
+Seat 6: bagerra (33819)
+Seat 7: PatriKTruel_ (81758)
+Seat 8: P1xel7 (45878)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 700
+Samapiker posts ante 700
+S1M4LB posts ante 700
+LikeMeBetter posts ante 700
+WpZPutre posts ante 700
+polak02 posts ante 700
+bagerra posts ante 700
+PatriKTruel_ posts ante 700
+P1xel7 posts small blind 3000
+Samapiker posts big blind 6000
+Dealt to P1xel7 [4d 5c]
+*** PRE-FLOP *** 
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 raises 20600 to 26600
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+polak02 collected 41200 from pot
+*** SUMMARY ***
+Total pot 41200 | No rake
+Seat 5: polak02 won 41200
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 24 - HandId: #2977057869712588810-224-1703197436 - Holdem no limit (700/3000/6000) - 2023/12/21 22:23:56 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Samapiker (108014)
+Seat 2: S1M4LB (32364)
+Seat 3: LikeMeBetter (47714)
+Seat 4: WpZPutre (115377)
+Seat 5: polak02 (91054)
+Seat 6: bagerra (33119)
+Seat 7: PatriKTruel_ (81058)
+Seat 8: P1xel7 (42178)
+*** ANTE/BLINDS ***
+Samapiker posts ante 700
+S1M4LB posts ante 700
+LikeMeBetter posts ante 700
+WpZPutre posts ante 700
+polak02 posts ante 700
+bagerra posts ante 700
+PatriKTruel_ posts ante 700
+P1xel7 posts ante 700
+Samapiker posts small blind 3000
+S1M4LB posts big blind 6000
+Dealt to P1xel7 [2d Ts]
+*** PRE-FLOP *** 
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker raises 7500 to 13500
+S1M4LB raises 18164 to 31664 and is all-in
+Samapiker folds
+S1M4LB collected 50764 from pot
+*** SUMMARY ***
+Total pot 50764 | No rake
+Seat 2: S1M4LB (big blind) won 50764
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 24 - HandId: #2977057869712588810-225-1703197544 - Holdem no limit (700/3000/6000) - 2023/12/21 22:25:44 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Samapiker (93814)
+Seat 2: S1M4LB (50764)
+Seat 3: LikeMeBetter (47014)
+Seat 4: WpZPutre (114677)
+Seat 5: polak02 (90354)
+Seat 6: bagerra (32419)
+Seat 7: PatriKTruel_ (80358)
+Seat 8: P1xel7 (41478)
+*** ANTE/BLINDS ***
+S1M4LB posts ante 700
+LikeMeBetter posts ante 700
+Samapiker posts ante 700
+WpZPutre posts ante 700
+polak02 posts ante 700
+bagerra posts ante 700
+PatriKTruel_ posts ante 700
+P1xel7 posts ante 700
+S1M4LB posts small blind 3000
+LikeMeBetter posts big blind 6000
+Dealt to P1xel7 [7h 4s]
+*** PRE-FLOP *** 
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB raises 6000 to 12000
+LikeMeBetter folds
+S1M4LB collected 23600 from pot
+*** SUMMARY ***
+Total pot 23600 | No rake
+Seat 2: S1M4LB (small blind) won 23600
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 24 - HandId: #2977057869712588810-226-1703197626 - Holdem no limit (700/3000/6000) - 2023/12/21 22:27:06 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Samapiker (93114)
+Seat 2: S1M4LB (61664)
+Seat 3: LikeMeBetter (40314)
+Seat 4: WpZPutre (113977)
+Seat 5: polak02 (89654)
+Seat 6: bagerra (31719)
+Seat 7: PatriKTruel_ (79658)
+Seat 8: P1xel7 (40778)
+*** ANTE/BLINDS ***
+LikeMeBetter posts ante 700
+WpZPutre posts ante 700
+Samapiker posts ante 700
+S1M4LB posts ante 700
+polak02 posts ante 700
+bagerra posts ante 700
+PatriKTruel_ posts ante 700
+P1xel7 posts ante 700
+LikeMeBetter posts small blind 3000
+WpZPutre posts big blind 6000
+Dealt to P1xel7 [Kc Jc]
+*** PRE-FLOP *** 
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre collected 14600 from pot
+*** SUMMARY ***
+Total pot 14600 | No rake
+Seat 4: WpZPutre (big blind) won 14600
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 24 - HandId: #2977057869712588810-227-1703197722 - Holdem no limit (700/3000/6000) - 2023/12/21 22:28:42 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Samapiker (92414)
+Seat 2: S1M4LB (60964)
+Seat 3: LikeMeBetter (36614)
+Seat 4: WpZPutre (121877)
+Seat 5: polak02 (88954)
+Seat 6: bagerra (31019)
+Seat 7: PatriKTruel_ (78958)
+Seat 8: P1xel7 (40078)
+*** ANTE/BLINDS ***
+WpZPutre posts ante 700
+polak02 posts ante 700
+Samapiker posts ante 700
+S1M4LB posts ante 700
+LikeMeBetter posts ante 700
+bagerra posts ante 700
+PatriKTruel_ posts ante 700
+P1xel7 posts ante 700
+WpZPutre posts small blind 3000
+polak02 posts big blind 6000
+Dealt to P1xel7 [4h Th]
+*** PRE-FLOP *** 
+bagerra folds
+PatriKTruel_ raises 72258 to 78258 and is all-in
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+PatriKTruel_ collected 92858 from pot
+*** SUMMARY ***
+Total pot 92858 | No rake
+Seat 7: PatriKTruel_ won 92858
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 25 - HandId: #2977057869712588810-228-1703197846 - Holdem no limit (800/4000/8000) - 2023/12/21 22:30:46 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Samapiker (91714)
+Seat 2: S1M4LB (60264)
+Seat 3: LikeMeBetter (35914)
+Seat 4: WpZPutre (118177)
+Seat 5: polak02 (82254)
+Seat 6: bagerra (30319)
+Seat 7: PatriKTruel_ (92858)
+Seat 8: P1xel7 (39378)
+*** ANTE/BLINDS ***
+polak02 posts ante 800
+bagerra posts ante 800
+Samapiker posts ante 800
+S1M4LB posts ante 800
+LikeMeBetter posts ante 800
+WpZPutre posts ante 800
+PatriKTruel_ posts ante 800
+P1xel7 posts ante 800
+polak02 posts small blind 4000
+bagerra posts big blind 8000
+Dealt to P1xel7 [Tc 3h]
+*** PRE-FLOP *** 
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre raises 109377 to 117377 and is all-in
+polak02 folds
+bagerra calls 21519 and is all-in
+*** FLOP *** [5d 4d 6d]
+*** TURN *** [5d 4d 6d][2h]
+*** RIVER *** [5d 4d 6d 2h][4s]
+*** SHOW DOWN ***
+WpZPutre shows [Ac 5h] (Two pairs : 5 and 4)
+bagerra shows [Qd Qh] (Two pairs : Queens and 4)
+bagerra collected 69438 from main pot
+WpZPutre collected 87858 from side pot 1
+*** SUMMARY ***
+Total pot 157296 | No rake
+Board: [5d 4d 6d 2h 4s]
+Seat 4: WpZPutre (button) showed [Ac 5h] and won 87858 with Two pairs : 5 and 4
+Seat 6: bagerra (big blind) showed [Qd Qh] and won 69438 with Two pairs : Queens and 4
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 25 - HandId: #2977057869712588810-229-1703197964 - Holdem no limit (800/4000/8000) - 2023/12/21 22:32:44 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Samapiker (90914)
+Seat 2: S1M4LB (59464)
+Seat 3: LikeMeBetter (35114)
+Seat 4: WpZPutre (87858)
+Seat 5: polak02 (77454)
+Seat 6: bagerra (69438)
+Seat 7: PatriKTruel_ (92058)
+Seat 8: P1xel7 (38578)
+*** ANTE/BLINDS ***
+bagerra posts ante 800
+PatriKTruel_ posts ante 800
+Samapiker posts ante 800
+S1M4LB posts ante 800
+LikeMeBetter posts ante 800
+WpZPutre posts ante 800
+polak02 posts ante 800
+P1xel7 posts ante 800
+bagerra posts small blind 4000
+PatriKTruel_ posts big blind 8000
+Dealt to P1xel7 [2c Ks]
+*** PRE-FLOP *** 
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ collected 18400 from pot
+*** SUMMARY ***
+Total pot 18400 | No rake
+Seat 7: PatriKTruel_ (big blind) won 18400
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 25 - HandId: #2977057869712588810-230-1703198019 - Holdem no limit (800/4000/8000) - 2023/12/21 22:33:39 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Samapiker (90114)
+Seat 2: S1M4LB (58664)
+Seat 3: LikeMeBetter (34314)
+Seat 4: WpZPutre (87058)
+Seat 5: polak02 (76654)
+Seat 6: bagerra (64638)
+Seat 7: PatriKTruel_ (101658)
+Seat 8: P1xel7 (37778)
+*** ANTE/BLINDS ***
+PatriKTruel_ posts ante 800
+P1xel7 posts ante 800
+Samapiker posts ante 800
+S1M4LB posts ante 800
+LikeMeBetter posts ante 800
+WpZPutre posts ante 800
+polak02 posts ante 800
+bagerra posts ante 800
+PatriKTruel_ posts small blind 4000
+P1xel7 posts big blind 8000
+Dealt to P1xel7 [6h Ad]
+*** PRE-FLOP *** 
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 collected 18400 from pot
+*** SUMMARY ***
+Total pot 18400 | No rake
+Seat 8: P1xel7 (big blind) won 18400
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 25 - HandId: #2977057869712588810-231-1703198101 - Holdem no limit (800/4000/8000) - 2023/12/21 22:35:01 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Samapiker (89314)
+Seat 2: S1M4LB (57864)
+Seat 3: LikeMeBetter (33514)
+Seat 4: WpZPutre (86258)
+Seat 5: polak02 (75854)
+Seat 6: bagerra (63838)
+Seat 7: PatriKTruel_ (96858)
+Seat 8: P1xel7 (47378)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 800
+Samapiker posts ante 800
+S1M4LB posts ante 800
+LikeMeBetter posts ante 800
+WpZPutre posts ante 800
+polak02 posts ante 800
+bagerra posts ante 800
+PatriKTruel_ posts ante 800
+P1xel7 posts small blind 4000
+Samapiker posts big blind 8000
+Dealt to P1xel7 [Qc 9c]
+*** PRE-FLOP *** 
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 raises 38578 to 46578 and is all-in
+Samapiker folds
+P1xel7 collected 60978 from pot
+*** SUMMARY ***
+Total pot 60978 | No rake
+Seat 8: P1xel7 (small blind) won 60978
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 25 - HandId: #2977057869712588810-232-1703198204 - Holdem no limit (800/4000/8000) - 2023/12/21 22:36:44 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Samapiker (80514)
+Seat 2: S1M4LB (57064)
+Seat 3: LikeMeBetter (32714)
+Seat 4: WpZPutre (85458)
+Seat 5: polak02 (75054)
+Seat 6: bagerra (63038)
+Seat 7: PatriKTruel_ (96058)
+Seat 8: P1xel7 (60978)
+*** ANTE/BLINDS ***
+Samapiker posts ante 800
+S1M4LB posts ante 800
+LikeMeBetter posts ante 800
+WpZPutre posts ante 800
+polak02 posts ante 800
+bagerra posts ante 800
+PatriKTruel_ posts ante 800
+P1xel7 posts ante 800
+Samapiker posts small blind 4000
+S1M4LB posts big blind 8000
+Dealt to P1xel7 [Jc 4h]
+*** PRE-FLOP *** 
+LikeMeBetter folds
+WpZPutre folds
+polak02 raises 26400 to 34400
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+polak02 collected 52800 from pot
+*** SUMMARY ***
+Total pot 52800 | No rake
+Seat 5: polak02 won 52800
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 26 - HandId: #2977057869712588810-233-1703198319 - Holdem no limit (1000/5000/10000) - 2023/12/21 22:38:39 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Samapiker (75714)
+Seat 2: S1M4LB (48264)
+Seat 3: LikeMeBetter (31914)
+Seat 4: WpZPutre (84658)
+Seat 5: polak02 (92654)
+Seat 6: bagerra (62238)
+Seat 7: PatriKTruel_ (95258)
+Seat 8: P1xel7 (60178)
+*** ANTE/BLINDS ***
+S1M4LB posts ante 1000
+LikeMeBetter posts ante 1000
+Samapiker posts ante 1000
+WpZPutre posts ante 1000
+polak02 posts ante 1000
+bagerra posts ante 1000
+PatriKTruel_ posts ante 1000
+P1xel7 posts ante 1000
+S1M4LB posts small blind 5000
+LikeMeBetter posts big blind 10000
+Dealt to P1xel7 [Qs Ts]
+*** PRE-FLOP *** 
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ raises 84258 to 94258 and is all-in
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+PatriKTruel_ collected 117258 from pot
+*** SUMMARY ***
+Total pot 117258 | No rake
+Seat 7: PatriKTruel_ won 117258
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 26 - HandId: #2977057869712588810-234-1703198410 - Holdem no limit (1000/5000/10000) - 2023/12/21 22:40:10 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Samapiker (74714)
+Seat 2: S1M4LB (42264)
+Seat 3: LikeMeBetter (20914)
+Seat 4: WpZPutre (83658)
+Seat 5: polak02 (91654)
+Seat 6: bagerra (61238)
+Seat 7: PatriKTruel_ (117258)
+Seat 8: P1xel7 (59178)
+*** ANTE/BLINDS ***
+LikeMeBetter posts ante 1000
+WpZPutre posts ante 1000
+Samapiker posts ante 1000
+S1M4LB posts ante 1000
+polak02 posts ante 1000
+bagerra posts ante 1000
+PatriKTruel_ posts ante 1000
+P1xel7 posts ante 1000
+LikeMeBetter posts small blind 5000
+WpZPutre posts big blind 10000
+Dealt to P1xel7 [As Qc]
+*** PRE-FLOP *** 
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre collected 23000 from pot
+*** SUMMARY ***
+Total pot 23000 | No rake
+Seat 4: WpZPutre (big blind) won 23000
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 26 - HandId: #2977057869712588810-235-1703198499 - Holdem no limit (1000/5000/10000) - 2023/12/21 22:41:39 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #3 is the button
+Seat 1: Samapiker (73714)
+Seat 2: S1M4LB (41264)
+Seat 3: LikeMeBetter (14914)
+Seat 4: WpZPutre (95658)
+Seat 5: polak02 (90654)
+Seat 6: bagerra (60238)
+Seat 7: PatriKTruel_ (116258)
+Seat 8: P1xel7 (58178)
+*** ANTE/BLINDS ***
+WpZPutre posts ante 1000
+polak02 posts ante 1000
+Samapiker posts ante 1000
+S1M4LB posts ante 1000
+LikeMeBetter posts ante 1000
+bagerra posts ante 1000
+PatriKTruel_ posts ante 1000
+P1xel7 posts ante 1000
+WpZPutre posts small blind 5000
+polak02 posts big blind 10000
+Dealt to P1xel7 [2h 7s]
+*** PRE-FLOP *** 
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 collected 23000 from pot
+*** SUMMARY ***
+Total pot 23000 | No rake
+Seat 5: polak02 (big blind) won 23000
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 26 - HandId: #2977057869712588810-236-1703198593 - Holdem no limit (1000/5000/10000) - 2023/12/21 22:43:13 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #4 is the button
+Seat 1: Samapiker (72714)
+Seat 2: S1M4LB (40264)
+Seat 3: LikeMeBetter (13914)
+Seat 4: WpZPutre (89658)
+Seat 5: polak02 (102654)
+Seat 6: bagerra (59238)
+Seat 7: PatriKTruel_ (115258)
+Seat 8: P1xel7 (57178)
+*** ANTE/BLINDS ***
+polak02 posts ante 1000
+bagerra posts ante 1000
+Samapiker posts ante 1000
+S1M4LB posts ante 1000
+LikeMeBetter posts ante 1000
+WpZPutre posts ante 1000
+PatriKTruel_ posts ante 1000
+P1xel7 posts ante 1000
+polak02 posts small blind 5000
+bagerra posts big blind 10000
+Dealt to P1xel7 [7s 3s]
+*** PRE-FLOP *** 
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 raises 91654 to 101654 and is all-in
+bagerra folds
+polak02 collected 119654 from pot
+*** SUMMARY ***
+Total pot 119654 | No rake
+Seat 5: polak02 (small blind) won 119654
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 26 - HandId: #2977057869712588810-237-1703198740 - Holdem no limit (1000/5000/10000) - 2023/12/21 22:45:40 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #5 is the button
+Seat 1: Samapiker (71714)
+Seat 2: S1M4LB (39264)
+Seat 3: LikeMeBetter (12914)
+Seat 4: WpZPutre (88658)
+Seat 5: polak02 (119654)
+Seat 6: bagerra (48238)
+Seat 7: PatriKTruel_ (114258)
+Seat 8: P1xel7 (56178)
+*** ANTE/BLINDS ***
+bagerra posts ante 1000
+PatriKTruel_ posts ante 1000
+Samapiker posts ante 1000
+S1M4LB posts ante 1000
+LikeMeBetter posts ante 1000
+WpZPutre posts ante 1000
+polak02 posts ante 1000
+P1xel7 posts ante 1000
+bagerra posts small blind 5000
+PatriKTruel_ posts big blind 10000
+Dealt to P1xel7 [4d Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ collected 23000 from pot
+*** SUMMARY ***
+Total pot 23000 | No rake
+Seat 7: PatriKTruel_ (big blind) won 23000
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 27 - HandId: #2977057869712588810-238-1703198836 - Holdem no limit (1350/6000/12000) - 2023/12/21 22:47:16 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #6 is the button
+Seat 1: Samapiker (70714)
+Seat 2: S1M4LB (38264)
+Seat 3: LikeMeBetter (11914)
+Seat 4: WpZPutre (87658)
+Seat 5: polak02 (118654)
+Seat 6: bagerra (42238)
+Seat 7: PatriKTruel_ (126258)
+Seat 8: P1xel7 (55178)
+*** ANTE/BLINDS ***
+PatriKTruel_ posts ante 1350
+P1xel7 posts ante 1350
+Samapiker posts ante 1350
+S1M4LB posts ante 1350
+LikeMeBetter posts ante 1350
+WpZPutre posts ante 1350
+polak02 posts ante 1350
+bagerra posts ante 1350
+PatriKTruel_ posts small blind 6000
+P1xel7 posts big blind 12000
+Dealt to P1xel7 [5c Qc]
+*** PRE-FLOP *** 
+Samapiker folds
+S1M4LB folds
+LikeMeBetter calls 10564 and is all-in
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+*** FLOP *** [9c 4c Js]
+*** TURN *** [9c 4c Js][7h]
+*** RIVER *** [9c 4c Js 7h][Td]
+*** SHOW DOWN ***
+LikeMeBetter shows [Jh 9s] (Two pairs : Jacks and 9)
+P1xel7 shows [5c Qc] (High card : Queen)
+P1xel7 collected 1436 from side pot 1
+LikeMeBetter collected 37928 from main pot
+*** SUMMARY ***
+Total pot 39364 | No rake
+Board: [9c 4c Js 7h Td]
+Seat 3: LikeMeBetter showed [Jh 9s] and won 37928 with Two pairs : Jacks and 9
+Seat 8: P1xel7 (big blind) showed [5c Qc] and won 1436 with High card : Queen
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 27 - HandId: #2977057869712588810-239-1703198938 - Holdem no limit (1350/6000/12000) - 2023/12/21 22:48:58 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #7 is the button
+Seat 1: Samapiker (69364)
+Seat 2: S1M4LB (36914)
+Seat 3: LikeMeBetter (37928)
+Seat 4: WpZPutre (86308)
+Seat 5: polak02 (117304)
+Seat 6: bagerra (40888)
+Seat 7: PatriKTruel_ (118908)
+Seat 8: P1xel7 (43264)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1350
+Samapiker posts ante 1350
+S1M4LB posts ante 1350
+LikeMeBetter posts ante 1350
+WpZPutre posts ante 1350
+polak02 posts ante 1350
+bagerra posts ante 1350
+PatriKTruel_ posts ante 1350
+P1xel7 posts small blind 6000
+Samapiker posts big blind 12000
+Dealt to P1xel7 [4s 9s]
+*** PRE-FLOP *** 
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker collected 28800 from pot
+*** SUMMARY ***
+Total pot 28800 | No rake
+Seat 1: Samapiker (big blind) won 28800
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 27 - HandId: #2977057869712588810-240-1703199008 - Holdem no limit (1350/6000/12000) - 2023/12/21 22:50:08 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #8 is the button
+Seat 1: Samapiker (84814)
+Seat 2: S1M4LB (35564)
+Seat 3: LikeMeBetter (36578)
+Seat 4: WpZPutre (84958)
+Seat 5: polak02 (115954)
+Seat 6: bagerra (39538)
+Seat 7: PatriKTruel_ (117558)
+Seat 8: P1xel7 (35914)
+*** ANTE/BLINDS ***
+Samapiker posts ante 1350
+S1M4LB posts ante 1350
+LikeMeBetter posts ante 1350
+WpZPutre posts ante 1350
+polak02 posts ante 1350
+bagerra posts ante 1350
+PatriKTruel_ posts ante 1350
+P1xel7 posts ante 1350
+Samapiker posts small blind 6000
+S1M4LB posts big blind 12000
+Dealt to P1xel7 [3d Kd]
+*** PRE-FLOP *** 
+LikeMeBetter folds
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB collected 28800 from pot
+*** SUMMARY ***
+Total pot 28800 | No rake
+Seat 2: S1M4LB (big blind) won 28800
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 27 - HandId: #2977057869712588810-241-1703199101 - Holdem no limit (1350/6000/12000) - 2023/12/21 22:51:41 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #1 is the button
+Seat 1: Samapiker (77464)
+Seat 2: S1M4LB (51014)
+Seat 3: LikeMeBetter (35228)
+Seat 4: WpZPutre (83608)
+Seat 5: polak02 (114604)
+Seat 6: bagerra (38188)
+Seat 7: PatriKTruel_ (116208)
+Seat 8: P1xel7 (34564)
+*** ANTE/BLINDS ***
+S1M4LB posts ante 1350
+LikeMeBetter posts ante 1350
+Samapiker posts ante 1350
+WpZPutre posts ante 1350
+polak02 posts ante 1350
+bagerra posts ante 1350
+PatriKTruel_ posts ante 1350
+P1xel7 posts ante 1350
+S1M4LB posts small blind 6000
+LikeMeBetter posts big blind 12000
+Dealt to P1xel7 [7h 4s]
+*** PRE-FLOP *** 
+WpZPutre folds
+polak02 folds
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB raises 24000 to 36000
+LikeMeBetter folds
+S1M4LB collected 58800 from pot
+*** SUMMARY ***
+Total pot 58800 | No rake
+Seat 2: S1M4LB (small blind) won 58800
+
+
+Winamax Poker - Tournament "Tremplin Caen" buyIn: 0€ + 0€ level: 27 - HandId: #2977057869712588810-242-1703199207 - Holdem no limit (1350/6000/12000) - 2023/12/21 22:53:27 UTC
+Table: 'Tremplin Caen(693150300)#0009' 8-max (real money) Seat #2 is the button
+Seat 1: Samapiker (76114)
+Seat 2: S1M4LB (72464)
+Seat 3: LikeMeBetter (21878)
+Seat 4: WpZPutre (82258)
+Seat 5: polak02 (113254)
+Seat 6: bagerra (36838)
+Seat 7: PatriKTruel_ (114858)
+Seat 8: P1xel7 (33214)
+*** ANTE/BLINDS ***
+LikeMeBetter posts ante 1350
+WpZPutre posts ante 1350
+Samapiker posts ante 1350
+S1M4LB posts ante 1350
+polak02 posts ante 1350
+bagerra posts ante 1350
+PatriKTruel_ posts ante 1350
+P1xel7 posts ante 1350
+LikeMeBetter posts small blind 6000
+WpZPutre posts big blind 12000
+Dealt to P1xel7 [9c Kh]
+*** PRE-FLOP *** 
+polak02 raises 40800 to 52800
+bagerra folds
+PatriKTruel_ folds
+P1xel7 folds
+Samapiker folds
+S1M4LB folds
+LikeMeBetter folds
+WpZPutre folds
+polak02 collected 81600 from pot
+*** SUMMARY ***
+Total pot 81600 | No rake
+Seat 5: polak02 won 81600
+
+

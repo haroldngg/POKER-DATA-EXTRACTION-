@@ -1,0 +1,475 @@
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3069735348335542273-5-1699301255 - Holdem no limit (15/50/100) - 2023/11/06 20:07:35 UTC
+Table: 'SKENIGMA Payant A(714728457)#00' 6-max (real money) Seat #2 is the button
+Seat 1: Marsoninho (20901)
+Seat 2: P1xel7 (19640)
+Seat 3: Romanovitch1 (20770)
+Seat 4: Tullochboy42 (19940)
+Seat 5: mataberrant (19890)
+Seat 6: madibala (18859)
+*** ANTE/BLINDS ***
+Romanovitch1 posts ante 15
+Tullochboy42 posts ante 15
+Marsoninho posts ante 15
+P1xel7 posts ante 15
+mataberrant posts ante 15
+madibala posts ante 15
+Romanovitch1 posts small blind 50
+Tullochboy42 posts big blind 100
+Dealt to P1xel7 [7c Jc]
+*** PRE-FLOP *** 
+mataberrant folds
+madibala folds
+Marsoninho calls 100
+P1xel7 folds
+Romanovitch1 calls 50
+Tullochboy42 checks
+*** FLOP *** [8c Kh Ah]
+Romanovitch1 checks
+Tullochboy42 checks
+Marsoninho bets 300
+Romanovitch1 calls 300
+Tullochboy42 calls 300
+*** TURN *** [8c Kh Ah][Jd]
+Romanovitch1 checks
+Tullochboy42 checks
+Marsoninho checks
+*** RIVER *** [8c Kh Ah Jd][2d]
+Romanovitch1 checks
+Tullochboy42 checks
+Marsoninho checks
+*** SHOW DOWN ***
+Marsoninho shows [4h Qh] (High card : Ace)
+Romanovitch1 shows [5h Th] (High card : Ace)
+Tullochboy42 shows [Ac 9h] (One pair : Aces)
+Tullochboy42 collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | No rake
+Board: [8c Kh Ah Jd 2d]
+Seat 1: Marsoninho showed [4h Qh] and lost with High card : Ace
+Seat 3: Romanovitch1 (small blind) showed [5h Th] and lost with High card : Ace
+Seat 4: Tullochboy42 (big blind) showed [Ac 9h] and won 1290 with One pair : Aces
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 2 - HandId: #3069735348335542273-6-1699301380 - Holdem no limit (20/75/150) - 2023/11/06 20:09:40 UTC
+Table: 'SKENIGMA Payant A(714728457)#00' 6-max (real money) Seat #3 is the button
+Seat 1: Marsoninho (20486)
+Seat 2: P1xel7 (19625)
+Seat 3: Romanovitch1 (20355)
+Seat 4: Tullochboy42 (20815)
+Seat 5: mataberrant (19875)
+Seat 6: madibala (18844)
+*** ANTE/BLINDS ***
+Tullochboy42 posts ante 20
+mataberrant posts ante 20
+Marsoninho posts ante 20
+P1xel7 posts ante 20
+Romanovitch1 posts ante 20
+madibala posts ante 20
+Tullochboy42 posts small blind 75
+mataberrant posts big blind 150
+Dealt to P1xel7 [3s Kd]
+*** PRE-FLOP *** 
+madibala folds
+Marsoninho raises 300 to 450
+P1xel7 folds
+Romanovitch1 calls 450
+Tullochboy42 folds
+mataberrant folds
+*** FLOP *** [Ts Qc 2d]
+Marsoninho checks
+Romanovitch1 checks
+*** TURN *** [Ts Qc 2d][8h]
+Marsoninho checks
+Romanovitch1 checks
+*** RIVER *** [Ts Qc 2d 8h][Qd]
+Marsoninho checks
+Romanovitch1 checks
+*** SHOW DOWN ***
+Romanovitch1 shows [Kc 9d] (One pair : Queens)
+Marsoninho shows [6h 6s] (Two pairs : Queens and 6)
+Marsoninho collected 1245 from pot
+*** SUMMARY ***
+Total pot 1245 | No rake
+Board: [Ts Qc 2d 8h Qd]
+Seat 1: Marsoninho showed [6h 6s] and won 1245 with Two pairs : Queens and 6
+Seat 3: Romanovitch1 (button) showed [Kc 9d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3069735348335542274-1-1699301471 - Holdem no limit (20/75/150) - 2023/11/06 20:11:11 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #5 is the button
+Seat 4: Marsoninho (21261)
+Seat 5: P1xel7 (19605)
+Seat 6: GBG57018 (20000)
+*** ANTE/BLINDS ***
+GBG57018 posts ante 20
+Marsoninho posts ante 20
+P1xel7 posts ante 20
+GBG57018 posts small blind 75
+Marsoninho posts big blind 150
+Dealt to P1xel7 [As 7h]
+*** PRE-FLOP *** 
+P1xel7 raises 180 to 330
+GBG57018 folds
+Marsoninho calls 180
+*** FLOP *** [4c 9s 5s]
+Marsoninho checks
+P1xel7 checks
+*** TURN *** [4c 9s 5s][Js]
+Marsoninho checks
+P1xel7 checks
+*** RIVER *** [4c 9s 5s Js][3s]
+Marsoninho bets 517
+P1xel7 raises 533 to 1050
+Marsoninho calls 533
+*** SHOW DOWN ***
+Marsoninho shows [2s Ac] (Flush Jack high)
+P1xel7 shows [As 7h] (Flush Ace high)
+P1xel7 collected 2895 from pot
+*** SUMMARY ***
+Total pot 2895 | No rake
+Board: [4c 9s 5s Js 3s]
+Seat 4: Marsoninho (big blind) showed [2s Ac] and lost with Flush Jack high
+Seat 5: P1xel7 (button) showed [As 7h] and won 2895 with Flush Ace high
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3069735348335542274-2-1699301581 - Holdem no limit (20/75/150) - 2023/11/06 20:13:01 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #6 is the button
+Seat 3: Romanovitch1 (19865)
+Seat 4: Marsoninho (19861)
+Seat 5: P1xel7 (21100)
+Seat 6: GBG57018 (19905)
+*** ANTE/BLINDS ***
+Marsoninho posts ante 20
+P1xel7 posts ante 20
+GBG57018 posts ante 20
+Marsoninho posts small blind 75
+P1xel7 posts big blind 150
+Dealt to P1xel7 [Ah Jd]
+*** PRE-FLOP *** 
+GBG57018 raises 225 to 375
+Marsoninho calls 300
+P1xel7 calls 225
+*** FLOP *** [6c 8c 6d]
+Marsoninho checks
+P1xel7 checks
+GBG57018 bets 525
+Marsoninho folds
+P1xel7 folds
+GBG57018 collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Board: [6c 8c 6d]
+Seat 6: GBG57018 (button) won 1710
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 1 - HandId: #3069735348335542274-3-1699301669 - Holdem no limit (20/75/150) - 2023/11/06 20:14:29 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #4 is the button
+Seat 3: Romanovitch1 (19865)
+Seat 4: Marsoninho (19466)
+Seat 5: P1xel7 (20705)
+Seat 6: GBG57018 (20695)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 20
+GBG57018 posts ante 20
+Romanovitch1 posts ante 20
+Marsoninho posts ante 20
+P1xel7 posts small blind 75
+GBG57018 posts big blind 150
+Dealt to P1xel7 [6d 2h]
+*** PRE-FLOP *** 
+Romanovitch1 raises 225 to 375
+Marsoninho folds
+P1xel7 folds
+GBG57018 calls 225
+*** FLOP *** [Ks 2c Kc]
+GBG57018 checks
+Romanovitch1 checks
+*** TURN *** [Ks 2c Kc][8s]
+GBG57018 bets 600
+Romanovitch1 raises 1053 to 1653
+GBG57018 calls 1053
+*** RIVER *** [Ks 2c Kc 8s][As]
+GBG57018 bets 1050
+Romanovitch1 calls 1050
+*** SHOW DOWN ***
+GBG57018 shows [6c 3c] (One pair : Kings)
+Romanovitch1 shows [Kh Jd] (Trips of Kings)
+Romanovitch1 collected 6311 from pot
+*** SUMMARY ***
+Total pot 6311 | No rake
+Board: [Ks 2c Kc 8s As]
+Seat 3: Romanovitch1 showed [Kh Jd] and won 6311 with Trips of Kings
+Seat 6: GBG57018 (big blind) showed [6c 3c] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3069735348335542274-4-1699301769 - Holdem no limit (25/100/200) - 2023/11/06 20:16:09 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #5 is the button
+Seat 3: Romanovitch1 (23078)
+Seat 4: Marsoninho (19446)
+Seat 5: P1xel7 (20610)
+Seat 6: GBG57018 (17597)
+*** ANTE/BLINDS ***
+GBG57018 posts ante 25
+Romanovitch1 posts ante 25
+Marsoninho posts ante 25
+P1xel7 posts ante 25
+GBG57018 posts small blind 100
+Romanovitch1 posts big blind 200
+Dealt to P1xel7 [Kd 3c]
+*** PRE-FLOP *** 
+Marsoninho raises 400 to 600
+P1xel7 folds
+GBG57018 calls 500
+Romanovitch1 folds
+*** FLOP *** [Ks Qh 5h]
+GBG57018 checks
+Marsoninho checks
+*** TURN *** [Ks Qh 5h][8s]
+GBG57018 checks
+Marsoninho bets 600
+GBG57018 folds
+Marsoninho collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [Ks Qh 5h 8s]
+Seat 4: Marsoninho won 2100
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3069735348335542274-5-1699301841 - Holdem no limit (25/100/200) - 2023/11/06 20:17:21 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #6 is the button
+Seat 3: Romanovitch1 (22853)
+Seat 4: Marsoninho (20321)
+Seat 5: P1xel7 (20585)
+Seat 6: GBG57018 (16972)
+*** ANTE/BLINDS ***
+Romanovitch1 posts ante 25
+Marsoninho posts ante 25
+P1xel7 posts ante 25
+GBG57018 posts ante 25
+Romanovitch1 posts small blind 100
+Marsoninho posts big blind 200
+Dealt to P1xel7 [9s Jc]
+*** PRE-FLOP *** 
+P1xel7 folds
+GBG57018 folds
+Romanovitch1 calls 100
+Marsoninho raises 400 to 600
+Romanovitch1 folds
+Marsoninho collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 4: Marsoninho (big blind) won 900
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3069735348335542274-6-1699301880 - Holdem no limit (25/100/200) - 2023/11/06 20:18:00 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #3 is the button
+Seat 3: Romanovitch1 (22628)
+Seat 4: Marsoninho (20596)
+Seat 5: P1xel7 (20560)
+Seat 6: GBG57018 (16947)
+*** ANTE/BLINDS ***
+Marsoninho posts ante 25
+P1xel7 posts ante 25
+Romanovitch1 posts ante 25
+GBG57018 posts ante 25
+Marsoninho posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Ah 4s]
+*** PRE-FLOP *** 
+GBG57018 folds
+Romanovitch1 raises 300 to 500
+Marsoninho folds
+P1xel7 calls 300
+*** FLOP *** [Ad 6c 4h]
+P1xel7 checks
+Romanovitch1 bets 396
+P1xel7 calls 396
+*** TURN *** [Ad 6c 4h][9s]
+P1xel7 checks
+Romanovitch1 checks
+*** RIVER *** [Ad 6c 4h 9s][Jh]
+P1xel7 bets 498
+Romanovitch1 folds
+P1xel7 collected 2490 from pot
+*** SUMMARY ***
+Total pot 2490 | No rake
+Board: [Ad 6c 4h 9s Jh]
+Seat 5: P1xel7 (big blind) won 2490
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3069735348335542274-7-1699301980 - Holdem no limit (25/100/200) - 2023/11/06 20:19:40 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #4 is the button
+Seat 3: Romanovitch1 (21707)
+Seat 4: Marsoninho (20471)
+Seat 5: P1xel7 (21631)
+Seat 6: GBG57018 (16922)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+GBG57018 posts ante 25
+Romanovitch1 posts ante 25
+Marsoninho posts ante 25
+P1xel7 posts small blind 100
+GBG57018 posts big blind 200
+Dealt to P1xel7 [Qs Jd]
+*** PRE-FLOP *** 
+Romanovitch1 raises 300 to 500
+Marsoninho folds
+P1xel7 calls 400
+GBG57018 calls 300
+*** FLOP *** [9h Kd 6d]
+P1xel7 checks
+GBG57018 checks
+Romanovitch1 checks
+*** TURN *** [9h Kd 6d][5h]
+P1xel7 checks
+GBG57018 bets 1000
+Romanovitch1 folds
+P1xel7 folds
+GBG57018 collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Board: [9h Kd 6d 5h]
+Seat 6: GBG57018 (big blind) won 2600
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3069735348335542274-8-1699302081 - Holdem no limit (25/100/200) - 2023/11/06 20:21:21 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #5 is the button
+Seat 3: Romanovitch1 (21182)
+Seat 4: Marsoninho (20446)
+Seat 5: P1xel7 (21106)
+Seat 6: GBG57018 (17997)
+*** ANTE/BLINDS ***
+GBG57018 posts ante 25
+Romanovitch1 posts ante 25
+Marsoninho posts ante 25
+P1xel7 posts ante 25
+GBG57018 posts small blind 100
+Romanovitch1 posts big blind 200
+Dealt to P1xel7 [4c 6s]
+*** PRE-FLOP *** 
+Marsoninho raises 300 to 500
+P1xel7 folds
+GBG57018 folds
+Romanovitch1 calls 300
+*** FLOP *** [7h 9s 3s]
+Romanovitch1 checks
+Marsoninho checks
+*** TURN *** [7h 9s 3s][2c]
+Romanovitch1 checks
+Marsoninho checks
+*** RIVER *** [7h 9s 3s 2c][Td]
+Romanovitch1 checks
+Marsoninho checks
+*** SHOW DOWN ***
+Romanovitch1 shows [4d Kh] (High card : King)
+Marsoninho shows [Ks Jc] (High card : King)
+Marsoninho collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | No rake
+Board: [7h 9s 3s 2c Td]
+Seat 3: Romanovitch1 (big blind) showed [4d Kh] and lost with High card : King
+Seat 4: Marsoninho showed [Ks Jc] and won 1200 with High card : King
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3069735348335542274-9-1699302164 - Holdem no limit (25/100/200) - 2023/11/06 20:22:44 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #6 is the button
+Seat 3: Romanovitch1 (20657)
+Seat 4: Marsoninho (21121)
+Seat 5: P1xel7 (21081)
+Seat 6: GBG57018 (17872)
+*** ANTE/BLINDS ***
+Romanovitch1 posts ante 25
+Marsoninho posts ante 25
+P1xel7 posts ante 25
+GBG57018 posts ante 25
+Romanovitch1 posts small blind 100
+Marsoninho posts big blind 200
+Dealt to P1xel7 [3d Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+GBG57018 folds
+Romanovitch1 calls 100
+Marsoninho checks
+*** FLOP *** [Qc Kd 8d]
+Romanovitch1 checks
+Marsoninho checks
+*** TURN *** [Qc Kd 8d][2c]
+Romanovitch1 checks
+Marsoninho checks
+*** RIVER *** [Qc Kd 8d 2c][3s]
+Romanovitch1 checks
+Marsoninho bets 500
+Romanovitch1 calls 500
+*** SHOW DOWN ***
+Romanovitch1 shows [As 6c] (High card : Ace)
+Marsoninho shows [Qh Js] (One pair : Queens)
+Marsoninho collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Qc Kd 8d 2c 3s]
+Seat 3: Romanovitch1 (small blind) showed [As 6c] and lost with High card : Ace
+Seat 4: Marsoninho (big blind) showed [Qh Js] and won 1500 with One pair : Queens
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3069735348335542274-10-1699302268 - Holdem no limit (30/125/250) - 2023/11/06 20:24:28 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #3 is the button
+Seat 2: Jibaro (20000)
+Seat 3: Romanovitch1 (19932)
+Seat 4: Marsoninho (21896)
+Seat 5: P1xel7 (21056)
+Seat 6: GBG57018 (17847)
+*** ANTE/BLINDS ***
+Marsoninho posts ante 30
+P1xel7 posts ante 30
+Jibaro posts ante 30
+Romanovitch1 posts ante 30
+GBG57018 posts ante 30
+Marsoninho posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [8s 5c]
+*** PRE-FLOP *** 
+GBG57018 folds
+Jibaro raises 375 to 625
+Romanovitch1 folds
+Marsoninho folds
+P1xel7 folds
+Jibaro collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | No rake
+Seat 2: Jibaro won 1150
+
+
+Winamax Poker - Tournament "SKENIGMA Payant A" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3069735348335542274-11-1699302306 - Holdem no limit (30/125/250) - 2023/11/06 20:25:06 UTC
+Table: 'SKENIGMA Payant A(714728457)#01' 6-max (real money) Seat #4 is the button
+Seat 2: Jibaro (20495)
+Seat 3: Romanovitch1 (19902)
+Seat 4: Marsoninho (21741)
+Seat 5: P1xel7 (20776)
+Seat 6: GBG57018 (17817)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+GBG57018 posts ante 30
+Jibaro posts ante 30
+Romanovitch1 posts ante 30
+Marsoninho posts ante 30
+P1xel7 posts small blind 125
+GBG57018 posts big blind 250
+Dealt to P1xel7 [8d 4c]
+*** PRE-FLOP *** 
+Jibaro raises 375 to 625
+Romanovitch1 raises 1250 to 1875
+Marsoninho folds
+P1xel7 folds
+GBG57018 folds
+Jibaro calls 1250
+*** FLOP *** [Ts As Kc]
+Jibaro checks
+Romanovitch1 bets 1411
+Jibaro folds
+Romanovitch1 collected 5686 from pot
+*** SUMMARY ***
+Total pot 5686 | No rake
+Board: [Ts As Kc]
+Seat 3: Romanovitch1 won 5686
+
+

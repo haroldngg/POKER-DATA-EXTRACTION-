@@ -1,0 +1,478 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277615978824859649-1-1709491846 - Holdem no limit (10/20) - 2024/03/03 18:50:46 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #4 is the button
+Seat 1: wmx-6cb3lj6 (500)
+Seat 2: JB_Boss2 (500)
+Seat 3: wmx-83dkt8d (500)
+Seat 4: Carojero (500)
+Seat 5: P1xel7 (500)
+Seat 6: Donpablo6873 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Donpablo6873 posts big blind 20
+Dealt to P1xel7 [Kd 5c]
+*** PRE-FLOP *** 
+wmx-6cb3lj6 calls 20
+JB_Boss2 calls 20
+wmx-83dkt8d calls 20
+Carojero raises 480 to 500 and is all-in
+P1xel7 folds
+Donpablo6873 folds
+wmx-6cb3lj6 calls 480 and is all-in
+JB_Boss2 folds
+wmx-83dkt8d folds
+*** FLOP *** [Qc 6h 6d]
+*** TURN *** [Qc 6h 6d][9h]
+*** RIVER *** [Qc 6h 6d 9h][9s]
+*** SHOW DOWN ***
+wmx-6cb3lj6 shows [2c As] (Two pairs : 9 and 6)
+Carojero shows [Ac 7c] (Two pairs : 9 and 6)
+Carojero collected 535 from pot
+wmx-6cb3lj6 collected 535 from pot
+*** SUMMARY ***
+Total pot 1070 | No rake
+Board: [Qc 6h 6d 9h 9s]
+Seat 1: wmx-6cb3lj6 showed [2c As] and won 535 with Two pairs : 9 and 6
+Seat 4: Carojero (button) showed [Ac 7c] and won 535 with Two pairs : 9 and 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3277615978824859649-2-1709491888 - Holdem no limit (10/20) - 2024/03/03 18:51:28 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #5 is the button
+Seat 1: wmx-6cb3lj6 (535)
+Seat 2: JB_Boss2 (480)
+Seat 3: wmx-83dkt8d (480)
+Seat 4: Carojero (535)
+Seat 5: P1xel7 (490)
+Seat 6: Donpablo6873 (480)
+*** ANTE/BLINDS ***
+Donpablo6873 posts small blind 10
+wmx-6cb3lj6 posts big blind 20
+Dealt to P1xel7 [2c 2h]
+*** PRE-FLOP *** 
+JB_Boss2 calls 20
+wmx-83dkt8d raises 20 to 40
+Carojero folds
+P1xel7 folds
+Donpablo6873 calls 30
+wmx-6cb3lj6 calls 20
+JB_Boss2 calls 20
+*** FLOP *** [5d 7h Td]
+Donpablo6873 checks
+wmx-6cb3lj6 bets 160
+JB_Boss2 calls 160
+wmx-83dkt8d folds
+Donpablo6873 folds
+*** TURN *** [5d 7h Td][Js]
+wmx-6cb3lj6 bets 168
+JB_Boss2 calls 168
+*** RIVER *** [5d 7h Td Js][4d]
+wmx-6cb3lj6 bets 90
+JB_Boss2 calls 90
+*** SHOW DOWN ***
+JB_Boss2 shows [6d 5s] (One pair : 5)
+wmx-6cb3lj6 shows [7d Ks] (One pair : 7)
+wmx-6cb3lj6 collected 996 from pot
+*** SUMMARY ***
+Total pot 996 | No rake
+Board: [5d 7h Td Js 4d]
+Seat 1: wmx-6cb3lj6 (big blind) showed [7d Ks] and won 996 with One pair : 7
+Seat 2: JB_Boss2 showed [6d 5s] and lost with One pair : 5
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277615978824859649-3-1709491965 - Holdem no limit (15/30) - 2024/03/03 18:52:45 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #6 is the button
+Seat 1: wmx-6cb3lj6 (1073)
+Seat 2: JB_Boss2 (22)
+Seat 3: wmx-83dkt8d (440)
+Seat 4: Carojero (535)
+Seat 5: P1xel7 (490)
+Seat 6: Donpablo6873 (440)
+*** ANTE/BLINDS ***
+wmx-6cb3lj6 posts small blind 15
+JB_Boss2 posts big blind 22 and is all-in
+Dealt to P1xel7 [8s Td]
+*** PRE-FLOP *** 
+wmx-83dkt8d folds
+Carojero folds
+P1xel7 folds
+Donpablo6873 calls 30
+wmx-6cb3lj6 calls 15
+*** FLOP *** [7d Qs 3c]
+wmx-6cb3lj6 checks
+Donpablo6873 checks
+*** TURN *** [7d Qs 3c][3d]
+wmx-6cb3lj6 bets 53
+Donpablo6873 calls 53
+*** RIVER *** [7d Qs 3c 3d][3h]
+wmx-6cb3lj6 bets 188
+Donpablo6873 folds
+*** SHOW DOWN ***
+wmx-6cb3lj6 shows [7h Jd] (Full of 3 and 7)
+JB_Boss2 shows [Ah As] (Full of 3 and Aces)
+JB_Boss2 collected 66 from main pot
+wmx-6cb3lj6 collected 310 from side pot 1
+*** SUMMARY ***
+Total pot 376 | No rake
+Board: [7d Qs 3c 3d 3h]
+Seat 1: wmx-6cb3lj6 (small blind) showed [7h Jd] and won 310 with Full of 3 and 7
+Seat 2: JB_Boss2 (big blind) showed [Ah As] and won 66 with Full of 3 and Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3277615978824859649-4-1709492011 - Holdem no limit (15/30) - 2024/03/03 18:53:31 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #1 is the button
+Seat 1: wmx-6cb3lj6 (1112)
+Seat 2: JB_Boss2 (66)
+Seat 3: wmx-83dkt8d (440)
+Seat 4: Carojero (535)
+Seat 5: P1xel7 (490)
+Seat 6: Donpablo6873 (357)
+*** ANTE/BLINDS ***
+JB_Boss2 posts small blind 15
+wmx-83dkt8d posts big blind 30
+Dealt to P1xel7 [5h 5c]
+*** PRE-FLOP *** 
+Carojero calls 30
+P1xel7 folds
+Donpablo6873 calls 30
+wmx-6cb3lj6 calls 30
+JB_Boss2 calls 15
+wmx-83dkt8d checks
+*** FLOP *** [Ad 9s 7d]
+JB_Boss2 bets 36 and is all-in
+wmx-83dkt8d calls 36
+Carojero raises 469 to 505 and is all-in
+Donpablo6873 calls 327 and is all-in
+wmx-6cb3lj6 calls 505
+wmx-83dkt8d folds
+*** TURN *** [Ad 9s 7d][Jd]
+*** RIVER *** [Ad 9s 7d Jd][Ts]
+*** SHOW DOWN ***
+wmx-6cb3lj6 shows [Jh Td] (Two pairs : Jacks and Tens)
+JB_Boss2 shows [Qd 9h] (One pair : 9)
+Donpablo6873 shows [6d 3d] (Flush Ace high)
+Carojero shows [8d Kd] (Flush Ace high)
+Carojero collected 1559 from pot
+*** SUMMARY ***
+Total pot 1559 | No rake
+Board: [Ad 9s 7d Jd Ts]
+Seat 1: wmx-6cb3lj6 (button) showed [Jh Td] and lost with Two pairs : Jacks and Tens
+Seat 2: JB_Boss2 (small blind) showed [Qd 9h] and lost with One pair : 9
+Seat 4: Carojero showed [8d Kd] and won 1559 with Flush Ace high
+Seat 6: Donpablo6873 showed [6d 3d] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3277615978824859649-5-1709492049 - Holdem no limit (20/40) - 2024/03/03 18:54:09 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #2 is the button
+Seat 1: wmx-6cb3lj6 (577)
+Seat 3: wmx-83dkt8d (374)
+Seat 4: Carojero (1559)
+Seat 5: P1xel7 (490)
+*** ANTE/BLINDS ***
+wmx-83dkt8d posts small blind 20
+Carojero posts big blind 40
+Dealt to P1xel7 [Th 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-6cb3lj6 calls 40
+wmx-83dkt8d calls 20
+Carojero checks
+*** FLOP *** [Jd 3d Jh]
+wmx-83dkt8d bets 120
+Carojero folds
+wmx-6cb3lj6 calls 120
+*** TURN *** [Jd 3d Jh][Tc]
+wmx-83dkt8d bets 214 and is all-in
+wmx-6cb3lj6 calls 214
+*** RIVER *** [Jd 3d Jh Tc][7d]
+*** SHOW DOWN ***
+wmx-83dkt8d shows [Qd 3s] (Two pairs : Jacks and 3)
+wmx-6cb3lj6 shows [Ts 3c] (Two pairs : Jacks and Tens)
+wmx-6cb3lj6 collected 788 from pot
+*** SUMMARY ***
+Total pot 788 | No rake
+Board: [Jd 3d Jh Tc 7d]
+Seat 1: wmx-6cb3lj6 showed [Ts 3c] and won 788 with Two pairs : Jacks and Tens
+Seat 3: wmx-83dkt8d (small blind) showed [Qd 3s] and lost with Two pairs : Jacks and 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3277615978824859649-6-1709492082 - Holdem no limit (20/40) - 2024/03/03 18:54:42 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #3 is the button
+Seat 1: wmx-6cb3lj6 (991)
+Seat 4: Carojero (1519)
+Seat 5: P1xel7 (490)
+*** ANTE/BLINDS ***
+Carojero posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [7d 2s]
+*** PRE-FLOP *** 
+wmx-6cb3lj6 raises 100 to 140
+Carojero calls 120
+P1xel7 folds
+*** FLOP *** [Jc 8d Kh]
+Carojero bets 1379 and is all-in
+wmx-6cb3lj6 calls 851 and is all-in
+*** TURN *** [Jc 8d Kh][7h]
+*** RIVER *** [Jc 8d Kh 7h][9s]
+*** SHOW DOWN ***
+wmx-6cb3lj6 shows [Th Ah] (Straight Jack high)
+Carojero shows [Qc Kd] (One pair : Kings)
+Carojero collected 528 from side pot 1
+wmx-6cb3lj6 collected 2022 from main pot
+*** SUMMARY ***
+Total pot 2550 | No rake
+Board: [Jc 8d Kh 7h 9s]
+Seat 1: wmx-6cb3lj6 showed [Th Ah] and won 2022 with Straight Jack high
+Seat 4: Carojero (small blind) showed [Qc Kd] and won 528 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3277615978824859649-7-1709492103 - Holdem no limit (20/40) - 2024/03/03 18:55:03 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #4 is the button
+Seat 1: wmx-6cb3lj6 (2022)
+Seat 4: Carojero (528)
+Seat 5: P1xel7 (450)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+wmx-6cb3lj6 posts big blind 40
+Dealt to P1xel7 [9h 7d]
+*** PRE-FLOP *** 
+Carojero folds
+P1xel7 folds
+wmx-6cb3lj6 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: wmx-6cb3lj6 (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3277615978824859649-8-1709492108 - Holdem no limit (20/40) - 2024/03/03 18:55:08 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #5 is the button
+Seat 1: wmx-6cb3lj6 (2042)
+Seat 4: Carojero (528)
+Seat 5: P1xel7 (430)
+*** ANTE/BLINDS ***
+wmx-6cb3lj6 posts small blind 20
+Carojero posts big blind 40
+Dealt to P1xel7 [Qc 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-6cb3lj6 calls 20
+Carojero raises 488 to 528 and is all-in
+wmx-6cb3lj6 calls 488
+*** FLOP *** [9s 8h 4s]
+*** TURN *** [9s 8h 4s][Jd]
+*** RIVER *** [9s 8h 4s Jd][8s]
+*** SHOW DOWN ***
+Carojero shows [7d 7s] (Two pairs : 8 and 7)
+wmx-6cb3lj6 shows [5s 9c] (Two pairs : 9 and 8)
+wmx-6cb3lj6 collected 1056 from pot
+*** SUMMARY ***
+Total pot 1056 | No rake
+Board: [9s 8h 4s Jd 8s]
+Seat 1: wmx-6cb3lj6 (small blind) showed [5s 9c] and won 1056 with Two pairs : 9 and 8
+Seat 4: Carojero (big blind) showed [7d 7s] and lost with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615978824859649-9-1709492131 - Holdem no limit (30/60) - 2024/03/03 18:55:31 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #5 is the button
+Seat 1: wmx-6cb3lj6 (2570)
+Seat 5: P1xel7 (430)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+wmx-6cb3lj6 posts big blind 60
+Dealt to P1xel7 [7c 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-6cb3lj6 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: wmx-6cb3lj6 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615978824859649-10-1709492136 - Holdem no limit (30/60) - 2024/03/03 18:55:36 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #1 is the button
+Seat 1: wmx-6cb3lj6 (2600)
+Seat 5: P1xel7 (400)
+*** ANTE/BLINDS ***
+wmx-6cb3lj6 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [3c Kh]
+*** PRE-FLOP *** 
+wmx-6cb3lj6 calls 30
+P1xel7 raises 340 to 400 and is all-in
+wmx-6cb3lj6 calls 340
+*** FLOP *** [Td 4s 9d]
+*** TURN *** [Td 4s 9d][4d]
+*** RIVER *** [Td 4s 9d 4d][5s]
+*** SHOW DOWN ***
+wmx-6cb3lj6 shows [7d Jc] (One pair : 4)
+P1xel7 shows [3c Kh] (One pair : 4)
+P1xel7 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | No rake
+Board: [Td 4s 9d 4d 5s]
+Seat 1: wmx-6cb3lj6 (small blind) (button) showed [7d Jc] and lost with One pair : 4
+Seat 5: P1xel7 (big blind) showed [3c Kh] and won 800 with One pair : 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615978824859649-11-1709492163 - Holdem no limit (30/60) - 2024/03/03 18:56:03 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #5 is the button
+Seat 1: wmx-6cb3lj6 (2200)
+Seat 5: P1xel7 (800)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+wmx-6cb3lj6 posts big blind 60
+Dealt to P1xel7 [5s 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-6cb3lj6 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: wmx-6cb3lj6 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615978824859649-12-1709492168 - Holdem no limit (30/60) - 2024/03/03 18:56:08 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #1 is the button
+Seat 1: wmx-6cb3lj6 (2230)
+Seat 5: P1xel7 (770)
+*** ANTE/BLINDS ***
+wmx-6cb3lj6 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [7c Kc]
+*** PRE-FLOP *** 
+wmx-6cb3lj6 calls 30
+P1xel7 raises 710 to 770 and is all-in
+wmx-6cb3lj6 calls 710
+*** FLOP *** [4c 9s Ac]
+*** TURN *** [4c 9s Ac][5h]
+*** RIVER *** [4c 9s Ac 5h][2c]
+*** SHOW DOWN ***
+wmx-6cb3lj6 shows [Ts 5c] (One pair : 5)
+P1xel7 shows [7c Kc] (Flush Ace high)
+P1xel7 collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Board: [4c 9s Ac 5h 2c]
+Seat 1: wmx-6cb3lj6 (small blind) (button) showed [Ts 5c] and lost with One pair : 5
+Seat 5: P1xel7 (big blind) showed [7c Kc] and won 1540 with Flush Ace high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615978824859649-13-1709492185 - Holdem no limit (30/60) - 2024/03/03 18:56:25 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #5 is the button
+Seat 1: wmx-6cb3lj6 (1460)
+Seat 5: P1xel7 (1540)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+wmx-6cb3lj6 posts big blind 60
+Dealt to P1xel7 [5c 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-6cb3lj6 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: wmx-6cb3lj6 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615978824859649-14-1709492190 - Holdem no limit (30/60) - 2024/03/03 18:56:30 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #1 is the button
+Seat 1: wmx-6cb3lj6 (1490)
+Seat 5: P1xel7 (1510)
+*** ANTE/BLINDS ***
+wmx-6cb3lj6 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [2s 8h]
+*** PRE-FLOP *** 
+wmx-6cb3lj6 raises 120 to 180
+P1xel7 folds
+wmx-6cb3lj6 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Seat 1: wmx-6cb3lj6 (small blind) (button) won 240
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3277615978824859649-15-1709492203 - Holdem no limit (30/60) - 2024/03/03 18:56:43 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #5 is the button
+Seat 1: wmx-6cb3lj6 (1550)
+Seat 5: P1xel7 (1450)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+wmx-6cb3lj6 posts big blind 60
+Dealt to P1xel7 [2s Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-6cb3lj6 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: wmx-6cb3lj6 (big blind) won 90
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3277615978824859649-16-1709492210 - Holdem no limit (40/80) - 2024/03/03 18:56:50 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #1 is the button
+Seat 1: wmx-6cb3lj6 (1580)
+Seat 5: P1xel7 (1420)
+*** ANTE/BLINDS ***
+wmx-6cb3lj6 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [9h 7s]
+*** PRE-FLOP *** 
+wmx-6cb3lj6 calls 40
+P1xel7 checks
+*** FLOP *** [5c Ts 8d]
+P1xel7 checks
+wmx-6cb3lj6 checks
+*** TURN *** [5c Ts 8d][6d]
+P1xel7 checks
+wmx-6cb3lj6 checks
+*** RIVER *** [5c Ts 8d 6d][6c]
+P1xel7 bets 240
+wmx-6cb3lj6 calls 240
+*** SHOW DOWN ***
+wmx-6cb3lj6 shows [Th Jc] (Two pairs : Tens and 6)
+P1xel7 shows [9h 7s] (Straight Ten high)
+P1xel7 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [5c Ts 8d 6d 6c]
+Seat 1: wmx-6cb3lj6 (small blind) (button) showed [Th Jc] and lost with Two pairs : Tens and 6
+Seat 5: P1xel7 (big blind) showed [9h 7s] and won 640 with Straight Ten high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3277615978824859649-17-1709492248 - Holdem no limit (40/80) - 2024/03/03 18:57:28 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #5 is the button
+Seat 1: wmx-6cb3lj6 (1260)
+Seat 5: P1xel7 (1740)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+wmx-6cb3lj6 posts big blind 80
+Dealt to P1xel7 [7c Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+wmx-6cb3lj6 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: wmx-6cb3lj6 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3277615978824859649-18-1709492254 - Holdem no limit (40/80) - 2024/03/03 18:57:34 UTC
+Table: 'Starting Block WiPT - Déglingos(763129438)#0' 6-max (real money) Seat #1 is the button
+Seat 1: wmx-6cb3lj6 (1300)
+Seat 5: P1xel7 (1700)
+*** ANTE/BLINDS ***
+wmx-6cb3lj6 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Jc Ks]
+*** PRE-FLOP *** 
+wmx-6cb3lj6 calls 40
+P1xel7 raises 1620 to 1700 and is all-in
+wmx-6cb3lj6 calls 1220 and is all-in
+*** FLOP *** [Ah Kd Th]
+*** TURN *** [Ah Kd Th][6c]
+*** RIVER *** [Ah Kd Th 6c][8c]
+*** SHOW DOWN ***
+wmx-6cb3lj6 shows [8s 9h] (One pair : 8)
+P1xel7 shows [Jc Ks] (One pair : Kings)
+P1xel7 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Ah Kd Th 6c 8c]
+Seat 1: wmx-6cb3lj6 (small blind) (button) showed [8s 9h] and lost with One pair : 8
+Seat 5: P1xel7 (big blind) showed [Jc Ks] and won 3000 with One pair : Kings
+
+

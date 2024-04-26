@@ -1,0 +1,135 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3013234877463003137-1-1695654832 - Holdem no limit (10/20) - 2023/09/25 15:13:52 UTC
+Table: 'Starting Block WiPT(701573416)#0' 6-max (real money) Seat #5 is the button
+Seat 1: OmeGaRushia (1500)
+Seat 2: Crusty 63 (1500)
+Seat 3: P1xel7 (1500)
+Seat 4: Snook666 (1500)
+Seat 5: Kemar-91 (1500)
+Seat 6: PISSU (1500)
+*** ANTE/BLINDS ***
+PISSU posts small blind 10
+OmeGaRushia posts big blind 20
+Dealt to P1xel7 [9c Jh]
+*** PRE-FLOP *** 
+Crusty 63 folds
+P1xel7 folds
+Snook666 folds
+Kemar-91 calls 20
+PISSU calls 10
+OmeGaRushia checks
+*** FLOP *** [2s Kd 4s]
+PISSU bets 1480 and is all-in
+OmeGaRushia folds
+Kemar-91 folds
+PISSU collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | No rake
+Board: [2s Kd 4s]
+Seat 6: PISSU (small blind) won 1540
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3013234877463003137-2-1695654856 - Holdem no limit (10/20) - 2023/09/25 15:14:16 UTC
+Table: 'Starting Block WiPT(701573416)#0' 6-max (real money) Seat #6 is the button
+Seat 1: OmeGaRushia (1480)
+Seat 2: Crusty 63 (1500)
+Seat 3: P1xel7 (1500)
+Seat 4: Snook666 (1500)
+Seat 5: Kemar-91 (1480)
+Seat 6: PISSU (1540)
+*** ANTE/BLINDS ***
+OmeGaRushia posts small blind 10
+Crusty 63 posts big blind 20
+Dealt to P1xel7 [8h Ah]
+*** PRE-FLOP *** 
+P1xel7 raises 30 to 50
+Snook666 folds
+Kemar-91 folds
+PISSU folds
+OmeGaRushia folds
+Crusty 63 calls 30
+*** FLOP *** [7s Tc Kd]
+Crusty 63 checks
+P1xel7 bets 55
+Crusty 63 folds
+P1xel7 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [7s Tc Kd]
+Seat 3: P1xel7 won 165
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3013234877463003137-3-1695654879 - Holdem no limit (10/20) - 2023/09/25 15:14:39 UTC
+Table: 'Starting Block WiPT(701573416)#0' 6-max (real money) Seat #1 is the button
+Seat 1: OmeGaRushia (1470)
+Seat 2: Crusty 63 (1450)
+Seat 3: P1xel7 (1560)
+Seat 4: Snook666 (1500)
+Seat 5: Kemar-91 (1480)
+Seat 6: PISSU (1540)
+*** ANTE/BLINDS ***
+Crusty 63 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Jc Jh]
+*** PRE-FLOP *** 
+Snook666 raises 1480 to 1500 and is all-in
+Kemar-91 folds
+PISSU calls 1500
+OmeGaRushia folds
+Crusty 63 folds
+P1xel7 calls 1480
+*** FLOP *** [3h Qh 6c]
+P1xel7 bets 60 and is all-in
+PISSU calls 40 and is all-in
+*** TURN *** [3h Qh 6c][Th]
+*** RIVER *** [3h Qh 6c Th][9s]
+*** SHOW DOWN ***
+Snook666 shows [Ah 2d] (High card : Ace)
+P1xel7 shows [Jc Jh] (One pair : Jacks)
+PISSU shows [Kc Ks] (One pair : Kings)
+PISSU collected 4590 from main pot
+P1xel7 collected 20 from side pot 1
+*** SUMMARY ***
+Total pot 4610 | No rake
+Board: [3h Qh 6c Th 9s]
+Seat 3: P1xel7 (big blind) showed [Jc Jh] and won 20 with One pair : Jacks
+Seat 4: Snook666 showed [Ah 2d] and lost with High card : Ace
+Seat 6: PISSU showed [Kc Ks] and won 4590 with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3013234877463003137-4-1695654911 - Holdem no limit (10/20) - 2023/09/25 15:15:11 UTC
+Table: 'Starting Block WiPT(701573416)#0' 6-max (real money) Seat #2 is the button
+Seat 1: OmeGaRushia (1470)
+Seat 2: Crusty 63 (1440)
+Seat 3: P1xel7 (20)
+Seat 5: Kemar-91 (1480)
+Seat 6: PISSU (4590)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Kemar-91 posts big blind 20
+Dealt to P1xel7 [2h Tc]
+*** PRE-FLOP *** 
+PISSU calls 20
+OmeGaRushia raises 70 to 90
+Crusty 63 folds
+P1xel7 calls 10 and is all-in
+Kemar-91 calls 70
+PISSU calls 70
+*** FLOP *** [4d 3s Kh]
+Kemar-91 checks
+PISSU checks
+OmeGaRushia bets 1380 and is all-in
+Kemar-91 folds
+PISSU folds
+*** TURN *** [4d 3s Kh][5h]
+*** RIVER *** [4d 3s Kh 5h][Qh]
+*** SHOW DOWN ***
+P1xel7 shows [2h Tc] (High card : King)
+OmeGaRushia shows [4c Ac] (One pair : 4)
+OmeGaRushia collected 1670 from pot
+*** SUMMARY ***
+Total pot 1670 | No rake
+Board: [4d 3s Kh 5h Qh]
+Seat 1: OmeGaRushia showed [4c Ac] and won 1670 with One pair : 4
+Seat 3: P1xel7 (small blind) showed [2h Tc] and lost with High card : King
+
+

@@ -1,0 +1,258 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187615188245282817-1-1704913668 - Holdem no limit (10/20) - 2024/01/10 19:07:48 UTC
+Table: 'Starting Block WiPT - Déglingos(742174496)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Keo And Co (500)
+Seat 2: papoudu48 (500)
+Seat 3: DontLimpAA (500)
+Seat 4: thierry87290 (500)
+Seat 5: P1xel7 (500)
+Seat 6: YASS69009 (500)
+*** ANTE/BLINDS ***
+Keo And Co posts small blind 10
+papoudu48 posts big blind 20
+Dealt to P1xel7 [8d Jh]
+*** PRE-FLOP *** 
+DontLimpAA folds
+thierry87290 raises 480 to 500 and is all-in
+P1xel7 folds
+YASS69009 folds
+Keo And Co calls 490 and is all-in
+papoudu48 folds
+*** FLOP *** [Kd Ad Kh]
+*** TURN *** [Kd Ad Kh][Jd]
+*** RIVER *** [Kd Ad Kh Jd][8h]
+*** SHOW DOWN ***
+thierry87290 shows [3d Ah] (Two pairs : Aces and Kings)
+Keo And Co shows [Qh Ac] (Two pairs : Aces and Kings)
+Keo And Co collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [Kd Ad Kh Jd 8h]
+Seat 1: Keo And Co (small blind) showed [Qh Ac] and won 1020 with Two pairs : Aces and Kings
+Seat 4: thierry87290 showed [3d Ah] and lost with Two pairs : Aces and Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3187615188245282817-2-1704913713 - Holdem no limit (10/20) - 2024/01/10 19:08:33 UTC
+Table: 'Starting Block WiPT - Déglingos(742174496)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Keo And Co (1020)
+Seat 2: papoudu48 (480)
+Seat 3: DontLimpAA (500)
+Seat 5: P1xel7 (500)
+Seat 6: YASS69009 (500)
+*** ANTE/BLINDS ***
+papoudu48 posts small blind 10
+DontLimpAA posts big blind 20
+Dealt to P1xel7 [Kh 9h]
+*** PRE-FLOP *** 
+P1xel7 raises 20 to 40
+YASS69009 folds
+Keo And Co raises 980 to 1020 and is all-in
+papoudu48 calls 470 and is all-in
+DontLimpAA folds
+P1xel7 folds
+*** FLOP *** [Jc Jd 2c]
+*** TURN *** [Jc Jd 2c][Js]
+*** RIVER *** [Jc Jd 2c Js][3c]
+*** SHOW DOWN ***
+Keo And Co shows [Ac 2s] (Full of Jacks and 2)
+papoudu48 shows [9c 9s] (Full of Jacks and 9)
+papoudu48 collected 1020 from main pot
+Keo And Co collected 540 from side pot 1
+*** SUMMARY ***
+Total pot 1560 | No rake
+Board: [Jc Jd 2c Js 3c]
+Seat 1: Keo And Co (button) showed [Ac 2s] and won 540 with Full of Jacks and 2
+Seat 2: papoudu48 (small blind) showed [9c 9s] and won 1020 with Full of Jacks and 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187615188245282817-3-1704913772 - Holdem no limit (15/30) - 2024/01/10 19:09:32 UTC
+Table: 'Starting Block WiPT - Déglingos(742174496)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Keo And Co (540)
+Seat 2: papoudu48 (1020)
+Seat 3: DontLimpAA (480)
+Seat 5: P1xel7 (460)
+Seat 6: YASS69009 (500)
+*** ANTE/BLINDS ***
+DontLimpAA posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [9d 7h]
+*** PRE-FLOP *** 
+YASS69009 folds
+Keo And Co folds
+papoudu48 folds
+DontLimpAA raises 450 to 480 and is all-in
+P1xel7 folds
+DontLimpAA collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | No rake
+Seat 3: DontLimpAA (small blind) won 510
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3187615188245282817-4-1704913815 - Holdem no limit (15/30) - 2024/01/10 19:10:15 UTC
+Table: 'Starting Block WiPT - Déglingos(742174496)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Keo And Co (540)
+Seat 2: papoudu48 (1020)
+Seat 3: DontLimpAA (510)
+Seat 5: P1xel7 (430)
+Seat 6: YASS69009 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+YASS69009 posts big blind 30
+Dealt to P1xel7 [6s Ts]
+*** PRE-FLOP *** 
+Keo And Co folds
+papoudu48 raises 30 to 60
+DontLimpAA folds
+P1xel7 folds
+YASS69009 calls 30
+*** FLOP *** [Js 4s Ks]
+YASS69009 checks
+papoudu48 checks
+*** TURN *** [Js 4s Ks][5s]
+YASS69009 checks
+papoudu48 checks
+*** RIVER *** [Js 4s Ks 5s][3d]
+YASS69009 checks
+papoudu48 bets 30
+YASS69009 folds
+papoudu48 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [Js 4s Ks 5s 3d]
+Seat 2: papoudu48 won 165
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187615188245282817-5-1704913857 - Holdem no limit (20/40) - 2024/01/10 19:10:57 UTC
+Table: 'Starting Block WiPT - Déglingos(742174496)#0' 6-max (real money) Seat #5 is the button
+Seat 1: Keo And Co (540)
+Seat 2: papoudu48 (1095)
+Seat 3: DontLimpAA (510)
+Seat 5: P1xel7 (415)
+Seat 6: YASS69009 (440)
+*** ANTE/BLINDS ***
+YASS69009 posts small blind 20
+Keo And Co posts big blind 40
+Dealt to P1xel7 [6c 8s]
+*** PRE-FLOP *** 
+papoudu48 folds
+DontLimpAA folds
+P1xel7 folds
+YASS69009 folds
+Keo And Co collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: Keo And Co (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187615188245282817-6-1704913883 - Holdem no limit (20/40) - 2024/01/10 19:11:23 UTC
+Table: 'Starting Block WiPT - Déglingos(742174496)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Keo And Co (560)
+Seat 2: papoudu48 (1095)
+Seat 3: DontLimpAA (510)
+Seat 5: P1xel7 (415)
+Seat 6: YASS69009 (420)
+*** ANTE/BLINDS ***
+Keo And Co posts small blind 20
+papoudu48 posts big blind 40
+Dealt to P1xel7 [Ts Jd]
+*** PRE-FLOP *** 
+DontLimpAA folds
+P1xel7 folds
+YASS69009 raises 380 to 420 and is all-in
+Keo And Co raises 140 to 560 and is all-in
+papoudu48 folds
+*** FLOP *** [5s 6s Ac]
+*** TURN *** [5s 6s Ac][2c]
+*** RIVER *** [5s 6s Ac 2c][Ad]
+*** SHOW DOWN ***
+Keo And Co shows [9c Kc] (One pair : Aces)
+YASS69009 shows [8h 8s] (Two pairs : Aces and 8)
+YASS69009 collected 880 from main pot
+Keo And Co collected 140 from side pot 1
+*** SUMMARY ***
+Total pot 1020 | No rake
+Board: [5s 6s Ac 2c Ad]
+Seat 1: Keo And Co (small blind) showed [9c Kc] and won 140 with One pair : Aces
+Seat 6: YASS69009 (button) showed [8h 8s] and won 880 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3187615188245282817-7-1704913911 - Holdem no limit (20/40) - 2024/01/10 19:11:51 UTC
+Table: 'Starting Block WiPT - Déglingos(742174496)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Keo And Co (140)
+Seat 2: papoudu48 (1055)
+Seat 3: DontLimpAA (510)
+Seat 5: P1xel7 (415)
+Seat 6: YASS69009 (880)
+*** ANTE/BLINDS ***
+papoudu48 posts small blind 20
+DontLimpAA posts big blind 40
+Dealt to P1xel7 [6c 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+YASS69009 folds
+Keo And Co raises 100 to 140 and is all-in
+papoudu48 raises 915 to 1055 and is all-in
+DontLimpAA folds
+*** FLOP *** [4d Ts 2s]
+*** TURN *** [4d Ts 2s][5s]
+*** RIVER *** [4d Ts 2s 5s][2h]
+*** SHOW DOWN ***
+Keo And Co shows [8h 9h] (One pair : 2)
+papoudu48 shows [Jc Kc] (One pair : 2)
+papoudu48 collected 1235 from pot
+*** SUMMARY ***
+Total pot 1235 | No rake
+Board: [4d Ts 2s 5s 2h]
+Seat 1: Keo And Co (button) showed [8h 9h] and lost with One pair : 2
+Seat 2: papoudu48 (small blind) showed [Jc Kc] and won 1235 with One pair : 2
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3187615188245282817-8-1704913937 - Holdem no limit (30/60) - 2024/01/10 19:12:17 UTC
+Table: 'Starting Block WiPT - Déglingos(742174496)#0' 6-max (real money) Seat #2 is the button
+Seat 2: papoudu48 (1235)
+Seat 3: DontLimpAA (470)
+Seat 5: P1xel7 (415)
+Seat 6: YASS69009 (880)
+*** ANTE/BLINDS ***
+DontLimpAA posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Tc 5h]
+*** PRE-FLOP *** 
+YASS69009 raises 150 to 210
+papoudu48 folds
+DontLimpAA folds
+P1xel7 folds
+YASS69009 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 6: YASS69009 won 300
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3187615188245282817-9-1704913947 - Holdem no limit (30/60) - 2024/01/10 19:12:27 UTC
+Table: 'Starting Block WiPT - Déglingos(742174496)#0' 6-max (real money) Seat #3 is the button
+Seat 2: papoudu48 (1235)
+Seat 3: DontLimpAA (440)
+Seat 5: P1xel7 (355)
+Seat 6: YASS69009 (970)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+YASS69009 posts big blind 60
+Dealt to P1xel7 [Kh 4c]
+*** PRE-FLOP *** 
+papoudu48 folds
+DontLimpAA folds
+P1xel7 raises 295 to 355 and is all-in
+YASS69009 calls 295
+*** FLOP *** [As 2d 8s]
+*** TURN *** [As 2d 8s][7c]
+*** RIVER *** [As 2d 8s 7c][Qh]
+*** SHOW DOWN ***
+P1xel7 shows [Kh 4c] (High card : Ace)
+YASS69009 shows [Ad Jh] (One pair : Aces)
+YASS69009 collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | No rake
+Board: [As 2d 8s 7c Qh]
+Seat 5: P1xel7 (small blind) showed [Kh 4c] and lost with High card : Ace
+Seat 6: YASS69009 (big blind) showed [Ad Jh] and won 710 with One pair : Aces
+
+

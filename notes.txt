@@ -1,0 +1,49 @@
+PSC - Infos
+
+Representer les couleurs : 
+pour ne pas surcharger d'informations, on utilisera une représentation simple
+
+Proplayers très compliqés à modéliser car ils font beaucoup de calculs pour modéliser le joueur en face d'eux. 
+Joueurs lambdas : beaucoup plus simple car moins d'abstractino. (Jeu plus 'machinal')
+
+récupérer de la donnée en masse : Winamax, Skema. 
+
+
+
+FLOP :
+stack restant, 
+taille du pot,
+cote, 
+nombre de joueurs au départ
+
+
+X Top card
+X Ecart deux premières
+X Ecart trois deux
+X Couleurs (111 - 12 - 3) -> (0,1,2)
+X Nouvelle position à table
+X Nombre de joueurs restants
+Position du dernier relanceur par rapport à moi
+hand strength
+hand potential
+
+
+TURN :
+
+Top card
+Ecart deux premières
+Ecart trois deux
+Couleurs (4 - 31 - 22 - 211 - 1111) -> (4, 3, 2, 1, 0)
+Nouvelle position à table
+Nombre de joueurs restants
+Relanceur avant ou après moi
+
+RIVER :
+
+Top card
+Ecart deux premières
+Ecart trois deux
+Couleurs (5 - 41 - 32 - 311 - 221 - 2111) -> (5, 4, 3, 2, 1, 0)
+Nouvelle position à table
+Nombre de joueurs restants
+Relanceur avant ou après moi

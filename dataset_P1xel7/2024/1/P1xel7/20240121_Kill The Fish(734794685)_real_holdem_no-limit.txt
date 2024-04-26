@@ -1,0 +1,2686 @@
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3155919141349621775-53-1705862178 - Holdem no limit (60/250/500) - 2024/01/21 18:36:18 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: Pilu75 (26289, 0.45€ bounty)
+Seat 2: HENNI2CARDS (36354, 0.67€ bounty)
+Seat 3: P1xel7 (20000, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (42102, 0.67€ bounty)
+Seat 5: LeRoiBurak (46424, 0.67€ bounty)
+Seat 6: sdeni (31904, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 60
+P1xel7 posts ante 60
+Pilu75 posts ante 60
+Vrai_ou_Foo posts ante 60
+LeRoiBurak posts ante 60
+sdeni posts ante 60
+HENNI2CARDS posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [7d Jh]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+LeRoiBurak folds
+sdeni folds
+Pilu75 folds
+HENNI2CARDS folds
+P1xel7 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | No rake
+Seat 3: P1xel7 (big blind) won 1110
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3155919141349621775-54-1705862223 - Holdem no limit (60/250/500) - 2024/01/21 18:37:03 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: Pilu75 (26229, 0.45€ bounty)
+Seat 2: HENNI2CARDS (36044, 0.67€ bounty)
+Seat 3: P1xel7 (20550, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (42042, 0.67€ bounty)
+Seat 5: LeRoiBurak (46364, 0.67€ bounty)
+Seat 6: sdeni (31844, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+Vrai_ou_Foo posts ante 60
+Pilu75 posts ante 60
+HENNI2CARDS posts ante 60
+LeRoiBurak posts ante 60
+sdeni posts ante 60
+P1xel7 posts small blind 250
+Vrai_ou_Foo posts big blind 500
+Dealt to P1xel7 [4s 9c]
+*** PRE-FLOP *** 
+LeRoiBurak folds
+sdeni raises 500 to 1000
+Pilu75 calls 1000
+HENNI2CARDS calls 1000
+P1xel7 folds
+Vrai_ou_Foo calls 500
+*** FLOP *** [3s 8c 3c]
+Vrai_ou_Foo checks
+sdeni checks
+Pilu75 checks
+HENNI2CARDS checks
+*** TURN *** [3s 8c 3c][Ac]
+Vrai_ou_Foo checks
+sdeni checks
+Pilu75 checks
+HENNI2CARDS checks
+*** RIVER *** [3s 8c 3c Ac][7h]
+Vrai_ou_Foo checks
+sdeni checks
+Pilu75 checks
+HENNI2CARDS checks
+*** SHOW DOWN ***
+HENNI2CARDS shows [5s 5c] (Two pairs : 5 and 3)
+Vrai_ou_Foo shows [Kh Jc] (One pair : 3)
+sdeni shows [Qs Js] (One pair : 3)
+Pilu75 shows [Kd 7c] (Two pairs : 7 and 3)
+Pilu75 collected 4610 from pot
+*** SUMMARY ***
+Total pot 4610 | No rake
+Board: [3s 8c 3c Ac 7h]
+Seat 1: Pilu75 showed [Kd 7c] and won 4610 with Two pairs : 7 and 3
+Seat 2: HENNI2CARDS (button) showed [5s 5c] and lost with Two pairs : 5 and 3
+Seat 4: Vrai_ou_Foo (big blind) showed [Kh Jc] and lost with One pair : 3
+Seat 6: sdeni showed [Qs Js] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3155919141349621775-55-1705862327 - Holdem no limit (60/250/500) - 2024/01/21 18:38:47 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: Pilu75 (29779, 0.45€ bounty)
+Seat 2: HENNI2CARDS (34984, 0.67€ bounty)
+Seat 3: P1xel7 (20240, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (40982, 0.67€ bounty)
+Seat 5: LeRoiBurak (46304, 0.67€ bounty)
+Seat 6: sdeni (30784, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 60
+LeRoiBurak posts ante 60
+Pilu75 posts ante 60
+HENNI2CARDS posts ante 60
+P1xel7 posts ante 60
+sdeni posts ante 60
+Vrai_ou_Foo posts small blind 250
+LeRoiBurak posts big blind 500
+Dealt to P1xel7 [Kd 2c]
+*** PRE-FLOP *** 
+sdeni folds
+Pilu75 raises 500 to 1000
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+LeRoiBurak calls 500
+*** FLOP *** [Ks Tc 2s]
+LeRoiBurak checks
+Pilu75 checks
+*** TURN *** [Ks Tc 2s][6h]
+LeRoiBurak bets 750
+Pilu75 calls 750
+*** RIVER *** [Ks Tc 2s 6h][7h]
+LeRoiBurak bets 2055
+Pilu75 folds
+LeRoiBurak collected 6165 from pot
+*** SUMMARY ***
+Total pot 6165 | No rake
+Board: [Ks Tc 2s 6h 7h]
+Seat 5: LeRoiBurak (big blind) won 6165
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3155919141349621775-56-1705862388 - Holdem no limit (60/250/500) - 2024/01/21 18:39:48 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: Pilu75 (27969, 0.45€ bounty)
+Seat 2: HENNI2CARDS (34924, 0.67€ bounty)
+Seat 3: P1xel7 (20180, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (40672, 0.67€ bounty)
+Seat 5: LeRoiBurak (48604, 0.67€ bounty)
+Seat 6: sdeni (30724, 0.67€ bounty)
+*** ANTE/BLINDS ***
+LeRoiBurak posts ante 60
+sdeni posts ante 60
+Pilu75 posts ante 60
+HENNI2CARDS posts ante 60
+P1xel7 posts ante 60
+Vrai_ou_Foo posts ante 60
+LeRoiBurak posts small blind 250
+sdeni posts big blind 500
+Dealt to P1xel7 [4d 6c]
+*** PRE-FLOP *** 
+Pilu75 folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+LeRoiBurak raises 500 to 1000
+sdeni folds
+LeRoiBurak collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Seat 5: LeRoiBurak (small blind) won 1860
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3155919141349621775-57-1705862418 - Holdem no limit (60/250/500) - 2024/01/21 18:40:18 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: Pilu75 (27909, 0.45€ bounty)
+Seat 2: HENNI2CARDS (34864, 0.67€ bounty)
+Seat 3: P1xel7 (20120, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (40612, 0.67€ bounty)
+Seat 5: LeRoiBurak (49404, 0.67€ bounty)
+Seat 6: sdeni (30164, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 60
+Pilu75 posts ante 60
+HENNI2CARDS posts ante 60
+P1xel7 posts ante 60
+Vrai_ou_Foo posts ante 60
+LeRoiBurak posts ante 60
+sdeni posts small blind 250
+Pilu75 posts big blind 500
+Dealt to P1xel7 [6h Jc]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+LeRoiBurak folds
+sdeni calls 250
+Pilu75 raises 1360 to 1860
+sdeni folds
+Pilu75 collected 2720 from pot
+*** SUMMARY ***
+Total pot 2720 | No rake
+Seat 1: Pilu75 (big blind) won 2720
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3155919141349621775-58-1705862462 - Holdem no limit (70/300/600) - 2024/01/21 18:41:02 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: Pilu75 (28709, 0.45€ bounty)
+Seat 2: HENNI2CARDS (34804, 0.67€ bounty)
+Seat 3: P1xel7 (20060, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (40552, 0.67€ bounty)
+Seat 5: LeRoiBurak (49344, 0.67€ bounty)
+Seat 6: sdeni (29604, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Pilu75 posts ante 70
+HENNI2CARDS posts ante 70
+P1xel7 posts ante 70
+Vrai_ou_Foo posts ante 70
+LeRoiBurak posts ante 70
+sdeni posts ante 70
+Pilu75 posts small blind 300
+HENNI2CARDS posts big blind 600
+Dealt to P1xel7 [5d Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo folds
+LeRoiBurak folds
+sdeni folds
+Pilu75 folds
+HENNI2CARDS collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Seat 2: HENNI2CARDS (big blind) won 1320
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3155919141349621775-59-1705862485 - Holdem no limit (70/300/600) - 2024/01/21 18:41:25 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: Pilu75 (28339, 0.45€ bounty)
+Seat 2: HENNI2CARDS (35454, 0.67€ bounty)
+Seat 3: P1xel7 (19990, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (40482, 0.67€ bounty)
+Seat 5: LeRoiBurak (49274, 0.67€ bounty)
+Seat 6: sdeni (29534, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 70
+P1xel7 posts ante 70
+Pilu75 posts ante 70
+Vrai_ou_Foo posts ante 70
+LeRoiBurak posts ante 70
+sdeni posts ante 70
+HENNI2CARDS posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [7c 8d]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+LeRoiBurak folds
+sdeni folds
+Pilu75 raises 900 to 1500
+HENNI2CARDS folds
+P1xel7 calls 900
+*** FLOP *** [Ac Jd Th]
+P1xel7 checks
+Pilu75 bets 2976
+P1xel7 folds
+Pilu75 collected 6696 from pot
+*** SUMMARY ***
+Total pot 6696 | No rake
+Board: [Ac Jd Th]
+Seat 1: Pilu75 (button) won 6696
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3155919141349621775-60-1705862533 - Holdem no limit (70/300/600) - 2024/01/21 18:42:13 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: Pilu75 (30489, 0.45€ bounty)
+Seat 2: HENNI2CARDS (35084, 0.67€ bounty)
+Seat 3: P1xel7 (18420, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (40412, 0.67€ bounty)
+Seat 5: LeRoiBurak (49204, 0.67€ bounty)
+Seat 6: sdeni (29464, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Vrai_ou_Foo posts ante 70
+Pilu75 posts ante 70
+HENNI2CARDS posts ante 70
+LeRoiBurak posts ante 70
+sdeni posts ante 70
+P1xel7 posts small blind 300
+Vrai_ou_Foo posts big blind 600
+Dealt to P1xel7 [5h Ah]
+*** PRE-FLOP *** 
+LeRoiBurak raises 900 to 1500
+sdeni folds
+Pilu75 calls 1500
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+*** FLOP *** [Ad Kh Qc]
+LeRoiBurak bets 1512
+Pilu75 calls 1512
+*** TURN *** [Ad Kh Qc][7d]
+LeRoiBurak bets 3672
+Pilu75 folds
+LeRoiBurak collected 11016 from pot
+*** SUMMARY ***
+Total pot 11016 | No rake
+Board: [Ad Kh Qc 7d]
+Seat 5: LeRoiBurak won 11016
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3155919141349621775-61-1705862564 - Holdem no limit (70/300/600) - 2024/01/21 18:42:44 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: Pilu75 (27407, 0.45€ bounty)
+Seat 2: HENNI2CARDS (35014, 0.67€ bounty)
+Seat 3: P1xel7 (18050, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (39742, 0.67€ bounty)
+Seat 5: LeRoiBurak (53466, 0.67€ bounty)
+Seat 6: sdeni (29394, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 70
+LeRoiBurak posts ante 70
+Pilu75 posts ante 70
+HENNI2CARDS posts ante 70
+P1xel7 posts ante 70
+sdeni posts ante 70
+Vrai_ou_Foo posts small blind 300
+LeRoiBurak posts big blind 600
+Dealt to P1xel7 [Qh 9c]
+*** PRE-FLOP *** 
+sdeni raises 600 to 1200
+Pilu75 folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+LeRoiBurak calls 600
+*** FLOP *** [5d 6c Th]
+LeRoiBurak checks
+sdeni checks
+*** TURN *** [5d 6c Th][8h]
+LeRoiBurak checks
+sdeni checks
+*** RIVER *** [5d 6c Th 8h][2d]
+LeRoiBurak checks
+sdeni checks
+*** SHOW DOWN ***
+sdeni shows [Qc Ks] (High card : King)
+LeRoiBurak shows [As 3d] (High card : Ace)
+LeRoiBurak collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Board: [5d 6c Th 8h 2d]
+Seat 5: LeRoiBurak (big blind) showed [As 3d] and won 3120 with High card : Ace
+Seat 6: sdeni showed [Qc Ks] and lost with High card : King
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3155919141349621775-62-1705862614 - Holdem no limit (70/300/600) - 2024/01/21 18:43:34 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: Pilu75 (27337, 0.45€ bounty)
+Seat 2: HENNI2CARDS (34944, 0.67€ bounty)
+Seat 3: P1xel7 (17980, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (39372, 0.67€ bounty)
+Seat 5: LeRoiBurak (55316, 0.67€ bounty)
+Seat 6: sdeni (28124, 0.67€ bounty)
+*** ANTE/BLINDS ***
+LeRoiBurak posts ante 70
+sdeni posts ante 70
+Pilu75 posts ante 70
+HENNI2CARDS posts ante 70
+P1xel7 posts ante 70
+Vrai_ou_Foo posts ante 70
+LeRoiBurak posts small blind 300
+sdeni posts big blind 600
+Dealt to P1xel7 [Tc Ah]
+*** PRE-FLOP *** 
+Pilu75 folds
+HENNI2CARDS raises 720 to 1320
+P1xel7 calls 1320
+Vrai_ou_Foo folds
+LeRoiBurak raises 53926 to 55246 and is all-in
+sdeni folds
+HENNI2CARDS folds
+P1xel7 folds
+LeRoiBurak collected 58906 from pot
+*** SUMMARY ***
+Total pot 58906 | No rake
+Seat 5: LeRoiBurak (small blind) won 58906
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3155919141349621775-63-1705862664 - Holdem no limit (70/300/600) - 2024/01/21 18:44:24 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: Pilu75 (27267, 0.45€ bounty)
+Seat 2: HENNI2CARDS (33554, 0.67€ bounty)
+Seat 3: P1xel7 (16590, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (39302, 0.67€ bounty)
+Seat 5: LeRoiBurak (58906, 0.67€ bounty)
+Seat 6: sdeni (27454, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 70
+Pilu75 posts ante 70
+HENNI2CARDS posts ante 70
+P1xel7 posts ante 70
+Vrai_ou_Foo posts ante 70
+LeRoiBurak posts ante 70
+sdeni posts small blind 300
+Pilu75 posts big blind 600
+Dealt to P1xel7 [7h 9s]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+LeRoiBurak folds
+sdeni raises 1200 to 1800
+Pilu75 folds
+sdeni collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | No rake
+Seat 6: sdeni (small blind) won 2820
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3155919141349621775-64-1705862691 - Holdem no limit (70/300/600) - 2024/01/21 18:44:51 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: Pilu75 (26597, 0.45€ bounty)
+Seat 2: HENNI2CARDS (33484, 0.67€ bounty)
+Seat 3: P1xel7 (16520, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (39232, 0.67€ bounty)
+Seat 5: LeRoiBurak (58836, 0.67€ bounty)
+Seat 6: sdeni (28404, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Pilu75 posts ante 70
+HENNI2CARDS posts ante 70
+P1xel7 posts ante 70
+Vrai_ou_Foo posts ante 70
+LeRoiBurak posts ante 70
+sdeni posts ante 70
+Pilu75 posts small blind 300
+HENNI2CARDS posts big blind 600
+Dealt to P1xel7 [Qs 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo raises 900 to 1500
+LeRoiBurak folds
+sdeni folds
+Pilu75 raises 3000 to 4500
+HENNI2CARDS folds
+Vrai_ou_Foo folds
+Pilu75 collected 7020 from pot
+*** SUMMARY ***
+Total pot 7020 | No rake
+Seat 1: Pilu75 (small blind) won 7020
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3155919141349621775-65-1705862741 - Holdem no limit (70/300/600) - 2024/01/21 18:45:41 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: Pilu75 (29047, 0.45€ bounty)
+Seat 2: HENNI2CARDS (32814, 0.67€ bounty)
+Seat 3: P1xel7 (16450, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (37662, 0.67€ bounty)
+Seat 5: LeRoiBurak (58766, 0.67€ bounty)
+Seat 6: sdeni (28334, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 70
+P1xel7 posts ante 70
+Pilu75 posts ante 70
+Vrai_ou_Foo posts ante 70
+LeRoiBurak posts ante 70
+sdeni posts ante 70
+HENNI2CARDS posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [6c Ad]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+LeRoiBurak folds
+sdeni folds
+Pilu75 raises 600 to 1200
+HENNI2CARDS calls 900
+P1xel7 calls 600
+*** FLOP *** [6s Th Qd]
+HENNI2CARDS checks
+P1xel7 checks
+Pilu75 checks
+*** TURN *** [6s Th Qd][Qh]
+HENNI2CARDS bets 2010
+P1xel7 folds
+Pilu75 folds
+HENNI2CARDS collected 6030 from pot
+*** SUMMARY ***
+Total pot 6030 | No rake
+Board: [6s Th Qd Qh]
+Seat 2: HENNI2CARDS (small blind) won 6030
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3155919141349621775-66-1705862793 - Holdem no limit (80/350/700) - 2024/01/21 18:46:33 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: Pilu75 (27777, 0.45€ bounty)
+Seat 2: HENNI2CARDS (35564, 0.67€ bounty)
+Seat 3: P1xel7 (15180, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (37592, 0.67€ bounty)
+Seat 5: LeRoiBurak (58696, 0.67€ bounty)
+Seat 6: sdeni (28264, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Vrai_ou_Foo posts ante 80
+Pilu75 posts ante 80
+HENNI2CARDS posts ante 80
+LeRoiBurak posts ante 80
+sdeni posts ante 80
+P1xel7 posts small blind 350
+Vrai_ou_Foo posts big blind 700
+Dealt to P1xel7 [4d Th]
+*** PRE-FLOP *** 
+LeRoiBurak folds
+sdeni folds
+Pilu75 folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 4: Vrai_ou_Foo (big blind) won 1530
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3155919141349621775-67-1705862814 - Holdem no limit (80/350/700) - 2024/01/21 18:46:54 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: Pilu75 (27697, 0.45€ bounty)
+Seat 2: HENNI2CARDS (35484, 0.67€ bounty)
+Seat 3: P1xel7 (14750, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (38342, 0.67€ bounty)
+Seat 5: LeRoiBurak (58616, 0.67€ bounty)
+Seat 6: sdeni (28184, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 80
+LeRoiBurak posts ante 80
+Pilu75 posts ante 80
+HENNI2CARDS posts ante 80
+P1xel7 posts ante 80
+sdeni posts ante 80
+Vrai_ou_Foo posts small blind 350
+LeRoiBurak posts big blind 700
+Dealt to P1xel7 [4d Js]
+*** PRE-FLOP *** 
+sdeni folds
+Pilu75 folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+LeRoiBurak collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Seat 5: LeRoiBurak (big blind) won 1530
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3155919141349621775-68-1705862836 - Holdem no limit (80/350/700) - 2024/01/21 18:47:16 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: Pilu75 (27617, 0.45€ bounty)
+Seat 2: HENNI2CARDS (35404, 0.67€ bounty)
+Seat 3: P1xel7 (14670, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (37912, 0.67€ bounty)
+Seat 5: LeRoiBurak (59366, 0.67€ bounty)
+Seat 6: sdeni (28104, 0.67€ bounty)
+*** ANTE/BLINDS ***
+LeRoiBurak posts ante 80
+sdeni posts ante 80
+Pilu75 posts ante 80
+HENNI2CARDS posts ante 80
+P1xel7 posts ante 80
+Vrai_ou_Foo posts ante 80
+LeRoiBurak posts small blind 350
+sdeni posts big blind 700
+Dealt to P1xel7 [3d 5h]
+*** PRE-FLOP *** 
+Pilu75 folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+LeRoiBurak calls 350
+sdeni raises 1880 to 2580
+LeRoiBurak folds
+sdeni collected 3760 from pot
+*** SUMMARY ***
+Total pot 3760 | No rake
+Seat 6: sdeni (big blind) won 3760
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3155919141349621775-69-1705862874 - Holdem no limit (80/350/700) - 2024/01/21 18:47:54 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: Pilu75 (27537, 0.45€ bounty)
+Seat 2: HENNI2CARDS (35324, 0.67€ bounty)
+Seat 3: P1xel7 (14590, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (37832, 0.67€ bounty)
+Seat 5: LeRoiBurak (58586, 0.67€ bounty)
+Seat 6: sdeni (29204, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 80
+Pilu75 posts ante 80
+HENNI2CARDS posts ante 80
+P1xel7 posts ante 80
+Vrai_ou_Foo posts ante 80
+LeRoiBurak posts ante 80
+sdeni posts small blind 350
+Pilu75 posts big blind 700
+Dealt to P1xel7 [7h Jd]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo raises 1050 to 1750
+LeRoiBurak folds
+sdeni calls 1400
+Pilu75 folds
+*** FLOP *** [Jh 5d Qd]
+sdeni checks
+Vrai_ou_Foo bets 1638
+sdeni folds
+Vrai_ou_Foo collected 6318 from pot
+*** SUMMARY ***
+Total pot 6318 | No rake
+Board: [Jh 5d Qd]
+Seat 4: Vrai_ou_Foo won 6318
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3155919141349621775-70-1705862914 - Holdem no limit (80/350/700) - 2024/01/21 18:48:34 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: Pilu75 (26757, 0.45€ bounty)
+Seat 2: HENNI2CARDS (35244, 0.67€ bounty)
+Seat 3: P1xel7 (14510, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (40682, 0.67€ bounty)
+Seat 5: LeRoiBurak (58506, 0.67€ bounty)
+Seat 6: sdeni (27374, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Pilu75 posts ante 80
+HENNI2CARDS posts ante 80
+P1xel7 posts ante 80
+Vrai_ou_Foo posts ante 80
+LeRoiBurak posts ante 80
+sdeni posts ante 80
+Pilu75 posts small blind 350
+HENNI2CARDS posts big blind 700
+Dealt to P1xel7 [5d Ks]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo folds
+LeRoiBurak raises 875 to 1575
+sdeni folds
+Pilu75 folds
+HENNI2CARDS raises 4725 to 6300
+LeRoiBurak folds
+HENNI2CARDS collected 8705 from pot
+*** SUMMARY ***
+Total pot 8705 | No rake
+Seat 2: HENNI2CARDS (big blind) won 8705
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3155919141349621775-71-1705862948 - Holdem no limit (80/350/700) - 2024/01/21 18:49:08 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: Pilu75 (26327, 0.45€ bounty)
+Seat 2: HENNI2CARDS (37569, 0.67€ bounty)
+Seat 3: P1xel7 (14430, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (40602, 0.67€ bounty)
+Seat 5: LeRoiBurak (56851, 0.67€ bounty)
+Seat 6: sdeni (27294, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 80
+P1xel7 posts ante 80
+Pilu75 posts ante 80
+Vrai_ou_Foo posts ante 80
+LeRoiBurak posts ante 80
+sdeni posts ante 80
+HENNI2CARDS posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [5s Kc]
+*** PRE-FLOP *** 
+Vrai_ou_Foo raises 1050 to 1750
+LeRoiBurak folds
+sdeni calls 1750
+Pilu75 calls 1750
+HENNI2CARDS folds
+P1xel7 folds
+*** FLOP *** [Qs 3c 8c]
+Vrai_ou_Foo checks
+sdeni checks
+Pilu75 bets 3390
+Vrai_ou_Foo calls 3390
+sdeni folds
+*** TURN *** [Qs 3c 8c][7h]
+Vrai_ou_Foo checks
+Pilu75 checks
+*** RIVER *** [Qs 3c 8c 7h][8s]
+Vrai_ou_Foo checks
+Pilu75 bets 6780
+Vrai_ou_Foo folds
+Pilu75 collected 20340 from pot
+*** SUMMARY ***
+Total pot 20340 | No rake
+Board: [Qs 3c 8c 7h 8s]
+Seat 1: Pilu75 (button) won 20340
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3155919141349621775-72-1705863113 - Holdem no limit (100/400/800) - 2024/01/21 18:51:53 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: Pilu75 (34667, 0.45€ bounty)
+Seat 2: HENNI2CARDS (37139, 0.67€ bounty)
+Seat 3: P1xel7 (13650, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (35382, 0.67€ bounty)
+Seat 6: sdeni (25464, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+Vrai_ou_Foo posts ante 100
+Pilu75 posts ante 100
+HENNI2CARDS posts ante 100
+sdeni posts ante 100
+P1xel7 posts small blind 400
+Vrai_ou_Foo posts big blind 800
+Dealt to P1xel7 [Kc 4c]
+*** PRE-FLOP *** 
+sdeni folds
+Pilu75 folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 4: Vrai_ou_Foo (big blind) won 1700
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3155919141349621775-73-1705863136 - Holdem no limit (100/400/800) - 2024/01/21 18:52:16 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: Pilu75 (34567, 0.45€ bounty)
+Seat 2: HENNI2CARDS (37039, 0.67€ bounty)
+Seat 3: P1xel7 (13150, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (36182, 0.67€ bounty)
+Seat 6: sdeni (25364, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 100
+sdeni posts ante 100
+Pilu75 posts ante 100
+HENNI2CARDS posts ante 100
+P1xel7 posts ante 100
+Vrai_ou_Foo posts small blind 400
+sdeni posts big blind 800
+Dealt to P1xel7 [6s Ks]
+*** PRE-FLOP *** 
+Pilu75 folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo calls 400
+sdeni checks
+*** FLOP *** [7h 4c 6c]
+Vrai_ou_Foo checks
+sdeni checks
+*** TURN *** [7h 4c 6c][6h]
+Vrai_ou_Foo bets 1600
+sdeni folds
+Vrai_ou_Foo collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | No rake
+Board: [7h 4c 6c 6h]
+Seat 4: Vrai_ou_Foo (small blind) won 3700
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3155919141349621775-74-1705863188 - Holdem no limit (100/400/800) - 2024/01/21 18:53:08 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: Pilu75 (34467, 0.45€ bounty)
+Seat 2: HENNI2CARDS (36939, 0.67€ bounty)
+Seat 3: P1xel7 (13050, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (37382, 0.67€ bounty)
+Seat 6: sdeni (24464, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 100
+Pilu75 posts ante 100
+HENNI2CARDS posts ante 100
+P1xel7 posts ante 100
+Vrai_ou_Foo posts ante 100
+sdeni posts small blind 400
+Pilu75 posts big blind 800
+Dealt to P1xel7 [Jc 3s]
+*** PRE-FLOP *** 
+HENNI2CARDS raises 800 to 1600
+P1xel7 folds
+Vrai_ou_Foo folds
+sdeni folds
+Pilu75 folds
+HENNI2CARDS collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Seat 2: HENNI2CARDS won 3300
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3155919141349621775-75-1705863213 - Holdem no limit (100/400/800) - 2024/01/21 18:53:33 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: Pilu75 (33567, 0.45€ bounty)
+Seat 2: HENNI2CARDS (38539, 0.67€ bounty)
+Seat 3: P1xel7 (12950, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (37282, 0.67€ bounty)
+Seat 6: sdeni (23964, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Pilu75 posts ante 100
+HENNI2CARDS posts ante 100
+P1xel7 posts ante 100
+Vrai_ou_Foo posts ante 100
+sdeni posts ante 100
+Pilu75 posts small blind 400
+HENNI2CARDS posts big blind 800
+Dealt to P1xel7 [2s 4h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo folds
+sdeni raises 800 to 1600
+Pilu75 calls 1200
+HENNI2CARDS folds
+*** FLOP *** [4c 6s 7h]
+Pilu75 checks
+sdeni bets 3600
+Pilu75 calls 3600
+*** TURN *** [4c 6s 7h][2c]
+Pilu75 checks
+sdeni bets 9360
+Pilu75 folds
+sdeni collected 21060 from pot
+*** SUMMARY ***
+Total pot 21060 | No rake
+Board: [4c 6s 7h 2c]
+Seat 6: sdeni (button) won 21060
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3155919141349621775-76-1705863262 - Holdem no limit (100/400/800) - 2024/01/21 18:54:22 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: Pilu75 (28267, 0.45€ bounty)
+Seat 2: HENNI2CARDS (37639, 0.67€ bounty)
+Seat 3: P1xel7 (12850, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (37182, 0.67€ bounty)
+Seat 6: sdeni (30364, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 100
+P1xel7 posts ante 100
+Pilu75 posts ante 100
+Vrai_ou_Foo posts ante 100
+sdeni posts ante 100
+HENNI2CARDS posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [5s Tc]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+sdeni folds
+Pilu75 folds
+HENNI2CARDS calls 400
+P1xel7 checks
+*** FLOP *** [Js Td 6h]
+HENNI2CARDS checks
+P1xel7 bets 1050
+HENNI2CARDS folds
+P1xel7 collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Board: [Js Td 6h]
+Seat 3: P1xel7 (big blind) won 3150
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3155919141349621775-77-1705863293 - Holdem no limit (100/400/800) - 2024/01/21 18:54:53 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: Pilu75 (28167, 0.45€ bounty)
+Seat 2: HENNI2CARDS (36739, 0.67€ bounty)
+Seat 3: P1xel7 (14050, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (37082, 0.67€ bounty)
+Seat 5: Flookitsuki (20000, 0.45€ bounty)
+Seat 6: sdeni (30264, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+Vrai_ou_Foo posts ante 100
+Pilu75 posts ante 100
+HENNI2CARDS posts ante 100
+Flookitsuki posts ante 100
+sdeni posts ante 100
+P1xel7 posts small blind 400
+Vrai_ou_Foo posts big blind 800
+Dealt to P1xel7 [2h As]
+*** PRE-FLOP *** 
+Flookitsuki raises 1200 to 2000
+sdeni folds
+Pilu75 calls 2000
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo calls 1200
+*** FLOP *** [Jc 6d Jd]
+Vrai_ou_Foo checks
+Flookitsuki checks
+Pilu75 checks
+*** TURN *** [Jc 6d Jd][Td]
+Vrai_ou_Foo bets 3500
+Flookitsuki calls 3500
+Pilu75 calls 3500
+*** RIVER *** [Jc 6d Jd Td][Ac]
+Vrai_ou_Foo checks
+Flookitsuki checks
+Pilu75 checks
+*** SHOW DOWN ***
+Pilu75 shows [Kh 7c] (One pair : Jacks)
+Vrai_ou_Foo shows [Th 6h] (Two pairs : Jacks and Tens)
+Flookitsuki shows [Tc Qh] (Two pairs : Jacks and Tens)
+Flookitsuki collected 8750 from pot
+Vrai_ou_Foo collected 8750 from pot
+*** SUMMARY ***
+Total pot 17500 | No rake
+Board: [Jc 6d Jd Td Ac]
+Seat 1: Pilu75 showed [Kh 7c] and lost with One pair : Jacks
+Seat 4: Vrai_ou_Foo (big blind) showed [Th 6h] and won 8750 with Two pairs : Jacks and Tens
+Seat 5: Flookitsuki showed [Tc Qh] and won 8750 with Two pairs : Jacks and Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3155919141349621775-78-1705863660 - Holdem no limit (100/400/800) - 2024/01/21 19:01:00 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: Pilu75 (22567, 0.45€ bounty)
+Seat 2: HENNI2CARDS (36639, 0.67€ bounty)
+Seat 3: P1xel7 (13550, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (40232, 0.67€ bounty)
+Seat 5: Flookitsuki (23150, 0.45€ bounty)
+Seat 6: sdeni (30164, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 100
+Flookitsuki posts ante 100
+Pilu75 posts ante 100
+HENNI2CARDS posts ante 100
+P1xel7 posts ante 100
+sdeni posts ante 100
+Vrai_ou_Foo posts small blind 400
+Flookitsuki posts big blind 800
+Dealt to P1xel7 [4h As]
+*** PRE-FLOP *** 
+sdeni folds
+Pilu75 folds
+HENNI2CARDS raises 800 to 1600
+P1xel7 raises 11850 to 13450 and is all-in
+Vrai_ou_Foo folds
+Flookitsuki calls 12650
+HENNI2CARDS folds
+*** FLOP *** [Ad 9d Kh]
+*** TURN *** [Ad 9d Kh][Ks]
+*** RIVER *** [Ad 9d Kh Ks][2d]
+*** SHOW DOWN ***
+Flookitsuki shows [3d 3h] (Two pairs : Kings and 3)
+P1xel7 shows [4h As] (Two pairs : Aces and Kings)
+P1xel7 collected 29500 from pot
+*** SUMMARY ***
+Total pot 29500 | No rake
+Board: [Ad 9d Kh Ks 2d]
+Seat 3: P1xel7 (button) showed [4h As] and won 29500 with Two pairs : Aces and Kings
+Seat 5: Flookitsuki (big blind) showed [3d 3h] and lost with Two pairs : Kings and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3155919141349621775-79-1705863759 - Holdem no limit (120/500/1000) - 2024/01/21 19:02:39 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: Pilu75 (22467, 0.45€ bounty)
+Seat 2: HENNI2CARDS (34939, 0.67€ bounty)
+Seat 3: P1xel7 (29500, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (39732, 0.67€ bounty)
+Seat 5: Flookitsuki (9600, 0.45€ bounty)
+Seat 6: sdeni (30064, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Flookitsuki posts ante 120
+sdeni posts ante 120
+Pilu75 posts ante 120
+HENNI2CARDS posts ante 120
+P1xel7 posts ante 120
+Vrai_ou_Foo posts ante 120
+Flookitsuki posts small blind 500
+sdeni posts big blind 1000
+Dealt to P1xel7 [6s 8s]
+*** PRE-FLOP *** 
+Pilu75 folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo raises 38612 to 39612 and is all-in
+Flookitsuki folds
+sdeni folds
+Vrai_ou_Foo collected 41832 from pot
+*** SUMMARY ***
+Total pot 41832 | No rake
+Seat 4: Vrai_ou_Foo (button) won 41832
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3155919141349621775-80-1705863781 - Holdem no limit (120/500/1000) - 2024/01/21 19:03:01 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: Pilu75 (22347, 0.45€ bounty)
+Seat 2: HENNI2CARDS (34819, 0.67€ bounty)
+Seat 3: P1xel7 (29380, 0.45€ bounty)
+Seat 4: Vrai_ou_Foo (41832, 0.67€ bounty)
+Seat 5: Flookitsuki (8980, 0.45€ bounty)
+Seat 6: sdeni (28944, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 120
+Pilu75 posts ante 120
+HENNI2CARDS posts ante 120
+P1xel7 posts ante 120
+Vrai_ou_Foo posts ante 120
+Flookitsuki posts ante 120
+sdeni posts small blind 500
+Pilu75 posts big blind 1000
+Dealt to P1xel7 [2d 2c]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 raises 1200 to 2200
+Vrai_ou_Foo folds
+Flookitsuki raises 6660 to 8860 and is all-in
+sdeni folds
+Pilu75 calls 7860
+P1xel7 calls 6660
+*** FLOP *** [Jd 8s 6c]
+Pilu75 checks
+P1xel7 bets 18070
+Pilu75 calls 13367 and is all-in
+*** TURN *** [Jd 8s 6c][3h]
+*** RIVER *** [Jd 8s 6c 3h][Jh]
+*** SHOW DOWN ***
+Pilu75 shows [Ah 4c] (One pair : Jacks)
+Flookitsuki shows [Kd Ad] (One pair : Jacks)
+P1xel7 shows [2d 2c] (Two pairs : Jacks and 2)
+P1xel7 collected 59237 from pot
+*** SUMMARY ***
+Total pot 59237 | No rake
+Board: [Jd 8s 6c 3h Jh]
+Seat 1: Pilu75 (big blind) showed [Ah 4c] and lost with One pair : Jacks
+Seat 3: P1xel7 showed [2d 2c] and won 59237 with Two pairs : Jacks and 2
+Seat 5: Flookitsuki (button) showed [Kd Ad] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3155919141349621775-81-1705863830 - Holdem no limit (120/500/1000) - 2024/01/21 19:03:50 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 2: HENNI2CARDS (34699, 0.67€ bounty)
+Seat 3: P1xel7 (61567, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (41712, 0.67€ bounty)
+Seat 6: sdeni (28324, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 120
+P1xel7 posts ante 120
+Vrai_ou_Foo posts ante 120
+sdeni posts ante 120
+HENNI2CARDS posts big blind 1000
+Dealt to P1xel7 [7d 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo folds
+sdeni folds
+HENNI2CARDS collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | No rake
+Seat 2: HENNI2CARDS (big blind) won 1480
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3155919141349621775-82-1705863840 - Holdem no limit (120/500/1000) - 2024/01/21 19:04:00 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: Bowabow177 (20000, 0.45€ bounty)
+Seat 2: HENNI2CARDS (35059, 0.67€ bounty)
+Seat 3: P1xel7 (61447, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (41592, 0.67€ bounty)
+Seat 6: sdeni (28204, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 120
+P1xel7 posts ante 120
+Vrai_ou_Foo posts ante 120
+sdeni posts ante 120
+HENNI2CARDS posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Kd 5s]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+sdeni folds
+HENNI2CARDS calls 500
+P1xel7 checks
+*** FLOP *** [Qd 7d 8c]
+HENNI2CARDS checks
+P1xel7 checks
+*** TURN *** [Qd 7d 8c][Qc]
+HENNI2CARDS bets 1612
+P1xel7 folds
+HENNI2CARDS collected 4092 from pot
+*** SUMMARY ***
+Total pot 4092 | No rake
+Board: [Qd 7d 8c Qc]
+Seat 2: HENNI2CARDS (small blind) won 4092
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3155919141349621775-83-1705863876 - Holdem no limit (120/500/1000) - 2024/01/21 19:04:36 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: Bowabow177 (20000, 0.45€ bounty)
+Seat 2: HENNI2CARDS (36419, 0.67€ bounty)
+Seat 3: P1xel7 (60327, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (41472, 0.67€ bounty)
+Seat 5: BIG asturcan (20000, 0.45€ bounty)
+Seat 6: sdeni (28084, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Vrai_ou_Foo posts ante 120
+Bowabow177 posts ante 120
+HENNI2CARDS posts ante 120
+BIG asturcan posts ante 120
+sdeni posts ante 120
+P1xel7 posts small blind 500
+Vrai_ou_Foo posts big blind 1000
+Dealt to P1xel7 [9s 5d]
+*** PRE-FLOP *** 
+BIG asturcan folds
+sdeni folds
+Bowabow177 folds
+HENNI2CARDS raises 1000 to 2000
+P1xel7 folds
+Vrai_ou_Foo calls 1000
+*** FLOP *** [Ks 5c Qs]
+Vrai_ou_Foo checks
+HENNI2CARDS bets 1827
+Vrai_ou_Foo folds
+HENNI2CARDS collected 7047 from pot
+*** SUMMARY ***
+Total pot 7047 | No rake
+Board: [Ks 5c Qs]
+Seat 2: HENNI2CARDS (button) won 7047
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3155919141349621775-84-1705863963 - Holdem no limit (120/500/1000) - 2024/01/21 19:06:03 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: Bowabow177 (19880, 0.45€ bounty)
+Seat 2: HENNI2CARDS (39519, 0.67€ bounty)
+Seat 3: P1xel7 (59707, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (39352, 0.67€ bounty)
+Seat 5: BIG asturcan (19880, 0.45€ bounty)
+Seat 6: sdeni (27964, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 120
+BIG asturcan posts ante 120
+Bowabow177 posts ante 120
+HENNI2CARDS posts ante 120
+P1xel7 posts ante 120
+sdeni posts ante 120
+Vrai_ou_Foo posts small blind 500
+BIG asturcan posts big blind 1000
+Dealt to P1xel7 [7d 6c]
+*** PRE-FLOP *** 
+sdeni folds
+Bowabow177 folds
+HENNI2CARDS folds
+P1xel7 raises 1500 to 2500
+Vrai_ou_Foo calls 2000
+BIG asturcan folds
+*** FLOP *** [2s Jd 3h]
+Vrai_ou_Foo checks
+P1xel7 bets 4368
+Vrai_ou_Foo calls 4368
+*** TURN *** [2s Jd 3h][Kd]
+Vrai_ou_Foo checks
+P1xel7 checks
+*** RIVER *** [2s Jd 3h Kd][5d]
+Vrai_ou_Foo checks
+P1xel7 checks
+*** SHOW DOWN ***
+P1xel7 shows [7d 6c] (High card : King)
+Vrai_ou_Foo shows [Js Th] (One pair : Jacks)
+Vrai_ou_Foo collected 15456 from pot
+*** SUMMARY ***
+Total pot 15456 | No rake
+Board: [2s Jd 3h Kd 5d]
+Seat 3: P1xel7 (button) showed [7d 6c] and lost with High card : King
+Seat 4: Vrai_ou_Foo (small blind) showed [Js Th] and won 15456 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3155919141349621775-85-1705864087 - Holdem no limit (140/600/1200) - 2024/01/21 19:08:07 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: Bowabow177 (19760, 0.45€ bounty)
+Seat 2: HENNI2CARDS (39399, 0.67€ bounty)
+Seat 3: P1xel7 (52719, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (47820, 0.67€ bounty)
+Seat 5: BIG asturcan (18760, 0.45€ bounty)
+Seat 6: sdeni (27844, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 140
+sdeni posts ante 140
+Bowabow177 posts ante 140
+HENNI2CARDS posts ante 140
+P1xel7 posts ante 140
+Vrai_ou_Foo posts ante 140
+BIG asturcan posts small blind 600
+sdeni posts big blind 1200
+Dealt to P1xel7 [8h 6s]
+*** PRE-FLOP *** 
+Bowabow177 folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan calls 600
+sdeni checks
+*** FLOP *** [9d 8s 2h]
+BIG asturcan checks
+sdeni checks
+*** TURN *** [9d 8s 2h][Kd]
+BIG asturcan checks
+sdeni checks
+*** RIVER *** [9d 8s 2h Kd][Ks]
+BIG asturcan checks
+sdeni checks
+*** SHOW DOWN ***
+BIG asturcan shows [Ad 3h] (One pair : Kings)
+sdeni shows [5h 8d] (Two pairs : Kings and 8)
+sdeni collected 3240 from pot
+*** SUMMARY ***
+Total pot 3240 | No rake
+Board: [9d 8s 2h Kd Ks]
+Seat 5: BIG asturcan (small blind) showed [Ad 3h] and lost with One pair : Kings
+Seat 6: sdeni (big blind) showed [5h 8d] and won 3240 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3155919141349621775-86-1705864134 - Holdem no limit (140/600/1200) - 2024/01/21 19:08:54 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: Bowabow177 (19620, 0.45€ bounty)
+Seat 2: HENNI2CARDS (39259, 0.67€ bounty)
+Seat 3: P1xel7 (52579, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (47680, 0.67€ bounty)
+Seat 5: BIG asturcan (17420, 0.45€ bounty)
+Seat 6: sdeni (29744, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 140
+Bowabow177 posts ante 140
+HENNI2CARDS posts ante 140
+P1xel7 posts ante 140
+Vrai_ou_Foo posts ante 140
+BIG asturcan posts ante 140
+sdeni posts small blind 600
+Bowabow177 posts big blind 1200
+Dealt to P1xel7 [4h Jh]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo raises 1200 to 2400
+BIG asturcan folds
+sdeni folds
+Bowabow177 calls 1200
+*** FLOP *** [2s 9c Kc]
+Bowabow177 checks
+Vrai_ou_Foo bets 2184
+Bowabow177 calls 2184
+*** TURN *** [2s 9c Kc][3s]
+Bowabow177 checks
+Vrai_ou_Foo checks
+*** RIVER *** [2s 9c Kc 3s][5s]
+Bowabow177 bets 5304
+Vrai_ou_Foo calls 5304
+*** SHOW DOWN ***
+Bowabow177 shows [5c Tc] (One pair : 5)
+Vrai_ou_Foo shows [Kd Jd] (One pair : Kings)
+Vrai_ou_Foo collected 21216 from pot
+*** SUMMARY ***
+Total pot 21216 | No rake
+Board: [2s 9c Kc 3s 5s]
+Seat 1: Bowabow177 (big blind) showed [5c Tc] and lost with One pair : 5
+Seat 4: Vrai_ou_Foo showed [Kd Jd] and won 21216 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3155919141349621775-87-1705864203 - Holdem no limit (140/600/1200) - 2024/01/21 19:10:03 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: Bowabow177 (9592, 0.45€ bounty)
+Seat 2: HENNI2CARDS (39119, 0.67€ bounty)
+Seat 3: P1xel7 (52439, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (58868, 0.67€ bounty)
+Seat 5: BIG asturcan (17280, 0.45€ bounty)
+Seat 6: sdeni (29004, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Bowabow177 posts ante 140
+HENNI2CARDS posts ante 140
+P1xel7 posts ante 140
+Vrai_ou_Foo posts ante 140
+BIG asturcan posts ante 140
+sdeni posts ante 140
+Bowabow177 posts small blind 600
+HENNI2CARDS posts big blind 1200
+Dealt to P1xel7 [5h Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni folds
+Bowabow177 raises 8252 to 9452 and is all-in
+HENNI2CARDS folds
+Bowabow177 collected 11492 from pot
+*** SUMMARY ***
+Total pot 11492 | No rake
+Seat 1: Bowabow177 (small blind) won 11492
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3155919141349621775-88-1705864237 - Holdem no limit (140/600/1200) - 2024/01/21 19:10:37 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: Bowabow177 (11492, 0.45€ bounty)
+Seat 2: HENNI2CARDS (37779, 0.67€ bounty)
+Seat 3: P1xel7 (52299, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (58728, 0.67€ bounty)
+Seat 5: BIG asturcan (17140, 0.45€ bounty)
+Seat 6: sdeni (28864, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 140
+P1xel7 posts ante 140
+Bowabow177 posts ante 140
+Vrai_ou_Foo posts ante 140
+BIG asturcan posts ante 140
+sdeni posts ante 140
+HENNI2CARDS posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [Jc 8h]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni raises 1200 to 2400
+Bowabow177 folds
+HENNI2CARDS folds
+P1xel7 calls 1200
+*** FLOP *** [4d Jh 5h]
+P1xel7 checks
+sdeni checks
+*** TURN *** [4d Jh 5h][8s]
+P1xel7 bets 2184
+sdeni calls 2184
+*** RIVER *** [4d Jh 5h 8s][Ts]
+P1xel7 bets 3713
+sdeni folds
+P1xel7 collected 14321 from pot
+*** SUMMARY ***
+Total pot 14321 | No rake
+Board: [4d Jh 5h 8s Ts]
+Seat 3: P1xel7 (big blind) won 14321
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3155919141349621775-89-1705864282 - Holdem no limit (140/600/1200) - 2024/01/21 19:11:22 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: Bowabow177 (11352, 0.45€ bounty)
+Seat 2: HENNI2CARDS (37039, 0.67€ bounty)
+Seat 3: P1xel7 (58183, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (58588, 0.67€ bounty)
+Seat 5: BIG asturcan (17000, 0.45€ bounty)
+Seat 6: sdeni (24140, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+Vrai_ou_Foo posts ante 140
+Bowabow177 posts ante 140
+HENNI2CARDS posts ante 140
+BIG asturcan posts ante 140
+sdeni posts ante 140
+P1xel7 posts small blind 600
+Vrai_ou_Foo posts big blind 1200
+Dealt to P1xel7 [7d Jc]
+*** PRE-FLOP *** 
+BIG asturcan folds
+sdeni raises 1200 to 2400
+Bowabow177 raises 8812 to 11212 and is all-in
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+sdeni calls 8812
+*** FLOP *** [9d 9s Qd]
+*** TURN *** [9d 9s Qd][2h]
+*** RIVER *** [9d 9s Qd 2h][4s]
+*** SHOW DOWN ***
+sdeni shows [Th Kh] (One pair : 9)
+Bowabow177 shows [Ah 3d] (One pair : 9)
+Bowabow177 collected 25064 from pot
+*** SUMMARY ***
+Total pot 25064 | No rake
+Board: [9d 9s Qd 2h 4s]
+Seat 1: Bowabow177 showed [Ah 3d] and won 25064 with One pair : 9
+Seat 6: sdeni showed [Th Kh] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3155919141349621775-90-1705864305 - Holdem no limit (140/600/1200) - 2024/01/21 19:11:45 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: Bowabow177 (25064, 0.45€ bounty)
+Seat 2: HENNI2CARDS (36899, 0.67€ bounty)
+Seat 3: P1xel7 (57443, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (57248, 0.67€ bounty)
+Seat 5: BIG asturcan (16860, 0.45€ bounty)
+Seat 6: sdeni (12788, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 140
+BIG asturcan posts ante 140
+Bowabow177 posts ante 140
+HENNI2CARDS posts ante 140
+P1xel7 posts ante 140
+sdeni posts ante 140
+Vrai_ou_Foo posts small blind 600
+BIG asturcan posts big blind 1200
+Dealt to P1xel7 [Jd Qh]
+*** PRE-FLOP *** 
+sdeni folds
+Bowabow177 calls 1200
+HENNI2CARDS folds
+P1xel7 calls 1200
+Vrai_ou_Foo raises 55908 to 57108 and is all-in
+BIG asturcan folds
+Bowabow177 calls 23724 and is all-in
+P1xel7 folds
+*** FLOP *** [7h Ad As]
+*** TURN *** [7h Ad As][Ts]
+*** RIVER *** [7h Ad As Ts][6d]
+*** SHOW DOWN ***
+Bowabow177 shows [9s 9c] (Two pairs : Aces and 9)
+Vrai_ou_Foo shows [Ks Ah] (Trips of Aces)
+Vrai_ou_Foo collected 85272 from pot
+*** SUMMARY ***
+Total pot 85272 | No rake
+Board: [7h Ad As Ts 6d]
+Seat 1: Bowabow177 showed [9s 9c] and lost with Two pairs : Aces and 9
+Seat 4: Vrai_ou_Foo (small blind) showed [Ks Ah] and won 85272 with Trips of Aces
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-91-1705864337 - Holdem no limit (160/700/1400) - 2024/01/21 19:12:17 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 2: HENNI2CARDS (36759, 0.67€ bounty)
+Seat 3: P1xel7 (56103, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (85272, 0.89€ bounty)
+Seat 5: BIG asturcan (15520, 0.45€ bounty)
+Seat 6: sdeni (12648, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 160
+sdeni posts ante 160
+HENNI2CARDS posts ante 160
+P1xel7 posts ante 160
+Vrai_ou_Foo posts ante 160
+BIG asturcan posts small blind 700
+sdeni posts big blind 1400
+Dealt to P1xel7 [Jd 2d]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan raises 9800 to 11200
+sdeni folds
+BIG asturcan collected 13400 from pot
+*** SUMMARY ***
+Total pot 13400 | No rake
+Seat 5: BIG asturcan (small blind) won 13400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-92-1705864359 - Holdem no limit (160/700/1400) - 2024/01/21 19:12:39 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 2: HENNI2CARDS (36599, 0.67€ bounty)
+Seat 3: P1xel7 (55943, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (85112, 0.89€ bounty)
+Seat 5: BIG asturcan (17560, 0.45€ bounty)
+Seat 6: sdeni (11088, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 160
+HENNI2CARDS posts ante 160
+P1xel7 posts ante 160
+Vrai_ou_Foo posts ante 160
+BIG asturcan posts ante 160
+sdeni posts small blind 700
+HENNI2CARDS posts big blind 1400
+Dealt to P1xel7 [Qs 9s]
+*** PRE-FLOP *** 
+P1xel7 raises 2100 to 3500
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni folds
+HENNI2CARDS folds
+P1xel7 collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | No rake
+Seat 3: P1xel7 won 6400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-93-1705864386 - Holdem no limit (160/700/1400) - 2024/01/21 19:13:06 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 2: HENNI2CARDS (35039, 0.67€ bounty)
+Seat 3: P1xel7 (58683, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (84952, 0.89€ bounty)
+Seat 5: BIG asturcan (17400, 0.45€ bounty)
+Seat 6: sdeni (10228, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 160
+P1xel7 posts ante 160
+Vrai_ou_Foo posts ante 160
+BIG asturcan posts ante 160
+sdeni posts ante 160
+HENNI2CARDS posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [6h 8s]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni folds
+HENNI2CARDS folds
+P1xel7 collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Seat 3: P1xel7 (big blind) won 2900
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-94-1705864398 - Holdem no limit (160/700/1400) - 2024/01/21 19:13:18 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 2: HENNI2CARDS (34179, 0.67€ bounty)
+Seat 3: P1xel7 (60023, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (84792, 0.89€ bounty)
+Seat 5: BIG asturcan (17240, 0.45€ bounty)
+Seat 6: sdeni (10068, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+Vrai_ou_Foo posts ante 160
+HENNI2CARDS posts ante 160
+BIG asturcan posts ante 160
+sdeni posts ante 160
+P1xel7 posts small blind 700
+Vrai_ou_Foo posts big blind 1400
+Dealt to P1xel7 [5c Jc]
+*** PRE-FLOP *** 
+BIG asturcan folds
+sdeni folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | No rake
+Seat 4: Vrai_ou_Foo (big blind) won 2900
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-95-1705864409 - Holdem no limit (160/700/1400) - 2024/01/21 19:13:29 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 2: HENNI2CARDS (34019, 0.67€ bounty)
+Seat 3: P1xel7 (59163, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (86132, 0.89€ bounty)
+Seat 5: BIG asturcan (17080, 0.45€ bounty)
+Seat 6: sdeni (9908, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 160
+BIG asturcan posts ante 160
+HENNI2CARDS posts ante 160
+P1xel7 posts ante 160
+sdeni posts ante 160
+Vrai_ou_Foo posts small blind 700
+BIG asturcan posts big blind 1400
+Dealt to P1xel7 [Kh Jd]
+*** PRE-FLOP *** 
+sdeni folds
+HENNI2CARDS folds
+P1xel7 raises 2100 to 3500
+Vrai_ou_Foo folds
+BIG asturcan folds
+P1xel7 collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | No rake
+Seat 3: P1xel7 (button) won 6400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-96-1705864430 - Holdem no limit (160/700/1400) - 2024/01/21 19:13:50 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 2: HENNI2CARDS (33859, 0.67€ bounty)
+Seat 3: P1xel7 (61903, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (85272, 0.89€ bounty)
+Seat 5: BIG asturcan (15520, 0.45€ bounty)
+Seat 6: sdeni (9748, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 160
+sdeni posts ante 160
+HENNI2CARDS posts ante 160
+P1xel7 posts ante 160
+Vrai_ou_Foo posts ante 160
+BIG asturcan posts small blind 700
+sdeni posts big blind 1400
+Dealt to P1xel7 [Kc 4s]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan raises 9800 to 11200
+sdeni calls 8188 and is all-in
+*** FLOP *** [4d 7d 6h]
+*** TURN *** [4d 7d 6h][7c]
+*** RIVER *** [4d 7d 6h 7c][9c]
+*** SHOW DOWN ***
+BIG asturcan shows [Tc Ac] (One pair : 7)
+sdeni shows [9h Jh] (Two pairs : 9 and 7)
+sdeni collected 19976 from main pot
+BIG asturcan collected 1612 from side pot 1
+*** SUMMARY ***
+Total pot 21588 | No rake
+Board: [4d 7d 6h 7c 9c]
+Seat 5: BIG asturcan (small blind) showed [Tc Ac] and won 1612 with One pair : 7
+Seat 6: sdeni (big blind) showed [9h Jh] and won 19976 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-97-1705864462 - Holdem no limit (160/700/1400) - 2024/01/21 19:14:22 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: xnicosx (15850, 0.45€ bounty)
+Seat 2: HENNI2CARDS (33699, 0.67€ bounty)
+Seat 3: P1xel7 (61743, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (85112, 0.89€ bounty)
+Seat 5: BIG asturcan (5772, 0.45€ bounty)
+Seat 6: sdeni (19976, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 160
+xnicosx posts ante 160
+HENNI2CARDS posts ante 160
+P1xel7 posts ante 160
+Vrai_ou_Foo posts ante 160
+BIG asturcan posts ante 160
+sdeni posts small blind 700
+xnicosx posts big blind 1400
+Dealt to P1xel7 [3d 7d]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni folds
+xnicosx collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 1: xnicosx (big blind) won 3060
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-98-1705864486 - Holdem no limit (160/700/1400) - 2024/01/21 19:14:46 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: xnicosx (17350, 0.45€ bounty)
+Seat 2: HENNI2CARDS (33539, 0.67€ bounty)
+Seat 3: P1xel7 (61583, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (84952, 0.89€ bounty)
+Seat 5: BIG asturcan (5612, 0.45€ bounty)
+Seat 6: sdeni (19116, 0.67€ bounty)
+*** ANTE/BLINDS ***
+xnicosx posts ante 160
+HENNI2CARDS posts ante 160
+P1xel7 posts ante 160
+Vrai_ou_Foo posts ante 160
+BIG asturcan posts ante 160
+sdeni posts ante 160
+xnicosx posts small blind 700
+HENNI2CARDS posts big blind 1400
+Dealt to P1xel7 [Ac 4s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni folds
+xnicosx raises 2800 to 4200
+HENNI2CARDS calls 2800
+*** FLOP *** [7s Ks 5h]
+xnicosx bets 2800
+HENNI2CARDS folds
+xnicosx collected 12160 from pot
+*** SUMMARY ***
+Total pot 12160 | No rake
+Board: [7s Ks 5h]
+Seat 1: xnicosx (small blind) won 12160
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-99-1705864514 - Holdem no limit (160/700/1400) - 2024/01/21 19:15:14 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: xnicosx (22350, 0.45€ bounty)
+Seat 2: HENNI2CARDS (29179, 0.67€ bounty)
+Seat 3: P1xel7 (61423, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (84792, 0.89€ bounty)
+Seat 5: BIG asturcan (5452, 0.45€ bounty)
+Seat 6: sdeni (18956, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 160
+P1xel7 posts ante 160
+xnicosx posts ante 160
+Vrai_ou_Foo posts ante 160
+BIG asturcan posts ante 160
+sdeni posts ante 160
+HENNI2CARDS posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [7d Kh]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni folds
+xnicosx folds
+HENNI2CARDS calls 700
+P1xel7 checks
+*** FLOP *** [6h 5d Js]
+HENNI2CARDS bets 1400
+P1xel7 folds
+HENNI2CARDS collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Board: [6h 5d Js]
+Seat 2: HENNI2CARDS (small blind) won 5160
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-100-1705864547 - Holdem no limit (160/700/1400) - 2024/01/21 19:15:47 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: xnicosx (22190, 0.45€ bounty)
+Seat 2: HENNI2CARDS (31379, 0.67€ bounty)
+Seat 3: P1xel7 (59863, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (84632, 0.89€ bounty)
+Seat 5: BIG asturcan (5292, 0.45€ bounty)
+Seat 6: sdeni (18796, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+Vrai_ou_Foo posts ante 160
+xnicosx posts ante 160
+HENNI2CARDS posts ante 160
+BIG asturcan posts ante 160
+sdeni posts ante 160
+P1xel7 posts small blind 700
+Vrai_ou_Foo posts big blind 1400
+Dealt to P1xel7 [9c Kc]
+*** PRE-FLOP *** 
+BIG asturcan folds
+sdeni folds
+xnicosx folds
+HENNI2CARDS raises 29819 to 31219 and is all-in
+P1xel7 folds
+Vrai_ou_Foo folds
+HENNI2CARDS collected 34279 from pot
+*** SUMMARY ***
+Total pot 34279 | No rake
+Seat 2: HENNI2CARDS (button) won 34279
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-101-1705864577 - Holdem no limit (160/700/1400) - 2024/01/21 19:16:17 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: xnicosx (22030, 0.45€ bounty)
+Seat 2: HENNI2CARDS (34279, 0.67€ bounty)
+Seat 3: P1xel7 (59003, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (83072, 0.89€ bounty)
+Seat 5: BIG asturcan (5132, 0.45€ bounty)
+Seat 6: sdeni (18636, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 160
+BIG asturcan posts ante 160
+xnicosx posts ante 160
+HENNI2CARDS posts ante 160
+P1xel7 posts ante 160
+sdeni posts ante 160
+Vrai_ou_Foo posts small blind 700
+BIG asturcan posts big blind 1400
+Dealt to P1xel7 [6h 7c]
+*** PRE-FLOP *** 
+sdeni folds
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo raises 81512 to 82912 and is all-in
+BIG asturcan calls 3572 and is all-in
+*** FLOP *** [Jd Js 5s]
+*** TURN *** [Jd Js 5s][Kh]
+*** RIVER *** [Jd Js 5s Kh][Jh]
+*** SHOW DOWN ***
+Vrai_ou_Foo shows [Qc Ac] (Trips of Jacks)
+BIG asturcan shows [5h Ad] (Full of Jacks and 5)
+BIG asturcan collected 10904 from main pot
+Vrai_ou_Foo collected 77940 from side pot 1
+*** SUMMARY ***
+Total pot 88844 | No rake
+Board: [Jd Js 5s Kh Jh]
+Seat 4: Vrai_ou_Foo (small blind) showed [Qc Ac] and won 77940 with Trips of Jacks
+Seat 5: BIG asturcan (big blind) showed [5h Ad] and won 10904 with Full of Jacks and 5
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3155919141349621775-102-1705864602 - Holdem no limit (160/700/1400) - 2024/01/21 19:16:42 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: xnicosx (21870, 0.45€ bounty)
+Seat 2: HENNI2CARDS (34119, 0.67€ bounty)
+Seat 3: P1xel7 (58843, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (77940, 0.89€ bounty)
+Seat 5: BIG asturcan (10904, 0.45€ bounty)
+Seat 6: sdeni (18476, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 160
+sdeni posts ante 160
+xnicosx posts ante 160
+HENNI2CARDS posts ante 160
+P1xel7 posts ante 160
+Vrai_ou_Foo posts ante 160
+BIG asturcan posts small blind 700
+sdeni posts big blind 1400
+Dealt to P1xel7 [2d 9s]
+*** PRE-FLOP *** 
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan calls 700
+sdeni checks
+*** FLOP *** [9d 5c Kh]
+BIG asturcan bets 1400
+sdeni folds
+BIG asturcan collected 5160 from pot
+*** SUMMARY ***
+Total pot 5160 | No rake
+Board: [9d 5c Kh]
+Seat 5: BIG asturcan (small blind) won 5160
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-103-1705864626 - Holdem no limit (200/800/1600) - 2024/01/21 19:17:06 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: xnicosx (21710, 0.45€ bounty)
+Seat 2: HENNI2CARDS (33959, 0.67€ bounty)
+Seat 3: P1xel7 (58683, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (77780, 0.89€ bounty)
+Seat 5: BIG asturcan (13104, 0.45€ bounty)
+Seat 6: sdeni (16916, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 200
+xnicosx posts ante 200
+HENNI2CARDS posts ante 200
+P1xel7 posts ante 200
+Vrai_ou_Foo posts ante 200
+BIG asturcan posts ante 200
+sdeni posts small blind 800
+xnicosx posts big blind 1600
+Dealt to P1xel7 [5c 7c]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni raises 15116 to 16716 and is all-in
+xnicosx folds
+sdeni collected 19516 from pot
+*** SUMMARY ***
+Total pot 19516 | No rake
+Seat 6: sdeni (small blind) won 19516
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-104-1705864647 - Holdem no limit (200/800/1600) - 2024/01/21 19:17:27 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: xnicosx (19910, 0.45€ bounty)
+Seat 2: HENNI2CARDS (33759, 0.67€ bounty)
+Seat 3: P1xel7 (58483, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (77580, 0.89€ bounty)
+Seat 5: BIG asturcan (12904, 0.45€ bounty)
+Seat 6: sdeni (19516, 0.67€ bounty)
+*** ANTE/BLINDS ***
+xnicosx posts ante 200
+HENNI2CARDS posts ante 200
+P1xel7 posts ante 200
+Vrai_ou_Foo posts ante 200
+BIG asturcan posts ante 200
+sdeni posts ante 200
+xnicosx posts small blind 800
+HENNI2CARDS posts big blind 1600
+Dealt to P1xel7 [2h 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni folds
+xnicosx raises 2400 to 4000
+HENNI2CARDS folds
+xnicosx collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | No rake
+Seat 1: xnicosx (small blind) won 6800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-105-1705864677 - Holdem no limit (200/800/1600) - 2024/01/21 19:17:57 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: xnicosx (22510, 0.45€ bounty)
+Seat 2: HENNI2CARDS (31959, 0.67€ bounty)
+Seat 3: P1xel7 (58283, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (77380, 0.89€ bounty)
+Seat 5: BIG asturcan (12704, 0.45€ bounty)
+Seat 6: sdeni (19316, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 200
+P1xel7 posts ante 200
+xnicosx posts ante 200
+Vrai_ou_Foo posts ante 200
+BIG asturcan posts ante 200
+sdeni posts ante 200
+HENNI2CARDS posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [6c Td]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni folds
+xnicosx raises 3200 to 4800
+HENNI2CARDS folds
+P1xel7 folds
+xnicosx collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | No rake
+Seat 1: xnicosx (button) won 8400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-106-1705864727 - Holdem no limit (200/800/1600) - 2024/01/21 19:18:47 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: xnicosx (25910, 0.45€ bounty)
+Seat 2: HENNI2CARDS (30959, 0.67€ bounty)
+Seat 3: P1xel7 (56483, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (77180, 0.89€ bounty)
+Seat 5: BIG asturcan (12504, 0.45€ bounty)
+Seat 6: sdeni (19116, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Vrai_ou_Foo posts ante 200
+xnicosx posts ante 200
+HENNI2CARDS posts ante 200
+BIG asturcan posts ante 200
+sdeni posts ante 200
+P1xel7 posts small blind 800
+Vrai_ou_Foo posts big blind 1600
+Dealt to P1xel7 [8h 2h]
+*** PRE-FLOP *** 
+BIG asturcan calls 1600
+sdeni folds
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo checks
+*** FLOP *** [2c 8s Jh]
+Vrai_ou_Foo checks
+BIG asturcan checks
+*** TURN *** [2c 8s Jh][7d]
+Vrai_ou_Foo bets 3200
+BIG asturcan folds
+Vrai_ou_Foo collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | No rake
+Board: [2c 8s Jh 7d]
+Seat 4: Vrai_ou_Foo (big blind) won 8400
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-107-1705864774 - Holdem no limit (200/800/1600) - 2024/01/21 19:19:34 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: xnicosx (25710, 0.45€ bounty)
+Seat 2: HENNI2CARDS (30759, 0.67€ bounty)
+Seat 3: P1xel7 (55483, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (80580, 0.89€ bounty)
+Seat 5: BIG asturcan (10704, 0.45€ bounty)
+Seat 6: sdeni (18916, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 200
+BIG asturcan posts ante 200
+xnicosx posts ante 200
+HENNI2CARDS posts ante 200
+P1xel7 posts ante 200
+sdeni posts ante 200
+Vrai_ou_Foo posts small blind 800
+BIG asturcan posts big blind 1600
+Dealt to P1xel7 [Qs 6h]
+*** PRE-FLOP *** 
+sdeni folds
+xnicosx folds
+HENNI2CARDS raises 1600 to 3200
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan folds
+HENNI2CARDS collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | No rake
+Seat 2: HENNI2CARDS won 6800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-108-1705864804 - Holdem no limit (200/800/1600) - 2024/01/21 19:20:04 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: xnicosx (25510, 0.45€ bounty)
+Seat 2: HENNI2CARDS (34159, 0.67€ bounty)
+Seat 3: P1xel7 (55283, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (79580, 0.89€ bounty)
+Seat 5: BIG asturcan (8904, 0.45€ bounty)
+Seat 6: sdeni (18716, 0.67€ bounty)
+*** ANTE/BLINDS ***
+BIG asturcan posts ante 200
+sdeni posts ante 200
+xnicosx posts ante 200
+HENNI2CARDS posts ante 200
+P1xel7 posts ante 200
+Vrai_ou_Foo posts ante 200
+BIG asturcan posts small blind 800
+sdeni posts big blind 1600
+Dealt to P1xel7 [Kh 5d]
+*** PRE-FLOP *** 
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan folds
+sdeni collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 6: sdeni (big blind) won 3600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-109-1705864818 - Holdem no limit (200/800/1600) - 2024/01/21 19:20:18 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: xnicosx (25310, 0.45€ bounty)
+Seat 2: HENNI2CARDS (33959, 0.67€ bounty)
+Seat 3: P1xel7 (55083, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (79380, 0.89€ bounty)
+Seat 5: BIG asturcan (7904, 0.45€ bounty)
+Seat 6: sdeni (20516, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 200
+xnicosx posts ante 200
+HENNI2CARDS posts ante 200
+P1xel7 posts ante 200
+Vrai_ou_Foo posts ante 200
+BIG asturcan posts ante 200
+sdeni posts small blind 800
+xnicosx posts big blind 1600
+Dealt to P1xel7 [3d 2c]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo raises 1600 to 3200
+BIG asturcan folds
+sdeni folds
+xnicosx folds
+Vrai_ou_Foo collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | No rake
+Seat 4: Vrai_ou_Foo won 6800
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-110-1705864836 - Holdem no limit (200/800/1600) - 2024/01/21 19:20:36 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: xnicosx (23510, 0.45€ bounty)
+Seat 2: HENNI2CARDS (33759, 0.67€ bounty)
+Seat 3: P1xel7 (54883, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (82780, 0.89€ bounty)
+Seat 5: BIG asturcan (7704, 0.45€ bounty)
+Seat 6: sdeni (19516, 0.67€ bounty)
+*** ANTE/BLINDS ***
+xnicosx posts ante 200
+HENNI2CARDS posts ante 200
+P1xel7 posts ante 200
+Vrai_ou_Foo posts ante 200
+BIG asturcan posts ante 200
+sdeni posts ante 200
+xnicosx posts small blind 800
+HENNI2CARDS posts big blind 1600
+Dealt to P1xel7 [5c 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo folds
+BIG asturcan raises 5904 to 7504 and is all-in
+sdeni folds
+xnicosx calls 6704
+HENNI2CARDS folds
+*** FLOP *** [Kd Qs 7s]
+*** TURN *** [Kd Qs 7s][Js]
+*** RIVER *** [Kd Qs 7s Js][2d]
+*** SHOW DOWN ***
+BIG asturcan shows [Td Th] (One pair : Tens)
+xnicosx shows [Jd Ks] (Two pairs : Kings and Jacks)
+xnicosx collected 17808 from pot
+*** SUMMARY ***
+Total pot 17808 | No rake
+Board: [Kd Qs 7s Js 2d]
+Seat 1: xnicosx (small blind) showed [Jd Ks] and won 17808 with Two pairs : Kings and Jacks
+Seat 5: BIG asturcan showed [Td Th] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-111-1705864865 - Holdem no limit (200/800/1600) - 2024/01/21 19:21:05 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: xnicosx (33614, 0.67€ bounty)
+Seat 2: HENNI2CARDS (31959, 0.67€ bounty)
+Seat 3: P1xel7 (54683, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (82580, 0.89€ bounty)
+Seat 6: sdeni (19316, 0.67€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 200
+P1xel7 posts ante 200
+xnicosx posts ante 200
+Vrai_ou_Foo posts ante 200
+sdeni posts ante 200
+HENNI2CARDS posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [2s Qh]
+*** PRE-FLOP *** 
+Vrai_ou_Foo raises 1600 to 3200
+sdeni raises 15916 to 19116 and is all-in
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo calls 15916
+*** FLOP *** [7c 7h 4c]
+*** TURN *** [7c 7h 4c][6s]
+*** RIVER *** [7c 7h 4c 6s][Qd]
+*** SHOW DOWN ***
+Vrai_ou_Foo shows [As Tc] (One pair : 7)
+sdeni shows [9h 9s] (Two pairs : 9 and 7)
+sdeni collected 41632 from pot
+*** SUMMARY ***
+Total pot 41632 | No rake
+Board: [7c 7h 4c 6s Qd]
+Seat 4: Vrai_ou_Foo showed [As Tc] and lost with One pair : 7
+Seat 6: sdeni showed [9h 9s] and won 41632 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-112-1705864905 - Holdem no limit (200/800/1600) - 2024/01/21 19:21:45 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: xnicosx (33414, 0.67€ bounty)
+Seat 2: HENNI2CARDS (30959, 0.67€ bounty)
+Seat 3: P1xel7 (52883, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (63264, 0.89€ bounty)
+Seat 5: Letalocheur (61206, 1€ bounty)
+Seat 6: sdeni (41632, 0.67€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Vrai_ou_Foo posts ante 200
+xnicosx posts ante 200
+HENNI2CARDS posts ante 200
+Letalocheur posts ante 200
+sdeni posts ante 200
+P1xel7 posts small blind 800
+Vrai_ou_Foo posts big blind 1600
+Dealt to P1xel7 [Qh 3d]
+*** PRE-FLOP *** 
+Letalocheur folds
+sdeni folds
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 4: Vrai_ou_Foo (big blind) won 3600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3155919141349621775-113-1705864917 - Holdem no limit (200/800/1600) - 2024/01/21 19:21:57 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: xnicosx (33214, 0.67€ bounty)
+Seat 2: HENNI2CARDS (30759, 0.67€ bounty)
+Seat 3: P1xel7 (51883, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (65064, 0.89€ bounty)
+Seat 5: Letalocheur (61006, 1€ bounty)
+Seat 6: sdeni (41432, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 200
+Letalocheur posts ante 200
+xnicosx posts ante 200
+HENNI2CARDS posts ante 200
+P1xel7 posts ante 200
+sdeni posts ante 200
+Vrai_ou_Foo posts small blind 800
+Letalocheur posts big blind 1600
+Dealt to P1xel7 [2d Jh]
+*** PRE-FLOP *** 
+sdeni folds
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo calls 800
+Letalocheur checks
+*** FLOP *** [Ks 8d Ac]
+Vrai_ou_Foo checks
+Letalocheur checks
+*** TURN *** [Ks 8d Ac][9c]
+Vrai_ou_Foo bets 3200
+Letalocheur calls 3200
+*** RIVER *** [Ks 8d Ac 9c][6d]
+Vrai_ou_Foo bets 8000
+Letalocheur raises 26800 to 34800
+Vrai_ou_Foo folds
+Letalocheur collected 53600 from pot
+*** SUMMARY ***
+Total pot 53600 | No rake
+Board: [Ks 8d Ac 9c 6d]
+Seat 5: Letalocheur (big blind) won 53600
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3155919141349621775-114-1705864988 - Holdem no limit (250/1000/2000) - 2024/01/21 19:23:08 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: xnicosx (33014, 0.67€ bounty)
+Seat 2: HENNI2CARDS (30559, 0.67€ bounty)
+Seat 3: P1xel7 (51683, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (52064, 0.89€ bounty)
+Seat 5: Letalocheur (74806, 1€ bounty)
+Seat 6: sdeni (41232, 0.67€ bounty)
+*** ANTE/BLINDS ***
+Letalocheur posts ante 250
+sdeni posts ante 250
+xnicosx posts ante 250
+HENNI2CARDS posts ante 250
+P1xel7 posts ante 250
+Vrai_ou_Foo posts ante 250
+Letalocheur posts small blind 1000
+sdeni posts big blind 2000
+Dealt to P1xel7 [8h 9c]
+*** PRE-FLOP *** 
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+Letalocheur folds
+sdeni collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 6: sdeni (big blind) won 4500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3155919141349621775-115-1705865003 - Holdem no limit (250/1000/2000) - 2024/01/21 19:23:23 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: xnicosx (32764, 0.67€ bounty)
+Seat 2: HENNI2CARDS (30309, 0.67€ bounty)
+Seat 3: P1xel7 (51433, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (51814, 0.89€ bounty)
+Seat 5: Letalocheur (73556, 1€ bounty)
+Seat 6: sdeni (43482, 0.67€ bounty)
+*** ANTE/BLINDS ***
+sdeni posts ante 250
+xnicosx posts ante 250
+HENNI2CARDS posts ante 250
+P1xel7 posts ante 250
+Vrai_ou_Foo posts ante 250
+Letalocheur posts ante 250
+sdeni posts small blind 1000
+xnicosx posts big blind 2000
+Dealt to P1xel7 [3c Td]
+*** PRE-FLOP *** 
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo raises 2000 to 4000
+Letalocheur folds
+sdeni folds
+xnicosx folds
+Vrai_ou_Foo collected 8500 from pot
+*** SUMMARY ***
+Total pot 8500 | No rake
+Seat 4: Vrai_ou_Foo won 8500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3155919141349621775-116-1705865022 - Holdem no limit (250/1000/2000) - 2024/01/21 19:23:42 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: xnicosx (30514, 0.67€ bounty)
+Seat 2: HENNI2CARDS (30059, 0.67€ bounty)
+Seat 3: P1xel7 (51183, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (56064, 0.89€ bounty)
+Seat 5: Letalocheur (73306, 1€ bounty)
+Seat 6: sdeni (42232, 0.67€ bounty)
+*** ANTE/BLINDS ***
+xnicosx posts ante 250
+HENNI2CARDS posts ante 250
+P1xel7 posts ante 250
+Vrai_ou_Foo posts ante 250
+Letalocheur posts ante 250
+sdeni posts ante 250
+xnicosx posts small blind 1000
+HENNI2CARDS posts big blind 2000
+Dealt to P1xel7 [8d Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo raises 2000 to 4000
+Letalocheur raises 12500 to 16500
+sdeni raises 25482 to 41982 and is all-in
+xnicosx folds
+HENNI2CARDS folds
+Vrai_ou_Foo folds
+Letalocheur calls 25482
+*** FLOP *** [Ah 6s 9s]
+*** TURN *** [Ah 6s 9s][Jc]
+*** RIVER *** [Ah 6s 9s Jc][2d]
+*** SHOW DOWN ***
+sdeni shows [7h 7d] (One pair : 7)
+Letalocheur shows [6c 6d] (Trips of 6)
+Letalocheur collected 92464 from pot
+*** SUMMARY ***
+Total pot 92464 | No rake
+Board: [Ah 6s 9s Jc 2d]
+Seat 5: Letalocheur showed [6c 6d] and won 92464 with Trips of 6
+Seat 6: sdeni (button) showed [7h 7d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3155919141349621775-117-1705865066 - Holdem no limit (250/1000/2000) - 2024/01/21 19:24:26 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: xnicosx (29264, 0.67€ bounty)
+Seat 2: HENNI2CARDS (27809, 0.67€ bounty)
+Seat 3: P1xel7 (50933, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (51814, 0.89€ bounty)
+Seat 5: Letalocheur (123538, 1.33€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 250
+P1xel7 posts ante 250
+xnicosx posts ante 250
+Vrai_ou_Foo posts ante 250
+Letalocheur posts ante 250
+HENNI2CARDS posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [Kd 9c]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+Letalocheur folds
+xnicosx folds
+HENNI2CARDS raises 3000 to 5000
+P1xel7 raises 45683 to 50683 and is all-in
+HENNI2CARDS folds
+P1xel7 collected 56933 from pot
+*** SUMMARY ***
+Total pot 56933 | No rake
+Seat 3: P1xel7 (big blind) won 56933
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3155919141349621775-118-1705865086 - Holdem no limit (250/1000/2000) - 2024/01/21 19:24:46 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: xnicosx (29014, 0.67€ bounty)
+Seat 2: HENNI2CARDS (22559, 0.67€ bounty)
+Seat 3: P1xel7 (56933, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (51564, 0.89€ bounty)
+Seat 5: Letalocheur (123288, 1.33€ bounty)
+Seat 6: Ithopoios77 (83159, 1€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+Vrai_ou_Foo posts ante 250
+xnicosx posts ante 250
+HENNI2CARDS posts ante 250
+Letalocheur posts ante 250
+Ithopoios77 posts ante 250
+P1xel7 posts small blind 1000
+Vrai_ou_Foo posts big blind 2000
+Dealt to P1xel7 [Ac 4d]
+*** PRE-FLOP *** 
+Letalocheur raises 4000 to 6000
+Ithopoios77 folds
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo calls 4000
+*** FLOP *** [Kh Js 2c]
+Vrai_ou_Foo checks
+Letalocheur bets 14500
+Vrai_ou_Foo calls 14500
+*** TURN *** [Kh Js 2c][8h]
+Vrai_ou_Foo checks
+Letalocheur bets 43500
+Vrai_ou_Foo calls 30814 and is all-in
+*** RIVER *** [Kh Js 2c 8h][3s]
+*** SHOW DOWN ***
+Vrai_ou_Foo shows [Kd Qd] (One pair : Kings)
+Letalocheur shows [9d Kc] (One pair : Kings)
+Letalocheur collected 12686 from side pot 1
+Vrai_ou_Foo collected 105128 from main pot
+*** SUMMARY ***
+Total pot 117814 | No rake
+Board: [Kh Js 2c 8h 3s]
+Seat 4: Vrai_ou_Foo (big blind) showed [Kd Qd] and won 105128 with One pair : Kings
+Seat 5: Letalocheur showed [9d Kc] and won 12686 with One pair : Kings
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3155919141349621775-119-1705865156 - Holdem no limit (250/1000/2000) - 2024/01/21 19:25:56 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: xnicosx (28764, 0.67€ bounty)
+Seat 2: HENNI2CARDS (22309, 0.67€ bounty)
+Seat 3: P1xel7 (55683, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (105128, 0.89€ bounty)
+Seat 5: Letalocheur (71724, 1.33€ bounty)
+Seat 6: Ithopoios77 (82909, 1€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 250
+Letalocheur posts ante 250
+xnicosx posts ante 250
+HENNI2CARDS posts ante 250
+P1xel7 posts ante 250
+Ithopoios77 posts ante 250
+Vrai_ou_Foo posts small blind 1000
+Letalocheur posts big blind 2000
+Dealt to P1xel7 [7c 8d]
+*** PRE-FLOP *** 
+Ithopoios77 raises 4000 to 6000
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+Letalocheur folds
+Ithopoios77 collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | No rake
+Seat 6: Ithopoios77 won 10500
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3155919141349621775-120-1705865182 - Holdem no limit (250/1000/2000) - 2024/01/21 19:26:22 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: xnicosx (28514, 0.67€ bounty)
+Seat 2: HENNI2CARDS (22059, 0.67€ bounty)
+Seat 3: P1xel7 (55433, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (103878, 0.89€ bounty)
+Seat 5: Letalocheur (69474, 1.33€ bounty)
+Seat 6: Ithopoios77 (87159, 1€ bounty)
+*** ANTE/BLINDS ***
+Letalocheur posts ante 250
+Ithopoios77 posts ante 250
+xnicosx posts ante 250
+HENNI2CARDS posts ante 250
+P1xel7 posts ante 250
+Vrai_ou_Foo posts ante 250
+Letalocheur posts small blind 1000
+Ithopoios77 posts big blind 2000
+Dealt to P1xel7 [Jh As]
+*** PRE-FLOP *** 
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 raises 3000 to 5000
+Vrai_ou_Foo raises 7000 to 12000
+Letalocheur folds
+Ithopoios77 folds
+P1xel7 calls 7000
+*** FLOP *** [3c Tc 9h]
+P1xel7 checks
+Vrai_ou_Foo bets 9975
+P1xel7 folds
+Vrai_ou_Foo collected 38475 from pot
+*** SUMMARY ***
+Total pot 38475 | No rake
+Board: [3c Tc 9h]
+Seat 4: Vrai_ou_Foo (button) won 38475
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3155919141349621775-121-1705865266 - Holdem no limit (300/1250/2500) - 2024/01/21 19:27:46 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: xnicosx (28264, 0.67€ bounty)
+Seat 2: HENNI2CARDS (21809, 0.67€ bounty)
+Seat 3: P1xel7 (43183, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (120128, 0.89€ bounty)
+Seat 5: Letalocheur (68224, 1.33€ bounty)
+Seat 6: Ithopoios77 (84909, 1€ bounty)
+*** ANTE/BLINDS ***
+Ithopoios77 posts ante 300
+xnicosx posts ante 300
+HENNI2CARDS posts ante 300
+P1xel7 posts ante 300
+Vrai_ou_Foo posts ante 300
+Letalocheur posts ante 300
+Ithopoios77 posts small blind 1250
+xnicosx posts big blind 2500
+Dealt to P1xel7 [5c 8d]
+*** PRE-FLOP *** 
+HENNI2CARDS raises 19009 to 21509 and is all-in
+P1xel7 folds
+Vrai_ou_Foo folds
+Letalocheur folds
+Ithopoios77 folds
+xnicosx folds
+HENNI2CARDS collected 27059 from pot
+*** SUMMARY ***
+Total pot 27059 | No rake
+Seat 2: HENNI2CARDS won 27059
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3155919141349621775-122-1705865310 - Holdem no limit (300/1250/2500) - 2024/01/21 19:28:30 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: xnicosx (25464, 0.67€ bounty)
+Seat 2: HENNI2CARDS (27059, 0.67€ bounty)
+Seat 3: P1xel7 (42883, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (119828, 0.89€ bounty)
+Seat 5: Letalocheur (67924, 1.33€ bounty)
+Seat 6: Ithopoios77 (83359, 1€ bounty)
+*** ANTE/BLINDS ***
+xnicosx posts ante 300
+HENNI2CARDS posts ante 300
+P1xel7 posts ante 300
+Vrai_ou_Foo posts ante 300
+Letalocheur posts ante 300
+Ithopoios77 posts ante 300
+xnicosx posts small blind 1250
+HENNI2CARDS posts big blind 2500
+Dealt to P1xel7 [7c 2h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Vrai_ou_Foo folds
+Letalocheur raises 65124 to 67624 and is all-in
+Ithopoios77 folds
+xnicosx folds
+HENNI2CARDS folds
+Letalocheur collected 73174 from pot
+*** SUMMARY ***
+Total pot 73174 | No rake
+Seat 5: Letalocheur won 73174
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3155919141349621775-123-1705865335 - Holdem no limit (300/1250/2500) - 2024/01/21 19:28:55 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: xnicosx (23914, 0.67€ bounty)
+Seat 2: HENNI2CARDS (24259, 0.67€ bounty)
+Seat 3: P1xel7 (42583, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (119528, 0.89€ bounty)
+Seat 5: Letalocheur (73174, 1.33€ bounty)
+Seat 6: Ithopoios77 (83059, 1€ bounty)
+*** ANTE/BLINDS ***
+HENNI2CARDS posts ante 300
+P1xel7 posts ante 300
+xnicosx posts ante 300
+Vrai_ou_Foo posts ante 300
+Letalocheur posts ante 300
+Ithopoios77 posts ante 300
+HENNI2CARDS posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Qc Ad]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+Letalocheur folds
+Ithopoios77 folds
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | No rake
+Seat 3: P1xel7 (big blind) won 5550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3155919141349621775-124-1705865361 - Holdem no limit (300/1250/2500) - 2024/01/21 19:29:21 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #2 is the button
+Seat 1: xnicosx (23614, 0.67€ bounty)
+Seat 2: HENNI2CARDS (22709, 0.67€ bounty)
+Seat 3: P1xel7 (45333, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (119228, 0.89€ bounty)
+Seat 5: Letalocheur (72874, 1.33€ bounty)
+Seat 6: Ithopoios77 (82759, 1€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+Vrai_ou_Foo posts ante 300
+xnicosx posts ante 300
+HENNI2CARDS posts ante 300
+Letalocheur posts ante 300
+Ithopoios77 posts ante 300
+P1xel7 posts small blind 1250
+Vrai_ou_Foo posts big blind 2500
+Dealt to P1xel7 [Jd 5c]
+*** PRE-FLOP *** 
+Letalocheur folds
+Ithopoios77 raises 2500 to 5000
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 folds
+Vrai_ou_Foo folds
+Ithopoios77 collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Seat 6: Ithopoios77 won 10550
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3155919141349621775-125-1705865398 - Holdem no limit (300/1250/2500) - 2024/01/21 19:29:58 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #3 is the button
+Seat 1: xnicosx (23314, 0.67€ bounty)
+Seat 2: HENNI2CARDS (22409, 0.67€ bounty)
+Seat 3: P1xel7 (43783, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (116428, 0.89€ bounty)
+Seat 5: Letalocheur (72574, 1.33€ bounty)
+Seat 6: Ithopoios77 (88009, 1€ bounty)
+*** ANTE/BLINDS ***
+Vrai_ou_Foo posts ante 300
+Letalocheur posts ante 300
+xnicosx posts ante 300
+HENNI2CARDS posts ante 300
+P1xel7 posts ante 300
+Ithopoios77 posts ante 300
+Vrai_ou_Foo posts small blind 1250
+Letalocheur posts big blind 2500
+Dealt to P1xel7 [8c 6c]
+*** PRE-FLOP *** 
+Ithopoios77 folds
+xnicosx folds
+HENNI2CARDS raises 19609 to 22109 and is all-in
+P1xel7 folds
+Vrai_ou_Foo folds
+Letalocheur folds
+HENNI2CARDS collected 27659 from pot
+*** SUMMARY ***
+Total pot 27659 | No rake
+Seat 2: HENNI2CARDS won 27659
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3155919141349621775-126-1705865413 - Holdem no limit (300/1250/2500) - 2024/01/21 19:30:13 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #4 is the button
+Seat 1: xnicosx (23014, 0.67€ bounty)
+Seat 2: HENNI2CARDS (27659, 0.67€ bounty)
+Seat 3: P1xel7 (43483, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (114878, 0.89€ bounty)
+Seat 5: Letalocheur (69774, 1.33€ bounty)
+Seat 6: Ithopoios77 (87709, 1€ bounty)
+*** ANTE/BLINDS ***
+Letalocheur posts ante 300
+Ithopoios77 posts ante 300
+xnicosx posts ante 300
+HENNI2CARDS posts ante 300
+P1xel7 posts ante 300
+Vrai_ou_Foo posts ante 300
+Letalocheur posts small blind 1250
+Ithopoios77 posts big blind 2500
+Dealt to P1xel7 [9h 8h]
+*** PRE-FLOP *** 
+xnicosx folds
+HENNI2CARDS folds
+P1xel7 raises 3750 to 6250
+Vrai_ou_Foo folds
+Letalocheur calls 5000
+Ithopoios77 calls 3750
+*** FLOP *** [6s 3h 7d]
+Letalocheur checks
+Ithopoios77 checks
+P1xel7 checks
+*** TURN *** [6s 3h 7d][Qd]
+Letalocheur bets 7192
+Ithopoios77 folds
+P1xel7 calls 7192
+*** RIVER *** [6s 3h 7d Qd][2d]
+Letalocheur bets 12227
+P1xel7 folds
+Letalocheur collected 47161 from pot
+*** SUMMARY ***
+Total pot 47161 | No rake
+Board: [6s 3h 7d Qd 2d]
+Seat 5: Letalocheur (small blind) won 47161
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3155919141349621775-127-1705865491 - Holdem no limit (300/1250/2500) - 2024/01/21 19:31:31 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #5 is the button
+Seat 1: xnicosx (22714, 0.67€ bounty)
+Seat 3: P1xel7 (29741, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (114578, 0.89€ bounty)
+Seat 5: Letalocheur (90966, 1.33€ bounty)
+Seat 6: Ithopoios77 (81159, 1€ bounty)
+*** ANTE/BLINDS ***
+Ithopoios77 posts ante 300
+xnicosx posts ante 300
+P1xel7 posts ante 300
+Vrai_ou_Foo posts ante 300
+Letalocheur posts ante 300
+Ithopoios77 posts small blind 1250
+xnicosx posts big blind 2500
+Dealt to P1xel7 [Tc Th]
+*** PRE-FLOP *** 
+P1xel7 raises 26941 to 29441 and is all-in
+Vrai_ou_Foo folds
+Letalocheur folds
+Ithopoios77 folds
+xnicosx folds
+P1xel7 collected 34691 from pot
+*** SUMMARY ***
+Total pot 34691 | No rake
+Seat 3: P1xel7 won 34691
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3155919141349621775-128-1705865513 - Holdem no limit (300/1250/2500) - 2024/01/21 19:31:53 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #6 is the button
+Seat 1: xnicosx (19914, 0.67€ bounty)
+Seat 3: P1xel7 (34691, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (114278, 0.89€ bounty)
+Seat 5: Letalocheur (90666, 1.33€ bounty)
+Seat 6: Ithopoios77 (79609, 1€ bounty)
+*** ANTE/BLINDS ***
+xnicosx posts ante 300
+P1xel7 posts ante 300
+Vrai_ou_Foo posts ante 300
+Letalocheur posts ante 300
+Ithopoios77 posts ante 300
+xnicosx posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [3c 3s]
+*** PRE-FLOP *** 
+Vrai_ou_Foo folds
+Letalocheur folds
+Ithopoios77 raises 3750 to 6250
+xnicosx raises 13364 to 19614 and is all-in
+P1xel7 raises 14777 to 34391 and is all-in
+Ithopoios77 folds
+*** FLOP *** [9h 8c Js]
+*** TURN *** [9h 8c Js][8d]
+*** RIVER *** [9h 8c Js 8d][7s]
+*** SHOW DOWN ***
+xnicosx shows [Tc Qs] (Straight Queen high)
+P1xel7 shows [3c 3s] (Two pairs : 8 and 3)
+P1xel7 collected 14777 from side pot 1
+xnicosx collected 46978 from main pot
+*** SUMMARY ***
+Total pot 61755 | No rake
+Board: [9h 8c Js 8d 7s]
+Seat 1: xnicosx (small blind) showed [Tc Qs] and won 46978 with Straight Queen high
+Seat 3: P1xel7 (big blind) showed [3c 3s] and won 14777 with Two pairs : 8 and 3
+
+
+Winamax Poker - Tournament "Kill The Fish" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3155919141349621775-129-1705865566 - Holdem no limit (350/1500/3000) - 2024/01/21 19:32:46 UTC
+Table: 'Kill The Fish(734794685)#014' 6-max (real money) Seat #1 is the button
+Seat 1: xnicosx (46978, 0.67€ bounty)
+Seat 2: jamelos (108152, 1.39€ bounty)
+Seat 3: P1xel7 (14777, 0.89€ bounty)
+Seat 4: Vrai_ou_Foo (113978, 0.89€ bounty)
+Seat 5: Letalocheur (90366, 1.33€ bounty)
+Seat 6: Ithopoios77 (73059, 1€ bounty)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+Vrai_ou_Foo posts ante 350
+xnicosx posts ante 350
+Letalocheur posts ante 350
+Ithopoios77 posts ante 350
+P1xel7 posts small blind 1500
+Vrai_ou_Foo posts big blind 3000
+Dealt to P1xel7 [4c 4s]
+*** PRE-FLOP *** 
+Letalocheur raises 9250 to 12250
+Ithopoios77 folds
+xnicosx folds
+P1xel7 raises 2177 to 14427 and is all-in
+Vrai_ou_Foo folds
+Letalocheur calls 2177
+*** FLOP *** [3h Kc 9c]
+*** TURN *** [3h Kc 9c][2d]
+*** RIVER *** [3h Kc 9c 2d][7s]
+*** SHOW DOWN ***
+P1xel7 shows [4c 4s] (One pair : 4)
+Letalocheur shows [5c 5h] (One pair : 5)
+Letalocheur collected 33604 from pot
+*** SUMMARY ***
+Total pot 33604 | No rake
+Board: [3h Kc 9c 2d 7s]
+Seat 3: P1xel7 (small blind) showed [4c 4s] and lost with One pair : 4
+Seat 5: Letalocheur showed [5c 5h] and won 33604 with One pair : 5
+
+

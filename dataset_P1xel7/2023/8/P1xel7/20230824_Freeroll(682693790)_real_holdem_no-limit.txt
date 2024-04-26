@@ -1,0 +1,1367 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-1-1692900924 - Holdem no limit (25/100/200) - 2023/08/24 18:15:24 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #8 is the button
+Seat 1: fomenteur16 (20000)
+Seat 2: Dacemacla 44 (20000)
+Seat 3: tn.rvr (20000)
+Seat 4: P1xel7 (20000)
+Seat 5: yari12 (20000)
+Seat 6: scottco (20000)
+Seat 7: BekaGiuna (20000)
+Seat 8: loldantibes (20000)
+*** ANTE/BLINDS ***
+fomenteur16 posts ante 25
+Dacemacla 44 posts ante 25
+tn.rvr posts ante 25
+P1xel7 posts ante 25
+yari12 posts ante 25
+scottco posts ante 25
+BekaGiuna posts ante 25
+loldantibes posts ante 25
+fomenteur16 posts small blind 100
+Dacemacla 44 posts big blind 200
+Dealt to P1xel7 [Qs 6s]
+*** PRE-FLOP *** 
+tn.rvr folds
+P1xel7 folds
+yari12 folds
+scottco folds
+BekaGiuna raises 19775 to 19975 and is all-in
+loldantibes folds
+fomenteur16 folds
+Dacemacla 44 calls 19775 and is all-in
+*** FLOP *** [Ks 9h 7c]
+*** TURN *** [Ks 9h 7c][8h]
+*** RIVER *** [Ks 9h 7c 8h][Kd]
+*** SHOW DOWN ***
+BekaGiuna shows [2c 3c] (One pair : Kings)
+Dacemacla 44 shows [Qd Ah] (One pair : Kings)
+Dacemacla 44 collected 40250 from pot
+*** SUMMARY ***
+Total pot 40250 | No rake
+Board: [Ks 9h 7c 8h Kd]
+Seat 2: Dacemacla 44 (big blind) showed [Qd Ah] and won 40250 with One pair : Kings
+Seat 7: BekaGiuna showed [2c 3c] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-2-1692901044 - Holdem no limit (25/100/200) - 2023/08/24 18:17:24 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #1 is the button
+Seat 1: fomenteur16 (19875)
+Seat 2: Dacemacla 44 (40250)
+Seat 3: tn.rvr (19975)
+Seat 4: P1xel7 (19975)
+Seat 5: yari12 (19975)
+Seat 6: scottco (19975)
+Seat 8: loldantibes (19975)
+*** ANTE/BLINDS ***
+Dacemacla 44 posts ante 25
+tn.rvr posts ante 25
+fomenteur16 posts ante 25
+P1xel7 posts ante 25
+yari12 posts ante 25
+scottco posts ante 25
+loldantibes posts ante 25
+Dacemacla 44 posts small blind 100
+tn.rvr posts big blind 200
+Dealt to P1xel7 [Td 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+yari12 folds
+scottco folds
+loldantibes folds
+fomenteur16 folds
+Dacemacla 44 calls 100
+tn.rvr checks
+*** FLOP *** [7d 5s 5h]
+Dacemacla 44 checks
+tn.rvr checks
+*** TURN *** [7d 5s 5h][Jc]
+Dacemacla 44 checks
+tn.rvr checks
+*** RIVER *** [7d 5s 5h Jc][Kd]
+Dacemacla 44 checks
+tn.rvr checks
+*** SHOW DOWN ***
+Dacemacla 44 shows [2c Qs] (One pair : 5)
+tn.rvr shows [Qd 8s] (One pair : 5)
+tn.rvr collected 288 from pot
+Dacemacla 44 collected 287 from pot
+*** SUMMARY ***
+Total pot 575 | No rake
+Board: [7d 5s 5h Jc Kd]
+Seat 2: Dacemacla 44 (small blind) showed [2c Qs] and won 287 with One pair : 5
+Seat 3: tn.rvr (big blind) showed [Qd 8s] and won 288 with One pair : 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-3-1692901139 - Holdem no limit (25/100/200) - 2023/08/24 18:18:59 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #2 is the button
+Seat 1: fomenteur16 (19850)
+Seat 2: Dacemacla 44 (40312)
+Seat 3: tn.rvr (20038)
+Seat 4: P1xel7 (19950)
+Seat 5: yari12 (19950)
+Seat 6: scottco (19950)
+Seat 7: pizza35 (20000)
+Seat 8: loldantibes (19950)
+*** ANTE/BLINDS ***
+tn.rvr posts ante 25
+P1xel7 posts ante 25
+fomenteur16 posts ante 25
+Dacemacla 44 posts ante 25
+yari12 posts ante 25
+scottco posts ante 25
+pizza35 posts ante 25
+loldantibes posts ante 25
+tn.rvr posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [9d 6d]
+*** PRE-FLOP *** 
+yari12 raises 400 to 600
+scottco calls 600
+pizza35 folds
+loldantibes folds
+fomenteur16 folds
+Dacemacla 44 folds
+tn.rvr folds
+P1xel7 folds
+*** FLOP *** [Jc Qh 4s]
+yari12 bets 595
+scottco calls 595
+*** TURN *** [Jc Qh 4s][Qs]
+yari12 checks
+scottco checks
+*** RIVER *** [Jc Qh 4s Qs][Qc]
+yari12 checks
+scottco checks
+*** SHOW DOWN ***
+scottco shows [Th 9s] (Trips of Queens)
+yari12 shows [8d Jd] (Full of Queens and Jacks)
+yari12 collected 2890 from pot
+*** SUMMARY ***
+Total pot 2890 | No rake
+Board: [Jc Qh 4s Qs Qc]
+Seat 5: yari12 showed [8d Jd] and won 2890 with Full of Queens and Jacks
+Seat 6: scottco showed [Th 9s] and lost with Trips of Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-4-1692901209 - Holdem no limit (25/100/200) - 2023/08/24 18:20:09 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #3 is the button
+Seat 1: fomenteur16 (19825)
+Seat 2: Dacemacla 44 (40287)
+Seat 3: tn.rvr (19913)
+Seat 4: P1xel7 (19725)
+Seat 5: yari12 (21620)
+Seat 7: pizza35 (19975)
+Seat 8: loldantibes (19925)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+yari12 posts ante 25
+fomenteur16 posts ante 25
+Dacemacla 44 posts ante 25
+tn.rvr posts ante 25
+pizza35 posts ante 25
+loldantibes posts ante 25
+P1xel7 posts small blind 100
+yari12 posts big blind 200
+Dealt to P1xel7 [8d 4d]
+*** PRE-FLOP *** 
+pizza35 folds
+loldantibes folds
+fomenteur16 folds
+Dacemacla 44 calls 200
+tn.rvr raises 875 to 1075
+P1xel7 folds
+yari12 folds
+Dacemacla 44 folds
+tn.rvr collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | No rake
+Seat 3: tn.rvr (button) won 1750
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-5-1692901259 - Holdem no limit (25/100/200) - 2023/08/24 18:20:59 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #4 is the button
+Seat 1: fomenteur16 (19800)
+Seat 2: Dacemacla 44 (40062)
+Seat 3: tn.rvr (20563)
+Seat 4: P1xel7 (19600)
+Seat 5: yari12 (21395)
+Seat 6: Xav521 (20000)
+Seat 7: pizza35 (19950)
+Seat 8: loldantibes (19900)
+*** ANTE/BLINDS ***
+yari12 posts ante 25
+Xav521 posts ante 25
+fomenteur16 posts ante 25
+Dacemacla 44 posts ante 25
+tn.rvr posts ante 25
+P1xel7 posts ante 25
+pizza35 posts ante 25
+loldantibes posts ante 25
+yari12 posts small blind 100
+Xav521 posts big blind 200
+Dealt to P1xel7 [Th 5h]
+*** PRE-FLOP *** 
+pizza35 folds
+loldantibes folds
+fomenteur16 folds
+Dacemacla 44 folds
+tn.rvr folds
+P1xel7 folds
+yari12 raises 300 to 500
+Xav521 calls 300
+*** FLOP *** [Qc Td 8c]
+yari12 bets 200
+Xav521 raises 1600 to 1800
+yari12 calls 1600
+*** TURN *** [Qc Td 8c][3c]
+yari12 checks
+Xav521 bets 4800
+yari12 folds
+Xav521 collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | No rake
+Board: [Qc Td 8c 3c]
+Seat 6: Xav521 (big blind) won 9600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-6-1692901351 - Holdem no limit (25/100/200) - 2023/08/24 18:22:31 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #5 is the button
+Seat 1: fomenteur16 (19775)
+Seat 2: Dacemacla 44 (40037)
+Seat 3: tn.rvr (20538)
+Seat 4: P1xel7 (19575)
+Seat 5: yari12 (19070)
+Seat 6: Xav521 (22475)
+Seat 7: pizza35 (19925)
+Seat 8: loldantibes (19875)
+*** ANTE/BLINDS ***
+Xav521 posts ante 25
+pizza35 posts ante 25
+fomenteur16 posts ante 25
+Dacemacla 44 posts ante 25
+tn.rvr posts ante 25
+P1xel7 posts ante 25
+yari12 posts ante 25
+loldantibes posts ante 25
+Xav521 posts small blind 100
+pizza35 posts big blind 200
+Dealt to P1xel7 [7s Jh]
+*** PRE-FLOP *** 
+loldantibes folds
+fomenteur16 folds
+Dacemacla 44 calls 200
+tn.rvr folds
+P1xel7 folds
+yari12 folds
+Xav521 folds
+pizza35 checks
+*** FLOP *** [Ac Js 4s]
+pizza35 checks
+Dacemacla 44 checks
+*** TURN *** [Ac Js 4s][3c]
+pizza35 checks
+Dacemacla 44 checks
+*** RIVER *** [Ac Js 4s 3c][Ks]
+pizza35 checks
+Dacemacla 44 checks
+*** SHOW DOWN ***
+Dacemacla 44 shows [Qh 7d] (High card : Ace)
+pizza35 shows [2s 2h] (One pair : 2)
+pizza35 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Board: [Ac Js 4s 3c Ks]
+Seat 2: Dacemacla 44 showed [Qh 7d] and lost with High card : Ace
+Seat 7: pizza35 (big blind) showed [2s 2h] and won 700 with One pair : 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-7-1692901380 - Holdem no limit (25/100/200) - 2023/08/24 18:23:00 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #6 is the button
+Seat 1: fomenteur16 (19750)
+Seat 2: Dacemacla 44 (39812)
+Seat 3: tn.rvr (20513)
+Seat 4: P1xel7 (19550)
+Seat 5: yari12 (19045)
+Seat 6: Xav521 (22350)
+Seat 7: pizza35 (20400)
+Seat 8: loldantibes (19850)
+*** ANTE/BLINDS ***
+pizza35 posts ante 25
+loldantibes posts ante 25
+fomenteur16 posts ante 25
+Dacemacla 44 posts ante 25
+tn.rvr posts ante 25
+P1xel7 posts ante 25
+yari12 posts ante 25
+Xav521 posts ante 25
+pizza35 posts small blind 100
+loldantibes posts big blind 200
+Dealt to P1xel7 [6h Kh]
+*** PRE-FLOP *** 
+fomenteur16 folds
+Dacemacla 44 folds
+tn.rvr folds
+P1xel7 folds
+yari12 folds
+Xav521 folds
+pizza35 calls 100
+loldantibes checks
+*** FLOP *** [Jh 3c Tc]
+pizza35 checks
+loldantibes checks
+*** TURN *** [Jh 3c Tc][Jd]
+pizza35 checks
+loldantibes checks
+*** RIVER *** [Jh 3c Tc Jd][9c]
+pizza35 checks
+loldantibes checks
+*** SHOW DOWN ***
+pizza35 shows [6c 4h] (One pair : Jacks)
+loldantibes shows [Qs 6s] (One pair : Jacks)
+loldantibes collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [Jh 3c Tc Jd 9c]
+Seat 7: pizza35 (small blind) showed [6c 4h] and lost with One pair : Jacks
+Seat 8: loldantibes (big blind) showed [Qs 6s] and won 600 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-8-1692901457 - Holdem no limit (25/100/200) - 2023/08/24 18:24:17 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #7 is the button
+Seat 1: fomenteur16 (19725)
+Seat 3: tn.rvr (20488)
+Seat 4: P1xel7 (19525)
+Seat 5: yari12 (19020)
+Seat 6: Xav521 (22325)
+Seat 7: pizza35 (20175)
+Seat 8: loldantibes (20225)
+*** ANTE/BLINDS ***
+loldantibes posts ante 25
+fomenteur16 posts ante 25
+tn.rvr posts ante 25
+P1xel7 posts ante 25
+yari12 posts ante 25
+Xav521 posts ante 25
+pizza35 posts ante 25
+loldantibes posts small blind 100
+fomenteur16 posts big blind 200
+Dealt to P1xel7 [3d 5h]
+*** PRE-FLOP *** 
+tn.rvr folds
+P1xel7 folds
+yari12 raises 18795 to 18995 and is all-in
+Xav521 folds
+pizza35 folds
+loldantibes folds
+fomenteur16 folds
+yari12 collected 19470 from pot
+*** SUMMARY ***
+Total pot 19470 | No rake
+Seat 5: yari12 won 19470
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-9-1692901484 - Holdem no limit (25/100/200) - 2023/08/24 18:24:44 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #8 is the button
+Seat 1: fomenteur16 (19500)
+Seat 2: IB-beldi (20000)
+Seat 3: tn.rvr (20463)
+Seat 4: P1xel7 (19500)
+Seat 5: yari12 (19470)
+Seat 6: Xav521 (22300)
+Seat 7: pizza35 (20150)
+Seat 8: loldantibes (20100)
+*** ANTE/BLINDS ***
+fomenteur16 posts ante 25
+IB-beldi posts ante 25
+tn.rvr posts ante 25
+P1xel7 posts ante 25
+yari12 posts ante 25
+Xav521 posts ante 25
+pizza35 posts ante 25
+loldantibes posts ante 25
+fomenteur16 posts small blind 100
+IB-beldi posts big blind 200
+Dealt to P1xel7 [Qc 4s]
+*** PRE-FLOP *** 
+tn.rvr folds
+P1xel7 folds
+yari12 folds
+Xav521 folds
+pizza35 calls 200
+loldantibes folds
+fomenteur16 folds
+IB-beldi checks
+*** FLOP *** [2c Kh 6s]
+IB-beldi checks
+pizza35 bets 700
+IB-beldi folds
+pizza35 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | No rake
+Board: [2c Kh 6s]
+Seat 7: pizza35 won 1400
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-10-1692901513 - Holdem no limit (25/100/200) - 2023/08/24 18:25:13 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #1 is the button
+Seat 1: fomenteur16 (19375)
+Seat 2: IB-beldi (19775)
+Seat 3: tn.rvr (20438)
+Seat 4: P1xel7 (19475)
+Seat 5: yari12 (19445)
+Seat 6: Xav521 (22275)
+Seat 7: pizza35 (20625)
+Seat 8: loldantibes (20075)
+*** ANTE/BLINDS ***
+IB-beldi posts ante 25
+tn.rvr posts ante 25
+fomenteur16 posts ante 25
+P1xel7 posts ante 25
+yari12 posts ante 25
+Xav521 posts ante 25
+pizza35 posts ante 25
+loldantibes posts ante 25
+IB-beldi posts small blind 100
+tn.rvr posts big blind 200
+Dealt to P1xel7 [4c 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+yari12 folds
+Xav521 calls 200
+pizza35 folds
+loldantibes folds
+fomenteur16 folds
+IB-beldi calls 100
+tn.rvr checks
+*** FLOP *** [6s 9d Th]
+IB-beldi checks
+tn.rvr checks
+Xav521 bets 800
+IB-beldi folds
+tn.rvr folds
+Xav521 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [6s 9d Th]
+Seat 6: Xav521 won 1600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-11-1692901557 - Holdem no limit (25/100/200) - 2023/08/24 18:25:57 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #2 is the button
+Seat 1: fomenteur16 (19350)
+Seat 2: IB-beldi (19550)
+Seat 3: tn.rvr (20213)
+Seat 4: P1xel7 (19450)
+Seat 5: yari12 (19420)
+Seat 6: Xav521 (22850)
+Seat 7: pizza35 (20600)
+Seat 8: loldantibes (20050)
+*** ANTE/BLINDS ***
+tn.rvr posts ante 25
+P1xel7 posts ante 25
+fomenteur16 posts ante 25
+IB-beldi posts ante 25
+yari12 posts ante 25
+Xav521 posts ante 25
+pizza35 posts ante 25
+loldantibes posts ante 25
+tn.rvr posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Jc 6c]
+*** PRE-FLOP *** 
+yari12 folds
+Xav521 folds
+pizza35 calls 200
+loldantibes folds
+fomenteur16 folds
+IB-beldi folds
+tn.rvr raises 400 to 600
+P1xel7 folds
+pizza35 calls 400
+*** FLOP *** [3h Tc Kh]
+tn.rvr bets 1040
+pizza35 calls 1040
+*** TURN *** [3h Tc Kh][7d]
+tn.rvr bets 18548 and is all-in
+pizza35 calls 18548
+*** RIVER *** [3h Tc Kh 7d][As]
+*** SHOW DOWN ***
+pizza35 shows [7s Ks] (Two pairs : Kings and 7)
+tn.rvr shows [Ac Ts] (Two pairs : Aces and Tens)
+tn.rvr collected 40776 from pot
+*** SUMMARY ***
+Total pot 40776 | No rake
+Board: [3h Tc Kh 7d As]
+Seat 3: tn.rvr (small blind) showed [Ac Ts] and won 40776 with Two pairs : Aces and Tens
+Seat 7: pizza35 showed [7s Ks] and lost with Two pairs : Kings and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-12-1692901586 - Holdem no limit (25/100/200) - 2023/08/24 18:26:26 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #3 is the button
+Seat 1: fomenteur16 (19325)
+Seat 2: IB-beldi (19525)
+Seat 3: tn.rvr (40776)
+Seat 4: P1xel7 (19225)
+Seat 5: yari12 (19395)
+Seat 6: Xav521 (22825)
+Seat 7: pizza35 (387)
+Seat 8: loldantibes (20025)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+yari12 posts ante 25
+fomenteur16 posts ante 25
+IB-beldi posts ante 25
+tn.rvr posts ante 25
+Xav521 posts ante 25
+pizza35 posts ante 25
+loldantibes posts ante 25
+P1xel7 posts small blind 100
+yari12 posts big blind 200
+Dealt to P1xel7 [3c 5s]
+*** PRE-FLOP *** 
+Xav521 folds
+pizza35 raises 162 to 362 and is all-in
+loldantibes folds
+fomenteur16 folds
+IB-beldi folds
+tn.rvr calls 362
+P1xel7 folds
+yari12 calls 162
+*** FLOP *** [4h 6h 3h]
+yari12 checks
+tn.rvr checks
+*** TURN *** [4h 6h 3h][9s]
+yari12 checks
+tn.rvr checks
+*** RIVER *** [4h 6h 3h 9s][3d]
+yari12 checks
+tn.rvr checks
+*** SHOW DOWN ***
+tn.rvr shows [Jh Qc] (One pair : 3)
+yari12 shows [7s Ad] (One pair : 3)
+pizza35 shows [2h 9c] (Two pairs : 9 and 3)
+pizza35 collected 1386 from pot
+*** SUMMARY ***
+Total pot 1386 | No rake
+Board: [4h 6h 3h 9s 3d]
+Seat 3: tn.rvr (button) showed [Jh Qc] and lost with One pair : 3
+Seat 5: yari12 (big blind) showed [7s Ad] and lost with One pair : 3
+Seat 7: pizza35 showed [2h 9c] and won 1386 with Two pairs : 9 and 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-13-1692901627 - Holdem no limit (25/100/200) - 2023/08/24 18:27:07 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #4 is the button
+Seat 1: fomenteur16 (19300)
+Seat 2: IB-beldi (19500)
+Seat 3: tn.rvr (40389)
+Seat 4: P1xel7 (19100)
+Seat 5: yari12 (19008)
+Seat 6: Xav521 (22800)
+Seat 7: pizza35 (1386)
+Seat 8: loldantibes (20000)
+*** ANTE/BLINDS ***
+yari12 posts ante 25
+Xav521 posts ante 25
+fomenteur16 posts ante 25
+IB-beldi posts ante 25
+tn.rvr posts ante 25
+P1xel7 posts ante 25
+pizza35 posts ante 25
+loldantibes posts ante 25
+yari12 posts small blind 100
+Xav521 posts big blind 200
+Dealt to P1xel7 [Js 2c]
+*** PRE-FLOP *** 
+pizza35 folds
+loldantibes folds
+fomenteur16 folds
+IB-beldi folds
+tn.rvr calls 200
+P1xel7 folds
+yari12 calls 100
+Xav521 checks
+*** FLOP *** [Qc 4d 8h]
+yari12 bets 800
+Xav521 folds
+tn.rvr folds
+yari12 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | No rake
+Board: [Qc 4d 8h]
+Seat 5: yari12 (small blind) won 1600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #2932147501232292083-14-1692901657 - Holdem no limit (25/100/200) - 2023/08/24 18:27:37 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #5 is the button
+Seat 1: fomenteur16 (19275)
+Seat 2: IB-beldi (19475)
+Seat 3: tn.rvr (40164)
+Seat 4: P1xel7 (19075)
+Seat 5: yari12 (19583)
+Seat 6: Xav521 (22575)
+Seat 7: pizza35 (1361)
+Seat 8: loldantibes (19975)
+*** ANTE/BLINDS ***
+Xav521 posts ante 25
+pizza35 posts ante 25
+fomenteur16 posts ante 25
+IB-beldi posts ante 25
+tn.rvr posts ante 25
+P1xel7 posts ante 25
+yari12 posts ante 25
+loldantibes posts ante 25
+Xav521 posts small blind 100
+pizza35 posts big blind 200
+Dealt to P1xel7 [6s Kc]
+*** PRE-FLOP *** 
+loldantibes folds
+fomenteur16 folds
+IB-beldi folds
+tn.rvr raises 200 to 400
+P1xel7 folds
+yari12 folds
+Xav521 raises 1200 to 1600
+pizza35 folds
+tn.rvr raises 1200 to 2800
+Xav521 calls 1200
+*** FLOP *** [2d 9d Kd]
+Xav521 checks
+tn.rvr checks
+*** TURN *** [2d 9d Kd][Td]
+Xav521 bets 6000
+tn.rvr folds
+Xav521 collected 12000 from pot
+*** SUMMARY ***
+Total pot 12000 | No rake
+Board: [2d 9d Kd Td]
+Seat 6: Xav521 (small blind) won 12000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #2932147501232292083-15-1692901704 - Holdem no limit (30/125/250) - 2023/08/24 18:28:24 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #6 is the button
+Seat 1: fomenteur16 (19250)
+Seat 2: IB-beldi (19450)
+Seat 3: tn.rvr (37339)
+Seat 4: P1xel7 (19050)
+Seat 5: yari12 (19558)
+Seat 6: Xav521 (25750)
+Seat 7: pizza35 (1136)
+Seat 8: loldantibes (19950)
+*** ANTE/BLINDS ***
+pizza35 posts ante 30
+loldantibes posts ante 30
+fomenteur16 posts ante 30
+IB-beldi posts ante 30
+tn.rvr posts ante 30
+P1xel7 posts ante 30
+yari12 posts ante 30
+Xav521 posts ante 30
+pizza35 posts small blind 125
+loldantibes posts big blind 250
+Dealt to P1xel7 [Qs 3h]
+*** PRE-FLOP *** 
+fomenteur16 folds
+IB-beldi calls 250
+tn.rvr folds
+P1xel7 folds
+yari12 calls 250
+Xav521 calls 250
+pizza35 calls 125
+loldantibes checks
+*** FLOP *** [9s Ac 2c]
+pizza35 checks
+loldantibes checks
+IB-beldi checks
+yari12 bets 522
+Xav521 folds
+pizza35 calls 522
+loldantibes folds
+IB-beldi folds
+*** TURN *** [9s Ac 2c][4c]
+pizza35 bets 334 and is all-in
+yari12 calls 334
+*** RIVER *** [9s Ac 2c 4c][Tc]
+*** SHOW DOWN ***
+yari12 shows [Ah 8d] (One pair : Aces)
+pizza35 shows [Kc 6h] (Flush Ace high)
+pizza35 collected 3202 from pot
+*** SUMMARY ***
+Total pot 3202 | No rake
+Board: [9s Ac 2c 4c Tc]
+Seat 5: yari12 showed [Ah 8d] and lost with One pair : Aces
+Seat 7: pizza35 (small blind) showed [Kc 6h] and won 3202 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #2932147501232292083-16-1692901773 - Holdem no limit (30/125/250) - 2023/08/24 18:29:33 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #7 is the button
+Seat 1: fomenteur16 (19220)
+Seat 2: IB-beldi (19170)
+Seat 3: tn.rvr (37309)
+Seat 4: P1xel7 (19020)
+Seat 5: yari12 (18422)
+Seat 6: Xav521 (25470)
+Seat 7: pizza35 (3202)
+Seat 8: loldantibes (19670)
+*** ANTE/BLINDS ***
+loldantibes posts ante 30
+fomenteur16 posts ante 30
+IB-beldi posts ante 30
+tn.rvr posts ante 30
+P1xel7 posts ante 30
+yari12 posts ante 30
+Xav521 posts ante 30
+pizza35 posts ante 30
+loldantibes posts small blind 125
+fomenteur16 posts big blind 250
+Dealt to P1xel7 [Ks 8c]
+*** PRE-FLOP *** 
+IB-beldi folds
+tn.rvr folds
+P1xel7 raises 500 to 750
+yari12 folds
+Xav521 folds
+pizza35 folds
+loldantibes folds
+fomenteur16 folds
+P1xel7 collected 1365 from pot
+*** SUMMARY ***
+Total pot 1365 | No rake
+Seat 4: P1xel7 won 1365
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #2932147501232292083-17-1692901802 - Holdem no limit (30/125/250) - 2023/08/24 18:30:02 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #8 is the button
+Seat 1: fomenteur16 (18940)
+Seat 2: IB-beldi (19140)
+Seat 3: tn.rvr (37279)
+Seat 4: P1xel7 (19605)
+Seat 5: yari12 (18392)
+Seat 6: Xav521 (25440)
+Seat 7: pizza35 (3172)
+Seat 8: loldantibes (19515)
+*** ANTE/BLINDS ***
+fomenteur16 posts ante 30
+IB-beldi posts ante 30
+tn.rvr posts ante 30
+P1xel7 posts ante 30
+yari12 posts ante 30
+Xav521 posts ante 30
+pizza35 posts ante 30
+loldantibes posts ante 30
+fomenteur16 posts small blind 125
+IB-beldi posts big blind 250
+Dealt to P1xel7 [8h 5c]
+*** PRE-FLOP *** 
+tn.rvr folds
+P1xel7 folds
+yari12 folds
+Xav521 raises 865 to 1115
+pizza35 calls 1115
+loldantibes folds
+fomenteur16 folds
+IB-beldi calls 865
+*** FLOP *** [2h Jc Qs]
+IB-beldi checks
+Xav521 bets 3710
+pizza35 calls 2027 and is all-in
+IB-beldi folds
+*** TURN *** [2h Jc Qs][Kh]
+*** RIVER *** [2h Jc Qs Kh][9h]
+*** SHOW DOWN ***
+Xav521 shows [9s Js] (Two pairs : Jacks and 9)
+pizza35 shows [2d 2s] (Trips of 2)
+pizza35 collected 7764 from main pot
+Xav521 collected 1683 from side pot 1
+*** SUMMARY ***
+Total pot 9447 | No rake
+Board: [2h Jc Qs Kh 9h]
+Seat 6: Xav521 showed [9s Js] and won 1683 with Two pairs : Jacks and 9
+Seat 7: pizza35 showed [2d 2s] and won 7764 with Trips of 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #2932147501232292083-18-1692901843 - Holdem no limit (30/125/250) - 2023/08/24 18:30:43 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #1 is the button
+Seat 1: fomenteur16 (18785)
+Seat 2: IB-beldi (17995)
+Seat 3: tn.rvr (37249)
+Seat 4: P1xel7 (19575)
+Seat 5: yari12 (18362)
+Seat 6: Xav521 (22268)
+Seat 7: pizza35 (7764)
+Seat 8: loldantibes (19485)
+*** ANTE/BLINDS ***
+IB-beldi posts ante 30
+tn.rvr posts ante 30
+fomenteur16 posts ante 30
+P1xel7 posts ante 30
+yari12 posts ante 30
+Xav521 posts ante 30
+pizza35 posts ante 30
+loldantibes posts ante 30
+IB-beldi posts small blind 125
+tn.rvr posts big blind 250
+Dealt to P1xel7 [7h 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+yari12 folds
+Xav521 calls 250
+pizza35 raises 250 to 500
+loldantibes folds
+fomenteur16 folds
+IB-beldi calls 375
+tn.rvr raises 36719 to 37219 and is all-in
+Xav521 folds
+pizza35 calls 7234 and is all-in
+IB-beldi calls 17465 and is all-in
+*** FLOP *** [Kh Td 3h]
+*** TURN *** [Kh Td 3h][9s]
+*** RIVER *** [Kh Td 3h 9s][8h]
+*** SHOW DOWN ***
+pizza35 shows [4h 4s] (One pair : 4)
+IB-beldi shows [8c Qd] (One pair : 8)
+tn.rvr shows [Qh Ac] (High card : Ace)
+tn.rvr collected 19254 from side pot 1
+IB-beldi collected 44154 from main pot
+*** SUMMARY ***
+Total pot 63408 | No rake
+Board: [Kh Td 3h 9s 8h]
+Seat 2: IB-beldi (small blind) showed [8c Qd] and won 44154 with One pair : 8
+Seat 3: tn.rvr (big blind) showed [Qh Ac] and won 19254 with High card : Ace
+Seat 7: pizza35 showed [4h 4s] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #2932147501232292083-19-1692901893 - Holdem no limit (35/150/300) - 2023/08/24 18:31:33 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #2 is the button
+Seat 1: fomenteur16 (18755)
+Seat 2: IB-beldi (44154)
+Seat 3: tn.rvr (19254)
+Seat 4: P1xel7 (19545)
+Seat 5: yari12 (18332)
+Seat 6: Xav521 (21988)
+Seat 8: loldantibes (19455)
+*** ANTE/BLINDS ***
+tn.rvr posts ante 35
+P1xel7 posts ante 35
+fomenteur16 posts ante 35
+IB-beldi posts ante 35
+yari12 posts ante 35
+Xav521 posts ante 35
+loldantibes posts ante 35
+tn.rvr posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [4s Ad]
+*** PRE-FLOP *** 
+yari12 folds
+Xav521 calls 300
+loldantibes raises 600 to 900
+fomenteur16 folds
+IB-beldi folds
+tn.rvr folds
+P1xel7 folds
+Xav521 calls 600
+*** FLOP *** [9h Kd 5c]
+Xav521 checks
+loldantibes bets 1622
+Xav521 calls 1622
+*** TURN *** [9h Kd 5c][8c]
+Xav521 checks
+loldantibes bets 2009
+Xav521 calls 2009
+*** RIVER *** [9h Kd 5c 8c][8h]
+Xav521 checks
+loldantibes bets 4879
+Xav521 folds
+loldantibes collected 14636 from pot
+*** SUMMARY ***
+Total pot 14636 | No rake
+Board: [9h Kd 5c 8c 8h]
+Seat 8: loldantibes won 14636
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #2932147501232292083-20-1692901995 - Holdem no limit (35/150/300) - 2023/08/24 18:33:15 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #3 is the button
+Seat 1: fomenteur16 (18720)
+Seat 2: IB-beldi (44119)
+Seat 3: tn.rvr (19069)
+Seat 4: P1xel7 (19210)
+Seat 5: yari12 (18297)
+Seat 6: Carabina12 (20000)
+Seat 7: romainkn01 (20000)
+Seat 8: loldantibes (24646)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+yari12 posts ante 35
+fomenteur16 posts ante 35
+IB-beldi posts ante 35
+tn.rvr posts ante 35
+Carabina12 posts ante 35
+romainkn01 posts ante 35
+loldantibes posts ante 35
+P1xel7 posts small blind 150
+yari12 posts big blind 300
+Dealt to P1xel7 [5h 6h]
+*** PRE-FLOP *** 
+Carabina12 folds
+romainkn01 calls 300
+loldantibes folds
+fomenteur16 folds
+IB-beldi calls 300
+tn.rvr calls 300
+P1xel7 folds
+yari12 checks
+*** FLOP *** [8d 7s 9d]
+yari12 checks
+romainkn01 checks
+IB-beldi checks
+tn.rvr checks
+*** TURN *** [8d 7s 9d][3c]
+yari12 bets 300
+romainkn01 calls 300
+IB-beldi calls 300
+tn.rvr folds
+*** RIVER *** [8d 7s 9d 3c][Kd]
+yari12 bets 300
+romainkn01 folds
+IB-beldi raises 901 to 1201
+yari12 calls 901
+*** SHOW DOWN ***
+IB-beldi shows [Ks Js] (One pair : Kings)
+yari12 shows [3d 3s] (Trips of 3)
+yari12 collected 4932 from pot
+*** SUMMARY ***
+Total pot 4932 | No rake
+Board: [8d 7s 9d 3c Kd]
+Seat 2: IB-beldi showed [Ks Js] and lost with One pair : Kings
+Seat 5: yari12 (big blind) showed [3d 3s] and won 4932 with Trips of 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #2932147501232292083-21-1692902076 - Holdem no limit (40/175/350) - 2023/08/24 18:34:36 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #4 is the button
+Seat 1: fomenteur16 (18685)
+Seat 2: IB-beldi (42283)
+Seat 3: tn.rvr (18734)
+Seat 4: P1xel7 (19025)
+Seat 5: yari12 (21393)
+Seat 6: Carabina12 (19965)
+Seat 7: romainkn01 (19365)
+Seat 8: loldantibes (24611)
+*** ANTE/BLINDS ***
+yari12 posts ante 40
+Carabina12 posts ante 40
+fomenteur16 posts ante 40
+IB-beldi posts ante 40
+tn.rvr posts ante 40
+P1xel7 posts ante 40
+romainkn01 posts ante 40
+loldantibes posts ante 40
+yari12 posts small blind 175
+Carabina12 posts big blind 350
+Dealt to P1xel7 [2s As]
+*** PRE-FLOP *** 
+romainkn01 calls 350
+loldantibes folds
+fomenteur16 folds
+IB-beldi calls 350
+tn.rvr raises 18344 to 18694 and is all-in
+P1xel7 folds
+yari12 folds
+Carabina12 folds
+romainkn01 raises 631 to 19325 and is all-in
+IB-beldi folds
+*** FLOP *** [7h 6s Ks]
+*** TURN *** [7h 6s Ks][4d]
+*** RIVER *** [7h 6s Ks 4d][3s]
+*** SHOW DOWN ***
+tn.rvr shows [Qh Jd] (High card : King)
+romainkn01 shows [Qd Th] (High card : King)
+romainkn01 collected 631 from side pot 1
+tn.rvr collected 38583 from main pot
+*** SUMMARY ***
+Total pot 39214 | No rake
+Board: [7h 6s Ks 4d 3s]
+Seat 3: tn.rvr showed [Qh Jd] and won 38583 with High card : King
+Seat 7: romainkn01 showed [Qd Th] and won 631 with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #2932147501232292083-22-1692902121 - Holdem no limit (40/175/350) - 2023/08/24 18:35:21 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #5 is the button
+Seat 1: fomenteur16 (18645)
+Seat 2: IB-beldi (41893)
+Seat 3: tn.rvr (38583)
+Seat 4: P1xel7 (18985)
+Seat 5: yari12 (21178)
+Seat 6: Carabina12 (19575)
+Seat 7: romainkn01 (631)
+*** ANTE/BLINDS ***
+Carabina12 posts ante 40
+romainkn01 posts ante 40
+fomenteur16 posts ante 40
+IB-beldi posts ante 40
+tn.rvr posts ante 40
+P1xel7 posts ante 40
+yari12 posts ante 40
+Carabina12 posts small blind 175
+romainkn01 posts big blind 350
+Dealt to P1xel7 [4c 6s]
+*** PRE-FLOP *** 
+fomenteur16 folds
+IB-beldi calls 350
+tn.rvr folds
+P1xel7 folds
+yari12 raises 20788 to 21138 and is all-in
+Carabina12 calls 19360 and is all-in
+romainkn01 calls 241 and is all-in
+IB-beldi calls 20788
+*** FLOP *** [6h 6d Jc]
+*** TURN *** [6h 6d Jc][Kc]
+*** RIVER *** [6h 6d Jc Kc][Kd]
+*** SHOW DOWN ***
+yari12 shows [Qs As] (Two pairs : Kings and 6)
+Carabina12 shows [Js 8s] (Two pairs : Kings and Jacks)
+romainkn01 shows [3c Th] (Two pairs : Kings and 6)
+IB-beldi shows [Jh Qh] (Two pairs : Kings and Jacks)
+IB-beldi collected 62682 from pot
+*** SUMMARY ***
+Total pot 62682 | No rake
+Board: [6h 6d Jc Kc Kd]
+Seat 2: IB-beldi showed [Jh Qh] and won 62682 with Two pairs : Kings and Jacks
+Seat 5: yari12 (button) showed [Qs As] and lost with Two pairs : Kings and 6
+Seat 6: Carabina12 (small blind) showed [Js 8s] and lost with Two pairs : Kings and Jacks
+Seat 7: romainkn01 (big blind) showed [3c Th] and lost with Two pairs : Kings and 6
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #2932147501232292083-23-1692902167 - Holdem no limit (50/200/400) - 2023/08/24 18:36:07 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #6 is the button
+Seat 1: fomenteur16 (18605)
+Seat 2: IB-beldi (83397)
+Seat 3: tn.rvr (38543)
+Seat 4: P1xel7 (18945)
+Seat 8: Silagava (20000)
+*** ANTE/BLINDS ***
+Silagava posts ante 50
+fomenteur16 posts ante 50
+IB-beldi posts ante 50
+tn.rvr posts ante 50
+P1xel7 posts ante 50
+Silagava posts big blind 400
+Dealt to P1xel7 [2s 6d]
+*** PRE-FLOP *** 
+fomenteur16 folds
+IB-beldi folds
+tn.rvr folds
+P1xel7 folds
+Silagava collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | No rake
+Seat 8: Silagava (big blind) won 650
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #2932147501232292083-24-1692902245 - Holdem no limit (50/200/400) - 2023/08/24 18:37:25 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #7 is the button
+Seat 1: fomenteur16 (18555)
+Seat 2: IB-beldi (83347)
+Seat 3: tn.rvr (38493)
+Seat 4: P1xel7 (18895)
+Seat 5: jojofou02 (20000)
+Seat 6: Niata (26305)
+Seat 7: Naknak101296 (32955)
+Seat 8: Silagava (20200)
+*** ANTE/BLINDS ***
+Silagava posts ante 50
+fomenteur16 posts ante 50
+IB-beldi posts ante 50
+tn.rvr posts ante 50
+P1xel7 posts ante 50
+jojofou02 posts ante 50
+Niata posts ante 50
+Silagava posts small blind 200
+fomenteur16 posts big blind 400
+Dealt to P1xel7 [7s Th]
+*** PRE-FLOP *** 
+IB-beldi calls 400
+tn.rvr folds
+P1xel7 folds
+jojofou02 calls 400
+Niata folds
+Silagava raises 1950 to 2350
+fomenteur16 folds
+IB-beldi folds
+jojofou02 calls 1950
+*** FLOP *** [5s 2d 7h]
+Silagava bets 17800 and is all-in
+jojofou02 folds
+Silagava collected 23650 from pot
+*** SUMMARY ***
+Total pot 23650 | No rake
+Board: [5s 2d 7h]
+Seat 8: Silagava (small blind) won 23650
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #2932147501232292083-25-1692902271 - Holdem no limit (50/200/400) - 2023/08/24 18:37:51 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #8 is the button
+Seat 1: fomenteur16 (18105)
+Seat 2: IB-beldi (82897)
+Seat 3: tn.rvr (38443)
+Seat 4: P1xel7 (18845)
+Seat 5: jojofou02 (17600)
+Seat 6: Niata (26255)
+Seat 7: Naknak101296 (32955)
+Seat 8: Silagava (23650)
+*** ANTE/BLINDS ***
+fomenteur16 posts ante 50
+IB-beldi posts ante 50
+tn.rvr posts ante 50
+P1xel7 posts ante 50
+jojofou02 posts ante 50
+Niata posts ante 50
+Naknak101296 posts ante 50
+Silagava posts ante 50
+fomenteur16 posts small blind 200
+IB-beldi posts big blind 400
+Dealt to P1xel7 [4s 6h]
+*** PRE-FLOP *** 
+tn.rvr folds
+P1xel7 folds
+jojofou02 calls 400
+Niata folds
+Naknak101296 calls 400
+Silagava calls 400
+fomenteur16 folds
+IB-beldi checks
+*** FLOP *** [7c Qs 6s]
+IB-beldi checks
+jojofou02 checks
+Naknak101296 checks
+Silagava checks
+*** TURN *** [7c Qs 6s][Ks]
+IB-beldi bets 400
+jojofou02 calls 400
+Naknak101296 folds
+Silagava folds
+*** RIVER *** [7c Qs 6s Ks][5d]
+IB-beldi checks
+jojofou02 checks
+*** SHOW DOWN ***
+jojofou02 shows [Tc Jh] (High card : King)
+IB-beldi shows [Qd 2s] (One pair : Queens)
+IB-beldi collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [7c Qs 6s Ks 5d]
+Seat 2: IB-beldi (big blind) showed [Qd 2s] and won 3000 with One pair : Queens
+Seat 5: jojofou02 showed [Tc Jh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #2932147501232292083-26-1692902334 - Holdem no limit (60/250/500) - 2023/08/24 18:38:54 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #1 is the button
+Seat 1: fomenteur16 (17855)
+Seat 2: IB-beldi (85047)
+Seat 3: tn.rvr (38393)
+Seat 4: P1xel7 (18795)
+Seat 5: jojofou02 (16750)
+Seat 6: Niata (26205)
+Seat 7: Naknak101296 (32505)
+Seat 8: Silagava (23200)
+*** ANTE/BLINDS ***
+IB-beldi posts ante 60
+tn.rvr posts ante 60
+fomenteur16 posts ante 60
+P1xel7 posts ante 60
+jojofou02 posts ante 60
+Niata posts ante 60
+Naknak101296 posts ante 60
+Silagava posts ante 60
+IB-beldi posts small blind 250
+tn.rvr posts big blind 500
+Dealt to P1xel7 [6h 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+jojofou02 folds
+Niata folds
+Naknak101296 calls 500
+Silagava folds
+fomenteur16 folds
+IB-beldi calls 250
+tn.rvr checks
+*** FLOP *** [Kh 7c 6s]
+IB-beldi bets 500
+tn.rvr folds
+Naknak101296 raises 500 to 1000
+IB-beldi calls 500
+*** TURN *** [Kh 7c 6s][8s]
+IB-beldi bets 500
+Naknak101296 raises 500 to 1000
+IB-beldi calls 500
+*** RIVER *** [Kh 7c 6s 8s][Qs]
+IB-beldi checks
+Naknak101296 bets 500
+IB-beldi calls 500
+*** SHOW DOWN ***
+IB-beldi shows [4c 8c] (One pair : 8)
+Naknak101296 shows [7h Qd] (Two pairs : Queens and 7)
+Naknak101296 collected 6980 from pot
+*** SUMMARY ***
+Total pot 6980 | No rake
+Board: [Kh 7c 6s 8s Qs]
+Seat 2: IB-beldi (small blind) showed [4c 8c] and lost with One pair : 8
+Seat 7: Naknak101296 showed [7h Qd] and won 6980 with Two pairs : Queens and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #2932147501232292083-27-1692902402 - Holdem no limit (60/250/500) - 2023/08/24 18:40:02 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #2 is the button
+Seat 1: fomenteur16 (17795)
+Seat 2: IB-beldi (81987)
+Seat 3: tn.rvr (37833)
+Seat 4: P1xel7 (18735)
+Seat 5: jojofou02 (16690)
+Seat 6: Niata (26145)
+Seat 7: Naknak101296 (36425)
+Seat 8: Silagava (23140)
+*** ANTE/BLINDS ***
+tn.rvr posts ante 60
+P1xel7 posts ante 60
+fomenteur16 posts ante 60
+IB-beldi posts ante 60
+jojofou02 posts ante 60
+Niata posts ante 60
+Naknak101296 posts ante 60
+Silagava posts ante 60
+tn.rvr posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [Ah 7s]
+*** PRE-FLOP *** 
+jojofou02 calls 500
+Niata calls 500
+Naknak101296 calls 500
+Silagava folds
+fomenteur16 folds
+IB-beldi calls 500
+tn.rvr folds
+P1xel7 checks
+*** FLOP *** [5c 6s 8s]
+P1xel7 checks
+jojofou02 checks
+Niata checks
+Naknak101296 checks
+IB-beldi checks
+*** TURN *** [5c 6s 8s][8c]
+P1xel7 checks
+jojofou02 checks
+Niata bets 1131
+Naknak101296 calls 1131
+IB-beldi folds
+P1xel7 calls 1131
+jojofou02 folds
+*** RIVER *** [5c 6s 8s 8c][8h]
+P1xel7 checks
+Niata checks
+Naknak101296 checks
+*** SHOW DOWN ***
+P1xel7 shows [Ah 7s] (Trips of 8)
+Naknak101296 shows [9c 2c] (Trips of 8)
+Niata shows [Ad Kh] (Trips of 8)
+Niata collected 6623 from pot
+*** SUMMARY ***
+Total pot 6623 | No rake
+Board: [5c 6s 8s 8c 8h]
+Seat 4: P1xel7 (big blind) showed [Ah 7s] and lost with Trips of 8
+Seat 6: Niata showed [Ad Kh] and won 6623 with Trips of 8
+Seat 7: Naknak101296 showed [9c 2c] and lost with Trips of 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #2932147501232292083-28-1692902463 - Holdem no limit (70/300/600) - 2023/08/24 18:41:03 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #3 is the button
+Seat 1: fomenteur16 (17735)
+Seat 2: IB-beldi (81427)
+Seat 3: tn.rvr (37523)
+Seat 4: P1xel7 (17044)
+Seat 5: jojofou02 (16130)
+Seat 7: Naknak101296 (34734)
+Seat 8: Silagava (23080)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+jojofou02 posts ante 70
+fomenteur16 posts ante 70
+IB-beldi posts ante 70
+tn.rvr posts ante 70
+Naknak101296 posts ante 70
+Silagava posts ante 70
+P1xel7 posts small blind 300
+jojofou02 posts big blind 600
+Dealt to P1xel7 [4d 7c]
+*** PRE-FLOP *** 
+Naknak101296 calls 600
+Silagava folds
+fomenteur16 folds
+IB-beldi calls 600
+tn.rvr folds
+P1xel7 folds
+jojofou02 checks
+*** FLOP *** [9d Ah 8s]
+jojofou02 checks
+Naknak101296 checks
+IB-beldi checks
+*** TURN *** [9d Ah 8s][2h]
+jojofou02 checks
+Naknak101296 bets 906
+IB-beldi folds
+jojofou02 folds
+Naknak101296 collected 3496 from pot
+*** SUMMARY ***
+Total pot 3496 | No rake
+Board: [9d Ah 8s 2h]
+Seat 7: Naknak101296 won 3496
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 7 - HandId: #2932147501232292083-29-1692902490 - Holdem no limit (70/300/600) - 2023/08/24 18:41:30 UTC
+Table: 'Freeroll(682693790)#0242' 8-max (real money) Seat #4 is the button
+Seat 1: fomenteur16 (17665)
+Seat 2: IB-beldi (80757)
+Seat 3: tn.rvr (37453)
+Seat 4: P1xel7 (16674)
+Seat 5: jojofou02 (15460)
+Seat 6: Netkolegro (41410)
+Seat 7: Naknak101296 (36654)
+Seat 8: Silagava (23010)
+*** ANTE/BLINDS ***
+jojofou02 posts ante 70
+Netkolegro posts ante 70
+fomenteur16 posts ante 70
+IB-beldi posts ante 70
+tn.rvr posts ante 70
+P1xel7 posts ante 70
+Naknak101296 posts ante 70
+Silagava posts ante 70
+jojofou02 posts small blind 300
+Netkolegro posts big blind 600
+Dealt to P1xel7 [Ks Jc]
+*** PRE-FLOP *** 
+Naknak101296 calls 600
+Silagava raises 900 to 1500
+fomenteur16 folds
+IB-beldi folds
+tn.rvr folds
+P1xel7 raises 4500 to 6000
+jojofou02 raises 9390 to 15390 and is all-in
+Netkolegro folds
+Naknak101296 folds
+Silagava calls 13890
+P1xel7 calls 9390
+*** FLOP *** [9h 5h Td]
+Silagava bets 7550 and is all-in
+P1xel7 calls 1214 and is all-in
+*** TURN *** [9h 5h Td][3h]
+*** RIVER *** [9h 5h Td 3h][8h]
+*** SHOW DOWN ***
+P1xel7 shows [Ks Jc] (High card : King)
+jojofou02 shows [9c Ac] (One pair : 9)
+Silagava shows [Qd Qc] (One pair : Queens)
+Silagava collected 56694 from pot
+*** SUMMARY ***
+Total pot 56694 | No rake
+Board: [9h 5h Td 3h 8h]
+Seat 4: P1xel7 (button) showed [Ks Jc] and lost with High card : King
+Seat 5: jojofou02 (small blind) showed [9c Ac] and lost with One pair : 9
+Seat 8: Silagava showed [Qd Qc] and won 56694 with One pair : Queens
+
+

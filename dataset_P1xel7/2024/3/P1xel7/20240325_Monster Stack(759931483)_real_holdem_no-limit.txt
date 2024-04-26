@@ -1,0 +1,3187 @@
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-16-1711393912 - Holdem no limit (120/500/1000) - 2024/03/25 19:11:52 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #3 is the button
+Seat 1: DaKKatiine (84220)
+Seat 2: P1xel7 (100000)
+Seat 3: Anita-LU (92420)
+Seat 4: Bidouille2 (76549)
+Seat 5: Space  Jam (105340)
+Seat 6: LilyCat (90691)
+*** ANTE/BLINDS ***
+Bidouille2 posts ante 120
+Space  Jam posts ante 120
+DaKKatiine posts ante 120
+P1xel7 posts ante 120
+Anita-LU posts ante 120
+LilyCat posts ante 120
+Bidouille2 posts small blind 500
+Space  Jam posts big blind 1000
+Dealt to P1xel7 [3h 5d]
+*** PRE-FLOP *** 
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+Bidouille2 folds
+Space  Jam collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 5: Space  Jam (big blind) won 2220
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-17-1711393940 - Holdem no limit (120/500/1000) - 2024/03/25 19:12:20 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #4 is the button
+Seat 1: DaKKatiine (84100)
+Seat 2: P1xel7 (99880)
+Seat 3: Anita-LU (92300)
+Seat 4: Bidouille2 (75929)
+Seat 5: Space  Jam (106440)
+Seat 6: LilyCat (90571)
+*** ANTE/BLINDS ***
+Space  Jam posts ante 120
+LilyCat posts ante 120
+DaKKatiine posts ante 120
+P1xel7 posts ante 120
+Anita-LU posts ante 120
+Bidouille2 posts ante 120
+Space  Jam posts small blind 500
+LilyCat posts big blind 1000
+Dealt to P1xel7 [6s 8s]
+*** PRE-FLOP *** 
+DaKKatiine calls 1000
+P1xel7 folds
+Anita-LU folds
+Bidouille2 folds
+Space  Jam folds
+LilyCat checks
+*** FLOP *** [5c Ac 2s]
+LilyCat checks
+DaKKatiine checks
+*** TURN *** [5c Ac 2s][Jc]
+LilyCat checks
+DaKKatiine bets 1000
+LilyCat calls 1000
+*** RIVER *** [5c Ac 2s Jc][Qh]
+LilyCat checks
+DaKKatiine checks
+*** SHOW DOWN ***
+LilyCat shows [Ks 3s] (High card : Ace)
+DaKKatiine shows [4c 4h] (One pair : 4)
+DaKKatiine collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Board: [5c Ac 2s Jc Qh]
+Seat 1: DaKKatiine showed [4c 4h] and won 5220 with One pair : 4
+Seat 6: LilyCat (big blind) showed [Ks 3s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-18-1711393994 - Holdem no limit (120/500/1000) - 2024/03/25 19:13:14 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #5 is the button
+Seat 1: DaKKatiine (87200)
+Seat 2: P1xel7 (99760)
+Seat 3: Anita-LU (92180)
+Seat 4: Bidouille2 (75809)
+Seat 5: Space  Jam (105820)
+Seat 6: LilyCat (88451)
+*** ANTE/BLINDS ***
+LilyCat posts ante 120
+DaKKatiine posts ante 120
+P1xel7 posts ante 120
+Anita-LU posts ante 120
+Bidouille2 posts ante 120
+Space  Jam posts ante 120
+LilyCat posts small blind 500
+DaKKatiine posts big blind 1000
+Dealt to P1xel7 [Jc 4c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Anita-LU calls 1000
+Bidouille2 folds
+Space  Jam calls 1000
+LilyCat folds
+DaKKatiine checks
+*** FLOP *** [2s 4d 8h]
+DaKKatiine checks
+Anita-LU checks
+Space  Jam checks
+*** TURN *** [2s 4d 8h][5h]
+DaKKatiine checks
+Anita-LU bets 2110
+Space  Jam folds
+DaKKatiine folds
+Anita-LU collected 6330 from pot
+*** SUMMARY ***
+Total pot 6330 | No rake
+Board: [2s 4d 8h 5h]
+Seat 3: Anita-LU won 6330
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-19-1711394049 - Holdem no limit (120/500/1000) - 2024/03/25 19:14:09 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #6 is the button
+Seat 1: DaKKatiine (86080)
+Seat 2: P1xel7 (99640)
+Seat 3: Anita-LU (95280)
+Seat 4: Bidouille2 (75689)
+Seat 5: Space  Jam (104700)
+Seat 6: LilyCat (87831)
+*** ANTE/BLINDS ***
+DaKKatiine posts ante 120
+P1xel7 posts ante 120
+Anita-LU posts ante 120
+Bidouille2 posts ante 120
+Space  Jam posts ante 120
+LilyCat posts ante 120
+DaKKatiine posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Ks 6s]
+*** PRE-FLOP *** 
+Anita-LU folds
+Bidouille2 raises 1500 to 2500
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Bidouille2 collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 4: Bidouille2 won 4720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-20-1711394081 - Holdem no limit (120/500/1000) - 2024/03/25 19:14:41 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #1 is the button
+Seat 1: DaKKatiine (85460)
+Seat 2: P1xel7 (98520)
+Seat 3: Anita-LU (95160)
+Seat 4: Bidouille2 (77789)
+Seat 5: Space  Jam (104580)
+Seat 6: LilyCat (87711)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Anita-LU posts ante 120
+DaKKatiine posts ante 120
+Bidouille2 posts ante 120
+Space  Jam posts ante 120
+LilyCat posts ante 120
+P1xel7 posts small blind 500
+Anita-LU posts big blind 1000
+Dealt to P1xel7 [8h 4c]
+*** PRE-FLOP *** 
+Bidouille2 folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 raises 2000 to 3000
+Anita-LU folds
+P1xel7 collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 2: P1xel7 (small blind) won 4720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-21-1711394101 - Holdem no limit (120/500/1000) - 2024/03/25 19:15:01 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #2 is the button
+Seat 1: DaKKatiine (85340)
+Seat 2: P1xel7 (100120)
+Seat 3: Anita-LU (94040)
+Seat 4: Bidouille2 (77669)
+Seat 5: Space  Jam (104460)
+Seat 6: LilyCat (87591)
+*** ANTE/BLINDS ***
+Anita-LU posts ante 120
+Bidouille2 posts ante 120
+DaKKatiine posts ante 120
+P1xel7 posts ante 120
+Space  Jam posts ante 120
+LilyCat posts ante 120
+Anita-LU posts small blind 500
+Bidouille2 posts big blind 1000
+Dealt to P1xel7 [8s 4d]
+*** PRE-FLOP *** 
+Space  Jam folds
+LilyCat folds
+DaKKatiine raises 1000 to 2000
+P1xel7 folds
+Anita-LU folds
+Bidouille2 calls 1000
+*** FLOP *** [5h 4s 9d]
+Bidouille2 checks
+DaKKatiine checks
+*** TURN *** [5h 4s 9d][3h]
+Bidouille2 checks
+DaKKatiine checks
+*** RIVER *** [5h 4s 9d 3h][3c]
+Bidouille2 bets 2610
+DaKKatiine folds
+Bidouille2 collected 7830 from pot
+*** SUMMARY ***
+Total pot 7830 | No rake
+Board: [5h 4s 9d 3h 3c]
+Seat 4: Bidouille2 (big blind) won 7830
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-22-1711394147 - Holdem no limit (120/500/1000) - 2024/03/25 19:15:47 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #3 is the button
+Seat 1: DaKKatiine (83220)
+Seat 2: P1xel7 (100000)
+Seat 3: Anita-LU (93420)
+Seat 4: Bidouille2 (80769)
+Seat 5: Space  Jam (104340)
+Seat 6: LilyCat (87471)
+*** ANTE/BLINDS ***
+Bidouille2 posts ante 120
+Space  Jam posts ante 120
+DaKKatiine posts ante 120
+P1xel7 posts ante 120
+Anita-LU posts ante 120
+LilyCat posts ante 120
+Bidouille2 posts small blind 500
+Space  Jam posts big blind 1000
+Dealt to P1xel7 [Ac Jc]
+*** PRE-FLOP *** 
+LilyCat folds
+DaKKatiine raises 1200 to 2200
+P1xel7 raises 4800 to 7000
+Anita-LU folds
+Bidouille2 folds
+Space  Jam folds
+DaKKatiine calls 4800
+*** FLOP *** [7h Kc Ts]
+DaKKatiine checks
+P1xel7 bets 7500
+DaKKatiine folds
+P1xel7 collected 23720 from pot
+*** SUMMARY ***
+Total pot 23720 | No rake
+Board: [7h Kc Ts]
+Seat 2: P1xel7 won 23720
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-23-1711394209 - Holdem no limit (140/600/1200) - 2024/03/25 19:16:49 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #4 is the button
+Seat 1: DaKKatiine (76100)
+Seat 2: P1xel7 (109100)
+Seat 3: Anita-LU (93300)
+Seat 4: Bidouille2 (80149)
+Seat 5: Space  Jam (103220)
+Seat 6: LilyCat (87351)
+*** ANTE/BLINDS ***
+Space  Jam posts ante 140
+LilyCat posts ante 140
+DaKKatiine posts ante 140
+P1xel7 posts ante 140
+Anita-LU posts ante 140
+Bidouille2 posts ante 140
+Space  Jam posts small blind 600
+LilyCat posts big blind 1200
+Dealt to P1xel7 [Js 3c]
+*** PRE-FLOP *** 
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+Bidouille2 folds
+Space  Jam calls 600
+LilyCat checks
+*** FLOP *** [Jd 2s 7c]
+Space  Jam bets 1200
+LilyCat folds
+Space  Jam collected 4440 from pot
+*** SUMMARY ***
+Total pot 4440 | No rake
+Board: [Jd 2s 7c]
+Seat 5: Space  Jam (small blind) won 4440
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-24-1711394267 - Holdem no limit (140/600/1200) - 2024/03/25 19:17:47 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #5 is the button
+Seat 1: DaKKatiine (75960)
+Seat 2: P1xel7 (108960)
+Seat 3: Anita-LU (93160)
+Seat 4: Bidouille2 (80009)
+Seat 5: Space  Jam (105120)
+Seat 6: LilyCat (86011)
+*** ANTE/BLINDS ***
+LilyCat posts ante 140
+DaKKatiine posts ante 140
+P1xel7 posts ante 140
+Anita-LU posts ante 140
+Bidouille2 posts ante 140
+Space  Jam posts ante 140
+LilyCat posts small blind 600
+DaKKatiine posts big blind 1200
+Dealt to P1xel7 [9h 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Anita-LU folds
+Bidouille2 raises 1800 to 3000
+Space  Jam folds
+LilyCat calls 2400
+DaKKatiine folds
+*** FLOP *** [Th 5d Qh]
+LilyCat bets 4020
+Bidouille2 calls 4020
+*** TURN *** [Th 5d Qh][Qd]
+LilyCat bets 12864
+Bidouille2 calls 12864
+*** RIVER *** [Th 5d Qh Qd][Ad]
+LilyCat bets 65987 and is all-in
+Bidouille2 calls 59985 and is all-in
+*** SHOW DOWN ***
+Bidouille2 shows [Td Ah] (Two pairs : Aces and Queens)
+LilyCat shows [Ac Qs] (Full of Queens and Aces)
+LilyCat collected 167780 from pot
+*** SUMMARY ***
+Total pot 167780 | No rake
+Board: [Th 5d Qh Qd Ad]
+Seat 4: Bidouille2 showed [Td Ah] and lost with Two pairs : Aces and Queens
+Seat 6: LilyCat (small blind) showed [Ac Qs] and won 167780 with Full of Queens and Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-25-1711394328 - Holdem no limit (140/600/1200) - 2024/03/25 19:18:48 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #6 is the button
+Seat 1: DaKKatiine (74620)
+Seat 2: P1xel7 (108820)
+Seat 3: Anita-LU (93020)
+Seat 5: Space  Jam (104980)
+Seat 6: LilyCat (167780)
+*** ANTE/BLINDS ***
+DaKKatiine posts ante 140
+P1xel7 posts ante 140
+Anita-LU posts ante 140
+Space  Jam posts ante 140
+LilyCat posts ante 140
+DaKKatiine posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [9h Ts]
+*** PRE-FLOP *** 
+Anita-LU folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Seat 2: P1xel7 (big blind) won 2500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-26-1711394336 - Holdem no limit (140/600/1200) - 2024/03/25 19:18:56 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #1 is the button
+Seat 1: DaKKatiine (73880)
+Seat 2: P1xel7 (109980)
+Seat 3: Anita-LU (92880)
+Seat 5: Space  Jam (104840)
+Seat 6: LilyCat (167640)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+Anita-LU posts ante 140
+DaKKatiine posts ante 140
+Space  Jam posts ante 140
+LilyCat posts ante 140
+P1xel7 posts small blind 600
+Anita-LU posts big blind 1200
+Dealt to P1xel7 [8h 7h]
+*** PRE-FLOP *** 
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 raises 2400 to 3600
+Anita-LU folds
+P1xel7 collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Seat 2: P1xel7 (small blind) won 5500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-27-1711394408 - Holdem no limit (140/600/1200) - 2024/03/25 19:20:08 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #2 is the button
+Seat 1: DaKKatiine (73740)
+Seat 2: P1xel7 (111740)
+Seat 3: Anita-LU (91540)
+Seat 4: AQsucks (100000)
+Seat 5: Space  Jam (104700)
+Seat 6: LilyCat (167500)
+*** ANTE/BLINDS ***
+Anita-LU posts ante 140
+AQsucks posts ante 140
+DaKKatiine posts ante 140
+P1xel7 posts ante 140
+Space  Jam posts ante 140
+LilyCat posts ante 140
+Anita-LU posts small blind 600
+AQsucks posts big blind 1200
+Dealt to P1xel7 [Ts Qh]
+*** PRE-FLOP *** 
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 raises 1800 to 3000
+Anita-LU folds
+AQsucks folds
+P1xel7 collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | No rake
+Seat 2: P1xel7 (button) won 5640
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-28-1711394433 - Holdem no limit (140/600/1200) - 2024/03/25 19:20:33 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #3 is the button
+Seat 1: DaKKatiine (73600)
+Seat 2: P1xel7 (114240)
+Seat 3: Anita-LU (90800)
+Seat 4: AQsucks (98660)
+Seat 5: Space  Jam (104560)
+Seat 6: LilyCat (167360)
+*** ANTE/BLINDS ***
+AQsucks posts ante 140
+Space  Jam posts ante 140
+DaKKatiine posts ante 140
+P1xel7 posts ante 140
+Anita-LU posts ante 140
+LilyCat posts ante 140
+AQsucks posts small blind 600
+Space  Jam posts big blind 1200
+Dealt to P1xel7 [6s Qc]
+*** PRE-FLOP *** 
+LilyCat raises 1800 to 3000
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks calls 2400
+Space  Jam folds
+*** FLOP *** [3c 2s 2d]
+AQsucks checks
+LilyCat bets 2814
+AQsucks calls 2814
+*** TURN *** [3c 2s 2d][Tc]
+AQsucks checks
+LilyCat checks
+*** RIVER *** [3c 2s 2d Tc][8d]
+AQsucks bets 4510
+LilyCat calls 4510
+*** SHOW DOWN ***
+LilyCat shows [Ad Qd] (One pair : 2)
+AQsucks shows [5s 5d] (Two pairs : 5 and 2)
+AQsucks collected 22688 from pot
+*** SUMMARY ***
+Total pot 22688 | No rake
+Board: [3c 2s 2d Tc 8d]
+Seat 4: AQsucks (small blind) showed [5s 5d] and won 22688 with Two pairs : 5 and 2
+Seat 6: LilyCat showed [Ad Qd] and lost with One pair : 2
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-29-1711394495 - Holdem no limit (140/600/1200) - 2024/03/25 19:21:35 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #4 is the button
+Seat 1: DaKKatiine (73460)
+Seat 2: P1xel7 (114100)
+Seat 3: Anita-LU (90660)
+Seat 4: AQsucks (110884)
+Seat 5: Space  Jam (103220)
+Seat 6: LilyCat (156896)
+*** ANTE/BLINDS ***
+Space  Jam posts ante 140
+LilyCat posts ante 140
+DaKKatiine posts ante 140
+P1xel7 posts ante 140
+Anita-LU posts ante 140
+AQsucks posts ante 140
+Space  Jam posts small blind 600
+LilyCat posts big blind 1200
+Dealt to P1xel7 [Js 7h]
+*** PRE-FLOP *** 
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks raises 1440 to 2640
+Space  Jam folds
+LilyCat folds
+AQsucks collected 5280 from pot
+*** SUMMARY ***
+Total pot 5280 | No rake
+Seat 4: AQsucks (button) won 5280
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-30-1711394544 - Holdem no limit (140/600/1200) - 2024/03/25 19:22:24 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #5 is the button
+Seat 1: DaKKatiine (73320)
+Seat 2: P1xel7 (113960)
+Seat 3: Anita-LU (90520)
+Seat 4: AQsucks (113384)
+Seat 5: Space  Jam (102480)
+Seat 6: LilyCat (155556)
+*** ANTE/BLINDS ***
+LilyCat posts ante 140
+DaKKatiine posts ante 140
+P1xel7 posts ante 140
+Anita-LU posts ante 140
+AQsucks posts ante 140
+Space  Jam posts ante 140
+LilyCat posts small blind 600
+DaKKatiine posts big blind 1200
+Dealt to P1xel7 [6d 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Anita-LU folds
+AQsucks raises 1200 to 2400
+Space  Jam raises 5400 to 7800
+LilyCat folds
+DaKKatiine folds
+AQsucks folds
+Space  Jam collected 12840 from pot
+*** SUMMARY ***
+Total pot 12840 | No rake
+Seat 5: Space  Jam (button) won 12840
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-31-1711394574 - Holdem no limit (140/600/1200) - 2024/03/25 19:22:54 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #6 is the button
+Seat 1: DaKKatiine (71980)
+Seat 2: P1xel7 (113820)
+Seat 3: Anita-LU (90380)
+Seat 4: AQsucks (110844)
+Seat 5: Space  Jam (107380)
+Seat 6: LilyCat (154816)
+*** ANTE/BLINDS ***
+DaKKatiine posts ante 140
+P1xel7 posts ante 140
+Anita-LU posts ante 140
+AQsucks posts ante 140
+Space  Jam posts ante 140
+LilyCat posts ante 140
+DaKKatiine posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [Td 3s]
+*** PRE-FLOP *** 
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 2: P1xel7 (big blind) won 2640
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3263880866685779985-32-1711394597 - Holdem no limit (140/600/1200) - 2024/03/25 19:23:17 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #1 is the button
+Seat 1: DaKKatiine (71240)
+Seat 2: P1xel7 (115120)
+Seat 3: Anita-LU (90240)
+Seat 4: AQsucks (110704)
+Seat 5: Space  Jam (107240)
+Seat 6: LilyCat (154676)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 140
+Anita-LU posts ante 140
+DaKKatiine posts ante 140
+AQsucks posts ante 140
+Space  Jam posts ante 140
+LilyCat posts ante 140
+P1xel7 posts small blind 600
+Anita-LU posts big blind 1200
+Dealt to P1xel7 [8c Tc]
+*** PRE-FLOP *** 
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine calls 1200
+P1xel7 folds
+Anita-LU checks
+*** FLOP *** [Ts 2s 8h]
+Anita-LU checks
+DaKKatiine checks
+*** TURN *** [Ts 2s 8h][9h]
+Anita-LU checks
+DaKKatiine checks
+*** RIVER *** [Ts 2s 8h 9h][Td]
+Anita-LU checks
+DaKKatiine checks
+*** SHOW DOWN ***
+Anita-LU shows [6s 3s] (One pair : Tens)
+DaKKatiine shows [7c Kc] (One pair : Tens)
+DaKKatiine collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Board: [Ts 2s 8h 9h Td]
+Seat 1: DaKKatiine (button) showed [7c Kc] and won 3840 with One pair : Tens
+Seat 3: Anita-LU (big blind) showed [6s 3s] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-33-1711394647 - Holdem no limit (160/700/1400) - 2024/03/25 19:24:07 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #2 is the button
+Seat 1: DaKKatiine (73740)
+Seat 2: P1xel7 (114380)
+Seat 3: Anita-LU (88900)
+Seat 4: AQsucks (110564)
+Seat 5: Space  Jam (107100)
+Seat 6: LilyCat (154536)
+*** ANTE/BLINDS ***
+Anita-LU posts ante 160
+AQsucks posts ante 160
+DaKKatiine posts ante 160
+P1xel7 posts ante 160
+Space  Jam posts ante 160
+LilyCat posts ante 160
+Anita-LU posts small blind 700
+AQsucks posts big blind 1400
+Dealt to P1xel7 [Jd 5d]
+*** PRE-FLOP *** 
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU calls 700
+AQsucks raises 3500 to 4900
+Anita-LU folds
+AQsucks collected 7260 from pot
+*** SUMMARY ***
+Total pot 7260 | No rake
+Seat 4: AQsucks (big blind) won 7260
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-34-1711394691 - Holdem no limit (160/700/1400) - 2024/03/25 19:24:51 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #3 is the button
+Seat 1: DaKKatiine (73580)
+Seat 2: P1xel7 (114220)
+Seat 3: Anita-LU (87340)
+Seat 4: AQsucks (112764)
+Seat 5: Space  Jam (106940)
+Seat 6: LilyCat (154376)
+*** ANTE/BLINDS ***
+AQsucks posts ante 160
+Space  Jam posts ante 160
+DaKKatiine posts ante 160
+P1xel7 posts ante 160
+Anita-LU posts ante 160
+LilyCat posts ante 160
+AQsucks posts small blind 700
+Space  Jam posts big blind 1400
+Dealt to P1xel7 [9h 2c]
+*** PRE-FLOP *** 
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU calls 1400
+AQsucks folds
+Space  Jam checks
+*** FLOP *** [Tc Kc 4h]
+Space  Jam checks
+Anita-LU bets 2230
+Space  Jam folds
+Anita-LU collected 6690 from pot
+*** SUMMARY ***
+Total pot 6690 | No rake
+Board: [Tc Kc 4h]
+Seat 3: Anita-LU (button) won 6690
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-35-1711394733 - Holdem no limit (160/700/1400) - 2024/03/25 19:25:33 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #4 is the button
+Seat 1: DaKKatiine (73420)
+Seat 2: P1xel7 (114060)
+Seat 3: Anita-LU (90240)
+Seat 4: AQsucks (111904)
+Seat 5: Space  Jam (105380)
+Seat 6: LilyCat (154216)
+*** ANTE/BLINDS ***
+Space  Jam posts ante 160
+LilyCat posts ante 160
+DaKKatiine posts ante 160
+P1xel7 posts ante 160
+Anita-LU posts ante 160
+AQsucks posts ante 160
+Space  Jam posts small blind 700
+LilyCat posts big blind 1400
+Dealt to P1xel7 [Jc Jd]
+*** PRE-FLOP *** 
+DaKKatiine raises 1400 to 2800
+P1xel7 raises 6300 to 9100
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 collected 14960 from pot
+*** SUMMARY ***
+Total pot 14960 | No rake
+Seat 2: P1xel7 won 14960
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-36-1711394769 - Holdem no limit (160/700/1400) - 2024/03/25 19:26:09 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #5 is the button
+Seat 1: DaKKatiine (70460)
+Seat 2: P1xel7 (119760)
+Seat 3: Anita-LU (90080)
+Seat 4: AQsucks (111744)
+Seat 5: Space  Jam (104520)
+Seat 6: LilyCat (152656)
+*** ANTE/BLINDS ***
+LilyCat posts ante 160
+DaKKatiine posts ante 160
+P1xel7 posts ante 160
+Anita-LU posts ante 160
+AQsucks posts ante 160
+Space  Jam posts ante 160
+LilyCat posts small blind 700
+DaKKatiine posts big blind 1400
+Dealt to P1xel7 [8d 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat raises 2100 to 3500
+DaKKatiine folds
+LilyCat collected 5860 from pot
+*** SUMMARY ***
+Total pot 5860 | No rake
+Seat 6: LilyCat (small blind) won 5860
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-37-1711394791 - Holdem no limit (160/700/1400) - 2024/03/25 19:26:31 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #6 is the button
+Seat 1: DaKKatiine (68900)
+Seat 2: P1xel7 (119600)
+Seat 3: Anita-LU (89920)
+Seat 4: AQsucks (111584)
+Seat 5: Space  Jam (104360)
+Seat 6: LilyCat (154856)
+*** ANTE/BLINDS ***
+DaKKatiine posts ante 160
+P1xel7 posts ante 160
+Anita-LU posts ante 160
+AQsucks posts ante 160
+Space  Jam posts ante 160
+LilyCat posts ante 160
+DaKKatiine posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [5h 3h]
+*** PRE-FLOP *** 
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine calls 700
+P1xel7 checks
+*** FLOP *** [2h 9s Qc]
+DaKKatiine bets 1880
+P1xel7 folds
+DaKKatiine collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | No rake
+Board: [2h 9s Qc]
+Seat 1: DaKKatiine (small blind) won 5640
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-38-1711394820 - Holdem no limit (160/700/1400) - 2024/03/25 19:27:00 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #1 is the button
+Seat 1: DaKKatiine (71100)
+Seat 2: P1xel7 (118040)
+Seat 3: Anita-LU (89760)
+Seat 4: AQsucks (111424)
+Seat 5: Space  Jam (104200)
+Seat 6: LilyCat (154696)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+Anita-LU posts ante 160
+DaKKatiine posts ante 160
+AQsucks posts ante 160
+Space  Jam posts ante 160
+LilyCat posts ante 160
+P1xel7 posts small blind 700
+Anita-LU posts big blind 1400
+Dealt to P1xel7 [Ts Js]
+*** PRE-FLOP *** 
+AQsucks raises 1400 to 2800
+Space  Jam folds
+LilyCat raises 5600 to 8400
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+LilyCat collected 14260 from pot
+*** SUMMARY ***
+Total pot 14260 | No rake
+Seat 6: LilyCat won 14260
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-39-1711394869 - Holdem no limit (160/700/1400) - 2024/03/25 19:27:49 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #2 is the button
+Seat 1: DaKKatiine (70940)
+Seat 2: P1xel7 (117180)
+Seat 3: Anita-LU (88200)
+Seat 4: AQsucks (108464)
+Seat 5: Space  Jam (104040)
+Seat 6: LilyCat (160396)
+*** ANTE/BLINDS ***
+Anita-LU posts ante 160
+AQsucks posts ante 160
+DaKKatiine posts ante 160
+P1xel7 posts ante 160
+Space  Jam posts ante 160
+LilyCat posts ante 160
+Anita-LU posts small blind 700
+AQsucks posts big blind 1400
+Dealt to P1xel7 [Tc 2h]
+*** PRE-FLOP *** 
+Space  Jam folds
+LilyCat folds
+DaKKatiine raises 1400 to 2800
+P1xel7 folds
+Anita-LU folds
+AQsucks calls 1400
+*** FLOP *** [4d Ah 9h]
+AQsucks checks
+DaKKatiine bets 2541
+AQsucks folds
+DaKKatiine collected 9801 from pot
+*** SUMMARY ***
+Total pot 9801 | No rake
+Board: [4d Ah 9h]
+Seat 1: DaKKatiine won 9801
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-40-1711394912 - Holdem no limit (160/700/1400) - 2024/03/25 19:28:32 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #3 is the button
+Seat 1: DaKKatiine (75240)
+Seat 2: P1xel7 (117020)
+Seat 3: Anita-LU (87340)
+Seat 4: AQsucks (105504)
+Seat 5: Space  Jam (103880)
+Seat 6: LilyCat (160236)
+*** ANTE/BLINDS ***
+AQsucks posts ante 160
+Space  Jam posts ante 160
+DaKKatiine posts ante 160
+P1xel7 posts ante 160
+Anita-LU posts ante 160
+LilyCat posts ante 160
+AQsucks posts small blind 700
+Space  Jam posts big blind 1400
+Dealt to P1xel7 [Ah Ks]
+*** PRE-FLOP *** 
+LilyCat folds
+DaKKatiine folds
+P1xel7 raises 1680 to 3080
+Anita-LU calls 3080
+AQsucks calls 2380
+Space  Jam folds
+*** FLOP *** [3s Js 5c]
+AQsucks checks
+P1xel7 bets 4200
+Anita-LU folds
+AQsucks folds
+P1xel7 collected 15800 from pot
+*** SUMMARY ***
+Total pot 15800 | No rake
+Board: [3s Js 5c]
+Seat 2: P1xel7 won 15800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-41-1711394979 - Holdem no limit (160/700/1400) - 2024/03/25 19:29:39 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #4 is the button
+Seat 1: DaKKatiine (75080)
+Seat 2: P1xel7 (125380)
+Seat 3: Anita-LU (84100)
+Seat 4: AQsucks (102264)
+Seat 5: Space  Jam (102320)
+Seat 6: LilyCat (160076)
+*** ANTE/BLINDS ***
+Space  Jam posts ante 160
+LilyCat posts ante 160
+DaKKatiine posts ante 160
+P1xel7 posts ante 160
+Anita-LU posts ante 160
+AQsucks posts ante 160
+Space  Jam posts small blind 700
+LilyCat posts big blind 1400
+Dealt to P1xel7 [4h 5d]
+*** PRE-FLOP *** 
+DaKKatiine folds
+P1xel7 folds
+Anita-LU calls 1400
+AQsucks folds
+Space  Jam folds
+LilyCat checks
+*** FLOP *** [7c 2c Qd]
+LilyCat checks
+Anita-LU bets 1561
+LilyCat calls 1561
+*** TURN *** [7c 2c Qd][5c]
+LilyCat bets 3791
+Anita-LU folds
+LilyCat collected 11373 from pot
+*** SUMMARY ***
+Total pot 11373 | No rake
+Board: [7c 2c Qd 5c]
+Seat 6: LilyCat (big blind) won 11373
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-42-1711395046 - Holdem no limit (160/700/1400) - 2024/03/25 19:30:46 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #5 is the button
+Seat 1: DaKKatiine (74920)
+Seat 2: P1xel7 (125220)
+Seat 3: Anita-LU (80979)
+Seat 4: AQsucks (102104)
+Seat 5: Space  Jam (101460)
+Seat 6: LilyCat (164537)
+*** ANTE/BLINDS ***
+LilyCat posts ante 160
+DaKKatiine posts ante 160
+P1xel7 posts ante 160
+Anita-LU posts ante 160
+AQsucks posts ante 160
+Space  Jam posts ante 160
+LilyCat posts small blind 700
+DaKKatiine posts big blind 1400
+Dealt to P1xel7 [6c 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat raises 2100 to 3500
+DaKKatiine folds
+LilyCat collected 5860 from pot
+*** SUMMARY ***
+Total pot 5860 | No rake
+Seat 6: LilyCat (small blind) won 5860
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3263880866685779985-43-1711395069 - Holdem no limit (160/700/1400) - 2024/03/25 19:31:09 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #6 is the button
+Seat 1: DaKKatiine (73360)
+Seat 2: P1xel7 (125060)
+Seat 3: Anita-LU (80819)
+Seat 4: AQsucks (101944)
+Seat 5: Space  Jam (101300)
+Seat 6: LilyCat (166737)
+*** ANTE/BLINDS ***
+DaKKatiine posts ante 160
+P1xel7 posts ante 160
+Anita-LU posts ante 160
+AQsucks posts ante 160
+Space  Jam posts ante 160
+LilyCat posts ante 160
+DaKKatiine posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [4h 2s]
+*** PRE-FLOP *** 
+Anita-LU folds
+AQsucks raises 1680 to 3080
+Space  Jam calls 3080
+LilyCat calls 3080
+DaKKatiine calls 2380
+P1xel7 calls 1680
+*** FLOP *** [3s Kd 2c]
+DaKKatiine checks
+P1xel7 checks
+AQsucks checks
+Space  Jam checks
+LilyCat checks
+*** TURN *** [3s Kd 2c][Qs]
+DaKKatiine checks
+P1xel7 checks
+AQsucks bets 12270
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+AQsucks collected 28630 from pot
+*** SUMMARY ***
+Total pot 28630 | No rake
+Board: [3s Kd 2c Qs]
+Seat 4: AQsucks won 28630
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-44-1711395150 - Holdem no limit (200/800/1600) - 2024/03/25 19:32:30 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #1 is the button
+Seat 1: DaKKatiine (70120)
+Seat 2: P1xel7 (121820)
+Seat 3: Anita-LU (80659)
+Seat 4: AQsucks (115064)
+Seat 5: Space  Jam (98060)
+Seat 6: LilyCat (163497)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+DaKKatiine posts ante 200
+AQsucks posts ante 200
+Space  Jam posts ante 200
+LilyCat posts ante 200
+P1xel7 posts small blind 800
+Anita-LU posts big blind 1600
+Dealt to P1xel7 [5c 9d]
+*** PRE-FLOP *** 
+AQsucks raises 1920 to 3520
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks collected 7120 from pot
+*** SUMMARY ***
+Total pot 7120 | No rake
+Seat 4: AQsucks won 7120
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-45-1711395186 - Holdem no limit (200/800/1600) - 2024/03/25 19:33:06 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #2 is the button
+Seat 1: DaKKatiine (69920)
+Seat 2: P1xel7 (120820)
+Seat 3: Anita-LU (78859)
+Seat 4: AQsucks (118464)
+Seat 5: Space  Jam (97860)
+Seat 6: LilyCat (163297)
+*** ANTE/BLINDS ***
+Anita-LU posts ante 200
+AQsucks posts ante 200
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Space  Jam posts ante 200
+LilyCat posts ante 200
+Anita-LU posts small blind 800
+AQsucks posts big blind 1600
+Dealt to P1xel7 [Kh 2c]
+*** PRE-FLOP *** 
+Space  Jam folds
+LilyCat folds
+DaKKatiine calls 1600
+P1xel7 folds
+Anita-LU calls 800
+AQsucks checks
+*** FLOP *** [Jc 6c 7d]
+Anita-LU checks
+AQsucks checks
+DaKKatiine bets 1600
+Anita-LU calls 1600
+AQsucks folds
+*** TURN *** [Jc 6c 7d][2h]
+Anita-LU checks
+DaKKatiine checks
+*** RIVER *** [Jc 6c 7d 2h][Ah]
+Anita-LU checks
+DaKKatiine checks
+*** SHOW DOWN ***
+Anita-LU shows [7h Ts] (One pair : 7)
+DaKKatiine shows [7s Ks] (One pair : 7)
+DaKKatiine collected 9200 from pot
+*** SUMMARY ***
+Total pot 9200 | No rake
+Board: [Jc 6c 7d 2h Ah]
+Seat 1: DaKKatiine showed [7s Ks] and won 9200 with One pair : 7
+Seat 3: Anita-LU (small blind) showed [7h Ts] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-46-1711395235 - Holdem no limit (200/800/1600) - 2024/03/25 19:33:55 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #3 is the button
+Seat 1: DaKKatiine (75720)
+Seat 2: P1xel7 (120620)
+Seat 3: Anita-LU (75459)
+Seat 4: AQsucks (116664)
+Seat 5: Space  Jam (97660)
+Seat 6: LilyCat (163097)
+*** ANTE/BLINDS ***
+AQsucks posts ante 200
+Space  Jam posts ante 200
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+LilyCat posts ante 200
+AQsucks posts small blind 800
+Space  Jam posts big blind 1600
+Dealt to P1xel7 [5s Th]
+*** PRE-FLOP *** 
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 5: Space  Jam (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-47-1711395247 - Holdem no limit (200/800/1600) - 2024/03/25 19:34:07 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #4 is the button
+Seat 1: DaKKatiine (75520)
+Seat 2: P1xel7 (120420)
+Seat 3: Anita-LU (75259)
+Seat 4: AQsucks (115664)
+Seat 5: Space  Jam (99460)
+Seat 6: LilyCat (162897)
+*** ANTE/BLINDS ***
+Space  Jam posts ante 200
+LilyCat posts ante 200
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+AQsucks posts ante 200
+Space  Jam posts small blind 800
+LilyCat posts big blind 1600
+Dealt to P1xel7 [Jc Th]
+*** PRE-FLOP *** 
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 6: LilyCat (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-48-1711395275 - Holdem no limit (200/800/1600) - 2024/03/25 19:34:35 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #5 is the button
+Seat 1: DaKKatiine (75320)
+Seat 2: P1xel7 (120220)
+Seat 3: Anita-LU (75059)
+Seat 4: AQsucks (115464)
+Seat 5: Space  Jam (98460)
+Seat 6: LilyCat (164697)
+*** ANTE/BLINDS ***
+LilyCat posts ante 200
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+AQsucks posts ante 200
+Space  Jam posts ante 200
+LilyCat posts small blind 800
+DaKKatiine posts big blind 1600
+Dealt to P1xel7 [Js 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat raises 2000 to 3600
+DaKKatiine folds
+LilyCat collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | No rake
+Seat 6: LilyCat (small blind) won 6400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-49-1711395302 - Holdem no limit (200/800/1600) - 2024/03/25 19:35:02 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #6 is the button
+Seat 1: DaKKatiine (73520)
+Seat 2: P1xel7 (120020)
+Seat 3: Anita-LU (74859)
+Seat 4: AQsucks (115264)
+Seat 5: Space  Jam (98260)
+Seat 6: LilyCat (167297)
+*** ANTE/BLINDS ***
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+AQsucks posts ante 200
+Space  Jam posts ante 200
+LilyCat posts ante 200
+DaKKatiine posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [5d 8s]
+*** PRE-FLOP *** 
+Anita-LU folds
+AQsucks raises 1920 to 3520
+Space  Jam raises 7840 to 11360
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+AQsucks folds
+Space  Jam collected 18480 from pot
+*** SUMMARY ***
+Total pot 18480 | No rake
+Seat 5: Space  Jam won 18480
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-50-1711395343 - Holdem no limit (200/800/1600) - 2024/03/25 19:35:43 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #1 is the button
+Seat 1: DaKKatiine (72520)
+Seat 2: P1xel7 (118220)
+Seat 3: Anita-LU (74659)
+Seat 4: AQsucks (111544)
+Seat 5: Space  Jam (105180)
+Seat 6: LilyCat (167097)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+DaKKatiine posts ante 200
+AQsucks posts ante 200
+Space  Jam posts ante 200
+LilyCat posts ante 200
+P1xel7 posts small blind 800
+Anita-LU posts big blind 1600
+Dealt to P1xel7 [9s Th]
+*** PRE-FLOP *** 
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 raises 3200 to 4800
+Anita-LU folds
+P1xel7 collected 7600 from pot
+*** SUMMARY ***
+Total pot 7600 | No rake
+Seat 2: P1xel7 (small blind) won 7600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-51-1711395390 - Holdem no limit (200/800/1600) - 2024/03/25 19:36:30 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #2 is the button
+Seat 1: DaKKatiine (72320)
+Seat 2: P1xel7 (120820)
+Seat 3: Anita-LU (72859)
+Seat 4: AQsucks (111344)
+Seat 5: Space  Jam (104980)
+Seat 6: LilyCat (166897)
+*** ANTE/BLINDS ***
+Anita-LU posts ante 200
+AQsucks posts ante 200
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Space  Jam posts ante 200
+LilyCat posts ante 200
+Anita-LU posts small blind 800
+AQsucks posts big blind 1600
+Dealt to P1xel7 [3c 4h]
+*** PRE-FLOP *** 
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 4: AQsucks (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-52-1711395407 - Holdem no limit (200/800/1600) - 2024/03/25 19:36:47 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #3 is the button
+Seat 1: DaKKatiine (72120)
+Seat 2: P1xel7 (120620)
+Seat 3: Anita-LU (71859)
+Seat 4: AQsucks (113144)
+Seat 5: Space  Jam (104780)
+Seat 6: LilyCat (166697)
+*** ANTE/BLINDS ***
+AQsucks posts ante 200
+Space  Jam posts ante 200
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+LilyCat posts ante 200
+AQsucks posts small blind 800
+Space  Jam posts big blind 1600
+Dealt to P1xel7 [Jc 7s]
+*** PRE-FLOP *** 
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 5: Space  Jam (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-53-1711395423 - Holdem no limit (200/800/1600) - 2024/03/25 19:37:03 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #4 is the button
+Seat 1: DaKKatiine (71920)
+Seat 2: P1xel7 (120420)
+Seat 3: Anita-LU (71659)
+Seat 4: AQsucks (112144)
+Seat 5: Space  Jam (106580)
+Seat 6: LilyCat (166497)
+*** ANTE/BLINDS ***
+Space  Jam posts ante 200
+LilyCat posts ante 200
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+AQsucks posts ante 200
+Space  Jam posts small blind 800
+LilyCat posts big blind 1600
+Dealt to P1xel7 [3s Jd]
+*** PRE-FLOP *** 
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam calls 800
+LilyCat raises 2400 to 4000
+Space  Jam calls 2400
+*** FLOP *** [9c 8h Jh]
+Space  Jam checks
+LilyCat bets 4600
+Space  Jam folds
+LilyCat collected 13800 from pot
+*** SUMMARY ***
+Total pot 13800 | No rake
+Board: [9c 8h Jh]
+Seat 6: LilyCat (big blind) won 13800
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-54-1711395495 - Holdem no limit (200/800/1600) - 2024/03/25 19:38:15 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #5 is the button
+Seat 1: DaKKatiine (71720)
+Seat 2: P1xel7 (120220)
+Seat 3: Anita-LU (71459)
+Seat 4: AQsucks (111944)
+Seat 5: Space  Jam (102380)
+Seat 6: LilyCat (171497)
+*** ANTE/BLINDS ***
+LilyCat posts ante 200
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+AQsucks posts ante 200
+Space  Jam posts ante 200
+LilyCat posts small blind 800
+DaKKatiine posts big blind 1600
+Dealt to P1xel7 [Js Td]
+*** PRE-FLOP *** 
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat raises 2000 to 3600
+DaKKatiine folds
+LilyCat collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | No rake
+Seat 6: LilyCat (small blind) won 6400
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-55-1711395532 - Holdem no limit (200/800/1600) - 2024/03/25 19:38:52 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #6 is the button
+Seat 1: DaKKatiine (69920)
+Seat 2: P1xel7 (120020)
+Seat 3: Anita-LU (71259)
+Seat 4: AQsucks (111744)
+Seat 5: Space  Jam (102180)
+Seat 6: LilyCat (174097)
+*** ANTE/BLINDS ***
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+AQsucks posts ante 200
+Space  Jam posts ante 200
+LilyCat posts ante 200
+DaKKatiine posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [Kd Ad]
+*** PRE-FLOP *** 
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | No rake
+Seat 2: P1xel7 (big blind) won 3600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-56-1711395551 - Holdem no limit (200/800/1600) - 2024/03/25 19:39:11 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #1 is the button
+Seat 1: DaKKatiine (68920)
+Seat 2: P1xel7 (121820)
+Seat 3: Anita-LU (71059)
+Seat 4: AQsucks (111544)
+Seat 5: Space  Jam (101980)
+Seat 6: LilyCat (173897)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Anita-LU posts ante 200
+DaKKatiine posts ante 200
+AQsucks posts ante 200
+Space  Jam posts ante 200
+LilyCat posts ante 200
+P1xel7 posts small blind 800
+Anita-LU posts big blind 1600
+Dealt to P1xel7 [6d Ts]
+*** PRE-FLOP *** 
+AQsucks raises 1920 to 3520
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU calls 1920
+*** FLOP *** [5s 4c 9s]
+Anita-LU checks
+AQsucks bets 4068
+Anita-LU folds
+AQsucks collected 13108 from pot
+*** SUMMARY ***
+Total pot 13108 | No rake
+Board: [5s 4c 9s]
+Seat 4: AQsucks won 13108
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3263880866685779985-57-1711395593 - Holdem no limit (200/800/1600) - 2024/03/25 19:39:53 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #2 is the button
+Seat 1: DaKKatiine (68720)
+Seat 2: P1xel7 (120820)
+Seat 3: Anita-LU (67339)
+Seat 4: AQsucks (116864)
+Seat 5: Space  Jam (101780)
+Seat 6: LilyCat (173697)
+*** ANTE/BLINDS ***
+Anita-LU posts ante 200
+AQsucks posts ante 200
+DaKKatiine posts ante 200
+P1xel7 posts ante 200
+Space  Jam posts ante 200
+LilyCat posts ante 200
+Anita-LU posts small blind 800
+AQsucks posts big blind 1600
+Dealt to P1xel7 [7c Ad]
+*** PRE-FLOP *** 
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 raises 1600 to 3200
+Anita-LU calls 2400
+AQsucks folds
+*** FLOP *** [Jc 7s 9h]
+Anita-LU checks
+P1xel7 bets 3220
+Anita-LU calls 3220
+*** TURN *** [Jc 7s 9h][Kc]
+Anita-LU checks
+P1xel7 bets 5474
+Anita-LU folds
+P1xel7 collected 21114 from pot
+*** SUMMARY ***
+Total pot 21114 | No rake
+Board: [Jc 7s 9h Kc]
+Seat 2: P1xel7 (button) won 21114
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-58-1711395691 - Holdem no limit (250/1000/2000) - 2024/03/25 19:41:31 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #3 is the button
+Seat 1: DaKKatiine (68520)
+Seat 2: P1xel7 (129840)
+Seat 3: Anita-LU (60719)
+Seat 4: AQsucks (115064)
+Seat 5: Space  Jam (101580)
+Seat 6: LilyCat (173497)
+*** ANTE/BLINDS ***
+AQsucks posts ante 250
+Space  Jam posts ante 250
+DaKKatiine posts ante 250
+P1xel7 posts ante 250
+Anita-LU posts ante 250
+LilyCat posts ante 250
+AQsucks posts small blind 1000
+Space  Jam posts big blind 2000
+Dealt to P1xel7 [8s 7h]
+*** PRE-FLOP *** 
+LilyCat raises 4000 to 6000
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks raises 15000 to 21000
+Space  Jam folds
+LilyCat folds
+AQsucks collected 30500 from pot
+*** SUMMARY ***
+Total pot 30500 | No rake
+Seat 4: AQsucks (small blind) won 30500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-59-1711395716 - Holdem no limit (250/1000/2000) - 2024/03/25 19:41:56 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #4 is the button
+Seat 1: DaKKatiine (68270)
+Seat 2: P1xel7 (129590)
+Seat 3: Anita-LU (60469)
+Seat 4: AQsucks (124314)
+Seat 5: Space  Jam (99330)
+Seat 6: LilyCat (167247)
+*** ANTE/BLINDS ***
+Space  Jam posts ante 250
+LilyCat posts ante 250
+DaKKatiine posts ante 250
+P1xel7 posts ante 250
+Anita-LU posts ante 250
+AQsucks posts ante 250
+Space  Jam posts small blind 1000
+LilyCat posts big blind 2000
+Dealt to P1xel7 [6d Th]
+*** PRE-FLOP *** 
+DaKKatiine folds
+P1xel7 folds
+Anita-LU raises 4000 to 6000
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+Anita-LU collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | No rake
+Seat 3: Anita-LU won 10500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-60-1711395747 - Holdem no limit (250/1000/2000) - 2024/03/25 19:42:27 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #5 is the button
+Seat 1: DaKKatiine (68020)
+Seat 2: P1xel7 (129340)
+Seat 3: Anita-LU (64719)
+Seat 4: AQsucks (124064)
+Seat 5: Space  Jam (98080)
+Seat 6: LilyCat (164997)
+*** ANTE/BLINDS ***
+LilyCat posts ante 250
+DaKKatiine posts ante 250
+P1xel7 posts ante 250
+Anita-LU posts ante 250
+AQsucks posts ante 250
+Space  Jam posts ante 250
+LilyCat posts small blind 1000
+DaKKatiine posts big blind 2000
+Dealt to P1xel7 [7c 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Anita-LU raises 2500 to 4500
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine calls 2500
+*** FLOP *** [8s 3c 7h]
+DaKKatiine checks
+Anita-LU bets 3000
+DaKKatiine folds
+Anita-LU collected 14500 from pot
+*** SUMMARY ***
+Total pot 14500 | No rake
+Board: [8s 3c 7h]
+Seat 3: Anita-LU won 14500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-61-1711395807 - Holdem no limit (250/1000/2000) - 2024/03/25 19:43:27 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #6 is the button
+Seat 1: DaKKatiine (63270)
+Seat 2: P1xel7 (129090)
+Seat 3: Anita-LU (71469)
+Seat 4: AQsucks (123814)
+Seat 5: Space  Jam (97830)
+Seat 6: LilyCat (163747)
+*** ANTE/BLINDS ***
+DaKKatiine posts ante 250
+P1xel7 posts ante 250
+Anita-LU posts ante 250
+AQsucks posts ante 250
+Space  Jam posts ante 250
+LilyCat posts ante 250
+DaKKatiine posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [6d 2h]
+*** PRE-FLOP *** 
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat raises 3000 to 5000
+DaKKatiine folds
+P1xel7 folds
+LilyCat collected 9500 from pot
+*** SUMMARY ***
+Total pot 9500 | No rake
+Seat 6: LilyCat (button) won 9500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-62-1711395823 - Holdem no limit (250/1000/2000) - 2024/03/25 19:43:43 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #1 is the button
+Seat 1: DaKKatiine (62020)
+Seat 2: P1xel7 (126840)
+Seat 3: Anita-LU (71219)
+Seat 4: AQsucks (123564)
+Seat 5: Space  Jam (97580)
+Seat 6: LilyCat (167997)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+Anita-LU posts ante 250
+DaKKatiine posts ante 250
+AQsucks posts ante 250
+Space  Jam posts ante 250
+LilyCat posts ante 250
+P1xel7 posts small blind 1000
+Anita-LU posts big blind 2000
+Dealt to P1xel7 [8h 4h]
+*** PRE-FLOP *** 
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine raises 59770 to 61770 and is all-in
+P1xel7 folds
+Anita-LU folds
+DaKKatiine collected 66270 from pot
+*** SUMMARY ***
+Total pot 66270 | No rake
+Seat 1: DaKKatiine (button) won 66270
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-63-1711395860 - Holdem no limit (250/1000/2000) - 2024/03/25 19:44:20 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #2 is the button
+Seat 1: DaKKatiine (66270)
+Seat 2: P1xel7 (125590)
+Seat 3: Anita-LU (68969)
+Seat 4: AQsucks (123314)
+Seat 5: Space  Jam (97330)
+Seat 6: LilyCat (167747)
+*** ANTE/BLINDS ***
+Anita-LU posts ante 250
+AQsucks posts ante 250
+DaKKatiine posts ante 250
+P1xel7 posts ante 250
+Space  Jam posts ante 250
+LilyCat posts ante 250
+Anita-LU posts small blind 1000
+AQsucks posts big blind 2000
+Dealt to P1xel7 [Jc 7h]
+*** PRE-FLOP *** 
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU calls 1000
+AQsucks checks
+*** FLOP *** [Ks 9h 7d]
+Anita-LU checks
+AQsucks checks
+*** TURN *** [Ks 9h 7d][6d]
+Anita-LU checks
+AQsucks checks
+*** RIVER *** [Ks 9h 7d 6d][4d]
+Anita-LU checks
+AQsucks checks
+*** SHOW DOWN ***
+AQsucks shows [2c Jh] (High card : King)
+Anita-LU shows [5d Ah] (High card : Ace)
+Anita-LU collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | No rake
+Board: [Ks 9h 7d 6d 4d]
+Seat 3: Anita-LU (small blind) showed [5d Ah] and won 5500 with High card : Ace
+Seat 4: AQsucks (big blind) showed [2c Jh] and lost with High card : King
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-64-1711395895 - Holdem no limit (250/1000/2000) - 2024/03/25 19:44:55 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #3 is the button
+Seat 1: DaKKatiine (66020)
+Seat 2: P1xel7 (125340)
+Seat 3: Anita-LU (72219)
+Seat 4: AQsucks (121064)
+Seat 5: Space  Jam (97080)
+Seat 6: LilyCat (167497)
+*** ANTE/BLINDS ***
+AQsucks posts ante 250
+Space  Jam posts ante 250
+DaKKatiine posts ante 250
+P1xel7 posts ante 250
+Anita-LU posts ante 250
+LilyCat posts ante 250
+AQsucks posts small blind 1000
+Space  Jam posts big blind 2000
+Dealt to P1xel7 [Qh 7d]
+*** PRE-FLOP *** 
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 5: Space  Jam (big blind) won 4500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-65-1711395919 - Holdem no limit (250/1000/2000) - 2024/03/25 19:45:19 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #4 is the button
+Seat 1: DaKKatiine (65770)
+Seat 2: P1xel7 (125090)
+Seat 3: Anita-LU (71969)
+Seat 4: AQsucks (119814)
+Seat 5: Space  Jam (99330)
+Seat 6: LilyCat (167247)
+*** ANTE/BLINDS ***
+Space  Jam posts ante 250
+LilyCat posts ante 250
+DaKKatiine posts ante 250
+P1xel7 posts ante 250
+Anita-LU posts ante 250
+AQsucks posts ante 250
+Space  Jam posts small blind 1000
+LilyCat posts big blind 2000
+Dealt to P1xel7 [2h 6h]
+*** PRE-FLOP *** 
+DaKKatiine raises 3000 to 5000
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine collected 9500 from pot
+*** SUMMARY ***
+Total pot 9500 | No rake
+Seat 1: DaKKatiine won 9500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-66-1711395942 - Holdem no limit (250/1000/2000) - 2024/03/25 19:45:42 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #5 is the button
+Seat 1: DaKKatiine (70020)
+Seat 2: P1xel7 (124840)
+Seat 3: Anita-LU (71719)
+Seat 4: AQsucks (119564)
+Seat 5: Space  Jam (98080)
+Seat 6: LilyCat (164997)
+*** ANTE/BLINDS ***
+LilyCat posts ante 250
+DaKKatiine posts ante 250
+P1xel7 posts ante 250
+Anita-LU posts ante 250
+AQsucks posts ante 250
+Space  Jam posts ante 250
+LilyCat posts small blind 1000
+DaKKatiine posts big blind 2000
+Dealt to P1xel7 [Ah 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Anita-LU folds
+AQsucks raises 2400 to 4400
+Space  Jam folds
+LilyCat calls 3400
+DaKKatiine folds
+*** FLOP *** [Qd Ac Ad]
+LilyCat checks
+AQsucks bets 5535
+LilyCat folds
+AQsucks collected 17835 from pot
+*** SUMMARY ***
+Total pot 17835 | No rake
+Board: [Qd Ac Ad]
+Seat 4: AQsucks won 17835
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-67-1711396002 - Holdem no limit (250/1000/2000) - 2024/03/25 19:46:42 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #6 is the button
+Seat 1: DaKKatiine (67770)
+Seat 2: P1xel7 (124590)
+Seat 3: Anita-LU (71469)
+Seat 4: AQsucks (127214)
+Seat 5: Space  Jam (97830)
+Seat 6: LilyCat (160347)
+*** ANTE/BLINDS ***
+DaKKatiine posts ante 250
+P1xel7 posts ante 250
+Anita-LU posts ante 250
+AQsucks posts ante 250
+Space  Jam posts ante 250
+LilyCat posts ante 250
+DaKKatiine posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [4d 5d]
+*** PRE-FLOP *** 
+Anita-LU folds
+AQsucks folds
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | No rake
+Seat 2: P1xel7 (big blind) won 4500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-68-1711396039 - Holdem no limit (250/1000/2000) - 2024/03/25 19:47:19 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #1 is the button
+Seat 1: DaKKatiine (66520)
+Seat 2: P1xel7 (126840)
+Seat 3: Anita-LU (71219)
+Seat 4: AQsucks (126964)
+Seat 5: Space  Jam (97580)
+Seat 6: LilyCat (160097)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+Anita-LU posts ante 250
+DaKKatiine posts ante 250
+AQsucks posts ante 250
+Space  Jam posts ante 250
+LilyCat posts ante 250
+P1xel7 posts small blind 1000
+Anita-LU posts big blind 2000
+Dealt to P1xel7 [Kc Qd]
+*** PRE-FLOP *** 
+AQsucks raises 2400 to 4400
+Space  Jam raises 8800 to 13200
+LilyCat folds
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks folds
+Space  Jam collected 22100 from pot
+*** SUMMARY ***
+Total pot 22100 | No rake
+Seat 5: Space  Jam won 22100
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3263880866685779985-69-1711396072 - Holdem no limit (250/1000/2000) - 2024/03/25 19:47:52 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #2 is the button
+Seat 1: DaKKatiine (66270)
+Seat 2: P1xel7 (125590)
+Seat 3: Anita-LU (68969)
+Seat 4: AQsucks (122314)
+Seat 5: Space  Jam (106230)
+Seat 6: LilyCat (159847)
+*** ANTE/BLINDS ***
+Anita-LU posts ante 250
+AQsucks posts ante 250
+DaKKatiine posts ante 250
+P1xel7 posts ante 250
+Space  Jam posts ante 250
+LilyCat posts ante 250
+Anita-LU posts small blind 1000
+AQsucks posts big blind 2000
+Dealt to P1xel7 [Ks Td]
+*** PRE-FLOP *** 
+Space  Jam folds
+LilyCat folds
+DaKKatiine folds
+P1xel7 raises 2000 to 4000
+Anita-LU folds
+AQsucks folds
+P1xel7 collected 8500 from pot
+*** SUMMARY ***
+Total pot 8500 | No rake
+Seat 2: P1xel7 (button) won 8500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3263880866685779985-70-1711396099 - Holdem no limit (300/1250/2500) - 2024/03/25 19:48:19 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #3 is the button
+Seat 1: DaKKatiine (66020)
+Seat 2: P1xel7 (129840)
+Seat 3: Anita-LU (67719)
+Seat 4: AQsucks (120064)
+Seat 5: Space  Jam (105980)
+Seat 6: LilyCat (159597)
+*** ANTE/BLINDS ***
+AQsucks posts ante 300
+Space  Jam posts ante 300
+DaKKatiine posts ante 300
+P1xel7 posts ante 300
+Anita-LU posts ante 300
+LilyCat posts ante 300
+AQsucks posts small blind 1250
+Space  Jam posts big blind 2500
+Dealt to P1xel7 [Qs Ad]
+*** PRE-FLOP *** 
+LilyCat folds
+DaKKatiine folds
+P1xel7 raises 2500 to 5000
+Anita-LU folds
+AQsucks calls 3750
+Space  Jam folds
+*** FLOP *** [Ah 3c Th]
+AQsucks checks
+P1xel7 bets 7150
+AQsucks calls 7150
+*** TURN *** [Ah 3c Th][9h]
+AQsucks checks
+P1xel7 bets 10010
+AQsucks folds
+P1xel7 collected 38610 from pot
+*** SUMMARY ***
+Total pot 38610 | No rake
+Board: [Ah 3c Th 9h]
+Seat 2: P1xel7 won 38610
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3263880866685779985-71-1711396150 - Holdem no limit (300/1250/2500) - 2024/03/25 19:49:10 UTC
+Table: 'Monster Stack(759931483)#0016' 6-max (real money) Seat #4 is the button
+Seat 1: DaKKatiine (65720)
+Seat 2: P1xel7 (145990)
+Seat 3: Anita-LU (67419)
+Seat 4: AQsucks (107614)
+Seat 5: Space  Jam (103180)
+Seat 6: LilyCat (159297)
+*** ANTE/BLINDS ***
+Space  Jam posts ante 300
+LilyCat posts ante 300
+DaKKatiine posts ante 300
+P1xel7 posts ante 300
+Anita-LU posts ante 300
+AQsucks posts ante 300
+Space  Jam posts small blind 1250
+LilyCat posts big blind 2500
+Dealt to P1xel7 [2s 6d]
+*** PRE-FLOP *** 
+DaKKatiine folds
+P1xel7 folds
+Anita-LU folds
+AQsucks raises 3000 to 5500
+Space  Jam folds
+LilyCat calls 3000
+*** FLOP *** [7h 6s 4c]
+LilyCat checks
+AQsucks bets 6323
+LilyCat calls 6323
+*** TURN *** [7h 6s 4c][9d]
+LilyCat checks
+AQsucks bets 20022
+LilyCat calls 20022
+*** RIVER *** [7h 6s 4c 9d][3d]
+LilyCat checks
+AQsucks checks
+*** SHOW DOWN ***
+LilyCat shows [9h Tc] (One pair : 9)
+AQsucks shows [As 9c] (One pair : 9)
+AQsucks collected 66740 from pot
+*** SUMMARY ***
+Total pot 66740 | No rake
+Board: [7h 6s 4c 9d 3d]
+Seat 4: AQsucks (button) showed [As 9c] and won 66740 with One pair : 9
+Seat 6: LilyCat (big blind) showed [9h Tc] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3263880866685779979-79-1711396303 - Holdem no limit (300/1250/2500) - 2024/03/25 19:51:43 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: reidapega (280506)
+Seat 2: velka moklo (166946)
+Seat 3: youki9175 (99700)
+Seat 4: jdeepenshort (69920)
+Seat 5: A la bien 61 (196515)
+Seat 6: P1xel7 (145690)
+*** ANTE/BLINDS ***
+velka moklo posts ante 300
+youki9175 posts ante 300
+reidapega posts ante 300
+jdeepenshort posts ante 300
+A la bien 61 posts ante 300
+P1xel7 posts ante 300
+velka moklo posts small blind 1250
+youki9175 posts big blind 2500
+Dealt to P1xel7 [4h Qh]
+*** PRE-FLOP *** 
+jdeepenshort folds
+A la bien 61 calls 2500
+P1xel7 folds
+reidapega folds
+velka moklo folds
+youki9175 checks
+*** FLOP *** [3h 8d 5s]
+youki9175 checks
+A la bien 61 bets 4025
+youki9175 folds
+A la bien 61 collected 12075 from pot
+*** SUMMARY ***
+Total pot 12075 | No rake
+Board: [3h 8d 5s]
+Seat 5: A la bien 61 won 12075
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3263880866685779979-80-1711396402 - Holdem no limit (300/1250/2500) - 2024/03/25 19:53:22 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: reidapega (280206)
+Seat 2: velka moklo (165396)
+Seat 3: youki9175 (96900)
+Seat 4: jdeepenshort (69620)
+Seat 5: A la bien 61 (201765)
+Seat 6: P1xel7 (145390)
+*** ANTE/BLINDS ***
+youki9175 posts ante 300
+jdeepenshort posts ante 300
+reidapega posts ante 300
+velka moklo posts ante 300
+A la bien 61 posts ante 300
+P1xel7 posts ante 300
+youki9175 posts small blind 1250
+jdeepenshort posts big blind 2500
+Dealt to P1xel7 [9d Td]
+*** PRE-FLOP *** 
+A la bien 61 folds
+P1xel7 raises 2500 to 5000
+reidapega calls 5000
+velka moklo calls 5000
+youki9175 calls 3750
+jdeepenshort folds
+*** FLOP *** [9h Ac 6d]
+youki9175 checks
+P1xel7 checks
+reidapega checks
+velka moklo checks
+*** TURN *** [9h Ac 6d][4h]
+youki9175 checks
+P1xel7 checks
+reidapega bets 8505
+velka moklo folds
+youki9175 folds
+P1xel7 calls 8505
+*** RIVER *** [9h Ac 6d 4h][Js]
+P1xel7 checks
+reidapega checks
+*** SHOW DOWN ***
+P1xel7 shows [9d Td] (One pair : 9)
+reidapega shows [2s As] (One pair : Aces)
+reidapega collected 41310 from pot
+*** SUMMARY ***
+Total pot 41310 | No rake
+Board: [9h Ac 6d 4h Js]
+Seat 1: reidapega showed [2s As] and won 41310 with One pair : Aces
+Seat 6: P1xel7 showed [9d Td] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3263880866685779979-81-1711396861 - Holdem no limit (300/1250/2500) - 2024/03/25 20:01:01 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: reidapega (307711)
+Seat 2: velka moklo (160096)
+Seat 3: youki9175 (91600)
+Seat 4: jdeepenshort (66820)
+Seat 5: A la bien 61 (201465)
+Seat 6: P1xel7 (131585)
+*** ANTE/BLINDS ***
+jdeepenshort posts ante 300
+A la bien 61 posts ante 300
+reidapega posts ante 300
+velka moklo posts ante 300
+youki9175 posts ante 300
+P1xel7 posts ante 300
+jdeepenshort posts small blind 1250
+A la bien 61 posts big blind 2500
+Dealt to P1xel7 [7d 5d]
+*** PRE-FLOP *** 
+P1xel7 folds
+reidapega folds
+velka moklo folds
+youki9175 folds
+jdeepenshort calls 1250
+A la bien 61 checks
+*** FLOP *** [7c Qd As]
+jdeepenshort checks
+A la bien 61 checks
+*** TURN *** [7c Qd As][6h]
+jdeepenshort bets 3750
+A la bien 61 folds
+jdeepenshort collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Board: [7c Qd As 6h]
+Seat 4: jdeepenshort (small blind) won 10550
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3263880866685779979-82-1711396961 - Holdem no limit (350/1500/3000) - 2024/03/25 20:02:41 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: reidapega (307411)
+Seat 2: velka moklo (159796)
+Seat 3: youki9175 (91300)
+Seat 4: jdeepenshort (70820)
+Seat 5: A la bien 61 (198665)
+Seat 6: P1xel7 (131285)
+*** ANTE/BLINDS ***
+A la bien 61 posts ante 350
+P1xel7 posts ante 350
+reidapega posts ante 350
+velka moklo posts ante 350
+youki9175 posts ante 350
+jdeepenshort posts ante 350
+A la bien 61 posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [2c 4d]
+*** PRE-FLOP *** 
+reidapega raises 9600 to 12600
+velka moklo folds
+youki9175 folds
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 folds
+reidapega collected 19200 from pot
+*** SUMMARY ***
+Total pot 19200 | No rake
+Seat 1: reidapega won 19200
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3263880866685779979-83-1711397010 - Holdem no limit (350/1500/3000) - 2024/03/25 20:03:30 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: reidapega (313661)
+Seat 2: velka moklo (159446)
+Seat 3: youki9175 (90950)
+Seat 4: jdeepenshort (70470)
+Seat 5: A la bien 61 (196815)
+Seat 6: P1xel7 (127935)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+reidapega posts ante 350
+velka moklo posts ante 350
+youki9175 posts ante 350
+jdeepenshort posts ante 350
+A la bien 61 posts ante 350
+P1xel7 posts small blind 1500
+reidapega posts big blind 3000
+Dealt to P1xel7 [8s 6d]
+*** PRE-FLOP *** 
+velka moklo folds
+youki9175 raises 3000 to 6000
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 folds
+reidapega calls 3000
+*** FLOP *** [8h 9c 8d]
+reidapega checks
+youki9175 checks
+*** TURN *** [8h 9c 8d][5s]
+reidapega checks
+youki9175 bets 5460
+reidapega calls 5460
+*** RIVER *** [8h 9c 8d 5s][9s]
+reidapega checks
+youki9175 bets 9282
+reidapega calls 9282
+*** SHOW DOWN ***
+reidapega shows [Qc 5d] (Two pairs : 9 and 8)
+youki9175 shows [Th Tc] (Two pairs : Tens and 9)
+youki9175 collected 45084 from pot
+*** SUMMARY ***
+Total pot 45084 | No rake
+Board: [8h 9c 8d 5s 9s]
+Seat 1: reidapega (big blind) showed [Qc 5d] and lost with Two pairs : 9 and 8
+Seat 3: youki9175 showed [Th Tc] and won 45084 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3263880866685779979-84-1711397103 - Holdem no limit (350/1500/3000) - 2024/03/25 20:05:03 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: reidapega (292569)
+Seat 2: velka moklo (159096)
+Seat 3: youki9175 (114942)
+Seat 4: jdeepenshort (70120)
+Seat 5: A la bien 61 (196465)
+Seat 6: P1xel7 (126085)
+*** ANTE/BLINDS ***
+reidapega posts ante 350
+velka moklo posts ante 350
+youki9175 posts ante 350
+jdeepenshort posts ante 350
+A la bien 61 posts ante 350
+P1xel7 posts ante 350
+reidapega posts small blind 1500
+velka moklo posts big blind 3000
+Dealt to P1xel7 [8d Qc]
+*** PRE-FLOP *** 
+youki9175 folds
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 folds
+reidapega calls 1500
+velka moklo checks
+*** FLOP *** [6d 5h 8h]
+reidapega checks
+velka moklo bets 6480
+reidapega folds
+velka moklo collected 14580 from pot
+*** SUMMARY ***
+Total pot 14580 | No rake
+Board: [6d 5h 8h]
+Seat 2: velka moklo (big blind) won 14580
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3263880866685779979-85-1711397177 - Holdem no limit (350/1500/3000) - 2024/03/25 20:06:17 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: reidapega (289219)
+Seat 2: velka moklo (163846)
+Seat 3: youki9175 (114592)
+Seat 4: jdeepenshort (69770)
+Seat 5: A la bien 61 (196115)
+Seat 6: P1xel7 (125735)
+*** ANTE/BLINDS ***
+velka moklo posts ante 350
+youki9175 posts ante 350
+reidapega posts ante 350
+jdeepenshort posts ante 350
+A la bien 61 posts ante 350
+P1xel7 posts ante 350
+velka moklo posts small blind 1500
+youki9175 posts big blind 3000
+Dealt to P1xel7 [Ts 4c]
+*** PRE-FLOP *** 
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 folds
+reidapega folds
+velka moklo folds
+youki9175 collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Seat 3: youki9175 (big blind) won 6600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3263880866685779979-86-1711397202 - Holdem no limit (350/1500/3000) - 2024/03/25 20:06:42 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: reidapega (288869)
+Seat 2: velka moklo (161996)
+Seat 3: youki9175 (117842)
+Seat 4: jdeepenshort (69420)
+Seat 5: A la bien 61 (195765)
+Seat 6: P1xel7 (125385)
+*** ANTE/BLINDS ***
+youki9175 posts ante 350
+jdeepenshort posts ante 350
+reidapega posts ante 350
+velka moklo posts ante 350
+A la bien 61 posts ante 350
+P1xel7 posts ante 350
+youki9175 posts small blind 1500
+jdeepenshort posts big blind 3000
+Dealt to P1xel7 [Js Tc]
+*** PRE-FLOP *** 
+A la bien 61 folds
+P1xel7 raises 3000 to 6000
+reidapega folds
+velka moklo folds
+youki9175 folds
+jdeepenshort folds
+P1xel7 collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Seat 6: P1xel7 won 12600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3263880866685779979-87-1711397236 - Holdem no limit (350/1500/3000) - 2024/03/25 20:07:16 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: reidapega (288519)
+Seat 2: velka moklo (161646)
+Seat 3: youki9175 (115992)
+Seat 4: jdeepenshort (66070)
+Seat 5: A la bien 61 (195415)
+Seat 6: P1xel7 (131635)
+*** ANTE/BLINDS ***
+jdeepenshort posts ante 350
+A la bien 61 posts ante 350
+reidapega posts ante 350
+velka moklo posts ante 350
+youki9175 posts ante 350
+P1xel7 posts ante 350
+jdeepenshort posts small blind 1500
+A la bien 61 posts big blind 3000
+Dealt to P1xel7 [Td 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+reidapega folds
+velka moklo folds
+youki9175 folds
+jdeepenshort folds
+A la bien 61 collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Seat 5: A la bien 61 (big blind) won 6600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3263880866685779979-88-1711397277 - Holdem no limit (350/1500/3000) - 2024/03/25 20:07:57 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: reidapega (288169)
+Seat 2: velka moklo (161296)
+Seat 3: youki9175 (115642)
+Seat 4: jdeepenshort (64220)
+Seat 5: A la bien 61 (198665)
+Seat 6: P1xel7 (131285)
+*** ANTE/BLINDS ***
+A la bien 61 posts ante 350
+P1xel7 posts ante 350
+reidapega posts ante 350
+velka moklo posts ante 350
+youki9175 posts ante 350
+jdeepenshort posts ante 350
+A la bien 61 posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [7d 2c]
+*** PRE-FLOP *** 
+reidapega calls 3000
+velka moklo folds
+youki9175 folds
+jdeepenshort raises 60870 to 63870 and is all-in
+A la bien 61 calls 62370
+P1xel7 folds
+reidapega folds
+*** FLOP *** [Jh Qs Qc]
+*** TURN *** [Jh Qs Qc][6h]
+*** RIVER *** [Jh Qs Qc 6h][5h]
+*** SHOW DOWN ***
+A la bien 61 shows [Td Kd] (One pair : Queens)
+jdeepenshort shows [9s 9h] (Two pairs : Queens and 9)
+jdeepenshort collected 135840 from pot
+*** SUMMARY ***
+Total pot 135840 | No rake
+Board: [Jh Qs Qc 6h 5h]
+Seat 4: jdeepenshort (button) showed [9s 9h] and won 135840 with Two pairs : Queens and 9
+Seat 5: A la bien 61 (small blind) showed [Td Kd] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3263880866685779979-89-1711397334 - Holdem no limit (350/1500/3000) - 2024/03/25 20:08:54 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: reidapega (284819)
+Seat 2: velka moklo (160946)
+Seat 3: youki9175 (115292)
+Seat 4: jdeepenshort (135840)
+Seat 5: A la bien 61 (134445)
+Seat 6: P1xel7 (127935)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+reidapega posts ante 350
+velka moklo posts ante 350
+youki9175 posts ante 350
+jdeepenshort posts ante 350
+A la bien 61 posts ante 350
+P1xel7 posts small blind 1500
+reidapega posts big blind 3000
+Dealt to P1xel7 [As 6c]
+*** PRE-FLOP *** 
+velka moklo raises 3000 to 6000
+youki9175 folds
+jdeepenshort folds
+A la bien 61 calls 6000
+P1xel7 folds
+reidapega folds
+*** FLOP *** [Qc 7h Ah]
+velka moklo checks
+A la bien 61 bets 14880
+velka moklo calls 14880
+*** TURN *** [Qc 7h Ah][6s]
+velka moklo checks
+A la bien 61 checks
+*** RIVER *** [Qc 7h Ah 6s][Kd]
+velka moklo bets 12090
+A la bien 61 folds
+velka moklo collected 60450 from pot
+*** SUMMARY ***
+Total pot 60450 | No rake
+Board: [Qc 7h Ah 6s Kd]
+Seat 2: velka moklo won 60450
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3263880866685779979-90-1711397396 - Holdem no limit (350/1500/3000) - 2024/03/25 20:09:56 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: reidapega (281469)
+Seat 2: velka moklo (188076)
+Seat 3: youki9175 (114942)
+Seat 4: jdeepenshort (135490)
+Seat 5: A la bien 61 (113215)
+Seat 6: P1xel7 (126085)
+*** ANTE/BLINDS ***
+reidapega posts ante 350
+velka moklo posts ante 350
+youki9175 posts ante 350
+jdeepenshort posts ante 350
+A la bien 61 posts ante 350
+P1xel7 posts ante 350
+reidapega posts small blind 1500
+velka moklo posts big blind 3000
+Dealt to P1xel7 [Qd 7s]
+*** PRE-FLOP *** 
+youki9175 raises 3000 to 6000
+jdeepenshort raises 15000 to 21000
+A la bien 61 folds
+P1xel7 folds
+reidapega folds
+velka moklo folds
+youki9175 calls 15000
+*** FLOP *** [Jh 2c 8c]
+youki9175 bets 12150
+jdeepenshort raises 30375 to 42525
+youki9175 calls 30375
+*** TURN *** [Jh 2c 8c][6c]
+youki9175 checks
+jdeepenshort bets 71615 and is all-in
+youki9175 calls 51067 and is all-in
+*** RIVER *** [Jh 2c 8c 6c][7c]
+*** SHOW DOWN ***
+youki9175 shows [8s Ts] (One pair : 8)
+jdeepenshort shows [Qc Qh] (Flush Queen high)
+jdeepenshort collected 256332 from pot
+*** SUMMARY ***
+Total pot 256332 | No rake
+Board: [Jh 2c 8c 6c 7c]
+Seat 3: youki9175 showed [8s Ts] and lost with One pair : 8
+Seat 4: jdeepenshort showed [Qc Qh] and won 256332 with Flush Queen high
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3263880866685779979-91-1711397507 - Holdem no limit (400/1750/3500) - 2024/03/25 20:11:47 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: reidapega (279619)
+Seat 2: velka moklo (184726)
+Seat 4: jdeepenshort (256332)
+Seat 5: A la bien 61 (112865)
+Seat 6: P1xel7 (125735)
+*** ANTE/BLINDS ***
+velka moklo posts ante 400
+jdeepenshort posts ante 400
+reidapega posts ante 400
+A la bien 61 posts ante 400
+P1xel7 posts ante 400
+velka moklo posts small blind 1750
+jdeepenshort posts big blind 3500
+Dealt to P1xel7 [Ad 6s]
+*** PRE-FLOP *** 
+A la bien 61 folds
+P1xel7 folds
+reidapega folds
+velka moklo calls 1750
+jdeepenshort checks
+*** FLOP *** [Ks 3d 3h]
+velka moklo bets 3500
+jdeepenshort folds
+velka moklo collected 12500 from pot
+*** SUMMARY ***
+Total pot 12500 | No rake
+Board: [Ks 3d 3h]
+Seat 2: velka moklo (small blind) won 12500
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3263880866685779979-92-1711397551 - Holdem no limit (400/1750/3500) - 2024/03/25 20:12:31 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: reidapega (279219)
+Seat 2: velka moklo (189826)
+Seat 4: jdeepenshort (252432)
+Seat 5: A la bien 61 (112465)
+Seat 6: P1xel7 (125335)
+*** ANTE/BLINDS ***
+jdeepenshort posts ante 400
+A la bien 61 posts ante 400
+reidapega posts ante 400
+velka moklo posts ante 400
+P1xel7 posts ante 400
+jdeepenshort posts small blind 1750
+A la bien 61 posts big blind 3500
+Dealt to P1xel7 [9s 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+reidapega folds
+velka moklo raises 3500 to 7000
+jdeepenshort folds
+A la bien 61 calls 3500
+*** FLOP *** [3c 7d 7s]
+A la bien 61 checks
+velka moklo checks
+*** TURN *** [3c 7d 7s][Qs]
+A la bien 61 checks
+velka moklo checks
+*** RIVER *** [3c 7d 7s Qs][8h]
+A la bien 61 checks
+velka moklo checks
+*** SHOW DOWN ***
+velka moklo shows [Kd Ts] (One pair : 7)
+A la bien 61 shows [6c 8d] (Two pairs : 8 and 7)
+A la bien 61 collected 17750 from pot
+*** SUMMARY ***
+Total pot 17750 | No rake
+Board: [3c 7d 7s Qs 8h]
+Seat 2: velka moklo (button) showed [Kd Ts] and lost with One pair : 7
+Seat 5: A la bien 61 (big blind) showed [6c 8d] and won 17750 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3263880866685779979-93-1711397599 - Holdem no limit (400/1750/3500) - 2024/03/25 20:13:19 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: reidapega (278819)
+Seat 2: velka moklo (182426)
+Seat 4: jdeepenshort (250282)
+Seat 5: A la bien 61 (122815)
+Seat 6: P1xel7 (124935)
+*** ANTE/BLINDS ***
+A la bien 61 posts ante 400
+P1xel7 posts ante 400
+reidapega posts ante 400
+velka moklo posts ante 400
+jdeepenshort posts ante 400
+A la bien 61 posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [2s 4h]
+*** PRE-FLOP *** 
+reidapega folds
+velka moklo raises 3500 to 7000
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 folds
+velka moklo collected 14250 from pot
+*** SUMMARY ***
+Total pot 14250 | No rake
+Seat 2: velka moklo won 14250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3263880866685779979-94-1711397628 - Holdem no limit (400/1750/3500) - 2024/03/25 20:13:48 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: reidapega (278419)
+Seat 2: velka moklo (189276)
+Seat 3: jptomasi (100000)
+Seat 4: jdeepenshort (249882)
+Seat 5: A la bien 61 (120665)
+Seat 6: P1xel7 (121035)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+reidapega posts ante 400
+velka moklo posts ante 400
+jptomasi posts ante 400
+jdeepenshort posts ante 400
+A la bien 61 posts ante 400
+P1xel7 posts small blind 1750
+reidapega posts big blind 3500
+Dealt to P1xel7 [4s 6s]
+*** PRE-FLOP *** 
+velka moklo raises 3500 to 7000
+jptomasi calls 7000
+jdeepenshort folds
+A la bien 61 raises 113265 to 120265 and is all-in
+P1xel7 folds
+reidapega folds
+velka moklo folds
+jptomasi folds
+A la bien 61 collected 141915 from pot
+*** SUMMARY ***
+Total pot 141915 | No rake
+Seat 5: A la bien 61 (button) won 141915
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3263880866685779979-95-1711397672 - Holdem no limit (400/1750/3500) - 2024/03/25 20:14:32 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: reidapega (274519)
+Seat 2: velka moklo (181876)
+Seat 3: jptomasi (92600)
+Seat 4: jdeepenshort (249482)
+Seat 5: A la bien 61 (141915)
+Seat 6: P1xel7 (118885)
+*** ANTE/BLINDS ***
+reidapega posts ante 400
+velka moklo posts ante 400
+jptomasi posts ante 400
+jdeepenshort posts ante 400
+A la bien 61 posts ante 400
+P1xel7 posts ante 400
+reidapega posts small blind 1750
+velka moklo posts big blind 3500
+Dealt to P1xel7 [3s 2h]
+*** PRE-FLOP *** 
+jptomasi folds
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 folds
+reidapega raises 270619 to 274119 and is all-in
+velka moklo folds
+reidapega collected 280019 from pot
+*** SUMMARY ***
+Total pot 280019 | No rake
+Seat 1: reidapega (small blind) won 280019
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3263880866685779979-96-1711397694 - Holdem no limit (400/1750/3500) - 2024/03/25 20:14:54 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: reidapega (280019)
+Seat 2: velka moklo (177976)
+Seat 3: jptomasi (92200)
+Seat 4: jdeepenshort (249082)
+Seat 5: A la bien 61 (141515)
+Seat 6: P1xel7 (118485)
+*** ANTE/BLINDS ***
+velka moklo posts ante 400
+jptomasi posts ante 400
+reidapega posts ante 400
+jdeepenshort posts ante 400
+A la bien 61 posts ante 400
+P1xel7 posts ante 400
+velka moklo posts small blind 1750
+jptomasi posts big blind 3500
+Dealt to P1xel7 [Qh 4s]
+*** PRE-FLOP *** 
+jdeepenshort folds
+A la bien 61 raises 3500 to 7000
+P1xel7 folds
+reidapega folds
+velka moklo folds
+jptomasi folds
+A la bien 61 collected 14650 from pot
+*** SUMMARY ***
+Total pot 14650 | No rake
+Seat 5: A la bien 61 won 14650
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3263880866685779979-97-1711397726 - Holdem no limit (400/1750/3500) - 2024/03/25 20:15:26 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: reidapega (279619)
+Seat 2: velka moklo (175826)
+Seat 3: jptomasi (88300)
+Seat 4: jdeepenshort (248682)
+Seat 5: A la bien 61 (148765)
+Seat 6: P1xel7 (118085)
+*** ANTE/BLINDS ***
+jptomasi posts ante 400
+jdeepenshort posts ante 400
+reidapega posts ante 400
+velka moklo posts ante 400
+A la bien 61 posts ante 400
+P1xel7 posts ante 400
+jptomasi posts small blind 1750
+jdeepenshort posts big blind 3500
+Dealt to P1xel7 [8s Qh]
+*** PRE-FLOP *** 
+A la bien 61 folds
+P1xel7 folds
+reidapega folds
+velka moklo folds
+jptomasi calls 1750
+jdeepenshort checks
+*** FLOP *** [Th 6c 7h]
+jptomasi checks
+jdeepenshort checks
+*** TURN *** [Th 6c 7h][Ac]
+jptomasi checks
+jdeepenshort checks
+*** RIVER *** [Th 6c 7h Ac][7c]
+jptomasi checks
+jdeepenshort checks
+*** SHOW DOWN ***
+jptomasi shows [3s Qd] (One pair : 7)
+jdeepenshort shows [Kh 2s] (One pair : 7)
+jdeepenshort collected 9400 from pot
+*** SUMMARY ***
+Total pot 9400 | No rake
+Board: [Th 6c 7h Ac 7c]
+Seat 3: jptomasi (small blind) showed [3s Qd] and lost with One pair : 7
+Seat 4: jdeepenshort (big blind) showed [Kh 2s] and won 9400 with One pair : 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3263880866685779979-98-1711397804 - Holdem no limit (400/1750/3500) - 2024/03/25 20:16:44 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: reidapega (279219)
+Seat 2: velka moklo (175426)
+Seat 3: jptomasi (84400)
+Seat 4: jdeepenshort (254182)
+Seat 5: A la bien 61 (148365)
+Seat 6: P1xel7 (117685)
+*** ANTE/BLINDS ***
+jdeepenshort posts ante 400
+A la bien 61 posts ante 400
+reidapega posts ante 400
+velka moklo posts ante 400
+jptomasi posts ante 400
+P1xel7 posts ante 400
+jdeepenshort posts small blind 1750
+A la bien 61 posts big blind 3500
+Dealt to P1xel7 [8c As]
+*** PRE-FLOP *** 
+P1xel7 folds
+reidapega folds
+velka moklo raises 3500 to 7000
+jptomasi folds
+jdeepenshort folds
+A la bien 61 calls 3500
+*** FLOP *** [Kc Jc 3h]
+A la bien 61 bets 14520
+velka moklo folds
+A la bien 61 collected 32670 from pot
+*** SUMMARY ***
+Total pot 32670 | No rake
+Board: [Kc Jc 3h]
+Seat 5: A la bien 61 (big blind) won 32670
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3263880866685779979-99-1711397832 - Holdem no limit (400/1750/3500) - 2024/03/25 20:17:12 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: reidapega (278819)
+Seat 2: velka moklo (168026)
+Seat 3: jptomasi (84000)
+Seat 4: jdeepenshort (252032)
+Seat 5: A la bien 61 (159115)
+Seat 6: P1xel7 (117285)
+*** ANTE/BLINDS ***
+A la bien 61 posts ante 400
+P1xel7 posts ante 400
+reidapega posts ante 400
+velka moklo posts ante 400
+jptomasi posts ante 400
+jdeepenshort posts ante 400
+A la bien 61 posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [3h Ts]
+*** PRE-FLOP *** 
+reidapega folds
+velka moklo folds
+jptomasi calls 3500
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 checks
+*** FLOP *** [Tc 9c 2c]
+P1xel7 bets 5575
+jptomasi folds
+P1xel7 collected 16725 from pot
+*** SUMMARY ***
+Total pot 16725 | No rake
+Board: [Tc 9c 2c]
+Seat 6: P1xel7 (big blind) won 16725
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3263880866685779979-100-1711397866 - Holdem no limit (400/1750/3500) - 2024/03/25 20:17:46 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: reidapega (278419)
+Seat 2: velka moklo (167626)
+Seat 3: jptomasi (80100)
+Seat 4: jdeepenshort (251632)
+Seat 5: A la bien 61 (156965)
+Seat 6: P1xel7 (124535)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+reidapega posts ante 400
+velka moklo posts ante 400
+jptomasi posts ante 400
+jdeepenshort posts ante 400
+A la bien 61 posts ante 400
+P1xel7 posts small blind 1750
+reidapega posts big blind 3500
+Dealt to P1xel7 [Qs Tc]
+*** PRE-FLOP *** 
+velka moklo folds
+jptomasi calls 3500
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 folds
+reidapega checks
+*** FLOP *** [5c 9d 4c]
+reidapega checks
+jptomasi checks
+*** TURN *** [5c 9d 4c][2c]
+reidapega bets 11150
+jptomasi folds
+reidapega collected 22300 from pot
+*** SUMMARY ***
+Total pot 22300 | No rake
+Board: [5c 9d 4c 2c]
+Seat 1: reidapega (big blind) won 22300
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3263880866685779979-101-1711397944 - Holdem no limit (500/2000/4000) - 2024/03/25 20:19:04 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: reidapega (285669)
+Seat 2: velka moklo (167226)
+Seat 3: jptomasi (76200)
+Seat 4: jdeepenshort (251232)
+Seat 5: A la bien 61 (156565)
+Seat 6: P1xel7 (122385)
+*** ANTE/BLINDS ***
+reidapega posts ante 500
+velka moklo posts ante 500
+jptomasi posts ante 500
+jdeepenshort posts ante 500
+A la bien 61 posts ante 500
+P1xel7 posts ante 500
+reidapega posts small blind 2000
+velka moklo posts big blind 4000
+Dealt to P1xel7 [5d 2h]
+*** PRE-FLOP *** 
+jptomasi calls 4000
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 folds
+reidapega calls 2000
+velka moklo checks
+*** FLOP *** [Ks Kh 3d]
+reidapega checks
+velka moklo checks
+jptomasi checks
+*** TURN *** [Ks Kh 3d][Ac]
+reidapega checks
+velka moklo checks
+jptomasi bets 5250
+reidapega folds
+velka moklo folds
+jptomasi collected 20250 from pot
+*** SUMMARY ***
+Total pot 20250 | No rake
+Board: [Ks Kh 3d Ac]
+Seat 3: jptomasi won 20250
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3263880866685779979-102-1711398030 - Holdem no limit (500/2000/4000) - 2024/03/25 20:20:30 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: reidapega (281169)
+Seat 2: velka moklo (162726)
+Seat 3: jptomasi (86700)
+Seat 4: jdeepenshort (250732)
+Seat 5: A la bien 61 (156065)
+Seat 6: P1xel7 (121885)
+*** ANTE/BLINDS ***
+velka moklo posts ante 500
+jptomasi posts ante 500
+reidapega posts ante 500
+jdeepenshort posts ante 500
+A la bien 61 posts ante 500
+P1xel7 posts ante 500
+velka moklo posts small blind 2000
+jptomasi posts big blind 4000
+Dealt to P1xel7 [Qd Jc]
+*** PRE-FLOP *** 
+jdeepenshort folds
+A la bien 61 calls 4000
+P1xel7 raises 10000 to 14000
+reidapega folds
+velka moklo folds
+jptomasi folds
+A la bien 61 calls 10000
+*** FLOP *** [7h Ts 3h]
+A la bien 61 checks
+P1xel7 checks
+*** TURN *** [7h Ts 3h][Tc]
+A la bien 61 bets 29600
+P1xel7 folds
+A la bien 61 collected 66600 from pot
+*** SUMMARY ***
+Total pot 66600 | No rake
+Board: [7h Ts 3h Tc]
+Seat 5: A la bien 61 won 66600
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3263880866685779979-103-1711398075 - Holdem no limit (500/2000/4000) - 2024/03/25 20:21:15 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: reidapega (280669)
+Seat 2: velka moklo (160226)
+Seat 3: jptomasi (82200)
+Seat 4: jdeepenshort (250232)
+Seat 5: A la bien 61 (178565)
+Seat 6: P1xel7 (107385)
+*** ANTE/BLINDS ***
+jptomasi posts ante 500
+jdeepenshort posts ante 500
+reidapega posts ante 500
+velka moklo posts ante 500
+A la bien 61 posts ante 500
+P1xel7 posts ante 500
+jptomasi posts small blind 2000
+jdeepenshort posts big blind 4000
+Dealt to P1xel7 [Jd 2s]
+*** PRE-FLOP *** 
+A la bien 61 folds
+P1xel7 folds
+reidapega calls 4000
+velka moklo folds
+jptomasi folds
+jdeepenshort checks
+*** FLOP *** [9c Ks 3h]
+jdeepenshort checks
+reidapega checks
+*** TURN *** [9c Ks 3h][Jh]
+jdeepenshort checks
+reidapega checks
+*** RIVER *** [9c Ks 3h Jh][4c]
+jdeepenshort checks
+reidapega checks
+*** SHOW DOWN ***
+reidapega shows [Ah Td] (High card : Ace)
+jdeepenshort shows [8h 4d] (One pair : 4)
+jdeepenshort collected 13000 from pot
+*** SUMMARY ***
+Total pot 13000 | No rake
+Board: [9c Ks 3h Jh 4c]
+Seat 1: reidapega showed [Ah Td] and lost with High card : Ace
+Seat 4: jdeepenshort (big blind) showed [8h 4d] and won 13000 with One pair : 4
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3263880866685779979-104-1711398180 - Holdem no limit (500/2000/4000) - 2024/03/25 20:23:00 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: reidapega (276169)
+Seat 2: velka moklo (159726)
+Seat 3: jptomasi (79700)
+Seat 4: jdeepenshort (258732)
+Seat 5: A la bien 61 (178065)
+Seat 6: P1xel7 (106885)
+*** ANTE/BLINDS ***
+jdeepenshort posts ante 500
+A la bien 61 posts ante 500
+reidapega posts ante 500
+velka moklo posts ante 500
+jptomasi posts ante 500
+P1xel7 posts ante 500
+jdeepenshort posts small blind 2000
+A la bien 61 posts big blind 4000
+Dealt to P1xel7 [Td 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+reidapega calls 4000
+velka moklo raises 10000 to 14000
+jptomasi folds
+jdeepenshort folds
+A la bien 61 folds
+reidapega folds
+velka moklo collected 27000 from pot
+*** SUMMARY ***
+Total pot 27000 | No rake
+Seat 2: velka moklo won 27000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3263880866685779979-105-1711398221 - Holdem no limit (500/2000/4000) - 2024/03/25 20:23:41 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: reidapega (271669)
+Seat 2: velka moklo (172226)
+Seat 3: jptomasi (79200)
+Seat 4: jdeepenshort (256232)
+Seat 5: A la bien 61 (173565)
+Seat 6: P1xel7 (106385)
+*** ANTE/BLINDS ***
+A la bien 61 posts ante 500
+P1xel7 posts ante 500
+reidapega posts ante 500
+velka moklo posts ante 500
+jptomasi posts ante 500
+jdeepenshort posts ante 500
+A la bien 61 posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [4c Kc]
+*** PRE-FLOP *** 
+reidapega folds
+velka moklo folds
+jptomasi calls 4000
+jdeepenshort calls 4000
+A la bien 61 calls 2000
+P1xel7 checks
+*** FLOP *** [Kd 2h 7s]
+A la bien 61 bets 4000
+P1xel7 calls 4000
+jptomasi calls 4000
+jdeepenshort folds
+*** TURN *** [Kd 2h 7s][6d]
+A la bien 61 bets 7750
+P1xel7 calls 7750
+jptomasi raises 62950 to 70700 and is all-in
+A la bien 61 calls 62950
+P1xel7 folds
+*** RIVER *** [Kd 2h 7s 6d][Qh]
+*** SHOW DOWN ***
+A la bien 61 shows [7d 4d] (One pair : 7)
+jptomasi shows [Th Ks] (One pair : Kings)
+jptomasi collected 180150 from pot
+*** SUMMARY ***
+Total pot 180150 | No rake
+Board: [Kd 2h 7s 6d Qh]
+Seat 3: jptomasi showed [Th Ks] and won 180150 with One pair : Kings
+Seat 5: A la bien 61 (small blind) showed [7d 4d] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3263880866685779979-106-1711398295 - Holdem no limit (500/2000/4000) - 2024/03/25 20:24:55 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #5 is the button
+Seat 1: reidapega (271169)
+Seat 2: velka moklo (171726)
+Seat 3: jptomasi (180150)
+Seat 4: jdeepenshort (251732)
+Seat 5: A la bien 61 (94365)
+Seat 6: P1xel7 (90135)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+reidapega posts ante 500
+velka moklo posts ante 500
+jptomasi posts ante 500
+jdeepenshort posts ante 500
+A la bien 61 posts ante 500
+P1xel7 posts small blind 2000
+reidapega posts big blind 4000
+Dealt to P1xel7 [Js Kd]
+*** PRE-FLOP *** 
+velka moklo folds
+jptomasi folds
+jdeepenshort folds
+A la bien 61 raises 89865 to 93865 and is all-in
+P1xel7 folds
+reidapega folds
+A la bien 61 collected 102865 from pot
+*** SUMMARY ***
+Total pot 102865 | No rake
+Seat 5: A la bien 61 (button) won 102865
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3263880866685779979-107-1711398344 - Holdem no limit (500/2000/4000) - 2024/03/25 20:25:44 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #6 is the button
+Seat 1: reidapega (266669)
+Seat 2: velka moklo (171226)
+Seat 3: jptomasi (179650)
+Seat 4: jdeepenshort (251232)
+Seat 5: A la bien 61 (102865)
+Seat 6: P1xel7 (87635)
+*** ANTE/BLINDS ***
+reidapega posts ante 500
+velka moklo posts ante 500
+jptomasi posts ante 500
+jdeepenshort posts ante 500
+A la bien 61 posts ante 500
+P1xel7 posts ante 500
+reidapega posts small blind 2000
+velka moklo posts big blind 4000
+Dealt to P1xel7 [4s 3s]
+*** PRE-FLOP *** 
+jptomasi folds
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 raises 4000 to 8000
+reidapega calls 6000
+velka moklo calls 4000
+*** FLOP *** [Td Qs Jd]
+reidapega bets 27000
+velka moklo folds
+P1xel7 folds
+reidapega collected 54000 from pot
+*** SUMMARY ***
+Total pot 54000 | No rake
+Board: [Td Qs Jd]
+Seat 1: reidapega (small blind) won 54000
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3263880866685779979-108-1711398378 - Holdem no limit (600/2500/5000) - 2024/03/25 20:26:18 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #1 is the button
+Seat 1: reidapega (285169)
+Seat 2: velka moklo (162726)
+Seat 3: jptomasi (179150)
+Seat 4: jdeepenshort (250732)
+Seat 5: A la bien 61 (102365)
+Seat 6: P1xel7 (79135)
+*** ANTE/BLINDS ***
+velka moklo posts ante 600
+jptomasi posts ante 600
+reidapega posts ante 600
+jdeepenshort posts ante 600
+A la bien 61 posts ante 600
+P1xel7 posts ante 600
+velka moklo posts small blind 2500
+jptomasi posts big blind 5000
+Dealt to P1xel7 [Ts Js]
+*** PRE-FLOP *** 
+jdeepenshort folds
+A la bien 61 raises 96765 to 101765 and is all-in
+P1xel7 folds
+reidapega folds
+velka moklo raises 60361 to 162126 and is all-in
+jptomasi folds
+*** FLOP *** [6s Qd 5h]
+*** TURN *** [6s Qd 5h][Ac]
+*** RIVER *** [6s Qd 5h Ac][4c]
+*** SHOW DOWN ***
+velka moklo shows [9s 9c] (One pair : 9)
+A la bien 61 shows [Ad 7d] (One pair : Aces)
+A la bien 61 collected 212130 from main pot
+velka moklo collected 60361 from side pot 1
+*** SUMMARY ***
+Total pot 272491 | No rake
+Board: [6s Qd 5h Ac 4c]
+Seat 2: velka moklo (small blind) showed [9s 9c] and won 60361 with One pair : 9
+Seat 5: A la bien 61 showed [Ad 7d] and won 212130 with One pair : Aces
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3263880866685779979-109-1711398426 - Holdem no limit (600/2500/5000) - 2024/03/25 20:27:06 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #2 is the button
+Seat 1: reidapega (284569)
+Seat 2: velka moklo (60361)
+Seat 3: jptomasi (173550)
+Seat 4: jdeepenshort (250132)
+Seat 5: A la bien 61 (212130)
+Seat 6: P1xel7 (78535)
+*** ANTE/BLINDS ***
+jptomasi posts ante 600
+jdeepenshort posts ante 600
+reidapega posts ante 600
+velka moklo posts ante 600
+A la bien 61 posts ante 600
+P1xel7 posts ante 600
+jptomasi posts small blind 2500
+jdeepenshort posts big blind 5000
+Dealt to P1xel7 [Tc Td]
+*** PRE-FLOP *** 
+A la bien 61 folds
+P1xel7 raises 7500 to 12500
+reidapega calls 12500
+velka moklo raises 47261 to 59761 and is all-in
+jptomasi folds
+jdeepenshort folds
+P1xel7 calls 47261
+reidapega folds
+*** FLOP *** [7d 3c 3s]
+*** TURN *** [7d 3c 3s][Kc]
+*** RIVER *** [7d 3c 3s Kc][Js]
+*** SHOW DOWN ***
+P1xel7 shows [Tc Td] (Two pairs : Tens and 3)
+velka moklo shows [Ac Ad] (Two pairs : Aces and 3)
+velka moklo collected 143122 from pot
+*** SUMMARY ***
+Total pot 143122 | No rake
+Board: [7d 3c 3s Kc Js]
+Seat 2: velka moklo (button) showed [Ac Ad] and won 143122 with Two pairs : Aces and 3
+Seat 6: P1xel7 showed [Tc Td] and lost with Two pairs : Tens and 3
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3263880866685779979-110-1711398457 - Holdem no limit (600/2500/5000) - 2024/03/25 20:27:37 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #3 is the button
+Seat 1: reidapega (271469)
+Seat 2: velka moklo (143122)
+Seat 3: jptomasi (170450)
+Seat 4: jdeepenshort (244532)
+Seat 5: A la bien 61 (211530)
+Seat 6: P1xel7 (18174)
+*** ANTE/BLINDS ***
+jdeepenshort posts ante 600
+A la bien 61 posts ante 600
+reidapega posts ante 600
+velka moklo posts ante 600
+jptomasi posts ante 600
+P1xel7 posts ante 600
+jdeepenshort posts small blind 2500
+A la bien 61 posts big blind 5000
+Dealt to P1xel7 [3d 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+reidapega calls 5000
+velka moklo folds
+jptomasi folds
+jdeepenshort folds
+A la bien 61 checks
+*** FLOP *** [7d 2h 6d]
+A la bien 61 bets 12880
+reidapega calls 12880
+*** TURN *** [7d 2h 6d][Jc]
+A la bien 61 bets 33488
+reidapega calls 33488
+*** RIVER *** [7d 2h 6d Jc][5h]
+A la bien 61 bets 108836
+reidapega folds
+A la bien 61 shows [7s Js] (Two pairs : Jacks and 7)
+A la bien 61 collected 217672 from pot
+*** SUMMARY ***
+Total pot 217672 | No rake
+Board: [7d 2h 6d Jc 5h]
+Seat 5: A la bien 61 (big blind) showed [7s Js] and won 217672 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Monster Stack" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3263880866685779979-111-1711398517 - Holdem no limit (600/2500/5000) - 2024/03/25 20:28:37 UTC
+Table: 'Monster Stack(759931483)#0010' 6-max (real money) Seat #4 is the button
+Seat 1: reidapega (219501)
+Seat 2: velka moklo (142522)
+Seat 3: jptomasi (169850)
+Seat 4: jdeepenshort (241432)
+Seat 5: A la bien 61 (268398)
+Seat 6: P1xel7 (17574)
+*** ANTE/BLINDS ***
+A la bien 61 posts ante 600
+P1xel7 posts ante 600
+reidapega posts ante 600
+velka moklo posts ante 600
+jptomasi posts ante 600
+jdeepenshort posts ante 600
+A la bien 61 posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [4s Jd]
+*** PRE-FLOP *** 
+reidapega raises 213901 to 218901 and is all-in
+velka moklo folds
+jptomasi folds
+jdeepenshort folds
+A la bien 61 folds
+P1xel7 calls 11974 and is all-in
+*** FLOP *** [4h Qs 7s]
+*** TURN *** [4h Qs 7s][6s]
+*** RIVER *** [4h Qs 7s 6s][9d]
+*** SHOW DOWN ***
+P1xel7 shows [4s Jd] (One pair : 4)
+reidapega shows [Js As] (Flush Ace high)
+reidapega collected 241975 from pot
+*** SUMMARY ***
+Total pot 241975 | No rake
+Board: [4h Qs 7s 6s 9d]
+Seat 1: reidapega showed [Js As] and won 241975 with Flush Ace high
+Seat 6: P1xel7 (big blind) showed [4s Jd] and lost with One pair : 4
+
+

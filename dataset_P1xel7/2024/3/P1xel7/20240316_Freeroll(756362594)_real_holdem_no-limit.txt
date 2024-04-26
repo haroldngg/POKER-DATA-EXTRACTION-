@@ -1,0 +1,2736 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3248552605147726059-1-1710610224 - Holdem no limit (25/100/200) - 2024/03/16 17:30:24 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #2 is the button
+Seat 1: elrital86 (20000)
+Seat 2: Fre2d4459 (20000)
+Seat 3: Fick& (20000)
+Seat 4: loumath78 (20000)
+Seat 5: P1xel7 (20000)
+Seat 6: TobiasOranje (20000)
+*** ANTE/BLINDS ***
+Fick& posts ante 25
+loumath78 posts ante 25
+elrital86 posts ante 25
+Fre2d4459 posts ante 25
+P1xel7 posts ante 25
+TobiasOranje posts ante 25
+Fick& posts small blind 100
+loumath78 posts big blind 200
+Dealt to P1xel7 [7s 6h]
+*** PRE-FLOP *** 
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 folds
+Fick& calls 100
+loumath78 checks
+*** FLOP *** [2d Kd Qh]
+Fick& checks
+loumath78 bets 200
+Fick& folds
+loumath78 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | No rake
+Board: [2d Kd Qh]
+Seat 4: loumath78 (big blind) won 750
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3248552605147726059-2-1710610477 - Holdem no limit (25/100/200) - 2024/03/16 17:34:37 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: elrital86 (19975)
+Seat 2: Fre2d4459 (19975)
+Seat 3: Fick& (19775)
+Seat 4: loumath78 (20325)
+Seat 5: P1xel7 (19975)
+Seat 6: TobiasOranje (19975)
+*** ANTE/BLINDS ***
+loumath78 posts ante 25
+P1xel7 posts ante 25
+elrital86 posts ante 25
+Fre2d4459 posts ante 25
+Fick& posts ante 25
+TobiasOranje posts ante 25
+loumath78 posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [5c 8h]
+*** PRE-FLOP *** 
+TobiasOranje calls 200
+elrital86 folds
+Fre2d4459 raises 850 to 1050
+Fick& raises 2750 to 3800
+loumath78 calls 3700
+P1xel7 folds
+TobiasOranje folds
+Fre2d4459 raises 2750 to 6550
+Fick& raises 13200 to 19750 and is all-in
+loumath78 folds
+Fre2d4459 raises 200 to 19950 and is all-in
+*** FLOP *** [7d 6c 5s]
+*** TURN *** [7d 6c 5s][Jd]
+*** RIVER *** [7d 6c 5s Jd][2h]
+*** SHOW DOWN ***
+Fick& shows [Tc Ts] (One pair : Tens)
+Fre2d4459 shows [Ac Ah] (One pair : Aces)
+Fre2d4459 collected 44050 from pot
+*** SUMMARY ***
+Total pot 44050 | No rake
+Board: [7d 6c 5s Jd 2h]
+Seat 2: Fre2d4459 showed [Ac Ah] and won 44050 with One pair : Aces
+Seat 3: Fick& (button) showed [Tc Ts] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3248552605147726059-3-1710610557 - Holdem no limit (25/100/200) - 2024/03/16 17:35:57 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: elrital86 (19950)
+Seat 2: Fre2d4459 (44050)
+Seat 4: loumath78 (16500)
+Seat 5: P1xel7 (19750)
+Seat 6: TobiasOranje (19750)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+TobiasOranje posts ante 25
+elrital86 posts ante 25
+Fre2d4459 posts ante 25
+loumath78 posts ante 25
+P1xel7 posts small blind 100
+TobiasOranje posts big blind 200
+Dealt to P1xel7 [8c 6s]
+*** PRE-FLOP *** 
+elrital86 calls 200
+Fre2d4459 raises 300 to 500
+loumath78 calls 500
+P1xel7 folds
+TobiasOranje calls 300
+elrital86 calls 300
+*** FLOP *** [Qs 7h As]
+TobiasOranje checks
+elrital86 checks
+Fre2d4459 checks
+loumath78 checks
+*** TURN *** [Qs 7h As][3c]
+TobiasOranje bets 779
+elrital86 calls 779
+Fre2d4459 folds
+loumath78 calls 779
+*** RIVER *** [Qs 7h As 3c][8s]
+TobiasOranje checks
+elrital86 bets 200
+loumath78 calls 200
+TobiasOranje folds
+*** SHOW DOWN ***
+loumath78 shows [Jh Qc] (One pair : Queens)
+elrital86 shows [Ks Qh] (One pair : Queens)
+elrital86 collected 4962 from pot
+*** SUMMARY ***
+Total pot 4962 | No rake
+Board: [Qs 7h As 3c 8s]
+Seat 1: elrital86 showed [Ks Qh] and won 4962 with One pair : Queens
+Seat 4: loumath78 (button) showed [Jh Qc] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3248552605147726059-4-1710610671 - Holdem no limit (25/100/200) - 2024/03/16 17:37:51 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: elrital86 (23408)
+Seat 2: Fre2d4459 (43525)
+Seat 3: Forza petro (20000)
+Seat 4: loumath78 (14996)
+Seat 5: P1xel7 (19625)
+Seat 6: TobiasOranje (18446)
+*** ANTE/BLINDS ***
+TobiasOranje posts ante 25
+elrital86 posts ante 25
+Fre2d4459 posts ante 25
+Forza petro posts ante 25
+loumath78 posts ante 25
+P1xel7 posts ante 25
+TobiasOranje posts small blind 100
+elrital86 posts big blind 200
+Dealt to P1xel7 [6d 2d]
+*** PRE-FLOP *** 
+Fre2d4459 raises 300 to 500
+Forza petro raises 750 to 1250
+loumath78 folds
+P1xel7 folds
+TobiasOranje calls 1150
+elrital86 folds
+Fre2d4459 calls 750
+*** FLOP *** [Ks Ad 2c]
+TobiasOranje bets 1435
+Fre2d4459 folds
+Forza petro calls 1435
+*** TURN *** [Ks Ad 2c][Th]
+TobiasOranje checks
+Forza petro checks
+*** RIVER *** [Ks Ad 2c Th][3s]
+TobiasOranje bets 6970
+Forza petro folds
+TobiasOranje collected 13940 from pot
+*** SUMMARY ***
+Total pot 13940 | No rake
+Board: [Ks Ad 2c Th 3s]
+Seat 6: TobiasOranje (small blind) won 13940
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3248552605147726059-5-1710610755 - Holdem no limit (25/100/200) - 2024/03/16 17:39:15 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #6 is the button
+Seat 1: elrital86 (23183)
+Seat 2: Fre2d4459 (42250)
+Seat 3: Forza petro (17290)
+Seat 4: loumath78 (14971)
+Seat 5: P1xel7 (19600)
+Seat 6: TobiasOranje (22706)
+*** ANTE/BLINDS ***
+elrital86 posts ante 25
+Fre2d4459 posts ante 25
+Forza petro posts ante 25
+loumath78 posts ante 25
+P1xel7 posts ante 25
+TobiasOranje posts ante 25
+elrital86 posts small blind 100
+Fre2d4459 posts big blind 200
+Dealt to P1xel7 [Ts Js]
+*** PRE-FLOP *** 
+Forza petro calls 200
+loumath78 calls 200
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 raises 850 to 1050
+Forza petro calls 850
+loumath78 calls 850
+*** FLOP *** [7d As 7s]
+Fre2d4459 bets 1190
+Forza petro folds
+loumath78 calls 1190
+*** TURN *** [7d As 7s][Kd]
+Fre2d4459 bets 200
+loumath78 calls 200
+*** RIVER *** [7d As 7s Kd][4h]
+Fre2d4459 bets 200
+loumath78 calls 200
+*** SHOW DOWN ***
+Fre2d4459 shows [5s Qs] (One pair : 7)
+loumath78 shows [6d Ad] (Two pairs : Aces and 7)
+loumath78 collected 6580 from pot
+*** SUMMARY ***
+Total pot 6580 | No rake
+Board: [7d As 7s Kd 4h]
+Seat 2: Fre2d4459 (big blind) showed [5s Qs] and lost with One pair : 7
+Seat 4: loumath78 showed [6d Ad] and won 6580 with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3248552605147726059-6-1710610870 - Holdem no limit (25/100/200) - 2024/03/16 17:41:10 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #1 is the button
+Seat 1: elrital86 (23058)
+Seat 2: Fre2d4459 (39585)
+Seat 3: Forza petro (16215)
+Seat 4: loumath78 (18886)
+Seat 5: P1xel7 (19575)
+Seat 6: TobiasOranje (22681)
+*** ANTE/BLINDS ***
+Fre2d4459 posts ante 25
+Forza petro posts ante 25
+elrital86 posts ante 25
+loumath78 posts ante 25
+P1xel7 posts ante 25
+TobiasOranje posts ante 25
+Fre2d4459 posts small blind 100
+Forza petro posts big blind 200
+Dealt to P1xel7 [Ah 8h]
+*** PRE-FLOP *** 
+loumath78 folds
+P1xel7 raises 200 to 400
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 calls 300
+Forza petro calls 200
+*** FLOP *** [Ks Kd Qd]
+Fre2d4459 checks
+Forza petro bets 878
+P1xel7 folds
+Fre2d4459 folds
+Forza petro collected 2228 from pot
+*** SUMMARY ***
+Total pot 2228 | No rake
+Board: [Ks Kd Qd]
+Seat 3: Forza petro (big blind) won 2228
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3248552605147726059-7-1710610927 - Holdem no limit (25/100/200) - 2024/03/16 17:42:07 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #2 is the button
+Seat 1: elrital86 (23033)
+Seat 2: Fre2d4459 (39160)
+Seat 3: Forza petro (17140)
+Seat 4: loumath78 (18861)
+Seat 5: P1xel7 (19150)
+Seat 6: TobiasOranje (22656)
+*** ANTE/BLINDS ***
+Forza petro posts ante 25
+loumath78 posts ante 25
+elrital86 posts ante 25
+Fre2d4459 posts ante 25
+P1xel7 posts ante 25
+TobiasOranje posts ante 25
+Forza petro posts small blind 100
+loumath78 posts big blind 200
+Dealt to P1xel7 [2h 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+TobiasOranje calls 200
+elrital86 folds
+Fre2d4459 raises 300 to 500
+Forza petro calls 400
+loumath78 calls 300
+TobiasOranje calls 300
+*** FLOP *** [Jd Jh 9d]
+Forza petro bets 2150
+loumath78 calls 2150
+TobiasOranje folds
+Fre2d4459 calls 2150
+*** TURN *** [Jd Jh 9d][Qc]
+Forza petro bets 14465 and is all-in
+loumath78 raises 1721 to 16186 and is all-in
+Fre2d4459 folds
+*** RIVER *** [Jd Jh 9d Qc][8c]
+*** SHOW DOWN ***
+Forza petro shows [6d 5d] (One pair : Jacks)
+loumath78 shows [Qd Qh] (Full of Queens and Jacks)
+loumath78 collected 39251 from pot
+*** SUMMARY ***
+Total pot 39251 | No rake
+Board: [Jd Jh 9d Qc 8c]
+Seat 3: Forza petro (small blind) showed [6d 5d] and lost with One pair : Jacks
+Seat 4: loumath78 (big blind) showed [Qd Qh] and won 39251 with Full of Queens and Jacks
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3248552605147726059-8-1710611007 - Holdem no limit (30/125/250) - 2024/03/16 17:43:27 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: elrital86 (23008)
+Seat 2: Fre2d4459 (36485)
+Seat 4: loumath78 (39251)
+Seat 5: P1xel7 (19125)
+Seat 6: TobiasOranje (22131)
+*** ANTE/BLINDS ***
+loumath78 posts ante 30
+P1xel7 posts ante 30
+elrital86 posts ante 30
+Fre2d4459 posts ante 30
+TobiasOranje posts ante 30
+loumath78 posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [Kd 6c]
+*** PRE-FLOP *** 
+TobiasOranje calls 250
+elrital86 folds
+Fre2d4459 calls 250
+loumath78 folds
+P1xel7 checks
+*** FLOP *** [6h Th 7h]
+P1xel7 checks
+TobiasOranje checks
+Fre2d4459 checks
+*** TURN *** [6h Th 7h][Jc]
+P1xel7 checks
+TobiasOranje checks
+Fre2d4459 checks
+*** RIVER *** [6h Th 7h Jc][7d]
+P1xel7 checks
+TobiasOranje bets 250
+Fre2d4459 folds
+P1xel7 folds
+TobiasOranje collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | No rake
+Board: [6h Th 7h Jc 7d]
+Seat 6: TobiasOranje won 1275
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3248552605147726059-9-1710611112 - Holdem no limit (30/125/250) - 2024/03/16 17:45:12 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: elrital86 (22978)
+Seat 2: Fre2d4459 (36205)
+Seat 3: wmx-fk3n7ye (20000)
+Seat 4: loumath78 (39096)
+Seat 5: P1xel7 (18845)
+Seat 6: TobiasOranje (22876)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 30
+TobiasOranje posts ante 30
+elrital86 posts ante 30
+Fre2d4459 posts ante 30
+wmx-fk3n7ye posts ante 30
+loumath78 posts ante 30
+P1xel7 posts small blind 125
+TobiasOranje posts big blind 250
+Dealt to P1xel7 [7d 6c]
+*** PRE-FLOP *** 
+elrital86 folds
+Fre2d4459 raises 250 to 500
+wmx-fk3n7ye calls 500
+loumath78 folds
+P1xel7 folds
+TobiasOranje calls 250
+*** FLOP *** [9d 4d Ad]
+TobiasOranje checks
+Fre2d4459 bets 632
+wmx-fk3n7ye raises 3069 to 3701
+TobiasOranje calls 3701
+Fre2d4459 folds
+*** TURN *** [9d 4d Ad][Js]
+TobiasOranje checks
+wmx-fk3n7ye bets 15769 and is all-in
+TobiasOranje calls 15769
+*** RIVER *** [9d 4d Ad Js][3d]
+*** SHOW DOWN ***
+wmx-fk3n7ye shows [Jd 2s] (Flush Ace high)
+TobiasOranje shows [Kd 7c] (Flush Ace high)
+TobiasOranje collected 41377 from pot
+*** SUMMARY ***
+Total pot 41377 | No rake
+Board: [9d 4d Ad Js 3d]
+Seat 3: wmx-fk3n7ye showed [Jd 2s] and lost with Flush Ace high
+Seat 6: TobiasOranje (big blind) showed [Kd 7c] and won 41377 with Flush Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3248552605147726059-10-1710611202 - Holdem no limit (35/150/300) - 2024/03/16 17:46:42 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: elrital86 (22948)
+Seat 2: Fre2d4459 (35043)
+Seat 4: loumath78 (39066)
+Seat 5: P1xel7 (18690)
+Seat 6: TobiasOranje (44253)
+*** ANTE/BLINDS ***
+TobiasOranje posts ante 35
+elrital86 posts ante 35
+Fre2d4459 posts ante 35
+loumath78 posts ante 35
+P1xel7 posts ante 35
+TobiasOranje posts small blind 150
+elrital86 posts big blind 300
+Dealt to P1xel7 [2h 5d]
+*** PRE-FLOP *** 
+Fre2d4459 raises 300 to 600
+loumath78 folds
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 collected 1225 from pot
+*** SUMMARY ***
+Total pot 1225 | No rake
+Seat 2: Fre2d4459 won 1225
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3248552605147726059-11-1710611246 - Holdem no limit (35/150/300) - 2024/03/16 17:47:26 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #6 is the button
+Seat 1: elrital86 (22613)
+Seat 2: Fre2d4459 (35633)
+Seat 3: D.C.L.P (20000)
+Seat 4: loumath78 (39031)
+Seat 5: P1xel7 (18655)
+Seat 6: TobiasOranje (44068)
+*** ANTE/BLINDS ***
+elrital86 posts ante 35
+Fre2d4459 posts ante 35
+D.C.L.P posts ante 35
+loumath78 posts ante 35
+P1xel7 posts ante 35
+TobiasOranje posts ante 35
+elrital86 posts small blind 150
+Fre2d4459 posts big blind 300
+Dealt to P1xel7 [8c 7c]
+*** PRE-FLOP *** 
+D.C.L.P calls 300
+loumath78 folds
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 raises 300 to 600
+D.C.L.P calls 300
+*** FLOP *** [Td 8d 8h]
+Fre2d4459 bets 300
+D.C.L.P calls 300
+*** TURN *** [Td 8d 8h][2d]
+Fre2d4459 bets 300
+D.C.L.P calls 300
+*** RIVER *** [Td 8d 8h 2d][Ks]
+Fre2d4459 checks
+D.C.L.P checks
+*** SHOW DOWN ***
+Fre2d4459 shows [Jc 9s] (One pair : 8)
+D.C.L.P shows [Kc Qc] (Two pairs : Kings and 8)
+D.C.L.P collected 2760 from pot
+*** SUMMARY ***
+Total pot 2760 | No rake
+Board: [Td 8d 8h 2d Ks]
+Seat 2: Fre2d4459 (big blind) showed [Jc 9s] and lost with One pair : 8
+Seat 3: D.C.L.P showed [Kc Qc] and won 2760 with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3248552605147726059-12-1710611334 - Holdem no limit (40/175/350) - 2024/03/16 17:48:54 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #1 is the button
+Seat 1: elrital86 (22428)
+Seat 2: Fre2d4459 (34398)
+Seat 3: D.C.L.P (21525)
+Seat 4: loumath78 (38996)
+Seat 5: P1xel7 (18620)
+Seat 6: TobiasOranje (44033)
+*** ANTE/BLINDS ***
+Fre2d4459 posts ante 40
+D.C.L.P posts ante 40
+elrital86 posts ante 40
+loumath78 posts ante 40
+P1xel7 posts ante 40
+TobiasOranje posts ante 40
+Fre2d4459 posts small blind 175
+D.C.L.P posts big blind 350
+Dealt to P1xel7 [2c Kd]
+*** PRE-FLOP *** 
+loumath78 calls 350
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 folds
+D.C.L.P checks
+*** FLOP *** [8c 4h Ks]
+D.C.L.P checks
+loumath78 checks
+*** TURN *** [8c 4h Ks][7s]
+D.C.L.P checks
+loumath78 bets 1115
+D.C.L.P calls 1115
+*** RIVER *** [8c 4h Ks 7s][Kh]
+D.C.L.P checks
+loumath78 bets 3345
+D.C.L.P folds
+loumath78 collected 6690 from pot
+*** SUMMARY ***
+Total pot 6690 | No rake
+Board: [8c 4h Ks 7s Kh]
+Seat 4: loumath78 won 6690
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3248552605147726059-13-1710611442 - Holdem no limit (40/175/350) - 2024/03/16 17:50:42 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #2 is the button
+Seat 1: elrital86 (22388)
+Seat 2: Fre2d4459 (34183)
+Seat 3: D.C.L.P (20020)
+Seat 4: loumath78 (40836)
+Seat 5: P1xel7 (18580)
+Seat 6: TobiasOranje (43993)
+*** ANTE/BLINDS ***
+D.C.L.P posts ante 40
+loumath78 posts ante 40
+elrital86 posts ante 40
+Fre2d4459 posts ante 40
+P1xel7 posts ante 40
+TobiasOranje posts ante 40
+D.C.L.P posts small blind 175
+loumath78 posts big blind 350
+Dealt to P1xel7 [Jd 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+TobiasOranje calls 350
+elrital86 folds
+Fre2d4459 calls 350
+D.C.L.P calls 175
+loumath78 checks
+*** FLOP *** [Kh 6c 3c]
+D.C.L.P checks
+loumath78 checks
+TobiasOranje bets 350
+Fre2d4459 calls 350
+D.C.L.P calls 350
+loumath78 folds
+*** TURN *** [Kh 6c 3c][Qh]
+D.C.L.P checks
+TobiasOranje checks
+Fre2d4459 bets 350
+D.C.L.P calls 350
+TobiasOranje calls 350
+*** RIVER *** [Kh 6c 3c Qh][4c]
+D.C.L.P checks
+TobiasOranje checks
+Fre2d4459 bets 5315
+D.C.L.P folds
+TobiasOranje folds
+Fre2d4459 collected 9055 from pot
+*** SUMMARY ***
+Total pot 9055 | No rake
+Board: [Kh 6c 3c Qh 4c]
+Seat 2: Fre2d4459 (button) won 9055
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3248552605147726059-14-1710611541 - Holdem no limit (50/200/400) - 2024/03/16 17:52:21 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: elrital86 (22348)
+Seat 2: Fre2d4459 (36833)
+Seat 3: D.C.L.P (18930)
+Seat 4: loumath78 (40446)
+Seat 5: P1xel7 (18540)
+Seat 6: TobiasOranje (42903)
+*** ANTE/BLINDS ***
+loumath78 posts ante 50
+P1xel7 posts ante 50
+elrital86 posts ante 50
+Fre2d4459 posts ante 50
+D.C.L.P posts ante 50
+TobiasOranje posts ante 50
+loumath78 posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Jh 5c]
+*** PRE-FLOP *** 
+TobiasOranje calls 400
+elrital86 folds
+Fre2d4459 calls 400
+D.C.L.P calls 400
+loumath78 folds
+P1xel7 checks
+*** FLOP *** [5h Kd 7s]
+P1xel7 checks
+TobiasOranje bets 735
+Fre2d4459 folds
+D.C.L.P folds
+P1xel7 folds
+TobiasOranje collected 2835 from pot
+*** SUMMARY ***
+Total pot 2835 | No rake
+Board: [5h Kd 7s]
+Seat 6: TobiasOranje won 2835
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3248552605147726059-15-1710611596 - Holdem no limit (50/200/400) - 2024/03/16 17:53:16 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: elrital86 (22298)
+Seat 2: Fre2d4459 (36383)
+Seat 3: D.C.L.P (18480)
+Seat 4: loumath78 (40196)
+Seat 5: P1xel7 (18090)
+Seat 6: TobiasOranje (44553)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+TobiasOranje posts ante 50
+elrital86 posts ante 50
+Fre2d4459 posts ante 50
+D.C.L.P posts ante 50
+loumath78 posts ante 50
+P1xel7 posts small blind 200
+TobiasOranje posts big blind 400
+Dealt to P1xel7 [9s Jh]
+*** PRE-FLOP *** 
+elrital86 folds
+Fre2d4459 folds
+D.C.L.P folds
+loumath78 folds
+P1xel7 raises 1000 to 1400
+TobiasOranje calls 1000
+*** FLOP *** [Kc 3s 6d]
+P1xel7 checks
+TobiasOranje checks
+*** TURN *** [Kc 3s 6d][Qc]
+P1xel7 checks
+TobiasOranje bets 1085
+P1xel7 folds
+TobiasOranje collected 4185 from pot
+*** SUMMARY ***
+Total pot 4185 | No rake
+Board: [Kc 3s 6d Qc]
+Seat 6: TobiasOranje (big blind) won 4185
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3248552605147726059-16-1710611685 - Holdem no limit (60/250/500) - 2024/03/16 17:54:45 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: elrital86 (22248)
+Seat 2: Fre2d4459 (36333)
+Seat 3: D.C.L.P (18430)
+Seat 4: loumath78 (40146)
+Seat 5: P1xel7 (16640)
+Seat 6: TobiasOranje (46203)
+*** ANTE/BLINDS ***
+TobiasOranje posts ante 60
+elrital86 posts ante 60
+Fre2d4459 posts ante 60
+D.C.L.P posts ante 60
+loumath78 posts ante 60
+P1xel7 posts ante 60
+TobiasOranje posts small blind 250
+elrital86 posts big blind 500
+Dealt to P1xel7 [7d 9d]
+*** PRE-FLOP *** 
+Fre2d4459 calls 500
+D.C.L.P calls 500
+loumath78 calls 500
+P1xel7 folds
+TobiasOranje calls 250
+elrital86 checks
+*** FLOP *** [Ah 9s 3d]
+TobiasOranje checks
+elrital86 bets 500
+Fre2d4459 folds
+D.C.L.P folds
+loumath78 calls 500
+TobiasOranje calls 500
+*** TURN *** [Ah 9s 3d][5s]
+TobiasOranje checks
+elrital86 bets 500
+loumath78 folds
+TobiasOranje calls 500
+*** RIVER *** [Ah 9s 3d 5s][4s]
+TobiasOranje checks
+elrital86 checks
+*** SHOW DOWN ***
+TobiasOranje shows [8c 7h] (High card : Ace)
+elrital86 shows [Ad 6d] (One pair : Aces)
+elrital86 collected 5360 from pot
+*** SUMMARY ***
+Total pot 5360 | No rake
+Board: [Ah 9s 3d 5s 4s]
+Seat 1: elrital86 (big blind) showed [Ad 6d] and won 5360 with One pair : Aces
+Seat 6: TobiasOranje (small blind) showed [8c 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 6 - HandId: #3248552605147726059-17-1710612061 - Holdem no limit (60/250/500) - 2024/03/16 18:01:01 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #6 is the button
+Seat 1: elrital86 (26048)
+Seat 2: Fre2d4459 (35773)
+Seat 3: D.C.L.P (17870)
+Seat 4: loumath78 (39086)
+Seat 5: P1xel7 (16580)
+Seat 6: TobiasOranje (44643)
+*** ANTE/BLINDS ***
+elrital86 posts ante 60
+Fre2d4459 posts ante 60
+D.C.L.P posts ante 60
+loumath78 posts ante 60
+P1xel7 posts ante 60
+TobiasOranje posts ante 60
+elrital86 posts small blind 250
+Fre2d4459 posts big blind 500
+Dealt to P1xel7 [Ah 2h]
+*** PRE-FLOP *** 
+D.C.L.P folds
+loumath78 calls 500
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 raises 500 to 1000
+loumath78 calls 500
+*** FLOP *** [4h 6c 7h]
+Fre2d4459 bets 500
+loumath78 calls 500
+*** TURN *** [4h 6c 7h][Jc]
+Fre2d4459 bets 500
+loumath78 calls 500
+*** RIVER *** [4h 6c 7h Jc][3d]
+Fre2d4459 checks
+loumath78 bets 4610
+Fre2d4459 folds
+loumath78 collected 9220 from pot
+*** SUMMARY ***
+Total pot 9220 | No rake
+Board: [4h 6c 7h Jc 3d]
+Seat 4: loumath78 won 9220
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3248552605147726059-18-1710612269 - Holdem no limit (80/350/700) - 2024/03/16 18:04:29 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #1 is the button
+Seat 1: elrital86 (25738)
+Seat 2: Fre2d4459 (33713)
+Seat 3: D.C.L.P (17810)
+Seat 4: loumath78 (41636)
+Seat 5: P1xel7 (16520)
+Seat 6: TobiasOranje (44583)
+*** ANTE/BLINDS ***
+Fre2d4459 posts ante 80
+D.C.L.P posts ante 80
+elrital86 posts ante 80
+loumath78 posts ante 80
+P1xel7 posts ante 80
+TobiasOranje posts ante 80
+Fre2d4459 posts small blind 350
+D.C.L.P posts big blind 700
+Dealt to P1xel7 [2c 6s]
+*** PRE-FLOP *** 
+loumath78 calls 700
+P1xel7 folds
+TobiasOranje calls 700
+elrital86 folds
+Fre2d4459 calls 350
+D.C.L.P raises 17030 to 17730 and is all-in
+loumath78 folds
+TobiasOranje folds
+Fre2d4459 folds
+D.C.L.P collected 20310 from pot
+*** SUMMARY ***
+Total pot 20310 | No rake
+Seat 3: D.C.L.P (big blind) won 20310
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 8 - HandId: #3248552605147726059-19-1710612327 - Holdem no limit (80/350/700) - 2024/03/16 18:05:27 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #2 is the button
+Seat 1: elrital86 (25658)
+Seat 2: Fre2d4459 (32933)
+Seat 3: D.C.L.P (20310)
+Seat 4: loumath78 (40856)
+Seat 5: P1xel7 (16440)
+Seat 6: TobiasOranje (43803)
+*** ANTE/BLINDS ***
+D.C.L.P posts ante 80
+loumath78 posts ante 80
+elrital86 posts ante 80
+Fre2d4459 posts ante 80
+P1xel7 posts ante 80
+TobiasOranje posts ante 80
+D.C.L.P posts small blind 350
+loumath78 posts big blind 700
+Dealt to P1xel7 [6s Jd]
+*** PRE-FLOP *** 
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 raises 700 to 1400
+D.C.L.P calls 1050
+loumath78 calls 700
+*** FLOP *** [Jc 9s Kd]
+D.C.L.P bets 1638
+loumath78 calls 1638
+Fre2d4459 raises 2293 to 3931
+D.C.L.P calls 2293
+loumath78 calls 2293
+*** TURN *** [Jc 9s Kd][4c]
+D.C.L.P checks
+loumath78 checks
+Fre2d4459 bets 5766
+D.C.L.P calls 5766
+loumath78 calls 5766
+*** RIVER *** [Jc 9s Kd 4c][8c]
+D.C.L.P checks
+loumath78 checks
+Fre2d4459 checks
+*** SHOW DOWN ***
+Fre2d4459 shows [5h Kh] (One pair : Kings)
+loumath78 shows [3s Qs] (High card : King)
+D.C.L.P shows [Ks Th] (One pair : Kings)
+D.C.L.P collected 33771 from pot
+*** SUMMARY ***
+Total pot 33771 | No rake
+Board: [Jc 9s Kd 4c 8c]
+Seat 2: Fre2d4459 (button) showed [5h Kh] and lost with One pair : Kings
+Seat 3: D.C.L.P (small blind) showed [Ks Th] and won 33771 with One pair : Kings
+Seat 4: loumath78 (big blind) showed [3s Qs] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3248552605147726059-20-1710612474 - Holdem no limit (100/400/800) - 2024/03/16 18:07:54 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: elrital86 (25578)
+Seat 2: Fre2d4459 (21756)
+Seat 3: D.C.L.P (42904)
+Seat 4: loumath78 (29679)
+Seat 5: P1xel7 (16360)
+Seat 6: TobiasOranje (43723)
+*** ANTE/BLINDS ***
+loumath78 posts ante 100
+P1xel7 posts ante 100
+elrital86 posts ante 100
+Fre2d4459 posts ante 100
+D.C.L.P posts ante 100
+TobiasOranje posts ante 100
+loumath78 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [Jd 4h]
+*** PRE-FLOP *** 
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 raises 800 to 1600
+D.C.L.P calls 1600
+loumath78 raises 27979 to 29579 and is all-in
+P1xel7 folds
+Fre2d4459 folds
+D.C.L.P calls 27979
+*** FLOP *** [9d 8h 7h]
+*** TURN *** [9d 8h 7h][Ks]
+*** RIVER *** [9d 8h 7h Ks][2s]
+*** SHOW DOWN ***
+loumath78 shows [Qd Ts] (High card : King)
+D.C.L.P shows [Qs Ac] (High card : Ace)
+D.C.L.P collected 62158 from pot
+*** SUMMARY ***
+Total pot 62158 | No rake
+Board: [9d 8h 7h Ks 2s]
+Seat 3: D.C.L.P (button) showed [Qs Ac] and won 62158 with High card : Ace
+Seat 4: loumath78 (small blind) showed [Qd Ts] and lost with High card : King
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 9 - HandId: #3248552605147726059-21-1710612548 - Holdem no limit (100/400/800) - 2024/03/16 18:09:08 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: elrital86 (25478)
+Seat 2: Fre2d4459 (20056)
+Seat 3: D.C.L.P (75383)
+Seat 5: P1xel7 (15460)
+Seat 6: TobiasOranje (43623)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+TobiasOranje posts ante 100
+elrital86 posts ante 100
+Fre2d4459 posts ante 100
+D.C.L.P posts ante 100
+P1xel7 posts small blind 400
+TobiasOranje posts big blind 800
+Dealt to P1xel7 [Kd 6h]
+*** PRE-FLOP *** 
+elrital86 folds
+Fre2d4459 calls 800
+D.C.L.P folds
+P1xel7 folds
+TobiasOranje checks
+*** FLOP *** [Js 7s 8h]
+TobiasOranje checks
+Fre2d4459 bets 800
+TobiasOranje folds
+Fre2d4459 collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | No rake
+Board: [Js 7s 8h]
+Seat 2: Fre2d4459 won 3300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3248552605147726059-22-1710612616 - Holdem no limit (120/500/1000) - 2024/03/16 18:10:16 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: elrital86 (25378)
+Seat 2: Fre2d4459 (21656)
+Seat 3: D.C.L.P (75283)
+Seat 4: Lemak21 (20000)
+Seat 5: P1xel7 (14960)
+Seat 6: TobiasOranje (42723)
+*** ANTE/BLINDS ***
+TobiasOranje posts ante 120
+elrital86 posts ante 120
+Fre2d4459 posts ante 120
+D.C.L.P posts ante 120
+Lemak21 posts ante 120
+P1xel7 posts ante 120
+TobiasOranje posts small blind 500
+elrital86 posts big blind 1000
+Dealt to P1xel7 [3h Ad]
+*** PRE-FLOP *** 
+Fre2d4459 folds
+D.C.L.P folds
+Lemak21 raises 18880 to 19880 and is all-in
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Lemak21 collected 22100 from pot
+*** SUMMARY ***
+Total pot 22100 | No rake
+Seat 4: Lemak21 won 22100
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 10 - HandId: #3248552605147726059-23-1710612668 - Holdem no limit (120/500/1000) - 2024/03/16 18:11:08 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #6 is the button
+Seat 1: elrital86 (24258)
+Seat 2: Fre2d4459 (21536)
+Seat 3: D.C.L.P (75163)
+Seat 4: Lemak21 (22100)
+Seat 5: P1xel7 (14840)
+Seat 6: TobiasOranje (42103)
+*** ANTE/BLINDS ***
+elrital86 posts ante 120
+Fre2d4459 posts ante 120
+D.C.L.P posts ante 120
+Lemak21 posts ante 120
+P1xel7 posts ante 120
+TobiasOranje posts ante 120
+elrital86 posts small blind 500
+Fre2d4459 posts big blind 1000
+Dealt to P1xel7 [2c Tc]
+*** PRE-FLOP *** 
+D.C.L.P calls 1000
+Lemak21 calls 1000
+P1xel7 folds
+TobiasOranje calls 1000
+elrital86 folds
+Fre2d4459 raises 2000 to 3000
+D.C.L.P calls 2000
+Lemak21 calls 2000
+TobiasOranje calls 2000
+*** FLOP *** [6d Ks 5h]
+Fre2d4459 bets 8593
+D.C.L.P folds
+Lemak21 folds
+TobiasOranje folds
+Fre2d4459 collected 21813 from pot
+*** SUMMARY ***
+Total pot 21813 | No rake
+Board: [6d Ks 5h]
+Seat 2: Fre2d4459 (big blind) won 21813
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3248552605147726059-24-1710612715 - Holdem no limit (140/600/1200) - 2024/03/16 18:11:55 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #1 is the button
+Seat 1: elrital86 (23638)
+Seat 2: Fre2d4459 (31636)
+Seat 3: D.C.L.P (72043)
+Seat 4: Lemak21 (18980)
+Seat 5: P1xel7 (14720)
+Seat 6: TobiasOranje (38983)
+*** ANTE/BLINDS ***
+Fre2d4459 posts ante 140
+D.C.L.P posts ante 140
+elrital86 posts ante 140
+Lemak21 posts ante 140
+P1xel7 posts ante 140
+TobiasOranje posts ante 140
+Fre2d4459 posts small blind 600
+D.C.L.P posts big blind 1200
+Dealt to P1xel7 [Th 3c]
+*** PRE-FLOP *** 
+Lemak21 calls 1200
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 calls 600
+D.C.L.P checks
+*** FLOP *** [7h 5c Jc]
+Fre2d4459 checks
+D.C.L.P checks
+Lemak21 bets 17640 and is all-in
+Fre2d4459 folds
+D.C.L.P folds
+Lemak21 collected 22080 from pot
+*** SUMMARY ***
+Total pot 22080 | No rake
+Board: [7h 5c Jc]
+Seat 4: Lemak21 won 22080
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 11 - HandId: #3248552605147726059-25-1710612801 - Holdem no limit (140/600/1200) - 2024/03/16 18:13:21 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #2 is the button
+Seat 1: elrital86 (23498)
+Seat 2: Fre2d4459 (30296)
+Seat 3: D.C.L.P (70703)
+Seat 4: Lemak21 (22080)
+Seat 5: P1xel7 (14580)
+Seat 6: TobiasOranje (38843)
+*** ANTE/BLINDS ***
+D.C.L.P posts ante 140
+Lemak21 posts ante 140
+elrital86 posts ante 140
+Fre2d4459 posts ante 140
+P1xel7 posts ante 140
+TobiasOranje posts ante 140
+D.C.L.P posts small blind 600
+Lemak21 posts big blind 1200
+Dealt to P1xel7 [Jh Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 calls 1200
+D.C.L.P calls 600
+Lemak21 raises 20740 to 21940 and is all-in
+Fre2d4459 folds
+D.C.L.P folds
+Lemak21 collected 25180 from pot
+*** SUMMARY ***
+Total pot 25180 | No rake
+Seat 4: Lemak21 (big blind) won 25180
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3248552605147726059-26-1710612865 - Holdem no limit (160/700/1400) - 2024/03/16 18:14:25 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: elrital86 (23358)
+Seat 2: Fre2d4459 (28956)
+Seat 3: D.C.L.P (69363)
+Seat 4: Lemak21 (25180)
+Seat 5: P1xel7 (14440)
+Seat 6: TobiasOranje (38703)
+*** ANTE/BLINDS ***
+Lemak21 posts ante 160
+P1xel7 posts ante 160
+elrital86 posts ante 160
+Fre2d4459 posts ante 160
+D.C.L.P posts ante 160
+TobiasOranje posts ante 160
+Lemak21 posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [Ad 6s]
+*** PRE-FLOP *** 
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 calls 1400
+D.C.L.P folds
+Lemak21 raises 23620 to 25020 and is all-in
+P1xel7 folds
+Fre2d4459 folds
+Lemak21 collected 28780 from pot
+*** SUMMARY ***
+Total pot 28780 | No rake
+Seat 4: Lemak21 (small blind) won 28780
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3248552605147726059-27-1710612894 - Holdem no limit (160/700/1400) - 2024/03/16 18:14:54 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: elrital86 (23198)
+Seat 2: Fre2d4459 (27396)
+Seat 3: D.C.L.P (69203)
+Seat 4: Lemak21 (28780)
+Seat 5: P1xel7 (12880)
+Seat 6: TobiasOranje (38543)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+TobiasOranje posts ante 160
+elrital86 posts ante 160
+Fre2d4459 posts ante 160
+D.C.L.P posts ante 160
+Lemak21 posts ante 160
+P1xel7 posts small blind 700
+TobiasOranje posts big blind 1400
+Dealt to P1xel7 [9d 7d]
+*** PRE-FLOP *** 
+elrital86 folds
+Fre2d4459 raises 1400 to 2800
+D.C.L.P folds
+Lemak21 folds
+P1xel7 calls 2100
+TobiasOranje folds
+*** FLOP *** [Kh 9h 8d]
+P1xel7 checks
+Fre2d4459 bets 2786
+P1xel7 raises 7134 to 9920 and is all-in
+Fre2d4459 calls 7134
+*** TURN *** [Kh 9h 8d][Ks]
+*** RIVER *** [Kh 9h 8d Ks][Qh]
+*** SHOW DOWN ***
+Fre2d4459 shows [Jd Ah] (One pair : Kings)
+P1xel7 shows [9d 7d] (Two pairs : Kings and 9)
+P1xel7 collected 27800 from pot
+*** SUMMARY ***
+Total pot 27800 | No rake
+Board: [Kh 9h 8d Ks Qh]
+Seat 2: Fre2d4459 showed [Jd Ah] and lost with One pair : Kings
+Seat 5: P1xel7 (small blind) showed [9d 7d] and won 27800 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3248552605147726059-28-1710612926 - Holdem no limit (160/700/1400) - 2024/03/16 18:15:26 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: elrital86 (23038)
+Seat 2: Fre2d4459 (14516)
+Seat 3: D.C.L.P (69043)
+Seat 4: Lemak21 (28620)
+Seat 5: P1xel7 (27800)
+Seat 6: TobiasOranje (36983)
+*** ANTE/BLINDS ***
+TobiasOranje posts ante 160
+elrital86 posts ante 160
+Fre2d4459 posts ante 160
+D.C.L.P posts ante 160
+Lemak21 posts ante 160
+P1xel7 posts ante 160
+TobiasOranje posts small blind 700
+elrital86 posts big blind 1400
+Dealt to P1xel7 [8s 5c]
+*** PRE-FLOP *** 
+Fre2d4459 raises 12956 to 14356 and is all-in
+D.C.L.P folds
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 collected 17416 from pot
+*** SUMMARY ***
+Total pot 17416 | No rake
+Seat 2: Fre2d4459 won 17416
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3248552605147726059-29-1710612952 - Holdem no limit (160/700/1400) - 2024/03/16 18:15:52 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #6 is the button
+Seat 1: elrital86 (21478)
+Seat 2: Fre2d4459 (17416)
+Seat 3: D.C.L.P (68883)
+Seat 4: Lemak21 (28460)
+Seat 5: P1xel7 (27640)
+Seat 6: TobiasOranje (36123)
+*** ANTE/BLINDS ***
+elrital86 posts ante 160
+Fre2d4459 posts ante 160
+D.C.L.P posts ante 160
+Lemak21 posts ante 160
+P1xel7 posts ante 160
+TobiasOranje posts ante 160
+elrital86 posts small blind 700
+Fre2d4459 posts big blind 1400
+Dealt to P1xel7 [8d 2d]
+*** PRE-FLOP *** 
+D.C.L.P folds
+Lemak21 calls 1400
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 checks
+*** FLOP *** [7d 8h Qs]
+Fre2d4459 checks
+Lemak21 bets 4460
+Fre2d4459 folds
+Lemak21 collected 8920 from pot
+*** SUMMARY ***
+Total pot 8920 | No rake
+Board: [7d 8h Qs]
+Seat 4: Lemak21 won 8920
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3248552605147726059-30-1710612982 - Holdem no limit (160/700/1400) - 2024/03/16 18:16:22 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #1 is the button
+Seat 1: elrital86 (20618)
+Seat 2: Fre2d4459 (15856)
+Seat 3: D.C.L.P (68723)
+Seat 4: Lemak21 (31360)
+Seat 5: P1xel7 (27480)
+Seat 6: TobiasOranje (35963)
+*** ANTE/BLINDS ***
+Fre2d4459 posts ante 160
+D.C.L.P posts ante 160
+elrital86 posts ante 160
+Lemak21 posts ante 160
+P1xel7 posts ante 160
+TobiasOranje posts ante 160
+Fre2d4459 posts small blind 700
+D.C.L.P posts big blind 1400
+Dealt to P1xel7 [9c Ks]
+*** PRE-FLOP *** 
+Lemak21 raises 29800 to 31200 and is all-in
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 folds
+D.C.L.P folds
+Lemak21 collected 34260 from pot
+*** SUMMARY ***
+Total pot 34260 | No rake
+Seat 4: Lemak21 won 34260
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 12 - HandId: #3248552605147726059-31-1710613004 - Holdem no limit (160/700/1400) - 2024/03/16 18:16:44 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #2 is the button
+Seat 1: elrital86 (20458)
+Seat 2: Fre2d4459 (14996)
+Seat 3: D.C.L.P (67163)
+Seat 4: Lemak21 (34260)
+Seat 5: P1xel7 (27320)
+Seat 6: TobiasOranje (35803)
+*** ANTE/BLINDS ***
+D.C.L.P posts ante 160
+Lemak21 posts ante 160
+elrital86 posts ante 160
+Fre2d4459 posts ante 160
+P1xel7 posts ante 160
+TobiasOranje posts ante 160
+D.C.L.P posts small blind 700
+Lemak21 posts big blind 1400
+Dealt to P1xel7 [Jh 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 raises 2100 to 3500
+D.C.L.P folds
+Lemak21 calls 2100
+*** FLOP *** [Tc 5s Ad]
+Lemak21 checks
+Fre2d4459 checks
+*** TURN *** [Tc 5s Ad][7d]
+Lemak21 checks
+Fre2d4459 checks
+*** RIVER *** [Tc 5s Ad 7d][Js]
+Lemak21 checks
+Fre2d4459 bets 1400
+Lemak21 calls 1400
+*** SHOW DOWN ***
+Lemak21 shows [Qc 9d] (High card : Ace)
+Fre2d4459 shows [Jd Kc] (One pair : Jacks)
+Fre2d4459 collected 11460 from pot
+*** SUMMARY ***
+Total pot 11460 | No rake
+Board: [Tc 5s Ad 7d Js]
+Seat 2: Fre2d4459 (button) showed [Jd Kc] and won 11460 with One pair : Jacks
+Seat 4: Lemak21 (big blind) showed [Qc 9d] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3248552605147726059-32-1710613070 - Holdem no limit (200/800/1600) - 2024/03/16 18:17:50 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: elrital86 (20298)
+Seat 2: Fre2d4459 (21396)
+Seat 3: D.C.L.P (66303)
+Seat 4: Lemak21 (29200)
+Seat 5: P1xel7 (27160)
+Seat 6: TobiasOranje (35643)
+*** ANTE/BLINDS ***
+Lemak21 posts ante 200
+P1xel7 posts ante 200
+elrital86 posts ante 200
+Fre2d4459 posts ante 200
+D.C.L.P posts ante 200
+TobiasOranje posts ante 200
+Lemak21 posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [3s 6s]
+*** PRE-FLOP *** 
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 folds
+D.C.L.P folds
+Lemak21 raises 27400 to 29000 and is all-in
+P1xel7 folds
+Lemak21 collected 31800 from pot
+*** SUMMARY ***
+Total pot 31800 | No rake
+Seat 4: Lemak21 (small blind) won 31800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3248552605147726059-33-1710613090 - Holdem no limit (200/800/1600) - 2024/03/16 18:18:10 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: elrital86 (20098)
+Seat 2: Fre2d4459 (21196)
+Seat 3: D.C.L.P (66103)
+Seat 4: Lemak21 (31800)
+Seat 5: P1xel7 (25360)
+Seat 6: TobiasOranje (35443)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+TobiasOranje posts ante 200
+elrital86 posts ante 200
+Fre2d4459 posts ante 200
+D.C.L.P posts ante 200
+Lemak21 posts ante 200
+P1xel7 posts small blind 800
+TobiasOranje posts big blind 1600
+Dealt to P1xel7 [Tc Ad]
+*** PRE-FLOP *** 
+elrital86 folds
+Fre2d4459 calls 1600
+D.C.L.P folds
+Lemak21 calls 1600
+P1xel7 raises 23560 to 25160 and is all-in
+TobiasOranje folds
+Fre2d4459 folds
+Lemak21 folds
+P1xel7 collected 31160 from pot
+*** SUMMARY ***
+Total pot 31160 | No rake
+Seat 5: P1xel7 (small blind) won 31160
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3248552605147726059-34-1710613110 - Holdem no limit (200/800/1600) - 2024/03/16 18:18:30 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: elrital86 (19898)
+Seat 2: Fre2d4459 (19396)
+Seat 3: D.C.L.P (65903)
+Seat 4: Lemak21 (30000)
+Seat 5: P1xel7 (31160)
+Seat 6: TobiasOranje (33643)
+*** ANTE/BLINDS ***
+TobiasOranje posts ante 200
+elrital86 posts ante 200
+Fre2d4459 posts ante 200
+D.C.L.P posts ante 200
+Lemak21 posts ante 200
+P1xel7 posts ante 200
+TobiasOranje posts small blind 800
+elrital86 posts big blind 1600
+Dealt to P1xel7 [4h 7c]
+*** PRE-FLOP *** 
+Fre2d4459 calls 1600
+D.C.L.P folds
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+elrital86 checks
+*** FLOP *** [Kc 4d 2c]
+elrital86 checks
+Fre2d4459 checks
+*** TURN *** [Kc 4d 2c][Js]
+elrital86 checks
+Fre2d4459 checks
+*** RIVER *** [Kc 4d 2c Js][Qh]
+elrital86 checks
+Fre2d4459 bets 1600
+elrital86 folds
+Fre2d4459 collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | No rake
+Board: [Kc 4d 2c Js Qh]
+Seat 2: Fre2d4459 won 6800
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3248552605147726059-35-1710613129 - Holdem no limit (200/800/1600) - 2024/03/16 18:18:49 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #6 is the button
+Seat 1: elrital86 (18098)
+Seat 2: Fre2d4459 (22796)
+Seat 3: D.C.L.P (65703)
+Seat 4: Lemak21 (29800)
+Seat 5: P1xel7 (30960)
+Seat 6: TobiasOranje (32643)
+*** ANTE/BLINDS ***
+elrital86 posts ante 200
+Fre2d4459 posts ante 200
+D.C.L.P posts ante 200
+Lemak21 posts ante 200
+P1xel7 posts ante 200
+TobiasOranje posts ante 200
+elrital86 posts small blind 800
+Fre2d4459 posts big blind 1600
+Dealt to P1xel7 [Qc 9d]
+*** PRE-FLOP *** 
+D.C.L.P folds
+Lemak21 folds
+P1xel7 raises 1600 to 3200
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 calls 1600
+*** FLOP *** [Ac 8d 2h]
+Fre2d4459 bets 1600
+P1xel7 raises 5000 to 6600
+Fre2d4459 calls 5000
+*** TURN *** [Ac 8d 2h][Qh]
+Fre2d4459 checks
+P1xel7 checks
+*** RIVER *** [Ac 8d 2h Qh][Td]
+Fre2d4459 checks
+P1xel7 bets 17280
+Fre2d4459 folds
+P1xel7 collected 38880 from pot
+*** SUMMARY ***
+Total pot 38880 | No rake
+Board: [Ac 8d 2h Qh Td]
+Seat 5: P1xel7 won 38880
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 13 - HandId: #3248552605147726059-36-1710613161 - Holdem no limit (200/800/1600) - 2024/03/16 18:19:21 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #1 is the button
+Seat 1: elrital86 (17098)
+Seat 2: Fre2d4459 (12796)
+Seat 3: D.C.L.P (65503)
+Seat 4: Lemak21 (29600)
+Seat 5: P1xel7 (42560)
+Seat 6: TobiasOranje (32443)
+*** ANTE/BLINDS ***
+Fre2d4459 posts ante 200
+D.C.L.P posts ante 200
+elrital86 posts ante 200
+Lemak21 posts ante 200
+P1xel7 posts ante 200
+TobiasOranje posts ante 200
+Fre2d4459 posts small blind 800
+D.C.L.P posts big blind 1600
+Dealt to P1xel7 [Qh 5d]
+*** PRE-FLOP *** 
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 calls 800
+D.C.L.P checks
+*** FLOP *** [6d Ks 8d]
+Fre2d4459 checks
+D.C.L.P checks
+*** TURN *** [6d Ks 8d][7c]
+Fre2d4459 checks
+D.C.L.P checks
+*** RIVER *** [6d Ks 8d 7c][Kh]
+Fre2d4459 checks
+D.C.L.P checks
+*** SHOW DOWN ***
+D.C.L.P shows [Ts Jd] (One pair : Kings)
+Fre2d4459 shows [3h 8s] (Two pairs : Kings and 8)
+Fre2d4459 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | No rake
+Board: [6d Ks 8d 7c Kh]
+Seat 2: Fre2d4459 (small blind) showed [3h 8s] and won 4400 with Two pairs : Kings and 8
+Seat 3: D.C.L.P (big blind) showed [Ts Jd] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3248552605147726059-37-1710613250 - Holdem no limit (250/1000/2000) - 2024/03/16 18:20:50 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #2 is the button
+Seat 1: elrital86 (16898)
+Seat 2: Fre2d4459 (15396)
+Seat 3: D.C.L.P (63703)
+Seat 4: Lemak21 (29400)
+Seat 5: P1xel7 (42360)
+Seat 6: TobiasOranje (32243)
+*** ANTE/BLINDS ***
+D.C.L.P posts ante 250
+Lemak21 posts ante 250
+elrital86 posts ante 250
+Fre2d4459 posts ante 250
+P1xel7 posts ante 250
+TobiasOranje posts ante 250
+D.C.L.P posts small blind 1000
+Lemak21 posts big blind 2000
+Dealt to P1xel7 [9s Kc]
+*** PRE-FLOP *** 
+P1xel7 raises 3000 to 5000
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 calls 5000
+D.C.L.P calls 4000
+Lemak21 calls 3000
+*** FLOP *** [Qh Qs 5s]
+D.C.L.P checks
+Lemak21 bets 21500
+P1xel7 folds
+Fre2d4459 folds
+D.C.L.P folds
+Lemak21 collected 43000 from pot
+*** SUMMARY ***
+Total pot 43000 | No rake
+Board: [Qh Qs 5s]
+Seat 4: Lemak21 (big blind) won 43000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 14 - HandId: #3248552605147726059-38-1710613280 - Holdem no limit (250/1000/2000) - 2024/03/16 18:21:20 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: elrital86 (16648)
+Seat 2: Fre2d4459 (10146)
+Seat 3: D.C.L.P (58453)
+Seat 4: Lemak21 (45650)
+Seat 5: P1xel7 (37110)
+Seat 6: TobiasOranje (31993)
+*** ANTE/BLINDS ***
+Lemak21 posts ante 250
+P1xel7 posts ante 250
+elrital86 posts ante 250
+Fre2d4459 posts ante 250
+D.C.L.P posts ante 250
+TobiasOranje posts ante 250
+Lemak21 posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [3d 4h]
+*** PRE-FLOP *** 
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 folds
+D.C.L.P folds
+Lemak21 calls 1000
+P1xel7 checks
+*** FLOP *** [8c 7c Qs]
+Lemak21 bets 5500
+P1xel7 folds
+Lemak21 collected 11000 from pot
+*** SUMMARY ***
+Total pot 11000 | No rake
+Board: [8c 7c Qs]
+Seat 4: Lemak21 (small blind) won 11000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3248552605147726059-39-1710613317 - Holdem no limit (300/1250/2500) - 2024/03/16 18:21:57 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: elrital86 (16398)
+Seat 2: Fre2d4459 (9896)
+Seat 3: D.C.L.P (58203)
+Seat 4: Lemak21 (48900)
+Seat 5: P1xel7 (34860)
+Seat 6: TobiasOranje (31743)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+TobiasOranje posts ante 300
+elrital86 posts ante 300
+Fre2d4459 posts ante 300
+D.C.L.P posts ante 300
+Lemak21 posts ante 300
+P1xel7 posts small blind 1250
+TobiasOranje posts big blind 2500
+Dealt to P1xel7 [Tc 6c]
+*** PRE-FLOP *** 
+elrital86 folds
+Fre2d4459 raises 2500 to 5000
+D.C.L.P folds
+Lemak21 folds
+P1xel7 calls 3750
+TobiasOranje folds
+*** FLOP *** [Ah 4s 5h]
+P1xel7 checks
+Fre2d4459 bets 4596 and is all-in
+P1xel7 calls 4596
+*** TURN *** [Ah 4s 5h][Qh]
+*** RIVER *** [Ah 4s 5h Qh][2h]
+*** SHOW DOWN ***
+P1xel7 shows [Tc 6c] (High card : Ace)
+Fre2d4459 shows [7d 7s] (One pair : 7)
+Fre2d4459 collected 23492 from pot
+*** SUMMARY ***
+Total pot 23492 | No rake
+Board: [Ah 4s 5h Qh 2h]
+Seat 2: Fre2d4459 showed [7d 7s] and won 23492 with One pair : 7
+Seat 5: P1xel7 (small blind) showed [Tc 6c] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3248552605147726059-40-1710613375 - Holdem no limit (300/1250/2500) - 2024/03/16 18:22:55 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: elrital86 (16098)
+Seat 2: Fre2d4459 (23492)
+Seat 3: D.C.L.P (57903)
+Seat 4: Lemak21 (48600)
+Seat 5: P1xel7 (24964)
+Seat 6: TobiasOranje (28943)
+*** ANTE/BLINDS ***
+TobiasOranje posts ante 300
+elrital86 posts ante 300
+Fre2d4459 posts ante 300
+D.C.L.P posts ante 300
+Lemak21 posts ante 300
+P1xel7 posts ante 300
+TobiasOranje posts small blind 1250
+elrital86 posts big blind 2500
+Dealt to P1xel7 [3h Jc]
+*** PRE-FLOP *** 
+Fre2d4459 calls 2500
+D.C.L.P folds
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+elrital86 checks
+*** FLOP *** [8s 2d 5h]
+elrital86 checks
+Fre2d4459 bets 2500
+elrital86 folds
+Fre2d4459 collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | No rake
+Board: [8s 2d 5h]
+Seat 2: Fre2d4459 won 10550
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 15 - HandId: #3248552605147726059-41-1710613446 - Holdem no limit (300/1250/2500) - 2024/03/16 18:24:06 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #6 is the button
+Seat 1: elrital86 (13298)
+Seat 2: Fre2d4459 (28742)
+Seat 3: D.C.L.P (57603)
+Seat 4: Lemak21 (48300)
+Seat 5: P1xel7 (24664)
+Seat 6: TobiasOranje (27393)
+*** ANTE/BLINDS ***
+elrital86 posts ante 300
+Fre2d4459 posts ante 300
+D.C.L.P posts ante 300
+Lemak21 posts ante 300
+P1xel7 posts ante 300
+TobiasOranje posts ante 300
+elrital86 posts small blind 1250
+Fre2d4459 posts big blind 2500
+Dealt to P1xel7 [5h 4h]
+*** PRE-FLOP *** 
+D.C.L.P folds
+Lemak21 folds
+P1xel7 calls 2500
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 checks
+*** FLOP *** [5c Tc 8s]
+Fre2d4459 bets 2500
+P1xel7 raises 19364 to 21864 and is all-in
+Fre2d4459 folds
+P1xel7 collected 32414 from pot
+*** SUMMARY ***
+Total pot 32414 | No rake
+Board: [5c Tc 8s]
+Seat 5: P1xel7 won 32414
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3248552605147726059-42-1710613491 - Holdem no limit (350/1500/3000) - 2024/03/16 18:24:51 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #1 is the button
+Seat 1: elrital86 (11748)
+Seat 2: Fre2d4459 (23442)
+Seat 3: D.C.L.P (57303)
+Seat 4: Lemak21 (48000)
+Seat 5: P1xel7 (32414)
+Seat 6: TobiasOranje (27093)
+*** ANTE/BLINDS ***
+Fre2d4459 posts ante 350
+D.C.L.P posts ante 350
+elrital86 posts ante 350
+Lemak21 posts ante 350
+P1xel7 posts ante 350
+TobiasOranje posts ante 350
+Fre2d4459 posts small blind 1500
+D.C.L.P posts big blind 3000
+Dealt to P1xel7 [6s 5h]
+*** PRE-FLOP *** 
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 folds
+D.C.L.P collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | No rake
+Seat 3: D.C.L.P (big blind) won 6600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3248552605147726059-43-1710613498 - Holdem no limit (350/1500/3000) - 2024/03/16 18:24:58 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #2 is the button
+Seat 1: elrital86 (11398)
+Seat 2: Fre2d4459 (21592)
+Seat 3: D.C.L.P (60553)
+Seat 4: Lemak21 (47650)
+Seat 5: P1xel7 (32064)
+Seat 6: TobiasOranje (26743)
+*** ANTE/BLINDS ***
+D.C.L.P posts ante 350
+Lemak21 posts ante 350
+elrital86 posts ante 350
+Fre2d4459 posts ante 350
+P1xel7 posts ante 350
+TobiasOranje posts ante 350
+D.C.L.P posts small blind 1500
+Lemak21 posts big blind 3000
+Dealt to P1xel7 [2d Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 raises 3000 to 6000
+D.C.L.P folds
+Lemak21 folds
+Fre2d4459 collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Seat 2: Fre2d4459 (button) won 12600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3248552605147726059-44-1710613510 - Holdem no limit (350/1500/3000) - 2024/03/16 18:25:10 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: elrital86 (11048)
+Seat 2: Fre2d4459 (27842)
+Seat 3: D.C.L.P (58703)
+Seat 4: Lemak21 (44300)
+Seat 5: P1xel7 (31714)
+Seat 6: TobiasOranje (26393)
+*** ANTE/BLINDS ***
+Lemak21 posts ante 350
+P1xel7 posts ante 350
+elrital86 posts ante 350
+Fre2d4459 posts ante 350
+D.C.L.P posts ante 350
+TobiasOranje posts ante 350
+Lemak21 posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [4d 5h]
+*** PRE-FLOP *** 
+TobiasOranje folds
+elrital86 folds
+Fre2d4459 raises 6000 to 9000
+D.C.L.P folds
+Lemak21 folds
+P1xel7 folds
+Fre2d4459 collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | No rake
+Seat 2: Fre2d4459 won 15600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3248552605147726059-45-1710613531 - Holdem no limit (350/1500/3000) - 2024/03/16 18:25:31 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: elrital86 (10698)
+Seat 2: Fre2d4459 (34092)
+Seat 3: D.C.L.P (58353)
+Seat 4: Lemak21 (42450)
+Seat 5: P1xel7 (28364)
+Seat 6: TobiasOranje (26043)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+TobiasOranje posts ante 350
+elrital86 posts ante 350
+Fre2d4459 posts ante 350
+D.C.L.P posts ante 350
+Lemak21 posts ante 350
+P1xel7 posts small blind 1500
+TobiasOranje posts big blind 3000
+Dealt to P1xel7 [Jd 3d]
+*** PRE-FLOP *** 
+elrital86 folds
+Fre2d4459 calls 3000
+D.C.L.P folds
+Lemak21 folds
+P1xel7 calls 1500
+TobiasOranje folds
+*** FLOP *** [9c Ts 7h]
+P1xel7 checks
+Fre2d4459 checks
+*** TURN *** [9c Ts 7h][Jc]
+P1xel7 bets 10500
+Fre2d4459 folds
+P1xel7 collected 21600 from pot
+*** SUMMARY ***
+Total pot 21600 | No rake
+Board: [9c Ts 7h Jc]
+Seat 5: P1xel7 (small blind) won 21600
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3248552605147726059-46-1710613571 - Holdem no limit (350/1500/3000) - 2024/03/16 18:26:11 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: elrital86 (10348)
+Seat 2: Fre2d4459 (30742)
+Seat 3: D.C.L.P (58003)
+Seat 4: Lemak21 (42100)
+Seat 5: P1xel7 (36114)
+Seat 6: TobiasOranje (22693)
+*** ANTE/BLINDS ***
+TobiasOranje posts ante 350
+elrital86 posts ante 350
+Fre2d4459 posts ante 350
+D.C.L.P posts ante 350
+Lemak21 posts ante 350
+P1xel7 posts ante 350
+TobiasOranje posts small blind 1500
+elrital86 posts big blind 3000
+Dealt to P1xel7 [7c 5c]
+*** PRE-FLOP *** 
+Fre2d4459 raises 3000 to 6000
+D.C.L.P folds
+Lemak21 folds
+P1xel7 calls 6000
+TobiasOranje folds
+elrital86 folds
+*** FLOP *** [7s 3s 4s]
+Fre2d4459 bets 6510
+P1xel7 raises 23254 to 29764 and is all-in
+Fre2d4459 calls 17882 and is all-in
+*** TURN *** [7s 3s 4s][7d]
+*** RIVER *** [7s 3s 4s 7d][9h]
+*** SHOW DOWN ***
+Fre2d4459 shows [Ac 5s] (One pair : 7)
+P1xel7 shows [7c 5c] (Trips of 7)
+P1xel7 collected 72756 from pot
+*** SUMMARY ***
+Total pot 72756 | No rake
+Board: [7s 3s 4s 7d 9h]
+Seat 2: Fre2d4459 showed [Ac 5s] and lost with One pair : 7
+Seat 5: P1xel7 (button) showed [7c 5c] and won 72756 with Trips of 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3248552605147726059-47-1710613598 - Holdem no limit (350/1500/3000) - 2024/03/16 18:26:38 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #6 is the button
+Seat 1: elrital86 (6998)
+Seat 3: D.C.L.P (57653)
+Seat 4: Lemak21 (41750)
+Seat 5: P1xel7 (72756)
+Seat 6: TobiasOranje (20843)
+*** ANTE/BLINDS ***
+elrital86 posts ante 350
+D.C.L.P posts ante 350
+Lemak21 posts ante 350
+P1xel7 posts ante 350
+TobiasOranje posts ante 350
+elrital86 posts small blind 1500
+D.C.L.P posts big blind 3000
+Dealt to P1xel7 [3c 2d]
+*** PRE-FLOP *** 
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+D.C.L.P collected 6250 from pot
+*** SUMMARY ***
+Total pot 6250 | No rake
+Seat 3: D.C.L.P (big blind) won 6250
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 16 - HandId: #3248552605147726059-48-1710613606 - Holdem no limit (350/1500/3000) - 2024/03/16 18:26:46 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #1 is the button
+Seat 1: elrital86 (5148)
+Seat 3: D.C.L.P (60553)
+Seat 4: Lemak21 (41400)
+Seat 5: P1xel7 (72406)
+Seat 6: TobiasOranje (20493)
+*** ANTE/BLINDS ***
+D.C.L.P posts ante 350
+Lemak21 posts ante 350
+elrital86 posts ante 350
+P1xel7 posts ante 350
+TobiasOranje posts ante 350
+D.C.L.P posts small blind 1500
+Lemak21 posts big blind 3000
+Dealt to P1xel7 [Ad 7d]
+*** PRE-FLOP *** 
+P1xel7 raises 6000 to 9000
+TobiasOranje folds
+elrital86 folds
+D.C.L.P folds
+Lemak21 folds
+P1xel7 collected 15250 from pot
+*** SUMMARY ***
+Total pot 15250 | No rake
+Seat 5: P1xel7 won 15250
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3248552605147726059-49-1710613619 - Holdem no limit (400/1750/3500) - 2024/03/16 18:26:59 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: elrital86 (4798)
+Seat 2: Danizruss (30150)
+Seat 3: D.C.L.P (58703)
+Seat 4: Lemak21 (38050)
+Seat 5: P1xel7 (78306)
+Seat 6: TobiasOranje (20143)
+*** ANTE/BLINDS ***
+Lemak21 posts ante 400
+P1xel7 posts ante 400
+elrital86 posts ante 400
+Danizruss posts ante 400
+D.C.L.P posts ante 400
+TobiasOranje posts ante 400
+Lemak21 posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [Td Ah]
+*** PRE-FLOP *** 
+TobiasOranje folds
+elrital86 folds
+Danizruss calls 3500
+D.C.L.P folds
+Lemak21 folds
+P1xel7 raises 7000 to 10500
+Danizruss calls 7000
+*** FLOP *** [Qs 4d 6d]
+P1xel7 bets 67406 and is all-in
+Danizruss folds
+P1xel7 collected 92556 from pot
+*** SUMMARY ***
+Total pot 92556 | No rake
+Board: [Qs 4d 6d]
+Seat 5: P1xel7 (big blind) won 92556
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3248552605147726059-50-1710613652 - Holdem no limit (400/1750/3500) - 2024/03/16 18:27:32 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: elrital86 (4398)
+Seat 2: Danizruss (19250)
+Seat 3: D.C.L.P (58303)
+Seat 4: Lemak21 (35900)
+Seat 5: P1xel7 (92556)
+Seat 6: TobiasOranje (19743)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+TobiasOranje posts ante 400
+elrital86 posts ante 400
+Danizruss posts ante 400
+D.C.L.P posts ante 400
+Lemak21 posts ante 400
+P1xel7 posts small blind 1750
+TobiasOranje posts big blind 3500
+Dealt to P1xel7 [Ah 6s]
+*** PRE-FLOP *** 
+elrital86 folds
+Danizruss folds
+D.C.L.P folds
+Lemak21 folds
+P1xel7 raises 3500 to 7000
+TobiasOranje folds
+P1xel7 collected 12900 from pot
+*** SUMMARY ***
+Total pot 12900 | No rake
+Seat 5: P1xel7 (small blind) won 12900
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3248552605147726059-51-1710613682 - Holdem no limit (400/1750/3500) - 2024/03/16 18:28:02 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: elrital86 (3998)
+Seat 2: Danizruss (18850)
+Seat 3: D.C.L.P (57903)
+Seat 4: Lemak21 (35500)
+Seat 5: P1xel7 (98056)
+Seat 6: TobiasOranje (15843)
+*** ANTE/BLINDS ***
+TobiasOranje posts ante 400
+elrital86 posts ante 400
+Danizruss posts ante 400
+D.C.L.P posts ante 400
+Lemak21 posts ante 400
+P1xel7 posts ante 400
+TobiasOranje posts small blind 1750
+elrital86 posts big blind 3500
+Dealt to P1xel7 [7c 3h]
+*** PRE-FLOP *** 
+Danizruss folds
+D.C.L.P raises 54003 to 57503 and is all-in
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+elrital86 folds
+D.C.L.P collected 65153 from pot
+*** SUMMARY ***
+Total pot 65153 | No rake
+Seat 3: D.C.L.P won 65153
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3248552605147726059-52-1710613699 - Holdem no limit (400/1750/3500) - 2024/03/16 18:28:19 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #6 is the button
+Seat 1: elrital86 (98)
+Seat 2: Danizruss (18450)
+Seat 3: D.C.L.P (65153)
+Seat 4: Lemak21 (35100)
+Seat 5: P1xel7 (97656)
+Seat 6: TobiasOranje (13693)
+*** ANTE/BLINDS ***
+elrital86 posts ante 98 and is all-in
+Danizruss posts ante 400
+D.C.L.P posts ante 400
+Lemak21 posts ante 400
+P1xel7 posts ante 400
+TobiasOranje posts ante 400
+elrital86 posts small blind 0 and is all-in
+Danizruss posts big blind 3500
+Dealt to P1xel7 [9s Jd]
+*** PRE-FLOP *** 
+D.C.L.P folds
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+*** FLOP *** [Kd Jc Ts]
+*** TURN *** [Kd Jc Ts][Qd]
+*** RIVER *** [Kd Jc Ts Qd][2c]
+*** SHOW DOWN ***
+elrital86 shows [7c Jh] (One pair : Jacks)
+Danizruss shows [Qh Ah] (Straight Ace high)
+Danizruss collected 5598 from pot
+*** SUMMARY ***
+Total pot 5598 | No rake
+Board: [Kd Jc Ts Qd 2c]
+Seat 1: elrital86 (small blind) showed [7c Jh] and lost with One pair : Jacks
+Seat 2: Danizruss (big blind) showed [Qh Ah] and won 5598 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3248552605147726059-53-1710613715 - Holdem no limit (400/1750/3500) - 2024/03/16 18:28:35 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #1 is the button
+Seat 2: Danizruss (20148)
+Seat 3: D.C.L.P (64753)
+Seat 4: Lemak21 (34700)
+Seat 5: P1xel7 (97256)
+Seat 6: TobiasOranje (13293)
+*** ANTE/BLINDS ***
+Danizruss posts ante 400
+D.C.L.P posts ante 400
+Lemak21 posts ante 400
+P1xel7 posts ante 400
+TobiasOranje posts ante 400
+Danizruss posts small blind 1750
+D.C.L.P posts big blind 3500
+Dealt to P1xel7 [Td 4h]
+*** PRE-FLOP *** 
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+Danizruss calls 1750
+D.C.L.P checks
+*** FLOP *** [Js 5h 6c]
+Danizruss checks
+D.C.L.P checks
+*** TURN *** [Js 5h 6c][4c]
+Danizruss bets 9000
+D.C.L.P folds
+Danizruss collected 18000 from pot
+*** SUMMARY ***
+Total pot 18000 | No rake
+Board: [Js 5h 6c 4c]
+Seat 2: Danizruss (small blind) won 18000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 17 - HandId: #3248552605147726059-54-1710613758 - Holdem no limit (400/1750/3500) - 2024/03/16 18:29:18 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #2 is the button
+Seat 1: Chachamavie4 (78672)
+Seat 2: Danizruss (25248)
+Seat 3: D.C.L.P (60853)
+Seat 4: Lemak21 (34300)
+Seat 5: P1xel7 (96856)
+Seat 6: TobiasOranje (12893)
+*** ANTE/BLINDS ***
+D.C.L.P posts ante 400
+Lemak21 posts ante 400
+Chachamavie4 posts ante 400
+Danizruss posts ante 400
+P1xel7 posts ante 400
+TobiasOranje posts ante 400
+D.C.L.P posts small blind 1750
+Lemak21 posts big blind 3500
+Dealt to P1xel7 [6d 6c]
+*** PRE-FLOP *** 
+P1xel7 raises 92956 to 96456 and is all-in
+TobiasOranje folds
+Chachamavie4 folds
+Danizruss folds
+D.C.L.P folds
+Lemak21 folds
+P1xel7 collected 104106 from pot
+*** SUMMARY ***
+Total pot 104106 | No rake
+Seat 5: P1xel7 won 104106
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552605147726059-55-1710613775 - Holdem no limit (500/2000/4000) - 2024/03/16 18:29:35 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: Chachamavie4 (78272)
+Seat 2: Danizruss (24848)
+Seat 3: D.C.L.P (58703)
+Seat 4: Lemak21 (30400)
+Seat 5: P1xel7 (104106)
+Seat 6: TobiasOranje (12493)
+*** ANTE/BLINDS ***
+Lemak21 posts ante 500
+P1xel7 posts ante 500
+Chachamavie4 posts ante 500
+Danizruss posts ante 500
+D.C.L.P posts ante 500
+TobiasOranje posts ante 500
+Lemak21 posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [Qd Td]
+*** PRE-FLOP *** 
+TobiasOranje folds
+Chachamavie4 folds
+Danizruss folds
+D.C.L.P folds
+Lemak21 raises 25900 to 29900 and is all-in
+P1xel7 calls 25900
+*** FLOP *** [Kc 2s 7c]
+*** TURN *** [Kc 2s 7c][7h]
+*** RIVER *** [Kc 2s 7c 7h][Jd]
+*** SHOW DOWN ***
+P1xel7 shows [Qd Td] (One pair : 7)
+Lemak21 shows [Qh Ah] (One pair : 7)
+Lemak21 collected 62800 from pot
+*** SUMMARY ***
+Total pot 62800 | No rake
+Board: [Kc 2s 7c 7h Jd]
+Seat 4: Lemak21 (small blind) showed [Qh Ah] and won 62800 with One pair : 7
+Seat 5: P1xel7 (big blind) showed [Qd Td] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552605147726059-56-1710613796 - Holdem no limit (500/2000/4000) - 2024/03/16 18:29:56 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: Chachamavie4 (77772)
+Seat 2: Danizruss (24348)
+Seat 3: D.C.L.P (58203)
+Seat 4: Lemak21 (62800)
+Seat 5: P1xel7 (73706)
+Seat 6: TobiasOranje (11993)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+TobiasOranje posts ante 500
+Chachamavie4 posts ante 500
+Danizruss posts ante 500
+D.C.L.P posts ante 500
+Lemak21 posts ante 500
+P1xel7 posts small blind 2000
+TobiasOranje posts big blind 4000
+Dealt to P1xel7 [5s Th]
+*** PRE-FLOP *** 
+Chachamavie4 calls 4000
+Danizruss folds
+D.C.L.P folds
+Lemak21 raises 58300 to 62300 and is all-in
+P1xel7 folds
+TobiasOranje folds
+Chachamavie4 folds
+Lemak21 collected 75300 from pot
+*** SUMMARY ***
+Total pot 75300 | No rake
+Seat 4: Lemak21 (button) won 75300
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552605147726059-57-1710613812 - Holdem no limit (500/2000/4000) - 2024/03/16 18:30:12 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: Chachamavie4 (73272)
+Seat 2: Danizruss (23848)
+Seat 3: D.C.L.P (57703)
+Seat 4: Lemak21 (75300)
+Seat 5: P1xel7 (71206)
+Seat 6: TobiasOranje (7493)
+*** ANTE/BLINDS ***
+TobiasOranje posts ante 500
+Chachamavie4 posts ante 500
+Danizruss posts ante 500
+D.C.L.P posts ante 500
+Lemak21 posts ante 500
+P1xel7 posts ante 500
+TobiasOranje posts small blind 2000
+Chachamavie4 posts big blind 4000
+Dealt to P1xel7 [7s 2c]
+*** PRE-FLOP *** 
+Danizruss folds
+D.C.L.P folds
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+Chachamavie4 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 1: Chachamavie4 (big blind) won 9000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552605147726059-58-1710613823 - Holdem no limit (500/2000/4000) - 2024/03/16 18:30:23 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #6 is the button
+Seat 1: Chachamavie4 (77772)
+Seat 2: Danizruss (23348)
+Seat 3: D.C.L.P (57203)
+Seat 4: Lemak21 (74800)
+Seat 5: P1xel7 (70706)
+Seat 6: TobiasOranje (4993)
+*** ANTE/BLINDS ***
+Chachamavie4 posts ante 500
+Danizruss posts ante 500
+D.C.L.P posts ante 500
+Lemak21 posts ante 500
+P1xel7 posts ante 500
+TobiasOranje posts ante 500
+Chachamavie4 posts small blind 2000
+Danizruss posts big blind 4000
+Dealt to P1xel7 [2d Qd]
+*** PRE-FLOP *** 
+D.C.L.P folds
+Lemak21 folds
+P1xel7 folds
+TobiasOranje folds
+Chachamavie4 raises 11000 to 15000
+Danizruss folds
+Chachamavie4 collected 22000 from pot
+*** SUMMARY ***
+Total pot 22000 | No rake
+Seat 1: Chachamavie4 (small blind) won 22000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552605147726059-59-1710613850 - Holdem no limit (500/2000/4000) - 2024/03/16 18:30:50 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #1 is the button
+Seat 1: Chachamavie4 (84272)
+Seat 2: Danizruss (18848)
+Seat 3: D.C.L.P (56703)
+Seat 4: Lemak21 (74300)
+Seat 5: P1xel7 (70206)
+Seat 6: TobiasOranje (4493)
+*** ANTE/BLINDS ***
+Danizruss posts ante 500
+D.C.L.P posts ante 500
+Chachamavie4 posts ante 500
+Lemak21 posts ante 500
+P1xel7 posts ante 500
+TobiasOranje posts ante 500
+Danizruss posts small blind 2000
+D.C.L.P posts big blind 4000
+Dealt to P1xel7 [9h Jh]
+*** PRE-FLOP *** 
+Lemak21 calls 4000
+P1xel7 folds
+TobiasOranje folds
+Chachamavie4 folds
+Danizruss calls 2000
+D.C.L.P raises 52203 to 56203 and is all-in
+Lemak21 raises 17597 to 73800 and is all-in
+Danizruss calls 14348 and is all-in
+*** FLOP *** [5h Td 4h]
+*** TURN *** [5h Td 4h][5d]
+*** RIVER *** [5h Td 4h 5d][2c]
+*** SHOW DOWN ***
+Danizruss shows [As Ks] (One pair : 5)
+D.C.L.P shows [Ac Tc] (Two pairs : Tens and 5)
+Lemak21 shows [Ts Qd] (Two pairs : Tens and 5)
+Lemak21 collected 17597 from side pot 1
+D.C.L.P collected 133754 from main pot
+*** SUMMARY ***
+Total pot 151351 | No rake
+Board: [5h Td 4h 5d 2c]
+Seat 2: Danizruss (small blind) showed [As Ks] and lost with One pair : 5
+Seat 3: D.C.L.P (big blind) showed [Ac Tc] and won 133754 with Two pairs : Tens and 5
+Seat 4: Lemak21 showed [Ts Qd] and won 17597 with Two pairs : Tens and 5
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552605147726059-60-1710613878 - Holdem no limit (500/2000/4000) - 2024/03/16 18:31:18 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #2 is the button
+Seat 1: Chachamavie4 (83772)
+Seat 3: D.C.L.P (133754)
+Seat 4: Lemak21 (17597)
+Seat 5: P1xel7 (69706)
+Seat 6: TobiasOranje (3993)
+*** ANTE/BLINDS ***
+D.C.L.P posts ante 500
+Lemak21 posts ante 500
+Chachamavie4 posts ante 500
+P1xel7 posts ante 500
+TobiasOranje posts ante 500
+D.C.L.P posts small blind 2000
+Lemak21 posts big blind 4000
+Dealt to P1xel7 [Jh 2h]
+*** PRE-FLOP *** 
+P1xel7 folds
+TobiasOranje folds
+Chachamavie4 calls 4000
+D.C.L.P folds
+Lemak21 raises 13097 to 17097 and is all-in
+Chachamavie4 calls 13097
+*** FLOP *** [3h 5c Ks]
+*** TURN *** [3h 5c Ks][Ah]
+*** RIVER *** [3h 5c Ks Ah][Qd]
+*** SHOW DOWN ***
+Lemak21 shows [Td 3s] (One pair : 3)
+Chachamavie4 shows [Js Kc] (One pair : Kings)
+Chachamavie4 collected 38694 from pot
+*** SUMMARY ***
+Total pot 38694 | No rake
+Board: [3h 5c Ks Ah Qd]
+Seat 1: Chachamavie4 showed [Js Kc] and won 38694 with One pair : Kings
+Seat 4: Lemak21 (big blind) showed [Td 3s] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552605147726059-61-1710613904 - Holdem no limit (500/2000/4000) - 2024/03/16 18:31:44 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #3 is the button
+Seat 1: Chachamavie4 (104869)
+Seat 3: D.C.L.P (131254)
+Seat 5: P1xel7 (69206)
+Seat 6: TobiasOranje (3493)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+Chachamavie4 posts ante 500
+D.C.L.P posts ante 500
+TobiasOranje posts ante 500
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [As 5c]
+*** PRE-FLOP *** 
+TobiasOranje folds
+Chachamavie4 folds
+D.C.L.P folds
+P1xel7 collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | No rake
+Seat 5: P1xel7 (big blind) won 6000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 18 - HandId: #3248552605147726059-62-1710613909 - Holdem no limit (500/2000/4000) - 2024/03/16 18:31:49 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #4 is the button
+Seat 1: Chachamavie4 (104369)
+Seat 2: Frenchwild (113532)
+Seat 3: D.C.L.P (130754)
+Seat 4: MG0029 (113675)
+Seat 5: P1xel7 (70706)
+Seat 6: TobiasOranje (2993)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+TobiasOranje posts ante 500
+Chachamavie4 posts ante 500
+Frenchwild posts ante 500
+D.C.L.P posts ante 500
+P1xel7 posts small blind 2000
+TobiasOranje posts big blind 2493 and is all-in
+Dealt to P1xel7 [2h 6s]
+*** PRE-FLOP *** 
+Chachamavie4 folds
+Frenchwild folds
+D.C.L.P raises 7507 to 10000
+P1xel7 folds
+*** FLOP *** [3h Tc Jc]
+*** TURN *** [3h Tc Jc][Td]
+*** RIVER *** [3h Tc Jc Td][7d]
+*** SHOW DOWN ***
+TobiasOranje shows [2s 5d] (One pair : Tens)
+D.C.L.P shows [Ac 7c] (Two pairs : Tens and 7)
+D.C.L.P collected 16993 from pot
+*** SUMMARY ***
+Total pot 16993 | No rake
+Board: [3h Tc Jc Td 7d]
+Seat 3: D.C.L.P showed [Ac 7c] and won 16993 with Two pairs : Tens and 7
+Seat 6: TobiasOranje (big blind) showed [2s 5d] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3248552605147726059-63-1710613938 - Holdem no limit (600/2500/5000) - 2024/03/16 18:32:18 UTC
+Table: 'Freeroll(756362594)#0234' 6-max (real money) Seat #5 is the button
+Seat 1: Chachamavie4 (103869)
+Seat 2: Frenchwild (113032)
+Seat 3: D.C.L.P (137247)
+Seat 4: MG0029 (113675)
+Seat 5: P1xel7 (68206)
+*** ANTE/BLINDS ***
+Chachamavie4 posts ante 600
+Frenchwild posts ante 600
+D.C.L.P posts ante 600
+MG0029 posts ante 600
+P1xel7 posts ante 600
+Chachamavie4 posts big blind 5000
+Dealt to P1xel7 [3c Jc]
+*** PRE-FLOP *** 
+Frenchwild folds
+D.C.L.P folds
+MG0029 folds
+P1xel7 folds
+Chachamavie4 collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | No rake
+Seat 1: Chachamavie4 (big blind) won 8000
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3248552605147726023-69-1710613983 - Holdem no limit (600/2500/5000) - 2024/03/16 18:33:03 UTC
+Table: 'Freeroll(756362594)#0198' 6-max (real money) Seat #2 is the button
+Seat 1: Faisan_fier4 (279576)
+Seat 2: headsh (274166)
+Seat 3: le Bro69 (122897)
+Seat 4: tranquille22 (142992)
+Seat 5: JATAN (322399)
+Seat 6: P1xel7 (67606)
+*** ANTE/BLINDS ***
+le Bro69 posts ante 600
+tranquille22 posts ante 600
+Faisan_fier4 posts ante 600
+headsh posts ante 600
+JATAN posts ante 600
+P1xel7 posts ante 600
+le Bro69 posts small blind 2500
+tranquille22 posts big blind 5000
+Dealt to P1xel7 [8d 7h]
+*** PRE-FLOP *** 
+JATAN folds
+P1xel7 folds
+Faisan_fier4 calls 5000
+headsh folds
+le Bro69 calls 2500
+tranquille22 raises 137392 to 142392 and is all-in
+Faisan_fier4 folds
+le Bro69 calls 117297 and is all-in
+*** FLOP *** [2c Ad Qd]
+*** TURN *** [2c Ad Qd][Th]
+*** RIVER *** [2c Ad Qd Th][Kh]
+*** SHOW DOWN ***
+le Bro69 shows [Jh As] (Straight Ace high)
+tranquille22 shows [Jd Qs] (Straight Ace high)
+tranquille22 collected 146692 from side pot 1
+le Bro69 collected 126597 from main pot
+*** SUMMARY ***
+Total pot 273289 | No rake
+Board: [2c Ad Qd Th Kh]
+Seat 3: le Bro69 (small blind) showed [Jh As] and won 126597 with Straight Ace high
+Seat 4: tranquille22 (big blind) showed [Jd Qs] and won 146692 with Straight Ace high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 19 - HandId: #3248552605147726023-70-1710614015 - Holdem no limit (600/2500/5000) - 2024/03/16 18:33:35 UTC
+Table: 'Freeroll(756362594)#0198' 6-max (real money) Seat #3 is the button
+Seat 1: Faisan_fier4 (273976)
+Seat 2: headsh (273566)
+Seat 3: le Bro69 (126597)
+Seat 4: tranquille22 (146692)
+Seat 5: JATAN (321799)
+Seat 6: P1xel7 (67006)
+*** ANTE/BLINDS ***
+tranquille22 posts ante 600
+JATAN posts ante 600
+Faisan_fier4 posts ante 600
+headsh posts ante 600
+le Bro69 posts ante 600
+P1xel7 posts ante 600
+tranquille22 posts small blind 2500
+JATAN posts big blind 5000
+Dealt to P1xel7 [Kh 4c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Faisan_fier4 folds
+headsh calls 5000
+le Bro69 folds
+tranquille22 calls 2500
+JATAN checks
+*** FLOP *** [9h Js 7c]
+tranquille22 checks
+JATAN checks
+headsh checks
+*** TURN *** [9h Js 7c][9s]
+tranquille22 bets 5000
+JATAN calls 5000
+headsh calls 5000
+*** RIVER *** [9h Js 7c 9s][3h]
+tranquille22 checks
+JATAN checks
+headsh checks
+*** SHOW DOWN ***
+headsh shows [Tc 6c] (One pair : 9)
+JATAN shows [Ac Ts] (One pair : 9)
+tranquille22 shows [7d 5s] (Two pairs : 9 and 7)
+tranquille22 collected 33600 from pot
+*** SUMMARY ***
+Total pot 33600 | No rake
+Board: [9h Js 7c 9s 3h]
+Seat 2: headsh showed [Tc 6c] and lost with One pair : 9
+Seat 4: tranquille22 (small blind) showed [7d 5s] and won 33600 with Two pairs : 9 and 7
+Seat 5: JATAN (big blind) showed [Ac Ts] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 20 - HandId: #3248552605147726023-71-1710614091 - Holdem no limit (700/3000/6000) - 2024/03/16 18:34:51 UTC
+Table: 'Freeroll(756362594)#0198' 6-max (real money) Seat #4 is the button
+Seat 1: Faisan_fier4 (273376)
+Seat 2: headsh (262966)
+Seat 3: le Bro69 (125997)
+Seat 4: tranquille22 (169692)
+Seat 5: JATAN (311199)
+Seat 6: P1xel7 (66406)
+*** ANTE/BLINDS ***
+JATAN posts ante 700
+P1xel7 posts ante 700
+Faisan_fier4 posts ante 700
+headsh posts ante 700
+le Bro69 posts ante 700
+tranquille22 posts ante 700
+JATAN posts small blind 3000
+P1xel7 posts big blind 6000
+Dealt to P1xel7 [5s Qs]
+*** PRE-FLOP *** 
+Faisan_fier4 calls 6000
+headsh folds
+le Bro69 folds
+tranquille22 calls 6000
+JATAN calls 3000
+P1xel7 checks
+*** FLOP *** [3d Th 2d]
+JATAN bets 78044
+P1xel7 folds
+Faisan_fier4 folds
+tranquille22 folds
+JATAN collected 106244 from pot
+*** SUMMARY ***
+Total pot 106244 | No rake
+Board: [3d Th 2d]
+Seat 5: JATAN (small blind) won 106244
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 20 - HandId: #3248552605147726023-72-1710614124 - Holdem no limit (700/3000/6000) - 2024/03/16 18:35:24 UTC
+Table: 'Freeroll(756362594)#0198' 6-max (real money) Seat #5 is the button
+Seat 1: Faisan_fier4 (266676)
+Seat 2: headsh (262266)
+Seat 3: le Bro69 (125297)
+Seat 4: tranquille22 (162992)
+Seat 5: JATAN (332699)
+Seat 6: P1xel7 (59706)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 700
+Faisan_fier4 posts ante 700
+headsh posts ante 700
+le Bro69 posts ante 700
+tranquille22 posts ante 700
+JATAN posts ante 700
+P1xel7 posts small blind 3000
+Faisan_fier4 posts big blind 6000
+Dealt to P1xel7 [5s Kc]
+*** PRE-FLOP *** 
+headsh folds
+le Bro69 calls 6000
+tranquille22 raises 156292 to 162292 and is all-in
+JATAN folds
+P1xel7 folds
+Faisan_fier4 folds
+le Bro69 calls 118597 and is all-in
+*** FLOP *** [9s 3d Qc]
+*** TURN *** [9s 3d Qc][8h]
+*** RIVER *** [9s 3d Qc 8h][3s]
+*** SHOW DOWN ***
+le Bro69 shows [Ad Kd] (One pair : 3)
+tranquille22 shows [Ah Jh] (One pair : 3)
+tranquille22 collected 37695 from side pot 1
+le Bro69 collected 262394 from main pot
+*** SUMMARY ***
+Total pot 300089 | No rake
+Board: [9s 3d Qc 8h 3s]
+Seat 3: le Bro69 showed [Ad Kd] and won 262394 with One pair : 3
+Seat 4: tranquille22 showed [Ah Jh] and won 37695 with One pair : 3
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 20 - HandId: #3248552605147726023-73-1710614143 - Holdem no limit (700/3000/6000) - 2024/03/16 18:35:43 UTC
+Table: 'Freeroll(756362594)#0198' 6-max (real money) Seat #6 is the button
+Seat 1: Faisan_fier4 (259976)
+Seat 2: headsh (261566)
+Seat 3: le Bro69 (262394)
+Seat 4: tranquille22 (37695)
+Seat 5: JATAN (331999)
+Seat 6: P1xel7 (56006)
+*** ANTE/BLINDS ***
+Faisan_fier4 posts ante 700
+headsh posts ante 700
+le Bro69 posts ante 700
+tranquille22 posts ante 700
+JATAN posts ante 700
+P1xel7 posts ante 700
+Faisan_fier4 posts small blind 3000
+headsh posts big blind 6000
+Dealt to P1xel7 [Ac Kc]
+*** PRE-FLOP *** 
+le Bro69 folds
+tranquille22 raises 30995 to 36995 and is all-in
+JATAN folds
+P1xel7 raises 18311 to 55306 and is all-in
+Faisan_fier4 folds
+headsh folds
+*** FLOP *** [Ts 2d 4d]
+*** TURN *** [Ts 2d 4d][4c]
+*** RIVER *** [Ts 2d 4d 4c][2c]
+*** SHOW DOWN ***
+tranquille22 shows [7d 7c] (Two pairs : 7 and 4)
+P1xel7 shows [Ac Kc] (Two pairs : 4 and 2)
+P1xel7 collected 18311 from side pot 1
+tranquille22 collected 87190 from main pot
+*** SUMMARY ***
+Total pot 105501 | No rake
+Board: [Ts 2d 4d 4c 2c]
+Seat 4: tranquille22 showed [7d 7c] and won 87190 with Two pairs : 7 and 4
+Seat 6: P1xel7 (button) showed [Ac Kc] and won 18311 with Two pairs : 4 and 2
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 20 - HandId: #3248552605147726023-74-1710614172 - Holdem no limit (700/3000/6000) - 2024/03/16 18:36:12 UTC
+Table: 'Freeroll(756362594)#0198' 6-max (real money) Seat #1 is the button
+Seat 1: Faisan_fier4 (256276)
+Seat 2: headsh (254866)
+Seat 3: le Bro69 (261694)
+Seat 4: tranquille22 (87190)
+Seat 5: JATAN (331299)
+Seat 6: P1xel7 (18311)
+*** ANTE/BLINDS ***
+headsh posts ante 700
+le Bro69 posts ante 700
+Faisan_fier4 posts ante 700
+tranquille22 posts ante 700
+JATAN posts ante 700
+P1xel7 posts ante 700
+headsh posts small blind 3000
+le Bro69 posts big blind 6000
+Dealt to P1xel7 [5d 8d]
+*** PRE-FLOP *** 
+tranquille22 folds
+JATAN calls 6000
+P1xel7 folds
+Faisan_fier4 folds
+headsh calls 3000
+le Bro69 checks
+*** FLOP *** [3c Ts Js]
+headsh checks
+le Bro69 checks
+JATAN checks
+*** TURN *** [3c Ts Js][6s]
+headsh checks
+le Bro69 checks
+JATAN checks
+*** RIVER *** [3c Ts Js 6s][Jc]
+headsh bets 6000
+le Bro69 folds
+JATAN folds
+headsh collected 28200 from pot
+*** SUMMARY ***
+Total pot 28200 | No rake
+Board: [3c Ts Js 6s Jc]
+Seat 2: headsh (small blind) won 28200
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 21 - HandId: #3248552605147726000-90-1710614280 - Holdem no limit (800/3500/7000) - 2024/03/16 18:38:00 UTC
+Table: 'Freeroll(756362594)#0175' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (17611)
+Seat 2: Lucky Donkey (166830)
+Seat 3: Habfee tokyo (98467)
+Seat 4: Somel21 (390751)
+Seat 5: hilare Lynx (73861)
+Seat 6: Mikel79 (50259)
+*** ANTE/BLINDS ***
+hilare Lynx posts ante 800
+Mikel79 posts ante 800
+P1xel7 posts ante 800
+Lucky Donkey posts ante 800
+Habfee tokyo posts ante 800
+Somel21 posts ante 800
+hilare Lynx posts small blind 3500
+Mikel79 posts big blind 7000
+Dealt to P1xel7 [Tc 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Lucky Donkey folds
+Habfee tokyo calls 7000
+Somel21 calls 7000
+hilare Lynx raises 66061 to 73061 and is all-in
+Mikel79 folds
+Habfee tokyo folds
+Somel21 folds
+hilare Lynx collected 98861 from pot
+*** SUMMARY ***
+Total pot 98861 | No rake
+Seat 5: hilare Lynx (small blind) won 98861
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 21 - HandId: #3248552605147726000-91-1710614314 - Holdem no limit (800/3500/7000) - 2024/03/16 18:38:34 UTC
+Table: 'Freeroll(756362594)#0175' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (16811)
+Seat 2: Lucky Donkey (166030)
+Seat 3: Habfee tokyo (90667)
+Seat 4: Somel21 (382951)
+Seat 5: hilare Lynx (98861)
+Seat 6: Mikel79 (42459)
+*** ANTE/BLINDS ***
+Mikel79 posts ante 800
+P1xel7 posts ante 800
+Lucky Donkey posts ante 800
+Habfee tokyo posts ante 800
+Somel21 posts ante 800
+hilare Lynx posts ante 800
+Mikel79 posts small blind 3500
+P1xel7 posts big blind 7000
+Dealt to P1xel7 [6d 3c]
+*** PRE-FLOP *** 
+Lucky Donkey folds
+Habfee tokyo folds
+Somel21 folds
+hilare Lynx folds
+Mikel79 calls 3500
+P1xel7 checks
+*** FLOP *** [Qs Ts 2h]
+Mikel79 bets 34659 and is all-in
+P1xel7 folds
+Mikel79 collected 53459 from pot
+*** SUMMARY ***
+Total pot 53459 | No rake
+Board: [Qs Ts 2h]
+Seat 6: Mikel79 (small blind) won 53459
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 21 - HandId: #3248552605147726000-92-1710614338 - Holdem no limit (800/3500/7000) - 2024/03/16 18:38:58 UTC
+Table: 'Freeroll(756362594)#0175' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (9011)
+Seat 2: Lucky Donkey (165230)
+Seat 3: Habfee tokyo (89867)
+Seat 4: Somel21 (382151)
+Seat 5: hilare Lynx (98061)
+Seat 6: Mikel79 (53459)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 800
+Lucky Donkey posts ante 800
+Habfee tokyo posts ante 800
+Somel21 posts ante 800
+hilare Lynx posts ante 800
+Mikel79 posts ante 800
+P1xel7 posts small blind 3500
+Lucky Donkey posts big blind 7000
+Dealt to P1xel7 [As Ks]
+*** PRE-FLOP *** 
+Habfee tokyo folds
+Somel21 folds
+hilare Lynx calls 7000
+Mikel79 calls 7000
+P1xel7 raises 1211 to 8211 and is all-in
+Lucky Donkey calls 1211
+hilare Lynx calls 1211
+Mikel79 calls 1211
+*** FLOP *** [Qc Kh 9c]
+Lucky Donkey checks
+hilare Lynx checks
+Mikel79 checks
+*** TURN *** [Qc Kh 9c][4c]
+Lucky Donkey checks
+hilare Lynx checks
+Mikel79 checks
+*** RIVER *** [Qc Kh 9c 4c][Ts]
+Lucky Donkey checks
+hilare Lynx checks
+Mikel79 bets 44448 and is all-in
+Lucky Donkey folds
+hilare Lynx folds
+*** SHOW DOWN ***
+P1xel7 shows [As Ks] (One pair : Kings)
+Mikel79 shows [Ah Js] (Straight Ace high)
+Mikel79 collected 82092 from pot
+*** SUMMARY ***
+Total pot 82092 | No rake
+Board: [Qc Kh 9c 4c Ts]
+Seat 1: P1xel7 (small blind) showed [As Ks] and lost with One pair : Kings
+Seat 6: Mikel79 (button) showed [Ah Js] and won 82092 with Straight Ace high
+
+

@@ -1,0 +1,420 @@
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3013263597909311489-1-1695656233 - Holdem no limit (10/20) - 2023/09/25 15:37:13 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (1500)
+Seat 2: LBJ12 (1500)
+Seat 3: sicritis (1500)
+Seat 4: J. A .12 (1500)
+Seat 5: Zeking64000 (1500)
+Seat 6: PinkFred (1500)
+*** ANTE/BLINDS ***
+sicritis posts small blind 10
+J. A .12 posts big blind 20
+Dealt to P1xel7 [3c Kc]
+*** PRE-FLOP *** 
+Zeking64000 raises 1480 to 1500 and is all-in
+PinkFred folds
+P1xel7 folds
+LBJ12 folds
+sicritis calls 1490 and is all-in
+J. A .12 folds
+*** FLOP *** [Qd 4h Ah]
+*** TURN *** [Qd 4h Ah][9h]
+*** RIVER *** [Qd 4h Ah 9h][9c]
+*** SHOW DOWN ***
+Zeking64000 shows [8s 4s] (Two pairs : 9 and 4)
+sicritis shows [Th Td] (Two pairs : Tens and 9)
+sicritis collected 3020 from pot
+*** SUMMARY ***
+Total pot 3020 | No rake
+Board: [Qd 4h Ah 9h 9c]
+Seat 3: sicritis (small blind) showed [Th Td] and won 3020 with Two pairs : Tens and 9
+Seat 5: Zeking64000 showed [8s 4s] and lost with Two pairs : 9 and 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3013263597909311489-2-1695656258 - Holdem no limit (10/20) - 2023/09/25 15:37:38 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (1500)
+Seat 2: LBJ12 (1500)
+Seat 3: sicritis (3020)
+Seat 4: J. A .12 (1480)
+Seat 6: PinkFred (1500)
+*** ANTE/BLINDS ***
+J. A .12 posts small blind 10
+PinkFred posts big blind 20
+Dealt to P1xel7 [7s 8h]
+*** PRE-FLOP *** 
+P1xel7 folds
+LBJ12 folds
+sicritis raises 20 to 40
+J. A .12 folds
+PinkFred folds
+sicritis collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: sicritis (button) won 70
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 1 - HandId: #3013263597909311489-3-1695656290 - Holdem no limit (10/20) - 2023/09/25 15:38:10 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1500)
+Seat 2: LBJ12 (1500)
+Seat 3: sicritis (3050)
+Seat 4: J. A .12 (1470)
+Seat 6: PinkFred (1480)
+*** ANTE/BLINDS ***
+PinkFred posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [7c 6h]
+*** PRE-FLOP *** 
+LBJ12 folds
+sicritis folds
+J. A .12 calls 20
+PinkFred calls 10
+P1xel7 checks
+*** FLOP *** [Qh Kh Td]
+PinkFred checks
+P1xel7 checks
+J. A .12 bets 1450 and is all-in
+PinkFred folds
+P1xel7 folds
+J. A .12 collected 1510 from pot
+*** SUMMARY ***
+Total pot 1510 | No rake
+Board: [Qh Kh Td]
+Seat 4: J. A .12 (button) won 1510
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #3013263597909311489-4-1695656340 - Holdem no limit (15/30) - 2023/09/25 15:39:00 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (1480)
+Seat 2: LBJ12 (1500)
+Seat 3: sicritis (3050)
+Seat 4: J. A .12 (1510)
+Seat 6: PinkFred (1460)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+LBJ12 posts big blind 30
+Dealt to P1xel7 [5h Qc]
+*** PRE-FLOP *** 
+sicritis folds
+J. A .12 raises 75 to 105
+PinkFred folds
+P1xel7 folds
+LBJ12 folds
+J. A .12 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | No rake
+Seat 4: J. A .12 won 150
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 2 - HandId: #3013263597909311489-5-1695656354 - Holdem no limit (15/30) - 2023/09/25 15:39:14 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1465)
+Seat 2: LBJ12 (1470)
+Seat 3: sicritis (3050)
+Seat 4: J. A .12 (1555)
+Seat 6: PinkFred (1460)
+*** ANTE/BLINDS ***
+LBJ12 posts small blind 15
+sicritis posts big blind 30
+Dealt to P1xel7 [4h Js]
+*** PRE-FLOP *** 
+J. A .12 calls 30
+PinkFred folds
+P1xel7 folds
+LBJ12 calls 15
+sicritis raises 45 to 75
+J. A .12 calls 45
+LBJ12 folds
+*** FLOP *** [9c 6c 9d]
+sicritis bets 63
+J. A .12 calls 63
+*** TURN *** [9c 6c 9d][8c]
+sicritis checks
+J. A .12 bets 1417 and is all-in
+sicritis folds
+J. A .12 collected 1723 from pot
+*** SUMMARY ***
+Total pot 1723 | No rake
+Board: [9c 6c 9d 8c]
+Seat 4: J. A .12 won 1723
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #3013263597909311489-6-1695656418 - Holdem no limit (20/40) - 2023/09/25 15:40:18 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (1465)
+Seat 2: LBJ12 (1440)
+Seat 3: sicritis (2912)
+Seat 4: J. A .12 (1723)
+Seat 6: PinkFred (1460)
+*** ANTE/BLINDS ***
+sicritis posts small blind 20
+J. A .12 posts big blind 40
+Dealt to P1xel7 [4c Th]
+*** PRE-FLOP *** 
+PinkFred folds
+P1xel7 folds
+LBJ12 calls 40
+sicritis folds
+J. A .12 checks
+*** FLOP *** [As Ah Jh]
+J. A .12 checks
+LBJ12 checks
+*** TURN *** [As Ah Jh][4d]
+J. A .12 checks
+LBJ12 checks
+*** RIVER *** [As Ah Jh 4d][6h]
+J. A .12 checks
+LBJ12 checks
+*** SHOW DOWN ***
+LBJ12 shows [9h 7d] (One pair : Aces)
+J. A .12 shows [Ks 9c] (One pair : Aces)
+J. A .12 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [As Ah Jh 4d 6h]
+Seat 2: LBJ12 (button) showed [9h 7d] and lost with One pair : Aces
+Seat 4: J. A .12 (big blind) showed [Ks 9c] and won 100 with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 3 - HandId: #3013263597909311489-7-1695656484 - Holdem no limit (20/40) - 2023/09/25 15:41:24 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (1465)
+Seat 2: LBJ12 (1400)
+Seat 3: sicritis (2892)
+Seat 4: J. A .12 (1783)
+Seat 6: PinkFred (1460)
+*** ANTE/BLINDS ***
+J. A .12 posts small blind 20
+PinkFred posts big blind 40
+Dealt to P1xel7 [8s Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+LBJ12 folds
+sicritis raises 60 to 100
+J. A .12 calls 80
+PinkFred calls 60
+*** FLOP *** [Jc 7s 2s]
+J. A .12 checks
+PinkFred checks
+sicritis checks
+*** TURN *** [Jc 7s 2s][Tc]
+J. A .12 checks
+PinkFred checks
+sicritis checks
+*** RIVER *** [Jc 7s 2s Tc][6d]
+J. A .12 checks
+PinkFred checks
+sicritis checks
+*** SHOW DOWN ***
+sicritis shows [Kh 4d] (High card : King)
+PinkFred shows [9c Qd] (High card : Queen)
+J. A .12 shows [6h 8d] (One pair : 6)
+J. A .12 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Jc 7s 2s Tc 6d]
+Seat 3: sicritis (button) showed [Kh 4d] and lost with High card : King
+Seat 4: J. A .12 (small blind) showed [6h 8d] and won 300 with One pair : 6
+Seat 6: PinkFred (big blind) showed [9c Qd] and lost with High card : Queen
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #3013263597909311489-8-1695656550 - Holdem no limit (30/60) - 2023/09/25 15:42:30 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (1465)
+Seat 2: LBJ12 (1400)
+Seat 3: sicritis (2792)
+Seat 4: J. A .12 (1983)
+Seat 6: PinkFred (1360)
+*** ANTE/BLINDS ***
+PinkFred posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [2s 4c]
+*** PRE-FLOP *** 
+LBJ12 folds
+sicritis raises 60 to 120
+J. A .12 folds
+PinkFred folds
+P1xel7 folds
+sicritis collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Seat 3: sicritis won 210
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 4 - HandId: #3013263597909311489-9-1695656573 - Holdem no limit (30/60) - 2023/09/25 15:42:53 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (1405)
+Seat 2: LBJ12 (1400)
+Seat 3: sicritis (2882)
+Seat 4: J. A .12 (1983)
+Seat 6: PinkFred (1330)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+LBJ12 posts big blind 60
+Dealt to P1xel7 [2c 8s]
+*** PRE-FLOP *** 
+sicritis folds
+J. A .12 calls 60
+PinkFred folds
+P1xel7 folds
+LBJ12 checks
+*** FLOP *** [8h 6d Ac]
+LBJ12 checks
+J. A .12 checks
+*** TURN *** [8h 6d Ac][Kd]
+LBJ12 checks
+J. A .12 bets 150
+LBJ12 folds
+J. A .12 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [8h 6d Ac Kd]
+Seat 4: J. A .12 won 300
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #3013263597909311489-10-1695656597 - Holdem no limit (40/80) - 2023/09/25 15:43:17 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (1375)
+Seat 2: LBJ12 (1340)
+Seat 3: sicritis (2882)
+Seat 4: J. A .12 (2073)
+Seat 6: PinkFred (1330)
+*** ANTE/BLINDS ***
+LBJ12 posts small blind 40
+sicritis posts big blind 80
+Dealt to P1xel7 [Kd Jh]
+*** PRE-FLOP *** 
+J. A .12 raises 200 to 280
+PinkFred folds
+P1xel7 calls 280
+LBJ12 folds
+sicritis folds
+*** FLOP *** [8c 5c 2d]
+J. A .12 checks
+P1xel7 bets 340
+J. A .12 calls 340
+*** TURN *** [8c 5c 2d][Ac]
+J. A .12 checks
+P1xel7 bets 476
+J. A .12 raises 977 to 1453 and is all-in
+P1xel7 folds
+J. A .12 collected 3289 from pot
+*** SUMMARY ***
+Total pot 3289 | No rake
+Board: [8c 5c 2d Ac]
+Seat 4: J. A .12 won 3289
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 5 - HandId: #3013263597909311489-11-1695656662 - Holdem no limit (40/80) - 2023/09/25 15:44:22 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (279)
+Seat 2: LBJ12 (1300)
+Seat 3: sicritis (2802)
+Seat 4: J. A .12 (3289)
+Seat 6: PinkFred (1330)
+*** ANTE/BLINDS ***
+sicritis posts small blind 40
+J. A .12 posts big blind 80
+Dealt to P1xel7 [4h 8h]
+*** PRE-FLOP *** 
+PinkFred folds
+P1xel7 folds
+LBJ12 folds
+sicritis calls 40
+J. A .12 checks
+*** FLOP *** [Jh 3h 9c]
+sicritis checks
+J. A .12 checks
+*** TURN *** [Jh 3h 9c][Ac]
+sicritis bets 80
+J. A .12 folds
+sicritis collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [Jh 3h 9c Ac]
+Seat 3: sicritis (small blind) won 240
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #3013263597909311489-12-1695656686 - Holdem no limit (60/120) - 2023/09/25 15:44:46 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (279)
+Seat 2: LBJ12 (1300)
+Seat 3: sicritis (2882)
+Seat 4: J. A .12 (3209)
+Seat 6: PinkFred (1330)
+*** ANTE/BLINDS ***
+J. A .12 posts small blind 60
+PinkFred posts big blind 120
+Dealt to P1xel7 [8h 6c]
+*** PRE-FLOP *** 
+P1xel7 folds
+LBJ12 calls 120
+sicritis folds
+J. A .12 calls 60
+PinkFred checks
+*** FLOP *** [Jc Td Jh]
+J. A .12 bets 360
+PinkFred folds
+LBJ12 folds
+J. A .12 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | No rake
+Board: [Jc Td Jh]
+Seat 4: J. A .12 (small blind) won 720
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #3013263597909311489-13-1695656713 - Holdem no limit (60/120) - 2023/09/25 15:45:13 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (279)
+Seat 2: LBJ12 (1180)
+Seat 3: sicritis (2882)
+Seat 4: J. A .12 (3449)
+Seat 6: PinkFred (1210)
+*** ANTE/BLINDS ***
+PinkFred posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [8d 4h]
+*** PRE-FLOP *** 
+LBJ12 raises 1060 to 1180 and is all-in
+sicritis folds
+J. A .12 folds
+PinkFred folds
+P1xel7 folds
+LBJ12 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | No rake
+Seat 2: LBJ12 won 1360
+
+
+Winamax Poker - Tournament "Starting Block WiPT" buyIn: 0€ + 0€ level: 6 - HandId: #3013263597909311489-14-1695656731 - Holdem no limit (60/120) - 2023/09/25 15:45:31 UTC
+Table: 'Starting Block WiPT(701580103)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (159)
+Seat 2: LBJ12 (1360)
+Seat 3: sicritis (2882)
+Seat 4: J. A .12 (3449)
+Seat 6: PinkFred (1150)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+LBJ12 posts big blind 120
+Dealt to P1xel7 [7d 9s]
+*** PRE-FLOP *** 
+sicritis folds
+J. A .12 raises 300 to 420
+PinkFred folds
+P1xel7 calls 99 and is all-in
+LBJ12 folds
+*** FLOP *** [Qd Ad As]
+*** TURN *** [Qd Ad As][Kh]
+*** RIVER *** [Qd Ad As Kh][Kd]
+*** SHOW DOWN ***
+P1xel7 shows [7d 9s] (Two pairs : Aces and Kings)
+J. A .12 shows [Th Ah] (Full of Aces and Kings)
+J. A .12 collected 699 from pot
+*** SUMMARY ***
+Total pot 699 | No rake
+Board: [Qd Ad As Kh Kd]
+Seat 1: P1xel7 (small blind) showed [7d 9s] and lost with Two pairs : Aces and Kings
+Seat 4: J. A .12 showed [Th Ah] and won 699 with Full of Aces and Kings
+
+

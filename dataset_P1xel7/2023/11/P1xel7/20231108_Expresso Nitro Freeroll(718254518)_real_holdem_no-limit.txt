@@ -1,0 +1,527 @@
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084879665014243329-1-1699453960 - Holdem no limit (10/20) - 2023/11/08 14:32:40 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (300)
+Seat 2: --Bernaldo-- (300)
+Seat 3: Tysweet22 (300)
+*** ANTE/BLINDS ***
+--Bernaldo-- posts small blind 10
+Tysweet22 posts big blind 20
+Dealt to P1xel7 [2s 2c]
+*** PRE-FLOP *** 
+P1xel7 raises 280 to 300 and is all-in
+--Bernaldo-- folds
+Tysweet22 folds
+P1xel7 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Seat 1: P1xel7 (button) won 330
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084879665014243329-2-1699453969 - Holdem no limit (10/20) - 2023/11/08 14:32:49 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (330)
+Seat 2: --Bernaldo-- (290)
+Seat 3: Tysweet22 (280)
+*** ANTE/BLINDS ***
+Tysweet22 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [6s 8c]
+*** PRE-FLOP *** 
+--Bernaldo-- folds
+Tysweet22 calls 10
+P1xel7 checks
+*** FLOP *** [Ac 7h 4d]
+Tysweet22 checks
+P1xel7 checks
+*** TURN *** [Ac 7h 4d][4h]
+Tysweet22 checks
+P1xel7 bets 20
+Tysweet22 folds
+P1xel7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Ac 7h 4d 4h]
+Seat 1: P1xel7 (big blind) won 60
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084879665014243329-3-1699453985 - Holdem no limit (10/20) - 2023/11/08 14:33:05 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (350)
+Seat 2: --Bernaldo-- (290)
+Seat 3: Tysweet22 (260)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+--Bernaldo-- posts big blind 20
+Dealt to P1xel7 [Kd 2d]
+*** PRE-FLOP *** 
+Tysweet22 folds
+P1xel7 raises 25 to 45
+--Bernaldo-- calls 25
+*** FLOP *** [9h 2s 3d]
+P1xel7 bets 45
+--Bernaldo-- folds
+P1xel7 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Board: [9h 2s 3d]
+Seat 1: P1xel7 (small blind) won 135
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084879665014243329-4-1699454003 - Holdem no limit (10/20) - 2023/11/08 14:33:23 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (395)
+Seat 2: --Bernaldo-- (245)
+Seat 3: Tysweet22 (260)
+*** ANTE/BLINDS ***
+--Bernaldo-- posts small blind 10
+Tysweet22 posts big blind 20
+Dealt to P1xel7 [3c 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+--Bernaldo-- folds
+Tysweet22 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: Tysweet22 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084879665014243329-5-1699454009 - Holdem no limit (10/20) - 2023/11/08 14:33:29 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (395)
+Seat 2: --Bernaldo-- (235)
+Seat 3: Tysweet22 (270)
+*** ANTE/BLINDS ***
+Tysweet22 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [2c 9h]
+*** PRE-FLOP *** 
+--Bernaldo-- raises 215 to 235 and is all-in
+Tysweet22 folds
+P1xel7 folds
+--Bernaldo-- collected 265 from pot
+*** SUMMARY ***
+Total pot 265 | No rake
+Seat 2: --Bernaldo-- (button) won 265
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3084879665014243329-6-1699454018 - Holdem no limit (15/30) - 2023/11/08 14:33:38 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (375)
+Seat 2: --Bernaldo-- (265)
+Seat 3: Tysweet22 (260)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+--Bernaldo-- posts big blind 30
+Dealt to P1xel7 [Js 4h]
+*** PRE-FLOP *** 
+Tysweet22 calls 30
+P1xel7 folds
+--Bernaldo-- checks
+*** FLOP *** [2h 5d Qh]
+--Bernaldo-- checks
+Tysweet22 checks
+*** TURN *** [2h 5d Qh][Ac]
+--Bernaldo-- bets 30
+Tysweet22 calls 30
+*** RIVER *** [2h 5d Qh Ac][6h]
+--Bernaldo-- bets 88
+Tysweet22 raises 88 to 176
+--Bernaldo-- raises 29 to 205 and is all-in
+Tysweet22 calls 24 and is all-in
+*** SHOW DOWN ***
+--Bernaldo-- shows [2s 5s] (Two pairs : 5 and 2)
+Tysweet22 shows [5h Th] (Flush Queen high)
+Tysweet22 collected 535 from main pot
+--Bernaldo-- collected 5 from side pot 1
+*** SUMMARY ***
+Total pot 540 | No rake
+Board: [2h 5d Qh Ac 6h]
+Seat 2: --Bernaldo-- (big blind) showed [2s 5s] and won 5 with Two pairs : 5 and 2
+Seat 3: Tysweet22 (button) showed [5h Th] and won 535 with Flush Queen high
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3084879665014243329-7-1699454047 - Holdem no limit (15/30) - 2023/11/08 14:34:07 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (360)
+Seat 2: --Bernaldo-- (5)
+Seat 3: Tysweet22 (535)
+*** ANTE/BLINDS ***
+--Bernaldo-- posts small blind 5 and is all-in
+Tysweet22 posts big blind 30
+Dealt to P1xel7 [Jc 8s]
+*** PRE-FLOP *** 
+P1xel7 folds
+*** FLOP *** [Jh 3s Tc]
+*** TURN *** [Jh 3s Tc][5d]
+*** RIVER *** [Jh 3s Tc 5d][Ts]
+*** SHOW DOWN ***
+--Bernaldo-- shows [Qs 6s] (One pair : Tens)
+Tysweet22 shows [2s 9c] (One pair : Tens)
+Tysweet22 collected 25 from side pot 1
+--Bernaldo-- collected 10 from main pot
+*** SUMMARY ***
+Total pot 35 | No rake
+Board: [Jh 3s Tc 5d Ts]
+Seat 2: --Bernaldo-- (small blind) showed [Qs 6s] and won 10 with One pair : Tens
+Seat 3: Tysweet22 (big blind) showed [2s 9c] and won 25 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3084879665014243329-8-1699454061 - Holdem no limit (15/30) - 2023/11/08 14:34:21 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (360)
+Seat 2: --Bernaldo-- (10)
+Seat 3: Tysweet22 (530)
+*** ANTE/BLINDS ***
+Tysweet22 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [4h Kc]
+*** PRE-FLOP *** 
+--Bernaldo-- calls 10 and is all-in
+Tysweet22 calls 15
+P1xel7 checks
+*** FLOP *** [9h 2s 7s]
+Tysweet22 checks
+P1xel7 checks
+*** TURN *** [9h 2s 7s][3s]
+Tysweet22 checks
+P1xel7 checks
+*** RIVER *** [9h 2s 7s 3s][9c]
+Tysweet22 bets 30
+P1xel7 folds
+*** SHOW DOWN ***
+--Bernaldo-- shows [Ac 5d] (One pair : 9)
+Tysweet22 shows [Jd Qh] (One pair : 9)
+Tysweet22 collected 70 from side pot 1
+--Bernaldo-- collected 30 from main pot
+*** SUMMARY ***
+Total pot 100 | No rake
+Board: [9h 2s 7s 3s 9c]
+Seat 2: --Bernaldo-- (button) showed [Ac 5d] and won 30 with One pair : 9
+Seat 3: Tysweet22 (small blind) showed [Jd Qh] and won 70 with One pair : 9
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084879665014243329-9-1699454085 - Holdem no limit (20/40) - 2023/11/08 14:34:45 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (330)
+Seat 2: --Bernaldo-- (30)
+Seat 3: Tysweet22 (540)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+--Bernaldo-- posts big blind 30 and is all-in
+Dealt to P1xel7 [6d Tc]
+*** PRE-FLOP *** 
+Tysweet22 folds
+P1xel7 calls 20
+*** FLOP *** [9c As Td]
+*** TURN *** [9c As Td][Kd]
+*** RIVER *** [9c As Td Kd][7d]
+*** SHOW DOWN ***
+--Bernaldo-- shows [5h 3h] (High card : Ace)
+P1xel7 shows [6d Tc] (One pair : Tens)
+P1xel7 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Board: [9c As Td Kd 7d]
+Seat 1: P1xel7 (small blind) showed [6d Tc] and won 70 with One pair : Tens
+Seat 2: --Bernaldo-- (big blind) showed [5h 3h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084879665014243329-10-1699454097 - Holdem no limit (20/40) - 2023/11/08 14:34:57 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (360)
+Seat 3: Tysweet22 (540)
+*** ANTE/BLINDS ***
+Tysweet22 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [Kd Ah]
+*** PRE-FLOP *** 
+Tysweet22 calls 20
+P1xel7 raises 50 to 90
+Tysweet22 folds
+P1xel7 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Seat 1: P1xel7 (big blind) won 130
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084879665014243329-11-1699454110 - Holdem no limit (20/40) - 2023/11/08 14:35:10 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (400)
+Seat 3: Tysweet22 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Tysweet22 posts big blind 40
+Dealt to P1xel7 [5d Qh]
+*** PRE-FLOP *** 
+P1xel7 raises 50 to 90
+Tysweet22 folds
+P1xel7 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | No rake
+Seat 1: P1xel7 (small blind) (button) won 130
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084879665014243329-12-1699454119 - Holdem no limit (20/40) - 2023/11/08 14:35:19 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (440)
+Seat 3: Tysweet22 (460)
+*** ANTE/BLINDS ***
+Tysweet22 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [7s 4h]
+*** PRE-FLOP *** 
+Tysweet22 raises 40 to 80
+P1xel7 folds
+Tysweet22 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: Tysweet22 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084879665014243329-13-1699454124 - Holdem no limit (20/40) - 2023/11/08 14:35:24 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (400)
+Seat 3: Tysweet22 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Tysweet22 posts big blind 40
+Dealt to P1xel7 [Kh 9h]
+*** PRE-FLOP *** 
+P1xel7 raises 360 to 400 and is all-in
+Tysweet22 folds
+P1xel7 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | No rake
+Seat 1: P1xel7 (small blind) (button) won 440
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #3084879665014243329-14-1699454130 - Holdem no limit (20/40) - 2023/11/08 14:35:30 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (440)
+Seat 3: Tysweet22 (460)
+*** ANTE/BLINDS ***
+Tysweet22 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [2d 7c]
+*** PRE-FLOP *** 
+Tysweet22 calls 20
+P1xel7 checks
+*** FLOP *** [9c 8s Jh]
+P1xel7 checks
+Tysweet22 bets 40
+P1xel7 folds
+Tysweet22 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Board: [9c 8s Jh]
+Seat 3: Tysweet22 (small blind) (button) won 120
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3084879665014243329-15-1699454142 - Holdem no limit (30/60) - 2023/11/08 14:35:42 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (400)
+Seat 3: Tysweet22 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Tysweet22 posts big blind 60
+Dealt to P1xel7 [Kc Qh]
+*** PRE-FLOP *** 
+P1xel7 calls 30
+Tysweet22 checks
+*** FLOP *** [Ks Qc Jd]
+Tysweet22 bets 60
+P1xel7 calls 60
+*** TURN *** [Ks Qc Jd][8h]
+Tysweet22 bets 60
+P1xel7 calls 60
+*** RIVER *** [Ks Qc Jd 8h][Tc]
+Tysweet22 checks
+P1xel7 bets 220 and is all-in
+Tysweet22 folds
+P1xel7 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [Ks Qc Jd 8h Tc]
+Seat 1: P1xel7 (small blind) (button) won 580
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3084879665014243329-16-1699454166 - Holdem no limit (30/60) - 2023/11/08 14:36:06 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (580)
+Seat 3: Tysweet22 (320)
+*** ANTE/BLINDS ***
+Tysweet22 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Ad 7h]
+*** PRE-FLOP *** 
+Tysweet22 calls 30
+P1xel7 raises 520 to 580 and is all-in
+Tysweet22 calls 260 and is all-in
+*** FLOP *** [3d 3h Jc]
+*** TURN *** [3d 3h Jc][6s]
+*** RIVER *** [3d 3h Jc 6s][5c]
+*** SHOW DOWN ***
+P1xel7 shows [Ad 7h] (One pair : 3)
+Tysweet22 shows [Qh As] (One pair : 3)
+Tysweet22 collected 640 from main pot
+P1xel7 collected 260 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [3d 3h Jc 6s 5c]
+Seat 1: P1xel7 (big blind) showed [Ad 7h] and won 260 with One pair : 3
+Seat 3: Tysweet22 (small blind) (button) showed [Qh As] and won 640 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3084879665014243329-17-1699454180 - Holdem no limit (30/60) - 2023/11/08 14:36:20 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (260)
+Seat 3: Tysweet22 (640)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Tysweet22 posts big blind 60
+Dealt to P1xel7 [Th 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Tysweet22 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 3: Tysweet22 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3084879665014243329-18-1699454184 - Holdem no limit (30/60) - 2023/11/08 14:36:24 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (230)
+Seat 3: Tysweet22 (670)
+*** ANTE/BLINDS ***
+Tysweet22 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Qh 6d]
+*** PRE-FLOP *** 
+Tysweet22 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 1: P1xel7 (big blind) won 90
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3084879665014243329-19-1699454188 - Holdem no limit (30/60) - 2023/11/08 14:36:28 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (260)
+Seat 3: Tysweet22 (640)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Tysweet22 posts big blind 60
+Dealt to P1xel7 [Qd Ts]
+*** PRE-FLOP *** 
+P1xel7 raises 200 to 260 and is all-in
+Tysweet22 folds
+P1xel7 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | No rake
+Seat 1: P1xel7 (small blind) (button) won 320
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #3084879665014243329-20-1699454193 - Holdem no limit (30/60) - 2023/11/08 14:36:33 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (320)
+Seat 3: Tysweet22 (580)
+*** ANTE/BLINDS ***
+Tysweet22 posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [6s 3h]
+*** PRE-FLOP *** 
+Tysweet22 raises 60 to 120
+P1xel7 calls 60
+*** FLOP *** [5s Tc 3s]
+P1xel7 bets 200 and is all-in
+Tysweet22 calls 200
+*** TURN *** [5s Tc 3s][9h]
+*** RIVER *** [5s Tc 3s 9h][2s]
+*** SHOW DOWN ***
+Tysweet22 shows [8d Ks] (High card : King)
+P1xel7 shows [6s 3h] (One pair : 3)
+P1xel7 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | No rake
+Board: [5s Tc 3s 9h 2s]
+Seat 1: P1xel7 (big blind) showed [6s 3h] and won 640 with One pair : 3
+Seat 3: Tysweet22 (small blind) (button) showed [8d Ks] and lost with High card : King
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3084879665014243329-21-1699454206 - Holdem no limit (40/80) - 2023/11/08 14:36:46 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (640)
+Seat 3: Tysweet22 (260)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+Tysweet22 posts big blind 80
+Dealt to P1xel7 [3s Qc]
+*** PRE-FLOP *** 
+P1xel7 raises 560 to 640 and is all-in
+Tysweet22 calls 180 and is all-in
+*** FLOP *** [8s Kh 7d]
+*** TURN *** [8s Kh 7d][Ts]
+*** RIVER *** [8s Kh 7d Ts][Td]
+*** SHOW DOWN ***
+P1xel7 shows [3s Qc] (One pair : Tens)
+Tysweet22 shows [Jh Qh] (One pair : Tens)
+Tysweet22 collected 520 from main pot
+P1xel7 collected 380 from side pot 1
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [8s Kh 7d Ts Td]
+Seat 1: P1xel7 (small blind) (button) showed [3s Qc] and won 380 with One pair : Tens
+Seat 3: Tysweet22 (big blind) showed [Jh Qh] and won 520 with One pair : Tens
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3084879665014243329-22-1699454219 - Holdem no limit (40/80) - 2023/11/08 14:36:59 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (380)
+Seat 3: Tysweet22 (520)
+*** ANTE/BLINDS ***
+Tysweet22 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Qs Ks]
+*** PRE-FLOP *** 
+Tysweet22 raises 440 to 520 and is all-in
+P1xel7 calls 300 and is all-in
+*** FLOP *** [2s Qc Jh]
+*** TURN *** [2s Qc Jh][3h]
+*** RIVER *** [2s Qc Jh 3h][Tc]
+*** SHOW DOWN ***
+P1xel7 shows [Qs Ks] (One pair : Queens)
+Tysweet22 shows [3d As] (One pair : 3)
+Tysweet22 collected 140 from side pot 1
+P1xel7 collected 760 from main pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Board: [2s Qc Jh 3h Tc]
+Seat 1: P1xel7 (big blind) showed [Qs Ks] and won 760 with One pair : Queens
+Seat 3: Tysweet22 (small blind) (button) showed [3d As] and won 140 with One pair : 3
+
+
+Winamax Poker - Tournament "Expresso Nitro Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #3084879665014243329-23-1699454230 - Holdem no limit (40/80) - 2023/11/08 14:37:10 UTC
+Table: 'Expresso Nitro Freeroll(718254518)#0' 3-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (760)
+Seat 3: Tysweet22 (140)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+Tysweet22 posts big blind 80
+Dealt to P1xel7 [Tc 8c]
+*** PRE-FLOP *** 
+P1xel7 raises 80 to 160
+Tysweet22 calls 60 and is all-in
+*** FLOP *** [Jd Qc 7s]
+*** TURN *** [Jd Qc 7s][4c]
+*** RIVER *** [Jd Qc 7s 4c][Ks]
+*** SHOW DOWN ***
+Tysweet22 shows [9d 3h] (High card : King)
+P1xel7 shows [Tc 8c] (High card : King)
+P1xel7 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Board: [Jd Qc 7s 4c Ks]
+Seat 1: P1xel7 (small blind) (button) showed [Tc 8c] and won 300 with High card : King
+Seat 3: Tysweet22 (big blind) showed [9d 3h] and lost with High card : King
+
+

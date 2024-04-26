@@ -1,0 +1,990 @@
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #3162551773445488689-24-1703712803 - Holdem no limit (35/150/300) - 2023/12/27 21:33:23 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: Maragorn3325 (29129)
+Seat 2: Zionity (26550)
+Seat 3: P1xel7 (20000)
+Seat 4: Philippe_51_ (16041)
+Seat 5: Mikus54 (17516)
+Seat 6: Shiva Yoga (19636)
+*** ANTE/BLINDS ***
+Zionity posts ante 35
+P1xel7 posts ante 35
+Maragorn3325 posts ante 35
+Philippe_51_ posts ante 35
+Mikus54 posts ante 35
+Shiva Yoga posts ante 35
+Zionity posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Qd 9s]
+*** PRE-FLOP *** 
+Philippe_51_ folds
+Mikus54 raises 600 to 900
+Shiva Yoga folds
+Maragorn3325 folds
+Zionity folds
+P1xel7 folds
+Mikus54 collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Seat 5: Mikus54 won 1560
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 3 - HandId: #3162551773445488689-25-1703712835 - Holdem no limit (35/150/300) - 2023/12/27 21:33:55 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: Maragorn3325 (29094)
+Seat 2: Zionity (26365)
+Seat 3: P1xel7 (19665)
+Seat 4: Philippe_51_ (16006)
+Seat 5: Mikus54 (18141)
+Seat 6: Shiva Yoga (19601)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Philippe_51_ posts ante 35
+Maragorn3325 posts ante 35
+Zionity posts ante 35
+Mikus54 posts ante 35
+Shiva Yoga posts ante 35
+P1xel7 posts small blind 150
+Philippe_51_ posts big blind 300
+Dealt to P1xel7 [Ac Jh]
+*** PRE-FLOP *** 
+Mikus54 folds
+Shiva Yoga folds
+Maragorn3325 calls 300
+Zionity folds
+P1xel7 raises 1200 to 1500
+Philippe_51_ raises 14471 to 15971 and is all-in
+Maragorn3325 calls 15671
+P1xel7 folds
+*** FLOP *** [Th 8d Js]
+*** TURN *** [Th 8d Js][7h]
+*** RIVER *** [Th 8d Js 7h][4c]
+*** SHOW DOWN ***
+Maragorn3325 shows [Ah 2d] (High card : Ace)
+Philippe_51_ shows [Ts Tc] (Trips of Tens)
+Philippe_51_ collected 33652 from pot
+*** SUMMARY ***
+Total pot 33652 | No rake
+Board: [Th 8d Js 7h 4c]
+Seat 1: Maragorn3325 showed [Ah 2d] and lost with High card : Ace
+Seat 4: Philippe_51_ (big blind) showed [Ts Tc] and won 33652 with Trips of Tens
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #3162551773445488689-26-1703712907 - Holdem no limit (40/175/350) - 2023/12/27 21:35:07 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: Maragorn3325 (13088)
+Seat 2: Zionity (26330)
+Seat 3: P1xel7 (18130)
+Seat 4: Philippe_51_ (33652)
+Seat 5: Mikus54 (18106)
+Seat 6: Shiva Yoga (19566)
+*** ANTE/BLINDS ***
+Philippe_51_ posts ante 40
+Mikus54 posts ante 40
+Maragorn3325 posts ante 40
+Zionity posts ante 40
+P1xel7 posts ante 40
+Shiva Yoga posts ante 40
+Philippe_51_ posts small blind 175
+Mikus54 posts big blind 350
+Dealt to P1xel7 [3h 5s]
+*** PRE-FLOP *** 
+Shiva Yoga folds
+Maragorn3325 folds
+Zionity raises 525 to 875
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 calls 525
+*** FLOP *** [Tc 6d Js]
+Mikus54 checks
+Zionity bets 758
+Mikus54 calls 758
+*** TURN *** [Tc 6d Js][9s]
+Mikus54 checks
+Zionity checks
+*** RIVER *** [Tc 6d Js 9s][Qh]
+Mikus54 checks
+Zionity checks
+*** SHOW DOWN ***
+Zionity shows [Jh Ad] (One pair : Jacks)
+Mikus54 shows [Jc 9c] (Two pairs : Jacks and 9)
+Mikus54 collected 3681 from pot
+*** SUMMARY ***
+Total pot 3681 | No rake
+Board: [Tc 6d Js 9s Qh]
+Seat 2: Zionity showed [Jh Ad] and lost with One pair : Jacks
+Seat 5: Mikus54 (big blind) showed [Jc 9c] and won 3681 with Two pairs : Jacks and 9
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #3162551773445488689-27-1703712954 - Holdem no limit (40/175/350) - 2023/12/27 21:35:54 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #4 is the button
+Seat 1: Maragorn3325 (13048)
+Seat 2: Zionity (24657)
+Seat 3: P1xel7 (18090)
+Seat 4: Philippe_51_ (33437)
+Seat 5: Mikus54 (20114)
+Seat 6: Shiva Yoga (19526)
+*** ANTE/BLINDS ***
+Mikus54 posts ante 40
+Shiva Yoga posts ante 40
+Maragorn3325 posts ante 40
+Zionity posts ante 40
+P1xel7 posts ante 40
+Philippe_51_ posts ante 40
+Mikus54 posts small blind 175
+Shiva Yoga posts big blind 350
+Dealt to P1xel7 [5h As]
+*** PRE-FLOP *** 
+Maragorn3325 folds
+Zionity folds
+P1xel7 folds
+Philippe_51_ raises 420 to 770
+Mikus54 folds
+Shiva Yoga folds
+Philippe_51_ collected 1535 from pot
+*** SUMMARY ***
+Total pot 1535 | No rake
+Seat 4: Philippe_51_ (button) won 1535
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #3162551773445488689-28-1703712979 - Holdem no limit (40/175/350) - 2023/12/27 21:36:19 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: Maragorn3325 (13008)
+Seat 2: Zionity (24617)
+Seat 3: P1xel7 (18050)
+Seat 4: Philippe_51_ (34162)
+Seat 5: Mikus54 (19899)
+Seat 6: Shiva Yoga (19136)
+*** ANTE/BLINDS ***
+Shiva Yoga posts ante 40
+Maragorn3325 posts ante 40
+Zionity posts ante 40
+P1xel7 posts ante 40
+Philippe_51_ posts ante 40
+Mikus54 posts ante 40
+Shiva Yoga posts small blind 175
+Maragorn3325 posts big blind 350
+Dealt to P1xel7 [Th 3h]
+*** PRE-FLOP *** 
+Zionity folds
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 folds
+Shiva Yoga raises 700 to 1050
+Maragorn3325 folds
+Shiva Yoga collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Seat 6: Shiva Yoga (small blind) won 1640
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #3162551773445488689-29-1703713008 - Holdem no limit (40/175/350) - 2023/12/27 21:36:48 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: Maragorn3325 (12618)
+Seat 2: Zionity (24577)
+Seat 3: P1xel7 (18010)
+Seat 4: Philippe_51_ (34122)
+Seat 5: Mikus54 (19859)
+Seat 6: Shiva Yoga (19686)
+*** ANTE/BLINDS ***
+Maragorn3325 posts ante 40
+Zionity posts ante 40
+P1xel7 posts ante 40
+Philippe_51_ posts ante 40
+Mikus54 posts ante 40
+Shiva Yoga posts ante 40
+Maragorn3325 posts small blind 175
+Zionity posts big blind 350
+Dealt to P1xel7 [Jd Qd]
+*** PRE-FLOP *** 
+P1xel7 raises 525 to 875
+Philippe_51_ calls 875
+Mikus54 folds
+Shiva Yoga folds
+Maragorn3325 calls 700
+Zionity calls 525
+*** FLOP *** [3c 3h 4d]
+Maragorn3325 bets 3740
+Zionity folds
+P1xel7 folds
+Philippe_51_ folds
+Maragorn3325 collected 7480 from pot
+*** SUMMARY ***
+Total pot 7480 | No rake
+Board: [3c 3h 4d]
+Seat 1: Maragorn3325 (small blind) won 7480
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #3162551773445488689-30-1703713057 - Holdem no limit (40/175/350) - 2023/12/27 21:37:37 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: Maragorn3325 (15443)
+Seat 2: Zionity (23662)
+Seat 3: P1xel7 (17095)
+Seat 4: Philippe_51_ (33207)
+Seat 5: Mikus54 (19819)
+Seat 6: Shiva Yoga (19646)
+*** ANTE/BLINDS ***
+Zionity posts ante 40
+P1xel7 posts ante 40
+Maragorn3325 posts ante 40
+Philippe_51_ posts ante 40
+Mikus54 posts ante 40
+Shiva Yoga posts ante 40
+Zionity posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [8c Kc]
+*** PRE-FLOP *** 
+Philippe_51_ folds
+Mikus54 folds
+Shiva Yoga folds
+Maragorn3325 raises 350 to 700
+Zionity folds
+P1xel7 calls 350
+*** FLOP *** [9h Kd 7s]
+P1xel7 checks
+Maragorn3325 bets 1815
+P1xel7 calls 1815
+*** TURN *** [9h Kd 7s][6d]
+P1xel7 checks
+Maragorn3325 bets 5445
+P1xel7 raises 9095 to 14540 and is all-in
+Maragorn3325 calls 7443 and is all-in
+*** RIVER *** [9h Kd 7s 6d][9c]
+*** SHOW DOWN ***
+Maragorn3325 shows [Kh Jh] (Two pairs : Kings and 9)
+P1xel7 shows [8c Kc] (Two pairs : Kings and 9)
+P1xel7 collected 1652 from side pot 1
+Maragorn3325 collected 31221 from main pot
+*** SUMMARY ***
+Total pot 32873 | No rake
+Board: [9h Kd 7s 6d 9c]
+Seat 1: Maragorn3325 (button) showed [Kh Jh] and won 31221 with Two pairs : Kings and 9
+Seat 3: P1xel7 (big blind) showed [8c Kc] and won 1652 with Two pairs : Kings and 9
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #3162551773445488689-31-1703713102 - Holdem no limit (40/175/350) - 2023/12/27 21:38:22 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: Maragorn3325 (31221)
+Seat 2: Zionity (23447)
+Seat 3: P1xel7 (1652)
+Seat 4: Philippe_51_ (33167)
+Seat 5: Mikus54 (19779)
+Seat 6: Shiva Yoga (19606)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Philippe_51_ posts ante 40
+Maragorn3325 posts ante 40
+Zionity posts ante 40
+Mikus54 posts ante 40
+Shiva Yoga posts ante 40
+P1xel7 posts small blind 175
+Philippe_51_ posts big blind 350
+Dealt to P1xel7 [6d Ah]
+*** PRE-FLOP *** 
+Mikus54 raises 525 to 875
+Shiva Yoga folds
+Maragorn3325 folds
+Zionity raises 1750 to 2625
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 folds
+Zionity collected 4265 from pot
+*** SUMMARY ***
+Total pot 4265 | No rake
+Seat 2: Zionity (button) won 4265
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #3162551773445488689-32-1703713139 - Holdem no limit (40/175/350) - 2023/12/27 21:38:59 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: Maragorn3325 (31181)
+Seat 2: Zionity (25047)
+Seat 3: P1xel7 (1437)
+Seat 4: Philippe_51_ (32777)
+Seat 5: Mikus54 (18864)
+Seat 6: Shiva Yoga (19566)
+*** ANTE/BLINDS ***
+Philippe_51_ posts ante 40
+Mikus54 posts ante 40
+Maragorn3325 posts ante 40
+Zionity posts ante 40
+P1xel7 posts ante 40
+Shiva Yoga posts ante 40
+Philippe_51_ posts small blind 175
+Mikus54 posts big blind 350
+Dealt to P1xel7 [9c 8d]
+*** PRE-FLOP *** 
+Shiva Yoga folds
+Maragorn3325 raises 350 to 700
+Zionity folds
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 calls 350
+*** FLOP *** [4c 3h Qd]
+Mikus54 checks
+Maragorn3325 bets 1815
+Mikus54 folds
+Maragorn3325 collected 3630 from pot
+*** SUMMARY ***
+Total pot 3630 | No rake
+Board: [4c 3h Qd]
+Seat 1: Maragorn3325 won 3630
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 4 - HandId: #3162551773445488689-33-1703713191 - Holdem no limit (40/175/350) - 2023/12/27 21:39:51 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #4 is the button
+Seat 1: Maragorn3325 (32256)
+Seat 2: Zionity (25007)
+Seat 3: P1xel7 (1397)
+Seat 4: Philippe_51_ (32562)
+Seat 5: Mikus54 (18124)
+Seat 6: Shiva Yoga (19526)
+*** ANTE/BLINDS ***
+Mikus54 posts ante 40
+Shiva Yoga posts ante 40
+Maragorn3325 posts ante 40
+Zionity posts ante 40
+P1xel7 posts ante 40
+Philippe_51_ posts ante 40
+Mikus54 posts small blind 175
+Shiva Yoga posts big blind 350
+Dealt to P1xel7 [5d Qh]
+*** PRE-FLOP *** 
+Maragorn3325 folds
+Zionity folds
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 raises 700 to 1050
+Shiva Yoga folds
+Mikus54 collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | No rake
+Seat 5: Mikus54 (small blind) won 1640
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #3162551773445488689-34-1703713213 - Holdem no limit (50/200/400) - 2023/12/27 21:40:13 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: Maragorn3325 (32216)
+Seat 2: Zionity (24967)
+Seat 3: P1xel7 (1357)
+Seat 4: Philippe_51_ (32522)
+Seat 5: Mikus54 (18674)
+Seat 6: Shiva Yoga (19136)
+*** ANTE/BLINDS ***
+Shiva Yoga posts ante 50
+Maragorn3325 posts ante 50
+Zionity posts ante 50
+P1xel7 posts ante 50
+Philippe_51_ posts ante 50
+Mikus54 posts ante 50
+Shiva Yoga posts small blind 200
+Maragorn3325 posts big blind 400
+Dealt to P1xel7 [Kh 5d]
+*** PRE-FLOP *** 
+Zionity raises 600 to 1000
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 folds
+Shiva Yoga calls 800
+Maragorn3325 folds
+*** FLOP *** [Th Ts 2c]
+Shiva Yoga bets 891
+Zionity folds
+Shiva Yoga collected 3591 from pot
+*** SUMMARY ***
+Total pot 3591 | No rake
+Board: [Th Ts 2c]
+Seat 6: Shiva Yoga (small blind) won 3591
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #3162551773445488689-35-1703713271 - Holdem no limit (50/200/400) - 2023/12/27 21:41:11 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: Maragorn3325 (31766)
+Seat 2: Zionity (23917)
+Seat 3: P1xel7 (1307)
+Seat 4: Philippe_51_ (32472)
+Seat 5: Mikus54 (18624)
+Seat 6: Shiva Yoga (20786)
+*** ANTE/BLINDS ***
+Maragorn3325 posts ante 50
+Zionity posts ante 50
+P1xel7 posts ante 50
+Philippe_51_ posts ante 50
+Mikus54 posts ante 50
+Shiva Yoga posts ante 50
+Maragorn3325 posts small blind 200
+Zionity posts big blind 400
+Dealt to P1xel7 [Th Jd]
+*** PRE-FLOP *** 
+P1xel7 raises 857 to 1257 and is all-in
+Philippe_51_ folds
+Mikus54 calls 1257
+Shiva Yoga folds
+Maragorn3325 calls 1057
+Zionity folds
+*** FLOP *** [Qh Kh 9d]
+Maragorn3325 bets 4471
+Mikus54 calls 4471
+*** TURN *** [Qh Kh 9d][5c]
+Maragorn3325 bets 13413
+Mikus54 folds
+*** RIVER *** [Qh Kh 9d 5c][2d]
+*** SHOW DOWN ***
+Maragorn3325 shows [Ad Kc] (One pair : Kings)
+P1xel7 shows [Th Jd] (Straight King high)
+P1xel7 collected 4471 from main pot
+Maragorn3325 collected 22355 from side pot 1
+*** SUMMARY ***
+Total pot 26826 | No rake
+Board: [Qh Kh 9d 5c 2d]
+Seat 1: Maragorn3325 (small blind) showed [Ad Kc] and won 22355 with One pair : Kings
+Seat 3: P1xel7 showed [Th Jd] and won 4471 with Straight King high
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #3162551773445488689-36-1703713339 - Holdem no limit (50/200/400) - 2023/12/27 21:42:19 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: Maragorn3325 (34930)
+Seat 2: Zionity (23467)
+Seat 3: P1xel7 (4471)
+Seat 4: Philippe_51_ (32422)
+Seat 5: Mikus54 (12846)
+Seat 6: Shiva Yoga (20736)
+*** ANTE/BLINDS ***
+Zionity posts ante 50
+P1xel7 posts ante 50
+Maragorn3325 posts ante 50
+Philippe_51_ posts ante 50
+Mikus54 posts ante 50
+Shiva Yoga posts ante 50
+Zionity posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [5d Js]
+*** PRE-FLOP *** 
+Philippe_51_ folds
+Mikus54 folds
+Shiva Yoga folds
+Maragorn3325 folds
+Zionity raises 23017 to 23417 and is all-in
+P1xel7 folds
+Zionity collected 24117 from pot
+*** SUMMARY ***
+Total pot 24117 | No rake
+Seat 2: Zionity (small blind) won 24117
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #3162551773445488689-37-1703713366 - Holdem no limit (50/200/400) - 2023/12/27 21:42:46 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: Maragorn3325 (34880)
+Seat 2: Zionity (24117)
+Seat 3: P1xel7 (4021)
+Seat 4: Philippe_51_ (32372)
+Seat 5: Mikus54 (12796)
+Seat 6: Shiva Yoga (20686)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+Philippe_51_ posts ante 50
+Maragorn3325 posts ante 50
+Zionity posts ante 50
+Mikus54 posts ante 50
+Shiva Yoga posts ante 50
+P1xel7 posts small blind 200
+Philippe_51_ posts big blind 400
+Dealt to P1xel7 [Qc 4d]
+*** PRE-FLOP *** 
+Mikus54 raises 400 to 800
+Shiva Yoga folds
+Maragorn3325 folds
+Zionity folds
+P1xel7 folds
+Philippe_51_ calls 400
+*** FLOP *** [4s 7h 8s]
+Philippe_51_ checks
+Mikus54 checks
+*** TURN *** [4s 7h 8s][2h]
+Philippe_51_ bets 735
+Mikus54 calls 735
+*** RIVER *** [4s 7h 8s 2h][Kd]
+Philippe_51_ checks
+Mikus54 bets 1785
+Philippe_51_ calls 1785
+*** SHOW DOWN ***
+Philippe_51_ shows [7s 5s] (One pair : 7)
+Mikus54 shows [Kh Qs] (One pair : Kings)
+Mikus54 collected 7140 from pot
+*** SUMMARY ***
+Total pot 7140 | No rake
+Board: [4s 7h 8s 2h Kd]
+Seat 4: Philippe_51_ (big blind) showed [7s 5s] and lost with One pair : 7
+Seat 5: Mikus54 showed [Kh Qs] and won 7140 with One pair : Kings
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #3162551773445488689-38-1703713443 - Holdem no limit (50/200/400) - 2023/12/27 21:44:03 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: Maragorn3325 (34830)
+Seat 2: Zionity (24067)
+Seat 3: P1xel7 (3771)
+Seat 4: Philippe_51_ (29002)
+Seat 5: Mikus54 (16566)
+Seat 6: Shiva Yoga (20636)
+*** ANTE/BLINDS ***
+Philippe_51_ posts ante 50
+Mikus54 posts ante 50
+Maragorn3325 posts ante 50
+Zionity posts ante 50
+P1xel7 posts ante 50
+Shiva Yoga posts ante 50
+Philippe_51_ posts small blind 200
+Mikus54 posts big blind 400
+Dealt to P1xel7 [Qd 3h]
+*** PRE-FLOP *** 
+Shiva Yoga folds
+Maragorn3325 folds
+Zionity folds
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: Mikus54 (big blind) won 900
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #3162551773445488689-39-1703713462 - Holdem no limit (50/200/400) - 2023/12/27 21:44:22 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #4 is the button
+Seat 1: Maragorn3325 (34780)
+Seat 2: Zionity (24017)
+Seat 3: P1xel7 (3721)
+Seat 4: Philippe_51_ (28752)
+Seat 5: Mikus54 (17016)
+Seat 6: Shiva Yoga (20586)
+*** ANTE/BLINDS ***
+Mikus54 posts ante 50
+Shiva Yoga posts ante 50
+Maragorn3325 posts ante 50
+Zionity posts ante 50
+P1xel7 posts ante 50
+Philippe_51_ posts ante 50
+Mikus54 posts small blind 200
+Shiva Yoga posts big blind 400
+Dealt to P1xel7 [4c 5h]
+*** PRE-FLOP *** 
+Maragorn3325 raises 400 to 800
+Zionity folds
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 folds
+Shiva Yoga folds
+Maragorn3325 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 1: Maragorn3325 won 1700
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 5 - HandId: #3162551773445488689-40-1703713483 - Holdem no limit (50/200/400) - 2023/12/27 21:44:43 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: Maragorn3325 (35630)
+Seat 2: Zionity (23967)
+Seat 3: P1xel7 (3671)
+Seat 4: Philippe_51_ (28702)
+Seat 5: Mikus54 (16766)
+Seat 6: Shiva Yoga (20136)
+*** ANTE/BLINDS ***
+Shiva Yoga posts ante 50
+Maragorn3325 posts ante 50
+Zionity posts ante 50
+P1xel7 posts ante 50
+Philippe_51_ posts ante 50
+Mikus54 posts ante 50
+Shiva Yoga posts small blind 200
+Maragorn3325 posts big blind 400
+Dealt to P1xel7 [Ac Td]
+*** PRE-FLOP *** 
+Zionity folds
+P1xel7 raises 3221 to 3621 and is all-in
+Philippe_51_ folds
+Mikus54 folds
+Shiva Yoga folds
+Maragorn3325 folds
+P1xel7 collected 4521 from pot
+*** SUMMARY ***
+Total pot 4521 | No rake
+Seat 3: P1xel7 won 4521
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #3162551773445488689-41-1703713501 - Holdem no limit (60/250/500) - 2023/12/27 21:45:01 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: Maragorn3325 (35180)
+Seat 2: Zionity (23917)
+Seat 3: P1xel7 (4521)
+Seat 4: Philippe_51_ (28652)
+Seat 5: Mikus54 (16716)
+Seat 6: Shiva Yoga (19886)
+*** ANTE/BLINDS ***
+Maragorn3325 posts ante 60
+Zionity posts ante 60
+P1xel7 posts ante 60
+Philippe_51_ posts ante 60
+Mikus54 posts ante 60
+Shiva Yoga posts ante 60
+Maragorn3325 posts small blind 250
+Zionity posts big blind 500
+Dealt to P1xel7 [Tc Ks]
+*** PRE-FLOP *** 
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 raises 500 to 1000
+Shiva Yoga folds
+Maragorn3325 raises 500 to 1500
+Zionity folds
+Mikus54 calls 500
+*** FLOP *** [2s 8h Jc]
+Maragorn3325 checks
+Mikus54 bets 1500
+Maragorn3325 folds
+Mikus54 collected 5360 from pot
+*** SUMMARY ***
+Total pot 5360 | No rake
+Board: [2s 8h Jc]
+Seat 5: Mikus54 won 5360
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #3162551773445488689-42-1703713552 - Holdem no limit (60/250/500) - 2023/12/27 21:45:52 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: Maragorn3325 (33620)
+Seat 2: Zionity (23357)
+Seat 3: P1xel7 (4461)
+Seat 4: Philippe_51_ (28592)
+Seat 5: Mikus54 (19016)
+Seat 6: Shiva Yoga (19826)
+*** ANTE/BLINDS ***
+Zionity posts ante 60
+P1xel7 posts ante 60
+Maragorn3325 posts ante 60
+Philippe_51_ posts ante 60
+Mikus54 posts ante 60
+Shiva Yoga posts ante 60
+Zionity posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [5s Ah]
+*** PRE-FLOP *** 
+Philippe_51_ folds
+Mikus54 raises 500 to 1000
+Shiva Yoga folds
+Maragorn3325 folds
+Zionity folds
+P1xel7 raises 3401 to 4401 and is all-in
+Mikus54 calls 3401
+*** FLOP *** [4s Qs Ks]
+*** TURN *** [4s Qs Ks][Ad]
+*** RIVER *** [4s Qs Ks Ad][2c]
+*** SHOW DOWN ***
+Mikus54 shows [9d 9s] (One pair : 9)
+P1xel7 shows [5s Ah] (One pair : Aces)
+P1xel7 collected 9412 from pot
+*** SUMMARY ***
+Total pot 9412 | No rake
+Board: [4s Qs Ks Ad 2c]
+Seat 3: P1xel7 (big blind) showed [5s Ah] and won 9412 with One pair : Aces
+Seat 5: Mikus54 showed [9d 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #3162551773445488689-43-1703713576 - Holdem no limit (60/250/500) - 2023/12/27 21:46:16 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: Maragorn3325 (33560)
+Seat 2: Zionity (23047)
+Seat 3: P1xel7 (9412)
+Seat 4: Philippe_51_ (28532)
+Seat 5: Mikus54 (14555)
+Seat 6: Shiva Yoga (19766)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+Philippe_51_ posts ante 60
+Maragorn3325 posts ante 60
+Zionity posts ante 60
+Mikus54 posts ante 60
+Shiva Yoga posts ante 60
+P1xel7 posts small blind 250
+Philippe_51_ posts big blind 500
+Dealt to P1xel7 [5c 3s]
+*** PRE-FLOP *** 
+Mikus54 folds
+Shiva Yoga folds
+Maragorn3325 raises 500 to 1000
+Zionity folds
+P1xel7 folds
+Philippe_51_ calls 500
+*** FLOP *** [9s Ah 7d]
+Philippe_51_ checks
+Maragorn3325 bets 2610
+Philippe_51_ folds
+Maragorn3325 collected 5220 from pot
+*** SUMMARY ***
+Total pot 5220 | No rake
+Board: [9s Ah 7d]
+Seat 1: Maragorn3325 won 5220
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #3162551773445488689-44-1703713597 - Holdem no limit (60/250/500) - 2023/12/27 21:46:37 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: Maragorn3325 (35110)
+Seat 2: Zionity (22987)
+Seat 3: P1xel7 (9102)
+Seat 4: Philippe_51_ (27472)
+Seat 5: Mikus54 (14495)
+Seat 6: Shiva Yoga (19706)
+*** ANTE/BLINDS ***
+Philippe_51_ posts ante 60
+Mikus54 posts ante 60
+Maragorn3325 posts ante 60
+Zionity posts ante 60
+P1xel7 posts ante 60
+Shiva Yoga posts ante 60
+Philippe_51_ posts small blind 250
+Mikus54 posts big blind 500
+Dealt to P1xel7 [3s 2h]
+*** PRE-FLOP *** 
+Shiva Yoga folds
+Maragorn3325 folds
+Zionity raises 750 to 1250
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 calls 750
+*** FLOP *** [Ts 9d As]
+Mikus54 checks
+Zionity bets 1089
+Mikus54 calls 1089
+*** TURN *** [Ts 9d As][5d]
+Mikus54 checks
+Zionity bets 1750
+Mikus54 calls 1750
+*** RIVER *** [Ts 9d As 5d][Qh]
+Mikus54 checks
+Zionity checks
+*** SHOW DOWN ***
+Mikus54 shows [8h 7h] (High card : Ace)
+Zionity shows [Kd Kc] (One pair : Kings)
+Zionity collected 8788 from pot
+*** SUMMARY ***
+Total pot 8788 | No rake
+Board: [Ts 9d As 5d Qh]
+Seat 2: Zionity showed [Kd Kc] and won 8788 with One pair : Kings
+Seat 5: Mikus54 (big blind) showed [8h 7h] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #3162551773445488689-45-1703713660 - Holdem no limit (60/250/500) - 2023/12/27 21:47:40 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #4 is the button
+Seat 1: Maragorn3325 (35050)
+Seat 2: Zionity (27626)
+Seat 3: P1xel7 (9042)
+Seat 4: Philippe_51_ (27162)
+Seat 5: Mikus54 (10346)
+Seat 6: Shiva Yoga (19646)
+*** ANTE/BLINDS ***
+Mikus54 posts ante 60
+Shiva Yoga posts ante 60
+Maragorn3325 posts ante 60
+Zionity posts ante 60
+P1xel7 posts ante 60
+Philippe_51_ posts ante 60
+Mikus54 posts small blind 250
+Shiva Yoga posts big blind 500
+Dealt to P1xel7 [8h 3c]
+*** PRE-FLOP *** 
+Maragorn3325 folds
+Zionity folds
+P1xel7 folds
+Philippe_51_ folds
+Mikus54 raises 750 to 1250
+Shiva Yoga folds
+Mikus54 collected 2110 from pot
+*** SUMMARY ***
+Total pot 2110 | No rake
+Seat 5: Mikus54 (small blind) won 2110
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #3162551773445488689-46-1703713683 - Holdem no limit (60/250/500) - 2023/12/27 21:48:03 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #5 is the button
+Seat 1: Maragorn3325 (34990)
+Seat 2: Zionity (27566)
+Seat 3: P1xel7 (8982)
+Seat 4: Philippe_51_ (27102)
+Seat 5: Mikus54 (11146)
+Seat 6: Shiva Yoga (19086)
+*** ANTE/BLINDS ***
+Shiva Yoga posts ante 60
+Maragorn3325 posts ante 60
+Zionity posts ante 60
+P1xel7 posts ante 60
+Philippe_51_ posts ante 60
+Mikus54 posts ante 60
+Shiva Yoga posts small blind 250
+Maragorn3325 posts big blind 500
+Dealt to P1xel7 [8h Th]
+*** PRE-FLOP *** 
+Zionity raises 750 to 1250
+P1xel7 folds
+Philippe_51_ raises 2500 to 3750
+Mikus54 folds
+Shiva Yoga folds
+Maragorn3325 calls 3250
+Zionity folds
+*** FLOP *** [8d Qs Td]
+Maragorn3325 bets 9360
+Philippe_51_ raises 13932 to 23292 and is all-in
+Maragorn3325 calls 13932
+*** TURN *** [8d Qs Td][3h]
+*** RIVER *** [8d Qs Td 3h][2s]
+*** SHOW DOWN ***
+Philippe_51_ shows [9d Kd] (High card : King)
+Maragorn3325 shows [Kc Qd] (One pair : Queens)
+Maragorn3325 collected 55944 from pot
+*** SUMMARY ***
+Total pot 55944 | No rake
+Board: [8d Qs Td 3h 2s]
+Seat 1: Maragorn3325 (big blind) showed [Kc Qd] and won 55944 with One pair : Queens
+Seat 4: Philippe_51_ showed [9d Kd] and lost with High card : King
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #3162551773445488689-47-1703713759 - Holdem no limit (60/250/500) - 2023/12/27 21:49:19 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #6 is the button
+Seat 1: Maragorn3325 (63832)
+Seat 2: Zionity (26256)
+Seat 3: P1xel7 (8922)
+Seat 5: Mikus54 (11086)
+Seat 6: Shiva Yoga (18776)
+*** ANTE/BLINDS ***
+Maragorn3325 posts ante 60
+Zionity posts ante 60
+P1xel7 posts ante 60
+Mikus54 posts ante 60
+Shiva Yoga posts ante 60
+Maragorn3325 posts small blind 250
+Zionity posts big blind 500
+Dealt to P1xel7 [Qs 2d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Mikus54 folds
+Shiva Yoga folds
+Maragorn3325 raises 500 to 1000
+Zionity folds
+Maragorn3325 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | No rake
+Seat 1: Maragorn3325 (small blind) won 1800
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 6 - HandId: #3162551773445488689-48-1703713779 - Holdem no limit (60/250/500) - 2023/12/27 21:49:39 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #1 is the button
+Seat 1: Maragorn3325 (64572)
+Seat 2: Zionity (25696)
+Seat 3: P1xel7 (8862)
+Seat 5: Mikus54 (11026)
+Seat 6: Shiva Yoga (18716)
+*** ANTE/BLINDS ***
+Zionity posts ante 60
+P1xel7 posts ante 60
+Maragorn3325 posts ante 60
+Mikus54 posts ante 60
+Shiva Yoga posts ante 60
+Zionity posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [5d Ac]
+*** PRE-FLOP *** 
+Mikus54 raises 500 to 1000
+Shiva Yoga calls 1000
+Maragorn3325 folds
+Zionity folds
+P1xel7 calls 500
+*** FLOP *** [8s Qs 3d]
+P1xel7 checks
+Mikus54 bets 1775
+Shiva Yoga calls 1775
+P1xel7 folds
+*** TURN *** [8s Qs 3d][6h]
+Mikus54 bets 3550
+Shiva Yoga folds
+Mikus54 collected 10650 from pot
+*** SUMMARY ***
+Total pot 10650 | No rake
+Board: [8s Qs 3d 6h]
+Seat 5: Mikus54 won 10650
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #3162551773445488689-49-1703713852 - Holdem no limit (70/300/600) - 2023/12/27 21:50:52 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #2 is the button
+Seat 1: Maragorn3325 (64512)
+Seat 2: Zionity (25386)
+Seat 3: P1xel7 (7802)
+Seat 4: lookin4nuts (20000)
+Seat 5: Mikus54 (15291)
+Seat 6: Shiva Yoga (15881)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+lookin4nuts posts ante 70
+Maragorn3325 posts ante 70
+Zionity posts ante 70
+Mikus54 posts ante 70
+Shiva Yoga posts ante 70
+P1xel7 posts small blind 300
+lookin4nuts posts big blind 600
+Dealt to P1xel7 [6c Ah]
+*** PRE-FLOP *** 
+Mikus54 raises 600 to 1200
+Shiva Yoga folds
+Maragorn3325 calls 1200
+Zionity folds
+P1xel7 folds
+lookin4nuts folds
+*** FLOP *** [2s Js Ts]
+Mikus54 checks
+Maragorn3325 bets 930
+Mikus54 calls 930
+*** TURN *** [2s Js Ts][As]
+Mikus54 checks
+Maragorn3325 bets 1395
+Mikus54 folds
+Maragorn3325 collected 6975 from pot
+*** SUMMARY ***
+Total pot 6975 | No rake
+Board: [2s Js Ts As]
+Seat 1: Maragorn3325 won 6975
+
+
+Winamax Poker - Tournament "LE TOTEM" buyIn: 4.50€ + 0.50€ level: 7 - HandId: #3162551773445488689-50-1703713900 - Holdem no limit (70/300/600) - 2023/12/27 21:51:40 UTC
+Table: 'LE TOTEM(736338965)#0048' 6-max (real money) Seat #3 is the button
+Seat 1: Maragorn3325 (67892)
+Seat 2: Zionity (25316)
+Seat 3: P1xel7 (7432)
+Seat 4: lookin4nuts (19330)
+Seat 5: Mikus54 (13091)
+Seat 6: Shiva Yoga (15811)
+*** ANTE/BLINDS ***
+lookin4nuts posts ante 70
+Mikus54 posts ante 70
+Maragorn3325 posts ante 70
+Zionity posts ante 70
+P1xel7 posts ante 70
+Shiva Yoga posts ante 70
+lookin4nuts posts small blind 300
+Mikus54 posts big blind 600
+Dealt to P1xel7 [Tc Ad]
+*** PRE-FLOP *** 
+Shiva Yoga folds
+Maragorn3325 folds
+Zionity raises 900 to 1500
+P1xel7 raises 5862 to 7362 and is all-in
+lookin4nuts folds
+Mikus54 folds
+Zionity calls 5862
+*** FLOP *** [6d Jc 8h]
+*** TURN *** [6d Jc 8h][9d]
+*** RIVER *** [6d Jc 8h 9d][4s]
+*** SHOW DOWN ***
+P1xel7 shows [Tc Ad] (High card : Ace)
+Zionity shows [Jh Kd] (One pair : Jacks)
+Zionity collected 16044 from pot
+*** SUMMARY ***
+Total pot 16044 | No rake
+Board: [6d Jc 8h 9d 4s]
+Seat 2: Zionity showed [Jh Kd] and won 16044 with One pair : Jacks
+Seat 3: P1xel7 (button) showed [Tc Ad] and lost with High card : Ace
+
+

@@ -1,0 +1,217 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3265102638852603905-1-1708887663 - Holdem no limit (10/20) - 2024/02/25 19:01:03 UTC
+Table: 'Starting Block WiPT - Déglingos(760215949)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Bourguetty13 (500)
+Seat 2: Soldikush75 (500)
+Seat 3: JOBLZ (500)
+Seat 4: Thimeus (500)
+Seat 5: P1xel7 (500)
+Seat 6: Mefisto67 (500)
+*** ANTE/BLINDS ***
+Soldikush75 posts small blind 10
+JOBLZ posts big blind 20
+Dealt to P1xel7 [Ah 5d]
+*** PRE-FLOP *** 
+Thimeus folds
+P1xel7 folds
+Mefisto67 raises 30 to 50
+Bourguetty13 raises 450 to 500 and is all-in
+Soldikush75 calls 490 and is all-in
+JOBLZ folds
+Mefisto67 calls 450 and is all-in
+*** FLOP *** [Kh 2d Qd]
+*** TURN *** [Kh 2d Qd][Jc]
+*** RIVER *** [Kh 2d Qd Jc][Tc]
+*** SHOW DOWN ***
+Bourguetty13 shows [6c Qc] (One pair : Queens)
+Soldikush75 shows [2s 7s] (One pair : 2)
+Mefisto67 shows [Ac 9d] (Straight Ace high)
+Mefisto67 collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | No rake
+Board: [Kh 2d Qd Jc Tc]
+Seat 1: Bourguetty13 (button) showed [6c Qc] and lost with One pair : Queens
+Seat 2: Soldikush75 (small blind) showed [2s 7s] and lost with One pair : 2
+Seat 6: Mefisto67 showed [Ac 9d] and won 1520 with Straight Ace high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3265102638852603905-2-1708887716 - Holdem no limit (10/20) - 2024/02/25 19:01:56 UTC
+Table: 'Starting Block WiPT - Déglingos(760215949)#0' 6-max (real money) Seat #2 is the button
+Seat 3: JOBLZ (480)
+Seat 4: Thimeus (500)
+Seat 5: P1xel7 (500)
+Seat 6: Mefisto67 (1520)
+*** ANTE/BLINDS ***
+JOBLZ posts small blind 10
+Thimeus posts big blind 20
+Dealt to P1xel7 [3c Js]
+*** PRE-FLOP *** 
+P1xel7 folds
+Mefisto67 folds
+JOBLZ folds
+Thimeus collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 4: Thimeus (big blind) won 30
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3265102638852603905-3-1708887732 - Holdem no limit (10/20) - 2024/02/25 19:02:12 UTC
+Table: 'Starting Block WiPT - Déglingos(760215949)#0' 6-max (real money) Seat #3 is the button
+Seat 3: JOBLZ (470)
+Seat 4: Thimeus (510)
+Seat 5: P1xel7 (500)
+Seat 6: Mefisto67 (1520)
+*** ANTE/BLINDS ***
+Thimeus posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [9c Kh]
+*** PRE-FLOP *** 
+Mefisto67 calls 20
+JOBLZ folds
+Thimeus folds
+P1xel7 raises 40 to 60
+Mefisto67 calls 40
+*** FLOP *** [3c 5s Ts]
+P1xel7 checks
+Mefisto67 bets 130
+P1xel7 folds
+Mefisto67 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Board: [3c 5s Ts]
+Seat 6: Mefisto67 won 260
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3265102638852603905-4-1708887786 - Holdem no limit (15/30) - 2024/02/25 19:03:06 UTC
+Table: 'Starting Block WiPT - Déglingos(760215949)#0' 6-max (real money) Seat #4 is the button
+Seat 3: JOBLZ (470)
+Seat 4: Thimeus (500)
+Seat 5: P1xel7 (440)
+Seat 6: Mefisto67 (1590)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+Mefisto67 posts big blind 30
+Dealt to P1xel7 [7c 5c]
+*** PRE-FLOP *** 
+JOBLZ folds
+Thimeus calls 30
+P1xel7 folds
+Mefisto67 checks
+*** FLOP *** [Qc 2d Qh]
+Mefisto67 checks
+Thimeus checks
+*** TURN *** [Qc 2d Qh][Tc]
+Mefisto67 checks
+Thimeus checks
+*** RIVER *** [Qc 2d Qh Tc][Qd]
+Mefisto67 checks
+Thimeus checks
+*** SHOW DOWN ***
+Mefisto67 shows [3d 5s] (Trips of Queens)
+Thimeus shows [Jc Kd] (Trips of Queens)
+Thimeus collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [Qc 2d Qh Tc Qd]
+Seat 4: Thimeus (button) showed [Jc Kd] and won 75 with Trips of Queens
+Seat 6: Mefisto67 (big blind) showed [3d 5s] and lost with Trips of Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3265102638852603905-5-1708887832 - Holdem no limit (15/30) - 2024/02/25 19:03:52 UTC
+Table: 'Starting Block WiPT - Déglingos(760215949)#0' 6-max (real money) Seat #5 is the button
+Seat 3: JOBLZ (470)
+Seat 4: Thimeus (545)
+Seat 5: P1xel7 (425)
+Seat 6: Mefisto67 (1560)
+*** ANTE/BLINDS ***
+Mefisto67 posts small blind 15
+JOBLZ posts big blind 30
+Dealt to P1xel7 [5h 9d]
+*** PRE-FLOP *** 
+Thimeus calls 30
+P1xel7 folds
+Mefisto67 folds
+JOBLZ checks
+*** FLOP *** [3s 7s Kh]
+JOBLZ checks
+Thimeus checks
+*** TURN *** [3s 7s Kh][Ah]
+JOBLZ checks
+Thimeus checks
+*** RIVER *** [3s 7s Kh Ah][Jd]
+JOBLZ checks
+Thimeus checks
+*** SHOW DOWN ***
+Thimeus shows [3h 2h] (One pair : 3)
+JOBLZ shows [Jc 2d] (One pair : Jacks)
+JOBLZ collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | No rake
+Board: [3s 7s Kh Ah Jd]
+Seat 3: JOBLZ (big blind) showed [Jc 2d] and won 75 with One pair : Jacks
+Seat 4: Thimeus showed [3h 2h] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3265102638852603905-6-1708887872 - Holdem no limit (20/40) - 2024/02/25 19:04:32 UTC
+Table: 'Starting Block WiPT - Déglingos(760215949)#0' 6-max (real money) Seat #6 is the button
+Seat 3: JOBLZ (515)
+Seat 4: Thimeus (515)
+Seat 5: P1xel7 (425)
+Seat 6: Mefisto67 (1545)
+*** ANTE/BLINDS ***
+JOBLZ posts small blind 20
+Thimeus posts big blind 40
+Dealt to P1xel7 [Jc 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Mefisto67 calls 40
+JOBLZ folds
+Thimeus checks
+*** FLOP *** [6d Kd 4c]
+Thimeus checks
+Mefisto67 checks
+*** TURN *** [6d Kd 4c][3c]
+Thimeus checks
+Mefisto67 bets 100
+Thimeus folds
+Mefisto67 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [6d Kd 4c 3c]
+Seat 6: Mefisto67 (button) won 200
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3265102638852603905-7-1708887930 - Holdem no limit (20/40) - 2024/02/25 19:05:30 UTC
+Table: 'Starting Block WiPT - Déglingos(760215949)#0' 6-max (real money) Seat #3 is the button
+Seat 3: JOBLZ (495)
+Seat 4: Thimeus (475)
+Seat 5: P1xel7 (425)
+Seat 6: Mefisto67 (1605)
+*** ANTE/BLINDS ***
+Thimeus posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [5c Ac]
+*** PRE-FLOP *** 
+Mefisto67 calls 40
+JOBLZ folds
+Thimeus calls 20
+P1xel7 raises 385 to 425 and is all-in
+Mefisto67 calls 385
+Thimeus calls 385
+*** FLOP *** [Tc Jc 5h]
+Thimeus bets 50 and is all-in
+Mefisto67 calls 50
+*** TURN *** [Tc Jc 5h][Qh]
+*** RIVER *** [Tc Jc 5h Qh][4s]
+*** SHOW DOWN ***
+Thimeus shows [9d 7d] (High card : Queen)
+P1xel7 shows [5c Ac] (One pair : 5)
+Mefisto67 shows [Qs Kh] (One pair : Queens)
+Mefisto67 collected 1375 from pot
+*** SUMMARY ***
+Total pot 1375 | No rake
+Board: [Tc Jc 5h Qh 4s]
+Seat 4: Thimeus (small blind) showed [9d 7d] and lost with High card : Queen
+Seat 5: P1xel7 (big blind) showed [5c Ac] and lost with One pair : 5
+Seat 6: Mefisto67 showed [Qs Kh] and won 1375 with One pair : Queens
+
+

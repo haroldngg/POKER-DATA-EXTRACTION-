@@ -1,0 +1,303 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244803249022173185-1-1707851561 - Holdem no limit (10/20) - 2024/02/13 19:12:41 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (500)
+Seat 2: HH347zoo (500)
+Seat 3: VINZ335 (500)
+Seat 4: Jacare92100 (500)
+Seat 5: asti62 (500)
+Seat 6: Jesapellequy (500)
+*** ANTE/BLINDS ***
+Jesapellequy posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [9h 2c]
+*** PRE-FLOP *** 
+HH347zoo calls 20
+VINZ335 calls 20
+Jacare92100 raises 480 to 500 and is all-in
+asti62 folds
+Jesapellequy folds
+P1xel7 folds
+HH347zoo calls 480 and is all-in
+VINZ335 calls 480 and is all-in
+*** FLOP *** [8s 7h 3h]
+*** TURN *** [8s 7h 3h][6s]
+*** RIVER *** [8s 7h 3h 6s][Kh]
+*** SHOW DOWN ***
+VINZ335 shows [Ah 3s] (One pair : 3)
+Jacare92100 shows [Th Ks] (One pair : Kings)
+HH347zoo shows [Jh 6h] (Flush King high)
+HH347zoo collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [8s 7h 3h 6s Kh]
+Seat 2: HH347zoo showed [Jh 6h] and won 1530 with Flush King high
+Seat 3: VINZ335 showed [Ah 3s] and lost with One pair : 3
+Seat 4: Jacare92100 showed [Th Ks] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3244803249022173185-2-1707851609 - Holdem no limit (10/20) - 2024/02/13 19:13:29 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (480)
+Seat 2: HH347zoo (1530)
+Seat 5: asti62 (500)
+Seat 6: Jesapellequy (490)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+HH347zoo posts big blind 20
+Dealt to P1xel7 [Ks Qd]
+*** PRE-FLOP *** 
+asti62 folds
+Jesapellequy raises 20 to 40
+P1xel7 calls 30
+HH347zoo calls 20
+*** FLOP *** [8d 8h Ad]
+P1xel7 checks
+HH347zoo checks
+Jesapellequy bets 120
+P1xel7 folds
+HH347zoo folds
+Jesapellequy collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [8d 8h Ad]
+Seat 6: Jesapellequy (button) won 240
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244803249022173185-3-1707851663 - Holdem no limit (15/30) - 2024/02/13 19:14:23 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (440)
+Seat 2: HH347zoo (1490)
+Seat 5: asti62 (500)
+Seat 6: Jesapellequy (570)
+*** ANTE/BLINDS ***
+HH347zoo posts small blind 15
+asti62 posts big blind 30
+Dealt to P1xel7 [4c 7h]
+*** PRE-FLOP *** 
+Jesapellequy calls 30
+P1xel7 folds
+HH347zoo calls 15
+asti62 raises 30 to 60
+Jesapellequy calls 30
+HH347zoo calls 30
+*** FLOP *** [Jh 8d 9d]
+HH347zoo checks
+asti62 bets 30
+Jesapellequy folds
+HH347zoo folds
+asti62 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | No rake
+Board: [Jh 8d 9d]
+Seat 5: asti62 (big blind) won 210
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244803249022173185-4-1707851726 - Holdem no limit (15/30) - 2024/02/13 19:15:26 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (440)
+Seat 2: HH347zoo (1430)
+Seat 5: asti62 (620)
+Seat 6: Jesapellequy (510)
+*** ANTE/BLINDS ***
+asti62 posts small blind 15
+Jesapellequy posts big blind 30
+Dealt to P1xel7 [3c 5s]
+*** PRE-FLOP *** 
+P1xel7 folds
+HH347zoo raises 1400 to 1430 and is all-in
+asti62 folds
+Jesapellequy folds
+HH347zoo collected 1475 from pot
+*** SUMMARY ***
+Total pot 1475 | No rake
+Seat 2: HH347zoo (button) won 1475
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3244803249022173185-5-1707851737 - Holdem no limit (15/30) - 2024/02/13 19:15:37 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (440)
+Seat 2: HH347zoo (1475)
+Seat 5: asti62 (605)
+Seat 6: Jesapellequy (480)
+*** ANTE/BLINDS ***
+Jesapellequy posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [2h 3s]
+*** PRE-FLOP *** 
+HH347zoo folds
+asti62 calls 30
+Jesapellequy raises 90 to 120
+P1xel7 folds
+asti62 calls 90
+*** FLOP *** [2c 8s Tc]
+Jesapellequy checks
+asti62 checks
+*** TURN *** [2c 8s Tc][6h]
+Jesapellequy bets 135
+asti62 folds
+Jesapellequy collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | No rake
+Board: [2c 8s Tc 6h]
+Seat 6: Jesapellequy (small blind) won 405
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3244803249022173185-6-1707851813 - Holdem no limit (20/40) - 2024/02/13 19:16:53 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (410)
+Seat 2: HH347zoo (1475)
+Seat 5: asti62 (485)
+Seat 6: Jesapellequy (630)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+HH347zoo posts big blind 40
+Dealt to P1xel7 [6d Kd]
+*** PRE-FLOP *** 
+asti62 folds
+Jesapellequy raises 40 to 80
+P1xel7 folds
+HH347zoo calls 40
+*** FLOP *** [4c Ks Js]
+HH347zoo checks
+Jesapellequy bets 40
+HH347zoo calls 40
+*** TURN *** [4c Ks Js][3c]
+HH347zoo checks
+Jesapellequy bets 260
+HH347zoo folds
+Jesapellequy collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | No rake
+Board: [4c Ks Js 3c]
+Seat 6: Jesapellequy (button) won 520
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244803249022173185-7-1707851859 - Holdem no limit (30/60) - 2024/02/13 19:17:39 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (390)
+Seat 2: HH347zoo (1355)
+Seat 5: asti62 (485)
+Seat 6: Jesapellequy (770)
+*** ANTE/BLINDS ***
+HH347zoo posts small blind 30
+asti62 posts big blind 60
+Dealt to P1xel7 [5s 2s]
+*** PRE-FLOP *** 
+Jesapellequy folds
+P1xel7 folds
+HH347zoo calls 30
+asti62 raises 60 to 120
+HH347zoo calls 60
+*** FLOP *** [7d Jd Js]
+HH347zoo checks
+asti62 bets 60
+HH347zoo calls 60
+*** TURN *** [7d Jd Js][6d]
+HH347zoo checks
+asti62 bets 120
+HH347zoo calls 120
+*** RIVER *** [7d Jd Js 6d][Ts]
+HH347zoo bets 210
+asti62 calls 185 and is all-in
+*** SHOW DOWN ***
+asti62 shows [As 5d] (One pair : Jacks)
+HH347zoo shows [9c 8h] (Straight Jack high)
+HH347zoo collected 995 from pot
+*** SUMMARY ***
+Total pot 995 | No rake
+Board: [7d Jd Js 6d Ts]
+Seat 2: HH347zoo (small blind) showed [9c 8h] and won 995 with Straight Jack high
+Seat 5: asti62 (big blind) showed [As 5d] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244803249022173185-8-1707851901 - Holdem no limit (30/60) - 2024/02/13 19:18:21 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (390)
+Seat 2: HH347zoo (1840)
+Seat 6: Jesapellequy (770)
+*** ANTE/BLINDS ***
+Jesapellequy posts big blind 60
+Dealt to P1xel7 [4h 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+HH347zoo folds
+Jesapellequy collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 6: Jesapellequy (big blind) won 60
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3244803249022173185-9-1707851908 - Holdem no limit (30/60) - 2024/02/13 19:18:28 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (390)
+Seat 2: HH347zoo (1840)
+Seat 6: Jesapellequy (770)
+*** ANTE/BLINDS ***
+Jesapellequy posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Ah Qc]
+*** PRE-FLOP *** 
+HH347zoo raises 120 to 180
+Jesapellequy folds
+P1xel7 raises 210 to 390 and is all-in
+HH347zoo calls 210
+*** FLOP *** [3c Ac Qd]
+*** TURN *** [3c Ac Qd][Qh]
+*** RIVER *** [3c Ac Qd Qh][7d]
+*** SHOW DOWN ***
+HH347zoo shows [Kc 2d] (One pair : Queens)
+P1xel7 shows [Ah Qc] (Full of Queens and Aces)
+P1xel7 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | No rake
+Board: [3c Ac Qd Qh 7d]
+Seat 1: P1xel7 (big blind) showed [Ah Qc] and won 810 with Full of Queens and Aces
+Seat 2: HH347zoo showed [Kc 2d] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3244803249022173185-10-1707851927 - Holdem no limit (40/80) - 2024/02/13 19:18:47 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (810)
+Seat 2: HH347zoo (1450)
+Seat 6: Jesapellequy (740)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+HH347zoo posts big blind 80
+Dealt to P1xel7 [9h 7c]
+*** PRE-FLOP *** 
+Jesapellequy raises 80 to 160
+P1xel7 folds
+HH347zoo folds
+Jesapellequy collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | No rake
+Seat 6: Jesapellequy (button) won 280
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3244803249022173185-11-1707851935 - Holdem no limit (40/80) - 2024/02/13 19:18:55 UTC
+Table: 'Starting Block WiPT - Déglingos(755489629)#0' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (770)
+Seat 2: HH347zoo (1370)
+Seat 6: Jesapellequy (860)
+*** ANTE/BLINDS ***
+HH347zoo posts small blind 40
+Jesapellequy posts big blind 80
+Dealt to P1xel7 [Ac 5s]
+*** PRE-FLOP *** 
+P1xel7 raises 690 to 770 and is all-in
+HH347zoo raises 600 to 1370 and is all-in
+Jesapellequy folds
+*** FLOP *** [3h Qs 7s]
+*** TURN *** [3h Qs 7s][Th]
+*** RIVER *** [3h Qs 7s Th][9c]
+*** SHOW DOWN ***
+P1xel7 shows [Ac 5s] (High card : Ace)
+HH347zoo shows [Qc Ks] (One pair : Queens)
+HH347zoo collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Board: [3h Qs 7s Th 9c]
+Seat 1: P1xel7 (button) showed [Ac 5s] and lost with High card : Ace
+Seat 2: HH347zoo (small blind) showed [Qc Ks] and won 2220 with One pair : Queens
+
+

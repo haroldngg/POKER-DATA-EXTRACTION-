@@ -1,0 +1,1739 @@
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3196839326298144893-25-1707938416 - Holdem no limit (35/150/300) - 2024/02/14 19:20:16 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: Ludivicus (20235)
+Seat 2: -  MENANA  - (18020)
+Seat 3: moumou59210 (51749)
+Seat 4: LandryStream (17400)
+Seat 5: P1xel7 (20000)
+Seat 6: Mr Frundles (32321)
+*** ANTE/BLINDS ***
+-  MENANA  - posts ante 35
+moumou59210 posts ante 35
+Ludivicus posts ante 35
+LandryStream posts ante 35
+P1xel7 posts ante 35
+Mr Frundles posts ante 35
+-  MENANA  - posts small blind 150
+moumou59210 posts big blind 300
+Dealt to P1xel7 [5h Td]
+*** PRE-FLOP *** 
+LandryStream folds
+P1xel7 folds
+Mr Frundles folds
+Ludivicus raises 330 to 630
+-  MENANA  - folds
+moumou59210 calls 330
+*** FLOP *** [5d 2s 4d]
+moumou59210 checks
+Ludivicus bets 567
+moumou59210 folds
+Ludivicus collected 2187 from pot
+*** SUMMARY ***
+Total pot 2187 | No rake
+Board: [5d 2s 4d]
+Seat 1: Ludivicus (button) won 2187
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3196839326298144893-26-1707938448 - Holdem no limit (35/150/300) - 2024/02/14 19:20:48 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: Ludivicus (21190)
+Seat 2: -  MENANA  - (17835)
+Seat 3: moumou59210 (51084)
+Seat 4: LandryStream (17365)
+Seat 5: P1xel7 (19965)
+Seat 6: Mr Frundles (32286)
+*** ANTE/BLINDS ***
+moumou59210 posts ante 35
+LandryStream posts ante 35
+Ludivicus posts ante 35
+-  MENANA  - posts ante 35
+P1xel7 posts ante 35
+Mr Frundles posts ante 35
+moumou59210 posts small blind 150
+LandryStream posts big blind 300
+Dealt to P1xel7 [7h 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+Mr Frundles raises 450 to 750
+Ludivicus folds
+-  MENANA  - folds
+moumou59210 folds
+LandryStream calls 450
+*** FLOP *** [7s Ks 6h]
+LandryStream checks
+Mr Frundles bets 651
+LandryStream calls 651
+*** TURN *** [7s Ks 6h][4c]
+LandryStream checks
+Mr Frundles bets 2055
+LandryStream calls 2055
+*** RIVER *** [7s Ks 6h 4c][2h]
+LandryStream bets 2400
+Mr Frundles calls 2400
+*** SHOW DOWN ***
+LandryStream shows [Td 7c] (One pair : 7)
+Mr Frundles shows [Ad As] (One pair : Aces)
+Mr Frundles collected 12072 from pot
+*** SUMMARY ***
+Total pot 12072 | No rake
+Board: [7s Ks 6h 4c 2h]
+Seat 4: LandryStream (big blind) showed [Td 7c] and lost with One pair : 7
+Seat 6: Mr Frundles showed [Ad As] and won 12072 with One pair : Aces
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3196839326298144893-27-1707938575 - Holdem no limit (35/150/300) - 2024/02/14 19:22:55 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: Ludivicus (21155)
+Seat 2: -  MENANA  - (17800)
+Seat 3: moumou59210 (50899)
+Seat 4: LandryStream (11474)
+Seat 5: P1xel7 (19930)
+Seat 6: Mr Frundles (38467)
+*** ANTE/BLINDS ***
+LandryStream posts ante 35
+P1xel7 posts ante 35
+Ludivicus posts ante 35
+-  MENANA  - posts ante 35
+moumou59210 posts ante 35
+Mr Frundles posts ante 35
+LandryStream posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Tc 3h]
+*** PRE-FLOP *** 
+Mr Frundles folds
+Ludivicus folds
+-  MENANA  - folds
+moumou59210 folds
+LandryStream folds
+P1xel7 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 5: P1xel7 (big blind) won 660
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3196839326298144893-28-1707938582 - Holdem no limit (35/150/300) - 2024/02/14 19:23:02 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: Ludivicus (21120)
+Seat 2: -  MENANA  - (17765)
+Seat 3: moumou59210 (50864)
+Seat 4: LandryStream (11289)
+Seat 5: P1xel7 (20255)
+Seat 6: Mr Frundles (38432)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Mr Frundles posts ante 35
+Ludivicus posts ante 35
+-  MENANA  - posts ante 35
+moumou59210 posts ante 35
+LandryStream posts ante 35
+P1xel7 posts small blind 150
+Mr Frundles posts big blind 300
+Dealt to P1xel7 [6s Jh]
+*** PRE-FLOP *** 
+Ludivicus folds
+-  MENANA  - folds
+moumou59210 folds
+LandryStream folds
+P1xel7 folds
+Mr Frundles collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 6: Mr Frundles (big blind) won 660
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3196839326298144893-29-1707938595 - Holdem no limit (35/150/300) - 2024/02/14 19:23:15 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: Ludivicus (21085)
+Seat 2: -  MENANA  - (17730)
+Seat 3: moumou59210 (50829)
+Seat 4: LandryStream (11254)
+Seat 5: P1xel7 (20070)
+Seat 6: Mr Frundles (38757)
+*** ANTE/BLINDS ***
+Mr Frundles posts ante 35
+Ludivicus posts ante 35
+-  MENANA  - posts ante 35
+moumou59210 posts ante 35
+LandryStream posts ante 35
+P1xel7 posts ante 35
+Mr Frundles posts small blind 150
+Ludivicus posts big blind 300
+Dealt to P1xel7 [7s Ts]
+*** PRE-FLOP *** 
+-  MENANA  - folds
+moumou59210 folds
+LandryStream folds
+P1xel7 folds
+Mr Frundles raises 900 to 1200
+Ludivicus folds
+Mr Frundles collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | No rake
+Seat 6: Mr Frundles (small blind) won 1710
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3196839326298144893-30-1707938613 - Holdem no limit (35/150/300) - 2024/02/14 19:23:33 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: Ludivicus (20750)
+Seat 2: -  MENANA  - (17695)
+Seat 3: moumou59210 (50794)
+Seat 4: LandryStream (11219)
+Seat 5: P1xel7 (20035)
+Seat 6: Mr Frundles (39232)
+*** ANTE/BLINDS ***
+Ludivicus posts ante 35
+-  MENANA  - posts ante 35
+moumou59210 posts ante 35
+LandryStream posts ante 35
+P1xel7 posts ante 35
+Mr Frundles posts ante 35
+Ludivicus posts small blind 150
+-  MENANA  - posts big blind 300
+Dealt to P1xel7 [Js 2s]
+*** PRE-FLOP *** 
+moumou59210 folds
+LandryStream folds
+P1xel7 folds
+Mr Frundles raises 300 to 600
+Ludivicus raises 1650 to 2250
+-  MENANA  - folds
+Mr Frundles folds
+Ludivicus collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | No rake
+Seat 1: Ludivicus (small blind) won 3360
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3196839326298144893-31-1707938655 - Holdem no limit (35/150/300) - 2024/02/14 19:24:15 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: Ludivicus (21825)
+Seat 2: -  MENANA  - (17360)
+Seat 3: moumou59210 (50759)
+Seat 4: LandryStream (11184)
+Seat 5: P1xel7 (20000)
+Seat 6: Mr Frundles (38597)
+*** ANTE/BLINDS ***
+-  MENANA  - posts ante 35
+moumou59210 posts ante 35
+Ludivicus posts ante 35
+LandryStream posts ante 35
+P1xel7 posts ante 35
+Mr Frundles posts ante 35
+-  MENANA  - posts small blind 150
+moumou59210 posts big blind 300
+Dealt to P1xel7 [Qd 6d]
+*** PRE-FLOP *** 
+LandryStream folds
+P1xel7 folds
+Mr Frundles folds
+Ludivicus folds
+-  MENANA  - folds
+moumou59210 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | No rake
+Seat 3: moumou59210 (big blind) won 660
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 3 - HandId: #3196839326298144893-32-1707938673 - Holdem no limit (35/150/300) - 2024/02/14 19:24:33 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: Ludivicus (21790)
+Seat 2: -  MENANA  - (17175)
+Seat 3: moumou59210 (51084)
+Seat 4: LandryStream (11149)
+Seat 5: P1xel7 (19965)
+Seat 6: Mr Frundles (38562)
+*** ANTE/BLINDS ***
+moumou59210 posts ante 35
+LandryStream posts ante 35
+Ludivicus posts ante 35
+-  MENANA  - posts ante 35
+P1xel7 posts ante 35
+Mr Frundles posts ante 35
+moumou59210 posts small blind 150
+LandryStream posts big blind 300
+Dealt to P1xel7 [6c 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Mr Frundles folds
+Ludivicus folds
+-  MENANA  - raises 450 to 750
+moumou59210 calls 600
+LandryStream folds
+*** FLOP *** [4d 9s Qs]
+moumou59210 checks
+-  MENANA  - bets 704
+moumou59210 calls 704
+*** TURN *** [4d 9s Qs][Kd]
+moumou59210 checks
+-  MENANA  - checks
+*** RIVER *** [4d 9s Qs Kd][Tc]
+moumou59210 bets 2222
+-  MENANA  - folds
+moumou59210 collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | No rake
+Board: [4d 9s Qs Kd Tc]
+Seat 3: moumou59210 (small blind) won 5640
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3196839326298144893-33-1707938749 - Holdem no limit (40/175/350) - 2024/02/14 19:25:49 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: Ludivicus (21755)
+Seat 2: -  MENANA  - (15686)
+Seat 3: moumou59210 (53013)
+Seat 4: LandryStream (10814)
+Seat 5: P1xel7 (19930)
+Seat 6: Mr Frundles (38527)
+*** ANTE/BLINDS ***
+LandryStream posts ante 40
+P1xel7 posts ante 40
+Ludivicus posts ante 40
+-  MENANA  - posts ante 40
+moumou59210 posts ante 40
+Mr Frundles posts ante 40
+LandryStream posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Ac 3s]
+*** PRE-FLOP *** 
+Mr Frundles folds
+Ludivicus folds
+-  MENANA  - folds
+moumou59210 raises 700 to 1050
+LandryStream folds
+P1xel7 calls 700
+*** FLOP *** [9c 4c 8c]
+P1xel7 checks
+moumou59210 bets 1050
+P1xel7 calls 1050
+*** TURN *** [9c 4c 8c][4h]
+P1xel7 checks
+moumou59210 bets 3000
+P1xel7 calls 3000
+*** RIVER *** [9c 4c 8c 4h][Th]
+P1xel7 checks
+moumou59210 bets 3715
+P1xel7 folds
+moumou59210 collected 14330 from pot
+*** SUMMARY ***
+Total pot 14330 | No rake
+Board: [9c 4c 8c 4h Th]
+Seat 3: moumou59210 (button) won 14330
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3196839326298144893-34-1707938794 - Holdem no limit (40/175/350) - 2024/02/14 19:26:34 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: Ludivicus (21715)
+Seat 2: -  MENANA  - (15646)
+Seat 3: moumou59210 (58488)
+Seat 4: LandryStream (10599)
+Seat 5: P1xel7 (14790)
+Seat 6: Mr Frundles (38487)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Mr Frundles posts ante 40
+Ludivicus posts ante 40
+-  MENANA  - posts ante 40
+moumou59210 posts ante 40
+LandryStream posts ante 40
+P1xel7 posts small blind 175
+Mr Frundles posts big blind 350
+Dealt to P1xel7 [4c Tc]
+*** PRE-FLOP *** 
+Ludivicus raises 385 to 735
+-  MENANA  - folds
+moumou59210 folds
+LandryStream folds
+P1xel7 folds
+Mr Frundles folds
+Ludivicus collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Seat 1: Ludivicus won 1500
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3196839326298144893-35-1707938817 - Holdem no limit (40/175/350) - 2024/02/14 19:26:57 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: Ludivicus (22440)
+Seat 2: -  MENANA  - (15606)
+Seat 3: moumou59210 (58448)
+Seat 4: LandryStream (10559)
+Seat 5: P1xel7 (14575)
+Seat 6: Mr Frundles (38097)
+*** ANTE/BLINDS ***
+Mr Frundles posts ante 40
+Ludivicus posts ante 40
+-  MENANA  - posts ante 40
+moumou59210 posts ante 40
+LandryStream posts ante 40
+P1xel7 posts ante 40
+Mr Frundles posts small blind 175
+Ludivicus posts big blind 350
+Dealt to P1xel7 [Jd 6c]
+*** PRE-FLOP *** 
+-  MENANA  - folds
+moumou59210 folds
+LandryStream folds
+P1xel7 folds
+Mr Frundles raises 1050 to 1400
+Ludivicus calls 1050
+*** FLOP *** [5d 2h 6h]
+Mr Frundles bets 1064
+Ludivicus folds
+Mr Frundles collected 4104 from pot
+*** SUMMARY ***
+Total pot 4104 | No rake
+Board: [5d 2h 6h]
+Seat 6: Mr Frundles (small blind) won 4104
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3196839326298144893-36-1707938855 - Holdem no limit (40/175/350) - 2024/02/14 19:27:35 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: Ludivicus (21000)
+Seat 2: -  MENANA  - (15566)
+Seat 3: moumou59210 (58408)
+Seat 4: LandryStream (10519)
+Seat 5: P1xel7 (14535)
+Seat 6: Mr Frundles (39697)
+*** ANTE/BLINDS ***
+Ludivicus posts ante 40
+-  MENANA  - posts ante 40
+moumou59210 posts ante 40
+LandryStream posts ante 40
+P1xel7 posts ante 40
+Mr Frundles posts ante 40
+Ludivicus posts small blind 175
+-  MENANA  - posts big blind 350
+Dealt to P1xel7 [6h Ad]
+*** PRE-FLOP *** 
+moumou59210 folds
+LandryStream raises 420 to 770
+P1xel7 folds
+Mr Frundles folds
+Ludivicus calls 595
+-  MENANA  - calls 420
+*** FLOP *** [Kh 2d 3c]
+Ludivicus checks
+-  MENANA  - checks
+LandryStream checks
+*** TURN *** [Kh 2d 3c][As]
+Ludivicus checks
+-  MENANA  - checks
+LandryStream checks
+*** RIVER *** [Kh 2d 3c As][Kc]
+Ludivicus bets 1913
+-  MENANA  - folds
+LandryStream folds
+Ludivicus collected 4463 from pot
+*** SUMMARY ***
+Total pot 4463 | No rake
+Board: [Kh 2d 3c As Kc]
+Seat 1: Ludivicus (small blind) won 4463
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3196839326298144893-37-1707938918 - Holdem no limit (40/175/350) - 2024/02/14 19:28:38 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: Ludivicus (22740)
+Seat 2: -  MENANA  - (14756)
+Seat 3: moumou59210 (58368)
+Seat 4: LandryStream (9709)
+Seat 5: P1xel7 (14495)
+Seat 6: Mr Frundles (39657)
+*** ANTE/BLINDS ***
+-  MENANA  - posts ante 40
+moumou59210 posts ante 40
+Ludivicus posts ante 40
+LandryStream posts ante 40
+P1xel7 posts ante 40
+Mr Frundles posts ante 40
+-  MENANA  - posts small blind 175
+moumou59210 posts big blind 350
+Dealt to P1xel7 [9s 7c]
+*** PRE-FLOP *** 
+LandryStream raises 420 to 770
+P1xel7 folds
+Mr Frundles folds
+Ludivicus folds
+-  MENANA  - calls 595
+moumou59210 folds
+*** FLOP *** [5h Tc 5c]
+-  MENANA  - checks
+LandryStream checks
+*** TURN *** [5h Tc 5c][7h]
+-  MENANA  - bets 895
+LandryStream calls 895
+*** RIVER *** [5h Tc 5c 7h][Ks]
+-  MENANA  - checks
+LandryStream checks
+*** SHOW DOWN ***
+LandryStream shows [3s 3d] (Two pairs : 5 and 3)
+-  MENANA  - shows [Qc Kh] (Two pairs : Kings and 5)
+-  MENANA  - collected 3920 from pot
+*** SUMMARY ***
+Total pot 3920 | No rake
+Board: [5h Tc 5c 7h Ks]
+Seat 2: -  MENANA  - (small blind) showed [Qc Kh] and won 3920 with Two pairs : Kings and 5
+Seat 4: LandryStream showed [3s 3d] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3196839326298144893-38-1707938985 - Holdem no limit (40/175/350) - 2024/02/14 19:29:45 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: Ludivicus (22700)
+Seat 2: -  MENANA  - (16971)
+Seat 3: moumou59210 (57978)
+Seat 4: LandryStream (8004)
+Seat 5: P1xel7 (14455)
+Seat 6: Mr Frundles (39617)
+*** ANTE/BLINDS ***
+moumou59210 posts ante 40
+LandryStream posts ante 40
+Ludivicus posts ante 40
+-  MENANA  - posts ante 40
+P1xel7 posts ante 40
+Mr Frundles posts ante 40
+moumou59210 posts small blind 175
+LandryStream posts big blind 350
+Dealt to P1xel7 [2s Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+Mr Frundles folds
+Ludivicus raises 385 to 735
+-  MENANA  - raises 1470 to 2205
+moumou59210 folds
+LandryStream folds
+Ludivicus folds
+-  MENANA  - collected 3705 from pot
+*** SUMMARY ***
+Total pot 3705 | No rake
+Seat 2: -  MENANA  - (button) won 3705
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3196839326298144893-39-1707939011 - Holdem no limit (40/175/350) - 2024/02/14 19:30:11 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: Ludivicus (21925)
+Seat 2: -  MENANA  - (18431)
+Seat 3: moumou59210 (57763)
+Seat 4: LandryStream (7614)
+Seat 5: P1xel7 (14415)
+Seat 6: Mr Frundles (39577)
+*** ANTE/BLINDS ***
+LandryStream posts ante 40
+P1xel7 posts ante 40
+Ludivicus posts ante 40
+-  MENANA  - posts ante 40
+moumou59210 posts ante 40
+Mr Frundles posts ante 40
+LandryStream posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Qh 2c]
+*** PRE-FLOP *** 
+Mr Frundles raises 350 to 700
+Ludivicus folds
+-  MENANA  - folds
+moumou59210 folds
+LandryStream calls 525
+P1xel7 folds
+*** FLOP *** [Js 9c 6d]
+LandryStream checks
+Mr Frundles checks
+*** TURN *** [Js 9c 6d][9h]
+LandryStream bets 1393
+Mr Frundles folds
+LandryStream collected 3383 from pot
+*** SUMMARY ***
+Total pot 3383 | No rake
+Board: [Js 9c 6d 9h]
+Seat 4: LandryStream (small blind) won 3383
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3196839326298144893-40-1707939086 - Holdem no limit (40/175/350) - 2024/02/14 19:31:26 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: Ludivicus (21885)
+Seat 2: -  MENANA  - (18391)
+Seat 3: moumou59210 (57723)
+Seat 4: LandryStream (8864)
+Seat 5: P1xel7 (14025)
+Seat 6: Mr Frundles (38837)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Mr Frundles posts ante 40
+Ludivicus posts ante 40
+-  MENANA  - posts ante 40
+moumou59210 posts ante 40
+LandryStream posts ante 40
+P1xel7 posts small blind 175
+Mr Frundles posts big blind 350
+Dealt to P1xel7 [2d 5h]
+*** PRE-FLOP *** 
+Ludivicus folds
+-  MENANA  - folds
+moumou59210 folds
+LandryStream folds
+P1xel7 folds
+Mr Frundles collected 765 from pot
+*** SUMMARY ***
+Total pot 765 | No rake
+Seat 6: Mr Frundles (big blind) won 765
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3196839326298144893-41-1707939097 - Holdem no limit (40/175/350) - 2024/02/14 19:31:37 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: Ludivicus (21845)
+Seat 2: -  MENANA  - (18351)
+Seat 3: moumou59210 (57683)
+Seat 4: LandryStream (8824)
+Seat 5: P1xel7 (13810)
+Seat 6: Mr Frundles (39212)
+*** ANTE/BLINDS ***
+Mr Frundles posts ante 40
+Ludivicus posts ante 40
+-  MENANA  - posts ante 40
+moumou59210 posts ante 40
+LandryStream posts ante 40
+P1xel7 posts ante 40
+Mr Frundles posts small blind 175
+Ludivicus posts big blind 350
+Dealt to P1xel7 [6s 7d]
+*** PRE-FLOP *** 
+-  MENANA  - folds
+moumou59210 raises 350 to 700
+LandryStream folds
+P1xel7 folds
+Mr Frundles folds
+Ludivicus folds
+moumou59210 collected 1465 from pot
+*** SUMMARY ***
+Total pot 1465 | No rake
+Seat 3: moumou59210 won 1465
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 4 - HandId: #3196839326298144893-42-1707939111 - Holdem no limit (40/175/350) - 2024/02/14 19:31:51 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: Ludivicus (21455)
+Seat 2: -  MENANA  - (18311)
+Seat 3: moumou59210 (58408)
+Seat 4: LandryStream (8784)
+Seat 5: P1xel7 (13770)
+Seat 6: Mr Frundles (38997)
+*** ANTE/BLINDS ***
+Ludivicus posts ante 40
+-  MENANA  - posts ante 40
+moumou59210 posts ante 40
+LandryStream posts ante 40
+P1xel7 posts ante 40
+Mr Frundles posts ante 40
+Ludivicus posts small blind 175
+-  MENANA  - posts big blind 350
+Dealt to P1xel7 [Th Ah]
+*** PRE-FLOP *** 
+moumou59210 folds
+LandryStream raises 420 to 770
+P1xel7 calls 770
+Mr Frundles folds
+Ludivicus folds
+-  MENANA  - folds
+*** FLOP *** [6c Qd Ad]
+LandryStream checks
+P1xel7 bets 770
+LandryStream raises 1330 to 2100
+P1xel7 calls 1330
+*** TURN *** [6c Qd Ad][8d]
+LandryStream bets 5874 and is all-in
+P1xel7 folds
+LandryStream collected 12379 from pot
+*** SUMMARY ***
+Total pot 12379 | No rake
+Board: [6c Qd Ad 8d]
+Seat 4: LandryStream won 12379
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3196839326298144893-43-1707939223 - Holdem no limit (50/200/400) - 2024/02/14 19:33:43 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #1 is the button
+Seat 1: Ludivicus (21240)
+Seat 2: -  MENANA  - (17921)
+Seat 3: moumou59210 (58368)
+Seat 4: LandryStream (12379)
+Seat 5: P1xel7 (10860)
+Seat 6: Mr Frundles (38957)
+*** ANTE/BLINDS ***
+-  MENANA  - posts ante 50
+moumou59210 posts ante 50
+Ludivicus posts ante 50
+LandryStream posts ante 50
+P1xel7 posts ante 50
+Mr Frundles posts ante 50
+-  MENANA  - posts small blind 200
+moumou59210 posts big blind 400
+Dealt to P1xel7 [4s 8s]
+*** PRE-FLOP *** 
+LandryStream folds
+P1xel7 folds
+Mr Frundles folds
+Ludivicus raises 440 to 840
+-  MENANA  - folds
+moumou59210 folds
+Ludivicus collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | No rake
+Seat 1: Ludivicus (button) won 1740
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3196839326298144893-44-1707939239 - Holdem no limit (50/200/400) - 2024/02/14 19:33:59 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #2 is the button
+Seat 1: Ludivicus (22090)
+Seat 2: -  MENANA  - (17671)
+Seat 3: moumou59210 (57918)
+Seat 4: LandryStream (12329)
+Seat 5: P1xel7 (10810)
+Seat 6: Mr Frundles (38907)
+*** ANTE/BLINDS ***
+moumou59210 posts ante 50
+LandryStream posts ante 50
+Ludivicus posts ante 50
+-  MENANA  - posts ante 50
+P1xel7 posts ante 50
+Mr Frundles posts ante 50
+moumou59210 posts small blind 200
+LandryStream posts big blind 400
+Dealt to P1xel7 [7h 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Mr Frundles raises 400 to 800
+Ludivicus folds
+-  MENANA  - folds
+moumou59210 calls 600
+LandryStream folds
+*** FLOP *** [8d 2h 5h]
+moumou59210 checks
+Mr Frundles bets 805
+moumou59210 calls 805
+*** TURN *** [8d 2h 5h][2c]
+moumou59210 checks
+Mr Frundles checks
+*** RIVER *** [8d 2h 5h 2c][7c]
+moumou59210 bets 2000
+Mr Frundles folds
+moumou59210 collected 5910 from pot
+*** SUMMARY ***
+Total pot 5910 | No rake
+Board: [8d 2h 5h 2c 7c]
+Seat 3: moumou59210 (small blind) won 5910
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3196839326298144893-45-1707939301 - Holdem no limit (50/200/400) - 2024/02/14 19:35:01 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #3 is the button
+Seat 1: Ludivicus (22040)
+Seat 2: -  MENANA  - (17621)
+Seat 3: moumou59210 (60173)
+Seat 4: LandryStream (11879)
+Seat 5: P1xel7 (10760)
+Seat 6: Mr Frundles (37252)
+*** ANTE/BLINDS ***
+LandryStream posts ante 50
+P1xel7 posts ante 50
+Ludivicus posts ante 50
+-  MENANA  - posts ante 50
+moumou59210 posts ante 50
+Mr Frundles posts ante 50
+LandryStream posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Qh 9s]
+*** PRE-FLOP *** 
+Mr Frundles folds
+Ludivicus folds
+-  MENANA  - folds
+moumou59210 folds
+LandryStream raises 800 to 1200
+P1xel7 calls 800
+*** FLOP *** [Kc Js 6c]
+LandryStream checks
+P1xel7 checks
+*** TURN *** [Kc Js 6c][5d]
+LandryStream bets 1350
+P1xel7 calls 1350
+*** RIVER *** [Kc Js 6c 5d][9c]
+LandryStream checks
+P1xel7 bets 1890
+LandryStream calls 1890
+*** SHOW DOWN ***
+P1xel7 shows [Qh 9s] (One pair : 9)
+LandryStream shows [Jc Th] (One pair : Jacks)
+LandryStream collected 9180 from pot
+*** SUMMARY ***
+Total pot 9180 | No rake
+Board: [Kc Js 6c 5d 9c]
+Seat 4: LandryStream (small blind) showed [Jc Th] and won 9180 with One pair : Jacks
+Seat 5: P1xel7 (big blind) showed [Qh 9s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3196839326298144893-46-1707939450 - Holdem no limit (50/200/400) - 2024/02/14 19:37:30 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #4 is the button
+Seat 1: Ludivicus (21990)
+Seat 2: -  MENANA  - (17571)
+Seat 3: moumou59210 (60123)
+Seat 4: LandryStream (16569)
+Seat 5: P1xel7 (6270)
+Seat 6: Mr Frundles (37202)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 50
+Mr Frundles posts ante 50
+Ludivicus posts ante 50
+-  MENANA  - posts ante 50
+moumou59210 posts ante 50
+LandryStream posts ante 50
+P1xel7 posts small blind 200
+Mr Frundles posts big blind 400
+Dealt to P1xel7 [9h Qh]
+*** PRE-FLOP *** 
+Ludivicus folds
+-  MENANA  - folds
+moumou59210 raises 400 to 800
+LandryStream folds
+P1xel7 calls 600
+Mr Frundles calls 400
+*** FLOP *** [Jd Qd 2d]
+P1xel7 checks
+Mr Frundles checks
+moumou59210 checks
+*** TURN *** [Jd Qd 2d][4h]
+P1xel7 bets 675
+Mr Frundles folds
+moumou59210 calls 675
+*** RIVER *** [Jd Qd 2d 4h][7s]
+P1xel7 bets 4745 and is all-in
+moumou59210 folds
+P1xel7 collected 8795 from pot
+*** SUMMARY ***
+Total pot 8795 | No rake
+Board: [Jd Qd 2d 4h 7s]
+Seat 5: P1xel7 (small blind) won 8795
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3196839326298144893-47-1707939505 - Holdem no limit (50/200/400) - 2024/02/14 19:38:25 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #5 is the button
+Seat 1: Ludivicus (21940)
+Seat 2: -  MENANA  - (17521)
+Seat 3: moumou59210 (58598)
+Seat 4: LandryStream (16519)
+Seat 5: P1xel7 (8795)
+Seat 6: Mr Frundles (36352)
+*** ANTE/BLINDS ***
+Mr Frundles posts ante 50
+Ludivicus posts ante 50
+-  MENANA  - posts ante 50
+moumou59210 posts ante 50
+LandryStream posts ante 50
+P1xel7 posts ante 50
+Mr Frundles posts small blind 200
+Ludivicus posts big blind 400
+Dealt to P1xel7 [4h Td]
+*** PRE-FLOP *** 
+-  MENANA  - folds
+moumou59210 folds
+LandryStream raises 480 to 880
+P1xel7 folds
+Mr Frundles folds
+Ludivicus folds
+LandryStream collected 1780 from pot
+*** SUMMARY ***
+Total pot 1780 | No rake
+Seat 4: LandryStream won 1780
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 5 - HandId: #3196839326298144893-48-1707939522 - Holdem no limit (50/200/400) - 2024/02/14 19:38:42 UTC
+Table: 'MYSTERY KO(744322158)#0124' 6-max (real money) Seat #6 is the button
+Seat 1: Ludivicus (21490)
+Seat 2: -  MENANA  - (17471)
+Seat 3: moumou59210 (58548)
+Seat 4: LandryStream (17369)
+Seat 5: P1xel7 (8745)
+Seat 6: Mr Frundles (36102)
+*** ANTE/BLINDS ***
+Ludivicus posts ante 50
+-  MENANA  - posts ante 50
+moumou59210 posts ante 50
+LandryStream posts ante 50
+P1xel7 posts ante 50
+Mr Frundles posts ante 50
+Ludivicus posts small blind 200
+-  MENANA  - posts big blind 400
+Dealt to P1xel7 [6d 6h]
+*** PRE-FLOP *** 
+moumou59210 folds
+LandryStream folds
+P1xel7 raises 480 to 880
+Mr Frundles raises 1760 to 2640
+Ludivicus folds
+-  MENANA  - folds
+P1xel7 raises 6055 to 8695 and is all-in
+Mr Frundles calls 6055
+*** FLOP *** [5d Ts Qs]
+*** TURN *** [5d Ts Qs][Td]
+*** RIVER *** [5d Ts Qs Td][7d]
+*** SHOW DOWN ***
+P1xel7 shows [6d 6h] (Two pairs : Tens and 6)
+Mr Frundles shows [Qh Ac] (Two pairs : Queens and Tens)
+Mr Frundles collected 18290 from pot
+*** SUMMARY ***
+Total pot 18290 | No rake
+Board: [5d Ts Qs Td 7d]
+Seat 5: P1xel7 showed [6d 6h] and lost with Two pairs : Tens and 6
+Seat 6: Mr Frundles (button) showed [Qh Ac] and won 18290 with Two pairs : Queens and Tens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3196839326298144863-65-1707939678 - Holdem no limit (60/250/500) - 2024/02/14 19:41:18 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: _MaRiuSs_ (6490)
+Seat 2: Ho0kzz (16081)
+Seat 3: ivanlobato (31678)
+Seat 4: mano_o95 (68546)
+Seat 5: P1xel7 (20000)
+Seat 6: Amonbeaufold (17810)
+*** ANTE/BLINDS ***
+_MaRiuSs_ posts ante 60
+Ho0kzz posts ante 60
+ivanlobato posts ante 60
+mano_o95 posts ante 60
+P1xel7 posts ante 60
+Amonbeaufold posts ante 60
+_MaRiuSs_ posts small blind 250
+Ho0kzz posts big blind 500
+Dealt to P1xel7 [6c 3c]
+*** PRE-FLOP *** 
+ivanlobato raises 750 to 1250
+mano_o95 folds
+P1xel7 folds
+Amonbeaufold folds
+_MaRiuSs_ folds
+Ho0kzz calls 750
+*** FLOP *** [6d Td Js]
+Ho0kzz checks
+ivanlobato checks
+*** TURN *** [6d Td Js][Ts]
+Ho0kzz checks
+ivanlobato checks
+*** RIVER *** [6d Td Js Ts][4c]
+Ho0kzz bets 1555
+ivanlobato folds
+Ho0kzz collected 4665 from pot
+*** SUMMARY ***
+Total pot 4665 | No rake
+Board: [6d Td Js Ts 4c]
+Seat 2: Ho0kzz (big blind) won 4665
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3196839326298144863-66-1707939754 - Holdem no limit (60/250/500) - 2024/02/14 19:42:34 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: _MaRiuSs_ (6180)
+Seat 2: Ho0kzz (17881)
+Seat 3: ivanlobato (30368)
+Seat 4: mano_o95 (68486)
+Seat 5: P1xel7 (19940)
+Seat 6: Amonbeaufold (17750)
+*** ANTE/BLINDS ***
+Ho0kzz posts ante 60
+ivanlobato posts ante 60
+_MaRiuSs_ posts ante 60
+mano_o95 posts ante 60
+P1xel7 posts ante 60
+Amonbeaufold posts ante 60
+Ho0kzz posts small blind 250
+ivanlobato posts big blind 500
+Dealt to P1xel7 [7h 6d]
+*** PRE-FLOP *** 
+mano_o95 calls 500
+P1xel7 folds
+Amonbeaufold folds
+_MaRiuSs_ calls 500
+Ho0kzz folds
+ivanlobato checks
+*** FLOP *** [Kd Qd Td]
+ivanlobato checks
+mano_o95 checks
+_MaRiuSs_ checks
+*** TURN *** [Kd Qd Td][8s]
+ivanlobato checks
+mano_o95 checks
+_MaRiuSs_ bets 1372
+ivanlobato folds
+mano_o95 calls 1372
+*** RIVER *** [Kd Qd Td 8s][Kc]
+mano_o95 checks
+_MaRiuSs_ checks
+*** SHOW DOWN ***
+mano_o95 shows [Jc 8c] (Two pairs : Kings and 8)
+_MaRiuSs_ shows [Jd Qs] (Two pairs : Kings and Queens)
+_MaRiuSs_ collected 4854 from pot
+*** SUMMARY ***
+Total pot 4854 | No rake
+Board: [Kd Qd Td 8s Kc]
+Seat 1: _MaRiuSs_ (button) showed [Jd Qs] and won 4854 with Two pairs : Kings and Queens
+Seat 4: mano_o95 showed [Jc 8c] and lost with Two pairs : Kings and 8
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3196839326298144863-67-1707939831 - Holdem no limit (60/250/500) - 2024/02/14 19:43:51 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: _MaRiuSs_ (9102)
+Seat 2: Ho0kzz (17571)
+Seat 3: ivanlobato (29808)
+Seat 4: mano_o95 (66554)
+Seat 5: P1xel7 (19880)
+Seat 6: Amonbeaufold (17690)
+*** ANTE/BLINDS ***
+ivanlobato posts ante 60
+mano_o95 posts ante 60
+_MaRiuSs_ posts ante 60
+Ho0kzz posts ante 60
+P1xel7 posts ante 60
+Amonbeaufold posts ante 60
+ivanlobato posts small blind 250
+mano_o95 posts big blind 500
+Dealt to P1xel7 [Ac Qh]
+*** PRE-FLOP *** 
+P1xel7 raises 750 to 1250
+Amonbeaufold folds
+_MaRiuSs_ folds
+Ho0kzz folds
+ivanlobato calls 1000
+mano_o95 calls 750
+*** FLOP *** [8s 9d 8d]
+ivanlobato checks
+mano_o95 checks
+P1xel7 checks
+*** TURN *** [8s 9d 8d][3c]
+ivanlobato checks
+mano_o95 checks
+P1xel7 checks
+*** RIVER *** [8s 9d 8d 3c][Js]
+ivanlobato checks
+mano_o95 bets 2672
+P1xel7 folds
+ivanlobato folds
+mano_o95 collected 6782 from pot
+*** SUMMARY ***
+Total pot 6782 | No rake
+Board: [8s 9d 8d 3c Js]
+Seat 4: mano_o95 (big blind) won 6782
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #3196839326298144863-68-1707939886 - Holdem no limit (60/250/500) - 2024/02/14 19:44:46 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: _MaRiuSs_ (9042)
+Seat 2: Ho0kzz (17511)
+Seat 3: ivanlobato (28498)
+Seat 4: mano_o95 (69354)
+Seat 5: P1xel7 (18570)
+Seat 6: Amonbeaufold (17630)
+*** ANTE/BLINDS ***
+mano_o95 posts ante 60
+P1xel7 posts ante 60
+_MaRiuSs_ posts ante 60
+Ho0kzz posts ante 60
+ivanlobato posts ante 60
+Amonbeaufold posts ante 60
+mano_o95 posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [4h 4d]
+*** PRE-FLOP *** 
+Amonbeaufold folds
+_MaRiuSs_ folds
+Ho0kzz raises 500 to 1000
+ivanlobato folds
+mano_o95 folds
+P1xel7 calls 500
+*** FLOP *** [2c 6s 2s]
+P1xel7 checks
+Ho0kzz bets 861
+P1xel7 calls 861
+*** TURN *** [2c 6s 2s][Jc]
+P1xel7 checks
+Ho0kzz checks
+*** RIVER *** [2c 6s 2s Jc][7d]
+P1xel7 bets 1516
+Ho0kzz folds
+P1xel7 collected 5848 from pot
+*** SUMMARY ***
+Total pot 5848 | No rake
+Board: [2c 6s 2s Jc 7d]
+Seat 5: P1xel7 (big blind) won 5848
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3196839326298144863-69-1707940003 - Holdem no limit (70/300/600) - 2024/02/14 19:46:43 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: _MaRiuSs_ (8982)
+Seat 2: Ho0kzz (15590)
+Seat 3: ivanlobato (28438)
+Seat 4: mano_o95 (69044)
+Seat 5: P1xel7 (20981)
+Seat 6: Amonbeaufold (17570)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Amonbeaufold posts ante 70
+_MaRiuSs_ posts ante 70
+Ho0kzz posts ante 70
+ivanlobato posts ante 70
+mano_o95 posts ante 70
+P1xel7 posts small blind 300
+Amonbeaufold posts big blind 600
+Dealt to P1xel7 [Ks Jd]
+*** PRE-FLOP *** 
+_MaRiuSs_ folds
+Ho0kzz folds
+ivanlobato raises 900 to 1500
+mano_o95 folds
+P1xel7 calls 1200
+Amonbeaufold calls 900
+*** FLOP *** [Ac Kc Ah]
+P1xel7 checks
+Amonbeaufold checks
+ivanlobato bets 1624
+P1xel7 calls 1624
+Amonbeaufold folds
+*** TURN *** [Ac Kc Ah][4d]
+P1xel7 checks
+ivanlobato bets 4737
+P1xel7 folds
+ivanlobato collected 12905 from pot
+*** SUMMARY ***
+Total pot 12905 | No rake
+Board: [Ac Kc Ah 4d]
+Seat 3: ivanlobato won 12905
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3196839326298144863-70-1707940103 - Holdem no limit (70/300/600) - 2024/02/14 19:48:23 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: _MaRiuSs_ (8912)
+Seat 2: Ho0kzz (15520)
+Seat 3: ivanlobato (33412)
+Seat 4: mano_o95 (68974)
+Seat 5: P1xel7 (17787)
+Seat 6: Amonbeaufold (16000)
+*** ANTE/BLINDS ***
+Amonbeaufold posts ante 70
+_MaRiuSs_ posts ante 70
+Ho0kzz posts ante 70
+ivanlobato posts ante 70
+mano_o95 posts ante 70
+P1xel7 posts ante 70
+Amonbeaufold posts small blind 300
+_MaRiuSs_ posts big blind 600
+Dealt to P1xel7 [8c Kd]
+*** PRE-FLOP *** 
+Ho0kzz folds
+ivanlobato folds
+mano_o95 calls 600
+P1xel7 folds
+Amonbeaufold folds
+_MaRiuSs_ checks
+*** FLOP *** [Ah 3s Ks]
+_MaRiuSs_ checks
+mano_o95 bets 1920
+_MaRiuSs_ folds
+mano_o95 collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Board: [Ah 3s Ks]
+Seat 4: mano_o95 won 3840
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3196839326298144863-71-1707940123 - Holdem no limit (70/300/600) - 2024/02/14 19:48:43 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: _MaRiuSs_ (8242)
+Seat 2: Ho0kzz (15450)
+Seat 3: ivanlobato (33342)
+Seat 4: mano_o95 (70224)
+Seat 5: P1xel7 (17717)
+Seat 6: Amonbeaufold (15630)
+*** ANTE/BLINDS ***
+_MaRiuSs_ posts ante 70
+Ho0kzz posts ante 70
+ivanlobato posts ante 70
+mano_o95 posts ante 70
+P1xel7 posts ante 70
+Amonbeaufold posts ante 70
+_MaRiuSs_ posts small blind 300
+Ho0kzz posts big blind 600
+Dealt to P1xel7 [Ah 3h]
+*** PRE-FLOP *** 
+ivanlobato folds
+mano_o95 folds
+P1xel7 raises 720 to 1320
+Amonbeaufold folds
+_MaRiuSs_ folds
+Ho0kzz folds
+P1xel7 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | No rake
+Seat 5: P1xel7 won 2640
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3196839326298144863-72-1707940138 - Holdem no limit (70/300/600) - 2024/02/14 19:48:58 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: _MaRiuSs_ (7872)
+Seat 2: Ho0kzz (14780)
+Seat 3: ivanlobato (33272)
+Seat 4: mano_o95 (70154)
+Seat 5: P1xel7 (18967)
+Seat 6: Amonbeaufold (15560)
+*** ANTE/BLINDS ***
+Ho0kzz posts ante 70
+ivanlobato posts ante 70
+_MaRiuSs_ posts ante 70
+mano_o95 posts ante 70
+P1xel7 posts ante 70
+Amonbeaufold posts ante 70
+Ho0kzz posts small blind 300
+ivanlobato posts big blind 600
+Dealt to P1xel7 [Td 2h]
+*** PRE-FLOP *** 
+mano_o95 folds
+P1xel7 folds
+Amonbeaufold raises 600 to 1200
+_MaRiuSs_ raises 6602 to 7802 and is all-in
+Ho0kzz folds
+ivanlobato folds
+Amonbeaufold calls 6602
+*** FLOP *** [6h 3h 3d]
+*** TURN *** [6h 3h 3d][9d]
+*** RIVER *** [6h 3h 3d 9d][6s]
+*** SHOW DOWN ***
+Amonbeaufold shows [4c 4s] (Two pairs : 6 and 4)
+_MaRiuSs_ shows [8s 8d] (Two pairs : 8 and 6)
+_MaRiuSs_ collected 16924 from pot
+*** SUMMARY ***
+Total pot 16924 | No rake
+Board: [6h 3h 3d 9d 6s]
+Seat 1: _MaRiuSs_ (button) showed [8s 8d] and won 16924 with Two pairs : 8 and 6
+Seat 6: Amonbeaufold showed [4c 4s] and lost with Two pairs : 6 and 4
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3196839326298144863-73-1707940169 - Holdem no limit (70/300/600) - 2024/02/14 19:49:29 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: _MaRiuSs_ (16924)
+Seat 2: Ho0kzz (14410)
+Seat 3: ivanlobato (32602)
+Seat 4: mano_o95 (70084)
+Seat 5: P1xel7 (18897)
+Seat 6: Amonbeaufold (7688)
+*** ANTE/BLINDS ***
+ivanlobato posts ante 70
+mano_o95 posts ante 70
+_MaRiuSs_ posts ante 70
+Ho0kzz posts ante 70
+P1xel7 posts ante 70
+Amonbeaufold posts ante 70
+ivanlobato posts small blind 300
+mano_o95 posts big blind 600
+Dealt to P1xel7 [Ts Ac]
+*** PRE-FLOP *** 
+P1xel7 raises 720 to 1320
+Amonbeaufold folds
+_MaRiuSs_ folds
+Ho0kzz folds
+ivanlobato folds
+mano_o95 calls 720
+*** FLOP *** [7d Qs 9h]
+mano_o95 checks
+P1xel7 bets 1680
+mano_o95 calls 1680
+*** TURN *** [7d Qs 9h][7h]
+mano_o95 checks
+P1xel7 bets 3360
+mano_o95 calls 3360
+*** RIVER *** [7d Qs 9h 7h][As]
+mano_o95 checks
+P1xel7 bets 2537
+mano_o95 folds
+P1xel7 collected 15977 from pot
+*** SUMMARY ***
+Total pot 15977 | No rake
+Board: [7d Qs 9h 7h As]
+Seat 5: P1xel7 won 15977
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3196839326298144863-74-1707940249 - Holdem no limit (70/300/600) - 2024/02/14 19:50:49 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: _MaRiuSs_ (16854)
+Seat 2: Ho0kzz (14340)
+Seat 3: ivanlobato (32232)
+Seat 4: mano_o95 (63654)
+Seat 5: P1xel7 (25907)
+Seat 6: Amonbeaufold (7618)
+*** ANTE/BLINDS ***
+mano_o95 posts ante 70
+P1xel7 posts ante 70
+_MaRiuSs_ posts ante 70
+Ho0kzz posts ante 70
+ivanlobato posts ante 70
+Amonbeaufold posts ante 70
+mano_o95 posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [Ah 2c]
+*** PRE-FLOP *** 
+Amonbeaufold folds
+_MaRiuSs_ folds
+Ho0kzz folds
+ivanlobato folds
+mano_o95 raises 600 to 1200
+P1xel7 calls 600
+*** FLOP *** [9s 9h 2d]
+mano_o95 bets 987
+P1xel7 calls 987
+*** TURN *** [9s 9h 2d][Js]
+mano_o95 bets 1678
+P1xel7 calls 1678
+*** RIVER *** [9s 9h 2d Js][Kd]
+mano_o95 checks
+P1xel7 bets 2853
+mano_o95 folds
+P1xel7 collected 11003 from pot
+*** SUMMARY ***
+Total pot 11003 | No rake
+Board: [9s 9h 2d Js Kd]
+Seat 5: P1xel7 (big blind) won 11003
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3196839326298144863-75-1707940345 - Holdem no limit (70/300/600) - 2024/02/14 19:52:25 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: _MaRiuSs_ (16784)
+Seat 2: Ho0kzz (14270)
+Seat 3: ivanlobato (32162)
+Seat 4: mano_o95 (59719)
+Seat 5: P1xel7 (30122)
+Seat 6: Amonbeaufold (7548)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+Amonbeaufold posts ante 70
+_MaRiuSs_ posts ante 70
+Ho0kzz posts ante 70
+ivanlobato posts ante 70
+mano_o95 posts ante 70
+P1xel7 posts small blind 300
+Amonbeaufold posts big blind 600
+Dealt to P1xel7 [2s 3d]
+*** PRE-FLOP *** 
+_MaRiuSs_ folds
+Ho0kzz folds
+ivanlobato folds
+mano_o95 raises 900 to 1500
+P1xel7 folds
+Amonbeaufold raises 5978 to 7478 and is all-in
+mano_o95 folds
+Amonbeaufold collected 9698 from pot
+*** SUMMARY ***
+Total pot 9698 | No rake
+Seat 6: Amonbeaufold (big blind) won 9698
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #3196839326298144863-76-1707940368 - Holdem no limit (70/300/600) - 2024/02/14 19:52:48 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #5 is the button
+Seat 1: _MaRiuSs_ (16714)
+Seat 2: Ho0kzz (14200)
+Seat 3: ivanlobato (32092)
+Seat 4: mano_o95 (58149)
+Seat 5: P1xel7 (29752)
+Seat 6: Amonbeaufold (9698)
+*** ANTE/BLINDS ***
+Amonbeaufold posts ante 70
+_MaRiuSs_ posts ante 70
+Ho0kzz posts ante 70
+ivanlobato posts ante 70
+mano_o95 posts ante 70
+P1xel7 posts ante 70
+Amonbeaufold posts small blind 300
+_MaRiuSs_ posts big blind 600
+Dealt to P1xel7 [Ks Tc]
+*** PRE-FLOP *** 
+Ho0kzz folds
+ivanlobato raises 900 to 1500
+mano_o95 calls 1500
+P1xel7 calls 1500
+Amonbeaufold folds
+_MaRiuSs_ folds
+*** FLOP *** [Qd 6h Kc]
+ivanlobato checks
+mano_o95 bets 5820
+P1xel7 folds
+ivanlobato folds
+mano_o95 collected 11640 from pot
+*** SUMMARY ***
+Total pot 11640 | No rake
+Board: [Qd 6h Kc]
+Seat 4: mano_o95 won 11640
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3196839326298144863-77-1707940396 - Holdem no limit (80/350/700) - 2024/02/14 19:53:16 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #6 is the button
+Seat 1: _MaRiuSs_ (16044)
+Seat 2: Ho0kzz (14130)
+Seat 3: ivanlobato (30522)
+Seat 4: mano_o95 (62399)
+Seat 5: P1xel7 (28182)
+Seat 6: Amonbeaufold (9328)
+*** ANTE/BLINDS ***
+_MaRiuSs_ posts ante 80
+Ho0kzz posts ante 80
+ivanlobato posts ante 80
+mano_o95 posts ante 80
+P1xel7 posts ante 80
+Amonbeaufold posts ante 80
+_MaRiuSs_ posts small blind 350
+Ho0kzz posts big blind 700
+Dealt to P1xel7 [8h 6h]
+*** PRE-FLOP *** 
+ivanlobato folds
+mano_o95 calls 700
+P1xel7 folds
+Amonbeaufold folds
+_MaRiuSs_ folds
+Ho0kzz checks
+*** FLOP *** [Ah 4d Qs]
+Ho0kzz checks
+mano_o95 checks
+*** TURN *** [Ah 4d Qs][5d]
+Ho0kzz checks
+mano_o95 checks
+*** RIVER *** [Ah 4d Qs 5d][Jc]
+Ho0kzz checks
+mano_o95 checks
+*** SHOW DOWN ***
+mano_o95 shows [4c Tc] (One pair : 4)
+Ho0kzz shows [Kc 4s] (One pair : 4)
+Ho0kzz collected 2230 from pot
+*** SUMMARY ***
+Total pot 2230 | No rake
+Board: [Ah 4d Qs 5d Jc]
+Seat 2: Ho0kzz (big blind) showed [Kc 4s] and won 2230 with One pair : 4
+Seat 4: mano_o95 showed [4c Tc] and lost with One pair : 4
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3196839326298144863-78-1707940474 - Holdem no limit (80/350/700) - 2024/02/14 19:54:34 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #1 is the button
+Seat 1: _MaRiuSs_ (15614)
+Seat 2: Ho0kzz (15580)
+Seat 3: ivanlobato (30442)
+Seat 4: mano_o95 (61619)
+Seat 5: P1xel7 (28102)
+Seat 6: Amonbeaufold (9248)
+*** ANTE/BLINDS ***
+Ho0kzz posts ante 80
+ivanlobato posts ante 80
+_MaRiuSs_ posts ante 80
+mano_o95 posts ante 80
+P1xel7 posts ante 80
+Amonbeaufold posts ante 80
+Ho0kzz posts small blind 350
+ivanlobato posts big blind 700
+Dealt to P1xel7 [6c 3d]
+*** PRE-FLOP *** 
+mano_o95 folds
+P1xel7 folds
+Amonbeaufold folds
+_MaRiuSs_ raises 700 to 1400
+Ho0kzz folds
+ivanlobato folds
+_MaRiuSs_ collected 2930 from pot
+*** SUMMARY ***
+Total pot 2930 | No rake
+Seat 1: _MaRiuSs_ (button) won 2930
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3196839326298144863-79-1707940861 - Holdem no limit (80/350/700) - 2024/02/14 20:01:01 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: _MaRiuSs_ (17064)
+Seat 2: Ho0kzz (15150)
+Seat 3: ivanlobato (29662)
+Seat 4: mano_o95 (61539)
+Seat 5: P1xel7 (28022)
+Seat 6: Amonbeaufold (9168)
+*** ANTE/BLINDS ***
+ivanlobato posts ante 80
+mano_o95 posts ante 80
+_MaRiuSs_ posts ante 80
+Ho0kzz posts ante 80
+P1xel7 posts ante 80
+Amonbeaufold posts ante 80
+ivanlobato posts small blind 350
+mano_o95 posts big blind 700
+Dealt to P1xel7 [2s Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+Amonbeaufold folds
+_MaRiuSs_ folds
+Ho0kzz raises 700 to 1400
+ivanlobato calls 1050
+mano_o95 calls 700
+*** FLOP *** [7h 5c Kh]
+ivanlobato checks
+mano_o95 checks
+Ho0kzz checks
+*** TURN *** [7h 5c Kh][Kc]
+ivanlobato bets 1544
+mano_o95 calls 1544
+Ho0kzz folds
+*** RIVER *** [7h 5c Kh Kc][5d]
+ivanlobato bets 11652
+mano_o95 folds
+ivanlobato collected 19420 from pot
+*** SUMMARY ***
+Total pot 19420 | No rake
+Board: [7h 5c Kh Kc 5d]
+Seat 3: ivanlobato (small blind) won 19420
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3196839326298144863-80-1707940917 - Holdem no limit (80/350/700) - 2024/02/14 20:01:57 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: _MaRiuSs_ (16984)
+Seat 2: Ho0kzz (13670)
+Seat 3: ivanlobato (34406)
+Seat 4: mano_o95 (58515)
+Seat 5: P1xel7 (27942)
+Seat 6: Amonbeaufold (9088)
+*** ANTE/BLINDS ***
+mano_o95 posts ante 80
+P1xel7 posts ante 80
+_MaRiuSs_ posts ante 80
+Ho0kzz posts ante 80
+ivanlobato posts ante 80
+Amonbeaufold posts ante 80
+mano_o95 posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [Ts 8c]
+*** PRE-FLOP *** 
+Amonbeaufold folds
+_MaRiuSs_ folds
+Ho0kzz raises 700 to 1400
+ivanlobato calls 1400
+mano_o95 folds
+P1xel7 calls 700
+*** FLOP *** [Ah 2c Js]
+P1xel7 checks
+Ho0kzz checks
+ivanlobato checks
+*** TURN *** [Ah 2c Js][Qh]
+P1xel7 checks
+Ho0kzz checks
+ivanlobato checks
+*** RIVER *** [Ah 2c Js Qh][9s]
+P1xel7 checks
+Ho0kzz checks
+ivanlobato checks
+*** SHOW DOWN ***
+Ho0kzz shows [Jh Td] (One pair : Jacks)
+ivanlobato shows [8d 8s] (One pair : 8)
+P1xel7 shows [Ts 8c] (Straight Queen high)
+P1xel7 collected 5030 from pot
+*** SUMMARY ***
+Total pot 5030 | No rake
+Board: [Ah 2c Js Qh 9s]
+Seat 2: Ho0kzz showed [Jh Td] and lost with One pair : Jacks
+Seat 3: ivanlobato (button) showed [8d 8s] and lost with One pair : 8
+Seat 5: P1xel7 (big blind) showed [Ts 8c] and won 5030 with Straight Queen high
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3196839326298144863-81-1707940979 - Holdem no limit (80/350/700) - 2024/02/14 20:02:59 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #4 is the button
+Seat 2: Ho0kzz (12190)
+Seat 3: ivanlobato (32926)
+Seat 4: mano_o95 (58085)
+Seat 5: P1xel7 (31492)
+Seat 6: Amonbeaufold (9008)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Amonbeaufold posts ante 80
+Ho0kzz posts ante 80
+ivanlobato posts ante 80
+mano_o95 posts ante 80
+P1xel7 posts small blind 350
+Amonbeaufold posts big blind 700
+Dealt to P1xel7 [Th 5h]
+*** PRE-FLOP *** 
+Ho0kzz folds
+ivanlobato raises 700 to 1400
+mano_o95 folds
+P1xel7 folds
+Amonbeaufold calls 700
+*** FLOP *** [Js Qd Ah]
+Amonbeaufold checks
+ivanlobato bets 1172
+Amonbeaufold folds
+ivanlobato collected 4722 from pot
+*** SUMMARY ***
+Total pot 4722 | No rake
+Board: [Js Qd Ah]
+Seat 3: ivanlobato won 4722
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3196839326298144863-82-1707941028 - Holdem no limit (80/350/700) - 2024/02/14 20:03:48 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #5 is the button
+Seat 2: Ho0kzz (12110)
+Seat 3: ivanlobato (34996)
+Seat 4: mano_o95 (58005)
+Seat 5: P1xel7 (31062)
+Seat 6: Amonbeaufold (7528)
+*** ANTE/BLINDS ***
+Amonbeaufold posts ante 80
+Ho0kzz posts ante 80
+ivanlobato posts ante 80
+mano_o95 posts ante 80
+P1xel7 posts ante 80
+Amonbeaufold posts small blind 350
+Ho0kzz posts big blind 700
+Dealt to P1xel7 [6h 9h]
+*** PRE-FLOP *** 
+ivanlobato folds
+mano_o95 folds
+P1xel7 folds
+Amonbeaufold folds
+Ho0kzz collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | No rake
+Seat 2: Ho0kzz (big blind) won 1450
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3196839326298144863-83-1707941057 - Holdem no limit (80/350/700) - 2024/02/14 20:04:17 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #6 is the button
+Seat 2: Ho0kzz (12780)
+Seat 3: ivanlobato (34916)
+Seat 4: mano_o95 (57925)
+Seat 5: P1xel7 (30982)
+Seat 6: Amonbeaufold (7098)
+*** ANTE/BLINDS ***
+Ho0kzz posts ante 80
+ivanlobato posts ante 80
+mano_o95 posts ante 80
+P1xel7 posts ante 80
+Amonbeaufold posts ante 80
+Ho0kzz posts small blind 350
+ivanlobato posts big blind 700
+Dealt to P1xel7 [8s 9s]
+*** PRE-FLOP *** 
+mano_o95 raises 1050 to 1750
+P1xel7 folds
+Amonbeaufold raises 5268 to 7018 and is all-in
+Ho0kzz folds
+ivanlobato folds
+mano_o95 calls 5268
+*** FLOP *** [5c Jh Td]
+*** TURN *** [5c Jh Td][Tc]
+*** RIVER *** [5c Jh Td Tc][4s]
+*** SHOW DOWN ***
+mano_o95 shows [Qs Qd] (Two pairs : Queens and Tens)
+Amonbeaufold shows [Kc Kh] (Two pairs : Kings and Tens)
+Amonbeaufold collected 15486 from pot
+*** SUMMARY ***
+Total pot 15486 | No rake
+Board: [5c Jh Td Tc 4s]
+Seat 4: mano_o95 showed [Qs Qd] and lost with Two pairs : Queens and Tens
+Seat 6: Amonbeaufold (button) showed [Kc Kh] and won 15486 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3196839326298144863-84-1707941089 - Holdem no limit (80/350/700) - 2024/02/14 20:04:49 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #2 is the button
+Seat 1: fmr-drikc (20000)
+Seat 2: Ho0kzz (12350)
+Seat 3: ivanlobato (34136)
+Seat 4: mano_o95 (50827)
+Seat 5: P1xel7 (30902)
+Seat 6: Amonbeaufold (15486)
+*** ANTE/BLINDS ***
+ivanlobato posts ante 80
+mano_o95 posts ante 80
+fmr-drikc posts ante 80
+Ho0kzz posts ante 80
+P1xel7 posts ante 80
+Amonbeaufold posts ante 80
+ivanlobato posts small blind 350
+mano_o95 posts big blind 700
+Dealt to P1xel7 [6h 6c]
+*** PRE-FLOP *** 
+P1xel7 raises 1050 to 1750
+Amonbeaufold folds
+fmr-drikc folds
+Ho0kzz folds
+ivanlobato folds
+mano_o95 folds
+P1xel7 collected 3280 from pot
+*** SUMMARY ***
+Total pot 3280 | No rake
+Seat 5: P1xel7 won 3280
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3196839326298144863-85-1707941106 - Holdem no limit (80/350/700) - 2024/02/14 20:05:06 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #3 is the button
+Seat 1: fmr-drikc (19920)
+Seat 2: Ho0kzz (12270)
+Seat 3: ivanlobato (33706)
+Seat 4: mano_o95 (50047)
+Seat 5: P1xel7 (32352)
+Seat 6: Amonbeaufold (15406)
+*** ANTE/BLINDS ***
+mano_o95 posts ante 80
+P1xel7 posts ante 80
+fmr-drikc posts ante 80
+Ho0kzz posts ante 80
+ivanlobato posts ante 80
+Amonbeaufold posts ante 80
+mano_o95 posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [9s Qc]
+*** PRE-FLOP *** 
+Amonbeaufold folds
+fmr-drikc folds
+Ho0kzz folds
+ivanlobato raises 1050 to 1750
+mano_o95 raises 1050 to 2800
+P1xel7 folds
+ivanlobato folds
+mano_o95 collected 5730 from pot
+*** SUMMARY ***
+Total pot 5730 | No rake
+Seat 4: mano_o95 (small blind) won 5730
+
+
+Winamax Poker - Tournament "MYSTERY KO" buyIn: 1.80€ + 0.20€ level: 8 - HandId: #3196839326298144863-86-1707941152 - Holdem no limit (80/350/700) - 2024/02/14 20:05:52 UTC
+Table: 'MYSTERY KO(744322158)#0094' 6-max (real money) Seat #4 is the button
+Seat 1: fmr-drikc (19840)
+Seat 2: Ho0kzz (12190)
+Seat 3: ivanlobato (31876)
+Seat 4: mano_o95 (52897)
+Seat 5: P1xel7 (31572)
+Seat 6: Amonbeaufold (15326)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Amonbeaufold posts ante 80
+fmr-drikc posts ante 80
+Ho0kzz posts ante 80
+ivanlobato posts ante 80
+mano_o95 posts ante 80
+P1xel7 posts small blind 350
+Amonbeaufold posts big blind 700
+Dealt to P1xel7 [Qd Kd]
+*** PRE-FLOP *** 
+fmr-drikc folds
+Ho0kzz folds
+ivanlobato raises 1400 to 2100
+mano_o95 folds
+P1xel7 calls 1750
+Amonbeaufold folds
+*** FLOP *** [4h Kh 2d]
+P1xel7 checks
+ivanlobato bets 1400
+P1xel7 calls 1400
+*** TURN *** [4h Kh 2d][3c]
+P1xel7 checks
+ivanlobato checks
+*** RIVER *** [4h Kh 2d 3c][Ks]
+P1xel7 bets 2863
+ivanlobato raises 25433 to 28296 and is all-in
+P1xel7 calls 25129 and is all-in
+*** SHOW DOWN ***
+P1xel7 shows [Qd Kd] (Trips of Kings)
+ivanlobato shows [5s Ac] (Straight 5 high)
+ivanlobato collected 64468 from pot
+*** SUMMARY ***
+Total pot 64468 | No rake
+Board: [4h Kh 2d 3c Ks]
+Seat 3: ivanlobato showed [5s Ac] and won 64468 with Straight 5 high
+Seat 5: P1xel7 (small blind) showed [Qd Kd] and lost with Trips of Kings
+
+

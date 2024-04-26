@@ -1,0 +1,75 @@
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3187896766301208577-1-1704922266 - Holdem no limit (10/20) - 2024/01/10 21:31:06 UTC
+Table: 'Expresso Nitro(742240056)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Emotif_Rat95 (300)
+Seat 2: Bonyk (300)
+Seat 3: P1xel7 (300)
+*** ANTE/BLINDS ***
+Emotif_Rat95 posts small blind 10
+Bonyk posts big blind 20
+Dealt to P1xel7 [2d Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Emotif_Rat95 raises 40 to 60
+Bonyk raises 240 to 300 and is all-in
+Emotif_Rat95 calls 240 and is all-in
+*** FLOP *** [6d 8s 5c]
+*** TURN *** [6d 8s 5c][2h]
+*** RIVER *** [6d 8s 5c 2h][8h]
+*** SHOW DOWN ***
+Bonyk shows [Ad 4h] (One pair : 8)
+Emotif_Rat95 shows [Td 8d] (Trips of 8)
+Emotif_Rat95 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Board: [6d 8s 5c 2h 8h]
+Seat 1: Emotif_Rat95 (small blind) showed [Td 8d] and won 600 with Trips of 8
+Seat 2: Bonyk (big blind) showed [Ad 4h] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3187896766301208577-2-1704922295 - Holdem no limit (10/20) - 2024/01/10 21:31:35 UTC
+Table: 'Expresso Nitro(742240056)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Emotif_Rat95 (600)
+Seat 3: P1xel7 (300)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+Emotif_Rat95 posts big blind 20
+Dealt to P1xel7 [Js 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Emotif_Rat95 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 1: Emotif_Rat95 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso Nitro" buyIn: 4.65€ + 0.35€ level: 1 - HandId: #3187896766301208577-3-1704922299 - Holdem no limit (10/20) - 2024/01/10 21:31:39 UTC
+Table: 'Expresso Nitro(742240056)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Emotif_Rat95 (610)
+Seat 3: P1xel7 (290)
+*** ANTE/BLINDS ***
+Emotif_Rat95 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [Kh 6s]
+*** PRE-FLOP *** 
+Emotif_Rat95 calls 10
+P1xel7 checks
+*** FLOP *** [2c 4c 3d]
+P1xel7 checks
+Emotif_Rat95 checks
+*** TURN *** [2c 4c 3d][Kd]
+P1xel7 bets 20
+Emotif_Rat95 raises 80 to 100
+P1xel7 raises 170 to 270 and is all-in
+Emotif_Rat95 calls 170
+*** RIVER *** [2c 4c 3d Kd][9s]
+*** SHOW DOWN ***
+P1xel7 shows [Kh 6s] (One pair : Kings)
+Emotif_Rat95 shows [Th Ks] (One pair : Kings)
+Emotif_Rat95 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | No rake
+Board: [2c 4c 3d Kd 9s]
+Seat 1: Emotif_Rat95 (small blind) (button) showed [Th Ks] and won 580 with One pair : Kings
+Seat 3: P1xel7 (big blind) showed [Kh 6s] and lost with One pair : Kings
+
+

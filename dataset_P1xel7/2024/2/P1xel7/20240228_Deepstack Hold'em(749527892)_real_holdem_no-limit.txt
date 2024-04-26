@@ -1,0 +1,1006 @@
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3219197783579820035-30-1709150460 - Holdem no limit (60/250/500) - 2024/02/28 20:01:00 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #1 is the button
+Seat 1: Skall13270 (11834)
+Seat 2: WishUwereOUT (17302)
+Seat 3: beuleubeuleu (20125)
+Seat 4: GoldenPO (38970)
+Seat 5: jpsd24 (47978)
+Seat 6: P1xel7 (20000)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 60
+beuleubeuleu posts ante 60
+Skall13270 posts ante 60
+GoldenPO posts ante 60
+jpsd24 posts ante 60
+P1xel7 posts ante 60
+WishUwereOUT posts small blind 250
+beuleubeuleu posts big blind 500
+Dealt to P1xel7 [Th 4h]
+*** PRE-FLOP *** 
+GoldenPO raises 550 to 1050
+jpsd24 folds
+P1xel7 folds
+Skall13270 folds
+WishUwereOUT folds
+beuleubeuleu calls 550
+*** FLOP *** [5h 7d Ad]
+beuleubeuleu checks
+GoldenPO bets 750
+beuleubeuleu calls 750
+*** TURN *** [5h 7d Ad][Js]
+beuleubeuleu checks
+GoldenPO checks
+*** RIVER *** [5h 7d Ad Js][3d]
+beuleubeuleu bets 3368
+GoldenPO folds
+beuleubeuleu collected 7578 from pot
+*** SUMMARY ***
+Total pot 7578 | No rake
+Board: [5h 7d Ad Js 3d]
+Seat 3: beuleubeuleu (big blind) won 7578
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3219197783579820035-31-1709150553 - Holdem no limit (70/300/600) - 2024/02/28 20:02:33 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #2 is the button
+Seat 1: Skall13270 (11774)
+Seat 2: WishUwereOUT (16992)
+Seat 3: beuleubeuleu (22475)
+Seat 4: GoldenPO (37110)
+Seat 5: jpsd24 (47918)
+Seat 6: P1xel7 (19940)
+*** ANTE/BLINDS ***
+beuleubeuleu posts ante 70
+GoldenPO posts ante 70
+Skall13270 posts ante 70
+WishUwereOUT posts ante 70
+jpsd24 posts ante 70
+P1xel7 posts ante 70
+beuleubeuleu posts small blind 300
+GoldenPO posts big blind 600
+Dealt to P1xel7 [8d 7d]
+*** PRE-FLOP *** 
+jpsd24 raises 600 to 1200
+P1xel7 folds
+Skall13270 folds
+WishUwereOUT folds
+beuleubeuleu folds
+GoldenPO calls 600
+*** FLOP *** [Qc Kh Ks]
+GoldenPO checks
+jpsd24 bets 1092
+GoldenPO folds
+jpsd24 collected 4212 from pot
+*** SUMMARY ***
+Total pot 4212 | No rake
+Board: [Qc Kh Ks]
+Seat 5: jpsd24 won 4212
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3219197783579820035-32-1709150609 - Holdem no limit (70/300/600) - 2024/02/28 20:03:29 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #3 is the button
+Seat 1: Skall13270 (11704)
+Seat 2: WishUwereOUT (16922)
+Seat 3: beuleubeuleu (22105)
+Seat 4: GoldenPO (35840)
+Seat 5: jpsd24 (49768)
+Seat 6: P1xel7 (19870)
+*** ANTE/BLINDS ***
+GoldenPO posts ante 70
+jpsd24 posts ante 70
+Skall13270 posts ante 70
+WishUwereOUT posts ante 70
+beuleubeuleu posts ante 70
+P1xel7 posts ante 70
+GoldenPO posts small blind 300
+jpsd24 posts big blind 600
+Dealt to P1xel7 [6h 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Skall13270 raises 1920 to 2520
+WishUwereOUT folds
+beuleubeuleu folds
+GoldenPO folds
+jpsd24 folds
+Skall13270 collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | No rake
+Seat 1: Skall13270 won 3840
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3219197783579820035-33-1709150650 - Holdem no limit (80/350/700) - 2024/02/28 20:04:10 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #4 is the button
+Seat 1: Skall13270 (12954)
+Seat 2: WishUwereOUT (16852)
+Seat 3: beuleubeuleu (22035)
+Seat 4: GoldenPO (35470)
+Seat 5: jpsd24 (49098)
+Seat 6: P1xel7 (19800)
+*** ANTE/BLINDS ***
+jpsd24 posts ante 80
+P1xel7 posts ante 80
+Skall13270 posts ante 80
+WishUwereOUT posts ante 80
+beuleubeuleu posts ante 80
+GoldenPO posts ante 80
+jpsd24 posts small blind 350
+P1xel7 posts big blind 700
+Dealt to P1xel7 [6d 7h]
+*** PRE-FLOP *** 
+Skall13270 folds
+WishUwereOUT folds
+beuleubeuleu folds
+GoldenPO folds
+jpsd24 raises 700 to 1400
+P1xel7 folds
+jpsd24 collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Seat 5: jpsd24 (small blind) won 2580
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3219197783579820035-34-1709150678 - Holdem no limit (80/350/700) - 2024/02/28 20:04:38 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #5 is the button
+Seat 1: Skall13270 (12874)
+Seat 2: WishUwereOUT (16772)
+Seat 3: beuleubeuleu (21955)
+Seat 4: GoldenPO (35390)
+Seat 5: jpsd24 (50198)
+Seat 6: P1xel7 (19020)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Skall13270 posts ante 80
+WishUwereOUT posts ante 80
+beuleubeuleu posts ante 80
+GoldenPO posts ante 80
+jpsd24 posts ante 80
+P1xel7 posts small blind 350
+Skall13270 posts big blind 700
+Dealt to P1xel7 [As 2h]
+*** PRE-FLOP *** 
+WishUwereOUT folds
+beuleubeuleu folds
+GoldenPO raises 700 to 1400
+jpsd24 raises 700 to 2100
+P1xel7 folds
+Skall13270 calls 1400
+GoldenPO calls 700
+*** FLOP *** [6d 7s Jc]
+Skall13270 checks
+GoldenPO checks
+jpsd24 bets 2496
+Skall13270 calls 2496
+GoldenPO folds
+*** TURN *** [6d 7s Jc][8c]
+Skall13270 bets 8198 and is all-in
+jpsd24 folds
+Skall13270 collected 20320 from pot
+*** SUMMARY ***
+Total pot 20320 | No rake
+Board: [6d 7s Jc 8c]
+Seat 1: Skall13270 (big blind) won 20320
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3219197783579820035-35-1709150754 - Holdem no limit (80/350/700) - 2024/02/28 20:05:54 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #6 is the button
+Seat 1: Skall13270 (20320)
+Seat 2: WishUwereOUT (16692)
+Seat 3: beuleubeuleu (21875)
+Seat 4: GoldenPO (33210)
+Seat 5: jpsd24 (45522)
+Seat 6: P1xel7 (18590)
+*** ANTE/BLINDS ***
+Skall13270 posts ante 80
+WishUwereOUT posts ante 80
+beuleubeuleu posts ante 80
+GoldenPO posts ante 80
+jpsd24 posts ante 80
+P1xel7 posts ante 80
+Skall13270 posts small blind 350
+WishUwereOUT posts big blind 700
+Dealt to P1xel7 [4h Ac]
+*** PRE-FLOP *** 
+beuleubeuleu raises 700 to 1400
+GoldenPO folds
+jpsd24 folds
+P1xel7 folds
+Skall13270 raises 3980 to 5380
+WishUwereOUT folds
+beuleubeuleu raises 16415 to 21795 and is all-in
+Skall13270 calls 14860 and is all-in
+*** FLOP *** [5s 3h Kh]
+*** TURN *** [5s 3h Kh][5d]
+*** RIVER *** [5s 3h Kh 5d][4s]
+*** SHOW DOWN ***
+Skall13270 shows [Qd As] (One pair : 5)
+beuleubeuleu shows [8d 8h] (Two pairs : 8 and 5)
+beuleubeuleu collected 43215 from pot
+*** SUMMARY ***
+Total pot 43215 | No rake
+Board: [5s 3h Kh 5d 4s]
+Seat 1: Skall13270 (small blind) showed [Qd As] and lost with One pair : 5
+Seat 3: beuleubeuleu showed [8d 8h] and won 43215 with Two pairs : 8 and 5
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3219197783579820035-36-1709150790 - Holdem no limit (100/400/800) - 2024/02/28 20:06:30 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #1 is the button
+Seat 2: WishUwereOUT (15912)
+Seat 3: beuleubeuleu (43215)
+Seat 4: GoldenPO (33130)
+Seat 5: jpsd24 (45442)
+Seat 6: P1xel7 (18510)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 100
+beuleubeuleu posts ante 100
+GoldenPO posts ante 100
+jpsd24 posts ante 100
+P1xel7 posts ante 100
+WishUwereOUT posts small blind 400
+beuleubeuleu posts big blind 800
+Dealt to P1xel7 [Qd 2c]
+*** PRE-FLOP *** 
+GoldenPO folds
+jpsd24 calls 800
+P1xel7 folds
+WishUwereOUT folds
+beuleubeuleu raises 2400 to 3200
+jpsd24 calls 2400
+*** FLOP *** [8h 8c Kh]
+beuleubeuleu bets 1825
+jpsd24 folds
+beuleubeuleu collected 9125 from pot
+*** SUMMARY ***
+Total pot 9125 | No rake
+Board: [8h 8c Kh]
+Seat 3: beuleubeuleu (big blind) won 9125
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3219197783579820035-37-1709150824 - Holdem no limit (100/400/800) - 2024/02/28 20:07:04 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #2 is the button
+Seat 2: WishUwereOUT (15412)
+Seat 3: beuleubeuleu (47215)
+Seat 4: GoldenPO (33030)
+Seat 5: jpsd24 (42142)
+Seat 6: P1xel7 (18410)
+*** ANTE/BLINDS ***
+beuleubeuleu posts ante 100
+GoldenPO posts ante 100
+WishUwereOUT posts ante 100
+jpsd24 posts ante 100
+P1xel7 posts ante 100
+beuleubeuleu posts small blind 400
+GoldenPO posts big blind 800
+Dealt to P1xel7 [Ah Kc]
+*** PRE-FLOP *** 
+jpsd24 folds
+P1xel7 raises 960 to 1760
+WishUwereOUT folds
+beuleubeuleu folds
+GoldenPO folds
+P1xel7 collected 3460 from pot
+*** SUMMARY ***
+Total pot 3460 | No rake
+Seat 6: P1xel7 won 3460
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3219197783579820035-38-1709150850 - Holdem no limit (100/400/800) - 2024/02/28 20:07:30 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #3 is the button
+Seat 2: WishUwereOUT (15312)
+Seat 3: beuleubeuleu (46715)
+Seat 4: GoldenPO (32130)
+Seat 5: jpsd24 (42042)
+Seat 6: P1xel7 (20010)
+*** ANTE/BLINDS ***
+GoldenPO posts ante 100
+jpsd24 posts ante 100
+WishUwereOUT posts ante 100
+beuleubeuleu posts ante 100
+P1xel7 posts ante 100
+GoldenPO posts small blind 400
+jpsd24 posts big blind 800
+Dealt to P1xel7 [5c 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+WishUwereOUT raises 800 to 1600
+beuleubeuleu folds
+GoldenPO raises 4800 to 6400
+jpsd24 folds
+WishUwereOUT folds
+GoldenPO collected 9300 from pot
+*** SUMMARY ***
+Total pot 9300 | No rake
+Seat 4: GoldenPO (small blind) won 9300
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3219197783579820035-39-1709150879 - Holdem no limit (100/400/800) - 2024/02/28 20:07:59 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #4 is the button
+Seat 2: WishUwereOUT (13612)
+Seat 3: beuleubeuleu (46615)
+Seat 4: GoldenPO (34930)
+Seat 5: jpsd24 (41142)
+Seat 6: P1xel7 (19910)
+*** ANTE/BLINDS ***
+jpsd24 posts ante 100
+P1xel7 posts ante 100
+WishUwereOUT posts ante 100
+beuleubeuleu posts ante 100
+GoldenPO posts ante 100
+jpsd24 posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [Tc 4d]
+*** PRE-FLOP *** 
+WishUwereOUT folds
+beuleubeuleu folds
+GoldenPO folds
+jpsd24 folds
+P1xel7 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 6: P1xel7 (big blind) won 1700
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3219197783579820035-40-1709150886 - Holdem no limit (100/400/800) - 2024/02/28 20:08:06 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #5 is the button
+Seat 2: WishUwereOUT (13512)
+Seat 3: beuleubeuleu (46515)
+Seat 4: GoldenPO (34830)
+Seat 5: jpsd24 (40642)
+Seat 6: P1xel7 (20710)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+WishUwereOUT posts ante 100
+beuleubeuleu posts ante 100
+GoldenPO posts ante 100
+jpsd24 posts ante 100
+P1xel7 posts small blind 400
+WishUwereOUT posts big blind 800
+Dealt to P1xel7 [3s 7c]
+*** PRE-FLOP *** 
+beuleubeuleu folds
+GoldenPO folds
+jpsd24 folds
+P1xel7 folds
+WishUwereOUT collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 2: WishUwereOUT (big blind) won 1700
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3219197783579820035-41-1709150896 - Holdem no limit (100/400/800) - 2024/02/28 20:08:16 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #6 is the button
+Seat 2: WishUwereOUT (14312)
+Seat 3: beuleubeuleu (46415)
+Seat 4: GoldenPO (34730)
+Seat 5: jpsd24 (40542)
+Seat 6: P1xel7 (20210)
+*** ANTE/BLINDS ***
+WishUwereOUT posts ante 100
+beuleubeuleu posts ante 100
+GoldenPO posts ante 100
+jpsd24 posts ante 100
+P1xel7 posts ante 100
+WishUwereOUT posts small blind 400
+beuleubeuleu posts big blind 800
+Dealt to P1xel7 [8h 9h]
+*** PRE-FLOP *** 
+GoldenPO folds
+jpsd24 calls 800
+P1xel7 folds
+WishUwereOUT folds
+beuleubeuleu checks
+*** FLOP *** [2c Qs Qd]
+beuleubeuleu checks
+jpsd24 bets 800
+beuleubeuleu calls 800
+*** TURN *** [2c Qs Qd][Kd]
+beuleubeuleu checks
+jpsd24 bets 2665
+beuleubeuleu calls 2665
+*** RIVER *** [2c Qs Qd Kd][Qc]
+beuleubeuleu checks
+jpsd24 bets 36177 and is all-in
+beuleubeuleu folds
+jpsd24 collected 45607 from pot
+*** SUMMARY ***
+Total pot 45607 | No rake
+Board: [2c Qs Qd Kd Qc]
+Seat 5: jpsd24 won 45607
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3219197783579820035-42-1709150938 - Holdem no limit (100/400/800) - 2024/02/28 20:08:58 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #2 is the button
+Seat 1: Mathias_hld (20000)
+Seat 2: WishUwereOUT (13812)
+Seat 3: beuleubeuleu (42050)
+Seat 4: GoldenPO (34630)
+Seat 5: jpsd24 (45607)
+Seat 6: P1xel7 (20110)
+*** ANTE/BLINDS ***
+beuleubeuleu posts ante 100
+GoldenPO posts ante 100
+Mathias_hld posts ante 100
+WishUwereOUT posts ante 100
+jpsd24 posts ante 100
+P1xel7 posts ante 100
+beuleubeuleu posts small blind 400
+GoldenPO posts big blind 800
+Dealt to P1xel7 [Jh Qc]
+*** PRE-FLOP *** 
+jpsd24 calls 800
+P1xel7 folds
+Mathias_hld folds
+WishUwereOUT folds
+beuleubeuleu folds
+GoldenPO checks
+*** FLOP *** [7d 8d 9c]
+GoldenPO checks
+jpsd24 bets 910
+GoldenPO folds
+jpsd24 collected 3510 from pot
+*** SUMMARY ***
+Total pot 3510 | No rake
+Board: [7d 8d 9c]
+Seat 5: jpsd24 won 3510
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3219197783579820035-43-1709150987 - Holdem no limit (120/500/1000) - 2024/02/28 20:09:47 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #3 is the button
+Seat 1: Mathias_hld (19900)
+Seat 2: WishUwereOUT (13712)
+Seat 3: beuleubeuleu (41550)
+Seat 4: GoldenPO (33730)
+Seat 5: jpsd24 (47307)
+Seat 6: P1xel7 (20010)
+*** ANTE/BLINDS ***
+GoldenPO posts ante 120
+jpsd24 posts ante 120
+Mathias_hld posts ante 120
+WishUwereOUT posts ante 120
+beuleubeuleu posts ante 120
+P1xel7 posts ante 120
+GoldenPO posts small blind 500
+jpsd24 posts big blind 1000
+Dealt to P1xel7 [3h 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Mathias_hld calls 1000
+WishUwereOUT folds
+beuleubeuleu raises 3000 to 4000
+GoldenPO folds
+jpsd24 folds
+Mathias_hld folds
+beuleubeuleu collected 7220 from pot
+*** SUMMARY ***
+Total pot 7220 | No rake
+Seat 3: beuleubeuleu (button) won 7220
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3219197783579820035-44-1709151021 - Holdem no limit (120/500/1000) - 2024/02/28 20:10:21 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #4 is the button
+Seat 1: Mathias_hld (18780)
+Seat 2: WishUwereOUT (13592)
+Seat 3: beuleubeuleu (44650)
+Seat 4: GoldenPO (33110)
+Seat 5: jpsd24 (46187)
+Seat 6: P1xel7 (19890)
+*** ANTE/BLINDS ***
+jpsd24 posts ante 120
+P1xel7 posts ante 120
+Mathias_hld posts ante 120
+WishUwereOUT posts ante 120
+beuleubeuleu posts ante 120
+GoldenPO posts ante 120
+jpsd24 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [Jd Td]
+*** PRE-FLOP *** 
+Mathias_hld calls 1000
+WishUwereOUT folds
+beuleubeuleu folds
+GoldenPO calls 1000
+jpsd24 calls 500
+P1xel7 checks
+*** FLOP *** [Ts 7s Qc]
+jpsd24 bets 1000
+P1xel7 calls 1000
+Mathias_hld calls 1000
+GoldenPO raises 5804 to 6804
+jpsd24 folds
+P1xel7 folds
+Mathias_hld folds
+GoldenPO collected 14524 from pot
+*** SUMMARY ***
+Total pot 14524 | No rake
+Board: [Ts 7s Qc]
+Seat 4: GoldenPO (button) won 14524
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3219197783579820035-45-1709151065 - Holdem no limit (120/500/1000) - 2024/02/28 20:11:05 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #5 is the button
+Seat 1: Mathias_hld (16660)
+Seat 2: WishUwereOUT (13472)
+Seat 3: beuleubeuleu (44530)
+Seat 4: GoldenPO (39710)
+Seat 5: jpsd24 (44067)
+Seat 6: P1xel7 (17770)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Mathias_hld posts ante 120
+WishUwereOUT posts ante 120
+beuleubeuleu posts ante 120
+GoldenPO posts ante 120
+jpsd24 posts ante 120
+P1xel7 posts small blind 500
+Mathias_hld posts big blind 1000
+Dealt to P1xel7 [2d Kh]
+*** PRE-FLOP *** 
+WishUwereOUT folds
+beuleubeuleu folds
+GoldenPO raises 1500 to 2500
+jpsd24 folds
+P1xel7 folds
+Mathias_hld folds
+GoldenPO collected 4720 from pot
+*** SUMMARY ***
+Total pot 4720 | No rake
+Seat 4: GoldenPO won 4720
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3219197783579820035-46-1709151079 - Holdem no limit (120/500/1000) - 2024/02/28 20:11:19 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #6 is the button
+Seat 1: Mathias_hld (15540)
+Seat 2: WishUwereOUT (13352)
+Seat 3: beuleubeuleu (44410)
+Seat 4: GoldenPO (41810)
+Seat 5: jpsd24 (43947)
+Seat 6: P1xel7 (17150)
+*** ANTE/BLINDS ***
+Mathias_hld posts ante 120
+WishUwereOUT posts ante 120
+beuleubeuleu posts ante 120
+GoldenPO posts ante 120
+jpsd24 posts ante 120
+P1xel7 posts ante 120
+Mathias_hld posts small blind 500
+WishUwereOUT posts big blind 1000
+Dealt to P1xel7 [Th 2s]
+*** PRE-FLOP *** 
+beuleubeuleu folds
+GoldenPO folds
+jpsd24 raises 1000 to 2000
+P1xel7 folds
+Mathias_hld raises 13420 to 15420 and is all-in
+WishUwereOUT calls 12232 and is all-in
+jpsd24 calls 13420
+*** FLOP *** [4d 7s Jc]
+*** TURN *** [4d 7s Jc][9h]
+*** RIVER *** [4d 7s Jc 9h][8s]
+*** SHOW DOWN ***
+Mathias_hld shows [4c 4s] (Trips of 4)
+WishUwereOUT shows [Qd Ac] (High card : Ace)
+jpsd24 shows [Qs Td] (Straight Queen high)
+jpsd24 collected 44792 from pot
+*** SUMMARY ***
+Total pot 44792 | No rake
+Board: [4d 7s Jc 9h 8s]
+Seat 1: Mathias_hld (small blind) showed [4c 4s] and lost with Trips of 4
+Seat 2: WishUwereOUT (big blind) showed [Qd Ac] and lost with High card : Ace
+Seat 5: jpsd24 showed [Qs Td] and won 44792 with Straight Queen high
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3219197783579820035-47-1709151099 - Holdem no limit (140/600/1200) - 2024/02/28 20:11:39 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #1 is the button
+Seat 3: beuleubeuleu (44290)
+Seat 4: GoldenPO (41690)
+Seat 5: jpsd24 (73199)
+Seat 6: P1xel7 (17030)
+*** ANTE/BLINDS ***
+beuleubeuleu posts ante 140
+GoldenPO posts ante 140
+jpsd24 posts ante 140
+P1xel7 posts ante 140
+beuleubeuleu posts big blind 1200
+Dealt to P1xel7 [2h 6s]
+*** PRE-FLOP *** 
+GoldenPO folds
+jpsd24 folds
+P1xel7 folds
+beuleubeuleu collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | No rake
+Seat 3: beuleubeuleu (big blind) won 1760
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3219197783579820035-48-1709151108 - Holdem no limit (140/600/1200) - 2024/02/28 20:11:48 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #2 is the button
+Seat 2: JesusFreeMe (16548)
+Seat 3: beuleubeuleu (44710)
+Seat 4: GoldenPO (41550)
+Seat 5: jpsd24 (73059)
+Seat 6: P1xel7 (16890)
+*** ANTE/BLINDS ***
+beuleubeuleu posts ante 140
+GoldenPO posts ante 140
+jpsd24 posts ante 140
+P1xel7 posts ante 140
+beuleubeuleu posts small blind 600
+GoldenPO posts big blind 1200
+Dealt to P1xel7 [7h 6d]
+*** PRE-FLOP *** 
+jpsd24 calls 1200
+P1xel7 folds
+beuleubeuleu folds
+GoldenPO checks
+*** FLOP *** [9s 9c Jd]
+GoldenPO checks
+jpsd24 bets 1200
+GoldenPO folds
+jpsd24 collected 4760 from pot
+*** SUMMARY ***
+Total pot 4760 | No rake
+Board: [9s 9c Jd]
+Seat 5: jpsd24 won 4760
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3219197783579820035-49-1709151138 - Holdem no limit (140/600/1200) - 2024/02/28 20:12:18 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #3 is the button
+Seat 2: JesusFreeMe (16548)
+Seat 3: beuleubeuleu (43970)
+Seat 4: GoldenPO (40210)
+Seat 5: jpsd24 (75279)
+Seat 6: P1xel7 (16750)
+*** ANTE/BLINDS ***
+GoldenPO posts ante 140
+jpsd24 posts ante 140
+JesusFreeMe posts ante 140
+beuleubeuleu posts ante 140
+P1xel7 posts ante 140
+GoldenPO posts small blind 600
+jpsd24 posts big blind 1200
+Dealt to P1xel7 [7s 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+JesusFreeMe raises 1200 to 2400
+beuleubeuleu raises 41430 to 43830 and is all-in
+GoldenPO folds
+jpsd24 folds
+JesusFreeMe folds
+beuleubeuleu collected 48730 from pot
+*** SUMMARY ***
+Total pot 48730 | No rake
+Seat 3: beuleubeuleu (button) won 48730
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3219197783579820035-50-1709151167 - Holdem no limit (140/600/1200) - 2024/02/28 20:12:47 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #4 is the button
+Seat 2: JesusFreeMe (14008)
+Seat 3: beuleubeuleu (48730)
+Seat 4: GoldenPO (39470)
+Seat 5: jpsd24 (73939)
+Seat 6: P1xel7 (16610)
+*** ANTE/BLINDS ***
+jpsd24 posts ante 140
+P1xel7 posts ante 140
+JesusFreeMe posts ante 140
+beuleubeuleu posts ante 140
+GoldenPO posts ante 140
+jpsd24 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [7c 6h]
+*** PRE-FLOP *** 
+JesusFreeMe folds
+beuleubeuleu folds
+GoldenPO raises 1200 to 2400
+jpsd24 calls 1800
+P1xel7 calls 1200
+*** FLOP *** [3d 5c 9s]
+jpsd24 bets 1200
+P1xel7 calls 1200
+GoldenPO calls 1200
+*** TURN *** [3d 5c 9s][Th]
+jpsd24 bets 4025
+P1xel7 folds
+GoldenPO calls 4025
+*** RIVER *** [3d 5c 9s Th][Tc]
+jpsd24 bets 66174 and is all-in
+GoldenPO calls 31705 and is all-in
+*** SHOW DOWN ***
+GoldenPO shows [6d 6c] (Two pairs : Tens and 6)
+jpsd24 shows [2c Kc] (One pair : Tens)
+jpsd24 collected 34469 from side pot 1
+GoldenPO collected 82960 from main pot
+*** SUMMARY ***
+Total pot 117429 | No rake
+Board: [3d 5c 9s Th Tc]
+Seat 4: GoldenPO (button) showed [6d 6c] and won 82960 with Two pairs : Tens and 6
+Seat 5: jpsd24 (small blind) showed [2c Kc] and won 34469 with One pair : Tens
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3219197783579820035-51-1709151273 - Holdem no limit (160/700/1400) - 2024/02/28 20:14:33 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #5 is the button
+Seat 1: jeje8572 (21660)
+Seat 2: JesusFreeMe (13868)
+Seat 3: beuleubeuleu (48590)
+Seat 4: GoldenPO (82960)
+Seat 5: jpsd24 (34469)
+Seat 6: P1xel7 (12870)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+jeje8572 posts ante 160
+JesusFreeMe posts ante 160
+beuleubeuleu posts ante 160
+GoldenPO posts ante 160
+jpsd24 posts ante 160
+P1xel7 posts small blind 700
+jeje8572 posts big blind 1400
+Dealt to P1xel7 [Qd 9s]
+*** PRE-FLOP *** 
+JesusFreeMe folds
+beuleubeuleu raises 1400 to 2800
+GoldenPO folds
+jpsd24 calls 2800
+P1xel7 folds
+jeje8572 calls 1400
+*** FLOP *** [3h 8d Kc]
+jeje8572 checks
+beuleubeuleu bets 5030
+jpsd24 folds
+jeje8572 folds
+beuleubeuleu collected 15090 from pot
+*** SUMMARY ***
+Total pot 15090 | No rake
+Board: [3h 8d Kc]
+Seat 3: beuleubeuleu won 15090
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3219197783579820035-52-1709151317 - Holdem no limit (160/700/1400) - 2024/02/28 20:15:17 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #6 is the button
+Seat 1: jeje8572 (18700)
+Seat 2: JesusFreeMe (13708)
+Seat 3: beuleubeuleu (55690)
+Seat 4: GoldenPO (82800)
+Seat 5: jpsd24 (31509)
+Seat 6: P1xel7 (12010)
+*** ANTE/BLINDS ***
+jeje8572 posts ante 160
+JesusFreeMe posts ante 160
+beuleubeuleu posts ante 160
+GoldenPO posts ante 160
+jpsd24 posts ante 160
+P1xel7 posts ante 160
+jeje8572 posts small blind 700
+JesusFreeMe posts big blind 1400
+Dealt to P1xel7 [Kh 4d]
+*** PRE-FLOP *** 
+beuleubeuleu folds
+GoldenPO folds
+jpsd24 raises 29949 to 31349 and is all-in
+P1xel7 folds
+jeje8572 folds
+JesusFreeMe folds
+jpsd24 collected 34409 from pot
+*** SUMMARY ***
+Total pot 34409 | No rake
+Seat 5: jpsd24 won 34409
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3219197783579820035-53-1709151382 - Holdem no limit (160/700/1400) - 2024/02/28 20:16:22 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #1 is the button
+Seat 1: jeje8572 (17840)
+Seat 2: JesusFreeMe (12148)
+Seat 3: beuleubeuleu (55530)
+Seat 4: GoldenPO (82640)
+Seat 5: jpsd24 (34409)
+Seat 6: P1xel7 (11850)
+*** ANTE/BLINDS ***
+JesusFreeMe posts ante 160
+beuleubeuleu posts ante 160
+jeje8572 posts ante 160
+GoldenPO posts ante 160
+jpsd24 posts ante 160
+P1xel7 posts ante 160
+JesusFreeMe posts small blind 700
+beuleubeuleu posts big blind 1400
+Dealt to P1xel7 [9s 5d]
+*** PRE-FLOP *** 
+GoldenPO folds
+jpsd24 raises 1400 to 2800
+P1xel7 folds
+jeje8572 folds
+JesusFreeMe calls 2100
+beuleubeuleu folds
+*** FLOP *** [Kc As 3s]
+JesusFreeMe checks
+jpsd24 bets 2786
+JesusFreeMe folds
+jpsd24 collected 10746 from pot
+*** SUMMARY ***
+Total pot 10746 | No rake
+Board: [Kc As 3s]
+Seat 5: jpsd24 won 10746
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3219197783579820035-54-1709151421 - Holdem no limit (200/800/1600) - 2024/02/28 20:17:01 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #2 is the button
+Seat 1: jeje8572 (17680)
+Seat 2: JesusFreeMe (9188)
+Seat 3: beuleubeuleu (53970)
+Seat 4: GoldenPO (82480)
+Seat 5: jpsd24 (39409)
+Seat 6: P1xel7 (11690)
+*** ANTE/BLINDS ***
+beuleubeuleu posts ante 200
+GoldenPO posts ante 200
+jeje8572 posts ante 200
+JesusFreeMe posts ante 200
+jpsd24 posts ante 200
+P1xel7 posts ante 200
+beuleubeuleu posts small blind 800
+GoldenPO posts big blind 1600
+Dealt to P1xel7 [Kd 8s]
+*** PRE-FLOP *** 
+jpsd24 folds
+P1xel7 folds
+jeje8572 folds
+JesusFreeMe raises 7388 to 8988 and is all-in
+beuleubeuleu folds
+GoldenPO folds
+JesusFreeMe collected 12588 from pot
+*** SUMMARY ***
+Total pot 12588 | No rake
+Seat 2: JesusFreeMe (button) won 12588
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3219197783579820035-55-1709151446 - Holdem no limit (200/800/1600) - 2024/02/28 20:17:26 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #3 is the button
+Seat 1: jeje8572 (17480)
+Seat 2: JesusFreeMe (12588)
+Seat 3: beuleubeuleu (52970)
+Seat 4: GoldenPO (80680)
+Seat 5: jpsd24 (39209)
+Seat 6: P1xel7 (11490)
+*** ANTE/BLINDS ***
+GoldenPO posts ante 200
+jpsd24 posts ante 200
+jeje8572 posts ante 200
+JesusFreeMe posts ante 200
+beuleubeuleu posts ante 200
+P1xel7 posts ante 200
+GoldenPO posts small blind 800
+jpsd24 posts big blind 1600
+Dealt to P1xel7 [4s 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+jeje8572 folds
+JesusFreeMe folds
+beuleubeuleu raises 1600 to 3200
+GoldenPO folds
+jpsd24 calls 1600
+*** FLOP *** [7s Qs 5d]
+jpsd24 checks
+beuleubeuleu bets 2940
+jpsd24 calls 2940
+*** TURN *** [7s Qs 5d][5c]
+jpsd24 checks
+beuleubeuleu checks
+*** RIVER *** [7s Qs 5d 5c][2c]
+jpsd24 bets 4998
+beuleubeuleu folds
+jpsd24 collected 19278 from pot
+*** SUMMARY ***
+Total pot 19278 | No rake
+Board: [7s Qs 5d 5c 2c]
+Seat 5: jpsd24 (big blind) won 19278
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3219197783579820035-56-1709151516 - Holdem no limit (200/800/1600) - 2024/02/28 20:18:36 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #4 is the button
+Seat 2: JesusFreeMe (12388)
+Seat 3: beuleubeuleu (46630)
+Seat 4: GoldenPO (79680)
+Seat 5: jpsd24 (47149)
+Seat 6: P1xel7 (11290)
+*** ANTE/BLINDS ***
+jpsd24 posts ante 200
+P1xel7 posts ante 200
+JesusFreeMe posts ante 200
+beuleubeuleu posts ante 200
+GoldenPO posts ante 200
+jpsd24 posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [Td 5h]
+*** PRE-FLOP *** 
+JesusFreeMe raises 10588 to 12188 and is all-in
+beuleubeuleu folds
+GoldenPO folds
+jpsd24 folds
+P1xel7 folds
+JesusFreeMe collected 15588 from pot
+*** SUMMARY ***
+Total pot 15588 | No rake
+Seat 2: JesusFreeMe won 15588
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3219197783579820035-57-1709151555 - Holdem no limit (250/1000/2000) - 2024/02/28 20:19:15 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #5 is the button
+Seat 2: JesusFreeMe (15588)
+Seat 3: beuleubeuleu (46430)
+Seat 4: GoldenPO (79480)
+Seat 5: jpsd24 (46149)
+Seat 6: P1xel7 (9490)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+JesusFreeMe posts ante 250
+beuleubeuleu posts ante 250
+GoldenPO posts ante 250
+jpsd24 posts ante 250
+P1xel7 posts small blind 1000
+JesusFreeMe posts big blind 2000
+Dealt to P1xel7 [Kh 5h]
+*** PRE-FLOP *** 
+beuleubeuleu folds
+GoldenPO folds
+jpsd24 raises 2000 to 4000
+P1xel7 folds
+JesusFreeMe calls 2000
+*** FLOP *** [6c 2d 7c]
+JesusFreeMe checks
+jpsd24 bets 2000
+JesusFreeMe calls 2000
+*** TURN *** [6c 2d 7c][8s]
+JesusFreeMe bets 9338 and is all-in
+jpsd24 calls 9338
+*** RIVER *** [6c 2d 7c 8s][Qc]
+*** SHOW DOWN ***
+jpsd24 shows [Kd Ac] (High card : Ace)
+JesusFreeMe shows [Qh 8c] (Two pairs : Queens and 8)
+JesusFreeMe collected 32926 from pot
+*** SUMMARY ***
+Total pot 32926 | No rake
+Board: [6c 2d 7c 8s Qc]
+Seat 2: JesusFreeMe (big blind) showed [Qh 8c] and won 32926 with Two pairs : Queens and 8
+Seat 5: jpsd24 (button) showed [Kd Ac] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3219197783579820035-58-1709151610 - Holdem no limit (250/1000/2000) - 2024/02/28 20:20:10 UTC
+Table: 'Deepstack Hold'em(749527892)#002' 6-max (real money) Seat #6 is the button
+Seat 2: JesusFreeMe (32926)
+Seat 3: beuleubeuleu (46180)
+Seat 4: GoldenPO (79230)
+Seat 5: jpsd24 (30561)
+Seat 6: P1xel7 (8240)
+*** ANTE/BLINDS ***
+JesusFreeMe posts ante 250
+beuleubeuleu posts ante 250
+GoldenPO posts ante 250
+jpsd24 posts ante 250
+P1xel7 posts ante 250
+JesusFreeMe posts small blind 1000
+beuleubeuleu posts big blind 2000
+Dealt to P1xel7 [6s Ks]
+*** PRE-FLOP *** 
+GoldenPO raises 2000 to 4000
+jpsd24 calls 4000
+P1xel7 raises 3990 to 7990 and is all-in
+JesusFreeMe raises 3990 to 11980
+beuleubeuleu folds
+GoldenPO raises 67000 to 78980 and is all-in
+jpsd24 calls 26311 and is all-in
+JesusFreeMe calls 20696 and is all-in
+*** FLOP *** [7d Qc 6c]
+*** TURN *** [7d Qc 6c][4s]
+*** RIVER *** [7d Qc 6c 4s][5d]
+*** SHOW DOWN ***
+JesusFreeMe shows [Kh 9h] (High card : King)
+jpsd24 shows [2d Ah] (High card : Ace)
+P1xel7 shows [6s Ks] (One pair : 6)
+GoldenPO shows [Td Ts] (One pair : Tens)
+GoldenPO collected 153207 from pot
+*** SUMMARY ***
+Total pot 153207 | No rake
+Board: [7d Qc 6c 4s 5d]
+Seat 2: JesusFreeMe (small blind) showed [Kh 9h] and lost with High card : King
+Seat 4: GoldenPO showed [Td Ts] and won 153207 with One pair : Tens
+Seat 5: jpsd24 showed [2d Ah] and lost with High card : Ace
+Seat 6: P1xel7 (button) showed [6s Ks] and lost with One pair : 6
+
+

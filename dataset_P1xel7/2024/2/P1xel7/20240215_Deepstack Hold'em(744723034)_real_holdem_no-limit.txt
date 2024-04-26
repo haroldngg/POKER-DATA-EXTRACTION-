@@ -1,0 +1,2525 @@
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3198561075607896070-8-1708026193 - Holdem no limit (30/125/250) - 2024/02/15 19:43:13 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (20000)
+Seat 2: SuckMyChips (23792)
+Seat 3: benzappa (19350)
+Seat 4: jmkw812 (23242)
+Seat 5: foxjojo14 (33216)
+Seat 6: MaitreGuigne (19975)
+*** ANTE/BLINDS ***
+benzappa posts ante 30
+jmkw812 posts ante 30
+P1xel7 posts ante 30
+SuckMyChips posts ante 30
+foxjojo14 posts ante 30
+MaitreGuigne posts ante 30
+benzappa posts small blind 125
+jmkw812 posts big blind 250
+Dealt to P1xel7 [3c Qh]
+*** PRE-FLOP *** 
+foxjojo14 calls 250
+MaitreGuigne folds
+P1xel7 folds
+SuckMyChips folds
+benzappa calls 125
+jmkw812 checks
+*** FLOP *** [5d 2h 8h]
+benzappa bets 326
+jmkw812 folds
+foxjojo14 folds
+benzappa collected 1256 from pot
+*** SUMMARY ***
+Total pot 1256 | No rake
+Board: [5d 2h 8h]
+Seat 3: benzappa (small blind) won 1256
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3198561075607896070-9-1708026255 - Holdem no limit (30/125/250) - 2024/02/15 19:44:15 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (19970)
+Seat 2: SuckMyChips (23762)
+Seat 3: benzappa (20000)
+Seat 4: jmkw812 (22962)
+Seat 5: foxjojo14 (32936)
+Seat 6: MaitreGuigne (19945)
+*** ANTE/BLINDS ***
+jmkw812 posts ante 30
+foxjojo14 posts ante 30
+P1xel7 posts ante 30
+SuckMyChips posts ante 30
+benzappa posts ante 30
+MaitreGuigne posts ante 30
+jmkw812 posts small blind 125
+foxjojo14 posts big blind 250
+Dealt to P1xel7 [6s 3d]
+*** PRE-FLOP *** 
+MaitreGuigne folds
+P1xel7 folds
+SuckMyChips folds
+benzappa folds
+jmkw812 raises 500 to 750
+foxjojo14 folds
+jmkw812 collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | No rake
+Seat 4: jmkw812 (small blind) won 1180
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3198561075607896070-10-1708026273 - Holdem no limit (30/125/250) - 2024/02/15 19:44:33 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (19940)
+Seat 2: SuckMyChips (23732)
+Seat 3: benzappa (19970)
+Seat 4: jmkw812 (23362)
+Seat 5: foxjojo14 (32656)
+Seat 6: MaitreGuigne (19915)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 30
+MaitreGuigne posts ante 30
+P1xel7 posts ante 30
+SuckMyChips posts ante 30
+benzappa posts ante 30
+jmkw812 posts ante 30
+foxjojo14 posts small blind 125
+MaitreGuigne posts big blind 250
+Dealt to P1xel7 [Ah Qd]
+*** PRE-FLOP *** 
+P1xel7 raises 375 to 625
+SuckMyChips folds
+benzappa calls 625
+jmkw812 folds
+foxjojo14 calls 500
+MaitreGuigne folds
+*** FLOP *** [Jc Ts 2h]
+foxjojo14 checks
+P1xel7 bets 807
+benzappa folds
+foxjojo14 folds
+P1xel7 collected 3112 from pot
+*** SUMMARY ***
+Total pot 3112 | No rake
+Board: [Jc Ts 2h]
+Seat 1: P1xel7 won 3112
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 2 - HandId: #3198561075607896070-11-1708026319 - Holdem no limit (30/125/250) - 2024/02/15 19:45:19 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (21590)
+Seat 3: benzappa (19315)
+Seat 4: jmkw812 (23332)
+Seat 5: foxjojo14 (32001)
+Seat 6: MaitreGuigne (19635)
+*** ANTE/BLINDS ***
+MaitreGuigne posts ante 30
+P1xel7 posts ante 30
+benzappa posts ante 30
+jmkw812 posts ante 30
+foxjojo14 posts ante 30
+MaitreGuigne posts small blind 125
+P1xel7 posts big blind 250
+Dealt to P1xel7 [3c Ah]
+*** PRE-FLOP *** 
+benzappa folds
+jmkw812 raises 250 to 500
+foxjojo14 calls 500
+MaitreGuigne calls 375
+P1xel7 calls 250
+*** FLOP *** [Td Qh 7h]
+MaitreGuigne checks
+P1xel7 checks
+jmkw812 checks
+foxjojo14 checks
+*** TURN *** [Td Qh 7h][8s]
+MaitreGuigne checks
+P1xel7 checks
+jmkw812 checks
+foxjojo14 checks
+*** RIVER *** [Td Qh 7h 8s][6c]
+MaitreGuigne checks
+P1xel7 checks
+jmkw812 checks
+foxjojo14 checks
+*** SHOW DOWN ***
+P1xel7 shows [3c Ah] (High card : Ace)
+jmkw812 shows [5c Kc] (High card : King)
+foxjojo14 shows [7d Kd] (One pair : 7)
+MaitreGuigne shows [9d Ad] (Straight Ten high)
+MaitreGuigne collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | No rake
+Board: [Td Qh 7h 8s 6c]
+Seat 1: P1xel7 (big blind) showed [3c Ah] and lost with High card : Ace
+Seat 4: jmkw812 showed [5c Kc] and lost with High card : King
+Seat 5: foxjojo14 (button) showed [7d Kd] and lost with One pair : 7
+Seat 6: MaitreGuigne (small blind) showed [9d Ad] and won 2150 with Straight Ten high
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198561075607896070-12-1708026384 - Holdem no limit (35/150/300) - 2024/02/15 19:46:24 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (21060)
+Seat 2: Distance 35 (20000)
+Seat 4: jmkw812 (22802)
+Seat 5: foxjojo14 (31471)
+Seat 6: MaitreGuigne (21255)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+Distance 35 posts ante 35
+jmkw812 posts ante 35
+foxjojo14 posts ante 35
+MaitreGuigne posts ante 35
+P1xel7 posts small blind 150
+Distance 35 posts big blind 300
+Dealt to P1xel7 [7s 2s]
+*** PRE-FLOP *** 
+jmkw812 raises 300 to 600
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 calls 300
+*** FLOP *** [5d Jd 7c]
+Distance 35 checks
+jmkw812 bets 534
+Distance 35 calls 534
+*** TURN *** [5d Jd 7c][8s]
+Distance 35 checks
+jmkw812 checks
+*** RIVER *** [5d Jd 7c 8s][6s]
+Distance 35 bets 2074
+jmkw812 calls 2074
+*** SHOW DOWN ***
+jmkw812 shows [8c 6c] (Two pairs : 8 and 6)
+Distance 35 shows [9s 8d] (Straight 9 high)
+Distance 35 collected 6741 from pot
+*** SUMMARY ***
+Total pot 6741 | No rake
+Board: [5d Jd 7c 8s 6s]
+Seat 2: Distance 35 (big blind) showed [9s 8d] and won 6741 with Straight 9 high
+Seat 4: jmkw812 showed [8c 6c] and lost with Two pairs : 8 and 6
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198561075607896070-13-1708026430 - Holdem no limit (35/150/300) - 2024/02/15 19:47:10 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (20875)
+Seat 2: Distance 35 (23498)
+Seat 4: jmkw812 (19559)
+Seat 5: foxjojo14 (31436)
+Seat 6: MaitreGuigne (21220)
+*** ANTE/BLINDS ***
+Distance 35 posts ante 35
+jmkw812 posts ante 35
+P1xel7 posts ante 35
+foxjojo14 posts ante 35
+MaitreGuigne posts ante 35
+Distance 35 posts small blind 150
+jmkw812 posts big blind 300
+Dealt to P1xel7 [Qc 4h]
+*** PRE-FLOP *** 
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+jmkw812 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | No rake
+Seat 4: jmkw812 (big blind) won 625
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198561075607896070-14-1708026439 - Holdem no limit (35/150/300) - 2024/02/15 19:47:19 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (20840)
+Seat 2: Distance 35 (23313)
+Seat 3: Lonclulade (20000)
+Seat 4: jmkw812 (19849)
+Seat 5: foxjojo14 (31401)
+Seat 6: MaitreGuigne (21185)
+*** ANTE/BLINDS ***
+jmkw812 posts ante 35
+foxjojo14 posts ante 35
+P1xel7 posts ante 35
+Distance 35 posts ante 35
+MaitreGuigne posts ante 35
+jmkw812 posts small blind 150
+foxjojo14 posts big blind 300
+Dealt to P1xel7 [5s 5h]
+*** PRE-FLOP *** 
+MaitreGuigne folds
+P1xel7 raises 360 to 660
+Distance 35 folds
+jmkw812 folds
+foxjojo14 folds
+P1xel7 collected 1285 from pot
+*** SUMMARY ***
+Total pot 1285 | No rake
+Seat 1: P1xel7 won 1285
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 3 - HandId: #3198561075607896070-15-1708026467 - Holdem no limit (35/150/300) - 2024/02/15 19:47:47 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (21430)
+Seat 2: Distance 35 (23278)
+Seat 3: Lonclulade (20000)
+Seat 4: jmkw812 (19664)
+Seat 5: foxjojo14 (31066)
+Seat 6: MaitreGuigne (21150)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 35
+MaitreGuigne posts ante 35
+P1xel7 posts ante 35
+Distance 35 posts ante 35
+Lonclulade posts ante 35
+jmkw812 posts ante 35
+foxjojo14 posts small blind 150
+MaitreGuigne posts big blind 300
+Dealt to P1xel7 [Qh 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+jmkw812 raises 300 to 600
+foxjojo14 folds
+MaitreGuigne folds
+jmkw812 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Seat 4: jmkw812 (button) won 1260
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198561075607896070-16-1708026516 - Holdem no limit (40/175/350) - 2024/02/15 19:48:36 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (21395)
+Seat 2: Distance 35 (23243)
+Seat 3: Lonclulade (19965)
+Seat 4: jmkw812 (20289)
+Seat 5: foxjojo14 (30881)
+Seat 6: MaitreGuigne (20815)
+*** ANTE/BLINDS ***
+MaitreGuigne posts ante 40
+P1xel7 posts ante 40
+Distance 35 posts ante 40
+Lonclulade posts ante 40
+jmkw812 posts ante 40
+foxjojo14 posts ante 40
+MaitreGuigne posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [7d 8d]
+*** PRE-FLOP *** 
+Distance 35 folds
+Lonclulade folds
+jmkw812 raises 350 to 700
+foxjojo14 calls 700
+MaitreGuigne folds
+P1xel7 folds
+*** FLOP *** [Kd 3h Kh]
+jmkw812 checks
+foxjojo14 checks
+*** TURN *** [Kd 3h Kh][Tc]
+jmkw812 checks
+foxjojo14 checks
+*** RIVER *** [Kd 3h Kh Tc][4s]
+jmkw812 checks
+foxjojo14 checks
+*** SHOW DOWN ***
+jmkw812 shows [Jd Ac] (One pair : Kings)
+foxjojo14 shows [Th Qh] (Two pairs : Kings and Tens)
+foxjojo14 collected 2165 from pot
+*** SUMMARY ***
+Total pot 2165 | No rake
+Board: [Kd 3h Kh Tc 4s]
+Seat 4: jmkw812 showed [Jd Ac] and lost with One pair : Kings
+Seat 5: foxjojo14 (button) showed [Th Qh] and won 2165 with Two pairs : Kings and Tens
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 4 - HandId: #3198561075607896070-17-1708026594 - Holdem no limit (40/175/350) - 2024/02/15 19:49:54 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (21005)
+Seat 2: Distance 35 (23203)
+Seat 3: Lonclulade (19925)
+Seat 4: jmkw812 (19549)
+Seat 5: foxjojo14 (32306)
+Seat 6: MaitreGuigne (20600)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+Distance 35 posts ante 40
+Lonclulade posts ante 40
+jmkw812 posts ante 40
+foxjojo14 posts ante 40
+MaitreGuigne posts ante 40
+P1xel7 posts small blind 175
+Distance 35 posts big blind 350
+Dealt to P1xel7 [Ts Jd]
+*** PRE-FLOP *** 
+Lonclulade folds
+jmkw812 folds
+foxjojo14 folds
+MaitreGuigne raises 525 to 875
+P1xel7 calls 700
+Distance 35 calls 525
+*** FLOP *** [Ks 3h 7h]
+P1xel7 checks
+Distance 35 checks
+MaitreGuigne bets 1003
+P1xel7 folds
+Distance 35 calls 1003
+*** TURN *** [Ks 3h 7h][Kc]
+Distance 35 checks
+MaitreGuigne checks
+*** RIVER *** [Ks 3h 7h Kc][9d]
+Distance 35 checks
+MaitreGuigne bets 3166
+Distance 35 calls 3166
+*** SHOW DOWN ***
+Distance 35 shows [7d 8c] (Two pairs : Kings and 7)
+MaitreGuigne shows [6h Kh] (Trips of Kings)
+MaitreGuigne collected 11203 from pot
+*** SUMMARY ***
+Total pot 11203 | No rake
+Board: [Ks 3h 7h Kc 9d]
+Seat 2: Distance 35 (big blind) showed [7d 8c] and lost with Two pairs : Kings and 7
+Seat 6: MaitreGuigne (button) showed [6h Kh] and won 11203 with Trips of Kings
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198561075607896070-18-1708026668 - Holdem no limit (50/200/400) - 2024/02/15 19:51:08 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (20090)
+Seat 2: Distance 35 (18119)
+Seat 3: Lonclulade (19885)
+Seat 5: foxjojo14 (32266)
+Seat 6: MaitreGuigne (26719)
+*** ANTE/BLINDS ***
+Distance 35 posts ante 50
+Lonclulade posts ante 50
+P1xel7 posts ante 50
+foxjojo14 posts ante 50
+MaitreGuigne posts ante 50
+Distance 35 posts small blind 200
+Lonclulade posts big blind 400
+Dealt to P1xel7 [5s 3d]
+*** PRE-FLOP *** 
+foxjojo14 folds
+MaitreGuigne raises 600 to 1000
+P1xel7 folds
+Distance 35 raises 2200 to 3200
+Lonclulade folds
+MaitreGuigne folds
+Distance 35 collected 4850 from pot
+*** SUMMARY ***
+Total pot 4850 | No rake
+Seat 2: Distance 35 (small blind) won 4850
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198561075607896070-19-1708026718 - Holdem no limit (50/200/400) - 2024/02/15 19:51:58 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (20040)
+Seat 2: Distance 35 (19719)
+Seat 3: Lonclulade (19435)
+Seat 5: foxjojo14 (32216)
+Seat 6: MaitreGuigne (25669)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 50
+foxjojo14 posts ante 50
+P1xel7 posts ante 50
+Distance 35 posts ante 50
+MaitreGuigne posts ante 50
+Lonclulade posts small blind 200
+foxjojo14 posts big blind 400
+Dealt to P1xel7 [Kd Ts]
+*** PRE-FLOP *** 
+MaitreGuigne folds
+P1xel7 raises 400 to 800
+Distance 35 folds
+Lonclulade folds
+foxjojo14 folds
+P1xel7 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 1: P1xel7 won 1650
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198561075607896070-20-1708026738 - Holdem no limit (50/200/400) - 2024/02/15 19:52:18 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (20840)
+Seat 2: Distance 35 (19669)
+Seat 3: Lonclulade (19185)
+Seat 5: foxjojo14 (31766)
+Seat 6: MaitreGuigne (25619)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 50
+MaitreGuigne posts ante 50
+P1xel7 posts ante 50
+Distance 35 posts ante 50
+Lonclulade posts ante 50
+foxjojo14 posts small blind 200
+MaitreGuigne posts big blind 400
+Dealt to P1xel7 [8h 8c]
+*** PRE-FLOP *** 
+P1xel7 raises 400 to 800
+Distance 35 folds
+Lonclulade folds
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | No rake
+Seat 1: P1xel7 won 1650
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 5 - HandId: #3198561075607896070-21-1708026766 - Holdem no limit (50/200/400) - 2024/02/15 19:52:46 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (21640)
+Seat 2: Distance 35 (19619)
+Seat 3: Lonclulade (19135)
+Seat 4: ANNAOM18 (20000)
+Seat 5: foxjojo14 (31516)
+Seat 6: MaitreGuigne (25169)
+*** ANTE/BLINDS ***
+MaitreGuigne posts ante 50
+P1xel7 posts ante 50
+Distance 35 posts ante 50
+Lonclulade posts ante 50
+ANNAOM18 posts ante 50
+foxjojo14 posts ante 50
+MaitreGuigne posts small blind 200
+P1xel7 posts big blind 400
+Dealt to P1xel7 [Kc 5h]
+*** PRE-FLOP *** 
+Distance 35 raises 400 to 800
+Lonclulade folds
+ANNAOM18 folds
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | No rake
+Seat 2: Distance 35 won 1700
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198561075607896070-22-1708026792 - Holdem no limit (60/250/500) - 2024/02/15 19:53:12 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (21190)
+Seat 2: Distance 35 (20469)
+Seat 3: Lonclulade (19085)
+Seat 4: ANNAOM18 (19950)
+Seat 5: foxjojo14 (31466)
+Seat 6: MaitreGuigne (24919)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+Distance 35 posts ante 60
+Lonclulade posts ante 60
+ANNAOM18 posts ante 60
+foxjojo14 posts ante 60
+MaitreGuigne posts ante 60
+P1xel7 posts small blind 250
+Distance 35 posts big blind 500
+Dealt to P1xel7 [Js 3s]
+*** PRE-FLOP *** 
+Lonclulade folds
+ANNAOM18 folds
+foxjojo14 folds
+MaitreGuigne raises 750 to 1250
+P1xel7 folds
+Distance 35 calls 750
+*** FLOP *** [7c Jd 4c]
+Distance 35 checks
+MaitreGuigne checks
+*** TURN *** [7c Jd 4c][Tc]
+Distance 35 bets 1089
+MaitreGuigne calls 1089
+*** RIVER *** [7c Jd 4c Tc][Ts]
+Distance 35 bets 4230
+MaitreGuigne folds
+Distance 35 collected 9518 from pot
+*** SUMMARY ***
+Total pot 9518 | No rake
+Board: [7c Jd 4c Tc Ts]
+Seat 2: Distance 35 (big blind) won 9518
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198561075607896070-23-1708026857 - Holdem no limit (60/250/500) - 2024/02/15 19:54:17 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (20880)
+Seat 2: Distance 35 (23358)
+Seat 3: Lonclulade (19025)
+Seat 4: ANNAOM18 (19890)
+Seat 5: foxjojo14 (31406)
+Seat 6: MaitreGuigne (22520)
+*** ANTE/BLINDS ***
+Distance 35 posts ante 60
+Lonclulade posts ante 60
+P1xel7 posts ante 60
+ANNAOM18 posts ante 60
+foxjojo14 posts ante 60
+MaitreGuigne posts ante 60
+Distance 35 posts small blind 250
+Lonclulade posts big blind 500
+Dealt to P1xel7 [7s 8c]
+*** PRE-FLOP *** 
+ANNAOM18 calls 500
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 calls 250
+Lonclulade folds
+*** FLOP *** [8s 6h 3h]
+Distance 35 checks
+ANNAOM18 bets 500
+Distance 35 calls 500
+*** TURN *** [8s 6h 3h][5h]
+Distance 35 checks
+ANNAOM18 bets 500
+Distance 35 calls 500
+*** RIVER *** [8s 6h 3h 5h][Jh]
+Distance 35 checks
+ANNAOM18 checks
+*** SHOW DOWN ***
+ANNAOM18 shows [6d 5d] (Two pairs : 6 and 5)
+Distance 35 shows [9h Tc] (Flush Jack high)
+Distance 35 collected 3860 from pot
+*** SUMMARY ***
+Total pot 3860 | No rake
+Board: [8s 6h 3h 5h Jh]
+Seat 2: Distance 35 (small blind) showed [9h Tc] and won 3860 with Flush Jack high
+Seat 4: ANNAOM18 showed [6d 5d] and lost with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 6 - HandId: #3198561075607896070-24-1708027261 - Holdem no limit (60/250/500) - 2024/02/15 20:01:01 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (20820)
+Seat 2: Distance 35 (25658)
+Seat 3: Lonclulade (18465)
+Seat 4: ANNAOM18 (18330)
+Seat 5: foxjojo14 (31346)
+Seat 6: MaitreGuigne (22460)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 60
+ANNAOM18 posts ante 60
+P1xel7 posts ante 60
+Distance 35 posts ante 60
+foxjojo14 posts ante 60
+MaitreGuigne posts ante 60
+Lonclulade posts small blind 250
+ANNAOM18 posts big blind 500
+Dealt to P1xel7 [9c Qd]
+*** PRE-FLOP *** 
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade calls 250
+ANNAOM18 checks
+*** FLOP *** [2s 8s 3c]
+Lonclulade checks
+ANNAOM18 bets 500
+Lonclulade folds
+ANNAOM18 collected 1860 from pot
+*** SUMMARY ***
+Total pot 1860 | No rake
+Board: [2s 8s 3c]
+Seat 4: ANNAOM18 (big blind) won 1860
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198561075607896070-25-1708027357 - Holdem no limit (70/300/600) - 2024/02/15 20:02:37 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (20760)
+Seat 2: Distance 35 (25598)
+Seat 3: Lonclulade (17905)
+Seat 4: ANNAOM18 (19130)
+Seat 5: foxjojo14 (31286)
+Seat 6: MaitreGuigne (22400)
+*** ANTE/BLINDS ***
+ANNAOM18 posts ante 70
+foxjojo14 posts ante 70
+P1xel7 posts ante 70
+Distance 35 posts ante 70
+Lonclulade posts ante 70
+MaitreGuigne posts ante 70
+ANNAOM18 posts small blind 300
+foxjojo14 posts big blind 600
+Dealt to P1xel7 [5h 4c]
+*** PRE-FLOP *** 
+MaitreGuigne raises 900 to 1500
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+ANNAOM18 folds
+foxjojo14 calls 900
+*** FLOP *** [7d Qd Kc]
+foxjojo14 bets 3720
+MaitreGuigne folds
+foxjojo14 collected 7440 from pot
+*** SUMMARY ***
+Total pot 7440 | No rake
+Board: [7d Qd Kc]
+Seat 5: foxjojo14 (big blind) won 7440
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198561075607896070-26-1708027379 - Holdem no limit (70/300/600) - 2024/02/15 20:02:59 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (20690)
+Seat 2: Distance 35 (25528)
+Seat 3: Lonclulade (17835)
+Seat 4: ANNAOM18 (18760)
+Seat 5: foxjojo14 (33436)
+Seat 6: MaitreGuigne (20830)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 70
+MaitreGuigne posts ante 70
+P1xel7 posts ante 70
+Distance 35 posts ante 70
+Lonclulade posts ante 70
+ANNAOM18 posts ante 70
+foxjojo14 posts small blind 300
+MaitreGuigne posts big blind 600
+Dealt to P1xel7 [5s Qs]
+*** PRE-FLOP *** 
+P1xel7 folds
+Distance 35 folds
+Lonclulade raises 1200 to 1800
+ANNAOM18 folds
+foxjojo14 folds
+MaitreGuigne folds
+Lonclulade collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | No rake
+Seat 3: Lonclulade won 3120
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 7 - HandId: #3198561075607896070-27-1708027428 - Holdem no limit (70/300/600) - 2024/02/15 20:03:48 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (20620)
+Seat 2: Distance 35 (25458)
+Seat 3: Lonclulade (19085)
+Seat 4: ANNAOM18 (18690)
+Seat 5: foxjojo14 (33066)
+Seat 6: MaitreGuigne (20160)
+*** ANTE/BLINDS ***
+MaitreGuigne posts ante 70
+P1xel7 posts ante 70
+Distance 35 posts ante 70
+Lonclulade posts ante 70
+ANNAOM18 posts ante 70
+foxjojo14 posts ante 70
+MaitreGuigne posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [8s Qs]
+*** PRE-FLOP *** 
+Distance 35 folds
+Lonclulade folds
+ANNAOM18 folds
+foxjojo14 folds
+MaitreGuigne raises 600 to 1200
+P1xel7 folds
+MaitreGuigne collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 6: MaitreGuigne (small blind) won 2220
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198561075607896070-28-1708027469 - Holdem no limit (80/350/700) - 2024/02/15 20:04:29 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (19950)
+Seat 2: Distance 35 (25388)
+Seat 3: Lonclulade (19015)
+Seat 4: ANNAOM18 (18620)
+Seat 5: foxjojo14 (32996)
+Seat 6: MaitreGuigne (21110)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 80
+Distance 35 posts ante 80
+Lonclulade posts ante 80
+ANNAOM18 posts ante 80
+foxjojo14 posts ante 80
+MaitreGuigne posts ante 80
+P1xel7 posts small blind 350
+Distance 35 posts big blind 700
+Dealt to P1xel7 [Jd Qd]
+*** PRE-FLOP *** 
+Lonclulade raises 700 to 1400
+ANNAOM18 folds
+foxjojo14 calls 1400
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 calls 700
+*** FLOP *** [2s 4s 8h]
+Distance 35 checks
+Lonclulade checks
+foxjojo14 bets 3270
+Distance 35 folds
+Lonclulade folds
+foxjojo14 collected 8300 from pot
+*** SUMMARY ***
+Total pot 8300 | No rake
+Board: [2s 4s 8h]
+Seat 5: foxjojo14 won 8300
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198561075607896070-29-1708027540 - Holdem no limit (80/350/700) - 2024/02/15 20:05:40 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (19520)
+Seat 2: Distance 35 (23908)
+Seat 3: Lonclulade (17535)
+Seat 4: ANNAOM18 (18540)
+Seat 5: foxjojo14 (36546)
+Seat 6: MaitreGuigne (21030)
+*** ANTE/BLINDS ***
+Distance 35 posts ante 80
+Lonclulade posts ante 80
+P1xel7 posts ante 80
+ANNAOM18 posts ante 80
+foxjojo14 posts ante 80
+MaitreGuigne posts ante 80
+Distance 35 posts small blind 350
+Lonclulade posts big blind 700
+Dealt to P1xel7 [4h 6s]
+*** PRE-FLOP *** 
+ANNAOM18 raises 1400 to 2100
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade calls 1400
+*** FLOP *** [Tc Ks 3c]
+Lonclulade checks
+ANNAOM18 bets 3270
+Lonclulade folds
+ANNAOM18 collected 8300 from pot
+*** SUMMARY ***
+Total pot 8300 | No rake
+Board: [Tc Ks 3c]
+Seat 4: ANNAOM18 won 8300
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 8 - HandId: #3198561075607896070-30-1708027583 - Holdem no limit (80/350/700) - 2024/02/15 20:06:23 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (19440)
+Seat 2: Distance 35 (23478)
+Seat 3: Lonclulade (15355)
+Seat 4: ANNAOM18 (21390)
+Seat 5: foxjojo14 (36466)
+Seat 6: MaitreGuigne (20950)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 80
+ANNAOM18 posts ante 80
+P1xel7 posts ante 80
+Distance 35 posts ante 80
+foxjojo14 posts ante 80
+MaitreGuigne posts ante 80
+Lonclulade posts small blind 350
+ANNAOM18 posts big blind 700
+Dealt to P1xel7 [4s 7d]
+*** PRE-FLOP *** 
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade calls 350
+ANNAOM18 checks
+*** FLOP *** [6d 4h 3d]
+Lonclulade checks
+ANNAOM18 bets 1222
+Lonclulade folds
+ANNAOM18 collected 3102 from pot
+*** SUMMARY ***
+Total pot 3102 | No rake
+Board: [6d 4h 3d]
+Seat 4: ANNAOM18 (big blind) won 3102
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 9 - HandId: #3198561075607896070-31-1708027641 - Holdem no limit (100/400/800) - 2024/02/15 20:07:21 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (19360)
+Seat 2: Distance 35 (23398)
+Seat 3: Lonclulade (14575)
+Seat 4: ANNAOM18 (22490)
+Seat 5: foxjojo14 (36386)
+Seat 6: MaitreGuigne (20870)
+*** ANTE/BLINDS ***
+ANNAOM18 posts ante 100
+foxjojo14 posts ante 100
+P1xel7 posts ante 100
+Distance 35 posts ante 100
+Lonclulade posts ante 100
+MaitreGuigne posts ante 100
+ANNAOM18 posts small blind 400
+foxjojo14 posts big blind 800
+Dealt to P1xel7 [Js Qs]
+*** PRE-FLOP *** 
+MaitreGuigne folds
+P1xel7 raises 960 to 1760
+Distance 35 folds
+Lonclulade folds
+ANNAOM18 calls 1360
+foxjojo14 folds
+*** FLOP *** [7d Qc 9h]
+ANNAOM18 checks
+P1xel7 checks
+*** TURN *** [7d Qc 9h][Qh]
+ANNAOM18 checks
+P1xel7 bets 1722
+ANNAOM18 folds
+P1xel7 collected 6642 from pot
+*** SUMMARY ***
+Total pot 6642 | No rake
+Board: [7d Qc 9h Qh]
+Seat 1: P1xel7 won 6642
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198561075607896070-32-1708027749 - Holdem no limit (120/500/1000) - 2024/02/15 20:09:09 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (22420)
+Seat 2: Distance 35 (23298)
+Seat 3: Lonclulade (14475)
+Seat 4: ANNAOM18 (20630)
+Seat 5: foxjojo14 (35486)
+Seat 6: MaitreGuigne (20770)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 120
+MaitreGuigne posts ante 120
+P1xel7 posts ante 120
+Distance 35 posts ante 120
+Lonclulade posts ante 120
+ANNAOM18 posts ante 120
+foxjojo14 posts small blind 500
+MaitreGuigne posts big blind 1000
+Dealt to P1xel7 [Kd 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+ANNAOM18 raises 1000 to 2000
+foxjojo14 folds
+MaitreGuigne folds
+ANNAOM18 collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Seat 4: ANNAOM18 (button) won 4220
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198561075607896070-33-1708027798 - Holdem no limit (120/500/1000) - 2024/02/15 20:09:58 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (22300)
+Seat 2: Distance 35 (23178)
+Seat 3: Lonclulade (14355)
+Seat 4: ANNAOM18 (22730)
+Seat 5: foxjojo14 (34866)
+Seat 6: MaitreGuigne (19650)
+*** ANTE/BLINDS ***
+MaitreGuigne posts ante 120
+P1xel7 posts ante 120
+Distance 35 posts ante 120
+Lonclulade posts ante 120
+ANNAOM18 posts ante 120
+foxjojo14 posts ante 120
+MaitreGuigne posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [5h Kd]
+*** PRE-FLOP *** 
+Distance 35 folds
+Lonclulade folds
+ANNAOM18 folds
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 1: P1xel7 (big blind) won 2220
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198561075607896070-34-1708027828 - Holdem no limit (120/500/1000) - 2024/02/15 20:10:28 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (23400)
+Seat 2: Distance 35 (23058)
+Seat 3: Lonclulade (14235)
+Seat 4: ANNAOM18 (22610)
+Seat 5: foxjojo14 (34746)
+Seat 6: MaitreGuigne (19030)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+Distance 35 posts ante 120
+Lonclulade posts ante 120
+ANNAOM18 posts ante 120
+foxjojo14 posts ante 120
+MaitreGuigne posts ante 120
+P1xel7 posts small blind 500
+Distance 35 posts big blind 1000
+Dealt to P1xel7 [5h 7s]
+*** PRE-FLOP *** 
+Lonclulade folds
+ANNAOM18 folds
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | No rake
+Seat 2: Distance 35 (big blind) won 2220
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 10 - HandId: #3198561075607896070-35-1708027861 - Holdem no limit (120/500/1000) - 2024/02/15 20:11:01 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (22780)
+Seat 2: Distance 35 (24158)
+Seat 3: Lonclulade (14115)
+Seat 4: ANNAOM18 (22490)
+Seat 5: foxjojo14 (34626)
+Seat 6: MaitreGuigne (18910)
+*** ANTE/BLINDS ***
+Distance 35 posts ante 120
+Lonclulade posts ante 120
+P1xel7 posts ante 120
+ANNAOM18 posts ante 120
+foxjojo14 posts ante 120
+MaitreGuigne posts ante 120
+Distance 35 posts small blind 500
+Lonclulade posts big blind 1000
+Dealt to P1xel7 [Ks 7s]
+*** PRE-FLOP *** 
+ANNAOM18 folds
+foxjojo14 folds
+MaitreGuigne raises 1000 to 2000
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+MaitreGuigne collected 4220 from pot
+*** SUMMARY ***
+Total pot 4220 | No rake
+Seat 6: MaitreGuigne won 4220
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3198561075607896070-36-1708027896 - Holdem no limit (140/600/1200) - 2024/02/15 20:11:36 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (22660)
+Seat 2: Distance 35 (23538)
+Seat 3: Lonclulade (12995)
+Seat 4: ANNAOM18 (22370)
+Seat 5: foxjojo14 (34506)
+Seat 6: MaitreGuigne (21010)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 140
+ANNAOM18 posts ante 140
+P1xel7 posts ante 140
+Distance 35 posts ante 140
+foxjojo14 posts ante 140
+MaitreGuigne posts ante 140
+Lonclulade posts small blind 600
+ANNAOM18 posts big blind 1200
+Dealt to P1xel7 [Kc 2s]
+*** PRE-FLOP *** 
+foxjojo14 calls 1200
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+ANNAOM18 checks
+*** FLOP *** [Th 6h Js]
+ANNAOM18 checks
+foxjojo14 bets 2496
+ANNAOM18 folds
+foxjojo14 collected 6336 from pot
+*** SUMMARY ***
+Total pot 6336 | No rake
+Board: [Th 6h Js]
+Seat 5: foxjojo14 won 6336
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3198561075607896070-37-1708027944 - Holdem no limit (140/600/1200) - 2024/02/15 20:12:24 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (22520)
+Seat 2: Distance 35 (23398)
+Seat 3: Lonclulade (12255)
+Seat 4: ANNAOM18 (21030)
+Seat 5: foxjojo14 (37006)
+Seat 6: MaitreGuigne (20870)
+*** ANTE/BLINDS ***
+ANNAOM18 posts ante 140
+foxjojo14 posts ante 140
+P1xel7 posts ante 140
+Distance 35 posts ante 140
+Lonclulade posts ante 140
+MaitreGuigne posts ante 140
+ANNAOM18 posts small blind 600
+foxjojo14 posts big blind 1200
+Dealt to P1xel7 [Jc 8h]
+*** PRE-FLOP *** 
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade raises 2400 to 3600
+ANNAOM18 folds
+foxjojo14 folds
+Lonclulade collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | No rake
+Seat 3: Lonclulade (button) won 6240
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 11 - HandId: #3198561075607896070-38-1708027986 - Holdem no limit (140/600/1200) - 2024/02/15 20:13:06 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (22380)
+Seat 2: Distance 35 (23258)
+Seat 3: Lonclulade (14755)
+Seat 4: ANNAOM18 (20290)
+Seat 5: foxjojo14 (35666)
+Seat 6: MaitreGuigne (20730)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 140
+MaitreGuigne posts ante 140
+P1xel7 posts ante 140
+Distance 35 posts ante 140
+Lonclulade posts ante 140
+ANNAOM18 posts ante 140
+foxjojo14 posts small blind 600
+MaitreGuigne posts big blind 1200
+Dealt to P1xel7 [4h Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+ANNAOM18 calls 1200
+foxjojo14 folds
+MaitreGuigne checks
+*** FLOP *** [Ah 5s 8h]
+MaitreGuigne checks
+ANNAOM18 bets 1200
+MaitreGuigne folds
+ANNAOM18 collected 5040 from pot
+*** SUMMARY ***
+Total pot 5040 | No rake
+Board: [Ah 5s 8h]
+Seat 4: ANNAOM18 (button) won 5040
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198561075607896070-39-1708028066 - Holdem no limit (160/700/1400) - 2024/02/15 20:14:26 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (22240)
+Seat 2: Distance 35 (23118)
+Seat 3: Lonclulade (14615)
+Seat 4: ANNAOM18 (22790)
+Seat 5: foxjojo14 (34926)
+Seat 6: MaitreGuigne (19390)
+*** ANTE/BLINDS ***
+MaitreGuigne posts ante 160
+P1xel7 posts ante 160
+Distance 35 posts ante 160
+Lonclulade posts ante 160
+ANNAOM18 posts ante 160
+foxjojo14 posts ante 160
+MaitreGuigne posts small blind 700
+P1xel7 posts big blind 1400
+Dealt to P1xel7 [6d Kh]
+*** PRE-FLOP *** 
+Distance 35 folds
+Lonclulade folds
+ANNAOM18 folds
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 1: P1xel7 (big blind) won 3060
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198561075607896070-40-1708028096 - Holdem no limit (160/700/1400) - 2024/02/15 20:14:56 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (23740)
+Seat 2: Distance 35 (22958)
+Seat 3: Lonclulade (14455)
+Seat 4: ANNAOM18 (22630)
+Seat 5: foxjojo14 (34766)
+Seat 6: MaitreGuigne (18530)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+Distance 35 posts ante 160
+Lonclulade posts ante 160
+ANNAOM18 posts ante 160
+foxjojo14 posts ante 160
+MaitreGuigne posts ante 160
+P1xel7 posts small blind 700
+Distance 35 posts big blind 1400
+Dealt to P1xel7 [Tc 9d]
+*** PRE-FLOP *** 
+Lonclulade calls 1400
+ANNAOM18 raises 1400 to 2800
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 calls 1400
+Lonclulade calls 1400
+*** FLOP *** [4h Qs Ts]
+Distance 35 checks
+Lonclulade bets 3521
+ANNAOM18 calls 3521
+Distance 35 folds
+*** TURN *** [4h Qs Ts][3h]
+Lonclulade bets 5986
+ANNAOM18 calls 5986
+*** RIVER *** [4h Qs Ts 3h][5h]
+Lonclulade bets 1988 and is all-in
+ANNAOM18 folds
+Lonclulade collected 31062 from pot
+*** SUMMARY ***
+Total pot 31062 | No rake
+Board: [4h Qs Ts 3h 5h]
+Seat 3: Lonclulade won 31062
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198561075607896070-41-1708028168 - Holdem no limit (160/700/1400) - 2024/02/15 20:16:08 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (22880)
+Seat 2: Distance 35 (19998)
+Seat 3: Lonclulade (31062)
+Seat 4: ANNAOM18 (10163)
+Seat 5: foxjojo14 (34606)
+Seat 6: MaitreGuigne (18370)
+*** ANTE/BLINDS ***
+Distance 35 posts ante 160
+Lonclulade posts ante 160
+P1xel7 posts ante 160
+ANNAOM18 posts ante 160
+foxjojo14 posts ante 160
+MaitreGuigne posts ante 160
+Distance 35 posts small blind 700
+Lonclulade posts big blind 1400
+Dealt to P1xel7 [7c 6d]
+*** PRE-FLOP *** 
+ANNAOM18 folds
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 3: Lonclulade (big blind) won 3060
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 12 - HandId: #3198561075607896070-42-1708028186 - Holdem no limit (160/700/1400) - 2024/02/15 20:16:26 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (22720)
+Seat 2: Distance 35 (19138)
+Seat 3: Lonclulade (32562)
+Seat 4: ANNAOM18 (10003)
+Seat 5: foxjojo14 (34446)
+Seat 6: MaitreGuigne (18210)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 160
+ANNAOM18 posts ante 160
+P1xel7 posts ante 160
+Distance 35 posts ante 160
+foxjojo14 posts ante 160
+MaitreGuigne posts ante 160
+Lonclulade posts small blind 700
+ANNAOM18 posts big blind 1400
+Dealt to P1xel7 [5s 9d]
+*** PRE-FLOP *** 
+foxjojo14 calls 1400
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade raises 5160 to 6560
+ANNAOM18 raises 3283 to 9843 and is all-in
+foxjojo14 folds
+Lonclulade calls 3283
+*** FLOP *** [8s 2s Ts]
+*** TURN *** [8s 2s Ts][3s]
+*** RIVER *** [8s 2s Ts 3s][3d]
+*** SHOW DOWN ***
+ANNAOM18 shows [6h Ac] (One pair : 3)
+Lonclulade shows [Js Jh] (Flush Jack high)
+Lonclulade collected 22046 from pot
+*** SUMMARY ***
+Total pot 22046 | No rake
+Board: [8s 2s Ts 3s 3d]
+Seat 3: Lonclulade (small blind) showed [Js Jh] and won 22046 with Flush Jack high
+Seat 4: ANNAOM18 (big blind) showed [6h Ac] and lost with One pair : 3
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198561075607896070-43-1708028220 - Holdem no limit (200/800/1600) - 2024/02/15 20:17:00 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (22560)
+Seat 2: Distance 35 (18978)
+Seat 3: Lonclulade (44605)
+Seat 5: foxjojo14 (32886)
+Seat 6: MaitreGuigne (18050)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 200
+P1xel7 posts ante 200
+Distance 35 posts ante 200
+Lonclulade posts ante 200
+MaitreGuigne posts ante 200
+foxjojo14 posts big blind 1600
+Dealt to P1xel7 [3h Tc]
+*** PRE-FLOP *** 
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+foxjojo14 collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | No rake
+Seat 5: foxjojo14 (big blind) won 2600
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198561075607896070-44-1708028241 - Holdem no limit (200/800/1600) - 2024/02/15 20:17:21 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (22360)
+Seat 2: Distance 35 (18778)
+Seat 3: Lonclulade (44405)
+Seat 5: foxjojo14 (33686)
+Seat 6: MaitreGuigne (17850)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 200
+MaitreGuigne posts ante 200
+P1xel7 posts ante 200
+Distance 35 posts ante 200
+Lonclulade posts ante 200
+foxjojo14 posts small blind 800
+MaitreGuigne posts big blind 1600
+Dealt to P1xel7 [6h 7h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Distance 35 folds
+Lonclulade raises 2400 to 4000
+foxjojo14 folds
+MaitreGuigne folds
+Lonclulade collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | No rake
+Seat 3: Lonclulade won 7400
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198561075607896070-45-1708028264 - Holdem no limit (200/800/1600) - 2024/02/15 20:17:44 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (22160)
+Seat 2: Distance 35 (18578)
+Seat 3: Lonclulade (47605)
+Seat 5: foxjojo14 (32686)
+Seat 6: MaitreGuigne (16050)
+*** ANTE/BLINDS ***
+MaitreGuigne posts ante 200
+P1xel7 posts ante 200
+Distance 35 posts ante 200
+Lonclulade posts ante 200
+foxjojo14 posts ante 200
+MaitreGuigne posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [6h Td]
+*** PRE-FLOP *** 
+Distance 35 folds
+Lonclulade folds
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | No rake
+Seat 1: P1xel7 (big blind) won 3400
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 13 - HandId: #3198561075607896070-46-1708028297 - Holdem no limit (200/800/1600) - 2024/02/15 20:18:17 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (23760)
+Seat 2: Distance 35 (18378)
+Seat 3: Lonclulade (47405)
+Seat 4: 1CASHSVP (14660)
+Seat 5: foxjojo14 (32486)
+Seat 6: MaitreGuigne (15050)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+Distance 35 posts ante 200
+Lonclulade posts ante 200
+1CASHSVP posts ante 200
+foxjojo14 posts ante 200
+MaitreGuigne posts ante 200
+P1xel7 posts small blind 800
+Distance 35 posts big blind 1600
+Dealt to P1xel7 [Ad Tc]
+*** PRE-FLOP *** 
+Lonclulade folds
+1CASHSVP folds
+foxjojo14 calls 1600
+MaitreGuigne folds
+P1xel7 raises 3200 to 4800
+Distance 35 folds
+foxjojo14 calls 3200
+*** FLOP *** [9d 4c Th]
+P1xel7 bets 4340
+foxjojo14 raises 23146 to 27486 and is all-in
+P1xel7 calls 14420 and is all-in
+*** TURN *** [9d 4c Th][Td]
+*** RIVER *** [9d 4c Th Td][3d]
+*** SHOW DOWN ***
+P1xel7 shows [Ad Tc] (Trips of Tens)
+foxjojo14 shows [Kh 9h] (Two pairs : Tens and 9)
+foxjojo14 collected 8726 from side pot 1
+P1xel7 collected 49920 from main pot
+*** SUMMARY ***
+Total pot 58646 | No rake
+Board: [9d 4c Th Td 3d]
+Seat 1: P1xel7 (small blind) showed [Ad Tc] and won 49920 with Trips of Tens
+Seat 5: foxjojo14 showed [Kh 9h] and won 8726 with Two pairs : Tens and 9
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198561075607896070-47-1708028372 - Holdem no limit (250/1000/2000) - 2024/02/15 20:19:32 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (49920)
+Seat 2: Distance 35 (16578)
+Seat 3: Lonclulade (47205)
+Seat 4: 1CASHSVP (14460)
+Seat 5: foxjojo14 (8726)
+Seat 6: MaitreGuigne (14850)
+*** ANTE/BLINDS ***
+Distance 35 posts ante 250
+Lonclulade posts ante 250
+P1xel7 posts ante 250
+1CASHSVP posts ante 250
+foxjojo14 posts ante 250
+MaitreGuigne posts ante 250
+Distance 35 posts small blind 1000
+Lonclulade posts big blind 2000
+Dealt to P1xel7 [Th 3c]
+*** PRE-FLOP *** 
+1CASHSVP raises 12210 to 14210 and is all-in
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+1CASHSVP collected 18710 from pot
+*** SUMMARY ***
+Total pot 18710 | No rake
+Seat 4: 1CASHSVP won 18710
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198561075607896070-48-1708028401 - Holdem no limit (250/1000/2000) - 2024/02/15 20:20:01 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (49670)
+Seat 2: Distance 35 (15328)
+Seat 3: Lonclulade (44955)
+Seat 4: 1CASHSVP (18710)
+Seat 5: foxjojo14 (8476)
+Seat 6: MaitreGuigne (14600)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 250
+1CASHSVP posts ante 250
+P1xel7 posts ante 250
+Distance 35 posts ante 250
+foxjojo14 posts ante 250
+MaitreGuigne posts ante 250
+Lonclulade posts small blind 1000
+1CASHSVP posts big blind 2000
+Dealt to P1xel7 [8h 4s]
+*** PRE-FLOP *** 
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 raises 13078 to 15078 and is all-in
+Lonclulade calls 14078
+1CASHSVP folds
+*** FLOP *** [Tc 9c 3c]
+*** TURN *** [Tc 9c 3c][7h]
+*** RIVER *** [Tc 9c 3c 7h][2h]
+*** SHOW DOWN ***
+Lonclulade shows [Ad 8s] (High card : Ace)
+Distance 35 shows [9d Ac] (One pair : 9)
+Distance 35 collected 33656 from pot
+*** SUMMARY ***
+Total pot 33656 | No rake
+Board: [Tc 9c 3c 7h 2h]
+Seat 2: Distance 35 (button) showed [9d Ac] and won 33656 with One pair : 9
+Seat 3: Lonclulade (small blind) showed [Ad 8s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198561075607896070-49-1708028450 - Holdem no limit (250/1000/2000) - 2024/02/15 20:20:50 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (49420)
+Seat 2: Distance 35 (33656)
+Seat 3: Lonclulade (29627)
+Seat 4: 1CASHSVP (16460)
+Seat 5: foxjojo14 (8226)
+Seat 6: MaitreGuigne (14350)
+*** ANTE/BLINDS ***
+1CASHSVP posts ante 250
+foxjojo14 posts ante 250
+P1xel7 posts ante 250
+Distance 35 posts ante 250
+Lonclulade posts ante 250
+MaitreGuigne posts ante 250
+1CASHSVP posts small blind 1000
+foxjojo14 posts big blind 2000
+Dealt to P1xel7 [9d 5c]
+*** PRE-FLOP *** 
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 raises 31406 to 33406 and is all-in
+Lonclulade folds
+1CASHSVP folds
+foxjojo14 folds
+Distance 35 collected 37906 from pot
+*** SUMMARY ***
+Total pot 37906 | No rake
+Seat 2: Distance 35 won 37906
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 14 - HandId: #3198561075607896070-50-1708028471 - Holdem no limit (250/1000/2000) - 2024/02/15 20:21:11 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (49170)
+Seat 2: Distance 35 (37906)
+Seat 3: Lonclulade (29377)
+Seat 4: 1CASHSVP (15210)
+Seat 5: foxjojo14 (5976)
+Seat 6: MaitreGuigne (14100)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 250
+MaitreGuigne posts ante 250
+P1xel7 posts ante 250
+Distance 35 posts ante 250
+Lonclulade posts ante 250
+1CASHSVP posts ante 250
+foxjojo14 posts small blind 1000
+MaitreGuigne posts big blind 2000
+Dealt to P1xel7 [9h Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+1CASHSVP raises 12960 to 14960 and is all-in
+foxjojo14 folds
+MaitreGuigne calls 11850 and is all-in
+*** FLOP *** [Qc 5s 3h]
+*** TURN *** [Qc 5s 3h][2h]
+*** RIVER *** [Qc 5s 3h 2h][Js]
+*** SHOW DOWN ***
+1CASHSVP shows [7d Kc] (High card : King)
+MaitreGuigne shows [Kd As] (High card : Ace)
+MaitreGuigne collected 30200 from main pot
+1CASHSVP collected 1110 from side pot 1
+*** SUMMARY ***
+Total pot 31310 | No rake
+Board: [Qc 5s 3h 2h Js]
+Seat 4: 1CASHSVP (button) showed [7d Kc] and won 1110 with High card : King
+Seat 6: MaitreGuigne (big blind) showed [Kd As] and won 30200 with High card : Ace
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198561075607896070-51-1708028521 - Holdem no limit (300/1250/2500) - 2024/02/15 20:22:01 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (48920)
+Seat 2: Distance 35 (37656)
+Seat 3: Lonclulade (29127)
+Seat 4: 1CASHSVP (1110)
+Seat 5: foxjojo14 (4726)
+Seat 6: MaitreGuigne (30200)
+*** ANTE/BLINDS ***
+MaitreGuigne posts ante 300
+P1xel7 posts ante 300
+Distance 35 posts ante 300
+Lonclulade posts ante 300
+1CASHSVP posts ante 300
+foxjojo14 posts ante 300
+MaitreGuigne posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [Qd 2c]
+*** PRE-FLOP *** 
+Distance 35 folds
+Lonclulade folds
+1CASHSVP calls 810 and is all-in
+foxjojo14 raises 1926 to 4426 and is all-in
+MaitreGuigne folds
+P1xel7 folds
+*** FLOP *** [2h Jh 7s]
+*** TURN *** [2h Jh 7s][3d]
+*** RIVER *** [2h Jh 7s 3d][7d]
+*** SHOW DOWN ***
+1CASHSVP shows [3h Js] (Two pairs : Jacks and 7)
+foxjojo14 shows [Jc Ks] (Two pairs : Jacks and 7)
+foxjojo14 collected 10786 from pot
+*** SUMMARY ***
+Total pot 10786 | No rake
+Board: [2h Jh 7s 3d 7d]
+Seat 4: 1CASHSVP showed [3h Js] and lost with Two pairs : Jacks and 7
+Seat 5: foxjojo14 (button) showed [Jc Ks] and won 10786 with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198561075607896070-52-1708028566 - Holdem no limit (300/1250/2500) - 2024/02/15 20:22:46 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (46120)
+Seat 2: Distance 35 (37356)
+Seat 3: Lonclulade (28827)
+Seat 5: foxjojo14 (10786)
+Seat 6: MaitreGuigne (28650)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+Distance 35 posts ante 300
+Lonclulade posts ante 300
+foxjojo14 posts ante 300
+MaitreGuigne posts ante 300
+P1xel7 posts small blind 1250
+Distance 35 posts big blind 2500
+Dealt to P1xel7 [Tc 7s]
+*** PRE-FLOP *** 
+Lonclulade folds
+foxjojo14 raises 7986 to 10486 and is all-in
+MaitreGuigne raises 17864 to 28350 and is all-in
+P1xel7 folds
+Distance 35 folds
+*** FLOP *** [Th Kh 4d]
+*** TURN *** [Th Kh 4d][2s]
+*** RIVER *** [Th Kh 4d 2s][8c]
+*** SHOW DOWN ***
+foxjojo14 shows [2d As] (One pair : 2)
+MaitreGuigne shows [Qs Ah] (High card : Ace)
+MaitreGuigne collected 17864 from side pot 1
+foxjojo14 collected 26222 from main pot
+*** SUMMARY ***
+Total pot 44086 | No rake
+Board: [Th Kh 4d 2s 8c]
+Seat 5: foxjojo14 showed [2d As] and won 26222 with One pair : 2
+Seat 6: MaitreGuigne (button) showed [Qs Ah] and won 17864 with High card : Ace
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198561075607896070-53-1708028596 - Holdem no limit (300/1250/2500) - 2024/02/15 20:23:16 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (44570)
+Seat 2: Distance 35 (34556)
+Seat 3: Lonclulade (28527)
+Seat 5: foxjojo14 (26222)
+Seat 6: MaitreGuigne (17864)
+*** ANTE/BLINDS ***
+Distance 35 posts ante 300
+Lonclulade posts ante 300
+P1xel7 posts ante 300
+foxjojo14 posts ante 300
+MaitreGuigne posts ante 300
+Distance 35 posts small blind 1250
+Lonclulade posts big blind 2500
+Dealt to P1xel7 [6s Jd]
+*** PRE-FLOP *** 
+foxjojo14 raises 3750 to 6250
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade calls 3750
+*** FLOP *** [Kd 7d Qc]
+Lonclulade checks
+foxjojo14 checks
+*** TURN *** [Kd 7d Qc][9s]
+Lonclulade bets 9913
+foxjojo14 folds
+Lonclulade collected 25163 from pot
+*** SUMMARY ***
+Total pot 25163 | No rake
+Board: [Kd 7d Qc 9s]
+Seat 3: Lonclulade (big blind) won 25163
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 15 - HandId: #3198561075607896070-54-1708028636 - Holdem no limit (300/1250/2500) - 2024/02/15 20:23:56 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (44270)
+Seat 2: Distance 35 (33006)
+Seat 3: Lonclulade (37227)
+Seat 5: foxjojo14 (19672)
+Seat 6: MaitreGuigne (17564)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 300
+foxjojo14 posts ante 300
+P1xel7 posts ante 300
+Distance 35 posts ante 300
+MaitreGuigne posts ante 300
+Lonclulade posts small blind 1250
+foxjojo14 posts big blind 2500
+Dealt to P1xel7 [4s 6s]
+*** PRE-FLOP *** 
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+foxjojo14 collected 5250 from pot
+*** SUMMARY ***
+Total pot 5250 | No rake
+Seat 5: foxjojo14 (big blind) won 5250
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198561075607896070-55-1708028649 - Holdem no limit (350/1500/3000) - 2024/02/15 20:24:09 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (43970)
+Seat 2: Distance 35 (32706)
+Seat 3: Lonclulade (35677)
+Seat 5: foxjojo14 (22122)
+Seat 6: MaitreGuigne (17264)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 350
+MaitreGuigne posts ante 350
+P1xel7 posts ante 350
+Distance 35 posts ante 350
+Lonclulade posts ante 350
+foxjojo14 posts small blind 1500
+MaitreGuigne posts big blind 3000
+Dealt to P1xel7 [Tc 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Distance 35 folds
+Lonclulade folds
+foxjojo14 folds
+MaitreGuigne collected 6250 from pot
+*** SUMMARY ***
+Total pot 6250 | No rake
+Seat 6: MaitreGuigne (big blind) won 6250
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198561075607896070-56-1708028685 - Holdem no limit (350/1500/3000) - 2024/02/15 20:24:45 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (43620)
+Seat 2: Distance 35 (32356)
+Seat 3: Lonclulade (35327)
+Seat 5: foxjojo14 (20272)
+Seat 6: MaitreGuigne (20164)
+*** ANTE/BLINDS ***
+MaitreGuigne posts ante 350
+P1xel7 posts ante 350
+Distance 35 posts ante 350
+Lonclulade posts ante 350
+foxjojo14 posts ante 350
+MaitreGuigne posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [6c 8s]
+*** PRE-FLOP *** 
+Distance 35 folds
+Lonclulade raises 4500 to 7500
+foxjojo14 calls 7500
+MaitreGuigne folds
+P1xel7 folds
+*** FLOP *** [Qs Kc 9c]
+Lonclulade checks
+foxjojo14 checks
+*** TURN *** [Qs Kc 9c][Qh]
+Lonclulade checks
+foxjojo14 checks
+*** RIVER *** [Qs Kc 9c Qh][5h]
+Lonclulade checks
+foxjojo14 checks
+*** SHOW DOWN ***
+Lonclulade shows [Ah 5c] (Two pairs : Queens and 5)
+foxjojo14 shows [9d 8d] (Two pairs : Queens and 9)
+foxjojo14 collected 21250 from pot
+*** SUMMARY ***
+Total pot 21250 | No rake
+Board: [Qs Kc 9c Qh 5h]
+Seat 3: Lonclulade showed [Ah 5c] and lost with Two pairs : Queens and 5
+Seat 5: foxjojo14 (button) showed [9d 8d] and won 21250 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198561075607896070-57-1708028738 - Holdem no limit (350/1500/3000) - 2024/02/15 20:25:38 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (40270)
+Seat 2: Distance 35 (32006)
+Seat 3: Lonclulade (27477)
+Seat 5: foxjojo14 (33672)
+Seat 6: MaitreGuigne (18314)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+Distance 35 posts ante 350
+Lonclulade posts ante 350
+foxjojo14 posts ante 350
+MaitreGuigne posts ante 350
+P1xel7 posts small blind 1500
+Distance 35 posts big blind 3000
+Dealt to P1xel7 [5h Tc]
+*** PRE-FLOP *** 
+Lonclulade raises 24127 to 27127 and is all-in
+foxjojo14 folds
+MaitreGuigne folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade collected 33377 from pot
+*** SUMMARY ***
+Total pot 33377 | No rake
+Seat 3: Lonclulade won 33377
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198561075607896070-58-1708028753 - Holdem no limit (350/1500/3000) - 2024/02/15 20:25:53 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (38420)
+Seat 2: Distance 35 (28656)
+Seat 3: Lonclulade (33377)
+Seat 4: Pokachu (71792)
+Seat 5: foxjojo14 (33322)
+Seat 6: MaitreGuigne (17964)
+*** ANTE/BLINDS ***
+Distance 35 posts ante 350
+Lonclulade posts ante 350
+P1xel7 posts ante 350
+Pokachu posts ante 350
+foxjojo14 posts ante 350
+MaitreGuigne posts ante 350
+Distance 35 posts small blind 1500
+Lonclulade posts big blind 3000
+Dealt to P1xel7 [6d 9s]
+*** PRE-FLOP *** 
+Pokachu calls 3000
+foxjojo14 folds
+MaitreGuigne raises 14614 to 17614 and is all-in
+P1xel7 folds
+Distance 35 folds
+Lonclulade calls 14614
+Pokachu folds
+*** FLOP *** [4h As Tc]
+*** TURN *** [4h As Tc][7h]
+*** RIVER *** [4h As Tc 7h][7d]
+*** SHOW DOWN ***
+MaitreGuigne shows [6c 6s] (Two pairs : 7 and 6)
+Lonclulade shows [4d 4c] (Full of 4 and 7)
+Lonclulade collected 41828 from pot
+*** SUMMARY ***
+Total pot 41828 | No rake
+Board: [4h As Tc 7h 7d]
+Seat 3: Lonclulade (big blind) showed [4d 4c] and won 41828 with Full of 4 and 7
+Seat 6: MaitreGuigne showed [6c 6s] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 16 - HandId: #3198561075607896070-59-1708028786 - Holdem no limit (350/1500/3000) - 2024/02/15 20:26:26 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (38070)
+Seat 2: Distance 35 (26806)
+Seat 3: Lonclulade (57241)
+Seat 4: Pokachu (68442)
+Seat 5: foxjojo14 (32972)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 350
+Pokachu posts ante 350
+P1xel7 posts ante 350
+Distance 35 posts ante 350
+foxjojo14 posts ante 350
+Lonclulade posts small blind 1500
+Pokachu posts big blind 3000
+Dealt to P1xel7 [3h 8s]
+*** PRE-FLOP *** 
+foxjojo14 folds
+P1xel7 folds
+Distance 35 folds
+Lonclulade calls 1500
+Pokachu checks
+*** FLOP *** [7s 2d 9s]
+Lonclulade checks
+Pokachu checks
+*** TURN *** [7s 2d 9s][9c]
+Lonclulade checks
+Pokachu checks
+*** RIVER *** [7s 2d 9s 9c][Qs]
+Lonclulade checks
+Pokachu checks
+*** SHOW DOWN ***
+Pokachu shows [Th 4s] (One pair : 9)
+Lonclulade shows [Kh 5h] (One pair : 9)
+Lonclulade collected 7750 from pot
+*** SUMMARY ***
+Total pot 7750 | No rake
+Board: [7s 2d 9s 9c Qs]
+Seat 3: Lonclulade (small blind) showed [Kh 5h] and won 7750 with One pair : 9
+Seat 4: Pokachu (big blind) showed [Th 4s] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198561075607896070-60-1708028850 - Holdem no limit (400/1750/3500) - 2024/02/15 20:27:30 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (37720)
+Seat 2: Distance 35 (26456)
+Seat 3: Lonclulade (61641)
+Seat 4: Pokachu (65092)
+Seat 5: foxjojo14 (32622)
+*** ANTE/BLINDS ***
+Pokachu posts ante 400
+foxjojo14 posts ante 400
+P1xel7 posts ante 400
+Distance 35 posts ante 400
+Lonclulade posts ante 400
+Pokachu posts small blind 1750
+foxjojo14 posts big blind 3500
+Dealt to P1xel7 [8c 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+Distance 35 raises 22556 to 26056 and is all-in
+Lonclulade folds
+Pokachu folds
+foxjojo14 raises 6166 to 32222 and is all-in
+*** FLOP *** [7h 4s 8d]
+*** TURN *** [7h 4s 8d][4c]
+*** RIVER *** [7h 4s 8d 4c][3h]
+*** SHOW DOWN ***
+Distance 35 shows [Kh Qs] (One pair : 4)
+foxjojo14 shows [Ac 9h] (One pair : 4)
+foxjojo14 collected 62028 from pot
+*** SUMMARY ***
+Total pot 62028 | No rake
+Board: [7h 4s 8d 4c 3h]
+Seat 2: Distance 35 showed [Kh Qs] and lost with One pair : 4
+Seat 5: foxjojo14 (big blind) showed [Ac 9h] and won 62028 with One pair : 4
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198561075607896070-61-1708028875 - Holdem no limit (400/1750/3500) - 2024/02/15 20:27:55 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (37320)
+Seat 3: Lonclulade (61241)
+Seat 4: Pokachu (62942)
+Seat 5: foxjojo14 (62028)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 400
+P1xel7 posts ante 400
+Lonclulade posts ante 400
+Pokachu posts ante 400
+foxjojo14 posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [Qs 2h]
+*** PRE-FLOP *** 
+Lonclulade folds
+Pokachu folds
+foxjojo14 folds
+P1xel7 collected 6850 from pot
+*** SUMMARY ***
+Total pot 6850 | No rake
+Seat 1: P1xel7 (big blind) won 6850
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198561075607896070-62-1708028898 - Holdem no limit (400/1750/3500) - 2024/02/15 20:28:18 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (40270)
+Seat 3: Lonclulade (60841)
+Seat 4: Pokachu (62542)
+Seat 5: foxjojo14 (59878)
+Seat 6: Roia1 (70735)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+Lonclulade posts ante 400
+Pokachu posts ante 400
+foxjojo14 posts ante 400
+P1xel7 posts small blind 1750
+Lonclulade posts big blind 3500
+Dealt to P1xel7 [Ah Jh]
+*** PRE-FLOP *** 
+Pokachu calls 3500
+foxjojo14 calls 3500
+P1xel7 raises 36370 to 39870 and is all-in
+Lonclulade folds
+Pokachu folds
+foxjojo14 folds
+P1xel7 collected 51970 from pot
+*** SUMMARY ***
+Total pot 51970 | No rake
+Seat 1: P1xel7 (small blind) won 51970
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 17 - HandId: #3198561075607896070-63-1708028934 - Holdem no limit (400/1750/3500) - 2024/02/15 20:28:54 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (51970)
+Seat 2: billyboy1818 (36007)
+Seat 3: Lonclulade (56941)
+Seat 4: Pokachu (58642)
+Seat 5: foxjojo14 (55978)
+Seat 6: Roia1 (70735)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 400
+Pokachu posts ante 400
+P1xel7 posts ante 400
+foxjojo14 posts ante 400
+Roia1 posts ante 400
+Lonclulade posts small blind 1750
+Pokachu posts big blind 3500
+Dealt to P1xel7 [5c 6h]
+*** PRE-FLOP *** 
+foxjojo14 raises 3500 to 7000
+Roia1 folds
+P1xel7 folds
+Lonclulade folds
+Pokachu folds
+foxjojo14 collected 14250 from pot
+*** SUMMARY ***
+Total pot 14250 | No rake
+Seat 5: foxjojo14 won 14250
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198561075607896070-64-1708028956 - Holdem no limit (500/2000/4000) - 2024/02/15 20:29:16 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (51570)
+Seat 2: billyboy1818 (36007)
+Seat 3: Lonclulade (54791)
+Seat 4: Pokachu (54742)
+Seat 5: foxjojo14 (62828)
+Seat 6: Roia1 (70335)
+*** ANTE/BLINDS ***
+Pokachu posts ante 500
+foxjojo14 posts ante 500
+P1xel7 posts ante 500
+billyboy1818 posts ante 500
+Lonclulade posts ante 500
+Roia1 posts ante 500
+Pokachu posts small blind 2000
+foxjojo14 posts big blind 4000
+Dealt to P1xel7 [6c Kc]
+*** PRE-FLOP *** 
+Roia1 folds
+P1xel7 folds
+billyboy1818 folds
+Lonclulade folds
+Pokachu folds
+foxjojo14 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 5: foxjojo14 (big blind) won 9000
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198561075607896070-65-1708028970 - Holdem no limit (500/2000/4000) - 2024/02/15 20:29:30 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (51070)
+Seat 2: billyboy1818 (35507)
+Seat 3: Lonclulade (54291)
+Seat 4: Pokachu (52242)
+Seat 5: foxjojo14 (67328)
+Seat 6: Roia1 (69835)
+*** ANTE/BLINDS ***
+foxjojo14 posts ante 500
+Roia1 posts ante 500
+P1xel7 posts ante 500
+billyboy1818 posts ante 500
+Lonclulade posts ante 500
+Pokachu posts ante 500
+foxjojo14 posts small blind 2000
+Roia1 posts big blind 4000
+Dealt to P1xel7 [4s 9c]
+*** PRE-FLOP *** 
+P1xel7 folds
+billyboy1818 folds
+Lonclulade raises 4000 to 8000
+Pokachu folds
+foxjojo14 folds
+Roia1 folds
+Lonclulade collected 17000 from pot
+*** SUMMARY ***
+Total pot 17000 | No rake
+Seat 3: Lonclulade won 17000
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198561075607896070-66-1708028995 - Holdem no limit (500/2000/4000) - 2024/02/15 20:29:55 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (50570)
+Seat 2: billyboy1818 (35007)
+Seat 3: Lonclulade (62791)
+Seat 4: Pokachu (51742)
+Seat 5: foxjojo14 (64828)
+Seat 6: Roia1 (65335)
+*** ANTE/BLINDS ***
+Roia1 posts ante 500
+P1xel7 posts ante 500
+billyboy1818 posts ante 500
+Lonclulade posts ante 500
+Pokachu posts ante 500
+foxjojo14 posts ante 500
+Roia1 posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [Ah 2c]
+*** PRE-FLOP *** 
+billyboy1818 folds
+Lonclulade calls 4000
+Pokachu folds
+foxjojo14 folds
+Roia1 folds
+P1xel7 checks
+*** FLOP *** [Js 7s Ks]
+P1xel7 checks
+Lonclulade bets 4000
+P1xel7 folds
+Lonclulade collected 17000 from pot
+*** SUMMARY ***
+Total pot 17000 | No rake
+Board: [Js 7s Ks]
+Seat 3: Lonclulade won 17000
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198561075607896070-67-1708029045 - Holdem no limit (500/2000/4000) - 2024/02/15 20:30:45 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (46070)
+Seat 2: billyboy1818 (34507)
+Seat 3: Lonclulade (71291)
+Seat 4: Pokachu (51242)
+Seat 5: foxjojo14 (64328)
+Seat 6: Roia1 (62835)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+billyboy1818 posts ante 500
+Lonclulade posts ante 500
+Pokachu posts ante 500
+foxjojo14 posts ante 500
+Roia1 posts ante 500
+P1xel7 posts small blind 2000
+billyboy1818 posts big blind 4000
+Dealt to P1xel7 [Th 6d]
+*** PRE-FLOP *** 
+Lonclulade folds
+Pokachu folds
+foxjojo14 folds
+Roia1 folds
+P1xel7 folds
+billyboy1818 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 2: billyboy1818 (big blind) won 9000
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 18 - HandId: #3198561075607896070-68-1708029060 - Holdem no limit (500/2000/4000) - 2024/02/15 20:31:00 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (43570)
+Seat 2: billyboy1818 (39007)
+Seat 3: Lonclulade (70791)
+Seat 4: Pokachu (50742)
+Seat 5: foxjojo14 (63828)
+Seat 6: Roia1 (62335)
+*** ANTE/BLINDS ***
+billyboy1818 posts ante 500
+Lonclulade posts ante 500
+P1xel7 posts ante 500
+Pokachu posts ante 500
+foxjojo14 posts ante 500
+Roia1 posts ante 500
+billyboy1818 posts small blind 2000
+Lonclulade posts big blind 4000
+Dealt to P1xel7 [Kc Qd]
+*** PRE-FLOP *** 
+Pokachu folds
+foxjojo14 raises 6000 to 10000
+Roia1 folds
+P1xel7 raises 33070 to 43070 and is all-in
+billyboy1818 folds
+Lonclulade folds
+foxjojo14 calls 33070
+*** FLOP *** [8c 6c 3d]
+*** TURN *** [8c 6c 3d][9s]
+*** RIVER *** [8c 6c 3d 9s][8d]
+*** SHOW DOWN ***
+foxjojo14 shows [Tc Kh] (One pair : 8)
+P1xel7 shows [Kc Qd] (One pair : 8)
+P1xel7 collected 95140 from pot
+*** SUMMARY ***
+Total pot 95140 | No rake
+Board: [8c 6c 3d 9s 8d]
+Seat 1: P1xel7 (button) showed [Kc Qd] and won 95140 with One pair : 8
+Seat 5: foxjojo14 showed [Tc Kh] and lost with One pair : 8
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198561075607896070-69-1708029095 - Holdem no limit (600/2500/5000) - 2024/02/15 20:31:35 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (95140)
+Seat 2: billyboy1818 (36507)
+Seat 3: Lonclulade (66291)
+Seat 4: Pokachu (50242)
+Seat 6: Roia1 (61835)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 600
+Pokachu posts ante 600
+P1xel7 posts ante 600
+billyboy1818 posts ante 600
+Roia1 posts ante 600
+Lonclulade posts small blind 2500
+Pokachu posts big blind 5000
+Dealt to P1xel7 [Td 5h]
+*** PRE-FLOP *** 
+Roia1 raises 5000 to 10000
+P1xel7 folds
+billyboy1818 folds
+Lonclulade folds
+Pokachu calls 5000
+*** FLOP *** [8d Kc Jh]
+Pokachu bets 39642 and is all-in
+Roia1 folds
+Pokachu collected 65142 from pot
+*** SUMMARY ***
+Total pot 65142 | No rake
+Board: [8d Kc Jh]
+Seat 4: Pokachu (big blind) won 65142
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198561075607896070-70-1708029133 - Holdem no limit (600/2500/5000) - 2024/02/15 20:32:13 UTC
+Table: 'Deepstack Hold'em(744723034)#005' 6-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (94540)
+Seat 2: billyboy1818 (35907)
+Seat 3: Lonclulade (63191)
+Seat 4: Pokachu (65142)
+Seat 6: Roia1 (51235)
+*** ANTE/BLINDS ***
+Pokachu posts ante 600
+Roia1 posts ante 600
+P1xel7 posts ante 600
+billyboy1818 posts ante 600
+Lonclulade posts ante 600
+Pokachu posts small blind 2500
+Roia1 posts big blind 5000
+Dealt to P1xel7 [8d 2h]
+*** PRE-FLOP *** 
+P1xel7 folds
+billyboy1818 folds
+Lonclulade folds
+Pokachu folds
+Roia1 collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | No rake
+Seat 6: Roia1 (big blind) won 10500
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198561075607896065-72-1708029174 - Holdem no limit (600/2500/5000) - 2024/02/15 20:32:54 UTC
+Table: 'Deepstack Hold'em(744723034)#000' 6-max (real money) Seat #3 is the button
+Seat 1: Lonclulade (62591)
+Seat 2: P1xel7 (93940)
+Seat 3: DVE59 (37506)
+Seat 4: Grabouyaj (126576)
+Seat 5: bambouvegas (24096)
+*** ANTE/BLINDS ***
+Grabouyaj posts ante 600
+bambouvegas posts ante 600
+Lonclulade posts ante 600
+P1xel7 posts ante 600
+DVE59 posts ante 600
+Grabouyaj posts small blind 2500
+bambouvegas posts big blind 5000
+Dealt to P1xel7 [8h Ks]
+*** PRE-FLOP *** 
+Lonclulade folds
+P1xel7 folds
+DVE59 folds
+Grabouyaj raises 120976 to 125976 and is all-in
+bambouvegas folds
+Grabouyaj collected 133976 from pot
+*** SUMMARY ***
+Total pot 133976 | No rake
+Seat 4: Grabouyaj (small blind) won 133976
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198561075607896065-73-1708029201 - Holdem no limit (600/2500/5000) - 2024/02/15 20:33:21 UTC
+Table: 'Deepstack Hold'em(744723034)#000' 6-max (real money) Seat #4 is the button
+Seat 1: Lonclulade (61991)
+Seat 2: P1xel7 (93340)
+Seat 3: DVE59 (36906)
+Seat 4: Grabouyaj (133976)
+Seat 5: bambouvegas (18496)
+*** ANTE/BLINDS ***
+bambouvegas posts ante 600
+Lonclulade posts ante 600
+P1xel7 posts ante 600
+DVE59 posts ante 600
+Grabouyaj posts ante 600
+bambouvegas posts small blind 2500
+Lonclulade posts big blind 5000
+Dealt to P1xel7 [8c 6s]
+*** PRE-FLOP *** 
+P1xel7 folds
+DVE59 raises 31306 to 36306 and is all-in
+Grabouyaj folds
+bambouvegas folds
+Lonclulade folds
+DVE59 collected 46806 from pot
+*** SUMMARY ***
+Total pot 46806 | No rake
+Seat 3: DVE59 won 46806
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 19 - HandId: #3198561075607896065-74-1708029232 - Holdem no limit (600/2500/5000) - 2024/02/15 20:33:52 UTC
+Table: 'Deepstack Hold'em(744723034)#000' 6-max (real money) Seat #5 is the button
+Seat 1: Lonclulade (56391)
+Seat 2: P1xel7 (92740)
+Seat 3: DVE59 (46806)
+Seat 4: Grabouyaj (133376)
+Seat 5: bambouvegas (15396)
+*** ANTE/BLINDS ***
+Lonclulade posts ante 600
+P1xel7 posts ante 600
+DVE59 posts ante 600
+Grabouyaj posts ante 600
+bambouvegas posts ante 600
+Lonclulade posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [7c 6d]
+*** PRE-FLOP *** 
+DVE59 folds
+Grabouyaj folds
+bambouvegas folds
+Lonclulade calls 2500
+P1xel7 raises 87140 to 92140 and is all-in
+Lonclulade folds
+P1xel7 collected 100140 from pot
+*** SUMMARY ***
+Total pot 100140 | No rake
+Seat 2: P1xel7 (big blind) won 100140
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 20 - HandId: #3198561075607896065-75-1708029269 - Holdem no limit (700/3000/6000) - 2024/02/15 20:34:29 UTC
+Table: 'Deepstack Hold'em(744723034)#000' 6-max (real money) Seat #1 is the button
+Seat 1: Lonclulade (50791)
+Seat 2: P1xel7 (100140)
+Seat 3: DVE59 (46206)
+Seat 4: Grabouyaj (132776)
+Seat 5: bambouvegas (14796)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 700
+DVE59 posts ante 700
+Lonclulade posts ante 700
+Grabouyaj posts ante 700
+bambouvegas posts ante 700
+P1xel7 posts small blind 3000
+DVE59 posts big blind 6000
+Dealt to P1xel7 [Kh Jh]
+*** PRE-FLOP *** 
+Grabouyaj folds
+bambouvegas raises 8096 to 14096 and is all-in
+Lonclulade calls 14096
+P1xel7 raises 85344 to 99440 and is all-in
+DVE59 calls 39506 and is all-in
+Lonclulade calls 35995 and is all-in
+*** FLOP *** [3h 6s 5s]
+*** TURN *** [3h 6s 5s][Qs]
+*** RIVER *** [3h 6s 5s Qs][5d]
+*** SHOW DOWN ***
+bambouvegas shows [4c 3c] (Two pairs : 5 and 3)
+Lonclulade shows [Ac 2h] (One pair : 5)
+P1xel7 shows [Kh Jh] (One pair : 5)
+DVE59 shows [As Qh] (Two pairs : Queens and 5)
+DVE59 collected 154114 from main pot
+P1xel7 collected 49349 from side pot 2
+Lonclulade collected 9170 from side pot 1
+*** SUMMARY ***
+Total pot 212633 | No rake
+Board: [3h 6s 5s Qs 5d]
+Seat 1: Lonclulade (button) showed [Ac 2h] and won 9170 with One pair : 5
+Seat 2: P1xel7 (small blind) showed [Kh Jh] and won 49349 with One pair : 5
+Seat 3: DVE59 (big blind) showed [As Qh] and won 154114 with Two pairs : Queens and 5
+Seat 5: bambouvegas showed [4c 3c] and lost with Two pairs : 5 and 3
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 20 - HandId: #3198561075607896067-107-1708029334 - Holdem no limit (700/3000/6000) - 2024/02/15 20:35:34 UTC
+Table: 'Deepstack Hold'em(744723034)#002' 6-max (real money) Seat #1 is the button
+Seat 1: KwazyCupcake (42799)
+Seat 2: P1xel7 (49349)
+Seat 3: Ssomas (134744)
+Seat 4: youki9175 (78007)
+Seat 5: Proviidense (79532)
+Seat 6: billyboy1818 (25307)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 700
+Ssomas posts ante 700
+KwazyCupcake posts ante 700
+youki9175 posts ante 700
+Proviidense posts ante 700
+billyboy1818 posts ante 700
+P1xel7 posts small blind 3000
+Ssomas posts big blind 6000
+Dealt to P1xel7 [7s Th]
+*** PRE-FLOP *** 
+youki9175 folds
+Proviidense folds
+billyboy1818 folds
+KwazyCupcake raises 36099 to 42099 and is all-in
+P1xel7 folds
+Ssomas calls 36099
+*** FLOP *** [9c 5d 7d]
+*** TURN *** [9c 5d 7d][Kd]
+*** RIVER *** [9c 5d 7d Kd][6d]
+*** SHOW DOWN ***
+Ssomas shows [As Qs] (High card : Ace)
+KwazyCupcake shows [5s Ac] (One pair : 5)
+KwazyCupcake collected 91398 from pot
+*** SUMMARY ***
+Total pot 91398 | No rake
+Board: [9c 5d 7d Kd 6d]
+Seat 1: KwazyCupcake (button) showed [5s Ac] and won 91398 with One pair : 5
+Seat 3: Ssomas (big blind) showed [As Qs] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 20 - HandId: #3198561075607896067-108-1708029357 - Holdem no limit (700/3000/6000) - 2024/02/15 20:35:57 UTC
+Table: 'Deepstack Hold'em(744723034)#002' 6-max (real money) Seat #2 is the button
+Seat 1: KwazyCupcake (91398)
+Seat 2: P1xel7 (45649)
+Seat 3: Ssomas (91945)
+Seat 4: youki9175 (77307)
+Seat 5: Proviidense (78832)
+Seat 6: billyboy1818 (24607)
+*** ANTE/BLINDS ***
+Ssomas posts ante 700
+youki9175 posts ante 700
+KwazyCupcake posts ante 700
+P1xel7 posts ante 700
+Proviidense posts ante 700
+billyboy1818 posts ante 700
+Ssomas posts small blind 3000
+youki9175 posts big blind 6000
+Dealt to P1xel7 [2d 3h]
+*** PRE-FLOP *** 
+Proviidense folds
+billyboy1818 folds
+KwazyCupcake raises 6000 to 12000
+P1xel7 folds
+Ssomas raises 79245 to 91245 and is all-in
+youki9175 folds
+KwazyCupcake folds
+Ssomas collected 113445 from pot
+*** SUMMARY ***
+Total pot 113445 | No rake
+Seat 3: Ssomas (small blind) won 113445
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 21 - HandId: #3198561075607896067-109-1708029400 - Holdem no limit (800/3500/7000) - 2024/02/15 20:36:40 UTC
+Table: 'Deepstack Hold'em(744723034)#002' 6-max (real money) Seat #3 is the button
+Seat 1: KwazyCupcake (78698)
+Seat 2: P1xel7 (44949)
+Seat 3: Ssomas (113445)
+Seat 4: youki9175 (70607)
+Seat 5: Proviidense (78132)
+Seat 6: billyboy1818 (23907)
+*** ANTE/BLINDS ***
+youki9175 posts ante 800
+Proviidense posts ante 800
+KwazyCupcake posts ante 800
+P1xel7 posts ante 800
+Ssomas posts ante 800
+billyboy1818 posts ante 800
+youki9175 posts small blind 3500
+Proviidense posts big blind 7000
+Dealt to P1xel7 [Ad 3d]
+*** PRE-FLOP *** 
+billyboy1818 folds
+KwazyCupcake folds
+P1xel7 raises 37149 to 44149 and is all-in
+Ssomas folds
+youki9175 folds
+Proviidense folds
+P1xel7 collected 59449 from pot
+*** SUMMARY ***
+Total pot 59449 | No rake
+Seat 2: P1xel7 won 59449
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 21 - HandId: #3198561075607896067-110-1708029441 - Holdem no limit (800/3500/7000) - 2024/02/15 20:37:21 UTC
+Table: 'Deepstack Hold'em(744723034)#002' 6-max (real money) Seat #4 is the button
+Seat 1: KwazyCupcake (77898)
+Seat 2: P1xel7 (59449)
+Seat 3: Ssomas (112645)
+Seat 4: youki9175 (66307)
+Seat 5: Proviidense (70332)
+Seat 6: billyboy1818 (23107)
+*** ANTE/BLINDS ***
+Proviidense posts ante 800
+billyboy1818 posts ante 800
+KwazyCupcake posts ante 800
+P1xel7 posts ante 800
+Ssomas posts ante 800
+youki9175 posts ante 800
+Proviidense posts small blind 3500
+billyboy1818 posts big blind 7000
+Dealt to P1xel7 [9c Kc]
+*** PRE-FLOP *** 
+KwazyCupcake folds
+P1xel7 folds
+Ssomas folds
+youki9175 folds
+Proviidense raises 18800 to 25800
+billyboy1818 folds
+Proviidense collected 37600 from pot
+*** SUMMARY ***
+Total pot 37600 | No rake
+Seat 5: Proviidense (small blind) won 37600
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 21 - HandId: #3198561075607896067-111-1708029480 - Holdem no limit (800/3500/7000) - 2024/02/15 20:38:00 UTC
+Table: 'Deepstack Hold'em(744723034)#002' 6-max (real money) Seat #5 is the button
+Seat 1: KwazyCupcake (77098)
+Seat 2: P1xel7 (58649)
+Seat 3: Ssomas (111845)
+Seat 4: youki9175 (65507)
+Seat 5: Proviidense (81332)
+Seat 6: billyboy1818 (15307)
+*** ANTE/BLINDS ***
+billyboy1818 posts ante 800
+KwazyCupcake posts ante 800
+P1xel7 posts ante 800
+Ssomas posts ante 800
+youki9175 posts ante 800
+Proviidense posts ante 800
+billyboy1818 posts small blind 3500
+KwazyCupcake posts big blind 7000
+Dealt to P1xel7 [8h 9s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Ssomas folds
+youki9175 folds
+Proviidense raises 73532 to 80532 and is all-in
+billyboy1818 folds
+KwazyCupcake folds
+Proviidense collected 95832 from pot
+*** SUMMARY ***
+Total pot 95832 | No rake
+Seat 5: Proviidense (button) won 95832
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 21 - HandId: #3198561075607896067-112-1708029523 - Holdem no limit (800/3500/7000) - 2024/02/15 20:38:43 UTC
+Table: 'Deepstack Hold'em(744723034)#002' 6-max (real money) Seat #6 is the button
+Seat 1: KwazyCupcake (69298)
+Seat 2: P1xel7 (57849)
+Seat 3: Ssomas (111045)
+Seat 4: youki9175 (64707)
+Seat 5: Proviidense (95832)
+Seat 6: billyboy1818 (11007)
+*** ANTE/BLINDS ***
+KwazyCupcake posts ante 800
+P1xel7 posts ante 800
+Ssomas posts ante 800
+youki9175 posts ante 800
+Proviidense posts ante 800
+billyboy1818 posts ante 800
+KwazyCupcake posts small blind 3500
+P1xel7 posts big blind 7000
+Dealt to P1xel7 [6c Kc]
+*** PRE-FLOP *** 
+Ssomas folds
+youki9175 folds
+Proviidense folds
+billyboy1818 folds
+KwazyCupcake raises 61498 to 68498 and is all-in
+P1xel7 folds
+KwazyCupcake collected 80298 from pot
+*** SUMMARY ***
+Total pot 80298 | No rake
+Seat 1: KwazyCupcake (small blind) won 80298
+
+
+Winamax Poker - Tournament "Deepstack Hold'em" buyIn: 0.90€ + 0.10€ level: 22 - HandId: #3198561075607896067-113-1708029582 - Holdem no limit (1000/4000/8000) - 2024/02/15 20:39:42 UTC
+Table: 'Deepstack Hold'em(744723034)#002' 6-max (real money) Seat #1 is the button
+Seat 1: KwazyCupcake (80298)
+Seat 2: P1xel7 (50049)
+Seat 3: Ssomas (110245)
+Seat 4: youki9175 (63907)
+Seat 5: Proviidense (95032)
+Seat 6: billyboy1818 (10207)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 1000
+Ssomas posts ante 1000
+KwazyCupcake posts ante 1000
+youki9175 posts ante 1000
+Proviidense posts ante 1000
+billyboy1818 posts ante 1000
+P1xel7 posts small blind 4000
+Ssomas posts big blind 8000
+Dealt to P1xel7 [As Ks]
+*** PRE-FLOP *** 
+youki9175 folds
+Proviidense raises 8000 to 16000
+billyboy1818 folds
+KwazyCupcake raises 63298 to 79298 and is all-in
+P1xel7 calls 45049 and is all-in
+Ssomas folds
+Proviidense folds
+*** FLOP *** [Jc 3d 7s]
+*** TURN *** [Jc 3d 7s][3s]
+*** RIVER *** [Jc 3d 7s 3s][Jh]
+*** SHOW DOWN ***
+P1xel7 shows [As Ks] (Two pairs : Jacks and 3)
+KwazyCupcake shows [9c 9h] (Two pairs : Jacks and 9)
+KwazyCupcake collected 158347 from pot
+*** SUMMARY ***
+Total pot 158347 | No rake
+Board: [Jc 3d 7s 3s Jh]
+Seat 1: KwazyCupcake (button) showed [9c 9h] and won 158347 with Two pairs : Jacks and 9
+Seat 2: P1xel7 (small blind) showed [As Ks] and lost with Two pairs : Jacks and 3
+
+

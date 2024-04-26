@@ -1,0 +1,4325 @@
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3217574629539315713-20-1709061237 - Holdem no limit (25/100/200) - 2024/02/27 19:13:57 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #7 is the button
+Seat 1: P1xel7 (20000)
+Seat 4: T&H2 (33802)
+Seat 5: Blue.Lag00n (6222)
+Seat 6: donpierro59 (23953)
+Seat 7: Bluff&Raise (20650)
+Seat 8: Barthatak (18575)
+*** ANTE/BLINDS ***
+Barthatak posts ante 25
+P1xel7 posts ante 25
+T&H2 posts ante 25
+Blue.Lag00n posts ante 25
+donpierro59 posts ante 25
+Bluff&Raise posts ante 25
+Barthatak posts small blind 100
+P1xel7 posts big blind 200
+Dealt to P1xel7 [Ac As]
+*** PRE-FLOP *** 
+T&H2 calls 200
+Blue.Lag00n folds
+donpierro59 folds
+Bluff&Raise folds
+Barthatak calls 100
+P1xel7 raises 700 to 900
+T&H2 calls 700
+Barthatak calls 700
+*** FLOP *** [Td Ah 7c]
+Barthatak checks
+P1xel7 bets 900
+T&H2 calls 900
+Barthatak folds
+*** TURN *** [Td Ah 7c][Js]
+P1xel7 bets 2325
+T&H2 calls 2325
+*** RIVER *** [Td Ah 7c Js][7d]
+P1xel7 bets 4650
+T&H2 calls 4650
+*** SHOW DOWN ***
+T&H2 shows [Ad 4d] (Two pairs : Aces and 7)
+P1xel7 shows [Ac As] (Full of Aces and 7)
+P1xel7 collected 18600 from pot
+*** SUMMARY ***
+Total pot 18600 | No rake
+Board: [Td Ah 7c Js 7d]
+Seat 1: P1xel7 (big blind) showed [Ac As] and won 18600 with Full of Aces and 7
+Seat 4: T&H2 showed [Ad 4d] and lost with Two pairs : Aces and 7
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 1 - HandId: #3217574629539315713-21-1709061335 - Holdem no limit (25/100/200) - 2024/02/27 19:15:35 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #8 is the button
+Seat 1: P1xel7 (29800)
+Seat 2: DAB77 (20000)
+Seat 4: T&H2 (25002)
+Seat 5: Blue.Lag00n (6197)
+Seat 6: donpierro59 (23928)
+Seat 7: Bluff&Raise (20625)
+Seat 8: Barthatak (17650)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 25
+DAB77 posts ante 25
+T&H2 posts ante 25
+Blue.Lag00n posts ante 25
+donpierro59 posts ante 25
+Bluff&Raise posts ante 25
+Barthatak posts ante 25
+P1xel7 posts small blind 100
+DAB77 posts big blind 200
+Dealt to P1xel7 [Ad Qs]
+*** PRE-FLOP *** 
+T&H2 folds
+Blue.Lag00n folds
+donpierro59 calls 200
+Bluff&Raise folds
+Barthatak folds
+P1xel7 raises 400 to 600
+DAB77 folds
+donpierro59 calls 400
+*** FLOP *** [4c 7d Ah]
+P1xel7 bets 700
+donpierro59 folds
+P1xel7 collected 2275 from pot
+*** SUMMARY ***
+Total pot 2275 | No rake
+Board: [4c 7d Ah]
+Seat 1: P1xel7 (small blind) won 2275
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3217574629539315713-22-1709061437 - Holdem no limit (30/125/250) - 2024/02/27 19:17:17 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (30750)
+Seat 2: DAB77 (19775)
+Seat 3: swadebecks (20000)
+Seat 4: T&H2 (24977)
+Seat 5: Blue.Lag00n (6172)
+Seat 6: donpierro59 (23303)
+Seat 7: Bluff&Raise (20600)
+Seat 8: Barthatak (17625)
+*** ANTE/BLINDS ***
+DAB77 posts ante 30
+swadebecks posts ante 30
+P1xel7 posts ante 30
+T&H2 posts ante 30
+Blue.Lag00n posts ante 30
+donpierro59 posts ante 30
+Bluff&Raise posts ante 30
+Barthatak posts ante 30
+DAB77 posts small blind 125
+swadebecks posts big blind 250
+Dealt to P1xel7 [5s 8c]
+*** PRE-FLOP *** 
+T&H2 folds
+Blue.Lag00n folds
+donpierro59 raises 865 to 1115
+Bluff&Raise folds
+Barthatak folds
+P1xel7 folds
+DAB77 folds
+swadebecks calls 865
+*** FLOP *** [Kd 7h Jd]
+swadebecks checks
+donpierro59 bets 1687
+swadebecks folds
+donpierro59 collected 4282 from pot
+*** SUMMARY ***
+Total pot 4282 | No rake
+Board: [Kd 7h Jd]
+Seat 6: donpierro59 won 4282
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3217574629539315713-23-1709061503 - Holdem no limit (30/125/250) - 2024/02/27 19:18:23 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (30720)
+Seat 2: DAB77 (19620)
+Seat 3: swadebecks (18855)
+Seat 4: T&H2 (24947)
+Seat 5: Blue.Lag00n (6142)
+Seat 6: donpierro59 (24753)
+Seat 7: Bluff&Raise (20570)
+Seat 8: Barthatak (17595)
+*** ANTE/BLINDS ***
+swadebecks posts ante 30
+T&H2 posts ante 30
+P1xel7 posts ante 30
+DAB77 posts ante 30
+Blue.Lag00n posts ante 30
+donpierro59 posts ante 30
+Bluff&Raise posts ante 30
+Barthatak posts ante 30
+swadebecks posts small blind 125
+T&H2 posts big blind 250
+Dealt to P1xel7 [6s 7c]
+*** PRE-FLOP *** 
+Blue.Lag00n folds
+donpierro59 calls 250
+Bluff&Raise folds
+Barthatak folds
+P1xel7 folds
+DAB77 folds
+swadebecks raises 500 to 750
+T&H2 folds
+donpierro59 calls 500
+*** FLOP *** [8d 2h 7d]
+swadebecks bets 1294
+donpierro59 calls 1294
+*** TURN *** [8d 2h 7d][7s]
+swadebecks bets 2976
+donpierro59 folds
+swadebecks collected 7554 from pot
+*** SUMMARY ***
+Total pot 7554 | No rake
+Board: [8d 2h 7d 7s]
+Seat 3: swadebecks (small blind) won 7554
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3217574629539315713-24-1709061590 - Holdem no limit (30/125/250) - 2024/02/27 19:19:50 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (30690)
+Seat 2: DAB77 (19590)
+Seat 3: swadebecks (21359)
+Seat 4: T&H2 (24667)
+Seat 5: Blue.Lag00n (6112)
+Seat 7: Bluff&Raise (20540)
+Seat 8: Barthatak (17565)
+*** ANTE/BLINDS ***
+T&H2 posts ante 30
+Blue.Lag00n posts ante 30
+P1xel7 posts ante 30
+DAB77 posts ante 30
+swadebecks posts ante 30
+Bluff&Raise posts ante 30
+Barthatak posts ante 30
+T&H2 posts small blind 125
+Blue.Lag00n posts big blind 250
+Dealt to P1xel7 [2s 8s]
+*** PRE-FLOP *** 
+Bluff&Raise folds
+Barthatak raises 313 to 563
+P1xel7 folds
+DAB77 folds
+swadebecks calls 563
+T&H2 folds
+Blue.Lag00n raises 5519 to 6082 and is all-in
+Barthatak folds
+swadebecks folds
+Blue.Lag00n collected 7543 from pot
+*** SUMMARY ***
+Total pot 7543 | No rake
+Seat 5: Blue.Lag00n (big blind) won 7543
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 2 - HandId: #3217574629539315713-25-1709061634 - Holdem no limit (30/125/250) - 2024/02/27 19:20:34 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (30660)
+Seat 2: DAB77 (19560)
+Seat 3: swadebecks (20766)
+Seat 4: T&H2 (24512)
+Seat 5: Blue.Lag00n (7543)
+Seat 6: kakou7171 (20000)
+Seat 8: Barthatak (16972)
+*** ANTE/BLINDS ***
+Blue.Lag00n posts ante 30
+kakou7171 posts ante 30
+P1xel7 posts ante 30
+DAB77 posts ante 30
+swadebecks posts ante 30
+T&H2 posts ante 30
+Barthatak posts ante 30
+Blue.Lag00n posts small blind 125
+kakou7171 posts big blind 250
+Dealt to P1xel7 [Qh 5d]
+*** PRE-FLOP *** 
+Barthatak folds
+P1xel7 folds
+DAB77 folds
+swadebecks raises 500 to 750
+T&H2 folds
+Blue.Lag00n raises 6763 to 7513 and is all-in
+kakou7171 folds
+swadebecks folds
+Blue.Lag00n collected 8723 from pot
+*** SUMMARY ***
+Total pot 8723 | No rake
+Seat 5: Blue.Lag00n (small blind) won 8723
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3217574629539315713-26-1709061692 - Holdem no limit (35/150/300) - 2024/02/27 19:21:32 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (30630)
+Seat 2: DAB77 (19530)
+Seat 3: swadebecks (19986)
+Seat 4: T&H2 (24482)
+Seat 5: Blue.Lag00n (8723)
+Seat 6: kakou7171 (19720)
+Seat 8: Barthatak (16942)
+*** ANTE/BLINDS ***
+kakou7171 posts ante 35
+Barthatak posts ante 35
+P1xel7 posts ante 35
+DAB77 posts ante 35
+swadebecks posts ante 35
+T&H2 posts ante 35
+Blue.Lag00n posts ante 35
+kakou7171 posts small blind 150
+Barthatak posts big blind 300
+Dealt to P1xel7 [Ah 5c]
+*** PRE-FLOP *** 
+P1xel7 folds
+DAB77 folds
+swadebecks folds
+T&H2 folds
+Blue.Lag00n raises 450 to 750
+kakou7171 calls 600
+Barthatak folds
+*** FLOP *** [As Ts Jc]
+kakou7171 checks
+Blue.Lag00n bets 1534
+kakou7171 folds
+Blue.Lag00n collected 3579 from pot
+*** SUMMARY ***
+Total pot 3579 | No rake
+Board: [As Ts Jc]
+Seat 5: Blue.Lag00n (button) won 3579
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3217574629539315713-27-1709061728 - Holdem no limit (35/150/300) - 2024/02/27 19:22:08 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (30595)
+Seat 2: DAB77 (19495)
+Seat 3: swadebecks (19951)
+Seat 4: T&H2 (24447)
+Seat 5: Blue.Lag00n (9983)
+Seat 6: kakou7171 (18935)
+Seat 8: Barthatak (16607)
+*** ANTE/BLINDS ***
+Barthatak posts ante 35
+P1xel7 posts ante 35
+DAB77 posts ante 35
+swadebecks posts ante 35
+T&H2 posts ante 35
+Blue.Lag00n posts ante 35
+kakou7171 posts ante 35
+Barthatak posts small blind 150
+P1xel7 posts big blind 300
+Dealt to P1xel7 [Jd 9d]
+*** PRE-FLOP *** 
+DAB77 folds
+swadebecks folds
+T&H2 folds
+Blue.Lag00n folds
+kakou7171 calls 300
+Barthatak folds
+P1xel7 checks
+*** FLOP *** [7d 3d 3s]
+P1xel7 checks
+kakou7171 checks
+*** TURN *** [7d 3d 3s][5d]
+P1xel7 bets 750
+kakou7171 folds
+P1xel7 collected 1745 from pot
+*** SUMMARY ***
+Total pot 1745 | No rake
+Board: [7d 3d 3s 5d]
+Seat 1: P1xel7 (big blind) won 1745
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3217574629539315713-28-1709061775 - Holdem no limit (35/150/300) - 2024/02/27 19:22:55 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #8 is the button
+Seat 1: P1xel7 (31255)
+Seat 2: DAB77 (19460)
+Seat 3: swadebecks (19916)
+Seat 4: T&H2 (24412)
+Seat 5: Blue.Lag00n (9948)
+Seat 6: kakou7171 (18600)
+Seat 8: Barthatak (16422)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 35
+DAB77 posts ante 35
+swadebecks posts ante 35
+T&H2 posts ante 35
+Blue.Lag00n posts ante 35
+kakou7171 posts ante 35
+Barthatak posts ante 35
+P1xel7 posts small blind 150
+DAB77 posts big blind 300
+Dealt to P1xel7 [Th 8s]
+*** PRE-FLOP *** 
+swadebecks folds
+T&H2 folds
+Blue.Lag00n folds
+kakou7171 calls 300
+Barthatak folds
+P1xel7 folds
+DAB77 checks
+*** FLOP *** [Qh 7c 2d]
+DAB77 checks
+kakou7171 bets 300
+DAB77 folds
+kakou7171 collected 1295 from pot
+*** SUMMARY ***
+Total pot 1295 | No rake
+Board: [Qh 7c 2d]
+Seat 6: kakou7171 won 1295
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3217574629539315713-29-1709061813 - Holdem no limit (35/150/300) - 2024/02/27 19:23:33 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (31070)
+Seat 2: DAB77 (19125)
+Seat 3: swadebecks (19881)
+Seat 4: T&H2 (24377)
+Seat 5: Blue.Lag00n (9913)
+Seat 6: kakou7171 (19260)
+Seat 8: Barthatak (16387)
+*** ANTE/BLINDS ***
+DAB77 posts ante 35
+swadebecks posts ante 35
+P1xel7 posts ante 35
+T&H2 posts ante 35
+Blue.Lag00n posts ante 35
+kakou7171 posts ante 35
+Barthatak posts ante 35
+DAB77 posts small blind 150
+swadebecks posts big blind 300
+Dealt to P1xel7 [7h Js]
+*** PRE-FLOP *** 
+T&H2 folds
+Blue.Lag00n raises 9578 to 9878 and is all-in
+kakou7171 folds
+Barthatak folds
+P1xel7 folds
+DAB77 folds
+swadebecks folds
+Blue.Lag00n collected 10573 from pot
+*** SUMMARY ***
+Total pot 10573 | No rake
+Seat 5: Blue.Lag00n won 10573
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3217574629539315713-30-1709061853 - Holdem no limit (35/150/300) - 2024/02/27 19:24:13 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (31035)
+Seat 2: DAB77 (18940)
+Seat 3: swadebecks (19546)
+Seat 4: T&H2 (24342)
+Seat 5: Blue.Lag00n (10573)
+Seat 6: kakou7171 (19225)
+Seat 8: Barthatak (16352)
+*** ANTE/BLINDS ***
+swadebecks posts ante 35
+T&H2 posts ante 35
+P1xel7 posts ante 35
+DAB77 posts ante 35
+Blue.Lag00n posts ante 35
+kakou7171 posts ante 35
+Barthatak posts ante 35
+swadebecks posts small blind 150
+T&H2 posts big blind 300
+Dealt to P1xel7 [Qs Jh]
+*** PRE-FLOP *** 
+Blue.Lag00n folds
+kakou7171 calls 300
+Barthatak raises 600 to 900
+P1xel7 folds
+DAB77 calls 900
+swadebecks folds
+T&H2 calls 600
+kakou7171 calls 600
+*** FLOP *** [5c 9c Jd]
+T&H2 checks
+kakou7171 checks
+Barthatak checks
+DAB77 checks
+*** TURN *** [5c 9c Jd][Jc]
+T&H2 checks
+kakou7171 checks
+Barthatak checks
+DAB77 checks
+*** RIVER *** [5c 9c Jd Jc][3c]
+T&H2 checks
+kakou7171 checks
+Barthatak checks
+DAB77 checks
+*** SHOW DOWN ***
+DAB77 shows [Qd Kd] (One pair : Jacks)
+T&H2 shows [As 6d] (One pair : Jacks)
+kakou7171 shows [7d 2d] (One pair : Jacks)
+Barthatak shows [Ts Ad] (One pair : Jacks)
+Barthatak collected 3995 from pot
+*** SUMMARY ***
+Total pot 3995 | No rake
+Board: [5c 9c Jd Jc 3c]
+Seat 2: DAB77 (button) showed [Qd Kd] and lost with One pair : Jacks
+Seat 4: T&H2 (big blind) showed [As 6d] and lost with One pair : Jacks
+Seat 6: kakou7171 showed [7d 2d] and lost with One pair : Jacks
+Seat 8: Barthatak showed [Ts Ad] and won 3995 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 3 - HandId: #3217574629539315713-31-1709061923 - Holdem no limit (35/150/300) - 2024/02/27 19:25:23 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (31000)
+Seat 2: DAB77 (18005)
+Seat 3: swadebecks (19361)
+Seat 4: T&H2 (23407)
+Seat 5: Blue.Lag00n (10538)
+Seat 6: kakou7171 (18290)
+Seat 8: Barthatak (19412)
+*** ANTE/BLINDS ***
+T&H2 posts ante 35
+Blue.Lag00n posts ante 35
+P1xel7 posts ante 35
+DAB77 posts ante 35
+swadebecks posts ante 35
+kakou7171 posts ante 35
+Barthatak posts ante 35
+T&H2 posts small blind 150
+Blue.Lag00n posts big blind 300
+Dealt to P1xel7 [Ts As]
+*** PRE-FLOP *** 
+kakou7171 calls 300
+Barthatak folds
+P1xel7 raises 450 to 750
+DAB77 raises 2495 to 3245
+swadebecks folds
+T&H2 folds
+Blue.Lag00n raises 7258 to 10503 and is all-in
+kakou7171 raises 7258 to 17761
+P1xel7 folds
+DAB77 raises 209 to 17970 and is all-in
+kakou7171 calls 209
+*** FLOP *** [8s 7d 3c]
+*** TURN *** [8s 7d 3c][Qh]
+*** RIVER *** [8s 7d 3c Qh][8c]
+*** SHOW DOWN ***
+Blue.Lag00n shows [Ad Jh] (One pair : 8)
+kakou7171 shows [Jc Js] (Two pairs : Jacks and 8)
+DAB77 shows [Ks Kh] (Two pairs : Kings and 8)
+DAB77 collected 47588 from pot
+*** SUMMARY ***
+Total pot 47588 | No rake
+Board: [8s 7d 3c Qh 8c]
+Seat 2: DAB77 showed [Ks Kh] and won 47588 with Two pairs : Kings and 8
+Seat 5: Blue.Lag00n (big blind) showed [Ad Jh] and lost with One pair : 8
+Seat 6: kakou7171 showed [Jc Js] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3217574629539315713-32-1709061976 - Holdem no limit (40/175/350) - 2024/02/27 19:26:16 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (30215)
+Seat 2: DAB77 (47588)
+Seat 3: swadebecks (19326)
+Seat 4: T&H2 (23222)
+Seat 6: kakou7171 (285)
+Seat 8: Barthatak (19377)
+*** ANTE/BLINDS ***
+kakou7171 posts ante 40
+P1xel7 posts ante 40
+DAB77 posts ante 40
+swadebecks posts ante 40
+T&H2 posts ante 40
+Barthatak posts ante 40
+kakou7171 posts big blind 245 and is all-in
+Dealt to P1xel7 [4h 2c]
+*** PRE-FLOP *** 
+Barthatak folds
+P1xel7 folds
+DAB77 calls 350
+swadebecks folds
+T&H2 folds
+*** FLOP *** [4c Jd Js]
+*** TURN *** [4c Jd Js][Qc]
+*** RIVER *** [4c Jd Js Qc][As]
+*** SHOW DOWN ***
+kakou7171 shows [6h 2h] (One pair : Jacks)
+DAB77 shows [5s Ah] (Two pairs : Aces and Jacks)
+DAB77 collected 835 from pot
+*** SUMMARY ***
+Total pot 835 | No rake
+Board: [4c Jd Js Qc As]
+Seat 2: DAB77 showed [5s Ah] and won 835 with Two pairs : Aces and Jacks
+Seat 6: kakou7171 (big blind) showed [6h 2h] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3217574629539315713-33-1709061992 - Holdem no limit (40/175/350) - 2024/02/27 19:26:32 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (30175)
+Seat 2: DAB77 (48033)
+Seat 3: swadebecks (19286)
+Seat 4: T&H2 (23182)
+Seat 8: Barthatak (19337)
+*** ANTE/BLINDS ***
+Barthatak posts ante 40
+P1xel7 posts ante 40
+DAB77 posts ante 40
+swadebecks posts ante 40
+T&H2 posts ante 40
+Barthatak posts big blind 350
+Dealt to P1xel7 [8c 3h]
+*** PRE-FLOP *** 
+P1xel7 folds
+DAB77 folds
+swadebecks raises 700 to 1050
+T&H2 calls 1050
+Barthatak folds
+*** FLOP *** [Tc 8s 2d]
+swadebecks checks
+T&H2 bets 1749
+swadebecks folds
+T&H2 collected 4399 from pot
+*** SUMMARY ***
+Total pot 4399 | No rake
+Board: [Tc 8s 2d]
+Seat 4: T&H2 won 4399
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3217574629539315713-34-1709062039 - Holdem no limit (40/175/350) - 2024/02/27 19:27:19 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (30135)
+Seat 2: DAB77 (47993)
+Seat 3: swadebecks (18196)
+Seat 4: T&H2 (24742)
+Seat 6: burdigalien (16533)
+Seat 7: SerialzKiker (24151)
+Seat 8: Barthatak (18947)
+*** ANTE/BLINDS ***
+Barthatak posts ante 40
+P1xel7 posts ante 40
+DAB77 posts ante 40
+swadebecks posts ante 40
+T&H2 posts ante 40
+Barthatak posts small blind 175
+P1xel7 posts big blind 350
+Dealt to P1xel7 [Qd 9c]
+*** PRE-FLOP *** 
+DAB77 calls 350
+swadebecks folds
+T&H2 folds
+Barthatak folds
+P1xel7 checks
+*** FLOP *** [8d Qs 7s]
+P1xel7 checks
+DAB77 checks
+*** TURN *** [8d Qs 7s][Ad]
+P1xel7 checks
+DAB77 checks
+*** RIVER *** [8d Qs 7s Ad][Kc]
+P1xel7 bets 700
+DAB77 folds
+P1xel7 collected 1775 from pot
+*** SUMMARY ***
+Total pot 1775 | No rake
+Board: [8d Qs 7s Ad Kc]
+Seat 1: P1xel7 (big blind) won 1775
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3217574629539315713-35-1709062074 - Holdem no limit (40/175/350) - 2024/02/27 19:27:54 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #8 is the button
+Seat 1: P1xel7 (30820)
+Seat 2: DAB77 (47603)
+Seat 3: swadebecks (18156)
+Seat 4: T&H2 (24702)
+Seat 6: burdigalien (16533)
+Seat 7: SerialzKiker (24151)
+Seat 8: Barthatak (18732)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 40
+DAB77 posts ante 40
+swadebecks posts ante 40
+T&H2 posts ante 40
+burdigalien posts ante 40
+SerialzKiker posts ante 40
+Barthatak posts ante 40
+P1xel7 posts small blind 175
+DAB77 posts big blind 350
+Dealt to P1xel7 [Qd Kd]
+*** PRE-FLOP *** 
+swadebecks folds
+T&H2 folds
+burdigalien folds
+SerialzKiker folds
+Barthatak folds
+P1xel7 raises 525 to 875
+DAB77 folds
+P1xel7 collected 1505 from pot
+*** SUMMARY ***
+Total pot 1505 | No rake
+Seat 1: P1xel7 (small blind) won 1505
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 4 - HandId: #3217574629539315713-36-1709062122 - Holdem no limit (40/175/350) - 2024/02/27 19:28:42 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (31410)
+Seat 2: DAB77 (47213)
+Seat 3: swadebecks (18116)
+Seat 4: T&H2 (24662)
+Seat 6: burdigalien (16493)
+Seat 7: SerialzKiker (24111)
+Seat 8: Barthatak (18692)
+*** ANTE/BLINDS ***
+DAB77 posts ante 40
+swadebecks posts ante 40
+P1xel7 posts ante 40
+T&H2 posts ante 40
+burdigalien posts ante 40
+SerialzKiker posts ante 40
+Barthatak posts ante 40
+DAB77 posts small blind 175
+swadebecks posts big blind 350
+Dealt to P1xel7 [Jh Ah]
+*** PRE-FLOP *** 
+T&H2 folds
+burdigalien folds
+SerialzKiker folds
+Barthatak folds
+P1xel7 raises 700 to 1050
+DAB77 calls 875
+swadebecks calls 700
+*** FLOP *** [4c Jd Js]
+DAB77 bets 1715
+swadebecks calls 1715
+P1xel7 calls 1715
+*** TURN *** [4c Jd Js][4h]
+DAB77 checks
+swadebecks checks
+P1xel7 bets 3001
+DAB77 folds
+swadebecks calls 3001
+*** RIVER *** [4c Jd Js 4h][4d]
+swadebecks checks
+P1xel7 bets 7289
+swadebecks calls 7289
+*** SHOW DOWN ***
+swadebecks shows [8c Ac] (Full of 4 and Jacks)
+P1xel7 shows [Jh Ah] (Full of Jacks and 4)
+P1xel7 collected 29155 from pot
+*** SUMMARY ***
+Total pot 29155 | No rake
+Board: [4c Jd Js 4h 4d]
+Seat 1: P1xel7 (button) showed [Jh Ah] and won 29155 with Full of Jacks and 4
+Seat 3: swadebecks (big blind) showed [8c Ac] and lost with Full of 4 and Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3217574629539315713-37-1709062272 - Holdem no limit (50/200/400) - 2024/02/27 19:31:12 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (47470)
+Seat 2: DAB77 (44408)
+Seat 3: swadebecks (5021)
+Seat 4: T&H2 (24622)
+Seat 5: N04HH (20000)
+Seat 6: burdigalien (16453)
+Seat 7: SerialzKiker (24071)
+Seat 8: Barthatak (18652)
+*** ANTE/BLINDS ***
+swadebecks posts ante 50
+T&H2 posts ante 50
+P1xel7 posts ante 50
+DAB77 posts ante 50
+N04HH posts ante 50
+burdigalien posts ante 50
+SerialzKiker posts ante 50
+Barthatak posts ante 50
+swadebecks posts small blind 200
+T&H2 posts big blind 400
+Dealt to P1xel7 [6h 5h]
+*** PRE-FLOP *** 
+N04HH raises 400 to 800
+burdigalien folds
+SerialzKiker folds
+Barthatak folds
+P1xel7 folds
+DAB77 calls 800
+swadebecks folds
+T&H2 calls 400
+*** FLOP *** [Js 3c Ts]
+T&H2 checks
+N04HH checks
+DAB77 bets 1400
+T&H2 folds
+N04HH folds
+DAB77 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | No rake
+Board: [Js 3c Ts]
+Seat 2: DAB77 (button) won 4400
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3217574629539315713-38-1709062335 - Holdem no limit (50/200/400) - 2024/02/27 19:32:15 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (47420)
+Seat 2: DAB77 (46558)
+Seat 3: swadebecks (4771)
+Seat 4: T&H2 (23772)
+Seat 5: N04HH (19150)
+Seat 6: burdigalien (16403)
+Seat 7: SerialzKiker (24021)
+Seat 8: Barthatak (18602)
+*** ANTE/BLINDS ***
+T&H2 posts ante 50
+N04HH posts ante 50
+P1xel7 posts ante 50
+DAB77 posts ante 50
+swadebecks posts ante 50
+burdigalien posts ante 50
+SerialzKiker posts ante 50
+Barthatak posts ante 50
+T&H2 posts small blind 200
+N04HH posts big blind 400
+Dealt to P1xel7 [Th Qd]
+*** PRE-FLOP *** 
+burdigalien folds
+SerialzKiker folds
+Barthatak folds
+P1xel7 raises 800 to 1200
+DAB77 calls 1200
+swadebecks folds
+T&H2 folds
+N04HH calls 800
+*** FLOP *** [8d 5s 7h]
+N04HH bets 3360
+P1xel7 folds
+DAB77 calls 3360
+*** TURN *** [8d 5s 7h][Tc]
+N04HH bets 3822
+DAB77 calls 3822
+*** RIVER *** [8d 5s 7h Tc][3s]
+N04HH bets 10718 and is all-in
+DAB77 folds
+N04HH collected 29282 from pot
+*** SUMMARY ***
+Total pot 29282 | No rake
+Board: [8d 5s 7h Tc 3s]
+Seat 5: N04HH (big blind) won 29282
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3217574629539315713-39-1709062424 - Holdem no limit (50/200/400) - 2024/02/27 19:33:44 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (46170)
+Seat 2: DAB77 (38126)
+Seat 3: swadebecks (4721)
+Seat 4: T&H2 (23522)
+Seat 5: N04HH (29282)
+Seat 6: burdigalien (16353)
+Seat 7: SerialzKiker (23971)
+Seat 8: Barthatak (18552)
+*** ANTE/BLINDS ***
+N04HH posts ante 50
+burdigalien posts ante 50
+P1xel7 posts ante 50
+DAB77 posts ante 50
+swadebecks posts ante 50
+T&H2 posts ante 50
+SerialzKiker posts ante 50
+Barthatak posts ante 50
+N04HH posts small blind 200
+burdigalien posts big blind 400
+Dealt to P1xel7 [6d Jc]
+*** PRE-FLOP *** 
+SerialzKiker folds
+Barthatak folds
+P1xel7 folds
+DAB77 folds
+swadebecks raises 800 to 1200
+T&H2 raises 2400 to 3600
+N04HH folds
+burdigalien folds
+swadebecks calls 2400
+*** FLOP *** [6h As Jd]
+swadebecks bets 1071 and is all-in
+T&H2 calls 1071
+*** TURN *** [6h As Jd][4d]
+*** RIVER *** [6h As Jd 4d][Qs]
+*** SHOW DOWN ***
+swadebecks shows [Ad 3s] (One pair : Aces)
+T&H2 shows [4h 4s] (Trips of 4)
+T&H2 collected 10342 from pot
+*** SUMMARY ***
+Total pot 10342 | No rake
+Board: [6h As Jd 4d Qs]
+Seat 3: swadebecks showed [Ad 3s] and lost with One pair : Aces
+Seat 4: T&H2 (button) showed [4h 4s] and won 10342 with Trips of 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3217574629539315713-40-1709062501 - Holdem no limit (50/200/400) - 2024/02/27 19:35:01 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (46120)
+Seat 2: DAB77 (38076)
+Seat 4: T&H2 (29143)
+Seat 5: N04HH (29032)
+Seat 6: burdigalien (15903)
+Seat 7: SerialzKiker (23921)
+Seat 8: Barthatak (18502)
+*** ANTE/BLINDS ***
+burdigalien posts ante 50
+SerialzKiker posts ante 50
+P1xel7 posts ante 50
+DAB77 posts ante 50
+T&H2 posts ante 50
+N04HH posts ante 50
+Barthatak posts ante 50
+burdigalien posts small blind 200
+SerialzKiker posts big blind 400
+Dealt to P1xel7 [Tc 3s]
+*** PRE-FLOP *** 
+Barthatak folds
+P1xel7 folds
+DAB77 folds
+T&H2 raises 400 to 800
+N04HH folds
+burdigalien folds
+SerialzKiker calls 400
+*** FLOP *** [5d Kh 3c]
+SerialzKiker checks
+T&H2 checks
+*** TURN *** [5d Kh 3c][9d]
+SerialzKiker checks
+T&H2 bets 903
+SerialzKiker folds
+T&H2 collected 3053 from pot
+*** SUMMARY ***
+Total pot 3053 | No rake
+Board: [5d Kh 3c 9d]
+Seat 4: T&H2 won 3053
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 5 - HandId: #3217574629539315713-41-1709062552 - Holdem no limit (50/200/400) - 2024/02/27 19:35:52 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (46070)
+Seat 2: DAB77 (38026)
+Seat 3: -ambubulance (20000)
+Seat 4: T&H2 (30443)
+Seat 5: N04HH (28982)
+Seat 6: burdigalien (15653)
+Seat 7: SerialzKiker (23071)
+Seat 8: Barthatak (18452)
+*** ANTE/BLINDS ***
+SerialzKiker posts ante 50
+Barthatak posts ante 50
+P1xel7 posts ante 50
+DAB77 posts ante 50
+-ambubulance posts ante 50
+T&H2 posts ante 50
+N04HH posts ante 50
+burdigalien posts ante 50
+SerialzKiker posts small blind 200
+Barthatak posts big blind 400
+Dealt to P1xel7 [6c 2h]
+*** PRE-FLOP *** 
+P1xel7 folds
+DAB77 folds
+-ambubulance folds
+T&H2 raises 400 to 800
+N04HH folds
+burdigalien calls 800
+SerialzKiker folds
+Barthatak folds
+*** FLOP *** [5d Jh Tc]
+T&H2 bets 1092
+burdigalien calls 1092
+*** TURN *** [5d Jh Tc][8s]
+T&H2 checks
+burdigalien checks
+*** RIVER *** [5d Jh Tc 8s][Kh]
+T&H2 bets 400
+burdigalien folds
+T&H2 collected 5184 from pot
+*** SUMMARY ***
+Total pot 5184 | No rake
+Board: [5d Jh Tc 8s Kh]
+Seat 4: T&H2 won 5184
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3217574629539315713-42-1709062691 - Holdem no limit (60/250/500) - 2024/02/27 19:38:11 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #7 is the button
+Seat 1: P1xel7 (46020)
+Seat 3: -ambubulance (19950)
+Seat 4: T&H2 (33285)
+Seat 5: N04HH (28932)
+Seat 6: burdigalien (13711)
+Seat 7: SerialzKiker (22821)
+Seat 8: Barthatak (18002)
+*** ANTE/BLINDS ***
+Barthatak posts ante 60
+P1xel7 posts ante 60
+-ambubulance posts ante 60
+T&H2 posts ante 60
+N04HH posts ante 60
+burdigalien posts ante 60
+SerialzKiker posts ante 60
+Barthatak posts small blind 250
+P1xel7 posts big blind 500
+Dealt to P1xel7 [2h 4h]
+*** PRE-FLOP *** 
+-ambubulance raises 500 to 1000
+T&H2 folds
+N04HH raises 2000 to 3000
+burdigalien folds
+SerialzKiker folds
+Barthatak folds
+P1xel7 folds
+-ambubulance calls 2000
+*** FLOP *** [Td Ac 5c]
+-ambubulance checks
+N04HH bets 2510
+-ambubulance raises 2510 to 5020
+N04HH calls 2510
+*** TURN *** [Td Ac 5c][9s]
+-ambubulance bets 11870 and is all-in
+N04HH calls 11870
+*** RIVER *** [Td Ac 5c 9s][Ah]
+*** SHOW DOWN ***
+N04HH shows [As Kc] (Trips of Aces)
+-ambubulance shows [Ts Ad] (Full of Aces and Tens)
+-ambubulance collected 40950 from pot
+*** SUMMARY ***
+Total pot 40950 | No rake
+Board: [Td Ac 5c 9s Ah]
+Seat 3: -ambubulance showed [Ts Ad] and won 40950 with Full of Aces and Tens
+Seat 5: N04HH showed [As Kc] and lost with Trips of Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3217574629539315713-43-1709062742 - Holdem no limit (60/250/500) - 2024/02/27 19:39:02 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #8 is the button
+Seat 1: P1xel7 (45460)
+Seat 3: -ambubulance (40950)
+Seat 4: T&H2 (33225)
+Seat 5: N04HH (8982)
+Seat 6: burdigalien (13651)
+Seat 7: SerialzKiker (22761)
+Seat 8: Barthatak (17692)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 60
+-ambubulance posts ante 60
+T&H2 posts ante 60
+N04HH posts ante 60
+burdigalien posts ante 60
+SerialzKiker posts ante 60
+Barthatak posts ante 60
+P1xel7 posts small blind 250
+-ambubulance posts big blind 500
+Dealt to P1xel7 [5h Th]
+*** PRE-FLOP *** 
+T&H2 folds
+N04HH folds
+burdigalien folds
+SerialzKiker raises 500 to 1000
+Barthatak folds
+P1xel7 folds
+-ambubulance raises 2500 to 3500
+SerialzKiker calls 2500
+*** FLOP *** [Qd Jh 2c]
+-ambubulance bets 2685
+SerialzKiker folds
+-ambubulance collected 10355 from pot
+*** SUMMARY ***
+Total pot 10355 | No rake
+Board: [Qd Jh 2c]
+Seat 3: -ambubulance (big blind) won 10355
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3217574629539315713-44-1709062815 - Holdem no limit (60/250/500) - 2024/02/27 19:40:15 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (45150)
+Seat 2: THIERRYASAS (38687)
+Seat 3: -ambubulance (45060)
+Seat 4: T&H2 (33165)
+Seat 5: N04HH (8922)
+Seat 6: burdigalien (13591)
+Seat 7: SerialzKiker (19201)
+Seat 8: Barthatak (17632)
+*** ANTE/BLINDS ***
+-ambubulance posts ante 60
+T&H2 posts ante 60
+P1xel7 posts ante 60
+N04HH posts ante 60
+burdigalien posts ante 60
+SerialzKiker posts ante 60
+Barthatak posts ante 60
+-ambubulance posts small blind 250
+T&H2 posts big blind 500
+Dealt to P1xel7 [9d Th]
+*** PRE-FLOP *** 
+N04HH folds
+burdigalien folds
+SerialzKiker raises 500 to 1000
+Barthatak folds
+P1xel7 folds
+-ambubulance calls 750
+T&H2 calls 500
+*** FLOP *** [Tc Qs 5c]
+-ambubulance checks
+T&H2 checks
+SerialzKiker bets 1197
+-ambubulance folds
+T&H2 folds
+SerialzKiker collected 4617 from pot
+*** SUMMARY ***
+Total pot 4617 | No rake
+Board: [Tc Qs 5c]
+Seat 7: SerialzKiker won 4617
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 6 - HandId: #3217574629539315713-45-1709062851 - Holdem no limit (60/250/500) - 2024/02/27 19:40:51 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #3 is the button
+Seat 1: P1xel7 (45090)
+Seat 2: THIERRYASAS (38687)
+Seat 3: -ambubulance (44000)
+Seat 4: T&H2 (32105)
+Seat 5: N04HH (8862)
+Seat 6: burdigalien (13531)
+Seat 7: SerialzKiker (21561)
+Seat 8: Barthatak (17572)
+*** ANTE/BLINDS ***
+T&H2 posts ante 60
+N04HH posts ante 60
+P1xel7 posts ante 60
+THIERRYASAS posts ante 60
+-ambubulance posts ante 60
+burdigalien posts ante 60
+SerialzKiker posts ante 60
+Barthatak posts ante 60
+T&H2 posts small blind 250
+N04HH posts big blind 500
+Dealt to P1xel7 [Jh 8c]
+*** PRE-FLOP *** 
+burdigalien folds
+SerialzKiker raises 500 to 1000
+Barthatak folds
+P1xel7 folds
+THIERRYASAS folds
+-ambubulance folds
+T&H2 calls 750
+N04HH folds
+*** FLOP *** [Ks Tc 8d]
+T&H2 checks
+SerialzKiker checks
+*** TURN *** [Ks Tc 8d][9s]
+T&H2 bets 1043
+SerialzKiker calls 1043
+*** RIVER *** [Ks Tc 8d 9s][Ad]
+T&H2 bets 3344
+SerialzKiker calls 3344
+*** SHOW DOWN ***
+SerialzKiker shows [Ac 6c] (One pair : Aces)
+T&H2 shows [Jc Qs] (Straight Ace high)
+T&H2 collected 11754 from pot
+*** SUMMARY ***
+Total pot 11754 | No rake
+Board: [Ks Tc 8d 9s Ad]
+Seat 4: T&H2 (small blind) showed [Jc Qs] and won 11754 with Straight Ace high
+Seat 7: SerialzKiker showed [Ac 6c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3217574629539315713-46-1709062891 - Holdem no limit (70/300/600) - 2024/02/27 19:41:31 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (45030)
+Seat 2: THIERRYASAS (38627)
+Seat 3: -ambubulance (43940)
+Seat 4: T&H2 (38412)
+Seat 5: N04HH (8302)
+Seat 6: burdigalien (13471)
+Seat 7: SerialzKiker (16114)
+Seat 8: Barthatak (17512)
+*** ANTE/BLINDS ***
+N04HH posts ante 70
+burdigalien posts ante 70
+P1xel7 posts ante 70
+THIERRYASAS posts ante 70
+-ambubulance posts ante 70
+T&H2 posts ante 70
+SerialzKiker posts ante 70
+Barthatak posts ante 70
+N04HH posts small blind 300
+burdigalien posts big blind 600
+Dealt to P1xel7 [Qh 3h]
+*** PRE-FLOP *** 
+SerialzKiker folds
+Barthatak folds
+P1xel7 folds
+THIERRYASAS folds
+-ambubulance calls 600
+T&H2 raises 600 to 1200
+N04HH folds
+burdigalien folds
+-ambubulance calls 600
+*** FLOP *** [3c 8s 2d]
+-ambubulance checks
+T&H2 checks
+*** TURN *** [3c 8s 2d][7h]
+-ambubulance checks
+T&H2 checks
+*** RIVER *** [3c 8s 2d 7h][Ah]
+-ambubulance checks
+T&H2 bets 2548
+-ambubulance folds
+T&H2 collected 6408 from pot
+*** SUMMARY ***
+Total pot 6408 | No rake
+Board: [3c 8s 2d 7h Ah]
+Seat 4: T&H2 (button) won 6408
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3217574629539315713-47-1709062953 - Holdem no limit (70/300/600) - 2024/02/27 19:42:33 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (44960)
+Seat 2: THIERRYASAS (38557)
+Seat 3: -ambubulance (42670)
+Seat 4: T&H2 (41002)
+Seat 5: N04HH (7932)
+Seat 6: burdigalien (12801)
+Seat 7: SerialzKiker (16044)
+*** ANTE/BLINDS ***
+burdigalien posts ante 70
+SerialzKiker posts ante 70
+P1xel7 posts ante 70
+THIERRYASAS posts ante 70
+-ambubulance posts ante 70
+T&H2 posts ante 70
+N04HH posts ante 70
+burdigalien posts small blind 300
+SerialzKiker posts big blind 600
+Dealt to P1xel7 [8d Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+THIERRYASAS raises 750 to 1350
+-ambubulance calls 1350
+T&H2 calls 1350
+N04HH folds
+burdigalien folds
+SerialzKiker folds
+*** FLOP *** [8c 3d 9d]
+THIERRYASAS checks
+-ambubulance checks
+T&H2 bets 2285
+THIERRYASAS calls 2285
+-ambubulance calls 2285
+*** TURN *** [8c 3d 9d][Qs]
+THIERRYASAS checks
+-ambubulance checks
+T&H2 bets 6148
+THIERRYASAS calls 6148
+-ambubulance raises 15532 to 21680
+T&H2 folds
+THIERRYASAS raises 13172 to 34852 and is all-in
+-ambubulance calls 13172
+*** RIVER *** [8c 3d 9d Qs][Jc]
+*** SHOW DOWN ***
+-ambubulance shows [Qd Ks] (One pair : Queens)
+THIERRYASAS shows [Td Js] (Straight Queen high)
+THIERRYASAS collected 88147 from pot
+*** SUMMARY ***
+Total pot 88147 | No rake
+Board: [8c 3d 9d Qs Jc]
+Seat 2: THIERRYASAS showed [Td Js] and won 88147 with Straight Queen high
+Seat 3: -ambubulance showed [Qd Ks] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3217574629539315713-48-1709063046 - Holdem no limit (70/300/600) - 2024/02/27 19:44:06 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #6 is the button
+Seat 1: P1xel7 (44890)
+Seat 2: THIERRYASAS (88147)
+Seat 3: -ambubulance (4113)
+Seat 4: T&H2 (31149)
+Seat 5: N04HH (7862)
+Seat 6: burdigalien (12431)
+Seat 7: SerialzKiker (15374)
+Seat 8: brgchrist (20000)
+*** ANTE/BLINDS ***
+SerialzKiker posts ante 70
+brgchrist posts ante 70
+P1xel7 posts ante 70
+THIERRYASAS posts ante 70
+-ambubulance posts ante 70
+T&H2 posts ante 70
+N04HH posts ante 70
+burdigalien posts ante 70
+SerialzKiker posts small blind 300
+brgchrist posts big blind 600
+Dealt to P1xel7 [4c Qd]
+*** PRE-FLOP *** 
+P1xel7 folds
+THIERRYASAS folds
+-ambubulance folds
+T&H2 folds
+N04HH folds
+burdigalien folds
+SerialzKiker raises 750 to 1350
+brgchrist folds
+SerialzKiker collected 2510 from pot
+*** SUMMARY ***
+Total pot 2510 | No rake
+Seat 7: SerialzKiker (small blind) won 2510
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3217574629539315713-49-1709063077 - Holdem no limit (70/300/600) - 2024/02/27 19:44:37 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #7 is the button
+Seat 1: P1xel7 (44820)
+Seat 2: THIERRYASAS (88077)
+Seat 3: -ambubulance (4043)
+Seat 4: T&H2 (31079)
+Seat 5: N04HH (7792)
+Seat 6: burdigalien (12361)
+Seat 7: SerialzKiker (16464)
+Seat 8: brgchrist (19330)
+*** ANTE/BLINDS ***
+brgchrist posts ante 70
+P1xel7 posts ante 70
+THIERRYASAS posts ante 70
+-ambubulance posts ante 70
+T&H2 posts ante 70
+N04HH posts ante 70
+burdigalien posts ante 70
+SerialzKiker posts ante 70
+brgchrist posts small blind 300
+P1xel7 posts big blind 600
+Dealt to P1xel7 [2h Ts]
+*** PRE-FLOP *** 
+THIERRYASAS folds
+-ambubulance raises 3373 to 3973 and is all-in
+T&H2 folds
+N04HH folds
+burdigalien folds
+SerialzKiker folds
+brgchrist folds
+P1xel7 folds
+-ambubulance collected 5433 from pot
+*** SUMMARY ***
+Total pot 5433 | No rake
+Seat 3: -ambubulance won 5433
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 7 - HandId: #3217574629539315713-50-1709063134 - Holdem no limit (70/300/600) - 2024/02/27 19:45:34 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #8 is the button
+Seat 1: P1xel7 (44150)
+Seat 2: THIERRYASAS (88007)
+Seat 4: T&H2 (31009)
+Seat 5: N04HH (7722)
+Seat 6: burdigalien (12291)
+Seat 7: SerialzKiker (16394)
+Seat 8: brgchrist (18960)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 70
+THIERRYASAS posts ante 70
+T&H2 posts ante 70
+N04HH posts ante 70
+burdigalien posts ante 70
+SerialzKiker posts ante 70
+brgchrist posts ante 70
+P1xel7 posts small blind 300
+THIERRYASAS posts big blind 600
+Dealt to P1xel7 [7s 8s]
+*** PRE-FLOP *** 
+T&H2 raises 600 to 1200
+N04HH folds
+burdigalien calls 1200
+SerialzKiker folds
+brgchrist raises 17690 to 18890 and is all-in
+P1xel7 folds
+THIERRYASAS folds
+T&H2 folds
+burdigalien calls 11021 and is all-in
+*** FLOP *** [9c 2d 5h]
+*** TURN *** [9c 2d 5h][Qd]
+*** RIVER *** [9c 2d 5h Qd][9h]
+*** SHOW DOWN ***
+burdigalien shows [4h 4s] (Two pairs : 9 and 4)
+brgchrist shows [Js Ks] (One pair : 9)
+brgchrist collected 6669 from side pot 1
+burdigalien collected 27032 from main pot
+*** SUMMARY ***
+Total pot 33701 | No rake
+Board: [9c 2d 5h Qd 9h]
+Seat 6: burdigalien showed [4h 4s] and won 27032 with Two pairs : 9 and 4
+Seat 8: brgchrist (button) showed [Js Ks] and won 6669 with One pair : 9
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3217574629539315713-51-1709063184 - Holdem no limit (80/350/700) - 2024/02/27 19:46:24 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #1 is the button
+Seat 1: P1xel7 (43780)
+Seat 2: THIERRYASAS (87337)
+Seat 4: T&H2 (29739)
+Seat 5: N04HH (7652)
+Seat 6: burdigalien (27032)
+Seat 7: SerialzKiker (16324)
+Seat 8: brgchrist (6669)
+*** ANTE/BLINDS ***
+THIERRYASAS posts ante 80
+T&H2 posts ante 80
+P1xel7 posts ante 80
+N04HH posts ante 80
+burdigalien posts ante 80
+SerialzKiker posts ante 80
+brgchrist posts ante 80
+THIERRYASAS posts small blind 350
+T&H2 posts big blind 700
+Dealt to P1xel7 [Qh 2c]
+*** PRE-FLOP *** 
+N04HH raises 6872 to 7572 and is all-in
+burdigalien folds
+SerialzKiker folds
+brgchrist calls 6589 and is all-in
+P1xel7 folds
+THIERRYASAS folds
+T&H2 folds
+*** FLOP *** [Qc Ts 8c]
+*** TURN *** [Qc Ts 8c][9d]
+*** RIVER *** [Qc Ts 8c 9d][Kd]
+*** SHOW DOWN ***
+N04HH shows [8s Ad] (One pair : 8)
+brgchrist shows [Ah Ac] (One pair : Aces)
+brgchrist collected 14788 from main pot
+N04HH collected 983 from side pot 1
+*** SUMMARY ***
+Total pot 15771 | No rake
+Board: [Qc Ts 8c 9d Kd]
+Seat 5: N04HH showed [8s Ad] and won 983 with One pair : 8
+Seat 8: brgchrist showed [Ah Ac] and won 14788 with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3217574629539315713-52-1709063206 - Holdem no limit (80/350/700) - 2024/02/27 19:46:46 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #2 is the button
+Seat 1: P1xel7 (43700)
+Seat 2: THIERRYASAS (86907)
+Seat 4: T&H2 (28959)
+Seat 5: N04HH (983)
+Seat 6: burdigalien (26952)
+Seat 7: SerialzKiker (16244)
+Seat 8: brgchrist (14788)
+*** ANTE/BLINDS ***
+T&H2 posts ante 80
+N04HH posts ante 80
+P1xel7 posts ante 80
+THIERRYASAS posts ante 80
+burdigalien posts ante 80
+SerialzKiker posts ante 80
+brgchrist posts ante 80
+T&H2 posts small blind 350
+N04HH posts big blind 700
+Dealt to P1xel7 [6h 5d]
+*** PRE-FLOP *** 
+burdigalien folds
+SerialzKiker folds
+brgchrist folds
+P1xel7 folds
+THIERRYASAS raises 1050 to 1750
+T&H2 calls 1400
+N04HH calls 203 and is all-in
+*** FLOP *** [Jh Tc 6s]
+T&H2 checks
+THIERRYASAS checks
+*** TURN *** [Jh Tc 6s][8s]
+T&H2 bets 1400
+THIERRYASAS calls 1400
+*** RIVER *** [Jh Tc 6s 8s][4d]
+T&H2 bets 5124
+THIERRYASAS folds
+*** SHOW DOWN ***
+N04HH shows [2h Jc] (One pair : Jacks)
+T&H2 shows [Qc 9h] (Straight Queen high)
+T&H2 collected 12887 from pot
+*** SUMMARY ***
+Total pot 12887 | No rake
+Board: [Jh Tc 6s 8s 4d]
+Seat 4: T&H2 (small blind) showed [Qc 9h] and won 12887 with Straight Queen high
+Seat 5: N04HH (big blind) showed [2h Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3217574629539315713-53-1709063264 - Holdem no limit (80/350/700) - 2024/02/27 19:47:44 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #4 is the button
+Seat 1: P1xel7 (43620)
+Seat 2: THIERRYASAS (83677)
+Seat 4: T&H2 (33492)
+Seat 6: burdigalien (26872)
+Seat 7: SerialzKiker (16164)
+Seat 8: brgchrist (14708)
+*** ANTE/BLINDS ***
+burdigalien posts ante 80
+P1xel7 posts ante 80
+THIERRYASAS posts ante 80
+T&H2 posts ante 80
+SerialzKiker posts ante 80
+brgchrist posts ante 80
+burdigalien posts big blind 700
+Dealt to P1xel7 [2d 5d]
+*** PRE-FLOP *** 
+SerialzKiker folds
+brgchrist calls 700
+P1xel7 folds
+THIERRYASAS folds
+T&H2 raises 700 to 1400
+burdigalien folds
+brgchrist calls 700
+*** FLOP *** [3c 6s 3s]
+brgchrist checks
+T&H2 checks
+*** TURN *** [3c 6s 3s][7h]
+brgchrist checks
+T&H2 checks
+*** RIVER *** [3c 6s 3s 7h][7d]
+brgchrist checks
+T&H2 checks
+*** SHOW DOWN ***
+brgchrist shows [9d Th] (Two pairs : 7 and 3)
+T&H2 shows [8s Qh] (Two pairs : 7 and 3)
+T&H2 collected 3980 from pot
+*** SUMMARY ***
+Total pot 3980 | No rake
+Board: [3c 6s 3s 7h 7d]
+Seat 4: T&H2 (button) showed [8s Qh] and won 3980 with Two pairs : 7 and 3
+Seat 8: brgchrist showed [9d Th] and lost with Two pairs : 7 and 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3217574629539315713-54-1709063359 - Holdem no limit (80/350/700) - 2024/02/27 19:49:19 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #5 is the button
+Seat 1: P1xel7 (43540)
+Seat 2: THIERRYASAS (83597)
+Seat 4: T&H2 (35992)
+Seat 5: niuni2 (51449)
+Seat 6: burdigalien (26092)
+Seat 7: SerialzKiker (16084)
+Seat 8: brgchrist (13228)
+*** ANTE/BLINDS ***
+burdigalien posts ante 80
+SerialzKiker posts ante 80
+P1xel7 posts ante 80
+THIERRYASAS posts ante 80
+T&H2 posts ante 80
+brgchrist posts ante 80
+burdigalien posts small blind 350
+SerialzKiker posts big blind 700
+Dealt to P1xel7 [Jd 7d]
+*** PRE-FLOP *** 
+brgchrist raises 12448 to 13148 and is all-in
+P1xel7 folds
+THIERRYASAS folds
+T&H2 folds
+burdigalien folds
+SerialzKiker folds
+brgchrist collected 14678 from pot
+*** SUMMARY ***
+Total pot 14678 | No rake
+Seat 8: brgchrist won 14678
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 8 - HandId: #3217574629539315714-63-1709063416 - Holdem no limit (80/350/700) - 2024/02/27 19:50:16 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #2 is the button
+Seat 1: DarkBagDor (44749)
+Seat 2: bobmaurane (46366)
+Seat 3: roti_Jack31 (45910)
+Seat 4: aldebert91 (13213)
+Seat 6: MoAwH (19007)
+Seat 7: Bluff&Raise (22670)
+Seat 8: P1xel7 (43460)
+*** ANTE/BLINDS ***
+roti_Jack31 posts ante 80
+aldebert91 posts ante 80
+DarkBagDor posts ante 80
+bobmaurane posts ante 80
+MoAwH posts ante 80
+Bluff&Raise posts ante 80
+P1xel7 posts ante 80
+roti_Jack31 posts small blind 350
+aldebert91 posts big blind 700
+Dealt to P1xel7 [As 3s]
+*** PRE-FLOP *** 
+MoAwH folds
+Bluff&Raise raises 770 to 1470
+P1xel7 folds
+DarkBagDor folds
+bobmaurane folds
+roti_Jack31 folds
+aldebert91 calls 770
+*** FLOP *** [7s 7d Qh]
+aldebert91 checks
+Bluff&Raise checks
+*** TURN *** [7s 7d Qh][Ac]
+aldebert91 checks
+Bluff&Raise bets 2541
+aldebert91 folds
+Bluff&Raise collected 6391 from pot
+*** SUMMARY ***
+Total pot 6391 | No rake
+Board: [7s 7d Qh Ac]
+Seat 7: Bluff&Raise won 6391
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3217574629539315714-64-1709063475 - Holdem no limit (100/400/800) - 2024/02/27 19:51:15 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #3 is the button
+Seat 1: DarkBagDor (44669)
+Seat 2: bobmaurane (46286)
+Seat 3: roti_Jack31 (45480)
+Seat 4: aldebert91 (11663)
+Seat 6: MoAwH (18927)
+Seat 7: Bluff&Raise (24970)
+Seat 8: P1xel7 (43380)
+*** ANTE/BLINDS ***
+aldebert91 posts ante 100
+MoAwH posts ante 100
+DarkBagDor posts ante 100
+bobmaurane posts ante 100
+roti_Jack31 posts ante 100
+Bluff&Raise posts ante 100
+P1xel7 posts ante 100
+aldebert91 posts small blind 400
+MoAwH posts big blind 800
+Dealt to P1xel7 [Ks 3s]
+*** PRE-FLOP *** 
+Bluff&Raise folds
+P1xel7 folds
+DarkBagDor folds
+bobmaurane folds
+roti_Jack31 raises 1200 to 2000
+aldebert91 folds
+MoAwH folds
+roti_Jack31 collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | No rake
+Seat 3: roti_Jack31 (button) won 3900
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3217574629539315714-65-1709063494 - Holdem no limit (100/400/800) - 2024/02/27 19:51:34 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #4 is the button
+Seat 1: DarkBagDor (44569)
+Seat 2: bobmaurane (46186)
+Seat 3: roti_Jack31 (47280)
+Seat 4: aldebert91 (11163)
+Seat 6: MoAwH (18027)
+Seat 7: Bluff&Raise (24870)
+Seat 8: P1xel7 (43280)
+*** ANTE/BLINDS ***
+MoAwH posts ante 100
+Bluff&Raise posts ante 100
+DarkBagDor posts ante 100
+bobmaurane posts ante 100
+roti_Jack31 posts ante 100
+aldebert91 posts ante 100
+P1xel7 posts ante 100
+MoAwH posts small blind 400
+Bluff&Raise posts big blind 800
+Dealt to P1xel7 [7d 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+DarkBagDor folds
+bobmaurane folds
+roti_Jack31 raises 800 to 1600
+aldebert91 folds
+MoAwH raises 16327 to 17927 and is all-in
+Bluff&Raise folds
+roti_Jack31 folds
+MoAwH collected 21027 from pot
+*** SUMMARY ***
+Total pot 21027 | No rake
+Seat 6: MoAwH (small blind) won 21027
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3217574629539315714-66-1709063523 - Holdem no limit (100/400/800) - 2024/02/27 19:52:03 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #6 is the button
+Seat 1: DarkBagDor (44469)
+Seat 2: bobmaurane (46086)
+Seat 3: roti_Jack31 (45580)
+Seat 4: aldebert91 (11063)
+Seat 6: MoAwH (21027)
+Seat 7: Bluff&Raise (23970)
+Seat 8: P1xel7 (43180)
+*** ANTE/BLINDS ***
+Bluff&Raise posts ante 100
+P1xel7 posts ante 100
+DarkBagDor posts ante 100
+bobmaurane posts ante 100
+roti_Jack31 posts ante 100
+aldebert91 posts ante 100
+MoAwH posts ante 100
+Bluff&Raise posts small blind 400
+P1xel7 posts big blind 800
+Dealt to P1xel7 [Qd 5h]
+*** PRE-FLOP *** 
+DarkBagDor folds
+bobmaurane folds
+roti_Jack31 folds
+aldebert91 folds
+MoAwH folds
+Bluff&Raise calls 400
+P1xel7 raises 1600 to 2400
+Bluff&Raise calls 1600
+*** FLOP *** [5c Td Kd]
+Bluff&Raise checks
+P1xel7 bets 2750
+Bluff&Raise folds
+P1xel7 collected 8250 from pot
+*** SUMMARY ***
+Total pot 8250 | No rake
+Board: [5c Td Kd]
+Seat 8: P1xel7 (big blind) won 8250
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3217574629539315714-67-1709063571 - Holdem no limit (100/400/800) - 2024/02/27 19:52:51 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #7 is the button
+Seat 1: DarkBagDor (44369)
+Seat 2: bobmaurane (45986)
+Seat 3: roti_Jack31 (45480)
+Seat 4: aldebert91 (10963)
+Seat 6: MoAwH (20927)
+Seat 7: Bluff&Raise (21470)
+Seat 8: P1xel7 (46180)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 100
+DarkBagDor posts ante 100
+bobmaurane posts ante 100
+roti_Jack31 posts ante 100
+aldebert91 posts ante 100
+MoAwH posts ante 100
+Bluff&Raise posts ante 100
+P1xel7 posts small blind 400
+DarkBagDor posts big blind 800
+Dealt to P1xel7 [Ah Kd]
+*** PRE-FLOP *** 
+bobmaurane folds
+roti_Jack31 raises 800 to 1600
+aldebert91 calls 1600
+MoAwH folds
+Bluff&Raise folds
+P1xel7 raises 6400 to 8000
+DarkBagDor folds
+roti_Jack31 folds
+aldebert91 folds
+P1xel7 collected 12700 from pot
+*** SUMMARY ***
+Total pot 12700 | No rake
+Seat 8: P1xel7 (small blind) won 12700
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3217574629539315714-68-1709063612 - Holdem no limit (100/400/800) - 2024/02/27 19:53:32 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #8 is the button
+Seat 1: DarkBagDor (43469)
+Seat 2: bobmaurane (45886)
+Seat 3: roti_Jack31 (43780)
+Seat 4: aldebert91 (9263)
+Seat 6: MoAwH (20827)
+Seat 7: Bluff&Raise (21370)
+Seat 8: P1xel7 (50780)
+*** ANTE/BLINDS ***
+DarkBagDor posts ante 100
+bobmaurane posts ante 100
+roti_Jack31 posts ante 100
+aldebert91 posts ante 100
+MoAwH posts ante 100
+Bluff&Raise posts ante 100
+P1xel7 posts ante 100
+DarkBagDor posts small blind 400
+bobmaurane posts big blind 800
+Dealt to P1xel7 [Th Js]
+*** PRE-FLOP *** 
+roti_Jack31 folds
+aldebert91 folds
+MoAwH folds
+Bluff&Raise folds
+P1xel7 raises 1200 to 2000
+DarkBagDor calls 1600
+bobmaurane calls 1200
+*** FLOP *** [Ts Ac Kh]
+DarkBagDor checks
+bobmaurane checks
+P1xel7 checks
+*** TURN *** [Ts Ac Kh][6c]
+DarkBagDor bets 4355
+bobmaurane folds
+P1xel7 calls 4355
+*** RIVER *** [Ts Ac Kh 6c][2h]
+DarkBagDor bets 37014 and is all-in
+P1xel7 folds
+DarkBagDor collected 52424 from pot
+*** SUMMARY ***
+Total pot 52424 | No rake
+Board: [Ts Ac Kh 6c 2h]
+Seat 1: DarkBagDor (small blind) won 52424
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3217574629539315714-69-1709063678 - Holdem no limit (100/400/800) - 2024/02/27 19:54:38 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #1 is the button
+Seat 1: DarkBagDor (52424)
+Seat 2: bobmaurane (43786)
+Seat 3: roti_Jack31 (43680)
+Seat 4: aldebert91 (9163)
+Seat 6: MoAwH (20727)
+Seat 7: Bluff&Raise (21270)
+Seat 8: P1xel7 (44325)
+*** ANTE/BLINDS ***
+bobmaurane posts ante 100
+roti_Jack31 posts ante 100
+DarkBagDor posts ante 100
+aldebert91 posts ante 100
+MoAwH posts ante 100
+Bluff&Raise posts ante 100
+P1xel7 posts ante 100
+bobmaurane posts small blind 400
+roti_Jack31 posts big blind 800
+Dealt to P1xel7 [8h 9c]
+*** PRE-FLOP *** 
+aldebert91 folds
+MoAwH folds
+Bluff&Raise folds
+P1xel7 folds
+DarkBagDor folds
+bobmaurane folds
+roti_Jack31 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | No rake
+Seat 3: roti_Jack31 (big blind) won 1900
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3217574629539315714-70-1709064061 - Holdem no limit (100/400/800) - 2024/02/27 20:01:01 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #2 is the button
+Seat 1: DarkBagDor (52324)
+Seat 2: bobmaurane (43286)
+Seat 3: roti_Jack31 (44680)
+Seat 4: aldebert91 (9063)
+Seat 5: daichi83 (20000)
+Seat 6: MoAwH (20627)
+Seat 7: Bluff&Raise (21170)
+Seat 8: P1xel7 (44225)
+*** ANTE/BLINDS ***
+roti_Jack31 posts ante 100
+aldebert91 posts ante 100
+DarkBagDor posts ante 100
+bobmaurane posts ante 100
+daichi83 posts ante 100
+MoAwH posts ante 100
+Bluff&Raise posts ante 100
+P1xel7 posts ante 100
+roti_Jack31 posts small blind 400
+aldebert91 posts big blind 800
+Dealt to P1xel7 [Ad 5h]
+*** PRE-FLOP *** 
+daichi83 raises 1600 to 2400
+MoAwH folds
+Bluff&Raise folds
+P1xel7 folds
+DarkBagDor calls 2400
+bobmaurane folds
+roti_Jack31 folds
+aldebert91 raises 6563 to 8963 and is all-in
+daichi83 calls 6563
+DarkBagDor calls 6563
+*** FLOP *** [5c Jc 8h]
+daichi83 checks
+DarkBagDor checks
+*** TURN *** [5c Jc 8h][Td]
+daichi83 checks
+DarkBagDor checks
+*** RIVER *** [5c Jc 8h Td][4h]
+daichi83 bets 10937 and is all-in
+DarkBagDor folds
+*** SHOW DOWN ***
+aldebert91 shows [Qd Qc] (One pair : Queens)
+daichi83 shows [Kh Qh] (High card : King)
+daichi83 collected 10937 from side pot 1
+aldebert91 collected 28089 from main pot
+*** SUMMARY ***
+Total pot 39026 | No rake
+Board: [5c Jc 8h Td 4h]
+Seat 4: aldebert91 (big blind) showed [Qd Qc] and won 28089 with One pair : Queens
+Seat 5: daichi83 showed [Kh Qh] and won 10937 with High card : King
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 9 - HandId: #3217574629539315714-71-1709064119 - Holdem no limit (100/400/800) - 2024/02/27 20:01:59 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #3 is the button
+Seat 1: DarkBagDor (43261)
+Seat 2: bobmaurane (43186)
+Seat 3: roti_Jack31 (44180)
+Seat 4: aldebert91 (28089)
+Seat 5: daichi83 (10937)
+Seat 6: MoAwH (20527)
+Seat 7: Bluff&Raise (21070)
+Seat 8: P1xel7 (44125)
+*** ANTE/BLINDS ***
+aldebert91 posts ante 100
+daichi83 posts ante 100
+DarkBagDor posts ante 100
+bobmaurane posts ante 100
+roti_Jack31 posts ante 100
+MoAwH posts ante 100
+Bluff&Raise posts ante 100
+P1xel7 posts ante 100
+aldebert91 posts small blind 400
+daichi83 posts big blind 800
+Dealt to P1xel7 [3c Qd]
+*** PRE-FLOP *** 
+MoAwH folds
+Bluff&Raise folds
+P1xel7 folds
+DarkBagDor raises 1200 to 2000
+bobmaurane folds
+roti_Jack31 calls 2000
+aldebert91 folds
+daichi83 calls 1200
+*** FLOP *** [6h Kc Jc]
+daichi83 bets 4680
+DarkBagDor folds
+roti_Jack31 calls 4680
+*** TURN *** [6h Kc Jc][5s]
+daichi83 bets 4157 and is all-in
+roti_Jack31 calls 4157
+*** RIVER *** [6h Kc Jc 5s][Qc]
+*** SHOW DOWN ***
+roti_Jack31 shows [Jd Ts] (One pair : Jacks)
+daichi83 shows [Ks 9d] (One pair : Kings)
+daichi83 collected 24874 from pot
+*** SUMMARY ***
+Total pot 24874 | No rake
+Board: [6h Kc Jc 5s Qc]
+Seat 3: roti_Jack31 (button) showed [Jd Ts] and lost with One pair : Jacks
+Seat 5: daichi83 (big blind) showed [Ks 9d] and won 24874 with One pair : Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3217574629539315714-72-1709064225 - Holdem no limit (120/500/1000) - 2024/02/27 20:03:45 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #4 is the button
+Seat 1: DarkBagDor (41161)
+Seat 2: bobmaurane (43086)
+Seat 3: roti_Jack31 (33243)
+Seat 4: aldebert91 (27589)
+Seat 5: daichi83 (24874)
+Seat 6: MoAwH (20427)
+Seat 8: P1xel7 (44025)
+*** ANTE/BLINDS ***
+daichi83 posts ante 120
+MoAwH posts ante 120
+DarkBagDor posts ante 120
+bobmaurane posts ante 120
+roti_Jack31 posts ante 120
+aldebert91 posts ante 120
+P1xel7 posts ante 120
+daichi83 posts small blind 500
+MoAwH posts big blind 1000
+Dealt to P1xel7 [4s 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+DarkBagDor folds
+bobmaurane folds
+roti_Jack31 raises 1000 to 2000
+aldebert91 calls 2000
+daichi83 folds
+MoAwH folds
+*** FLOP *** [Kc 3c Qh]
+roti_Jack31 checks
+aldebert91 checks
+*** TURN *** [Kc 3c Qh][Ad]
+roti_Jack31 checks
+aldebert91 checks
+*** RIVER *** [Kc 3c Qh Ad][4c]
+roti_Jack31 checks
+aldebert91 bets 2219
+roti_Jack31 calls 2219
+*** SHOW DOWN ***
+roti_Jack31 shows [Qs 9h] (One pair : Queens)
+aldebert91 shows [Ac 7s] (One pair : Aces)
+aldebert91 collected 10778 from pot
+*** SUMMARY ***
+Total pot 10778 | No rake
+Board: [Kc 3c Qh Ad 4c]
+Seat 3: roti_Jack31 showed [Qs 9h] and lost with One pair : Queens
+Seat 4: aldebert91 (button) showed [Ac 7s] and won 10778 with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3217574629539315714-73-1709064302 - Holdem no limit (120/500/1000) - 2024/02/27 20:05:02 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #5 is the button
+Seat 1: DarkBagDor (41041)
+Seat 2: bobmaurane (42966)
+Seat 3: roti_Jack31 (28904)
+Seat 4: aldebert91 (34028)
+Seat 5: daichi83 (24254)
+Seat 6: MoAwH (19307)
+Seat 7: giani02 (20000)
+Seat 8: P1xel7 (43905)
+*** ANTE/BLINDS ***
+MoAwH posts ante 120
+giani02 posts ante 120
+DarkBagDor posts ante 120
+bobmaurane posts ante 120
+roti_Jack31 posts ante 120
+aldebert91 posts ante 120
+daichi83 posts ante 120
+P1xel7 posts ante 120
+MoAwH posts small blind 500
+giani02 posts big blind 1000
+Dealt to P1xel7 [Qs Qc]
+*** PRE-FLOP *** 
+P1xel7 raises 2000 to 3000
+DarkBagDor folds
+bobmaurane folds
+roti_Jack31 folds
+aldebert91 folds
+daichi83 folds
+MoAwH folds
+giani02 folds
+P1xel7 collected 5460 from pot
+*** SUMMARY ***
+Total pot 5460 | No rake
+Seat 8: P1xel7 won 5460
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3217574629539315714-74-1709064347 - Holdem no limit (120/500/1000) - 2024/02/27 20:05:47 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #6 is the button
+Seat 2: bobmaurane (42846)
+Seat 3: roti_Jack31 (28784)
+Seat 4: aldebert91 (33908)
+Seat 5: daichi83 (24134)
+Seat 6: MoAwH (18687)
+Seat 7: giani02 (18880)
+Seat 8: P1xel7 (46245)
+*** ANTE/BLINDS ***
+giani02 posts ante 120
+P1xel7 posts ante 120
+bobmaurane posts ante 120
+roti_Jack31 posts ante 120
+aldebert91 posts ante 120
+daichi83 posts ante 120
+MoAwH posts ante 120
+giani02 posts small blind 500
+P1xel7 posts big blind 1000
+Dealt to P1xel7 [9d Ts]
+*** PRE-FLOP *** 
+bobmaurane raises 2000 to 3000
+roti_Jack31 folds
+aldebert91 calls 3000
+daichi83 calls 3000
+MoAwH folds
+giani02 folds
+P1xel7 folds
+*** FLOP *** [Ks Qh As]
+bobmaurane checks
+aldebert91 bets 1000
+daichi83 raises 4019 to 5019
+bobmaurane folds
+aldebert91 folds
+daichi83 collected 17359 from pot
+*** SUMMARY ***
+Total pot 17359 | No rake
+Board: [Ks Qh As]
+Seat 5: daichi83 won 17359
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3217574629539315714-75-1709064397 - Holdem no limit (120/500/1000) - 2024/02/27 20:06:37 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #7 is the button
+Seat 2: bobmaurane (39726)
+Seat 3: roti_Jack31 (28664)
+Seat 4: aldebert91 (29788)
+Seat 5: daichi83 (33354)
+Seat 6: MoAwH (18567)
+Seat 7: giani02 (18260)
+Seat 8: P1xel7 (45125)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 120
+bobmaurane posts ante 120
+roti_Jack31 posts ante 120
+aldebert91 posts ante 120
+daichi83 posts ante 120
+MoAwH posts ante 120
+giani02 posts ante 120
+P1xel7 posts small blind 500
+bobmaurane posts big blind 1000
+Dealt to P1xel7 [9d Kh]
+*** PRE-FLOP *** 
+roti_Jack31 folds
+aldebert91 folds
+daichi83 folds
+MoAwH raises 17447 to 18447 and is all-in
+giani02 calls 18140 and is all-in
+P1xel7 folds
+bobmaurane folds
+*** FLOP *** [Tc Qd 8d]
+*** TURN *** [Tc Qd 8d][3h]
+*** RIVER *** [Tc Qd 8d 3h][9h]
+*** SHOW DOWN ***
+giani02 shows [As Kd] (High card : Ace)
+MoAwH shows [8s 8c] (Trips of 8)
+MoAwH collected 38927 from pot
+*** SUMMARY ***
+Total pot 38927 | No rake
+Board: [Tc Qd 8d 3h 9h]
+Seat 6: MoAwH showed [8s 8c] and won 38927 with Trips of 8
+Seat 7: giani02 (button) showed [As Kd] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 10 - HandId: #3217574629539315714-76-1709064419 - Holdem no limit (120/500/1000) - 2024/02/27 20:06:59 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #8 is the button
+Seat 2: bobmaurane (38606)
+Seat 3: roti_Jack31 (28544)
+Seat 4: aldebert91 (29668)
+Seat 5: daichi83 (33234)
+Seat 6: MoAwH (38927)
+Seat 8: P1xel7 (44505)
+*** ANTE/BLINDS ***
+bobmaurane posts ante 120
+roti_Jack31 posts ante 120
+aldebert91 posts ante 120
+daichi83 posts ante 120
+MoAwH posts ante 120
+P1xel7 posts ante 120
+bobmaurane posts small blind 500
+roti_Jack31 posts big blind 1000
+Dealt to P1xel7 [Qc Ks]
+*** PRE-FLOP *** 
+aldebert91 folds
+daichi83 calls 1000
+MoAwH folds
+P1xel7 raises 2500 to 3500
+bobmaurane folds
+roti_Jack31 folds
+daichi83 calls 2500
+*** FLOP *** [9d Kh Td]
+daichi83 bets 3227
+P1xel7 calls 3227
+*** TURN *** [9d Kh Td][Ad]
+daichi83 checks
+P1xel7 bets 1000
+daichi83 folds
+P1xel7 collected 16674 from pot
+*** SUMMARY ***
+Total pot 16674 | No rake
+Board: [9d Kh Td Ad]
+Seat 8: P1xel7 (button) won 16674
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3217574629539315714-77-1709064489 - Holdem no limit (140/600/1200) - 2024/02/27 20:08:09 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #2 is the button
+Seat 1: lyft89 (19520)
+Seat 2: bobmaurane (37986)
+Seat 3: roti_Jack31 (27424)
+Seat 4: aldebert91 (29548)
+Seat 5: daichi83 (26387)
+Seat 6: MoAwH (38807)
+Seat 8: P1xel7 (53332)
+*** ANTE/BLINDS ***
+roti_Jack31 posts ante 140
+aldebert91 posts ante 140
+lyft89 posts ante 140
+bobmaurane posts ante 140
+daichi83 posts ante 140
+MoAwH posts ante 140
+P1xel7 posts ante 140
+roti_Jack31 posts small blind 600
+aldebert91 posts big blind 1200
+Dealt to P1xel7 [4s Kh]
+*** PRE-FLOP *** 
+daichi83 folds
+MoAwH folds
+P1xel7 folds
+lyft89 folds
+bobmaurane folds
+roti_Jack31 folds
+aldebert91 collected 2780 from pot
+*** SUMMARY ***
+Total pot 2780 | No rake
+Seat 4: aldebert91 (big blind) won 2780
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3217574629539315714-78-1709064517 - Holdem no limit (140/600/1200) - 2024/02/27 20:08:37 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #3 is the button
+Seat 1: lyft89 (19380)
+Seat 2: bobmaurane (37846)
+Seat 3: roti_Jack31 (26684)
+Seat 4: aldebert91 (30988)
+Seat 5: daichi83 (26247)
+Seat 6: MoAwH (38667)
+Seat 8: P1xel7 (53192)
+*** ANTE/BLINDS ***
+aldebert91 posts ante 140
+daichi83 posts ante 140
+lyft89 posts ante 140
+bobmaurane posts ante 140
+roti_Jack31 posts ante 140
+MoAwH posts ante 140
+P1xel7 posts ante 140
+aldebert91 posts small blind 600
+daichi83 posts big blind 1200
+Dealt to P1xel7 [5h Js]
+*** PRE-FLOP *** 
+MoAwH folds
+P1xel7 folds
+lyft89 folds
+bobmaurane calls 1200
+roti_Jack31 folds
+aldebert91 calls 600
+daichi83 checks
+*** FLOP *** [8h Ah As]
+aldebert91 checks
+daichi83 checks
+bobmaurane bets 4580
+aldebert91 folds
+daichi83 folds
+bobmaurane collected 9160 from pot
+*** SUMMARY ***
+Total pot 9160 | No rake
+Board: [8h Ah As]
+Seat 2: bobmaurane won 9160
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3217574629539315714-79-1709064591 - Holdem no limit (140/600/1200) - 2024/02/27 20:09:51 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #4 is the button
+Seat 1: lyft89 (19240)
+Seat 2: bobmaurane (41086)
+Seat 3: roti_Jack31 (26544)
+Seat 4: aldebert91 (29648)
+Seat 5: daichi83 (24907)
+Seat 6: MoAwH (38527)
+Seat 7: DVE59 (19860)
+Seat 8: P1xel7 (53052)
+*** ANTE/BLINDS ***
+daichi83 posts ante 140
+MoAwH posts ante 140
+lyft89 posts ante 140
+bobmaurane posts ante 140
+roti_Jack31 posts ante 140
+aldebert91 posts ante 140
+DVE59 posts ante 140
+P1xel7 posts ante 140
+daichi83 posts small blind 600
+MoAwH posts big blind 1200
+Dealt to P1xel7 [6d 3c]
+*** PRE-FLOP *** 
+DVE59 folds
+P1xel7 folds
+lyft89 folds
+bobmaurane folds
+roti_Jack31 folds
+aldebert91 folds
+daichi83 raises 2400 to 3600
+MoAwH folds
+daichi83 collected 5920 from pot
+*** SUMMARY ***
+Total pot 5920 | No rake
+Seat 5: daichi83 (small blind) won 5920
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3217574629539315714-80-1709064636 - Holdem no limit (140/600/1200) - 2024/02/27 20:10:36 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #5 is the button
+Seat 1: lyft89 (19100)
+Seat 2: bobmaurane (40946)
+Seat 3: roti_Jack31 (26404)
+Seat 4: aldebert91 (29508)
+Seat 5: daichi83 (27087)
+Seat 6: MoAwH (37187)
+Seat 7: DVE59 (19720)
+Seat 8: P1xel7 (52912)
+*** ANTE/BLINDS ***
+MoAwH posts ante 140
+DVE59 posts ante 140
+lyft89 posts ante 140
+bobmaurane posts ante 140
+roti_Jack31 posts ante 140
+aldebert91 posts ante 140
+daichi83 posts ante 140
+P1xel7 posts ante 140
+MoAwH posts small blind 600
+DVE59 posts big blind 1200
+Dealt to P1xel7 [3d 9d]
+*** PRE-FLOP *** 
+P1xel7 folds
+lyft89 raises 1200 to 2400
+bobmaurane folds
+roti_Jack31 folds
+aldebert91 folds
+daichi83 folds
+MoAwH folds
+DVE59 calls 1200
+*** FLOP *** [3c 6s Qs]
+DVE59 checks
+lyft89 checks
+*** TURN *** [3c 6s Qs][7h]
+DVE59 bets 2282
+lyft89 folds
+DVE59 collected 8802 from pot
+*** SUMMARY ***
+Total pot 8802 | No rake
+Board: [3c 6s Qs 7h]
+Seat 7: DVE59 (big blind) won 8802
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 11 - HandId: #3217574629539315714-81-1709064720 - Holdem no limit (140/600/1200) - 2024/02/27 20:12:00 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #6 is the button
+Seat 1: lyft89 (16560)
+Seat 2: bobmaurane (40806)
+Seat 3: roti_Jack31 (26264)
+Seat 4: aldebert91 (29368)
+Seat 5: daichi83 (26947)
+Seat 6: MoAwH (36447)
+Seat 7: DVE59 (23700)
+Seat 8: P1xel7 (52772)
+*** ANTE/BLINDS ***
+DVE59 posts ante 140
+P1xel7 posts ante 140
+lyft89 posts ante 140
+bobmaurane posts ante 140
+roti_Jack31 posts ante 140
+aldebert91 posts ante 140
+daichi83 posts ante 140
+MoAwH posts ante 140
+DVE59 posts small blind 600
+P1xel7 posts big blind 1200
+Dealt to P1xel7 [As Js]
+*** PRE-FLOP *** 
+lyft89 folds
+bobmaurane folds
+roti_Jack31 folds
+aldebert91 folds
+daichi83 folds
+MoAwH folds
+DVE59 raises 1200 to 2400
+P1xel7 raises 4800 to 7200
+DVE59 calls 4800
+*** FLOP *** [6d Qs Ac]
+DVE59 bets 16360 and is all-in
+P1xel7 calls 16360
+*** TURN *** [6d Qs Ac][8h]
+*** RIVER *** [6d Qs Ac 8h][Kh]
+*** SHOW DOWN ***
+DVE59 shows [Ah Jd] (One pair : Aces)
+P1xel7 shows [As Js] (One pair : Aces)
+P1xel7 collected 24120 from pot
+DVE59 collected 24120 from pot
+*** SUMMARY ***
+Total pot 48240 | No rake
+Board: [6d Qs Ac 8h Kh]
+Seat 7: DVE59 (small blind) showed [Ah Jd] and won 24120 with One pair : Aces
+Seat 8: P1xel7 (big blind) showed [As Js] and won 24120 with One pair : Aces
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3217574629539315714-82-1709064758 - Holdem no limit (160/700/1400) - 2024/02/27 20:12:38 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #7 is the button
+Seat 1: lyft89 (16420)
+Seat 2: bobmaurane (40666)
+Seat 3: roti_Jack31 (26124)
+Seat 4: aldebert91 (29228)
+Seat 5: daichi83 (26807)
+Seat 6: MoAwH (36307)
+Seat 7: DVE59 (24120)
+Seat 8: P1xel7 (53192)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 160
+lyft89 posts ante 160
+bobmaurane posts ante 160
+roti_Jack31 posts ante 160
+aldebert91 posts ante 160
+daichi83 posts ante 160
+MoAwH posts ante 160
+DVE59 posts ante 160
+P1xel7 posts small blind 700
+lyft89 posts big blind 1400
+Dealt to P1xel7 [Jh 8c]
+*** PRE-FLOP *** 
+bobmaurane folds
+roti_Jack31 folds
+aldebert91 calls 1400
+daichi83 folds
+MoAwH folds
+DVE59 calls 1400
+P1xel7 folds
+lyft89 checks
+*** FLOP *** [7c 8s Qc]
+lyft89 checks
+aldebert91 bets 2163
+DVE59 calls 2163
+lyft89 folds
+*** TURN *** [7c 8s Qc][6s]
+aldebert91 bets 3677
+DVE59 calls 3677
+*** RIVER *** [7c 8s Qc 6s][Kd]
+aldebert91 checks
+DVE59 bets 16720 and is all-in
+aldebert91 folds
+DVE59 collected 34580 from pot
+*** SUMMARY ***
+Total pot 34580 | No rake
+Board: [7c 8s Qc 6s Kd]
+Seat 7: DVE59 (button) won 34580
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3217574629539315714-83-1709064843 - Holdem no limit (160/700/1400) - 2024/02/27 20:14:03 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #8 is the button
+Seat 1: lyft89 (14860)
+Seat 2: bobmaurane (40506)
+Seat 4: aldebert91 (21828)
+Seat 5: daichi83 (26647)
+Seat 6: MoAwH (36147)
+Seat 7: DVE59 (34580)
+Seat 8: P1xel7 (52332)
+*** ANTE/BLINDS ***
+lyft89 posts ante 160
+bobmaurane posts ante 160
+aldebert91 posts ante 160
+daichi83 posts ante 160
+MoAwH posts ante 160
+DVE59 posts ante 160
+P1xel7 posts ante 160
+lyft89 posts small blind 700
+bobmaurane posts big blind 1400
+Dealt to P1xel7 [Td 8h]
+*** PRE-FLOP *** 
+aldebert91 calls 1400
+daichi83 folds
+MoAwH folds
+DVE59 folds
+P1xel7 folds
+lyft89 folds
+bobmaurane checks
+*** FLOP *** [2d Qc Ks]
+bobmaurane checks
+aldebert91 checks
+*** TURN *** [2d Qc Ks][5c]
+bobmaurane checks
+aldebert91 checks
+*** RIVER *** [2d Qc Ks 5c][Ah]
+bobmaurane checks
+aldebert91 checks
+*** SHOW DOWN ***
+bobmaurane shows [6h Th] (High card : Ace)
+aldebert91 shows [9d Jh] (High card : Ace)
+aldebert91 collected 4620 from pot
+*** SUMMARY ***
+Total pot 4620 | No rake
+Board: [2d Qc Ks 5c Ah]
+Seat 2: bobmaurane (big blind) showed [6h Th] and lost with High card : Ace
+Seat 4: aldebert91 showed [9d Jh] and won 4620 with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3217574629539315714-84-1709064892 - Holdem no limit (160/700/1400) - 2024/02/27 20:14:52 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #1 is the button
+Seat 1: lyft89 (14000)
+Seat 2: bobmaurane (38946)
+Seat 4: aldebert91 (24888)
+Seat 5: daichi83 (26487)
+Seat 6: MoAwH (35987)
+Seat 7: DVE59 (34420)
+Seat 8: P1xel7 (52172)
+*** ANTE/BLINDS ***
+bobmaurane posts ante 160
+aldebert91 posts ante 160
+lyft89 posts ante 160
+daichi83 posts ante 160
+MoAwH posts ante 160
+DVE59 posts ante 160
+P1xel7 posts ante 160
+bobmaurane posts small blind 700
+aldebert91 posts big blind 1400
+Dealt to P1xel7 [4h 9h]
+*** PRE-FLOP *** 
+daichi83 folds
+MoAwH folds
+DVE59 raises 1400 to 2800
+P1xel7 folds
+lyft89 calls 2800
+bobmaurane folds
+aldebert91 calls 1400
+*** FLOP *** [3c 6d 2s]
+aldebert91 checks
+DVE59 checks
+lyft89 checks
+*** TURN *** [3c 6d 2s][5h]
+aldebert91 checks
+DVE59 checks
+lyft89 checks
+*** RIVER *** [3c 6d 2s 5h][8h]
+aldebert91 bets 3577
+DVE59 calls 3577
+lyft89 calls 3577
+*** SHOW DOWN ***
+aldebert91 shows [Ks Qs] (High card : King)
+DVE59 shows [Jh As] (High card : Ace)
+lyft89 shows [8c Ah] (One pair : 8)
+lyft89 collected 20951 from pot
+*** SUMMARY ***
+Total pot 20951 | No rake
+Board: [3c 6d 2s 5h 8h]
+Seat 1: lyft89 (button) showed [8c Ah] and won 20951 with One pair : 8
+Seat 4: aldebert91 (big blind) showed [Ks Qs] and lost with High card : King
+Seat 7: DVE59 showed [Jh As] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3217574629539315714-85-1709064946 - Holdem no limit (160/700/1400) - 2024/02/27 20:15:46 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #2 is the button
+Seat 1: lyft89 (28414)
+Seat 2: bobmaurane (38086)
+Seat 4: aldebert91 (18351)
+Seat 5: daichi83 (26327)
+Seat 6: MoAwH (35827)
+Seat 7: DVE59 (27883)
+Seat 8: P1xel7 (52012)
+*** ANTE/BLINDS ***
+aldebert91 posts ante 160
+daichi83 posts ante 160
+lyft89 posts ante 160
+bobmaurane posts ante 160
+MoAwH posts ante 160
+DVE59 posts ante 160
+P1xel7 posts ante 160
+aldebert91 posts small blind 700
+daichi83 posts big blind 1400
+Dealt to P1xel7 [6s 6h]
+*** PRE-FLOP *** 
+MoAwH folds
+DVE59 folds
+P1xel7 raises 2100 to 3500
+lyft89 folds
+bobmaurane folds
+aldebert91 folds
+daichi83 folds
+P1xel7 collected 6720 from pot
+*** SUMMARY ***
+Total pot 6720 | No rake
+Seat 8: P1xel7 won 6720
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 12 - HandId: #3217574629539315714-86-1709064963 - Holdem no limit (160/700/1400) - 2024/02/27 20:16:03 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #4 is the button
+Seat 1: lyft89 (28254)
+Seat 2: bobmaurane (37926)
+Seat 4: aldebert91 (17491)
+Seat 5: daichi83 (24767)
+Seat 6: MoAwH (35667)
+Seat 7: DVE59 (27723)
+Seat 8: P1xel7 (55072)
+*** ANTE/BLINDS ***
+daichi83 posts ante 160
+MoAwH posts ante 160
+lyft89 posts ante 160
+bobmaurane posts ante 160
+aldebert91 posts ante 160
+DVE59 posts ante 160
+P1xel7 posts ante 160
+daichi83 posts small blind 700
+MoAwH posts big blind 1400
+Dealt to P1xel7 [6c Jc]
+*** PRE-FLOP *** 
+DVE59 folds
+P1xel7 folds
+lyft89 calls 1400
+bobmaurane folds
+aldebert91 raises 2800 to 4200
+daichi83 folds
+MoAwH folds
+lyft89 calls 2800
+*** FLOP *** [Qc 6d Kc]
+lyft89 checks
+aldebert91 bets 13131 and is all-in
+lyft89 folds
+aldebert91 collected 24751 from pot
+*** SUMMARY ***
+Total pot 24751 | No rake
+Board: [Qc 6d Kc]
+Seat 4: aldebert91 (button) won 24751
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3217574629539315714-87-1709065034 - Holdem no limit (200/800/1600) - 2024/02/27 20:17:14 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #5 is the button
+Seat 1: lyft89 (23894)
+Seat 2: bobmaurane (37766)
+Seat 4: aldebert91 (24751)
+Seat 5: daichi83 (23907)
+Seat 6: MoAwH (34107)
+Seat 7: DVE59 (27563)
+Seat 8: P1xel7 (54912)
+*** ANTE/BLINDS ***
+MoAwH posts ante 200
+DVE59 posts ante 200
+lyft89 posts ante 200
+bobmaurane posts ante 200
+aldebert91 posts ante 200
+daichi83 posts ante 200
+P1xel7 posts ante 200
+MoAwH posts small blind 800
+DVE59 posts big blind 1600
+Dealt to P1xel7 [2c 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+lyft89 folds
+bobmaurane raises 1600 to 3200
+aldebert91 folds
+daichi83 folds
+MoAwH folds
+DVE59 calls 1600
+*** FLOP *** [Th Ah 3d]
+DVE59 checks
+bobmaurane bets 4300
+DVE59 folds
+bobmaurane collected 12900 from pot
+*** SUMMARY ***
+Total pot 12900 | No rake
+Board: [Th Ah 3d]
+Seat 2: bobmaurane won 12900
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3217574629539315714-88-1709065077 - Holdem no limit (200/800/1600) - 2024/02/27 20:17:57 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #6 is the button
+Seat 1: lyft89 (23694)
+Seat 2: bobmaurane (42966)
+Seat 4: aldebert91 (24551)
+Seat 5: daichi83 (23707)
+Seat 6: MoAwH (33107)
+Seat 7: DVE59 (24163)
+Seat 8: P1xel7 (54712)
+*** ANTE/BLINDS ***
+DVE59 posts ante 200
+P1xel7 posts ante 200
+lyft89 posts ante 200
+bobmaurane posts ante 200
+aldebert91 posts ante 200
+daichi83 posts ante 200
+MoAwH posts ante 200
+DVE59 posts small blind 800
+P1xel7 posts big blind 1600
+Dealt to P1xel7 [Qs Th]
+*** PRE-FLOP *** 
+lyft89 folds
+bobmaurane folds
+aldebert91 folds
+daichi83 folds
+MoAwH folds
+DVE59 raises 2400 to 4000
+P1xel7 calls 2400
+*** FLOP *** [4c Js 7h]
+DVE59 bets 19963 and is all-in
+P1xel7 folds
+DVE59 collected 29363 from pot
+*** SUMMARY ***
+Total pot 29363 | No rake
+Board: [4c Js 7h]
+Seat 7: DVE59 (small blind) won 29363
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3217574629539315714-89-1709065109 - Holdem no limit (200/800/1600) - 2024/02/27 20:18:29 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #7 is the button
+Seat 1: lyft89 (23494)
+Seat 2: bobmaurane (42766)
+Seat 4: aldebert91 (24351)
+Seat 5: daichi83 (23507)
+Seat 6: MoAwH (32907)
+Seat 7: DVE59 (29363)
+Seat 8: P1xel7 (50512)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 200
+lyft89 posts ante 200
+bobmaurane posts ante 200
+aldebert91 posts ante 200
+daichi83 posts ante 200
+MoAwH posts ante 200
+DVE59 posts ante 200
+P1xel7 posts small blind 800
+lyft89 posts big blind 1600
+Dealt to P1xel7 [5d As]
+*** PRE-FLOP *** 
+bobmaurane folds
+aldebert91 calls 1600
+daichi83 folds
+MoAwH folds
+DVE59 calls 1600
+P1xel7 calls 800
+lyft89 checks
+*** FLOP *** [4h Qh 8s]
+P1xel7 checks
+lyft89 checks
+aldebert91 checks
+DVE59 checks
+*** TURN *** [4h Qh 8s][Kc]
+P1xel7 checks
+lyft89 checks
+aldebert91 checks
+DVE59 checks
+*** RIVER *** [4h Qh 8s Kc][Jc]
+P1xel7 checks
+lyft89 checks
+aldebert91 bets 1600
+DVE59 folds
+P1xel7 folds
+lyft89 folds
+aldebert91 collected 9400 from pot
+*** SUMMARY ***
+Total pot 9400 | No rake
+Board: [4h Qh 8s Kc Jc]
+Seat 4: aldebert91 won 9400
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3217574629539315714-90-1709065224 - Holdem no limit (200/800/1600) - 2024/02/27 20:20:24 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #8 is the button
+Seat 1: lyft89 (21694)
+Seat 2: bobmaurane (42566)
+Seat 4: aldebert91 (30351)
+Seat 5: daichi83 (23307)
+Seat 6: MoAwH (32707)
+Seat 7: DVE59 (27563)
+Seat 8: P1xel7 (48712)
+*** ANTE/BLINDS ***
+lyft89 posts ante 200
+bobmaurane posts ante 200
+aldebert91 posts ante 200
+daichi83 posts ante 200
+MoAwH posts ante 200
+DVE59 posts ante 200
+P1xel7 posts ante 200
+lyft89 posts small blind 800
+bobmaurane posts big blind 1600
+Dealt to P1xel7 [Jh 9s]
+*** PRE-FLOP *** 
+aldebert91 raises 2400 to 4000
+daichi83 calls 4000
+MoAwH folds
+DVE59 folds
+P1xel7 folds
+lyft89 folds
+bobmaurane calls 2400
+*** FLOP *** [Ts Kc 3c]
+bobmaurane checks
+aldebert91 bets 9230
+daichi83 calls 9230
+bobmaurane folds
+*** TURN *** [Ts Kc 3c][Ac]
+aldebert91 bets 16921 and is all-in
+daichi83 calls 9877 and is all-in
+*** RIVER *** [Ts Kc 3c Ac][8d]
+*** SHOW DOWN ***
+daichi83 shows [Kh 4s] (One pair : Kings)
+aldebert91 shows [3s 3h] (Trips of 3)
+aldebert91 collected 59458 from pot
+*** SUMMARY ***
+Total pot 59458 | No rake
+Board: [Ts Kc 3c Ac 8d]
+Seat 4: aldebert91 showed [3s 3h] and won 59458 with Trips of 3
+Seat 5: daichi83 showed [Kh 4s] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 13 - HandId: #3217574629539315714-91-1709065274 - Holdem no limit (200/800/1600) - 2024/02/27 20:21:14 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #1 is the button
+Seat 1: lyft89 (20694)
+Seat 2: bobmaurane (38366)
+Seat 4: aldebert91 (59458)
+Seat 6: MoAwH (32507)
+Seat 7: DVE59 (27363)
+Seat 8: P1xel7 (48512)
+*** ANTE/BLINDS ***
+bobmaurane posts ante 200
+aldebert91 posts ante 200
+lyft89 posts ante 200
+MoAwH posts ante 200
+DVE59 posts ante 200
+P1xel7 posts ante 200
+bobmaurane posts small blind 800
+aldebert91 posts big blind 1600
+Dealt to P1xel7 [Kd Ad]
+*** PRE-FLOP *** 
+MoAwH folds
+DVE59 raises 1600 to 3200
+P1xel7 raises 6400 to 9600
+lyft89 folds
+bobmaurane folds
+aldebert91 folds
+DVE59 calls 6400
+*** FLOP *** [2d 5h 6d]
+DVE59 bets 17563 and is all-in
+P1xel7 calls 17563
+*** TURN *** [2d 5h 6d][8c]
+*** RIVER *** [2d 5h 6d 8c][4c]
+*** SHOW DOWN ***
+DVE59 shows [Qd Td] (High card : Queen)
+P1xel7 shows [Kd Ad] (High card : Ace)
+P1xel7 collected 57926 from pot
+*** SUMMARY ***
+Total pot 57926 | No rake
+Board: [2d 5h 6d 8c 4c]
+Seat 7: DVE59 showed [Qd Td] and lost with High card : Queen
+Seat 8: P1xel7 showed [Kd Ad] and won 57926 with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3217574629539315714-92-1709065328 - Holdem no limit (250/1000/2000) - 2024/02/27 20:22:08 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #2 is the button
+Seat 1: lyft89 (20494)
+Seat 2: bobmaurane (37366)
+Seat 3: Gotrosilver (12730)
+Seat 4: aldebert91 (57658)
+Seat 5: T&H2 (63744)
+Seat 6: MoAwH (32307)
+Seat 8: P1xel7 (79075)
+*** ANTE/BLINDS ***
+aldebert91 posts ante 250
+T&H2 posts ante 250
+lyft89 posts ante 250
+bobmaurane posts ante 250
+MoAwH posts ante 250
+P1xel7 posts ante 250
+aldebert91 posts small blind 1000
+T&H2 posts big blind 2000
+Dealt to P1xel7 [4s 9d]
+*** PRE-FLOP *** 
+MoAwH folds
+P1xel7 folds
+lyft89 raises 2000 to 4000
+bobmaurane raises 33116 to 37116 and is all-in
+aldebert91 folds
+T&H2 folds
+lyft89 folds
+bobmaurane collected 45616 from pot
+*** SUMMARY ***
+Total pot 45616 | No rake
+Seat 2: bobmaurane (button) won 45616
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3217574629539315714-93-1709065351 - Holdem no limit (250/1000/2000) - 2024/02/27 20:22:31 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #4 is the button
+Seat 1: lyft89 (16244)
+Seat 2: bobmaurane (45616)
+Seat 3: Gotrosilver (12730)
+Seat 4: aldebert91 (56408)
+Seat 5: T&H2 (61494)
+Seat 6: MoAwH (32057)
+Seat 8: P1xel7 (78825)
+*** ANTE/BLINDS ***
+T&H2 posts ante 250
+MoAwH posts ante 250
+lyft89 posts ante 250
+bobmaurane posts ante 250
+Gotrosilver posts ante 250
+aldebert91 posts ante 250
+P1xel7 posts ante 250
+T&H2 posts small blind 1000
+MoAwH posts big blind 2000
+Dealt to P1xel7 [Kc 8c]
+*** PRE-FLOP *** 
+P1xel7 folds
+lyft89 folds
+bobmaurane folds
+Gotrosilver folds
+aldebert91 folds
+T&H2 folds
+MoAwH collected 4750 from pot
+*** SUMMARY ***
+Total pot 4750 | No rake
+Seat 6: MoAwH (big blind) won 4750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3217574629539315714-94-1709065367 - Holdem no limit (250/1000/2000) - 2024/02/27 20:22:47 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #5 is the button
+Seat 1: lyft89 (15994)
+Seat 2: bobmaurane (45366)
+Seat 3: Gotrosilver (12480)
+Seat 4: aldebert91 (56158)
+Seat 5: T&H2 (60244)
+Seat 6: MoAwH (34557)
+Seat 8: P1xel7 (78575)
+*** ANTE/BLINDS ***
+MoAwH posts ante 250
+P1xel7 posts ante 250
+lyft89 posts ante 250
+bobmaurane posts ante 250
+Gotrosilver posts ante 250
+aldebert91 posts ante 250
+T&H2 posts ante 250
+MoAwH posts small blind 1000
+P1xel7 posts big blind 2000
+Dealt to P1xel7 [9h 6s]
+*** PRE-FLOP *** 
+lyft89 folds
+bobmaurane folds
+Gotrosilver raises 10230 to 12230 and is all-in
+aldebert91 folds
+T&H2 folds
+MoAwH folds
+P1xel7 folds
+Gotrosilver collected 16980 from pot
+*** SUMMARY ***
+Total pot 16980 | No rake
+Seat 3: Gotrosilver won 16980
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3217574629539315714-95-1709065409 - Holdem no limit (250/1000/2000) - 2024/02/27 20:23:29 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #6 is the button
+Seat 1: lyft89 (15744)
+Seat 2: bobmaurane (45116)
+Seat 3: Gotrosilver (16980)
+Seat 4: aldebert91 (55908)
+Seat 5: T&H2 (59994)
+Seat 6: MoAwH (33307)
+Seat 8: P1xel7 (76325)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 250
+lyft89 posts ante 250
+bobmaurane posts ante 250
+Gotrosilver posts ante 250
+aldebert91 posts ante 250
+T&H2 posts ante 250
+MoAwH posts ante 250
+P1xel7 posts small blind 1000
+lyft89 posts big blind 2000
+Dealt to P1xel7 [7s 8c]
+*** PRE-FLOP *** 
+bobmaurane calls 2000
+Gotrosilver raises 14730 to 16730 and is all-in
+aldebert91 folds
+T&H2 folds
+MoAwH folds
+P1xel7 folds
+lyft89 folds
+bobmaurane folds
+Gotrosilver collected 23480 from pot
+*** SUMMARY ***
+Total pot 23480 | No rake
+Seat 3: Gotrosilver won 23480
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3217574629539315714-96-1709065440 - Holdem no limit (250/1000/2000) - 2024/02/27 20:24:00 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #8 is the button
+Seat 1: lyft89 (13494)
+Seat 2: bobmaurane (42866)
+Seat 3: Gotrosilver (23480)
+Seat 4: aldebert91 (55658)
+Seat 5: T&H2 (59744)
+Seat 6: MoAwH (33057)
+Seat 8: P1xel7 (75075)
+*** ANTE/BLINDS ***
+lyft89 posts ante 250
+bobmaurane posts ante 250
+Gotrosilver posts ante 250
+aldebert91 posts ante 250
+T&H2 posts ante 250
+MoAwH posts ante 250
+P1xel7 posts ante 250
+lyft89 posts small blind 1000
+bobmaurane posts big blind 2000
+Dealt to P1xel7 [8d Jc]
+*** PRE-FLOP *** 
+Gotrosilver folds
+aldebert91 raises 2000 to 4000
+T&H2 folds
+MoAwH folds
+P1xel7 folds
+lyft89 folds
+bobmaurane folds
+aldebert91 collected 8750 from pot
+*** SUMMARY ***
+Total pot 8750 | No rake
+Seat 4: aldebert91 won 8750
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3217574629539315714-97-1709065461 - Holdem no limit (250/1000/2000) - 2024/02/27 20:24:21 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #1 is the button
+Seat 1: lyft89 (12244)
+Seat 2: bobmaurane (40616)
+Seat 3: Gotrosilver (23230)
+Seat 4: aldebert91 (60158)
+Seat 5: T&H2 (59494)
+Seat 6: MoAwH (32807)
+Seat 8: P1xel7 (74825)
+*** ANTE/BLINDS ***
+bobmaurane posts ante 250
+Gotrosilver posts ante 250
+lyft89 posts ante 250
+aldebert91 posts ante 250
+T&H2 posts ante 250
+MoAwH posts ante 250
+P1xel7 posts ante 250
+bobmaurane posts small blind 1000
+Gotrosilver posts big blind 2000
+Dealt to P1xel7 [Kh Td]
+*** PRE-FLOP *** 
+aldebert91 calls 2000
+T&H2 raises 2000 to 4000
+MoAwH folds
+P1xel7 calls 4000
+lyft89 folds
+bobmaurane calls 3000
+Gotrosilver raises 18980 to 22980 and is all-in
+aldebert91 folds
+T&H2 folds
+P1xel7 folds
+bobmaurane folds
+Gotrosilver collected 38730 from pot
+*** SUMMARY ***
+Total pot 38730 | No rake
+Seat 3: Gotrosilver (big blind) won 38730
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3217574629539315714-98-1709065531 - Holdem no limit (250/1000/2000) - 2024/02/27 20:25:31 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #2 is the button
+Seat 1: lyft89 (11994)
+Seat 2: bobmaurane (36366)
+Seat 3: Gotrosilver (38730)
+Seat 4: aldebert91 (57908)
+Seat 5: T&H2 (55244)
+Seat 6: MoAwH (32557)
+Seat 8: P1xel7 (70575)
+*** ANTE/BLINDS ***
+Gotrosilver posts ante 250
+aldebert91 posts ante 250
+lyft89 posts ante 250
+bobmaurane posts ante 250
+T&H2 posts ante 250
+MoAwH posts ante 250
+P1xel7 posts ante 250
+Gotrosilver posts small blind 1000
+aldebert91 posts big blind 2000
+Dealt to P1xel7 [4h 3h]
+*** PRE-FLOP *** 
+T&H2 folds
+MoAwH raises 30307 to 32307 and is all-in
+P1xel7 folds
+lyft89 folds
+bobmaurane folds
+Gotrosilver folds
+aldebert91 folds
+MoAwH collected 37057 from pot
+*** SUMMARY ***
+Total pot 37057 | No rake
+Seat 6: MoAwH won 37057
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3217574629539315714-99-1709065578 - Holdem no limit (250/1000/2000) - 2024/02/27 20:26:18 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #3 is the button
+Seat 1: lyft89 (11744)
+Seat 2: bobmaurane (36116)
+Seat 3: Gotrosilver (37480)
+Seat 4: aldebert91 (55658)
+Seat 5: T&H2 (54994)
+Seat 6: MoAwH (37057)
+Seat 8: P1xel7 (70325)
+*** ANTE/BLINDS ***
+aldebert91 posts ante 250
+T&H2 posts ante 250
+lyft89 posts ante 250
+bobmaurane posts ante 250
+Gotrosilver posts ante 250
+MoAwH posts ante 250
+P1xel7 posts ante 250
+aldebert91 posts small blind 1000
+T&H2 posts big blind 2000
+Dealt to P1xel7 [3d Ad]
+*** PRE-FLOP *** 
+MoAwH folds
+P1xel7 folds
+lyft89 folds
+bobmaurane raises 33866 to 35866 and is all-in
+Gotrosilver folds
+aldebert91 folds
+T&H2 folds
+bobmaurane collected 40616 from pot
+*** SUMMARY ***
+Total pot 40616 | No rake
+Seat 2: bobmaurane won 40616
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 14 - HandId: #3217574629539315714-100-1709065600 - Holdem no limit (250/1000/2000) - 2024/02/27 20:26:40 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #4 is the button
+Seat 1: lyft89 (11494)
+Seat 2: bobmaurane (40616)
+Seat 3: Gotrosilver (37230)
+Seat 4: aldebert91 (54408)
+Seat 5: T&H2 (52744)
+Seat 6: MoAwH (36807)
+Seat 8: P1xel7 (70075)
+*** ANTE/BLINDS ***
+T&H2 posts ante 250
+MoAwH posts ante 250
+lyft89 posts ante 250
+bobmaurane posts ante 250
+Gotrosilver posts ante 250
+aldebert91 posts ante 250
+P1xel7 posts ante 250
+T&H2 posts small blind 1000
+MoAwH posts big blind 2000
+Dealt to P1xel7 [7c 9h]
+*** PRE-FLOP *** 
+P1xel7 folds
+lyft89 folds
+bobmaurane folds
+Gotrosilver raises 2200 to 4200
+aldebert91 folds
+T&H2 folds
+MoAwH calls 2200
+*** FLOP *** [Jc Th 9d]
+MoAwH checks
+Gotrosilver checks
+*** TURN *** [Jc Th 9d][8s]
+MoAwH checks
+Gotrosilver bets 3903
+MoAwH folds
+Gotrosilver collected 15053 from pot
+*** SUMMARY ***
+Total pot 15053 | No rake
+Board: [Jc Th 9d 8s]
+Seat 3: Gotrosilver won 15053
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3217574629539315714-101-1709065666 - Holdem no limit (300/1250/2500) - 2024/02/27 20:27:46 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #5 is the button
+Seat 1: lyft89 (11244)
+Seat 2: bobmaurane (40366)
+Seat 3: Gotrosilver (43930)
+Seat 4: aldebert91 (54158)
+Seat 5: T&H2 (51494)
+Seat 6: MoAwH (32357)
+Seat 7: Forzouille57 (36140)
+Seat 8: P1xel7 (69825)
+*** ANTE/BLINDS ***
+MoAwH posts ante 300
+Forzouille57 posts ante 300
+lyft89 posts ante 300
+bobmaurane posts ante 300
+Gotrosilver posts ante 300
+aldebert91 posts ante 300
+T&H2 posts ante 300
+P1xel7 posts ante 300
+MoAwH posts small blind 1250
+Forzouille57 posts big blind 2500
+Dealt to P1xel7 [8c 7d]
+*** PRE-FLOP *** 
+P1xel7 folds
+lyft89 calls 2500
+bobmaurane folds
+Gotrosilver folds
+aldebert91 folds
+T&H2 folds
+MoAwH raises 29557 to 32057 and is all-in
+Forzouille57 folds
+lyft89 calls 8444 and is all-in
+*** FLOP *** [7h 8d 9d]
+*** TURN *** [7h 8d 9d][Qs]
+*** RIVER *** [7h 8d 9d Qs][3s]
+*** SHOW DOWN ***
+lyft89 shows [Qh Qd] (Trips of Queens)
+MoAwH shows [Ac Ks] (High card : Ace)
+MoAwH collected 21113 from side pot 1
+lyft89 collected 26788 from main pot
+*** SUMMARY ***
+Total pot 47901 | No rake
+Board: [7h 8d 9d Qs 3s]
+Seat 1: lyft89 showed [Qh Qd] and won 26788 with Trips of Queens
+Seat 6: MoAwH (small blind) showed [Ac Ks] and won 21113 with High card : Ace
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3217574629539315714-102-1709065704 - Holdem no limit (300/1250/2500) - 2024/02/27 20:28:24 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #6 is the button
+Seat 1: lyft89 (26788)
+Seat 2: bobmaurane (40066)
+Seat 3: Gotrosilver (43630)
+Seat 4: aldebert91 (53858)
+Seat 5: T&H2 (51194)
+Seat 6: MoAwH (21113)
+Seat 7: Forzouille57 (33340)
+Seat 8: P1xel7 (69525)
+*** ANTE/BLINDS ***
+Forzouille57 posts ante 300
+P1xel7 posts ante 300
+lyft89 posts ante 300
+bobmaurane posts ante 300
+Gotrosilver posts ante 300
+aldebert91 posts ante 300
+T&H2 posts ante 300
+MoAwH posts ante 300
+Forzouille57 posts small blind 1250
+P1xel7 posts big blind 2500
+Dealt to P1xel7 [5s Jh]
+*** PRE-FLOP *** 
+lyft89 folds
+bobmaurane folds
+Gotrosilver folds
+aldebert91 calls 2500
+T&H2 folds
+MoAwH raises 18313 to 20813 and is all-in
+Forzouille57 folds
+P1xel7 folds
+aldebert91 folds
+MoAwH collected 29463 from pot
+*** SUMMARY ***
+Total pot 29463 | No rake
+Seat 6: MoAwH (button) won 29463
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3217574629539315714-103-1709065722 - Holdem no limit (300/1250/2500) - 2024/02/27 20:28:42 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #7 is the button
+Seat 1: lyft89 (26488)
+Seat 2: bobmaurane (39766)
+Seat 3: Gotrosilver (43330)
+Seat 4: aldebert91 (51058)
+Seat 5: T&H2 (50894)
+Seat 6: MoAwH (29463)
+Seat 7: Forzouille57 (31790)
+Seat 8: P1xel7 (66725)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 300
+lyft89 posts ante 300
+bobmaurane posts ante 300
+Gotrosilver posts ante 300
+aldebert91 posts ante 300
+T&H2 posts ante 300
+MoAwH posts ante 300
+Forzouille57 posts ante 300
+P1xel7 posts small blind 1250
+lyft89 posts big blind 2500
+Dealt to P1xel7 [5s 5h]
+*** PRE-FLOP *** 
+bobmaurane folds
+Gotrosilver folds
+aldebert91 raises 2500 to 5000
+T&H2 folds
+MoAwH folds
+Forzouille57 folds
+P1xel7 raises 61425 to 66425 and is all-in
+lyft89 folds
+aldebert91 calls 45758 and is all-in
+*** FLOP *** [2h 6d Td]
+*** TURN *** [2h 6d Td][Kd]
+*** RIVER *** [2h 6d Td Kd][6s]
+*** SHOW DOWN ***
+aldebert91 shows [As Ac] (Two pairs : Aces and 6)
+P1xel7 shows [5s 5h] (Two pairs : 6 and 5)
+P1xel7 collected 15667 from side pot 1
+aldebert91 collected 106416 from main pot
+*** SUMMARY ***
+Total pot 122083 | No rake
+Board: [2h 6d Td Kd 6s]
+Seat 4: aldebert91 showed [As Ac] and won 106416 with Two pairs : Aces and 6
+Seat 8: P1xel7 (small blind) showed [5s 5h] and won 15667 with Two pairs : 6 and 5
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3217574629539315714-104-1709065765 - Holdem no limit (300/1250/2500) - 2024/02/27 20:29:25 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #8 is the button
+Seat 1: lyft89 (23688)
+Seat 2: bobmaurane (39466)
+Seat 3: Gotrosilver (43030)
+Seat 4: aldebert91 (106416)
+Seat 5: T&H2 (50594)
+Seat 6: MoAwH (29163)
+Seat 7: Forzouille57 (31490)
+Seat 8: P1xel7 (15667)
+*** ANTE/BLINDS ***
+lyft89 posts ante 300
+bobmaurane posts ante 300
+Gotrosilver posts ante 300
+aldebert91 posts ante 300
+T&H2 posts ante 300
+MoAwH posts ante 300
+Forzouille57 posts ante 300
+P1xel7 posts ante 300
+lyft89 posts small blind 1250
+bobmaurane posts big blind 2500
+Dealt to P1xel7 [Ts 3h]
+*** PRE-FLOP *** 
+Gotrosilver folds
+aldebert91 calls 2500
+T&H2 raises 2500 to 5000
+MoAwH folds
+Forzouille57 folds
+P1xel7 folds
+lyft89 folds
+bobmaurane calls 2500
+aldebert91 calls 2500
+*** FLOP *** [9h 7c 6c]
+bobmaurane checks
+aldebert91 checks
+T&H2 checks
+*** TURN *** [9h 7c 6c][Jh]
+bobmaurane checks
+aldebert91 bets 2500
+T&H2 raises 8483 to 10983
+bobmaurane folds
+aldebert91 folds
+T&H2 collected 32133 from pot
+*** SUMMARY ***
+Total pot 32133 | No rake
+Board: [9h 7c 6c Jh]
+Seat 5: T&H2 won 32133
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3217574629539315714-105-1709065815 - Holdem no limit (300/1250/2500) - 2024/02/27 20:30:15 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #1 is the button
+Seat 1: lyft89 (22138)
+Seat 2: bobmaurane (34166)
+Seat 3: Gotrosilver (42730)
+Seat 4: aldebert91 (98616)
+Seat 5: T&H2 (66444)
+Seat 6: MoAwH (28863)
+Seat 7: Forzouille57 (31190)
+Seat 8: P1xel7 (15367)
+*** ANTE/BLINDS ***
+bobmaurane posts ante 300
+Gotrosilver posts ante 300
+lyft89 posts ante 300
+aldebert91 posts ante 300
+T&H2 posts ante 300
+MoAwH posts ante 300
+Forzouille57 posts ante 300
+P1xel7 posts ante 300
+bobmaurane posts small blind 1250
+Gotrosilver posts big blind 2500
+Dealt to P1xel7 [9c Ac]
+*** PRE-FLOP *** 
+aldebert91 raises 2500 to 5000
+T&H2 folds
+MoAwH folds
+Forzouille57 folds
+P1xel7 raises 10067 to 15067 and is all-in
+lyft89 folds
+bobmaurane folds
+Gotrosilver folds
+aldebert91 calls 10067
+*** FLOP *** [3h Jh Kh]
+*** TURN *** [3h Jh Kh][Qh]
+*** RIVER *** [3h Jh Kh Qh][Tc]
+*** SHOW DOWN ***
+aldebert91 shows [Kd 5d] (One pair : Kings)
+P1xel7 shows [9c Ac] (Straight Ace high)
+P1xel7 collected 36284 from pot
+*** SUMMARY ***
+Total pot 36284 | No rake
+Board: [3h Jh Kh Qh Tc]
+Seat 4: aldebert91 showed [Kd 5d] and lost with One pair : Kings
+Seat 8: P1xel7 showed [9c Ac] and won 36284 with Straight Ace high
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3217574629539315714-106-1709065855 - Holdem no limit (300/1250/2500) - 2024/02/27 20:30:55 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #2 is the button
+Seat 1: lyft89 (21838)
+Seat 2: bobmaurane (32616)
+Seat 3: Gotrosilver (39930)
+Seat 4: aldebert91 (83249)
+Seat 5: T&H2 (66144)
+Seat 6: MoAwH (28563)
+Seat 7: Forzouille57 (30890)
+Seat 8: P1xel7 (36284)
+*** ANTE/BLINDS ***
+Gotrosilver posts ante 300
+aldebert91 posts ante 300
+lyft89 posts ante 300
+bobmaurane posts ante 300
+T&H2 posts ante 300
+MoAwH posts ante 300
+Forzouille57 posts ante 300
+P1xel7 posts ante 300
+Gotrosilver posts small blind 1250
+aldebert91 posts big blind 2500
+Dealt to P1xel7 [Jh 2h]
+*** PRE-FLOP *** 
+T&H2 folds
+MoAwH folds
+Forzouille57 folds
+P1xel7 folds
+lyft89 folds
+bobmaurane folds
+Gotrosilver folds
+aldebert91 collected 6150 from pot
+*** SUMMARY ***
+Total pot 6150 | No rake
+Seat 4: aldebert91 (big blind) won 6150
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 15 - HandId: #3217574629539315714-107-1709065889 - Holdem no limit (300/1250/2500) - 2024/02/27 20:31:29 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #3 is the button
+Seat 1: lyft89 (21538)
+Seat 2: bobmaurane (32316)
+Seat 3: Gotrosilver (38380)
+Seat 4: aldebert91 (86599)
+Seat 5: T&H2 (65844)
+Seat 6: MoAwH (28263)
+Seat 7: Forzouille57 (30590)
+Seat 8: P1xel7 (35984)
+*** ANTE/BLINDS ***
+aldebert91 posts ante 300
+T&H2 posts ante 300
+lyft89 posts ante 300
+bobmaurane posts ante 300
+Gotrosilver posts ante 300
+MoAwH posts ante 300
+Forzouille57 posts ante 300
+P1xel7 posts ante 300
+aldebert91 posts small blind 1250
+T&H2 posts big blind 2500
+Dealt to P1xel7 [9h 7d]
+*** PRE-FLOP *** 
+MoAwH folds
+Forzouille57 raises 27790 to 30290 and is all-in
+P1xel7 folds
+lyft89 folds
+bobmaurane folds
+Gotrosilver folds
+aldebert91 folds
+T&H2 folds
+Forzouille57 collected 36440 from pot
+*** SUMMARY ***
+Total pot 36440 | No rake
+Seat 7: Forzouille57 won 36440
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3217574629539315714-108-1709065930 - Holdem no limit (350/1500/3000) - 2024/02/27 20:32:10 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #4 is the button
+Seat 1: lyft89 (21238)
+Seat 2: bobmaurane (32016)
+Seat 3: Gotrosilver (38080)
+Seat 4: aldebert91 (85049)
+Seat 5: T&H2 (63044)
+Seat 6: MoAwH (27963)
+Seat 8: P1xel7 (35684)
+*** ANTE/BLINDS ***
+T&H2 posts ante 350
+MoAwH posts ante 350
+lyft89 posts ante 350
+bobmaurane posts ante 350
+Gotrosilver posts ante 350
+aldebert91 posts ante 350
+P1xel7 posts ante 350
+T&H2 posts small blind 1500
+MoAwH posts big blind 3000
+Dealt to P1xel7 [5h 5s]
+*** PRE-FLOP *** 
+P1xel7 raises 32334 to 35334 and is all-in
+lyft89 folds
+bobmaurane calls 31666 and is all-in
+Gotrosilver folds
+aldebert91 folds
+T&H2 folds
+MoAwH folds
+*** FLOP *** [Tc Qc 2s]
+*** TURN *** [Tc Qc 2s][7c]
+*** RIVER *** [Tc Qc 2s 7c][7s]
+*** SHOW DOWN ***
+bobmaurane shows [Ah 8h] (One pair : 7)
+P1xel7 shows [5h 5s] (Two pairs : 7 and 5)
+P1xel7 collected 73950 from pot
+*** SUMMARY ***
+Total pot 73950 | No rake
+Board: [Tc Qc 2s 7c 7s]
+Seat 2: bobmaurane showed [Ah 8h] and lost with One pair : 7
+Seat 8: P1xel7 showed [5h 5s] and won 73950 with Two pairs : 7 and 5
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3217574629539315714-109-1709065969 - Holdem no limit (350/1500/3000) - 2024/02/27 20:32:49 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #5 is the button
+Seat 1: lyft89 (20888)
+Seat 3: Gotrosilver (37730)
+Seat 4: aldebert91 (84699)
+Seat 5: T&H2 (61194)
+Seat 6: MoAwH (24613)
+Seat 8: P1xel7 (73950)
+*** ANTE/BLINDS ***
+MoAwH posts ante 350
+P1xel7 posts ante 350
+lyft89 posts ante 350
+Gotrosilver posts ante 350
+aldebert91 posts ante 350
+T&H2 posts ante 350
+MoAwH posts small blind 1500
+P1xel7 posts big blind 3000
+Dealt to P1xel7 [Kd 9s]
+*** PRE-FLOP *** 
+lyft89 folds
+Gotrosilver folds
+aldebert91 folds
+T&H2 raises 3000 to 6000
+MoAwH folds
+P1xel7 calls 3000
+*** FLOP *** [8d 8s Td]
+P1xel7 checks
+T&H2 checks
+*** TURN *** [8d 8s Td][6d]
+P1xel7 checks
+T&H2 bets 6552
+P1xel7 folds
+T&H2 collected 22152 from pot
+*** SUMMARY ***
+Total pot 22152 | No rake
+Board: [8d 8s Td 6d]
+Seat 5: T&H2 (button) won 22152
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3217574629539315714-110-1709066010 - Holdem no limit (350/1500/3000) - 2024/02/27 20:33:30 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #6 is the button
+Seat 1: lyft89 (20538)
+Seat 3: Gotrosilver (37380)
+Seat 4: aldebert91 (84349)
+Seat 5: T&H2 (70444)
+Seat 6: MoAwH (22763)
+Seat 7: cynad42 (31889)
+Seat 8: P1xel7 (67600)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 350
+lyft89 posts ante 350
+Gotrosilver posts ante 350
+aldebert91 posts ante 350
+T&H2 posts ante 350
+MoAwH posts ante 350
+P1xel7 posts small blind 1500
+lyft89 posts big blind 3000
+Dealt to P1xel7 [Ts Kd]
+*** PRE-FLOP *** 
+Gotrosilver folds
+aldebert91 calls 3000
+T&H2 folds
+MoAwH raises 19413 to 22413 and is all-in
+P1xel7 folds
+lyft89 folds
+aldebert91 folds
+MoAwH collected 32013 from pot
+*** SUMMARY ***
+Total pot 32013 | No rake
+Seat 6: MoAwH (button) won 32013
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3217574629539315714-111-1709066039 - Holdem no limit (350/1500/3000) - 2024/02/27 20:33:59 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #8 is the button
+Seat 1: lyft89 (17188)
+Seat 3: Gotrosilver (37030)
+Seat 4: aldebert91 (80999)
+Seat 5: T&H2 (70094)
+Seat 6: MoAwH (32013)
+Seat 7: cynad42 (31889)
+Seat 8: P1xel7 (65750)
+*** ANTE/BLINDS ***
+lyft89 posts ante 350
+Gotrosilver posts ante 350
+aldebert91 posts ante 350
+T&H2 posts ante 350
+MoAwH posts ante 350
+cynad42 posts ante 350
+P1xel7 posts ante 350
+lyft89 posts small blind 1500
+Gotrosilver posts big blind 3000
+Dealt to P1xel7 [8h 4h]
+*** PRE-FLOP *** 
+aldebert91 raises 6000 to 9000
+T&H2 folds
+MoAwH folds
+cynad42 folds
+P1xel7 folds
+lyft89 folds
+Gotrosilver folds
+aldebert91 collected 15950 from pot
+*** SUMMARY ***
+Total pot 15950 | No rake
+Seat 4: aldebert91 won 15950
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3217574629539315714-112-1709066057 - Holdem no limit (350/1500/3000) - 2024/02/27 20:34:17 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #1 is the button
+Seat 1: lyft89 (15338)
+Seat 3: Gotrosilver (33680)
+Seat 4: aldebert91 (87599)
+Seat 5: T&H2 (69744)
+Seat 6: MoAwH (31663)
+Seat 7: cynad42 (31539)
+Seat 8: P1xel7 (65400)
+*** ANTE/BLINDS ***
+Gotrosilver posts ante 350
+aldebert91 posts ante 350
+lyft89 posts ante 350
+T&H2 posts ante 350
+MoAwH posts ante 350
+cynad42 posts ante 350
+P1xel7 posts ante 350
+Gotrosilver posts small blind 1500
+aldebert91 posts big blind 3000
+Dealt to P1xel7 [4d Qc]
+*** PRE-FLOP *** 
+T&H2 folds
+MoAwH raises 28313 to 31313 and is all-in
+cynad42 folds
+P1xel7 folds
+lyft89 folds
+Gotrosilver folds
+aldebert91 folds
+MoAwH collected 38263 from pot
+*** SUMMARY ***
+Total pot 38263 | No rake
+Seat 6: MoAwH won 38263
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3217574629539315714-113-1709066077 - Holdem no limit (350/1500/3000) - 2024/02/27 20:34:37 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #3 is the button
+Seat 1: lyft89 (14988)
+Seat 3: Gotrosilver (31830)
+Seat 4: aldebert91 (84249)
+Seat 5: T&H2 (69394)
+Seat 6: MoAwH (38263)
+Seat 7: cynad42 (31189)
+Seat 8: P1xel7 (65050)
+*** ANTE/BLINDS ***
+aldebert91 posts ante 350
+T&H2 posts ante 350
+lyft89 posts ante 350
+Gotrosilver posts ante 350
+MoAwH posts ante 350
+cynad42 posts ante 350
+P1xel7 posts ante 350
+aldebert91 posts small blind 1500
+T&H2 posts big blind 3000
+Dealt to P1xel7 [Qd Jh]
+*** PRE-FLOP *** 
+MoAwH folds
+cynad42 folds
+P1xel7 raises 3000 to 6000
+lyft89 folds
+Gotrosilver folds
+aldebert91 folds
+T&H2 calls 3000
+*** FLOP *** [3h 8c 7c]
+T&H2 checks
+P1xel7 bets 9000
+T&H2 folds
+P1xel7 collected 24950 from pot
+*** SUMMARY ***
+Total pot 24950 | No rake
+Board: [3h 8c 7c]
+Seat 8: P1xel7 won 24950
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3217574629539315714-114-1709066110 - Holdem no limit (350/1500/3000) - 2024/02/27 20:35:10 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #4 is the button
+Seat 1: lyft89 (14638)
+Seat 3: Gotrosilver (31480)
+Seat 4: aldebert91 (82399)
+Seat 5: T&H2 (63044)
+Seat 6: MoAwH (37913)
+Seat 7: cynad42 (30839)
+Seat 8: P1xel7 (74650)
+*** ANTE/BLINDS ***
+T&H2 posts ante 350
+MoAwH posts ante 350
+lyft89 posts ante 350
+Gotrosilver posts ante 350
+aldebert91 posts ante 350
+cynad42 posts ante 350
+P1xel7 posts ante 350
+T&H2 posts small blind 1500
+MoAwH posts big blind 3000
+Dealt to P1xel7 [4d 4s]
+*** PRE-FLOP *** 
+cynad42 folds
+P1xel7 raises 3600 to 6600
+lyft89 folds
+Gotrosilver folds
+aldebert91 calls 6600
+T&H2 calls 5100
+MoAwH folds
+*** FLOP *** [6s Ah Th]
+T&H2 checks
+P1xel7 checks
+aldebert91 bets 8838
+T&H2 calls 8838
+P1xel7 folds
+*** TURN *** [6s Ah Th][Kd]
+T&H2 checks
+aldebert91 checks
+*** RIVER *** [6s Ah Th Kd][Qc]
+T&H2 bets 15024
+aldebert91 raises 51587 to 66611 and is all-in
+T&H2 calls 32232 and is all-in
+*** SHOW DOWN ***
+T&H2 shows [Ac 6d] (Two pairs : Aces and 6)
+aldebert91 shows [Td Js] (Straight Ace high)
+aldebert91 collected 156793 from pot
+*** SUMMARY ***
+Total pot 156793 | No rake
+Board: [6s Ah Th Kd Qc]
+Seat 4: aldebert91 (button) showed [Td Js] and won 156793 with Straight Ace high
+Seat 5: T&H2 (small blind) showed [Ac 6d] and lost with Two pairs : Aces and 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 16 - HandId: #3217574629539315714-115-1709066198 - Holdem no limit (350/1500/3000) - 2024/02/27 20:36:38 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #5 is the button
+Seat 1: lyft89 (14288)
+Seat 3: Gotrosilver (31130)
+Seat 4: aldebert91 (156793)
+Seat 6: MoAwH (34563)
+Seat 7: cynad42 (30489)
+Seat 8: P1xel7 (67700)
+*** ANTE/BLINDS ***
+MoAwH posts ante 350
+cynad42 posts ante 350
+lyft89 posts ante 350
+Gotrosilver posts ante 350
+aldebert91 posts ante 350
+P1xel7 posts ante 350
+MoAwH posts small blind 1500
+cynad42 posts big blind 3000
+Dealt to P1xel7 [2d 7c]
+*** PRE-FLOP *** 
+P1xel7 folds
+lyft89 folds
+Gotrosilver folds
+aldebert91 raises 6000 to 9000
+MoAwH raises 25213 to 34213 and is all-in
+cynad42 folds
+aldebert91 calls 25213
+*** FLOP *** [8h 9s 8c]
+*** TURN *** [8h 9s 8c][3s]
+*** RIVER *** [8h 9s 8c 3s][4d]
+*** SHOW DOWN ***
+aldebert91 shows [Qc Qd] (Two pairs : Queens and 8)
+MoAwH shows [Ac As] (Two pairs : Aces and 8)
+MoAwH collected 73526 from pot
+*** SUMMARY ***
+Total pot 73526 | No rake
+Board: [8h 9s 8c 3s 4d]
+Seat 4: aldebert91 showed [Qc Qd] and lost with Two pairs : Queens and 8
+Seat 6: MoAwH (small blind) showed [Ac As] and won 73526 with Two pairs : Aces and 8
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3217574629539315714-116-1709066263 - Holdem no limit (400/1750/3500) - 2024/02/27 20:37:43 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #6 is the button
+Seat 1: lyft89 (13938)
+Seat 3: Gotrosilver (30780)
+Seat 4: aldebert91 (122230)
+Seat 6: MoAwH (73526)
+Seat 7: cynad42 (27139)
+Seat 8: P1xel7 (67350)
+*** ANTE/BLINDS ***
+cynad42 posts ante 400
+P1xel7 posts ante 400
+lyft89 posts ante 400
+Gotrosilver posts ante 400
+aldebert91 posts ante 400
+MoAwH posts ante 400
+cynad42 posts small blind 1750
+P1xel7 posts big blind 3500
+Dealt to P1xel7 [8h 7h]
+*** PRE-FLOP *** 
+lyft89 folds
+Gotrosilver folds
+aldebert91 folds
+MoAwH folds
+cynad42 folds
+P1xel7 collected 7650 from pot
+*** SUMMARY ***
+Total pot 7650 | No rake
+Seat 8: P1xel7 (big blind) won 7650
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3217574629539315714-117-1709066278 - Holdem no limit (400/1750/3500) - 2024/02/27 20:37:58 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #7 is the button
+Seat 1: lyft89 (13538)
+Seat 3: Gotrosilver (30380)
+Seat 4: aldebert91 (121830)
+Seat 6: MoAwH (73126)
+Seat 7: cynad42 (24989)
+Seat 8: P1xel7 (71100)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 400
+lyft89 posts ante 400
+Gotrosilver posts ante 400
+aldebert91 posts ante 400
+MoAwH posts ante 400
+cynad42 posts ante 400
+P1xel7 posts small blind 1750
+lyft89 posts big blind 3500
+Dealt to P1xel7 [Js 5s]
+*** PRE-FLOP *** 
+Gotrosilver raises 26480 to 29980 and is all-in
+aldebert91 folds
+MoAwH folds
+cynad42 folds
+P1xel7 folds
+lyft89 folds
+Gotrosilver collected 37630 from pot
+*** SUMMARY ***
+Total pot 37630 | No rake
+Seat 3: Gotrosilver won 37630
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3217574629539315714-118-1709066312 - Holdem no limit (400/1750/3500) - 2024/02/27 20:38:32 UTC
+Table: 'Hold'em(749149972)#001' 8-max (real money) Seat #8 is the button
+Seat 1: lyft89 (9638)
+Seat 3: Gotrosilver (37630)
+Seat 4: aldebert91 (121430)
+Seat 6: MoAwH (72726)
+Seat 7: cynad42 (24589)
+Seat 8: P1xel7 (68950)
+*** ANTE/BLINDS ***
+lyft89 posts ante 400
+Gotrosilver posts ante 400
+aldebert91 posts ante 400
+MoAwH posts ante 400
+cynad42 posts ante 400
+P1xel7 posts ante 400
+lyft89 posts small blind 1750
+Gotrosilver posts big blind 3500
+Dealt to P1xel7 [2d 9c]
+*** PRE-FLOP *** 
+aldebert91 calls 3500
+MoAwH folds
+cynad42 folds
+P1xel7 folds
+lyft89 folds
+Gotrosilver checks
+*** FLOP *** [3h 6h Qd]
+Gotrosilver checks
+aldebert91 bets 3500
+Gotrosilver folds
+aldebert91 collected 14650 from pot
+*** SUMMARY ***
+Total pot 14650 | No rake
+Board: [3h 6h Qd]
+Seat 4: aldebert91 won 14650
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3217574629539315713-107-1709066365 - Holdem no limit (400/1750/3500) - 2024/02/27 20:39:25 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #8 is the button
+Seat 1: JEFFCLEM80 (69012)
+Seat 2: MF_ninety (120530)
+Seat 3: Turn_The_Nut (41464)
+Seat 4: aldebert91 (128680)
+Seat 5: foquejegagne (123558)
+Seat 6: lyft89 (7488)
+Seat 7: MoAwH (72326)
+Seat 8: P1xel7 (68550)
+*** ANTE/BLINDS ***
+JEFFCLEM80 posts ante 400
+MF_ninety posts ante 400
+Turn_The_Nut posts ante 400
+aldebert91 posts ante 400
+foquejegagne posts ante 400
+lyft89 posts ante 400
+MoAwH posts ante 400
+P1xel7 posts ante 400
+JEFFCLEM80 posts small blind 1750
+MF_ninety posts big blind 3500
+Dealt to P1xel7 [9d Jh]
+*** PRE-FLOP *** 
+Turn_The_Nut folds
+aldebert91 calls 3500
+foquejegagne folds
+lyft89 folds
+MoAwH folds
+P1xel7 folds
+JEFFCLEM80 calls 1750
+MF_ninety checks
+*** FLOP *** [7h 2s Qh]
+JEFFCLEM80 checks
+MF_ninety bets 8905
+aldebert91 folds
+JEFFCLEM80 folds
+MF_ninety collected 22605 from pot
+*** SUMMARY ***
+Total pot 22605 | No rake
+Board: [7h 2s Qh]
+Seat 2: MF_ninety (big blind) won 22605
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3217574629539315713-108-1709066425 - Holdem no limit (400/1750/3500) - 2024/02/27 20:40:25 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #1 is the button
+Seat 1: JEFFCLEM80 (65112)
+Seat 2: MF_ninety (130330)
+Seat 3: Turn_The_Nut (41064)
+Seat 4: aldebert91 (124780)
+Seat 5: foquejegagne (123158)
+Seat 6: lyft89 (7088)
+Seat 7: MoAwH (71926)
+Seat 8: P1xel7 (68150)
+*** ANTE/BLINDS ***
+MF_ninety posts ante 400
+Turn_The_Nut posts ante 400
+JEFFCLEM80 posts ante 400
+aldebert91 posts ante 400
+foquejegagne posts ante 400
+lyft89 posts ante 400
+MoAwH posts ante 400
+P1xel7 posts ante 400
+MF_ninety posts small blind 1750
+Turn_The_Nut posts big blind 3500
+Dealt to P1xel7 [5c 4h]
+*** PRE-FLOP *** 
+aldebert91 calls 3500
+foquejegagne folds
+lyft89 folds
+MoAwH folds
+P1xel7 folds
+JEFFCLEM80 folds
+MF_ninety calls 1750
+Turn_The_Nut checks
+*** FLOP *** [2s Qh Ah]
+MF_ninety checks
+Turn_The_Nut checks
+aldebert91 bets 8905
+MF_ninety folds
+Turn_The_Nut folds
+aldebert91 collected 22605 from pot
+*** SUMMARY ***
+Total pot 22605 | No rake
+Board: [2s Qh Ah]
+Seat 4: aldebert91 won 22605
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 17 - HandId: #3217574629539315713-109-1709066481 - Holdem no limit (400/1750/3500) - 2024/02/27 20:41:21 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #2 is the button
+Seat 1: JEFFCLEM80 (64712)
+Seat 2: MF_ninety (126430)
+Seat 3: Turn_The_Nut (37164)
+Seat 4: aldebert91 (134580)
+Seat 5: foquejegagne (122758)
+Seat 6: lyft89 (6688)
+Seat 7: MoAwH (71526)
+Seat 8: P1xel7 (67750)
+*** ANTE/BLINDS ***
+Turn_The_Nut posts ante 400
+aldebert91 posts ante 400
+JEFFCLEM80 posts ante 400
+MF_ninety posts ante 400
+foquejegagne posts ante 400
+lyft89 posts ante 400
+MoAwH posts ante 400
+P1xel7 posts ante 400
+Turn_The_Nut posts small blind 1750
+aldebert91 posts big blind 3500
+Dealt to P1xel7 [3s 4c]
+*** PRE-FLOP *** 
+foquejegagne folds
+lyft89 folds
+MoAwH folds
+P1xel7 folds
+JEFFCLEM80 folds
+MF_ninety raises 5250 to 8750
+Turn_The_Nut folds
+aldebert91 calls 5250
+*** FLOP *** [5d 7c 2s]
+aldebert91 checks
+MF_ninety checks
+*** TURN *** [5d 7c 2s][2c]
+aldebert91 bets 7857
+MF_ninety folds
+aldebert91 collected 30307 from pot
+*** SUMMARY ***
+Total pot 30307 | No rake
+Board: [5d 7c 2s 2c]
+Seat 4: aldebert91 (big blind) won 30307
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3217574629539315713-110-1709066534 - Holdem no limit (500/2000/4000) - 2024/02/27 20:42:14 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #3 is the button
+Seat 1: JEFFCLEM80 (64312)
+Seat 2: MF_ninety (117280)
+Seat 3: Turn_The_Nut (35014)
+Seat 4: aldebert91 (147880)
+Seat 5: foquejegagne (122358)
+Seat 6: lyft89 (6288)
+Seat 7: MoAwH (71126)
+Seat 8: P1xel7 (67350)
+*** ANTE/BLINDS ***
+aldebert91 posts ante 500
+foquejegagne posts ante 500
+JEFFCLEM80 posts ante 500
+MF_ninety posts ante 500
+Turn_The_Nut posts ante 500
+lyft89 posts ante 500
+MoAwH posts ante 500
+P1xel7 posts ante 500
+aldebert91 posts small blind 2000
+foquejegagne posts big blind 4000
+Dealt to P1xel7 [As 3c]
+*** PRE-FLOP *** 
+lyft89 folds
+MoAwH folds
+P1xel7 folds
+JEFFCLEM80 folds
+MF_ninety calls 4000
+Turn_The_Nut folds
+aldebert91 calls 2000
+foquejegagne checks
+*** FLOP *** [Qd 6s Td]
+aldebert91 checks
+foquejegagne checks
+MF_ninety checks
+*** TURN *** [Qd 6s Td][9s]
+aldebert91 bets 4000
+foquejegagne calls 4000
+MF_ninety folds
+*** RIVER *** [Qd 6s Td 9s][6c]
+aldebert91 checks
+foquejegagne checks
+*** SHOW DOWN ***
+aldebert91 shows [5h Jc] (One pair : 6)
+foquejegagne shows [8s Th] (Two pairs : Tens and 6)
+foquejegagne collected 24000 from pot
+*** SUMMARY ***
+Total pot 24000 | No rake
+Board: [Qd 6s Td 9s 6c]
+Seat 4: aldebert91 (small blind) showed [5h Jc] and lost with One pair : 6
+Seat 5: foquejegagne (big blind) showed [8s Th] and won 24000 with Two pairs : Tens and 6
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3217574629539315713-111-1709066603 - Holdem no limit (500/2000/4000) - 2024/02/27 20:43:23 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #4 is the button
+Seat 1: JEFFCLEM80 (63812)
+Seat 2: MF_ninety (112780)
+Seat 3: Turn_The_Nut (34514)
+Seat 4: aldebert91 (139380)
+Seat 5: foquejegagne (137858)
+Seat 6: lyft89 (5788)
+Seat 7: MoAwH (70626)
+Seat 8: P1xel7 (66850)
+*** ANTE/BLINDS ***
+foquejegagne posts ante 500
+lyft89 posts ante 500
+JEFFCLEM80 posts ante 500
+MF_ninety posts ante 500
+Turn_The_Nut posts ante 500
+aldebert91 posts ante 500
+MoAwH posts ante 500
+P1xel7 posts ante 500
+foquejegagne posts small blind 2000
+lyft89 posts big blind 4000
+Dealt to P1xel7 [Qd 7h]
+*** PRE-FLOP *** 
+MoAwH folds
+P1xel7 folds
+JEFFCLEM80 calls 4000
+MF_ninety raises 5000 to 9000
+Turn_The_Nut folds
+aldebert91 calls 9000
+foquejegagne folds
+lyft89 calls 1288 and is all-in
+JEFFCLEM80 calls 5000
+*** FLOP *** [Ah 4c 3h]
+JEFFCLEM80 checks
+MF_ninety checks
+aldebert91 checks
+*** TURN *** [Ah 4c 3h][9c]
+JEFFCLEM80 checks
+MF_ninety checks
+aldebert91 checks
+*** RIVER *** [Ah 4c 3h 9c][8c]
+JEFFCLEM80 bets 24887
+MF_ninety folds
+aldebert91 folds
+*** SHOW DOWN ***
+lyft89 shows [3s Ac] (Two pairs : Aces and 3)
+JEFFCLEM80 shows [8d As] (Two pairs : Aces and 8)
+JEFFCLEM80 collected 63175 from pot
+*** SUMMARY ***
+Total pot 63175 | No rake
+Board: [Ah 4c 3h 9c 8c]
+Seat 1: JEFFCLEM80 showed [8d As] and won 63175 with Two pairs : Aces and 8
+Seat 6: lyft89 (big blind) showed [3s Ac] and lost with Two pairs : Aces and 3
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3217574629539315713-112-1709066692 - Holdem no limit (500/2000/4000) - 2024/02/27 20:44:52 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #5 is the button
+Seat 1: JEFFCLEM80 (92600)
+Seat 2: MF_ninety (103280)
+Seat 3: Turn_The_Nut (34014)
+Seat 4: aldebert91 (129880)
+Seat 5: foquejegagne (135358)
+Seat 7: MoAwH (70126)
+Seat 8: P1xel7 (66350)
+*** ANTE/BLINDS ***
+MoAwH posts ante 500
+JEFFCLEM80 posts ante 500
+MF_ninety posts ante 500
+Turn_The_Nut posts ante 500
+aldebert91 posts ante 500
+foquejegagne posts ante 500
+P1xel7 posts ante 500
+MoAwH posts big blind 4000
+Dealt to P1xel7 [8c 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+JEFFCLEM80 folds
+MF_ninety folds
+Turn_The_Nut folds
+aldebert91 folds
+foquejegagne folds
+MoAwH collected 7500 from pot
+*** SUMMARY ***
+Total pot 7500 | No rake
+Seat 7: MoAwH (big blind) won 7500
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3217574629539315713-113-1709066725 - Holdem no limit (500/2000/4000) - 2024/02/27 20:45:25 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #6 is the button
+Seat 1: JEFFCLEM80 (92100)
+Seat 2: MF_ninety (102780)
+Seat 3: Turn_The_Nut (33514)
+Seat 4: aldebert91 (129380)
+Seat 5: foquejegagne (134858)
+Seat 7: MoAwH (73126)
+Seat 8: P1xel7 (65850)
+*** ANTE/BLINDS ***
+MoAwH posts ante 500
+P1xel7 posts ante 500
+JEFFCLEM80 posts ante 500
+MF_ninety posts ante 500
+Turn_The_Nut posts ante 500
+aldebert91 posts ante 500
+foquejegagne posts ante 500
+MoAwH posts small blind 2000
+P1xel7 posts big blind 4000
+Dealt to P1xel7 [8c Qd]
+*** PRE-FLOP *** 
+JEFFCLEM80 folds
+MF_ninety folds
+Turn_The_Nut raises 18000 to 22000
+aldebert91 calls 22000
+foquejegagne folds
+MoAwH folds
+P1xel7 folds
+*** FLOP *** [5d 4c 4s]
+Turn_The_Nut bets 11014 and is all-in
+aldebert91 calls 11014
+*** TURN *** [5d 4c 4s][Td]
+*** RIVER *** [5d 4c 4s Td][6d]
+*** SHOW DOWN ***
+Turn_The_Nut shows [7s Ah] (One pair : 4)
+aldebert91 shows [Qs Ad] (One pair : 4)
+aldebert91 collected 75528 from pot
+*** SUMMARY ***
+Total pot 75528 | No rake
+Board: [5d 4c 4s Td 6d]
+Seat 3: Turn_The_Nut showed [7s Ah] and lost with One pair : 4
+Seat 4: aldebert91 showed [Qs Ad] and won 75528 with One pair : 4
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3217574629539315713-114-1709066765 - Holdem no limit (500/2000/4000) - 2024/02/27 20:46:05 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #7 is the button
+Seat 1: JEFFCLEM80 (91600)
+Seat 2: MF_ninety (102280)
+Seat 4: aldebert91 (171394)
+Seat 5: foquejegagne (134358)
+Seat 7: MoAwH (70626)
+Seat 8: P1xel7 (61350)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 500
+JEFFCLEM80 posts ante 500
+MF_ninety posts ante 500
+aldebert91 posts ante 500
+foquejegagne posts ante 500
+MoAwH posts ante 500
+P1xel7 posts small blind 2000
+JEFFCLEM80 posts big blind 4000
+Dealt to P1xel7 [3c 2s]
+*** PRE-FLOP *** 
+MF_ninety folds
+aldebert91 folds
+foquejegagne folds
+MoAwH folds
+P1xel7 folds
+JEFFCLEM80 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | No rake
+Seat 1: JEFFCLEM80 (big blind) won 9000
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 18 - HandId: #3217574629539315713-115-1709066786 - Holdem no limit (500/2000/4000) - 2024/02/27 20:46:26 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #8 is the button
+Seat 1: JEFFCLEM80 (96100)
+Seat 2: MF_ninety (101780)
+Seat 4: aldebert91 (170894)
+Seat 5: foquejegagne (133858)
+Seat 7: MoAwH (70126)
+Seat 8: P1xel7 (58850)
+*** ANTE/BLINDS ***
+JEFFCLEM80 posts ante 500
+MF_ninety posts ante 500
+aldebert91 posts ante 500
+foquejegagne posts ante 500
+MoAwH posts ante 500
+P1xel7 posts ante 500
+JEFFCLEM80 posts small blind 2000
+MF_ninety posts big blind 4000
+Dealt to P1xel7 [Kd 2h]
+*** PRE-FLOP *** 
+aldebert91 folds
+foquejegagne folds
+MoAwH folds
+P1xel7 folds
+JEFFCLEM80 calls 2000
+MF_ninety checks
+*** FLOP *** [6s Ts 7s]
+JEFFCLEM80 checks
+MF_ninety checks
+*** TURN *** [6s Ts 7s][Th]
+JEFFCLEM80 checks
+MF_ninety checks
+*** RIVER *** [6s Ts 7s Th][Qd]
+JEFFCLEM80 checks
+MF_ninety checks
+*** SHOW DOWN ***
+JEFFCLEM80 shows [2c 5s] (One pair : Tens)
+MF_ninety shows [3c 2d] (One pair : Tens)
+MF_ninety collected 5500 from pot
+JEFFCLEM80 collected 5500 from pot
+*** SUMMARY ***
+Total pot 11000 | No rake
+Board: [6s Ts 7s Th Qd]
+Seat 1: JEFFCLEM80 (small blind) showed [2c 5s] and won 5500 with One pair : Tens
+Seat 2: MF_ninety (big blind) showed [3c 2d] and won 5500 with One pair : Tens
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3217574629539315713-116-1709066866 - Holdem no limit (600/2500/5000) - 2024/02/27 20:47:46 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #1 is the button
+Seat 1: JEFFCLEM80 (97100)
+Seat 2: MF_ninety (102780)
+Seat 4: aldebert91 (170394)
+Seat 5: foquejegagne (133358)
+Seat 7: MoAwH (69626)
+Seat 8: P1xel7 (58350)
+*** ANTE/BLINDS ***
+MF_ninety posts ante 600
+aldebert91 posts ante 600
+JEFFCLEM80 posts ante 600
+foquejegagne posts ante 600
+MoAwH posts ante 600
+P1xel7 posts ante 600
+MF_ninety posts small blind 2500
+aldebert91 posts big blind 5000
+Dealt to P1xel7 [Th 7s]
+*** PRE-FLOP *** 
+foquejegagne folds
+MoAwH raises 64026 to 69026 and is all-in
+P1xel7 folds
+JEFFCLEM80 folds
+MF_ninety folds
+aldebert91 folds
+MoAwH collected 80126 from pot
+*** SUMMARY ***
+Total pot 80126 | No rake
+Seat 7: MoAwH won 80126
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3217574629539315713-117-1709066902 - Holdem no limit (600/2500/5000) - 2024/02/27 20:48:22 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #2 is the button
+Seat 1: JEFFCLEM80 (96500)
+Seat 2: MF_ninety (99680)
+Seat 4: aldebert91 (164794)
+Seat 5: foquejegagne (132758)
+Seat 7: MoAwH (80126)
+Seat 8: P1xel7 (57750)
+*** ANTE/BLINDS ***
+aldebert91 posts ante 600
+foquejegagne posts ante 600
+JEFFCLEM80 posts ante 600
+MF_ninety posts ante 600
+MoAwH posts ante 600
+P1xel7 posts ante 600
+aldebert91 posts small blind 2500
+foquejegagne posts big blind 5000
+Dealt to P1xel7 [9c Th]
+*** PRE-FLOP *** 
+MoAwH folds
+P1xel7 folds
+JEFFCLEM80 calls 5000
+MF_ninety folds
+aldebert91 calls 2500
+foquejegagne checks
+*** FLOP *** [Ac 4h 7d]
+aldebert91 checks
+foquejegagne bets 6510
+JEFFCLEM80 folds
+aldebert91 folds
+foquejegagne collected 25110 from pot
+*** SUMMARY ***
+Total pot 25110 | No rake
+Board: [Ac 4h 7d]
+Seat 5: foquejegagne (big blind) won 25110
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3217574629539315713-118-1709066977 - Holdem no limit (600/2500/5000) - 2024/02/27 20:49:37 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #4 is the button
+Seat 1: JEFFCLEM80 (90900)
+Seat 2: MF_ninety (99080)
+Seat 4: aldebert91 (159194)
+Seat 5: foquejegagne (145758)
+Seat 7: MoAwH (79526)
+Seat 8: P1xel7 (57150)
+*** ANTE/BLINDS ***
+foquejegagne posts ante 600
+MoAwH posts ante 600
+JEFFCLEM80 posts ante 600
+MF_ninety posts ante 600
+aldebert91 posts ante 600
+P1xel7 posts ante 600
+foquejegagne posts small blind 2500
+MoAwH posts big blind 5000
+Dealt to P1xel7 [Tc Qc]
+*** PRE-FLOP *** 
+P1xel7 folds
+JEFFCLEM80 folds
+MF_ninety folds
+aldebert91 folds
+foquejegagne folds
+MoAwH collected 11100 from pot
+*** SUMMARY ***
+Total pot 11100 | No rake
+Seat 7: MoAwH (big blind) won 11100
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3217574629539315713-119-1709066998 - Holdem no limit (600/2500/5000) - 2024/02/27 20:49:58 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #5 is the button
+Seat 1: JEFFCLEM80 (90300)
+Seat 2: MF_ninety (98480)
+Seat 4: aldebert91 (158594)
+Seat 5: foquejegagne (142658)
+Seat 7: MoAwH (85026)
+Seat 8: P1xel7 (56550)
+*** ANTE/BLINDS ***
+MoAwH posts ante 600
+P1xel7 posts ante 600
+JEFFCLEM80 posts ante 600
+MF_ninety posts ante 600
+aldebert91 posts ante 600
+foquejegagne posts ante 600
+MoAwH posts small blind 2500
+P1xel7 posts big blind 5000
+Dealt to P1xel7 [3c Jc]
+*** PRE-FLOP *** 
+JEFFCLEM80 folds
+MF_ninety folds
+aldebert91 folds
+foquejegagne raises 5000 to 10000
+MoAwH folds
+P1xel7 calls 5000
+*** FLOP *** [9c Ad 8d]
+P1xel7 checks
+foquejegagne checks
+*** TURN *** [9c Ad 8d][4s]
+P1xel7 checks
+foquejegagne bets 13050
+P1xel7 folds
+foquejegagne collected 39150 from pot
+*** SUMMARY ***
+Total pot 39150 | No rake
+Board: [9c Ad 8d 4s]
+Seat 5: foquejegagne (button) won 39150
+
+
+Winamax Poker - Tournament "Hold'em" buyIn: 0.45€ + 0.05€ level: 19 - HandId: #3217574629539315713-120-1709067071 - Holdem no limit (600/2500/5000) - 2024/02/27 20:51:11 UTC
+Table: 'Hold'em(749149972)#000' 8-max (real money) Seat #7 is the button
+Seat 1: JEFFCLEM80 (89700)
+Seat 2: MF_ninety (97880)
+Seat 4: aldebert91 (157994)
+Seat 5: foquejegagne (158158)
+Seat 7: MoAwH (81926)
+Seat 8: P1xel7 (45950)
+*** ANTE/BLINDS ***
+P1xel7 posts ante 600
+JEFFCLEM80 posts ante 600
+MF_ninety posts ante 600
+aldebert91 posts ante 600
+foquejegagne posts ante 600
+MoAwH posts ante 600
+P1xel7 posts small blind 2500
+JEFFCLEM80 posts big blind 5000
+Dealt to P1xel7 [9c Ad]
+*** PRE-FLOP *** 
+MF_ninety folds
+aldebert91 folds
+foquejegagne raises 5000 to 10000
+MoAwH folds
+P1xel7 raises 35350 to 45350 and is all-in
+JEFFCLEM80 folds
+foquejegagne calls 35350
+*** FLOP *** [2d 8h 2s]
+*** TURN *** [2d 8h 2s][Ks]
+*** RIVER *** [2d 8h 2s Ks][4d]
+*** SHOW DOWN ***
+P1xel7 shows [9c Ad] (One pair : 2)
+foquejegagne shows [6s 6d] (Two pairs : 6 and 2)
+foquejegagne collected 99300 from pot
+*** SUMMARY ***
+Total pot 99300 | No rake
+Board: [2d 8h 2s Ks 4d]
+Seat 5: foquejegagne showed [6s 6d] and won 99300 with Two pairs : 6 and 2
+Seat 8: P1xel7 (small blind) showed [9c Ad] and lost with One pair : 2
+
+

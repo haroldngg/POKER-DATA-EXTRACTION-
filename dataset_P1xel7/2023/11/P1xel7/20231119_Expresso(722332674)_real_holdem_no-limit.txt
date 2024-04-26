@@ -1,0 +1,311 @@
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #3102395211662229505-1-1700422435 - Holdem no limit (10/20) - 2023/11/19 19:33:55 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pierre.05 (500)
+Seat 2: P1xel7 (500)
+Seat 3: littlestone1 (500)
+*** ANTE/BLINDS ***
+Pierre.05 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [6c 3c]
+*** PRE-FLOP *** 
+littlestone1 calls 20
+Pierre.05 calls 10
+P1xel7 checks
+*** FLOP *** [Kd As 5h]
+Pierre.05 checks
+P1xel7 checks
+littlestone1 checks
+*** TURN *** [Kd As 5h][Ts]
+Pierre.05 checks
+P1xel7 checks
+littlestone1 checks
+*** RIVER *** [Kd As 5h Ts][Jc]
+Pierre.05 checks
+P1xel7 checks
+littlestone1 checks
+*** SHOW DOWN ***
+Pierre.05 shows [9c 3d] (High card : Ace)
+P1xel7 shows [6c 3c] (High card : Ace)
+littlestone1 shows [Js 8h] (One pair : Jacks)
+littlestone1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Board: [Kd As 5h Ts Jc]
+Seat 1: Pierre.05 (small blind) showed [9c 3d] and lost with High card : Ace
+Seat 2: P1xel7 (big blind) showed [6c 3c] and lost with High card : Ace
+Seat 3: littlestone1 (button) showed [Js 8h] and won 60 with One pair : Jacks
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #3102395211662229505-2-1700422459 - Holdem no limit (10/20) - 2023/11/19 19:34:19 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pierre.05 (480)
+Seat 2: P1xel7 (480)
+Seat 3: littlestone1 (540)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+littlestone1 posts big blind 20
+Dealt to P1xel7 [2c Kd]
+*** PRE-FLOP *** 
+Pierre.05 folds
+P1xel7 folds
+littlestone1 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | No rake
+Seat 3: littlestone1 (big blind) won 30
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #3102395211662229505-3-1700422465 - Holdem no limit (10/20) - 2023/11/19 19:34:25 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pierre.05 (480)
+Seat 2: P1xel7 (470)
+Seat 3: littlestone1 (550)
+*** ANTE/BLINDS ***
+littlestone1 posts small blind 10
+Pierre.05 posts big blind 20
+Dealt to P1xel7 [Ad Tc]
+*** PRE-FLOP *** 
+P1xel7 raises 40 to 60
+littlestone1 folds
+Pierre.05 folds
+P1xel7 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Seat 2: P1xel7 (button) won 90
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #3102395211662229505-4-1700422472 - Holdem no limit (10/20) - 2023/11/19 19:34:32 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pierre.05 (460)
+Seat 2: P1xel7 (500)
+Seat 3: littlestone1 (540)
+*** ANTE/BLINDS ***
+Pierre.05 posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [5c 8c]
+*** PRE-FLOP *** 
+littlestone1 calls 20
+Pierre.05 calls 10
+P1xel7 checks
+*** FLOP *** [2d Jd 2s]
+Pierre.05 checks
+P1xel7 checks
+littlestone1 checks
+*** TURN *** [2d Jd 2s][Kh]
+Pierre.05 checks
+P1xel7 bets 21
+littlestone1 calls 21
+Pierre.05 folds
+*** RIVER *** [2d Jd 2s Kh][3c]
+P1xel7 checks
+littlestone1 checks
+*** SHOW DOWN ***
+P1xel7 shows [5c 8c] (One pair : 2)
+littlestone1 shows [5h Ks] (Two pairs : Kings and 2)
+littlestone1 collected 102 from pot
+*** SUMMARY ***
+Total pot 102 | No rake
+Board: [2d Jd 2s Kh 3c]
+Seat 2: P1xel7 (big blind) showed [5c 8c] and lost with One pair : 2
+Seat 3: littlestone1 (button) showed [5h Ks] and won 102 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 1 - HandId: #3102395211662229505-5-1700422496 - Holdem no limit (10/20) - 2023/11/19 19:34:56 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pierre.05 (440)
+Seat 2: P1xel7 (459)
+Seat 3: littlestone1 (601)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+littlestone1 posts big blind 20
+Dealt to P1xel7 [6h Ah]
+*** PRE-FLOP *** 
+Pierre.05 raises 20 to 40
+P1xel7 raises 60 to 100
+littlestone1 folds
+Pierre.05 calls 60
+*** FLOP *** [8c Kh Ad]
+P1xel7 bets 110
+Pierre.05 calls 110
+*** TURN *** [8c Kh Ad][Tc]
+P1xel7 bets 220
+Pierre.05 calls 220
+*** RIVER *** [8c Kh Ad Tc][Qc]
+P1xel7 bets 20
+Pierre.05 calls 10 and is all-in
+*** SHOW DOWN ***
+Pierre.05 shows [Qh Kc] (Two pairs : Kings and Queens)
+P1xel7 shows [6h Ah] (One pair : Aces)
+P1xel7 collected 10 from side pot 1
+Pierre.05 collected 900 from main pot
+*** SUMMARY ***
+Total pot 910 | No rake
+Board: [8c Kh Ad Tc Qc]
+Seat 1: Pierre.05 (button) showed [Qh Kc] and won 900 with Two pairs : Kings and Queens
+Seat 2: P1xel7 (small blind) showed [6h Ah] and won 10 with One pair : Aces
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #3102395211662229505-6-1700422528 - Holdem no limit (15/30) - 2023/11/19 19:35:28 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pierre.05 (900)
+Seat 2: P1xel7 (19)
+Seat 3: littlestone1 (581)
+*** ANTE/BLINDS ***
+littlestone1 posts small blind 15
+Pierre.05 posts big blind 30
+Dealt to P1xel7 [5d Jc]
+*** PRE-FLOP *** 
+P1xel7 calls 19 and is all-in
+littlestone1 folds
+*** FLOP *** [6h 3d 5s]
+*** TURN *** [6h 3d 5s][Js]
+*** RIVER *** [6h 3d 5s Js][2d]
+*** SHOW DOWN ***
+Pierre.05 shows [9d Ah] (High card : Ace)
+P1xel7 shows [5d Jc] (Two pairs : Jacks and 5)
+P1xel7 collected 53 from main pot
+Pierre.05 collected 11 from side pot 1
+*** SUMMARY ***
+Total pot 64 | No rake
+Board: [6h 3d 5s Js 2d]
+Seat 1: Pierre.05 (big blind) showed [9d Ah] and won 11 with High card : Ace
+Seat 2: P1xel7 (button) showed [5d Jc] and won 53 with Two pairs : Jacks and 5
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #3102395211662229505-7-1700422539 - Holdem no limit (15/30) - 2023/11/19 19:35:39 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pierre.05 (881)
+Seat 2: P1xel7 (53)
+Seat 3: littlestone1 (566)
+*** ANTE/BLINDS ***
+Pierre.05 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [3d 2d]
+*** PRE-FLOP *** 
+littlestone1 folds
+Pierre.05 folds
+P1xel7 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 2: P1xel7 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #3102395211662229505-8-1700422545 - Holdem no limit (15/30) - 2023/11/19 19:35:45 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pierre.05 (866)
+Seat 2: P1xel7 (68)
+Seat 3: littlestone1 (566)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+littlestone1 posts big blind 30
+Dealt to P1xel7 [Js 5s]
+*** PRE-FLOP *** 
+Pierre.05 calls 30
+P1xel7 folds
+littlestone1 checks
+*** FLOP *** [3c 6s As]
+littlestone1 checks
+Pierre.05 checks
+*** TURN *** [3c 6s As][7s]
+littlestone1 bets 49
+Pierre.05 calls 49
+*** RIVER *** [3c 6s As 7s][3h]
+littlestone1 bets 112
+Pierre.05 folds
+littlestone1 collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | No rake
+Board: [3c 6s As 7s 3h]
+Seat 3: littlestone1 (big blind) won 285
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #3102395211662229505-9-1700422559 - Holdem no limit (15/30) - 2023/11/19 19:35:59 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pierre.05 (787)
+Seat 2: P1xel7 (53)
+Seat 3: littlestone1 (660)
+*** ANTE/BLINDS ***
+littlestone1 posts small blind 15
+Pierre.05 posts big blind 30
+Dealt to P1xel7 [5d 2c]
+*** PRE-FLOP *** 
+P1xel7 folds
+littlestone1 folds
+Pierre.05 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 1: Pierre.05 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #3102395211662229505-10-1700422564 - Holdem no limit (15/30) - 2023/11/19 19:36:04 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #3 is the button
+Seat 1: Pierre.05 (802)
+Seat 2: P1xel7 (53)
+Seat 3: littlestone1 (645)
+*** ANTE/BLINDS ***
+Pierre.05 posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [Jd Th]
+*** PRE-FLOP *** 
+littlestone1 folds
+Pierre.05 calls 15
+P1xel7 raises 23 to 53 and is all-in
+Pierre.05 calls 23
+*** FLOP *** [Js Jh Ac]
+*** TURN *** [Js Jh Ac][Tc]
+*** RIVER *** [Js Jh Ac Tc][Kd]
+*** SHOW DOWN ***
+Pierre.05 shows [8s Td] (Two pairs : Jacks and Tens)
+P1xel7 shows [Jd Th] (Full of Jacks and Tens)
+P1xel7 collected 106 from pot
+*** SUMMARY ***
+Total pot 106 | No rake
+Board: [Js Jh Ac Tc Kd]
+Seat 1: Pierre.05 (small blind) showed [8s Td] and lost with Two pairs : Jacks and Tens
+Seat 2: P1xel7 (big blind) showed [Jd Th] and won 106 with Full of Jacks and Tens
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #3102395211662229505-11-1700422578 - Holdem no limit (15/30) - 2023/11/19 19:36:18 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #1 is the button
+Seat 1: Pierre.05 (749)
+Seat 2: P1xel7 (106)
+Seat 3: littlestone1 (645)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+littlestone1 posts big blind 30
+Dealt to P1xel7 [9c 4h]
+*** PRE-FLOP *** 
+Pierre.05 folds
+P1xel7 folds
+littlestone1 collected 45 from pot
+*** SUMMARY ***
+Total pot 45 | No rake
+Seat 3: littlestone1 (big blind) won 45
+
+
+Winamax Poker - Tournament "Expresso" buyIn: 0.46€ + 0.04€ level: 2 - HandId: #3102395211662229505-12-1700422583 - Holdem no limit (15/30) - 2023/11/19 19:36:23 UTC
+Table: 'Expresso(722332674)#0' 3-max (real money) Seat #2 is the button
+Seat 1: Pierre.05 (749)
+Seat 2: P1xel7 (91)
+Seat 3: littlestone1 (660)
+*** ANTE/BLINDS ***
+littlestone1 posts small blind 15
+Pierre.05 posts big blind 30
+Dealt to P1xel7 [Jd Th]
+*** PRE-FLOP *** 
+P1xel7 raises 61 to 91 and is all-in
+littlestone1 folds
+Pierre.05 calls 61
+*** FLOP *** [5c 7s 6s]
+*** TURN *** [5c 7s 6s][2s]
+*** RIVER *** [5c 7s 6s 2s][5s]
+*** SHOW DOWN ***
+P1xel7 shows [Jd Th] (One pair : 5)
+Pierre.05 shows [Kh 7h] (Two pairs : 7 and 5)
+Pierre.05 collected 197 from pot
+*** SUMMARY ***
+Total pot 197 | No rake
+Board: [5c 7s 6s 2s 5s]
+Seat 1: Pierre.05 (big blind) showed [Kh 7h] and won 197 with Two pairs : 7 and 5
+Seat 2: P1xel7 (button) showed [Jd Th] and lost with One pair : 5
+
+

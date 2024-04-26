@@ -1,0 +1,529 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3142766697358819329-1-1702581160 - Holdem no limit (10/20) - 2023/12/14 19:12:40 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Banned6Years (500)
+Seat 2: Laly8888 (500)
+Seat 3: B2noit (500)
+Seat 4: nAAncy54 (500)
+Seat 5: elpablo84 (500)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+Banned6Years posts small blind 10
+Laly8888 posts big blind 20
+Dealt to P1xel7 [Ac 3d]
+*** PRE-FLOP *** 
+B2noit folds
+nAAncy54 raises 480 to 500 and is all-in
+elpablo84 folds
+P1xel7 folds
+Banned6Years folds
+Laly8888 folds
+nAAncy54 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | No rake
+Seat 4: nAAncy54 won 530
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3142766697358819329-2-1702581187 - Holdem no limit (10/20) - 2023/12/14 19:13:07 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Banned6Years (490)
+Seat 2: Laly8888 (480)
+Seat 3: B2noit (500)
+Seat 4: nAAncy54 (530)
+Seat 5: elpablo84 (500)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+Laly8888 posts small blind 10
+B2noit posts big blind 20
+Dealt to P1xel7 [7s 4s]
+*** PRE-FLOP *** 
+nAAncy54 folds
+elpablo84 calls 20
+P1xel7 folds
+Banned6Years raises 470 to 490 and is all-in
+Laly8888 calls 470 and is all-in
+B2noit folds
+elpablo84 folds
+*** FLOP *** [9s 6d 2s]
+*** TURN *** [9s 6d 2s][9c]
+*** RIVER *** [9s 6d 2s 9c][Qc]
+*** SHOW DOWN ***
+Banned6Years shows [Ah 7h] (One pair : 9)
+Laly8888 shows [Qh 8d] (Two pairs : Queens and 9)
+Laly8888 collected 1000 from main pot
+Banned6Years collected 10 from side pot 1
+*** SUMMARY ***
+Total pot 1010 | No rake
+Board: [9s 6d 2s 9c Qc]
+Seat 1: Banned6Years (button) showed [Ah 7h] and won 10 with One pair : 9
+Seat 2: Laly8888 (small blind) showed [Qh 8d] and won 1000 with Two pairs : Queens and 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3142766697358819329-3-1702581227 - Holdem no limit (10/20) - 2023/12/14 19:13:47 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Banned6Years (10)
+Seat 2: Laly8888 (1000)
+Seat 3: B2noit (480)
+Seat 4: nAAncy54 (530)
+Seat 5: elpablo84 (480)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+B2noit posts small blind 10
+nAAncy54 posts big blind 20
+Dealt to P1xel7 [3c 4h]
+*** PRE-FLOP *** 
+elpablo84 folds
+P1xel7 folds
+Banned6Years calls 10 and is all-in
+Laly8888 calls 20
+B2noit folds
+nAAncy54 checks
+*** FLOP *** [5d 9d Qs]
+nAAncy54 checks
+Laly8888 checks
+*** TURN *** [5d 9d Qs][8d]
+nAAncy54 checks
+Laly8888 checks
+*** RIVER *** [5d 9d Qs 8d][Th]
+nAAncy54 bets 39
+Laly8888 raises 39 to 78
+nAAncy54 calls 39
+*** SHOW DOWN ***
+Banned6Years shows [8c Ac] (One pair : 8)
+nAAncy54 shows [Ts 6h] (One pair : Tens)
+Laly8888 shows [7h Jh] (Straight Queen high)
+Laly8888 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | No rake
+Board: [5d 9d Qs 8d Th]
+Seat 1: Banned6Years showed [8c Ac] and lost with One pair : 8
+Seat 2: Laly8888 (button) showed [7h Jh] and won 216 with Straight Queen high
+Seat 4: nAAncy54 (big blind) showed [Ts 6h] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3142766697358819329-4-1702581311 - Holdem no limit (15/30) - 2023/12/14 19:15:11 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Laly8888 (1118)
+Seat 3: B2noit (470)
+Seat 4: nAAncy54 (432)
+Seat 5: elpablo84 (480)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+nAAncy54 posts small blind 15
+elpablo84 posts big blind 30
+Dealt to P1xel7 [2c Qh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Laly8888 calls 30
+B2noit folds
+nAAncy54 calls 15
+elpablo84 checks
+*** FLOP *** [Kd 7s 3s]
+nAAncy54 bets 90
+elpablo84 folds
+Laly8888 calls 90
+*** TURN *** [Kd 7s 3s][9c]
+nAAncy54 bets 312 and is all-in
+Laly8888 folds
+nAAncy54 collected 582 from pot
+*** SUMMARY ***
+Total pot 582 | No rake
+Board: [Kd 7s 3s 9c]
+Seat 4: nAAncy54 (small blind) won 582
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3142766697358819329-5-1702581347 - Holdem no limit (20/40) - 2023/12/14 19:15:47 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #4 is the button
+Seat 2: Laly8888 (998)
+Seat 3: B2noit (470)
+Seat 4: nAAncy54 (582)
+Seat 5: elpablo84 (450)
+Seat 6: P1xel7 (500)
+*** ANTE/BLINDS ***
+elpablo84 posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [As Kd]
+*** PRE-FLOP *** 
+Laly8888 calls 40
+B2noit folds
+nAAncy54 raises 542 to 582 and is all-in
+elpablo84 folds
+P1xel7 calls 460 and is all-in
+Laly8888 calls 542
+*** FLOP *** [6d Qd Ad]
+*** TURN *** [6d Qd Ad][Tc]
+*** RIVER *** [6d Qd Ad Tc][Js]
+*** SHOW DOWN ***
+Laly8888 shows [Ah 3h] (One pair : Aces)
+nAAncy54 shows [4h Ac] (One pair : Aces)
+P1xel7 shows [As Kd] (Straight Ace high)
+P1xel7 collected 1520 from main pot
+nAAncy54 collected 82 from side pot 1
+Laly8888 collected 82 from side pot 1
+*** SUMMARY ***
+Total pot 1684 | No rake
+Board: [6d Qd Ad Tc Js]
+Seat 2: Laly8888 showed [Ah 3h] and won 82 with One pair : Aces
+Seat 4: nAAncy54 (button) showed [4h Ac] and won 82 with One pair : Aces
+Seat 6: P1xel7 (big blind) showed [As Kd] and won 1520 with Straight Ace high
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3142766697358819329-6-1702581368 - Holdem no limit (20/40) - 2023/12/14 19:16:08 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Laly8888 (498)
+Seat 3: B2noit (470)
+Seat 4: nAAncy54 (82)
+Seat 5: elpablo84 (430)
+Seat 6: P1xel7 (1520)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+Laly8888 posts big blind 40
+Dealt to P1xel7 [6c Js]
+*** PRE-FLOP *** 
+B2noit folds
+nAAncy54 raises 42 to 82 and is all-in
+elpablo84 folds
+P1xel7 folds
+Laly8888 calls 42
+*** FLOP *** [2c Kd Qs]
+*** TURN *** [2c Kd Qs][Qh]
+*** RIVER *** [2c Kd Qs Qh][9c]
+*** SHOW DOWN ***
+nAAncy54 shows [6d Ah] (One pair : Queens)
+Laly8888 shows [5d Kh] (Two pairs : Kings and Queens)
+Laly8888 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | No rake
+Board: [2c Kd Qs Qh 9c]
+Seat 2: Laly8888 (big blind) showed [5d Kh] and won 184 with Two pairs : Kings and Queens
+Seat 4: nAAncy54 showed [6d Ah] and lost with One pair : Queens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3142766697358819329-7-1702581391 - Holdem no limit (20/40) - 2023/12/14 19:16:31 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Laly8888 (600)
+Seat 3: B2noit (470)
+Seat 5: elpablo84 (430)
+Seat 6: P1xel7 (1500)
+*** ANTE/BLINDS ***
+Laly8888 posts small blind 20
+B2noit posts big blind 40
+Dealt to P1xel7 [7c Kh]
+*** PRE-FLOP *** 
+elpablo84 folds
+P1xel7 folds
+Laly8888 calls 20
+B2noit checks
+*** FLOP *** [Jd Qd 8s]
+Laly8888 checks
+B2noit checks
+*** TURN *** [Jd Qd 8s][Kc]
+Laly8888 checks
+B2noit bets 40
+Laly8888 raises 40 to 80
+B2noit calls 40
+*** RIVER *** [Jd Qd 8s Kc][8h]
+Laly8888 bets 156
+B2noit calls 156
+*** SHOW DOWN ***
+B2noit shows [Ts Jc] (Two pairs : Jacks and 8)
+Laly8888 shows [9s Th] (Straight King high)
+Laly8888 collected 552 from pot
+*** SUMMARY ***
+Total pot 552 | No rake
+Board: [Jd Qd 8s Kc 8h]
+Seat 2: Laly8888 (small blind) showed [9s Th] and won 552 with Straight King high
+Seat 3: B2noit (big blind) showed [Ts Jc] and lost with Two pairs : Jacks and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3142766697358819329-8-1702581477 - Holdem no limit (30/60) - 2023/12/14 19:17:57 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Laly8888 (876)
+Seat 3: B2noit (194)
+Seat 5: elpablo84 (430)
+Seat 6: P1xel7 (1500)
+*** ANTE/BLINDS ***
+B2noit posts small blind 30
+elpablo84 posts big blind 60
+Dealt to P1xel7 [Th Ts]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 180
+Laly8888 calls 180
+B2noit raises 14 to 194 and is all-in
+elpablo84 folds
+P1xel7 calls 14
+Laly8888 calls 14
+*** FLOP *** [9d 2c 2s]
+P1xel7 bets 720
+Laly8888 folds
+*** TURN *** [9d 2c 2s][3s]
+*** RIVER *** [9d 2c 2s 3s][2h]
+*** SHOW DOWN ***
+B2noit shows [7c 7s] (Full of 2 and 7)
+P1xel7 shows [Th Ts] (Full of 2 and Tens)
+P1xel7 collected 1362 from pot
+*** SUMMARY ***
+Total pot 1362 | No rake
+Board: [9d 2c 2s 3s 2h]
+Seat 3: B2noit (small blind) showed [7c 7s] and lost with Full of 2 and 7
+Seat 6: P1xel7 showed [Th Ts] and won 1362 with Full of 2 and Tens
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3142766697358819329-9-1702581522 - Holdem no limit (40/80) - 2023/12/14 19:18:42 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #3 is the button
+Seat 2: Laly8888 (682)
+Seat 5: elpablo84 (370)
+Seat 6: P1xel7 (1948)
+*** ANTE/BLINDS ***
+elpablo84 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Ah Qd]
+*** PRE-FLOP *** 
+Laly8888 calls 80
+elpablo84 calls 40
+P1xel7 raises 640 to 720
+Laly8888 folds
+elpablo84 folds
+P1xel7 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | No rake
+Seat 6: P1xel7 (big blind) won 880
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3142766697358819329-10-1702581540 - Holdem no limit (40/80) - 2023/12/14 19:19:00 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #5 is the button
+Seat 2: Laly8888 (602)
+Seat 5: elpablo84 (290)
+Seat 6: P1xel7 (2108)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+Laly8888 posts big blind 80
+Dealt to P1xel7 [Jc 8c]
+*** PRE-FLOP *** 
+elpablo84 raises 210 to 290 and is all-in
+P1xel7 folds
+Laly8888 calls 210
+*** FLOP *** [Jd 9d 8s]
+*** TURN *** [Jd 9d 8s][2h]
+*** RIVER *** [Jd 9d 8s 2h][9s]
+*** SHOW DOWN ***
+Laly8888 shows [7s 7c] (Two pairs : 9 and 7)
+elpablo84 shows [8h As] (Two pairs : 9 and 8)
+elpablo84 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | No rake
+Board: [Jd 9d 8s 2h 9s]
+Seat 2: Laly8888 (big blind) showed [7s 7c] and lost with Two pairs : 9 and 7
+Seat 5: elpablo84 (button) showed [8h As] and won 620 with Two pairs : 9 and 8
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3142766697358819329-11-1702581555 - Holdem no limit (40/80) - 2023/12/14 19:19:15 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #6 is the button
+Seat 2: Laly8888 (312)
+Seat 5: elpablo84 (620)
+Seat 6: P1xel7 (2068)
+*** ANTE/BLINDS ***
+Laly8888 posts small blind 40
+elpablo84 posts big blind 80
+Dealt to P1xel7 [Jh 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Laly8888 calls 40
+elpablo84 checks
+*** FLOP *** [2h 2d Qs]
+Laly8888 checks
+elpablo84 bets 104
+Laly8888 folds
+elpablo84 collected 264 from pot
+*** SUMMARY ***
+Total pot 264 | No rake
+Board: [2h 2d Qs]
+Seat 5: elpablo84 (big blind) won 264
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3142766697358819329-12-1702581568 - Holdem no limit (40/80) - 2023/12/14 19:19:28 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #2 is the button
+Seat 2: Laly8888 (232)
+Seat 5: elpablo84 (700)
+Seat 6: P1xel7 (2068)
+*** ANTE/BLINDS ***
+elpablo84 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Ad 2d]
+*** PRE-FLOP *** 
+Laly8888 calls 80
+elpablo84 folds
+P1xel7 raises 160 to 240
+Laly8888 calls 152 and is all-in
+*** FLOP *** [6s Ks 7c]
+*** TURN *** [6s Ks 7c][Qh]
+*** RIVER *** [6s Ks 7c Qh][Ac]
+*** SHOW DOWN ***
+Laly8888 shows [9s 8c] (High card : Ace)
+P1xel7 shows [Ad 2d] (One pair : Aces)
+P1xel7 collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | No rake
+Board: [6s Ks 7c Qh Ac]
+Seat 2: Laly8888 (button) showed [9s 8c] and lost with High card : Ace
+Seat 6: P1xel7 (big blind) showed [Ad 2d] and won 512 with One pair : Aces
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3142766697358819329-13-1702581585 - Holdem no limit (40/80) - 2023/12/14 19:19:45 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #6 is the button
+Seat 5: elpablo84 (660)
+Seat 6: P1xel7 (2340)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+elpablo84 posts big blind 80
+Dealt to P1xel7 [7s 3s]
+*** PRE-FLOP *** 
+P1xel7 folds
+elpablo84 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 5: elpablo84 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3142766697358819329-14-1702581590 - Holdem no limit (40/80) - 2023/12/14 19:19:50 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #5 is the button
+Seat 5: elpablo84 (700)
+Seat 6: P1xel7 (2300)
+*** ANTE/BLINDS ***
+elpablo84 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [6s 3d]
+*** PRE-FLOP *** 
+elpablo84 raises 620 to 700 and is all-in
+P1xel7 folds
+elpablo84 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 5: elpablo84 (small blind) (button) won 780
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3142766697358819329-15-1702581597 - Holdem no limit (40/80) - 2023/12/14 19:19:57 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #6 is the button
+Seat 5: elpablo84 (780)
+Seat 6: P1xel7 (2220)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+elpablo84 posts big blind 80
+Dealt to P1xel7 [4c 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+elpablo84 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 5: elpablo84 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3142766697358819329-16-1702581601 - Holdem no limit (40/80) - 2023/12/14 19:20:01 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #5 is the button
+Seat 5: elpablo84 (820)
+Seat 6: P1xel7 (2180)
+*** ANTE/BLINDS ***
+elpablo84 posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [8d 5s]
+*** PRE-FLOP *** 
+elpablo84 raises 740 to 820 and is all-in
+P1xel7 folds
+elpablo84 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 5: elpablo84 (small blind) (button) won 900
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3142766697358819329-17-1702581607 - Holdem no limit (40/80) - 2023/12/14 19:20:07 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #6 is the button
+Seat 5: elpablo84 (900)
+Seat 6: P1xel7 (2100)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+elpablo84 posts big blind 80
+Dealt to P1xel7 [Tc 7h]
+*** PRE-FLOP *** 
+P1xel7 raises 80 to 160
+elpablo84 raises 740 to 900 and is all-in
+P1xel7 folds
+elpablo84 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | No rake
+Seat 5: elpablo84 (big blind) won 1060
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3142766697358819329-18-1702581616 - Holdem no limit (60/120) - 2023/12/14 19:20:16 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #5 is the button
+Seat 5: elpablo84 (1060)
+Seat 6: P1xel7 (1940)
+*** ANTE/BLINDS ***
+elpablo84 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [6h Qh]
+*** PRE-FLOP *** 
+elpablo84 folds
+P1xel7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 6: P1xel7 (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3142766697358819329-19-1702581621 - Holdem no limit (60/120) - 2023/12/14 19:20:21 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #6 is the button
+Seat 5: elpablo84 (1000)
+Seat 6: P1xel7 (2000)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+elpablo84 posts big blind 120
+Dealt to P1xel7 [Kd Kh]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 240
+elpablo84 folds
+P1xel7 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Seat 6: P1xel7 (small blind) (button) won 360
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3142766697358819329-20-1702581628 - Holdem no limit (60/120) - 2023/12/14 19:20:28 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #5 is the button
+Seat 5: elpablo84 (880)
+Seat 6: P1xel7 (2120)
+*** ANTE/BLINDS ***
+elpablo84 posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [4h 8h]
+*** PRE-FLOP *** 
+elpablo84 raises 760 to 880 and is all-in
+P1xel7 folds
+elpablo84 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | No rake
+Seat 5: elpablo84 (small blind) (button) won 1000
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3142766697358819329-21-1702581635 - Holdem no limit (60/120) - 2023/12/14 19:20:35 UTC
+Table: 'Starting Block WiPT - Déglingos(731732393)#0' 6-max (real money) Seat #6 is the button
+Seat 5: elpablo84 (1000)
+Seat 6: P1xel7 (2000)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+elpablo84 posts big blind 120
+Dealt to P1xel7 [Ac 3s]
+*** PRE-FLOP *** 
+P1xel7 raises 1880 to 2000 and is all-in
+elpablo84 calls 880 and is all-in
+*** FLOP *** [Qc Jd Ah]
+*** TURN *** [Qc Jd Ah][4c]
+*** RIVER *** [Qc Jd Ah 4c][7s]
+*** SHOW DOWN ***
+elpablo84 shows [2s 8s] (High card : Ace)
+P1xel7 shows [Ac 3s] (One pair : Aces)
+P1xel7 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [Qc Jd Ah 4c 7s]
+Seat 5: elpablo84 (big blind) showed [2s 8s] and lost with High card : Ace
+Seat 6: P1xel7 (small blind) (button) showed [Ac 3s] and won 3000 with One pair : Aces
+
+

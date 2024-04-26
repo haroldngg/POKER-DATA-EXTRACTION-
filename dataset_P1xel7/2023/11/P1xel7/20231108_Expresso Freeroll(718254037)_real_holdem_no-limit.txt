@@ -1,0 +1,173 @@
+Winamax Poker - Tournament "Expresso Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084877599134973953-1-1699453837 - Holdem no limit (10/20) - 2023/11/08 14:30:37 UTC
+Table: 'Expresso Freeroll(718254037)#0' 3-max (real money) Seat #2 is the button
+Seat 1: jimmyjv (500)
+Seat 2: waharannais (500)
+Seat 3: P1xel7 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+jimmyjv posts big blind 20
+Dealt to P1xel7 [3c 5d]
+*** PRE-FLOP *** 
+waharannais calls 20
+P1xel7 folds
+jimmyjv raises 20 to 40
+waharannais calls 20
+*** FLOP *** [9s Ad 8h]
+jimmyjv checks
+waharannais checks
+*** TURN *** [9s Ad 8h][4s]
+jimmyjv checks
+waharannais checks
+*** RIVER *** [9s Ad 8h 4s][Ts]
+jimmyjv checks
+waharannais checks
+*** SHOW DOWN ***
+jimmyjv shows [Qh 6h] (High card : Ace)
+waharannais shows [Qd 4c] (One pair : 4)
+waharannais collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | No rake
+Board: [9s Ad 8h 4s Ts]
+Seat 1: jimmyjv (big blind) showed [Qh 6h] and lost with High card : Ace
+Seat 2: waharannais (button) showed [Qd 4c] and won 90 with One pair : 4
+
+
+Winamax Poker - Tournament "Expresso Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084877599134973953-2-1699453862 - Holdem no limit (10/20) - 2023/11/08 14:31:02 UTC
+Table: 'Expresso Freeroll(718254037)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jimmyjv (460)
+Seat 2: waharannais (550)
+Seat 3: P1xel7 (490)
+*** ANTE/BLINDS ***
+jimmyjv posts small blind 10
+waharannais posts big blind 20
+Dealt to P1xel7 [Qh 7c]
+*** PRE-FLOP *** 
+P1xel7 raises 30 to 50
+jimmyjv folds
+waharannais calls 30
+*** FLOP *** [6s Kc Jc]
+waharannais checks
+P1xel7 bets 55
+waharannais folds
+P1xel7 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | No rake
+Board: [6s Kc Jc]
+Seat 3: P1xel7 (button) won 165
+
+
+Winamax Poker - Tournament "Expresso Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084877599134973953-3-1699453880 - Holdem no limit (10/20) - 2023/11/08 14:31:20 UTC
+Table: 'Expresso Freeroll(718254037)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jimmyjv (450)
+Seat 2: waharannais (500)
+Seat 3: P1xel7 (550)
+*** ANTE/BLINDS ***
+waharannais posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [7d 9h]
+*** PRE-FLOP *** 
+jimmyjv calls 20
+waharannais calls 10
+P1xel7 checks
+*** FLOP *** [9c 7h Kc]
+waharannais bets 60
+P1xel7 calls 60
+jimmyjv calls 60
+*** TURN *** [9c 7h Kc][5h]
+waharannais bets 420 and is all-in
+P1xel7 calls 420
+jimmyjv folds
+*** RIVER *** [9c 7h Kc 5h][Ad]
+*** SHOW DOWN ***
+waharannais shows [Kd Jd] (One pair : Kings)
+P1xel7 shows [7d 9h] (Two pairs : 9 and 7)
+P1xel7 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | No rake
+Board: [9c 7h Kc 5h Ad]
+Seat 2: waharannais (small blind) showed [Kd Jd] and lost with One pair : Kings
+Seat 3: P1xel7 (big blind) showed [7d 9h] and won 1080 with Two pairs : 9 and 7
+
+
+Winamax Poker - Tournament "Expresso Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084877599134973953-4-1699453905 - Holdem no limit (10/20) - 2023/11/08 14:31:45 UTC
+Table: 'Expresso Freeroll(718254037)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jimmyjv (370)
+Seat 3: P1xel7 (1130)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+jimmyjv posts big blind 20
+Dealt to P1xel7 [Jh Th]
+*** PRE-FLOP *** 
+P1xel7 raises 30 to 50
+jimmyjv folds
+P1xel7 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | No rake
+Seat 3: P1xel7 (small blind) (button) won 70
+
+
+Winamax Poker - Tournament "Expresso Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084877599134973953-5-1699453911 - Holdem no limit (10/20) - 2023/11/08 14:31:51 UTC
+Table: 'Expresso Freeroll(718254037)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jimmyjv (350)
+Seat 3: P1xel7 (1150)
+*** ANTE/BLINDS ***
+jimmyjv posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8s 3c]
+*** PRE-FLOP *** 
+jimmyjv calls 10
+P1xel7 raises 25 to 45
+jimmyjv calls 25
+*** FLOP *** [2c 7s 3s]
+P1xel7 bets 32
+jimmyjv folds
+P1xel7 collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | No rake
+Board: [2c 7s 3s]
+Seat 3: P1xel7 (big blind) won 122
+
+
+Winamax Poker - Tournament "Expresso Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #3084877599134973953-6-1699453923 - Holdem no limit (10/20) - 2023/11/08 14:32:03 UTC
+Table: 'Expresso Freeroll(718254037)#0' 3-max (real money) Seat #3 is the button
+Seat 1: jimmyjv (305)
+Seat 3: P1xel7 (1195)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+jimmyjv posts big blind 20
+Dealt to P1xel7 [Jc Qs]
+*** PRE-FLOP *** 
+P1xel7 raises 25 to 45
+jimmyjv folds
+P1xel7 collected 65 from pot
+*** SUMMARY ***
+Total pot 65 | No rake
+Seat 3: P1xel7 (small blind) (button) won 65
+
+
+Winamax Poker - Tournament "Expresso Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #3084877599134973953-7-1699453929 - Holdem no limit (15/30) - 2023/11/08 14:32:09 UTC
+Table: 'Expresso Freeroll(718254037)#0' 3-max (real money) Seat #1 is the button
+Seat 1: jimmyjv (285)
+Seat 3: P1xel7 (1215)
+*** ANTE/BLINDS ***
+jimmyjv posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [3h As]
+*** PRE-FLOP *** 
+jimmyjv raises 30 to 60
+P1xel7 raises 1155 to 1215 and is all-in
+jimmyjv calls 225 and is all-in
+*** FLOP *** [6h 7c Ac]
+*** TURN *** [6h 7c Ac][3c]
+*** RIVER *** [6h 7c Ac 3c][4d]
+*** SHOW DOWN ***
+jimmyjv shows [Jd Qd] (High card : Ace)
+P1xel7 shows [3h As] (Two pairs : Aces and 3)
+P1xel7 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [6h 7c Ac 3c 4d]
+Seat 1: jimmyjv (small blind) (button) showed [Jd Qd] and lost with High card : Ace
+Seat 3: P1xel7 (big blind) showed [3h As] and won 1500 with Two pairs : Aces and 3
+
+

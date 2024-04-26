@@ -1,0 +1,664 @@
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3260104151618551809-1-1708628826 - Holdem no limit (10/20) - 2024/02/22 19:07:06 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #2 is the button
+Seat 1: Goride (500)
+Seat 2: Alphonse85 (500)
+Seat 3: P1xel7 (500)
+Seat 4: KACIII (500)
+Seat 5: ceos95 (500)
+Seat 6: Tevzininho92 (500)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+KACIII posts big blind 20
+Dealt to P1xel7 [Qh 4h]
+*** PRE-FLOP *** 
+ceos95 raises 480 to 500 and is all-in
+Tevzininho92 folds
+Goride calls 500 and is all-in
+Alphonse85 calls 500 and is all-in
+P1xel7 folds
+KACIII folds
+*** FLOP *** [Kh 9h Js]
+*** TURN *** [Kh 9h Js][4d]
+*** RIVER *** [Kh 9h Js 4d][8h]
+*** SHOW DOWN ***
+Alphonse85 shows [5c Qd] (High card : King)
+ceos95 shows [Qs Ad] (High card : Ace)
+Goride shows [6c 6d] (One pair : 6)
+Goride collected 1530 from pot
+*** SUMMARY ***
+Total pot 1530 | No rake
+Board: [Kh 9h Js 4d 8h]
+Seat 1: Goride showed [6c 6d] and won 1530 with One pair : 6
+Seat 2: Alphonse85 (button) showed [5c Qd] and lost with High card : King
+Seat 5: ceos95 showed [Qs Ad] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3260104151618551809-2-1708628860 - Holdem no limit (10/20) - 2024/02/22 19:07:40 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (1530)
+Seat 3: P1xel7 (490)
+Seat 4: KACIII (480)
+Seat 6: Tevzininho92 (500)
+*** ANTE/BLINDS ***
+KACIII posts small blind 10
+Tevzininho92 posts big blind 20
+Dealt to P1xel7 [Kd 9s]
+*** PRE-FLOP *** 
+Goride raises 1510 to 1530 and is all-in
+P1xel7 folds
+KACIII folds
+Tevzininho92 folds
+Goride shows [6d 6s] (One pair : 6)
+Goride collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | No rake
+Seat 1: Goride showed [6d 6s] and won 1560 with One pair : 6
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3260104151618551809-3-1708628870 - Holdem no limit (10/20) - 2024/02/22 19:07:50 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Goride (1560)
+Seat 3: P1xel7 (490)
+Seat 4: KACIII (470)
+Seat 6: Tevzininho92 (480)
+*** ANTE/BLINDS ***
+Tevzininho92 posts small blind 10
+Goride posts big blind 20
+Dealt to P1xel7 [3c 4d]
+*** PRE-FLOP *** 
+P1xel7 folds
+KACIII folds
+Tevzininho92 raises 460 to 480 and is all-in
+Goride raises 1080 to 1560 and is all-in
+*** FLOP *** [Jc 2d 3s]
+*** TURN *** [Jc 2d 3s][7s]
+*** RIVER *** [Jc 2d 3s 7s][Ac]
+*** SHOW DOWN ***
+Goride shows [Ad Js] (Two pairs : Aces and Jacks)
+Tevzininho92 shows [3h 3d] (Trips of 3)
+Tevzininho92 collected 960 from main pot
+Goride collected 1080 from side pot 1
+*** SUMMARY ***
+Total pot 2040 | No rake
+Board: [Jc 2d 3s 7s Ac]
+Seat 1: Goride (big blind) showed [Ad Js] and won 1080 with Two pairs : Aces and Jacks
+Seat 6: Tevzininho92 (small blind) showed [3h 3d] and won 960 with Trips of 3
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3260104151618551809-4-1708628890 - Holdem no limit (10/20) - 2024/02/22 19:08:10 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #6 is the button
+Seat 1: Goride (1080)
+Seat 3: P1xel7 (490)
+Seat 4: KACIII (470)
+Seat 6: Tevzininho92 (960)
+*** ANTE/BLINDS ***
+Goride posts small blind 10
+P1xel7 posts big blind 20
+Dealt to P1xel7 [8s 5c]
+*** PRE-FLOP *** 
+KACIII folds
+Tevzininho92 folds
+Goride raises 1060 to 1080 and is all-in
+P1xel7 folds
+Goride collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | No rake
+Seat 1: Goride (small blind) won 1100
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 1 - HandId: #3260104151618551809-5-1708628901 - Holdem no limit (10/20) - 2024/02/22 19:08:21 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (1100)
+Seat 3: P1xel7 (470)
+Seat 4: KACIII (470)
+Seat 6: Tevzininho92 (960)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 10
+KACIII posts big blind 20
+Dealt to P1xel7 [Jd Td]
+*** PRE-FLOP *** 
+Tevzininho92 raises 940 to 960 and is all-in
+Goride raises 140 to 1100 and is all-in
+P1xel7 folds
+KACIII folds
+*** FLOP *** [6h Kd 9c]
+*** TURN *** [6h Kd 9c][Ts]
+*** RIVER *** [6h Kd 9c Ts][3h]
+*** SHOW DOWN ***
+Tevzininho92 shows [Ah Jh] (High card : Ace)
+Goride shows [Kc Tc] (Two pairs : Kings and Tens)
+Goride collected 2090 from pot
+*** SUMMARY ***
+Total pot 2090 | No rake
+Board: [6h Kd 9c Ts 3h]
+Seat 1: Goride (button) showed [Kc Tc] and won 2090 with Two pairs : Kings and Tens
+Seat 6: Tevzininho92 showed [Ah Jh] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3260104151618551809-6-1708628914 - Holdem no limit (15/30) - 2024/02/22 19:08:34 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (2090)
+Seat 3: P1xel7 (460)
+Seat 4: KACIII (450)
+*** ANTE/BLINDS ***
+KACIII posts small blind 15
+Goride posts big blind 30
+Dealt to P1xel7 [Ah 7s]
+*** PRE-FLOP *** 
+P1xel7 raises 38 to 68
+KACIII folds
+Goride calls 38
+*** FLOP *** [2s 5c 6d]
+Goride bets 30
+P1xel7 calls 30
+*** TURN *** [2s 5c 6d][9h]
+Goride bets 30
+P1xel7 raises 75 to 105
+Goride calls 75
+*** RIVER *** [2s 5c 6d 9h][2h]
+Goride bets 274
+P1xel7 folds
+Goride collected 695 from pot
+*** SUMMARY ***
+Total pot 695 | No rake
+Board: [2s 5c 6d 9h 2h]
+Seat 1: Goride (big blind) won 695
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3260104151618551809-7-1708628947 - Holdem no limit (15/30) - 2024/02/22 19:09:07 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Goride (2308)
+Seat 3: P1xel7 (257)
+Seat 4: KACIII (435)
+*** ANTE/BLINDS ***
+Goride posts small blind 15
+P1xel7 posts big blind 30
+Dealt to P1xel7 [7c 7h]
+*** PRE-FLOP *** 
+KACIII folds
+Goride calls 15
+P1xel7 raises 227 to 257 and is all-in
+Goride calls 227
+*** FLOP *** [8c Jd 8h]
+*** TURN *** [8c Jd 8h][6c]
+*** RIVER *** [8c Jd 8h 6c][3c]
+*** SHOW DOWN ***
+Goride shows [7d Tc] (One pair : 8)
+P1xel7 shows [7c 7h] (Two pairs : 8 and 7)
+P1xel7 collected 514 from pot
+*** SUMMARY ***
+Total pot 514 | No rake
+Board: [8c Jd 8h 6c 3c]
+Seat 1: Goride (small blind) showed [7d Tc] and lost with One pair : 8
+Seat 3: P1xel7 (big blind) showed [7c 7h] and won 514 with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3260104151618551809-8-1708628971 - Holdem no limit (15/30) - 2024/02/22 19:09:31 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (2051)
+Seat 3: P1xel7 (514)
+Seat 4: KACIII (435)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 15
+KACIII posts big blind 30
+Dealt to P1xel7 [7s Ts]
+*** PRE-FLOP *** 
+Goride raises 2021 to 2051 and is all-in
+P1xel7 folds
+KACIII folds
+Goride collected 2096 from pot
+*** SUMMARY ***
+Total pot 2096 | No rake
+Seat 1: Goride (button) won 2096
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 2 - HandId: #3260104151618551809-9-1708628981 - Holdem no limit (15/30) - 2024/02/22 19:09:41 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (2096)
+Seat 3: P1xel7 (499)
+Seat 4: KACIII (405)
+*** ANTE/BLINDS ***
+KACIII posts small blind 15
+Goride posts big blind 30
+Dealt to P1xel7 [3h Kc]
+*** PRE-FLOP *** 
+P1xel7 folds
+KACIII calls 15
+Goride checks
+*** FLOP *** [6h Tc Ac]
+KACIII checks
+Goride checks
+*** TURN *** [6h Tc Ac][5d]
+KACIII checks
+Goride bets 30
+KACIII calls 30
+*** RIVER *** [6h Tc Ac 5d][Kh]
+KACIII checks
+Goride bets 120
+KACIII folds
+Goride collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | No rake
+Board: [6h Tc Ac 5d Kh]
+Seat 1: Goride (big blind) won 240
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3260104151618551809-10-1708629015 - Holdem no limit (20/40) - 2024/02/22 19:10:15 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Goride (2156)
+Seat 3: P1xel7 (499)
+Seat 4: KACIII (345)
+*** ANTE/BLINDS ***
+Goride posts small blind 20
+P1xel7 posts big blind 40
+Dealt to P1xel7 [4d 4c]
+*** PRE-FLOP *** 
+KACIII calls 40
+Goride calls 20
+P1xel7 checks
+*** FLOP *** [Jc Th 4h]
+Goride checks
+P1xel7 bets 42
+KACIII calls 42
+Goride folds
+*** TURN *** [Jc Th 4h][3c]
+P1xel7 bets 71
+KACIII calls 71
+*** RIVER *** [Jc Th 4h 3c][Td]
+P1xel7 bets 346 and is all-in
+KACIII folds
+P1xel7 collected 692 from pot
+*** SUMMARY ***
+Total pot 692 | No rake
+Board: [Jc Th 4h 3c Td]
+Seat 3: P1xel7 (big blind) won 692
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3260104151618551809-11-1708629067 - Holdem no limit (20/40) - 2024/02/22 19:11:07 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (2116)
+Seat 3: P1xel7 (692)
+Seat 4: KACIII (192)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 20
+KACIII posts big blind 40
+Dealt to P1xel7 [8c 5s]
+*** PRE-FLOP *** 
+Goride raises 40 to 80
+P1xel7 folds
+KACIII folds
+Goride collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | No rake
+Seat 1: Goride (button) won 140
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 3 - HandId: #3260104151618551809-12-1708629083 - Holdem no limit (20/40) - 2024/02/22 19:11:23 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (2176)
+Seat 3: P1xel7 (672)
+Seat 4: KACIII (152)
+*** ANTE/BLINDS ***
+KACIII posts small blind 20
+Goride posts big blind 40
+Dealt to P1xel7 [Ad 2h]
+*** PRE-FLOP *** 
+P1xel7 raises 40 to 80
+KACIII folds
+Goride calls 40
+*** FLOP *** [9c 3c 5d]
+Goride bets 117
+P1xel7 calls 117
+*** TURN *** [9c 3c 5d][4h]
+Goride checks
+P1xel7 checks
+*** RIVER *** [9c 3c 5d 4h][Td]
+Goride bets 40
+P1xel7 raises 147 to 187
+Goride folds
+P1xel7 collected 641 from pot
+*** SUMMARY ***
+Total pot 641 | No rake
+Board: [9c 3c 5d 4h Td]
+Seat 3: P1xel7 (button) won 641
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3260104151618551809-13-1708629128 - Holdem no limit (30/60) - 2024/02/22 19:12:08 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #4 is the button
+Seat 1: Goride (1939)
+Seat 3: P1xel7 (929)
+Seat 4: KACIII (132)
+*** ANTE/BLINDS ***
+Goride posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [2d 4s]
+*** PRE-FLOP *** 
+KACIII raises 72 to 132 and is all-in
+Goride calls 102
+P1xel7 calls 72
+*** FLOP *** [8h 2c 9s]
+Goride bets 139
+P1xel7 calls 139
+*** TURN *** [8h 2c 9s][7c]
+Goride bets 236
+P1xel7 calls 236
+*** RIVER *** [8h 2c 9s 7c][Kc]
+Goride bets 745
+P1xel7 folds
+*** SHOW DOWN ***
+KACIII shows [Ts 9d] (One pair : 9)
+Goride shows [8c 8s] (Trips of 8)
+Goride collected 1891 from pot
+*** SUMMARY ***
+Total pot 1891 | No rake
+Board: [8h 2c 9s 7c Kc]
+Seat 1: Goride (small blind) showed [8c 8s] and won 1891 with Trips of 8
+Seat 4: KACIII (button) showed [Ts 9d] and lost with One pair : 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3260104151618551809-14-1708629160 - Holdem no limit (30/60) - 2024/02/22 19:12:40 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (2578)
+Seat 3: P1xel7 (422)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 30
+Goride posts big blind 60
+Dealt to P1xel7 [Js Qh]
+*** PRE-FLOP *** 
+P1xel7 raises 362 to 422 and is all-in
+Goride folds
+P1xel7 collected 482 from pot
+*** SUMMARY ***
+Total pot 482 | No rake
+Seat 3: P1xel7 (small blind) (button) won 482
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 4 - HandId: #3260104151618551809-15-1708629173 - Holdem no limit (30/60) - 2024/02/22 19:12:53 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (2518)
+Seat 3: P1xel7 (482)
+*** ANTE/BLINDS ***
+Goride posts small blind 30
+P1xel7 posts big blind 60
+Dealt to P1xel7 [Ad As]
+*** PRE-FLOP *** 
+Goride calls 30
+P1xel7 raises 90 to 150
+Goride raises 90 to 240
+P1xel7 raises 242 to 482 and is all-in
+Goride calls 242
+*** FLOP *** [Js Kh Jh]
+*** TURN *** [Js Kh Jh][7h]
+*** RIVER *** [Js Kh Jh 7h][2c]
+*** SHOW DOWN ***
+Goride shows [Qh 8c] (One pair : Jacks)
+P1xel7 shows [Ad As] (Two pairs : Aces and Jacks)
+P1xel7 collected 964 from pot
+*** SUMMARY ***
+Total pot 964 | No rake
+Board: [Js Kh Jh 7h 2c]
+Seat 1: Goride (small blind) (button) showed [Qh 8c] and lost with One pair : Jacks
+Seat 3: P1xel7 (big blind) showed [Ad As] and won 964 with Two pairs : Aces and Jacks
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3260104151618551809-16-1708629199 - Holdem no limit (40/80) - 2024/02/22 19:13:19 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (2036)
+Seat 3: P1xel7 (964)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+Goride posts big blind 80
+Dealt to P1xel7 [Jd 5h]
+*** PRE-FLOP *** 
+P1xel7 folds
+Goride collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Goride (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3260104151618551809-17-1708629205 - Holdem no limit (40/80) - 2024/02/22 19:13:25 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (2076)
+Seat 3: P1xel7 (924)
+*** ANTE/BLINDS ***
+Goride posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Ad Kh]
+*** PRE-FLOP *** 
+Goride raises 1996 to 2076 and is all-in
+P1xel7 calls 844 and is all-in
+*** FLOP *** [6h Ks Kd]
+*** TURN *** [6h Ks Kd][9h]
+*** RIVER *** [6h Ks Kd 9h][8s]
+*** SHOW DOWN ***
+Goride shows [Jh 5c] (One pair : Kings)
+P1xel7 shows [Ad Kh] (Trips of Kings)
+P1xel7 collected 1848 from main pot
+Goride collected 1152 from side pot 1
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [6h Ks Kd 9h 8s]
+Seat 1: Goride (small blind) (button) showed [Jh 5c] and won 1152 with One pair : Kings
+Seat 3: P1xel7 (big blind) showed [Ad Kh] and won 1848 with Trips of Kings
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3260104151618551809-18-1708629218 - Holdem no limit (40/80) - 2024/02/22 19:13:38 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (1152)
+Seat 3: P1xel7 (1848)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+Goride posts big blind 80
+Dealt to P1xel7 [7s Jh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Goride collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Goride (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3260104151618551809-19-1708629225 - Holdem no limit (40/80) - 2024/02/22 19:13:45 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (1192)
+Seat 3: P1xel7 (1808)
+*** ANTE/BLINDS ***
+Goride posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Tc Qd]
+*** PRE-FLOP *** 
+Goride raises 1112 to 1192 and is all-in
+P1xel7 folds
+Goride shows [9c 8d] (High card : 9)
+Goride collected 1272 from pot
+*** SUMMARY ***
+Total pot 1272 | No rake
+Seat 1: Goride (small blind) (button) showed [9c 8d] and won 1272 with High card : 9
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3260104151618551809-20-1708629234 - Holdem no limit (40/80) - 2024/02/22 19:13:54 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (1272)
+Seat 3: P1xel7 (1728)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+Goride posts big blind 80
+Dealt to P1xel7 [8c Kh]
+*** PRE-FLOP *** 
+P1xel7 folds
+Goride collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Goride (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3260104151618551809-21-1708629243 - Holdem no limit (40/80) - 2024/02/22 19:14:03 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (1312)
+Seat 3: P1xel7 (1688)
+*** ANTE/BLINDS ***
+Goride posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [7c 6c]
+*** PRE-FLOP *** 
+Goride raises 1232 to 1312 and is all-in
+P1xel7 folds
+Goride collected 1392 from pot
+*** SUMMARY ***
+Total pot 1392 | No rake
+Seat 1: Goride (small blind) (button) won 1392
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3260104151618551809-22-1708629254 - Holdem no limit (40/80) - 2024/02/22 19:14:14 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (1392)
+Seat 3: P1xel7 (1608)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+Goride posts big blind 80
+Dealt to P1xel7 [7c Ts]
+*** PRE-FLOP *** 
+P1xel7 folds
+Goride collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Goride (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3260104151618551809-23-1708629261 - Holdem no limit (40/80) - 2024/02/22 19:14:21 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (1432)
+Seat 3: P1xel7 (1568)
+*** ANTE/BLINDS ***
+Goride posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [Tc 9c]
+*** PRE-FLOP *** 
+Goride folds
+P1xel7 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: P1xel7 (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3260104151618551809-24-1708629265 - Holdem no limit (40/80) - 2024/02/22 19:14:25 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (1392)
+Seat 3: P1xel7 (1608)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 40
+Goride posts big blind 80
+Dealt to P1xel7 [4d 2s]
+*** PRE-FLOP *** 
+P1xel7 folds
+Goride collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 1: Goride (big blind) won 120
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 5 - HandId: #3260104151618551809-25-1708629271 - Holdem no limit (40/80) - 2024/02/22 19:14:31 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (1432)
+Seat 3: P1xel7 (1568)
+*** ANTE/BLINDS ***
+Goride posts small blind 40
+P1xel7 posts big blind 80
+Dealt to P1xel7 [8d 4h]
+*** PRE-FLOP *** 
+Goride calls 40
+P1xel7 checks
+*** FLOP *** [2d 5s Qh]
+P1xel7 checks
+Goride bets 1352 and is all-in
+P1xel7 folds
+Goride collected 1512 from pot
+*** SUMMARY ***
+Total pot 1512 | No rake
+Board: [2d 5s Qh]
+Seat 1: Goride (small blind) (button) won 1512
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3260104151618551809-26-1708629291 - Holdem no limit (60/120) - 2024/02/22 19:14:51 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (1512)
+Seat 3: P1xel7 (1488)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+Goride posts big blind 120
+Dealt to P1xel7 [9h Tc]
+*** PRE-FLOP *** 
+P1xel7 folds
+Goride collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 1: Goride (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3260104151618551809-27-1708629298 - Holdem no limit (60/120) - 2024/02/22 19:14:58 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (1572)
+Seat 3: P1xel7 (1428)
+*** ANTE/BLINDS ***
+Goride posts small blind 60
+P1xel7 posts big blind 120
+Dealt to P1xel7 [Th Qh]
+*** PRE-FLOP *** 
+Goride folds
+P1xel7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | No rake
+Seat 3: P1xel7 (big blind) won 180
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3260104151618551809-28-1708629302 - Holdem no limit (60/120) - 2024/02/22 19:15:02 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #3 is the button
+Seat 1: Goride (1512)
+Seat 3: P1xel7 (1488)
+*** ANTE/BLINDS ***
+P1xel7 posts small blind 60
+Goride posts big blind 120
+Dealt to P1xel7 [Qh Ks]
+*** PRE-FLOP *** 
+P1xel7 raises 120 to 240
+Goride raises 1272 to 1512 and is all-in
+P1xel7 calls 1248 and is all-in
+*** FLOP *** [4s 4h Js]
+*** TURN *** [4s 4h Js][6h]
+*** RIVER *** [4s 4h Js 6h][9d]
+*** SHOW DOWN ***
+Goride shows [Qc 3s] (One pair : 4)
+P1xel7 shows [Qh Ks] (One pair : 4)
+P1xel7 collected 2976 from main pot
+Goride collected 24 from side pot 1
+*** SUMMARY ***
+Total pot 3000 | No rake
+Board: [4s 4h Js 6h 9d]
+Seat 1: Goride (big blind) showed [Qc 3s] and won 24 with One pair : 4
+Seat 3: P1xel7 (small blind) (button) showed [Qh Ks] and won 2976 with One pair : 4
+
+
+Winamax Poker - Tournament "Starting Block WiPT - Déglingos" buyIn: 0€ + 0€ level: 6 - HandId: #3260104151618551809-29-1708629319 - Holdem no limit (60/120) - 2024/02/22 19:15:19 UTC
+Table: 'Starting Block WiPT - Déglingos(759052148)#0' 6-max (real money) Seat #1 is the button
+Seat 1: Goride (24)
+Seat 3: P1xel7 (2976)
+*** ANTE/BLINDS ***
+Goride posts small blind 24 and is all-in
+P1xel7 posts big blind 120
+Dealt to P1xel7 [2h As]
+*** PRE-FLOP *** 
+*** FLOP *** [3s 9h Ks]
+*** TURN *** [3s 9h Ks][Jd]
+*** RIVER *** [3s 9h Ks Jd][6c]
+*** SHOW DOWN ***
+Goride shows [5s 8c] (High card : King)
+P1xel7 shows [2h As] (High card : Ace)
+P1xel7 collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | No rake
+Board: [3s 9h Ks Jd 6c]
+Seat 1: Goride (small blind) (button) showed [5s 8c] and lost with High card : King
+Seat 3: P1xel7 (big blind) showed [2h As] and won 144 with High card : Ace
+
+
